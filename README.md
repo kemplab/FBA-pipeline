@@ -1,2 +1,2 @@
-# Flux-Balance-Analysis
-Pipeline for the generation of personalized FBA models for TCGA patients
+# FBA-pipeline
+Pipeline for the generation of personalized FBA models
