@@ -1,0 +1,1102 @@
+sample	sample_type_id	time_between_excision_and_freezing	oct_embedded	other_method_of_sample_procurement	intermediate_dimension	time_between_clamping_and_freezing	bcr_sample_uuid	biospecimen_sequence	tumor_descriptor	sample_type	pathology_report_file_name	current_weight	composition	is_ffpe	shortest_dimension	method_of_sample_procurement	vial_number	tissue_type	days_to_sample_procurement	freezing_method	pathology_report_uuid	preservation_method	days_to_collection	NCNNCT_OthMethONSP	bcr_sample_barcode	initial_weight	longest_dimension
+TCGA-B8-5162-01A	01				0.4		ea4852e3-f4e8-4069-9da0-ba2277767cec			Primary Tumor	TCGA-B8-5162.91654c64-ff5c-42d3-a5f1-76894b38ff20.pdf			NO	0.3		A				91654c64-ff5c-42d3-a5f1-76894b38ff20				TCGA-B8-5162-01A		1.2
+TCGA-BP-4159-11A	11				1		d7e52e92-db83-4bc0-a523-71bf30365eb0			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4159-11A		1.5
+TCGA-BP-4347-11A	11				0.7		c1d82680-c82f-4549-9d34-9760625446ff			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4347-11A		1.1
+TCGA-CZ-5469-01A	01				1.6		2c46a26a-3454-4966-ac59-af6e0a11d1e9			Primary Tumor	TCGA-CZ-5469.6fc67c3c-dd9b-4257-840e-6dba9e5831a6.pdf			NO	0.3		A				6fc67c3c-dd9b-4257-840e-6dba9e5831a6				TCGA-CZ-5469-01A		1.8
+TCGA-BP-4163-01A	01				0.8		e44de28c-bce0-471d-bd4c-bea710f7c3cc			Primary Tumor	TCGA-BP-4163.e50ab646-c56e-4a9f-b457-b9beb1d929c0.pdf			NO	0.4		A				e50ab646-c56e-4a9f-b457-b9beb1d929c0				TCGA-BP-4163-01A		1.5
+TCGA-BP-4769-11A	11				1.1		1862c403-8cae-429d-88db-61489de007a2			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4769-11A		2.1
+TCGA-CJ-4888-11A	11				0.9		c0dcf11a-51f5-4637-be23-a0781d18561e			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4888-11A		3.4
+TCGA-B0-5700-01A	01				1		269b3f7d-ecae-43e0-a836-45a9550d5b67			Primary Tumor	TCGA-B0-5700.1cb6a234-d680-4cb5-aa25-14f86d3170f9.pdf			NO	0.3		A				1cb6a234-d680-4cb5-aa25-14f86d3170f9				TCGA-B0-5700-01A		1.7
+TCGA-BP-4325-11A	11				1.2		f94bb39f-6f8e-4adf-aabe-1139ddaafbcb			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4325-11A		1.4
+TCGA-BP-4177-11A	11				0.6		78360b99-5711-4920-968c-c29518cfe28b			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4177-11A		1.5
+TCGA-B8-4622-10A	10						22ef0d4d-b5c7-47a6-afed-c4fd141f7705			Blood Derived Normal				NO			A								TCGA-B8-4622-10A		
+TCGA-B0-4696-01A	01				1.1		9e30a07a-f227-4b6a-9c80-619abed6f7bd			Primary Tumor	TCGA-B0-4696.79cc1dcf-7796-4d7d-a16b-062b2fd872b6.pdf			NO	0.5		A				79cc1dcf-7796-4d7d-a16b-062b2fd872b6				TCGA-B0-4696-01A		2.5
+TCGA-B8-4621-01A	01				0.9		242a72ad-5968-4bbf-936d-75b398a61b96			Primary Tumor	TCGA-B8-4621.0713c86b-dfac-4608-8dad-6007047856e3.pdf			NO	0.2		A				0713c86b-dfac-4608-8dad-6007047856e3				TCGA-B8-4621-01A		1.1
+TCGA-BP-5187-11A	11				1.1		de0a6abe-958d-4241-8292-d1b9b6b2b0a7			Solid Tissue Normal				NO	0.3		A								TCGA-BP-5187-11A		1.7
+TCGA-B2-5636-01A	01				0.6		cb1c5a54-59e6-4ab3-b4d8-062c29953a1a			Primary Tumor	TCGA-B2-5636.16f12096-8c16-4386-af76-cc3cb2c2d4e0.pdf			NO	0.4		A				16f12096-8c16-4386-af76-cc3cb2c2d4e0				TCGA-B2-5636-01A		1.3
+TCGA-A3-A6NL-10A	10		false				F9D2EF9B-CB70-4A03-B6F8-49A5B5C672D4			Blood Derived Normal				NO			A						416		TCGA-A3-A6NL-10A		
+TCGA-BP-4762-01A	01				0.8		daa4e4ff-d483-430a-a218-896bd9237456			Primary Tumor	TCGA-BP-4762.31fbdbd3-be32-4b5b-bf96-af030f26684d.pdf			NO	0.2		A				31fbdbd3-be32-4b5b-bf96-af030f26684d				TCGA-BP-4762-01A		1.4
+TCGA-B0-5711-11A	11				1		e505702e-87d7-467a-a2af-58c92b036a7c			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5711-11A		1.1
+TCGA-A3-3328-11A	11				0.7		e56d5869-e0c9-4f21-a5ec-531728e68ad3			Solid Tissue Normal				NO	0.3		A								TCGA-A3-3328-11A		1.8
+TCGA-A3-A6NL-01A	01		false				26E141AB-C1C3-4B69-A920-F34256849E48			Primary Tumor	TCGA-A3-A6NL.50DE211D-4204-4128-8F94-794425A99D99.pdf			NO			A				50DE211D-4204-4128-8F94-794425A99D99		416		TCGA-A3-A6NL-01A	80	
+TCGA-CJ-4901-11A	11				0.9		2b430c9e-74a7-45d7-b85f-34a753a9eb05			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4901-11A		3.2
+TCGA-B0-5097-01A	01				1.8		03c0cd25-a1d1-451f-be41-3acd22b15d62			Primary Tumor	TCGA-B0-5097.35bfe92b-71c8-4375-8fca-67cd15a17baf.pdf			NO	0.3		A				35bfe92b-71c8-4375-8fca-67cd15a17baf				TCGA-B0-5097-01A		1.9
+TCGA-BP-4985-11A	11				1.1		2db2e383-816d-4bc9-95cf-5f25bfa7f1a2			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4985-11A		1.8
+TCGA-BP-4341-11A	11				1.5		ab643407-22f7-4c89-84b3-b66d525eec6f			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4341-11A		1.8
+TCGA-G6-A8L6-10A	10		false				CDDBC1C0-B10F-4410-8C77-E85696573267			Blood Derived Normal				NO			A						240		TCGA-G6-A8L6-10A		
+TCGA-CZ-5451-11A	11				0.8		5ab6f1f6-932b-4577-ab08-e3fa36ef5d1e			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-5451-11A		1.5
+TCGA-AK-3436-10A	10						bf846c54-4ea2-4630-ace4-86bf0f7b72a5			Blood Derived Normal				NO			A								TCGA-AK-3436-10A		
+TCGA-CZ-5985-01A	01				1		4eb18580-30af-4c32-bb5b-1a8c87280212			Primary Tumor	TCGA-CZ-5985.ab7974af-c359-4a8b-8669-84d5d07c3a46.pdf			NO	0.2		A				ab7974af-c359-4a8b-8669-84d5d07c3a46				TCGA-CZ-5985-01A		1.8
+TCGA-B2-4102-01A	01				0.9		0a187e9e-fae3-4b9f-b6ed-23cf0ffcb39e			Primary Tumor	TCGA-B2-4102.faa2c9cb-db1b-4e15-8b19-b0178cc89f04.pdf			NO	0.7		A				faa2c9cb-db1b-4e15-8b19-b0178cc89f04				TCGA-B2-4102-01A		1.7
+TCGA-BP-4799-11A	11				1		1c1d65f0-2046-4dde-bac0-f5cc1c33412a			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4799-11A		1
+TCGA-DV-A4W0-05A	05		true				08A6A045-6B58-40D2-AE0D-E0AAF7779985			Additional - New Primary	TCGA-DV-A4W0.16189FB1-65EF-49AF-A8DD-7E0BA7CF7228.pdf			NO			A				16189FB1-65EF-49AF-A8DD-7E0BA7CF7228		1681		TCGA-DV-A4W0-05A	160	
+TCGA-BP-4977-01A	01				1.3		35c747c0-38bb-4d2e-a428-8e24106adfab			Primary Tumor	TCGA-BP-4977.34a3c089-4e82-48a9-9641-74927a3cccb4.pdf			NO	0.3		A				34a3c089-4e82-48a9-9641-74927a3cccb4				TCGA-BP-4977-01A		1.5
+TCGA-BP-4807-11A	11				1.3		6a8ad307-fada-432d-a223-8d9780c4eccc			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4807-11A		1.8
+TCGA-DV-A4W0-10A	10		false				B7C6CC54-4A5A-4977-A6A8-72E04E3DEFDA			Blood Derived Normal				NO			A						1681		TCGA-DV-A4W0-10A		
+TCGA-B2-3923-01A	01				0.9		5e3b35c6-0ab5-4e1b-bc38-38760287ac72			Primary Tumor	TCGA-B2-3923.de7a1ead-e27f-44f8-a903-f9e308effbff.pdf			NO	0.7		A				de7a1ead-e27f-44f8-a903-f9e308effbff				TCGA-B2-3923-01A		2
+TCGA-CJ-4636-01A	01				0.8		5889076d-0a5f-4c3a-8254-a941df3186f7			Primary Tumor	TCGA-CJ-4636.2327c1d8-e7cb-49ea-8387-c852eb23624c.pdf			NO	0.5		A				2327c1d8-e7cb-49ea-8387-c852eb23624c				TCGA-CJ-4636-01A		3
+TCGA-B0-5698-10A	10						28d23919-226e-42c8-818f-f1e80302a506			Blood Derived Normal				NO			A								TCGA-B0-5698-10A		
+TCGA-CJ-4641-11A	11				0.9		8a59dd63-3341-4edf-94f7-cb5a99154532			Solid Tissue Normal				NO	0.7		A								TCGA-CJ-4641-11A		3
+TCGA-B2-3923-01B	01		false				54F2AEE5-AD79-46D2-A066-5C2CA1E30DF4			Primary Tumor	TCGA-B2-3923.de7a1ead-e27f-44f8-a903-f9e308effbff.pdf			YES			B				de7a1ead-e27f-44f8-a903-f9e308effbff		655		TCGA-B2-3923-01B		
+TCGA-AK-3447-01A	01				0.5		6f81ecf8-7c29-45cc-b680-a39d66b75a61			Primary Tumor	TCGA-AK-3447.e4c71bff-680a-4631-95fa-cdd0cb58844c.pdf			NO	0.2		A				e4c71bff-680a-4631-95fa-cdd0cb58844c				TCGA-AK-3447-01A		0.8
+TCGA-B0-5706-11A	11				0.5		9c783cc7-0ad0-4326-9f2a-d6ea4f36b0d0			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5706-11A		2
+TCGA-CW-5589-11A	11				0.5		e8823aef-fb09-4500-ae56-bf22bd9ec016			Solid Tissue Normal				NO	0.3		A								TCGA-CW-5589-11A		1
+TCGA-A3-3370-01A	01				1		1b2df3fd-183c-4099-a387-5908c8b44f57			Primary Tumor	TCGA-A3-3370.491ee6ab-9c62-4a66-a04d-2bc767ba63f2.pdf			NO	0.5		A				491ee6ab-9c62-4a66-a04d-2bc767ba63f2				TCGA-A3-3370-01A		1
+TCGA-BP-4775-11A	11				0.8		b3724bf1-1f92-4574-b836-5f4fc538be51			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4775-11A		1
+TCGA-CZ-5984-01A	01				1.3		a568933f-cb58-4988-918d-fe963f982c47			Primary Tumor	TCGA-CZ-5984.d9612fed-e194-4538-a4e3-093e5bfeca53.pdf			NO	0.2		A				d9612fed-e194-4538-a4e3-093e5bfeca53				TCGA-CZ-5984-01A		1.4
+TCGA-B8-A54I-10A	10		false				85FD90F2-72FB-4E21-8BC0-9DBF18D16D18			Blood Derived Normal				NO			A						138		TCGA-B8-A54I-10A		
+TCGA-A3-3387-01A	01				0.6		413ed4fa-013a-4751-8f74-d54f6cf992c9			Primary Tumor	TCGA-A3-3387.f5199278-aa10-477e-a9a8-000ed52065ac.pdf			NO	0.2		A				f5199278-aa10-477e-a9a8-000ed52065ac				TCGA-A3-3387-01A		0.9
+TCGA-CJ-4887-11A	11				0.7		b00037d8-db00-4b85-b4de-d961aa916593			Solid Tissue Normal				NO	0.4		A								TCGA-CJ-4887-11A		2.3
+TCGA-DV-5568-01A	01				0.7		72608ed2-cb38-420f-8152-9bad1f413e65			Primary Tumor	TCGA-DV-5568.6102167a-dc99-4515-bb5c-e545b592c309.pdf			NO	0.5		A				6102167a-dc99-4515-bb5c-e545b592c309				TCGA-DV-5568-01A		1
+TCGA-CW-6087-01A	01				0.6		b4f9b73b-94db-4e0f-af55-cf0583318a4a			Primary Tumor	TCGA-CW-6087.236a0265-e30c-4d52-839d-abb624e2feea.pdf			NO	0.4		A				236a0265-e30c-4d52-839d-abb624e2feea				TCGA-CW-6087-01A		0.8
+TCGA-B0-4814-11A	11				1		b4c29685-baf3-4e32-94cd-964493fc36c2			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4814-11A		1.5
+TCGA-AK-3461-01A	01				0.6		4b23249b-183d-4b9b-9a6a-987624127555			Primary Tumor	TCGA-AK-3461.eb8e79cd-445c-498d-ad22-ca225c0254aa.pdf			NO	0.4		A				eb8e79cd-445c-498d-ad22-ca225c0254aa				TCGA-AK-3461-01A		1
+TCGA-B2-5635-10A	10						17140cd2-f357-4bb1-8227-404752dd3c05			Blood Derived Normal				NO			A								TCGA-B2-5635-10A		
+TCGA-CZ-4856-01A	01				1.3		6f6c9f00-d6e5-452f-ba04-f77b146b780b			Primary Tumor	TCGA-CZ-4856.7b616a12-9d64-4671-8369-815dcbacc3cb.pdf			NO	0.5		A				7b616a12-9d64-4671-8369-815dcbacc3cb				TCGA-CZ-4856-01A		1.5
+TCGA-EU-5904-10A	10						11038f37-133e-4d34-8db9-6e8d79aebf6a			Blood Derived Normal				NO			A								TCGA-EU-5904-10A		
+TCGA-A3-A8OU-01A	01		false				910E6A50-1C73-4B3F-8112-AEC92C4645CC			Primary Tumor	TCGA-A3-A8OU.323027EE-B210-4C54-85F0-D92A099F5629.pdf			NO			A				323027EE-B210-4C54-85F0-D92A099F5629		926		TCGA-A3-A8OU-01A	50	
+TCGA-DV-5566-01A	01				0.9		58578d50-1e0c-4f5e-929a-c969c5346b05			Primary Tumor	TCGA-DV-5566.15bf8dae-3bbf-4d5e-a0e4-4654c581a188.pdf			NO	0.3		A				15bf8dae-3bbf-4d5e-a0e4-4654c581a188				TCGA-DV-5566-01A		1
+TCGA-A3-3373-11A	11				0.7		8b539df0-163b-4e8c-b109-446f6c3579ca			Solid Tissue Normal				NO	0.5		A								TCGA-A3-3373-11A		0.7
+TCGA-B0-4816-11A	11				0.6		1cd9aa5f-2ea6-46ae-8078-a5465a39bca1			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4816-11A		1.8
+TCGA-B4-5832-10A	10						0016796e-dc48-47ff-b523-7485d10a13fa			Blood Derived Normal				NO			A								TCGA-B4-5832-10A		
+TCGA-BP-4972-01A	01				1		d8c6ee52-a119-4299-a1e7-72266e7bbfb2			Primary Tumor	TCGA-BP-4972.a19c543c-72d9-4ea9-9f1c-ce2bce7f51ca.pdf			NO	0.2		A				a19c543c-72d9-4ea9-9f1c-ce2bce7f51ca				TCGA-BP-4972-01A		1.6
+TCGA-B0-4845-01A	01				1.2		eab2c452-8263-4351-9150-7b51f84066c3			Primary Tumor	TCGA-B0-4845.a6ed168a-db1a-4ac6-9979-3560efe5daaa.pdf			NO	0.2		A				a6ed168a-db1a-4ac6-9979-3560efe5daaa				TCGA-B0-4845-01A		1.5
+TCGA-B8-5552-11A	11				0.8		8690c5d7-7eaa-4aa7-8a1b-a048103c0e9f			Solid Tissue Normal				NO	0.2		A								TCGA-B8-5552-11A		1.5
+TCGA-CW-5584-01A	01				0.7		509069c7-21fc-41fb-80dd-99f1bcdde5a8			Primary Tumor	TCGA-CW-5584.7293fd54-12cf-4b54-be83-eae6dadda483.pdf			NO	0.3		A				7293fd54-12cf-4b54-be83-eae6dadda483				TCGA-CW-5584-01A		1.3
+TCGA-DV-5576-01A	01				1		ca98ed7d-7f97-4791-b86b-c92825b1e896			Primary Tumor	TCGA-DV-5576.d0577e2d-ba55-4e6e-acba-c78eb9736723.pdf			NO	0.7		A				d0577e2d-ba55-4e6e-acba-c78eb9736723				TCGA-DV-5576-01A		1.3
+TCGA-CJ-4889-11A	11				0.9		4c7c01d7-c5e0-4c8f-bc84-580cba33f1e5			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4889-11A		3.4
+TCGA-A3-3349-11A	11				0.9		4d9e88d8-eade-4f5d-a5cf-c8bcf173ec26			Solid Tissue Normal				NO	0.8		A								TCGA-A3-3349-11A		2.3
+TCGA-CJ-4873-01A	01				0.7		9433d0ec-47c9-48df-b7d0-1f57acb09c38			Primary Tumor	TCGA-CJ-4873.26d17131-079a-401d-99c7-cf05bbf9f48c.pdf			NO	0.7		A				26d17131-079a-401d-99c7-cf05bbf9f48c				TCGA-CJ-4873-01A		3.2
+TCGA-DV-5574-10A	10						0c9f48b3-c6aa-4c79-a94f-30a5c68d75f6			Blood Derived Normal				NO			A								TCGA-DV-5574-10A		
+TCGA-AK-3431-01A	01				0.7		c140b823-9a9b-447e-ad65-d4a2ed5548cd			Primary Tumor	TCGA-AK-3431.b145eca9-7fe5-4d96-b33a-941069f79461.pdf			NO	0.4		A				b145eca9-7fe5-4d96-b33a-941069f79461				TCGA-AK-3431-01A		0.9
+TCGA-CZ-5455-01A	01				1		d6a730ef-3f0d-47c1-977e-5c80647356d4			Primary Tumor	TCGA-CZ-5455.d5550340-3c15-4f8b-a895-246fb9432a8d.pdf			NO	0.2		A				d5550340-3c15-4f8b-a895-246fb9432a8d				TCGA-CZ-5455-01A		1.4
+TCGA-BP-5008-01A	01				1		41c094e9-6c23-4993-8d90-338b66efefc1			Primary Tumor	TCGA-BP-5008.d5ff5d2d-9935-4e27-82f9-91d000cc6252.pdf			NO	0.1		A				d5ff5d2d-9935-4e27-82f9-91d000cc6252				TCGA-BP-5008-01A		1.1
+TCGA-A3-3385-01A	01				1		f780aef6-1c9c-4167-9f55-48885d6e5874			Primary Tumor	TCGA-A3-3385.3449cbd9-64b9-4bdc-bc6d-3e1e5294f40b.pdf			NO	0.3		A				3449cbd9-64b9-4bdc-bc6d-3e1e5294f40b				TCGA-A3-3385-01A		1.4
+TCGA-B0-4841-01A	01				0.7		bba134ee-396a-470d-a4dc-d6ba245e21fc			Primary Tumor	TCGA-B0-4841.ca4f8f54-a032-44c6-8efe-87b8c5b6e03b.pdf			NO	0.3		A				ca4f8f54-a032-44c6-8efe-87b8c5b6e03b				TCGA-B0-4841-01A		0.7
+TCGA-BP-4777-11A	11				0.6		42feacb1-ccd3-42b5-bf97-a0f42a01e21e			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4777-11A		0.8
+TCGA-BP-5010-01A	01				1		4057d69a-52ef-451b-bd74-6436919970c9			Primary Tumor	TCGA-BP-5010.77df5c2f-d56a-4099-b066-a28ef25aaaad.pdf			NO	0.2		A				77df5c2f-d56a-4099-b066-a28ef25aaaad				TCGA-BP-5010-01A		1.5
+TCGA-AK-3450-10A	10						8806d27a-fb50-4177-abc0-52996c0dbf5d			Blood Derived Normal				NO			A								TCGA-AK-3450-10A		
+TCGA-BP-4345-01A	01				1.3		8485819f-db44-43b9-b330-1aa55f1b8fc7			Primary Tumor	TCGA-BP-4345.e771bfdb-94bd-49ed-b8f6-5dd0af4345da.pdf			NO	0.4		A				e771bfdb-94bd-49ed-b8f6-5dd0af4345da				TCGA-BP-4345-01A		1.5
+TCGA-B2-4099-11A	11				0.9		e08b45aa-a874-4006-a397-b49014b4078c			Solid Tissue Normal				NO	0.5		A								TCGA-B2-4099-11A		2.2
+TCGA-A3-3359-01A	01				0.9		93b3995b-032c-4549-9d0c-db96708604c4			Primary Tumor	TCGA-A3-3359.c2950ef2-5e99-40ec-81ad-b6127a32e357.pdf			NO	0.9		A				c2950ef2-5e99-40ec-81ad-b6127a32e357				TCGA-A3-3359-01A		1
+TCGA-BP-4331-01A	01				0.9		75d3ac14-401b-4549-af08-e513f0fec242			Primary Tumor	TCGA-BP-4331.7a8e6bf9-0756-49bf-8911-aa43247e1544.pdf			NO	0.3		A				7a8e6bf9-0756-49bf-8911-aa43247e1544				TCGA-BP-4331-01A		1.3
+TCGA-EU-5906-01A	01				0.8		a04c6bdb-0842-43d1-b88a-7dd75ac40486			Primary Tumor	TCGA-EU-5906.ec4be720-05d2-430e-ae07-986302672f4e.pdf			NO	0.8		A				ec4be720-05d2-430e-ae07-986302672f4e				TCGA-EU-5906-01A		1.3
+TCGA-CJ-6031-01A	01				1.4		d513cfde-b38c-4459-8a3d-36b44b80eb72			Primary Tumor	TCGA-CJ-6031.56d4075f-01c3-4bc8-812a-ef9f3127bc1c.pdf			NO	0.7		A				56d4075f-01c3-4bc8-812a-ef9f3127bc1c				TCGA-CJ-6031-01A		3.6
+TCGA-AK-3453-01A	01				0.7		75d8ea2a-c187-4633-9725-3dcf061412ef			Primary Tumor	TCGA-AK-3453.deae80af-a4e4-4413-82e9-f1f49a3b387b.pdf			NO	0.3		A				deae80af-a4e4-4413-82e9-f1f49a3b387b				TCGA-AK-3453-01A		1
+TCGA-B0-5399-10A	10						39dadadf-ec09-4a0c-904f-54c5496894e5			Blood Derived Normal				NO			A								TCGA-B0-5399-10A		
+TCGA-BP-4354-11A	11				1		d6bb2c0a-3cca-4525-8b63-e0ab0e94be6d			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4354-11A		1
+TCGA-B0-5691-01A	01				0.6		bcb1bab9-d7d0-49c8-b7be-175011bc4965			Primary Tumor	TCGA-B0-5691.6a7300f0-5029-45ce-bc46-00af73774198.pdf			NO	0.4		A				6a7300f0-5029-45ce-bc46-00af73774198				TCGA-B0-5691-01A		1.4
+TCGA-BP-5201-01A	01				1.2		4249cccf-a338-49f1-a007-8cc003e5fbc0			Primary Tumor	TCGA-BP-5201.c849e5f0-2600-499b-84e7-4db9e19629fe.pdf			NO	0.1		A				c849e5f0-2600-499b-84e7-4db9e19629fe				TCGA-BP-5201-01A		1.6
+TCGA-BP-4163-11A	11				1.3		32ada444-f5c7-4523-9b4c-2e8733f62d2e			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4163-11A		1.5
+TCGA-AK-3430-10A	10						de57ab99-8cf7-4f2a-b3c1-58054d90a701			Blood Derived Normal				NO			A								TCGA-AK-3430-10A		
+TCGA-B0-4694-01A	01				0.7		c3de6341-c2e6-4668-892b-4dd254e1c93a			Primary Tumor	TCGA-B0-4694.3e119b2f-288a-42fb-95ee-f2fceb6f9be1.pdf			NO	0.4		A				3e119b2f-288a-42fb-95ee-f2fceb6f9be1				TCGA-B0-4694-01A		1.4
+TCGA-CW-6088-01A	01				0.7		5c85a5d7-08c6-4226-ab6f-cc207623ba26			Primary Tumor	TCGA-CW-6088.7c0b8eeb-61ca-4e83-bc9b-19e58cb36df5.pdf			NO	0.3		A				7c0b8eeb-61ca-4e83-bc9b-19e58cb36df5				TCGA-CW-6088-01A		1.4
+TCGA-B2-5641-10A	10						e5264234-58d0-4a3f-a2ef-42754982a9ae			Blood Derived Normal				NO			A								TCGA-B2-5641-10A		
+TCGA-CJ-4872-11A	11				0.7		2be558ce-c74e-438f-b84c-e825d81423a7			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-4872-11A		2.1
+TCGA-A3-3346-01A	01				0.5		f1edd2df-b7ae-4f73-9cca-3ff5e2ca65f3			Primary Tumor	TCGA-A3-3346.14febe79-6cf3-4af9-8591-2d5ed15770be.pdf			NO	0.5		A				14febe79-6cf3-4af9-8591-2d5ed15770be				TCGA-A3-3346-01A		1.7
+TCGA-CZ-5984-11A	11				0.6		2b17cb08-4cea-4d53-a73a-fe6c58dbf460			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-5984-11A		1.5
+TCGA-CZ-5986-11A	11				0.6		20ab747a-7a84-4b15-b695-530d33425e8e			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-5986-11A		1.5
+TCGA-BP-4971-01A	01				1		1ca70c1e-a4b9-41aa-aaa8-f55296aae041			Primary Tumor	TCGA-BP-4971.afa4b302-55a6-410d-94f9-b6b2fa4bd9c4.pdf			NO	0.2		A				afa4b302-55a6-410d-94f9-b6b2fa4bd9c4				TCGA-BP-4971-01A		1.5
+TCGA-BP-4992-11A	11				1.2		94aaf874-be6f-48fd-8ec7-40a8078ca890			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4992-11A		1.5
+TCGA-B0-4819-01A	01				1		67a5c1d3-0e13-443d-9124-8439ca6c7a63			Primary Tumor	TCGA-B0-4819.a5a2e38d-f632-49fc-ae32-02a4fe05eeab.pdf			NO	0.2		A				a5a2e38d-f632-49fc-ae32-02a4fe05eeab				TCGA-B0-4819-01A		1.8
+TCGA-B0-5085-11A	11				0.7		9aef1e69-b9c9-4523-899b-06fb297d1ab5			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5085-11A		1.9
+TCGA-CZ-4861-01A	01				0.6		a2b02d21-5887-4bb4-b120-ea9c80ad0a8a			Primary Tumor	TCGA-CZ-4861.c442c921-63cf-46f1-b28a-acf01e5b2e2b.pdf			NO	0.1		A				c442c921-63cf-46f1-b28a-acf01e5b2e2b				TCGA-CZ-4861-01A		0.8
+TCGA-B0-5099-01A	01				1		83469e37-f9df-421e-929d-4466f1b75443			Primary Tumor	TCGA-B0-5099.075c48dd-a80c-426e-bd91-ca712b479af7.pdf			NO	0.2		A				075c48dd-a80c-426e-bd91-ca712b479af7				TCGA-B0-5099-01A		2.5
+TCGA-BP-4165-01A	01				0.9		009e66cd-fcdf-4a91-a2d8-7b9485ca29e1			Primary Tumor	TCGA-BP-4165.f7d646c1-9055-46c2-a557-3f518f5ffe39.pdf			NO	0.4		A				f7d646c1-9055-46c2-a557-3f518f5ffe39				TCGA-BP-4165-01A		1.1
+TCGA-B0-5104-01A	01				0.9		ac2cfbde-9d62-49db-9a07-e8166003f10f			Primary Tumor	TCGA-B0-5104.b8335d43-8b5e-4d00-974f-c37642aa0d7b.pdf			NO	0.3		A				b8335d43-8b5e-4d00-974f-c37642aa0d7b				TCGA-B0-5104-01A		1.8
+TCGA-B8-5552-01B	01				0.9		0113c98c-8926-47f7-acb9-51b31412c6f2			Primary Tumor	TCGA-B8-5552.f2d158ca-eebd-44da-a8c0-294b7577e86f.pdf			NO	0.4		B				f2d158ca-eebd-44da-a8c0-294b7577e86f				TCGA-B8-5552-01B		1.2
+TCGA-BP-5000-01A	01				0.8		6c8679c4-4e1d-4fbe-84ba-9b4a13991f47			Primary Tumor	TCGA-BP-5000.60cbcade-aded-404e-afe4-9fbd83ab5499.pdf			NO	0.2		A				60cbcade-aded-404e-afe4-9fbd83ab5499				TCGA-BP-5000-01A		0.9
+TCGA-GK-A6C7-11A	11		false				3C4F15D4-DCF6-4D60-B86C-6006F9051E54			Solid Tissue Normal				NO			A						141		TCGA-GK-A6C7-11A	410	
+TCGA-BP-4964-11A	11				0.8		932cc5ad-5e99-41f5-b8b4-5b6c4f74ff57			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4964-11A		1.8
+TCGA-B0-4706-11A	11				0.7		53e72614-6ee5-4ecf-a93c-77050cf68140			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4706-11A		2.1
+TCGA-AK-3433-01A	01				0.9		097c2f19-c928-4e10-980e-9d182a99b787			Primary Tumor	TCGA-AK-3433.60318ebc-051c-4587-82bc-8df91f8edf53.pdf			NO	0.3		A				60318ebc-051c-4587-82bc-8df91f8edf53				TCGA-AK-3433-01A		1
+TCGA-B0-5711-01A	01				1.4		a12145e9-3ba9-4340-ad39-1dab357b5459			Primary Tumor	TCGA-B0-5711.8113a12d-942e-4b6e-ac19-4a608a83cd3b.pdf			NO	0.3		A				8113a12d-942e-4b6e-ac19-4a608a83cd3b				TCGA-B0-5711-01A		2.5
+TCGA-BP-4965-11A	11				0.9		f9a00a88-e24e-4628-aa56-f2a7f7e2656e			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4965-11A		1.4
+TCGA-B0-5693-01A	01				1.5		20a21a6f-f615-47f7-9935-b330b116d51b			Primary Tumor	TCGA-B0-5693.c53779b6-8163-41ef-82af-adb504dcbf3d.pdf			NO	0.2		A				c53779b6-8163-41ef-82af-adb504dcbf3d				TCGA-B0-5693-01A		2.3
+TCGA-CZ-5986-01A	01				1.3		961279aa-1e8a-48fe-9da1-9cc890e5c019			Primary Tumor	TCGA-CZ-5986.5c4a838d-d4a3-4e44-9366-4025be55076f.pdf			NO	0.2		A				5c4a838d-d4a3-4e44-9366-4025be55076f				TCGA-CZ-5986-01A		1.5
+TCGA-A3-3322-01A	01				1		6f329d07-3308-4c84-9113-2bf000e9be3b			Primary Tumor	TCGA-A3-3322.827e3e8a-470f-4b5d-9dca-75d1c7f07fd5.pdf			NO	0.4		A				827e3e8a-470f-4b5d-9dca-75d1c7f07fd5				TCGA-A3-3322-01A		2
+TCGA-BP-4782-01A	01				0.6		a6c21bf2-dd9b-4243-863e-9d53b056666f			Primary Tumor	TCGA-BP-4782.a26a3e34-6cbb-4ddd-8452-3ecba5aaf715.pdf			NO	0.1		A				a26a3e34-6cbb-4ddd-8452-3ecba5aaf715				TCGA-BP-4782-01A		1.1
+TCGA-BP-5182-01A	01				0.3		e58c8e96-ac76-40cf-9c82-a9ab9e590e46			Primary Tumor	TCGA-BP-5182.9b83a81c-f9a2-494f-a478-ac28bdda707b.pdf			NO	0.2		A				9b83a81c-f9a2-494f-a478-ac28bdda707b				TCGA-BP-5182-01A		1.2
+TCGA-BP-4167-11A	11				1.1		ab284b04-f7db-4de9-90d3-f181b22aaade			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4167-11A		2
+TCGA-BP-5174-11A	11				1		6626facd-aae6-4fdb-81ac-eb84b0fcfd99			Solid Tissue Normal				NO	0.1		A								TCGA-BP-5174-11A		1.7
+TCGA-CJ-4882-11A	11				0.7		13ebc192-4481-4181-8e03-41ee026376af			Solid Tissue Normal				NO	0.6		A								TCGA-CJ-4882-11A		3
+TCGA-B0-4817-01A	01				1		727567fc-0bb2-4fe1-a201-d2ce9abf74c1			Primary Tumor	TCGA-B0-4817.85be41d7-ec54-4cde-abe1-5400fe3ae2a1.pdf			NO	0.4		A				85be41d7-ec54-4cde-abe1-5400fe3ae2a1				TCGA-B0-4817-01A		2.6
+TCGA-A3-3329-11A	11				0.9		dfb07b36-7654-4449-8f53-d822d6904cb3			Solid Tissue Normal				NO	0.9		A								TCGA-A3-3329-11A		1.7
+TCGA-CZ-4859-11A	11				0.6		a3ba7bfb-6ffb-47fd-8424-3f53d43939ec			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-4859-11A		0.9
+TCGA-CJ-4899-11A	11				0.9		cf55a398-69b5-4be9-b2fe-b58a94d068db			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4899-11A		3.1
+TCGA-CW-5580-01A	01				0.7		cd7c5598-471d-42c4-b46d-113bf4daadbd			Primary Tumor	TCGA-CW-5580.2eb52034-fd54-417a-8073-3ed405e723a7.pdf			NO	0.2		A				2eb52034-fd54-417a-8073-3ed405e723a7				TCGA-CW-5580-01A		1.3
+TCGA-A3-3365-01A	01				0.5		8bc46a09-7328-42e0-ad97-e557ec81048e			Primary Tumor	TCGA-A3-3365.19d68702-18b3-4b80-ade7-baa96e4e031a.pdf			NO	0.5		A				19d68702-18b3-4b80-ade7-baa96e4e031a				TCGA-A3-3365-01A		1.7
+TCGA-CJ-4890-11A	11				0.9		fdce349f-9b29-4828-b659-5d43360dd20e			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-4890-11A		2.5
+TCGA-A3-3306-01A	01				0.7		aafbf0f9-8fcf-43c1-9a59-7cb975915087			Primary Tumor	TCGA-A3-3306.bd7576b9-7fec-4077-b945-4f0cbab15fe8.pdf			NO	0.4		A				bd7576b9-7fec-4077-b945-4f0cbab15fe8				TCGA-A3-3306-01A		0.9
+TCGA-B0-4821-01A	01				1.5		2f1e11d0-dac6-499a-8a19-8ee05a24ba34			Primary Tumor	TCGA-B0-4821.7bed3c94-db26-49dd-ab93-65b6643c0643.pdf			NO	0.3		A				7bed3c94-db26-49dd-ab93-65b6643c0643				TCGA-B0-4821-01A		1.5
+TCGA-B0-5109-11A	11				0.7		10c0d3ac-c9b3-4947-9cc0-9d6fa1421e8f			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5109-11A		1.3
+TCGA-B0-4814-01A	01				1.7		09df1266-49fa-4c11-9c18-7b1daff59361			Primary Tumor	TCGA-B0-4814.e0d0d90d-ce06-4de2-b3d5-4a516c6ca0a1.pdf			NO	0.2		A				e0d0d90d-ce06-4de2-b3d5-4a516c6ca0a1				TCGA-B0-4814-01A		2.5
+TCGA-B8-5551-01A	01				0.5		7d6982a8-d410-47ca-a501-6cd5b97aeb5e			Primary Tumor	TCGA-B8-5551.41158df6-354c-4a82-b072-090605ebfc5e.pdf			NO	0.4		A				41158df6-354c-4a82-b072-090605ebfc5e				TCGA-B8-5551-01A		1
+TCGA-B0-5701-01A	01				1.3		9dab1969-d52d-4646-b2fc-465c12c48ce9			Primary Tumor	TCGA-B0-5701.61def406-8bc0-4955-b59a-d1d43267c888.pdf			NO	0.3		A				61def406-8bc0-4955-b59a-d1d43267c888				TCGA-B0-5701-01A		1.4
+TCGA-BP-4340-11A	11				0.9		716b0222-72b8-402e-bcad-15c017dca3de			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4340-11A		1
+TCGA-BP-5200-01A	01				1.6		e2557bba-b331-40c2-8389-c52324630bca			Primary Tumor	TCGA-BP-5200.dd8c8f28-5614-4ef9-a19b-18a4a891b10a.pdf			NO	0.3		A				dd8c8f28-5614-4ef9-a19b-18a4a891b10a				TCGA-BP-5200-01A		2.2
+TCGA-B0-5115-01A	01				0.7		25ab6851-64fa-40bb-ab3c-f46afb53eaee			Primary Tumor	TCGA-B0-5115.6bde77a8-12b0-4931-868e-e383f8489096.pdf			NO	0.2		A				6bde77a8-12b0-4931-868e-e383f8489096				TCGA-B0-5115-01A		1.2
+TCGA-B0-4823-01A	01				0.6		25b7ebde-6d3d-4ad5-9d54-0ca03779f059			Primary Tumor	TCGA-B0-4823.690f1249-5e3c-4c07-951e-7168dc0da62a.pdf			NO	0.3		A				690f1249-5e3c-4c07-951e-7168dc0da62a				TCGA-B0-4823-01A		2
+TCGA-B8-A8YJ-01A	01		false				8D017D5D-56D3-4E26-908C-9F5AA0A4DE1B			Primary Tumor	TCGA-B8-A8YJ.D59DB2BD-7E9E-425C-900C-5FC3D34C827D.pdf			NO			A				D59DB2BD-7E9E-425C-900C-5FC3D34C827D		68		TCGA-B8-A8YJ-01A	330	
+TCGA-B0-4811-11A	11				0.9		6a0cafa5-5843-4523-accf-25fad4053de6			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4811-11A		1.7
+TCGA-BP-5170-11A	11				0.8		0bb01091-6cfb-48c3-a6cb-ffe0129edf5e			Solid Tissue Normal				NO	0.1		A								TCGA-BP-5170-11A		2.3
+TCGA-BP-4994-01A	01				1.3		fea9fe78-ce9b-4c22-b688-7d458997d6fd			Primary Tumor	TCGA-BP-4994.abdb9f72-f96e-49d8-a846-3632fc01d438.pdf			NO	0.3		A				abdb9f72-f96e-49d8-a846-3632fc01d438				TCGA-BP-4994-01A		1.5
+TCGA-CJ-5677-11A	11				0.9		0a3ffd01-fa5c-4372-93ab-c38f8b1ce096			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-5677-11A		3
+TCGA-BP-4987-01A	01				1.3		175e2961-9c4c-4f62-ae06-9fc562fc2952			Primary Tumor	TCGA-BP-4987.52c79f63-a2f5-4716-b76d-393e5b480d6d.pdf			NO	0.3		A				52c79f63-a2f5-4716-b76d-393e5b480d6d				TCGA-BP-4987-01A		2
+TCGA-A3-3362-11A	11				1		55c18b31-3591-45c8-8b12-ad29447ca68c			Solid Tissue Normal				NO	0.7		A								TCGA-A3-3362-11A		1.4
+TCGA-CZ-4856-11A	11				1.1		e815b1f1-e9fa-42d1-bab6-4bbc59ccef0a			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-4856-11A		1.2
+TCGA-A3-3347-11A	11				0.9		4304512d-67d0-4c89-a05f-1ee93c5dad51			Solid Tissue Normal				NO	0.6		A								TCGA-A3-3347-11A		1
+TCGA-B0-4836-11A	11				0.9		761a7d77-3a93-49df-b665-36e14e5d1d1c			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4836-11A		1.3
+TCGA-B4-5377-01A	01				1.1		889c2a1f-9659-433e-852c-1dcdb650d9cc			Primary Tumor	TCGA-B4-5377.61641668-8108-4b67-ad46-a9a30858f5c1.pdf			NO	0.5		A				61641668-8108-4b67-ad46-a9a30858f5c1				TCGA-B4-5377-01A		1.3
+TCGA-BP-4159-01A	01				1.3		32720511-9c6b-47bb-981c-5a3c4ed8b85c			Primary Tumor	TCGA-BP-4159.2adc9f54-12f4-482c-813b-46b82a5178fc.pdf			NO	0.3		A				2adc9f54-12f4-482c-813b-46b82a5178fc				TCGA-BP-4159-01A		1.4
+TCGA-A3-3326-01A	01				0.7		9df4818d-f9cd-4688-a4d6-4d0ebfecc2ed			Primary Tumor	TCGA-A3-3326.b0e5378c-8128-4ca7-960b-028e1921a836.pdf			NO	0.7		A				b0e5378c-8128-4ca7-960b-028e1921a836				TCGA-A3-3326-01A		1.3
+TCGA-B8-4146-10A	10						8c64ec6b-5c6c-4a9b-914e-fb604f873ecb			Blood Derived Normal				NO			A								TCGA-B8-4146-10A		
+TCGA-A3-3374-11A	11				0.9		76aabfdf-b5d2-4a8c-a7b2-5575cb8e0961			Solid Tissue Normal				NO	0.9		A								TCGA-A3-3374-11A		1.5
+TCGA-A3-A6NJ-10A	10		false				2D9847DD-5942-40B1-84CA-9E17D623C28F			Blood Derived Normal				NO			A						400		TCGA-A3-A6NJ-10A		
+TCGA-CJ-4888-01A	01				0.7		e803e3fe-27fa-4af5-a81e-5b61f85decac			Primary Tumor	TCGA-CJ-4888.4768f0e2-af04-40a6-92e7-763bdb5cf06d.pdf			NO	0.7		A				4768f0e2-af04-40a6-92e7-763bdb5cf06d				TCGA-CJ-4888-01A		2.8
+TCGA-BP-4351-11A	11				1.3		264b2ae9-e4e1-401e-bee8-c219d2c52bde			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4351-11A		1.6
+TCGA-B0-5700-11A	11				0.8		74790b06-0fbf-4e64-bb4c-f421f76154f1			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5700-11A		1.3
+TCGA-B0-5113-01A	01				1.1		899991fd-c376-4a7a-83ef-879c143fb5ca			Primary Tumor	TCGA-B0-5113.29b597e0-79bf-4c4c-962e-ea146cf0812a.pdf			NO	0.3		A				29b597e0-79bf-4c4c-962e-ea146cf0812a				TCGA-B0-5113-01A		2.3
+TCGA-A3-A8OW-10A	10		false				372C62AD-125A-4F74-9C5F-F048FE2306BB			Blood Derived Normal				NO			A						842		TCGA-A3-A8OW-10A		
+TCGA-BP-5190-11A	11				1		63366f39-2123-417b-9679-ab680e288dde			Solid Tissue Normal				NO	0.1		A								TCGA-BP-5190-11A		1.6
+TCGA-CJ-4644-11A	11				0.8		58254285-ed35-4e32-8eaf-3d7c68930cfa			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-4644-11A		2.2
+TCGA-CJ-4913-01A	01				0.9		09014cdd-1dcc-4557-9af4-19d01fd59afe			Primary Tumor	TCGA-CJ-4913.be689986-3bc9-404e-b1bf-5593a2f0380d.pdf			NO	0.9		A				be689986-3bc9-404e-b1bf-5593a2f0380d				TCGA-CJ-4913-01A		3.2
+TCGA-T7-A92I-10A	10		false				62B22012-7E2D-40A8-8B38-AB96A04A5403			Blood Derived Normal				NO			A						112		TCGA-T7-A92I-10A		
+TCGA-AK-3451-01A	01				0.6		242777f6-a875-4072-9696-8d7f7d718906			Primary Tumor	TCGA-AK-3451.d6215e63-5074-470c-8fe0-303b61e3c25a.pdf			NO	0.3		A				d6215e63-5074-470c-8fe0-303b61e3c25a				TCGA-AK-3451-01A		1
+TCGA-B8-4151-01A	01				0.6		641bc815-243d-443a-9364-abc84e3861e5			Primary Tumor	TCGA-B8-4151.ba492f01-797c-4780-a461-44305b04a178.pdf			NO	0.2		A				ba492f01-797c-4780-a461-44305b04a178				TCGA-B8-4151-01A		1.1
+TCGA-CW-6088-11A	11				0.6		5a148770-8515-437c-9e96-6b746f816dc4			Solid Tissue Normal				NO	0.2		A								TCGA-CW-6088-11A		1
+TCGA-BP-5175-11A	11				0.5		adcf8e64-579e-446d-810f-15ef714c6382			Solid Tissue Normal				NO	0.2		A								TCGA-BP-5175-11A		0.9
+TCGA-B0-4834-11A	11				1		ef863d2c-3f6b-404f-a0a2-98b0f2c59d81			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4834-11A		2
+TCGA-CJ-4639-11A	11				0.6		da8b5b7f-250c-4f7c-92a3-4658f9f729b8			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-4639-11A		3
+TCGA-B2-4101-10A	10						7383e3ec-1464-4d4a-82e3-994fe397d39d			Blood Derived Normal				NO			A								TCGA-B2-4101-10A		
+TCGA-CJ-5681-01A	01				0.9		252836be-aff6-4967-8887-d93b178a4ff9			Primary Tumor	TCGA-CJ-5681.193bc4ff-fc27-4cf5-9220-1d21a27f29e8.pdf			NO	0.5		A				193bc4ff-fc27-4cf5-9220-1d21a27f29e8				TCGA-CJ-5681-01A		2.8
+TCGA-BP-4765-11A	11				0.8		5cef9fe8-e9a7-4897-9d49-98d7d9aa189d			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4765-11A		1.3
+TCGA-B8-A54E-01A	01		false				545DA2EC-6A9A-4009-8D4F-0BB2935B1BCA			Primary Tumor	TCGA-B8-A54E.D6DFDD29-822B-40C5-AA22-6B85BF9225E3.pdf			NO			A				D6DFDD29-822B-40C5-AA22-6B85BF9225E3		603		TCGA-B8-A54E-01A	450	
+TCGA-CZ-5985-11A	11				1.2		ca22f102-fdce-4082-9c9e-5fc6bd23cafe			Solid Tissue Normal				NO	0.4		A								TCGA-CZ-5985-11A		1.2
+TCGA-A3-3307-11A	11				1		6dc3b51d-cc57-401a-8300-3ae5dbb9b590			Solid Tissue Normal				NO	0.4		A								TCGA-A3-3307-11A		1.1
+TCGA-B8-4620-01A	01				0.8		e4ec1484-4f77-4520-9ff5-bc4dc8a0fb15			Primary Tumor	TCGA-B8-4620.57336802-ddd7-46c3-98fc-92407721a34e.pdf			NO	0.2		A				57336802-ddd7-46c3-98fc-92407721a34e				TCGA-B8-4620-01A		0.8
+TCGA-BP-4799-01A	01				0.7		d5517913-18f1-48db-9b80-87c8f469add2			Primary Tumor	TCGA-BP-4799.a2274142-6192-4c56-b29a-31a7b05a3320.pdf			NO	0.2		A				a2274142-6192-4c56-b29a-31a7b05a3320				TCGA-BP-4799-01A		1
+TCGA-B0-5712-11A	11				0.8		5e6b9787-9256-4c94-90c5-57fe8b3e3078			Solid Tissue Normal				NO	0.4		A								TCGA-B0-5712-11A		1.6
+TCGA-A3-3372-01A	01				0.9		d3280297-5674-4ae6-ab57-8d820543901e			Primary Tumor	TCGA-A3-3372.1727c5c1-c8af-49ae-8f93-448bb9ae9303.pdf			NO	0.3		A				1727c5c1-c8af-49ae-8f93-448bb9ae9303				TCGA-A3-3372-01A		1.1
+TCGA-AK-3436-01A	01				0.7		83842f6e-5df5-4172-9e58-99f00e74cbbe			Primary Tumor	TCGA-AK-3436.65a48b19-0bac-404f-8929-c2e73424a4d9.pdf			NO	0.5		A				65a48b19-0bac-404f-8929-c2e73424a4d9				TCGA-AK-3436-01A		1
+TCGA-BP-5198-01A	01				1.8		619975cd-d9c7-4081-852b-ee1335469a0f			Primary Tumor	TCGA-BP-5198.c469fd3e-1e20-4bee-8e22-be77e5da1eec.pdf			NO	0.1		A				c469fd3e-1e20-4bee-8e22-be77e5da1eec				TCGA-BP-5198-01A		2.5
+TCGA-B8-5545-01A	01				0.8		d3ce1c32-282c-4aea-94b9-b53558c5d592			Primary Tumor	TCGA-B8-5545.34e82c8b-e4a2-4a97-a36f-d9f9ae95bbb3.pdf			NO	0.2		A				34e82c8b-e4a2-4a97-a36f-d9f9ae95bbb3				TCGA-B8-5545-01A		0.9
+TCGA-BP-4981-11A	11				1		e9631f82-22bb-4fa6-a39f-9fcd22abb3f7			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4981-11A		2
+TCGA-CZ-5454-11A	11				1.1		11f3a626-d02d-4f10-bd0b-08134078c838			Solid Tissue Normal				NO	0.3		A								TCGA-CZ-5454-11A		1.9
+TCGA-BP-4177-01A	01				1		e7291ead-efa7-4614-baeb-214f4111a6d4			Primary Tumor	TCGA-BP-4177.3c05bd94-b06a-49a4-85d0-8b6b8831883f.pdf			NO	0.3		A				3c05bd94-b06a-49a4-85d0-8b6b8831883f				TCGA-BP-4177-01A		1.2
+TCGA-B2-4102-11A	11				0.8		f0d45c3a-ce46-4f6b-81e5-e2a0d64d5018			Solid Tissue Normal				NO	0.4		A								TCGA-B2-4102-11A		2.2
+TCGA-B8-A54H-01A	01		false				68B5218B-B7F0-4549-AF44-DFCBF327BC48			Primary Tumor	TCGA-B8-A54H.07ACF9DE-5569-49FD-9083-383C7A12DE33.pdf			NO			A				07ACF9DE-5569-49FD-9083-383C7A12DE33		160		TCGA-B8-A54H-01A	330	
+TCGA-BP-4332-01A	01				1.1		247d2218-72f7-463b-8493-b2ea1a103370			Primary Tumor	TCGA-BP-4332.d05bca89-84e4-488b-847f-3a67c1bdb82b.pdf			NO	0.4		A				d05bca89-84e4-488b-847f-3a67c1bdb82b				TCGA-BP-4332-01A		1.9
+TCGA-CJ-6033-11A	11				1		d8a6c759-7aa9-4002-abd8-17c5e6cdb074			Solid Tissue Normal				NO	0.6		A								TCGA-CJ-6033-11A		2
+TCGA-A3-3306-11A	11				0.8		bbd29229-609e-4a89-a708-426c852dd8e4			Solid Tissue Normal				NO	0.6		A								TCGA-A3-3306-11A		0.8
+TCGA-B0-5084-11A	11				0.6		f146b445-2c3d-4098-b126-3b0d267985ea			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5084-11A		1.2
+TCGA-BP-4334-01A	01				1.2		171b0609-f2ac-4b04-aeaf-27ec060d698e			Primary Tumor	TCGA-BP-4334.b1a02d10-922f-4b26-ae1b-89fb0672e2f9.pdf			NO	0.3		A				b1a02d10-922f-4b26-ae1b-89fb0672e2f9				TCGA-BP-4334-01A		1.6
+TCGA-BP-4974-01A	01				1.2		a75c92b2-c67b-42b5-a8c2-7eea1b567ed0			Primary Tumor	TCGA-BP-4974.01388cac-9613-45a4-95e5-6bffac67ef16.pdf			NO	0.2		A				01388cac-9613-45a4-95e5-6bffac67ef16				TCGA-BP-4974-01A		2
+TCGA-B0-4816-01A	01				1		d05c3419-4164-4a69-8b11-ce1f5c29b5d4			Primary Tumor	TCGA-B0-4816.6e66993e-7c75-48ac-97b2-63515a067cca.pdf			NO	0.3		A				6e66993e-7c75-48ac-97b2-63515a067cca				TCGA-B0-4816-01A		2.7
+TCGA-CJ-4874-01A	01				0.9		94218873-abee-416a-a336-bc52911470e8			Primary Tumor	TCGA-CJ-4874.febe6b82-1e08-4f8a-b024-59f50d68ff29.pdf			NO	0.9		A				febe6b82-1e08-4f8a-b024-59f50d68ff29				TCGA-CJ-4874-01A		3.2
+TCGA-MW-A4EC-10A	10		false				98152286-D83C-4549-A8E2-912A50331F71			Blood Derived Normal				NO			A						190		TCGA-MW-A4EC-10A		
+TCGA-CJ-6027-01A	01				1		8e104a5f-15a1-4de9-8d5a-449e6afd9ba8			Primary Tumor	TCGA-CJ-6027.4c7adee8-16bd-418c-8127-036988083453.pdf			NO	0.8		A				4c7adee8-16bd-418c-8127-036988083453				TCGA-CJ-6027-01A		1
+TCGA-B0-4828-01A	01				0.9		b5b1a263-2b1b-478b-b59b-fe44feb3f4b3			Primary Tumor	TCGA-B0-4828.3afaee79-6667-424d-b9df-cb1f3598ec61.pdf			NO	0.4		A				3afaee79-6667-424d-b9df-cb1f3598ec61				TCGA-B0-4828-01A		1.2
+TCGA-B0-5110-11A	11				0.6		6d1e1ffc-5c22-4a63-a267-7525b23d3727			Solid Tissue Normal				NO	0.1		A								TCGA-B0-5110-11A		1.4
+TCGA-A3-3349-01A	01				0.8		9328d66a-7874-43ea-a8db-e6d6b424ecbf			Primary Tumor	TCGA-A3-3349.90ad852e-6d15-4cac-bf19-5649aed46c19.pdf			NO	0.8		A				90ad852e-6d15-4cac-bf19-5649aed46c19				TCGA-A3-3349-01A		1.3
+TCGA-AK-3426-01A	01				0.8		325c9a60-dfe5-4fe4-bfd1-5393734f49fa			Primary Tumor	TCGA-AK-3426.4ae755f9-c7f3-4c42-859d-5d9407cdf3ac.pdf			NO	0.3		A				4ae755f9-c7f3-4c42-859d-5d9407cdf3ac				TCGA-AK-3426-01A		1
+TCGA-BP-4989-11A	11				1.4		a2db597f-7fac-4d27-af2c-1f31b37520ab			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4989-11A		2
+TCGA-BP-5007-01A	01				0.7		a44eb1d6-3b5c-42e8-b17a-d71ffc0503d5			Primary Tumor	TCGA-BP-5007.9cb0b43e-eb83-4f83-a468-ea5e67317420.pdf			NO	0.2		A				9cb0b43e-eb83-4f83-a468-ea5e67317420				TCGA-BP-5007-01A		1.7
+TCGA-CZ-5470-11A	11				0.7		018d0e4d-366f-4353-816a-615d6b4aaab7			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-5470-11A		1.1
+TCGA-BP-4758-01A	01				1.2		c2145112-a7ac-45c3-a50d-7a644d44c00f			Primary Tumor	TCGA-BP-4758.f44edb3a-bb3e-4f47-9577-c97c29e2017d.pdf			NO	0.2		A				f44edb3a-bb3e-4f47-9577-c97c29e2017d				TCGA-BP-4758-01A		1.9
+TCGA-EU-5907-10A	10						0f805747-c732-4025-b2a2-5e9803cb0cd6			Blood Derived Normal				NO			A								TCGA-EU-5907-10A		
+TCGA-B0-4818-11A	11				0.5		975310bf-05d1-4417-8178-3f3f9f0e6998			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4818-11A		2.2
+TCGA-BP-4759-01A	01				0.9		0e66ecd7-2949-4968-a374-7d2ff8f78752			Primary Tumor	TCGA-BP-4759.57eef023-e30d-4812-a959-40a8ddc65da0.pdf			NO	0.3		A				57eef023-e30d-4812-a959-40a8ddc65da0				TCGA-BP-4759-01A		1.1
+TCGA-AK-3458-01A	01				0.6		7dadf224-ecec-424e-a851-c5deeeaee6ff			Primary Tumor	TCGA-AK-3458.f60e8526-3d2e-4526-a393-431291059bd3.pdf			NO	0.3		A				f60e8526-3d2e-4526-a393-431291059bd3				TCGA-AK-3458-01A		1
+TCGA-BP-5010-11A	11				1.1		ceaf58bb-fcad-4411-84b9-8af7b8bdd7a1			Solid Tissue Normal				NO	0.3		A								TCGA-BP-5010-11A		1.7
+TCGA-BP-4986-11A	11				0.7		c2e8ced1-38bd-4e0c-91a9-3fa733bd2572			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4986-11A		1.2
+TCGA-B0-5095-11A	11				0.7		3547a5d8-ecdd-480a-91dd-e3f2ff724516			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5095-11A		0.9
+TCGA-CZ-5464-11A	11				0.5		def1c9d1-2874-4df2-8d9e-cd87fa2b5ebb			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-5464-11A		1.5
+TCGA-T7-A92I-01A	01		false				8DEA410D-98AF-4AA0-A3C1-ECD853570265			Primary Tumor	TCGA-T7-A92I.CF9C938A-E693-4DCF-864E-F39F974E757C.pdf			NO			A				CF9C938A-E693-4DCF-864E-F39F974E757C		112		TCGA-T7-A92I-01A	60	
+TCGA-CZ-5454-01A	01				1.3		b8ccb09d-aceb-4069-a911-89663575ab4b			Primary Tumor	TCGA-CZ-5454.a4c7e861-89f5-4ac0-b4e2-0279bb56c81e.pdf			NO	0.3		A				a4c7e861-89f5-4ac0-b4e2-0279bb56c81e				TCGA-CZ-5454-01A		2
+TCGA-CW-5581-11A	11				0.8		f44454f4-282b-41f6-b242-319903d3c9e5			Solid Tissue Normal				NO	0.2		A								TCGA-CW-5581-11A		1
+TCGA-CZ-5461-11A	11				1.1		8f4726e4-4a00-45e9-936b-045950cbce1f			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-5461-11A		1.4
+TCGA-BP-5201-11A	11				1		fc7077a7-04f0-4796-9557-c597e271e4f1			Solid Tissue Normal				NO	0.1		A								TCGA-BP-5201-11A		1.7
+TCGA-BP-5177-01A	01				0.9		1c7d1b8b-c755-4b3a-a1e9-f472aa71ae7d			Primary Tumor	TCGA-BP-5177.069ef9c0-fe81-4a2b-8943-7550ad0eeda0.pdf			NO	0.2		A				069ef9c0-fe81-4a2b-8943-7550ad0eeda0				TCGA-BP-5177-01A		1.3
+TCGA-CJ-4878-11A	11				0.9		20b35f8d-026c-42d0-b1ce-83d6ee549abe			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4878-11A		3.5
+TCGA-B2-A4SR-01A	01		false				EBB0E994-7F98-4AF4-9947-375D19631522			Primary Tumor	TCGA-B2-A4SR.E59F60B8-34CD-4E5D-A960-82392A66C136.pdf			NO			A				E59F60B8-34CD-4E5D-A960-82392A66C136		243		TCGA-B2-A4SR-01A	620	
+TCGA-DV-A4VZ-01A	01		true				A14155F3-DD0F-4735-8B28-2204FEF83896			Primary Tumor	TCGA-DV-A4VZ.61267C95-C3D4-4262-AB1B-BB21029C18CD.pdf			NO			A				61267C95-C3D4-4262-AB1B-BB21029C18CD		1816		TCGA-DV-A4VZ-01A	220	
+TCGA-CJ-4882-01A	01				0.7		46e318f7-a379-4aab-a3a3-c4543b27a68c			Primary Tumor	TCGA-CJ-4882.7db81e82-66a5-403a-a60a-f6508ca1119f.pdf			NO	0.6		A				7db81e82-66a5-403a-a60a-f6508ca1119f				TCGA-CJ-4882-01A		3.5
+TCGA-B2-5639-11A	11				0.9		ba974877-95f4-4c59-9c51-8ec7c304792e			Solid Tissue Normal				NO	0.8		A								TCGA-B2-5639-11A		1.3
+TCGA-A3-3346-11A	11				0.8		fb56ed68-9c14-441c-b1c8-9537ed3a8dad			Solid Tissue Normal				NO	0.3		A								TCGA-A3-3346-11A		1
+TCGA-CJ-4899-01A	01				0.7		e2d40747-f751-4ccb-a45c-a60b06046db1			Primary Tumor	TCGA-CJ-4899.549913d4-c8d1-42d1-9da6-a7a10480e210.pdf			NO	0.5		A				549913d4-c8d1-42d1-9da6-a7a10480e210				TCGA-CJ-4899-01A		2.3
+TCGA-A3-A8OX-10A	10		false				B4B6AF0F-A786-46C8-8CD1-25E23346E24F			Blood Derived Normal				NO			A						556		TCGA-A3-A8OX-10A		
+TCGA-BP-4787-01A	01				1.8		3f52005c-4f85-4651-b027-c455ba143bcc			Primary Tumor	TCGA-BP-4787.76e2aad5-00d1-4d94-878b-2af2b403f958.pdf			NO	0.4		A				76e2aad5-00d1-4d94-878b-2af2b403f958				TCGA-BP-4787-01A		2.4
+TCGA-A3-3320-01A	01				0.7		ff39c988-3d62-4bbd-9453-82ade6e1d44c			Primary Tumor	TCGA-A3-3320.7df3fdc1-6d54-4ec7-828c-71799b083741.pdf			NO	0.7		A				7df3fdc1-6d54-4ec7-828c-71799b083741				TCGA-A3-3320-01A		1.5
+TCGA-CJ-4874-11A	11				0.9		8ba6225f-c256-4051-a49c-c8d0201279b3			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4874-11A		3
+TCGA-BP-4165-11A	11				0.9		df88f375-2025-4ea4-b539-89bb749270d4			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4165-11A		1.4
+TCGA-G6-A5PC-10A	10		false				C7C131A8-E8EA-41A4-A01D-782060D4C28F			Blood Derived Normal				NO			A						372		TCGA-G6-A5PC-10A		
+TCGA-CZ-5452-01A	01				1.1		de8225ab-7150-4a1f-a2b2-5cf2ba1137b9			Primary Tumor	TCGA-CZ-5452.9624f2f0-6ea5-45f5-9bd2-8ae9e5a62398.pdf			NO	0.3		A				9624f2f0-6ea5-45f5-9bd2-8ae9e5a62398				TCGA-CZ-5452-01A		2
+TCGA-CZ-4863-01A	01				0.6		753f0c0c-ac24-4e17-88f9-516366f7beb1			Primary Tumor	TCGA-CZ-4863.700727c1-bd04-4753-adb9-308b05c29a45.pdf			NO	0.3		A				700727c1-bd04-4753-adb9-308b05c29a45				TCGA-CZ-4863-01A		1
+TCGA-GK-A6C7-01A	01		false				38CD04AE-DA05-45E1-831C-62F0697093D4			Primary Tumor	TCGA-GK-A6C7.FAC39368-68AC-4426-BAFF-43E0BBFDA701.pdf			NO			A				FAC39368-68AC-4426-BAFF-43E0BBFDA701		141		TCGA-GK-A6C7-01A	390	
+TCGA-B0-4706-01A	01				1.8		b48f69f1-9023-4bab-9e28-e2e871cbbe7d			Primary Tumor	TCGA-B0-4706.9e87fe25-1a78-446c-a6dd-156f5739d6cd.pdf			NO	0.3		A				9e87fe25-1a78-446c-a6dd-156f5739d6cd				TCGA-B0-4706-01A		3
+TCGA-B0-5088-11A	11				0.6		1c8bae16-2637-42cc-bde1-c0325631904d			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5088-11A		0.8
+TCGA-B0-5705-11A	11				0.8		e98b63c1-84b9-453c-b38e-b7e123e18b7e			Solid Tissue Normal				NO	0.4		A								TCGA-B0-5705-11A		1.8
+TCGA-BP-5187-01A	01				1.3		3257e690-9306-434f-b6ac-17da58ab1243			Primary Tumor	TCGA-BP-5187.c30d90f6-815c-477d-a270-cfbd9f5804be.pdf			NO	0.2		A				c30d90f6-815c-477d-a270-cfbd9f5804be				TCGA-BP-5187-01A		1.8
+TCGA-CJ-4902-01A	01				1		3944c4a9-bf7b-4c59-a259-86b5d9a4c4e1			Primary Tumor	TCGA-CJ-4902.d9c1edb2-4078-4f89-b2f0-6c10d8d8a9ff.pdf			NO	0.5		A				d9c1edb2-4078-4f89-b2f0-6c10d8d8a9ff				TCGA-CJ-4902-01A		3.4
+TCGA-A3-3322-11A	11				1		2ba2c226-3b3b-4354-a206-b76614c4c28b			Solid Tissue Normal				NO	0.7		A								TCGA-A3-3322-11A		2
+TCGA-BP-4991-11A	11				0.7		1f7fe989-7a82-441a-933b-401ad053cb02			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4991-11A		1
+TCGA-AK-3454-10A	10						38c35805-cf4c-4d80-af30-4790ef57bad8			Blood Derived Normal				NO			A								TCGA-AK-3454-10A		
+TCGA-BP-5174-01A	01				0.6		6a3a3238-eb9a-43b4-8bc5-11203c0ab827			Primary Tumor	TCGA-BP-5174.3ca5952b-4286-4703-9e27-02019b71599e.pdf			NO	0.1		A				3ca5952b-4286-4703-9e27-02019b71599e				TCGA-BP-5174-01A		1
+TCGA-CJ-5678-11A	11				0.9		e2a8a613-fa46-4458-8956-6a992099e93a			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-5678-11A		3.6
+TCGA-A3-3359-11A	11				1		d5acd8fe-7635-4ef9-b7c2-7bcbb2393a14			Solid Tissue Normal				NO	0.5		A								TCGA-A3-3359-11A		2
+TCGA-B4-5378-01A	01				0.9		76ba82be-5259-4879-8133-cba41041bb03			Primary Tumor	TCGA-B4-5378.f876c310-f41d-4c92-b28d-0964c96e75c8.pdf			NO	0.3		A				f876c310-f41d-4c92-b28d-0964c96e75c8				TCGA-B4-5378-01A		1.3
+TCGA-B0-4693-01A	01				1.4		5d8c8d4b-0416-4121-ac97-717bc2ea8f27			Primary Tumor	TCGA-B0-4693.a99c7ecf-6b88-4e24-bdf1-1c109ec20344.pdf			NO	0.2		A				a99c7ecf-6b88-4e24-bdf1-1c109ec20344				TCGA-B0-4693-01A		1.6
+TCGA-B0-4817-11A	11				0.8		d65c2832-7863-4396-90dd-ca4e109838fc			Solid Tissue Normal				NO	0.2		A								TCGA-B0-4817-11A		1.3
+TCGA-BP-4960-11A	11				1.2		98512ed2-db82-4fa7-a7b6-9a2c3e7696e4			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4960-11A		2.2
+TCGA-AK-3455-10A	10						017e13fe-baad-49a6-ab3c-4d0082029f16			Blood Derived Normal				NO			A								TCGA-AK-3455-10A		
+TCGA-BP-4994-11A	11				0.9		69ef31d4-052e-45d2-a9c6-5dee53452f1f			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4994-11A		1.7
+TCGA-CW-5580-11A	11				0.6		8407a65c-fb05-4211-b888-48371315e65c			Solid Tissue Normal				NO	0.6		A								TCGA-CW-5580-11A		1
+TCGA-B0-4852-11A	11				0.8		dd2fd494-160b-4f20-ada9-fa6793b66626			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4852-11A		1.9
+TCGA-B8-A54G-01A	01		false				45CB042C-EE57-42AD-A8C2-1E2D75330F50			Primary Tumor	TCGA-B8-A54G.FCE3B3CB-A0E9-496B-871E-7A82AC4FA392.pdf			NO			A				FCE3B3CB-A0E9-496B-871E-7A82AC4FA392		313		TCGA-B8-A54G-01A	320	
+TCGA-BP-4962-11A	11				0.7		697b8e3b-90aa-4fca-b6b2-91a12d90f98b			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4962-11A		1.3
+TCGA-B0-5109-01A	01				0.5		ef5f633b-f9fa-49b1-8f69-bee72f89f403			Primary Tumor	TCGA-B0-5109.85014344-65f6-48b5-aed7-6fe36ad0a31e.pdf			NO	0.2		A				85014344-65f6-48b5-aed7-6fe36ad0a31e				TCGA-B0-5109-01A		1.7
+TCGA-B0-4714-01A	01				1.4		37ebcaeb-7a9c-4e96-adf2-49aa7e402afd			Primary Tumor	TCGA-B0-4714.dfef8bb2-0697-4ede-8ed3-28da9f7b201f.pdf			NO	0.2		A				dfef8bb2-0697-4ede-8ed3-28da9f7b201f				TCGA-B0-4714-01A		1.5
+TCGA-B8-5551-11A	11				0.9		fc93a99b-90fd-44e4-a7bf-209645a6f639			Solid Tissue Normal				NO	0.6		A								TCGA-B8-5551-11A		1
+TCGA-A3-3358-11A	11				0.8		a553374e-f059-41f2-8250-687845c561b5			Solid Tissue Normal				NO	0.5		A								TCGA-A3-3358-11A		1.6
+TCGA-BP-4340-01A	01				1.5		091f38f9-cac5-4e1c-a955-ce8a07602cfd			Primary Tumor	TCGA-BP-4340.9dfd0764-2bf4-46f1-8bfb-5c89bfeab3b1.pdf			NO	0.3		A				9dfd0764-2bf4-46f1-8bfb-5c89bfeab3b1				TCGA-BP-4340-01A		2.1
+TCGA-CJ-4891-11A	11				0.9		83dc8f6a-55a6-438b-8a46-69b8951d9785			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4891-11A		3.4
+TCGA-B0-5115-11A	11				1.1		4518ac76-4de5-4dfe-91a8-df09b4a0be2a			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5115-11A		2
+TCGA-CJ-4923-01A	01				0.9		ab1a73f5-611a-44f9-925b-c07b791887af			Primary Tumor	TCGA-CJ-4923.b51a1f35-2991-4277-9044-7761ebc5cada.pdf			NO	0.9		A				b51a1f35-2991-4277-9044-7761ebc5cada				TCGA-CJ-4923-01A		3
+TCGA-B0-4819-11A	11				0.8		31952496-8677-4d7c-99b8-9ba11a127449			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4819-11A		1.4
+TCGA-BP-4798-11A	11				0.8		2fb0065e-d10b-47ed-bc1a-3cbdeea8dd67			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4798-11A		1.5
+TCGA-BP-4987-11A	11				1		aea28dcd-859c-448d-9c06-8a7d8ef63d1d			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4987-11A		1.2
+TCGA-CJ-4923-11A	11				0.8		13fec898-8082-4f7f-b9bc-078be93670b6			Solid Tissue Normal				NO	0.4		A								TCGA-CJ-4923-11A		2
+TCGA-BP-4161-01A	01				1.3		154de511-2bba-4959-970b-6a8429f29793			Primary Tumor	TCGA-BP-4161.dca80d05-eeb7-4ef1-85ae-6c524783e0bb.pdf			NO	0.3		A				dca80d05-eeb7-4ef1-85ae-6c524783e0bb				TCGA-BP-4161-01A		2.1
+TCGA-B4-5834-10A	10						9e174bf7-5169-4b62-a005-1e2d87fbfda3			Blood Derived Normal				NO			A								TCGA-B4-5834-10A		
+TCGA-CW-6090-11A	11				0.6		e22159bf-b539-476a-9956-575db12d29e2			Solid Tissue Normal				NO	0.3		A								TCGA-CW-6090-11A		1.5
+TCGA-BP-4176-11A	11				0.7		4964dcd0-781d-4600-8f87-8179829d0c35			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4176-11A		1.2
+TCGA-B2-5635-11A	11				0.9		42406d67-024d-48f0-b93a-6d4d7db10e95			Solid Tissue Normal				NO	0.7		A								TCGA-B2-5635-11A		2.2
+TCGA-DV-5568-10A	10						b1d7a453-8024-462e-ba6b-35656117e60f			Blood Derived Normal				NO			A								TCGA-DV-5568-10A		
+TCGA-A3-3335-01A	01				0.9		f95fb511-2f44-4f46-b721-6fc0a735af9b			Primary Tumor	TCGA-A3-3335.a47deb40-14c6-4b0b-a237-ec4594f4ddae.pdf			NO	0.3		A				a47deb40-14c6-4b0b-a237-ec4594f4ddae				TCGA-A3-3335-01A		1.1
+TCGA-CJ-4895-01A	01				0.9		7f989eb7-0544-43e3-8e76-ac038de76666			Primary Tumor	TCGA-CJ-4895.29de2168-f05f-40b6-b57a-743f155dc9aa.pdf			NO	0.9		A				29de2168-f05f-40b6-b57a-743f155dc9aa				TCGA-CJ-4895-01A		3.5
+TCGA-B0-4836-01A	01				0.9		645d14d4-d015-47d6-9430-79d4d4b2daca			Primary Tumor	TCGA-B0-4836.6aa4709b-7f20-4632-83e4-25a74588bdca.pdf			NO	0.3		A				6aa4709b-7f20-4632-83e4-25a74588bdca				TCGA-B0-4836-01A		1.7
+TCGA-B8-4153-01B	01				0.6		9ddc30ef-891d-4bfc-a1df-d5a2539b4376			Primary Tumor	TCGA-B8-4153.3ce87474-7776-467a-b209-79972b785698.pdf			NO	0.5		B				3ce87474-7776-467a-b209-79972b785698				TCGA-B8-4153-01B		1
+TCGA-A3-3326-11A	11				0.6		8e7ba42b-77c6-4fad-a39a-9ee4f3c7146f			Solid Tissue Normal				NO	0.5		A								TCGA-A3-3326-11A		1
+TCGA-BP-4769-01A	01				1.3		dd3d1953-11f2-47bc-9c89-31d307fa51ea			Primary Tumor	TCGA-BP-4769.51e88617-d149-4c68-bccc-589274e4f342.pdf			NO	0.2		A				51e88617-d149-4c68-bccc-589274e4f342				TCGA-BP-4769-01A		1.4
+TCGA-A3-3374-01A	01				0.8		60ad6615-67f1-426a-a74f-19dedaed2a7e			Primary Tumor	TCGA-A3-3374.9e5d1e2b-5c9b-45f4-a021-eb3b33d881aa.pdf			NO	0.8		A				9e5d1e2b-5c9b-45f4-a021-eb3b33d881aa				TCGA-A3-3374-01A		1.2
+TCGA-A3-3382-01A	01				0.7		3de5b87e-b12f-446c-aa04-6c20370de727			Primary Tumor	TCGA-A3-3382.7302603f-ef54-4f7b-85ec-d6b06ae79d54.pdf			NO	0.5		A				7302603f-ef54-4f7b-85ec-d6b06ae79d54				TCGA-A3-3382-01A		1.1
+TCGA-CZ-5458-01A	01				0.5		cb781dcc-029a-4497-86f7-69960412d6de			Primary Tumor	TCGA-CZ-5458.110912de-59b9-4ead-bd97-ca82d14f4b0c.pdf			NO	0.2		A				110912de-59b9-4ead-bd97-ca82d14f4b0c				TCGA-CZ-5458-01A		2.1
+TCGA-CJ-5689-11A	11				1		f1421153-1786-4460-b84e-8ddb7c5df064			Solid Tissue Normal				NO	0.4		A								TCGA-CJ-5689-11A		1.1
+TCGA-B0-5113-11A	11				1.1		96d005e4-fb85-4f89-b212-f5a4cd3eeff8			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5113-11A		1.1
+TCGA-B8-5553-10A	10						653837cc-4983-4c82-871a-4593a893d444			Blood Derived Normal				NO			A								TCGA-B8-5553-10A		
+TCGA-CJ-4643-11A	11				0.6		0780c909-e048-4500-82b2-3f02741f7be1			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-4643-11A		2.4
+TCGA-A3-A8OV-01A	01		false				39A55EE6-DDB3-4A84-9D5E-80224AEF960C			Primary Tumor	TCGA-A3-A8OV.9695DE2E-75E0-4654-9092-1C34D160006C.pdf			NO			A				9695DE2E-75E0-4654-9092-1C34D160006C		909		TCGA-A3-A8OV-01A	30	
+TCGA-CJ-4644-01A	01				0.9		259427d0-8f7d-43bb-9cdc-b07c6437dcff			Primary Tumor	TCGA-CJ-4644.0ed35c27-f27b-4870-a15a-56d3ba6006de.pdf			NO	0.5		A				0ed35c27-f27b-4870-a15a-56d3ba6006de				TCGA-CJ-4644-01A		2.8
+TCGA-B4-5843-10A	10						a4d4d1f6-b709-49cb-b513-dc7215c3554b			Blood Derived Normal				NO			A								TCGA-B4-5843-10A		
+TCGA-CJ-4913-11A	11				0.9		84649a32-bf09-41a9-aec3-7e348a24de87			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4913-11A		3
+TCGA-B2-3923-11A	11				0.4		354eacdb-c9b3-49d1-b0f6-c248ca599861			Solid Tissue Normal				NO	0.4		A								TCGA-B2-3923-11A		2
+TCGA-B0-5712-01A	01				0.5		ab4ebb3c-8971-4d9d-87fe-68a82ee7a646			Primary Tumor	TCGA-B0-5712.2a7f0b05-442e-4e1e-99af-29ada019df35.pdf			NO	0.2		A				2a7f0b05-442e-4e1e-99af-29ada019df35				TCGA-B0-5712-01A		1.7
+TCGA-BP-4335-11A	11				1		80c980f2-21b7-43e0-801e-572eb288ea60			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4335-11A		1.5
+TCGA-CJ-4641-01A	01				0.6		b04059a2-77ef-4242-8da5-4e7b594a4e0f			Primary Tumor	TCGA-CJ-4641.a2f1393a-0d5e-406c-99eb-5b59b544ebc7.pdf			NO	0.5		A				a2f1393a-0d5e-406c-99eb-5b59b544ebc7				TCGA-CJ-4641-01A		2.5
+TCGA-B0-5120-01A	01				0.6		b50d3c6f-fdec-488b-ab26-a9b690fad34f			Primary Tumor	TCGA-B0-5120.8a0dbcc3-83f1-41b1-bf99-63b4d13a2b02.pdf			NO	0.2		A				8a0dbcc3-83f1-41b1-bf99-63b4d13a2b02				TCGA-B0-5120-01A		0.7
+TCGA-BP-4345-11A	11				0.8		7f9034bb-9028-48d6-a0ee-8012f9165d07			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4345-11A		1.5
+TCGA-G6-A8L8-10A	10		false				96B27CBC-76D5-46C0-A522-456477EEB7C6			Blood Derived Normal				NO			A						1874		TCGA-G6-A8L8-10A		
+TCGA-CJ-5682-11A	11				0.9		5f49b532-b1e3-4b18-a366-068aa0d1f935			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-5682-11A		3.2
+TCGA-CZ-5988-11A	11				0.5		586f883e-5719-45fc-9fd4-0d4c62136952			Solid Tissue Normal				NO	0.1		A								TCGA-CZ-5988-11A		1.2
+TCGA-B0-4834-01A	01				1		88568fa8-7e1b-40bb-8c43-6cd1a442b796			Primary Tumor	TCGA-B0-4834.12c56af3-b9ff-4263-b41f-552dd96fa093.pdf			NO	0.3		A				12c56af3-b9ff-4263-b41f-552dd96fa093				TCGA-B0-4834-01A		2.5
+TCGA-AK-3434-01A	01				0.9		621f4b03-e765-428f-940c-97c91b2b59a3			Primary Tumor	TCGA-AK-3434.ac0d06cb-e75f-424a-a5e6-8a301ca69ad5.pdf			NO	0.4		A				ac0d06cb-e75f-424a-a5e6-8a301ca69ad5				TCGA-AK-3434-01A		1
+TCGA-BP-4804-01A	01				1.1		6c0fd91a-d164-4fee-978b-a7756aa6dcf1			Primary Tumor	TCGA-BP-4804.8df70566-2b2b-43c9-8761-fdbb31b93d96.pdf			NO	0.3		A				8df70566-2b2b-43c9-8761-fdbb31b93d96				TCGA-BP-4804-01A		1.6
+TCGA-BP-4351-01A	01				1.4		1b73f6b6-a8ad-40e7-a3d1-6c621e9a2a6a			Primary Tumor	TCGA-BP-4351.0e118c8d-fc10-4298-921c-8b419014f7d8.pdf			NO	0.4		A				0e118c8d-fc10-4298-921c-8b419014f7d8				TCGA-BP-4351-01A		1.5
+TCGA-CZ-4866-11A	11				0.6		a9aa0e4c-26cc-4dd0-bcac-5a9f0a17d9dc			Solid Tissue Normal				NO	0.4		A								TCGA-CZ-4866-11A		1.6
+TCGA-B0-4849-11A	11				0.5		ad002a3d-f8e6-46ec-a7fe-7f4b71f4b43a			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4849-11A		1.5
+TCGA-B0-4842-01A	01				1.9		50f4bc66-e2af-478d-9253-8370ab937d88			Primary Tumor	TCGA-B0-4842.a1922ef5-4161-4aba-91ae-c4ade5a863d6.pdf			NO	0.2		A				a1922ef5-4161-4aba-91ae-c4ade5a863d6				TCGA-B0-4842-01A		2
+TCGA-CJ-4903-01A	01				0.9		9ebc412b-6e78-4bc6-9e18-e6c75a92756a			Primary Tumor	TCGA-CJ-4903.d48f97bd-9231-42fc-9864-bd43d3ee7536.pdf			NO	0.5		A				d48f97bd-9231-42fc-9864-bd43d3ee7536				TCGA-CJ-4903-01A		3
+TCGA-A3-3307-01A	01				0.8		2d987bc5-bc12-46ec-8d8e-192465c362a0			Primary Tumor	TCGA-A3-3307.2ee79c20-487a-41b8-84f5-06fb56fc76a2.pdf			NO	0.6		A				2ee79c20-487a-41b8-84f5-06fb56fc76a2				TCGA-A3-3307-01A		1
+TCGA-B0-5102-01A	01				0.5		d662aeb3-ea40-4642-b726-6b8556557e95			Primary Tumor	TCGA-B0-5102.528f309b-ea28-4f5d-b938-417911907cd9.pdf			NO	0.4		A				528f309b-ea28-4f5d-b938-417911907cd9				TCGA-B0-5102-01A		1.5
+TCGA-B8-4620-11A	11				0.8		5a67b5d6-3e0c-44bc-bb0e-73d555c6f4cb			Solid Tissue Normal				NO	0.2		A								TCGA-B8-4620-11A		0.9
+TCGA-CJ-5679-11A	11				0.8		fc0f8559-5051-4428-8835-9922ab36bda5			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-5679-11A		2.6
+TCGA-BP-4332-11A	11				1		3ca3e5ec-343c-49d9-a807-de44a65a4986			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4332-11A		1.3
+TCGA-BP-5192-11A	11				0.5		561e6926-3fcf-45cf-bf86-f8832d935203			Solid Tissue Normal				NO	0.1		A								TCGA-BP-5192-11A		1
+TCGA-CW-5590-01A	01				1		0ca170b7-0853-4f38-b4b2-fbed4a9cdf23			Primary Tumor	TCGA-CW-5590.0bc280c6-ac1c-4bfb-ae13-54357f7d8928.pdf			NO	0.5		A				0bc280c6-ac1c-4bfb-ae13-54357f7d8928				TCGA-CW-5590-01A		1.2
+TCGA-CJ-4875-11A	11				0.9		a8e330dd-3708-4239-b58d-c7f5e7c16fee			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-4875-11A		2.3
+TCGA-AK-3447-10A	10						db39122c-5260-4bf8-b06b-62088a07e690			Blood Derived Normal				NO			A								TCGA-AK-3447-10A		
+TCGA-A3-3313-01A	01				0.9		9ebefdf8-ec2b-4647-b750-5c603fa2d6b0			Primary Tumor	TCGA-A3-3313.738db1a1-3cf3-41e6-a13d-2dc831fef1a2.pdf			NO	0.8		A				738db1a1-3cf3-41e6-a13d-2dc831fef1a2				TCGA-A3-3313-01A		2
+TCGA-BP-5186-11A	11				0.8		d6bd5d0a-d764-4be0-98fd-f02314c8c5d1			Solid Tissue Normal				NO	0.1		A								TCGA-BP-5186-11A		1
+TCGA-BP-4164-11A	11				1		cdd409db-5010-46e5-80e6-df5374edf622			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4164-11A		2.3
+TCGA-B0-4848-01A	01				0.8		eb255315-79f9-4aeb-8b9c-6a13cf5d0556			Primary Tumor	TCGA-B0-4848.20899d62-bda2-459b-98ac-f83d737137fe.pdf			NO	0.2		A				20899d62-bda2-459b-98ac-f83d737137fe				TCGA-B0-4848-01A		1.4
+TCGA-B8-4619-11A	11				0.5		aaf4a265-677c-4b08-9fc3-02a1e88703f4			Solid Tissue Normal				NO	0.2		A								TCGA-B8-4619-11A		0.6
+TCGA-AK-3456-01A	01				1		6027f7fd-8d0a-4354-996a-8cf91de68996			Primary Tumor	TCGA-AK-3456.1ba28891-0047-424f-917d-542a9ca90343.pdf			NO	0.5		A				1ba28891-0047-424f-917d-542a9ca90343				TCGA-AK-3456-01A		1
+TCGA-BP-4989-01A	01				1.5		d1130332-1f54-48d6-9c73-0c7b55454b06			Primary Tumor	TCGA-BP-4989.4dcbe89b-3ac2-482f-a9ae-01a25e41d1cf.pdf			NO	0.1		A				4dcbe89b-3ac2-482f-a9ae-01a25e41d1cf				TCGA-BP-4989-01A		1.8
+TCGA-BP-4768-11A	11				0.4		1e0460ca-aad7-4f0e-bc48-ce9f65c72992			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4768-11A		1.1
+TCGA-CZ-5456-01A	01				1		623f02d1-b14f-47fa-a3b6-78202e183644			Primary Tumor	TCGA-CZ-5456.46d64733-fbf3-4c27-9b4e-d5fb3f42cefe.pdf			NO	0.3		A				46d64733-fbf3-4c27-9b4e-d5fb3f42cefe				TCGA-CZ-5456-01A		1.6
+TCGA-B0-4688-01A	01				1		e59c35c8-741b-4323-a08d-772bd9e43d4a			Primary Tumor	TCGA-B0-4688.125b79d9-4d77-4ae4-bfa8-f42798448b82.pdf			NO	0.4		A				125b79d9-4d77-4ae4-bfa8-f42798448b82				TCGA-B0-4688-01A		1.7
+TCGA-B8-A54D-10A	10		false				A851971A-E964-47D4-ADD8-39668C8130EB			Blood Derived Normal				NO			A						537		TCGA-B8-A54D-10A		
+TCGA-B4-5844-10A	10						d96f8e6c-1935-4e3d-9b1c-ad3ea7682f7c			Blood Derived Normal				NO			A								TCGA-B4-5844-10A		
+TCGA-CJ-5676-11A	11				0.6		ca1c190c-a8ac-4c1c-b722-b981febb8d4f			Solid Tissue Normal				NO	0.6		A								TCGA-CJ-5676-11A		3.4
+TCGA-CZ-5982-11A	11				0.7		0f342ca4-4e82-4b11-9ef5-df76bf88e4f1			Solid Tissue Normal				NO	0.3		A								TCGA-CZ-5982-11A		1.2
+TCGA-B8-5163-01A	01				0.8		8b31900a-bca5-42da-b06a-87004970f9fb			Primary Tumor	TCGA-B8-5163.4e7cfbab-7e98-4e75-9eef-6ad8316a38f5.pdf			NO	0.2		A				4e7cfbab-7e98-4e75-9eef-6ad8316a38f5				TCGA-B8-5163-01A		1.3
+TCGA-AK-3427-10A	10						305a74a5-13c1-48fa-b40b-c83637344e7e			Blood Derived Normal				NO			A								TCGA-AK-3427-10A		
+TCGA-CZ-5468-01A	01				1.5		12c40818-8704-49a9-8a54-cb85fcd10cfc			Primary Tumor	TCGA-CZ-5468.05595cc4-53fb-432f-9131-31d60441e358.pdf			NO	0.2		A				05595cc4-53fb-432f-9131-31d60441e358				TCGA-CZ-5468-01A		1.7
+TCGA-CJ-6033-01A	01				0.9		840633a2-9565-4096-aa67-584952fbd6ab			Primary Tumor	TCGA-CJ-6033.e48095f2-59ef-457a-b864-426fc9a0f118.pdf			NO	0.9		A				e48095f2-59ef-457a-b864-426fc9a0f118				TCGA-CJ-6033-01A		3
+TCGA-BP-5189-11A	11				0.8		40c68737-e42a-4d24-aff7-f20427f4f1a4			Solid Tissue Normal				NO	0.2		A								TCGA-BP-5189-11A		1.5
+TCGA-B0-5084-01A	01				0.4		0c8ff168-a5ba-40ed-b2b0-b58c9b9959b7			Primary Tumor	TCGA-B0-5084.fa09a53e-5c53-4a61-9bc6-6393f045ddbc.pdf			NO	0.4		A				fa09a53e-5c53-4a61-9bc6-6393f045ddbc				TCGA-B0-5084-01A		1.3
+TCGA-EU-5907-01A	01				0.7		9dd9bed8-2266-4274-aec5-fed4f391b40e			Primary Tumor	TCGA-EU-5907.0a1d3e0f-0cc3-4139-9578-881d8b3879a5.pdf			NO	0.3		A				0a1d3e0f-0cc3-4139-9578-881d8b3879a5				TCGA-EU-5907-01A		2
+TCGA-BP-4334-11A	11				1.2		070576c1-e4c0-48c1-aade-2bdd41a9c08c			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4334-11A		2
+TCGA-B0-4844-01A	01				1.5		636b28ed-e90d-4643-906b-473b6b1212dc			Primary Tumor	TCGA-B0-4844.8f319bd4-d2a1-4221-9fc6-50af12dd81d4.pdf			NO	0.2		A				8f319bd4-d2a1-4221-9fc6-50af12dd81d4				TCGA-B0-4844-01A		1.9
+TCGA-BP-4974-11A	11				1		68763efe-e612-4e17-ab19-d469815379e8			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4974-11A		1.3
+TCGA-CJ-4904-01A	01				0.9		929667cd-81d8-4e8b-9721-0e5fc8e48619			Primary Tumor	TCGA-CJ-4904.48aadd82-1ecc-4d20-b34e-1c0f96baf3f7.pdf			NO	0.9		A				48aadd82-1ecc-4d20-b34e-1c0f96baf3f7				TCGA-CJ-4904-01A		3
+TCGA-B0-4844-11A	11				1		edcab604-3f64-41d4-b166-c0eb56e4e7e5			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4844-11A		1.5
+TCGA-CW-5585-01A	01				0.4		b5040da2-0d96-422a-9760-98a95c136fe8			Primary Tumor	TCGA-CW-5585.454c3df5-9e2c-41fd-8315-7efee290173f.pdf			NO	0.4		A				454c3df5-9e2c-41fd-8315-7efee290173f				TCGA-CW-5585-01A		1.8
+TCGA-BP-4158-11A	11				1.1		1cd2cdb7-e78f-4412-994d-2948c46f56a1			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4158-11A		2.5
+TCGA-BP-4781-01A	01				0.6		15423d9c-91c3-4fe5-9880-a28840acb75a			Primary Tumor	TCGA-BP-4781.50aaf7bc-5445-4255-9752-4d6ac096aa50.pdf			NO	0.2		A				50aaf7bc-5445-4255-9752-4d6ac096aa50				TCGA-BP-4781-01A		1.5
+TCGA-B0-4828-11A	11				1.3		9bda8409-9949-41d8-b5f9-d032bb8d5609			Solid Tissue Normal				NO	0.2		A								TCGA-B0-4828-11A		1.7
+TCGA-B0-5110-01A	01				1.5		38041aeb-60fe-4784-a5d8-fd04b5c0c5f8			Primary Tumor	TCGA-B0-5110.b0afd2b8-18ea-499f-aa35-96200644b478.pdf			NO	0.4		A				b0afd2b8-18ea-499f-aa35-96200644b478				TCGA-B0-5110-01A		1.6
+TCGA-G6-A5PC-01A	01		false				FF3E53E7-90BE-48CE-B729-9A30FC7FCE92			Primary Tumor	TCGA-G6-A5PC.F9099C73-C2B4-47DF-B4EB-420E9B4353BA.pdf			NO			A				F9099C73-C2B4-47DF-B4EB-420E9B4353BA		295		TCGA-G6-A5PC-01A	170	
+TCGA-CZ-4865-01A	01				1.4		228290f9-19f1-4b00-9765-c89de4882e60			Primary Tumor	TCGA-CZ-4865.b44898d2-5b0e-4f20-ba5f-ee1e10bb156b.pdf			NO	0.2		A				b44898d2-5b0e-4f20-ba5f-ee1e10bb156b				TCGA-CZ-4865-01A		2
+TCGA-BP-5195-01A	01				1.2		bfad42ca-da45-4f5b-adce-f4e94980cc86			Primary Tumor	TCGA-BP-5195.25c0b433-5557-4165-922e-2c1eac9c26f0.pdf			NO	0.3		A				25c0b433-5557-4165-922e-2c1eac9c26f0				TCGA-BP-5195-01A		1.4
+TCGA-A3-3382-11A	11				0.7		aef315e1-2082-40d7-824c-fd231ad01ee0			Solid Tissue Normal				NO	0.5		A								TCGA-A3-3382-11A		1.5
+TCGA-BP-5202-11A	11				0.6		1ffd94e6-eb90-4826-b391-20d7c63bbbcb			Solid Tissue Normal				NO	0.2		A								TCGA-BP-5202-11A		1.5
+TCGA-A3-3347-01A	01				0.8		f2e8cb09-297f-4860-af20-73d1f5a20e6b			Primary Tumor	TCGA-A3-3347.3f843e1d-11a7-4103-8ef1-0f918da1b60f.pdf			NO	0.6		A				3f843e1d-11a7-4103-8ef1-0f918da1b60f				TCGA-A3-3347-01A		1.2
+TCGA-AK-3429-01A	01				0.6		c6cd8e56-f7c1-4359-a8e7-3f6215bb7d97			Primary Tumor	TCGA-AK-3429.79567cab-fa8d-43b3-abef-edf36040c3f9.pdf			NO	0.3		A				79567cab-fa8d-43b3-abef-edf36040c3f9				TCGA-AK-3429-01A		1
+TCGA-BP-5177-11A	11				1.1		4517c26e-6383-4c4c-a0ee-4de5bcc76902			Solid Tissue Normal				NO	0.3		A								TCGA-BP-5177-11A		1.6
+TCGA-B0-5703-01A	01				0.8		3e0e68b0-c979-43a3-9ad3-4ad1b978b797			Primary Tumor	TCGA-B0-5703.8695872f-42db-44b9-a326-464bc1d0f411.pdf			NO	0.4		A				8695872f-42db-44b9-a326-464bc1d0f411				TCGA-B0-5703-01A		1.8
+TCGA-BP-4329-01A	01				1		1a560183-4557-4a3b-8af0-a10ce8399f9e			Primary Tumor	TCGA-BP-4329.54f2ce97-760f-4ea7-9fa1-4dcac28ac8fe.pdf			NO	0.3		A				54f2ce97-760f-4ea7-9fa1-4dcac28ac8fe				TCGA-BP-4329-01A		1.2
+TCGA-BP-4758-11A	11				0.5		089d8f98-ce5e-4db6-9d53-ffb4fba99e1d			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4758-11A		1
+TCGA-B0-4818-01A	01				1.5		d77173e8-59f1-404d-ac00-766ee3995de0			Primary Tumor	TCGA-B0-4818.960bdae7-60b9-4693-9af5-9ab8d2c40bd5.pdf			NO	0.1		A				960bdae7-60b9-4693-9af5-9ab8d2c40bd5				TCGA-B0-4818-01A		1.6
+TCGA-AK-3425-01A	01				1.4		34d03536-8d04-4a07-8ba3-621e2d5f2d23			Primary Tumor	TCGA-AK-3425.3c0dcc29-86cc-44b2-aba9-fb6f704d7c8e.pdf			NO	0.4		A				3c0dcc29-86cc-44b2-aba9-fb6f704d7c8e				TCGA-AK-3425-01A		1.4
+TCGA-CZ-5452-11A	11				0.9		52343d71-987f-4893-bd66-66bb8d8f0211			Solid Tissue Normal				NO	0.3		A								TCGA-CZ-5452-11A		1.9
+TCGA-BP-4164-01A	01				1.2		a8fab76e-ae69-43d6-972b-5837aec668fd			Primary Tumor	TCGA-BP-4164.b598f376-c31a-4d96-a518-e277024b2700.pdf			NO	0.4		A				b598f376-c31a-4d96-a518-e277024b2700				TCGA-BP-4164-01A		1.3
+TCGA-DV-5573-01A	01				0.6		cec4c4db-17e2-4ea5-a0d6-2cda2a575cd9			Primary Tumor	TCGA-DV-5573.534d2539-d570-4782-b7d8-2c489be26d19.pdf			NO	0.4		A				534d2539-d570-4782-b7d8-2c489be26d19				TCGA-DV-5573-01A		1.4
+TCGA-B0-4813-01A	01				1		f8e721c1-e58a-4964-9c44-91b3bd42af55			Primary Tumor	TCGA-B0-4813.0b904450-5c80-4e14-9918-1949fa7c15fa.pdf			NO	0.3		A				0b904450-5c80-4e14-9918-1949fa7c15fa				TCGA-B0-4813-01A		2.5
+TCGA-CJ-5689-01A	01				0.8		f81ef40e-108f-4be4-a841-810e01008f28			Primary Tumor	TCGA-CJ-5689.c47345fa-df3e-4993-985e-1d1a877e9bcb.pdf			NO	0.6		A				c47345fa-df3e-4993-985e-1d1a877e9bcb				TCGA-CJ-5689-01A		2.8
+TCGA-B0-5702-01A	01				0.8		5a24db32-051d-488e-ad06-31f202a1e1f1			Primary Tumor	TCGA-B0-5702.e3872d42-5e63-43f7-ab75-3fd8bf39c32e.pdf			NO	0.3		A				e3872d42-5e63-43f7-ab75-3fd8bf39c32e				TCGA-B0-5702-01A		0.8
+TCGA-CW-5581-01A	01				0.3		22be4bab-231e-4784-aaa9-45ae158a5153			Primary Tumor	TCGA-CW-5581.0c3f78b2-8b57-4966-8870-2214a1581214.pdf			NO	0.1		A				0c3f78b2-8b57-4966-8870-2214a1581214				TCGA-CW-5581-01A		1
+TCGA-A3-A8CQ-10A	10		false				8BD36B03-E4FE-496C-AE4D-EB16C91D47AB			Blood Derived Normal				NO			A						730		TCGA-A3-A8CQ-10A		
+TCGA-BP-4176-01A	01				0.9		b0668ea0-375e-473f-90f3-8078c41a790f			Primary Tumor	TCGA-BP-4176.104bb086-299d-4aa3-a07b-27066d1d036f.pdf			NO	0.4		A				104bb086-299d-4aa3-a07b-27066d1d036f				TCGA-BP-4176-01A		1.2
+TCGA-CZ-4860-11A	11				0.6		8517ebf6-775a-44b8-8505-977e5fd2fe9e			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-4860-11A		2
+TCGA-B2-A4SR-11A	11		false				6DFC0DB4-76BB-41A3-8299-F3C8198585F3			Solid Tissue Normal				NO			A						243		TCGA-B2-A4SR-11A	980	
+TCGA-CJ-4905-01A	01				0.9		36cb6f79-4d32-408b-8bb0-897dac58696c			Primary Tumor	TCGA-CJ-4905.442576a1-3aae-480d-8992-7185c1ddb44f.pdf			NO	0.9		A				442576a1-3aae-480d-8992-7185c1ddb44f				TCGA-CJ-4905-01A		3.1
+TCGA-B0-4713-01A	01				0.9		17d8263d-28bb-45ab-8373-a457a82e28bb			Primary Tumor	TCGA-B0-4713.07279c0b-0d5d-4011-b516-bd6b4976ab5a.pdf			NO	0.3		A				07279c0b-0d5d-4011-b516-bd6b4976ab5a				TCGA-B0-4713-01A		1.4
+TCGA-B2-5639-01A	01				0.9		a501be4d-dd7e-41cd-9f85-e05e1e486001			Primary Tumor	TCGA-B2-5639.cca79ccc-88f2-4673-b474-6f3b549a7af1.pdf			NO	0.9		A				cca79ccc-88f2-4673-b474-6f3b549a7af1				TCGA-B2-5639-01A		2
+TCGA-BP-4967-01A	01				1		ae052a98-d8a5-431f-9632-df4dc22ac113			Primary Tumor	TCGA-BP-4967.7025e70d-8e64-4ae2-9d48-9f8b92d47966.pdf			NO	0.2		A				7025e70d-8e64-4ae2-9d48-9f8b92d47966				TCGA-BP-4967-01A		1.7
+TCGA-B8-4148-01A	01				0.6		75e6cd5f-d328-40da-bfbd-ae4210ef627b			Primary Tumor	TCGA-B8-4148.1f31143e-6e26-4ed8-8d1f-20655565ed43.pdf			NO	0.3		A				1f31143e-6e26-4ed8-8d1f-20655565ed43				TCGA-B8-4148-01A		0.8
+TCGA-B0-5095-01A	01				0.8		48a1a40d-462f-47e2-81ad-ed3c80f04552			Primary Tumor	TCGA-B0-5095.5ae8298d-57ad-4f4c-a11d-431e4023a236.pdf			NO	0.3		A				5ae8298d-57ad-4f4c-a11d-431e4023a236				TCGA-B0-5095-01A		1.7
+TCGA-A3-3320-11A	11				0.7		b6f445a0-8e8e-42ef-8177-0016f9ed6cf7			Solid Tissue Normal				NO	0.7		A								TCGA-A3-3320-11A		1.5
+TCGA-B0-5697-11A	11				0.6		3cac036a-81cb-4c95-9053-c2c01533858e			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5697-11A		1.5
+TCGA-BP-5170-01A	01				1.1		1bcfffd8-46b1-4d13-8188-0a9f8fdb2251			Primary Tumor	TCGA-BP-5170.6c8b6b3d-f68a-448e-af85-4becc1625c6c.pdf			NO	0.2		A				6c8b6b3d-f68a-448e-af85-4becc1625c6c				TCGA-BP-5170-01A		1.8
+TCGA-BP-5176-01A	01				0.7		6a6dfbd9-937b-4939-b604-427bca03bbcd			Primary Tumor	TCGA-BP-5176.4a7d1717-ac08-4db3-98cd-0e41ca6f712a.pdf			NO	0.1		A				4a7d1717-ac08-4db3-98cd-0e41ca6f712a				TCGA-BP-5176-01A		1.6
+TCGA-BP-5185-11A	11				1		660a0cc0-ecfe-4566-a233-ddc978c5be97			Solid Tissue Normal				NO	0.2		A								TCGA-BP-5185-11A		1.2
+TCGA-BP-4973-01A	01				1		2689f0ba-cce5-45fb-8db5-9832e88663f3			Primary Tumor	TCGA-BP-4973.f80c8421-2a2b-4310-8e2e-225d724b9c7d.pdf			NO	0.2		A				f80c8421-2a2b-4310-8e2e-225d724b9c7d				TCGA-BP-4973-01A		1.5
+TCGA-BP-4760-11A	11				0.6		637c925d-19ff-42e0-8d19-f004d164c59d			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4760-11A		1.1
+TCGA-A3-3319-11A	11				0.9		509b945b-997e-41ab-9b8b-67a0d3170749			Solid Tissue Normal				NO	0.8		A								TCGA-A3-3319-11A		2
+TCGA-BP-4807-01A	01				0.7		26307437-2f30-4647-81ac-f6bae5be6113			Primary Tumor	TCGA-BP-4807.e90ebecf-b60a-42a1-9399-1a429093bd29.pdf			NO	0.2		A				e90ebecf-b60a-42a1-9399-1a429093bd29				TCGA-BP-4807-01A		1.3
+TCGA-B0-4698-11A	11				0.8		e5891749-e30c-416c-be8a-392e6c930fad			Solid Tissue Normal				NO	0.4		A								TCGA-B0-4698-11A		1.1
+TCGA-B0-4852-01A	01				0.4		3db92958-403a-48eb-a006-3cc6f7e9bcbd			Primary Tumor	TCGA-B0-4852.562f6883-15ae-4222-a680-6c0d9d63b3bd.pdf			NO	0.3		A				562f6883-15ae-4222-a680-6c0d9d63b3bd				TCGA-B0-4852-01A		2
+TCGA-B0-5088-01A	01				1.6		29634b53-aeb9-42cd-8162-0121b0cd7043			Primary Tumor	TCGA-B0-5088.4e83b05c-dea7-4f21-b2f3-8e49dc73eb6b.pdf			NO	0.2		A				4e83b05c-dea7-4f21-b2f3-8e49dc73eb6b				TCGA-B0-5088-01A		1.6
+TCGA-B0-5705-01A	01				0.8		41d07c22-cb1e-40dc-9e02-5fd269eaf103			Primary Tumor	TCGA-B0-5705.e29a3387-2212-4514-823e-5f692e1e6799.pdf			NO	0.3		A				e29a3387-2212-4514-823e-5f692e1e6799				TCGA-B0-5705-01A		2.1
+TCGA-AK-3443-10A	10						1bde6af0-55a2-453c-ada4-6b90d79a7d65			Blood Derived Normal				NO			A								TCGA-AK-3443-10A		
+TCGA-CJ-4902-11A	11				0.9		32fb205a-6752-46ab-b098-2c3955920f94			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-4902-11A		2.7
+TCGA-AK-3440-01A	01				0.9		a1f24fc5-19a7-474c-952e-940f92734c02			Primary Tumor	TCGA-AK-3440.57353f14-2db0-4dae-8f64-4ad7959ea765.pdf			NO	0.3		A				57353f14-2db0-4dae-8f64-4ad7959ea765				TCGA-AK-3440-01A		1.2
+TCGA-CJ-4638-11A	11				0.7		71e49d5a-9f6c-4ba9-8dc6-dd914394579c			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-4638-11A		2
+TCGA-CJ-4912-11A	11				0.8		2e733681-9916-43e3-bc65-5b281ec3d419			Solid Tissue Normal				NO	0.4		A								TCGA-CJ-4912-11A		2.1
+TCGA-CJ-5678-01A	01				0.7		3f90dd96-9414-4e74-b2c8-c829eb33e1ec			Primary Tumor	TCGA-CJ-5678.76f4b3f9-cf9c-439d-b1f1-b3b1e355abf3.pdf			NO	0.6		A				76f4b3f9-cf9c-439d-b1f1-b3b1e355abf3				TCGA-CJ-5678-01A		2.5
+TCGA-CZ-4854-01A	01				1.7		b7f4acb3-a84d-45c9-b3bc-e90200bca754			Primary Tumor	TCGA-CZ-4854.76856b3c-9f38-4fee-a8fb-9758e92f337e.pdf			NO	0.4		A				76856b3c-9f38-4fee-a8fb-9758e92f337e				TCGA-CZ-4854-01A		1.7
+TCGA-BP-4993-11A	11				1		8ac5dfa6-8dcc-4711-8959-8e45344f3d7e			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4993-11A		1.3
+TCGA-B0-4693-11A	11				0.8		e4a750ba-da28-4a99-b40d-4ecded1efab1			Solid Tissue Normal				NO	0.2		A								TCGA-B0-4693-11A		1.5
+TCGA-B0-5094-01A	01				0.8		b05a7f4b-bc56-4da6-b810-79e7c3a5395e			Primary Tumor	TCGA-B0-5094.8d162190-9a01-4121-91ba-ab334bdee84f.pdf			NO	0.3		A				8d162190-9a01-4121-91ba-ab334bdee84f				TCGA-B0-5094-01A		1.3
+TCGA-CW-6097-01A	01				0.6		454bb055-43d0-4f2b-a196-e5595bc654c6			Primary Tumor	TCGA-CW-6097.4d777bbd-4e0c-4590-8632-4d3530b88d0f.pdf			NO	0.5		A				4d777bbd-4e0c-4590-8632-4d3530b88d0f				TCGA-CW-6097-01A		1
+TCGA-BP-4960-01A	01				1.3		6a303a96-83cd-448e-a6bc-dbdaa754294d			Primary Tumor	TCGA-BP-4960.4d054fab-e3f8-4cbc-9468-b70ef7a82646.pdf			NO	0.2		A				4d054fab-e3f8-4cbc-9468-b70ef7a82646				TCGA-BP-4960-01A		1.4
+TCGA-B8-4151-10A	10						0fc613d2-82ad-4df8-b018-c83d22563daf			Blood Derived Normal				NO			A								TCGA-B8-4151-10A		
+TCGA-A3-3376-11A	11				0.5		32522e89-58da-4e47-bec2-15695464bf16			Solid Tissue Normal				NO	0.5		A								TCGA-A3-3376-11A		1.5
+TCGA-CJ-4876-01A	01				0.7		2ec161e4-9607-42be-b23f-3f640bb38e04			Primary Tumor	TCGA-CJ-4876.9eda680f-4409-4fee-8051-d546119e4f41.pdf			NO	0.6		A				9eda680f-4409-4fee-8051-d546119e4f41				TCGA-CJ-4876-01A		3
+TCGA-CW-6090-01A	01				0.4		20a8b74c-0548-4816-b89b-107a5bb62d7d			Primary Tumor	TCGA-CW-6090.869323ab-5d34-4eee-9a83-264d024450e0.pdf			NO	0.3		A				869323ab-5d34-4eee-9a83-264d024450e0				TCGA-CW-6090-01A		0.8
+TCGA-B4-5836-01A	01				0.7		e6979738-59b0-4965-8108-b540c60bb9c4			Primary Tumor	TCGA-B4-5836.f39308e8-58c1-4aa8-bfd2-0070ce2b10cf.pdf			NO	0.4		A				f39308e8-58c1-4aa8-bfd2-0070ce2b10cf				TCGA-B4-5836-01A		1.7
+TCGA-BP-4962-01A	01				1.4		01e18722-e4e2-42a3-a8c4-3ca7bee2edf5			Primary Tumor	TCGA-BP-4962.678c3778-77b4-4e59-af83-1cfc3bb9cbd3.pdf			NO	0.2		A				678c3778-77b4-4e59-af83-1cfc3bb9cbd3				TCGA-BP-4962-01A		1.9
+TCGA-B0-4714-11A	11				1.1		0bb2fe9b-cc13-46e3-becc-de7a343b7f3a			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4714-11A		1.5
+TCGA-A3-3358-01A	01				0.6		c4ad7a4b-6603-4308-ace2-e633cdd21ddc			Primary Tumor	TCGA-A3-3358.75630d62-03f2-4e5f-b7d4-ea7885073d6c.pdf			NO	0.4		A				75630d62-03f2-4e5f-b7d4-ea7885073d6c				TCGA-A3-3358-01A		1
+TCGA-CJ-4891-01A	01				0.7		c1b9820c-02eb-4c28-90c5-b1a7233691f0			Primary Tumor	TCGA-CJ-4891.c76d94f0-a660-4c98-9114-e119ff120cdf.pdf			NO	0.5		A				c76d94f0-a660-4c98-9114-e119ff120cdf				TCGA-CJ-4891-01A		3.2
+TCGA-G6-A8L7-01A	01		true				959ACC2E-6754-413E-9E8D-A2994BCBBB0B			Primary Tumor	TCGA-G6-A8L7.6C510354-EC94-4D72-B9A6-9FC6CBAFA8AA.pdf			NO			A				6C510354-EC94-4D72-B9A6-9FC6CBAFA8AA		1797		TCGA-G6-A8L7-01A	190	
+TCGA-BP-4999-11A	11				1		6e782dc0-eb20-4ba5-b667-e53a40d8bff4			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4999-11A		1
+TCGA-B0-5707-01A	01				1.2		05c85768-c065-4c14-a690-cdacf4e26987			Primary Tumor	TCGA-B0-5707.cf09bc1d-0255-4bcd-8553-0b64331748df.pdf			NO	0.3		A				cf09bc1d-0255-4bcd-8553-0b64331748df				TCGA-B0-5707-01A		2
+TCGA-G6-A8L8-01A	01		true				61B2F521-B9BC-439C-95B0-01ECF854C9BC			Primary Tumor	TCGA-G6-A8L8.8CE40BF4-ED9F-4F69-A831-E19099D31F0F.pdf			NO			A				8CE40BF4-ED9F-4F69-A831-E19099D31F0F		1874		TCGA-G6-A8L8-01A	150	
+TCGA-B0-4833-01A	01				1.4		42c600be-b9fe-476b-9fa3-3c61e1c1ab83			Primary Tumor	TCGA-B0-4833.6331b3ca-ba2f-4ccd-bbf0-1513489f8a22.pdf			NO	0.2		A				6331b3ca-ba2f-4ccd-bbf0-1513489f8a22				TCGA-B0-4833-01A		1.5
+TCGA-A3-3316-11A	11				0.9		033df3c8-dc57-40d6-aa42-8eb0bba4e99c			Solid Tissue Normal				NO	0.9		A								TCGA-A3-3316-11A		1.5
+TCGA-B0-5120-11A	11				0.7		f3148210-ecae-4314-b5f8-9bee2315a093			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5120-11A		1.5
+TCGA-AK-3461-10A	10						8513cefd-5091-4eb9-9c01-3848b5754197			Blood Derived Normal				NO			A								TCGA-AK-3461-10A		
+TCGA-B2-5635-01A	01				0.9		c9dfd305-36f1-48ab-b3dc-aa55df14071f			Primary Tumor	TCGA-B2-5635.5d8436b6-4098-422c-bafb-7b48f3ea5741.pdf			NO	0.7		A				5d8436b6-4098-422c-bafb-7b48f3ea5741				TCGA-B2-5635-01A		1.6
+TCGA-B2-5635-01B	01		false				99D1B651-9A37-415E-987E-31C69A4C4716			Primary Tumor	TCGA-B2-5635.5d8436b6-4098-422c-bafb-7b48f3ea5741.pdf			YES			B				5d8436b6-4098-422c-bafb-7b48f3ea5741		572		TCGA-B2-5635-01B		
+TCGA-A3-3335-11A	11				0.8		b90fb5d2-391f-4551-847f-534db74e8f76			Solid Tissue Normal				NO	0.8		A								TCGA-A3-3335-11A		2
+TCGA-A3-3383-11A	11				1.2		dfc09464-ed8c-479b-9b73-c7760a5ed6bd			Solid Tissue Normal				NO	0.4		A								TCGA-A3-3383-11A		2
+TCGA-B0-5100-01A	01				1		451a08a8-11fb-40cd-9759-61d36af70a57			Primary Tumor	TCGA-B0-5100.7c3cf3b9-1b20-4362-97e7-dee72e9ce2a5.pdf			NO	0.3		A				7c3cf3b9-1b20-4362-97e7-dee72e9ce2a5				TCGA-B0-5100-01A		1.2
+TCGA-B0-4838-11A	11				0.8		ba1e0d79-387c-46e2-9ee6-d4fbc9bc8540			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4838-11A		1.7
+TCGA-AK-3460-10A	10						7c4256cd-2e98-4836-9415-f4b93358a73b			Blood Derived Normal				NO			A								TCGA-AK-3460-10A		
+TCGA-B0-5083-11A	11				0.9		83fcd3a2-d874-4b95-8124-0e7580b5f774			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5083-11A		1
+TCGA-BP-4789-11A	11				0.6		7d230a33-6dd5-4697-aa9a-67ace555c43b			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4789-11A		1.2
+TCGA-AK-3428-10A	10						66efd8c2-8df6-40d3-a21b-64eb7e4170f5			Blood Derived Normal				NO			A								TCGA-AK-3428-10A		
+TCGA-A3-3323-11A	11				0.8		e26d5f73-efda-4e10-95c7-e311d613656e			Solid Tissue Normal				NO	0.7		A								TCGA-A3-3323-11A		1.7
+TCGA-A3-3329-01A	01				1		1aa8ff4c-cf2a-45b2-a74e-a07cc83ff634			Primary Tumor	TCGA-A3-3329.8363a252-7bcb-4415-b386-985138f2e6cf.pdf			NO	0.4		A				8363a252-7bcb-4415-b386-985138f2e6cf				TCGA-A3-3329-01A		2
+TCGA-B8-A54I-01A	01		false				AB2C39E2-1435-4A47-B468-ABD58C6B7033			Primary Tumor	TCGA-B8-A54I.69939C41-9B4D-4B4B-973F-BB184AB6ADBD.pdf			NO			A				69939C41-9B4D-4B4B-973F-BB184AB6ADBD		138		TCGA-B8-A54I-01A	260	
+TCGA-B0-4690-11A	11				0.9		33029907-d725-4432-a6c6-a4043b594ed2			Solid Tissue Normal				NO	0.1		A								TCGA-B0-4690-11A		1.9
+TCGA-BP-4166-01A	01				0.7		7dbee6b9-f041-48a0-982d-3abbd6934c6c			Primary Tumor	TCGA-BP-4166.e1efb0ca-ff0c-454a-8a82-ab49f7816624.pdf			NO	0.4		A				e1efb0ca-ff0c-454a-8a82-ab49f7816624				TCGA-BP-4166-01A		1.6
+TCGA-B0-4827-11A	11				1		ebe0c149-a7ff-4463-bb2e-55443620ae27			Solid Tissue Normal				NO	0.2		A								TCGA-B0-4827-11A		1.3
+TCGA-B0-5102-11A	11				0.5		61dfb150-b544-4a54-9306-629ff8e3230f			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5102-11A		1.1
+TCGA-B2-5633-10A	10						f2540f5a-5018-4ba3-93f6-12f0ed0da2d8			Blood Derived Normal				NO			A								TCGA-B2-5633-10A		
+TCGA-B0-4707-01A	01				1.5		9aaca08a-3e46-4058-b95c-b41900d1887a			Primary Tumor	TCGA-B0-4707.34547c2a-5196-46d4-9fc4-f336f99af712.pdf			NO	0.3		A				34547c2a-5196-46d4-9fc4-f336f99af712				TCGA-B0-4707-01A		2.2
+TCGA-CZ-5460-11A	11				0.6		4a52c1c1-9b76-4a6f-8d0e-2c78b50364a5			Solid Tissue Normal				NO	0.1		A								TCGA-CZ-5460-11A		1.1
+TCGA-CJ-4870-01A	01				0.7		f7d03cd3-2d55-400a-bb29-f86ccae475ec			Primary Tumor	TCGA-CJ-4870.b8521b74-ea3f-4ede-81b6-697e1dd1bdff.pdf			NO	0.7		A				b8521b74-ea3f-4ede-81b6-697e1dd1bdff				TCGA-CJ-4870-01A		3
+TCGA-BP-4335-01A	01				1.3		1c0f9575-9895-4068-9134-211caeb6e80e			Primary Tumor	TCGA-BP-4335.1f751db1-778f-4e9b-897c-cc110ab3c374.pdf			NO	0.4		A				1f751db1-778f-4e9b-897c-cc110ab3c374				TCGA-BP-4335-01A		1.6
+TCGA-BP-4790-01A	01				0.6		f03d9b83-a4d7-4e77-abaa-5c3dbee0bcf3			Primary Tumor	TCGA-BP-4790.844e4351-1926-4510-b766-e203d3f8be50.pdf			NO	0.3		A				844e4351-1926-4510-b766-e203d3f8be50				TCGA-BP-4790-01A		1.3
+TCGA-B0-5692-11A	11				1.1		1e3b6c37-67c3-4618-ae44-80cc69696db1			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5692-11A		1.3
+TCGA-B0-4713-11A	11				0.7		86d2d0fa-98b1-4615-909f-909b033bab29			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4713-11A		1
+TCGA-B0-5699-01A	01				1		086554a9-2172-43a7-9f52-aab7d0888429			Primary Tumor	TCGA-B0-5699.66aa1c8d-6b07-47cd-9408-6feba018e2f1.pdf			NO	0.3		A				66aa1c8d-6b07-47cd-9408-6feba018e2f1				TCGA-B0-5699-01A		1.2
+TCGA-CZ-5460-01A	01				0.9		d5eece48-40d6-47b4-bde6-36087740ee3e			Primary Tumor	TCGA-CZ-5460.15106eea-87c3-4349-8613-2d750d6d342d.pdf			NO	0.2		A				15106eea-87c3-4349-8613-2d750d6d342d				TCGA-CZ-5460-01A		1.1
+TCGA-BP-4354-01A	01				1.4		d161861c-6e70-48c7-9a1d-87969d7ff473			Primary Tumor	TCGA-BP-4354.02269feb-d63f-4330-b137-1206532af4d2.pdf			NO	0.4		A				02269feb-d63f-4330-b137-1206532af4d2				TCGA-BP-4354-01A		2.3
+TCGA-BP-4804-11A	11				1		14985dae-c7a1-4b11-9541-c647bab1f149			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4804-11A		1.5
+TCGA-CW-6096-11A	11				0.5		e0e9f0c8-91bf-4a7b-b430-551ddbce0d49			Solid Tissue Normal				NO	0.2		A								TCGA-CW-6096-11A		1
+TCGA-CZ-4866-01A	01				0.9		2e66d442-786a-484e-8050-c9b9198fe9dc			Primary Tumor	TCGA-CZ-4866.a317b781-0925-46dc-a779-fb2c9a5920d8.pdf			NO	0.3		A				a317b781-0925-46dc-a779-fb2c9a5920d8				TCGA-CZ-4866-01A		1.9
+TCGA-B0-4849-01A	01				0.9		c6a60e40-2475-4a16-990a-255467bbdfdd			Primary Tumor	TCGA-B0-4849.68c63115-54e2-4240-a3d5-559bacf37284.pdf			NO	0.4		A				68c63115-54e2-4240-a3d5-559bacf37284				TCGA-B0-4849-01A		1
+TCGA-B0-4842-11A	11				0.5		fc3b3fc0-84a9-4514-9d93-37138dbf4cb2			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4842-11A		2
+TCGA-BP-4349-01A	01				1.3		45b17cb6-94c7-4e9c-a025-76e6dae5abbc			Primary Tumor	TCGA-BP-4349.c4dfd356-3eb6-404d-beb1-0fa7647b60a2.pdf			NO	0.3		A				c4dfd356-3eb6-404d-beb1-0fa7647b60a2				TCGA-BP-4349-01A		1.5
+TCGA-CJ-5676-01A	01				0.7		9997f634-8806-40b6-aa8c-e65956ebc419			Primary Tumor	TCGA-CJ-5676.4ca8373d-f747-46b2-92cf-edf14ba6fef4.pdf			NO	0.5		A				4ca8373d-f747-46b2-92cf-edf14ba6fef4				TCGA-CJ-5676-01A		1.8
+TCGA-A3-3351-01A	01				0.9		aeb15066-810d-427c-a227-8111f36a793b			Primary Tumor	TCGA-A3-3351.e020a67d-b3db-48fd-b0d8-4b25784c390c.pdf			NO	0.8		A				e020a67d-b3db-48fd-b0d8-4b25784c390c				TCGA-A3-3351-01A		1.6
+TCGA-A3-3331-01A	01				0.7		b20e3094-1234-4128-85c5-70bda65b2bc9			Primary Tumor	TCGA-A3-3331.bda7f1df-6de4-4f7b-8380-550333c48fad.pdf			NO	0.5		A				bda7f1df-6de4-4f7b-8380-550333c48fad				TCGA-A3-3331-01A		1
+TCGA-BP-5192-01A	01				0.8		5286469a-a1bc-4f94-8471-3ffb6260417c			Primary Tumor	TCGA-BP-5192.63d0ab58-ddc3-42cc-99ec-0ef4f24f24f8.pdf			NO	0.2		A				63d0ab58-ddc3-42cc-99ec-0ef4f24f24f8				TCGA-BP-5192-01A		1
+TCGA-B2-4099-10A	10						a4f480ba-830b-40d9-a4cb-b6b8df66eaa4			Blood Derived Normal				NO			A								TCGA-B2-4099-10A		
+TCGA-CJ-4875-01A	01				0.7		74ece405-364b-4bd2-af33-877e17f7b0d1			Primary Tumor	TCGA-CJ-4875.9d234837-dd6a-4914-b1a6-d9699b57fdc9.pdf			NO	0.5		A				9d234837-dd6a-4914-b1a6-d9699b57fdc9				TCGA-CJ-4875-01A		3.2
+TCGA-BP-4342-11A	11				1.1		0364ecd2-2f51-41e1-9eec-c2d026f0bdf1			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4342-11A		1.4
+TCGA-A3-3313-11A	11				0.7		e22bd9f5-c730-4dc3-95a1-a281d816d43e			Solid Tissue Normal				NO	0.7		A								TCGA-A3-3313-11A		2.7
+TCGA-B0-5694-01A	01				1.5		dce44e3e-0bed-43e1-b89f-cb47b1ba056e			Primary Tumor	TCGA-B0-5694.c28c9873-1da9-4647-854f-a71e0d5cbd89.pdf			NO	0.3		A				c28c9873-1da9-4647-854f-a71e0d5cbd89				TCGA-B0-5694-01A		2.5
+TCGA-BP-4355-11A	11				1.3		533a6e2a-2234-4730-ab08-11c9be7d630a			Solid Tissue Normal				NO	1.2		A								TCGA-BP-4355-11A		2.1
+TCGA-BP-4787-11A	11				1.5		158ef2e0-fd7c-41ee-ae4a-809a55b9a9f9			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4787-11A		1.6
+TCGA-BP-4327-01A	01				1.1		45cc1d31-9b81-4268-b83a-5d4c740bd2b6			Primary Tumor	TCGA-BP-4327.5e65ef69-17b3-4144-a651-6cf1b511ed4f.pdf			NO	0.4		A				5e65ef69-17b3-4144-a651-6cf1b511ed4f				TCGA-BP-4327-01A		1.8
+TCGA-B2-4098-10A	10						be62b3f3-7c9d-4c43-84c8-4f7593929d0f			Blood Derived Normal				NO			A								TCGA-B2-4098-10A		
+TCGA-AK-3431-10A	10						25b90d1c-601c-4c34-9fff-6d8a93b43a35			Blood Derived Normal				NO			A								TCGA-AK-3431-10A		
+TCGA-CZ-5459-01A	01				0.3		e1ee3a5b-fcf3-4172-be78-2ccd594a6bf4			Primary Tumor	TCGA-CZ-5459.c0241502-26e1-4a32-ba74-907b5d034183.pdf			NO	0.1		A				c0241502-26e1-4a32-ba74-907b5d034183				TCGA-CZ-5459-01A		0.4
+TCGA-B0-4688-11A	11				0.6		1097fa28-910a-4dfc-9ebc-22701feb54f3			Solid Tissue Normal				NO	0.2		A								TCGA-B0-4688-11A		1.4
+TCGA-DV-5567-01A	01				0.5		9597f316-8084-47e2-a60f-cff2471fd619			Primary Tumor	TCGA-DV-5567.53e81829-540c-4456-a0ad-ddb6b0aab7c0.pdf			NO	0.1		A				53e81829-540c-4456-a0ad-ddb6b0aab7c0				TCGA-DV-5567-01A		0.6
+TCGA-CZ-5459-01B	01				0.7		dd662d3e-e235-441c-af96-beb426beeda6			Primary Tumor	TCGA-CZ-5459.c0241502-26e1-4a32-ba74-907b5d034183.pdf			NO	0.2		B				c0241502-26e1-4a32-ba74-907b5d034183				TCGA-CZ-5459-01B		1
+TCGA-BP-5184-01A	01				0.6		7be0587d-fbc8-4a57-97cb-18e4774d031c			Primary Tumor	TCGA-BP-5184.2e8c6858-5b76-416c-bc73-ec8359565e0c.pdf			NO	0.2		A				2e8c6858-5b76-416c-bc73-ec8359565e0c				TCGA-BP-5184-01A		0.9
+TCGA-CW-6097-11A	11				0.7		93c4bbe8-8424-4a93-ba52-6c731b253b19			Solid Tissue Normal				NO	0.3		A								TCGA-CW-6097-11A		1
+TCGA-BP-5195-11A	11				0.5		c6516f4d-7578-4b77-ac90-3f182b20f2b8			Solid Tissue Normal				NO	0.2		A								TCGA-BP-5195-11A		0.9
+TCGA-BP-4158-01A	01				1.1		0246c572-d68d-468e-a3fe-36ec934762e6			Primary Tumor	TCGA-BP-4158.dabbafc2-35c3-4044-9c09-8c54b9d81b93.pdf			NO	0.3		A				dabbafc2-35c3-4044-9c09-8c54b9d81b93				TCGA-BP-4158-01A		1.6
+TCGA-CZ-5982-01A	01				1.1		2ab4c680-809c-4fb9-8959-73dba6ed2baa			Primary Tumor	TCGA-CZ-5982.dee1c514-ba95-4b69-bd06-749a81f0cda7.pdf			NO	0.1		A				dee1c514-ba95-4b69-bd06-749a81f0cda7				TCGA-CZ-5982-01A		1.2
+TCGA-BP-4775-01A	01				0.7		125d4c82-ed51-43a6-8c5f-8c9d0571696f			Primary Tumor	TCGA-BP-4775.b47ef11a-4fc3-41ac-8b65-c3cfa0531ab3.pdf			NO	0.2		A				b47ef11a-4fc3-41ac-8b65-c3cfa0531ab3				TCGA-BP-4775-01A		0.8
+TCGA-CZ-4858-11A	11				0.7		0c74d384-2fad-4228-a69d-a90b5e805d01			Solid Tissue Normal				NO	0.3		A								TCGA-CZ-4858-11A		1.8
+TCGA-AS-3778-10A	10						ef8c8ccc-0b1b-481d-9b48-fd7f22c03d26			Blood Derived Normal				NO			A								TCGA-AS-3778-10A		
+TCGA-B8-5158-01A	01				1		5e11daf8-523b-42e5-a9b5-a16bffc4299c			Primary Tumor	TCGA-B8-5158.35d71413-fbbf-4b1f-88d5-a45aa33fcf8c.pdf			NO	0.5		A				35d71413-fbbf-4b1f-88d5-a45aa33fcf8c				TCGA-B8-5158-01A		1.4
+TCGA-CW-5588-01A	01				0.8		3ce2a607-b572-403b-9a73-df44baf1d8bb			Primary Tumor	TCGA-CW-5588.f8f8536b-ec9c-4932-9559-d76eace92a6a.pdf			NO	0.2		A				f8f8536b-ec9c-4932-9559-d76eace92a6a				TCGA-CW-5588-01A		1.2
+TCGA-CZ-5464-01A	01				1		21356524-af5b-4227-93ed-e3857788849e			Primary Tumor	TCGA-CZ-5464.fa6121bc-d626-46b4-b60a-b48002a27e29.pdf			NO	0.4		A				fa6121bc-d626-46b4-b60a-b48002a27e29				TCGA-CZ-5464-01A		1.5
+TCGA-BP-4963-11A	11				0.9		d47f775c-6c03-4cc0-82f0-1cac8d55b069			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4963-11A		1.6
+TCGA-BP-4969-01A	01				1.2		11480ec0-8ed8-46b7-bbe8-e06c86e19b81			Primary Tumor	TCGA-BP-4969.eeb068a7-649b-4ec3-a09d-60a98efacf49.pdf			NO	0.2		A				eeb068a7-649b-4ec3-a09d-60a98efacf49				TCGA-BP-4969-01A		1.5
+TCGA-CJ-4904-11A	11				0.9		1dd42464-bca4-4aa6-beaa-2414264fc587			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4904-11A		1.7
+TCGA-6D-AA2E-01A	01		true				775EA8FB-DB72-4941-8B70-A0191DBF71B7			Primary Tumor	TCGA-6D-AA2E.2F9C29AE-B1C6-4A2B-9CC8-E5113138F864.pdf			NO			A				2F9C29AE-B1C6-4A2B-9CC8-E5113138F864		93		TCGA-6D-AA2E-01A	310	
+TCGA-B4-5838-01A	01				0.9		7a166162-4cb1-431a-bdde-e5d481964273			Primary Tumor	TCGA-B4-5838.5253e6af-7bf2-4d2a-9b91-67642942e4ff.pdf			NO	0.3		A				5253e6af-7bf2-4d2a-9b91-67642942e4ff				TCGA-B4-5838-01A		1
+TCGA-CZ-5462-01A	01				1.3		30365e6a-0968-4687-b1e1-0aea8159e8a5			Primary Tumor	TCGA-CZ-5462.5333f5cb-150e-46b1-8bf2-9adee22ccc02.pdf			NO	0.4		A				5333f5cb-150e-46b1-8bf2-9adee22ccc02				TCGA-CZ-5462-01A		1.7
+TCGA-B0-4846-01A	01				0.5		f9ea91ad-1d88-4f7e-af93-619f9cc77d35			Primary Tumor	TCGA-B0-4846.763b36ac-446c-4492-aee1-ff5bb9382e5b.pdf			NO	0.2		A				763b36ac-446c-4492-aee1-ff5bb9382e5b				TCGA-B0-4846-01A		1.5
+TCGA-BP-4781-11A	11				0.5		8e0fab88-bc44-4bcf-8efc-91b5b181205a			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4781-11A		1.6
+TCGA-A3-3367-11A	11				0.8		76904c1a-a310-4fe0-8973-8728eeb09637			Solid Tissue Normal				NO	0.6		A								TCGA-A3-3367-11A		1.5
+TCGA-CJ-4893-11A	11				0.9		e513ac4f-61b8-4c5a-beb9-8d8f2984e4f5			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4893-11A		4
+TCGA-B2-3924-01B	01		false				77E32689-497B-4F52-A6F6-A8112F435D40			Primary Tumor	TCGA-B2-3924.472b22b5-7589-45ec-944d-1f839a13a444.pdf			YES			B				472b22b5-7589-45ec-944d-1f839a13a444		664		TCGA-B2-3924-01B		
+TCGA-B2-3924-01A	01				0.7		21527594-ed75-4654-9caf-83d31f248e67			Primary Tumor	TCGA-B2-3924.472b22b5-7589-45ec-944d-1f839a13a444.pdf			NO	0.5		A				472b22b5-7589-45ec-944d-1f839a13a444				TCGA-B2-3924-01A		2.9
+TCGA-BP-5202-01A	01				0.7		c976b83c-0396-424d-b910-bdc82a5b5005			Primary Tumor	TCGA-BP-5202.01c3d30f-c78f-4162-8f5d-0d5643c0c01f.pdf			NO	0.2		A				01c3d30f-c78f-4162-8f5d-0d5643c0c01f				TCGA-BP-5202-01A		0.9
+TCGA-B8-5159-10A	10						bc5038bd-5ad7-4776-858c-b0d8f85a7c2e			Blood Derived Normal				NO			A								TCGA-B8-5159-10A		
+TCGA-BP-4329-11A	11				1.4		535c185a-69e3-4e58-9849-af1be418e7e5			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4329-11A		1.6
+TCGA-CZ-5451-01A	01				1.4		d3e3821a-8d26-4b15-b928-e98eee5fb537			Primary Tumor	TCGA-CZ-5451.7809316e-40a5-442a-bb0d-9c175f08d38b.pdf			NO	0.2		A				7809316e-40a5-442a-bb0d-9c175f08d38b				TCGA-CZ-5451-01A		1.5
+TCGA-AK-3445-01A	01				0.6		b1f0f178-7de1-4498-9401-3786b767e320			Primary Tumor	TCGA-AK-3445.cbf13e50-41b8-4877-ad8c-d480cdd5077a.pdf			NO	0.3		A				cbf13e50-41b8-4877-ad8c-d480cdd5077a				TCGA-AK-3445-01A		1.2
+TCGA-BP-4784-11A	11				0.4		a9a34d30-8f2e-460a-9da1-e085268e3787			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4784-11A		0.8
+TCGA-BP-4343-01A	01				1.5		651fd3af-c86a-4224-baee-f6ec2b0e2759			Primary Tumor	TCGA-BP-4343.d02dbcd3-9920-421a-99f0-16fe6ba37670.pdf			NO	0.3		A				d02dbcd3-9920-421a-99f0-16fe6ba37670				TCGA-BP-4343-01A		1.6
+TCGA-B0-4813-11A	11				1.2		36c3afaf-eca6-4c19-983e-e1fca6195905			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4813-11A		1.5
+TCGA-B0-5702-11A	11				0.6		faddde4d-acf2-4097-9130-ae4ce0393f7f			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5702-11A		1.5
+TCGA-A3-3380-01A	01				1		238adfd5-6fb5-40a6-bcd2-83944a119dd9			Primary Tumor	TCGA-A3-3380.cc43c03d-bbbe-4563-834b-d35651f29ee5.pdf			NO	0.5		A				cc43c03d-bbbe-4563-834b-d35651f29ee5				TCGA-A3-3380-01A		1
+TCGA-BP-4760-01A	01				0.6		0d8690fd-fdc0-4a88-b59e-e7c407966d94			Primary Tumor	TCGA-BP-4760.4701f631-c963-4b33-8e6d-9431c0d7bdd5.pdf			NO	0.2		A				4701f631-c963-4b33-8e6d-9431c0d7bdd5				TCGA-BP-4760-01A		1.3
+TCGA-B8-A54F-01A	01		false				E097BF88-B763-46F7-A71B-92B3CBB350EF			Primary Tumor	TCGA-B8-A54F.333EFFED-B7ED-4113-8EE4-B2734B8072F5.pdf			NO			A				333EFFED-B7ED-4113-8EE4-B2734B8072F5		321		TCGA-B8-A54F-01A	570	
+TCGA-CZ-4860-01A	01				1		34223e9d-5e0a-46ce-a804-17330765d928			Primary Tumor	TCGA-CZ-4860.a19c8a6e-471a-4bb8-8bfc-ee319d064794.pdf			NO	0.2		A				a19c8a6e-471a-4bb8-8bfc-ee319d064794				TCGA-CZ-4860-01A		1.3
+TCGA-B8-5551-10A	10						a95f7af1-6230-4d4b-bc72-65e459ebe225			Blood Derived Normal				NO			A								TCGA-B8-5551-10A		
+TCGA-B0-5092-01A	01				1		18714b14-6138-46af-99a1-24acbc326530			Primary Tumor	TCGA-B0-5092.98af808e-5c91-4f81-b0af-2895af96d4bc.pdf			NO	0.2		A				98af808e-5c91-4f81-b0af-2895af96d4bc				TCGA-B0-5092-01A		2
+TCGA-B8-A8YJ-10A	10		false				B934131D-658D-447E-BDAC-EBA789DAA8D0			Blood Derived Normal				NO			A						68		TCGA-B8-A8YJ-10A		
+TCGA-BP-4756-11A	11				1.5		514eb21f-86c3-49df-af96-1a793f0f5ab5			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4756-11A		1.7
+TCGA-BP-4173-11A	11				0.6		bb8ce5c0-9af4-47e9-baca-80b7ce6b3ad3			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4173-11A		1.5
+TCGA-BP-4789-01A	01				0.8		ac9d1a0a-9946-41d8-94b2-b1f83d0df4fc			Primary Tumor	TCGA-BP-4789.fc4372a9-ea9b-42be-b7b9-9cf2d0192520.pdf			NO	0.1		A				fc4372a9-ea9b-42be-b7b9-9cf2d0192520				TCGA-BP-4789-01A		0.9
+TCGA-EU-5905-10A	10						24d332f7-d223-4dd9-bdc7-31797d317a79			Blood Derived Normal				NO			A								TCGA-EU-5905-10A		
+TCGA-CZ-5458-11A	11				0.9		dbf6a676-4878-44dc-bc8f-74e2afc21972			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-5458-11A		1.7
+TCGA-B0-5697-01A	01				0.7		023ec3a2-e4e5-4663-81a3-e46a30e940d4			Primary Tumor	TCGA-B0-5697.aa9fcaa9-ca62-4bc0-af7a-f7b4009b37f1.pdf			NO	0.3		A				aa9fcaa9-ca62-4bc0-af7a-f7b4009b37f1				TCGA-B0-5697-01A		1.6
+TCGA-CZ-5989-01A	01				1.1		160ff432-c910-41a8-93e5-dd87cb7de2ee			Primary Tumor	TCGA-CZ-5989.9fa904a6-4377-4faa-82b0-f0b313602c42.pdf			NO	0.2		A				9fa904a6-4377-4faa-82b0-f0b313602c42				TCGA-CZ-5989-01A		1.9
+TCGA-BP-5180-01A	01				0.8		d7b7a165-f13a-477d-8c07-53a48e837d42			Primary Tumor	TCGA-BP-5180.ee501a0b-5443-42ba-a5b5-8694baa696c4.pdf			NO	0.3		A				ee501a0b-5443-42ba-a5b5-8694baa696c4				TCGA-BP-5180-01A		1.6
+TCGA-CJ-4642-01B	01				0.8		06f27ecd-7877-4452-87a7-a4fbdfca570c			Primary Tumor	TCGA-CJ-4642.ea39c609-1ea1-48dd-8519-4abbb965dc8d.pdf			NO	0.8		B				ea39c609-1ea1-48dd-8519-4abbb965dc8d				TCGA-CJ-4642-01B		3
+TCGA-B8-5162-10A	10						5bb29be8-9f07-43d5-834f-0e75f692c05f			Blood Derived Normal				NO			A								TCGA-B8-5162-10A		
+TCGA-B0-4698-01A	01				1.5		1cec5eca-5440-409e-9e73-234f6aad18f5			Primary Tumor	TCGA-B0-4698.28620d84-2435-4911-91b9-758741352c47.pdf			NO	0.5		A				28620d84-2435-4911-91b9-758741352c47				TCGA-B0-4698-01A		1.5
+TCGA-BP-4761-01A	01				1.1		cb58cf8e-3d4c-4421-a3f0-f3c1540f12b2			Primary Tumor	TCGA-BP-4761.223bfe66-b95b-46bd-b192-d1d11542deb4.pdf			NO	0.3		A				223bfe66-b95b-46bd-b192-d1d11542deb4				TCGA-BP-4761-01A		1.3
+TCGA-DV-5575-01A	01				0.8		602a2497-298c-4687-a843-0db6ffde7386			Primary Tumor	TCGA-DV-5575.c2eb12f1-4dd2-4b93-8a40-b81f9be13ea8.pdf			NO	0.7		A				c2eb12f1-4dd2-4b93-8a40-b81f9be13ea8				TCGA-DV-5575-01A		2
+TCGA-A3-A6NJ-11A	11		false				E79B712A-E919-4072-9474-214C5F9EEB23			Solid Tissue Normal				NO			A						400		TCGA-A3-A6NJ-11A	50	
+TCGA-B0-5104-11A	11				0.7		eaeb42cd-2b8d-4e80-b147-5d4c52e592d9			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5104-11A		1.6
+TCGA-CW-5591-01A	01				0.7		df00a039-e892-4824-a308-1b5230d383ba			Primary Tumor	TCGA-CW-5591.c5bee382-df45-4a2c-8774-f39f93544810.pdf			NO	0.3		A				c5bee382-df45-4a2c-8774-f39f93544810				TCGA-CW-5591-01A		1.2
+TCGA-CZ-5989-11A	11				1		1120c901-e15b-4b8c-bada-b97d68cb9d59			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-5989-11A		2
+TCGA-BP-4795-11A	11				0.5		56aebbf3-a045-4bf5-9e67-aacf2bf714db			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4795-11A		1.3
+TCGA-CJ-4907-11A	11				0.9		76f09da6-eb87-467d-a12f-14195e471512			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4907-11A		3.6
+TCGA-CJ-4912-01A	01				0.9		45ff8c0e-f7a1-4f97-b8b6-5692937cc5b1			Primary Tumor	TCGA-CJ-4912.ad1e7a08-1c34-49ee-8f72-a233aa5ae147.pdf			NO	0.9		A				ad1e7a08-1c34-49ee-8f72-a233aa5ae147				TCGA-CJ-4912-01A		3.1
+TCGA-AK-3444-10A	10						682f7e1a-9938-447d-99e8-8570424937b4			Blood Derived Normal				NO			A								TCGA-AK-3444-10A		
+TCGA-B2-5636-10A	10						61fb2eb9-97dc-46bf-a7ad-7e3cdb51fd1e			Blood Derived Normal				NO			A								TCGA-B2-5636-10A		
+TCGA-BP-4975-11A	11				1		d7261068-24dc-42e9-a94d-c99114bd9619			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4975-11A		2
+TCGA-B0-5094-11A	11				1		7519d7a8-c3ee-417b-9cfc-111bc5ad0637			Solid Tissue Normal				NO	0.4		A								TCGA-B0-5094-11A		1.6
+TCGA-B8-5553-01A	01				1		6adcb787-0802-4d9f-94fd-c35cac487044			Primary Tumor	TCGA-B8-5553.9f0c34bc-b82a-4255-b3c2-4082dca48232.pdf			NO	0.4		A				9f0c34bc-b82a-4255-b3c2-4082dca48232				TCGA-B8-5553-01A		1.1
+TCGA-BP-4771-01A	01				0.8		aeb88120-4d01-417b-9e80-bc12b7f33e5a			Primary Tumor	TCGA-BP-4771.35c69fc1-ed95-455d-b4f8-5c811f4fa791.pdf			NO	0.1		A				35c69fc1-ed95-455d-b4f8-5c811f4fa791				TCGA-BP-4771-01A		1.3
+TCGA-A3-3376-01A	01				0.9		18c3a1de-b145-437f-a4ee-16fc58f83a61			Primary Tumor	TCGA-A3-3376.4c1cdb16-95e9-487a-af2a-55e73fa5ed13.pdf			NO	0.4		A				4c1cdb16-95e9-487a-af2a-55e73fa5ed13				TCGA-A3-3376-01A		1.4
+TCGA-AS-3777-01A	01				0.4		c55bc8a8-b47b-4455-8c77-532c0eef98cc			Primary Tumor	TCGA-AS-3777.dc9bbc26-e6f1-4204-88a5-86124ab150f0.pdf			NO	0.2		A				dc9bbc26-e6f1-4204-88a5-86124ab150f0				TCGA-AS-3777-01A		0.8
+TCGA-B0-4710-11A	11				1		c8ecd8db-e3a3-4d4f-bab4-a2fdd0afab90			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4710-11A		1
+TCGA-CZ-5463-11A	11				0.8		4356cd4c-7b05-472a-867e-9c39df586602			Solid Tissue Normal				NO	0.3		A								TCGA-CZ-5463-11A		1.5
+TCGA-CJ-5675-11A	11				1.5		457249b5-089d-4cd9-87ab-c39b286cb783			Solid Tissue Normal				NO	1.3		A								TCGA-CJ-5675-11A		4
+TCGA-BP-4771-11A	11				0.8		f3cecdf1-5f0b-413c-922a-38e8f7089525			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4771-11A		1.7
+TCGA-B0-4843-11A	11				0.5		fcfb2ff8-5ec7-455a-8049-4a83484c7532			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4843-11A		1.5
+TCGA-B0-5402-11A	11				1		d27e0760-5ce6-4659-adf4-e61967341288			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5402-11A		1.4
+TCGA-DV-5576-10A	10						f9918f43-1f15-4511-a8d1-8a341a35795e			Blood Derived Normal				NO			A								TCGA-DV-5576-10A		
+TCGA-CJ-4643-01A	01				0.8		d2baff9a-220a-4f44-bbdb-a02cdfd908c9			Primary Tumor	TCGA-CJ-4643.1a9fa2bc-9999-404d-87b0-667935744bce.pdf			NO	0.5		A				1a9fa2bc-9999-404d-87b0-667935744bce				TCGA-CJ-4643-01A		2.5
+TCGA-B0-5698-01A	01				1.2		e7830cae-311e-40e0-ba12-aa9d0d8eaa49			Primary Tumor	TCGA-B0-5698.ff834af5-4186-4625-8e6f-349261544fd8.pdf			NO	0.4		A				ff834af5-4186-4625-8e6f-349261544fd8				TCGA-B0-5698-01A		1.8
+TCGA-B8-A54K-10A	10		false				A4F3FF0F-4D29-4FF6-9BB2-C8BC78A36D9B			Blood Derived Normal				NO			A						76		TCGA-B8-A54K-10A		
+TCGA-B0-4827-01A	01				1		87daf60b-5b77-4a1e-905c-2b1d3f194bf2			Primary Tumor	TCGA-B0-4827.2a701e0e-3f33-440f-ad5f-bf9a77d53239.pdf			NO	0.3		A				2a701e0e-3f33-440f-ad5f-bf9a77d53239				TCGA-B0-4827-01A		2.2
+TCGA-B0-4833-11A	11				0.8		56fefa13-9701-4b15-b18d-a7ade480cf37			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4833-11A		1.3
+TCGA-A3-A8OX-01A	01		false				A9C64E3E-7358-471B-B431-B8AAE83C360D			Primary Tumor	TCGA-A3-A8OX.9FB77460-D783-4FA4-874F-634CC998B49B.pdf			NO			A				9FB77460-D783-4FA4-874F-634CC998B49B		556		TCGA-A3-A8OX-01A	40	
+TCGA-A3-3316-01A	01				0.8		7e554c48-3c69-4948-9c84-3fff46b9d3e2			Primary Tumor	TCGA-A3-3316.2a017148-457b-4251-9f41-7f05c4b70025.pdf			NO	0.8		A				2a017148-457b-4251-9f41-7f05c4b70025				TCGA-A3-3316-01A		1.7
+TCGA-A3-A6NI-10A	10		false				B7B67338-01CC-4EC7-86CE-6378A52BA1F4			Blood Derived Normal				NO			A						659		TCGA-A3-A6NI-10A		
+TCGA-B0-5400-11A	11				1.5		51b6524c-9363-4d86-8339-98c210f52166			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5400-11A		1.5
+TCGA-CZ-4858-01A	01				1.4		a335a2d4-7b58-4baa-93e2-cffdbbdbf09b			Primary Tumor	TCGA-CZ-4858.5d3a8eda-816d-4b0f-a6a6-c70b2babf55c.pdf			NO	0.3		A				5d3a8eda-816d-4b0f-a6a6-c70b2babf55c				TCGA-CZ-4858-01A		1.5
+TCGA-BP-5004-11A	11				1		15f20b44-b466-437c-98fd-2d332e0bf36b			Solid Tissue Normal				NO	0.2		A								TCGA-BP-5004-11A		1
+TCGA-CJ-5682-01A	01				0.8		3d38f604-e571-422d-b645-bf73a0348243			Primary Tumor	TCGA-CJ-5682.06855541-6550-4efb-9b3f-d8a3f9888386.pdf			NO	0.8		A				06855541-6550-4efb-9b3f-d8a3f9888386				TCGA-CJ-5682-01A		2
+TCGA-CJ-4920-01A	01				0.9		df548cb7-7766-47e9-aafa-d8ec610ab3db			Primary Tumor	TCGA-CJ-4920.f6084eba-0211-417b-8b52-b0f8fe16172f.pdf			NO	0.9		A				f6084eba-0211-417b-8b52-b0f8fe16172f				TCGA-CJ-4920-01A		2.5
+TCGA-BP-5196-01A	01				1.3		a4ec3a58-c289-4052-aee6-d234c236522d			Primary Tumor	TCGA-BP-5196.3a401225-55b7-4a41-b747-bcccc905435f.pdf			NO	0.1		A				3a401225-55b7-4a41-b747-bcccc905435f				TCGA-BP-5196-01A		2.1
+TCGA-A3-A6NJ-01A	01		false				C0F8029F-08CC-48B9-B68D-0E393789A9C1			Primary Tumor	TCGA-A3-A6NJ.BBABA189-DC47-4740-8CBC-AC567759AF1C.pdf			NO			A				BBABA189-DC47-4740-8CBC-AC567759AF1C		400		TCGA-A3-A6NJ-01A	60	
+TCGA-CW-6087-11A	11				0.6		1ca90dce-8efc-420e-be6c-e52fe009e644			Solid Tissue Normal				NO	0.5		A								TCGA-CW-6087-11A		1.3
+TCGA-B8-5164-01A	01				0.9		471ce542-e85b-4bdb-b365-4562a93ef1e5			Primary Tumor	TCGA-B8-5164.e5fc86b5-71da-4e10-a3b0-44c588723bb6.pdf			NO	0.3		A				e5fc86b5-71da-4e10-a3b0-44c588723bb6				TCGA-B8-5164-01A		1.5
+TCGA-BP-4770-11A	11				0.6		7d97661a-3523-45f0-a928-9f0f7e2232e0			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4770-11A		1.2
+TCGA-BP-4959-11A	11				0.8		8fd55cdc-af34-4d30-b18d-ef72097e4381			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4959-11A		1.6
+TCGA-A3-3323-01A	01				0.8		9f949dc1-bb9d-4e38-a313-e243c79acddb			Primary Tumor	TCGA-A3-3323.c006cb87-e6fa-4860-ac25-961c5bee46eb.pdf			NO	0.8		A				c006cb87-e6fa-4860-ac25-961c5bee46eb				TCGA-A3-3323-01A		1.5
+TCGA-CJ-4903-11A	11				0.8		558b4a05-61bb-469a-80be-4ad2cb3352d8			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-4903-11A		2.4
+TCGA-B8-A54H-10A	10		false				A99BEB0E-0ABF-4D05-A34F-4D99F24E274D			Blood Derived Normal				NO			A						160		TCGA-B8-A54H-10A		
+TCGA-B0-4690-01A	01				1		d79852aa-d241-475e-9c38-6852f8a2ff1e			Primary Tumor	TCGA-B0-4690.dd5521f2-076a-43a4-8dca-a16545c9e77d.pdf			NO	0.6		A				dd5521f2-076a-43a4-8dca-a16545c9e77d				TCGA-B0-4690-01A		1.6
+TCGA-A3-3343-11A	11				0.5		acea4d41-397f-4b63-b47a-b6c228478d45			Solid Tissue Normal				NO	0.5		A								TCGA-A3-3343-11A		2
+TCGA-BP-4342-01A	01				1.1		04d3168b-ae52-400c-94fa-8ec43eface20			Primary Tumor	TCGA-BP-4342.5b0089d3-216a-4385-8bd3-2b86a5add75c.pdf			NO	0.3		A				5b0089d3-216a-4385-8bd3-2b86a5add75c				TCGA-BP-4342-01A		1.9
+TCGA-CJ-4892-01A	01				0.8		acc1800f-a145-4ca5-bb4c-65df60714a9f			Primary Tumor	TCGA-CJ-4892.0033fca4-2372-402f-8281-d204b0e7cb5f.pdf			NO	0.7		A				0033fca4-2372-402f-8281-d204b0e7cb5f				TCGA-CJ-4892-01A		3.1
+TCGA-B0-4707-11A	11				0.8		c54b3961-1486-4730-84d9-7dd057e1e934			Solid Tissue Normal				NO	0.2		A								TCGA-B0-4707-11A		2.5
+TCGA-CJ-4870-11A	11				0.7		14b6f5f6-87e6-4da5-bbc9-13e97299eab8			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-4870-11A		2.5
+TCGA-BP-5168-11A	11				0.7		11489782-62c8-4e66-b7bc-8d616bf58776			Solid Tissue Normal				NO	0.3		A								TCGA-BP-5168-11A		1.2
+TCGA-B2-4101-11A	11				0.8		d285efca-3117-49d6-ac12-bc2b47f8a144			Solid Tissue Normal				NO	0.4		A								TCGA-B2-4101-11A		2.5
+TCGA-A3-3357-01A	01				0.8		a519f7d3-ef12-4901-a699-da3d520357d2			Primary Tumor	TCGA-A3-3357.9f0f7cf4-5a7a-4c20-8123-b5164550490c.pdf			NO	0.8		A				9f0f7cf4-5a7a-4c20-8123-b5164550490c				TCGA-A3-3357-01A		1.2
+TCGA-B0-4838-01A	01				0.5		dd1c5a9e-d209-4555-be7e-8af0cb3e3640			Primary Tumor	TCGA-B0-4838.bf651ba3-9c72-4237-9d2e-0e7c716c36e6.pdf			NO	0.4		A				bf651ba3-9c72-4237-9d2e-0e7c716c36e6				TCGA-B0-4838-01A		2
+TCGA-B0-5117-01A	01				0.6		09fff3f4-075e-45fd-bf47-c94a9ccf0e3b			Primary Tumor	TCGA-B0-5117.7feb1067-ca6c-4b22-a63d-d2da4cf0f55a.pdf			NO	0.3		A				7feb1067-ca6c-4b22-a63d-d2da4cf0f55a				TCGA-B0-5117-01A		1
+TCGA-BP-4985-01A	01				0.8		cce5b728-2e88-4479-aa1d-9a0de1d4276f			Primary Tumor	TCGA-BP-4985.64b339f4-84db-4bc1-a40e-06de7f9a60b5.pdf			NO	0.1		A				64b339f4-84db-4bc1-a40e-06de7f9a60b5				TCGA-BP-4985-01A		1.2
+TCGA-CZ-5466-11A	11				1.1		f072dc5f-6b9a-4935-8ceb-f9f3fd7ebe73			Solid Tissue Normal				NO	0.4		A								TCGA-CZ-5466-11A		1.2
+TCGA-CW-6096-01A	01				1		109081b5-0372-4108-81e7-f43a51eef50a			Primary Tumor	TCGA-CW-6096.887f03c0-b5ad-4370-9797-9804900a952c.pdf			NO	0.4		A				887f03c0-b5ad-4370-9797-9804900a952c				TCGA-CW-6096-01A		1
+TCGA-CZ-5455-11A	11				1.3		4206b385-00cc-4540-9bb0-92ce8e1b7201			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-5455-11A		1.3
+TCGA-CZ-4863-11A	11				0.4		6cadc656-be2f-4225-b0d1-3fe70c5a5fdd			Solid Tissue Normal				NO	0.3		A								TCGA-CZ-4863-11A		1
+TCGA-A3-3308-01A	01				1		0b935adb-0e19-4fcc-9bb0-b9d95872bcef			Primary Tumor	TCGA-A3-3308.de8eb09e-bec5-4967-8fd1-af56104afd2f.pdf			NO	0.4		A				de8eb09e-bec5-4967-8fd1-af56104afd2f				TCGA-A3-3308-01A		1.2
+TCGA-BP-4349-11A	11				0.6		3e28bf01-c582-4e6d-88d9-3aed7e1cc6a7			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4349-11A		0.7
+TCGA-A3-3351-11A	11				1		bb14a523-735e-4523-ab6f-3c1386057ac0			Solid Tissue Normal				NO	0.6		A								TCGA-A3-3351-11A		2
+TCGA-BP-4759-11A	11				0.8		e7837582-c8db-438c-bb81-b7dabe6276cd			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4759-11A		1.1
+TCGA-A3-3331-11A	11				1		f4f380b1-26f1-4a49-833e-451bb8d04978			Solid Tissue Normal				NO	0.6		A								TCGA-A3-3331-11A		1.5
+TCGA-B0-4701-01A	01				2		227cd50a-f96c-4894-81b3-df97df98eb6e			Primary Tumor	TCGA-B0-4701.9e5ffc32-586b-439a-a12a-0d729c18bd11.pdf			NO	0.6		A				9e5ffc32-586b-439a-a12a-0d729c18bd11				TCGA-B0-4701-01A		2.2
+TCGA-B0-5100-11A	11				0.9		83208d3f-077e-4dbe-848b-461249fba9ac			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5100-11A		1.1
+TCGA-B0-5703-11A	11				0.4		409f2b7c-0ad6-4882-a01e-2c4b07951902			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5703-11A		2.4
+TCGA-B0-5694-11A	11				0.6		4842d3eb-9980-4d95-80e3-faac7f322802			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5694-11A		1.2
+TCGA-BP-4355-01A	01				1.8		c5a4174a-cf6a-4e3b-a1de-846ee8b0ac87			Primary Tumor	TCGA-BP-4355.bdb3c920-2844-4fe3-b05f-1a281b4f8886.pdf			NO	0.3		A				bdb3c920-2844-4fe3-b05f-1a281b4f8886				TCGA-BP-4355-01A		2.2
+TCGA-B0-4847-11A	11				0.6		ed3c2ca5-b134-4cc8-bb7b-879225eca610			Solid Tissue Normal				NO	0.2		A								TCGA-B0-4847-11A		1
+TCGA-BP-4327-11A	11				1.5		368fe1ed-b9eb-44da-af40-55e065a4b3d2			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4327-11A		1.5
+TCGA-B0-4839-01A	01				1.5		eeb7b128-7dd0-47bc-8954-f24189660ee9			Primary Tumor	TCGA-B0-4839.1857d79e-27a0-4ba4-8e11-cd23d92dcb7f.pdf			NO	0.2		A				1857d79e-27a0-4ba4-8e11-cd23d92dcb7f				TCGA-B0-4839-01A		1.9
+TCGA-BP-4169-01A	01				1.2		56c6e5e0-c731-4dbc-a470-fd91e0c83af7			Primary Tumor	TCGA-BP-4169.4e8ff4d0-3d8e-48c6-9a76-4b14d970c9f3.pdf			NO	0.4		A				4e8ff4d0-3d8e-48c6-9a76-4b14d970c9f3				TCGA-BP-4169-01A		2.5
+TCGA-BP-4803-11A	11				1		c278c718-395d-4127-9f57-c24257a8b1ce			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4803-11A		1.3
+TCGA-B0-4712-01A	01				1.2		e93c7448-497e-4883-83e2-d36027874418			Primary Tumor	TCGA-B0-4712.01d92a98-9f18-44bf-83b6-ccc968d25c21.pdf			NO	0.4		A				01d92a98-9f18-44bf-83b6-ccc968d25c21				TCGA-B0-4712-01A		2
+TCGA-B0-4845-11A	11				0.5		be2c230e-c762-41fe-a11d-0a9194e87f90			Solid Tissue Normal				NO	0.2		A								TCGA-B0-4845-11A		0.9
+TCGA-A3-3367-01A	01				1		e8c78f06-00da-47e9-b134-741ce2583f5b			Primary Tumor	TCGA-A3-3367.2ade205e-be87-4112-935e-ab6aa69d81d7.pdf			NO	0.4		A				2ade205e-be87-4112-935e-ab6aa69d81d7				TCGA-A3-3367-01A		1
+TCGA-B0-4837-01A	01				1.2		2a8ba7fc-f094-44bd-a544-1e8dd7831324			Primary Tumor	TCGA-B0-4837.5ccc5a6d-f54f-4a78-a7b6-d0a05c46c623.pdf			NO	0.2		A				5ccc5a6d-f54f-4a78-a7b6-d0a05c46c623				TCGA-B0-4837-01A		1.5
+TCGA-BP-5184-11A	11				0.9		8530c572-07e1-4c59-9820-4699e2e2d5b3			Solid Tissue Normal				NO	0.2		A								TCGA-BP-5184-11A		1.7
+TCGA-BP-4964-01A	01				0.9		154211f4-73d9-4f3d-9f52-d1a8fe3bc828			Primary Tumor	TCGA-BP-4964.dd8002fa-7ca0-40b5-9d9d-307522ef4d16.pdf			NO	0.3		A				dd8002fa-7ca0-40b5-9d9d-307522ef4d16				TCGA-BP-4964-01A		1.6
+TCGA-B8-5165-10A	10						4950f04e-431e-4171-8d90-322d053f84f9			Blood Derived Normal				NO			A								TCGA-B8-5165-10A		
+TCGA-B0-5119-01A	01				0.7		9942475f-b99a-4eb1-a251-a4f4c6bc8a90			Primary Tumor	TCGA-B0-5119.d9287b69-0aa3-4bf2-99d6-c0782761dfbb.pdf			NO	0.3		A				d9287b69-0aa3-4bf2-99d6-c0782761dfbb				TCGA-B0-5119-01A		1.2
+TCGA-BP-4795-01A	01				0.9		05ebbf3e-eaf9-466e-84d3-ffcca04fb430			Primary Tumor	TCGA-BP-4795.999eddf1-cd5c-4b00-b386-f628f920d28e.pdf			NO	0.1		A				999eddf1-cd5c-4b00-b386-f628f920d28e				TCGA-BP-4795-01A		0.9
+TCGA-B0-5695-11A	11				1.1		1cc1276d-0275-4b9a-8723-695cade1b8e7			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5695-11A		2.9
+TCGA-CJ-4916-01A	01				0.9		7606af00-52cc-49e3-9242-6853fda428e2			Primary Tumor	TCGA-CJ-4916.e6b50a2a-5711-4ed3-ba35-9cfc5fa5283a.pdf			NO	0.9		A				e6b50a2a-5711-4ed3-ba35-9cfc5fa5283a				TCGA-CJ-4916-01A		2.6
+TCGA-BP-4776-01A	01				0.6		539bcb14-81fc-4da3-aab6-248e529025c3			Primary Tumor	TCGA-BP-4776.a96540d9-ed3e-4aef-8e04-1e6e380339d4.pdf			NO	0.2		A				a96540d9-ed3e-4aef-8e04-1e6e380339d4				TCGA-BP-4776-01A		1.5
+TCGA-A3-3383-01A	01				0.6		36701941-06ee-4ecf-bdcc-8646c214e507			Primary Tumor	TCGA-A3-3383.02718684-d36d-4c47-a027-a4183bf9bed0.pdf			NO	0.4		A				02718684-d36d-4c47-a027-a4183bf9bed0				TCGA-A3-3383-01A		1.4
+TCGA-BP-5194-11A	11				1.1		86ba6437-cb20-491a-a0ae-7d89c0efb196			Solid Tissue Normal				NO	0.1		A								TCGA-BP-5194-11A		1.1
+TCGA-B8-A54J-10A	10		false				F58C7871-B7F8-422E-9919-175890F9E472			Blood Derived Normal				NO			A						82		TCGA-B8-A54J-10A		
+TCGA-EU-5906-10A	10						3993b227-d99c-4e8e-890f-37960592e966			Blood Derived Normal				NO			A								TCGA-EU-5906-10A		
+TCGA-CW-5588-11A	11				0.5		b0fc513e-fc8b-4fa8-80b0-312a22b92062			Solid Tissue Normal				NO	0.4		A								TCGA-CW-5588-11A		0.8
+TCGA-CZ-5468-11A	11				0.6		da753d8e-152d-41ba-8357-62f8d8816af8			Solid Tissue Normal				NO	0.1		A								TCGA-CZ-5468-11A		1.6
+TCGA-BP-4777-01A	01				0.8		1356d623-ed9b-4d81-ace5-db9c3ecd7f71			Primary Tumor	TCGA-BP-4777.bb486bc7-f293-48ba-8343-d9813e6c5518.pdf			NO	0.2		A				bb486bc7-f293-48ba-8343-d9813e6c5518				TCGA-BP-4777-01A		1
+TCGA-BP-4969-11A	11				0.4		a10e1864-1622-4679-a7f9-94f95f9c255c			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4969-11A		1
+TCGA-B0-5121-01A	01				0.9		211ba6c4-0145-40fc-895f-9074aa56c8ba			Primary Tumor	TCGA-B0-5121.32113a43-9b41-4439-a111-9df446bdbaf1.pdf			NO	0.3		A				32113a43-9b41-4439-a111-9df446bdbaf1				TCGA-B0-5121-01A		1.2
+TCGA-B8-5549-10A	10						b0c9dca4-cc39-444d-abd9-0cced6eeacab			Blood Derived Normal				NO			A								TCGA-B8-5549-10A		
+TCGA-B0-4810-11A	11				1		72d3fd43-26c9-4ae4-9af7-920bcf2fefa9			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4810-11A		1.8
+TCGA-BP-4988-11A	11				1.3		4e570d94-c74a-4cd9-9b75-b8dda6bdf218			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4988-11A		1.5
+TCGA-BP-4166-11A	11				1		8a5861fe-b1c2-4a94-b31c-82fc4e5c7d4e			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4166-11A		2.1
+TCGA-BP-5198-11A	11				1.3		0fdc09db-3ad6-4e71-aab4-72f4786f8406			Solid Tissue Normal				NO	0.3		A								TCGA-BP-5198-11A		2
+TCGA-B2-3924-11A	11				0.7		3c879277-3f05-4855-ad5f-5b4f7ea5e3c0			Solid Tissue Normal				NO	0.7		A								TCGA-B2-3924-11A		2.5
+TCGA-DV-5573-10A	10						46912a9b-8037-416a-9e6f-b0c86a9b7247			Blood Derived Normal				NO			A								TCGA-DV-5573-10A		
+TCGA-A3-3352-11A	11				1		441d1289-8fea-43ad-b660-7d4021481ea5			Solid Tissue Normal				NO	0.4		A								TCGA-A3-3352-11A		1
+TCGA-CJ-4894-11A	11				0.9		7f0e982f-761d-4464-9e22-0c0af39c86cb			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4894-11A		2.1
+TCGA-A3-3336-11A	11				0.9		5e5e153d-d364-402d-abb0-5a6154bdc4e8			Solid Tissue Normal				NO	0.5		A								TCGA-A3-3336-11A		1.5
+TCGA-BP-4337-11A	11				0.6		2888684c-f82d-4578-b31a-db2990af5624			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4337-11A		2
+TCGA-A3-A6NN-10A	10		false				077BDA39-7C8C-4B20-9036-53487F512299			Blood Derived Normal				NO			A						483		TCGA-A3-A6NN-10A		
+TCGA-BP-4968-11A	11				1		63b52a31-696e-42e4-87b7-9e7d8b5c72aa			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4968-11A		1.1
+TCGA-BP-4346-11A	11				1		a6180591-a96d-4d38-9937-5963fac6b3df			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4346-11A		2
+TCGA-MM-A84U-01A	01		true				E2121761-9955-4413-8711-3FB9D7E7352A			Primary Tumor	TCGA-MM-A84U.AF175E00-A8D2-4F97-BC7E-258575BA15FC.pdf			NO			A				AF175E00-A8D2-4F97-BC7E-258575BA15FC		178		TCGA-MM-A84U-01A	70	
+TCGA-CJ-4869-01A	01				0.9		7ff975b1-bc2a-4268-bd6e-a2c54b69c033			Primary Tumor	TCGA-CJ-4869.9f1cbbdd-187d-44aa-86b6-57b79917db41.pdf			NO	0.9		A				9f1cbbdd-187d-44aa-86b6-57b79917db41				TCGA-CJ-4869-01A		3
+TCGA-CJ-4900-11A	11				1		b0d932e5-5a64-46b7-b018-d4cb83ef8c36			Solid Tissue Normal				NO	0.3		A								TCGA-CJ-4900-11A		2.4
+TCGA-CW-6093-01A	01				0.7		13ba18eb-c94b-4f6c-ab50-2a98a8044ced			Primary Tumor	TCGA-CW-6093.6616b396-4fb5-48a5-94f1-666db94cab51.pdf			NO	0.6		A				6616b396-4fb5-48a5-94f1-666db94cab51				TCGA-CW-6093-01A		1.3
+TCGA-BP-4983-11A	11				1		6e16f975-e8e6-4cc8-8b06-11a513dc4aed			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4983-11A		1.5
+TCGA-CJ-4640-11A	11				0.8		3df7995f-fb44-46c4-b4b4-d02be49c55cd			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-4640-11A		3
+TCGA-CZ-5987-11A	11				1		145e54ba-08e3-4593-bc73-c19094eb8255			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-5987-11A		1.3
+TCGA-CJ-4897-11A	11				0.9		ce1cbbd9-e6b7-47a9-b512-da8cb0cdb0d6			Solid Tissue Normal				NO	0.4		A								TCGA-CJ-4897-11A		2.7
+TCGA-BP-4784-01A	01				0.8		ae17f913-86af-4f62-a542-4738f439da9a			Primary Tumor	TCGA-BP-4784.126271e1-1435-4173-884c-f522fdc8581c.pdf			NO	0.3		A				126271e1-1435-4173-884c-f522fdc8581c				TCGA-BP-4784-01A		1.1
+TCGA-AK-3455-01A	01				0.5		2d970196-beee-4783-90a1-e313a789dd92			Primary Tumor	TCGA-AK-3455.f8cccb1a-e98f-4bad-bb7a-0078b919f56e.pdf			NO	0.2		A				f8cccb1a-e98f-4bad-bb7a-0078b919f56e				TCGA-AK-3455-01A		0.8
+TCGA-B4-5844-01A	01				0.6		82ae96b4-29c9-45cc-980a-cbef3b74ad05			Primary Tumor	TCGA-B4-5844.4d21d547-3865-4e10-a701-4d9830c26d89.pdf			NO	0.3		A				4d21d547-3865-4e10-a701-4d9830c26d89				TCGA-B4-5844-01A		1.1
+TCGA-B4-5832-01A	01				0.6		dce7299b-413b-4c75-88fc-36326c230a44			Primary Tumor	TCGA-B4-5832.6d96fe92-3f59-45dc-8ce8-3b90810aa1b9.pdf			NO	0.2		A				6d96fe92-3f59-45dc-8ce8-3b90810aa1b9				TCGA-B4-5832-01A		1.3
+TCGA-CJ-4918-01A	01				0.9		8262bf2a-f944-4101-8e43-51658b580747			Primary Tumor	TCGA-CJ-4918.0461b1a6-083f-43da-ad6b-4096fae63e6e.pdf			NO	0.9		A				0461b1a6-083f-43da-ad6b-4096fae63e6e				TCGA-CJ-4918-01A		3.2
+TCGA-CJ-4895-11A	11				1		a8ff0bf3-064a-4025-9dcc-3037b4ab07f4			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-4895-11A		2.6
+TCGA-A3-3380-11A	11				0.8		d943bde7-ac5e-4feb-84b9-f52950d132d7			Solid Tissue Normal				NO	0.6		A								TCGA-A3-3380-11A		1.2
+TCGA-B8-4143-01A	01				1		548e1a51-b951-4f57-91d9-984d4b0f1afb			Primary Tumor	TCGA-B8-4143.208d6d5e-c6bf-481b-9564-44beca8b1fe7.pdf			NO	0.6		A				208d6d5e-c6bf-481b-9564-44beca8b1fe7				TCGA-B8-4143-01A		1
+TCGA-BP-4790-11A	11				0.3		61c0e486-b8bc-4a2d-a113-a0eb69065b0e			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4790-11A		0.6
+TCGA-B8-4153-11A	11				0.7		e4f642b1-151a-4998-bbb2-ad6fe860e349			Solid Tissue Normal				NO	0.3		A								TCGA-B8-4153-11A		1.5
+TCGA-3Z-A93Z-01A	01		true				C97A6684-DAEF-4DAC-9D0D-6F0093F373AC			Primary Tumor	TCGA-3Z-A93Z.33A159F3-8E7E-4B4F-9212-CAF878E94022.pdf			NO			A				33A159F3-8E7E-4B4F-9212-CAF878E94022		134		TCGA-3Z-A93Z-01A	2080	
+TCGA-B8-4621-10A	10						98556943-5365-47c7-9d32-63a7877d1010			Blood Derived Normal				NO			A								TCGA-B8-4621-10A		
+TCGA-B0-5695-01A	01				2		86e4862c-7405-40b5-b73f-be0c6c52ea6d			Primary Tumor	TCGA-B0-5695.0c40b9ba-a1e4-4e11-904d-4fd2a1564f76.pdf			NO	0.4		A				0c40b9ba-a1e4-4e11-904d-4fd2a1564f76				TCGA-B0-5695-01A		2.5
+TCGA-BP-5186-01A	01				0.9		c1d4cc95-fcfc-4eca-89dc-fc52c695dee0			Primary Tumor	TCGA-BP-5186.6e5e9368-8df2-488e-8514-cb05a639a3fc.pdf			NO	0.2		A				6e5e9368-8df2-488e-8514-cb05a639a3fc				TCGA-BP-5186-01A		1
+TCGA-BP-4173-01A	01				1		910f1cfb-3c45-4e0e-a80c-77888085e315			Primary Tumor	TCGA-BP-4173.fcbe8ed4-84f1-4a59-a958-95795dec0c29.pdf			NO	0.3		A				fcbe8ed4-84f1-4a59-a958-95795dec0c29				TCGA-BP-4173-01A		1
+TCGA-CJ-4637-11A	11				0.9		4acc47b4-c707-40c7-b0a1-7a10411de31a			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-4637-11A		2.3
+TCGA-A3-A8OU-10A	10		false				C14EBAB9-034A-40AC-A44A-D40615C9C712			Blood Derived Normal				NO			A						926		TCGA-A3-A8OU-10A		
+TCGA-CZ-4857-11A	11				1		ef46fc71-9434-4a56-b4a4-5135eb65baf9			Solid Tissue Normal				NO	0.3		A								TCGA-CZ-4857-11A		1.5
+TCGA-BP-4975-01A	01				1		3e998594-1665-43f7-9fec-15c2c6226361			Primary Tumor	TCGA-BP-4975.e2ff0050-6701-4191-955f-1419b74c95b1.pdf			NO	0.2		A				e2ff0050-6701-4191-955f-1419b74c95b1				TCGA-BP-4975-01A		1.6
+TCGA-CW-5587-11A	11				0.6		e8acd20a-3901-4fb7-a0cb-8c4aef14d1c3			Solid Tissue Normal				NO	0.2		A								TCGA-CW-5587-11A		1
+TCGA-BP-5180-11A	11				0.9		2b760ce8-16f3-466e-8164-613be4d81518			Solid Tissue Normal				NO	0.3		A								TCGA-BP-5180-11A		2
+TCGA-B4-5377-10A	10						c17a07a2-1def-4fca-87ab-91e1d231bc5a			Blood Derived Normal				NO			A								TCGA-B4-5377-10A		
+TCGA-B8-4146-01B	01				0.7		2c98b857-5550-4b7c-ad77-2c17348a2d85			Primary Tumor	TCGA-B8-4146.d4a0b297-b80e-48b0-9fef-1a1678aff9be.pdf			NO	0.3		B				d4a0b297-b80e-48b0-9fef-1a1678aff9be				TCGA-B8-4146-01B		1.1
+TCGA-BP-4761-11A	11				0.5		b4bcf90f-bb5c-46c9-85a6-47abf2337ba1			Solid Tissue Normal				NO	0.5		A								TCGA-BP-4761-11A		1.7
+TCGA-CW-5585-11A	11				0.4		3ebdb6a2-509d-421b-a186-989aba538664			Solid Tissue Normal				NO	0.3		A								TCGA-CW-5585-11A		1
+TCGA-CW-5583-01A	01				0.6		326583ce-d99e-466b-89d9-f01a08c8cb16			Primary Tumor	TCGA-CW-5583.db2008c5-dafe-40aa-ac4b-66c33dbfa3a6.pdf			NO	0.2		A				db2008c5-dafe-40aa-ac4b-66c33dbfa3a6				TCGA-CW-5583-01A		1.8
+TCGA-BP-5006-11A	11				0.6		088253e2-1c11-4f3c-a649-fdd40335d964			Solid Tissue Normal				NO	0.2		A								TCGA-BP-5006-11A		1.6
+TCGA-A3-3311-01A	01				1		b08dce6a-d561-41e2-ad8f-cdb9d02e7efe			Primary Tumor	TCGA-A3-3311.46081368-f68b-4375-9ce7-580eedb3862a.pdf			NO	0.4		A				46081368-f68b-4375-9ce7-580eedb3862a				TCGA-A3-3311-01A		1.7
+TCGA-A3-A8OW-01A	01		false				C0BECF30-EC95-4A90-89FF-B0D11F0DD00A			Primary Tumor	TCGA-A3-A8OW.CCB13D9D-3876-46FA-AD6C-134925661B37.pdf			NO			A				CCB13D9D-3876-46FA-AD6C-134925661B37		842		TCGA-A3-A8OW-01A	40	
+TCGA-AK-3465-01A	01				1		3aa1a1b3-5767-4aef-9f04-ce125be32a78			Primary Tumor	TCGA-AK-3465.c68f05e9-f8b6-44ba-b827-1943fa5df19f.pdf			NO	0.3		A				c68f05e9-f8b6-44ba-b827-1943fa5df19f				TCGA-AK-3465-01A		1.2
+TCGA-CJ-4907-01A	01				1		1163c261-5527-4c07-a73c-452be675d69b			Primary Tumor	TCGA-CJ-4907.58ae7d63-49e6-484b-b8bb-340a05382c60.pdf			NO	1		A				58ae7d63-49e6-484b-b8bb-340a05382c60				TCGA-CJ-4907-01A		2.2
+TCGA-BP-4768-01A	01				0.5		fc7164cd-06d9-40b1-92c3-4555716c5dcd			Primary Tumor	TCGA-BP-4768.8b350a11-7088-42fe-b76e-04fd9470322c.pdf			NO	0.3		A				8b350a11-7088-42fe-b76e-04fd9470322c				TCGA-BP-4768-01A		1
+TCGA-B8-4620-10A	10						1b5ae942-e712-498e-b8a7-63418b781bfd			Blood Derived Normal				NO			A								TCGA-B8-4620-10A		
+TCGA-BP-4169-11A	11				1		9f509032-8193-496b-ac82-c8070fd993cb			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4169-11A		1.5
+TCGA-B0-5696-01A	01				1		7246d6b4-6a1e-4718-be30-58176937894f			Primary Tumor	TCGA-B0-5696.6bb0e08f-3c19-4f73-8c01-6fd1f063f4f8.pdf			NO	0.5		A				6bb0e08f-3c19-4f73-8c01-6fd1f063f4f8				TCGA-B0-5696-01A		1.2
+TCGA-CJ-4871-11A	11				0.9		a4560108-e23e-4980-a69d-b6e6b775dc90			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4871-11A		3.2
+TCGA-B0-5692-01A	01				1		18223fc1-a5a8-4007-9696-728f8c302a23			Primary Tumor	TCGA-B0-5692.c1b80a45-aa5a-46ac-ae76-7091a5074d01.pdf			NO	0.8		A				c1b80a45-aa5a-46ac-ae76-7091a5074d01				TCGA-B0-5692-01A		1.2
+TCGA-B0-5107-11A	11				0.8		e32fd93f-2e2e-41d6-a5da-298753c78835			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5107-11A		1.2
+TCGA-EU-5905-01A	01				1		717139e7-57ca-43fa-97d0-5f1a9f35331b			Primary Tumor	TCGA-EU-5905.3e745e28-fe5e-40d0-8493-697d2592c359.pdf			NO	0.9		A				3e745e28-fe5e-40d0-8493-697d2592c359				TCGA-EU-5905-01A		2.4
+TCGA-BP-4326-11A	11				1.5		b2dea58e-527e-46e2-ba14-3070115c9a28			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4326-11A		2
+TCGA-B0-5092-11A	11				0.7		73f7f34f-f76e-492b-86e3-8637821b77a4			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5092-11A		1.4
+TCGA-CJ-5686-11A	11				0.9		5aaf302d-3b46-406c-b89b-837777b04a73			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-5686-11A		1.4
+TCGA-CW-5591-11A	11				0.7		89d874e8-c997-474f-9a0f-9b232582bd31			Solid Tissue Normal				NO	0.2		A								TCGA-CW-5591-11A		0.9
+TCGA-B8-4619-01A	01				0.7		101e52fe-fff9-465a-946d-4753694d0c9e			Primary Tumor	TCGA-B8-4619.321f89b0-5ae4-487f-b3d2-6008b462b747.pdf			NO	0.4		A				321f89b0-5ae4-487f-b3d2-6008b462b747				TCGA-B8-4619-01A		1
+TCGA-BP-4766-11A	11				0.5		b06a5b09-d401-4965-abdd-b7770115888a			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4766-11A		0.8
+TCGA-B0-4843-01A	01				1		faa44b90-3705-4d16-9e44-70238892ca13			Primary Tumor	TCGA-B0-4843.07830949-8cda-428e-9adb-53372831ed9b.pdf			NO	0.3		A				07830949-8cda-428e-9adb-53372831ed9b				TCGA-B0-4843-01A		1.5
+TCGA-B8-5546-01A	01				0.8		96ff727e-361c-4d81-aea7-ef9cd74de078			Primary Tumor	TCGA-B8-5546.ade36b12-e111-4a95-bbac-7d25ea9695d9.pdf			NO	0.2		A				ade36b12-e111-4a95-bbac-7d25ea9695d9				TCGA-B8-5546-01A		1.3
+TCGA-B0-5402-01A	01				1.1		b1dfba29-3616-4686-8a92-9ddd918f35c5			Primary Tumor	TCGA-B0-5402.2b70bf77-1990-40cd-82f3-1390a8c883f3.pdf			NO	0.1		A				2b70bf77-1990-40cd-82f3-1390a8c883f3				TCGA-B0-5402-01A		1.6
+TCGA-CJ-4885-01A	01				0.8		a30b3254-3963-48d1-9710-7c3cac0b1993			Primary Tumor	TCGA-CJ-4885.d14a17d3-e376-4f25-983c-88939604390e.pdf			NO	0.6		A				d14a17d3-e376-4f25-983c-88939604390e				TCGA-CJ-4885-01A		3.5
+TCGA-B0-4846-11A	11				1		3e4daade-7576-4937-bf01-f4b35ec9b1bf			Solid Tissue Normal				NO	0.2		A								TCGA-B0-4846-11A		1.3
+TCGA-DV-A4VX-01A	01		true				E5D28D22-61FF-41DE-938A-263CD8338BB8			Primary Tumor	TCGA-DV-A4VX.E56FC671-66B2-485C-9D80-BFCD6A968017.pdf			NO			A				E56FC671-66B2-485C-9D80-BFCD6A968017		1704		TCGA-DV-A4VX-01A	700	
+TCGA-BP-5183-11A	11				0.6		da3a8e27-52c9-4740-a410-c3c01586906d			Solid Tissue Normal				NO	0.2		A								TCGA-BP-5183-11A		0.6
+TCGA-CZ-5461-01A	01				1		27cf4ab8-b5b6-4ad3-8f60-088ef153c271			Primary Tumor	TCGA-CZ-5461.1ad395ce-33b0-478f-bf99-47cd60319c94.pdf			NO	0.2		A				1ad395ce-33b0-478f-bf99-47cd60319c94				TCGA-CZ-5461-01A		1.1
+TCGA-CZ-5453-11A	11				0.6		55ecc463-2410-491d-b052-c1cde828e3fc			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-5453-11A		1.1
+TCGA-B0-5699-11A	11				0.7		4c52f547-bd92-4f42-b687-d55489e6ae26			Solid Tissue Normal				NO	0.4		A								TCGA-B0-5699-11A		1.5
+TCGA-CJ-4894-01A	01				0.8		6d36767f-7a06-458f-bd27-e9de81b491a7			Primary Tumor	TCGA-CJ-4894.decb42e3-853e-4430-80c0-6dc04922d4c5.pdf			NO	0.7		A				decb42e3-853e-4430-80c0-6dc04922d4c5				TCGA-CJ-4894-01A		2.8
+TCGA-CJ-4900-01A	01				0.9		0072bb9f-bed6-44df-800c-9637019b4707			Primary Tumor	TCGA-CJ-4900.c7c01842-c747-4f1c-b926-946d789283b8.pdf			NO	0.9		A				c7c01842-c747-4f1c-b926-946d789283b8				TCGA-CJ-4900-01A		3
+TCGA-BP-4798-01A	01				0.6		309083b8-041e-4c3d-bcf2-fa3e4f671c10			Primary Tumor	TCGA-BP-4798.033c89de-cf03-4e4f-acd1-7792bea14524.pdf			NO	0.3		A				033c89de-cf03-4e4f-acd1-7792bea14524				TCGA-BP-4798-01A		1.1
+TCGA-CJ-4918-11A	11				0.9		00c4d8f0-aeed-4c26-b8db-bb3883dad965			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-4918-11A		3.2
+TCGA-CJ-5684-01A	01				0.8		6ce66cbc-9dcf-48f6-a70a-ee50523634b0			Primary Tumor	TCGA-CJ-5684.36810cc1-1d6e-4a09-9ae1-62e71dc9215f.pdf			NO	0.8		A				36810cc1-1d6e-4a09-9ae1-62e71dc9215f				TCGA-CJ-5684-01A		3
+TCGA-AK-3456-10A	10						9a063c15-b295-4559-be97-9d1f2d7cacf2			Blood Derived Normal				NO			A								TCGA-AK-3456-10A		
+TCGA-DV-5565-01A	01				0.8		39a226b0-3f39-4a2f-9e38-2ad77349a213			Primary Tumor	TCGA-DV-5565.b0593b34-0a24-4db1-8252-71040af25ebf.pdf			NO	0.3		A				b0593b34-0a24-4db1-8252-71040af25ebf				TCGA-DV-5565-01A		1.7
+TCGA-CJ-4908-01A	01				0.9		e8afd8f2-85c1-41e5-9956-6735d328c561			Primary Tumor	TCGA-CJ-4908.da7d2c64-4cbf-472a-a496-caec27ce148a.pdf			NO	0.9		A				da7d2c64-4cbf-472a-a496-caec27ce148a				TCGA-CJ-4908-01A		2.6
+TCGA-BP-4959-01A	01				0.9		7b9f2f35-d9b0-45a6-9d95-58a36a5822f5			Primary Tumor	TCGA-BP-4959.a39b0133-81f4-423c-b15d-72211c395e33.pdf			NO	0.3		A				a39b0133-81f4-423c-b15d-72211c395e33				TCGA-BP-4959-01A		1.7
+TCGA-B8-4154-11A	11				0.8		6d266b18-02c0-45ad-8a4d-56870f078623			Solid Tissue Normal				NO	0.3		A								TCGA-B8-4154-11A		0.8
+TCGA-CJ-4897-01A	01				0.9		a94d3642-623f-4183-b953-6e84642ceab0			Primary Tumor	TCGA-CJ-4897.508e7910-02fc-4b42-8b89-b4df86faa878.pdf			NO	0.9		A				508e7910-02fc-4b42-8b89-b4df86faa878				TCGA-CJ-4897-01A		3.4
+TCGA-A3-3343-01A	01				0.8		89b9f658-1223-4d46-b42b-b4aa892880be			Primary Tumor	TCGA-A3-3343.2400724a-cb14-49fe-889a-e044a80b27c8.pdf			NO	0.6		A				2400724a-cb14-49fe-889a-e044a80b27c8				TCGA-A3-3343-01A		1.3
+TCGA-MM-A564-10A	10		false				7467D23F-4CEE-4AB2-BDF3-053008F620E7			Blood Derived Normal				NO			A						173		TCGA-MM-A564-10A		
+TCGA-BP-4344-11A	11				0.8		86018ab1-ef41-4f0a-b12d-1ad753ba0fc2			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4344-11A		1.8
+TCGA-B0-5706-01A	01				0.7		4b7925e4-737e-4634-b2f3-f1a95eafeffb			Primary Tumor	TCGA-B0-5706.bcd56add-de3b-4e24-94bc-95648d30ad32.pdf			NO	0.2		A				bcd56add-de3b-4e24-94bc-95648d30ad32				TCGA-B0-5706-01A		1
+TCGA-DV-5567-10A	10						08a84005-a974-4c0f-9660-83ec041c1fba			Blood Derived Normal				NO			A								TCGA-DV-5567-10A		
+TCGA-BP-4982-11A	11				0.9		b2308746-e77d-4ea5-bc9b-45f985520073			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4982-11A		1.1
+TCGA-CJ-4920-11A	11				0.9		21180a5e-963c-42bc-9b76-6372ee4a4bd9			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4920-11A		2.5
+TCGA-A3-3357-11A	11				0.7		39712939-f2e8-4d8d-8b28-70bb430d56a7			Solid Tissue Normal				NO	0.7		A								TCGA-A3-3357-11A		3
+TCGA-B0-5117-11A	11				1		b1116541-bece-4df3-b3dd-cec50aeb277b			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5117-11A		1.5
+TCGA-CJ-5671-01A	01				0.8		61aced60-7c03-4272-bdf2-b51cb18cf67f			Primary Tumor	TCGA-CJ-5671.925da9b8-7137-4f44-9f6d-bff244b59762.pdf			NO	0.5		A				925da9b8-7137-4f44-9f6d-bff244b59762				TCGA-CJ-5671-01A		1.7
+TCGA-CZ-5987-01A	01				0.6		6e67f804-5c82-4750-894a-0e85357f7e3d			Primary Tumor	TCGA-CZ-5987.2be0a489-f9ac-45a1-881e-67a217d5e2dc.pdf			NO	0.4		A				2be0a489-f9ac-45a1-881e-67a217d5e2dc				TCGA-CZ-5987-01A		1.5
+TCGA-CW-5583-11A	11				0.7		7eab715a-9eb5-4ab3-99a0-4ae694a01e1b			Solid Tissue Normal				NO	0.3		A								TCGA-CW-5583-11A		1
+TCGA-BP-4982-01A	01				1.1		9d51827e-be2a-46a7-a2d0-995ad0f7512b			Primary Tumor	TCGA-BP-4982.9b725cc0-38f5-4dd1-9cf9-ee3de8b66f8c.pdf			NO	0.2		A				9b725cc0-38f5-4dd1-9cf9-ee3de8b66f8c				TCGA-BP-4982-01A		1.3
+TCGA-BP-5185-01A	01				0.7		fe96ecec-fab4-4a9c-af12-1572a6f2aef3			Primary Tumor	TCGA-BP-5185.efc95b18-6bb6-411a-920e-c6e16bfd06b2.pdf			NO	0.2		A				efc95b18-6bb6-411a-920e-c6e16bfd06b2				TCGA-BP-5185-01A		1.8
+TCGA-A3-3363-11A	11				1		8bc4aac8-1e5a-41fe-8142-95cd1768d629			Solid Tissue Normal				NO	0.5		A								TCGA-A3-3363-11A		1.5
+TCGA-DV-A4W0-01A	01		true				261E7EC8-D65A-47FB-996A-5235BFB877CF			Primary Tumor	TCGA-DV-A4W0.7511A809-4B7C-4A77-9D6F-D2AF59441E84.pdf			NO			A				7511A809-4B7C-4A77-9D6F-D2AF59441E84		1681		TCGA-DV-A4W0-01A	260	
+TCGA-CJ-4635-11B	11				0.8		16feb2a8-7f50-49b5-bece-c8eef79abfc1			Solid Tissue Normal				NO	0.8		B								TCGA-CJ-4635-11B		3
+TCGA-A3-3308-11A	11				0.6		eed5ee07-f84e-4907-b4ea-1aa879d3602c			Solid Tissue Normal				NO	0.5		A								TCGA-A3-3308-11A		2.5
+TCGA-B8-4622-01A	01				0.9		1c86e0f6-a019-47a5-8325-bbb82f76488c			Primary Tumor	TCGA-B8-4622.abb9b759-d869-41cd-b2d9-48e3082f1ff2.pdf			NO	0.5		A				abb9b759-d869-41cd-b2d9-48e3082f1ff2				TCGA-B8-4622-01A		1.5
+TCGA-MM-A564-01A	01		true				AD7FF747-BC4D-45A7-B389-D3D4705F48BE			Primary Tumor	TCGA-MM-A564.1BA365C7-6B1F-485B-B4AE-09E1CC110748.pdf			NO			A				1BA365C7-6B1F-485B-B4AE-09E1CC110748		173		TCGA-MM-A564-01A	520	
+TCGA-DV-5569-10A	10						00f6e0ab-d171-4553-ac84-c6c806bd9887			Blood Derived Normal				NO			A								TCGA-DV-5569-10A		
+TCGA-B0-4699-01A	01				1		bc2c2fe5-6b0b-4f21-87f6-eb37aa0b8472			Primary Tumor	TCGA-B0-4699.8c37cd5c-b75f-4110-8ee6-23eaf7de741a.pdf			NO	0.4		A				8c37cd5c-b75f-4110-8ee6-23eaf7de741a				TCGA-B0-4699-01A		2.7
+TCGA-DV-5566-10A	10						55456a36-6827-4419-b1b7-741d732da4c1			Blood Derived Normal				NO			A								TCGA-DV-5566-10A		
+TCGA-BP-5004-01A	01				0.8		42d57ceb-76bd-4c17-a853-bb5e64f6b0eb			Primary Tumor	TCGA-BP-5004.d0555415-7155-489c-89f0-b6783b088e00.pdf			NO	0.1		A				d0555415-7155-489c-89f0-b6783b088e00				TCGA-BP-5004-01A		1.4
+TCGA-A3-3324-01A	01				1		08ce626e-0734-4d54-ba3f-ea5702b886f3			Primary Tumor	TCGA-A3-3324.94610ed5-f7dc-4d74-a03e-ecc8df8009c2.pdf			NO	0.4		A				94610ed5-f7dc-4d74-a03e-ecc8df8009c2				TCGA-A3-3324-01A		1.9
+TCGA-B0-4701-11A	11				1.1		b94781f1-3322-476f-b8e3-f2dca54530c8			Solid Tissue Normal				NO	0.4		A								TCGA-B0-4701-11A		1.7
+TCGA-CJ-5683-11A	11				0.5		0ba61f47-09e7-4cb0-9de4-c52bad10e07d			Solid Tissue Normal				NO	0.4		A								TCGA-CJ-5683-11A		0.8
+TCGA-AK-3433-10A	10						cfc44c89-5199-4577-9bc2-6f368a4e1ab2			Blood Derived Normal				NO			A								TCGA-AK-3433-10A		
+TCGA-BP-4801-01A	01				1		cff2f717-8801-4b3f-a1dc-8b13b1f37cba			Primary Tumor	TCGA-BP-4801.c4bfdccf-e1ac-4bca-bbd6-5e6c20fa40fa.pdf			NO	0.1		A				c4bfdccf-e1ac-4bca-bbd6-5e6c20fa40fa				TCGA-BP-4801-01A		2
+TCGA-B0-4847-01A	01				1		da56d751-8094-4060-94c7-9a6454cd73d4			Primary Tumor	TCGA-B0-4847.63f55f7f-5f7e-41d8-9a95-b3f552574d02.pdf			NO	0.3		A				63f55f7f-5f7e-41d8-9a95-b3f552574d02				TCGA-B0-4847-01A		1.6
+TCGA-B0-4839-11A	11				1.1		52741ab0-a0c1-4490-ac90-931c51ff3063			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4839-11A		1.1
+TCGA-BP-4973-11A	11				1.3		27cb4ef2-2a8a-4eb8-8fde-0ab444ad8aaf			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4973-11A		2
+TCGA-B0-5713-11A	11				0.9		ca9fa136-abf9-4e61-b38f-3df0249b3c72			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5713-11A		1.2
+TCGA-BP-4803-01A	01				1		d4c64f30-f006-4f19-99a5-4385c419f10c			Primary Tumor	TCGA-BP-4803.1d68f214-1d32-45f7-82f6-bc9fb433a970.pdf			NO	0.3		A				1d68f214-1d32-45f7-82f6-bc9fb433a970				TCGA-BP-4803-01A		1
+TCGA-B2-A4SR-10A	10		false				C734EA72-A3F1-45A7-94BE-3AA675E51759			Blood Derived Normal				NO			A						243		TCGA-B2-A4SR-10A		
+TCGA-B0-4848-11A	11				0.9		e81388fe-6e36-4a90-8a68-c8b41955395b			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4848-11A		0.9
+TCGA-G6-A8L6-01A	01		true				7072FCD9-6859-4C92-8FAB-EE06A32AE46A			Primary Tumor	TCGA-G6-A8L6.851138C1-3B4F-4D74-B938-279BC4F5B950.pdf			NO			A				851138C1-3B4F-4D74-B938-279BC4F5B950		240		TCGA-G6-A8L6-01A	120	
+TCGA-B0-4837-11A	11				0.4		9cf593ff-1a42-4df5-9abf-8d1eb9e836db			Solid Tissue Normal				NO	0.2		A								TCGA-B0-4837-11A		1.2
+TCGA-B0-4718-01A	01				1.1		40197cef-b432-4c11-8814-ee8d10faee33			Primary Tumor	TCGA-B0-4718.334244db-99cf-4222-8f70-34bdd65bb792.pdf			NO	0.3		A				334244db-99cf-4222-8f70-34bdd65bb792				TCGA-B0-4718-01A		1.2
+TCGA-B0-4700-11A	11				1		455ac62d-7709-4390-b415-63abb5e3a59b			Solid Tissue Normal				NO	0.2		A								TCGA-B0-4700-11A		1.6
+TCGA-BP-4992-01A	01				1.2		212717dd-25f1-4c76-a648-b8a7d65caecf			Primary Tumor	TCGA-BP-4992.fae1e9ce-eea7-4278-8519-21225010f1f5.pdf			NO	0.2		A				fae1e9ce-eea7-4278-8519-21225010f1f5				TCGA-BP-4992-01A		1.5
+TCGA-B0-5119-11A	11				0.5		a283a214-8f88-4c9e-ac5c-60c5d26b11ca			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5119-11A		0.8
+TCGA-AK-3458-10A	10						af243982-6f05-4fbb-b9c8-0906a7b9d7d4			Blood Derived Normal				NO			A								TCGA-AK-3458-10A		
+TCGA-CZ-5467-11A	11				0.6		543ee2e4-d43f-4b80-9583-6203b32048c3			Solid Tissue Normal				NO	0.3		A								TCGA-CZ-5467-11A		1.5
+TCGA-CJ-4638-01A	01				0.7		8333f4a8-9e49-4e14-badc-f247c6841eba			Primary Tumor	TCGA-CJ-4638.bd0ace3d-3a81-4de7-8283-c87c9942cc92.pdf			NO	0.5		A				bd0ace3d-3a81-4de7-8283-c87c9942cc92				TCGA-CJ-4638-01A		2
+TCGA-BP-5194-01A	01				1.5		3620a73a-8136-4e26-8a67-7faa964abedd			Primary Tumor	TCGA-BP-5194.7d2b2f32-1828-41c8-8b17-1c017c527fca.pdf			NO	0.1		A				7d2b2f32-1828-41c8-8b17-1c017c527fca				TCGA-BP-5194-01A		1.9
+TCGA-BP-4983-01A	01				1.2		2de4b908-16e1-46cb-aeb2-1e84f91bcc52			Primary Tumor	TCGA-BP-4983.4ccc9e93-1186-42b3-8f16-5a58feff01a0.pdf			NO	0.3		A				4ccc9e93-1186-42b3-8f16-5a58feff01a0				TCGA-BP-4983-01A		2
+TCGA-G6-A8L7-10A	10		false				1F37F1FB-2767-46A7-A9A8-0F32640C09B7			Blood Derived Normal				NO			A						1797		TCGA-G6-A8L7-10A		
+TCGA-BP-4174-01A	01				1.1		6662dcc4-7682-4783-a140-d144619044c9			Primary Tumor	TCGA-BP-4174.6fd40018-b7b1-4ea2-b31b-bbd4be3eff22.pdf			NO	0.4		A				6fd40018-b7b1-4ea2-b31b-bbd4be3eff22				TCGA-BP-4174-01A		1.4
+TCGA-B8-5545-10A	10						fd6a66e3-ee6a-4bd6-9c88-c24ba0deb2a8			Blood Derived Normal				NO			A								TCGA-B8-5545-10A		
+TCGA-B0-4810-01A	01				1.2		4c71efd9-9361-4b6b-82f1-2cc9cefcc1dc			Primary Tumor	TCGA-B0-4810.8f4d743f-d115-484d-b01d-0ceea8ebc2af.pdf			NO	0.4		A				8f4d743f-d115-484d-b01d-0ceea8ebc2af				TCGA-B0-4810-01A		1.5
+TCGA-B0-4691-01A	01				1.5		974c6544-6bde-4699-a4cb-90316b582e1e			Primary Tumor	TCGA-B0-4691.a1b82610-ddde-421e-ab8a-0dc4d52b1bbd.pdf			NO	0.3		A				a1b82610-ddde-421e-ab8a-0dc4d52b1bbd				TCGA-B0-4691-01A		1.8
+TCGA-BP-4988-01A	01				1.1		1368c9be-6e7e-4937-bd0f-81401df71449			Primary Tumor	TCGA-BP-4988.6c322de6-19cd-448f-b0e7-7579f7b6358a.pdf			NO	0.3		A				6c322de6-19cd-448f-b0e7-7579f7b6358a				TCGA-BP-4988-01A		1.5
+TCGA-AK-3453-10A	10						5c41354f-c73a-4afb-8511-bd15f395d176			Blood Derived Normal				NO			A								TCGA-AK-3453-10A		
+TCGA-B0-5399-01A	01				2		a1dddbed-c780-412a-b563-914f71e5c75d			Primary Tumor	TCGA-B0-5399.92e4deee-76fc-4b01-952a-674e35b4cf80.pdf			NO	0.3		A				92e4deee-76fc-4b01-952a-674e35b4cf80				TCGA-B0-5399-01A		2.1
+TCGA-A3-3317-01A	01				1		38aca442-4b0d-42e3-a20c-b844f1134a3c			Primary Tumor	TCGA-A3-3317.94c1e956-19f6-49a2-a524-9553a0fd7b3f.pdf			NO	0.3		A				94c1e956-19f6-49a2-a524-9553a0fd7b3f				TCGA-A3-3317-01A		1.5
+TCGA-A3-3352-01A	01				0.6		fdac626b-844c-4c88-9d74-f7859db92a29			Primary Tumor	TCGA-A3-3352.70a93356-089b-4552-95ab-5be14e49102c.pdf			NO	0.4		A				70a93356-089b-4552-95ab-5be14e49102c				TCGA-A3-3352-01A		0.7
+TCGA-B8-A7U6-10A	10		false				70F7483E-B2A6-4148-BFB6-D2F9FF2F8C2F			Blood Derived Normal				NO			A						57		TCGA-B8-A7U6-10A		
+TCGA-B0-5107-01A	01				0.9		4c6f4edb-9a29-48e6-8521-9c5fd2572e2d			Primary Tumor	TCGA-B0-5107.241aa004-447a-4daf-97eb-0ef5c4fcb4da.pdf			NO	0.2		A				241aa004-447a-4daf-97eb-0ef5c4fcb4da				TCGA-B0-5107-01A		1.5
+TCGA-B0-5710-11A	11				1.2		0a6efed8-653b-4969-8964-46ec195f35f9			Solid Tissue Normal				NO	0.4		A								TCGA-B0-5710-11A		2.4
+TCGA-BP-4968-01A	01				1.3		8cd2bbcd-3ce9-4b57-99da-895b82300af8			Primary Tumor	TCGA-BP-4968.a9535099-2fa1-421a-95bc-3ad5fba840ed.pdf			NO	0.3		A				a9535099-2fa1-421a-95bc-3ad5fba840ed				TCGA-BP-4968-01A		1.5
+TCGA-B0-5098-01A	01				0.9		813689a4-0413-4ee8-a5ba-79439710bbdb			Primary Tumor	TCGA-B0-5098.c83bebcf-5746-4269-8966-678b9b6b560a.pdf			NO	0.3		A				c83bebcf-5746-4269-8966-678b9b6b560a				TCGA-B0-5098-01A		2
+TCGA-BP-4346-01A	01				1.1		18c6c530-51e7-4e43-a1b9-f152d17c7c47			Primary Tumor	TCGA-BP-4346.a8962fba-e477-42c3-9fd8-deb184c012fc.pdf			NO	0.3		A				a8962fba-e477-42c3-9fd8-deb184c012fc				TCGA-BP-4346-01A		2
+TCGA-BP-4162-11A	11				1.5		658692db-d9f5-4bee-b464-0a6b224bf66c			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4162-11A		2.4
+TCGA-CJ-4869-11A	11				0.9		38603b24-c476-4fa0-9c60-eb185d91adeb			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4869-11A		3.4
+TCGA-CW-6093-11A	11				0.4		e6956c4d-8ecd-4fa8-8802-1881406b88a0			Solid Tissue Normal				NO	0.2		A								TCGA-CW-6093-11A		1.5
+TCGA-CJ-4640-01A	01				0.7		091a03e1-f6a0-4741-abc9-454a28df695d			Primary Tumor	TCGA-CJ-4640.8780608c-344a-4369-8003-3053b91f6b55.pdf			NO	0.5		A				8780608c-344a-4369-8003-3053b91f6b55				TCGA-CJ-4640-01A		2.7
+TCGA-CJ-4642-11A	11				0.8		d164eb9b-7442-4aa4-970b-83a28443bd40			Solid Tissue Normal				NO	0.8		A								TCGA-CJ-4642-11A		2.8
+TCGA-CZ-4853-01A	01				0.8		78419db8-acd6-4437-85a0-109fd561d99f			Primary Tumor	TCGA-CZ-4853.da1086bf-1ab4-446a-b69d-13748884c522.pdf			NO	0.3		A				da1086bf-1ab4-446a-b69d-13748884c522				TCGA-CZ-4853-01A		2
+TCGA-B8-5552-10A	10						36533d40-c021-495a-b946-90bc4a2ef363			Blood Derived Normal				NO			A								TCGA-B8-5552-10A		
+TCGA-B4-5836-10A	10						6d8e7ad1-e615-45d2-9ef9-59f85fdf1a96			Blood Derived Normal				NO			A								TCGA-B4-5836-10A		
+TCGA-B8-4143-11A	11				0.7		179ed34c-99cb-4149-90e2-04c7916fc2cc			Solid Tissue Normal				NO	0.4		A								TCGA-B8-4143-11A		1.4
+TCGA-BP-4970-01A	01				1.2		0255efbd-9e20-4b51-a18d-0814e138572d			Primary Tumor	TCGA-BP-4970.ef2070ab-e768-491c-bbf0-035e45898f42.pdf			NO	0.2		A				ef2070ab-e768-491c-bbf0-035e45898f42				TCGA-BP-4970-01A		1.2
+TCGA-CZ-4862-01A	01				1		c2cdec60-3a0d-440f-83fc-c87ceb45e120			Primary Tumor	TCGA-CZ-4862.3162d07d-649b-4579-860b-34e3797c7beb.pdf			NO	0.3		A				3162d07d-649b-4579-860b-34e3797c7beb				TCGA-CZ-4862-01A		1.5
+TCGA-B0-4700-01A	01				1.8		d67be8e3-41e9-4948-94cf-adc5eddd294b			Primary Tumor	TCGA-B0-4700.8aa37c12-4070-4ac3-aa59-184c93327bdd.pdf			NO	0.2		A				8aa37c12-4070-4ac3-aa59-184c93327bdd				TCGA-B0-4700-01A		3.3
+TCGA-CZ-5453-01A	01				0.7		5c1b955d-9d60-4975-a1e6-c4d531e79190			Primary Tumor	TCGA-CZ-5453.99715118-dc84-4fd0-868d-06d2399d5528.pdf			NO	0.2		A				99715118-dc84-4fd0-868d-06d2399d5528				TCGA-CZ-5453-01A		1.4
+TCGA-BP-4337-01A	01				0.9		c661ae6a-d44b-4bcf-a79a-e41cd3809e8b			Primary Tumor	TCGA-BP-4337.b0b3c3bf-a828-4f06-ac69-c2e664d1a2f2.pdf			NO	0.5		A				b0b3c3bf-a828-4f06-ac69-c2e664d1a2f2				TCGA-BP-4337-01A		1.9
+TCGA-B0-5083-01A	01				1		da327954-374b-495a-b601-e7bdc41fd31a			Primary Tumor	TCGA-B0-5083.41f37d91-3986-4ef4-a702-2ba44c6cbd48.pdf			NO	0.2		A				41f37d91-3986-4ef4-a702-2ba44c6cbd48				TCGA-B0-5083-01A		1.4
+TCGA-AK-3426-10A	10						07999cd7-fb27-4a16-ba92-371901aba3bb			Blood Derived Normal				NO			A								TCGA-AK-3426-10A		
+TCGA-B0-4824-01A	01				1.1		89d54b42-f9a1-4648-ba47-f0727b859e3b			Primary Tumor	TCGA-B0-4824.c2bfe026-4eb1-4d17-9084-41a0b19297c1.pdf			NO	0.3		A				c2bfe026-4eb1-4d17-9084-41a0b19297c1				TCGA-B0-4824-01A		1.7
+TCGA-B0-5713-01A	01				0.5		a27dd46b-a5c5-493c-8254-567919d60faf			Primary Tumor	TCGA-B0-5713.f83b6a91-615b-4f67-beda-f982b7ddcb94.pdf			NO	0.3		A				f83b6a91-615b-4f67-beda-f982b7ddcb94				TCGA-B0-5713-01A		2.5
+TCGA-B8-5550-10A	10						48703c46-7ad7-4000-a80b-4df7ecf0483a			Blood Derived Normal				NO			A								TCGA-B8-5550-10A		
+TCGA-AK-3450-01A	01				0.6		eed7f3a0-32b9-4202-bfe8-f96a8dd92244			Primary Tumor	TCGA-AK-3450.ff1f991c-b72a-47b0-964b-6a348b4bdb52.pdf			NO	0.3		A				ff1f991c-b72a-47b0-964b-6a348b4bdb52				TCGA-AK-3450-01A		0.9
+TCGA-B0-5108-01A	01				1.5		109ac514-fdb0-49dc-8eef-0f279c1ca78f			Primary Tumor	TCGA-B0-5108.58244c05-d7b9-4413-bc6d-d9f71f16e65d.pdf			NO	0.2		A				58244c05-d7b9-4413-bc6d-d9f71f16e65d				TCGA-B0-5108-01A		2
+TCGA-CZ-4857-01A	01				0.8		da8201a9-562a-461b-be47-e96b90dd7c58			Primary Tumor	TCGA-CZ-4857.fc5d937e-280d-47ee-a6ce-4eb7b1b6430f.pdf			NO	0.2		A				fc5d937e-280d-47ee-a6ce-4eb7b1b6430f				TCGA-CZ-4857-01A		1.1
+TCGA-BP-4797-01A	01				0.8		77c0c882-6c44-4820-8745-3b7217353426			Primary Tumor	TCGA-BP-4797.9ba3733c-115d-44af-8f4a-28abb6c73087.pdf			NO	0.2		A				9ba3733c-115d-44af-8f4a-28abb6c73087				TCGA-BP-4797-01A		1.2
+TCGA-BP-4991-01A	01				0.8		635e81bb-87a7-401e-8faa-5263f71688de			Primary Tumor	TCGA-BP-4991.c80790ed-8adf-4a0d-a9f5-736abd7c7de5.pdf			NO	0.2		A				c80790ed-8adf-4a0d-a9f5-736abd7c7de5				TCGA-BP-4991-01A		1.3
+TCGA-B0-5077-11A	11				0.6		e867fdc9-ea49-4192-9546-8f564228edc4			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5077-11A		1.5
+TCGA-BP-4343-11A	11				1		c640ba79-2f5c-419c-9b99-54b844f82a8a			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4343-11A		1.9
+TCGA-B0-4710-01A	01				1		6fc8cb4b-1dc0-46b8-ae80-7dbd022c9431			Primary Tumor	TCGA-B0-4710.a31ff26a-126f-4ac7-9251-9bba3e06c03a.pdf			NO	0.2		A				a31ff26a-126f-4ac7-9251-9bba3e06c03a				TCGA-B0-4710-01A		2
+TCGA-A3-3336-01A	01				0.5		8638c01d-7cb8-47a4-804f-12f269db1adf			Primary Tumor	TCGA-A3-3336.2b2f6cf4-675f-4a80-a712-b4d915e82104.pdf			NO	0.5		A				2b2f6cf4-675f-4a80-a712-b4d915e82104				TCGA-A3-3336-01A		0.8
+TCGA-BP-5168-01A	01				1.1		233c6672-a850-48e0-99fd-024cf1a76b4c			Primary Tumor	TCGA-BP-5168.f1fae1d5-ba38-49c4-a66e-f977ca7d5e3b.pdf			NO	0.3		A				f1fae1d5-ba38-49c4-a66e-f977ca7d5e3b				TCGA-BP-5168-01A		1.9
+TCGA-BP-5190-01A	01				1.2		20a6538d-91b0-4be1-bebd-b464a3f77f8c			Primary Tumor	TCGA-BP-5190.57d7108f-0a36-4156-81be-def08d506602.pdf			NO	0.3		A				57d7108f-0a36-4156-81be-def08d506602				TCGA-BP-5190-01A		1.3
+TCGA-AK-3430-01A	01				0.4		b16a82ca-2eaf-4b7a-b469-2be4a023fc2a			Primary Tumor	TCGA-AK-3430.f805bea6-9a63-40ba-9101-424cc99fd53a.pdf			NO	0.3		A				f805bea6-9a63-40ba-9101-424cc99fd53a				TCGA-AK-3430-01A		1.2
+TCGA-BP-5006-01A	01				0.6		5655ce5a-e9e5-4c46-9612-748d94bc18cc			Primary Tumor	TCGA-BP-5006.cd7de55a-5445-4c0a-96f5-3cbc9486adc2.pdf			NO	0.1		A				cd7de55a-5445-4c0a-96f5-3cbc9486adc2				TCGA-BP-5006-01A		0.8
+TCGA-A3-3311-11A	11				1		80eb1493-acfa-4345-b224-8a7d5af424fc			Solid Tissue Normal				NO	0.5		A								TCGA-A3-3311-11A		2
+TCGA-A3-A8OV-10A	10		false				F4D5E97D-3AE8-4FD2-829C-525868471812			Blood Derived Normal				NO			A						909		TCGA-A3-A8OV-10A		
+TCGA-B0-4703-01A	01				0.8		6c7f0d06-2800-47dd-b919-d3702b368de3			Primary Tumor	TCGA-B0-4703.15843d37-ad2b-4997-ae96-fab2c69c03c3.pdf			NO	0.3		A				15843d37-ad2b-4997-ae96-fab2c69c03c3				TCGA-B0-4703-01A		2.4
+TCGA-CJ-6030-11A	11				0.9		c369f526-595a-4fab-be98-d3cd63d109ee			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-6030-11A		3
+TCGA-BP-4338-01A	01				0.6		3ac1b491-2e6e-4b86-9567-00b1c1afe19d			Primary Tumor	TCGA-BP-4338.6a5e8345-4ec8-44e4-9d6c-5e0ab42496d3.pdf			NO	0.2		A				6a5e8345-4ec8-44e4-9d6c-5e0ab42496d3				TCGA-BP-4338-01A		1.5
+TCGA-BP-5169-11A	11				0.7		8d82aced-24ab-4a12-b631-81fa959adeab			Solid Tissue Normal				NO	0.1		A								TCGA-BP-5169-11A		1
+TCGA-B2-5633-11A	11				1		eca45c05-9488-4cc8-9912-00e1208636dd			Solid Tissue Normal				NO	0.4		A								TCGA-B2-5633-11A		1.2
+TCGA-B0-5696-11A	11				0.7		68256866-acad-4a56-9fa2-479d0e7c5e0c			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5696-11A		1.8
+TCGA-BP-4352-01A	01				1.5		4fa249ed-2767-4eda-bc68-798d47b94725			Primary Tumor	TCGA-BP-4352.05b4fe97-cc88-434c-8866-1dd3f2dd9a6e.pdf			NO	0.4		A				05b4fe97-cc88-434c-8866-1dd3f2dd9a6e				TCGA-BP-4352-01A		1.6
+TCGA-BP-4961-01A	01				1		f207131d-8db7-464b-a3e5-44218da1cafc			Primary Tumor	TCGA-BP-4961.75d67c82-1b9c-4b88-a087-205c1356131a.pdf			NO	0.2		A				75d67c82-1b9c-4b88-a087-205c1356131a				TCGA-BP-4961-01A		1.6
+TCGA-B0-5081-01A	01				0.6		51df6839-a4cd-4322-86fb-b68976d766fa			Primary Tumor	TCGA-B0-5081.f33bac8a-d76c-45e7-a7d5-ae93a45f8cf8.pdf			NO	0.3		A				f33bac8a-d76c-45e7-a7d5-ae93a45f8cf8				TCGA-B0-5081-01A		1.2
+TCGA-B0-4822-01A	01				1.2		9af3db94-6079-427e-b334-e0772386e65e			Primary Tumor	TCGA-B0-4822.8b63bac6-b4be-4d0c-80c8-2647df4015e3.pdf			NO	0.3		A				8b63bac6-b4be-4d0c-80c8-2647df4015e3				TCGA-B0-4822-01A		2.5
+TCGA-B4-5835-10A	10						c389ce48-c0fe-4ed2-a64a-8bae971103e6			Blood Derived Normal				NO			A								TCGA-B4-5835-10A		
+TCGA-BP-4160-11A	11				1		9c2257d8-31d7-4689-858f-8a92f1abcdd5			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4160-11A		1.3
+TCGA-B0-5400-01A	01				1.2		a15be7ab-b030-420f-90e1-2b7dddf72b16			Primary Tumor	TCGA-B0-5400.09a0384b-837f-4161-abec-7b96ab605186.pdf			NO	0.3		A				09a0384b-837f-4161-abec-7b96ab605186				TCGA-B0-5400-01A		1.5
+TCGA-CZ-4861-11A	11				0.6		78eb1e66-6961-455c-bf2c-89cec13de267			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-4861-11A		1
+TCGA-BP-4326-01A	01				1.8		068bfe4d-341c-49f7-b7a9-5d070de00ab3			Primary Tumor	TCGA-BP-4326.3198a500-a873-432b-98c9-d978c866037d.pdf			NO	0.4		A				3198a500-a873-432b-98c9-d978c866037d				TCGA-BP-4326-01A		2
+TCGA-AK-3434-10A	10						faca6c35-1ab3-4437-b2b9-78921be5272c			Blood Derived Normal				NO			A								TCGA-AK-3434-10A		
+TCGA-CZ-5465-01A	01				1.2		89cf7ea0-30b1-4764-9c61-7f23f5c944dd			Primary Tumor	TCGA-CZ-5465.0c23f13d-0910-4835-b9fa-06f10736b2dd.pdf			NO	0.3		A				0c23f13d-0910-4835-b9fa-06f10736b2dd				TCGA-CZ-5465-01A		1.8
+TCGA-B8-5158-10A	10						2f8e5315-bc5c-4b1d-8f91-2928f7c6fe3b			Blood Derived Normal				NO			A								TCGA-B8-5158-10A		
+TCGA-BP-4766-01A	01				0.7		671ad519-0537-41ac-8ba5-41286a55694e			Primary Tumor	TCGA-BP-4766.939d54df-ce2d-4a4d-801d-6d7059ad8ace.pdf			NO	0.2		A				939d54df-ce2d-4a4d-801d-6d7059ad8ace				TCGA-BP-4766-01A		1.5
+TCGA-B8-5546-11A	11				0.6		48314c1c-8dde-4457-8f6a-34fb86010868			Solid Tissue Normal				NO	0.6		A								TCGA-B8-5546-11A		1.7
+TCGA-CJ-4885-11A	11				0.9		85e901c7-bf9c-4195-b91b-090396a9992c			Solid Tissue Normal				NO	0.7		A								TCGA-CJ-4885-11A		2.6
+TCGA-AK-3454-01A	01				0.9		74741322-3b24-43e6-9ce1-f267b0555f62			Primary Tumor	TCGA-AK-3454.e0e1c66d-f679-4dc5-936c-9dc752b5bebe.pdf			NO	0.3		A				e0e1c66d-f679-4dc5-936c-9dc752b5bebe				TCGA-AK-3454-01A		1
+TCGA-B8-A54F-10A	10		false				BA98CC27-D40C-4BD4-AF0C-A8838662BA49			Blood Derived Normal				NO			A						321		TCGA-B8-A54F-10A		
+TCGA-BP-5183-01A	01				0.7		583f4290-c8cf-4d90-882d-25e459a12c26			Primary Tumor	TCGA-BP-5183.a15a0dff-41ac-4d3b-b16f-b1a98198a203.pdf			NO	0.2		A				a15a0dff-41ac-4d3b-b16f-b1a98198a203				TCGA-BP-5183-01A		1.2
+TCGA-BP-4797-11A	11				0.6		9d6d0808-f67e-4dcf-a3dd-8684e56f2400			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4797-11A		2
+TCGA-BP-5001-01A	01				0.8		e863bd35-0382-4979-b599-033a06a1f50b			Primary Tumor	TCGA-BP-5001.abb12726-85b5-4c11-b497-9bea22dd6a43.pdf			NO	0.2		A				abb12726-85b5-4c11-b497-9bea22dd6a43				TCGA-BP-5001-01A		1.5
+TCGA-CZ-5462-11A	11				0.8		43d615b8-26db-49fc-82fe-6998b577f88d			Solid Tissue Normal				NO	0.1		A								TCGA-CZ-5462-11A		1
+TCGA-B2-5641-11A	11				0.9		aad75404-6590-4d5e-bba3-f26fa1daf6c9			Solid Tissue Normal				NO	0.2		A								TCGA-B2-5641-11A		1
+TCGA-CW-5587-01A	01				0.4		82f20d61-aff1-4c4c-86bf-2f80f32b684a			Primary Tumor	TCGA-CW-5587.06d03baf-182a-483e-b969-317a2a3cced6.pdf			NO	0.2		A				06d03baf-182a-483e-b969-317a2a3cced6				TCGA-CW-5587-01A		2.2
+TCGA-B8-A54G-10A	10		false				5C1A2FA2-C830-4687-A61A-65A48CD6B350			Blood Derived Normal				NO			A						313		TCGA-B8-A54G-10A		
+TCGA-BP-5173-01A	01				0.5		50ed062d-64cd-4c93-b51b-c179ef7af6c7			Primary Tumor	TCGA-BP-5173.29c4a2ec-b1cc-4e27-b9ac-4a669c01c02c.pdf			NO	0.2		A				29c4a2ec-b1cc-4e27-b9ac-4a669c01c02c				TCGA-BP-5173-01A		0.6
+TCGA-BP-4967-11A	11				0.8		84218848-61dd-416d-8b04-8ae9a06fb8ac			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4967-11A		1.5
+TCGA-BP-5009-01A	01				0.8		7fb7ea59-1f6b-4289-9111-17f11b24d0b4			Primary Tumor	TCGA-BP-5009.4268ceeb-4906-412a-9dad-8fc041c9c6f2.pdf			NO	0.3		A				4268ceeb-4906-412a-9dad-8fc041c9c6f2				TCGA-BP-5009-01A		1.1
+TCGA-CZ-5466-01A	01				1.2		694ca445-7bac-4216-acf5-e227650ae973			Primary Tumor	TCGA-CZ-5466.a4dfe5b5-27b4-49bb-99aa-87261fe267eb.pdf			NO	0.3		A				a4dfe5b5-27b4-49bb-99aa-87261fe267eb				TCGA-CZ-5466-01A		1.6
+TCGA-BP-4161-11A	11				1.8		a5d67694-4d2d-49cf-a63c-d3d8258ec64c			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4161-11A		2.2
+TCGA-B2-4098-01A	01				0.8		6463ae73-a885-4d69-9345-7110ddac0c7e			Primary Tumor	TCGA-B2-4098.9d1802dc-4f4f-47d8-85bb-7e4173143979.pdf			NO	0.8		A				9d1802dc-4f4f-47d8-85bb-7e4173143979				TCGA-B2-4098-01A		2.3
+TCGA-B8-5549-11A	11				0.8		1768bc1a-f389-496a-9e66-402dc28f6b7f			Solid Tissue Normal				NO	0.3		A								TCGA-B8-5549-11A		1.4
+TCGA-BP-5000-11A	11				0.7		7079f5c1-4aa2-49c0-8711-42601d07bd63			Solid Tissue Normal				NO	0.2		A								TCGA-BP-5000-11A		1
+TCGA-CJ-5672-11A	11				0.7		7babafdc-a693-46e9-92f5-7bf6e667c113			Solid Tissue Normal				NO	0.6		A								TCGA-CJ-5672-11A		3
+TCGA-CJ-5680-11A	11				0.8		b0996ad5-8909-441b-926d-1978f4cb540f			Solid Tissue Normal				NO	0.7		A								TCGA-CJ-5680-11A		3.2
+TCGA-B8-4619-10A	10						af29b5c1-b608-4dea-a84d-55ff450eeda1			Blood Derived Normal				NO			A								TCGA-B8-4619-10A		
+TCGA-MM-A563-01A	01		true				9A7DC276-B019-4AD7-9923-71B365896092			Primary Tumor	TCGA-MM-A563.0FD82DFD-7411-4BFB-961C-EC0A5B398EB9.pdf			NO			A				0FD82DFD-7411-4BFB-961C-EC0A5B398EB9		137		TCGA-MM-A563-01A	220	
+TCGA-CJ-6028-11A	11				0.9		4519230d-d348-4847-b15d-f2331ec9f76a			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-6028-11A		2.7
+TCGA-AS-3778-01A	01				0.4		32d4f183-4346-4250-9739-3b9e4ca2253f			Primary Tumor	TCGA-AS-3778.b52c44ac-d91a-40c5-978c-f1168d546215.pdf			NO	0.4		A				b52c44ac-d91a-40c5-978c-f1168d546215				TCGA-AS-3778-01A		0.5
+TCGA-B0-4697-01A	01				1.4		1629803e-fd19-41c9-827f-ccc581a06651			Primary Tumor	TCGA-B0-4697.8c494270-bdb1-4d78-8127-88e3f90fb4ad.pdf			NO	0.6		A				8c494270-bdb1-4d78-8127-88e3f90fb4ad				TCGA-B0-4697-01A		2
+TCGA-B0-5081-11A	11				1		1d970c21-74eb-488e-a63e-bfc3ff520687			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5081-11A		1.8
+TCGA-CW-5590-11A	11				0.6		8c452212-4657-491d-8537-740e8f450100			Solid Tissue Normal				NO	0.3		A								TCGA-CW-5590-11A		0.8
+TCGA-B4-5834-01A	01				0.8		80c1365a-4c26-457a-9dde-6fad0228e84d			Primary Tumor	TCGA-B4-5834.9ce303b5-1496-464b-86f3-38c53e200e0a.pdf			NO	0.3		A				9ce303b5-1496-464b-86f3-38c53e200e0a				TCGA-B4-5834-01A		1.2
+TCGA-AK-3444-01A	01				0.7		5aa05885-94c9-45b2-b6a6-8e69b6b1cba5			Primary Tumor	TCGA-AK-3444.81695a84-9c99-4ec9-a2f4-ab0a62764eb3.pdf			NO	0.3		A				81695a84-9c99-4ec9-a2f4-ab0a62764eb3				TCGA-AK-3444-01A		0.8
+TCGA-CZ-4865-11A	11				0.6		62b71d5a-a147-4ac7-b23d-48742479821d			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-4865-11A		0.9
+TCGA-CJ-5681-11A	11				1		d7bbc19b-5690-47fc-94ef-25dbade69a47			Solid Tissue Normal				NO	1		A								TCGA-CJ-5681-11A		3.7
+TCGA-B4-5838-10A	10						23efa378-6656-4ddc-a305-2d60a5c8a66b			Blood Derived Normal				NO			A								TCGA-B4-5838-10A		
+TCGA-CJ-4901-01A	01				0.9		d8d97556-5e2b-46da-b196-574ee6766161			Primary Tumor	TCGA-CJ-4901.c8ee916e-3c47-4915-aeaa-26c4b27cef8c.pdf			NO	0.9		A				c8ee916e-3c47-4915-aeaa-26c4b27cef8c				TCGA-CJ-4901-01A		3.2
+TCGA-DV-5569-01A	01				0.6		46b491fa-e812-4b1c-b4a9-8bf51df3f17f			Primary Tumor	TCGA-DV-5569.07448bd4-bc42-486d-875c-c606b9fbf8d8.pdf			NO	0.2		A				07448bd4-bc42-486d-875c-c606b9fbf8d8				TCGA-DV-5569-01A		1.1
+TCGA-A3-A8CQ-01A	01		false				59286A60-24B8-4AEF-89E2-99CC10524AE9			Primary Tumor	TCGA-A3-A8CQ.42951E48-270A-4DEC-98A4-2D239C009478.pdf			NO			A				42951E48-270A-4DEC-98A4-2D239C009478		730		TCGA-A3-A8CQ-01A	80	
+TCGA-CJ-6032-01A	01				1.3		378583c9-ea75-481a-a545-e449f94d7873			Primary Tumor	TCGA-CJ-6032.f92c3798-9a25-4eda-94b7-6f59c7994ae2.pdf			NO	0.6		A				f92c3798-9a25-4eda-94b7-6f59c7994ae2				TCGA-CJ-6032-01A		3.2
+TCGA-A3-3363-01A	01				0.9		605e86ac-58f6-47d4-8bde-15eb23c857cc			Primary Tumor	TCGA-A3-3363.80d06d79-1eff-466f-9f07-6fa7c829e5d4.pdf			NO	0.5		A				80d06d79-1eff-466f-9f07-6fa7c829e5d4				TCGA-A3-3363-01A		1
+TCGA-AK-3429-10A	10						5168a7a2-be89-4e17-bfd3-68f5fc92025c			Blood Derived Normal				NO			A								TCGA-AK-3429-10A		
+TCGA-CJ-4635-01A	01				0.8		15541567-587c-4ab8-87ff-3d0db7d0c47c			Primary Tumor	TCGA-CJ-4635.023c84d4-f3ac-4ae8-920e-5095fb1fc375.pdf			NO	0.8		A				023c84d4-f3ac-4ae8-920e-5095fb1fc375				TCGA-CJ-4635-01A		4
+TCGA-B8-A7U6-01A	01		false				52191E1F-FCE1-4B45-9A1C-D5270B65BD8D			Primary Tumor	TCGA-B8-A7U6.27B82B1D-9142-4A49-9C30-5D052D216233.pdf			NO			A				27B82B1D-9142-4A49-9C30-5D052D216233		57		TCGA-B8-A7U6-01A	190	
+TCGA-B8-4622-11A	11				0.8		486f0027-f121-4b72-a326-e2156e434435			Solid Tissue Normal				NO	0.2		A								TCGA-B8-4622-11A		1.3
+TCGA-B8-A54E-10A	10		false				E842C87E-854D-4F9A-8A8D-4DBE4C06B5D3			Blood Derived Normal				NO			A						603		TCGA-B8-A54E-10A		
+TCGA-B0-5116-11A	11				0.8		00ca7164-ceb2-44d7-a8e9-b6c6dd678ee9			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5116-11A		1
+TCGA-CJ-4916-11A	11				0.8		e4bfaa70-63d4-4891-9a1f-07e6e4f5014c			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-4916-11A		2.4
+TCGA-MM-A84U-10A	10		false				B6DFF306-63FA-4F39-BD47-620D1C924522			Blood Derived Normal				NO			A						178		TCGA-MM-A84U-10A		
+TCGA-AK-3451-10A	10						fb7ead1b-9801-4ca0-b9bf-f3e294d42023			Blood Derived Normal				NO			A								TCGA-AK-3451-10A		
+TCGA-BP-4763-01A	01				0.8		307f759a-5793-4bde-8f45-3bea8154b326			Primary Tumor	TCGA-BP-4763.b852166f-5f68-425d-83c3-fa6f4d2a34f7.pdf			NO	0.2		A				b852166f-5f68-425d-83c3-fa6f4d2a34f7				TCGA-BP-4763-01A		1
+TCGA-A3-3324-11A	11				0.9		e8f91e49-d1fd-430f-a578-5c98300667b4			Solid Tissue Normal				NO	0.9		A								TCGA-A3-3324-11A		2.5
+TCGA-CJ-5683-01A	01				0.9		47f526d3-69d9-4262-abbf-a59e55638458			Primary Tumor	TCGA-CJ-5683.3426104c-95a8-4bc0-a323-106f558aa306.pdf			NO	0.6		A				3426104c-95a8-4bc0-a323-106f558aa306				TCGA-CJ-5683-01A		2.5
+TCGA-B0-5121-11A	11				0.7		410da6d7-d303-4fc2-bccc-ac49e587f1a3			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5121-11A		0.7
+TCGA-CJ-4881-01A	01				0.8		f00de7e8-d54d-4f07-85bc-8fa3f1d56b0c			Primary Tumor	TCGA-CJ-4881.36725c29-f964-4ab9-92e6-776d85380d62.pdf			NO	0.6		A				36725c29-f964-4ab9-92e6-776d85380d62				TCGA-CJ-4881-01A		3.1
+TCGA-CJ-4636-11A	11				0.6		a1d3ff0c-e16c-43d3-8282-049c7389a908			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-4636-11A		3.3
+TCGA-B0-5096-01A	01				0.9		18917266-64c2-40e2-958f-2edc428cb3ba			Primary Tumor	TCGA-B0-5096.67853303-bd4c-4835-b30c-b0a76f9f86fb.pdf			NO	0.2		A				67853303-bd4c-4835-b30c-b0a76f9f86fb				TCGA-B0-5096-01A		1.5
+TCGA-BP-5169-01A	01				1.2		9d3acf1c-7dd9-4d5b-8fae-5e66b76315ac			Primary Tumor	TCGA-BP-5169.7ce50310-2932-479e-b969-3a0f3ecb1e70.pdf			NO	0.1		A				7ce50310-2932-479e-b969-3a0f3ecb1e70				TCGA-BP-5169-01A		1.8
+TCGA-B4-5378-10A	10						6f61dfbf-9e27-40bb-829f-8e54600c98b6			Blood Derived Normal				NO			A								TCGA-B4-5378-10A		
+TCGA-B0-4718-11A	11				0.9		ce672a2c-93cf-418a-bcdd-670ce7cc6738			Solid Tissue Normal				NO	0.4		A								TCGA-B0-4718-11A		1.1
+TCGA-B2-4101-01A	01				0.7		a9947b6c-dbc7-4ba5-af61-7647e11e2973			Primary Tumor	TCGA-B2-4101.4bf64cc4-efd4-46ec-b0a9-ee1ce613eadc.pdf			NO	0.5		A				4bf64cc4-efd4-46ec-b0a9-ee1ce613eadc				TCGA-B2-4101-01A		2
+TCGA-CJ-4876-11A	11				0.9		5a2662df-edd3-4902-9c7c-79c7d9aa5bf6			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4876-11A		2.7
+TCGA-B0-4699-11A	11				1		f33e0659-a0a1-41b9-b640-ac2d4966b6f1			Solid Tissue Normal				NO	0.4		A								TCGA-B0-4699-11A		1.7
+TCGA-AK-3425-10A	10						30afa034-67c7-46cc-9724-cfdb2befb5fc			Blood Derived Normal				NO			A								TCGA-AK-3425-10A		
+TCGA-BP-4998-01A	01				1		1e83ac72-12e9-4e44-a928-e9e8aa092ea7			Primary Tumor	TCGA-BP-4998.bb5f3b00-efb5-4a61-bbdd-cbf3bd3bad2b.pdf			NO	0.2		A				bb5f3b00-efb5-4a61-bbdd-cbf3bd3bad2b				TCGA-BP-4998-01A		1.6
+TCGA-BP-4976-01A	01				1.1		1465ce1e-f267-4dad-a327-3128456a6201			Primary Tumor	TCGA-BP-4976.b2364f79-2c5e-483f-ade0-8865f5b71a8d.pdf			NO	0.3		A				b2364f79-2c5e-483f-ade0-8865f5b71a8d				TCGA-BP-4976-01A		1.1
+TCGA-BP-4986-01A	01				0.7		1aa58f3b-788e-4224-8887-4af8eb05f4d4			Primary Tumor	TCGA-BP-4986.04ba013d-e464-48bd-854c-095c79a30f7e.pdf			NO	0.2		A				04ba013d-e464-48bd-854c-095c79a30f7e				TCGA-BP-4986-01A		1.1
+TCGA-CJ-5686-01A	01				0.8		6fc94822-85d4-43ff-87dc-0775840a15b4			Primary Tumor	TCGA-CJ-5686.1c2cb105-9894-40a2-a22d-eb2111ae0507.pdf			NO	0.4		A				1c2cb105-9894-40a2-a22d-eb2111ae0507				TCGA-CJ-5686-01A		1.5
+TCGA-B0-4815-01A	01				1.4		0de954bd-12f1-4994-931c-ebcc10ec0c57			Primary Tumor	TCGA-B0-4815.477535c0-712e-4c9e-9815-4f47a27da412.pdf			NO	0.5		A				477535c0-712e-4c9e-9815-4f47a27da412				TCGA-B0-4815-01A		1.6
+TCGA-CZ-5456-11A	11				0.9		19519db7-1e78-4726-bb82-e5c9106e16be			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-5456-11A		1.8
+TCGA-BP-4174-11A	11				0.9		0f621ad9-0c44-4f57-b25c-2aa332cb880a			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4174-11A		1.8
+TCGA-B0-4691-11A	11				1.1		1fcdf295-1baf-41e1-876a-1a2658fa095b			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4691-11A		1.9
+TCGA-B0-4822-11A	11				0.7		74ad6295-92e5-48f3-ba75-1ca0e777d87e			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4822-11A		1.6
+TCGA-B0-4712-11A	11				1.1		aea04397-89bc-4a73-ab41-34c0ba34faf6			Solid Tissue Normal				NO	0.4		A								TCGA-B0-4712-11A		2
+TCGA-B0-5709-11A	11				0.9		9fbd89d7-d15d-4bcb-8a9f-ac1e087b6587			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5709-11A		1.2
+TCGA-B0-5710-01A	01				1.1		a94ba305-aec8-4c11-af83-8f19a3afad07			Primary Tumor	TCGA-B0-5710.df52c82e-338f-469f-aaaa-545a858e7db0.pdf			NO	0.4		A				df52c82e-338f-469f-aaaa-545a858e7db0				TCGA-B0-5710-01A		1.3
+TCGA-B0-5098-11A	11				0.7		8198b6cd-9f70-4c75-8ed7-770ee9ab3642			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5098-11A		0.9
+TCGA-BP-5178-11A	11				1.3		a5017aea-ffe5-426f-b673-77a071d12178			Solid Tissue Normal				NO	0.1		A								TCGA-BP-5178-11A		1.5
+TCGA-B2-4098-11A	11				0.8		ce0f90b6-300d-42da-9ed4-f37fbb38ca73			Solid Tissue Normal				NO	0.5		A								TCGA-B2-4098-11A		2
+TCGA-BP-4162-01A	01				1.3		ca4eac28-22c9-48d8-8139-7cda2cfe4ae2			Primary Tumor	TCGA-BP-4162.38b98d39-b206-4a74-8311-5950f14e5bc3.pdf			NO	0.4		A				38b98d39-b206-4a74-8311-5950f14e5bc3				TCGA-BP-4162-01A		2
+TCGA-B0-5075-11A	11				0.7		acee2a6d-01bb-458d-bdc6-06cfee8aedc9			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5075-11A		1.3
+TCGA-BP-5009-11A	11				0.5		a87f1356-40ee-4db9-be7a-85c712f2493f			Solid Tissue Normal				NO	0.2		A								TCGA-BP-5009-11A		1
+TCGA-B2-5636-11A	11				0.9		9a1e8eb9-a49f-4a20-8709-10ba510c4c93			Solid Tissue Normal				NO	0.9		A								TCGA-B2-5636-11A		2.6
+TCGA-BP-4353-11A	11				0.8		ced9a4fc-c429-47c6-a792-d01471de9269			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4353-11A		1
+TCGA-BP-5189-01A	01				0.6		55a5bc48-ae8b-46f6-8f94-f3d96c2dd2d2			Primary Tumor	TCGA-BP-5189.a3f07c90-aaf1-4621-ab6d-edad5c03e2e3.pdf			NO	0.2		A				a3f07c90-aaf1-4621-ab6d-edad5c03e2e3				TCGA-BP-5189-01A		1.5
+TCGA-EU-5904-01A	01				0.9		80540f89-d51f-4d66-89d4-0f33eb6d641e			Primary Tumor	TCGA-EU-5904.ca3c6e67-3675-42d8-91a1-60fb8aa8cdcd.pdf			NO	0.4		A				ca3c6e67-3675-42d8-91a1-60fb8aa8cdcd				TCGA-EU-5904-01A		1.5
+TCGA-CJ-4868-11A	11				0.9		c896b457-1b0a-4ab5-907a-bcdd76b0df0f			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4868-11A		3.5
+TCGA-CZ-5457-11A	11				1.3		6373192e-42f6-4230-bb23-21ddd47ea604			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-5457-11A		1.5
+TCGA-BP-4330-01A	01				0.7		1593b8d4-1fbb-42a1-943f-376bc05af4ea			Primary Tumor	TCGA-BP-4330.56b51cef-0f5e-4fb7-bac4-6a234af76055.pdf			NO	0.5		A				56b51cef-0f5e-4fb7-bac4-6a234af76055				TCGA-BP-4330-01A		1.3
+TCGA-AS-3777-10A	10						0ac8b5cf-cc2c-46a3-b913-721450fe61ca			Blood Derived Normal				NO			A								TCGA-AS-3777-10A		
+TCGA-BP-4998-11A	11				1.5		d5f750b0-558f-4f79-a473-36e47ba9505f			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4998-11A		2
+TCGA-BP-4774-01A	01				1.2		80ad0b84-5c5e-42e6-a581-a97f3bb99ba9			Primary Tumor	TCGA-BP-4774.599aa434-b593-4adf-88e9-cf3f10f71ec2.pdf			NO	0.2		A				599aa434-b593-4adf-88e9-cf3f10f71ec2				TCGA-BP-4774-01A		2
+TCGA-CJ-4634-01A	01				1.1		c677da58-ed7b-43ae-b49b-7a7046f828b1			Primary Tumor	TCGA-CJ-4634.082f2f9d-fc06-42d4-8136-da08f1cc7e7f.pdf			NO	0.4		A				082f2f9d-fc06-42d4-8136-da08f1cc7e7f				TCGA-CJ-4634-01A		3.2
+TCGA-A3-3317-11A	11				0.6		8cd8aaa5-7244-4392-bc49-5d42ab2404ab			Solid Tissue Normal				NO	0.6		A								TCGA-A3-3317-11A		1.4
+TCGA-B8-A54D-01A	01		false				524232FE-29C3-4B67-BAF4-D69628A8078A			Primary Tumor	TCGA-B8-A54D.79A96E1A-59A4-4EA6-82E0-4D018BF4E3B8.pdf			NO			A				79A96E1A-59A4-4EA6-82E0-4D018BF4E3B8		537		TCGA-B8-A54D-01A	210	
+TCGA-CZ-5988-01A	01				1		1de65bee-b525-4517-9295-27691e49e42c			Primary Tumor	TCGA-CZ-5988.5d8de52f-5187-47ff-a550-f9f1ae2a8de1.pdf			NO	0.2		A				5d8de52f-5187-47ff-a550-f9f1ae2a8de1				TCGA-CZ-5988-01A		1.5
+TCGA-B0-5690-01A	01				0.9		3dc4161e-161a-4fee-af32-4dcee6dd80f2			Primary Tumor	TCGA-B0-5690.e29c0ac2-28df-4c36-8a4b-e7a2d038ab11.pdf			NO	0.3		A				e29c0ac2-28df-4c36-8a4b-e7a2d038ab11				TCGA-B0-5690-01A		1.5
+TCGA-B0-5106-01A	01				1.5		2307d604-34ce-413b-9abf-cbcfff0dc8d4			Primary Tumor	TCGA-B0-5106.7f3b2c21-4b5d-4f86-9db7-aabdef039a65.pdf			NO	0.2		A				7f3b2c21-4b5d-4f86-9db7-aabdef039a65				TCGA-B0-5106-01A		2
+TCGA-A3-3372-11A	11				1		b0ec0de0-7b17-4a9f-afbd-05f6644e504d			Solid Tissue Normal				NO	0.5		A								TCGA-A3-3372-11A		2
+TCGA-B0-4824-11A	11				1		64f98c64-be76-4475-94d0-63cb33413f08			Solid Tissue Normal				NO	0.2		A								TCGA-B0-4824-11A		2
+TCGA-A3-A6NN-01A	01		false				CD887B4D-0B35-4D5D-A24C-4B64330FBE1E			Primary Tumor	TCGA-A3-A6NN.80EEFFC7-47BF-4DA1-AF7C-798A1AB35C65.pdf			NO			A				80EEFFC7-47BF-4DA1-AF7C-798A1AB35C65		483		TCGA-A3-A6NN-01A	60	
+TCGA-CZ-5457-01A	01				0.7		8d54b22b-ee4b-45e0-922e-24e3c20c4c1a			Primary Tumor	TCGA-CZ-5457.3689c7b9-f39e-4533-a986-1e215f1cdb91.pdf			NO	0.2		A				3689c7b9-f39e-4533-a986-1e215f1cdb91				TCGA-CZ-5457-01A		1.5
+TCGA-BP-4170-11A	11				1.2		8fa58f25-5419-4947-b584-c605e715cd96			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4170-11A		1.5
+TCGA-CJ-5680-01A	01				0.9		4aa74190-2cc4-451f-aeb1-045bf441058e			Primary Tumor	TCGA-CJ-5680.d93a58bd-230c-4b68-a4b5-9b5678c2dd88.pdf			NO	0.7		A				d93a58bd-230c-4b68-a4b5-9b5678c2dd88				TCGA-CJ-5680-01A		3.1
+TCGA-BP-4170-01A	01				1.2		1e225012-a846-4ed3-80a3-cba2a0513fd9			Primary Tumor	TCGA-BP-4170.2f591fe7-9e6f-4cd0-97ef-a9a0068289c6.pdf			NO	0.3		A				2f591fe7-9e6f-4cd0-97ef-a9a0068289c6				TCGA-BP-4170-01A		1.7
+TCGA-BP-4776-11A	11				0.4		93e609d9-64cd-4034-8fd9-37df62554d49			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4776-11A		1.1
+TCGA-B0-5080-11A	11				0.6		d5bd3d83-b3fd-43ab-a02e-7bf510a69e15			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5080-11A		1.4
+TCGA-B0-5108-11A	11				0.6		e3c4d986-2299-43cd-b22c-fc52d3e0421e			Solid Tissue Normal				NO	0.1		A								TCGA-B0-5108-11A		1
+TCGA-B8-A54J-01A	01		false				8B849E83-CF60-44F4-A955-EACAD7F50E8A			Primary Tumor	TCGA-B8-A54J.C05E0ED7-C05B-4118-AFBA-75AE969464FB.pdf			NO			A				C05E0ED7-C05B-4118-AFBA-75AE969464FB		82		TCGA-B8-A54J-01A	710	
+TCGA-CJ-6027-11A	11				1		4c757fe3-d0e6-474a-bed8-3c945ba53427			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-6027-11A		2
+TCGA-B0-4945-01A	01				1.3		d79627cf-4336-42f6-8a3c-5761487b1502			Primary Tumor	TCGA-B0-4945.8478c195-e08d-40cd-9103-6ef991ac4c3d.pdf			NO	0.2		A				8478c195-e08d-40cd-9103-6ef991ac4c3d				TCGA-B0-4945-01A		2
+TCGA-B0-5077-01A	01				1		6920b9da-05b6-45a1-9872-aa7d2954cf74			Primary Tumor	TCGA-B0-5077.750a7a32-5fb2-4f10-8cc9-3699b8a0e5be.pdf			NO	0.1		A				750a7a32-5fb2-4f10-8cc9-3699b8a0e5be				TCGA-B0-5077-01A		1.1
+TCGA-AK-3460-01A	01				0.6		fb676be0-8122-4775-a0d4-3f6992ee9fae			Primary Tumor	TCGA-AK-3460.95fc84f5-4fb3-4ce7-acd0-c7e0d8f03dd7.pdf			NO	0.4		A				95fc84f5-4fb3-4ce7-acd0-c7e0d8f03dd7				TCGA-AK-3460-01A		1
+TCGA-BP-4999-01A	01				0.8		ecf0bb77-6658-453b-a0bb-72527491eaad			Primary Tumor	TCGA-BP-4999.0d9b13db-7d38-4d54-96e3-be5f91fb5cb4.pdf			NO	0.1		A				0d9b13db-7d38-4d54-96e3-be5f91fb5cb4				TCGA-BP-4999-01A		1
+TCGA-CZ-5463-01A	01				0.7		f38e4993-5bd5-431f-9803-df803de8edee			Primary Tumor	TCGA-CZ-5463.324d4d25-e72e-4faa-bd17-6c2201a2d6ce.pdf			NO	0.3		A				324d4d25-e72e-4faa-bd17-6c2201a2d6ce				TCGA-CZ-5463-01A		1.4
+TCGA-AK-3428-01A	01				0.8		0b96a41e-6a0c-4fc6-8f21-8e5f992ce5d1			Primary Tumor	TCGA-AK-3428.1454ec74-1c64-44a6-bf9f-dca88073f6a0.pdf			NO	0.5		A				1454ec74-1c64-44a6-bf9f-dca88073f6a0				TCGA-AK-3428-01A		1.2
+TCGA-CJ-4884-11A	11				0.7		c642457d-0796-482c-93a4-6a84f330baf9			Solid Tissue Normal				NO	0.6		A								TCGA-CJ-4884-11A		2.7
+TCGA-CZ-4864-11A	11				0.7		55654f9e-2de3-49ce-9156-6f6d9290de05			Solid Tissue Normal				NO	0.3		A								TCGA-CZ-4864-11A		1
+TCGA-BP-5181-11A	11				0.7		8d49d3e1-b827-42aa-82e2-5a79a3d522ed			Solid Tissue Normal				NO	0.1		A								TCGA-BP-5181-11A		2
+TCGA-CJ-4905-11A	11				1		156c5efb-f9da-4058-9067-9b148e71d9d5			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-4905-11A		2.1
+TCGA-BP-5182-11A	11				0.7		af83dc91-129d-4486-b727-100666405b01			Solid Tissue Normal				NO	0.2		A								TCGA-BP-5182-11A		1.1
+TCGA-CJ-4886-11A	11				0.9		d6b4896e-b2df-4c61-94b9-fd300c456483			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4886-11A		3.8
+TCGA-B0-4703-11A	11				1.7		a53020de-a4dc-4292-8245-055c1e0b6cb0			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4703-11A		2
+TCGA-B2-5633-01B	01		false				3F733C5C-ACBF-4E59-B8D9-C8F754970DB3			Primary Tumor	TCGA-B2-5633.5ea82b70-910b-4068-8a71-9bf766b0cfab.pdf			YES			B				5ea82b70-910b-4068-8a71-9bf766b0cfab		593		TCGA-B2-5633-01B		
+TCGA-BP-4338-11A	11				1.1		474b8ed3-f565-44d7-9469-7df3d8633b6f			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4338-11A		1.8
+TCGA-B2-5633-01A	01				0.8		1bcb3bf2-6472-495f-949b-48e2d3b373a3			Primary Tumor	TCGA-B2-5633.5ea82b70-910b-4068-8a71-9bf766b0cfab.pdf			NO	0.4		A				5ea82b70-910b-4068-8a71-9bf766b0cfab				TCGA-B2-5633-01A		1.3
+TCGA-BP-4352-11A	11				1.7		ad1a06f3-77fc-4a6a-bf8b-8047d46b1fd0			Solid Tissue Normal				NO	0.4		A								TCGA-BP-4352-11A		2.4
+TCGA-A3-3378-11A	11				0.5		7765c8b3-8b0e-4d1a-8d04-ef6f67156665			Solid Tissue Normal				NO	0.4		A								TCGA-A3-3378-11A		1
+TCGA-A3-3325-11A	11				0.9		bcf62699-e231-4071-bb66-db41648d2e43			Solid Tissue Normal				NO	0.4		A								TCGA-A3-3325-11A		2.3
+TCGA-BP-5199-01A	01				1.3		3dee8e6f-a904-42eb-bade-967a2f893686			Primary Tumor	TCGA-BP-5199.c12fd399-c39a-4383-b521-21a020d035d6.pdf			NO	0.3		A				c12fd399-c39a-4383-b521-21a020d035d6				TCGA-BP-5199-01A		1.5
+TCGA-GK-A6C7-10B	10		false				B7E9AB7E-0E2D-4103-8243-7230476BAFCB			Blood Derived Normal				NO			B						141		TCGA-GK-A6C7-10B		
+TCGA-BP-4160-01A	01				1.2		57805457-b9c9-4f50-aef2-885618aaaca8			Primary Tumor	TCGA-BP-4160.b8013d39-cf8a-4060-be53-1330d6306e31.pdf			NO	0.4		A				b8013d39-cf8a-4060-be53-1330d6306e31				TCGA-BP-4160-01A		2
+TCGA-CJ-4892-11A	11				0.8		8f6ca246-0c9c-4dc7-960e-f3a9832f6686			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-4892-11A		1.8
+TCGA-BP-5191-01A	01				0.7		7e36dd54-23fc-478d-921b-2322cb80af4f			Primary Tumor	TCGA-BP-5191.f091f75d-9ab6-42e3-9465-84d024403f0b.pdf			NO	0.2		A				f091f75d-9ab6-42e3-9465-84d024403f0b				TCGA-BP-5191-01A		1
+TCGA-CJ-5675-01A	01				0.8		26f77108-c3b0-4833-9a1a-df457d7415a9			Primary Tumor	TCGA-CJ-5675.d6d422ec-85a9-47f1-bfe5-c4b958515e3a.pdf			NO	0.8		A				d6d422ec-85a9-47f1-bfe5-c4b958515e3a				TCGA-CJ-5675-01A		2.6
+TCGA-CZ-5469-11A	11				0.9		dc2e1d4d-c233-4d63-b49d-b32c6d791746			Solid Tissue Normal				NO	0.3		A								TCGA-CZ-5469-11A		1.7
+TCGA-B8-4154-01A	01				0.6		c912f33a-b4b4-4e5d-b1a6-d5a43a5b472b			Primary Tumor	TCGA-B8-4154.a01db58e-8b1f-44a8-b332-02779d4438e0.pdf			NO	0.3		A				a01db58e-8b1f-44a8-b332-02779d4438e0				TCGA-B8-4154-01A		1
+TCGA-AK-3443-01A	01				0.7		e64996de-3fc4-400c-b0c0-d09dce2238a5			Primary Tumor	TCGA-AK-3443.150d98e0-8eba-42b4-829f-cbff8bd01cea.pdf			NO	0.4		A				150d98e0-8eba-42b4-829f-cbff8bd01cea				TCGA-AK-3443-01A		1
+TCGA-BP-4325-01A	01				0.9		7fece61f-ce10-4ad3-9dcf-62ae73c7e71d			Primary Tumor	TCGA-BP-4325.0c32e453-66e4-49ad-b0e8-4402bb340b9c.pdf			NO	0.3		A				0c32e453-66e4-49ad-b0e8-4402bb340b9c				TCGA-BP-4325-01A		1.2
+TCGA-BP-4961-11A	11				0.6		db1aa099-10af-4d55-b245-54c1a61540fa			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4961-11A		1.1
+TCGA-BP-4765-01A	01				1.3		17de2d1b-b5f5-4bf2-bb65-ee05d110a88c			Primary Tumor	TCGA-BP-4765.e2e3bdfa-ce94-48c6-937c-75cf042cbe59.pdf			NO	0.2		A				e2e3bdfa-ce94-48c6-937c-75cf042cbe59				TCGA-BP-4765-01A		1.6
+TCGA-BP-5176-11A	11				0.9		62a45d3a-65bd-4c8b-8d07-12814b86b22c			Solid Tissue Normal				NO	0.1		A								TCGA-BP-5176-11A		1.1
+TCGA-BP-5196-11A	11				1.1		aeb505c2-095f-494a-923b-f2ab2af2173e			Solid Tissue Normal				NO	0.1		A								TCGA-BP-5196-11A		1.5
+TCGA-BP-4762-11A	11				0.7		92c3f68f-ca65-42c0-bb63-5b0bb7ca460c			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4762-11A		0.8
+TCGA-A3-3328-01A	01				1		9097912a-d985-4e9a-a781-9b7f746de6f3			Primary Tumor	TCGA-A3-3328.be826b4d-e1f0-4170-8c62-66e6800ae852.pdf			NO	0.8		A				be826b4d-e1f0-4170-8c62-66e6800ae852				TCGA-A3-3328-01A		1.5
+TCGA-BP-5001-11A	11				0.6		0bede55c-6180-4afa-a594-00d1106d5517			Solid Tissue Normal				NO	0.2		A								TCGA-BP-5001-11A		0.8
+TCGA-A3-A6NL-11A	11		false				BC61C3F2-BCC5-4DF9-888F-A80A3FF1AE40			Solid Tissue Normal				NO			A						416		TCGA-A3-A6NL-11A	50	
+TCGA-B8-5163-10A	10						e8cf993e-7ae7-4c17-a768-1bffac67d6a3			Blood Derived Normal				NO			A								TCGA-B8-5163-10A		
+TCGA-AK-3427-01A	01				0.7		5b9911c3-efec-428c-a1a3-5a0834df04da			Primary Tumor	TCGA-AK-3427.4236854f-3076-49d3-8091-3b5fc989e061.pdf			NO	0.5		A				4236854f-3076-49d3-8091-3b5fc989e061				TCGA-AK-3427-01A		1
+TCGA-BP-4347-01A	01				1.4		f9a99ee6-0048-46c9-9210-687884f524c4			Primary Tumor	TCGA-BP-4347.8ddccdd9-ec03-4456-bcd2-2071b861dca1.pdf			NO	0.4		A				8ddccdd9-ec03-4456-bcd2-2071b861dca1				TCGA-BP-4347-01A		1.5
+TCGA-BP-5173-11A	11				1.1		eeaf74b8-9542-4713-a9b7-65c10a92d483			Solid Tissue Normal				NO	0.3		A								TCGA-BP-5173-11A		1.3
+TCGA-BP-5178-01A	01				0.7		a3627887-d988-455c-b87f-a9d2ba8bb6a1			Primary Tumor	TCGA-BP-5178.ab93a182-229f-4062-8dc2-cc70dee9d237.pdf			NO	0.2		A				ab93a182-229f-4062-8dc2-cc70dee9d237				TCGA-BP-5178-01A		1.5
+TCGA-CZ-4854-11A	11				0.7		3f308a4e-13f9-42f1-b4e0-8186560cbd86			Solid Tissue Normal				NO	0.4		A								TCGA-CZ-4854-11A		2.5
+TCGA-B0-5097-11A	11				0.8		12d1fdb8-d1ec-40a0-aa58-231559b6a243			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5097-11A		1.3
+TCGA-B8-5549-01A	01				0.7		3876608c-ec7c-4b8c-830c-f87c25353605			Primary Tumor	TCGA-B8-5549.9aecb667-5c48-4f93-94e6-d3dd832c4056.pdf			NO	0.2		A				9aecb667-5c48-4f93-94e6-d3dd832c4056				TCGA-B8-5549-01A		0.9
+TCGA-CJ-5672-01A	01				0.8		77b75b10-3d22-42e6-a058-ca617caf1ce5			Primary Tumor	TCGA-CJ-5672.2f7701d6-de6a-49c5-a53d-b6eea39993c0.pdf			NO	0.8		A				2f7701d6-de6a-49c5-a53d-b6eea39993c0				TCGA-CJ-5672-01A		3
+TCGA-BP-4341-01A	01				0.9		b8502218-20e3-4317-a1a4-3dfd2659afc0			Primary Tumor	TCGA-BP-4341.6898d581-8aca-41eb-ac0e-6045a5089861.pdf			NO	0.2		A				6898d581-8aca-41eb-ac0e-6045a5089861				TCGA-BP-4341-01A		1.6
+TCGA-BP-4995-01A	01				0.8		5cd539b8-90bf-4465-826f-73269ea2e802			Primary Tumor	TCGA-BP-4995.d98bf5cd-a8a2-436e-9c05-b6225069504b.pdf			NO	0.1		A				d98bf5cd-a8a2-436e-9c05-b6225069504b				TCGA-BP-4995-01A		1.3
+TCGA-BP-5007-11A	11				1.1		fc618090-8d1c-4076-8391-ed0072b8d3a5			Solid Tissue Normal				NO	0.2		A								TCGA-BP-5007-11A		1.1
+TCGA-CJ-4889-01A	01				0.9		1b7b8c2c-41bf-4733-a213-704f86e5aa46			Primary Tumor	TCGA-CJ-4889.12c2eb5b-7f9c-4efe-9523-d9e5d90f4905.pdf			NO	0.9		A				12c2eb5b-7f9c-4efe-9523-d9e5d90f4905				TCGA-CJ-4889-01A		1.2
+TCGA-CJ-6028-01A	01				1.1		f657b2a3-662c-4fe6-92bd-9a836182c82a			Primary Tumor	TCGA-CJ-6028.18425039-d833-4d0b-b21d-7a56ca5dcd0a.pdf			NO	1		A				18425039-d833-4d0b-b21d-7a56ca5dcd0a				TCGA-CJ-6028-01A		2
+TCGA-B8-5165-01A	01				1		08a08259-37cd-4322-824f-078962f009c9			Primary Tumor	TCGA-B8-5165.0bccb0f1-91cd-490a-b252-94bf69622ded.pdf			NO	0.2		A				0bccb0f1-91cd-490a-b252-94bf69622ded				TCGA-B8-5165-01A		1.2
+TCGA-CJ-4893-01A	01				0.9		54fb3252-094d-4341-a0ef-f77075bb4d55			Primary Tumor	TCGA-CJ-4893.2c374f76-b1db-46ef-ae1a-2649740262ea.pdf			NO	0.9		A				2c374f76-b1db-46ef-ae1a-2649740262ea				TCGA-CJ-4893-01A		3.2
+TCGA-BP-4977-11A	11				1		8ad3b90e-4da4-419a-8646-63acfce7521d			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4977-11A		1
+TCGA-B0-4697-11A	11				0.7		2a934f0e-e71d-47ac-968c-fce0046f4f8e			Solid Tissue Normal				NO	0.4		A								TCGA-B0-4697-11A		1.3
+TCGA-BP-4801-11A	11				0.3		59b922a8-58d4-4648-8290-00a9b0493604			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4801-11A		0.7
+TCGA-MW-A4EC-01A	01		true				B3FB041E-E2F7-4AEA-B08D-3AAB3537BA3A			Primary Tumor	TCGA-MW-A4EC.3B7BABCE-8EE2-4BE7-B2F9-FFF03156E0E1.pdf			NO			A				3B7BABCE-8EE2-4BE7-B2F9-FFF03156E0E1		190		TCGA-MW-A4EC-01A	110	
+TCGA-CJ-4878-01A	01				0.9		24814eed-fddb-475a-822e-efff92202954			Primary Tumor	TCGA-CJ-4878.a21bfb58-12aa-4598-b5b4-049dd70dc200.pdf			NO	0.6		A				a21bfb58-12aa-4598-b5b4-049dd70dc200				TCGA-CJ-4878-01A		2.5
+TCGA-CJ-4637-01A	01				0.8		c395332c-5886-44dd-a7ee-3d61b33a90d8			Primary Tumor	TCGA-CJ-4637.69449fd5-f715-4387-b384-4c5421a77e57.pdf			NO	0.6		A				69449fd5-f715-4387-b384-4c5421a77e57				TCGA-CJ-4637-01A		2
+TCGA-CJ-4871-01A	01				0.9		ef710e85-bc6d-42bc-a8f9-7dea9363bffc			Primary Tumor	TCGA-CJ-4871.e011c8a3-ae9b-41dc-8c14-f98ff2c39951.pdf			NO	0.9		A				e011c8a3-ae9b-41dc-8c14-f98ff2c39951				TCGA-CJ-4871-01A		3.3
+TCGA-A3-3370-11A	11				1		8c23898c-2b3e-4a33-a4c0-a81496645297			Solid Tissue Normal				NO	0.5		A								TCGA-A3-3370-11A		1.3
+TCGA-CZ-5459-11A	11				0.7		5d533b4d-876f-4c1c-9eee-1d8458917022			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-5459-11A		1.5
+TCGA-B2-3924-10A	10						9934b3e9-d7f3-4dfc-93d1-d6e5203519c1			Blood Derived Normal				NO			A								TCGA-B2-3924-10A		
+TCGA-CJ-6032-11A	11				0.9		53257ae5-6981-4cd4-bbc2-d2e51ecf04e5			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-6032-11A		3
+TCGA-CJ-4639-01A	01				1.1		11b1dca7-6fce-41c0-9580-a28ccf83e55c			Primary Tumor	TCGA-CJ-4639.c483d023-0adc-438f-8656-003da108c5ed.pdf			NO	0.6		A				c483d023-0adc-438f-8656-003da108c5ed				TCGA-CJ-4639-01A		3.2
+TCGA-BP-4344-01A	01				0.8		a53c5e9d-68f7-4d13-9645-ae4f18b9a2a9			Primary Tumor	TCGA-BP-4344.e300f689-2612-4936-9c4f-41c2471b9376.pdf			NO	0.2		A				e300f689-2612-4936-9c4f-41c2471b9376				TCGA-BP-4344-01A		1.3
+TCGA-CJ-4873-11A	11				0.9		153c76f6-6b52-4247-a07e-469670d515d7			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4873-11A		3
+TCGA-A3-3387-11A	11				0.9		f2b36ca3-8d5d-453d-b445-82faa22a8a35			Solid Tissue Normal				NO	0.4		A								TCGA-A3-3387-11A		1
+TCGA-B0-5707-11A	11				1		2b4f5207-5b37-43d6-ba32-ca69db7baa42			Solid Tissue Normal				NO	0.4		A								TCGA-B0-5707-11A		2.2
+TCGA-CJ-4887-01A	01				0.9		7dffc172-1f87-4e4a-8d26-c6fd2180bd06			Primary Tumor	TCGA-CJ-4887.61b37761-0fc3-4ab8-bb5a-9442040dcc63.pdf			NO	0.9		A				61b37761-0fc3-4ab8-bb5a-9442040dcc63				TCGA-CJ-4887-01A		2.3
+TCGA-BP-4970-11A	11				1.3		406b8e64-b3bd-455f-a7c7-dfad8cec19e3			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4970-11A		1.7
+TCGA-B0-5116-01A	01				0.8		97421d06-b199-4246-b2da-80a9ba313335			Primary Tumor	TCGA-B0-5116.d101a90f-788a-4220-8f4f-114b26f6ba7e.pdf			NO	0.4		A				d101a90f-788a-4220-8f4f-114b26f6ba7e				TCGA-B0-5116-01A		1.3
+TCGA-B4-5843-01A	01				0.6		912d5b5e-393c-4d63-947f-a2e25e2e0fc4			Primary Tumor	TCGA-B4-5843.ef71a8b4-8261-430e-ad4a-553ad5a6369a.pdf			NO	0.3		A				ef71a8b4-8261-430e-ad4a-553ad5a6369a				TCGA-B4-5843-01A		1
+TCGA-AK-3445-10A	10						258555d3-71ed-4c81-bfcb-179fb640b340			Blood Derived Normal				NO			A								TCGA-AK-3445-10A		
+TCGA-DV-A4VZ-10A	10		false				2974AD51-CEBF-4A53-B3C9-28489C0A2A0C			Blood Derived Normal				NO			A						1816		TCGA-DV-A4VZ-10A		
+TCGA-B0-5812-01A	01				0.7		cf93f61c-9dc8-442a-85fc-c3b181616836			Primary Tumor	TCGA-B0-5812.2b48a46f-990d-496b-be26-dc53cb94b79e.pdf			NO	0.3		A				2b48a46f-990d-496b-be26-dc53cb94b79e				TCGA-B0-5812-01A		1
+TCGA-BP-4763-11A	11				0.8		a7303788-d615-442c-af49-99978d52540d			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4763-11A		1.5
+TCGA-BP-5181-01A	01				1.4		dc4a7e49-ed0d-491c-ba1d-97665836898b			Primary Tumor	TCGA-BP-5181.6d5afafe-eb00-4cc6-b68f-0883d44188c0.pdf			NO	0.2		A				6d5afafe-eb00-4cc6-b68f-0883d44188c0				TCGA-BP-5181-01A		1.8
+TCGA-A3-3373-01A	01				0.6		e17b07be-9e48-4235-8f25-b3a3929ee61b			Primary Tumor	TCGA-A3-3373.5c4d5028-ecf2-4302-93d0-8e20273468be.pdf			NO	0.5		A				5c4d5028-ecf2-4302-93d0-8e20273468be				TCGA-A3-3373-01A		0.6
+TCGA-CJ-4884-01A	01				0.7		9fd8f5f4-771f-44cf-a728-c9fe61f4022f			Primary Tumor	TCGA-CJ-4884.86a67cba-4a99-4982-ac12-474c42986497.pdf			NO	0.5		A				86a67cba-4a99-4982-ac12-474c42986497				TCGA-CJ-4884-01A		3.4
+TCGA-DV-5574-01A	01				1		f8bc0763-5043-4b7d-9045-797d47c46066			Primary Tumor	TCGA-DV-5574.6a820e34-7a1e-435e-91e5-6b19cfb68aba.pdf			NO	0.3		A				6a820e34-7a1e-435e-91e5-6b19cfb68aba				TCGA-DV-5574-01A		1.5
+TCGA-DV-A4VX-10A	10		false				5E0F6C97-9A31-4D45-8E4B-3D3EF821FFF2			Blood Derived Normal				NO			A						1704		TCGA-DV-A4VX-10A		
+TCGA-CJ-4881-11A	11				0.9		1f8ce8ea-74b6-4d91-81e7-b689d11c26cd			Solid Tissue Normal				NO	0.9		A								TCGA-CJ-4881-11A		3.5
+TCGA-B0-5096-11A	11				0.8		91ca4a58-b8aa-4988-a992-fc3cf6dae2e1			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5096-11A		1
+TCGA-A3-3319-01A	01				1.1		0050544d-d812-4a18-8370-96d629b487ab			Primary Tumor	TCGA-A3-3319.adb27f4a-d8ec-458b-a936-0ab0da1d2091.pdf			NO	0.4		A				adb27f4a-d8ec-458b-a936-0ab0da1d2091				TCGA-A3-3319-01A		1.5
+TCGA-BP-5008-11A	11				0.5		18428bca-1893-4a8f-b149-86a101dad879			Solid Tissue Normal				NO	0.2		A								TCGA-BP-5008-11A		1
+TCGA-B0-5690-11A	11				0.9		bb0bf831-bfd2-43f3-a39c-3ace235af98b			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5690-11A		2.5
+TCGA-A3-3385-11A	11				0.6		169e8aff-335b-47aa-b0f3-4a94151ddb8a			Solid Tissue Normal				NO	0.3		A								TCGA-A3-3385-11A		0.6
+TCGA-BP-4976-11A	11				0.8		570a0479-e0e2-4bed-b67f-7cd32ded3756			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4976-11A		1
+TCGA-MM-A563-10A	10		false				C06FFCE6-69A3-45BE-8329-B5002AA3F133			Blood Derived Normal				NO			A						137		TCGA-MM-A563-10A		
+TCGA-AK-3465-10A	10						bfa9ac27-7992-4601-9abb-081909313074			Blood Derived Normal				NO			A								TCGA-AK-3465-10A		
+TCGA-B0-4815-11A	11				1		f8b1a94d-802a-47b2-bc88-4fc56292270e			Solid Tissue Normal				NO	0.4		A								TCGA-B0-4815-11A		1.5
+TCGA-B2-4099-01A	01				0.9		e242adb8-db67-475e-a0e4-52a622666b12			Primary Tumor	TCGA-B2-4099.4ef87af2-b6ae-44ec-b149-7170951e9d60.pdf			NO	0.3		A				4ef87af2-b6ae-44ec-b149-7170951e9d60				TCGA-B2-4099-01A		1.7
+TCGA-BP-4972-11A	11				0.8		7c9d500d-a950-44a3-89b8-7cabb7d12a81			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4972-11A		0.9
+TCGA-BP-4331-11A	11				1		d73e7e7d-59ba-4ddc-809c-90d6aef12add			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4331-11A		1
+TCGA-CJ-6031-11A	11				1.5		8a3a5fea-d96a-4bbb-9481-daf724548291			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-6031-11A		3
+TCGA-B8-5159-01A	01				0.5		a1a54d46-e6a9-4e3b-8839-e6876eb075c5			Primary Tumor	TCGA-B8-5159.fa093376-3f7c-4ebb-8996-6b683c3482c4.pdf			NO	0.1		A				fa093376-3f7c-4ebb-8996-6b683c3482c4				TCGA-B8-5159-01A		1
+TCGA-A3-A6NI-01A	01		false				755C3447-77CE-40D7-BDB7-15CD08547ACE			Primary Tumor	TCGA-A3-A6NI.0498740D-7B64-4169-AA87-41F8A98CC479.pdf			NO			A				0498740D-7B64-4169-AA87-41F8A98CC479		659		TCGA-A3-A6NI-01A	60	
+TCGA-B0-5691-11A	11				0.9		18e2feb8-5c4e-4de9-8946-8872f1712182			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5691-11A		1.4
+TCGA-CZ-4862-11A	11				0.7		9695118c-33d1-4b58-937d-7a7158a2f803			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-4862-11A		1.6
+TCGA-A3-3378-01A	01				0.9		101490e4-190b-4f9b-87c7-f2f18d6e3580			Primary Tumor	TCGA-A3-3378.97eed0be-150e-44c3-b4c0-6d062434e44a.pdf			NO	0.9		A				97eed0be-150e-44c3-b4c0-6d062434e44a				TCGA-A3-3378-01A		1.3
+TCGA-B0-4694-11A	11				1		17f5a3ad-3d64-4be9-8b15-4d98d2818580			Solid Tissue Normal				NO	0.4		A								TCGA-B0-4694-11A		1.3
+TCGA-BP-4756-01A	01				1.3		98d425be-4d70-4260-8c4f-b0eb89e0e4a6			Primary Tumor	TCGA-BP-4756.3a3c39f8-3f5e-4e36-a0f2-28f502306354.pdf			NO	0.2		A				3a3c39f8-3f5e-4e36-a0f2-28f502306354				TCGA-BP-4756-01A		1.5
+TCGA-CJ-5684-11A	11				0.7		cf151e98-005e-4ac5-aacf-26674b3764d0			Solid Tissue Normal				NO	0.3		A								TCGA-CJ-5684-11A		1.8
+TCGA-CJ-4872-01A	01				0.7		072d4261-7c22-4bd9-b4e1-b107e845e5cb			Primary Tumor	TCGA-CJ-4872.49fde6d7-cf1f-40ce-bf4a-2fa567ee253a.pdf			NO	0.4		A				49fde6d7-cf1f-40ce-bf4a-2fa567ee253a				TCGA-CJ-4872-01A		2.2
+TCGA-B0-5709-01A	01				1		4e7a1b52-27a3-4860-90d0-c3d79ad7e1c3			Primary Tumor	TCGA-B0-5709.9783378c-0053-4d4f-acb0-b55c1e6c8849.pdf			NO	0.4		A				9783378c-0053-4d4f-acb0-b55c1e6c8849				TCGA-B0-5709-01A		1.6
+TCGA-CZ-4853-11A	11				1.3		32407830-bd77-472e-a86b-b82d6df5c97b			Solid Tissue Normal				NO	0.3		A								TCGA-CZ-4853-11A		1.5
+TCGA-B0-4841-11A	11				0.4		a3b9e865-f6c4-4a3d-9d0e-92fc4d4224ca			Solid Tissue Normal				NO	0.4		A								TCGA-B0-4841-11A		1
+TCGA-B8-5546-10A	10						d55e6b5b-7f42-4f88-9a82-fc932f5abf83			Blood Derived Normal				NO			A								TCGA-B8-5546-10A		
+TCGA-BP-4995-11A	11				1		8b6e49fe-5470-476d-9695-0caee2896d66			Solid Tissue Normal				NO	0.1		A								TCGA-BP-4995-11A		1.2
+TCGA-BP-4971-11A	11				1.1		7f7d0408-af2b-4936-a675-a17869fa54ce			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4971-11A		1.6
+TCGA-CZ-5470-01A	01				0.8		6a867060-9fe7-45ce-b5e3-dab25c120fb7			Primary Tumor	TCGA-CZ-5470.a2f05c57-62e6-4de7-b34c-2afbc64d0164.pdf			NO	0.2		A				a2f05c57-62e6-4de7-b34c-2afbc64d0164				TCGA-CZ-5470-01A		1.6
+TCGA-B0-5075-01A	01				1.2		200819c3-826e-49a1-8824-6d4752e6eb6f			Primary Tumor	TCGA-B0-5075.5aa0fce0-0139-4f80-b2be-e6c8cb544f66.pdf			NO	0.3		A				5aa0fce0-0139-4f80-b2be-e6c8cb544f66				TCGA-B0-5075-01A		2
+TCGA-B0-5085-01A	01				1.3		4b318da4-400c-4a00-9258-cc4d114813f6			Primary Tumor	TCGA-B0-5085.0dc305c0-a6d9-4cdf-8dfc-4d0740abbdb1.pdf			NO	0.3		A				0dc305c0-a6d9-4cdf-8dfc-4d0740abbdb1				TCGA-B0-5085-01A		1.5
+TCGA-BP-4353-01A	01				1.1		18d33343-cebf-4cf2-84b8-91ac1a1b5862			Primary Tumor	TCGA-BP-4353.07821003-5389-4db4-ab2c-8478ec10e325.pdf			NO	0.3		A				07821003-5389-4db4-ab2c-8478ec10e325				TCGA-BP-4353-01A		1.2
+TCGA-B0-5099-11A	11				0.5		bcaa3f6f-6bf9-454a-8d93-b54c7926763f			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5099-11A		1.5
+TCGA-CJ-4868-01A	01				0.8		03d973c5-e0ce-42ea-afd7-9be4f93a3bd1			Primary Tumor	TCGA-CJ-4868.79da436e-dd72-4823-92cc-25d002bb4b90.pdf			NO	0.6		A				79da436e-dd72-4823-92cc-25d002bb4b90				TCGA-CJ-4868-01A		3
+TCGA-BP-4770-01A	01				0.4		99e4cd00-819e-49c0-ab2a-847f03cd5cc2			Primary Tumor	TCGA-BP-4770.28b3979e-7012-4f0c-9942-6c99b2ce36dc.pdf			NO	0.4		A				28b3979e-7012-4f0c-9942-6c99b2ce36dc				TCGA-BP-4770-01A		1.5
+TCGA-6D-AA2E-10A	10		false				40731335-9C8C-4A14-9B83-A97BC06C0C0E			Blood Derived Normal				NO			A						93		TCGA-6D-AA2E-10A		
+TCGA-3Z-A93Z-10A	10		false				C8036CEF-414A-4175-9EE1-6DA1D49AB375			Blood Derived Normal				NO			A						134		TCGA-3Z-A93Z-10A		
+TCGA-CZ-4859-01A	01				1.3		d57e4ed3-6e34-49cc-8c59-1cd437ce8dc1			Primary Tumor	TCGA-CZ-4859.c8b57da4-a68a-4110-970c-b38479e21ae2.pdf			NO	0.4		A				c8b57da4-a68a-4110-970c-b38479e21ae2				TCGA-CZ-4859-01A		1.5
+TCGA-CJ-5679-01A	01				0.8		17313700-6052-4901-8850-981fead99d6c			Primary Tumor	TCGA-CJ-5679.8d18b33f-f7bf-417c-8ea7-7194f1f9101b.pdf			NO	0.8		A				8d18b33f-f7bf-417c-8ea7-7194f1f9101b				TCGA-CJ-5679-01A		2.6
+TCGA-BP-4774-11A	11				0.4		505d70d4-cbff-4345-90af-f6d09f2cff41			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4774-11A		0.9
+TCGA-CJ-4634-11A	11				0.8		76d79ea7-dcf2-44a7-b75f-192c62250e3d			Solid Tissue Normal				NO	0.6		A								TCGA-CJ-4634-11A		2.9
+TCGA-BP-4965-01A	01				0.8		9d90f60e-acb0-43ce-8c74-e4fd5ad5d0ea			Primary Tumor	TCGA-BP-4965.2d4e72c2-ad88-4e2b-95dc-ba8cbd84af92.pdf			NO	0.1		A				2d4e72c2-ad88-4e2b-95dc-ba8cbd84af92				TCGA-BP-4965-01A		1
+TCGA-B0-5693-11A	11				1.5		b979834c-cf76-4ed1-854b-667c35891628			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5693-11A		1.8
+TCGA-B8-5550-01A	01				0.5		dafed455-98a2-419a-bebc-f90b731e2813			Primary Tumor	TCGA-B8-5550.182f3409-7456-4718-856a-beda10c12e8d.pdf			NO	0.4		A				182f3409-7456-4718-856a-beda10c12e8d				TCGA-B8-5550-01A		0.7
+TCGA-BP-4993-01A	01				1.2		dd129b10-5c9e-4bff-a891-27026d14a34c			Primary Tumor	TCGA-BP-4993.85bfa05c-efef-45c6-951b-37b4e9675138.pdf			NO	0.2		A				85bfa05c-efef-45c6-951b-37b4e9675138				TCGA-BP-4993-01A		1.6
+TCGA-B0-5106-11A	11				0.6		d819ae44-fdac-46b5-bbd6-87256839efb7			Solid Tissue Normal				NO	0.3		A								TCGA-B0-5106-11A		1.2
+TCGA-CJ-5671-11A	11				0.7		443bc042-ab34-44a6-9c93-090e19212361			Solid Tissue Normal				NO	0.5		A								TCGA-CJ-5671-11A		2.2
+TCGA-BP-4167-01A	01				0.9		9aaa185b-41a7-49fb-82f7-254854b8b775			Primary Tumor	TCGA-BP-4167.70ca2037-d2dd-426a-93be-b3838cb30282.pdf			NO	0.3		A				70ca2037-d2dd-426a-93be-b3838cb30282				TCGA-BP-4167-01A		1.3
+TCGA-CZ-4864-01A	01				0.6		3f99a36c-b4ca-4022-9f8f-84d7ef7ae217			Primary Tumor	TCGA-CZ-4864.831779ef-9157-4393-9c8a-78c14fcd376d.pdf			NO	0.2		A				831779ef-9157-4393-9c8a-78c14fcd376d				TCGA-CZ-4864-01A		1.2
+TCGA-CJ-6030-01A	01				0.9		8235f4da-715b-476e-8adb-53fb8104a68a			Primary Tumor	TCGA-CJ-6030.739fe9cd-eb85-4b49-897a-546fd12e895c.pdf			NO	0.9		A				739fe9cd-eb85-4b49-897a-546fd12e895c				TCGA-CJ-6030-01A		3.5
+TCGA-CW-5584-11A	11				0.5		21f4dde9-ee57-4031-bb69-f2eb5abb7bcf			Solid Tissue Normal				NO	0.5		A								TCGA-CW-5584-11A		1.6
+TCGA-CZ-5467-01A	01				1.5		0b6dfb9c-90a6-4f46-a44b-28b889aec62a			Primary Tumor	TCGA-CZ-5467.9c47b43a-cb8d-4f92-99de-40435a57c5e2.pdf			NO	0.2		A				9c47b43a-cb8d-4f92-99de-40435a57c5e2				TCGA-CZ-5467-01A		1.7
+TCGA-AK-3440-10A	10						326f4883-ed3b-43a7-a324-86f807f861f4			Blood Derived Normal				NO			A								TCGA-AK-3440-10A		
+TCGA-B0-4696-11A	11				1		1784f393-cf44-4bba-a0fd-98d0f6c50b83			Solid Tissue Normal				NO	0.1		A								TCGA-B0-4696-11A		2
+TCGA-B0-5080-01A	01				1		2c9bfc03-d4e6-47be-a046-1e2efd086bf0			Primary Tumor	TCGA-B0-5080.e5ee3b20-2daa-4ab8-aa36-8539dec95f16.pdf			NO	0.4		A				e5ee3b20-2daa-4ab8-aa36-8539dec95f16				TCGA-B0-5080-01A		1.3
+TCGA-A3-3362-01A	01				0.8		1cafc728-e080-47b7-95e8-eb5194c8fcb9			Primary Tumor	TCGA-A3-3362.1c03e3cc-d321-417a-964c-ccfc620fac3e.pdf			NO	0.8		A				1c03e3cc-d321-417a-964c-ccfc620fac3e				TCGA-A3-3362-01A		1.2
+TCGA-B2-3923-10A	10						b99facb8-4609-4d8c-9e40-9109d0dda880			Blood Derived Normal				NO			A								TCGA-B2-3923-10A		
+TCGA-B8-A54K-01A	01		false				8206100B-F3A1-483D-9B1D-9B82D6FB204E			Primary Tumor	TCGA-B8-A54K.5B9CE117-C196-4704-AE0F-8B15EB54AFFE.pdf			NO			A				5B9CE117-C196-4704-AE0F-8B15EB54AFFE		76		TCGA-B8-A54K-01A	310	
+TCGA-A3-3365-11A	11				0.8		e83d40c2-64fd-4007-8d56-d3260ae1e314			Solid Tissue Normal				NO	0.5		A								TCGA-A3-3365-11A		1.6
+TCGA-CJ-4890-01A	01				0.7		00e66db2-da46-4003-9853-72b482d29999			Primary Tumor	TCGA-CJ-4890.cba5f8ed-e2c0-4472-8695-5260ee594b98.pdf			NO	0.5		A				cba5f8ed-e2c0-4472-8695-5260ee594b98				TCGA-CJ-4890-01A		2.6
+TCGA-B0-4821-11A	11				0.4		6046f260-a972-48f3-b136-ffd0b15ca247			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4821-11A		2.2
+TCGA-CZ-5465-11A	11				0.6		ca570692-d725-48be-80d1-dcc85004aff7			Solid Tissue Normal				NO	0.2		A								TCGA-CZ-5465-11A		2.1
+TCGA-B8-5164-10A	10						4ff85f09-79ef-4398-9157-04ba9acb6f47			Blood Derived Normal				NO			A								TCGA-B8-5164-10A		
+TCGA-DV-5575-10A	10						6f2db39e-16bf-4b9e-b630-633d68e38b38			Blood Derived Normal				NO			A								TCGA-DV-5575-10A		
+TCGA-BP-4782-11A	11				0.6		75215256-0112-4c6b-a58d-0d82338f2dd9			Solid Tissue Normal				NO	0.2		A								TCGA-BP-4782-11A		0.7
+TCGA-B0-5812-11A	11				0.6		c3072254-b9be-4ad5-982f-cb854ee30708			Solid Tissue Normal				NO	0.4		A								TCGA-B0-5812-11A		1.2
+TCGA-B0-4823-11A	11				1		9057e981-6a17-4f99-82be-2bac066efe89			Solid Tissue Normal				NO	0.3		A								TCGA-B0-4823-11A		1.2
+TCGA-B2-5639-10A	10						ffcb4a37-4c6e-4053-92b6-ff03f77baecf			Blood Derived Normal				NO			A								TCGA-B2-5639-10A		
+TCGA-B0-4811-01A	01				1.4		f96c746b-ddc6-4901-9f32-72ed777c4ce7			Primary Tumor	TCGA-B0-4811.3757ef41-cdca-4464-b6f3-1484cb2ecb94.pdf			NO	0.1		A				3757ef41-cdca-4464-b6f3-1484cb2ecb94				TCGA-B0-4811-01A		1.7
+TCGA-B8-4148-10A	10						b452c033-4893-4c22-922f-6a56dad70a1d			Blood Derived Normal				NO			A								TCGA-B8-4148-10A		
+TCGA-CW-5589-01A	01				0.6		b05e9b9c-d371-4725-8f47-614cdf30cbd4			Primary Tumor	TCGA-CW-5589.21b34da2-1c07-4bb0-bc99-b21d6f9ebc35.pdf			NO	0.4		A				21b34da2-1c07-4bb0-bc99-b21d6f9ebc35				TCGA-CW-5589-01A		1.1
+TCGA-CJ-5677-01A	01				0.8		2061667f-5253-4933-aa22-e8f7e092dbbf			Primary Tumor	TCGA-CJ-5677.9725beec-cee9-47f3-8f29-8a5e22f51aa8.pdf			NO	0.8		A				9725beec-cee9-47f3-8f29-8a5e22f51aa8				TCGA-CJ-5677-01A		2.5
+TCGA-CJ-4886-01A	01				0.6		2f661a00-d80a-401d-be63-36bb079c9594			Primary Tumor	TCGA-CJ-4886.e47fce98-74c9-43b0-9805-b4d0c44a9d1a.pdf			NO	0.4		A				e47fce98-74c9-43b0-9805-b4d0c44a9d1a				TCGA-CJ-4886-01A		2.2
+TCGA-BP-5175-01A	01				1.2		0463ef8a-dfc4-4365-8a69-7bcd72ab4ddc			Primary Tumor	TCGA-BP-5175.1f0940ee-175f-4adf-aa46-3f6b240e3a2e.pdf			NO	0.3		A				1f0940ee-175f-4adf-aa46-3f6b240e3a2e				TCGA-BP-5175-01A		1.6
+TCGA-BP-4963-01A	01				0.8		7f2ccf91-1cfa-436c-bcf4-094733f95439			Primary Tumor	TCGA-BP-4963.779571c1-328f-4aba-b77a-069283513e0d.pdf			NO	0.1		A				779571c1-328f-4aba-b77a-069283513e0d				TCGA-BP-4963-01A		1.2
+TCGA-BP-4330-11A	11				0.9		ce54f5b4-2a37-49b9-b674-3bfe20dbfc40			Solid Tissue Normal				NO	0.3		A								TCGA-BP-4330-11A		2.3
+TCGA-DV-5565-10A	10						caf6df54-aae9-42a3-8325-d270e84b1812			Blood Derived Normal				NO			A								TCGA-DV-5565-10A		
+TCGA-B0-4945-11A	11				0.8		af739515-20b2-4b05-a7b0-e81aaec458e9			Solid Tissue Normal				NO	0.2		A								TCGA-B0-4945-11A		2
+TCGA-A3-3325-01A	01				0.8		99b7f902-191c-4977-9dd8-d15aea54bb26			Primary Tumor	TCGA-A3-3325.71137006-20be-4c81-b7a0-c315286ddc25.pdf			NO	0.8		A				71137006-20be-4c81-b7a0-c315286ddc25				TCGA-A3-3325-01A		2
+TCGA-BP-5199-11A	11				0.8		f70a1f40-be65-40a8-932b-dd7499df2d88			Solid Tissue Normal				NO	0.1		A								TCGA-BP-5199-11A		1.4
+TCGA-B2-5641-01A	01				0.9		72beac8b-eb86-42cd-a434-f8d94c8cdf8a			Primary Tumor	TCGA-B2-5641.4be0a476-ea29-414c-808f-3c7b07c3fecd.pdf			NO	0.4		A				4be0a476-ea29-414c-808f-3c7b07c3fecd				TCGA-B2-5641-01A		1
+TCGA-CJ-4908-11A	11				0.8		7cdba19f-5142-457e-8cfa-e3d0d632c697			Solid Tissue Normal				NO	0.3		A								TCGA-CJ-4908-11A		2.9
+TCGA-BP-5191-11A	11				0.7		042b5656-6b1a-4448-a31b-22478d5b77da			Solid Tissue Normal				NO	0.3		A								TCGA-BP-5191-11A		1.4
+TCGA-BP-4981-01A	01				1.5		4a3c1455-336e-44da-b780-e3a168824276			Primary Tumor	TCGA-BP-4981.a51f871b-296d-4aac-b9f7-91e0f3faefc3.pdf			NO	0.1		A				a51f871b-296d-4aac-b9f7-91e0f3faefc3				TCGA-BP-4981-01A		1.9
+TCGA-BP-5200-11A	11				1.4		abc98a0c-6936-4d6b-be2a-072a7fb0cf1e			Solid Tissue Normal				NO	0.3		A								TCGA-BP-5200-11A		1.7
+TCGA-B0-5701-11A	11				0.9		bd5038fb-7c16-4c0a-88ed-169f1ac07968			Solid Tissue Normal				NO	0.2		A								TCGA-B0-5701-11A		2
+TCGA-B4-5835-01A	01				0.9		19d289a2-4dfb-46e0-bbbd-def702153904			Primary Tumor	TCGA-B4-5835.d3d6cd50-ee6e-4871-8ecb-ae7ccb66927a.pdf			NO	0.6		A				d3d6cd50-ee6e-4871-8ecb-ae7ccb66927a				TCGA-B4-5835-01A		1.4

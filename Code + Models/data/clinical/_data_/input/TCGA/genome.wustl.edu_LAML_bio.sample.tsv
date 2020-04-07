@@ -1,0 +1,698 @@
+sample	sample_type_id	time_between_excision_and_freezing	oct_embedded	other_method_of_sample_procurement	intermediate_dimension	is_ffpe	bcr_sample_uuid	sample_type	pathology_report_file_name	current_weight	time_between_clamping_and_freezing	shortest_dimension	method_of_sample_procurement	vial_number	pathology_report_uuid	days_to_sample_procurement	freezing_method	days_to_collection	NCNNCT_OthMethONSP	bcr_sample_barcode	initial_weight	longest_dimension
+TCGA-AB-2826-03B	03					NO	5a0e0036-a26c-4228-a4bb-3ad2993ea832	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2826-03B		
+TCGA-AB-2826-03A	03					NO	f90f2c38-e940-4380-858d-39d4b86abce9	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2826-03A		
+TCGA-AB-2814-11B	11					NO	d1a2fac6-fe04-4d10-9bb5-9fc1a1895802	Solid Tissue Normal						B						TCGA-AB-2814-11B		
+TCGA-AB-2803-03B	03					NO	20154e58-31bf-49e3-af69-b50d0118e4df	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2803-03B		
+TCGA-AB-2930-11A	11					NO	e1dfa53f-132e-4322-a320-8b81c52fd999	Solid Tissue Normal						A						TCGA-AB-2930-11A		
+TCGA-AB-2933-11A	11					NO	828e4eed-c100-4e9b-b8a5-bb3ef577147c	Solid Tissue Normal						A						TCGA-AB-2933-11A		
+TCGA-AB-2915-03A	03					NO	c2628244-7f44-4ebf-b4c9-1579370e8f0d	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2915-03A		
+TCGA-AB-2840-11C	11					NO	b6762370-f38b-46c7-91fa-c142db995b4d	Solid Tissue Normal						C						TCGA-AB-2840-11C		
+TCGA-AB-2814-11A	11					NO	a586d649-f956-4931-abcf-02cce218bb9f	Solid Tissue Normal						A						TCGA-AB-2814-11A		
+TCGA-AB-2815-11C	11					NO	6944737c-8723-455d-9e01-0921d8f03500	Solid Tissue Normal						C						TCGA-AB-2815-11C		
+TCGA-AB-2815-11B	11					NO	10ac7628-335f-4ca6-b960-d7866caa806d	Solid Tissue Normal						B						TCGA-AB-2815-11B		
+TCGA-AB-2815-11A	11					NO	ea0a9633-13d9-4a1f-88d5-df9db338cda8	Solid Tissue Normal						A						TCGA-AB-2815-11A		
+TCGA-AB-2897-11A	11					NO	d2fe70a4-014c-4d95-8fcd-d3883a737854	Solid Tissue Normal						A						TCGA-AB-2897-11A		
+TCGA-AB-2843-11D	11					NO	05e1470e-1f73-487a-b63d-f8d29e3c996f	Solid Tissue Normal						D						TCGA-AB-2843-11D		
+TCGA-AB-2967-03A	03					NO	ccb851a6-72cc-4f0a-9759-7f493cbf488c	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2967-03A		
+TCGA-AB-2843-11B	11					NO	6a6ab16d-af23-4172-957d-a6b84ee67670	Solid Tissue Normal						B						TCGA-AB-2843-11B		
+TCGA-AB-2843-11C	11					NO	ed2054b4-05eb-4091-b810-f289a126e0ad	Solid Tissue Normal						C						TCGA-AB-2843-11C		
+TCGA-AB-2843-11A	11					NO	175a8ec2-2bb8-4de1-a457-da2e12affc27	Solid Tissue Normal						A						TCGA-AB-2843-11A		
+TCGA-AB-2906-03A	03					NO	4bf1e9fc-bacf-472a-b40f-aab6555862cc	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2906-03A		
+TCGA-AB-2943-11A	11					NO	03f1d1b1-0199-49e1-89f3-6b6786cc3a31	Solid Tissue Normal						A						TCGA-AB-2943-11A		
+TCGA-AB-2965-11A	11					NO	0687049c-7de6-49dc-a45c-82c9f8c33de5	Solid Tissue Normal						A						TCGA-AB-2965-11A		
+TCGA-AB-2851-03A	03					NO	fd459b58-5df7-473d-b29b-ad05a276876a	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2851-03A		
+TCGA-AB-2851-03B	03					NO	f8025232-67f8-4d7b-8a51-6b97433ec95a	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2851-03B		
+TCGA-AB-2851-03C	03					NO	483289bd-3117-44ba-97dd-99ccc455aefb	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2851-03C		
+TCGA-AB-2927-11A	11					NO	81163f6b-6866-4d05-ac08-cedcb209d9d7	Solid Tissue Normal						A						TCGA-AB-2927-11A		
+TCGA-AB-2935-11A	11					NO	c75ed25f-68b4-4e72-8794-58929016fac5	Solid Tissue Normal						A						TCGA-AB-2935-11A		
+TCGA-AB-2930-03A	03					NO	3a017314-b548-4d5d-b8a6-5e98c51af8d5	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2930-03A		
+TCGA-AB-3012-11A	11					NO	251bbec9-02eb-46dd-9d32-bf6d6d1f0c67	Solid Tissue Normal						A						TCGA-AB-3012-11A		
+TCGA-AB-2990-03A	03					NO	7170e3d6-866f-47ba-9b00-681cf3c09f67	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2990-03A		
+TCGA-AB-2990-03B	03					NO	04636b83-1558-41d9-b696-88d681c54094	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2990-03B		
+TCGA-AB-2980-11A	11					NO	cf64c883-a589-4f3a-b9d4-fe2d75a328a1	Solid Tissue Normal						A						TCGA-AB-2980-11A		
+TCGA-AB-2970-03A	03					NO	84d08806-f569-4ded-99ad-a1749de7018a	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2970-03A		
+TCGA-AB-2932-11A	11					NO	bde46a6f-c479-4964-bd2c-36b284963343	Solid Tissue Normal						A						TCGA-AB-2932-11A		
+TCGA-AB-2966-11A	11					NO	6cb66bc3-414a-4443-9289-628f2d64012f	Solid Tissue Normal						A						TCGA-AB-2966-11A		
+TCGA-AB-2844-03B	03					NO	3743f353-ea33-4a42-8bd2-92c8652f5427	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2844-03B		
+TCGA-AB-2844-03C	03					NO	6d334bec-dd53-4d06-b178-9704d4465861	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2844-03C		
+TCGA-AB-2844-03A	03					NO	4ff7ec82-d8ad-46ac-90e4-bbd20ffb7519	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2844-03A		
+TCGA-AB-2831-11A	11					NO	5d2af066-5558-438b-824b-3199f664d850	Solid Tissue Normal						A						TCGA-AB-2831-11A		
+TCGA-AB-2831-11C	11					NO	2f897a56-a965-4929-9067-2663a7394e1f	Solid Tissue Normal						C						TCGA-AB-2831-11C		
+TCGA-AB-2805-03C	03					NO	580a4c10-b282-4089-b5b5-d4ed82ef3be0	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2805-03C		
+TCGA-AB-2805-03B	03					NO	83afe406-c863-40c5-bb67-59f3c3a0135c	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2805-03B		
+TCGA-AB-2805-03A	03					NO	67c20e49-6de6-4022-9542-30d2f4a0d08c	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2805-03A		
+TCGA-AB-2831-11B	11					NO	8c36cf29-fc7d-40bc-adfa-7fdcd7a53f33	Solid Tissue Normal						B						TCGA-AB-2831-11B		
+TCGA-AB-2917-03A	03					NO	209c4a86-09ce-41ec-bfa0-fa66c201aafd	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2917-03A		
+TCGA-AB-2856-11A	11					NO	c57490ed-62e1-4e68-baa0-ef7b5d79d897	Solid Tissue Normal						A						TCGA-AB-2856-11A		
+TCGA-AB-2856-11B	11					NO	ae408872-dc10-4070-9e17-fa45d989dfca	Solid Tissue Normal						B						TCGA-AB-2856-11B		
+TCGA-AB-2856-11C	11					NO	96183d48-26ba-4bda-9fb9-085a66a34caf	Solid Tissue Normal						C						TCGA-AB-2856-11C		
+TCGA-AB-2970-11A	11					NO	11ae5258-0d63-47df-b450-3f7e5ecbb6a6	Solid Tissue Normal						A						TCGA-AB-2970-11A		
+TCGA-AB-2867-03C	03					NO	cef535f0-e600-4251-bed6-43c8cdc0aad8	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2867-03C		
+TCGA-AB-2867-03B	03					NO	f35fc75b-4e5d-40b9-bd05-b823a3b4dfe8	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2867-03B		
+TCGA-AB-2867-03A	03					NO	73591aaf-e4c3-4786-b8e0-533f6539221a	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2867-03A		
+TCGA-AB-2886-03A	03					NO	783cdeda-da74-403b-bc5b-ea0bf545b25d	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2886-03A		
+TCGA-AB-2821-11B	11					NO	d81c40bf-bd88-410f-83c1-1f4c2b148dda	Solid Tissue Normal						B						TCGA-AB-2821-11B		
+TCGA-AB-2900-03A	03					NO	c9e69dcd-d517-412a-904d-287ea9075873	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2900-03A		
+TCGA-AB-2871-03A	03					NO	fde79b9f-605f-4afc-a533-1102edc6b831	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2871-03A		
+TCGA-AB-2857-11A	11					NO	a17c981f-ec9c-4461-aa92-5f25ce043200	Solid Tissue Normal						A						TCGA-AB-2857-11A		
+TCGA-AB-2821-03C	03					NO	f3528a65-4509-4e13-b47f-88a205ecf107	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2821-03C		
+TCGA-AB-2821-03B	03					NO	a3e1415c-b954-4a9e-a281-ddd9cdc7eb2b	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2821-03B		
+TCGA-AB-3007-11A	11					NO	e23a4f5f-4d6c-4866-b5ae-81d47be952eb	Solid Tissue Normal						A						TCGA-AB-3007-11A		
+TCGA-AB-3002-03A	03					NO	61c0f3df-32c8-4bce-816b-39579f06bc5b	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-3002-03A		
+TCGA-AB-2853-11B	11					NO	0f96d384-2d4c-4356-ad5f-b9129ad6dfd4	Solid Tissue Normal						B						TCGA-AB-2853-11B		
+TCGA-AB-2955-03A	03					NO	c2530af5-56fb-4225-8640-bb5f5f2af77f	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2955-03A		
+TCGA-AB-2898-11A	11					NO	b22f9212-52dd-4b46-8b2c-ece9a956d41a	Solid Tissue Normal						A						TCGA-AB-2898-11A		
+TCGA-AB-2944-03A	03					NO	096df02d-2705-4f5d-b98c-734b4c5b1872	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2944-03A		
+TCGA-AB-2977-11A	11					NO	404143f6-bcb4-4be8-a791-6da7f09190ac	Solid Tissue Normal						A						TCGA-AB-2977-11A		
+TCGA-AB-2926-03A	03					NO	b2599b2c-8ff1-44a6-907f-a2907ac5857c	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2926-03A		
+TCGA-AB-2881-03A	03					NO	421c391a-33c7-4a6d-aecb-9a1cb4e8a2d9	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2881-03A		
+TCGA-AB-2894-03A	03					NO	7c7d6f2d-71f7-4e3d-a857-1dbe48ba50b6	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2894-03A		
+TCGA-AB-2833-03A	03					NO	b1b2ea05-f406-4124-9f2c-d76b2f6e2fed	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2833-03A		
+TCGA-AB-2855-11A	11					NO	432cc709-b872-414b-a1db-e1f4267959d5	Solid Tissue Normal						A						TCGA-AB-2855-11A		
+TCGA-AB-2833-03C	03					NO	642d6fc9-b5ee-45ea-9829-9a3dd90f85d8	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2833-03C		
+TCGA-AB-2809-11D	11					NO	635acaa5-235b-441e-9292-61d78c007edf	Solid Tissue Normal						D						TCGA-AB-2809-11D		
+TCGA-AB-2882-11A	11					NO	be5c9403-6bff-476c-b378-3b09e16a1917	Solid Tissue Normal						A						TCGA-AB-2882-11A		
+TCGA-AB-2872-11A	11					NO	de770799-cf97-4a35-9b2b-2e28145d7a17	Solid Tissue Normal						A						TCGA-AB-2872-11A		
+TCGA-AB-2922-11A	11					NO	5eb3a9f7-9162-4ea0-aeca-d60e016e3995	Solid Tissue Normal						A						TCGA-AB-2922-11A		
+TCGA-AB-3008-11A	11					NO	dae4ad8f-fedd-49b2-9e53-84524d2a3b1a	Solid Tissue Normal						A						TCGA-AB-3008-11A		
+TCGA-AB-2866-03C	03					NO	70ea3598-4f08-4b3e-a2fc-fe723ad28230	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2866-03C		
+TCGA-AB-2834-11A	11					NO	5e387635-c163-4953-a038-96bcae2be0e8	Solid Tissue Normal						A						TCGA-AB-2834-11A		
+TCGA-AB-2834-11B	11					NO	f1e47a45-d7fb-4cbf-bee8-e1ebc8c03067	Solid Tissue Normal						B						TCGA-AB-2834-11B		
+TCGA-AB-2834-11C	11					NO	6a2fed51-1700-42ae-8188-6d76cdfe1819	Solid Tissue Normal						C						TCGA-AB-2834-11C		
+TCGA-AB-2969-03A	03					NO	9069b85b-eeba-49c0-a624-65817cc0e915	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2969-03A		
+TCGA-AB-2814-03A	03					NO	3006c724-134f-45a7-85d9-ffc113c3d487	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2814-03A		
+TCGA-AB-2959-03A	03					NO	bce3e59e-fd6e-4bb1-a73a-7aa30d4c39e4	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2959-03A		
+TCGA-AB-2807-11D	11					NO	cdbe8edb-4ea0-4cc7-b662-f6a79e5b9332	Solid Tissue Normal						D						TCGA-AB-2807-11D		
+TCGA-AB-2807-11B	11					NO	385695fc-f461-4607-95fd-020aaad30b20	Solid Tissue Normal						B						TCGA-AB-2807-11B		
+TCGA-AB-2807-11C	11					NO	b51e2ad2-4866-4db4-a62c-a28b981d4c7b	Solid Tissue Normal						C						TCGA-AB-2807-11C		
+TCGA-AB-2835-11C	11					NO	78123328-daf4-4821-a095-aa490520e5f1	Solid Tissue Normal						C						TCGA-AB-2835-11C		
+TCGA-AB-2807-11A	11					NO	daddeeef-b8db-4a51-8b61-c35a1895cb8c	Solid Tissue Normal						A						TCGA-AB-2807-11A		
+TCGA-AB-2814-03B	03					NO	2cc6212c-8e3e-4cef-b6dc-3e4554805b8f	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2814-03B		
+TCGA-AB-2934-11A	11					NO	30875667-3b35-4e4a-ac76-1d57eaf416ee	Solid Tissue Normal						A						TCGA-AB-2934-11A		
+TCGA-AB-2905-03A	03					NO	9d11ef97-cf7e-4258-8241-682cb0966680	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2905-03A		
+TCGA-AB-2921-11A	11					NO	4e336128-9ef0-45b8-aef7-a2a5fd764a2f	Solid Tissue Normal						A						TCGA-AB-2921-11A		
+TCGA-AB-2949-11A	11					NO	b391fc67-e14a-4c8e-8db8-2e247ff417a5	Solid Tissue Normal						A						TCGA-AB-2949-11A		
+TCGA-AB-2959-11A	11					NO	f52c83b4-de94-4e07-8131-a67606b34881	Solid Tissue Normal						A						TCGA-AB-2959-11A		
+TCGA-AB-2909-03A	03					NO	40168b34-bbfe-4ee2-b7b5-2e33fbf64a18	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2909-03A		
+TCGA-AB-2891-03A	03					NO	1c8df1f1-f42d-4dca-a998-d0ae6ce58a22	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2891-03A		
+TCGA-AB-2986-11A	11					NO	f169634f-4742-457e-815a-87386c5b0306	Solid Tissue Normal						A						TCGA-AB-2986-11A		
+TCGA-AB-2853-03B	03					NO	2ba5d476-91cd-43ca-a5fe-a28638418fe4	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2853-03B		
+TCGA-AB-2859-11C	11					NO	ed9c76e1-f054-4f7f-bd6f-5ad72c713f7b	Solid Tissue Normal						C						TCGA-AB-2859-11C		
+TCGA-AB-2859-11B	11					NO	1beb72aa-60a8-46b1-8c03-c97c31d4c24e	Solid Tissue Normal						B						TCGA-AB-2859-11B		
+TCGA-AB-2859-11A	11					NO	46d7ca7e-0682-4f62-ba03-91bac82eb014	Solid Tissue Normal						A						TCGA-AB-2859-11A		
+TCGA-AB-2820-11B	11					NO	a1611a42-6909-4e47-a6a9-fbf3542e0981	Solid Tissue Normal						B						TCGA-AB-2820-11B		
+TCGA-AB-2820-11A	11					NO	e4949588-5524-415e-805a-ba535649b7c9	Solid Tissue Normal						A						TCGA-AB-2820-11A		
+TCGA-AB-2881-11A	11					NO	46ba8924-ec51-4118-a004-6a03fbfd8e26	Solid Tissue Normal						A						TCGA-AB-2881-11A		
+TCGA-AB-2981-11A	11					NO	4095aacf-1c0e-4542-bf01-4a8a9226c4c1	Solid Tissue Normal						A						TCGA-AB-2981-11A		
+TCGA-AB-2979-11A	11					NO	f3bc9fb8-e243-48f8-8d40-3fe3be8439ed	Solid Tissue Normal						A						TCGA-AB-2979-11A		
+TCGA-AB-2918-03A	03					NO	cbecb02f-9173-4a2c-a415-6b471a208264	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2918-03A		
+TCGA-AB-2972-11A	11					NO	4311cc49-cb84-4442-b750-96477bb33a36	Solid Tissue Normal						A						TCGA-AB-2972-11A		
+TCGA-AB-2897-03A	03					NO	01f75c4d-b2e0-4847-b7af-4e3e00714d52	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2897-03A		
+TCGA-AB-2957-11A	11					NO	76f1156d-0923-4ab6-b0c8-aaadfe55d51c	Solid Tissue Normal						A						TCGA-AB-2957-11A		
+TCGA-AB-2888-03B	03					NO	80e3eb6d-805a-406e-b786-b58092e846cb	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2888-03B		
+TCGA-AB-2888-03A	03					NO	c42d85e2-f541-4e5a-a9b0-8b5706e434f4	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2888-03A		
+TCGA-AB-2803-03A	03					NO	72c70ed6-1af2-4e8a-aac7-2c10f074df79	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2803-03A		
+TCGA-AB-2803-03C	03					NO	9bd625f3-8c99-4343-87b9-63e4afb6bde4	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2803-03C		
+TCGA-AB-2833-11B	11					NO	c675c4ec-9acf-44c3-aff7-b1102a67125a	Solid Tissue Normal						B						TCGA-AB-2833-11B		
+TCGA-AB-2839-11A	11					NO	ad0b135f-d5a6-44d6-a4fa-b1d51f1baa78	Solid Tissue Normal						A						TCGA-AB-2839-11A		
+TCGA-AB-2839-11C	11					NO	226600e6-1c01-4890-a439-e36792cde433	Solid Tissue Normal						C						TCGA-AB-2839-11C		
+TCGA-AB-2839-11B	11					NO	bc46a2cd-aace-47fd-806e-bbf2282af45e	Solid Tissue Normal						B						TCGA-AB-2839-11B		
+TCGA-AB-2833-11A	11					NO	dc665c8f-ccd7-4563-89ba-f7bfff138b69	Solid Tissue Normal						A						TCGA-AB-2833-11A		
+TCGA-AB-2811-03A	03					NO	59a8e0cf-b2c2-4fa8-af20-a5a6550174db	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2811-03A		
+TCGA-AB-2811-03B	03					NO	85dbe97c-32e1-4754-9088-5cb05a3bea0e	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2811-03B		
+TCGA-AB-2811-03C	03					NO	a47f9fce-5d90-4f08-8c56-30bab6a11344	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2811-03C		
+TCGA-AB-2841-03C	03					NO	fbb17019-43e7-4d07-b3f9-04e74696e692	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2841-03C		
+TCGA-AB-2841-03B	03					NO	f85dd911-52ee-4a2f-aba6-b5b025d73586	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2841-03B		
+TCGA-AB-2841-03A	03					NO	fb7a785b-0ebc-4600-ba34-830c6db1ea62	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2841-03A		
+TCGA-AB-2919-11A	11					NO	d27d0aec-d0a2-43ed-bbfd-c57467ca3862	Solid Tissue Normal						A						TCGA-AB-2919-11A		
+TCGA-AB-2849-03C	03					NO	6f2003c1-fca9-4f91-a5b8-240aaa7d2134	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2849-03C		
+TCGA-AB-2849-03B	03					NO	a8be21e8-50ee-4f03-9ef4-431a14d8e3f8	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2849-03B		
+TCGA-AB-2849-03A	03					NO	1db3bfce-5f7c-4b22-85ac-0a04ea137d12	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2849-03A		
+TCGA-AB-2828-11C	11					NO	ea93c161-13df-49d3-b138-4c2b5f5a53df	Solid Tissue Normal						C						TCGA-AB-2828-11C		
+TCGA-AB-2828-11B	11					NO	10a96978-6cea-4148-a2a2-37811af8dc0f	Solid Tissue Normal						B						TCGA-AB-2828-11B		
+TCGA-AB-2828-11A	11					NO	9683db88-4f0b-43ff-90f4-a8d483ba72dd	Solid Tissue Normal						A						TCGA-AB-2828-11A		
+TCGA-AB-2927-03A	03					NO	bc95c4bd-31b4-496a-982b-00f5e78dc07a	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2927-03A		
+TCGA-AB-2940-03A	03					NO	9b99a512-ce02-4b2e-bb87-cf74e096ef48	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2940-03A		
+TCGA-AB-2858-11A	11					NO	eb9a4b9f-b825-42e4-8757-b938077b0c82	Solid Tissue Normal						A						TCGA-AB-2858-11A		
+TCGA-AB-3000-03A	03					NO	6c2be933-f491-4eec-8882-6b35bd4f8ef3	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-3000-03A		
+TCGA-AB-2831-03B	03					NO	72304c9f-e406-4e85-bf97-f945400f70e4	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2831-03B		
+TCGA-AB-2831-03A	03					NO	d7c1cc2e-8d31-482a-9cf4-d1307d16a7e2	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2831-03A		
+TCGA-AB-2999-03A	03					NO	b28629d5-7473-4ddd-afa1-b57da9e1c50a	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2999-03A		
+TCGA-AB-2938-03A	03					NO	1e8f9399-67c4-4990-8c08-1eb6f43cab50	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2938-03A		
+TCGA-AB-2948-11A	11					NO	72a4ff93-732e-47d6-a28a-1aa7410847fe	Solid Tissue Normal						A						TCGA-AB-2948-11A		
+TCGA-AB-2910-03A	03					NO	2507305c-22a9-41f5-ae04-bd94591be3f2	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2910-03A		
+TCGA-AB-2877-03A	03					NO	c2240545-852e-48a5-a8e4-4095bba73d74	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2877-03A		
+TCGA-AB-2899-11A	11					NO	912d2680-b76e-4744-aef6-5ddfecac6e32	Solid Tissue Normal						A						TCGA-AB-2899-11A		
+TCGA-AB-3000-11A	11					NO	d01a0802-4697-4f66-8e52-325cc4f9caf2	Solid Tissue Normal						A						TCGA-AB-3000-11A		
+TCGA-AB-2922-03A	03					NO	c57ce081-c167-4afa-a3ca-e3135fdba524	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2922-03A		
+TCGA-AB-2993-03A	03					NO	1e58625b-9090-4f92-a19c-f1b8e22f11f8	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2993-03A		
+TCGA-AB-2991-03A	03					NO	2aab4284-20db-4702-91d3-da820141394b	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2991-03A		
+TCGA-AB-2845-11A	11					NO	e04e40a5-5b3e-4d38-8f35-1f8f9f21e505	Solid Tissue Normal						A						TCGA-AB-2845-11A		
+TCGA-AB-2845-11B	11					NO	9e004124-3eaf-4f04-93f7-b11602032185	Solid Tissue Normal						B						TCGA-AB-2845-11B		
+TCGA-AB-2845-11D	11					NO	9a4b420c-2fc0-4a19-a199-caef3fee35bd	Solid Tissue Normal						D						TCGA-AB-2845-11D		
+TCGA-AB-2983-11A	11					NO	69c09921-b570-489a-95b4-6cd733e89a05	Solid Tissue Normal						A						TCGA-AB-2983-11A		
+TCGA-AB-2863-03D	03					NO	9e8d5570-00b3-4d7a-b0ad-3f5f44734d39	Primary Blood Derived Cancer - Peripheral Blood						D						TCGA-AB-2863-03D		
+TCGA-AB-2863-03C	03					NO	84f49573-011a-4694-a958-23b4027f9c24	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2863-03C		
+TCGA-AB-2863-03B	03					NO	a6ce79d0-e0ff-4b86-a8b7-4797cae88c03	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2863-03B		
+TCGA-AB-2863-03A	03					NO	42c492f9-7e8c-4ba5-8396-1ea882d36d14	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2863-03A		
+TCGA-AB-2808-11A	11					NO	777af2a9-deba-4df5-a974-c45578b44004	Solid Tissue Normal						A						TCGA-AB-2808-11A		
+TCGA-AB-2808-11C	11					NO	4648f664-528e-4f91-b691-c29fcbb84227	Solid Tissue Normal						C						TCGA-AB-2808-11C		
+TCGA-AB-2808-11B	11					NO	d49b974b-0a50-475f-b968-a0dfca6b8331	Solid Tissue Normal						B						TCGA-AB-2808-11B		
+TCGA-AB-2808-11D	11					NO	f500771e-7485-4ee0-afb3-3a6ccde9ee94	Solid Tissue Normal						D						TCGA-AB-2808-11D		
+TCGA-AB-2988-11A	11					NO	279d7677-b7c1-468b-a9fb-65e7f08248e7	Solid Tissue Normal						A						TCGA-AB-2988-11A		
+TCGA-AB-2929-11A	11					NO	100bbfd8-000d-4f31-a4ab-e744a842610b	Solid Tissue Normal						A						TCGA-AB-2929-11A		
+TCGA-AB-2985-03A	03					NO	ced7ef84-17d9-43ec-bb99-98d9d894f9e9	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2985-03A		
+TCGA-AB-2861-03A	03					NO	36dc6fb9-bd46-4661-a732-eb4f10c3dc7d	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2861-03A		
+TCGA-AB-2861-03C	03					NO	189fae8e-ff1e-4567-9515-e552de5ee151	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2861-03C		
+TCGA-AB-2861-03B	03					NO	e1227dbc-289f-495e-b091-55a950778fa5	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2861-03B		
+TCGA-AB-2952-11A	11					NO	5aa70bb8-e874-46b1-ba13-c3acf74a7fd9	Solid Tissue Normal						A						TCGA-AB-2952-11A		
+TCGA-AB-2847-03D	03					NO	16696596-fe4d-4eca-96a8-da2cb46df39c	Primary Blood Derived Cancer - Peripheral Blood						D						TCGA-AB-2847-03D		
+TCGA-AB-2847-03A	03					NO	d063546b-eb87-4282-830e-cefe1be6ce55	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2847-03A		
+TCGA-AB-2847-03C	03					NO	9b0107c3-e0af-42c0-a466-a59bc60eb8fa	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2847-03C		
+TCGA-AB-2847-03B	03					NO	e2ce3f02-c6b0-4b24-a97a-509b1f44c251	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2847-03B		
+TCGA-AB-2978-11A	11					NO	a933e3e0-fe86-42e8-8a59-e399757c5dcc	Solid Tissue Normal						A						TCGA-AB-2978-11A		
+TCGA-AB-2844-11C	11					NO	27fc3281-c3b4-4ac5-a58e-6cb76bffb493	Solid Tissue Normal						C						TCGA-AB-2844-11C		
+TCGA-AB-2878-03A	03					NO	460106a6-b0fd-4512-9583-e3242e1d5167	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2878-03A		
+TCGA-AB-2865-11A	11					NO	fc8531b3-561e-4a33-aad5-f8af53b05831	Solid Tissue Normal						A						TCGA-AB-2865-11A		
+TCGA-AB-2817-03B	03					NO	206f3fdf-3376-491e-b1e6-b7145394166c	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2817-03B		
+TCGA-AB-2817-03C	03					NO	78778177-1636-41a9-aa2a-76db5e2b2c16	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2817-03C		
+TCGA-AB-2817-03A	03					NO	72f06a26-8b38-4355-bd7b-fe0c5212ab65	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2817-03A		
+TCGA-AB-2838-11A	11					NO	35d77a1e-fa8c-4258-8ae3-bd760ab0cbdf	Solid Tissue Normal						A						TCGA-AB-2838-11A		
+TCGA-AB-2838-11B	11					NO	9321fa79-4293-4fe8-be0c-fc33738aa545	Solid Tissue Normal						B						TCGA-AB-2838-11B		
+TCGA-AB-2838-11C	11					NO	f9263c42-526b-432b-9c30-1f02cdfb9cfb	Solid Tissue Normal						C						TCGA-AB-2838-11C		
+TCGA-AB-2911-11A	11					NO	735dd484-3ec6-420b-a5bb-a4371d0c8783	Solid Tissue Normal						A						TCGA-AB-2911-11A		
+TCGA-AB-2938-11A	11					NO	67d9067d-5681-4c4c-94b5-ce9a4db6851f	Solid Tissue Normal						A						TCGA-AB-2938-11A		
+TCGA-AB-2994-03A	03					NO	793afd96-44ac-4c80-80db-1a072ac7611e	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2994-03A		
+TCGA-AB-2926-11A	11					NO	2475b645-0fda-4088-a14e-1fa77f7980ca	Solid Tissue Normal						A						TCGA-AB-2926-11A		
+TCGA-AB-2950-11A	11					NO	815c4ede-86c5-4bc9-a6e7-50a62e4dbcc5	Solid Tissue Normal						A						TCGA-AB-2950-11A		
+TCGA-AB-2822-11D	11					NO	4ad6e067-588b-4f31-99cf-9d88539aaf70	Solid Tissue Normal						D						TCGA-AB-2822-11D		
+TCGA-AB-2853-03D	03					NO	9b561779-c85d-463d-8f31-2ac3a6eaf623	Primary Blood Derived Cancer - Peripheral Blood						D						TCGA-AB-2853-03D		
+TCGA-AB-2822-11A	11					NO	a2733eab-0862-4c11-991c-5ed323ca1f74	Solid Tissue Normal						A						TCGA-AB-2822-11A		
+TCGA-AB-2853-03C	03					NO	30a2e21d-1d15-40f3-9a8b-a917c2f5ef6b	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2853-03C		
+TCGA-AB-2822-11B	11					NO	47999185-7a75-43f5-b762-343a8f885b24	Solid Tissue Normal						B						TCGA-AB-2822-11B		
+TCGA-AB-2804-11A	11					NO	c0054f39-423d-4b61-a1a7-ed8a1812fad4	Solid Tissue Normal						A						TCGA-AB-2804-11A		
+TCGA-AB-2869-03A	03					NO	d865beb2-9268-4fce-9403-3a5a20e0c66e	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2869-03A		
+TCGA-AB-2813-03B	03					NO	ae03615d-c60c-480d-a5b9-669f70c2c942	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2813-03B		
+TCGA-AB-2813-03C	03					NO	931f80b7-8463-4918-a714-d1c6ddeee793	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2813-03C		
+TCGA-AB-2813-03A	03					NO	d146609a-e320-4b19-8e6e-a8c577288219	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2813-03A		
+TCGA-AB-2992-03A	03					NO	619c2343-330e-4dbe-a810-bd70ea4eff66	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2992-03A		
+TCGA-AB-2868-11C	11					NO	f848fe54-812a-43db-b0f9-3c7422d8a008	Solid Tissue Normal						C						TCGA-AB-2868-11C		
+TCGA-AB-2868-11B	11					NO	a3a2d934-1931-4d94-aa79-f098e4fe74ad	Solid Tissue Normal						B						TCGA-AB-2868-11B		
+TCGA-AB-2868-11A	11					NO	246dd9e0-9f63-4ee4-a32c-8f37e549409e	Solid Tissue Normal						A						TCGA-AB-2868-11A		
+TCGA-AB-2804-11B	11					NO	14afc6c4-ce02-4efd-852b-1391296047bf	Solid Tissue Normal						B						TCGA-AB-2804-11B		
+TCGA-AB-2825-11B	11					NO	27ae33a5-afcb-46ac-8404-01df7ff27ac9	Solid Tissue Normal						B						TCGA-AB-2825-11B		
+TCGA-AB-2825-11C	11					NO	cc4947b6-efe5-4705-a047-9d5cd07d3d1a	Solid Tissue Normal						C						TCGA-AB-2825-11C		
+TCGA-AB-2825-11A	11					NO	989d017b-7002-46b6-8651-fa2298d88851	Solid Tissue Normal						A						TCGA-AB-2825-11A		
+TCGA-AB-2920-03A	03					NO	6bc8b49b-218c-4e1c-a77d-3780649117ab	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2920-03A		
+TCGA-AB-2825-11D	11					NO	84df57de-a171-4304-b720-4a6dc758d90d	Solid Tissue Normal						D						TCGA-AB-2825-11D		
+TCGA-AB-2920-03B	03					NO	ff6688af-bfb8-40e0-8087-f7c38c35fe4f	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2920-03B		
+TCGA-AB-2806-11B	11					NO	83c48bb2-31e6-487d-8787-37777840675e	Solid Tissue Normal						B						TCGA-AB-2806-11B		
+TCGA-AB-2806-11A	11					NO	ca6381d2-11ca-4dd3-a9ab-74ef347eddf1	Solid Tissue Normal						A						TCGA-AB-2806-11A		
+TCGA-AB-2914-03A	03					NO	022b530b-88f1-4b62-8e06-05220a8666aa	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2914-03A		
+TCGA-AB-2836-11B	11					NO	8dddec9d-233f-43c8-86ea-155c6e12fbbd	Solid Tissue Normal						B						TCGA-AB-2836-11B		
+TCGA-AB-2836-11C	11					NO	46e0f39b-67d9-4f04-aa3d-53852cd38049	Solid Tissue Normal						C						TCGA-AB-2836-11C		
+TCGA-AB-2836-11A	11					NO	88ed651f-cba7-48ef-ad76-f1e7d7c7c73a	Solid Tissue Normal						A						TCGA-AB-2836-11A		
+TCGA-AB-2850-03A	03					NO	3bd94774-67a3-4e75-9dc6-83f214b88faa	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2850-03A		
+TCGA-AB-2950-03A	03					NO	c684c1c7-d550-45cc-9c5a-ca08654e4c17	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2950-03A		
+TCGA-AB-2850-03C	03					NO	2369c070-cdc8-4c36-b6b9-8adcf1f50feb	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2850-03C		
+TCGA-AB-2850-03B	03					NO	da58aae9-65e9-452e-be4e-ab728c64f553	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2850-03B		
+TCGA-AB-2873-03A	03					NO	747c77b1-5052-458c-b13d-7778c51eb647	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2873-03A		
+TCGA-AB-2936-11A	11					NO	a07e683f-f0ab-47c8-b2c2-e3654b96dac3	Solid Tissue Normal						A						TCGA-AB-2936-11A		
+TCGA-AB-2989-11A	11					NO	fafb19e2-2c76-4d2b-aad3-c4fd90aa1135	Solid Tissue Normal						A						TCGA-AB-2989-11A		
+TCGA-AB-2842-03A	03					NO	333a7fd7-7fe1-45c9-a8b9-5e2985dcf94c	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2842-03A		
+TCGA-AB-2842-03B	03					NO	494da8d5-bd48-4193-8c36-964c820bfb92	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2842-03B		
+TCGA-AB-2842-03C	03					NO	09ef605c-361b-46b6-a31d-ae4e52f6eb8c	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2842-03C		
+TCGA-AB-2823-11A	11					NO	382c9883-960f-4d5e-ac99-65a364853862	Solid Tissue Normal						A						TCGA-AB-2823-11A		
+TCGA-AB-2823-11B	11					NO	5e4780df-2014-4c49-bc64-b60165478d16	Solid Tissue Normal						B						TCGA-AB-2823-11B		
+TCGA-AB-2823-11C	11					NO	d29134f4-af63-44f3-a04d-55130e740a79	Solid Tissue Normal						C						TCGA-AB-2823-11C		
+TCGA-AB-3001-03A	03					NO	348a5ff5-f680-43f6-bb5d-0ef46575c832	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-3001-03A		
+TCGA-AB-2884-03A	03					NO	cc93c447-2fa9-4660-9627-ae26cb8b29d7	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2884-03A		
+TCGA-AB-2875-03A	03					NO	fec5c954-8b7a-4de0-99f8-ed8fdaa5af81	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2875-03A		
+TCGA-AB-2826-11A	11					NO	49419006-cadb-4513-912d-e58103578299	Solid Tissue Normal						A						TCGA-AB-2826-11A		
+TCGA-AB-2826-11C	11					NO	3dacb3d9-8d28-43ba-976e-cc7113f8f37c	Solid Tissue Normal						C						TCGA-AB-2826-11C		
+TCGA-AB-2826-11B	11					NO	f5ad10af-c413-4218-b6a2-406d934f8e8e	Solid Tissue Normal						B						TCGA-AB-2826-11B		
+TCGA-AB-2824-11C	11					NO	ea204329-5bc9-4c89-9221-31f2b4bf85e3	Solid Tissue Normal						C						TCGA-AB-2824-11C		
+TCGA-AB-2802-03A	03					NO	b0433b3d-3baa-45e4-bb1e-069109b8a3b8	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2802-03A		
+TCGA-AB-2802-03B	03					NO	3940b859-9ff1-4c7c-9b88-a38527784273	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2802-03B		
+TCGA-AB-2802-03C	03					NO	e212ebaa-c50f-4694-9484-7d6f2e7573a2	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2802-03C		
+TCGA-AB-2802-03D	03					NO	5155e1ff-17c7-4f25-bfbe-43e289ce99ae	Primary Blood Derived Cancer - Peripheral Blood						D						TCGA-AB-2802-03D		
+TCGA-AB-2834-03B	03					NO	3f78b130-8953-4577-a389-597e7611a5a4	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2834-03B		
+TCGA-AB-2834-03A	03					NO	1fe6f1a3-b183-4e0f-9173-ab1c3225106d	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2834-03A		
+TCGA-AB-2963-11A	11					NO	f307793f-b582-4b23-bf07-04c8d0c9360e	Solid Tissue Normal						A						TCGA-AB-2963-11A		
+TCGA-AB-2947-11A	11					NO	d7039838-9d47-4141-ad1d-85520675b458	Solid Tissue Normal						A						TCGA-AB-2947-11A		
+TCGA-AB-2935-03A	03					NO	f7aa550b-8dc9-42af-b22b-5db992ddd56e	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2935-03A		
+TCGA-AB-2840-03B	03					NO	709c8fb8-eec8-48bc-9a49-0adb9adbd3d6	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2840-03B		
+TCGA-AB-2895-11A	11					NO	71a09c9f-1b7a-4ae4-8aaa-12a7744a58c5	Solid Tissue Normal						A						TCGA-AB-2895-11A		
+TCGA-AB-2840-03A	03					NO	005e1ff8-23b1-423e-8f7b-7c5d7469da51	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2840-03A		
+TCGA-AB-2866-03B	03					NO	ff5d69e6-b868-4e38-8f5e-abfc5a131818	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2866-03B		
+TCGA-AB-2856-03B	03					NO	5dcfabfc-8282-472d-912d-ab292532ff9f	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2856-03B		
+TCGA-AB-2856-03A	03					NO	a364cb36-1668-469f-bfa7-b6d52e72b932	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2856-03A		
+TCGA-AB-2866-03A	03					NO	71176dc5-c938-4721-bd28-283c64dec6f1	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2866-03A		
+TCGA-AB-2844-11A	11					NO	1277b2e7-f30c-488f-9400-2147eb7c3cbd	Solid Tissue Normal						A						TCGA-AB-2844-11A		
+TCGA-AB-2814-03C	03					NO	df2eb06c-a3e3-4c57-b537-bd1618954049	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2814-03C		
+TCGA-AB-2844-11B	11					NO	791ab047-230e-41f2-a211-b37c3eb0951c	Solid Tissue Normal						B						TCGA-AB-2844-11B		
+TCGA-AB-2814-03D	03					NO	19af0ab4-cd21-4002-9894-4efd5fff6e57	Primary Blood Derived Cancer - Peripheral Blood						D						TCGA-AB-2814-03D		
+TCGA-AB-3011-03A	03					NO	10740f2a-d9aa-46f6-b7cb-22719fb9b0e1	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-3011-03A		
+TCGA-AB-2965-03A	03					NO	d42a66cd-bc74-477f-a924-1b3a303bfa16	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2965-03A		
+TCGA-AB-2904-03A	03					NO	44992adb-cabf-4c2f-9f3b-45cf97531319	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2904-03A		
+TCGA-AB-2946-03A	03					NO	d511f763-c760-40bb-a140-91d33919e10a	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2946-03A		
+TCGA-AB-2803-11C	11					NO	f877f747-9f1b-4140-a08d-29d1f7b62639	Solid Tissue Normal						C						TCGA-AB-2803-11C		
+TCGA-AB-2964-03A	03					NO	e4f9f17f-ac3f-4f2f-b05e-60c3e64d7d3d	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2964-03A		
+TCGA-AB-2968-11A	11					NO	4f22261b-2e99-4b22-a2da-c1ba3acfe067	Solid Tissue Normal						A						TCGA-AB-2968-11A		
+TCGA-AB-2888-11A	11					NO	2ab14ef5-839d-4b9f-b09e-fcbed1124af8	Solid Tissue Normal						A						TCGA-AB-2888-11A		
+TCGA-AB-2945-03A	03					NO	fe6cbe01-b181-4248-8356-27d1eeea8578	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2945-03A		
+TCGA-AB-2887-03A	03					NO	ff4ff433-f4f9-48e3-a02e-4c39bee265cb	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2887-03A		
+TCGA-AB-2846-11B	11					NO	41b8b747-95e8-4ca7-ac49-5322bf8c771c	Solid Tissue Normal						B						TCGA-AB-2846-11B		
+TCGA-AB-2846-11A	11					NO	bacca325-77cd-42e9-b571-624804e3dc7a	Solid Tissue Normal						A						TCGA-AB-2846-11A		
+TCGA-AB-2995-11A	11					NO	530165a5-f73b-43db-bb77-1f630a5105b8	Solid Tissue Normal						A						TCGA-AB-2995-11A		
+TCGA-AB-2865-11B	11					NO	11f687f1-4827-4fe0-968f-5c75e20a415f	Solid Tissue Normal						B						TCGA-AB-2865-11B		
+TCGA-AB-2865-11C	11					NO	2e90a062-2556-421a-be2e-898cf9fd6bb6	Solid Tissue Normal						C						TCGA-AB-2865-11C		
+TCGA-AB-2846-11D	11					NO	605c2532-5eb0-445a-b28b-86274556f363	Solid Tissue Normal						D						TCGA-AB-2846-11D		
+TCGA-AB-2864-11D	11					NO	62c4eb3c-5090-48d4-92ce-1b029b0d65da	Solid Tissue Normal						D						TCGA-AB-2864-11D		
+TCGA-AB-2871-11A	11					NO	6cf2b7d7-b870-4d8d-a816-99116a7bebfe	Solid Tissue Normal						A						TCGA-AB-2871-11A		
+TCGA-AB-2905-11A	11					NO	76b55df7-b108-4392-9afb-5521bad9bce9	Solid Tissue Normal						A						TCGA-AB-2905-11A		
+TCGA-AB-2971-11A	11					NO	b53e190a-d776-440e-bb83-f412e357f5fc	Solid Tissue Normal						A						TCGA-AB-2971-11A		
+TCGA-AB-2809-03D	03					NO	6a8dda37-4dad-41a4-a2de-ec283552a663	Primary Blood Derived Cancer - Peripheral Blood						D						TCGA-AB-2809-03D		
+TCGA-AB-2809-03C	03					NO	5c428e08-b5b1-40a8-a4f7-295f51d29b63	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2809-03C		
+TCGA-AB-2809-03B	03					NO	9ead1808-757e-4121-865c-78811e943e81	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2809-03B		
+TCGA-AB-2809-03A	03					NO	34dd9777-8996-491b-99fb-9f65f56662f1	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2809-03A		
+TCGA-AB-2889-11A	11					NO	99d6cb42-cc99-4ae0-bc8a-a40290286059	Solid Tissue Normal						A						TCGA-AB-2889-11A		
+TCGA-AB-2904-11A	11					NO	43de77dd-2edb-46fe-a70b-0bfc6c41e855	Solid Tissue Normal						A						TCGA-AB-2904-11A		
+TCGA-AB-2937-11A	11					NO	36499f98-428e-452a-a262-b072545c7e0a	Solid Tissue Normal						A						TCGA-AB-2937-11A		
+TCGA-AB-2818-11B	11					NO	ce342806-d07c-4d02-bcec-9bbefd3e13dc	Solid Tissue Normal						B						TCGA-AB-2818-11B		
+TCGA-AB-2818-11C	11					NO	60fec481-e097-467d-a25b-32fc456f8a56	Solid Tissue Normal						C						TCGA-AB-2818-11C		
+TCGA-AB-2818-11A	11					NO	0262b100-5d50-4747-8d79-314b7acacd2a	Solid Tissue Normal						A						TCGA-AB-2818-11A		
+TCGA-AB-2832-03A	03					NO	132450d4-dbb4-46a5-9dbc-4b7f69c0f752	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2832-03A		
+TCGA-AB-2832-03C	03					NO	55d8e8d0-7f84-448a-86be-fc229e63f5fb	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2832-03C		
+TCGA-AB-2832-03B	03					NO	f532e6a3-d990-41a7-8b6d-40df489b5780	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2832-03B		
+TCGA-AB-2883-11A	11					NO	14d99a20-9810-4bd2-bf25-e335dd6c6375	Solid Tissue Normal						A						TCGA-AB-2883-11A		
+TCGA-AB-2804-03B	03					NO	2bdcd80c-be1d-499e-89ea-f1523e6157d2	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2804-03B		
+TCGA-AB-2804-03C	03					NO	c5b1d5da-741b-4f59-bce8-ac2416db4fae	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2804-03C		
+TCGA-AB-2804-03A	03					NO	b88bb707-6041-4ab5-9f0f-ba16ef8cd60d	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2804-03A		
+TCGA-AB-2916-03A	03					NO	be7662bd-f603-4538-a787-c7e98385289a	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2916-03A		
+TCGA-AB-2882-03A	03					NO	19266593-2a64-4a6a-afdc-e07ce2564992	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2882-03A		
+TCGA-AB-3006-03A	03					NO	a7048844-bc20-4f26-a46d-9d2ac2e7bfb5	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-3006-03A		
+TCGA-AB-2820-03A	03					NO	a1b28305-87a2-406a-89fc-08342fd1c990	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2820-03A		
+TCGA-AB-2820-03B	03					NO	0a1c75b3-bbf0-4dd3-9f12-2cdadfda75ef	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2820-03B		
+TCGA-AB-2820-03C	03					NO	13a287a8-483a-4537-99c8-cc9148e284a3	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2820-03C		
+TCGA-AB-2821-03A	03					NO	0a7e464a-6b6c-44e9-a48e-d96be2a7093a	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2821-03A		
+TCGA-AB-2973-11A	11					NO	2020abaa-9028-4b22-bb78-6399af5861ea	Solid Tissue Normal						A						TCGA-AB-2973-11A		
+TCGA-AB-2992-11A	11					NO	0bbbbad2-c5bc-4665-8827-3d4a6e652115	Solid Tissue Normal						A						TCGA-AB-2992-11A		
+TCGA-AB-2857-11C	11					NO	69a32047-b73f-4a9d-b279-d08ffeb3f4e8	Solid Tissue Normal						C						TCGA-AB-2857-11C		
+TCGA-AB-2998-11A	11					NO	55a3ef1a-e2b8-46a4-9164-46a5e194ab6d	Solid Tissue Normal						A						TCGA-AB-2998-11A		
+TCGA-AB-2857-11B	11					NO	fca101df-4b46-4c24-8941-418807f3d16f	Solid Tissue Normal						B						TCGA-AB-2857-11B		
+TCGA-AB-2858-12A	12					NO	231e39b7-927f-4457-aa1f-72fb1e86094d	Buccal Cell Normal						A						TCGA-AB-2858-12A		
+TCGA-AB-2976-03A	03					NO	bdcfda22-db12-4cac-b99d-c1fcc4abb4a3	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2976-03A		
+TCGA-AB-2928-03A	03					NO	3e9b036f-db7a-4d53-b066-e5643e4561bf	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2928-03A		
+TCGA-AB-2810-11B	11					NO	b0b0934d-52b6-4bb8-8f31-d47e9813ebe9	Solid Tissue Normal						B						TCGA-AB-2810-11B		
+TCGA-AB-2810-11C	11					NO	2d9b9a72-cee9-4cdc-a39d-389b8d67860a	Solid Tissue Normal						C						TCGA-AB-2810-11C		
+TCGA-AB-2810-11A	11					NO	12ab2150-8dfd-4c1c-8b46-36f88568c47f	Solid Tissue Normal						A						TCGA-AB-2810-11A		
+TCGA-AB-2933-03A	03					NO	b62429c3-0fd0-459f-a6d9-396825c1d36f	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2933-03A		
+TCGA-AB-2909-11A	11					NO	9f0809f0-bb7b-4db3-ae2b-972ecd4d7f38	Solid Tissue Normal						A						TCGA-AB-2909-11A		
+TCGA-AB-2924-11A	11					NO	267e2c74-02e0-4031-9582-6f1f32222c0c	Solid Tissue Normal						A						TCGA-AB-2924-11A		
+TCGA-AB-2984-11A	11					NO	92ac1300-f0b6-4c19-a592-18931f88d5c5	Solid Tissue Normal						A						TCGA-AB-2984-11A		
+TCGA-AB-2921-03A	03					NO	fc9f2e78-72fd-4ff8-a818-08edc0a64f87	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2921-03A		
+TCGA-AB-2829-11B	11					NO	1efa207c-6aa2-4823-b623-f411186bc6a3	Solid Tissue Normal						B						TCGA-AB-2829-11B		
+TCGA-AB-2829-11C	11					NO	3cfca5bb-b7cc-4582-aa6a-62e7fb6c32c1	Solid Tissue Normal						C						TCGA-AB-2829-11C		
+TCGA-AB-2829-11A	11					NO	92df840a-89fc-4a0b-ab1f-8d61440e9dd8	Solid Tissue Normal						A						TCGA-AB-2829-11A		
+TCGA-AB-2843-03A	03					NO	dd06fd74-08c3-4eb4-8f02-f277028768c0	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2843-03A		
+TCGA-AB-2843-03C	03					NO	22eb5b1e-f2b7-4dbe-80b5-5736637677c2	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2843-03C		
+TCGA-AB-2843-03B	03					NO	c9565237-cde8-4cf2-84b0-5950656d9c5a	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2843-03B		
+TCGA-AB-2988-03C	03					NO	bb6a81df-af98-46eb-bd6f-775e598ab846	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2988-03C		
+TCGA-AB-2843-03D	03					NO	71d01c09-784f-4cb6-8c01-fc3d8cb064b7	Primary Blood Derived Cancer - Peripheral Blood						D						TCGA-AB-2843-03D		
+TCGA-AB-2864-03B	03					NO	9c766e50-0f3b-449a-afba-bbc9748e482f	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2864-03B		
+TCGA-AB-2864-03C	03					NO	cf765639-7a1c-4631-927f-e7ddce958b71	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2864-03C		
+TCGA-AB-2979-03B	03					NO	6a238a6c-1f2d-4917-8a3b-5cccabe136d7	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2979-03B		
+TCGA-AB-2979-03A	03					NO	0c692014-1ed0-4429-b119-1d962763cade	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2979-03A		
+TCGA-AB-2851-11C	11					NO	9768eba5-b1e4-4ab7-8089-c29a0b80e2f6	Solid Tissue Normal						C						TCGA-AB-2851-11C		
+TCGA-AB-2837-03A	03					NO	52e39e34-28e1-4a66-9544-c3ba031218ca	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2837-03A		
+TCGA-AB-2837-03B	03					NO	be44ca51-8486-4517-b94d-4fc4a40f8b3b	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2837-03B		
+TCGA-AB-2837-03C	03					NO	fe54fb92-c04d-4e15-b5ef-ff89be9a53e3	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2837-03C		
+TCGA-AB-2816-11A	11					NO	6f69548a-f3d5-45ca-a12e-22316fc8811b	Solid Tissue Normal						A						TCGA-AB-2816-11A		
+TCGA-AB-2816-11B	11					NO	87cf9c70-b2dd-4b85-bc55-0752fcfa1fa3	Solid Tissue Normal						B						TCGA-AB-2816-11B		
+TCGA-AB-2816-11C	11					NO	08c5575a-805e-4152-8e8f-78712906aab8	Solid Tissue Normal						C						TCGA-AB-2816-11C		
+TCGA-AB-2957-03A	03					NO	72d5355a-d280-444f-a301-f16863f12d1f	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2957-03A		
+TCGA-AB-2971-03A	03					NO	3fb0c4ac-78b3-43d6-871b-05d1eb46ca62	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2971-03A		
+TCGA-AB-2828-03B	03					NO	7bed3f79-a79d-4b1d-a2a9-e6248a894d8d	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2828-03B		
+TCGA-AB-2990-11A	11					NO	8c602759-0ea6-46dc-810f-7a5be1491dcb	Solid Tissue Normal						A						TCGA-AB-2990-11A		
+TCGA-AB-2941-03A	03					NO	c176c9e7-0ef6-477e-b541-71947b72ce46	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2941-03A		
+TCGA-AB-2858-03A	03					NO	ad50b9e8-4b7c-4f6b-ae69-5a0d71593c95	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2858-03A		
+TCGA-AB-2858-03C	03					NO	1437c022-ab44-400d-a7aa-7a5085a4459d	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2858-03C		
+TCGA-AB-2858-03B	03					NO	79830c01-5824-435c-ab63-e729541be9c0	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2858-03B		
+TCGA-AB-2858-03D	03					NO	cde3c8b9-d6c2-4bf4-b1fd-14870c2bb38f	Primary Blood Derived Cancer - Peripheral Blood						D						TCGA-AB-2858-03D		
+TCGA-AB-3009-03A	03					NO	197053e3-848f-4d62-aefb-a8e0faa23967	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-3009-03A		
+TCGA-AB-2937-03A	03					NO	800a427d-b5ed-4ce4-805b-c049b174e4e1	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2937-03A		
+TCGA-AB-2890-11A	11					NO	b211204c-dc5a-492b-8add-167e6432327d	Solid Tissue Normal						A						TCGA-AB-2890-11A		
+TCGA-AB-2896-11A	11					NO	1660aea5-0a4c-4d23-8aa1-470e024c1e78	Solid Tissue Normal						A						TCGA-AB-2896-11A		
+TCGA-AB-2893-03A	03					NO	f3e73eba-cc03-4a5a-b1da-d4249fdbcc95	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2893-03A		
+TCGA-AB-2860-03A	03					NO	46639ea7-4ba6-4412-95f5-f93c55f8f551	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2860-03A		
+TCGA-AB-2860-03B	03					NO	1aa1b46f-6265-4636-a862-f08980f6304f	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2860-03B		
+TCGA-AB-2860-03C	03					NO	dbe7c376-5fbd-46e5-a127-11615acd0560	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2860-03C		
+TCGA-AB-2838-03C	03					NO	3d5f8d79-2dc3-4a1d-865e-793960e65edc	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2838-03C		
+TCGA-AB-2838-03B	03					NO	08ea1086-5840-4618-956f-a01a2a6c7b04	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2838-03B		
+TCGA-AB-2838-03A	03					NO	32418f45-43ee-4a15-b355-34312c5fa6bf	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2838-03A		
+TCGA-AB-2830-11A	11					NO	7eecec11-11e5-45e3-a70f-950c2d4a710d	Solid Tissue Normal						A						TCGA-AB-2830-11A		
+TCGA-AB-2830-11B	11					NO	454ab688-5178-4f11-974a-a2d6d2b25b44	Solid Tissue Normal						B						TCGA-AB-2830-11B		
+TCGA-AB-2830-11C	11					NO	ed07fa62-599d-4b08-bb1f-ba22fcd7b779	Solid Tissue Normal						C						TCGA-AB-2830-11C		
+TCGA-AB-2942-11A	11					NO	e18507b1-28a2-4c7d-86f6-8b006e1c35fc	Solid Tissue Normal						A						TCGA-AB-2942-11A		
+TCGA-AB-2886-11A	11					NO	921933f0-49ff-4f43-b82f-f1b0e9102b14	Solid Tissue Normal						A						TCGA-AB-2886-11A		
+TCGA-AB-2931-11A	11					NO	dbc6d89c-a84a-4256-af59-9bacceba1154	Solid Tissue Normal						A						TCGA-AB-2931-11A		
+TCGA-AB-2845-03D	03					NO	50c26ce7-756f-4085-be0d-6d93bffec750	Primary Blood Derived Cancer - Peripheral Blood						D						TCGA-AB-2845-03D		
+TCGA-AB-2845-03C	03					NO	2b26e5e0-7c0a-4f31-ae56-6f21f7b66224	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2845-03C		
+TCGA-AB-2845-03B	03					NO	af0a3046-6869-4439-982a-870bc3b6c131	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2845-03B		
+TCGA-AB-2845-03A	03					NO	9312af9c-b4f2-4f15-8c32-5cd54548d38f	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2845-03A		
+TCGA-AB-2807-03A	03					NO	48554f3d-3db4-49b5-829b-9e5503191da8	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2807-03A		
+TCGA-AB-2807-03C	03					NO	f1e85f1c-99ae-4c51-990e-cb8d4b4dbd23	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2807-03C		
+TCGA-AB-2807-03B	03					NO	e9629a6b-020d-41e1-8ee8-d166618e404b	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2807-03B		
+TCGA-AB-2807-03D	03					NO	a4cddc32-e484-4d72-b639-d9116dc37084	Primary Blood Derived Cancer - Peripheral Blood						D						TCGA-AB-2807-03D		
+TCGA-AB-2872-03A	03					NO	f304fb88-9607-4d12-9840-85ce1265c339	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2872-03A		
+TCGA-AB-2876-11A	11					NO	f1533c35-e783-46d5-ac3a-58dbfe70165b	Solid Tissue Normal						A						TCGA-AB-2876-11A		
+TCGA-AB-2898-03A	03					NO	96d61459-b812-4bb9-8f6b-9fe09dc881cc	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2898-03A		
+TCGA-AB-2854-11B	11					NO	3f3603bd-451f-41cd-8ddd-9ad97f626579	Solid Tissue Normal						B						TCGA-AB-2854-11B		
+TCGA-AB-2854-11C	11					NO	9dccdd36-efa8-460c-bbd4-23de3ee888ee	Solid Tissue Normal						C						TCGA-AB-2854-11C		
+TCGA-AB-2854-11A	11					NO	8d7b928a-e2ee-44d2-a6b0-50077ff9b8e3	Solid Tissue Normal						A						TCGA-AB-2854-11A		
+TCGA-AB-2977-03A	03					NO	87a5e85b-00c3-4eb7-9548-f2b83f6afac3	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2977-03A		
+TCGA-AB-2977-03B	03					NO	ad885e3c-244e-42e7-9189-6d500e91ada6	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2977-03B		
+TCGA-AB-2925-11A	11					NO	8402f2f3-75aa-4ae3-8ed8-2fa32ef9376b	Solid Tissue Normal						A						TCGA-AB-2925-11A		
+TCGA-AB-2833-11C	11					NO	a82395b3-4585-4f5d-9ce5-e5de66da982f	Solid Tissue Normal						C						TCGA-AB-2833-11C		
+TCGA-AB-2819-03A	03					NO	16574e17-3e69-4bd4-a0fc-8d6d4cfe628f	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2819-03A		
+TCGA-AB-2819-03B	03					NO	966c23ac-d3ff-4eb6-88b0-6142259fff18	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2819-03B		
+TCGA-AB-2819-03C	03					NO	37242fef-708c-4ce9-be8c-c2ba8ef9ec06	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2819-03C		
+TCGA-AB-2848-03B	03					NO	e0b114a3-3741-4325-bd61-c9da8e25d3f5	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2848-03B		
+TCGA-AB-2848-03C	03					NO	b0572df6-959d-482b-a2b2-e30e9a6c37f0	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2848-03C		
+TCGA-AB-3005-11A	11					NO	21e9d305-b94a-4978-8097-af7bcaddb7bd	Solid Tissue Normal						A						TCGA-AB-3005-11A		
+TCGA-AB-2848-03A	03					NO	a522aea9-e95f-41b8-b4ef-8164b4f2ed9e	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2848-03A		
+TCGA-AB-2892-03A	03					NO	c5e92d6f-9fb9-4b71-9af3-8a91e33f051a	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2892-03A		
+TCGA-AB-2827-11A	11					NO	81d32a3e-9c6c-457f-a9f0-75c2e117ecfa	Solid Tissue Normal						A						TCGA-AB-2827-11A		
+TCGA-AB-2827-11B	11					NO	acba96e2-1254-4ef7-b027-56b5f1a9c0ab	Solid Tissue Normal						B						TCGA-AB-2827-11B		
+TCGA-AB-2827-11C	11					NO	6a132e5f-a758-45c4-8362-d3b4a409c1cd	Solid Tissue Normal						C						TCGA-AB-2827-11C		
+TCGA-AB-2918-11A	11					NO	0d91e2dd-c35a-4b24-be6e-4e47e6973abb	Solid Tissue Normal						A						TCGA-AB-2918-11A		
+TCGA-AB-2892-11A	11					NO	49a09878-ad33-4d32-adc6-c5bb86e17e1e	Solid Tissue Normal						A						TCGA-AB-2892-11A		
+TCGA-AB-2985-11A	11					NO	d648aabf-377c-4f3c-bed5-7ca9bdb70286	Solid Tissue Normal						A						TCGA-AB-2985-11A		
+TCGA-AB-2980-03A	03					NO	facb0ece-bfea-4bfa-ae42-817e3231a1ab	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2980-03A		
+TCGA-AB-2809-11A	11					NO	192042a4-8335-4508-9b13-4699bff9c979	Solid Tissue Normal						A						TCGA-AB-2809-11A		
+TCGA-AB-2867-11C	11					NO	93dbfdb4-4513-4b49-9270-c52a97288b84	Solid Tissue Normal						C						TCGA-AB-2867-11C		
+TCGA-AB-2809-11B	11					NO	9bf6920c-6921-4770-916e-73961f2ce11f	Solid Tissue Normal						B						TCGA-AB-2809-11B		
+TCGA-AB-2969-11A	11					NO	43e38e03-8b58-48a6-bd58-fbc0f1f80b63	Solid Tissue Normal						A						TCGA-AB-2969-11A		
+TCGA-AB-2809-11C	11					NO	900d5811-01f5-465f-b831-61f1d91e473d	Solid Tissue Normal						C						TCGA-AB-2809-11C		
+TCGA-AB-2828-03A	03					NO	d84fe0b2-f999-4776-ad32-52dbe8fc4332	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2828-03A		
+TCGA-AB-3005-03A	03					NO	d2c577b5-6c67-4a19-add7-fb87fa52523c	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-3005-03A		
+TCGA-AB-2840-03D	03					NO	4de0c5c9-c998-4682-bbc9-f6f1640223e0	Primary Blood Derived Cancer - Peripheral Blood						D						TCGA-AB-2840-03D		
+TCGA-AB-2817-11A	11					NO	eef8875c-8003-437b-8220-5f85cc9c4d80	Solid Tissue Normal						A						TCGA-AB-2817-11A		
+TCGA-AB-2840-03C	03					NO	9cdda04c-cd98-45c5-b81e-0c46d17f84f9	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2840-03C		
+TCGA-AB-2817-11C	11					NO	dd9de80b-790f-4b11-b887-510144071917	Solid Tissue Normal						C						TCGA-AB-2817-11C		
+TCGA-AB-2817-11B	11					NO	96c999dc-fe36-457f-acbf-13a2dd2c367d	Solid Tissue Normal						B						TCGA-AB-2817-11B		
+TCGA-AB-2884-11A	11					NO	389a0676-02a2-4733-ba09-42b12b98f91b	Solid Tissue Normal						A						TCGA-AB-2884-11A		
+TCGA-AB-2987-03A	03					NO	401a0850-b8a9-4fc2-9002-9547cbf5e957	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2987-03A		
+TCGA-AB-2996-11A	11					NO	f7bec33a-238f-4a4f-984a-5f05eed6b268	Solid Tissue Normal						A						TCGA-AB-2996-11A		
+TCGA-AB-2923-03A	03					NO	fc3d2701-95c1-4c8d-b79a-cd03aaac88bf	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2923-03A		
+TCGA-AB-2891-11A	11					NO	2bd32315-3174-41e5-8b49-b50e4ec7b53d	Solid Tissue Normal						A						TCGA-AB-2891-11A		
+TCGA-AB-2915-11A	11					NO	a890a284-4d7b-4412-8f16-dc9c1e4a02ee	Solid Tissue Normal						A						TCGA-AB-2915-11A		
+TCGA-AB-2815-03A	03					NO	979cc789-08f1-4a9c-9759-8ec3fab54e3e	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2815-03A		
+TCGA-AB-2815-03B	03					NO	a687dc2d-e031-418b-a9d3-ea5abcaa90e7	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2815-03B		
+TCGA-AB-2815-03C	03					NO	1e325ad1-ce8f-4542-881a-3e579859372d	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2815-03C		
+TCGA-AB-2906-11A	11					NO	db63dbd9-697c-4caf-94aa-1d4070ac834f	Solid Tissue Normal						A						TCGA-AB-2906-11A		
+TCGA-AB-2943-03A	03					NO	18034fb6-78d9-4a37-a4d3-e9ec0d39285e	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2943-03A		
+TCGA-AB-2986-03A	03					NO	192b8235-8b09-4102-91ce-ddb77a5e0bad	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2986-03A		
+TCGA-AB-2972-03A	03					NO	56f40052-1f82-4e6d-98ab-6e5e132d59a4	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2972-03A		
+TCGA-AB-2913-11A	11					NO	b072b790-ff95-4236-a57a-452607a23692	Solid Tissue Normal						A						TCGA-AB-2913-11A		
+TCGA-AB-3012-03A	03					NO	db8fc9f9-912f-4c9f-935d-34082e6536b2	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-3012-03A		
+TCGA-AB-2879-03A	03					NO	5df8c374-1022-431d-8680-ca0bee17f808	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2879-03A		
+TCGA-AB-2870-11A	11					NO	10fb465c-9376-4dc1-a02c-f654422d5f02	Solid Tissue Normal						A						TCGA-AB-2870-11A		
+TCGA-AB-2862-03B	03					NO	7c8a119e-95ff-4d67-a79a-b397499531d9	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2862-03B		
+TCGA-AB-2862-03C	03					NO	3caf8fbd-40a1-470f-a6c7-5b2e8cebcf04	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2862-03C		
+TCGA-AB-2988-03B	03					NO	79192a7a-fde4-46c5-85e0-b3b913fb74ee	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2988-03B		
+TCGA-AB-2862-03A	03					NO	f9265de8-8827-4311-a780-b04bf91aaf36	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2862-03A		
+TCGA-AB-2929-03A	03					NO	766a4faa-1de8-4cea-b90b-e5040cbf624b	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2929-03A		
+TCGA-AB-2813-11A	11					NO	412cf722-22ae-417d-be3b-e663e2410cdb	Solid Tissue Normal						A						TCGA-AB-2813-11A		
+TCGA-AB-2813-11C	11					NO	eff40791-c514-4260-b6da-d2dc8073e44f	Solid Tissue Normal						C						TCGA-AB-2813-11C		
+TCGA-AB-2813-11B	11					NO	b0cc610b-05d4-4013-9b84-08edd3412c3d	Solid Tissue Normal						B						TCGA-AB-2813-11B		
+TCGA-AB-2903-11A	11					NO	785665b4-f4a3-443e-8bdc-ff32135b1ced	Solid Tissue Normal						A						TCGA-AB-2903-11A		
+TCGA-AB-2811-11C	11					NO	7eb1e6a4-a6cc-4b33-8657-e646a8f46fa7	Solid Tissue Normal						C						TCGA-AB-2811-11C		
+TCGA-AB-2811-11B	11					NO	f052ff0e-ef21-42fb-805d-3a06ee5bd83b	Solid Tissue Normal						B						TCGA-AB-2811-11B		
+TCGA-AB-2811-11A	11					NO	f7d3ebfb-abe5-4823-a064-6ca923f9f1c9	Solid Tissue Normal						A						TCGA-AB-2811-11A		
+TCGA-AB-2993-11A	11					NO	4eead847-4d92-41e0-b238-df2dbbaee9b6	Solid Tissue Normal						A						TCGA-AB-2993-11A		
+TCGA-AB-2996-03A	03					NO	1ec304d2-e533-41a8-9244-84e3937de8fa	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2996-03A		
+TCGA-AB-2823-03C	03					NO	654baf14-5626-46cf-8779-a6a9664abc05	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2823-03C		
+TCGA-AB-2823-03B	03					NO	a9a68e7f-0522-4c2a-b0dc-61b7bbcb210b	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2823-03B		
+TCGA-AB-2823-03A	03					NO	bcd029fe-0687-4e4a-8f69-bad828b6c4ea	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2823-03A		
+TCGA-AB-2999-03B	03					NO	c78ce28d-4014-4525-b171-6c96f45391b0	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2999-03B		
+TCGA-AB-2855-11B	11					NO	ab714511-90c9-42f6-b3bd-dd70c378a20b	Solid Tissue Normal						B						TCGA-AB-2855-11B		
+TCGA-AB-2966-03A	03					NO	dcc4f5cd-032e-4129-92a9-d0a47efd12d5	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2966-03A		
+TCGA-AB-2956-03A	03					NO	238a99f7-9a32-49e1-b8f9-a52435a56be9	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2956-03A		
+TCGA-AB-2924-03A	03					NO	a14e4ca5-5d63-487e-9010-d2c838fb9e74	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2924-03A		
+TCGA-AB-2975-11A	11					NO	b25f1d82-c885-4e27-8992-8a453c30a50a	Solid Tissue Normal						A						TCGA-AB-2975-11A		
+TCGA-AB-2901-03A	03					NO	cf8c9b38-246d-46aa-b557-6c882e438161	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2901-03A		
+TCGA-AB-2885-11A	11					NO	804d8cf5-0617-4467-97e5-41041d7a0eb4	Solid Tissue Normal						A						TCGA-AB-2885-11A		
+TCGA-AB-2899-03A	03					NO	8d098923-a238-4b05-82fa-031bcaac5a2e	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2899-03A		
+TCGA-AB-2880-03A	03					NO	7c7ba487-c0f2-40a9-8781-b351405636a2	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2880-03A		
+TCGA-AB-3006-11A	11					NO	f64167d5-89c9-4123-9ce1-dc84ed06a5a2	Solid Tissue Normal						A						TCGA-AB-3006-11A		
+TCGA-AB-2877-11A	11					NO	94f2db62-976c-4dc9-9cfb-8d592c4424a7	Solid Tissue Normal						A						TCGA-AB-2877-11A		
+TCGA-AB-2827-03C	03					NO	6e98d346-0974-40e7-8682-0f5aab64c92d	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2827-03C		
+TCGA-AB-2827-03B	03					NO	0de65873-60b9-4209-a47e-5bc27ae59728	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2827-03B		
+TCGA-AB-2827-03A	03					NO	ce5b81ba-d2c1-4988-8f50-c668400fad51	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2827-03A		
+TCGA-AB-2894-11A	11					NO	7d12ccf6-9953-4de4-b815-39bc064e3b7e	Solid Tissue Normal						A						TCGA-AB-2894-11A		
+TCGA-AB-2855-03A	03					NO	a59c1856-6cc4-44e4-a3da-feab21041ff1	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2855-03A		
+TCGA-AB-2855-03B	03					NO	ff68d480-f859-46ee-9ee6-95cb9e911779	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2855-03B		
+TCGA-AB-2855-03C	03					NO	3a2c37fd-846f-4b4e-a689-f42272bc8b47	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2855-03C		
+TCGA-AB-2955-11A	11					NO	6ed31d32-c62b-4b2c-b9f2-93079e66e7ea	Solid Tissue Normal						A						TCGA-AB-2955-11A		
+TCGA-AB-2908-11A	11					NO	a9d9cc4d-0e96-4e44-879a-4b4d53ca8ee9	Solid Tissue Normal						A						TCGA-AB-2908-11A		
+TCGA-AB-2866-11A	11					NO	fee82887-18fd-4f39-ac09-00e1cb8c6ec3	Solid Tissue Normal						A						TCGA-AB-2866-11A		
+TCGA-AB-2866-11C	11					NO	1bdf1ac4-3052-427a-846f-6e2b76b9a710	Solid Tissue Normal						C						TCGA-AB-2866-11C		
+TCGA-AB-2866-11B	11					NO	6ed3b526-9901-4751-af6a-df221c84a160	Solid Tissue Normal						B						TCGA-AB-2866-11B		
+TCGA-AB-2997-11A	11					NO	e3600348-0cac-4731-8ef2-41983573a5c0	Solid Tissue Normal						A						TCGA-AB-2997-11A		
+TCGA-AB-2853-03A	03					NO	5725982c-e9a8-40ba-921d-0e8f00f5d33a	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2853-03A		
+TCGA-AB-2874-11A	11					NO	60570e65-ff95-4c04-b23e-98d797ba0fe6	Solid Tissue Normal						A						TCGA-AB-2874-11A		
+TCGA-AB-2840-11A	11					NO	6b2f29cc-458e-4d9b-9916-5ae70e370490	Solid Tissue Normal						A						TCGA-AB-2840-11A		
+TCGA-AB-2875-11A	11					NO	6f1d7962-945c-4e6c-a455-ad667844b891	Solid Tissue Normal						A						TCGA-AB-2875-11A		
+TCGA-AB-2853-11D	11					NO	4f79797d-1f1d-4c03-a48e-63065ac61b0a	Solid Tissue Normal						D						TCGA-AB-2853-11D		
+TCGA-AB-2853-11A	11					NO	1a8a806b-ae56-4886-ac50-aa6e8b0e3370	Solid Tissue Normal						A						TCGA-AB-2853-11A		
+TCGA-AB-2821-11C	11					NO	ca28dc98-7422-4799-beab-783cf266dde5	Solid Tissue Normal						C						TCGA-AB-2821-11C		
+TCGA-AB-2821-11A	11					NO	4209d3ce-69da-4798-9b4a-1984f6c26cb4	Solid Tissue Normal						A						TCGA-AB-2821-11A		
+TCGA-AB-2982-11A	11					NO	90495dbc-d405-42bd-b0c7-837e54d6be6f	Solid Tissue Normal						A						TCGA-AB-2982-11A		
+TCGA-AB-2912-11A	11					NO	0eeb0485-d990-4f35-8227-df48cb8c47f7	Solid Tissue Normal						A						TCGA-AB-2912-11A		
+TCGA-AB-2963-03A	03					NO	fa7146a0-d6a0-4465-a9e3-662b177eb02c	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2963-03A		
+TCGA-AB-2999-11A	11					NO	975b1f0a-0528-438b-a78a-58defbb54dd8	Solid Tissue Normal						A						TCGA-AB-2999-11A		
+TCGA-AB-2890-03A	03					NO	cc415f8e-8514-497b-a669-b2c020de161a	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2890-03A		
+TCGA-AB-2812-11A	11					NO	1a6bb745-f1b9-492d-bd58-269505d7840d	Solid Tissue Normal						A						TCGA-AB-2812-11A		
+TCGA-AB-2812-11B	11					NO	9b6a73c0-2635-4d79-8eb7-094ae0e3d4c9	Solid Tissue Normal						B						TCGA-AB-2812-11B		
+TCGA-AB-2812-11C	11					NO	8ff8394e-009e-453f-8263-52ba72f7137b	Solid Tissue Normal						C						TCGA-AB-2812-11C		
+TCGA-AB-2983-03A	03					NO	edce86c4-62ed-4744-a50b-97acb4eee60c	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2983-03A		
+TCGA-AB-2835-11A	11					NO	be61bd26-089b-49f1-b553-83ace14d1fbf	Solid Tissue Normal						A						TCGA-AB-2835-11A		
+TCGA-AB-2994-11A	11					NO	03799dd1-ca4d-4aba-be46-8dfdfa2f9b14	Solid Tissue Normal						A						TCGA-AB-2994-11A		
+TCGA-AB-2835-11B	11					NO	bc81518b-77f9-4328-a1ec-b102d6ff8b2b	Solid Tissue Normal						B						TCGA-AB-2835-11B		
+TCGA-AB-2859-03A	03					NO	a96b999f-1bfc-4348-995d-e34571252651	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2859-03A		
+TCGA-AB-2859-03B	03					NO	285a286f-3a1e-445e-9f76-fb80d5dfd670	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2859-03B		
+TCGA-AB-3002-11A	11					NO	6803ae4e-0176-466a-a05e-e0e75e648ae3	Solid Tissue Normal						A						TCGA-AB-3002-11A		
+TCGA-AB-2947-03A	03					NO	bfac1e1a-1e1f-4b06-9f46-09d245bf524e	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2947-03A		
+TCGA-AB-2835-03B	03					NO	6e4e587c-dd50-4a78-bd79-07f87a5406da	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2835-03B		
+TCGA-AB-2835-03C	03					NO	4facf2dc-7308-4f74-bafb-254de78ccf60	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2835-03C		
+TCGA-AB-2804-11C	11					NO	5582a7f6-d329-4dd3-8f7e-54453c8abb72	Solid Tissue Normal						C						TCGA-AB-2804-11C		
+TCGA-AB-2835-03A	03					NO	aa3da34a-ef42-41c5-bd32-d43b31b8f511	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2835-03A		
+TCGA-AB-2982-03A	03					NO	f85c74c6-d7ea-4c0c-9cea-267e5e65cff8	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2982-03A		
+TCGA-AB-2879-11A	11					NO	89a325d6-16a0-4664-babb-e75519afb27d	Solid Tissue Normal						A						TCGA-AB-2879-11A		
+TCGA-AB-2840-11B	11					NO	47609244-3636-4713-aa8a-5fcac98f9fdd	Solid Tissue Normal						B						TCGA-AB-2840-11B		
+TCGA-AB-2936-03A	03					NO	b89de3cc-6c93-4612-addb-e9ff18b1b30d	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2936-03A		
+TCGA-AB-3008-03A	03					NO	8c783e13-d589-4489-b3a6-8d4f4c4d514f	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-3008-03A		
+TCGA-AB-2982-03B	03					NO	40bf710e-7490-44a0-852e-1e3187a55643	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2982-03B		
+TCGA-AB-2803-11B	11					NO	7c098472-109b-45a9-b400-486128310d31	Solid Tissue Normal						B						TCGA-AB-2803-11B		
+TCGA-AB-2825-03D	03					NO	5253a978-efb6-4245-a54f-c4543f97fb59	Primary Blood Derived Cancer - Peripheral Blood						D						TCGA-AB-2825-03D		
+TCGA-AB-2803-11A	11					NO	8d5e43ee-6491-4a32-b5c2-a1a23ae63d1f	Solid Tissue Normal						A						TCGA-AB-2803-11A		
+TCGA-AB-2825-03A	03					NO	b12c9767-0395-4f3a-803e-f655afcdf2e5	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2825-03A		
+TCGA-AB-2939-03A	03					NO	8bfe0a0f-e337-4b9a-b4e5-5efe9cb3e32d	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2939-03A		
+TCGA-AB-2825-03C	03					NO	34f90c35-869a-49f1-9228-955ef635807a	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2825-03C		
+TCGA-AB-2825-03B	03					NO	2655f1a9-6c1e-41fe-8a7b-46c611547eea	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2825-03B		
+TCGA-AB-2916-11A	11					NO	163f2303-9135-4a48-ab30-fa1c7690f655	Solid Tissue Normal						A						TCGA-AB-2916-11A		
+TCGA-AB-2932-03A	03					NO	844cc61c-add9-4d64-83a3-6953adb1b57c	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2932-03A		
+TCGA-AB-2914-11A	11					NO	837584a9-11fe-44d0-957e-834b2514d199	Solid Tissue Normal						A						TCGA-AB-2914-11A		
+TCGA-AB-2836-03A	03					NO	ce6a7bca-67d9-4a5b-ae05-724e57ad0577	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2836-03A		
+TCGA-AB-2836-03C	03					NO	af8d8054-7648-4690-8eb3-44fed2f2bd73	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2836-03C		
+TCGA-AB-2836-03B	03					NO	33ced6a8-504a-4435-83a3-bd11d52cb648	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2836-03B		
+TCGA-AB-2873-11A	11					NO	61c9c741-5c02-4bee-a848-526241ca181c	Solid Tissue Normal						A						TCGA-AB-2873-11A		
+TCGA-AB-2864-03D	03					NO	15abdcca-fd77-467d-a43a-db771517336b	Primary Blood Derived Cancer - Peripheral Blood						D						TCGA-AB-2864-03D		
+TCGA-AB-2842-11C	11					NO	57239c64-a9dd-46d0-9227-3ee8ce6e2bef	Solid Tissue Normal						C						TCGA-AB-2842-11C		
+TCGA-AB-2842-11B	11					NO	5e7f25eb-a189-4d19-83af-9d9b10597aa4	Solid Tissue Normal						B						TCGA-AB-2842-11B		
+TCGA-AB-2842-11A	11					NO	046d00b4-6f26-4453-bf78-c1646d3fe70c	Solid Tissue Normal						A						TCGA-AB-2842-11A		
+TCGA-AB-2828-03C	03					NO	a78a2396-9647-4ba5-8160-07f33023905c	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2828-03C		
+TCGA-AB-2805-11A	11					NO	48f6a10c-0454-465f-b23d-9acae2937f0d	Solid Tissue Normal						A						TCGA-AB-2805-11A		
+TCGA-AB-2805-11B	11					NO	c760ade5-9bf6-4364-adba-145dae740ebc	Solid Tissue Normal						B						TCGA-AB-2805-11B		
+TCGA-AB-2805-11C	11					NO	149eabe7-8428-4025-a09c-b0a0f87fa092	Solid Tissue Normal						C						TCGA-AB-2805-11C		
+TCGA-AB-3001-11A	11					NO	eff27f69-4c8d-4813-af99-b4b2aa9fecc4	Solid Tissue Normal						A						TCGA-AB-3001-11A		
+TCGA-AB-2858-11B	11					NO	a333dd51-a587-4e78-b2d1-f6a2d9d8aae7	Solid Tissue Normal						B						TCGA-AB-2858-11B		
+TCGA-AB-2867-11A	11					NO	154d07b3-4f5b-4ecf-b6f0-c0e6e45d6337	Solid Tissue Normal						A						TCGA-AB-2867-11A		
+TCGA-AB-2867-11B	11					NO	c654236a-ccb0-441d-a577-130ff01c21e1	Solid Tissue Normal						B						TCGA-AB-2867-11B		
+TCGA-AB-2864-03A	03					NO	d87686e2-64bf-4039-812e-e815270fdd34	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2864-03A		
+TCGA-AB-2968-03A	03					NO	258135e2-f09f-4d8a-aed1-2f331109fb16	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2968-03A		
+TCGA-AB-2984-03A	03					NO	bd27e567-768f-4a37-b401-4330849b28b6	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2984-03A		
+TCGA-AB-2988-03A	03					NO	a1a2b655-97d5-490f-8d2a-874d4da7dabb	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2988-03A		
+TCGA-AB-2857-03B	03					NO	b4f026dd-c68e-4883-a924-7b1713d4578d	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2857-03B		
+TCGA-AB-2857-03C	03					NO	c47aef0a-2f65-4e99-b5be-18f040da9f2b	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2857-03C		
+TCGA-AB-2857-03A	03					NO	ebb8c424-de41-4543-a599-ec01559530c5	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2857-03A		
+TCGA-AB-3007-03A	03					NO	f1ffc6d2-cb72-4139-b1b6-1f37a702b879	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-3007-03A		
+TCGA-AB-2802-11C	11					NO	8224577d-24cd-4b60-bfd1-caef4ed04923	Solid Tissue Normal						C						TCGA-AB-2802-11C		
+TCGA-AB-2802-11B	11					NO	65773509-18b5-4028-a39e-370290c564de	Solid Tissue Normal						B						TCGA-AB-2802-11B		
+TCGA-AB-2802-11A	11					NO	264a8f98-8097-4cc7-ae7c-9aea69d5c0ee	Solid Tissue Normal						A						TCGA-AB-2802-11A		
+TCGA-AB-2802-11D	11					NO	7bb3fa72-76dd-4648-88e0-7707214a426e	Solid Tissue Normal						D						TCGA-AB-2802-11D		
+TCGA-AB-2816-03C	03					NO	f25cb818-9aeb-4181-8420-1f639de0c5eb	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2816-03C		
+TCGA-AB-2816-03B	03					NO	8ae93dfc-8ba5-4d46-ae95-f3459232a7f9	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2816-03B		
+TCGA-AB-2816-03A	03					NO	f3340605-0c44-4f86-9611-06ac92101f85	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2816-03A		
+TCGA-AB-2908-03A	03					NO	28f770a2-5d22-4361-8614-926208c60afd	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2908-03A		
+TCGA-AB-2991-11A	11					NO	d137afa1-a0d9-4b75-83a9-22faf6876c4c	Solid Tissue Normal						A						TCGA-AB-2991-11A		
+TCGA-AB-2900-11A	11					NO	7f387c41-f3be-4c26-bc1d-8d6a0af6c1b6	Solid Tissue Normal						A						TCGA-AB-2900-11A		
+TCGA-AB-2851-11B	11					NO	b20cdbcb-9cdf-40f1-8897-d92658aaf210	Solid Tissue Normal						B						TCGA-AB-2851-11B		
+TCGA-AB-2865-03A	03					NO	27700376-1670-4271-978e-d6e483c91a67	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2865-03A		
+TCGA-AB-2941-11A	11					NO	c1aeabe3-4e60-4eca-b507-42a886fe007e	Solid Tissue Normal						A						TCGA-AB-2941-11A		
+TCGA-AB-2851-11A	11					NO	0ed3bfc0-30d2-44a6-ac55-24c9f9455efa	Solid Tissue Normal						A						TCGA-AB-2851-11A		
+TCGA-AB-2889-03A	03					NO	1559866c-c7c6-4595-b5c5-559b7156ea9f	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2889-03A		
+TCGA-AB-2830-03C	03					NO	1b336897-be4b-4ec1-a72c-c8cd8610bff5	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2830-03C		
+TCGA-AB-2830-03B	03					NO	77e9e2d2-ee77-4d39-9ab4-6a8dd54a9d35	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2830-03B		
+TCGA-AB-2830-03A	03					NO	589fdd3f-10b8-42e1-a4e9-826b533a3b2d	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2830-03A		
+TCGA-AB-2865-03B	03					NO	f79057e5-bde1-4d1b-b7b3-457af5ef74e5	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2865-03B		
+TCGA-AB-2833-03B	03					NO	fa61105e-3b44-46e5-b1a0-bb33fe470c7f	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2833-03B		
+TCGA-AB-2819-11A	11					NO	36cd1aac-f4ff-489e-ad54-12cec92b1033	Solid Tissue Normal						A						TCGA-AB-2819-11A		
+TCGA-AB-2861-11B	11					NO	de6305c3-2fd8-4fed-a465-b56474335cda	Solid Tissue Normal						B						TCGA-AB-2861-11B		
+TCGA-AB-2861-11C	11					NO	e3631f81-139b-4239-9067-217bcd13a91e	Solid Tissue Normal						C						TCGA-AB-2861-11C		
+TCGA-AB-2865-03C	03					NO	b2ad835b-3fbf-4bcb-8235-4a4fd475a579	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2865-03C		
+TCGA-AB-2861-11A	11					NO	f3367856-c882-4dd0-be37-04a143fd8332	Solid Tissue Normal						A						TCGA-AB-2861-11A		
+TCGA-AB-2847-11B	11					NO	16ef1d0d-0a5b-4c9a-b6b1-d42a50a9df6a	Solid Tissue Normal						B						TCGA-AB-2847-11B		
+TCGA-AB-2847-11C	11					NO	8183efe4-63da-425e-83a5-5ecfe2dfdce2	Solid Tissue Normal						C						TCGA-AB-2847-11C		
+TCGA-AB-2847-11A	11					NO	c625653c-ef23-4208-ae11-619e08484b54	Solid Tissue Normal						A						TCGA-AB-2847-11A		
+TCGA-AB-2847-11D	11					NO	30fe5c6e-ff53-487d-8ece-d919bf51cfd8	Solid Tissue Normal						D						TCGA-AB-2847-11D		
+TCGA-AB-2919-03A	03					NO	9038ce9f-3305-40da-b3ae-4324f0e88c41	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2919-03A		
+TCGA-AB-2945-11A	11					NO	c0115564-100c-49b4-a701-43b47107659b	Solid Tissue Normal						A						TCGA-AB-2945-11A		
+TCGA-AB-2896-03B	03					NO	13c0b543-ebc0-48d7-9615-2eae74dea806	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2896-03B		
+TCGA-AB-2896-03A	03					NO	84947e22-3cf7-4884-8c11-11738bd0f0c2	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2896-03A		
+TCGA-AB-2995-03A	03					NO	a9ce5c16-9d28-4211-bac5-d1f6106f22fa	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2995-03A		
+TCGA-AB-2934-03A	03					NO	eb6264dc-bdca-4b78-80ea-4d7a4a74fdf7	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2934-03A		
+TCGA-AB-2917-11A	11					NO	f12c71b5-eb59-4edf-870d-c38412fc61a6	Solid Tissue Normal						A						TCGA-AB-2917-11A		
+TCGA-AB-2939-11A	11					NO	28fba7d1-f098-4214-94f8-1f71f4680e1e	Solid Tissue Normal						A						TCGA-AB-2939-11A		
+TCGA-AB-2928-11A	11					NO	aeb95f88-715d-43d9-8cd8-1a64b00d072b	Solid Tissue Normal						A						TCGA-AB-2928-11A		
+TCGA-AB-2863-11A	11					NO	a801347a-ee0c-4cb4-a1f8-1e5b3c3f3d46	Solid Tissue Normal						A						TCGA-AB-2863-11A		
+TCGA-AB-2863-11B	11					NO	a8632563-ad9c-45f7-9722-3c6f7ddd69d2	Solid Tissue Normal						B						TCGA-AB-2863-11B		
+TCGA-AB-2863-11D	11					NO	b6e68da7-dd0c-41f7-aee4-8440fd34b065	Solid Tissue Normal						D						TCGA-AB-2863-11D		
+TCGA-AB-2841-11A	11					NO	af7a3359-e1b4-45eb-a438-cfb22c04d171	Solid Tissue Normal						A						TCGA-AB-2841-11A		
+TCGA-AB-2841-11B	11					NO	48df5e23-4d57-40a5-ae3d-7be11b51ebbc	Solid Tissue Normal						B						TCGA-AB-2841-11B		
+TCGA-AB-2841-11C	11					NO	e630614f-110a-4765-b63e-18a1a6321ac9	Solid Tissue Normal						C						TCGA-AB-2841-11C		
+TCGA-AB-2981-03B	03					NO	a11fbb93-426c-4178-b8a7-ba1d185c66b9	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2981-03B		
+TCGA-AB-2981-03C	03					NO	4b3b7fcd-1a66-4efb-a1bb-2fe0076a9335	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2981-03C		
+TCGA-AB-2981-03A	03					NO	324efa3e-4cca-4748-a895-b40339de154b	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2981-03A		
+TCGA-AB-2862-11A	11					NO	a1cef3e3-d1e0-4127-9f7a-057a882729f7	Solid Tissue Normal						A						TCGA-AB-2862-11A		
+TCGA-AB-2840-11D	11					NO	c4522570-941b-49bb-b533-efb23db35e5f	Solid Tissue Normal						D						TCGA-AB-2840-11D		
+TCGA-AB-2814-11D	11					NO	4d74df47-f638-49c9-987f-755bd99f5d46	Solid Tissue Normal						D						TCGA-AB-2814-11D		
+TCGA-AB-2862-11B	11					NO	961f2ce3-5475-4c01-aa32-33e1b12cc944	Solid Tissue Normal						B						TCGA-AB-2862-11B		
+TCGA-AB-2818-03A	03					NO	9680835d-8c83-4ef4-a850-f7a37c821112	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2818-03A		
+TCGA-AB-2814-11C	11					NO	3fee0787-d267-45ea-9bd6-cd6239c763dd	Solid Tissue Normal						C						TCGA-AB-2814-11C		
+TCGA-AB-2818-03C	03					NO	ee71c3cd-bf09-4aba-afba-a1fcba803d2f	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2818-03C		
+TCGA-AB-2818-03B	03					NO	9535e55a-9ac6-451f-be4a-aec5a03b1b2e	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2818-03B		
+TCGA-AB-2848-11A	11					NO	a08c5eab-d7e3-44ac-9c3c-6ab6eae888ab	Solid Tissue Normal						A						TCGA-AB-2848-11A		
+TCGA-AB-2910-11A	11					NO	9b031a76-39f5-49e6-a3d6-74a10ef3eab9	Solid Tissue Normal						A						TCGA-AB-2910-11A		
+TCGA-AB-2848-11C	11					NO	c26ee1f8-fd57-42ea-b089-b231463fbaad	Solid Tissue Normal						C						TCGA-AB-2848-11C		
+TCGA-AB-2848-11B	11					NO	7f27d17f-3ce9-4af8-a961-c9d8756c681b	Solid Tissue Normal						B						TCGA-AB-2848-11B		
+TCGA-AB-2967-11A	11					NO	56035ace-10ba-4bef-ab7f-38c3cfca3a64	Solid Tissue Normal						A						TCGA-AB-2967-11A		
+TCGA-AB-2869-11A	11					NO	65ee975c-ca75-494c-8d8f-9388abd8e9db	Solid Tissue Normal						A						TCGA-AB-2869-11A		
+TCGA-AB-2883-03A	03					NO	20ade1f7-a136-442a-b668-4520d8479dfa	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2883-03A		
+TCGA-AB-2839-03B	03					NO	ccf7007a-b641-4ecd-83fc-38ff76b8add7	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2839-03B		
+TCGA-AB-2839-03C	03					NO	5438a66d-a97c-4ab4-ba18-af1f45ceaa6b	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2839-03C		
+TCGA-AB-2839-03A	03					NO	1f0df35f-0d76-455c-bdbc-7918103d5900	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2839-03A		
+TCGA-AB-2907-11A	11					NO	0799189e-3ed8-42e0-8771-f9d1797f3184	Solid Tissue Normal						A						TCGA-AB-2907-11A		
+TCGA-AB-2868-03A	03					NO	b33e94a5-23c1-4da2-a631-ba6e0fa9b0e6	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2868-03A		
+TCGA-AB-2868-03B	03					NO	6572e360-0dec-448e-9c34-ac11f5e24cee	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2868-03B		
+TCGA-AB-2868-03C	03					NO	e1b84f52-dc6d-4e2d-adbf-6cee4b9cf770	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2868-03C		
+TCGA-AB-2974-11A	11					NO	a4c17541-6f15-4cf2-b204-5770ec91e6c9	Solid Tissue Normal						A						TCGA-AB-2974-11A		
+TCGA-AB-2920-11A	11					NO	a2e9e462-ba7d-42ab-ae2b-03e856291fbf	Solid Tissue Normal						A						TCGA-AB-2920-11A		
+TCGA-AB-2820-11C	11					NO	9aa165c2-45fa-438b-9b26-1d8839c9cbd1	Solid Tissue Normal						C						TCGA-AB-2820-11C		
+TCGA-AB-2806-03A	03					NO	5d38caaa-9101-4abf-beda-187addb90018	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2806-03A		
+TCGA-AB-2806-03B	03					NO	38d39fdc-a546-4493-adff-275f40875306	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2806-03B		
+TCGA-AB-2911-03A	03					NO	11fa9446-9630-4981-8ff2-3fa4021001c4	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2911-03A		
+TCGA-AB-2850-11B	11					NO	4c56cfea-10af-4bb6-ba73-102524ee1995	Solid Tissue Normal						B						TCGA-AB-2850-11B		
+TCGA-AB-2850-11C	11					NO	c42373be-88b9-4d45-b850-b690a28f60c2	Solid Tissue Normal						C						TCGA-AB-2850-11C		
+TCGA-AB-2850-11A	11					NO	c1891d45-fcb2-423b-8313-61b3421c0bb5	Solid Tissue Normal						A						TCGA-AB-2850-11A		
+TCGA-AB-2973-03A	03					NO	f5a6b358-4924-4ee2-8687-363900a008e8	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2973-03A		
+TCGA-AB-2954-03A	03					NO	60013f80-ce3f-43c3-8319-95639580fb2a	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2954-03A		
+TCGA-AB-2907-03A	03					NO	41e0dac3-a015-4ab8-b10b-c7ea6c744bed	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2907-03A		
+TCGA-AB-2849-11A	11					NO	9d4f565c-4183-41d5-9af0-4a6935bd4f61	Solid Tissue Normal						A						TCGA-AB-2849-11A		
+TCGA-AB-2849-11B	11					NO	3a196ce6-5392-48c1-a61a-eb607c1b9d0f	Solid Tissue Normal						B						TCGA-AB-2849-11B		
+TCGA-AB-2849-11C	11					NO	74de47df-2d5b-4393-8af7-9de446029c1c	Solid Tissue Normal						C						TCGA-AB-2849-11C		
+TCGA-AB-2949-03B	03					NO	cf665590-0db3-422b-907b-8d9c562db521	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2949-03B		
+TCGA-AB-2949-03A	03					NO	ebaa5c6c-a879-416a-a8ed-7ef826deea44	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2949-03A		
+TCGA-AB-2940-11A	11					NO	bb77dc0e-8032-4460-b38d-4cfda249bf74	Solid Tissue Normal						A						TCGA-AB-2940-11A		
+TCGA-AB-2952-03B	03					NO	cef4ecb4-bd16-46dd-8719-a8e921abcda1	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2952-03B		
+TCGA-AB-2952-03A	03					NO	fdc2ed03-4ca8-432e-9b26-6b92049fa8c8	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2952-03A		
+TCGA-AB-2810-03A	03					NO	32bcebc5-8326-4552-8d12-a8d646f68c1e	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2810-03A		
+TCGA-AB-2810-03C	03					NO	b7dbafe8-c495-4ca1-8825-21243ec8ccdb	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2810-03C		
+TCGA-AB-2810-03B	03					NO	1e45bf96-0007-457d-a9e5-23efbe6a5c2e	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2810-03B		
+TCGA-AB-2923-11A	11					NO	585faaa7-3133-4188-ba09-178b4ff8e87e	Solid Tissue Normal						A						TCGA-AB-2923-11A		
+TCGA-AB-2824-03A	03					NO	29113706-6ea5-4586-a644-00c8acab444b	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2824-03A		
+TCGA-AB-2824-03B	03					NO	a1ea91f8-9a80-44dd-bb05-b404c1a8ebea	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2824-03B		
+TCGA-AB-2824-03C	03					NO	cea4af87-9f8c-49a6-b181-a2f819a2f218	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2824-03C		
+TCGA-AB-2829-03A	03					NO	290d04ec-7cf3-49d9-800c-eadf3bd33d89	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2829-03A		
+TCGA-AB-2829-03C	03					NO	69f24f85-a703-4d2c-8055-0f141d80f446	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2829-03C		
+TCGA-AB-2829-03B	03					NO	abb52e0f-111c-4208-ad40-22f86e7daf39	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2829-03B		
+TCGA-AB-2864-11C	11					NO	ecfb3d6a-5cf7-4659-bfea-9ff2faa4128c	Solid Tissue Normal						C						TCGA-AB-2864-11C		
+TCGA-AB-2864-11B	11					NO	26267f70-40dd-4433-9f99-ea0ca6546611	Solid Tissue Normal						B						TCGA-AB-2864-11B		
+TCGA-AB-2864-11A	11					NO	349bb170-1237-4861-91d1-14395c8c4373	Solid Tissue Normal						A						TCGA-AB-2864-11A		
+TCGA-AB-2997-03B	03					NO	1f54bc7e-7ec9-43e5-8f7d-ca7683c929b2	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2997-03B		
+TCGA-AB-2913-03A	03					NO	72e5d0ce-4c20-4c76-85d9-74c55217131c	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2913-03A		
+TCGA-AB-2837-11C	11					NO	bb9e3253-4d8e-42b0-a6f7-30667f92e446	Solid Tissue Normal						C						TCGA-AB-2837-11C		
+TCGA-AB-2837-11B	11					NO	c663e6a6-97a5-4026-a45a-6840a14b6e08	Solid Tissue Normal						B						TCGA-AB-2837-11B		
+TCGA-AB-2837-11A	11					NO	d7b7b6b2-7208-4a18-9eb0-4541263f2688	Solid Tissue Normal						A						TCGA-AB-2837-11A		
+TCGA-AB-2893-11A	11					NO	69b8f0fc-8a90-4211-95cc-5da2c824d919	Solid Tissue Normal						A						TCGA-AB-2893-11A		
+TCGA-AB-2870-03A	03					NO	bcc12fff-1ddf-4e81-931b-729896a26a6e	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2870-03A		
+TCGA-AB-2895-03A	03					NO	e83e72f5-742b-4906-a0eb-9672a519c241	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2895-03A		
+TCGA-AB-2975-03A	03					NO	bc1b4410-07a6-4b5d-b8e9-78a6a171905e	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2975-03A		
+TCGA-AB-2901-11A	11					NO	c404dcfb-e580-4cf2-8fe6-6990ce2ce03a	Solid Tissue Normal						A						TCGA-AB-2901-11A		
+TCGA-AB-2885-03A	03					NO	b08069f3-c76f-4f2d-9455-16206498a2c9	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2885-03A		
+TCGA-AB-2808-03B	03					NO	d9e7b62a-3fea-4ae2-ab27-85688d73cb1b	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2808-03B		
+TCGA-AB-2808-03C	03					NO	052daa75-52ea-4ee9-8fe2-cbb9ada3ce28	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2808-03C		
+TCGA-AB-3009-11A	11					NO	ca163ac7-6d69-4f4f-8ca1-6a9eb86d8bc6	Solid Tissue Normal						A						TCGA-AB-3009-11A		
+TCGA-AB-2808-03A	03					NO	ced2bd3f-250b-41b7-b809-bf35b7b27c55	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2808-03A		
+TCGA-AB-2976-11A	11					NO	fbef78ad-08da-4a88-9765-0fedcbc33f4a	Solid Tissue Normal						A						TCGA-AB-2976-11A		
+TCGA-AB-2808-03D	03					NO	2bef39b3-8346-43d2-9571-24dba2f89038	Primary Blood Derived Cancer - Peripheral Blood						D						TCGA-AB-2808-03D		
+TCGA-AB-2942-03A	03					NO	bd53c653-834c-42a2-b333-1bb64db23bce	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2942-03A		
+TCGA-AB-2946-11A	11					NO	ae62661f-ba0a-4b8a-9154-f6665eb9022b	Solid Tissue Normal						A						TCGA-AB-2946-11A		
+TCGA-AB-2878-11A	11					NO	a5edfbf6-d3aa-47ef-96d6-b60fb03ae8af	Solid Tissue Normal						A						TCGA-AB-2878-11A		
+TCGA-AB-2912-03A	03					NO	be372a54-774b-41a1-9a54-b1f0d921b171	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2912-03A		
+TCGA-AB-2964-11A	11					NO	5c6071c8-4ced-453d-a8d2-c190f56fa18f	Solid Tissue Normal						A						TCGA-AB-2964-11A		
+TCGA-AB-2860-11C	11					NO	a9d9983a-2b7b-4139-849d-32905f147c07	Solid Tissue Normal						C						TCGA-AB-2860-11C		
+TCGA-AB-2860-11B	11					NO	490f4c40-f063-4e57-bd9f-0859094cc1aa	Solid Tissue Normal						B						TCGA-AB-2860-11B		
+TCGA-AB-2860-11A	11					NO	3751f018-a2b1-4253-93a4-5467309a31ba	Solid Tissue Normal						A						TCGA-AB-2860-11A		
+TCGA-AB-2812-03C	03					NO	0c84a720-f030-49b7-a934-ccac545e106c	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2812-03C		
+TCGA-AB-2812-03B	03					NO	afa6c6ac-37fd-43ec-8652-1d5653a7a75c	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2812-03B		
+TCGA-AB-2812-03A	03					NO	501e697c-3b3f-40fd-ac8c-458af0edbc7a	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2812-03A		
+TCGA-AB-2887-11A	11					NO	3f1e89ba-8107-4d02-8456-c46560168c42	Solid Tissue Normal						A						TCGA-AB-2887-11A		
+TCGA-AB-2846-03A	03					NO	c74efdc4-b1e2-4625-8d6c-659440266b0a	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2846-03A		
+TCGA-AB-2846-03B	03					NO	4faf7a23-f593-4411-a912-35fe7babc837	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2846-03B		
+TCGA-AB-2846-03C	03					NO	5e08cd11-1509-4e6c-b477-4385d46ba895	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2846-03C		
+TCGA-AB-2978-03A	03					NO	37a5c03c-45c2-4096-8712-370ce5ebfbbd	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2978-03A		
+TCGA-AB-2954-11A	11					NO	91c58e0f-2ce2-4690-b8f2-1747b15f402e	Solid Tissue Normal						A						TCGA-AB-2954-11A		
+TCGA-AB-2956-11A	11					NO	9539dd43-4cba-4b28-92e1-2ac23fb1645f	Solid Tissue Normal						A						TCGA-AB-2956-11A		
+TCGA-AB-2874-03A	03					NO	72f52f3d-232b-491e-b581-42e5fe40f389	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2874-03A		
+TCGA-AB-2944-11A	11					NO	7086672a-e6ce-438f-99aa-29232a3346f4	Solid Tissue Normal						A						TCGA-AB-2944-11A		
+TCGA-AB-2880-11A	11					NO	ed5cdc55-7d2c-4521-b3e6-513c6b9ebc60	Solid Tissue Normal						A						TCGA-AB-2880-11A		
+TCGA-AB-2974-03A	03					NO	43b83836-5ff0-4239-88fa-7a5b07fdf5e1	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2974-03A		
+TCGA-AB-2876-03A	03					NO	0d86cd85-fea2-47f2-a9a7-660a09a7462b	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2876-03A		
+TCGA-AB-2948-03A	03					NO	0fd465e9-8533-4b9e-9ad1-6bd653db4ebb	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2948-03A		
+TCGA-AB-2832-11B	11					NO	0600cca9-b243-4d91-a834-2ad2d9b026f8	Solid Tissue Normal						B						TCGA-AB-2832-11B		
+TCGA-AB-2832-11C	11					NO	58b7a6d9-b66d-4012-a341-4d9b524ba800	Solid Tissue Normal						C						TCGA-AB-2832-11C		
+TCGA-AB-2832-11A	11					NO	9711b74d-4949-4bf5-9948-c3258f79d39f	Solid Tissue Normal						A						TCGA-AB-2832-11A		
+TCGA-AB-2854-03A	03					NO	630ad110-1430-4bd3-99a9-82e6c724f7eb	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2854-03A		
+TCGA-AB-2858-11C	11					NO	006381ef-f8ab-4016-8127-abb4e36eb850	Solid Tissue Normal						C						TCGA-AB-2858-11C		
+TCGA-AB-2854-03C	03					NO	6b1cf71f-2981-4e5d-855a-02a8d15596f1	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2854-03C		
+TCGA-AB-2854-03B	03					NO	b1978168-4de7-41a2-babe-0be46648f566	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2854-03B		
+TCGA-AB-2819-11C	11					NO	c53c9ba1-a218-4b14-b704-9fe9a60d98b5	Solid Tissue Normal						C						TCGA-AB-2819-11C		
+TCGA-AB-2819-11B	11					NO	2111babf-06c0-485d-8ada-09314b65882d	Solid Tissue Normal						B						TCGA-AB-2819-11B		
+TCGA-AB-2822-03D	03					NO	2ca1b32a-36b7-4697-b57c-452ff525f686	Primary Blood Derived Cancer - Peripheral Blood						D						TCGA-AB-2822-03D		
+TCGA-AB-2822-03B	03					NO	a7fd2a8a-a3d5-4e6e-8021-f5e8190250e0	Primary Blood Derived Cancer - Peripheral Blood						B						TCGA-AB-2822-03B		
+TCGA-AB-2822-03C	03					NO	9fbc4401-6b99-466e-a83b-0e0e939fb14f	Primary Blood Derived Cancer - Peripheral Blood						C						TCGA-AB-2822-03C		
+TCGA-AB-2822-03A	03					NO	5e781d63-730f-4dfe-8bb1-4996c4aed57d	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2822-03A		
+TCGA-AB-2931-03A	03					NO	83051b5d-d4ae-470b-971e-67578f784638	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2931-03A		
+TCGA-AB-2824-11B	11					NO	899b9a7a-2f9e-4d8a-b196-a98bed968e7a	Solid Tissue Normal						B						TCGA-AB-2824-11B		
+TCGA-AB-2824-11A	11					NO	0ed4851f-4695-4317-bfe2-1dfa89ccabf5	Solid Tissue Normal						A						TCGA-AB-2824-11A		
+TCGA-AB-2903-03A	03					NO	e1f5ccb3-b24d-4da5-8beb-2722faffbab1	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2903-03A		
+TCGA-AB-2925-03A	03					NO	9f755f31-7614-4268-96a8-64ea71f088ba	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2925-03A		
+TCGA-AB-2997-03A	03					NO	429967b4-dc06-46c6-ad15-7b841d7b484e	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2997-03A		
+TCGA-AB-3011-11A	11					NO	73927e31-3d17-4871-a7e6-6d1ae82421e7	Solid Tissue Normal						A						TCGA-AB-3011-11A		
+TCGA-AB-2998-03A	03					NO	c87415bf-fed9-4f79-bcd3-dded3357a9d7	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2998-03A		
+TCGA-AB-2989-03A	03					NO	04b6f323-9f46-4de1-9d8f-bb6853d8c93a	Primary Blood Derived Cancer - Peripheral Blood						A						TCGA-AB-2989-03A		
+TCGA-AB-2862-11C	11					NO	4343b655-9d66-4532-ae44-bdc1135016dd	Solid Tissue Normal						C						TCGA-AB-2862-11C		
+TCGA-AB-2987-11A	11					NO	4ea1ffb5-1804-4eb8-9ac6-dd30b34fe6ac	Solid Tissue Normal						A						TCGA-AB-2987-11A		
