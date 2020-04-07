@@ -1,0 +1,49 @@
+#!/bin/csh
+# runfba
+# If necessary, make this file executable via chmod +x runfba.
+# Note that file names of the form fort.* may be machine-dependent.
+#
+# 29 Apr 2014: qrunfba made from runfba for quadLP.
+# 04 Nov 2014: Save fort.81 as PROB.sol.
+
+
+ set TOP = .   # ROOT OF THE QUADLP INSTALLATION
+
+ if ( $# < 3 ) then
+    echo "  Script for running minos on a *.txt file in $TOP/data/FBA"
+    echo "./qrunfba  qsolveLP TMA_ME lp2   runs  qsolveLP with TMA_ME.txt, lp2.spc"
+    exit
+ endif
+
+ set SOLVER = $1
+ set PROB   = $2
+ set SPECS  = $3
+ set FBA    = $TOP/data/FBA/$PROB
+
+ if (! -e $FBA.txt) then
+    echo Error: $FBA.txt  not found
+    exit
+ endif
+
+ \cp -p   $SPECS.spc   fort.4
+ \cp -p   $FBA.txt     fort.10
+ \cp -fp  $PROB.basis  fort.11  >& /dev/null
+ ls -l {$PROB}*
+
+# Run the specified executable
+ echo "  Running $TOP/$1"
+                 $TOP/$1
+
+ \cp -fp fort.9  q{$PROB}.out
+ \cp -fp fort.11 q{$PROB}.basis      >& /dev/null
+ \cp -fp fort.12 q{$PROB}.newbasis   >& /dev/null
+ \cp -fp fort.13 q{$PROB}.finalbasis >& /dev/null
+ \cp -fp fort.81 q{$PROB}.sol        >& /dev/null
+
+ \rm fort.4
+ \rm fort.9	>& /dev/null
+ \rm fort.10
+ \rm fort.11	>& /dev/null
+ \rm fort.12	>& /dev/null
+ \rm fort.13	>& /dev/null
+ \rm fort.81	>& /dev/null

@@ -1,0 +1,26 @@
+language: bash
+
+before_install:
+    - if [[ -a .git/shallow ]]; then git fetch --unshallow; fi
+
+script:
+    # set the environment variable CURRENT_DIR
+    - CURRENT_DIR=`pwd`
+
+    # change to the current directory
+    - cd $CURRENT_DIR
+
+    # launch the tests
+    - bash .artenolis/runtests.sh
+
+after_success:
+    - if [ "$MATLAB_VER" == "R2016b" ]; then
+      if [ "$ARCH" == "Linux" ]; then
+      bash <(curl -s https://codecov.io/bash) -f "!*.lst";
+      export PATH="/home/sbg-jenkins/.local/bin":$PATH;
+      pip install --upgrade --user -r docs/requirements.txt;
+      python ~/github_stats.py $(pwd)/docs/source/list_contributors.rst;
+      python -c "from documenter.deploy import Documentation; doc = Documentation('github.com/opencobra/cobratoolbox', local_upstream='$(pwd)', ci='jenkins'); doc.deploy()";
+      bash .artenolis/generateZip.sh;
+      fi
+      fi

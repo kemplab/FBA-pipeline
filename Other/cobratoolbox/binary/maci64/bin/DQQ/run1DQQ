@@ -1,0 +1,86 @@
+#!/bin/bash
+# run1DQQ
+
+# This is a typical Unix script for running a program such as MINOS.
+# It should be marked executable (via chmod +x run1DQQ).
+# Note that file names of the form fort.* may be machine-dependent.
+#
+# 27 Jan 2016: run1DQQ bash script derived from csh script
+#              to be more standard.
+# 27 Jan 2016: RF: changed to pass a path to a folder as an argument, then search for the MPS and write the results there.
+
+ if [ $# -lt 1 ]
+ then
+      echo ' '
+      echo '  Script for running DQQ on an MPS file in $FOLD/MPS'
+      echo './run1DQQ pilot4'
+      echo 'runs the DQQ procedure on pilot4.'
+      echo 'Step D  cold starts minos with pilot4.mps, lpD.spc'
+      echo '    and saves fort.9, fort.10 in $FOLD/results/pilot4.outD,  $FOLD/results/pilot4.basisD'
+      echo ' '
+      echo 'Step Q1 warm starts qminos from fort.10 with lpQ1.spc'
+      echo '    and saves fort.9, fort.11 in $FOLD/results/pilot4.outQ1, $FOLD/results/pilot4.basisQ1'
+      echo ' '
+      echo 'Step Q2 warm starts qminos from fort.11 with lpQ2.spc'
+      echo '    and saves fort.9, fort.12 in $FOLD/results/pilot4.outQ2, $FOLD/results/pilot4.basisQ2'
+      echo ' '
+      echo 'Each step adds a line to fort.60'
+      echo 'Eventually:  cp fort.60 $FOLD/results/infeasDQQ.txt  for plotDQQ.m'
+      echo ' '
+      exit
+ fi
+
+ PROB=$1
+ DIR=$2
+ DQQ_HOME=$2
+
+ if [ ! -e $DIR/MPS/$PROB.mps ]
+ then
+    echo "Error: $DIR/MPS/$PROB.mps  not found"
+    exit 1
+ fi
+
+ \cp -p $DIR/MPS/$PROB.mps  $DQQ_HOME/fort.10
+
+ if [ ! -e $DIR/results ]
+ then
+    mkdir $DIR/results
+ fi
+
+#=================
+# Run step D
+#=================
+ \cp -fp $DQQ_HOME/lpD.spc   $DQQ_HOME/fort.4
+ $DQQ_HOME/solveD
+ \cp -fp $DQQ_HOME/fort.9    $DIR/results/$PROB.outD
+ \cp -fp $DQQ_HOME/fort.11   $DIR/results/$PROB.basisD  >& /dev/null
+
+#=================
+# Run step Q1
+#=================
+ \cp -fp $DQQ_HOME/lpQ1.spc  $DQQ_HOME/fort.4
+ $DQQ_HOME/solveQ
+ \cp -fp $DQQ_HOME/fort.9    $DIR/results/$PROB.outQ1
+ \cp -fp $DQQ_HOME/fort.12   $DIR/results/$PROB.basisQ1  >& /dev/null
+
+#=================
+# Run step Q2
+#=================
+ \cp -fp $DQQ_HOME/lpQ2.spc  $DQQ_HOME/fort.4
+ $DQQ_HOME/solveQ
+ \cp -fp $DQQ_HOME/fort.9    $DIR/results/$PROB.outQ2
+ \cp -fp $DQQ_HOME/fort.13   $DIR/results/$PROB.basisQ2  >& /dev/null
+ \cp -fp $DQQ_HOME/fort.81   $DIR/results/$PROB.sol      >& /dev/null
+
+#=================
+# Info
+#=================
+ echo " "
+ echo "Lines in fort.60:"
+ grep -i $PROB $DQQ_HOME/fort.60
+
+ echo " "
+ echo "Created following files:"
+ ls -l $DIR/results/$PROB.*
+ echo "End of ./run1DQQ $PROB $DIR"
+ echo " "
