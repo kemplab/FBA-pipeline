@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.05	dihydrobiopterin	1041	FEMXZDUTFRTWPE-DZSWIPIPSA-N	25	7.4		in 50 mM HEPES buffer, pH 7.4, at 25C
+0.22	biopterin	1041	FEMXZDUTFRTWPE-DZSWIPIPSA-N			X	mutant enzyme Y175F
+0.23	biopterin	1041	FEMXZDUTFRTWPE-DZSWIPIPSA-N				wild type enzyme
+0.43	quinonoid 6,7-dimethyl-7,8-dihydropterin	6025	FLHJFYUPNKQISM-UHFFFAOYSA-N	25	7.4		in 50 mM HEPES buffer, pH 7.4, at 25C
+0.44	quinonoid 6,7-dimethyl-7,8-dihydropterin	6025	FLHJFYUPNKQISM-UHFFFAOYSA-N	25	7.4		in 50 mM HEPES buffer, pH 7.4, at 25C
+0.54	quinonoid dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N	25	7.4		in 50 mM HEPES buffer, pH 7.4, at 25C
+0.57	dihydrobiopterin	1041	FEMXZDUTFRTWPE-DZSWIPIPSA-N	25	7.4		in 50 mM HEPES buffer, pH 7.4, at 25C
+1.84	quinonoid dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N	25	7.4		in 50 mM HEPES buffer, pH 7.4, at 25C
+4.7	dihydrobiopterin	1041	FEMXZDUTFRTWPE-DZSWIPIPSA-N		3.7		pH 3.7

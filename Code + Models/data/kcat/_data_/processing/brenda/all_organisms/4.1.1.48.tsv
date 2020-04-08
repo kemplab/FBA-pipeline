@@ -1,0 +1,53 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.025	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	25	7.5		wild-type, pH 7.5, 25C
+0.028	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	25	7.5	X	N-terminal deletion mutant lacking 26 amino acids, pH 7.5, 25C
+0.03	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+0.033	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N				wild-type enzyme
+0.041	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N			X	truncated mutant
+0.06	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	25	7.5	X	N-terminal deletion mutant lacking 25 amino acids, pH 7.5, 25C
+0.095	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	25	7.5		wild-type, pH 7.5, 25C
+0.12	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N			X	mutant enzyme Lys55Ser
+0.15	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	37	7.5		pH 7.5, 37C, wild-type enzyme
+0.16	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme P2S
+0.27	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme P2S/F246S
+0.35	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F246S
+0.36	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme G212E
+0.57	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme P2S/G212E
+0.98	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	60	7.5		pH 7.5, 60C, wild-type enzyme
+2	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N			X	mutant Leu5Val
+2.2	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N				wild-type enzyme
+3.15	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	60			at 60C
+3.2	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N				genetically engineered monofunctional enzyme form IGPS[1-259]
+3.6	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N				bifunctional enzyme
+4.3	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N				genetically engineered monofunctional enzyme form IGPS[1-252FAG]
+7.2	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N				wild-type enzyme
+0.001	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	75	7.5	X	pH 7.5, 75C, mutant enzyme K53Q
+0.007	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	75	7.5	X	pH 7.5, 75C, mutant enzyme E51Q
+0.033	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	25	7.5		pH 7.5, 25C
+0.038	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme D61C labeled with the fluorescent dye PyMPO
+0.04	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme R18C labeled with the fluorescent dye Alexa Fluor 555
+0.04	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	25	7.0	X	pH 7.0, 25C, mutant enzyme N90A
+0.042	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme R18C labeled with the fluorescent dye PyMPO
+0.06	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	75	7.5	X	pH 7.5, 75C, mutant enzyme K53R
+0.06	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	75	7.0	X	pH 7.0, 75C, mutant enzyme F89A
+0.062	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+0.065	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme D61C labeled with the fluorescent dye Alexa Fluor 555
+0.16	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	25	7.5		25C, pH 7.5
+0.16	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	25	7.0	X	pH 7.0, 25C, mutant enzyme R54A; pH 7.0, 25C, wild-type enzyme
+0.17	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme N90A
+0.19	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme R54A/N90Q
+0.3	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme N90Q
+0.35	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme R54A
+0.41	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	75	7.5	X	pH 7.5, 75C, mutant enzyme R182A
+0.42	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	37	7.0		pH 7.0, 37C, wild-type enzyme
+0.51	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	75	7.0	X	pH 7.0, 75C, mutant enzyme R54A/N90Q
+0.55	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	75	7.0	X	pH 7.0, 75C, mutant enzyme N90A
+0.67	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	75	7.5		pH 7.5, 75C, wild-type enzyme
+0.67	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	75	7.0		pH 7.0, 75C, wild-type enzyme
+0.89	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	75	7.0	X	pH 7.0, 75C, mutant enzyme N90Q
+0.97	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	75	7.5	X	pH 7.5, 75C, mutant enzyme E210Q
+1.2	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	25	7.5		pH 7.5, 25C
+1.2	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	75	7.0	X	pH 7.0, 75C, mutant enzyme R54A
+4.1	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	25	7.5		at pH 7.5 and 25C
+9.3	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	37	7.5		at pH 7.5 and 37C
+11.1	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	747	QKMBYNRMPRKVTO-MNOVXSKESA-N	37	8.0		at 37C and pH 8.0

@@ -1,0 +1,72 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000017	allopregnanolone	2821	AURFZBICLPNKBZ-SYBPFIFISA-N	25	7.0		in 100 mM potassium phosphate, pH 7.0, at 25C
+0.002	5beta-pregnane-3alpha,20alpha-diol	2241	YWYQTGBBEZQBGO-BERLURQNSA-N	25	7.4		recombinant enzyme, at pH 7.4 and 25C
+0.0025	5alpha-pregnan-20alpha-ol-3-one	4984	DYVGYXXLXQESJE-XPLLOJBJSA-N	25	7.4	X	mutant F217S, pH 7.4, 25C
+0.003	5alpha-dihydroprogesterone	1755	XMRPGKVKISIQBV-BJMCWZGWSA-N	25	7.0		in 100 mM potassium phosphate, pH 7.0, at 25C
+0.003	5beta-pregnane-3alpha,20alpha-diol	2241	YWYQTGBBEZQBGO-BERLURQNSA-N	25	7.4		native enzyme, at pH 7.4 and 25C
+0.004	5beta-Androstan-3alpha-ol-17-one	2107	QGXBDMJGAMFCBF-IINPKOONSA-N	25	7.4	X	mutant F217S, pH 7.4, 25C
+0.006	Dehydrolithocholic acid	3147	KIQFUORWRVZTHT-PBDHEXIJSA-N	25	7.4	X	mutant F217S, pH 7.4, 25C
+0.006	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.4	X	mutant F217S, pH 7.4, 25C
+0.007	5alpha-Androstan-3alpha-ol-17-one	1754	QGXBDMJGAMFCBF-XKUVWOMQSA-N	25	7.4		native enzyme, at pH 7.4 and 25C; recombinant enzyme, at pH 7.4 and 25C
+0.007	5beta-pregnane-3,20-dione	1539	XMRPGKVKISIQBV-XWOJZHJZSA-N	25	7.4	X	mutant F217S, pH 7.4, 25C
+0.009	5beta-androstan-3,17-dione	1807	RAJWOBJTTGJROA-QJISAEMRSA-N	25	7.4	X	mutant F217S, pH 7.4, 25C
+0.01	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.4	X	mutant F217S, pH 7.4, 25C
+0.012	deoxycholic acid	369	KXGVEGMKQFWNSR-LLQZFEROSA-N	25	7.4	X	mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.018	deoxycholic acid	369	KXGVEGMKQFWNSR-LLQZFEROSA-N	25	7.4	X	mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.023	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	1	7.4		isoform AKR1C4, at pH 7.4 and 25C
+0.025	dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	37	7.5		pH 7.5, 37C
+0.03	5alpha-androstane-3,17-dione	1130	RAJWOBJTTGJROA-WZNAKSSCSA-N	1	7.4		isoform AKR1C4, at pH 7.4 and 25C
+0.03	cholic acid	629	BHQCQFFYRZLCQQ-OELDTZBJSA-N	25	7.4	X	mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.032	chenodeoxycholic acid	969	RUDATBOHQWOJDD-BSWAIDMHSA-N	25	7.4		wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.032	lithocholic acid	1004	SMEROWZSTRWXGI-HVATVPOCSA-N	25	7.4		wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.033	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	1	7.4		isoform AKR1C4, at pH 7.4 and 25C
+0.035	3alpha-androstanediol	1491	CBMYJHIOYJEBSB-KHOSGYARSA-N	1	7.4		isoform AKR1C4, at pH 7.4 and 25C
+0.037	Dehydrolithocholic acid	3147	KIQFUORWRVZTHT-PBDHEXIJSA-N	25	7.4		wild-type, pH 7.4, 25C
+0.04	lithocholic acid	1004	SMEROWZSTRWXGI-HVATVPOCSA-N	25	7.4	X	mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.04	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.4		wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.043	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	25	7.4		wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.043	lithocholic acid	1004	SMEROWZSTRWXGI-HVATVPOCSA-N	25	7.4	X	mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.047	5beta-androstane-3alpha,17beta-diol	3773	CBMYJHIOYJEBSB-GCXXXECGSA-N	25	7.4		wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.048	5beta-Androstan-3alpha-ol-17-one	2107	QGXBDMJGAMFCBF-IINPKOONSA-N	25	7.4		wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.05	5alpha-pregnan-20alpha-ol-3-one	4984	DYVGYXXLXQESJE-XPLLOJBJSA-N	25	7.4		wild-type, pH 7.4, 25C
+0.05	cholic acid	629	BHQCQFFYRZLCQQ-OELDTZBJSA-N	25	7.4	X	mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.053	5beta-pregnane-3,20-dione	1539	XMRPGKVKISIQBV-XWOJZHJZSA-N	25	7.4		wild-type, pH 7.4, 25C
+0.077	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.4		wild-type, pH 7.4, 25C
+0.083	9alpha,11beta-prostaglandin F2	5747	PXGPLTODNUVGFL-ZWAKLXPCSA-N	25	7.4		recombinant enzyme, at pH 7.4 and 25C
+0.085	deoxycholic acid	369	KXGVEGMKQFWNSR-LLQZFEROSA-N	25	7.4		wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.087	5alpha-androstane-3alpha,17beta-diol	1491	CBMYJHIOYJEBSB-KHOSGYARSA-N	25	7.4		wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.097	5beta-Androstan-3alpha-ol-17-one	2107	QGXBDMJGAMFCBF-IINPKOONSA-N	25	7.4	X	mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.1	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.4	X	mutant N272T, pH 7.4, 25C
+0.1	(S)-indan-1-ol	1896	YIAPLDFPUUJILH-VIFPVBQESA-N	25	7.4		wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.105	chenodeoxycholic acid	969	RUDATBOHQWOJDD-BSWAIDMHSA-N	25	7.4	X	mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.113	5beta-Androstan-3alpha-ol-17-one	2107	QGXBDMJGAMFCBF-IINPKOONSA-N	25	7.4		wild-type, pH 7.4, 25C
+0.13	chenodeoxycholic acid	969	RUDATBOHQWOJDD-BSWAIDMHSA-N	25	7.4	X	mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.135	5alpha-androstane-3alpha,17beta-diol	1491	CBMYJHIOYJEBSB-KHOSGYARSA-N	25	7.4	X	mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.14	5beta-androstan-3,17-dione	1807	RAJWOBJTTGJROA-QJISAEMRSA-N	25	7.4		wild-type, pH 7.4, 25C
+0.15	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	25	7.4	X	mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.16	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.4	X	mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.16	(S)-indan-1-ol	1896	YIAPLDFPUUJILH-VIFPVBQESA-N	25	7.4		native enzyme, at pH 7.4 and 25C
+0.18	5beta-Androstan-3alpha-ol-17-one	2107	QGXBDMJGAMFCBF-IINPKOONSA-N	25	7.4	X	mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.18	5beta-androstane-3alpha,17beta-diol	3773	CBMYJHIOYJEBSB-GCXXXECGSA-N	25	7.4	X	mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.18	(R)-tetralol	3215	OGCAVINCRLPOET-GFCCVEGCSA-N	25	7.4		wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.18	(S)-indan-1-ol	1896	YIAPLDFPUUJILH-VIFPVBQESA-N	25	7.4		recombinant enzyme, at pH 7.4 and 25C
+0.2	cholic acid	629	BHQCQFFYRZLCQQ-OELDTZBJSA-N	25	7.4		wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.4		wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.2	(S)-1,2,3,4-tetrahydronaphth-1-ol	2616	JAAJQSRLGAYGKZ-JTQLQIEISA-N	25	7.4		recombinant enzyme, at pH 7.4 and 25C
+0.2	(S)-tetralol	2616	JAAJQSRLGAYGKZ-JTQLQIEISA-N	25	7.4		wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.25	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.4	X	mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.27	(S)-1,2,3,4-tetrahydronaphth-1-ol	2616	JAAJQSRLGAYGKZ-JTQLQIEISA-N	25	7.4		native enzyme, at pH 7.4 and 25C
+0.27	(S)-indan-1-ol	1896	YIAPLDFPUUJILH-VIFPVBQESA-N	25	7.4	X	mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.27	(S)-tetralol	2616	JAAJQSRLGAYGKZ-JTQLQIEISA-N	25	7.4	X	mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.28	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	25	7.4	X	mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.3	5beta-androstane-3alpha,17beta-diol	3773	CBMYJHIOYJEBSB-GCXXXECGSA-N	25	7.4	X	mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.33	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.4	X	mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.35	5alpha-androstane-3alpha,17beta-diol	1491	CBMYJHIOYJEBSB-KHOSGYARSA-N	25	7.4	X	mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.38	(R)-tetralol	3215	OGCAVINCRLPOET-GFCCVEGCSA-N	25	7.4	X	mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.4	(S)-indan-1-ol	1896	YIAPLDFPUUJILH-VIFPVBQESA-N	25	7.4	X	mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.42	9alpha,11beta-prostaglandin F2	5747	PXGPLTODNUVGFL-ZWAKLXPCSA-N	25	7.4		native enzyme, at pH 7.4 and 25C
+0.43	(S)-tetralol	2616	JAAJQSRLGAYGKZ-JTQLQIEISA-N	25	7.4	X	mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.58	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.4	X	mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.72	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.4	X	mutant N272T, pH 7.4, 25C
+0.77	(R)-tetralol	3215	OGCAVINCRLPOET-GFCCVEGCSA-N	25	7.4	X	mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.85	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.4		wild-type, pH 7.4, 25C

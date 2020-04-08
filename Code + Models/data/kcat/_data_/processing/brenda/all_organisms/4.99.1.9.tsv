@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.4	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N	30	7.2		pH 7.2, 30C. The Km-value for protoporphyrin IX is the same independent of whether Zn2+ or Fe2+ is used in the reaction
+0.0078	coproporphyrin III	64276	WVVBSKRXVLOOFW-UJJXFSCMSA-N	37	7.5		pH 7.5, 37C
+0.03	coproporphyrin III	64276	WVVBSKRXVLOOFW-UJJXFSCMSA-N	37	7.5		pH 7.5, 37C

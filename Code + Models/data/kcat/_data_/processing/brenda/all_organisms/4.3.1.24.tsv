@@ -1,0 +1,64 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.03	(2E)-3-phenylprop-2-enoic acid	1165	WBYWAXJHAXSJNI-VOTSOKGWSA-N	30	8.3		pH 8.3, 30C
+0.03	L-Tyr	103	OUYCCCASQSFEME-QMMMGPOBSA-N	37	8.5		wild-type, pH 8.5, 37C
+0.08	(2E)-3-(3-fluorophenyl)prop-2-enoic acid	79091	RTSIUKMGSDOSTI-SNAWJCMRSA-N	30	8.3		pH 8.3, 30C
+0.084	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	37	9.0		wild-type, pH 9.0, 37C
+0.09	(2E)-3-(4-fluorophenyl)prop-2-enoic acid	79092	ISMMYAZSUSYVQG-ZZXKWVIFSA-N	30	8.3		pH 8.3, 30C
+0.1	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	31	8.8		pH 8.8, 31C
+0.1	L-Tyr	103	OUYCCCASQSFEME-QMMMGPOBSA-N	37	8.5	X	mutant F134H, pH 8.5, 37C
+0.11	L-Tyr	103	OUYCCCASQSFEME-QMMMGPOBSA-N	37	8.7		pH 8.7, 37C
+0.14	(2E)-3-(pyridin-3-yl)prop-2-enoic acid	49690	VUVORVXMOLQFMO-ONEGZZNKSA-N	30	8.3		pH 8.3, 30C
+0.22	N-methyl-L-phenylalanine	14240	SCIFESDRCALIIM-VIFPVBQESA-N				
+0.3	L-Tyr	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30			30C
+0.362	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.5		pH 8.5, 37C, isozyme PAL3
+0.457	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.5		pH 8.5, 37C, isozyme PAL2
+0.49	(2S)-2-amino-3-phenylpropanoic acid	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	30	8.3		pH 8.3, 30C
+0.516	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.5		pH 8.5, 37C, isozyme PAL4
+0.54	L-Tyr	103	OUYCCCASQSFEME-QMMMGPOBSA-N	37	8.5		pH 8.5, 37C
+0.588	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.5		pH 8.5, 37C, isozyme PAL1
+0.61	(2E)-3-(3-hydroxyphenyl)prop-2-enoic acid	5647	KKSDGJDHHZEWEP-SNAWJCMRSA-N	30	8.3		pH 8.3, 30C
+0.61	(2S)-2-amino-3-(pyridin-4-yl)propanoic acid	128596	FQFVANSXYKWQOT-ZETCQYMHSA-N	30	8.3		pH 8.3, 30C
+0.75	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	37	9.0	X	mutant F144H, pH 9.0, 37C
+0.78	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	30	8.5		isoform PAL3, at 30C in 50 mM Tris/HCl, pH 8.5
+0.82	(2S)-2-amino-3-[4-(trifluoromethyl)phenyl]propanoic acid	11706	CRFFPDBJLGAGQL-QMMMGPOBSA-N	30	8.3		pH 8.3, 30C
+0.89	(2S)-2-amino-3-(3-hydroxyphenyl)propanoic acid	7315	JZKXXXDKRQWDET-QMMMGPOBSA-N	30	8.3		pH 8.3, 30C
+0.91	(2S)-2-amino-3-(pyridin-3-yl)propanoic acid	128595	DFZVZEMNPGABKO-ZETCQYMHSA-N	30	8.3		pH 8.3, 30C
+0.95	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.5	X	mutant L108G, pH 8.5, 37C
+1.06	(2E)-3-(pyridin-4-yl)prop-2-enoic acid	128597	SSAYTINUCCRGDR-OWOJBTEDSA-N	30	8.3		pH 8.3, 30C
+1.06	(2S)-2-amino-3-(4-fluorophenyl)propanoic acid	5002	XWHHYOYVRVGJJY-QMMMGPOBSA-N	30	8.3		pH 8.3, 30C
+1.08	(2S)-2-amino-3-(4-nitrophenyl)propanoic acid	1483	GTVVZTAFGPQSPC-QMMMGPOBSA-N	30	8.3		pH 8.3, 30C
+1.09	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	30	8.5		isoform PAL1, at 30C in 50 mM Tris/HCl, pH 8.5
+1.1	(2S)-2-amino-3-(3-fluorophenyl)propanoic acid	23219	VWHRYODZTDMVSS-QMMMGPOBSA-N	30	8.3		pH 8.3, 30C
+1.14	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	30	8.5		isoform PAL2, at 30C in 50 mM Tris/HCl, pH 8.5
+1.53	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	30	8.5		isoform PAL4, at 30C in 50 mM Tris/HCl, pH 8.5
+1.73	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.7		pH 8.7, 37C
+1.8	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.4		pH 8.4, 37C
+1.96	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.5		wild-type, pH 8.5, 37C
+3	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.4		pH 8.4, 37C
+3.14	(2E)-3-[4-(trifluoromethyl)phenyl]prop-2-enoic acid	113449	ANRMAUMHJREENI-ZZXKWVIFSA-N	30	8.3		pH 8.3, 30C
+3.2	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.4		pH 8.4, 37C
+3.36	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	55	8.5		pH 8.5, 55C
+3.6	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.5	X	mutant L108A, pH 8.5, 37C
+3.81	(2E)-3-(4-nitrophenyl)prop-2-enoic acid	28085	XMMRNCHTDONGRJ-ZZXKWVIFSA-N	30	8.3		pH 8.3, 30C
+3.9	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	292		X	mutant Q292C/C565S, pH and temperature not specified in the publication
+4	phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	C503S/C565S mutant PAL
+4.2	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N				wild-type, pH and temperature not specified in the publication
+4.4	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.5		wild-type, pH 8.5, 37C
+4.6	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.5	X	mutant lacking 21 N-terminal amino acids, pH 8.5, 37C
+4.6	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N				wild-type PAL
+4.79	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	30	8.0		pH 8.0, 30C, wild-type enzyme
+7.8	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.5	X	mutant F134H, pH 8.5, 37C
+10.11	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.5		recombinant enzyme, in 50 mM Tris-HCl, pH 8.5, at 37C
+10.12	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.5		recombinant protein from Escherichia coli, pH 8.5, 37C
+10.12	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.5		recombinant enzyme expressed in Escherichia coli; recombinant enzyme expressed in Escherichia coli, at 37C and pH 8.5
+16.04	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.5		recombinant protein from Pichia pastoris, pH 8.5, 37C
+16.04	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.5		recombinant enzyme expressed in Pichia pastoris, at 37C and pH 8.5; recombinant enzyme expressed in Pichi pastoris
+16.3	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.5		wild-type, pH 8.5, 37C
+16.32	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.5		pH 8.5, 37C
+19.2	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.5	X	mutant F134H, pH 8.5, 37C
+21.3	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	8.5		wild-type, pH 8.5, 37C
+22	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	30			30C
+25.7	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	40	8		pH 8, 40C
+47.3	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	9.0	X	mutant F144H, pH 9.0, 37C
+65	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	9.0		wild-type, pH 9.0, 37C
+115.8	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	9.0		wild-type, pH 9.0, 37C

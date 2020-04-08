@@ -1,0 +1,324 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.002	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	23	4.5	X	pH 4.5, 23C, mutant enzyme H689V
+0.003	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	23	4.5	X	pH 4.5, 23C, mutant enzyme H689A
+0.003	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	23	4.5	X	pH 4.5, 23C, mutant enzyme H689Q or mutant H689A
+0.004	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	23	4.5	X	pH 4.5, 23C, mutant enzyme H689N or mutant H689Q; pH 4.5, 23C, mutant enzyme N732D
+0.005	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	23	4.5	X	pH 4.5, 23C, mutant enzyme N732D
+0.009	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	23	4.5	X	pH 4.5, 23C, mutant enzyme H689E
+0.01	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	30	7.5		in the presence of 30 mM NaCl, at pH 7.5 and 30C
+0.042	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	30	6.0		recombinant wild type enzyme, in 100 mM McIlvaine buffer, pH 6.0, at 30C
+0.09	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N				
+0.1	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N		4.5	X	pH 4.5, electron acceptor: cytochrome c, mutant enzyme M65H
+0.1	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L		4.5	X	pH 4.5, reaction with cellobiose, mutant enzyme M65H
+0.118	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N				
+0.16	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N				
+0.17	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	25	6.0		in 50 mM MES buffer (pH 6.0), at 25C
+0.19	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	30	6.0	X	mutant enzyme N700S, in 100 mM McIlvaine buffer, pH 6.0, at 30C
+0.2	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	5.0		at pH 5.0 and 30C
+0.21	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	23	4.5	X	pH 4.5, 23C, mutant enzyme N732E
+0.3	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	23	4.5	X	pH 4.5, 23C, mutant enzyme N732E
+0.3	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	6.0		at pH 6.0 and 30C
+0.315	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	4.0		in 100 mM sodium acetate buffer, pH 4.0, at 30C
+0.33	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	6.0		in 50 mM MES buffer (pH 6.0), at 25C
+0.4	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	23	4.5	X	pH 4.5, 23C, mutant enzyme N732A
+0.4	cellulose	1975	IXRUSCNYPXHSAV-UKFBFLRUSA-N				ferricyanide as electron acceptor
+0.4	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	30	5.5		in the presence of 30 mM NaCl, at pH 5.5 and 30C
+0.4	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	6.0		isoform CDH IIA, at pH 6.0 and 30C
+0.48	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	30	4.0		in 100 mM sodium acetate buffer, pH 4.0, at 30C
+0.5	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	5.0		at pH 5.0 and 30C
+0.51	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	5.5		at pH 5.5 and 30C
+0.6	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	5.5		at pH 5.5 and 30C
+0.7	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	23	4.5	X	pH 4.5, 23C, mutant enzyme N732A
+0.91	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N				cytochrome c as electron acceptor
+1	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	23	4.5	X	pH 4.5, 23C, mutant enzyme N732Q
+1	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	5.0		at pH 5.0 and 30C
+1	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	30	6.0		isoform CDH IIB, at pH 6.0 and 30C
+1.01	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	6.0		in 50 mM MES buffer (pH 6.0), at 25C
+1.03	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N				2,6-dichloroindophenol as electron acceptor
+1.2	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	23	4.5	X	pH 4.5, 23C, mutant enzyme N732Q
+1.2	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N				
+1.2	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	5.0		at pH 5.0 and 30C
+1.22	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	4.5		at pH 4.5 and 30C
+1.23	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	25	6.0		in 50 mM MES buffer (pH 6.0), at 25C
+1.23	Cellopentaose	618	FTNIPWXXIGNQQF-FFFJRYSISA-N	25	6.0		in 50 mM MES buffer (pH 6.0), at 25C
+1.23	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N	25	6.0		in 50 mM MES buffer (pH 6.0), at 25C
+1.25	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	25	6.0		in 50 mM MES buffer (pH 6.0), at 25C
+1.31	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	4.5		pH 4.5, 30C, electron acceptor: 2,6-dichlorophenol indophenol
+1.38	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	5.0		at pH 5.0 and 30C
+1.4	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	30	5.5		in the presence of 30 mM CaCl2, at pH 5.5 and 30C; in the presence of 30 mM SrCl2, at pH 5.5 and 30C
+1.4	Galactobiose	8387	DLRVVLDZNNYCBX-BQYJSGCXSA-N	30	4.5		recombinant enzyme, in 100 mM sodium acetate (pH 4.5), at 30C
+1.4	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	25	6.0		in 50 mM MES buffer (pH 6.0), at 25C
+1.4	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	30	6.0		isoform CDH IIB, at pH 6.0 and 30C
+1.45	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	5.0		at pH 5.0 and 30C
+1.5	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.0		isoform CDH IIA, at pH 6.0 and 30C
+1.5	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	6.0		isoform CDH IIA, at pH 6.0 and 30C
+1.5	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	30	5.5		in the presence of 30 mM BaCl2, at pH 5.5 and 30C
+1.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	5.0		at pH 5.0 and 30C
+1.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				at 6.0 pH and 30 C
+1.6	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	30	7.5		in the presence of 30 mM CaCl2, at pH 7.5 and 30C; in the presence of 30 mM MgCl2, at pH 5.5 and 30C
+1.7	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	23	4.5	X	pH 4.5, 23C, mutant enzyme N732H
+1.8	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	5.0		at pH 5.0 and 30C
+1.8	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	30	6.0		isoform CDH IIA, at pH 6.0 and 30C
+1.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.0		at pH 6.0 and 30C
+1.9	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	6.0		isoform CDH IIB, at pH 6.0 and 30C
+1.92	glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	4.5		pH 4.5, 30C, electron acceptor: 2,6-dichlorophenol indophenol
+1.92	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	4.5		pH 4.5, 30C, electron acceptor: 2,6-dichlorophenol indophenol
+2	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				2,6-dichloroindophenol as electron acceptor
+2	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	30	5.5		in the presence of 30 mM BaCl2, at pH 5.5 and 30C; in the presence of 30 mM SrCl2, at pH 7.5 and 30C
+2.05	2,6-dichlorophenol-indophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	25	6.0		in 50 mM MES buffer (pH 6.0), at 25C
+2.08	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	4.5		pH 4.5, 30C, electron acceptor: 2,6-dichlorophenol indophenol
+2.1	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	5.0		at pH 5.0 and 30C
+2.1	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	30	7.5		in the presence of 30 mM MgCl2, at pH 7.5 and 30C
+2.1	galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	4.5		recombinant enzyme, in 100 mM sodium acetate (pH 4.5), at 30C
+2.1	mannobiose	1502	DLRVVLDZNNYCBX-FZFXURTHSA-N	30	4.5		recombinant enzyme, in 100 mM sodium acetate (pH 4.5), at 30C
+2.2	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	30	6.0		isoform CDH IIA, at pH 6.0 and 30C
+2.3	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	5.0		at pH 5.0 and 30C
+2.3	xylotriose	773	JCSJTDYCNQHPRJ-MMDFAQQLSA-N	30	6.0		isoform CDH IIB, at pH 6.0 and 30C
+2.6	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5		recombinant enzyme from Pichia pastoris, with ferricytochrome c as cosubstrate, at pH 7.5 and 30C
+2.6	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				at 6.0 pH and 30 C
+2.7	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	23	4.5	X	pH 4.5, 23C, mutant enzyme N732H
+2.7	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N	30	4.0		in 100 mM sodium acetate buffer, pH 4.0, at 30C
+3	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N				
+3.1	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	20	4.0		pH 4.0, 20C
+3.3	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	6.0		at pH 6.0 and 30C
+3.4	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				cytochrome c as electron acceptor
+3.4	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	6.0		at pH 6.0 and 30C
+3.5	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	6.0		isoform CDH IIB, at pH 6.0 and 30C
+3.6	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				ferricyanide as electron acceptor
+3.6	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.0		isoform CDH IIB, at pH 6.0 and 30C
+3.6	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	5.0		at pH 5.0 and 30C
+3.7	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N	30	4.5		recombinant enzyme, in 100 mM sodium acetate (pH 4.5), at 30C
+3.8	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N				at 6.0 pH and 30 C
+3.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				2,6-dichloroindophenol as electron acceptor
+3.9	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	5.0		at pH 5.0 and 30C
+4	2,6-dichlorophenol indophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	5.0		at pH 5.0 and 30C
+4	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	20	8.0		pH 8.0, 20C
+4	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N				at 6.0 pH and 30 C
+4	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	6.0		at pH 6.0 and 30C
+4.1	2,6-dichlorophenol indophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	6.0		recombinant wild type enzyme, in 100 mM McIlvaine buffer, pH 6.0, at 30C
+4.11	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	4.0		in 100 mM sodium acetate buffer, pH 4.0, at 30C
+4.3	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	30	6.0		isoform CDH IIB, at pH 6.0 and 30C
+4.6	xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	4.5		recombinant enzyme, in 100 mM sodium acetate (pH 4.5), at 30C
+4.68	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	4.0		in 100 mM sodium acetate buffer, pH 4.0, at 30C
+4.7	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	30	6.0		isoform CDH IIA, at pH 6.0 and 30C
+4.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	4.0		in 100 mM sodium acetate buffer, pH 4.0, at 30C
+4.9	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	5.0		at pH 5.0 and 30C
+5	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				electron acceptor 2,6-dimethoxy-1,4-benzoquinone
+5	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	7.5		at pH 7.5 and 30C
+5.5	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				
+5.8	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N	30	6.0		isoform CDH IIB, at pH 6.0 and 30C
+5.9	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	25			at 25C
+6	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+6	xylotriose	773	JCSJTDYCNQHPRJ-MMDFAQQLSA-N	30	6.0		isoform CDH IIA, at pH 6.0 and 30C
+6.1	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	25			at 25C
+6.1	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N	25			at 25C
+6.27	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	4.5		at pH 4.5 and 30C
+6.4	2,6-dichlorophenol indophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	20	4.0		pH 4.0, 20C
+7.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	5.0		at pH 5.0 and 30C
+7.3	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	25			at 25C
+7.4	Mannopentaose	3571	FTNIPWXXIGNQQF-KMCWREFJSA-N	30	6.0		isoform CDH IIB, at pH 6.0 and 30C
+7.5	2,6-dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	25			at 25C
+7.6	2,6-dichlorophenol indophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	20	8.0		pH 8.0, 20C
+7.6	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5		recombinant enzyme from Aspergillus niger, with ferricytochrome c as cosubstrate, at pH 7.5 and 30C
+7.6	glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	4.5		recombinant enzyme, in 100 mM sodium acetate (pH 4.5), at 30C
+7.7	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	5.0		at pH 5.0 and 30C
+7.9	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	20	4.0		pH 4.0, 20C
+7.9	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5		recombinant enzyme from Trichoderma reesei, with ferricytochrome c as cosubstrate, at pH 7.5 and 30C
+8.1	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	5.5		recombinant enzyme from Pichia pastoris, with 2,6-dichlorophenolindophenol as cosubstrate, at pH 5.5 and 30C
+8.1	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	20	6.0		pH 6.0, 20C
+8.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.0		isoform CDH IIB, at pH 6.0 and 30C
+8.2	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	5.0		at pH 5.0 and 30C
+8.2	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	4.5		at pH 4.5 and 30C
+8.56	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				at 6.0 pH and 30 C
+8.88	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N				
+8.88	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N				
+8.9	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	20	6.0		pH 6.0, 20C
+9.2	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	5.0		at pH 5.0 and 30C
+9.31	Cellopentaose	618	FTNIPWXXIGNQQF-FFFJRYSISA-N				
+9.4	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	5.0		at pH 5.0 and 30C
+10	Cellopentaose	618	FTNIPWXXIGNQQF-FFFJRYSISA-N				
+10	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5		at pH 7.5 and 30C
+10.2	Cellopentaose	618	FTNIPWXXIGNQQF-FFFJRYSISA-N	30	6.0		isoform CDH IIB, at pH 6.0 and 30C
+10.2	mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	30	4.5		recombinant enzyme, in 100 mM sodium acetate (pH 4.5), at 30C
+10.5	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N		4.5		pH 4.5, electron acceptor: cytochrome c, wild-type enzyme
+10.8	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L		4.5		pH 4.5, reaction with cellobiose, wild-type enzyme
+10.9	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	7.5		at pH 7.5 and 30C
+11.1	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	4.5		recombinant enzyme, in 100 mM sodium acetate (pH 4.5), at 30C
+11.3	2,6-dichlorophenol indophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	20	6.0		pH 6.0, 20C
+11.3	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	20	8.0		pH 8.0, 20C
+11.4	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	6.0		isoform CDH IIB, at pH 6.0 and 30C
+11.6	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N	30	6.0		isoform CDH IIB, at pH 6.0 and 30C
+11.8	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5		at pH 7.5 and 30C
+11.8	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	6.0		isoform CDH IIB, at pH 6.0 and 30C
+12	Cellopentaose	618	FTNIPWXXIGNQQF-FFFJRYSISA-N				
+12	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N				
+12	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N				
+12	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N				
+12	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N				
+12.4	2,6-dichlorophenol indophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	6.0	X	mutant enzyme N700S, in 100 mM McIlvaine buffer, pH 6.0, at 30C
+12.4	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	30	6.0		isoform CDH IIB, at pH 6.0 and 30C
+12.7	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	50	6.0		isoform CDH2, at pH 6.0 and 50C
+12.8	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25			at 25C
+13	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				
+13	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	5.0		at pH 5.0 and 30C
+13	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+13.3	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	5.5		recombinant enzyme from Aspergillus niger, with 2,6-dichlorophenolindophenol as cosubstrate, at pH 5.5 and 30C
+13.4	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.0	X	mutant enzyme 700S, in 100 mM McIlvaine buffer, pH 6.0, at 30C
+13.4	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+13.5	2,6-dichlorophenol indophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	5.0		at pH 5.0 and 30C
+13.5	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	50	6.0		isoform CDH1, at pH 6.0 and 50C
+13.5	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				
+13.9	Cellopentaose	618	FTNIPWXXIGNQQF-FFFJRYSISA-N	30	4.5		pH 4.5, 30C, electron acceptor: 2,6-dichlorophenol indophenol
+14	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				
+14	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				
+14	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+14	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	20	6.0		pH 6.0, 20C
+14	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+14	Mn3+-malonate	14099	CCBVEZLSRZAPFS-UHFFFAOYSA-L				
+14.2	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N	30	4.5		pH 4.5, 30C, electron acceptor: 2,6-dichlorophenol indophenol
+14.22	alpha-lactose	3542	GUBGYTABKSRVRQ-XLOQQCSPSA-N				
+14.3	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	23	4.5		pH 4.5, 23C, recombinant wild-type enzyme
+14.7	Cellopentaose	618	FTNIPWXXIGNQQF-FFFJRYSISA-N	30	4.5		pH 4.5, 30C, electron acceptor: 2,6-dichlorophenol indophenol
+14.92	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	25	4.5		at pH 4.5 and 25C
+15	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				electron acceptor 2,6-dimethyl-1,4-benzoquinone
+15	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N	30	4.5		pH 4.5, 30C, electron acceptor: 2,6-dichlorophenol indophenol
+15.1	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N	25			at 25C
+15.2	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	5.5		recombinant enzyme from Trichoderma reesei, with 2,6-dichlorophenolindophenol as cosubstrate, at pH 5.5 and 30C
+15.5	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	23	4.5		pH 4.5, 23C, recombinant wild-type enzyme
+15.5	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	5.5		recombinant enzyme from Escherichia coli, with 2,6-dichlorophenolindophenol as cosubstrate, at pH 5.5 and 30C
+16	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+16.01	2,6-dichlorophenol indophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N				
+16.1	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	25			at 25C
+16.2	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	5.0		at pH 5.0 and 30C
+16.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	5.0		at pH 5.0 and 30C
+16.8	2,6-dichloroindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N				
+16.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.0		at pH 6.0 and 30C
+16.8	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	45			at 45C
+16.9	3,5-di-tert-butyl-1,2-benzoquinone	6369	NOUZOVBGCDDMSX-UHFFFAOYSA-N	30	4.5		pH 4.5, 30C, reaction with lactose
+17	2,6-dichlorophenol indophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	6.0		at pH 6.0 and 30C
+17	2,6-dichlorphenolindophenol	5611	JSPYBAXQKZYERT-UHFFFAOYSA-N				
+17	3,5 di-tert-butyl-o-benzoquinone	6369	NOUZOVBGCDDMSX-UHFFFAOYSA-N				
+17	alpha-lactose	3542	GUBGYTABKSRVRQ-XLOQQCSPSA-N				
+17.2	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+17.2	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N	30	4.5		pH 4.5, 30C, electron acceptor: 2,6-dichlorophenol indophenol
+17.65	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				
+18	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				electron acceptors methylene blue or methylene green
+18.1	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	5.0		at pH 5.0 and 30C
+18.3	2,6-dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	45			at 45C
+18.3	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N	30	4.5		pH 4.5, 30C, electron acceptor: 2,6-dichlorophenol indophenol
+18.4	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	5.0		at pH 5.0 and 30C
+18.86	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	4.5		with 2,6-dichlorophenolindophenol as cosubstrate, at pH 4.5 and 30C
+19.06	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	4.5		with ferricytochrome c as cosubstrate, at pH 4.5 and 30C
+19.4	thiocellobiose	4158	VDQIIPZYLPYPNM-CUHNMECISA-N	30	4.5		pH 4.5, 30C, electron acceptor: 2,6-dichlorophenol indophenol
+19.46	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	4.5		with ferricytochrome c as cosubstrate, at pH 4.5 and 30C
+19.6	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N				
+19.69	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+19.8	Mannopentaose	3571	FTNIPWXXIGNQQF-KMCWREFJSA-N	30	6.0		isoform CDH IIA, at pH 6.0 and 30C
+19.9	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	5.5		at pH 5.5 and 30C
+20.1	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	6.0		at pH 6.0 and 30C
+20.2	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	5.5		at pH 5.5 and 30C
+20.5	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+20.5	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	4.5		recombinant enzyme, in 100 mM sodium acetate (pH 4.5), at 30C
+20.7	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N				
+20.8	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	4.5		pH 4.5, 30C, reaction with lactose
+20.8	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	45			at 45C
+20.86	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	4.5		with 2,6-dichlorophenolindophenol as cosubstrate, at pH 4.5 and 30C
+21	benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N				
+21.3	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	5.0		at pH 5.0 and 30C
+21.4	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	7.5		at pH 7.5 and 30C
+21.4	thiocellobiose	4158	VDQIIPZYLPYPNM-CUHNMECISA-N	30	4.5		pH 4.5, 30C, electron acceptor: 2,6-dichlorophenol indophenol
+21.5	Cellopentaose	618	FTNIPWXXIGNQQF-FFFJRYSISA-N				
+21.8	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	5.0		at pH 5.0 and 30C
+21.9	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	4.5		pH 4.5, 30C, electron acceptor: 2,6-dichlorophenol indophenol
+22	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				
+22.6	2,6-dichlorophenol indophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	5.0		at pH 5.0 and 30C
+23	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				electron acceptor 3,5-di-tert-butyl-1,2-benzoquinone
+23.6	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	4.5		pH 4.5, 30C, electron acceptor: 2,6-dichlorophenol indophenol
+23.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	5.0		at pH 5.0 and 30C
+23.9	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N	30	4.5		recombinant enzyme, in 100 mM sodium acetate (pH 4.5), at 30C
+24	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				
+24	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				electron acceptor meldola blue
+24	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	4.5		recombinant enzyme, in 100 mM sodium acetate (pH 4.5), at 30C
+24	Cellopentaose	618	FTNIPWXXIGNQQF-FFFJRYSISA-N				
+24	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N				
+24	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N				
+24.1	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	45			at 45C
+24.2	3,5-di-tert-butyl-1,2-benzoquinone	6369	NOUZOVBGCDDMSX-UHFFFAOYSA-N	30	4.5		pH 4.5, 30C, reaction with lactose
+24.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	5.5		at pH 5.5 and 30C
+24.7	cellohexaose	1209	OCIBBXPLUVYKCH-FYTDUCIRSA-N	30	4.5		recombinant enzyme, in 100 mM sodium acetate (pH 4.5), at 30C
+24.7	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	5.0		at pH 5.0 and 30C
+24.78	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	30	4.5		recombinant enzyme, in 100 mM sodium acetate (pH 4.5), at 30C
+24.8	2,6-dichlorophenol indophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	5.5		at pH 5.5 and 30C
+25	2,6-dichlorophenol indophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N		4.5	X	pH 4.5, reaction with cellobiose, mutant enzyme M65H
+25	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				2,6-dichloroindophenol as electron acceptor
+25	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+25	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	5.0		at pH 5.0 and 30C
+25.2	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	5.0		at pH 5.0 and 30C
+25.6	2,6-dichlorophenol indophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	4.5		pH 4.5, 30C, reaction with lactose
+25.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	5.0		at pH 5.0 and 30C
+25.7	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N		4.5		pH 4.5, electron acceptor: 2,6-dichlorophenol indophenol, wild-type enzyme
+25.7	Cellopentaose	618	FTNIPWXXIGNQQF-FFFJRYSISA-N	30	4.5		recombinant enzyme, in 100 mM sodium acetate (pH 4.5), at 30C
+25.8	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	4.5		pH 4.5, 30C, electron acceptor: 2,6-dichlorophenol indophenol
+26	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N		4.5	X	pH 4.5, electron acceptor: 2,6-dichlorophenol indophenol, mutant enzyme M65H
+26	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				cytochrome c as electron acceptor
+26	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N				
+26	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+26	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+26.9	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	4.5		pH 4.5, 30C, electron acceptor: 2,6-dichlorophenol indophenol
+26.9	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+27	2,6-dichlorophenol indophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N		4.5		pH 4.5, reaction with cellobiose, wild-type enzyme
+27	3,5-di-tert-butyl-1,2-benzoquinone	6369	NOUZOVBGCDDMSX-UHFFFAOYSA-N				
+27	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				; electron acceptor 2,2'-azino-di-(3-ethyl-benzthiazolin-6-sulfonic acid) cation radical
+27	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	4.5		at pH 4.5 and 30C
+27	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+27	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				cytochrome c as electron acceptor
+27	thiocellobiose	4158	VDQIIPZYLPYPNM-CUHNMECISA-N				
+27	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N				
+27.5	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	4.5		pH 4.5, 30C, reaction with lactose
+27.8	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	5.0		at pH 5.0 and 30C
+27.8	K3Fe(CN)6	1058	QMTKJUMXUDIUAQ-UHFFFAOYSA-N	30	4.5		pH 4.5, 30C, reaction with lactose
+28.7	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	6.0		at pH 6.0 and 30C
+28.8	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+28.9	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	5.0		at pH 5.0 and 30C
+29	2,6-dichloroindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N		4.5		cellobiose as substrate, pH 4.5
+29.4	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	4.5		pH 4.5, 30C, reaction with lactose
+30	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				2,6-dichloroindophenpl or 1,4-benzoquinone as electron acceptor
+31.36	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				
+32.5	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	4.5		pH 4.5, 30C, reaction with lactose
+33	2,6-dichlorophenol-indophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N				
+33.7	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	6.0		at pH 6.0 and 30C
+34	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				electron acceptor cytochrome c from horseheart
+34.4	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				at 5.0 pH and 30 C
+34.7	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	4.5		pH 4.5, 30C, reaction with lactose
+35.4	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	4.0		pH 4.0, 30C, wild-type enzyme
+35.6	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	4.5		pH 4.5, 30C, reaction with lactose
+36.9	K3Fe(CN)6	1058	QMTKJUMXUDIUAQ-UHFFFAOYSA-N	30	4.5		pH 4.5, 30C, reaction with lactose
+37	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				electron acceptor K3Fe(CN)6
+37.3	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	4.0		pH 4.0, 30C, recombinant enzyme
+37.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	5.5		at pH 5.5 and 30C
+38.1	2,6-dichlorophenol indophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	4.5		pH 4.5, 30C, reaction with lactose
+38.6	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	4.0		pH 4.0, 30C, wild-type enzyme
+40	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	4.0		pH 4.0, 30C, recombinant enzyme
+43	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.0		recombinant wild type enzyme, in 100 mM McIlvaine buffer, pH 6.0, at 30C
+43.5	ubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	30	4.0		pH 4.0, 30C, wild-type enzyme
+44.2	ubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	30	4.0		pH 4.0, 30C, recombinant enzyme
+45	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N		3.5		cellobiose as substrate, pH 3.5
+45.4	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N	30	6.0		isoform CDH IIA, at pH 6.0 and 30C
+45.8	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	6.0		isoform CDH IIA, at pH 6.0 and 30C
+46	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N	30	6.0		isoform CDH IIA, at pH 6.0 and 30C
+46.6	Cellopentaose	618	FTNIPWXXIGNQQF-FFFJRYSISA-N	30	6.0		isoform CDH IIA, at pH 6.0 and 30C
+49.3	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	6.0		isoform CDH IIA, at pH 6.0 and 30C
+49.7	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	30	6.0		isoform CDH IIA, at pH 6.0 and 30C
+51.8	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	5.5		at pH 5.5 and 30C
+53.1	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	5.5		at pH 5.5 and 30C
+53.8	2,6-dichlorophenol indophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	5.0		at pH 5.0 and 30C
+55	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.0		isoform CDH IIA, at pH 6.0 and 30C
+58	ferricenium	2177	SGSNQHQTNOYZMA-UHFFFAOYSA-N		3.5		cellobiose as substrate, pH 3.5
+60	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L		3.5		cellobiose as substrate, pH 3.5
+61	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N		3.5		cellobiose as substrate, pH 3.5
+63	2,6-dichlorphenolindophenol	5611	JSPYBAXQKZYERT-UHFFFAOYSA-N				
+74	FAD	14	VWWQXMAJTJZDQX-UYBVJOGSSA-N				reduction rate increases with increasing concententrations of the electron acceptors methyl-1,4-benzoquinone or Fe3+
+96.9	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				at 5.0 pH and 30 C
+101.6	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N				at 5.0 pH and 30 C
+136.3	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				at 5.0 pH and 30 C
+156	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N				at 5.0 pH and 30 C

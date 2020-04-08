@@ -1,0 +1,73 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+8.3	D-Ala-D-Ala	1021	DEFJQIDDEAULHB-QWWZWVQMSA-N	25	7.4		pH 7.4, 25C
+0.2	Nalpha,Nepsilon-Diacetyl-L-Lys-D-Ala-D-Ala	2299	VIHGYLJIMMKSBR-BREBYQMCSA-N	37	7.2	X	above, pH 7.2, 37C, mutant enzyme C98A
+0.3	Nalpha,Nepsilon-Diacetyl-L-Lys-D-Ala-D-Ala	2299	VIHGYLJIMMKSBR-BREBYQMCSA-N	37	7.2		pH 7.2, 37C, wild-type enzyme
+0.56	Nalpha,Nepsilon-Diacetyl-L-Lys-D-Ala-D-Ala	2299	VIHGYLJIMMKSBR-BREBYQMCSA-N	37	8.5		recombinant PBP 6, in 50 mM Tris-HCl, pH 8.5, at 37C
+2.7	Nalpha,Nepsilon-Diacetyl-L-Lys-D-Ala-D-Ala	2299	VIHGYLJIMMKSBR-BREBYQMCSA-N	37	8.5		recombinant PBP 5, in 50 mM Tris-HCl, pH 8.5, at 37C
+2.42	N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine	3491	OWOCFWYBECIWPE-OTXQMQSUSA-N			X	mutant R361H
+2.78	N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine	3491	OWOCFWYBECIWPE-OTXQMQSUSA-N			X	mutant R361A
+2.91	N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine	3491	OWOCFWYBECIWPE-OTXQMQSUSA-N			X	mutant Q422A
+2.97	N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine	3491	OWOCFWYBECIWPE-OTXQMQSUSA-N			X	mutant Q422S
+2.98	N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine	3491	OWOCFWYBECIWPE-OTXQMQSUSA-N			X	mutant D155A
+3.01	N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine	3491	OWOCFWYBECIWPE-OTXQMQSUSA-N			X	mutant F160A
+3.47	N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine	3491	OWOCFWYBECIWPE-OTXQMQSUSA-N				wild type enzyme
+2.51	N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine	3989	WIMHCKWYHRMHBT-IKYMMJKTSA-N			X	mutant F160A
+2.68	N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine	3989	WIMHCKWYHRMHBT-IKYMMJKTSA-N			X	mutant R361H
+2.87	N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine	3989	WIMHCKWYHRMHBT-IKYMMJKTSA-N			X	mutant R361A
+3.02	N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine	3989	WIMHCKWYHRMHBT-IKYMMJKTSA-N			X	mutant Q422S
+3.13	N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine	3989	WIMHCKWYHRMHBT-IKYMMJKTSA-N				wild type enzyme
+3.18	N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine	3989	WIMHCKWYHRMHBT-IKYMMJKTSA-N			X	mutant Q422A
+0.015	phenylacetyl-D-Ala-thioglycolate	6498	VFUPLKGPCOIXET-SECBINFHSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme K38H
+0.5	phenylacetyl-D-Ala-thioglycolate	6498	VFUPLKGPCOIXET-SECBINFHSA-N	37	7.2		above, pH 7.2, 37C, wild-type enzyme
+0.87	phenylacetyl-D-Ala-thioglycolate	6498	VFUPLKGPCOIXET-SECBINFHSA-N	37	7.2	X	above, pH 7.2, 37C, mutant enzyme C98A
+6.08	phenylacetyl-D-Ala-thioglycolate	6498	VFUPLKGPCOIXET-SECBINFHSA-N	37	7.2	X	above, pH 7.2, 37C, mutant enzyme C98A
+17.5	diacetyl-L-Lys-D-Ala-D-Ala	2299	VIHGYLJIMMKSBR-BREBYQMCSA-N				Streptomyces sp. R39
+17.5	diacetyl-L-Lys-D-Ala-D-Ala	2299	VIHGYLJIMMKSBR-BREBYQMCSA-N				Streptomyces sp. R39
+55	diacetyl-L-Lys-D-Ala-D-Ala	2299	VIHGYLJIMMKSBR-BREBYQMCSA-N				Streptomyces sp. R61
+267	diacetyl-L-Lys-D-Ala-D-Ala	2299	VIHGYLJIMMKSBR-BREBYQMCSA-N				54000 MW enzyme
+350	diacetyl-L-Lys-D-Ala-D-Ala	2299	VIHGYLJIMMKSBR-BREBYQMCSA-N				40000 MW enzyme
+0.006	benzoyl-Gly-thiolactate	7635	VGTLUSISELTJKM-UHFFFAOYSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme K38H
+0.017	benzoyl-Gly-thiolactate	7635	VGTLUSISELTJKM-UHFFFAOYSA-N	37	7.2		pH 7.2, 37C, wild-type enzyme
+0.08	benzoyl-Gly-thiolactate	7635	VGTLUSISELTJKM-UHFFFAOYSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme C98A
+44	3-carboxyphenyl N-(phenylacetyl)-alpha-methoxyglycinate	7979	LRWXIFQISFQWGQ-UHFFFAOYSA-N				
+106	3-carboxyphenyl N-(phenylacetyl)-alpha-methoxyglycinate	7979	LRWXIFQISFQWGQ-UHFFFAOYSA-N				
+114	3-carboxyphenyl N-(phenylacetyl)-alpha-methoxyglycinate	7979	LRWXIFQISFQWGQ-UHFFFAOYSA-N				
+0.65	3-carboxyphenyl N-(phenylacetyl)-alpha-serinate	7980	YQLRGZBWHXQECM-UHFFFAOYSA-N				
+2.2	3-carboxyphenyl N-(phenylacetyl)-alpha-serinate	7980	YQLRGZBWHXQECM-UHFFFAOYSA-N				
+22	3-carboxyphenyl N-(phenylacetyl)-alpha-serinate	7980	YQLRGZBWHXQECM-UHFFFAOYSA-N				
+0.13	Nalpha-Acetyl-L-Lys-D-Ala-D-Ala	8444	GMSXMADYKTYBCP-KKZNHRDASA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme C98A
+0.45	Nalpha-Acetyl-L-Lys-D-Ala-D-Ala	8444	GMSXMADYKTYBCP-KKZNHRDASA-N	37	7.2		pH 7.2, 37C, wild-type enzyme
+0.43	Nalpha,Nepsilon-diacetyl-L-Lys-D-Ala-thiolactate	11484	IDGFFFXFBSIESL-IGQDVTDXSA-N	37	7.2		above, pH 7.2, 37C, wild-type enzyme
+1.1	Nalpha,Nepsilon-diacetyl-L-Lys-D-Ala-thiolactate	11484	IDGFFFXFBSIESL-IGQDVTDXSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme C98A
+0.6	phenylacetyl-D-Ala-thiolactate	11485	QIRPNNRRBPVSRH-YHMJZVADSA-N	37	7.2		pH 7.2, 37C, wild-type enzyme
+2.2	phenylacetyl-D-Ala-thiolactate	11485	QIRPNNRRBPVSRH-YHMJZVADSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme C98A
+0.024	benzoyl-Gly-thioglycolate	11486	ZLLFKMLNHKUVOF-UHFFFAOYSA-N	37	7.2		above, pH 7.2, 37C, wild-type enzyme
+0.08	benzoyl-Gly-thioglycolate	11486	ZLLFKMLNHKUVOF-UHFFFAOYSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme C98A
+0.11	benzoyl-D-Ala-thioglycolate	11487	OEJDVGZWJKPUDA-MRVPVSSYSA-N	37	7.2		pH 7.2, 37C, wild-type enzyme
+0.3	benzoyl-D-Ala-thioglycolate	11487	OEJDVGZWJKPUDA-MRVPVSSYSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme C98A
+0.1	N-alpha-acetyl-L-Lys-D-Ala-thiolactate	14782	OQEWMRLFTPRDFG-RTVRGBPTSA-N	37	7.2		pH 7.2, 37C, wild-type enzyme
+0.8	N-alpha-acetyl-L-Lys-D-Ala-thiolactate	14782	OQEWMRLFTPRDFG-RTVRGBPTSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme C98A
+34.5	N,N'-diacetyl-L-lysyl-D-alanyl-D-alanine	2299	VIHGYLJIMMKSBR-BREBYQMCSA-N				
+1.1	N-[N-acetyl-4-O-[2-(acetylamino)-2-deoxy-beta-D-glucopyranosyl]-1-O-methyl-beta-muramoyl]-L-alanyl-D-gamma-glutamyl-L-lysyl-D-alanyl-D-alanine	113210	JOINUXSTSJWDMM-UMNDGPKASA-N	25	7.5		pH 7.5, 25C
+0.9	N-(N-acetyl-1-O-methyl-beta-muramoyl)-L-alanyl-D-gamma-glutamyl-L-lysyl-D-alanyl-D-alanine	22426	JXJKEMJZBRKQFW-IITKAGJMSA-N	25	7.5		pH 7.5, 25C
+69	Gly-L-alpha-amino-epsilon-pimelyl-D-Ala-D-Ala	22644	OJYNODFISNIDDJ-LGUIWLBCSA-N				
+12.8	Gly-gamma-L-Glu-D-Ala-D-Ala	22645	ZERCIYMNBZZQPM-PRJMDXOYSA-N				
+42	3-(N-glycyl-L-cysteinyl)-propanoyl-D-alanyl-D-thiolactate	23942	DGVIZEQJNRQEFI-HLTSFMKQSA-N				
+69	glycyl-L-alpha-amino-epsilon-pimelyl-D-alanyl-D-alanine	23943	RALBRZJHHGWNNU-BBBLOLIVSA-N				
+48	3-(N-glycyl-L-cysteinyl)propanoyl-D-alanyl-D-alanine	23944	PYQFXMKTWDCPQY-HLTSFMKQSA-N				
+0.25	3-(N-acetyl-L-cysteinyl)propanoyl-D-alanyl-D-alanine	23945	OXDCZMPNNGRPLS-MRTMQBJTSA-N				
+2.4	3-(N-glycyl-cysteaminyl)propanoyl-D-alanyl-D-alanine	23946	MDRVWTFFPBXRLP-RKDXNWHRSA-N				
+0.17	2-(N-glycyl-L-cysteinyl)acetyl-D-alanyl-D-alanine	23947	LLKFMESBUQCGCL-PRJMDXOYSA-N				
+0.27	3-(N-glycyl-L-cysteinyl)butanoyl-D-alanyl-D-alanine	23948	PIKFTVFEPZCQJZ-BBBLOLIVSA-N				
+5.7	(2R)-2-[[N-(phenylacetyl)glycyl]sulfanyl]propanoic acid	24521	BEDYRCUKRGSWKZ-SECBINFHSA-N				
+31	3-[[N-(phenylacetyl)-D-alanyl]oxy]benzoic acid	24612	VDOKGVYXYSFUIX-GFCCVEGCSA-N				
+1.51	3-[[N-(phenylacetyl)glycyl]oxy]benzoic acid	11691	YVDBYFABAPNOIJ-UHFFFAOYSA-N				
+48	glycyl-S-(3-[[(1R)-2-[[(1R)-1-carboxyethyl]amino]-1-methyl-2-oxoethyl]amino]-3-oxopropyl)-L-cysteine	23944	PYQFXMKTWDCPQY-HLTSFMKQSA-N				
+69	N-[(6S)-6-carboxy-6-(glycylamino)hexanoyl]-D-alanyl-D-alanine	23943	RALBRZJHHGWNNU-BBBLOLIVSA-N				
+81	glycyl-S-(3-[[(1R)-2-[[(1R)-1-carboxyethyl]sulfanyl]-1-methyl-2-oxoethyl]amino]-3-oxopropyl)-L-cysteine	23942	DGVIZEQJNRQEFI-HLTSFMKQSA-N				
+1.41	L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala	27404	MCIBYIIODNXVSL-MQLXINIDSA-N	37	8.5		recombinant PBP 5, in 50 mM Tris-HCl, pH 8.5, at 37C
+6.9	3-carboxyphenyl (2R)-N-(phenylacetyl)-2-hydroxyglycinate	114690	XTBNVGCGTMFMFM-OAHLLOKOSA-N	25	7.5		pH 7.5, 25C
+10.4	3-carboxyphenyl (2R)-N-(phenylacetyl)-2-hydroxyglycinate	114690	XTBNVGCGTMFMFM-OAHLLOKOSA-N	25	7.5		pH 7.5, 25C
+4	3-carboxyphenyl (2R)-N-(phenylacetyl)-2-methoxyglycinate	114691	LRWXIFQISFQWGQ-MRXNPFEDSA-N	25	7.5		pH 7.5, 25C
+114	3-carboxyphenyl (2R)-N-(phenylacetyl)-2-methoxyglycinate	114691	LRWXIFQISFQWGQ-MRXNPFEDSA-N	25	7.5		pH 7.5, 25C
+12.5	acetyl-L-Lys-D-Ala-D-Ala	8444	GMSXMADYKTYBCP-KKZNHRDASA-N	25	7.4		pH 7.4, 25C

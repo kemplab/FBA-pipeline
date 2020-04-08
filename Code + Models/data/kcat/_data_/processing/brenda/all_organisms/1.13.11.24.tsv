@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.65	quercetin	131	REFJWTPEDVJJIY-UHFFFAOYSA-N				Fe quercetin 2,3-dioxygenase
+1.45	quercetin	131	REFJWTPEDVJJIY-UHFFFAOYSA-N				
+6.7	quercetin	131	REFJWTPEDVJJIY-UHFFFAOYSA-N				Co quercetin 2,3-dioxygenase (0.65 atoms Co/subunit)
+7.6	quercetin	131	REFJWTPEDVJJIY-UHFFFAOYSA-N		8		recombinant Co-QueD, 50 mM Tris-HCl buffer pH 8
+12.5	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N		8		recombinant Co-QueD, 50 mM Tris-HCl buffer pH 8
+19	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N		8		recombinant Ni-QueD, 50 mM Tris-HCl buffer pH 8
+25	quercetin	131	REFJWTPEDVJJIY-UHFFFAOYSA-N				Mn quercetin 2,3-dioxygenase (1.8 atoms Mn/subunit)
+33.3	galangin	1567	VCCRNZQBSJXYJD-UHFFFAOYSA-N	25	6		pH 6, 25C
+40.1	quercetin	131	REFJWTPEDVJJIY-UHFFFAOYSA-N		8		recombinant Ni-QueD, 50 mM Tris-HCl buffer pH 8
+56.7	fisetin	955	XHEFDIBZLJXQHF-UHFFFAOYSA-N	25	6		pH 6, 25C
+166.7	quercetin	131	REFJWTPEDVJJIY-UHFFFAOYSA-N	25	6		pH 6, 25C
+466.7	kaempferol	341	IYRMWMYZSQPJKC-UHFFFAOYSA-N	25	6		pH 6, 25C

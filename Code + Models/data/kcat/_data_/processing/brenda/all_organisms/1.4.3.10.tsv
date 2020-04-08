@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.29	spermidine	140	ATHGHQPFGPMSJY-UHFFFAOYSA-N	55	8.0		at pH 8.0 and 55C
+1.4	spermidine	140	ATHGHQPFGPMSJY-UHFFFAOYSA-N	25	8.0		wild type enzyme, in 50 mM Tris-HCl buffer, pH 8.0, at 25C
+0.79	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	394	8.3	X	mutant enzyme P15I/A394C, at pH 8.3 and 25C
+0.95	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	394	8.3	X	mutant enzyme A394C/A396T/Q431G, at pH 8.3 and 25C
+2.4	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	394	8.3	X	mutant enzyme A394C, at pH 8.3 and 25C
+3.2	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	25	9.0	X	mutant enzyme E324L, in 50 mM Tris-HCl buffer, pH 9.0, at 25C
+6.1	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	25	9.0	X	mutant enzyme E324A, in 50 mM Tris-HCl buffer, pH 9.0, at 25C
+19	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	25	8.3		wild type enzyme, at pH 8.3 and 25C
+20.7	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	25	9.0		wild type enzyme, in 50 mM Tris-HCl buffer, pH 9.0, at 25C
+26.4	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	25	8.0		wild type enzyme, in 50 mM Tris-HCl buffer, pH 8.0, at 25C
+31.8	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	55	8.0		at pH 8.0 and 55C
+0.0198	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	25	8.0		wild type enzyme, in 50 mM Tris-HCl buffer, pH 8.0, at 25C
+0.18	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	25	8.0		wild type enzyme, in 50 mM Tris-HCl buffer, pH 8.0, at 25C
+1.72	cadaverine	444	VHRGRCVQAFMJIZ-UHFFFAOYSA-N	55	8.0		at pH 8.0 and 55C
+3.9	cadaverine	444	VHRGRCVQAFMJIZ-UHFFFAOYSA-N	25	8.0		wild type enzyme, in 50 mM Tris-HCl buffer, pH 8.0, at 25C
+0.37	1,6-diaminohexane	1148	NAQMVNRVTILPCV-UHFFFAOYSA-N	25	8.0		wild type enzyme, in 50 mM Tris-HCl buffer, pH 8.0, at 25C
+7.5	2-hydroxyputrescine	7485	HXMVNCMPQGPRLN-UHFFFAOYSA-N	25	8.0		wild type enzyme, in 50 mM Tris-HCl buffer, pH 8.0, at 25C

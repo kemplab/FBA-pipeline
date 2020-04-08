@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.26	phenyl 6-phospho-alpha-D-glucoside	12287	YOENDVQTCKDPMO-ZIQFBCGOSA-N	37	8.4		at 37C in Tris-HCl buffer, pH 8.4
+0.42	methyl 6-phospho-alpha-D-glucoside	7930	RXYNVAYAPLNZFK-ZFYZTMLRSA-N	37	7.5		at 37C in HEPES buffer, pH 7.5
+0.7	4-nitrophenyl 6-phospho-alpha-D-glucoside	12286	ULWWOIRVCLMNOB-ZIQFBCGOSA-N	37	7.5		at 37C in HEPES buffer, pH 7.5
+0.72	3,4-dinitrophenyl 6-phospho-alpha-D-glucoside	12285	JNUUKVBBGBPKBE-ZIQFBCGOSA-N	37	7.5		at 37C in HEPES buffer, pH 7.5
+0.81	3,4-dinitrophenyl 6-phospho-alpha-D-glucoside	12285	JNUUKVBBGBPKBE-ZIQFBCGOSA-N	37	8.4		at 37C in Tris-HCl buffer, pH 8.4
+0.85	4-nitrophenyl 6-phospho-alpha-D-glucoside	12286	ULWWOIRVCLMNOB-ZIQFBCGOSA-N	37	8.4		at 37C in Tris-HCl buffer, pH 8.4
+0.9	phenyl 6-phospho-alpha-D-glucoside	12287	YOENDVQTCKDPMO-ZIQFBCGOSA-N	37	7.5		at 37C in HEPES buffer, pH 7.5
+1.1	methyl 6-phospho-alpha-D-glucoside	7930	RXYNVAYAPLNZFK-ZFYZTMLRSA-N	37	8.4		at 37C in Tris-HCl buffer, pH 8.4
+1.3	maltose 6'-phosphate	3569	ITPHOIFCAFNCLL-QUYVBRFLSA-N	37	7.5		at 37C in HEPES buffer, pH 7.5; at 37C in Tris-HCl buffer, pH 8.4
+128	maltose 6'-phosphate	3569	ITPHOIFCAFNCLL-QUYVBRFLSA-N	37	7.0		at pH 7.0 and 37C

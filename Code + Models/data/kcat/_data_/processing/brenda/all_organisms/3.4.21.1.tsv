@@ -1,0 +1,178 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.015	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	27	7.8		25 mM sodium 1,4-bis(2-ethylhexyl)sulfosuccinate, ratio [H2O]/[sodium 1,4-bis(2-ethylhexyl)sulfosuccinate] = 20, pH 7.8, 27C
+0.024	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	27	7.8		5 mM sodium 1,4-bis(2-ethylhexyl)sulfosuccinate, ratio [H2O]/[sodium 1,4-bis(2-ethylhexyl)sulfosuccinate] = 20, pH 7.8, 27C
+0.046	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	27	7.8		25 mM sodium 1,4-bis(2-ethylhexyl)sulfosuccinate, ratio [H2O]/[sodium 1,4-bis(2-ethylhexyl)sulfosuccinate] = 10, pH 7.8, 27C; 25 mM sodium 1,4-bis(2-ethylhexyl)sulfosuccinate, ratio [H2O]/[sodium 1,4-bis(2-ethylhexyl)sulfosuccinate] = 5, pH 7.8, 27C
+0.062	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	27	7.8		5 mM sodium 1,4-bis(2-ethylhexyl)sulfosuccinate, ratio [H2O]/[sodium 1,4-bis(2-ethylhexyl)sulfosuccinate] = 5, pH 7.8, 27C
+0.1	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	27	7.8		5 mM sodium 1,4-bis(2-ethylhexyl)sulfosuccinate, ratio [H2O]/[sodium 1,4-bis(2-ethylhexyl)sulfosuccinate] = 10, pH 7.8, 27C
+0.017	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.5		in 20 mM Tris/HCl pH 7.5 at 25C
+0.028	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.5		in the presence of 20 mM hexadecyltrimethylammonium bromide, in 20 mM Tris/HCl pH 7.5 at 25C
+3.8	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N		8.5		pH 8.5, temperature not specified in the publication
+6.2	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				PEG700-alpha-chymotrypsin, degree of PEGylation: 7.9
+7.6	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				PEG2000-alpha-chymotrypsin, degree of PEGylation: 4.2
+7.9	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				PEG2000-alpha-chymotrypsin, degree of PEGylation: 9.1
+8.3	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				PEG5000-alpha-chymotrypsin, degree of PEGylation: 6.0
+8.6	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				PEG5000-alpha-chymotrypsin, degree of PEGylation: 7.6
+8.7	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				PEG5000-alpha-chymotrypsin, degree of PEGylation: 4.2
+9.4	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				PEG2000-alpha-chymotrypsin, degree of PEGylation: 8.4
+10.2	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				PEG5000-alpha-chymotrypsin, degree of PEGylation: 2.9
+10.7	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				PEG2000-alpha-chymotrypsin, degree of PEGylation: 2.2
+11.6	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				PEG700-alpha-chymotrypsin, degree of PEGylation: 3.8
+12.1	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				alpha-chymotrypsin, unmodified
+13.1	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				PEG5000-alpha-chymotrypsin, degree of PEGylation: 1.3
+13.5	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				PEG2000-alpha-chymotrypsin, degree of PEGylation: 1.3
+0.66	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	10			10C
+4.13	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	20			20C
+8.05	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	50			50C
+12.8	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	30			30C
+21.7	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	40			40C
+10.58	N-succinyl-Ala-Ala-Pro-Phe-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				chymotrypsin 4
+77	N-succinyl-Ala-Ala-Pro-Phe-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2, 3 M NaCl
+110	N-succinyl-Ala-Ala-Pro-Phe-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2
+0.03	N-benzoyl-L-tyrosine ethyl ester	2492	SRLROPAFMUDDRC-INIZCTEOSA-N				transesterfication in 10% methanol
+0.031	N-benzoyl-L-tyrosine ethyl ester	2492	SRLROPAFMUDDRC-INIZCTEOSA-N				transesterfication in 30% methanol
+1.3	N-benzoyl-L-tyrosine ethyl ester	2492	SRLROPAFMUDDRC-INIZCTEOSA-N	25	7.5		25C, pH 7.5
+6.77	N-benzoyl-L-tyrosine ethyl ester	2492	SRLROPAFMUDDRC-INIZCTEOSA-N				transesterfication in 10% methanol
+8.13	N-benzoyl-L-tyrosine ethyl ester	2492	SRLROPAFMUDDRC-INIZCTEOSA-N				transesterfication in 30% methanol
+45.9	N-benzoyl-L-tyrosine ethyl ester	2492	SRLROPAFMUDDRC-INIZCTEOSA-N	25	7.5		25C, pH 7.5
+70.4	N-benzoyl-L-tyrosine ethyl ester	2492	SRLROPAFMUDDRC-INIZCTEOSA-N	25	7.5		25C, pH 7.5
+43	N-benzoyl-L-Tyr ethyl ester	2492	SRLROPAFMUDDRC-INIZCTEOSA-N	10			at 10C
+100	N-benzoyl-L-Tyr ethyl ester	2492	SRLROPAFMUDDRC-INIZCTEOSA-N	35			at 35C
+117	N-benzoyl-L-Tyr ethyl ester	2492	SRLROPAFMUDDRC-INIZCTEOSA-N	10			enzyme form A, at 10C
+120	N-benzoyl-L-Tyr ethyl ester	2492	SRLROPAFMUDDRC-INIZCTEOSA-N	10			enzyme form B, at 10C
+142	N-benzoyl-L-Tyr ethyl ester	2492	SRLROPAFMUDDRC-INIZCTEOSA-N	35			at 35C
+207	N-benzoyl-L-Tyr ethyl ester	2492	SRLROPAFMUDDRC-INIZCTEOSA-N	25			enzyme form A, at 25C
+214	N-benzoyl-L-Tyr ethyl ester	2492	SRLROPAFMUDDRC-INIZCTEOSA-N	32			enzyme form B, at 32C
+276	N-benzoyl-L-Tyr ethyl ester	2492	SRLROPAFMUDDRC-INIZCTEOSA-N	35			enzyme form B, at 35C
+329	N-benzoyl-L-Tyr ethyl ester	2492	SRLROPAFMUDDRC-INIZCTEOSA-N	35			enzyme form A, at 35C
+5.3	acetyl-Phe ethyl ester	2819	YIVZYFDBEPMPNL-LBPRGKRZSA-N				
+52.4	acetyl-Phe ethyl ester	2819	YIVZYFDBEPMPNL-LBPRGKRZSA-N				
+25.4	Acetyl-Tyr ethyl ester	2967	SKAWDTAMLOJQNK-LBPRGKRZSA-N				
+126	Acetyl-Tyr ethyl ester	2967	SKAWDTAMLOJQNK-LBPRGKRZSA-N				
+0.05	N-benzoyl-Tyr p-nitroanilide	3023	MXLIQBXBMUACQK-FQEVSTJZSA-N	10	10		at pH 10C
+0.1	N-benzoyl-Tyr p-nitroanilide	3023	MXLIQBXBMUACQK-FQEVSTJZSA-N	10	10		enzyme form A and enzyme form B, at pH 10C
+0.3	N-benzoyl-Tyr p-nitroanilide	3023	MXLIQBXBMUACQK-FQEVSTJZSA-N	25			at 25C
+0.41	N-benzoyl-Tyr p-nitroanilide	3023	MXLIQBXBMUACQK-FQEVSTJZSA-N	35			at 35C
+0.41	N-benzoyl-Tyr p-nitroanilide	3023	MXLIQBXBMUACQK-FQEVSTJZSA-N	25			enzyme form A, 25C
+0.42	N-benzoyl-Tyr p-nitroanilide	3023	MXLIQBXBMUACQK-FQEVSTJZSA-N	25			enzyme form B, at 25C
+0.72	N-benzoyl-Tyr p-nitroanilide	3023	MXLIQBXBMUACQK-FQEVSTJZSA-N	25			enzyme form B, at 25C
+0.82	N-benzoyl-Tyr p-nitroanilide	3023	MXLIQBXBMUACQK-FQEVSTJZSA-N	35			enzyme form A, at 35C
+0.9	succinyl-Leu-Leu-Val-Tyr-7-amido-4-methylcoumarin	3399	UVFAEQZFLBGVRM-MSMWPWNWSA-N	37	7.5		at pH 7.5 and 37C
+2.7	succinyl-Leu-Leu-Val-Tyr-7-amido-4-methylcoumarin	3399	UVFAEQZFLBGVRM-MSMWPWNWSA-N	37	7.5		chymotrypsin A, at pH 7.5 and 37C
+3.4	succinyl-Leu-Leu-Val-Tyr-7-amido-4-methylcoumarin	3399	UVFAEQZFLBGVRM-MSMWPWNWSA-N	37	7.5		chymotrypsin B, at pH 7.5 and 37C
+0.015	N-glutaryl-L-Phe-p-nitroanilide	3934	LFZGBNATHRHOKZ-KRWDZBQOSA-N	25	7.8		25C, pH 7.8
+0.017	N-glutaryl-L-Phe-p-nitroanilide	3934	LFZGBNATHRHOKZ-KRWDZBQOSA-N	25	7.8		25C, pH 7.8, in the presence of 10 mM tetrabutylammonium bromide
+0.025	N-glutaryl-L-Phe-p-nitroanilide	3934	LFZGBNATHRHOKZ-KRWDZBQOSA-N	25	7.8		25C, pH 7.8, in the presence of 1000 mM tetrabutylammonium bromide
+0.034	N-glutaryl-L-Phe-p-nitroanilide	3934	LFZGBNATHRHOKZ-KRWDZBQOSA-N	25	7.8		25C, pH 7.8, in the presence of 2 mM NaClO4
+0.039	N-glutaryl-L-Phe-p-nitroanilide	3934	LFZGBNATHRHOKZ-KRWDZBQOSA-N	25	7.8		25C, pH 7.8, in the presence of 2.5 mM NaCl
+0.31	N-glutaryl-L-Phe-p-nitroanilide	3934	LFZGBNATHRHOKZ-KRWDZBQOSA-N	25	7.8		25C, pH 7.8, in the presence of 400 mM tetrabutylammonium bromide
+0.006	N-succinyl-Ala-Ala-Pro-Lys-p-nitroanilide	3935	SSKJMHLJNHUFHI-USNOLKROSA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2
+0.01	N-succinyl-Ala-Ala-Pro-Lys-p-nitroanilide	3935	SSKJMHLJNHUFHI-USNOLKROSA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2, 3 M LiCl
+0.026	N-succinyl-Ala-Ala-Pro-Lys-p-nitroanilide	3935	SSKJMHLJNHUFHI-USNOLKROSA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2, 3 M KCl
+0.26	N-succinyl-Ala-Ala-Pro-Lys-p-nitroanilide	3935	SSKJMHLJNHUFHI-USNOLKROSA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2, 3 M NaCl
+0.27	N-succinyl-Ala-Ala-Pro-Lys-p-nitroanilide	3935	SSKJMHLJNHUFHI-USNOLKROSA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2, 800 mM NaF
+0.34	N-succinyl-Ala-Ala-Pro-Lys-p-nitroanilide	3935	SSKJMHLJNHUFHI-USNOLKROSA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2, 3 M NaBr
+57.5	benzoyl-Tyr ethyl ester	2492	SRLROPAFMUDDRC-INIZCTEOSA-N				
+76.6	benzoyl-Tyr ethyl ester	2492	SRLROPAFMUDDRC-INIZCTEOSA-N				
+19.24	Suc-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	9.0		pH 9.0, 25C
+82.8	N-Acetyl-L-tyrosine ethyl ester	4880	SKAWDTAMLOJQNK-UHFFFAOYSA-N	25	7.5		25C, pH 7.5
+119.5	N-Acetyl-L-tyrosine ethyl ester	4880	SKAWDTAMLOJQNK-UHFFFAOYSA-N	25	7.5		25C, pH 7.5
+120	N-Acetyl-L-tyrosine ethyl ester	4880	SKAWDTAMLOJQNK-UHFFFAOYSA-N	25	7.5		25C, pH 7.5
+6.6	acetyl-Leu methyl ester	5531	IIGAKARAJMXVOZ-QMMMGPOBSA-N				
+22.1	acetyl-Leu methyl ester	5531	IIGAKARAJMXVOZ-QMMMGPOBSA-N				
+9.3	acetyl-Trp ethyl ester	5532	KQGQONPKSKUHHT-AWEZNQCLSA-N				
+48.4	acetyl-Trp ethyl ester	5532	KQGQONPKSKUHHT-AWEZNQCLSA-N				
+4.8	succinyl-Ala-Ala-Pro-Phe-p-nitroanilide	5583	DNWUBTCVGCPXED-FJDVCKPCSA-N	30			at 30C, chymotrypsin II
+18.6	succinyl-Ala-Ala-Pro-Phe-p-nitroanilide	5583	DNWUBTCVGCPXED-FJDVCKPCSA-N	30			at 30C, chymotrypsin I
+40.3	N-acetyl-L-phenylalanine ethyl ester	2819	YIVZYFDBEPMPNL-LBPRGKRZSA-N	25	7.5		25C, pH 7.5
+54.8	N-acetyl-L-phenylalanine ethyl ester	2819	YIVZYFDBEPMPNL-LBPRGKRZSA-N	25	7.5		25C, pH 7.5
+98.3	succinyl-Ala-Ala-Pro-Phe-7-amido-4-methylcoumarin	6501	FMVUZZZUYBXQGR-KCXKOMAXSA-N	37	8.0		37C, pH 8.0
+2.34	N-benzoyl-L-tyrosine methyl ester	6502	GFVUIPNILAJZEC-HNNXBMFYSA-N				transesterfication in 10% ethanol
+2.94	N-benzoyl-L-tyrosine methyl ester	6502	GFVUIPNILAJZEC-HNNXBMFYSA-N				transesterfication in 10% ethanol
+10.8	N-benzoyl-L-tyrosine methyl ester	6502	GFVUIPNILAJZEC-HNNXBMFYSA-N				transesterfication in 90% ethanol
+0.031	N-succinyl-Ala-Ala-Pro-Leu-p-nitroanilide	5707	PTHRPHGMGFMCSS-USNOLKROSA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2
+8.04	N-succinyl-Ala-Ala-Pro-Leu-p-nitroanilide	5707	PTHRPHGMGFMCSS-USNOLKROSA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2
+16	N-succinyl-Ala-Ala-Pro-Leu-p-nitroanilide	5707	PTHRPHGMGFMCSS-USNOLKROSA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2, 3 M NaCl
+0.6	Nalpha-benzyloxycarbonyl-L-Lys p-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N		4.0		at pH 4.0
+105	succinyl-Ala-Ala-Pro-Tyr-7-amido-4-methylcoumarin	7640	CPTYKGKFXMAFEG-HKDRDPIHSA-N	37	8.0		37C, pH 8.0
+0.04	N-succinyl-Ala-Ala-Pro-Nva-p-nitroanilide	7641	ZNWNJYFEOLWFHC-FVCZOJIISA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2, 3 M NaCl
+3.3	N-succinyl-Ala-Ala-Pro-Nva-p-nitroanilide	7641	ZNWNJYFEOLWFHC-FVCZOJIISA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2
+5.32	N-succinyl-Ala-Ala-Pro-Nva-p-nitroanilide	7641	ZNWNJYFEOLWFHC-FVCZOJIISA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2
+9.31	N-succinyl-Ala-Ala-Pro-Nva-p-nitroanilide	7641	ZNWNJYFEOLWFHC-FVCZOJIISA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2, 3 M NaCl
+0.008	Nalpha-benzyloxycarbonyl-L-Ala p-nitrophenyl ester	8655	PAHTWRVMGYRHBA-LBPRGKRZSA-N		4.0		at pH 4.0
+0.3	Nalpha-benzyloxycarbonyl-L-Ala p-nitrophenyl ester	8655	PAHTWRVMGYRHBA-LBPRGKRZSA-N		6.0		at pH 6.0
+6.43	Nalpha-benzyloxycarbonyl-L-Ala p-nitrophenyl ester	8655	PAHTWRVMGYRHBA-LBPRGKRZSA-N		6.0		at pH 6.0
+0.9	N-succinyl-Ala-Phe-Ala	11496	HNPJNFDUXAGXID-OBJOEFQTSA-N	30	8.0		30C, pH 8.0, determined by competition with N-succinyl-Ala-Phe-p-nitroanilide
+1.2	N-succinyl-Ala-Phe-Ala	11496	HNPJNFDUXAGXID-OBJOEFQTSA-N	30	8.0		30C, pH 8.0, HPLC-based assay
+1.45	N-succinyl-Ala-Ala-Pro-Met-p-nitroanilide	11497	UAHYXBAKUGCYIL-FVCZOJIISA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2
+15	N-succinyl-Ala-Ala-Pro-Met-p-nitroanilide	11497	UAHYXBAKUGCYIL-FVCZOJIISA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2, 3 M NaCl
+0.014	N-succinyl-Ala-Ala-Pro-Arg-p-nitroanilide	3433	XHCDPNOVUNAIPA-FVCZOJIISA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2
+0.05	N-succinyl-Ala-Ala-Pro-Arg-p-nitroanilide	3433	XHCDPNOVUNAIPA-FVCZOJIISA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2, 3 M NaCl
+12	N-succinyl-Ala-Ala-Pro-Nle-p-nitroanilide	11498	JMMXHKRVUISFHK-USNOLKROSA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2
+18	N-succinyl-Ala-Ala-Pro-Nle-p-nitroanilide	11498	JMMXHKRVUISFHK-USNOLKROSA-N	21	8.3		21C, pH 8.3, 20 mM CaCl2, 3 M NaCl
+25.7	N-acetyl-L-tryptophan ethyl ester	11499	KQGQONPKSKUHHT-UHFFFAOYSA-N	25	7.5		25C, pH 7.5
+48.8	N-acetyl-L-tryptophan ethyl ester	11499	KQGQONPKSKUHHT-UHFFFAOYSA-N	25	7.5		25C, pH 7.5
+4.6	N-acetyl-L-leucine methyl ester	11500	IIGAKARAJMXVOZ-UHFFFAOYSA-N	25	7.5		25C, pH 7.5
+6.5	N-acetyl-L-leucine methyl ester	11500	IIGAKARAJMXVOZ-UHFFFAOYSA-N	25	7.5		25C, pH 7.5
+130	N-acetyl-L-Tyr-ethyl ester	2967	SKAWDTAMLOJQNK-LBPRGKRZSA-N	25	7.8		25C, pH 7.8, in non-denaturating water-acetone oxime mixture
+192	N-acetyl-L-Tyr-ethyl ester	2967	SKAWDTAMLOJQNK-LBPRGKRZSA-N	25	7.8		25C, pH 7.8, in non-denaturating water-1,4-butanediol mixture
+205	N-acetyl-L-Tyr-ethyl ester	2967	SKAWDTAMLOJQNK-LBPRGKRZSA-N	20	8.0		20C, pH 8.0, in non-denaturating water-dimethylsulfoxide mixture
+220	N-acetyl-L-Tyr-ethyl ester	2967	SKAWDTAMLOJQNK-LBPRGKRZSA-N	20	8.0		20C, pH 8.0, in non-denaturating water-ethanol mixture
+0.611	N-alpha-benzoyl-DL-arginine-p-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N				
+1.18	benzoyl-Gly-4-guanidinophenyl ester	14785	BFEOIOAUEZWWIG-UHFFFAOYSA-N	25	7.6		25C, pH 7.6
+6.08	benzoyl-Gly-4-guanidinophenyl ester	14785	BFEOIOAUEZWWIG-UHFFFAOYSA-N	25	7.6		25C, pH 7.6
+0.56	benzoyl-D-Ala-4-guanidinophenyl ester	14786	VBSIPOZDOWMQTR-LLVKDONJSA-N	25	7.6		25C, pH 7.6
+6.08	benzoyl-D-Ala-4-guanidinophenyl ester	14786	VBSIPOZDOWMQTR-LLVKDONJSA-N	25	7.6		25C, pH 7.6
+5.54	benzoyl-D-Phe-4-guanidinophenyl ester	14787	OPOLERNOEDATGG-HXUWFJFHSA-N	25	7.6		25C, pH 7.6
+3	benzoyl-D-Leu-4-guanidinophenyl ester	14788	DMEOBMDSXLFXQX-QGZVFWFLSA-N	25	7.6		25C, pH 7.6
+3.04	benzoyl-D-Leu-4-guanidinophenyl ester	14788	DMEOBMDSXLFXQX-QGZVFWFLSA-N	25	7.6		25C, pH 7.6
+18	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.5		pH 8.5, 25C
+21.5	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.0		pH 8.0, 25C
+0.014	N-succinyl-L-Phe-p-nitroanilide	21351	VYEXEUPAFHVQAC-INIZCTEOSA-N	25			at 25C
+85	Nalpha-benzyloxycarbonyl-L-Tyr p-nitrophenyl ester	21361	GTJGVFSBBKUCAE-NRFANRHFSA-N				
+21.4	Nalpha-tosyl-L-Tyr benzyl ester	21365	KHQSLURLUHVPHS-QFIPXVFZSA-N				
+23.9	N-succinyl-Leu-Leu-Val-Tyr-7-amido-4-methylcoumarin	3399	UVFAEQZFLBGVRM-MSMWPWNWSA-N		8.5		pH 8.5, temperature not specified in the publication
+0.65	N-succinyl-Ala-Phe-p-nitroanilide	22657	NFUHBPFHKBUATP-KSSFIOAISA-N	30	8.0		30C, pH 8.0
+10.4	benzoyl-L-Ala-4-guanidinophenyl ester	22658	VBSIPOZDOWMQTR-NSHDSACASA-N	25	7.6		25C, pH 7.6
+0.13	benzoyl-4-guanidinophenyl ester	22659	RBSOLDSGGFVMMV-UHFFFAOYSA-N	25	7.6		25C, pH 7.6
+0.1	N-acetyl-L-Tyr-p-nitroanilide	22956	MFQBQCCDKRQHCK-INIZCTEOSA-N	20	8.0		20C, pH 8.0, in non-denaturating water-dimethylsulfoxide mixture
+0.19	N-acetyl-L-Tyr-p-nitroanilide	22956	MFQBQCCDKRQHCK-INIZCTEOSA-N	20	8.0		20C, pH 8.0, in non-denaturating water-ethanol mixture
+7.8	N-succinyl-L-Ala-Ala-Pro-Phe-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25			at 25C
+39	N-succinyl-L-Ala-Ala-Phe-p-nitroanilide	4600	XRCMATIAAODPHY-FTRWYGJKSA-N	25			at 25C
+22.7	N-acetyl-L-Phe-Ala-Thr-Tyr-5-amido-2-nitrobenzoic acid	24865	DGPXISBLWGYVIK-URNZLLDHSA-N				
+6.1	N-acetyl-L-Phe-Ala-Thr-Phe-5-amido-2-nitrobenzoic acid	24866	GNMIXFASFMUPEI-KHJXBUEXSA-N				
+6.4	N-acetyl-L-Phe-Ala-Thr-Pal-5-amido-2-nitrobenzoic acid	24867	JKSJGMRKOFAVMR-HVBJCIGHSA-N				
+3	N-acetyl-L-Phe-Ala-Thr-Phe-(p-CN)-5-amido-2-nitrobenzoic acid	24868	VCSXGGBLLAFYQO-GSEFGCMFSA-N				
+0.6	N-acetyl-L-Phe-Ala-Thr-Phe-(p-NO2)-5-amido-2-nitrobenzoic acid	24869	JWBBARQSIXIMQB-URNZLLDHSA-N				
+16.2	N-acetyl-L-Phe-Ala-Thr-Phe-(p-NH2)-5-amido-2-nitrobenzoic acid	24870	XXQZLNZQJULJGO-URNZLLDHSA-N				
+6.5	N-acetyl-L-Phe-Ala-Thr-Phe-(p-guanidine)-5-amido-2-nitrobenzoic acid	24871	MJZWZJFAKCLINW-URNZLLDHSA-N				
+0.3	N-acetyl-L-Phe-Ala-Thr-Phe-(p-COOMe)-5-amido-2-nitrobenzoic acid	24872	NDPHDPXWASBICM-GSEFGCMFSA-N				
+1.8	N-benzyloxycarbonyl-L-Phe-Ala-Thr-Phe-(p-NO2)-5-amido-2-nitrobenzoic acid	24873	VCIYBTMJJFLNKW-LCVZJURRSA-N				
+16.7	N-benzyloxycarbonyl-L-Phe-Ala-Thr-Tyr-5-amido-2-nitrobenzoic acid	24874	VADMMRXORNBFMW-LCVZJURRSA-N				
+18.6	N-succinyl-L-Ala-Ala-Pro-p-nitroanilide	22003	XTZBWJQWDZTXFI-XEZPLFJOSA-N		8.0		in 50 mM Tris-HCl pH 8.0 with 10 mM CaCl2, at 30 C
+1.9	succinyl-L-Ala-Ala-Pro-L-phenylalanine-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	30			at 30C
+0.0075	4-nitrophenyl benzoate	118912	GMKZBFFLCONHDE-UHFFFAOYSA-N	27	7.8		pH 7.8, 27C
+0.0086	4-nitrophenyl benzoate	118912	GMKZBFFLCONHDE-UHFFFAOYSA-N	27	7.8		presence of 0.5 mM cetyltrimethylammonium bromide, pH 7.8, 27C
+0.013	4-nitrophenyl benzoate	118912	GMKZBFFLCONHDE-UHFFFAOYSA-N	27	7.8		presence of 2.0 mM cetyltrimethylammonium bromide, pH 7.8, 27C
+0.017	4-nitrophenyl benzoate	118912	GMKZBFFLCONHDE-UHFFFAOYSA-N	27	7.8		presence of 0.5 mM cetyltributylphosphonium bromide, pH 7.8, 27C
+0.0214	4-nitrophenyl benzoate	118912	GMKZBFFLCONHDE-UHFFFAOYSA-N	27	7.8		presence of 2.0 mM cetyltributylphosphonium bromide, pH 7.8, 27C
+0.024	4-nitrophenyl benzoate	118912	GMKZBFFLCONHDE-UHFFFAOYSA-N	27	7.8		presence of 0.5 mM cetyltriphenylphosphonium bromide, pH 7.8, 27C
+0.047	4-nitrophenyl benzoate	118912	GMKZBFFLCONHDE-UHFFFAOYSA-N	27	7.8		presence of 2.0 mM cetyltriphenylphosphonium bromide, pH 7.8, 27C
+42	N-succinyl-Ala-Ala-Pro-Phe-7-amido-4-methylcoumarin	6501	FMVUZZZUYBXQGR-KCXKOMAXSA-N		8.5		pH 8.5, temperature not specified in the publication
+3.6	succinyl-L-Ala-L-Ala-L-Pro-L-Leu-4-nitroanilide	5707	PTHRPHGMGFMCSS-USNOLKROSA-N	25	8.5		pH 8.5, 25C
+0.55	N-succinyl-Ala-Ala-Pro-Leu-4-nitroanilide	5707	PTHRPHGMGFMCSS-USNOLKROSA-N		8.5		pH 8.5, temperature not specified in the publication
+0.04	N-benzoyl-L-tyrosine-4-nitroanilide	20749	CJERUMAUMMIPRF-FQEVSTJZSA-N	25	7.6		presence of alpha,omega-alkanedyl-bis(hydroxyethylmethylcetyl) dibromide with a polymethylene spacer n-(CH2)6, pH 7.6, 25C
+0.15	N-benzoyl-L-tyrosine-4-nitroanilide	20749	CJERUMAUMMIPRF-FQEVSTJZSA-N	25	7.6		pH 7.6, 25C
+0.5	N-benzoyl-L-tyrosine-4-nitroanilide	20749	CJERUMAUMMIPRF-FQEVSTJZSA-N	25	7.6		presence of alpha,omega-alkanedyl-bis(hydroxyethylmethylcetyl) dibromide with a polymethylene spacer n-(CH2)10, pH 7.6, 25C
+0.013	N-benzoyl-L-tyrosine 4-nitroanilide	20749	CJERUMAUMMIPRF-FQEVSTJZSA-N	25	8.7		presence of 15% dimethyl sulfoxide, pH 8.7, 25C
+0.04	N-benzoyl-L-tyrosine 4-nitroanilide	20749	CJERUMAUMMIPRF-FQEVSTJZSA-N	25	8.7		water-dimethyl sulfoxide mixture encapsulated in 1,4-bis-2-ethylhexylsulfosuccinate/n-heptane reverse micelles, 7% dimethyl sulfoxide-water, pH 8.7, 25C
+0.055	N-benzoyl-L-tyrosine 4-nitroanilide	20749	CJERUMAUMMIPRF-FQEVSTJZSA-N	25	8.7		water-dimethyl sulfoxide mixture encapsulated in 1,4-bis-2-ethylhexylsulfosuccinate/n-heptane reverse micelles, 20% dimethyl sulfoxide-water, pH 8.7, 25C
+2.3	N-benzoyl-L-tyrosine 4-nitroanilide	20749	CJERUMAUMMIPRF-FQEVSTJZSA-N	25	8.7		presence of 7% dimethyl sulfoxide, pH 8.7, 25C
+0.154	N-succinyl-L-phenylalanine-4-nitroanilide	66263	KNBLWBFJHZHYFG-INIZCTEOSA-N		7.7		presence of 2 mM cetyltrimethylammonium bromide, 0.5 M 1-butyl-4-methylpyridinium chloride, pH 7.7, temperature not specified in the publication
+0.236	N-succinyl-L-phenylalanine-4-nitroanilide	66263	KNBLWBFJHZHYFG-INIZCTEOSA-N		7.7		presence of 2 mM cetyltrimethylammonium bromide, 0.5 M 1-butyl-1-methylpyrrolidinium, pH 7.7, temperature not specified in the publication
+0.362	N-succinyl-L-phenylalanine-4-nitroanilide	66263	KNBLWBFJHZHYFG-INIZCTEOSA-N		7.7		presence of 2 mM cetyltrimethylammonium bromide, 0.5 M 1-hexyl-3-methylimidazolium chloride, pH 7.7, temperature not specified in the publication
+0.417	N-succinyl-L-phenylalanine-4-nitroanilide	66263	KNBLWBFJHZHYFG-INIZCTEOSA-N		7.7		presence of 2 mM cetyltrimethylammonium bromide, 0.5 M 1-butyl-3-methylimidazoliumchloride, pH 7.7, temperature not specified in the publication
+0.48	N-succinyl-L-phenylalanine-4-nitroanilide	66263	KNBLWBFJHZHYFG-INIZCTEOSA-N		7.7		presence of 2 mM cetyltrimethylammonium bromide, 0.1 M 1-butyl-4-methylpyridinium chloride, pH 7.7, temperature not specified in the publication
+0.807	N-succinyl-L-phenylalanine-4-nitroanilide	66263	KNBLWBFJHZHYFG-INIZCTEOSA-N		7.7		presence of 2 mM cetyltrimethylammonium bromide, 0.1 M 1-hexyl-3-methylimidazolium chloride, pH 7.7, temperature not specified in the publication
+0.985	N-succinyl-L-phenylalanine-4-nitroanilide	66263	KNBLWBFJHZHYFG-INIZCTEOSA-N		7.7		presence of 2 mM cetyltrimethylammonium bromide, pH 7.7, temperature not specified in the publication
+1.054	N-succinyl-L-phenylalanine-4-nitroanilide	66263	KNBLWBFJHZHYFG-INIZCTEOSA-N		7.7		presence of 2 mM cetyltrimethylammonium bromide, 0.1 M 1-butyl-3-methylimidazoliumchloride, pH 7.7, temperature not specified in the publication
+1.177	N-succinyl-L-phenylalanine-4-nitroanilide	66263	KNBLWBFJHZHYFG-INIZCTEOSA-N		7.7		presence of 2 mM cetyltrimethylammonium bromide, 0.1 M 1-butyl-1-methylpyrrolidinium, pH 7.7, temperature not specified in the publication

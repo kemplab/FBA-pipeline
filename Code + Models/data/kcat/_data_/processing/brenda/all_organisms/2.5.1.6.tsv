@@ -1,0 +1,46 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000000217	tripolyphosphate	596	UNXRWKVEANCORM-UHFFFAOYSA-N			X	G8 mutant, tripolyphosphatase activity
+0.000000367	S-adenosylmethionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	RLL mutant, S-adenosylmethionine synthesis
+0.00000045	S-adenosylmethionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	G6 mutant, S-adenosylmethionine synthesis
+0.000000617	tripolyphosphate	596	UNXRWKVEANCORM-UHFFFAOYSA-N			X	G6 mutant, tripolyphosphatase activity
+0.000000633	tripolyphosphate	596	UNXRWKVEANCORM-UHFFFAOYSA-N			X	G5 mutant, tripolyphosphatase activity
+0.000000667	S-adenosylmethionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	G8 mutant, S-adenosylmethionine synthesis
+0.00000122	tripolyphosphate	596	UNXRWKVEANCORM-UHFFFAOYSA-N			X	RLL and G7 mutants, tripolyphosphatase activity
+0.00000167	tripolyphosphate	596	UNXRWKVEANCORM-UHFFFAOYSA-N				wild-type, tripolyphosphatase activity
+0.00000217	S-adenosylmethionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	G5 mutant, S-adenosylmethionine synthesis
+0.000012	S-adenosylmethionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	G7 mutant, S-adenosylmethionine synthesis
+0.0000883	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+0.0000883	S-adenosylmethionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				
+0.000417	S-adenosylmethionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				wild-type, S-adenosylmethionine synthesis
+0.004	tripolyphosphate	596	UNXRWKVEANCORM-UHFFFAOYSA-N				tripolyphosphase activity
+0.032	S-adenosylmethionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				S-adenosylmethionine synthesis activity
+0.0328	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0		pH 8.0, 37C, cosubstrate: L-methionine
+0.0343	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	37	8.0		pH 8.0, 37C
+0.039	L-ethionine	1094	GGLZPLKKBSSKCX-YFKPBYRVSA-N	37	8.0		pH 8.0, 37C
+0.041	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0		pH 8.0, 37C, cosubstrate: L-ethionine
+0.047	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	65	8.0		pH 8.0, 65C, cosubstrate: L-methionine
+0.049	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	65	8.0		pH 8.0, 65C
+0.05	L-ethionine	1094	GGLZPLKKBSSKCX-YFKPBYRVSA-N	65	8.0		pH 8.0, 65C
+0.052	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	65	8.0		pH 8.0, 65C, cosubstrate: L-ethionine
+0.125	tripolyphosphate	596	UNXRWKVEANCORM-UHFFFAOYSA-N				tripolyphosphatase activity
+0.23	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N		8.0	X	mutant D107R, pH 8.0
+0.583	S-adenosylmethionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				S-adenosylmethionine synthesis
+0.93	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	37	8.2		37C, pH 8.2
+1	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	55		X	mutant W387F/Y49W, 55C
+1.4	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N		8.0	X	mutant G105R, pH 8.0
+1.46	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	55			wild-type, 55C
+1.5	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N		8.0		wild-type, pH 8.0
+1.54	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	55		X	mutant W387F/Y273W, 55C
+1.6	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	107	8.0	X	mutant D107C, pH 8.0; mutant G105C, pH 8.0
+1.62	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	55		X	mutant W387F/Y323W, 55C; mutant W387F/Y72W, 55C
+1.85	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	55		X	mutant W387F, 55C
+2.31	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	55		X	mutant W387F/Y267W, 55C
+2.39	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	55		X	mutant W387F/Y170W, 55C; mutant W387F/Y255W, 55C
+2.77	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	55		X	mutant W387F/Y85W, 55C
+2.85	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	55		X	mutant W387F/Y344W, 55C
+3.31	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	55		X	mutant W387F/Y120W, 55C
+4	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	55		X	mutant W387F/Y371W, 55C
+5.08	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	55		X	mutant W387F/Y226W, 55C
+7.24	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	55		X	mutant W387F/Y233W, 55C
+7.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	80	8.0		pH 8.0, 80C
+7.5	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	80	8.0		pH 8.0, 80C

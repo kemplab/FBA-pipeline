@@ -1,0 +1,67 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.04	protocatechuate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N	25	7.2		in 50 mM Tris/HCl, pH 7.2, 25C
+0.17	4,5-dichlorocatechol	4161	ACCHWUWBKYGKNM-UHFFFAOYSA-N		8.5	X	mutant enzyme A72G, in 100 mM Tris-HCl pH 8.5, temperature not specified in the publication; mutant enzyme L69A, in 100 mM Tris-HCl pH 8.5, temperature not specified in the publication
+0.18	3-chlorocatechol	1276	GQKDZDYQXPOXEM-UHFFFAOYSA-N	25	7.2		in 50 mM Tris/HCl, pH 7.2, 25C
+0.18	4,5-dichlorocatechol	4161	ACCHWUWBKYGKNM-UHFFFAOYSA-N		8.5		wild type enzyme, in 100 mM Tris-HCl pH 8.5, temperature not specified in the publication
+0.27	4-Chlorocatechol	809	WWOBYPKUYODHDG-UHFFFAOYSA-N	25	7.2		in 50 mM Tris/HCl, pH 7.2, 25C
+0.28	2,3-Dihydroxybenzoic acid	1032	GLDQAMYCGOIJDV-UHFFFAOYSA-N	25	7.2		in 50 mM Tris/HCl, pH 7.2, 25C
+0.28	Hydroxyquinol	2582	GGNQRNBDZQJCCN-UHFFFAOYSA-N	25	7.2		in 50 mM Tris/HCl, pH 7.2, 25C
+0.34	4-Chlorocatechol	809	WWOBYPKUYODHDG-UHFFFAOYSA-N		8.5	X	mutant enzyme L69A, in 100 mM Tris-HCl pH 8.5, temperature not specified in the publication
+0.4	3-methylcatechol	546	PGSWEKYNAOWQDF-UHFFFAOYSA-N				
+0.4	4,5-difluorocatechol	21741	WSCBUHJBHHOPRI-UHFFFAOYSA-N				rate dependent on the nucleophilic reactivity
+0.4	4-chloro-5-fluorocatechol	32250	VDBJGTZFLZEBRZ-UHFFFAOYSA-N				rate dependent on the nucleophilic reactivity
+0.52	3-methylcatechol	546	PGSWEKYNAOWQDF-UHFFFAOYSA-N		8.5	X	mutant enzyme L69A, in 100 mM Tris-HCl pH 8.5, temperature not specified in the publication
+0.63	4-bromocatechol	8759	AQVKHRQMAUJBBP-UHFFFAOYSA-N				rate dependent on the nucleophilic reactivity
+0.7	4-Chlorocatechol	809	WWOBYPKUYODHDG-UHFFFAOYSA-N	25			pH not specified in the publication, 25C
+0.72	4-Methylcatechol	318	ZBCATMYQYDCTIZ-UHFFFAOYSA-N		8.5	X	mutant enzyme L69A, in 100 mM Tris-HCl pH 8.5, temperature not specified in the publication
+0.8	3-methylcatechol	546	PGSWEKYNAOWQDF-UHFFFAOYSA-N	25			pH not specified in the publication, 25C
+0.83	4-Chlorocatechol	809	WWOBYPKUYODHDG-UHFFFAOYSA-N		8.5		wild type enzyme, in 100 mM Tris-HCl pH 8.5, temperature not specified in the publication
+1	4-Chlorocatechol	809	WWOBYPKUYODHDG-UHFFFAOYSA-N				
+1.1	3-methylcatechol	546	PGSWEKYNAOWQDF-UHFFFAOYSA-N				
+1.3	4-Chlorocatechol	809	WWOBYPKUYODHDG-UHFFFAOYSA-N				rate dependent on the nucleophilic reactivity
+1.59	3-methylcatechol	546	PGSWEKYNAOWQDF-UHFFFAOYSA-N		8.5		wild type enzyme, in 100 mM Tris-HCl pH 8.5, temperature not specified in the publication
+1.6	4-Methylcatechol	318	ZBCATMYQYDCTIZ-UHFFFAOYSA-N				
+1.7	4-Chlorocatechol	809	WWOBYPKUYODHDG-UHFFFAOYSA-N	25			pH not specified in the publication, 25C
+1.74	4-Chlorocatechol	809	WWOBYPKUYODHDG-UHFFFAOYSA-N		8.5	X	mutant enzyme A72G, in 100 mM Tris-HCl pH 8.5, temperature not specified in the publication
+2	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25			25C
+2.04	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	35	8.0	X	pH 8.0, 35C, mutant A72G/L69G
+2.3	3-methylcatechol	546	PGSWEKYNAOWQDF-UHFFFAOYSA-N	25			pH not specified in the publication, 25C
+2.41	pyrogallol	534	WQGWDDDVZFFDIG-UHFFFAOYSA-N	25	7.2		in 50 mM Tris/HCl, pH 7.2, 25C
+2.7	4-Methylcatechol	318	ZBCATMYQYDCTIZ-UHFFFAOYSA-N	25			pH not specified in the publication, 25C
+3.4	4-Fluorocatechol	5395	NFWGQJUHSAGJBE-UHFFFAOYSA-N				rate dependent on the nucleophilic reactivity
+4	4-Fluorocatechol	5395	NFWGQJUHSAGJBE-UHFFFAOYSA-N				
+4	4-Methylcatechol	318	ZBCATMYQYDCTIZ-UHFFFAOYSA-N				
+4.42	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N		8.5	X	mutant enzyme L69A, in 100 mM Tris-HCl pH 8.5, temperature not specified in the publication
+4.81	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	35	8.0	X	pH 8.0, 35C, mutant L69A
+5.45	4-Methylcatechol	318	ZBCATMYQYDCTIZ-UHFFFAOYSA-N		8.5		wild type enzyme, in 100 mM Tris-HCl pH 8.5, temperature not specified in the publication
+5.51	4-Methylcatechol	318	ZBCATMYQYDCTIZ-UHFFFAOYSA-N		8.5	X	mutant enzyme A72G, in 100 mM Tris-HCl pH 8.5, temperature not specified in the publication
+5.6	4-Methylcatechol	318	ZBCATMYQYDCTIZ-UHFFFAOYSA-N	25			25C
+5.6	4-Methylcatechol	318	ZBCATMYQYDCTIZ-UHFFFAOYSA-N				
+6.3	4-Methylcatechol	318	ZBCATMYQYDCTIZ-UHFFFAOYSA-N				
+7.2	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N				
+7.32	4-Methylcatechol	318	ZBCATMYQYDCTIZ-UHFFFAOYSA-N	25	7.2		in 50 mM Tris/HCl, pH 7.2, 25C
+7.5	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25			pH not specified in the publication, 25C
+8.7	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25			pH not specified in the publication, 25C
+9.5	3-methylcatechol	546	PGSWEKYNAOWQDF-UHFFFAOYSA-N				
+9.6	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N				
+10.23	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25	7.2		in 50 mM Tris/HCl, pH 7.2, 25C
+10.62	3-methylcatechol	546	PGSWEKYNAOWQDF-UHFFFAOYSA-N	25	7.2		in 50 mM Tris/HCl, pH 7.2, 25C
+11.6	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N				
+12	4-Methylcatechol	318	ZBCATMYQYDCTIZ-UHFFFAOYSA-N				rate dependent on the nucleophilic reactivity
+13.56	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	35	8.0	X	pH 8.0, 35C, mutant A72G
+13.6	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N		8.5	X	mutant enzyme A72G, in100 mM Tris-HCl pH 8.5, temperature not specified in the publication
+14.72	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	35	8.0	X	pH 8.0, 35C, mutant A72P
+15.48	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	35	8.0	X	pH 8.0, 35C, mutant A72S
+15.8	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N				
+20	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N				
+20.7	4-Methylcatechol	318	ZBCATMYQYDCTIZ-UHFFFAOYSA-N	25			pH not specified in the publication, 25C
+24.2	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N		8.5		wild type enzyme, in100 mM Tris-HCl pH 8.5, temperature not specified in the publication
+26.7	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N				
+26.7	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N				
+30.03	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	35	8.0		pH 8.0, 35C, wild-type enzyme
+31.3	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N				isoenzyme B
+36	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N				
+45	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N				isoenzyme 3
+48.7	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N				isoenzyme A
+49	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N				isoenzyme 2
+54	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N				isoenzyme 1

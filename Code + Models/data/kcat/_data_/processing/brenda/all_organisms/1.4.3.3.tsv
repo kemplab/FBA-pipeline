@@ -1,0 +1,294 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+40	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	8.3		in 75 mM sodium diphosphate buffer (pH 8.3) at 25C
+82	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme S335G
+120	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme Y238S
+125	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme Y238F
+350	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C, wild-type enzyme
+350	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C, wild-type enzyme
+0.9	glycine	68	DHMQDGOQFOQNFH-UHFFFAOYSA-N	25	7.0		at pH 7.0 and 25C
+0.6	Gly	68	DHMQDGOQFOQNFH-UHFFFAOYSA-N	25	8.3		pH 8.3, 25C
+0.9	Gly	68	DHMQDGOQFOQNFH-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C
+0.000167	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N			X	mutant D206A
+0.001	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N			X	mutant D206S
+0.00233	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N			X	mutant D206E
+0.00567	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				wild-type
+0.05	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N			X	mutant R285A
+0.05	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				
+0.33	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	15	8.5	X	pH 8.5, 15C, mutant G52V
+0.63	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5	X	mutant enzyme Y223S, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+0.79	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5	X	mutant enzyme Q339N, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+0.8	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N			X	mutant R285K
+0.8	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				
+0.92	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N			X	mutant T317A
+1.5	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	281		X	mutant G281C
+2.6	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N			X	FAD-S mutant enzyme
+3.7	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5	X	mutant enzyme Q339E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+4.2	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N			X	mutant Y223S
+5	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N			X	mutant Y228F
+5.2	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25			apparent value, at 25C
+5.2	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	7.0		at pH 7.0 and 25C
+6.9	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5	X	mutant enzyme M213E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+7.3	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25			apparent value, at 25C
+7.33	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				D isotope
+8.5	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				wild-type
+9.2	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5	X	mutant enzyme S335R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+10	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				wild-type
+10	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				
+10	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				
+10	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5	X	mutant enzyme M213R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+10	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.3		at pH 8.3 and 25C
+11.6	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N			X	mutant Y224F
+12.7	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				wild-type
+13.8	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				immobilized enzyme
+14.7	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.3		at pH 8.3 and 25C
+15	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5	X	mutant enzyme Y238R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+23.3	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.0		immobilized enzyme, in 100 mM potassium phosphate buffer at pH 8.0 and 25C
+25	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5	X	mutant enzyme Y228F, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value; mutant enzyme Y238S, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+27	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.3		in 75 mM sodium diphosphate buffer (pH 8.3) at 25C
+33.8	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				free enzyme
+44	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.0		immobilized enzyme, in 100 mM potassium phosphate buffer, pH 8.0, at 25C
+46	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25			apparent value, at 25C
+48	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5	X	mutant enzyme S335G, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+51	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.0		immobilized enzyme, in 100 mM potassium phosphate buffer, pH 8.0, at 25C
+52.4	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.0		free enzyme, in 100 mM potassium phosphate buffer at pH 8.0 and 25C
+52.5	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				
+53	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.3		at pH 8.3 and 25C
+60	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	37			native enzyme, at 37C
+60	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.0		free enzyme, in 100 mM potassium phosphate buffer, pH 8.0, at 25C
+67	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5	X	mutant enzyme Y223F, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+70.8	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				D isotope
+74	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	37			native enzyme, at 37C
+74	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.0		free enzyme, in 100 mM potassium phosphate buffer, pH 8.0, at 25C
+75	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5	X	mutant enzyme S335H, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+78	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	37			double fusion enzyme, at 37C
+80	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25			apparent value, at 25C
+81	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5		wild type enzyme, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+85	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25			apparent value, at 25C
+88	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	37			double fusion enzyme, at 37C
+95	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	30	8.0		apparent value, reconstituted holoenzyme at pH 8.0 and 30C
+95	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25			apparent value, at 25C
+140	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	15	8.5	X	pH 8.5, 15C, mutant Q144R
+210	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N			X	mutant Y223F
+300	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				
+330	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	15	8.5		pH 8.5, 15C, wild-type enzyme
+330	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	15	8.5		pH 8.5, 15C, wild-type enzyme
+345	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				
+345	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				
+350	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				wild-type
+350	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				
+350	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.3		at pH 8.3 and 25C
+370	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	15	8.5	X	pH 8.5, 15C, mutant S19G/S120P/Q144R/K321M/A345V
+721	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				
+0.75	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N			X	mutant enzyme R221D/Y224G
+3	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N			X	mutant enzyme E220D/Y224G
+5.2	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5		pH 8.5, 25C
+5.5	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.3		pH 8.3, 25C
+6.5	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				wild-type enzyme
+14.9	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	37	8.3		pH 8.3, 37C, recombinant DAO
+82	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme S335G
+108.6	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	30	8.0		wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+120	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme Y238S
+125	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme Y238F
+190	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	37	8.0		pH 8.0, 37C
+278	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme M213R
+350	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5		pH 8.5, 25C, wild-type enzyme
+350	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5		pH 8.5, 25C, wild-type enzyme
+440	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5		pH 8.5, 25C
+630	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme M213R
+2740	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5		pH 8.5, 25C
+4880	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5		pH 8.5, 25C
+5000	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5		pH 8.5, 25C, wild-type enzyme
+1.3	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	25	8.5	X	mutant enzyme Y223S, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+3	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	25	8.0		immobilized enzyme, in 100 mM potassium phosphate buffer, pH 8.0, at 25C
+3.6	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	25	8.5	X	mutant enzyme M213R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+4.4	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	25	8.5	X	mutant enzyme Q339E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+6.167	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	22	7.5		recombinant wild-type enzyme, pH 7.5, 22C
+7	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	25	8.5	X	mutant enzyme S335R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+7.3	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	25	8.5	X	mutant enzyme M213E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+7.8	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	25	8.5	X	mutant enzyme Y228F, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+15	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	25	8.5	X	mutant enzyme Y238S, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+16.67	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	22	7.5	X	recombinant mutant F54S, pH 7.5, 22C
+17	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	25	8.5	X	mutant enzyme Y223F, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+18.33	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	22	7.5	X	recombinant mutant F54A, pH 7.5, 22C
+24	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	25	8.5	X	mutant enzyme Q339E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value; mutant enzyme Y238R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+26	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	25	8.5	X	mutant enzyme S335H, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+36.67	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	22	7.5	X	recombinant mutant F54Y, pH 7.5, 22C
+39	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	25	8.5		pH 8.5, 25C
+50	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	25	8.5	X	mutant enzyme S335G, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+55	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	37			native enzyme, at 37C
+55	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	25	8.0		free enzyme, in 100 mM potassium phosphate buffer, pH 8.0, at 25C
+57	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	25	8.0		immobilized enzyme, in 100 mM potassium phosphate buffer, pH 8.0, at 25C
+64	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	37			double fusion enzyme, at 37C
+70	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	37			native enzyme, at 37C
+70	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	25	8.0		free enzyme, in 100 mM potassium phosphate buffer, pH 8.0, at 25C
+72	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	25	8.5		wild type enzyme, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+80	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	37			double fusion enzyme, at 37C
+100	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N				
+737	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N				
+4300	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	25	8.5		pH 8.5, 25C
+4400	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	25	8.5		pH 8.5, 25C
+1.8	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N			X	mutant T317A
+2.5	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	25	8.5		pH 8.5, 25C, recombinant EGFP-DAAO
+2.7	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N				wild-type
+3	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	25	8.5		pH 8.5, 25C, recombinant wild-type DAAO
+3	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	25	7.0		at pH 7.0 and 25C
+4	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	25	8.3		in 50 mM sodium diphosphate buffer (pH 8.3) at 25C
+6.4	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	25	8.3		in 75 mM sodium diphosphate buffer (pH 8.3) at 25C
+0.09	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	25	8.5	X	mutant enzyme S335H, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+0.26	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	25	8.5	X	mutant enzyme Y228F, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+0.37	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	25	8.5	X	mutant enzyme Q339E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+0.5	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	25	8.5	X	mutant enzyme S335G, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value; wild type enzyme, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+0.56	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	25	8.5	X	mutant enzyme Y238S, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+0.67	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	25	8.5	X	mutant enzyme S335R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+0.9	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	25	8.5	X	mutant enzyme Y223S, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+1	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	25	8.5	X	mutant enzyme Q339E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+2.5	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	25	8.5	X	mutant enzyme Y223F, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+3.2	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	25	8.5	X	mutant enzyme M213E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+3.9	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	25	8.5	X	mutant enzyme M213R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+6	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	25	8.5	X	mutant enzyme Y238R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+6.7	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	25	7.0		at pH 7.0 and 25C
+3.2	D-tryptophan	657	QIVBCDIJIAJPQS-SECBINFHSA-N	25	7.0		at pH 7.0 and 25C
+3.7	D-tryptophan	657	QIVBCDIJIAJPQS-SECBINFHSA-N	25	8.3		in 75 mM sodium diphosphate buffer (pH 8.3) at 25C
+9.7	D-proline	718	ONIBWKKTOPOVIA-SCSAIBSYSA-N			X	mutant T317A
+10.2	D-proline	718	ONIBWKKTOPOVIA-SCSAIBSYSA-N	25	7.0		at pH 7.0 and 25C
+11.7	D-proline	718	ONIBWKKTOPOVIA-SCSAIBSYSA-N			X	mutant Y228F
+21	D-proline	718	ONIBWKKTOPOVIA-SCSAIBSYSA-N				wild-type
+47	D-proline	718	ONIBWKKTOPOVIA-SCSAIBSYSA-N	25	8.3		in 75 mM sodium diphosphate buffer (pH 8.3) at 25C
+83.7	D-proline	718	ONIBWKKTOPOVIA-SCSAIBSYSA-N			X	mutant Y224F
+87.2	D-proline	718	ONIBWKKTOPOVIA-SCSAIBSYSA-N				wild-type
+0.4	D-Phe	737	COLNVLDHVKWLRT-MRVPVSSYSA-N			X	mutant enzyme E220D/Y224G
+3	D-Phe	737	COLNVLDHVKWLRT-MRVPVSSYSA-N			X	mutant enzyme I223D/Y224G
+3.17	D-Phe	737	COLNVLDHVKWLRT-MRVPVSSYSA-N			X	mutant enzymeY224G
+3.5	D-Phe	737	COLNVLDHVKWLRT-MRVPVSSYSA-N			X	mutant enzyme G222D/Y224G
+13	D-Phe	737	COLNVLDHVKWLRT-MRVPVSSYSA-N			X	mutant enzyme R221D/Y224G
+16.7	D-Phe	737	COLNVLDHVKWLRT-MRVPVSSYSA-N				wild-type enzyme
+25.1	D-Phe	737	COLNVLDHVKWLRT-MRVPVSSYSA-N	37	8.3		pH 8.3, 37C, recombinant DAO
+27.2	D-Phe	737	COLNVLDHVKWLRT-MRVPVSSYSA-N	30	8.0		wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+47.1	D-Phe	737	COLNVLDHVKWLRT-MRVPVSSYSA-N	30	8.0	X	mutant enzyme F258S, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+53.33	D-Phe	737	COLNVLDHVKWLRT-MRVPVSSYSA-N			X	mutant enzyme E220D/Y224G
+58.8	D-Phe	737	COLNVLDHVKWLRT-MRVPVSSYSA-N	30	8.0	X	mutant enzyme F258A, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+63	D-Phe	737	COLNVLDHVKWLRT-MRVPVSSYSA-N	30	8.0	X	mutant enzyme F258Y, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+119	D-Phe	737	COLNVLDHVKWLRT-MRVPVSSYSA-N	37	8.0		pH 8.0, 37C
+0.84	D-methionine	743	FFEARJCKVFRZRR-SCSAIBSYSA-N	37	7.5	X	recombinant mutant C108S, pH 7.5, 37C, with 6-dichloroindophenolate
+1.5	D-methionine	743	FFEARJCKVFRZRR-SCSAIBSYSA-N	37	7.5		recombinant wild-type enzyme, pH 7.5, 37C, with 6-dichloroindophenolate
+2.8	D-methionine	743	FFEARJCKVFRZRR-SCSAIBSYSA-N	37	7.5	X	recombinant mutant C108D, pH 7.5, 37C, with 6-dichloroindophenolate
+47.5	D-methionine	743	FFEARJCKVFRZRR-SCSAIBSYSA-N			X	mutant Y228F
+75	D-methionine	743	FFEARJCKVFRZRR-SCSAIBSYSA-N	37	7.5	X	recombinant mutant C108D, pH 7.5, 37C, with O2
+92	D-methionine	743	FFEARJCKVFRZRR-SCSAIBSYSA-N			X	mutant Y224F
+110	D-methionine	743	FFEARJCKVFRZRR-SCSAIBSYSA-N	37	7.5	X	recombinant mutant C108S, pH 7.5, 37C, with O2
+143	D-methionine	743	FFEARJCKVFRZRR-SCSAIBSYSA-N				wild-type
+200	D-methionine	743	FFEARJCKVFRZRR-SCSAIBSYSA-N	37	7.5		recombinant wild-type enzyme, pH 7.5, 37C, with O2
+1.51	D-Ser	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	37	8.3		pH 8.3, 37C, recombinant DAO
+2.2	D-Ser	401	MTCFGRXMJLQNBG-UWTATZPHSA-N			X	mutant enzyme E220D/Y224G
+2.83	D-Ser	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	25	8.3		pH 8.3, 25C
+3	D-Ser	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	25	8.5		pH 8.5, 25C
+3	D-Ser	401	MTCFGRXMJLQNBG-UWTATZPHSA-N				wild-type enzyme
+20.5	D-Ser	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	30	8.0		wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+34.5	D-Ser	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	37	8.0		pH 8.0, 37C
+60	D-Glu	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	25	8.5		pH 8.5, 25C, wild-type enzyme
+975	D-Glu	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme M213R
+2.4	D-phenylalanine	737	COLNVLDHVKWLRT-MRVPVSSYSA-N			X	mutant T317A
+6.6	D-phenylalanine	737	COLNVLDHVKWLRT-MRVPVSSYSA-N	25	7.0		at pH 7.0 and 25C
+7.1	D-phenylalanine	737	COLNVLDHVKWLRT-MRVPVSSYSA-N			X	mutant Y228F
+8.5	D-phenylalanine	737	COLNVLDHVKWLRT-MRVPVSSYSA-N	25	8.3		in 75 mM sodium diphosphate buffer (pH 8.3) at 25C
+15.5	D-phenylalanine	737	COLNVLDHVKWLRT-MRVPVSSYSA-N	25	8.3		in 50 mM sodium diphosphate buffer (pH 8.3) at 25C
+17	D-phenylalanine	737	COLNVLDHVKWLRT-MRVPVSSYSA-N				wild-type
+48.8	D-phenylalanine	737	COLNVLDHVKWLRT-MRVPVSSYSA-N			X	mutant Y224F
+55.9	D-phenylalanine	737	COLNVLDHVKWLRT-MRVPVSSYSA-N				wild-type
+0.2	D-arginine	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	25	8.5	X	kcat less than 0.2/s, mutant enzyme Q339E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+0.43	D-arginine	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	25	8.5	X	mutant enzyme Y223S, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+2.1	D-arginine	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	25	8.5	X	mutant enzyme S335H, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+2.6	D-arginine	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	25	8.5	X	mutant enzyme Y238R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+3.2	D-arginine	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	25	8.5	X	mutant enzyme M213E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+3.6	D-arginine	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	25	8.5	X	mutant enzyme S335R, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+6.5	D-arginine	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	25	8.5	X	mutant enzyme Q339E, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+7.3	D-arginine	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	25	8.5	X	mutant enzyme Y223F, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+8.6	D-arginine	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	25	8.5	X	mutant enzyme S335G, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+11	D-arginine	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	25	8.5	X	mutant enzyme Y228F, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+14	D-arginine	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	25	8.5	X	mutant enzyme Y238S, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+20	D-arginine	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	25	8.5		wild type enzyme, in 50 mM sodium diphosphate, pH 8.5, at air (21%) oxygen saturation, at 25C, apparent value
+1.83	D-Arg	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N			X	mutant enzyme I223D/Y224G
+2	D-Arg	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N			X	mutant enzymeY224G
+2.83	D-Arg	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	37	8.3		pH 8.3, 37C, recombinant DAO
+3.5	D-Arg	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N				wild-type enzyme
+4	D-Arg	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N			X	mutant enzyme E220D/Y224G; mutant enzyme G222D/Y224G
+7.5	D-Arg	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N			X	mutant enzyme R221D/Y224G
+6.7	D-Asp	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	25	8.5		pH 8.5, 25C
+29	D-Asp	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	25	8.5		pH 8.5, 25C, wild-type enzyme
+235	D-Asp	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme M213R
+1665	D-Asp	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme M213R/Y238R
+1.33	D-Met	743	FFEARJCKVFRZRR-SCSAIBSYSA-N			X	mutant enzyme I223D/Y224G
+1.38	D-Met	743	FFEARJCKVFRZRR-SCSAIBSYSA-N			X	mutant enzymeY224G
+2.5	D-Met	743	FFEARJCKVFRZRR-SCSAIBSYSA-N			X	mutant enzyme G222D/Y224G
+6.83	D-Met	743	FFEARJCKVFRZRR-SCSAIBSYSA-N				wild-type enzyme
+9	D-Met	743	FFEARJCKVFRZRR-SCSAIBSYSA-N			X	mutant enzyme R221D/Y224G
+10.5	D-Met	743	FFEARJCKVFRZRR-SCSAIBSYSA-N			X	mutant enzyme E220D/Y224G
+42	D-Met	743	FFEARJCKVFRZRR-SCSAIBSYSA-N	30	8.0	X	mutant enzyme F258S, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+63	D-Met	743	FFEARJCKVFRZRR-SCSAIBSYSA-N	30	8.0	X	mutant enzyme F258A, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+80.5	D-Met	743	FFEARJCKVFRZRR-SCSAIBSYSA-N	30	8.0		wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+89	D-Met	743	FFEARJCKVFRZRR-SCSAIBSYSA-N	30	8.0	X	mutant enzyme F258Y, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+680	D-Met	743	FFEARJCKVFRZRR-SCSAIBSYSA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme M213R
+4600	D-Met	743	FFEARJCKVFRZRR-SCSAIBSYSA-N	25	8.5		pH 8.5, 25C, wild-type enzyme
+21.67	D-Dopa	1143	WTDRDQBEARUVNC-ZCFIWIBFSA-N	25	8.3		in 50 mM sodium diphosphate buffer (pH 8.3) at 25C
+21.7	D-Dopa	1143	WTDRDQBEARUVNC-ZCFIWIBFSA-N	25	7.0		at pH 7.0 and 25C
+14.8	D-tyrosine	1232	OUYCCCASQSFEME-MRVPVSSYSA-N	25	7.0		at pH 7.0 and 25C
+14.83	D-tyrosine	1232	OUYCCCASQSFEME-MRVPVSSYSA-N	25	8.3		in 50 mM sodium diphosphate buffer (pH 8.3) at 25C
+29.1	D-Leu	1284	ROHFNLRQFUQHCH-RXMQYKEDSA-N	30	8.0		wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+46	D-Leu	1284	ROHFNLRQFUQHCH-RXMQYKEDSA-N	30	8.0	X	mutant enzyme F258Y, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+56	D-Leu	1284	ROHFNLRQFUQHCH-RXMQYKEDSA-N	30	8.0	X	mutant enzyme F258S, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+66.6	D-Leu	1284	ROHFNLRQFUQHCH-RXMQYKEDSA-N	30	8.0	X	mutant enzyme F258A, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+116	D-Leu	1284	ROHFNLRQFUQHCH-RXMQYKEDSA-N	37	8.0		pH 8.0, 37C
+7.7	D-Trp	657	QIVBCDIJIAJPQS-SECBINFHSA-N	30	8.0	X	mutant enzyme F258A, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+31	D-Trp	657	QIVBCDIJIAJPQS-SECBINFHSA-N	30	8.0	X	mutant enzyme F258S, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+33	D-Trp	657	QIVBCDIJIAJPQS-SECBINFHSA-N	30	8.0	X	mutant enzyme F258Y, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+42.4	D-Trp	657	QIVBCDIJIAJPQS-SECBINFHSA-N	30	8.0		wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+0.052	D-Pro	718	ONIBWKKTOPOVIA-SCSAIBSYSA-N				wild-type enzyme
+1.67	D-Pro	718	ONIBWKKTOPOVIA-SCSAIBSYSA-N			X	mutant enzymeY224G
+3.5	D-Pro	718	ONIBWKKTOPOVIA-SCSAIBSYSA-N			X	mutant enzyme G222D/Y224G
+3.83	D-Pro	718	ONIBWKKTOPOVIA-SCSAIBSYSA-N			X	mutant enzyme R221D/Y224G
+4.33	D-Pro	718	ONIBWKKTOPOVIA-SCSAIBSYSA-N			X	mutant enzyme E220D/Y224G
+10.2	D-Pro	718	ONIBWKKTOPOVIA-SCSAIBSYSA-N	25	8.5		pH 8.5, 25C
+10.33	D-Pro	718	ONIBWKKTOPOVIA-SCSAIBSYSA-N				wild-type enzyme
+15	D-Pro	718	ONIBWKKTOPOVIA-SCSAIBSYSA-N	25	8.3		pH 8.3, 25C
+142	D-Pro	718	ONIBWKKTOPOVIA-SCSAIBSYSA-N	37	8.0		pH 8.0, 37C
+1615	D-Pro	718	ONIBWKKTOPOVIA-SCSAIBSYSA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme M213R
+4640	D-Pro	718	ONIBWKKTOPOVIA-SCSAIBSYSA-N	25	8.5		pH 8.5, 25C, wild-type enzyme
+0.9	D-valine	1427	KZSNJWFQEVHDMF-SCSAIBSYSA-N			X	mutant T317A
+2.5	D-valine	1427	KZSNJWFQEVHDMF-SCSAIBSYSA-N				wild-type
+6	D-valine	1427	KZSNJWFQEVHDMF-SCSAIBSYSA-N				D isotope
+8.67	D-valine	1427	KZSNJWFQEVHDMF-SCSAIBSYSA-N				D isotope
+28.8	D-valine	1427	KZSNJWFQEVHDMF-SCSAIBSYSA-N				
+41.7	D-valine	1427	KZSNJWFQEVHDMF-SCSAIBSYSA-N				
+523	D-valine	1427	KZSNJWFQEVHDMF-SCSAIBSYSA-N				
+15.9	D-Tyr	1232	OUYCCCASQSFEME-MRVPVSSYSA-N	30	8.0	X	mutant enzyme F258A, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+22.5	D-Tyr	1232	OUYCCCASQSFEME-MRVPVSSYSA-N	30	8.0		wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+72	D-Tyr	1232	OUYCCCASQSFEME-MRVPVSSYSA-N	30	8.0	X	mutant enzyme F258S, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+117	D-Tyr	1232	OUYCCCASQSFEME-MRVPVSSYSA-N	37	8.0		pH 8.0, 37C
+0.25	D-Val	1427	KZSNJWFQEVHDMF-SCSAIBSYSA-N			X	mutant enzyme G222D/Y224G
+0.433	D-Val	1427	KZSNJWFQEVHDMF-SCSAIBSYSA-N			X	mutant enzymeY224G
+0.75	D-Val	1427	KZSNJWFQEVHDMF-SCSAIBSYSA-N			X	mutant enzyme R221D/Y224G
+1.05	D-Val	1427	KZSNJWFQEVHDMF-SCSAIBSYSA-N			X	mutant enzyme E220D/Y224G
+2.5	D-Val	1427	KZSNJWFQEVHDMF-SCSAIBSYSA-N				wild-type enzyme
+11.5	D-Val	1427	KZSNJWFQEVHDMF-SCSAIBSYSA-N	30	8.0	X	mutant enzyme F258S, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+14.6	D-Val	1427	KZSNJWFQEVHDMF-SCSAIBSYSA-N	30	8.0	X	mutant enzyme F258A, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+85.3	D-Val	1427	KZSNJWFQEVHDMF-SCSAIBSYSA-N	30	8.0		wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+170	D-Val	1427	KZSNJWFQEVHDMF-SCSAIBSYSA-N	37	8.0		pH 8.0, 37C
+0.7	D-Asn	1619	DCXYFEDJOCDNAF-UWTATZPHSA-N	30	8.0	X	Km less than 0.7 s-1, mutant enzyme F258S, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+13	D-Asn	1619	DCXYFEDJOCDNAF-UWTATZPHSA-N	30	8.0	X	mutant enzyme F258A, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+50	D-Asn	1619	DCXYFEDJOCDNAF-UWTATZPHSA-N	30	8.0	X	mutant enzyme F258Y, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+62.4	D-Asn	1619	DCXYFEDJOCDNAF-UWTATZPHSA-N	30	8.0		wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+106	D-Asn	1619	DCXYFEDJOCDNAF-UWTATZPHSA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme M213R
+1300	D-Asn	1619	DCXYFEDJOCDNAF-UWTATZPHSA-N	25	8.5		pH 8.5, 25C, wild-type enzyme
+79	N-Methyl-D-aspartate	1937	HOKKHZGPKSLGJE-GSVOUGTGSA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme M213R
+290	D-Gln	1586	ZDXPYRJPNDTMRX-GSVOUGTGSA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme M213R
+1135	D-Gln	1586	ZDXPYRJPNDTMRX-GSVOUGTGSA-N	25	8.5		pH 8.5, 25C, wild-type enzyme
+0.8	D-Lys	1155	KDXKERNSBIXSRK-RXMQYKEDSA-N				wild-type enzyme
+2.33	D-Lys	1155	KDXKERNSBIXSRK-RXMQYKEDSA-N			X	mutant enzymeY224G
+3	D-Lys	1155	KDXKERNSBIXSRK-RXMQYKEDSA-N			X	mutant enzyme I223D/Y224G
+3.33	D-Lys	1155	KDXKERNSBIXSRK-RXMQYKEDSA-N			X	mutant enzyme E220D/Y224G
+3.54	D-Lys	1155	KDXKERNSBIXSRK-RXMQYKEDSA-N	30	8.0		wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+5	D-Lys	1155	KDXKERNSBIXSRK-RXMQYKEDSA-N			X	mutant enzyme G222D/Y224G; mutant enzyme R221D/Y224G
+42.3	D-Lys	1155	KDXKERNSBIXSRK-RXMQYKEDSA-N	37	8.0		pH 8.0, 37C
+1.75	D-Thr	1285	AYFVYJQAPQTCCC-PWNYCUMCSA-N	30	8.0		wild type enzyme, in 50 mM potassium phosphate buffer, pH 8.0, at 30C
+1.51	D-His	2201	HNDVDQJCIGZPNO-RXMQYKEDSA-N	37	8.3		pH 8.3, 37C, recombinant DAO
+76.7	D-Ile	4839	AGPKZVBTJJNPAG-BRJRFNKRSA-N	37	8.0		pH 8.0, 37C

@@ -1,0 +1,45 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00367	9-(5-phospho-beta-D-ribosyl)xanthine	772	DCTLYFZHFGENCW-UUOKFMHZSA-N	25		X	mutant E215D, at 25C, in TM buffer
+0.0038	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N			X	mutant E215D, in the presence of 1 mM 9-(5-phospho-beta-D-ribosyl)xanthine
+0.0045	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N			X	mutant E198D/E215D, in the presence of 8 mM IMP
+0.006167	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25		X	mutant E198D/E215D, at 25C, in TM buffer
+0.0093	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N			X	mutant E198D, in the presence of 1 mM 9-(5-phospho-beta-D-ribosyl)xanthine
+0.0103	9-(5-phospho-beta-D-ribosyl)xanthine	772	DCTLYFZHFGENCW-UUOKFMHZSA-N	25		X	mutant E198D, at 25C, in TM buffer
+0.0118	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N			X	mutant E198D/E215D, in the presence of 1 mM 9-(5-phospho-beta-D-ribosyl)xanthine
+0.0148	9-(5-phospho-beta-D-ribosyl)xanthine	772	DCTLYFZHFGENCW-UUOKFMHZSA-N	25		X	mutant E198D/E215D, at 25C, in TM buffer
+0.0228	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N				wild-type, in the presence of 1 mM 9-(5-phospho-beta-D-ribosyl)xanthine
+0.025	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N			X	mutant E215Q, in the presence of 1 mM 9-(5-phospho-beta-D-ribosyl)xanthine
+0.028	9-(5-phospho-beta-D-ribosyl)xanthine	772	DCTLYFZHFGENCW-UUOKFMHZSA-N	25			wild-type, at 25C, in TM buffer
+0.03	guanine	179	UYTPUPDQBNUYGX-UHFFFAOYSA-N				
+0.043	9-(5-phospho-beta-D-ribosyl)xanthine	772	DCTLYFZHFGENCW-UUOKFMHZSA-N	25		X	mutant E215Q, at 25C, in TM buffer
+0.1	guanine	179	UYTPUPDQBNUYGX-UHFFFAOYSA-N	25	7.5	X	mutant E215Q, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM 5-phospho-alpha-D-ribose 1-diphosphate
+0.5	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N				
+1.1	guanine	179	UYTPUPDQBNUYGX-UHFFFAOYSA-N	25	7.5	X	mutant E198D/E215D, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM 5-phospho-alpha-D-ribose 1-diphosphate
+1.5	guanine	179	UYTPUPDQBNUYGX-UHFFFAOYSA-N	25	7.5	X	mutant E215D, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM 5-phospho-alpha-D-ribose 1-diphosphate
+2	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.5	X	mutant E215Q, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM 5-phospho-alpha-D-ribose 1-diphosphate
+2.1	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	25	7.5	X	mutant E215Q, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM hypoxanthine
+2.2	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N	25	7.5	X	mutant E198D/E215D, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM 5-phospho-alpha-D-ribose 1-diphosphate
+2.4	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N	25	7.5	X	mutant E215Q, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM 5-phospho-alpha-D-ribose 1-diphosphate
+2.6	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	25	7.5	X	mutant E215Q, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM xanthine
+2.6	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N				
+3.1	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N	25	7.5		wild-type, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM 5-phospho-alpha-D-ribose 1-diphosphate
+3.3	guanine	179	UYTPUPDQBNUYGX-UHFFFAOYSA-N	25	7.5	X	mutant E198D, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM 5-phospho-alpha-D-ribose 1-diphosphate
+3.5	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N				
+3.5	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.5		wild-type, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM 5-phospho-alpha-D-ribose 1-diphosphate
+3.6	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	25	7.5	X	mutant E198D/E215D, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM hypoxanthine
+3.9	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	25	7.5		wild-type, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM hypoxanthine; wild-type, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM xanthine
+6.7	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	25	7.5	X	mutant E215D, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM hypoxanthine
+7.1	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N	25	7.5	X	mutant E198D, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM 5-phospho-alpha-D-ribose 1-diphosphate
+8.4	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	25	7.5	X	mutant E198D, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM hypoxanthine
+8.7	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N	25	7.5	X	mutant E215D, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM 5-phospho-alpha-D-ribose 1-diphosphate
+11	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N				
+12.3	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	25	7.5	X	mutant E198D/E215D, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM xanthine
+15.1	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	25	7.5	X	mutant E215D, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM xanthine
+16.4	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.5	X	mutant E198D/E215D, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM 5-phospho-alpha-D-ribose 1-diphosphate
+17.5	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.5	X	mutant E215D, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM 5-phospho-alpha-D-ribose 1-diphosphate
+20.7	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	25	7.5	X	mutant E198D, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM xanthine
+23.3	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.5	X	mutant E198D, at 25C, 40 mM Tris-HCl, pH 7.5, 1 mM 5-phospho-alpha-D-ribose 1-diphosphate
+54.8	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N				
+112	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N				
+112	guanine	179	UYTPUPDQBNUYGX-UHFFFAOYSA-N				
+150	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N				

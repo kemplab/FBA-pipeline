@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3.86	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.2		apparent value, isozyme St/AlDH1, with 20 mM D-strombine, in 0.1 M PIPES-NaOH (pH 7.2), at 30C
+3.96	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.2		apparent value, isozyme St/AlDH1, with 20 mM meso-alanopine, in 0.1 M PIPES-NaOH (pH 7.2), at 30C
+43.58	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	7.2		apparent value, isozyme St/AlDH1, with 5 mM pyruvate and 100 mM Gly, in 0.1 M PIPES-NaOH (pH 7.2), at 30C
+44.7	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	7.2		apparent value, isozyme St/AlDH1, with 5 mM pyruvate and 100 mM L-Ala, in 0.1 M PIPES-NaOH (pH 7.2), at 30C
+47.33	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.2		apparent value, isozyme St/AlDH1, with 0.3 mM NADH and 100 mM Gly, in 0.1 M PIPES-NaOH (pH 7.2), at 30C
+47.78	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.2		apparent value, isozyme St/AlDH1, with 0.3 mM NADH and 100 mM L-Ala, in 0.1 M PIPES-NaOH (pH 7.2), at 30C
+42.66	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	7.2		apparent value, isozyme St/AlDH1, with 0.3 mM NADH and 100 mM Gly, in 0.1 M PIPES-NaOH (pH 7.2), at 30C
+44.25	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	7.2		apparent value, isozyme St/AlDH1, with 0.3 mM NADH and 100 mM L-Ala, in 0.1 M PIPES-NaOH (pH 7.2), at 30C
+50.08	Gly	68	DHMQDGOQFOQNFH-UHFFFAOYSA-N	30	7.2		apparent value, isozyme St/AlDH1, with 0.3 mM NADH and 5 mM pyruvate, in 0.1 M PIPES-NaOH (pH 7.2), at 30C
+51.7	L-Ala	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	7.2		apparent value, isozyme St/AlDH1, with 0.3 mM NADH and 5 mM pyruvate, in 0.1 M PIPES-NaOH (pH 7.2), at 30C
+23.64	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	30	7.2		apparent value, isozyme St/AlDH1, with 0.3 mM NADH and 5 mM pyruvate, in 0.1 M PIPES-NaOH (pH 7.2), at 30C
+21.77	2-Ketobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	7.2		apparent value, isozyme St/AlDH1, with 0.3 mM NADH and 100 mM Gly, in 0.1 M PIPES-NaOH (pH 7.2), at 30C
+23.2	2-Ketobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	7.2		apparent value, isozyme St/AlDH1, with 0.3 mM NADH and 100 mM L-Ala, in 0.1 M PIPES-NaOH (pH 7.2), at 30C
+5.12	meso-Alanopine	2994	FIOHTMQGSFVHEZ-ZXZARUISSA-N	30	9.1		apparent value, isozyme St/AlDH1, with 1 mM NAD+, in 0.1 M PIPES-NaOH (pH 9.1), at 30C
+4.99	D-strombine	6268	XYUPSBLFPTWJLC-GSVOUGTGSA-N	30	9.1		apparent value, isozyme St/AlDH1, with 1 mM NAD+, in 0.1 M PIPES-NaOH (pH 9.1), at 30C

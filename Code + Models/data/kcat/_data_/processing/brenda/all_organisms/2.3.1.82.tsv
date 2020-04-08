@@ -1,0 +1,148 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0002	fortimicin A	4847	BIDUPMYXGFNAEJ-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, mutant AAC(6')-Ie D99A
+0.0004	paromomycin	1633	UOZODPSAJZTQNH-ZEUOIICNSA-N	37	7.5	X	pH 7.5, 37C, mutant AAC(6')-Ie D99E
+0.0008	fortimicin A	4847	BIDUPMYXGFNAEJ-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, mutant AAC(6')-Ie D99N
+0.001	neomycin	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme Y147A
+0.0019	poly-L-Lys	1883	QPVQIVFIYFOVIE-WPMUBMLPSA-N	37	7.5		pH 7.5, 37C
+0.002	neamine	1335	SYJXFKPQNSDJLI-HKEUSBCWSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme L76P
+0.003	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme Y147F
+0.004	neamine	1335	SYJXFKPQNSDJLI-HKEUSBCWSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme Y147A
+0.004	tobramycin	731	NLVFBUXFDBBNBW-PBSUHMDJSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme Y147A
+0.006	fortimicin A	4847	BIDUPMYXGFNAEJ-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, mutant AAC(6')-Ie D99E
+0.01	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme Y147A
+0.01	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme Y147A
+0.01	ribostamycin	1219	NSKGQURZWSPSBC-SSXIAAKRSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme L76P
+0.01	tobramycin	731	NLVFBUXFDBBNBW-PBSUHMDJSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme L76P
+0.02	ribostamycin	1219	NSKGQURZWSPSBC-SSXIAAKRSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme Y147A
+0.026	paromomycin	1633	UOZODPSAJZTQNH-ZEUOIICNSA-N	37	7.5	X	pH 7.5, 37C, mutant AAC(6')-Ie Y96F
+0.028	neamine	1335	SYJXFKPQNSDJLI-HKEUSBCWSA-N	37	7.5	X	pH 7.5, 37C, mutant AAC(6')-Ie D99N
+0.029	neamine	1335	SYJXFKPQNSDJLI-HKEUSBCWSA-N	37	7.5	X	pH 7.5, 37C, mutant AAC(6')-Ie D99A
+0.03	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme L76A
+0.03	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme Y147F
+0.033	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	7.5	X	pH 7.5, 37C, mutant AAC(6')-Ie D99A
+0.035	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	7.5	X	pH 7.5, 37C, mutant AAC(6')-Ie D99A
+0.038	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	7.5	X	pH 7.5, 37C, mutant AAC(6')-Ie D99N
+0.04	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme H74A
+0.04	kanamycin	634	SBUJHOSQTJFQJX-NOAMYHISSA-N				pH not specified in the publication, temperature not specified in the publication
+0.04	neomycin	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme L76P
+0.046	ribostamycin	1219	NSKGQURZWSPSBC-SSXIAAKRSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W164A
+0.048	neamine	1335	SYJXFKPQNSDJLI-HKEUSBCWSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W164A
+0.05	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme E72A
+0.05	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N		7.5		pH 7.5
+0.05	isepamicin	24377	UDIIBEDMEYAVNG-RLUHYLJASA-N				pH not specified in the publication, temperature not specified in the publication
+0.05	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme H74A
+0.05	neamine	1335	SYJXFKPQNSDJLI-HKEUSBCWSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme Y147F
+0.059	paromomycin	1633	UOZODPSAJZTQNH-ZEUOIICNSA-N	37	7.5		pH 7.5, 37C, wild-type AAC(6')-Ie
+0.06	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme L76P
+0.066	neamine	1335	SYJXFKPQNSDJLI-HKEUSBCWSA-N	37	7.5	X	pH 7.5, 37C, mutant AAC(6')-Ie D99E
+0.07	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme Y147F
+0.07	neomycin	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme Y147F
+0.08	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W164A
+0.08	tobramycin	731	NLVFBUXFDBBNBW-PBSUHMDJSA-N				pH not specified in the publication, temperature not specified in the publication
+0.1	tobramycin	731	NLVFBUXFDBBNBW-PBSUHMDJSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme Y147F
+0.106	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C
+0.11	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	7.5	X	pH 7.5, 37C, mutant AAC(6')-Ie D99E
+0.11	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+0.11	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication
+0.12	ribostamycin	1219	NSKGQURZWSPSBC-SSXIAAKRSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme Y147F
+0.135	neomycin C	3826	PGBHMTALBVVCIT-VZXHOKRSSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W164A
+0.15	neamine	1335	SYJXFKPQNSDJLI-HKEUSBCWSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme H74A
+0.15	ribostamycin	1219	NSKGQURZWSPSBC-SSXIAAKRSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme L76A
+0.16	neomycin	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme L76A
+0.16	sisomicin	2401	URWAJWIAIPFPJE-YFMIWBNJSA-N				pH not specified in the publication, temperature not specified in the publication
+0.17	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	7.5	X	pH 7.5, 37C, mutant AAC(6')-Ie D99N
+0.173	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W164A
+0.18	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme H74A
+0.19	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	7.5	X	pH 7.5, 37C, mutant AAC(6')-Ie D99E
+0.19	neomycin	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme H74A
+0.2	neomycin	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+0.2	netilmicin	1899	CIDUJQMULVCIBT-MQDUPKMGSA-N		7.5		pH 7.5
+0.205	neomycin C	3826	PGBHMTALBVVCIT-VZXHOKRSSA-N	37	6.0		pH 6.0, 37C
+0.205	neomycin C	3826	PGBHMTALBVVCIT-VZXHOKRSSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+0.23	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme L76A
+0.23	ribostamycin	1219	NSKGQURZWSPSBC-SSXIAAKRSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme H74A
+0.25	dibekacin	4411	JJCQSGDBDPYCEO-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication
+0.27	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme L76A
+0.28	fortimicin A	4847	BIDUPMYXGFNAEJ-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, wild-type AAC(6')-Ie
+0.29	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N				wild-type enzyme
+0.3	neomycin	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N				wild-type enzyme
+0.3	netilmicin	1899	CIDUJQMULVCIBT-MQDUPKMGSA-N				pH not specified in the publication, temperature not specified in the publication
+0.3	tobramycin	731	NLVFBUXFDBBNBW-PBSUHMDJSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme H74A
+0.317	propionyl-CoA	297	QAQREVBBADEHPA-IEXPHMLFSA-N	37	6.0		pH 6.0, 37C
+0.32	neomycin	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N				pH not specified in the publication, temperature not specified in the publication
+0.338	ribostamycin	1219	NSKGQURZWSPSBC-SSXIAAKRSA-N	37	6.0		pH 6.0, 37C
+0.338	ribostamycin	1219	NSKGQURZWSPSBC-SSXIAAKRSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+0.34	ribostamycin	1219	NSKGQURZWSPSBC-SSXIAAKRSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+0.35	ribostamycin	1219	NSKGQURZWSPSBC-SSXIAAKRSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme E72A
+0.37	sisomicin	2401	URWAJWIAIPFPJE-YFMIWBNJSA-N	37	6.0		pH 6.0, 37C
+0.38	neamine	1335	SYJXFKPQNSDJLI-HKEUSBCWSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme L76A
+0.388	gentamicin B	10575	RHRAMPXHWHSKQB-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C
+0.4	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+0.403	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	6.0		pH 6.0, 37C
+0.403	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+0.419	neamine	1335	SYJXFKPQNSDJLI-HKEUSBCWSA-N	37	6.0		pH 6.0, 37C
+0.419	neamine	1335	SYJXFKPQNSDJLI-HKEUSBCWSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+0.42	neamine	1335	SYJXFKPQNSDJLI-HKEUSBCWSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+0.43	neamine	1335	SYJXFKPQNSDJLI-HKEUSBCWSA-N	37	7.5		pH 7.5, 37C, wild-type AAC(6')-Ie
+0.44	neamine	1335	SYJXFKPQNSDJLI-HKEUSBCWSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme E72A
+0.45	fortimicin A	4847	BIDUPMYXGFNAEJ-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, mutant AAC(6')-Ie Y96F
+0.466	butirosin	7148	DYXGFUBMHQMRRO-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C
+0.5	gentamicin	1766	CEAZRRDELHUEMR-GHFPSGLISA-N		7.5		pH 7.5
+0.512	netilmicin	1899	CIDUJQMULVCIBT-MQDUPKMGSA-N	37	6.0		pH 6.0, 37C
+0.55	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme E72A
+0.57	arbekacin	127201	MKKYBZZTJQGVCD-DDUHCYCUSA-N				pH not specified in the publication, temperature not specified in the publication
+0.632	dibekacin	4411	JJCQSGDBDPYCEO-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C
+0.8	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N		7.5		pH 7.5
+0.8	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N		7.5		pH 7.5
+0.8	tobramycin	731	NLVFBUXFDBBNBW-PBSUHMDJSA-N				wild-type enzyme
+0.816	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	6.0		pH 6.0, 37C
+0.816	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+0.82	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+0.89	tobramycin	731	NLVFBUXFDBBNBW-PBSUHMDJSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme L76A
+0.99	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme E72A
+1	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				reaction with AAC (6')-Ib' domain
+1.01	gentamicin C	10576	QCQCDSADSYAVOG-UHFFFAOYSA-N				wild-type enzyme
+1.03	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				AAC(6')-Ib-cr variant
+1.03	Ciprofloxacin	932	MYSWGUAQZAJSOK-UHFFFAOYSA-N				AAC(6')-Ib-cr variant
+1.08	kanamycin B	2210	SKKLOUVUUNMCJE-FQSMHNGLSA-N	37	6.0		pH 6.0, 37C
+1.08	Norfloxacin	10633	OGJPXUAPXNRGGI-UHFFFAOYSA-N				AAC(6')-Ib-cr variant
+1.1	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	7.5	X	pH 7.5, 37C, mutant AAC(6')-Ie Y96F
+1.1	neomycin	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme E72A
+1.1	tobramycin	731	NLVFBUXFDBBNBW-PBSUHMDJSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme E72A; pH 6.0, 37C, wild-type enzyme
+1.11	gentamicin	1766	CEAZRRDELHUEMR-GHFPSGLISA-N	25	7.5		full length enzyme, pH 7.5, 25C
+1.11	tobramycin	731	NLVFBUXFDBBNBW-PBSUHMDJSA-N	37	6.0		pH 6.0, 37C
+1.2	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	7.5		pH 7.5, 37C, wild-type AAC(6')-Ie
+1.3	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	7.5	X	pH 7.5, 37C, mutant AAC(6')-Ie Y96F
+1.3	dibekacin	4411	JJCQSGDBDPYCEO-UHFFFAOYSA-N				reaction with AAC (6')-Ib' domain
+1.3	neamine	1335	SYJXFKPQNSDJLI-HKEUSBCWSA-N	37	7.5	X	pH 7.5, 37C, mutant AAC(6')-Ie Y96F
+1.3	netilmicin	1899	CIDUJQMULVCIBT-MQDUPKMGSA-N				reaction with AAC (6')-Ib' domain
+1.61	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				wild-type enzyme
+1.62	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		full length enzyme, pH 7.5, 25C
+1.68	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N				wild-type enzyme
+1.7	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	7.5		pH 7.5, 37C, wild-type AAC(6')-Ie
+1.91	netilmicin	1899	CIDUJQMULVCIBT-MQDUPKMGSA-N	25	7.5		full length enzyme, pH 7.5, 25C
+2	gentamicin	1766	CEAZRRDELHUEMR-GHFPSGLISA-N				reaction with AAC (6')-Ib' domain
+2.13	kanamycin	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	25	7.5		isolated AAC(6') domain, pH 7.5, 25C
+2.27	kanamycin B	2210	SKKLOUVUUNMCJE-FQSMHNGLSA-N				AAC(6')-Ib, wild type
+2.32	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				AAC(6')-Ib, wild type
+2.4	isepamicin	24377	UDIIBEDMEYAVNG-RLUHYLJASA-N				reaction with AAC (6')-Ib' domain
+2.4	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N				reaction with AAC (6')-Ib' domain
+2.92	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N	25	7.5		full length enzyme, pH 7.5, 25C
+2.93	sisomicin	2401	URWAJWIAIPFPJE-YFMIWBNJSA-N	25	7.5		full length enzyme, pH 7.5, 25C
+3.08	neomycin B	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N				AAC(6')-Ib, wild type
+3.21	netilmicin	1899	CIDUJQMULVCIBT-MQDUPKMGSA-N	25	7.5		isolated AAC(6') domain, pH 7.5, 25C
+3.33	gentamicin	1766	CEAZRRDELHUEMR-GHFPSGLISA-N	25	7.5		isolated AAC(6') domain, pH 7.5, 25C
+3.5	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N				reaction with AAC (6')-Ib' domain
+3.73	tobramycin	731	NLVFBUXFDBBNBW-PBSUHMDJSA-N	25	7.5		isolated AAC(6') domain, pH 7.5, 25C
+3.81	kanamycin	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	25	7.5		full length enzyme, pH 7.5, 25C
+3.84	tobramycin	731	NLVFBUXFDBBNBW-PBSUHMDJSA-N	25	7.5		full length enzyme, pH 7.5, 25C
+3.88	ribostamycin	1219	NSKGQURZWSPSBC-SSXIAAKRSA-N	25	7.5		full length enzyme, pH 7.5, 25C
+5.23	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				AAC(6')-Ib-cr variant
+5.25	kanamycin B	2210	SKKLOUVUUNMCJE-FQSMHNGLSA-N				AAC(6')-Ib-cr variant
+5.35	sisomicin	2401	URWAJWIAIPFPJE-YFMIWBNJSA-N	25	7.5		isolated AAC(6') domain, pH 7.5, 25C
+5.7	ribostamycin	1219	NSKGQURZWSPSBC-SSXIAAKRSA-N	25	7.5		isolated AAC(6') domain, pH 7.5, 25C
+6	neomycin	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N				reaction with AAC (6')-Ib' domain
+7.09	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N	25	7.5		isolated AAC(6') domain, pH 7.5, 25C
+9.06	neomycin	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N	25	7.5		full length enzyme, pH 7.5, 25C
+11.1	neomycin	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N	25	7.5		isolated AAC(6') domain, pH 7.5, 25C
+12.1	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		isolated AAC(6') domain, pH 7.5, 25C

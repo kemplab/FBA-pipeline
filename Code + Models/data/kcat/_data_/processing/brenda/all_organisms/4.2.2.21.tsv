@@ -1,0 +1,56 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.072	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N	37	8.0	X	mutant enzyme H452A, in 50mM Tris/HCl, pH 8.0, at 37C
+0.17	chondroitin 6-sulfate	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N	37	8.0	X	mutant enzyme H452A, in 50mM Tris/HCl, pH 8.0, at 37C
+0.5	chondroitin 6-sulfate	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N	37	8.0	X	mutant Y508F, pH 8.0, 37C
+1.8	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N	37	8.0	X	mutant Y508F, pH 8.0, 37C
+2.4	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N	37	8.0	X	mutant enzyme H456A, in 50mM Tris/HCl, pH 8.0, at 37C
+2.7	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N		8.0	X	mutant R500A, pH 8.0
+2.7	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N	37	8.0	X	mutant R500A, pH 8.0, 37C
+4.1	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N			X	mutant R267A
+4.41	chondroitin sulfate C	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N			X	mutant E628Q
+5.8	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N			X	mutant H453A
+6.41	chondroitin sulfate C	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N			X	mutant H453A
+6.6	chondroitin sulfate C	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N			X	mutant H345N
+6.8	chondroitin 6-sulfate	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N	37	8.0	X	mutant R500A, pH 8.0, 37C
+6.8	chondroitin sulfate C	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N			X	mutant H453N
+6.8	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N			X	mutant Q173A
+7	chondroitin 6-sulfate	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N		8.0	X	mutant R500A, pH 8.0
+7.13	chondroitin 6-sulfate	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N	37	8.0	X	mutant enzyme H456A, in 50mM Tris/HCl, pH 8.0, at 37C
+9.06	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N			X	mutant H344N
+10	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N		8.0	X	mutant H712A, pH 8.0
+10.38	chondroitin sulfate A	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N			X	mutant E628Q
+10.85	chondroitin sulfate C	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N			X	mutant H345Q
+13.15	chondroitin sulfate A	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N			X	mutant H453N
+16.67	chondroitin 4-sulfate	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N	37	8.0		wild type enzyme, in 50mM Tris/HCl, pH 8.0, at 37C
+16.78	chondroitin sulfate A	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N			X	mutant H344Q
+17	chondroitin sulfate A	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N			X	mutant H453A
+18.7	chondroitin sulfate C	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N			X	mutant H344N
+19	chondroitin 6-sulfate	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N		8.0	X	mutant H712A, pH 8.0
+19.17	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N	37	8.0		wild type enzyme, in 50mM Tris/HCl, pH 8.0, at 37C
+21	chondroitin sulfate A	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N			X	mutant H345N
+21.67	chondroitin 6-sulfate	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N	37	8.0		wild type enzyme, in 50mM Tris/HCl, pH 8.0, at 37C
+23.46	chondroitin sulfate A	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N			X	mutant H345Q
+26.7	chondroitin 6-sulfate	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N	37	8.0	X	mutant E653Q, pH 8.0, 37C
+30.88	chondroitin sulfate C	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N			X	mutant H345A
+33	chondroitin sulfate C	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N			X	mutant Q173A
+35.71	chondroitin sulfate C	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N			X	mutant H344A
+38.45	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N				wild-type
+38.45	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N				wild-type
+42.2	chondroitin sulfate A	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N			X	mutant H344N
+61.7	chondroitin sulfate C	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N			X	mutant R267A
+63	chondroitin sulfate A	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N			X	mutant H345A
+66	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N		8.0	X	mutant H561A, pH 8.0
+87	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N	37	8.0	X	mutant E653Q, pH 8.0, 37C
+92.66	chondroitin sulfate A	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N			X	mutant H344A
+123	chondroitin sulfate A	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N			X	mutant Q173A
+173	chondroitin sulfate C	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N				wild-type
+173	chondroitin sulfate C	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N				wild-type
+205	chondroitin sulfate A	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N			X	mutant R267A
+263.2	chondroitin sulfate A	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N				wild-type
+263.2	chondroitin sulfate A	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N				wild-type
+450	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N		8.0		wild-type, pH 8.0
+450	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N	37	8.0		wild-type, pH 8.0, 37C
+617	chondroitin 6-sulfate	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N		8.0		wild-type, pH 8.0
+617	chondroitin 6-sulfate	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N	37	8.0		wild-type, pH 8.0, 37C
+652	chondroitin 6-sulfate	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N		8.0	X	mutant H561A, pH 8.0
+867	chondroitin 4-sulfate	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N		8.0		wild-type, pH 8.0

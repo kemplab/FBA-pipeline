@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00000155	acetyl phosphate	305	LIPOUNRJVLNBCD-UHFFFAOYSA-N				wild type enzyme, pH and temperature not specified in the publication
+0.043	acetyl phosphate	305	LIPOUNRJVLNBCD-UHFFFAOYSA-N			X	mutant enzyme C20R, pH and temperature not specified in the publication
+93.5	benzoyl phosphate	1060	SYLLWWIXOMLOPY-UHFFFAOYSA-N	25	5.3		25C, pH 5.3; at 25C and pH 5.3
+117	benzoyl phosphate	1060	SYLLWWIXOMLOPY-UHFFFAOYSA-N				
+191	benzoyl phosphate	1060	SYLLWWIXOMLOPY-UHFFFAOYSA-N	30	5.3		30C, pH 5.3; at 30C and pH 5.3
+198	benzoyl phosphate	1060	SYLLWWIXOMLOPY-UHFFFAOYSA-N	25	5.3		0.1 M acetate buffer, pH 5.3, 25C
+275	benzoyl phosphate	1060	SYLLWWIXOMLOPY-UHFFFAOYSA-N	35	5.3		35C, pH 5.3; at 35C and pH 5.3
+290	benzoyl phosphate	1060	SYLLWWIXOMLOPY-UHFFFAOYSA-N	40	5.3		40C, pH 5.3; at 40C and pH 5.3
+467	benzoyl phosphate	1060	SYLLWWIXOMLOPY-UHFFFAOYSA-N	45	5.3		45C, pH 5.3; at 45C and pH 5.3
+735	benzoylphosphate	1060	SYLLWWIXOMLOPY-UHFFFAOYSA-N				
+850	benzoyl phosphate	1060	SYLLWWIXOMLOPY-UHFFFAOYSA-N	81	5.3		0.1 M acetate buffer, pH 5.3, 81C
+10000	benzoyl phosphate	1060	SYLLWWIXOMLOPY-UHFFFAOYSA-N	98	5.3		at 98C and pH 5.3, estimation by linear extrapolation

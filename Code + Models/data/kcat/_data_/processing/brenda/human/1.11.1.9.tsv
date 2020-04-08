@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+10.55	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0		apparent value, imprinted GSH-selenosubtilisin in the presence of 0.5 mM GSH, in 50 mM PIPES buffer, pH 7.0 at 37C
+16.02	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0		apparent value, imprinted GSH-selenosubtilisin in the presence of 1 mM GSH, in 50 mM PIPES buffer, pH 7.0 at 37C
+20.83	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0		apparent value, imprinted GSH-selenosubtilisin in the presence of 2 mM GSH, in 50 mM PIPES buffer, pH 7.0 at 37C
+316.7	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0		wild type enzyme, in the presence of 0.25 mM GSH, at 37C and pH 7.0
+445	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0		wild type enzyme, in the presence of 0.5 mM GSH, at 37C and pH 7.0
+560	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0		wild type enzyme, in the presence of 1 mM GSH, at 37C and pH 7.0
+670	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0		wild type enzyme, in the presence of 2 mM GSH, at 37C and pH 7.0
+14.48	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	7.0		apparent value, imprinted GSH-selenosubtilisin in the presence of 0.5 mM H2O2, in 50 mM PIPES buffer, pH 7.0 at 37C
+19.5	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	7.0		apparent value, imprinted GSH-selenosubtilisin in the presence of 1 mM H2O2, in 50 mM PIPES buffer, pH 7.0 at 37C
+24.5	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	7.0		apparent value, imprinted GSH-selenosubtilisin in the presence of 2 mM H2O2, in 50 mM PIPES buffer, pH 7.0 at 37C
+221.7	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	7.0		wild type enzyme, in the presence of 0.1 mM H2O2, at 37C and pH 7.0
+293.3	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	7.0		wild type enzyme, in the presence of 0.2 mM H2O2, at 37C and pH 7.0
+361.7	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	7.0		wild type enzyme, in the presence of 0.5 mM H2O2, at 37C and pH 7.0
+408.3	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	7.0		wild type enzyme, in the presence of 1 mM H2O2, at 37C and pH 7.0

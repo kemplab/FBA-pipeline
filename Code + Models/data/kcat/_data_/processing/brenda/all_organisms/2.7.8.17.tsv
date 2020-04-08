@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.5	methyl alpha-D-mannopyranoside	3573	HOVAGTYPODGVJG-VEIUFWFVSA-N	37	7.4		pH 7.4, 37C, alpha2beta2 GlcNAc-1-phosphotransferase
+0.75	Man9GlcNAc1 oligosaccharide	3859	FGWVOUGZAZZVHT-UMTAKOTLSA-N	37	7.4		pH 7.4, 37C, alpha2beta2 GlcNAc-1-phosphotransferase
+0.75	methyl alpha-D-mannopyranoside	3573	HOVAGTYPODGVJG-VEIUFWFVSA-N	37	7.4		pH 7.4, 37C, alpha2beta2gamma2 GlcNAc-1-phosphotransferase
+1.55	Man9GlcNAc1 oligosaccharide	3859	FGWVOUGZAZZVHT-UMTAKOTLSA-N	37	7.4		pH 7.4, 37C, alpha2beta2gamma2 GlcNAc-1-phosphotransferase

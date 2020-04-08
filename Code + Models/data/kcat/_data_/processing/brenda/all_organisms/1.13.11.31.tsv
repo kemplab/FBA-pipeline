@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.3	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N		7.4	X	pH 7.4, mutant L367K, with substrate linoleic acid
+2.2	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N		7.4	X	pH 7.4, mutant L367E, with substrate linoleic acid
+4.4	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N		7.4	X	pH 7.4, mutant L367W, with substrate linoleic acid
+5.6	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N		7.4	X	pH 7.4, mutant L367F, with substrate linoleic acid
+13.1	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N				
+13.7	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N		7.4		pH 7.4, wild-type enzyme, with substrate linoleic acid
+1.4	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	15	7.5		at 15C, pH 7.5
+7.2	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N			X	mutant enzyme M561L
+8.4	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N			X	wild type enzyme and mutant enzyme M338L
+18	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N			X	mutant enzyme M367V
+20	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	40	7.5		at 40C, pH 7.5
+14.7	linoleic acid	357	OYHQOLUKZRVURQ-HZJYTTRNSA-N		7.4	X	pH 7.4, 20, mutant Y98A
+44.2	linoleic acid	357	OYHQOLUKZRVURQ-HZJYTTRNSA-N		7.4		pH 7.4, 20, wild-type
+47.23	linoleic acid	357	OYHQOLUKZRVURQ-HZJYTTRNSA-N	20	7.4		pH 7.4, 20C, wild-type
+65.2	linoleic acid	357	OYHQOLUKZRVURQ-HZJYTTRNSA-N		7.4	X	pH 7.4, 20, mutant Y98F
+2.5	arachidonate	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	15	7.5		pH 7.5, 15C
+3	arachidonate	253	YZXBAPSDXZZRGB-DOFZRALJSA-N			X	mutant enzyme A416G
+14	arachidonate	253	YZXBAPSDXZZRGB-DOFZRALJSA-N				wild-type enzyme
+17.8	arachidonate	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	30	7.5		pH 7.5, 30C
+46	arachidonate	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	45	7.5		pH 7.5, 45C

@@ -1,0 +1,30 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+5.8	L-pyroGlu-L-Pro-L-Arg-4-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N	37	7.3	X	mutant enzyme E98D, in 50 mM Tris-HCl, 150 mM NaCl, 5 mM CaCl2, 0.5% (w/v) bovine serum albumin, pH 7.3, at 37C
+7	L-pyroGlu-L-Pro-L-Arg-4-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N	37	7.3	X	mutant enzyme Y143A, in 50 mM Tris-HCl, 150 mM NaCl, 5 mM CaCl2, 0.5% (w/v) bovine serum albumin, pH 7.3, at 37C
+8	L-pyroGlu-L-Pro-L-Arg-4-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N	37	7.3	X	mutant enzyme R3704A, in 50 mM Tris-HCl, 150 mM NaCl, 5 mM CaCl2, 0.5% (w/v) bovine serum albumin, pH 7.3, at 37C
+14	L-pyroGlu-L-Pro-L-Arg-4-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N	37	7.3	X	mutant enzyme K192R, in 50 mM Tris-HCl, 150 mM NaCl, 5 mM CaCl2, 0.5% (w/v) bovine serum albumin, pH 7.3, at 37C
+21	L-pyroGlu-L-Pro-L-Arg-4-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N	37	7.3	X	mutant enzyme E98V, in 50 mM Tris-HCl, 150 mM NaCl, 5 mM CaCl2, 0.5% (w/v) bovine serum albumin, pH 7.3, at 37C
+29	L-pyroGlu-L-Pro-L-Arg-4-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N	37	7.3	X	mutant enzyme Y5901A, in 50 mM Tris-HCl, 150 mM NaCl, 5 mM CaCl2, 0.5% (w/v) bovine serum albumin, pH 7.3, at 37C
+30	L-pyroGlu-L-Pro-L-Arg-4-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N	37	7.3	X	mutant enzyme K192Q, in 50 mM Tris-HCl, 150 mM NaCl, 5 mM CaCl2, 0.5% (w/v) bovine serum albumin, pH 7.3, at 37C
+42	L-pyroGlu-L-Pro-L-Arg-4-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N	37	7.3	X	mutant enzyme Y5901V, in 50 mM Tris-HCl, 150 mM NaCl, 5 mM CaCl2, 0.5% (w/v) bovine serum albumin, pH 7.3, at 37C
+58	L-pyroGlu-L-Pro-L-Arg-4-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N	37	7.3	X	mutant enzyme I151A, in 50 mM Tris-HCl, 150 mM NaCl, 5 mM CaCl2, 0.5% (w/v) bovine serum albumin, pH 7.3, at 37C
+86	L-pyroGlu-L-Pro-L-Arg-4-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N	37	7.3	X	mutant enzyme K192E, in 50 mM Tris-HCl, 150 mM NaCl, 5 mM CaCl2, 0.5% (w/v) bovine serum albumin, pH 7.3, at 37C
+95	L-pyroGlu-L-Pro-L-Arg-4-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N	37	7.3	X	mutant enzyme E98A, in 50 mM Tris-HCl, 150 mM NaCl, 5 mM CaCl2, 0.5% (w/v) bovine serum albumin, pH 7.3, at 37C; mutant enzyme K192A, in 50 mM Tris-HCl, 150 mM NaCl, 5 mM CaCl2, 0.5% (w/v) bovine serum albumin, pH 7.3, at 37C
+201	L-pyroGlu-L-Pro-L-Arg-4-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N	37	7.3		wild type enzyme, in 50 mM Tris-HCl, 150 mM NaCl, 5 mM CaCl2, 0.5% (w/v) bovine serum albumin, pH 7.3, at 37C
+113	S-2366	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N	37			37C, recombinant wild-type enzyme
+121	S-2366	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N	37			37C, recombinant peptide FXI/E361-V607
+98	L-pyroglutamyl-L-prolyl-L-argininyl-p-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N			X	fXIa-catalytic domain-K170A mutant
+115	L-pyroglutamyl-L-prolyl-L-argininyl-p-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N			X	fXIa-catalytic domain-K170A/R171A/R173A mutant; fXIa-catalytic domain-R171A mutant
+116	L-pyroglutamyl-L-prolyl-L-argininyl-p-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N			X	fXIa-catalytic domain-K179A mutant
+117	L-pyroglutamyl-L-prolyl-L-argininyl-p-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N			X	fXIa-catalytic domain-K175A mutant; fXIa-catalytic domain-R173A mutant
+119	L-pyroglutamyl-L-prolyl-L-argininyl-p-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N				fXIa-catalytic domain-wild type
+148	L-pyroglutamyl-L-prolyl-L-argininyl-p-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N			X	fXIa-R37Q mutant; fXIa-wild type
+110.2	D-Ile-Pro-Arg-4-nitroanilide	3423	XHTORJWGZKCDGL-FZDIXFNVSA-N	37	7.5		recombinant wild-type enzyme, pH 7.5, 37C
+250	L-pyroglutamyl-L-Pro-L-Arg-4-nitroanilide	7644	WPVINHLVHHPBMK-QRFGZVGRSA-N				FXIa/PKA4
+310	L-pyroglutamyl-L-Pro-L-Arg-4-nitroanilide	7644	WPVINHLVHHPBMK-QRFGZVGRSA-N				factor FXIa
+430	L-pyroglutamyl-L-Pro-L-Arg-4-nitroanilide	7644	WPVINHLVHHPBMK-QRFGZVGRSA-N				FXIa/PKA4-Gly326
+0.268	pyroGlu-Pro-Arg-4-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N	37	7.4		pH 7.4, 37C, recombinant wild-type enzyme
+145	pyroGlu-Pro-Arg-4-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N	37	7.5		recombinant wild-type enzyme, pH 7.5, 37C
+67	L-pyroglutamyl-L-prolyl-L-arginyl-p-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N				fXIaCD
+117	L-pyroglutamyl-L-prolyl-L-arginyl-p-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N				fXIa
+350	pyroGlu-Pro-Arg-p-nitroanilide	2634	WPVINHLVHHPBMK-ULQDDVLXSA-N				

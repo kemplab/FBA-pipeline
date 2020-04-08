@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.009	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	45	8.0	X	mutant enzyme R23A, in 50 mM HEPES-NaOH buffer, pH 8.0, 50 mM KCl, 0.15 mM pyridoxal 5'-phosphate, at 45C
+0.011	L-2-aminoadipate	1333	OYIFNHCXNCRBQI-BYPYZUCNSA-N	45	8.0	X	mutant enzyme R23A, in 50 mM HEPES-NaOH buffer, pH 8.0, 50 mM KCl, 0.15 mM pyridoxal 5'-phosphate, at 45C
+0.023	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	45	8.0	X	mutant enzyme S20E, in 50 mM HEPES-NaOH buffer, pH 8.0, 50 mM KCl, 0.15 mM pyridoxal 5'-phosphate, at 45C
+0.04	L-2-aminoadipate	1333	OYIFNHCXNCRBQI-BYPYZUCNSA-N	45	8.0	X	mutant enzyme S20E, in 50 mM HEPES-NaOH buffer, pH 8.0, 50 mM KCl, 0.15 mM pyridoxal 5'-phosphate, at 45C
+0.05	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	45	8.0	X	mutant enzyme R23Q, in 50 mM HEPES-NaOH buffer, pH 8.0, 50 mM KCl, 0.15 mM pyridoxal 5'-phosphate, at 45C
+0.083	L-2-aminoadipate	1333	OYIFNHCXNCRBQI-BYPYZUCNSA-N	45	8.0	X	mutant enzyme R23Q, in 50 mM HEPES-NaOH buffer, pH 8.0, 50 mM KCl, 0.15 mM pyridoxal 5'-phosphate, at 45C
+0.23	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	4	8.0	X	mutant enzyme R23A, using 2-oxoisocaproate as cosubstrate, in 50 mM HEPESNaOH buffer, pH 8.0, containing 50 mM NH4Cl, 0.15 mM pyridoxal 5'-phosphate, at 45C
+0.5	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	4	8.0	X	mutant enzyme R23Q, using 2-oxoisocaproate as cosubstrate, in 50 mM HEPES-NaOH buffer, pH 8.0, containing 50 mM NH4Cl, 0.15 mM pyridoxal 5'-phosphate, at 45C
+1.2	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	4	8.0	X	mutant enzyme S20E, using 2-oxoisocaproate as cosubstrate, in 50 mM HEPESNaOH buffer, pH 8.0, containing 50 mM NH4Cl, 0.15 mM pyridoxal 5'-phosphate, at 45C
+2.1	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	45	7.5		pH 7.5, 45C
+3.5	2-oxo-3-methylvalerate	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N	45	7.5		pH 7.5, 45C
+5.1	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	45	8.0		wild type enzyme, in 50 mM HEPES-NaOH buffer, pH 8.0, 50 mM KCl, 0.15 mM pyridoxal 5'-phosphate, at 45C
+6.7	L-2-aminoadipate	1333	OYIFNHCXNCRBQI-BYPYZUCNSA-N	45	8.0		wild type enzyme, in 50 mM HEPES-NaOH buffer, pH 8.0, 50 mM KCl, 0.15 mM pyridoxal 5'-phosphate, at 45C
+8.3	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N		7.0		pH 7.0, temperature not specified in the publication
+12.3	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N		7.0		pH 7.0, temperature not specified in the publication
+12.8	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N		7.0		pH 7.0, temperature not specified in the publication
+16	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	4	8.0		wild type enzyme, using 2-oxoisocaproate as cosubstrate, in 50 mM HEPES-NaOH buffer, pH 8.0, containing 50 mM NH4Cl, 0.15 mM pyridoxal 5'-phosphate, at 45C
+17.8	2-oxoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	45	7.5		pH 7.5, 45C
+18.4	L-2-aminoadipate	1333	OYIFNHCXNCRBQI-BYPYZUCNSA-N		7.0		pH 7.0, temperature not specified in the publication
+22.3	2-oxoadipate	895	FGSBNBBHOZHUBO-UHFFFAOYSA-N	45	7.5		pH 7.5, 45C

@@ -1,0 +1,37 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+15	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N	25	7.8		reverse reaction, co-substrate: UDP-D-galacturonate, pH 7.8, 25C; reverse reaction, UDP-alpha-D-galacturonate, pH 7.8, 25C
+81	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N	25	7.8		reverse reaction, co-substrate: UDP-L-arabinopyranose, pH 7.8, 25C; reverse reaction, UDP-beta-L-arabinopyranose, pH 7.8, 25C
+138	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N	35	7		pH 7, 35C
+174	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N	25	7.8		reverse reaction, co-substrate: UDP-D-galactose, pH 7.8, 25C; reverse reaction, UDP-galactose, pH 7.8, 25C
+185	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N	25	7.8		reverse reaction, co-substrate: UDP-D-glucose, pH 7.8, 25C; reverse reaction, UDP-glucose, pH 7.8, 25C
+133	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	35	7		pH 7, 35C
+180	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	25	7.8		reverse reaction, pH 7.8, 25C
+0.003	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	37	8.0		pH 8.0, 37C
+0.4	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	73	8.0		pH 8.0, 73C
+108	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	35	7		pH 7, 35C
+201	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	25	7.8		forward reaction, co-substrate: D-galactose 1-phosphate, pH 7.8, 25C; forward reaction, D-galactose 1-phosphate, pH 7.8, 25C
+209	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	25	7.8		forward reaction, co-substrate: D-glucose 1-phosphate, pH 7.8, 25C; forward reaction, D-glucose 1-phosphate, pH 7.8, 25C
+348	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N				pH not specified in the publication, temperature not specified in the publication
+154	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	25	7.8		reverse reaction, pH 7.8, 25C
+27	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N				pH not specified in the publication, temperature not specified in the publication
+219	dUTP	363	AHCYMLUZIRLXAA-SHYZEUOFSA-N				pH not specified in the publication, temperature not specified in the publication
+0.085	TTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.6		co-substrate: glucose 1-phosphate, pH 7.6, 37C
+0.008	D-glucose 1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N	37	8.0		pH 8.0, 37C
+0.12	D-glucose 1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N	37	7.6		co-substrate: TTP, pH 7.6, 37C
+26	D-glucose 1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N	37	7.6		co-substrate: UTP, pH 7.6, 37C
+122	D-glucose 1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N	35	7		pH 7, 35C
+191	D-glucose 1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N	25	7.8		forward reaction, pH 7.8, 25C; forward reaction, pH 7.8, 25C
+180	UDP-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	25	7.8		reverse reaction, pH 7.8, 25C
+154	UDP-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	25	7.8		reverse reaction, pH 7.8, 25C
+35.2	D-galactose 1-phosphate	1948	HXXFSFRBOHSIMQ-SVZMEOIVSA-N	37	7.6		co-substrate: UTP, pH 7.6, 37C
+133	D-galactose 1-phosphate	1948	HXXFSFRBOHSIMQ-SVZMEOIVSA-N	35	7		pH 7, 35C
+219	D-galactose 1-phosphate	1948	HXXFSFRBOHSIMQ-SVZMEOIVSA-N	25	7.8		forward reaction, pH 7.8, 25C; forward reaction, pH 7.8, 25C
+0.2	N-acetylglucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N	73	8.0		pH 8.0, 73C
+72	UDP-beta-L-arabinopyranose	3456	DQQDLYVHOTZLOR-LGNYTLETSA-N	25	7.8		reverse reaction, pH 7.8, 25C
+13	UDP-D-galacturonate	3851	HDYANYHVCAPMJV-GXNRKQDOSA-N	25	7.8		reverse reaction, pH 7.8, 25C
+8.6	D-xylose 1-phosphate	3871	ILXHFXFPPZGENN-IOVATXLUSA-N	37	7.6		co-substrate: UTP, pH 7.6, 37C
+51	D-xylose 1-phosphate	3871	ILXHFXFPPZGENN-IOVATXLUSA-N	35	7		pH 7, 35C
+67	D-glucuronic acid 1-phosphate	4059	AIQDYKMWENWVQJ-AQKNRBDQSA-N	35	7		pH 7, 35C
+138	L-arabinose 1-phosphate	8629	ILXHFXFPPZGENN-HWQSCIPKSA-N	35	7		pH 7, 35C
+13	UDP-alpha-D-galacturonate	3851	HDYANYHVCAPMJV-GXNRKQDOSA-N	25	7.8		reverse reaction, pH 7.8, 25C
+72	UDP-L-arabinopyranose	118830	DQQDLYVHOTZLOR-OKQNPRBNSA-N	25	7.8		reverse reaction, pH 7.8, 25C

@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0		ATPase turnover rate, pH 7.0, 37C, isozyme SPCA1a
+15.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0		ATPase turnover rate, pH 7.0, 37C, isozyme SPCA1d
+20.27	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0		ATPase turnover rate, pH 7.0, 37C, isozyme SPCA1a
+22.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0		ATPase turnover rate, pH 7.0, 37C, isozyme SPCA1b
+27.44	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0		ATPase turnover rate, pH 7.0, 37C, isozyme SPCA1d
+90	Ca2+	18	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		7.0		isoform 3c in presence of a saturing Ca2+ at pH 7.0, in presence of ionophore
+98	Ca2+	18	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		7.0		isoform 3a in presence of a saturing Ca2+ concentration at pH 7.0, in presence of ionophore
+100	Ca2+	18	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		7.0		isoform 3b in presence of a saturing Ca2+ at pH 7.0, in presence of ionophore
+130	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0		ATPase turnover rate, pH 7.0, 37C, isozyme SERCA1a
+132	Ca2+	18	BHPQYMZQTOCNFJ-UHFFFAOYSA-N				isoform 3a in presence of 0.1 mM Ca2+ at pH optimum 7.72, in presence of ionophore
+134	Ca2+	18	BHPQYMZQTOCNFJ-UHFFFAOYSA-N				isoform 3c in presence of 0.1 mM Ca2+ at pH optimum 7.78, in presence of ionophore
+149	Ca2+	18	BHPQYMZQTOCNFJ-UHFFFAOYSA-N				isoform 3b in presence of 0.1 mM Ca2+ at pH optimum 7.74, in presence of ionophore

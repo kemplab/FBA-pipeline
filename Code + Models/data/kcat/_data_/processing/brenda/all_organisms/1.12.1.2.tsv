@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.0		pH 8.0, wild-type enzyme complex including HoxI, with ferrocyanide
+109	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		8.0	X	pH 8.0, HoxI deletion mutant enzyme, with H2
+143	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		8.0		pH 8.0, wild-type enzyme complex including HoxI, with H2
+171	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	pH 8.0, HoxI deletion mutant enzyme, with ferrocyanide; reaction with K3Fe(CN)6, tetrameric enzyme form
+222	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0		pH 8.0, wild-type enzyme complex including HoxI, with ferrocyanide; reaction with K3Fe(CN)6, hexameric enzyme form
+2	ferrocyanide	251	ORXDSIPBTFAEKJ-UHFFFAOYSA-N		8.0		pH 8.0, wild-type enzyme complex including HoxI, with NADPH
+171	ferrocyanide	251	ORXDSIPBTFAEKJ-UHFFFAOYSA-N		8.0	X	pH 8.0, HoxI deletion mutant enzyme, with NADH
+222	ferrocyanide	251	ORXDSIPBTFAEKJ-UHFFFAOYSA-N		8.0		pH 8.0, wild-type enzyme complex including HoxI, with NADH
+284	ferrocyanide	251	ORXDSIPBTFAEKJ-UHFFFAOYSA-N		8.0	X	pH 8.0, HoxI deletion mutant enzyme, with H2
+372	ferrocyanide	251	ORXDSIPBTFAEKJ-UHFFFAOYSA-N		8.0		pH 8.0, wild-type enzyme complex including HoxI, with H2
+70	H2	308	UFHFLCQGNIYNRP-UHFFFAOYSA-N		8.0	X	pH 8.0, HoxI deletion mutant enzyme, with oxidized benzyl viologen
+109	H2	308	UFHFLCQGNIYNRP-UHFFFAOYSA-N		8.0	X	pH 8.0, HoxI deletion mutant enzyme, with NAD+
+120	H2	308	UFHFLCQGNIYNRP-UHFFFAOYSA-N		8.0		pH 8.0, wild-type enzyme complex including HoxI, with oxidized benzyl viologen
+143	H2	308	UFHFLCQGNIYNRP-UHFFFAOYSA-N		8.0		pH 8.0, wild-type enzyme complex including HoxI, with NAD+
+212	H2	308	UFHFLCQGNIYNRP-UHFFFAOYSA-N				
+284	H2	308	UFHFLCQGNIYNRP-UHFFFAOYSA-N		8.0	X	pH 8.0, HoxI deletion mutant enzyme, with ferrocyanide
+372	H2	308	UFHFLCQGNIYNRP-UHFFFAOYSA-N		8.0		pH 8.0, wild-type enzyme complex including HoxI, with ferrocyanide
+70	Oxidized benzyl viologen	471	LUAZZOXZPVVGSO-UHFFFAOYSA-N		8.0	X	pH 8.0, HoxI deletion mutant enzyme, with H2
+120	Oxidized benzyl viologen	471	LUAZZOXZPVVGSO-UHFFFAOYSA-N		8.0		pH 8.0, wild-type enzyme complex including HoxI, with H2

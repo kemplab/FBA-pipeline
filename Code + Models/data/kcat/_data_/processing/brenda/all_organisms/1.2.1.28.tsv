@@ -1,0 +1,31 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.23	phenylacetaldehyde	619	DTUQWGWMVIHBKE-UHFFFAOYSA-N				
+0.31	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N				
+2.08	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N				
+14	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N		9.6		apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+16	3-Chlorobenzaldehyde	1799	SRWILAKSARHZPR-UHFFFAOYSA-N		9.6		apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+17	perillaldehyde	13482	RUMOYJJNUMEFDD-UHFFFAOYSA-N				
+20	4-hydroxybenzaldehyde	571	RGHHSNMVTDWUBI-UHFFFAOYSA-N				
+23	3-methylbenzaldehyde	1966	OVWYEQOVUDKZNU-UHFFFAOYSA-N		9.6		apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+24	3-Hydroxybenzaldehyde	1712	IAVREABSGIHHMO-UHFFFAOYSA-N		9.6		apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+26	cinnamaldehyde	817	KJPRLNWUNMBNBZ-QPJJXVBHSA-N				
+26	octan-1-al	664	NUJGJRNETVAIRJ-UHFFFAOYSA-N				
+29	3-Hydroxybenzaldehyde	1712	IAVREABSGIHHMO-UHFFFAOYSA-N				
+29	hexan-1-al	514	JARKCYVAAOWBJS-UHFFFAOYSA-N				
+33	2-Hydroxybenzaldehyde	1141	SMQUZDBALVYZAC-UHFFFAOYSA-N		9.6		apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+33	3-Methoxybenzaldehyde	1377	WMPDAIZRQDCGFH-UHFFFAOYSA-N				
+39	2-Methylbenzaldehyde	2549	BTFQKIATRPGRBS-UHFFFAOYSA-N		9.6		apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+41	2-Hydroxybenzaldehyde	1141	SMQUZDBALVYZAC-UHFFFAOYSA-N				
+41	3-Fluorobenzaldehyde	2810	PIKNVEVCWAAOMJ-UHFFFAOYSA-N				
+46	furan-2-carboxaldehyde	4066	HYBBIBNJHNGZAN-UHFFFAOYSA-N				
+49	4-methoxybenzaldehyde	779	ZRSNZINYAWTAHE-UHFFFAOYSA-N				
+52	thiophen-2-carboxyaldehyde	5646	CNUDBTRUORMMPA-UHFFFAOYSA-N				
+56	2-naphthaldehyde	1740	PJKVFARRVXDXAD-UHFFFAOYSA-N		9.6		apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+64	4-Fluorobenzaldehyde	2191	UOQXIWFBQSVDPP-UHFFFAOYSA-N				
+66	pyridine-4-carboxaldehyde	2062	BGUWFUQJCDRPTL-UHFFFAOYSA-N				
+67	4-Chlorobenzaldehyde	1581	AVPYQKSLYISFPO-UHFFFAOYSA-N		9.6		apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+68	Pyridine-3-carboxaldehyde	1681	QJZUKDFHGGYHMC-UHFFFAOYSA-N				
+72	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N				
+101	4-methoxybenzaldehyde	779	ZRSNZINYAWTAHE-UHFFFAOYSA-N		9.6		apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+120	4-methylbenzaldehyde	1538	FXLOVSHXALFLKQ-UHFFFAOYSA-N		9.6		apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication
+885	3-Methoxybenzaldehyde	1377	WMPDAIZRQDCGFH-UHFFFAOYSA-N		9.6		apparent Kcat-value, pH 9.6, temperature not specified in the publication; in glycine-KOH buffer (100 mM, pH 9.6), temperature not specified in the publication

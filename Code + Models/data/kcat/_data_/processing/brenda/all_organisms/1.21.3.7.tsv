@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.043	cannabigerolate	3102	SEEZIOZEUUMJME-FOWTUZBSSA-N	30	5.0	X	mutant enzyme R108A, in 100 mM sodium citrate buffer (pH 5.0), at 30C
+0.075	cannabigerolate	3102	SEEZIOZEUUMJME-FOWTUZBSSA-N	30	5.0	X	mutant enzyme R110A, in 100 mM sodium citrate buffer (pH 5.0), at 30C
+0.3	cannabigerolate	3102	SEEZIOZEUUMJME-FOWTUZBSSA-N	30	5.0		wild type enzyme, in 100 mM sodium citrate buffer (pH 5.0), at 30C
+0.888	cannabigerolate	3102	SEEZIOZEUUMJME-FOWTUZBSSA-N	30	5.5		recombinant enzyme, in 100 mM sodium citrate (pH 5.5), at 30C

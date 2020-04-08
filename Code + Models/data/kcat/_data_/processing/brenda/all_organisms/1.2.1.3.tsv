@@ -1,0 +1,157 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0667	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	mutant enzyme R475E/R264E
+0.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	mutant enzyme R264E
+0.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	mutant enzyme R475E
+0.6	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	80	8.0		with DL-glyceraldehyde as cosubstrate, in 50 mM Tris/HCl, at pH 8.0 and 80C
+1.8	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme E149T/V178R/I200V, with trans-2-hexenal as cosubstrate, at pH 8.0 and 25C
+1.9	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.4		in the absence of Alda-1, at pH 7.4 and 25C
+2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	mutant enzyme R475Q
+2.05	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	80	8.0		with acetaldehyde as cosubstrate, in 50 mM Tris/HCl, at pH 8.0 and 80C
+2.08	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	mutant enzyme R264Q
+2.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme E149T/I200V, with trans-2-nonenal as cosubstrate, at pH 8.0 and 25C
+3.05	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.4		in the presence of 0.01 mM Alda-1, at pH 7.4 and 25C
+3.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme E149T/I200V, with trans-2-hexenal as cosubstrate, at pH 8.0 and 25C
+3.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				native enzyme
+4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme E149T/V178R/I200V, with trans-2-nonenal as cosubstrate, at pH 8.0 and 25C
+10.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme E149T, with hexanal as cosubstrate, at pH 8.0 and 25C
+10.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme E149D, with hexanal as cosubstrate, at pH 8.0 and 25C
+11.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme E149Q/I200V, with hexanal as cosubstrate, at pH 8.0 and 25C
+12.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme E149T/V178R/I200V, with hexanal as cosubstrate, at pH 8.0 and 25C
+12.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme E149D/I200V, with hexanal as cosubstrate, at pH 8.0 and 25C
+12.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme E149Q, with hexanal as cosubstrate, at pH 8.0 and 25C; mutant enzyme E149T/V178R/I200V, with nonanal as cosubstrate, at pH 8.0 and 25C
+13.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme E149N/I200V, with hexanal as cosubstrate, at pH 8.0 and 25C
+15.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme E149T/I200V, with hexanal as cosubstrate, at pH 8.0 and 25C
+16.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme I200G, with hexanal as cosubstrate, at pH 8.0 and 25C
+16.6	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme E149N, with hexanal as cosubstrate, at pH 8.0 and 25C
+17.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0		wild type enzyme, with hexanal as cosubstrate, at pH 8.0 and 25C
+18	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme E149T/I200V, with nonanal as cosubstrate, at pH 8.0 and 25C
+18.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme I200V, with hexanal as cosubstrate, at pH 8.0 and 25C
+20.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme E149Q/I200G, with hexanal as cosubstrate, at pH 8.0 and 25C
+23.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme E149D/I200G, with hexanal as cosubstrate, at pH 8.0 and 25C
+26.9	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme E149N/I200G, with hexanal as cosubstrate, at pH 8.0 and 25C
+33.9	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme E149T/I200G, with hexanal as cosubstrate, at pH 8.0 and 25C
+240	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	55	7.0		at pH 7.0 and 55C
+1.63	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	80	8.0		with DL-glyceraldehyde as cosubstrate, in 50 mM Tris/HCl, at pH 8.0 and 80C
+3.71	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	80	8.0		with acetaldehyde as cosubstrate, in 50 mM Tris/HCl, at pH 8.0 and 80C
+0.26	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	37	7.4		ALDH2, in 40 mM sodium phosphate buffer (pH 7.4), at 37C
+1.14	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	80	8.0		in 50 mM Tris/HCl, at pH 8.0 and 80C
+1.62	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	21	8.0		at pH 8.0 and 21C
+1.86	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N				
+3.5	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	37	7.4		ALDH5A, in 40 mM sodium phosphate buffer (pH 7.4), at 37C
+11.03	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	37	8.0		with NAD+ as cofactor, in 50 mM potassium phosphate buffer (pH 8.0), at 37C
+13.2	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N		9.5		enzyme form ALDH-1, pH 9.5
+13.2	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N		9.5		enzyme form ALDH-1, pH 9.5
+19.7	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N		9.5		enzyme form ALDH-2, pH 9.5
+19.7	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N		9.5		enzyme form ALDH-2, pH 9.5
+240	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	55	7.0		at pH 7.0 and 55C
+67.5	formaldehyde	124	WSFSSNUMVMOOMR-UHFFFAOYSA-N				enzyme ALDH-2
+0.0425	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	25	8.5		at 25C and pH 8.5, with NADP+ as the electron acceptor
+0.137	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	25	8.5		at 25C and pH 8.5, with NAD+ as the electron acceptor
+5.83	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N				enzyme ALDH-2
+17.37	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	37	8.0		with NADP+ as cofactor, in 50 mM potassium phosphate buffer (pH 8.0), at 37C
+3.45	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	21	8.0		at pH 8.0 and 21C
+24.35	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	37	8.0		with NAD+ as cofactor, in 50 mM potassium phosphate buffer (pH 8.0), at 37C
+0.42	propanal	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	7.4		50 mM sodium phosphate buffer, pH 7.4, 0.25 mM Mg2+,1 mM NAD+, 25C
+0.65	propanal	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	7.4		50 mM sodium phosphate buffer, pH 7.4, 0.2 mM Mg2+,1 mM NAD+, 25C
+1.33	propanal	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	7.4		50 mM sodium phosphate buffer, pH 7.4, 1 mM NAD+, 25C
+1.48	propanal	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	7.4		50 mM sodium phosphate buffer, pH 7.4, 1 mM NAD+, 25C
+1.85	propanal	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N				
+1.9	propanal	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	7.4		in the absence of Alda-1, at pH 7.4 and 25C
+3.05	propanal	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	7.4		in the presence of 0.01 mM Alda-1, at pH 7.4 and 25C
+3.16	propanal	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	7.4		50 mM sodium phosphate buffer, pH 7.4, 1 mM NAD+, 25C
+6.16	propanal	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	7.4		50 mM sodium phosphate buffer, pH 7.4, 0.2 mM Mg2+,1 mM NAD+, 25C
+19.7	propanal	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N				enzyme form ALDH-2
+0.92	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	80	8.0		in 50 mM Tris/HCl, at pH 8.0 and 80C
+3.44	Butyraldehyde	415	ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	21	8.0		at pH 8.0 and 21C
+26.95	Butyraldehyde	415	ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	37	8.0		with NAD+ as cofactor, in 50 mM potassium phosphate buffer (pH 8.0), at 37C
+0.28	glyceraldehyde 3-phosphate	473	LXJXRIRHZLFYRP-UHFFFAOYSA-N				
+1.2	glycolaldehyde	497	WGCNASOHLSPBMP-UHFFFAOYSA-N				
+4.17	Hexanal	514	JARKCYVAAOWBJS-UHFFFAOYSA-N		9.5		enzyme form ALDH-1, pH 9.5
+8.2	Hexanal	514	JARKCYVAAOWBJS-UHFFFAOYSA-N	25	8.0	X	mutant enzyme E149T/V178R/I200V, at pH 8.0 and 25C
+11.2	Hexanal	514	JARKCYVAAOWBJS-UHFFFAOYSA-N	25	8.0		wild type enzyme, at pH 8.0 and 25C
+28.5	Hexanal	514	JARKCYVAAOWBJS-UHFFFAOYSA-N		9.5		enzyme form ALDH-2, pH 9.5
+0.26	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N				
+1.39	phenylacetaldehyde	619	DTUQWGWMVIHBKE-UHFFFAOYSA-N				
+30	phenylacetaldehyde	619	DTUQWGWMVIHBKE-UHFFFAOYSA-N				enzyme ALDH-2
+50	phenylacetaldehyde	619	DTUQWGWMVIHBKE-UHFFFAOYSA-N				enzyme ALDH-1
+3.83	decanal	627	KSMVZQYAVGTKIV-UHFFFAOYSA-N		9.5		enzyme form ALDH-1, pH 9.5
+11.7	decanal	627	KSMVZQYAVGTKIV-UHFFFAOYSA-N		9.5		enzyme form ALDH-2, pH 9.5
+8.17	pentanal	628	HGBOYTHUEUWSSQ-UHFFFAOYSA-N		9.5		enzyme form ALDH-1, pH 9.5
+22.8	pentanal	628	HGBOYTHUEUWSSQ-UHFFFAOYSA-N		9.5		enzyme form ALDH-2, pH 9.5
+0.76	Succinic semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N				
+4.17	octanal	664	NUJGJRNETVAIRJ-UHFFFAOYSA-N		9.5		enzyme form ALDH-2, pH 9.5
+15	octanal	664	NUJGJRNETVAIRJ-UHFFFAOYSA-N		9.5		enzyme form ALDH-2, pH 9.5
+0.23	p-nitrobenzaldehyde	612	BXRFQSNOROATLV-UHFFFAOYSA-N				
+7.17	p-nitrobenzaldehyde	612	BXRFQSNOROATLV-UHFFFAOYSA-N				enzyme ALDH-2
+1.29	glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N				
+0.01	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	30	7.5	X	mutant enzyme N158A, with NAD+ in 50 mM HEPES, pH 7.5 supplemented with 10 mM MgSO4 for 5 min at 30C
+0.051	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	30	7.5	X	mutant enzyme R108A, with NAD+ in 50 mM HEPES, pH 7.5 supplemented with 10 mM MgSO4 for 5 min at 30C
+0.076	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	30	7.5	X	mutant enzyme R447A, with NAD+ in 50 mM HEPES, pH 7.5 supplemented with 10 mM MgSO4 for 5 min at 30C
+0.12	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	30	7.5	X	mutant enzyme R290A, with NAD+ in 50 mM HEPES, pH 7.5 supplemented with 10 mM MgSO4 for 5 min at 30C
+0.19	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	30	7.5	X	mutant enzyme E385A, with NAD+ in 50 mM HEPES, pH 7.5 supplemented with 10 mM MgSO4 for 5 min at 30C
+2.2	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	30	7.5		wild type enzyme, with NAD+ in 50 mM HEPES, pH 7.5 supplemented with 10 mM MgSO4 for 5 min at 30C
+4.33	Heptanal	1065	FXHGMKSSBGDXIY-UHFFFAOYSA-N		9.5		enzyme form ALDH-1, pH 9.5
+22.7	Heptanal	1065	FXHGMKSSBGDXIY-UHFFFAOYSA-N		9.5		enzyme form ALDH-2, pH 9.5
+26.24	Valeraldehyde	628	HGBOYTHUEUWSSQ-UHFFFAOYSA-N	37	8.0		with NAD+ as cofactor, in 50 mM potassium phosphate buffer (pH 8.0), at 37C
+9.33	Indole-3-acetaldehyde	1158	WHOOUMGHGSPMGR-UHFFFAOYSA-N				enzyme ALDH-2
+11.3	Indole-3-acetaldehyde	1158	WHOOUMGHGSPMGR-UHFFFAOYSA-N				enzyme ALDH-1
+13	Nonanal	1553	GYHFUZHODSMOHU-UHFFFAOYSA-N	25	8.0	X	mutant enzyme E149T/V178R/I200V, at pH 8.0 and 25C
+17.9	Nonanal	1553	GYHFUZHODSMOHU-UHFFFAOYSA-N	25	8.0		wild type enzyme, at pH 8.0 and 25C
+27.31	Isovaleraldehyde	1623	YGHRJJRRZDOVPD-UHFFFAOYSA-N	37	8.0		with NAD+ as cofactor, in 50 mM potassium phosphate buffer (pH 8.0), at 37C
+2.5	trans-cinnamaldehyde	817	KJPRLNWUNMBNBZ-QPJJXVBHSA-N				enzyme ALDH-2
+7.83	trans-cinnamaldehyde	817	KJPRLNWUNMBNBZ-QPJJXVBHSA-N				enzyme ALDH-1
+2.7	trans-2-nonenal	1739	BSAIUMLZVGUGKX-BQYQJAHWSA-N	25	8.0		wild type enzyme, at pH 8.0 and 25C
+3.8	trans-2-nonenal	1739	BSAIUMLZVGUGKX-BQYQJAHWSA-N	25	8.0	X	mutant enzyme E149T/V178R/I200V, at pH 8.0 and 25C
+4	2-naphthaldehyde	1740	PJKVFARRVXDXAD-UHFFFAOYSA-N				enzyme ALDH-2
+1.1	trans-2-hexenal	1895	MBDOYVRWFFCFHM-SNAWJCMRSA-N	25	8.0	X	mutant enzyme E149T/V178R/I200V, at pH 8.0 and 25C
+2.2	trans-2-hexenal	1895	MBDOYVRWFFCFHM-SNAWJCMRSA-N	25	8.0		wild type enzyme, at pH 8.0 and 25C
+1.42	3,4-dimethoxybenzaldehyde	1922	WJUFSDZVCOTFON-UHFFFAOYSA-N				enzyme ALDH-2
+27.7	3-Pyridinecarboxaldehyde	1681	QJZUKDFHGGYHMC-UHFFFAOYSA-N				enzyme ALDH-2
+0.83	DL-glyceraldehyde 3-phosphate	473	LXJXRIRHZLFYRP-UHFFFAOYSA-N	80	8.0		in 50 mM Tris/HCl, at pH 8.0 and 80C
+1.19	malondialdehyde	2389	WSMYVTOQOOLQHP-UHFFFAOYSA-N				
+4.91	3-hydroxypropionaldehyde	2618	AKXKFZDCRYJKTF-UHFFFAOYSA-N	37	8.0		with NADP+ as cofactor, in 50 mM potassium phosphate buffer (pH 8.0), at 37C
+28.54	3-hydroxypropionaldehyde	2618	AKXKFZDCRYJKTF-UHFFFAOYSA-N	37	8.0		with NAD+ as cofactor, in 50 mM potassium phosphate buffer (pH 8.0), at 37C
+2.5	p-Methoxybenzaldehyde	779	ZRSNZINYAWTAHE-UHFFFAOYSA-N				enzyme ALDH-2
+1.23	o-nitrobenzaldehyde	2144	CMWKITSNTDAEDT-UHFFFAOYSA-N				enzyme ALDH-2
+1	m-hydroxybenzaldehyde	1712	IAVREABSGIHHMO-UHFFFAOYSA-N				enzyme ALDH-2
+3	p-methylbenzaldehyde	1538	FXLOVSHXALFLKQ-UHFFFAOYSA-N				enzyme ALDH-2
+4.42	4-methoxy-1-naphthaldehyde	7444	MVXMNHYVCLMLDD-UHFFFAOYSA-N				enzyme ALDH-1
+5.83	m-methoxybenzaldehyde	1377	WMPDAIZRQDCGFH-UHFFFAOYSA-N				enzyme ALDH-2
+4.5	m-methylbenzaldehyde	1966	OVWYEQOVUDKZNU-UHFFFAOYSA-N				enzyme ALDH-2
+5.61	hexanaldehyde	514	JARKCYVAAOWBJS-UHFFFAOYSA-N	21	8.0		at pH 8.0 and 21C
+5.44	pentanaldehyde	628	HGBOYTHUEUWSSQ-UHFFFAOYSA-N	21	8.0		at pH 8.0 and 21C
+0.04	glutathione-4-oxonon-2-enal	7735	XMOLEWOFKNFWHC-GQCTYLIASA-N	37	7.4		50 mM sodium phosphate buffer pH 7.4, 1 mM NAD+, 37C
+0.55	5-nitro-1-naphthaldehyde	8698	JYJDWOKNSHADGZ-UHFFFAOYSA-N				enzyme ALDH-1
+0.833	5-nitro-1-naphthaldehyde	8698	JYJDWOKNSHADGZ-UHFFFAOYSA-N				enzyme ALDH-2
+12.3	hydrocinnamaldehyde	3905	YGCZTXZTJXYWCO-UHFFFAOYSA-N				enzyme ALDH-2
+2.75	o-methylbenzaldehyde	2549	BTFQKIATRPGRBS-UHFFFAOYSA-N				enzyme ALDH-2
+1.5	p-(dimethylamino)cinnamaldehyde	7442	RUKJCCIJLIMGEP-ONEGZZNKSA-N				enzyme ALDH-2
+8.17	p-(dimethylamino)cinnamaldehyde	7442	RUKJCCIJLIMGEP-ONEGZZNKSA-N				enzyme ALDH-1
+0.26	3-hydroxypropionic acid	1223	ALRHLSYJTWAHJZ-UHFFFAOYSA-N	37	8.0		with NADH as cofactor, in 50 mM potassium phosphate buffer (pH 8.0), at 37C
+0.158	5-bromo-1-naphthaldehyde	11002	RFBLXLCJCJMOCN-UHFFFAOYSA-N				enzyme ALDH-1
+0.25	5-bromo-1-naphthaldehyde	11002	RFBLXLCJCJMOCN-UHFFFAOYSA-N				enzyme ALDH-2
+0.367	o-methoxybenzaldehyde	2357	PKZJLOCLABXVMC-UHFFFAOYSA-N				enzyme ALDH-2
+0.3	phenanthrene-9-carboxaldehyde	11055	QECIGCMPORCORE-UHFFFAOYSA-N				enzyme ALDH-2
+0.667	2,4-dinitrobenzaldehyde	13981	ZILXIZUBLXVYPI-UHFFFAOYSA-N				enzyme ALDH-2
+2.67	5-(dimethylamino)-2-naphthaldehyde	14011	FLFZHAFOKLMGDZ-UHFFFAOYSA-N				enzyme ALDH-1
+0.983	6,7-dimethoxycoumarin-3-carboxaldehyde	14027	ORKXDTPHBQSVOY-UHFFFAOYSA-N				enzyme ALDH-2
+1.3	7-(dimethylamino)-coumarin-3-carboxaldehyde	14033	RHZUYJDKHFJVGH-UHFFFAOYSA-N				enzyme ALDH-2
+1.08	7-acetoxycoumarin-3-carboxaldehyde	14034	QZFHRSSZNGRMDS-UHFFFAOYSA-N				enzyme ALDH-2
+8.33	7-hydroxycoumarin-3-carboxaldehyde	14035	CKZDPGZUVBLQSL-UHFFFAOYSA-N				enzyme ALDH-2
+3.17	7-methoxycoumarin-3-carboxaldehyde	14036	SFDLEXQPRBLXRT-UHFFFAOYSA-N				enzyme ALDH-2
+2.83	fluorene-2-carboxaldehyde	14084	MNQGEQSXFDKAPY-UHFFFAOYSA-N				enzyme ALDH-2
+6	fluorene-2-carboxaldehyde	14084	MNQGEQSXFDKAPY-UHFFFAOYSA-N				enzyme ALDH-1
+2.13	p-(dimethylamino)benzaldehyde	10430	BGNGWHSBYQYVRX-UHFFFAOYSA-N				enzyme ALDH-1
+0.45	p-nitrocinnamaldehyde	14120	ALGQVMMYDWQDEC-UHFFFAOYSA-N				enzyme ALDH-2
+0.617	6-(dimethylamino)-2-naphthaldehyde	6890	IVFSOOIWIYPDLX-UHFFFAOYSA-N				enzyme ALDH-2
+0.983	6-methoxy-2-quinolinone-4-carboxaldehyde	21495	STUDOPCFIZSIEL-UHFFFAOYSA-N				enzyme ALDH-2
+2.17	7-(dimethylamino)-2-quinolinone-4-carboxaldehyde	21499	CDFYMALVZADZAU-UHFFFAOYSA-N				enzyme ALDH-2
+5.33	7-methoxy-2-quinolinone-4-carboxaldehyde	21501	XSLWXOOKKCKCSK-UHFFFAOYSA-N				enzyme ALDH-2
+15.2	alpha-phenylpropanal	9256	IQVAERDLDAZARL-UHFFFAOYSA-N				enzyme ALDH-2
+2.33	p-(dimethylamino)-benzaldehyde	10430	BGNGWHSBYQYVRX-UHFFFAOYSA-N				enzyme ALDH-2
+11.2	quinoline-3-carboxaldehyde	21661	RYGIHSLRMNXWCN-UHFFFAOYSA-N				enzyme ALDH-2
+4.67	quinoline-4-carboxaldehyde	21662	MGCGJBXTNWUHQE-UHFFFAOYSA-N				enzyme ALDH-2
+0.04	(S)-trans-4-hydroxy-2-nonenal	25778	JVJFIQYAHPMBBX-IWGCBNPKSA-N	37	7.4		ALDH2, in 40 mM sodium phosphate buffer (pH 7.4), at 37C
+0.039	(R)-trans-4-hydroxy-2-nonenal	25779	JVJFIQYAHPMBBX-VPIOIWJLSA-N	37	7.4		ALDH2, in 40 mM sodium phosphate buffer (pH 7.4), at 37C
+1.57	2-quinolinone-4-carboxaldehyde	31551	VSYXGFNDDQVELE-UHFFFAOYSA-N				enzyme ALDH-2
+7.9	7-(dimethylamino)coumarin-4-carboxaldehyde	31698	BSORNHXIQYIUBV-UHFFFAOYSA-N				enzyme ALDH-2

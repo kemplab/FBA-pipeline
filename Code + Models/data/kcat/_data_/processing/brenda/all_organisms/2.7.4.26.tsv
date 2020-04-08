@@ -1,0 +1,27 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0039	geranyl phosphate	6586	FFOWJDCTFSWUMJ-JXMROGBWSA-N				pH and temperature not specified in the publication
+0.0142	geranyl phosphate	6586	FFOWJDCTFSWUMJ-JXMROGBWSA-N	37	7.5		pH 7.5, 37C
+0.03	fosfomycin	872	YMDXZJFXQJVXBF-STHAYSLISA-N	37	7.5	X	pH 7.5, 37C, mutant K204A
+0.04	fosfomycin	872	YMDXZJFXQJVXBF-STHAYSLISA-N	37	7.5		pH 7.5, 37C, wild-type
+0.04	isopentenyl phosphate	2920	QMZRXYCCCYYMHF-UHFFFAOYSA-N		8.0	X	mutant H60Q, pH 8.0, temperature not specified in the publication
+0.047	geranyl phosphate	6586	FFOWJDCTFSWUMJ-JXMROGBWSA-N	37	7.5		pH 7.5, 37C
+1.46	isopentenyl phosphate	2920	QMZRXYCCCYYMHF-UHFFFAOYSA-N		8.0		wild-type enzyme, pH 8.0, temperature not specified in the publication
+2.7	dimethylallyl phosphate	7788	MQCJHQBRIPSIKA-UHFFFAOYSA-N				pH and temperature not specified in the publication
+2.75	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, reverse reaction
+2.84	isopentenyl thiolophosphate	114536	AILAQGUVELLTGL-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+3.7	isopentenyl phosphate	2920	QMZRXYCCCYYMHF-UHFFFAOYSA-N				pH and temperature not specified in the publication
+4.5	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, reverse reaction
+7.7	isopentenyl phosphate	2920	QMZRXYCCCYYMHF-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, mutant K204A
+8	isopentenyl phosphate	2920	QMZRXYCCCYYMHF-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+8	isopentenyl phosphate	2920	QMZRXYCCCYYMHF-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, wild-type
+8.07	but-3-en-1-yl phosphate	114537	AGNYGVJOJNYJMS-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+8.22	isopentenyl thiolophosphate	114536	AILAQGUVELLTGL-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+9.9	butyl phosphate	10508	BNMJSBUIDQYHIN-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+11.3	dimethylallyl phosphate	7788	MQCJHQBRIPSIKA-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+16.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5		pH 7.5, 30C
+16.3	isopentenyl phosphate	2920	QMZRXYCCCYYMHF-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+20.5	but-3-en-1-yl phosphate	114537	AGNYGVJOJNYJMS-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+27.5	isopentenyl phosphate	2920	QMZRXYCCCYYMHF-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+31.8	butyl phosphate	10508	BNMJSBUIDQYHIN-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+34	dimethylallyl phosphate	7788	MQCJHQBRIPSIKA-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+330	isopentenyl phosphate	2920	QMZRXYCCCYYMHF-UHFFFAOYSA-N	55	7.5		pH 7.5, 55C

@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.01	polysialic acid	2493	WHSBNAUINPVAFP-PFGYXDNQSA-N	37	6.5		37C, pH 6.5, G153A
+0.2	polysialic acid	2493	WHSBNAUINPVAFP-PFGYXDNQSA-N	37	6.5		37C, pH 6.5, D138A
+0.4	polysialic acid	2493	WHSBNAUINPVAFP-PFGYXDNQSA-N	37	6.5		37C, pH 6.5, wild-type
+0.5	polysialic acid	2493	WHSBNAUINPVAFP-PFGYXDNQSA-N	37	6.5		37C, pH 6.5, Trunc N45
+1.2	polysialic acid	2493	WHSBNAUINPVAFP-PFGYXDNQSA-N	37	6.5		37C, pH 6.5, D154A
+1.28	trifluoromethylumbelliferyl sialotrioside	27131	BQHRGIRGWZOIDW-KRKQYELCSA-N		4.5		at pH 4.5
+1.4	polysialic acid	2493	WHSBNAUINPVAFP-PFGYXDNQSA-N	37	6.5		37C, pH 6.5, DELTA P-loop
+4.37	tetrameric silica acid	18049	IAJNEFBMMJGJHG-UHFFFAOYSA-N			X	identical kinetic parameters for wild type and cleavage site mutant S911A

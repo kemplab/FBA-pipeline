@@ -1,0 +1,155 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.002	adipyl-7-aminodeacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme N266D
+0.008	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375E
+0.01	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375D
+0.015	adipyl-7-aminocephalosporanic acid	1297	LKANTFSBPRJXIN-IUODEOHRSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375D
+0.015	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	37			at 37C, pH not specified in the publication
+0.018	adipyl-7-aminocephalosporanic acid	1297	LKANTFSBPRJXIN-IUODEOHRSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375R
+0.022	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	37	8.5	X	wild-type enzyme and deletion mutant D4(212-ADLA-215), pH 8.5, 37C
+0.023	adipyl-7-aminodeacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme N266E
+0.023	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	37	8.5	X	deletion mutant D2(227-AM-228), pH 8.5, 37C
+0.025	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme N266E
+0.026	adipyl-7-aminocephalosporanic acid	1297	LKANTFSBPRJXIN-IUODEOHRSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375W
+0.031	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+0.036	adipyl-7-aminocephalosporanic acid	1297	LKANTFSBPRJXIN-IUODEOHRSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375K
+0.0485	7-aminocephalosporanic acid	1280	HSHGZXNAXBPPDL-HZGVNTEJSA-N				pH and temperature not specified in the publication
+0.061	adipyl-7-aminodeacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme N266P
+0.073	adipyl-7-aminocephalosporanic acid	1297	LKANTFSBPRJXIN-IUODEOHRSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375G
+0.08	adipyl-7-aminocephalosporanic acid	1297	LKANTFSBPRJXIN-IUODEOHRSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375E
+0.082	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme N266L
+0.09	adipyl-7-aminocephalosporanic acid	1297	LKANTFSBPRJXIN-IUODEOHRSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375V
+0.097	adipyl-7-aminocephalosporanic acid	1297	LKANTFSBPRJXIN-IUODEOHRSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375I
+0.11	adipyl-7-aminocephalosporanic acid	1297	LKANTFSBPRJXIN-IUODEOHRSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375S
+0.13	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme N266P
+0.15	adipyl-7-aminodeacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme N266T
+0.16	4-(glutarylamino)benzoic acid	118732	CEFSDBCGVOXJHW-UHFFFAOYSA-N	37			at 37C, pH not specified in the publication
+0.18	adipyl-7-aminodeacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme N266A
+0.2	adipyl-7-aminocephalosporanic acid	1297	LKANTFSBPRJXIN-IUODEOHRSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375A
+0.21	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	beta-subunit mutant enzyme Q50N/K198A
+0.21	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375R
+0.22	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	beta-subunit mutant enzyme Q50N
+0.23	adipyl-7-aminodeacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme N266G
+0.23	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	8.0	X	pH 8.0, 37C, mutant enzyme W173A
+0.24	adipyl-7-aminocephalosporanic acid	1297	LKANTFSBPRJXIN-IUODEOHRSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375T
+0.24	adipyl-7-aminodeacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme N266S
+0.24	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	alpha-subunit mutant enzyme Y151F
+0.25	adipyl-7-aminodeacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme N266L
+0.31	adipyl-7-aminodeacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N	266		X	mutant enzyme N266C
+0.33	adipyl-7-aminodeacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme N266W; mutant enzyme N266Y
+0.33	gamma-Glu-Cys-Gly	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37			at 37C, pH not specified in the publication
+0.34	adipyl-7-aminodesacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme N266S
+0.35	glutarylaniline	28295	QAICKUPFZDJHPP-YFKPBYRVSA-N	37			at 37C, pH not specified in the publication
+0.37	adipyl-7-aminodeacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme N266F
+0.38	adipyl-7-aminodesacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N				wild type enzyme
+0.38	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme with mutation Y151F in the alpha-subunit and Q50N in the beta-subunit
+0.41	adipyl-7-aminodeacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N				wild-type enzyme
+0.41	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	beta-subunit mutant enzyme D286A
+0.43	adipyl-7-aminocephalosporanic acid	1297	LKANTFSBPRJXIN-IUODEOHRSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375Y
+0.45	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	beta-subunit mutant enzyme R121A; wild-type enzyme
+0.46	adipyl-7-aminodeacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme N266Q
+0.46	adipyl-7-aminodesacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N	37	7.5		pH 7.5, 37C, wild-type enzyme
+0.46	adipyl-7-aminodesacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme N266Q
+0.47	adipyl-7-aminodeacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme N266H
+0.47	adipyl-7-aminodesacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F229L
+0.47	adipyl-7-aminodesacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme N266H
+0.47	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	beta-subunit mutant enzyme K198betaA
+0.47	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375W
+0.48	adipyl-7-aminodesacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme N266Q/F375L
+0.49	adipyl-7-aminocephalosporanic acid	1297	LKANTFSBPRJXIN-IUODEOHRSA-N	37	7.5		pH 7.5, 37C, wild-type enzyme
+0.49	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme N266T
+0.508	7-aminocephalosporanic acid	1280	HSHGZXNAXBPPDL-HZGVNTEJSA-N			X	D445G mutant, pH and temperature not specified in the publication
+0.55	adipyl-7-aminocephalosporanic acid	1297	LKANTFSBPRJXIN-IUODEOHRSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375C
+0.55	adipyl-7-aminodesacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme N266H
+0.61	adipyl-7-aminodesacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme M271V/Q291K/T374S
+0.61	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme N266Y
+0.65	adipyl-7-aminocephalosporanic acid	1297	LKANTFSBPRJXIN-IUODEOHRSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375M
+0.65	adipyl-7-aminodesacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme F375M
+0.66	adipyl-7-aminodesacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme Y178H; mutant enzyme Y178H/N266Q/F375L
+0.67	adipyl-7-aminocephalosporanic acid	1297	LKANTFSBPRJXIN-IUODEOHRSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375L
+0.67	adipyl-7-aminodesacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375L
+0.67	adipyl-7-aminodesacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme F375L
+0.67	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375I
+0.68	adipyl-7-aminocephalosporanic acid	1297	LKANTFSBPRJXIN-IUODEOHRSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375Q
+0.75	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme N266Q/F375L
+0.8	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375Q
+0.89	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme Y178H/N266M
+0.9	adipyl-7-aminocephalosporanic acid	1297	LKANTFSBPRJXIN-IUODEOHRSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375N
+0.9	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme N266F
+0.95	adipyl-7-aminodesacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme Y178H/N266H
+1.02	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375V
+1.1	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375L
+1.1	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375L
+1.1	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme F375L
+1.16	adipyl-7-aminocephalosporanic acid	1297	LKANTFSBPRJXIN-IUODEOHRSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375H
+1.2	adipyl-7-aminodesacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme Y178H/N266M
+1.28	succinyl-7-aminocephalosporanic acid	5771	TWKKUTFRNSRUKA-BXKDBHETSA-N	37			at 37C, pH not specified in the publication
+1.3	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme N266W
+1.334	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375H
+1.36	glutaryl-GGGGAA	118740	SDYWLRJIQDBARW-QWRGUYRKSA-N	37			at 37C, pH not specified in the publication
+1.4	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme N266A
+1.6	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme N266S
+1.65	glutaryl-glycine	118625	NBLKTRLPZFCMJG-UHFFFAOYSA-N	37			at 37C, pH not specified in the publication
+1.73	glutaryl-GGGGGK	118741	VHUXOOCOJSOABC-ZDUSSCGKSA-N	37			at 37C, pH not specified in the publication
+1.8	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375T
+1.8	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme N266M
+1.8	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme N266M
+1.9	adipyl-7-aminodeacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme N266M
+1.9	adipyl-7-aminodesacetoxycephalosporanic acid	1408	OCYPRIYYNMYSMV-ZWNOBZJWSA-N			X	mutant enzyme N266M
+1.96	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375N
+2	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	266		X	mutant enzyme N266C; mutant enzyme N266G
+2.02	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375M
+2.02	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme F375M
+2.2	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375K
+2.2	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme N266S
+2.2	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme Y178H/N266H
+2.308	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375C
+2.35	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375A
+2.4	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme N266Q
+2.4	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme N266Q
+2.46	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375G
+2.5	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme Y178H; mutant enzyme Y178H/N266Q/F375L
+2.91	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	37		X	37C, mutant enzyme Y270F
+3.1	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375S
+3.1	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme N266H
+3.1	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F229L
+3.1	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N			X	mutant enzyme N266H
+3.1	glutaryl-tryptophan	118733	KXQBLXZCJGXTLI-ZDUSSCGKSA-N	37			at 37C, pH not specified in the publication
+3.2	glutaryl-gamma-Glu-Cys-Gly	118731	PDZOKQOHSNRWOI-IUCAKERBSA-N	37			at 37C, pH not specified in the publication
+3.3	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	8.0	X	pH 8.0, 37C, beta-subunit mutant W4T
+3.3	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme N266H
+3.4	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	30	8.0	X	pH 8.0, 30C, beta-subunitmutant enzyme E455L
+3.5	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme M271V/Q291K/T374S
+3.6	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	8.0	X	pH 8.0, 37C, beta-subunit mutant W4A
+3.64	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme F375Y
+3.8	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	8.0	X	pH 8.0, 37C, beta-subunit mutant W4L
+4	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5		pH 7.5, 37C, wild-type enzyme
+4	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N				wild-type enzyme
+4.1	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N				wild type enzyme
+4.3	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	7.5		pH 7.5, 37C, wild-type enzyme
+4.8	glutaryl-GDAADAADKG	118738	OQGRKZPVJVCDSS-OPKHLUCYSA-N	37			at 37C, pH not specified in the publication
+5	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	8.0	X	pH 8.0, 37C, beta-subunit mutant W4F
+5.4	glutaryl-glycyl-proline	118734	HDLAXSVTGUKKSX-QMMMGPOBSA-N	37			at 37C, pH not specified in the publication
+5.5	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	8.0	X	pH 8.0, 37C, beta-subunit mutant W4H
+5.9	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	8.0	X	pH 8.0, 37C, beta-subunit mutant W4Y
+5.93	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	37			37C, wild-type enzyme
+6.05	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	8.0	X	pH 8.0, 37C, mutant enzyme Y126F
+6.1	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	30	8.0	X	pH 8.0, 30C, beta-subunitmutant enzyme H23D
+6.2	glutaryl-alanyl-proline	118735	RPGAQYIITDBWJT-IUCAKERBSA-N	37			at 37C, pH not specified in the publication
+6.5	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	30	8.0	X	pH 8.0, 30C, beta-subunit mutant enzyme H23Q
+6.6	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	30	8.0	X	pH 8.0, 30C, beta-subunitmutant enzyme E455Q
+7.1	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37			at 37C, pH not specified in the publication
+7.16	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	8.0	X	pH 8.0, 37C, mutant enzyme Y126A
+7.54	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+7.8	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+8.29	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37		X	37C, mutant enzyme M164Q
+9.4	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	37		X	37C, mutant enzyme Y269Y
+9.4	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	30	8.0	X	pH 8.0, 30C, beta-subunitmutant enzyme E455D
+10.4	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N	37		X	37C, mutant enzyme Y269F
+12.8	glutaryl-EGDPPDLADQG	118739	ZNTFLOVABUSKQI-MQAKNACASA-N	37			at 37C, pH not specified in the publication
+13.2	glutaryl-GDPPDLADQG	118737	RAXFIMGHUMHWKE-PJYAFMLMSA-N	37			at 37C, pH not specified in the publication
+13.8	glutaryl-GDPP	118736	TUILKDOEXOLFRH-IHRRRGAJSA-N	37			at 37C, pH not specified in the publication
+15.1	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37		X	37C, mutant enzyme M164N
+16.9	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	30	8.0		pH 8.0, 30C, wild-type enzyme
+18.1	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37		X	37C, mutant enzyme M164A
+18.6	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37		X	37C, mutant enzyme M164G
+49.8	glutaryl-7-aminocephalosporanic acid	325	IXUSDMGLUJZNFO-BXUZGUMPSA-N	37			37C, wild-type enzyme

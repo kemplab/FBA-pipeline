@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0003	L-homocysteine	260	FFFHZYDWPBMWHY-VKHMYHEASA-N	37	7.5		wild-type, cosubstrate S-methylmethionine, presence of 150 mM KCl, pH 7.5, 37C
+0.0367	L-homocysteine	260	FFFHZYDWPBMWHY-VKHMYHEASA-N	37	7.5		wild-type, pH 7.5, 37C
+0.0378	L-homocysteine	260	FFFHZYDWPBMWHY-VKHMYHEASA-N	37	7.5		wild-type, presence of 150 mM KCl, pH 7.5, 37C
+0.0298	betaine	572	KWIUHFFTVRNATP-UHFFFAOYSA-N	37	7.5		wild-type, pH 7.5, 37C
+0.0422	betaine	572	KWIUHFFTVRNATP-UHFFFAOYSA-N	37	7.5		wild-type, presence of 150 mM KCl, pH 7.5, 37C
+88	betaine	572	KWIUHFFTVRNATP-UHFFFAOYSA-N				
+0.0044	S-methyl-L-methionine	1773	YDBYJHTYSHBBAU-YFKPBYRVSA-O	37	7.5		wild-type, presence of 150 mM KCl, pH 7.5, 37C
+24	S-methyl-L-methionine	1773	YDBYJHTYSHBBAU-YFKPBYRVSA-O				
+38	S-methyl-L-methionine	1773	YDBYJHTYSHBBAU-YFKPBYRVSA-O				

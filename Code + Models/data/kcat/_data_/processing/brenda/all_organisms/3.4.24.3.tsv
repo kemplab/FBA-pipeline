@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.092	furylacryloyl-Leu-Gly-Pro-Ala	3733	ZLFQNOJSYZSINX-PVJKAEHXSA-N	25	7.5		isoform ColG with N-terminal His6-tag, pH 7.5, 25C
+0.11	furylacryloyl-Leu-Gly-Pro-Ala	3733	ZLFQNOJSYZSINX-PVJKAEHXSA-N	25	7.5		wild-type ColG, pH 7.5, 25C
+3.65	furylacryloyl-Leu-Gly-Pro-Ala	3733	ZLFQNOJSYZSINX-PVJKAEHXSA-N	25	7.5		isoform ColT with N-terminal His6-tag, pH 7.5, 25C
+7.24	furylacryloyl-Leu-Gly-Pro-Ala	3733	ZLFQNOJSYZSINX-PVJKAEHXSA-N	25	7.5		wild-type ColT, pH 7.5, 25C
+13.6	furylacryloyl-Leu-Gly-Pro-Ala	3733	ZLFQNOJSYZSINX-PVJKAEHXSA-N	25	7.5		isoform ColH with N-terminal His6-tag, pH 7.5, 25C
+15.9	furylacryloyl-Leu-Gly-Pro-Ala	3733	ZLFQNOJSYZSINX-PVJKAEHXSA-N	25	7.5		wild-type ColH, pH 7.5, 25C

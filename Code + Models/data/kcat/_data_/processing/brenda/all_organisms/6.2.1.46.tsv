@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0015	L-allo-isoleucine	113789	AGPKZVBTJJNPAG-UHNVWZDZSA-N	25	7.5		pH 7.5, 25C, the assay measures the release of diphosphate by means of a coupled enzyme system in which diphosphate drives the reduction of NAD+ to NADH
+0.012	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	25	7.5		pH 7.5, 25C, the assay measures the release of diphosphate by means of a coupled enzyme system in which diphosphate drives the reduction of NAD+ to NADH
+0.023	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	25	7.5		pH 7.5, 25C, the assay measures the release of diphosphate by means of a coupled enzyme system in which diphosphate drives the reduction of NAD+ to NADH
+0.03	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	25	7.5		pH 7.5, 25C, the assay measures the release of diphosphate by means of a coupled enzyme system in which diphosphate drives the reduction of NAD+ to NADH

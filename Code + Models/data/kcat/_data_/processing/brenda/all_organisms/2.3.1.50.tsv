@@ -1,0 +1,27 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.005	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	recombinant mutant N100Y
+0.005	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N			X	recombinant mutant N100Y
+0.009	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	recombinant mutant N100W
+0.009	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N			X	recombinant mutant N100W
+0.03	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N				
+0.033	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	recombinant mutant R378N
+0.033	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N			X	recombinant mutant R378N
+0.0388	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N				
+0.0503	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N				recombinant enzyme
+0.0687	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N				pH not specified in the publication, temperature not specified in the publication
+0.078	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	recombinant mutant R378A
+0.078	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N			X	recombinant mutant R378A
+0.083	stearoyl-CoA	438	SIARJEKBADXQJG-LFZQUHGESA-N				pH not specified in the publication, temperature not specified in the publication
+0.12	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N				
+0.15	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N				
+0.25	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	100		X	recombinant mutant N100C
+0.25	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N	100		X	recombinant mutant N100C
+0.41	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.5	X	recombinant mutant G385F, pH 7.5, 25C
+0.41	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N	25	7.5	X	recombinant mutant G385F, pH 7.5, 25C
+0.44	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.5	X	recombinant mutant V246M, pH 7.5, 25C
+0.44	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N	25	7.5	X	recombinant mutant V246M, pH 7.5, 25C
+1.14	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.5		recombinant wild-type enzyme, pH 7.5, 25C
+1.14	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N	25	7.5		recombinant wild-type enzyme, pH 7.5, 25C
+1.15	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				recombinant wild-type enzyme
+1.15	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N				recombinant wild-type enzyme
+1.54	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.5		recombinant wild-type enzyme, pH 7.5, 25C

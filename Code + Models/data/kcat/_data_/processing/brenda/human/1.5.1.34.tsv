@@ -1,0 +1,37 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+20	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				recombinant enzyme
+17	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				recombinant enzyme
+280	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				enzyme from brain
+200	tetrahydrobiopterin	221	FNKQXYHWGSIFBK-RPDRRWSUSA-N				
+0.3	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant G23D mutant enzyme
+2.3	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant Y150E glutathione-S-transferase fusion mutant enzyme
+6.7	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant Y150K glutathione-S-transferase fusion mutant enzyme
+7.3	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant Y150E mutant enzyme
+7.7	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant Y150F glutathione-S-transferase fusion mutant enzyme
+15.3	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant Y150F mutant enzyme
+31	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N				recombinant wild-type glutathione-S-transferase fusion enzyme
+35.8	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant Y150S mutant enzyme
+42	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant Y150S glutathione-S-transferase fusion mutant enzyme
+49.6	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant Y150H mutant enzyme
+60	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant Y150H glutathione-S-transferase fusion mutant enzyme
+107	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant G151S mutant enzyme
+227	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N				recombinant wild-type enzyme
+510	2-amino-4-hydroxy-6,7-dimethyl-5,6,7,8-tetrahydropteridine	2934	ARHXUJTYUBUXBB-UHFFFAOYSA-N				
+10.9	quinonoid 7,8-(6H)-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N	20			at 20C
+23.7	quinonoid 7,8-(6H)-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N	25			at 25C
+28.9	quinonoid 7,8-(6H)-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N	30			at 30C
+113	quinonoid 7,8-(6H)-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N	37			at 37C
+16.7	quinoid 7,8-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	recombinant Y150E mutant enzyme
+17	quinoid 7,8-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N				recombinant enzyme
+42.2	quinoid 7,8-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	recombinant Y150H mutant enzyme
+44.5	quinoid 7,8-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N				recombinant wild-type enzyme
+50.3	quinoid 7,8-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	recombinant Y150S mutant enzyme
+52.2	quinoid 7,8-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	recombinant Y150F mutant enzyme
+10.9	quinonoid 7,8(6H)-dihydropterin	10809	SYMNQIBTCYDGIS-UHFFFAOYSA-N	20			at 20C
+23.7	quinonoid 7,8(6H)-dihydropterin	10809	SYMNQIBTCYDGIS-UHFFFAOYSA-N	25			at 25C
+28.9	quinonoid 7,8(6H)-dihydropterin	10809	SYMNQIBTCYDGIS-UHFFFAOYSA-N	30			30C
+113	quinonoid 7,8(6H)-dihydropterin	10809	SYMNQIBTCYDGIS-UHFFFAOYSA-N	37			at 37C
+15.7	quinoid 7,8-dihydropterin	1508	HNXQXTQTPAJEJL-UHFFFAOYSA-N			X	recombinant G23D mutant enzyme
+44.5	quinoid 7,8-dihydropterin	1508	HNXQXTQTPAJEJL-UHFFFAOYSA-N				recombinant wild-type enzyme
+51.2	quinoid 7,8-dihydropterin	1508	HNXQXTQTPAJEJL-UHFFFAOYSA-N			X	recombinant G151S mutant enzyme
+162	quinoid 2-amino-4-hydroxy-6,7-dimethyl-7,8-dihydropteridine	14028	OWLLSSAGQBFJMC-UHFFFAOYSA-N				recombinant enzyme

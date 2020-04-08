@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.1	Abz-KLKSSKQ-EDDnp	23996	RFKDLYWSSCMYNH-ZLCORKTQSA-N	37	7.5		in the presence of 1.4 M sodium citrate, in 50 mM Tris, 1 mM EDTA, pH 7.5, at 37C
+0.5	Abz-KLKSSKQ-EDDnp	23996	RFKDLYWSSCMYNH-ZLCORKTQSA-N	37	7.5		in the presence of 0.0005 mM heparin, in 50 mM Tris, 1 mM EDTA, pH 7.5, at 37C
+3.2	Abz-KLRSSKQ-EDDnp	114533	KTMALTRUHFJRQH-WNZMCKAXSA-N	37	7.5		in the presence of 0.0005 mM heparin, in 50 mM Tris, 1 mM EDTA, pH 7.5, at 37C
+3.4	Abz-KLRSSKQ-EDDnp	114533	KTMALTRUHFJRQH-WNZMCKAXSA-N	37	7.5		in the presence of 1.4 M sodium citrate, in 50 mM Tris, 1 mM EDTA, pH 7.5, at 37C

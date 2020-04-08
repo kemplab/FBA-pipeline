@@ -1,0 +1,19 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.067	3,4-Dihydroxyphenylacetate	665	CFFZDZCDUFSOFZ-UHFFFAOYSA-N	23	7.5	X	23C, pH 7.5, mutant enzyme H200A
+0.12	3,4-Dihydroxyphenylacetate	665	CFFZDZCDUFSOFZ-UHFFFAOYSA-N			X	mutant H200F
+0.21	3,4-Dihydroxyphenylacetate	665	CFFZDZCDUFSOFZ-UHFFFAOYSA-N	24	7.5	X	24C, pH 7.5, mutant enzyme H200F
+0.3	3,4-Dihydroxyphenylacetate	665	CFFZDZCDUFSOFZ-UHFFFAOYSA-N	24	7.5	X	24C, pH 7.5, mutant enzyme H200A
+0.9	3,4-Dihydroxyphenylacetate	665	CFFZDZCDUFSOFZ-UHFFFAOYSA-N	24	7.5	X	24C, pH 7.5, mutant enzyme H200E
+2.67	3,4-Dihydroxyphenylacetate	665	CFFZDZCDUFSOFZ-UHFFFAOYSA-N	23	7.5	X	23C, pH 7.5, mutant enzyme H200N
+3	3,4-Dihydroxyphenylacetate	665	CFFZDZCDUFSOFZ-UHFFFAOYSA-N	24	7.5	X	24C, pH 7.5, mutant enzyme H20N
+3.2	3,4-Dihydroxyphenylacetate	665	CFFZDZCDUFSOFZ-UHFFFAOYSA-N	4	7.5		pH 7.5, 4C
+3.6	3,4-Dihydroxyphenylacetate	665	CFFZDZCDUFSOFZ-UHFFFAOYSA-N	23	7.5	X	23C, pH 7.5, mutant enzyme H200Q
+4	3,4-Dihydroxyphenylacetate	665	CFFZDZCDUFSOFZ-UHFFFAOYSA-N	24	7.5	X	24C, pH 7.5, mutant enzyme H200Q
+4.6	3,4-Dihydroxyphenylacetate	665	CFFZDZCDUFSOFZ-UHFFFAOYSA-N	23	7.5		23C, pH 7.5, wild-type enzyme
+10	3,4-Dihydroxyphenylacetate	665	CFFZDZCDUFSOFZ-UHFFFAOYSA-N	22	7.5		pH 7.5, 22C
+10	3,4-Dihydroxyphenylacetate	665	CFFZDZCDUFSOFZ-UHFFFAOYSA-N				wild-type
+10	3,4-Dihydroxyphenylacetate	665	CFFZDZCDUFSOFZ-UHFFFAOYSA-N	24	7.5		24C, pH 7.5, wild-type enzyme
+0.01	2,3-Dihydroxybenzoate	1032	GLDQAMYCGOIJDV-UHFFFAOYSA-N			X	mutant H200F
+0.02	2,3-Dihydroxybenzoate	1032	GLDQAMYCGOIJDV-UHFFFAOYSA-N				wild-type
+0.05	4-nitrocatechol	1129	XJNPNXSISMKQEX-UHFFFAOYSA-N	4	7.5		pH 7.5, 4C
+0.4	4-nitrocatechol	1129	XJNPNXSISMKQEX-UHFFFAOYSA-N	22	7.5		pH 7.5, 22C

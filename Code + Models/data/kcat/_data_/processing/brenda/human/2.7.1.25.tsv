@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.17	adenylyl sulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N			X	mutant R40A
+0.2	adenylyl sulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N			X	deletion mutant lacking the first 50 amino acids of the N-terminus, delta50N
+0.207	adenylyl sulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N			X	mutant R37A
+0.315	adenylyl sulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N			X	deletion mutant lacking the first 34 amino acids of the N-terminus, delta34N
+0.364	adenylyl sulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N				wildtype adenylyl sulfate
+1.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0		pH 8.0, 37C, PAPSS 1
+2.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0		pH 8.0, 37C, PAPSS 2a
+4.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0		pH 8.0, 37C, PAPSS 2b

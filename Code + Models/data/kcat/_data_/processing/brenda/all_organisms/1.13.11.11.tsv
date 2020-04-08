@@ -1,0 +1,57 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+35.4	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.5		25C, pH 7.5, wild-type enzyme
+0.04	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N		8.0	X	H76A mutant enzyme, pH 8.0, normal atmospheric conditions
+0.045	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+0.6	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N		7.0		pH 7.0, normal atmospheric conditions
+0.9	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+1.4	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+1.4	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+1.8	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+2.03	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+2.1	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N		7.0		pH 7.0
+2.2	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+2.6	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N			X	H55S mutant enzyme, O2 not present at a saturating level
+2.6	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+2.86	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N			X	H55A mutant enzyme, O2 not present at a saturating level
+2.9	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+3.04	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N		8.0	X	Y42F mutant enzyme, pH 8.0, normal atmospheric conditions
+3.86	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N			X	H55A mutant enzyme
+4.3	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+6.12	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N		8.0		pH 8.0, normal atmospheric conditions
+7.88	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N			X	H55S mutant enzyme
+16.8	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+19	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+19.5	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				O2 not present at a saturating level
+35.4	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+0.00483	tryptamine	310	APJYDQYYACXCRM-UHFFFAOYSA-N	24			24C
+1.55	L-Trp	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+1.65	L-Trp	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	24			24C
+1.65	L-Trp	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+2.86	L-Trp	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	25	7.5	X	25C, pH 7.5, mutant enzyme H55A
+3	L-Trp	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	25	7.5	X	25C, pH 7.5, mutant enzyme H55A
+19.5	L-Trp	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	25	7.5		25C, pH 7.5, wild-type enzyme
+0.00283	serotonin	365	QZAYGJVTTNCVMB-UHFFFAOYSA-N	24			24C
+0.028	serotonin	365	QZAYGJVTTNCVMB-UHFFFAOYSA-N				
+0.248	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N				
+0.0068	D-tryptophan	657	QIVBCDIJIAJPQS-SECBINFHSA-N				
+0.2	D-tryptophan	657	QIVBCDIJIAJPQS-SECBINFHSA-N		7.0		pH 7.0
+0.0433	5-hydroxy-L-tryptophan	1035	LDCYZAJDBXYCGN-VIFPVBQESA-N	24			24C
+0.065	5-hydroxy-L-tryptophan	1035	LDCYZAJDBXYCGN-VIFPVBQESA-N				
+1.18	D-Trp	657	QIVBCDIJIAJPQS-SECBINFHSA-N	24			24C
+2.07	D-Trp	657	QIVBCDIJIAJPQS-SECBINFHSA-N				
+1.65	6-methyl-DL-tryptophan	2916	GDMRVYIFGPMUCG-UHFFFAOYSA-N			X	H55A mutant enzyme, O2 not present at a saturating level
+4.66	6-methyl-DL-tryptophan	2916	GDMRVYIFGPMUCG-UHFFFAOYSA-N			X	H55S mutant enzyme, O2 not present at a saturating level
+41	6-methyl-DL-tryptophan	2916	GDMRVYIFGPMUCG-UHFFFAOYSA-N				O2 not present at a saturating level
+0.4	5-methyl-DL-tryptophan	3028	HUNCSWANZMJLPM-UHFFFAOYSA-N			X	H55A mutant enzyme, O2 not present at a saturating level
+1.45	5-methyl-DL-tryptophan	3028	HUNCSWANZMJLPM-UHFFFAOYSA-N			X	H55S mutant enzyme, O2 not present at a saturating level
+3.59	5-methyl-DL-tryptophan	3028	HUNCSWANZMJLPM-UHFFFAOYSA-N				O2 not present at a saturating level
+3.78	6-fluoro-DL-tryptophan	3243	YMEXGEAJNZRQEH-UHFFFAOYSA-N			X	H55A mutant enzyme, O2 not present at a saturating level
+3.8	6-fluoro-DL-tryptophan	3243	YMEXGEAJNZRQEH-UHFFFAOYSA-N			X	H55S mutant enzyme, O2 not present at a saturating level
+37.3	6-fluoro-DL-tryptophan	3243	YMEXGEAJNZRQEH-UHFFFAOYSA-N	25	7.5		25C, pH 7.5, wild-type enzyme
+37.3	6-fluoro-DL-tryptophan	3243	YMEXGEAJNZRQEH-UHFFFAOYSA-N				O2 not present at a saturating level
+0.68	5-fluoro-DL-tryptophan	4593	INPQIVHQSQUEAJ-UHFFFAOYSA-N			X	H55A mutant enzyme, O2 not present at a saturating level
+0.8	5-fluoro-DL-tryptophan	4593	INPQIVHQSQUEAJ-UHFFFAOYSA-N			X	H55S mutant enzyme, O2 not present at a saturating level
+2.4	5-fluoro-DL-tryptophan	4593	INPQIVHQSQUEAJ-UHFFFAOYSA-N	25	7.5		25C, pH 7.5, wild-type enzyme
+2.4	5-fluoro-DL-tryptophan	4593	INPQIVHQSQUEAJ-UHFFFAOYSA-N				O2 not present at a saturating level
+0.18	5-fluoro-tryptophan	6531	INPQIVHQSQUEAJ-VIFPVBQESA-N				
+0.00967	5-hydroxy-D-tryptophan	11091	LDCYZAJDBXYCGN-SECBINFHSA-N	24			24C

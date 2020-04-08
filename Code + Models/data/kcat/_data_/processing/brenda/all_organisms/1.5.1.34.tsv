@@ -1,0 +1,65 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.3	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant G23D mutant enzyme
+1.7	quinoid dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	Y146F mutant enzyme
+2	quinoid 6,7-dimethyldihydropteridine	7513	GMBNIOXOIZZCQE-UHFFFAOYSA-N			X	Y146F/A133S mutant enzyme
+2.3	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant Y150E glutathione-S-transferase fusion mutant enzyme
+6.7	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant Y150K glutathione-S-transferase fusion mutant enzyme
+7.3	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant Y150E mutant enzyme
+7.7	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant Y150F glutathione-S-transferase fusion mutant enzyme
+10.9	quinonoid 7,8-(6H)-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N	20			at 20C
+10.9	quinonoid 7,8(6H)-dihydropterin	10809	SYMNQIBTCYDGIS-UHFFFAOYSA-N	20			at 20C
+15.3	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant Y150F mutant enzyme
+15.7	quinoid 7,8-dihydropterin	1508	HNXQXTQTPAJEJL-UHFFFAOYSA-N			X	recombinant G23D mutant enzyme
+16.7	quinoid 7,8-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	recombinant Y150E mutant enzyme
+17	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				recombinant enzyme
+17	quinoid 6,7-dimethyldihydropteridine	7513	GMBNIOXOIZZCQE-UHFFFAOYSA-N			X	Y146F mutant enzyme
+17	quinoid 7,8-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N				recombinant enzyme
+20	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				recombinant enzyme
+20	quinoid dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	A133S mutant enzyme
+20	quinonoid dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N				
+23	quinoid dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	Y146H mutant enzyme
+23	quinoid dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N				recombinant wild-type enzyme
+23.7	quinonoid 7,8-(6H)-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N	25			at 25C
+23.7	quinonoid 7,8(6H)-dihydropterin	10809	SYMNQIBTCYDGIS-UHFFFAOYSA-N	25			at 25C
+26	quinoid dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	K150M mutant enzyme
+28.9	quinonoid 7,8-(6H)-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N	30			at 30C
+28.9	quinonoid 7,8(6H)-dihydropterin	10809	SYMNQIBTCYDGIS-UHFFFAOYSA-N	30			30C
+31	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N				recombinant wild-type glutathione-S-transferase fusion enzyme
+35.8	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant Y150S mutant enzyme
+36	quinoid 6,7-dimethyldihydropteridine	7513	GMBNIOXOIZZCQE-UHFFFAOYSA-N			X	Y146H mutant enzyme
+36	quinoid dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	D37I mutant enzyme
+42	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant Y150S glutathione-S-transferase fusion mutant enzyme
+42.2	quinoid 7,8-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	recombinant Y150H mutant enzyme
+43	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	D37I mutant enzyme
+44.5	quinoid 7,8-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N				recombinant wild-type enzyme
+44.5	quinoid 7,8-dihydropterin	1508	HNXQXTQTPAJEJL-UHFFFAOYSA-N				recombinant wild-type enzyme
+49.6	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant Y150H mutant enzyme
+50.3	quinoid 7,8-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	recombinant Y150S mutant enzyme
+51.2	quinoid 7,8-dihydropterin	1508	HNXQXTQTPAJEJL-UHFFFAOYSA-N			X	recombinant G151S mutant enzyme
+52	quinoid 6,7-dimethyldihydropteridine	7513	GMBNIOXOIZZCQE-UHFFFAOYSA-N			X	K150E mutant enzyme
+52.2	quinoid 7,8-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	recombinant Y150F mutant enzyme
+60	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant Y150H glutathione-S-transferase fusion mutant enzyme
+64	quinoid dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	K150I mutant enzyme; W86I mutant enzyme
+74	quinoid dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	Y146F/A133S mutant enzyme
+76	quinoid dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	Y146F/K150Q double mutant enzyme
+90	quinoid dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	K150Q mutant enzyme
+107	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N			X	recombinant G151S mutant enzyme
+113	quinonoid 7,8-(6H)-dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N	37			at 37C
+113	quinonoid 7,8(6H)-dihydropterin	10809	SYMNQIBTCYDGIS-UHFFFAOYSA-N	37			at 37C
+138	quinoid dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	Y146F mutant enzyme
+139	quinoid dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	Y146H mutant enzyme
+149	quinoid dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	A133S mutant enzyme
+150	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	W104F mutant enzyme
+152	quinoid 6,7-dimethyldihydropteridine	7513	GMBNIOXOIZZCQE-UHFFFAOYSA-N			X	A133S mutant enzyme
+153	quinoid 6,7-dimethyldihydropteridine	7513	GMBNIOXOIZZCQE-UHFFFAOYSA-N				recombinant wild-type enzyme
+153	quinoid dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N				recombinant wild-type enzyme
+156	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				native liver enzyme
+158	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				recombinant liver enzyme
+159	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	A6V mutant enzyme
+162	quinoid 2-amino-4-hydroxy-6,7-dimethyl-7,8-dihydropteridine	14028	OWLLSSAGQBFJMC-UHFFFAOYSA-N				recombinant enzyme
+200	quinoid dihydrobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	Y146F/K150E mutant enzyme, approx. value
+200	tetrahydrobiopterin	221	FNKQXYHWGSIFBK-RPDRRWSUSA-N				
+227	quinoid 6-methyl-7,8-dihydropterin	3656	SWGNYBSTJYDOQK-UHFFFAOYSA-N				recombinant wild-type enzyme
+269	quinoid dihydrobiobiopterin	1600	ZHQJVZLJDXWFFX-RPDRRWSUSA-N			X	K150E mutant enzyme
+280	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				enzyme from brain
+510	2-amino-4-hydroxy-6,7-dimethyl-5,6,7,8-tetrahydropteridine	2934	ARHXUJTYUBUXBB-UHFFFAOYSA-N				

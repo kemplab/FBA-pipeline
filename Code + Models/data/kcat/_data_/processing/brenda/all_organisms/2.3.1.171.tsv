@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+7.3	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	30	7.0		pH 7.0, 30C, value is obtained by measurement of formation of pelargonidin 3-O-(6'-O-malonyl-beta-D-glucoside)
+8.8	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N				
+1.2	cyanidin 3-O-beta-D-glucoside	1077	RKWHWFONKJEUEF-GQUPQBGVSA-O	30	7.0	X	mutant Y411N, pH 7.0, 30C
+1.5	cyanidin 3-O-beta-D-glucoside	1077	RKWHWFONKJEUEF-GQUPQBGVSA-O	30	7.0	X	mutant T35G, pH 7.0, 30C
+2.3	cyanidin 3-O-beta-D-glucoside	1077	RKWHWFONKJEUEF-GQUPQBGVSA-O	30	7.0	X	mutant A413T, pH 7.0, 30C
+3.4	cyanidin 3-O-beta-D-glucoside	1077	RKWHWFONKJEUEF-GQUPQBGVSA-O	30	7.0	X	mutant A38P, pH 7.0, 30C
+3.9	cyanidin 3-O-beta-D-glucoside	1077	RKWHWFONKJEUEF-GQUPQBGVSA-O	30	7.0	X	mutant L37V, pH 7.0, 30C
+4.2	cyanidin 3-O-beta-D-glucoside	1077	RKWHWFONKJEUEF-GQUPQBGVSA-O	30	7.0	X	mutant Q51P, pH 7.0, 30C
+6.4	cyanidin 3-O-beta-D-glucoside	1077	RKWHWFONKJEUEF-GQUPQBGVSA-O	30	7.0	X	mutant K419N, pH 7.0, 30C
+11	cyanidin 3-O-beta-D-glucoside	1077	RKWHWFONKJEUEF-GQUPQBGVSA-O	30	7.0		wild-type, pH 7.0, 30C
+11.1	cyanidin 3-O-beta-D-glucoside	1077	RKWHWFONKJEUEF-GQUPQBGVSA-O				
+7.3	pelargonidin 3-O-beta-D-glucoside	2773	ABVCUBUIXWJYSE-GQUPQBGVSA-O	30	7.0		pH 7.0, 30C, value is obtained by measurement of formation of pelargonidin 3-O-(6'-O-malonyl-beta-D-glucoside)
+8.8	pelargonidin 3-O-beta-D-glucoside	2773	ABVCUBUIXWJYSE-GQUPQBGVSA-O				

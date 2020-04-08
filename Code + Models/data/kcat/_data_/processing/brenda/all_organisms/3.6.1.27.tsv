@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.1	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.0		wild-type, pH 7.0, 37C
+9	undecaprenyl diphosphate	2308	NTXGVHCCXVHYCL-NTDVEAECSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+19	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+48	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+61	phosphatidic acid	408	OZBFIUYJMGXKIJ-VIFPVBQESA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+280	diacylglycerol diphosphate	2908	MLGHCZNKIREBDW-VIFPVBQESA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+290	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme

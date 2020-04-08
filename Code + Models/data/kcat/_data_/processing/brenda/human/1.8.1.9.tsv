@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.016	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				Escherichia coli thioredoxin as substrate
+5.58	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				insulin coupled assay method
+8.1	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				human thioredoxin as substrate
+25.78	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				human thioredoxin as substrate
+27.4	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				rat thioredoxin as substrate
+46.57	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				Escherichia coli thioredoxin as substrate
+0.012	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	498		X	mutant U498C
+0.018	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L			X	TrxR-16 mutant K29R/H108Y/A119N/V478E
+0.075	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L			X	TrxR-16 mutant K29R/H108Y
+0.52	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L			X	TrxR-16 mutant K29R
+0.55	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L				TrxR-16, TrxR lacking the last 16 C-terminal amino acids
+8.28	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	37	7.0		isoform TrxR2, in 50 mM Tris-HCl, 1 mM EDTA, pH 7.0, at 37C
+18.73	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	37	7.0		isoform TrxR1, in 50 mM Tris-HCl, 1 mM EDTA, pH 7.0, at 37C
+30.02	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	25	7.0		wild type enzyme, 10 mM potassium phosphate buffer (pH 7.0) containing 10 mM EDTA, at 25C
+33.33	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L				wild type enzyme
+29.5	DTNB	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L				
+1.6	Lipoamide	720	FCCDDURTIIUXBY-UHFFFAOYSA-N	37	8.0		isoform TrxR2, in 50 mM Tris-HCl, 1 mM EDTA, pH 8.0, at 37C
+3.3	Lipoamide	720	FCCDDURTIIUXBY-UHFFFAOYSA-N	37	8.0		isoform TrxR1, in 50 mM Tris-HCl, 1 mM EDTA, pH 8.0, at 37C
+1.8	lipoic acid	1501	AGBQKNBQESQNJD-SSDOTTSWSA-N	37	8.0		isoform TrxR1, in 50 mM Tris-HCl, 1 mM EDTA, pH 8.0, at 37C
+23	methylseleninate	7511	UEQANLFPOFICBH-UHFFFAOYSA-N				

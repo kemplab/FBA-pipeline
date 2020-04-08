@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+22	4-O-beta-N-acetyl-D-glucosaminyl-N-acetyl-D-glucosamine	7860	CDOJPCSDOXYJJF-CBTAGEKQSA-N	30	5.5		pH 5.5, 30C
+22	N,N'-diacetylchitobiose	1024	CDOJPCSDOXYJJF-KSKNGZLJSA-N	30	5.5		pH 5.5, 30C, synthetic reaction
+25	alpha-D-mannose 1-phosphate	519	HXXFSFRBOHSIMQ-RWOPYEJCSA-N	30	5.5		pH 5.5, 30C; pH 5.5, 30C, cosubstrate: N-acetyl-D-glucosamine, synthetic reaction
+37	N-acetyl-D-glucosamine	257	OVRNDRQMDRJTHS-RTRLPJTCSA-N	30	5.5		pH 5.5, 30C; pH 5.5, 30C, synthetic reaction
+240	4-O-beta-D-mannopyranosyl-N-acetyl-D-glucosamine	13096	KFEUJDWYNGMDBV-KTNASFDVSA-N	30	5.5		pH 5.5, 30C, cosubstrate: phosphate, phosphorolytic reaction
+240	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30	5.5		pH 5.5, 30C, cosubstrate: 4-O-beta-D-mannopyranosyl-N-acetyl-D-glucosamine, phosphorolytic reaction

@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.009	dihexanoylphosphatidic acid	10930	SFZZRGHNPILUOD-UHFFFAOYSA-N				monomeric substrate, wild-type PLC
+0.0198	dihexanoylphosphatidic acid	10930	SFZZRGHNPILUOD-UHFFFAOYSA-N				monomeric substrate, recombinant PLC
+4.93	dihexanoylphosphatidylcholine	6345	DVZARZBAWHITHR-UHFFFAOYSA-O				monomeric substrate, recombinant PLC
+6.78	dihexanoylphosphatidylcholine	6345	DVZARZBAWHITHR-UHFFFAOYSA-O				monomeric substrate, wild-type PLC
+6.85	diheptanoylphosphatidylcholine	5602	RBFSPQDASPEAID-UHFFFAOYSA-O				micellar substrate, recombinant PLC
+13.8	diheptanoylphosphatidylcholine	5602	RBFSPQDASPEAID-UHFFFAOYSA-O				micellar substrate, wild-type PLC
+979	p-Nitrophenylphosphorylcholine	3167	NAIXASFEPQPICN-UHFFFAOYSA-N	37			37C, PH 7.2

@@ -1,0 +1,29 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0012	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25			25C, wild-type enzyme, bicarbonate-dependent ATP hydrolysis in the absence of biotin
+0.0017	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25		X	25C, C230A mutant, bicarbonate-dependent ATP hydrolysis in the absence of biotin
+0.00195	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25		X	25C, K238Q mutant, bicarbonate-dependent ATP hydrolysis in the absence of biotin
+0.071	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	biotin-dependent ATP hydrolysis, mutant enzyme E23R
+0.075	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	biotin-dependent ATP hydrolysis, mutant enzyme R19E
+0.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0	X	mutant enzyme R16E, in 100 mM HEPES (pH 8.0), 5 mM MgCl2, at 30C
+0.207	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	biotin-dependent ATP hydrolysis, mutant enzyme F363A
+0.228	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				biotin-dependent ATP hydrolysis, wild-type enzyme
+0.36	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0		wild type enzyme, in 100 mM HEPES (pH 8.0), 5 mM MgCl2, at 30C
+0.513	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25		X	25C, C230A mutant, biotin-dependent ATP hydrolysis
+1.23	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25			25C, wild-type enzyme, biotin-dependent ATP hydrolysis
+0.0025	biotin	135	YBJHBAHKTGYVGT-ZKWXMUAHSA-N		7.4	X	pH 7.4, mutant R338A
+0.0037	biotin	135	YBJHBAHKTGYVGT-ZKWXMUAHSA-N	25	8.0	X	mutant G166V, pH 8.0, 25C
+0.005	biotin	135	YBJHBAHKTGYVGT-ZKWXMUAHSA-N	25	8.0	X	mutant G165V, pH 8.0, 25C
+0.007	biotin	135	YBJHBAHKTGYVGT-ZKWXMUAHSA-N	25	8.0	X	mutant G165V/G166V, pH 8.0, 25C
+0.028	biotin	135	YBJHBAHKTGYVGT-ZKWXMUAHSA-N		7.4	X	pH 7.4, mutant E296A
+0.58	biotin	135	YBJHBAHKTGYVGT-ZKWXMUAHSA-N		7.4		pH 7.4 wild-type
+1.05	biotin	135	YBJHBAHKTGYVGT-ZKWXMUAHSA-N				Vmax, free biotin
+0.0016	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M	25	8.0	X	mutant G165V/G166V, pH 8.0, 25C; mutant G166V, pH 8.0, 25C
+0.0019	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M		8.5	X	pH 8.5, mutant R338A
+0.0025	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M	25	8.0	X	mutant G165V, pH 8.0, 25C
+0.034	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M		8.5	X	pH 8.5, mutant E296A
+0.3	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M	30	8.0		wild type enzyme, with 20 mM Mg-ATP, in 100 mM HEPES (pH 8.0), at 30C
+0.31	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M	30	8.0		wild type enzyme, with 1.5 mM Mg-ATP, in 100 mM HEPES (pH 8.0), at 30C
+0.32	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M	30	8.0		wild type enzyme, with 10 mM Mg-ATP, in 100 mM HEPES (pH 8.0), at 30C
+0.36	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M	30	8.0		wild type enzyme, with 7.5 mM Mg-ATP, in 100 mM HEPES (pH 8.0), at 30C
+0.44	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M		8.5		pH 8.5, wild-type
+16.68	biotin-carboxyl-carrier protein	7358	ZBHKKWLTIGDVRJ-TXGIKOIXSA-N				Vmax, C-terminal 87 amino acids of the biotinylated biotin-carboxyl-carrier protein

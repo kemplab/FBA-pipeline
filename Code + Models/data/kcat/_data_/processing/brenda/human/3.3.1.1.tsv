@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.4	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	37	7.2	X	mutant enzyme N27K, at pH 7.2 and 37C
+0.56	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	37	7.2	X	mutant enzyme D293A, at pH 7.2 and 37C
+0.79	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	37	7.2		recombinant wild type enzyme, at pH 7.2 and 37C
+1	S-adenosyl-DL-homocysteine	1479	ZJUKTBDSGOFHSH-VLCCZNNZSA-N	30	7.6	X	30C, pH 7.6, mutant enzyme Q85A
+1.87	S-adenosyl-DL-homocysteine	1479	ZJUKTBDSGOFHSH-VLCCZNNZSA-N	30	7.6	X	30C, pH 7.6, mutant enzyme T60C
+2.55	S-adenosyl-DL-homocysteine	1479	ZJUKTBDSGOFHSH-VLCCZNNZSA-N	30	7.6	X	30C, pH 7.6, mutant enzyme T60A
+2.8	S-adenosyl-DL-homocysteine	1479	ZJUKTBDSGOFHSH-VLCCZNNZSA-N	30	7.6	X	30C, pH 7.6, mutant enzyme T60S
+3.45	S-adenosyl-DL-homocysteine	1479	ZJUKTBDSGOFHSH-VLCCZNNZSA-N	30	7.6		30C, pH 7.6, wild-type enzyme
+1908	S-adenosyl-DL-homocysteine	1479	ZJUKTBDSGOFHSH-VLCCZNNZSA-N	30	7.2		pH 7.2, 30C
+6666	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	30	7.2		pH 7.2, 30C
+6666	DL-homocysteine	677	FFFHZYDWPBMWHY-UHFFFAOYSA-N	30	7.2		pH 7.2, 30C

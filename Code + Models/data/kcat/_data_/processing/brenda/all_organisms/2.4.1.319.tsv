@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+7.06	[(1-&gt;4)-beta-D-mannosyl]2	4102	GUBGYTABKSRVRQ-PZPXDAEZSA-N	37	6.5		pH 6.5, 37C, cosubstrate: phosphate, phosphorolysis reaction
+7.06	beta-D-mannopyranosyl-(1-&gt;4)-D-mannopyranose	4102	GUBGYTABKSRVRQ-PZPXDAEZSA-N	37	6.5		pH 6.5, 37C, phosphorolytic reaction, cosubstrate phosphate
+16	[(1-&gt;4)-beta-D-mannosyl]6	77744	OCIBBXPLUVYKCH-USHYEEGTSA-N	37	6.5		pH 6.5, 37C, cosubstrate: alpha-D-mannose 1-phosphate, synthetic reaction
+16	beta-D-Man-(1-&gt;4)-beta-D-Man-(1-&gt;4)-beta-D-Man-(1-&gt;4)-beta-D-Man-(1-&gt;4)-beta-D-Man-(1-&gt;4)-D-Man	115608	OCIBBXPLUVYKCH-KKQGKRJZSA-N	37	6.5		pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+20.5	[(1-&gt;4)-beta-D-mannosyl]5	3571	FTNIPWXXIGNQQF-KMCWREFJSA-N	37	6.5		pH 6.5, 37C, cosubstrate: alpha-D-mannose 1-phosphate, synthetic reaction
+20.5	beta-D-Man-(1-&gt;4)-beta-D-Man-(1-&gt;4)-beta-D-Man-(1-&gt;4)-beta-D-Man-(1-&gt;4)-D-Man	3571	FTNIPWXXIGNQQF-KMCWREFJSA-N	37	6.5		pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+20.7	4-O-beta-D-mannosyl-D-glucose	6011	GUBGYTABKSRVRQ-OKIQBEFVSA-N	37	6.5		pH 6.5, 37C, cosubstrate: phosphate, phosphorolysis reaction
+27.5	[(1-&gt;4)-beta-D-mannosyl]3	2993	FYGDTMLNYKFZSV-PMNVVCTGSA-N	37	6.5		pH 6.5, 37C, cosubstrate: phosphate, phosphorolysis reaction
+27.5	beta-D-Man-(1-&gt;4)-beta-D-Man-(1-&gt;4)-D-Man	2993	FYGDTMLNYKFZSV-PMNVVCTGSA-N	37	6.5		pH 6.5, 37C, phosphorolytic reaction, cosubstrate phosphate
+31.2	[(1-&gt;4)-beta-D-mannosyl]4	4439	LUEWUZLMQUOBSB-DXOACUGESA-N	37	6.5		pH 6.5, 37C, cosubstrate: alpha-D-mannose 1-phosphate, synthetic reaction
+31.2	beta-D-Man-(1-&gt;4)-beta-D-Man-(1-&gt;4)-beta-D-Man-(1-&gt;4)-D-Man	4439	LUEWUZLMQUOBSB-DXOACUGESA-N	37	6.5		pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+31.9	[(1-&gt;4)-beta-D-mannosyl]5	3571	FTNIPWXXIGNQQF-KMCWREFJSA-N	37	6.5		pH 6.5, 37C, cosubstrate: phosphate, phosphorolysis reaction
+31.9	beta-D-Man-(1-&gt;4)-beta-D-Man-(1-&gt;4)-beta-D-Man-(1-&gt;4)-beta-D-Man-(1-&gt;4)-D-Man	3571	FTNIPWXXIGNQQF-KMCWREFJSA-N	37	6.5		pH 6.5, 37C, phosphorolytic reaction, cosubstrate phosphate
+33.1	[(1-&gt;4)-beta-D-mannosyl]4	4439	LUEWUZLMQUOBSB-DXOACUGESA-N	37	6.5		pH 6.5, 37C, cosubstrate: phosphate, phosphorolysis reaction
+33.1	beta-D-Man-(1-&gt;4)-beta-D-Man-(1-&gt;4)-beta-D-Man-(1-&gt;4)-D-Man	4439	LUEWUZLMQUOBSB-DXOACUGESA-N	37	6.5		pH 6.5, 37C, phosphorolytic reaction, cosubstrate phosphate
+34.6	[(1-&gt;4)-beta-D-mannosyl]3	2993	FYGDTMLNYKFZSV-PMNVVCTGSA-N	37	6.5		pH 6.5, 37C, cosubstrate: alpha-D-mannose 1-phosphate, synthetic reaction
+34.6	beta-D-Man-(1-&gt;4)-beta-D-Man-(1-&gt;4)-D-Man	2993	FYGDTMLNYKFZSV-PMNVVCTGSA-N	37	6.5		pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+45.1	[(1-&gt;4)-beta-D-mannosyl]2	4102	GUBGYTABKSRVRQ-PZPXDAEZSA-N	37	6.5		pH 6.5, 37C, cosubstrate: alpha-D-mannose 1-phosphate, synthetic reaction
+45.1	beta-D-mannopyranosyl-(1-&gt;4)-D-mannopyranose	4102	GUBGYTABKSRVRQ-PZPXDAEZSA-N	37	6.5		pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate

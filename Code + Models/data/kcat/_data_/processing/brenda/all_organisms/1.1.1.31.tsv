@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.21	3-hydroxypropionate	1223	ALRHLSYJTWAHJZ-UHFFFAOYSA-N	37	8.5		; pH 8.5, 37C
+0.49	(R)-3-hydroxyisobutyrate	29837	DBXBTMSZEOQQDU-GSVOUGTGSA-N				
+6.717	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	9.0		with 3-hydroxypropionic acid as cosubstrate, at 30C and pH 9.0
+7.1	(S)-3-hydroxyisobutyrate	3900	DBXBTMSZEOQQDU-VKHMYHEASA-N				
+10.8	3-hydroxypropionic acid	1223	ALRHLSYJTWAHJZ-UHFFFAOYSA-N	30	9.0		at 30C and pH 9.0
+15.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		10.0		at pH 10.0, temperature not specified in the publication
+24.1	(S)-3-hydroxyisobutyrate	3900	DBXBTMSZEOQQDU-VKHMYHEASA-N		10.0		at pH 10.0, temperature not specified in the publication
+32.17	3-hydroxypropionic acid	1223	ALRHLSYJTWAHJZ-UHFFFAOYSA-N	37	9.0		at 37C and pH 9.0
+47.16	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	9.0		at 37C and pH 9.0
+47.55	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	30	9.0		at 30C and pH 9.0
+70.81	(S)-3-hydroxyisobutyrate	3900	DBXBTMSZEOQQDU-VKHMYHEASA-N	37	9.0		at 37C and pH 9.0
+80.79	(S)-3-hydroxyisobutyrate	3900	DBXBTMSZEOQQDU-VKHMYHEASA-N	30	9.0		at 30C and pH 9.0

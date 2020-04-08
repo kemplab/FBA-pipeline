@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.44	Urea	110	XSQUKJJJFZCRTK-UHFFFAOYSA-N	22	8.0	X	mutant enzyme K1605A, in 200 mM Tris-HCl, pH 8.0, 0.001 mM EGTA, 3 mM magnesium chloride, 19.5 mM potassium chloride, at 22C
+3.16	Urea	110	XSQUKJJJFZCRTK-UHFFFAOYSA-N	22	8.0	X	mutant enzyme D1321A, in 200 mM Tris-HCl, pH 8.0, 0.001 mM EGTA, 3 mM magnesium chloride, 19.5 mM potassium chloride, at 22C
+16.8	Formamide	2207	ZHNUHDYFZUAESO-UHFFFAOYSA-N	30	7.5		30C, pH 7.5
+40.4	acetamide	810	DLFVBJFMPXGRIB-UHFFFAOYSA-N	30	7.5		30C, pH 7.5
+44.2	Urea	110	XSQUKJJJFZCRTK-UHFFFAOYSA-N	30	7.5		30C, pH 7.5
+45.8	Urea	110	XSQUKJJJFZCRTK-UHFFFAOYSA-N	22	8.0	X	mutant enzyme Y1324F, in 200 mM Tris-HCl, pH 8.0, 0.001 mM EGTA, 3 mM magnesium chloride, 19.5 mM potassium chloride, at 22C
+61.8	Urea	110	XSQUKJJJFZCRTK-UHFFFAOYSA-N	22	8.0	X	mutant enzyme D1564N, in 200 mM Tris-HCl, pH 8.0, 0.001 mM EGTA, 3 mM magnesium chloride, 19.5 mM potassium chloride, at 22C
+64.9	Urea	110	XSQUKJJJFZCRTK-UHFFFAOYSA-N	22	8.0	X	mutant enzyme Y1628F, in 200 mM Tris-HCl, pH 8.0, 0.001 mM EGTA, 3 mM magnesium chloride, 19.5 mM potassium chloride, at 22C
+68.7	Urea	110	XSQUKJJJFZCRTK-UHFFFAOYSA-N	22	8.0	X	mutant enzyme E1792A, in 200 mM Tris-HCl, pH 8.0, 0.001 mM EGTA, 3 mM magnesium chloride, 19.5 mM potassium chloride, at 22C
+210.8	Urea	110	XSQUKJJJFZCRTK-UHFFFAOYSA-N	22	8.0		wild type enzyme, in 200 mM Tris-HCl, pH 8.0, 0.001 mM EGTA, 3 mM magnesium chloride, 19.5 mM potassium chloride, at 22C

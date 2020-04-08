@@ -1,0 +1,46 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0007	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.0	X	mutant enzyme C300S, with all-trans-retinal as cosubstrate, at pH 7.0 and 37C
+0.0017	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.0		wild type enzyme, with all-trans-retinal as cosubstrate, at pH 7.0 and 37C
+0.005	all-trans-retinal	626	NCYCYZXNIZJOKI-OVSJKPMPSA-N	37	7.0		with NAD+ as cosubstrate, at pH 7.0 and 37C
+0.005	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.0	X	mutant enzyme E194S, with all-trans-retinal as cosubstrate, at pH 7.0 and 37C
+0.026	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.0	X	mutant enzyme E457V, with all-trans-retinal as cosubstrate, at pH 7.0 and 37C
+0.183	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	37	7.0		at pH 7.0 and 37C
+0.217	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	37	7.0		at pH 7.0 and 37C
+0.47	Chloroacetaldehyde	1812	QSKPIOLLBIHNAC-UHFFFAOYSA-N		7.4	X	mutant enzyme T244S, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+0.47	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4	X	mutant enzyme T244S, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+0.63	Chloroacetaldehyde	1812	QSKPIOLLBIHNAC-UHFFFAOYSA-N		7.4	X	mutant enzyme T244G, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+0.63	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4	X	mutant enzyme T244G, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+0.83	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	80	8		pH 8, 80C
+0.91	Isovaleraldehyde	1623	YGHRJJRRZDOVPD-UHFFFAOYSA-N	37	7.0		with NADP+ as cosubstrate, in 50 mM potassium phosphate buffer (pH 7.0), 1 mM dithiothreitol, at 37C
+0.92	D-glyceraldehyde	520	MNQZXJOMYWMBOU-VKHMYHEASA-N	80	8		pH 8, 80C
+1.11	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	37	7.0		with NADP+ as cosubstrate, in 50 mM potassium phosphate buffer (pH 7.0), 1 mM dithiothreitol, at 37C
+1.14	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	80	8		pH 8, 80C
+2.05	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	80	8		pH 8, 80C
+2.5	Chloroacetaldehyde	1812	QSKPIOLLBIHNAC-UHFFFAOYSA-N		7.4	X	mutant enzyme T244V, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+2.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4	X	mutant enzyme T244V, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+3.58	Isovaleraldehyde	1623	YGHRJJRRZDOVPD-UHFFFAOYSA-N	37	7.0		with NAD+ as cosubstrate, in 50 mM potassium phosphate buffer (pH 7.0), 1 mM dithiothreitol, at 37C
+3.71	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	80	8		pH 8, 80C
+4	Chloroacetaldehyde	1812	QSKPIOLLBIHNAC-UHFFFAOYSA-N		7.4	X	mutant enzyme T244A, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4	X	mutant enzyme T244A, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+4.46	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	37	7.0		with NAD+ as cosubstrate, in 50 mM potassium phosphate buffer (pH 7.0), 1 mM dithiothreitol, at 37C
+7.7	Chloroacetaldehyde	1812	QSKPIOLLBIHNAC-UHFFFAOYSA-N		7.4		wild type enzyme, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+7.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4		wild type enzyme, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+11.5	Butyraldehyde	415	ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	37	7.0		with NADP+ as cosubstrate, in 50 mM potassium phosphate buffer (pH 7.0), 1 mM dithiothreitol, at 37C
+13.36	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	37	7.0		with NADP+ as cosubstrate, in 50 mM potassium phosphate buffer (pH 7.0), 1 mM dithiothreitol, at 37C
+18.8	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				reaction with benzyladehyde
+19.41	Valeraldehyde	628	HGBOYTHUEUWSSQ-UHFFFAOYSA-N	37	7.0		with NADP+ as cosubstrate, in 50 mM potassium phosphate buffer (pH 7.0), 1 mM dithiothreitol, at 37C
+20.9	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N				
+26.1	4-hydroxynonenal	1076	JVJFIQYAHPMBBX-FNORWQNLSA-N				
+30.99	Valeraldehyde	628	HGBOYTHUEUWSSQ-UHFFFAOYSA-N	37	7.0		with NAD+ as cosubstrate, in 50 mM potassium phosphate buffer (pH 7.0), 1 mM dithiothreitol, at 37C
+32.8	Butyraldehyde	415	ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	37	7.0		with NAD+ as cosubstrate, in 50 mM potassium phosphate buffer (pH 7.0), 1 mM dithiothreitol, at 37C
+33.1	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O				reaction with benzaldehyde
+33.5	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N				
+34	Hexanal	514	JARKCYVAAOWBJS-UHFFFAOYSA-N				
+34	Hexanal	514	JARKCYVAAOWBJS-UHFFFAOYSA-N				
+35.1	trans-2-hexenal	1895	MBDOYVRWFFCFHM-SNAWJCMRSA-N				
+35.9	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N				
+38.8	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O				reaction with benzaldehyde
+45.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				reaction with benzaldehyde
+49.38	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	37	7.0		with NAD+ as cosubstrate, in 50 mM potassium phosphate buffer (pH 7.0), 1 mM dithiothreitol, at 37C
+51	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N				
+53	trans-2-hexenal	1895	MBDOYVRWFFCFHM-SNAWJCMRSA-N				

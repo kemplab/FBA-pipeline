@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+6.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				Homo sapiens wild type aspartyl-tRNA synthetase, amino acids 1-500, ATP-diphosphate exchange
+0.00016	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5	X	pH 7.5, 37C, recombinant mutant Q184K
+0.0016	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5	X	pH 7.5, 37C, recombinant mutant C152F
+0.004	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5		native enzyme, at pH 7.5 and 25C
+0.0103	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5		recombinant enzyme, at pH 7.5 and 25C
+0.027	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme
+0.1	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				human mitochondrial tRNAAsp
+0.133	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				Escherichia coli native tRNAAsp
+0.22	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				Homo sapiens wild type aspartyl-tRNA synthetase, amino acids 1-500

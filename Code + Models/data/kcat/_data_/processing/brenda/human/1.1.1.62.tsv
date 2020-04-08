@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00028	5-androstene-3beta,17beta-diol	3135	QADHLRWLCPCEKT-LOVVWNRFSA-N				17beta-HSD14 variant S205, pH and temperature not specified in the publication
+0.00032	5-androstene-3beta,17beta-diol	3135	QADHLRWLCPCEKT-LOVVWNRFSA-N				17beta-HSD14 variant T205, pH and temperature not specified in the publication
+0.0004	17beta-estradiol	602	VOXZDWNPVJITMN-ZBRFXRBCSA-N				17beta-HSD14 variant S205, pH and temperature not specified in the publication
+0.00055	17beta-estradiol	602	VOXZDWNPVJITMN-ZBRFXRBCSA-N				17beta-HSD14 variant T205, pH and temperature not specified in the publication
+0.12	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N			X	mutant enzyme L149V
+0.16	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N				wild-type enzyme
+0.24	estradiol-17beta	602	VOXZDWNPVJITMN-ZBRFXRBCSA-N			X	mutant enzyme L149V
+0.26	estrone	503	DNXHEGUUPJUMQT-CBZIJGRNSA-N			X	mutant enzyme L149V
+0.33	dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N				wild-type enzyme
+0.34	dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N			X	mutant enzyme L149V
+0.5	17beta-estradiol	602	VOXZDWNPVJITMN-ZBRFXRBCSA-N	37	7.4		pH 7.4, 37C recombinant His-tagged enzyme
+0.6	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N	37	7.4		pH 7.4, 37C recombinant His-tagged enzyme
+1	estrone	503	DNXHEGUUPJUMQT-CBZIJGRNSA-N	37	7.4		pH 7.4, 37C recombinant His-tagged enzyme
+1.7	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	37	7.4		pH 7.4, 37C recombinant His-tagged enzyme
+3	5alpha-adrostane-3alpha,17beta-diol	1491	CBMYJHIOYJEBSB-KHOSGYARSA-N	37	7.4		pH 7.4, 37C recombinant His-tagged enzyme
+4.4	estradiol-17beta	602	VOXZDWNPVJITMN-ZBRFXRBCSA-N				wild-type enzyme
+5.8	estrone	503	DNXHEGUUPJUMQT-CBZIJGRNSA-N				wild-type enzyme

@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.31	3-phosphonopyruvate	1518	CHDDAVCOAOFSLD-UHFFFAOYSA-M	30	8.0	X	mutant enzyme S25D, at pH 8.0 (HEPES buffer) and at 30C
+0.55	3-phosphonopyruvate	1518	CHDDAVCOAOFSLD-UHFFFAOYSA-M	30	8.0	X	mutant enzyme D297N, at pH 8.0 (HEPES buffer) and at 30C
+0.76	3-phosphonopyruvate	1518	CHDDAVCOAOFSLD-UHFFFAOYSA-M	30	8.0	X	mutant enzyme D297E, at pH 8.0 (HEPES buffer) and at 30C
+0.78	3-phosphonopyruvate	1518	CHDDAVCOAOFSLD-UHFFFAOYSA-M	30	8.0	X	mutant enzyme S25N, at pH 8.0 (HEPES buffer) and at 30C
+1.18	3-phosphonopyruvate	1518	CHDDAVCOAOFSLD-UHFFFAOYSA-M	30	8.0		wild type enzyme, at pH 8.0 (HEPES buffer) and at 30C
+1.24	3-phosphonopyruvate	1518	CHDDAVCOAOFSLD-UHFFFAOYSA-M	30	8.0	X	mutant enzyme H111A, at pH 8.0 (HEPES buffer) and at 30C
+10.2	3-phosphonopyruvate	1518	CHDDAVCOAOFSLD-UHFFFAOYSA-M	25	7.3		25C, pH 7.3, 5 mM MgCl2, 1 mM MnCl2, 0.2 mM thiamine diphosphate

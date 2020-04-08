@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.317	uroporphyrinogen-III	1736	HUHWZXWWOFSFKF-UHFFFAOYSA-N				recombinant wild-type
+0.361	uroporphyrinogen-III	1736	HUHWZXWWOFSFKF-UHFFFAOYSA-N			X	recombinant mutant K297N
+0.425	uroporphyrinogen-III	1736	HUHWZXWWOFSFKF-UHFFFAOYSA-N			X	recombinant mutant G318R
+0.102	uroporphyrinogen-I	2868	QTTNOSKSLATGQB-UHFFFAOYSA-N			X	recombinant mutant G318R
+0.104	uroporphyrinogen-I	2868	QTTNOSKSLATGQB-UHFFFAOYSA-N			X	recombinant mutant K297N
+0.124	uroporphyrinogen-I	2868	QTTNOSKSLATGQB-UHFFFAOYSA-N				recombinant wild-type

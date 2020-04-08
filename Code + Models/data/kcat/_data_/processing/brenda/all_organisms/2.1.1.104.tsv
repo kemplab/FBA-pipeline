@@ -1,0 +1,28 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0016	eriodictyol	1820	SBHXYTNGIZCORC-ZDUSSCGKSA-N		7.5	X	mutant K157A, pH 7.5, temperature not specified in the publication
+0.0021	quercetagetin	2903	TZTJUQFMRPRCQN-UHFFFAOYSA-N		7.5	X	mutant N181A, pH 7.5, temperature not specified in the publication
+0.0028	eriodictyol	1820	SBHXYTNGIZCORC-ZDUSSCGKSA-N		7.5	X	mutant D228A, pH 7.5, temperature not specified in the publication
+0.011	tricetin	2007	ARSRJFRKVXALTF-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+0.0116	quercetagetin	2903	TZTJUQFMRPRCQN-UHFFFAOYSA-N		7.5	X	mutant D228A, pH 7.5, temperature not specified in the publication
+0.013	3,4-dihydroxybenzoic acid	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, in presence of 0.1 mM Co2+
+0.023	eriodictyol	1820	SBHXYTNGIZCORC-ZDUSSCGKSA-N	37	7.5	X	mutant G46Y, pH 7.5, 37C
+0.029	eriodictyol	1820	SBHXYTNGIZCORC-ZDUSSCGKSA-N	37	7.5	X	mutant G46Y/W193F/R194M/I195K, pH 7.5, 37C
+0.049	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	35	6.8		pH 6.8, 35C
+0.068	caffeic acid	355	QAIPRVGONGVQAS-DUXPYHPUSA-N	37	7.5		pH 7.5, 37C, in presence of 0.1 mM Co2+
+0.071	quercetagetin	2903	TZTJUQFMRPRCQN-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, in presence of 0.15 mM Mg2+
+0.078	quercetagetin	2903	TZTJUQFMRPRCQN-UHFFFAOYSA-N		7.5		wild-type, pH 7.5, temperature not specified in the publication
+0.08	eriodictyol	1820	SBHXYTNGIZCORC-ZDUSSCGKSA-N	37	7.5		wild-type, pH 7.5, 37C
+0.0913	tricetin	2007	ARSRJFRKVXALTF-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+0.1	eriodictyol	1820	SBHXYTNGIZCORC-ZDUSSCGKSA-N		7.5		wild-type, pH 7.5, temperature not specified in the publication
+0.106	quercetagetin	2903	TZTJUQFMRPRCQN-UHFFFAOYSA-N		7.5	X	mutant K157A, pH 7.5, temperature not specified in the publication
+0.143	5-hydroxyferulic acid	2365	YFXWTVLDSKSYLW-NSCUHMNNSA-N	37	7.5		pH 7.5, 37C, in presence of 0.1 mM Co2+
+0.149	caffeoyl-CoA	446	QHRGJMIMHCLHRG-ZSELIEHESA-N	37	7.5		pH 7.5, 37C, in presence of 0.15 mM Mg2+
+0.184	epigallocatechin-3-O-gallate	936	WMBWREPUVVBILR-WIYYLYMNSA-N	35	6.8		pH 6.8, 35C
+0.206	caffeoyl-D-glucose	7055	WQSDYZZEIBAPIN-VBQORRLJSA-N	37	7.5		pH 7.5, 37C, in presence of 0.15 mM Mg2+
+0.268	quercetin	131	REFJWTPEDVJJIY-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, in presence of 0.15 mM Mg2+
+0.631	caffeoyl-D-glucose	7055	WQSDYZZEIBAPIN-VBQORRLJSA-N	37	7.5		pH 7.5, 37C, in presence of 0.1 mM Co2+
+0.938	quercetin	131	REFJWTPEDVJJIY-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, in presence of 0.1 mM Co2+
+1.043	caffeoyl-CoA	446	QHRGJMIMHCLHRG-ZSELIEHESA-N	37	7.5		pH 7.5, 37C, in presence of 0.1 mM Co2+
+6.08	caffeoyl-CoA	446	QHRGJMIMHCLHRG-ZSELIEHESA-N	37	7.5		pH 7.5, 37C, in presence of 0.1 mM Co2+
+6.08	caffeoyl-D-glucose	7055	WQSDYZZEIBAPIN-VBQORRLJSA-N	37	7.5		pH 7.5, 37C, in presence of 0.1 mM Co2+
+6.08	quercetin	131	REFJWTPEDVJJIY-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, in presence of 0.1 mM Co2+

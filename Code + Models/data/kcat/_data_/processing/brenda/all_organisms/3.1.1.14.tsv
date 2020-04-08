@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+10.3	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N				
+8.05	4-nitrophenyl decanoate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, recombinant enzyme purified by affinity chromatography
+9.43	4-nitrophenyl decanoate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, recombinant enzyme purified by microtiter plate method
+0.0024	chlorophyll a	1927	ATNHDLDRLWWWCB-AENOIHSZSA-M	40	7.4		wild type isoform CLH2, in 100 mM sodium phosphate, pH 7.4, at 40C
+0.072	chlorophyll a	1927	ATNHDLDRLWWWCB-AENOIHSZSA-M	40	7.4		wild type isoform CLH1, in 100 mM sodium phosphate, pH 7.4, at 40C
+566	Chlorophyll	2570	ATNHDLDRLWWWCB-LSVJULLFSA-M				
+0.0037	chlorophyll b	3620	NSMUHPMZFPKNMZ-VBYMZDBQSA-M	40	7.4		wild type isoform CLH2, in 100 mM sodium phosphate, pH 7.4, at 40C
+0.072	chlorophyll b	3620	NSMUHPMZFPKNMZ-VBYMZDBQSA-M	40	7.4		wild type isoform CLH1, in 100 mM sodium phosphate, pH 7.4, at 40C
+0.2	p-nitrophenyl palmitate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N				
+0.52	p-nitrophenyl decanoate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N				
+0.0039	pheophorbide a methyl ester	113187	XIDGCAUAEHBOJK-NJOSKRDNSA-N	40	7.4		wild type isoform CLH2, in 100 mM sodium phosphate, pH 7.4, at 40C
+0.259	pheophorbide a methyl ester	113187	XIDGCAUAEHBOJK-NJOSKRDNSA-N	40	7.4		wild type isoform CLH1, in 100 mM sodium phosphate, pH 7.4, at 40C

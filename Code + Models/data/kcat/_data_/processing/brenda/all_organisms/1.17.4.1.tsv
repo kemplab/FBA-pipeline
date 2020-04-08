@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.047	CDP	188	ZWIADYZPOWUWEW-XVFCMESISA-N				CDP reduction in the absence of allosteric effectors
+0.16	CDP	188	ZWIADYZPOWUWEW-XVFCMESISA-N				CDP reduction in the presence of 1 mM ATP
+0.26	CDP	188	ZWIADYZPOWUWEW-XVFCMESISA-N				CDP reduction in the presence of 0.2 mM ATP
+0.29	CDP	188	ZWIADYZPOWUWEW-XVFCMESISA-N				CDP reduction in the presence of 4 mM ATP
+3.33	CDP	188	ZWIADYZPOWUWEW-XVFCMESISA-N				activity of subunit B1 assayed in the presence of an excess of subunit B2
+12.9	CDP	188	ZWIADYZPOWUWEW-XVFCMESISA-N				activity of subunit B2 assayed in the presence of an excess of subunit B1

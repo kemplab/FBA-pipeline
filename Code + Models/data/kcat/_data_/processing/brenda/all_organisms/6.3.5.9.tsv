@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.008	cobyrinic acid c-monoamide	5119	NJNUXMOGJWUPPV-OKJGWHJPSA-M			X	mutant enzyme Y46A
+0.04	cobyrinic acid c-monoamide	5119	NJNUXMOGJWUPPV-OKJGWHJPSA-M			X	mutant enzyme D97N
+0.057	cobyrinic acid c-monoamide	5119	NJNUXMOGJWUPPV-OKJGWHJPSA-M			X	mutant enzyme L47A
+0.13	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.7		pH 7.7, wild-type enzyme
+0.16	cobyrinic acid	6339	SXATWJGWOIKDIW-OKJGWHJPSA-M		7.7		pH 7.7, wild-type enzyme
+0.16	glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.7		pH 7.7, wild-type enzyme
+0.18	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N		7.7		pH 7.7, wild-type enzyme
+0.2	cobyrinic acid c-monoamide	5119	NJNUXMOGJWUPPV-OKJGWHJPSA-M				wild-type enzyme

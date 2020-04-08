@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.015	dihydroquercetin	1136	CXQWRCVTCMQVQX-UHFFFAOYSA-N	37		X	mutant E295Q, 37C
+0.019	dihydroquercetin	1136	CXQWRCVTCMQVQX-UHFFFAOYSA-N	37		X	mutant F134L, 37C
+0.024	dihydroquercetin	1136	CXQWRCVTCMQVQX-UHFFFAOYSA-N	37		X	mutant S289T, 37C
+0.03	dihydroquercetin	1136	CXQWRCVTCMQVQX-UHFFFAOYSA-N	37		X	mutant H132Y, 37C
+0.034	dihydroquercetin	1136	CXQWRCVTCMQVQX-UHFFFAOYSA-N	37		X	mutant H132F, 37C
+0.056	dihydroquercetin	1136	CXQWRCVTCMQVQX-UHFFFAOYSA-N	37			wild-type, 37C
+0.16	dihydroquercetin	1136	CXQWRCVTCMQVQX-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+3.9	dihydroquercetin	1136	CXQWRCVTCMQVQX-UHFFFAOYSA-N				recombinant FLS1, pH not specified in the publication, temperature not specified in the publication
+6.6	dihydrokaempferol	1866	PADQINQHPQKXNL-UHFFFAOYSA-N				recombinant FLS1, pH not specified in the publication, temperature not specified in the publication

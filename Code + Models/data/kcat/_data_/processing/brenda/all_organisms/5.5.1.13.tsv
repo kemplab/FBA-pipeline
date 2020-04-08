@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0011	(E,E,E)-geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N	22	7.8	X	mutant enzyme R340A, at pH 7.8 and 22C
+0.00117	copalyl diphosphate	1245	JCAIWDXKLCEQEO-ATPOGHATSA-N		8		at pH 8
+0.0019	(E,E,E)-geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N	22	7.8	X	mutant enzyme E211A, at pH 7.8 and 22C
+0.006	(E,E,E)-geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N	22	7.8	X	mutant enzyme T421A, at pH 7.8 and 22C
+0.012	(E,E,E)-geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N	22	7.8	X	mutant enzyme N425H, at pH 7.8 and 22C
+0.0308	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N		8		at pH 8
+0.033	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N	35	5.5		35C, pH 5.5
+0.035	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N		8		at pH 8
+0.071	(E,E,E)-geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N	22	7.8	X	mutant enzyme N425A, at pH 7.8 and 22C
+0.13	(E,E,E)-geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N	22	7.8	X	mutant enzyme D503A, at pH 7.8 and 22C
+0.3	(E,E,E)-geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N	22	7.8	X	mutant enzyme T421S, at pH 7.8 and 22C
+0.9	(E,E,E)-geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N	22	7.8		wild type enzyme, at pH 7.8 and 22C

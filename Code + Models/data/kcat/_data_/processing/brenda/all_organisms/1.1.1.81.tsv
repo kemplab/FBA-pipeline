@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.6	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	50	8.0		with NADPH as cosubstrate, at pH 8.0 and 50C
+1.2	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	50	8.0		with NADPH as cosubstrate, at pH 8.0 and 50C
+1.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.5		with hydroxypyruvate as substrate, pH 7.5
+2.4	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.5		with glyoxylate as substrate, pH 7.5
+4.1	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.5		with hydroxypyruvate as substrate, pH 7.5
+4.5	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	50	8.0		with NADH as cosubstrate, at pH 8.0 and 50C
+6.5	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	50	8.0		with NADPH as cosubstrate, at pH 8.0 and 50C
+10	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	50	8.0		with NADH as cosubstrate, at pH 8.0 and 50C
+11	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.5		with glyoxylate as substrate, pH 7.5
+25	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	50	8.0		with NADH as cosubstrate, at pH 8.0 and 50C

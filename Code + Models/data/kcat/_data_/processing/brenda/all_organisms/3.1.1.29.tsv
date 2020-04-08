@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.002	diacetyl-lysyl-tRNALys	1846	RPRAMOUSNGJCGN-XSJVHFRWSA-N	50	7.5	X	pH 7.5, 50C, mutant enzyme D86A/K18A; pH 7.5, 50C, mutant enzyme K18A
+0.0025	diacetyl-lysyl-tRNALys	1846	RPRAMOUSNGJCGN-XSJVHFRWSA-N	50	7.5	X	pH 7.5, 50C, mutant enzyme D86A
+0.02	diacetyl-lysyl-tRNALys	1846	RPRAMOUSNGJCGN-XSJVHFRWSA-N	50	7.5	X	pH 7.5, 50C, mutant enzyme T90A
+0.06	diacetyl-lysyl-tRNALys	1846	RPRAMOUSNGJCGN-XSJVHFRWSA-N	50	7.5	X	pH 7.5, 50C, mutant enzyme Q22A; pH 7.5, 50C, mutant enzyme T98A
+0.07	diacetyl-lysyl-tRNALys	1846	RPRAMOUSNGJCGN-XSJVHFRWSA-N	50	7.5	X	pH 7.5, 50C, mutant enzyme K56A
+0.1	diacetyl-lysyl-tRNALys	1846	RPRAMOUSNGJCGN-XSJVHFRWSA-N	50	7.5	X	pH 7.5, 50C, mutant enzyme H25A
+0.27	diacetyl-lysyl-tRNALys	1846	RPRAMOUSNGJCGN-XSJVHFRWSA-N	50	7.5	X	pH 7.5, 50C, mutant enzyme Q54A
+0.86	diacetyl-lysyl-tRNALys	1846	RPRAMOUSNGJCGN-XSJVHFRWSA-N	50	7.5		dephosphorylated substrate, pH 7.5, 50C, recombinant enzyme
+1.22	diacetyl-lysyl-tRNALys	1846	RPRAMOUSNGJCGN-XSJVHFRWSA-N				
+1.8	diacetyl-lysyl-tRNALys	1846	RPRAMOUSNGJCGN-XSJVHFRWSA-N	50	7.5		pH 7.5, 50C, recombinant enzyme
+1.8	diacetyl-lysyl-tRNALys	1846	RPRAMOUSNGJCGN-XSJVHFRWSA-N	50	7.5		pH 7.5, 50C, wild-type enzyme
+2.2	diacetyl-lysyl-tRNALys	1846	RPRAMOUSNGJCGN-XSJVHFRWSA-N	50	7.5	X	pH 7.5, 50C, mutant enzyme K118A
+0.7	N-acetyl-Met-tRNA	109272	HWYIVZUSPNVAFS-OFBMUAQVSA-N	37	7.0		pH 7.0, 37C
+3	formyl-methionyl-tRNA	70667	FMNLUBOHINDUCH-ATFXEFICSA-N	50	7.5		50C, pH 7.5
+3.4	acetyl-histidyl-tRNA	24835	SXHDAIDFKHVSQE-QTCKHAMVSA-N	50	7.5		50C, pH 7.5
+3	o-hydroxycinnamic acid	2460	PMOWTIHVNWZYFI-AATRIKPKSA-N	50	7.5		50C, pH 7.5
+3	formyl-methionyl-tRNAfMet	3864	FMNLUBOHINDUCH-JWMLSPMPSA-N	50	7.5		phosphorylated and dephosphorylated substrate, pH 7.5, 50C, recombinant enzyme
+3	formyl-Met-tRNAfMet	70667	FMNLUBOHINDUCH-ATFXEFICSA-N	50	7.5		pH 7.5, 50C
+3.4	acetyl-histidyl-tRNAHis	24835	SXHDAIDFKHVSQE-QTCKHAMVSA-N	50	7.5		pH 7.5, 50C, recombinant enzyme
+3.4	acetyl-His-tRNA	24835	SXHDAIDFKHVSQE-QTCKHAMVSA-N	50	7.5		pH 7.5, 50C
+1.3	diacetyl-Lys-tRNA	109459	JMSGPBIEFOPBRU-NVNOQMGESA-N	27	7.5		pH 7.5, 27C

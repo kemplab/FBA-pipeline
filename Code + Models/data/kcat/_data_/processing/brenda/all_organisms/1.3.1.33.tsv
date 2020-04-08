@@ -1,0 +1,37 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.003	protochlorophyllide	944	QBPCOMNNISRCTC-KKNVGXODSA-L			X	mutant K197Q
+0.004	protochlorophyllide	944	QBPCOMNNISRCTC-KKNVGXODSA-L			X	mutant K197A; mutant K197R; mutant Y193S
+0.009	protochlorophyllide	944	QBPCOMNNISRCTC-KKNVGXODSA-L			X	mutant Y193A
+0.01	protochlorophyllide	944	QBPCOMNNISRCTC-KKNVGXODSA-L	25		X	mutant enzyme N149V, at 25C, pH not specified in the publication; mutant enzyme T145A, at 25C, pH not specified in the publication; mutant enzyme T147F, at 25C, pH not specified in the publication; mutant enzyme T230F, at 25C, pH not specified in the publication
+0.011	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.5	X	pH 7.5, 25C, mutant C199S/C226S, co-substrate: protochlorophyllide
+0.011	protochlorophyllide	944	QBPCOMNNISRCTC-KKNVGXODSA-L	25	7.5	X	mutant C199/C226S; pH 7.5, 25C, mutant C199S/C226S, co-substrate: NADPH
+0.0113	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.5	X	pH 7.5, 25C, mutant C37S/C226S, co-substrate: protochlorophyllide
+0.0113	protochlorophyllide	944	QBPCOMNNISRCTC-KKNVGXODSA-L	25	7.5	X	mutant C37S/C226S; pH 7.5, 25C, mutant C37S/C226S, co-substrate: NADPH
+0.0117	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.5	X	pH 7.5, 25C, mutant C37S/C199S/C226S, co-substrate: protochlorophyllide
+0.0117	protochlorophyllide	944	QBPCOMNNISRCTC-KKNVGXODSA-L	25	7.5	X	mutant C37S/C199S/C226S; pH 7.5, 25C, mutant C37S/C199S/C226S, co-substrate: NADPH
+0.0118	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.5	X	pH 7.5, 25C, mutant C226S, co-substrate: protochlorophyllide
+0.0118	protochlorophyllide	944	QBPCOMNNISRCTC-KKNVGXODSA-L	25	7.5	X	mutant C226S; pH 7.5, 25C, mutant C226S, co-substrate: NADPH
+0.017	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				pH and temperature not specified in the publication
+0.019	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				pH and temperature not specified in the publication
+0.019	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				pH and temperature not specified in the publication
+0.02	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				pH and temperature not specified in the publication
+0.02	protochlorophyllide	944	QBPCOMNNISRCTC-KKNVGXODSA-L	25		X	mutant enzyme N39V, at 25C, pH not specified in the publication; mutant enzyme T147S, at 25C, pH not specified in the publication
+0.026	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				pH and temperature not specified in the publication
+0.032	protochlorophyllide	944	QBPCOMNNISRCTC-KKNVGXODSA-L			X	mutant Y193F
+0.035	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				pH and temperature not specified in the publication
+0.042	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				pH and temperature not specified in the publication
+0.043	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				pH and temperature not specified in the publication
+0.058	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				pH and temperature not specified in the publication
+0.07	protochlorophyllide	944	QBPCOMNNISRCTC-KKNVGXODSA-L	25		X	mutant enzyme N90A, at 25C, pH not specified in the publication
+0.1	protochlorophyllide	944	QBPCOMNNISRCTC-KKNVGXODSA-L	25		X	mutant enzyme H236A, at 25C, pH not specified in the publication
+0.102	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				pH and temperature not specified in the publication
+0.16	protochlorophyllide	944	QBPCOMNNISRCTC-KKNVGXODSA-L	25		X	mutant enzyme G19A, at 25C, pH not specified in the publication; mutant enzyme K42A, at 25C, pH not specified in the publication; mutant enzyme R38V, at 25C, pH not specified in the publication; mutant enzyme S16C, at 25C, pH not specified in the publication; mutant enzyme S189A, at 25C, pH not specified in the publication; mutant enzyme T230A, at 25C, pH not specified in the publication; mutant enzyme T230S, at 25C, pH not specified in the publication
+0.162	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.5	X	pH 7.5, 25C, mutant C199S, co-substrate: protochlorophyllide
+0.162	protochlorophyllide	944	QBPCOMNNISRCTC-KKNVGXODSA-L	25	7.5	X	mutant C199S; pH 7.5, 25C, mutant C199S, co-substrate: NADPH
+0.163	protochlorophyllide	944	QBPCOMNNISRCTC-KKNVGXODSA-L			X	mutant C37S/C199S
+0.164	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.5	X	pH 7.5, 25C, mutant C37S, co-substrate: protochlorophyllide
+0.164	protochlorophyllide	944	QBPCOMNNISRCTC-KKNVGXODSA-L				wild type enzyme
+0.164	protochlorophyllide	944	QBPCOMNNISRCTC-KKNVGXODSA-L	25	7.5	X	mutant C37S; pH 7.5, 25C, mutant C37S, co-substrate: NADPH
+0.165	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.5		pH 7.5, 25C, wild-type, co-substrate: protochlorophyllide
+0.165	protochlorophyllide	944	QBPCOMNNISRCTC-KKNVGXODSA-L	25	7.5		pH 7.5, 25C, wild-type, co-substrate: NADPH; wild type enzyme
+0.17	protochlorophyllide	944	QBPCOMNNISRCTC-KKNVGXODSA-L	25		X	mutant enzyme Y94F, at 25C, pH not specified in the publication; wild type enzyme, at 25C, pH not specified in the publication

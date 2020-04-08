@@ -1,0 +1,102 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.3	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant Q225A
+1.6	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant Q225V
+3.3	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant G8C/N60C/S65P
+3.3	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant Q225D
+3.3	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	8	7.5	X	mutant enzyme S53D/L155A/G8C/N60C/S65P, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25C
+3.4	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.0		pH 7.0, 25C, recombinant wild-type enzyme
+3.6	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant Q225R
+3.7	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant Q128K
+3.8	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5		pH 7.5, 25C, recombinant enzyme
+3.8	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5		pH 7.5, 25C, recombinant wild-type enzyme
+3.8	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant Q128A
+4.3	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5		pH 7.5, 25C, native enzyme
+4.3	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5		pH 7.5, 25C, native wild-type enzyme
+4.3	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutants Q128E and Q225E
+4.7	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	pH 7.5, 25C, recombinant wild-type enzyme and mutant Q225K
+5.4	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	8	7.5	X	mutant enzyme G8C/N60C/S65P, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25C
+5.9	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5		wild type enzyme, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25C
+6.3	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	8	7.5	X	mutant enzyme L155A/G8C/N60C/S65P, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25C
+6.4	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	mutant enzyme S53D/L155A, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25C
+6.7	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant L144S
+7	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant G8C/N60C/S65P/L144S
+7.4	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	8	7.5	X	mutant enzyme S53D/G8C/N60C/S65P, in the absence of 4 M NaCl, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25C
+7.7	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	mutant enzyme I168A, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25C
+8.7	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	mutant enzyme L155A, in the absence of 4 M NaCl, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25C
+9.4	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	mutant enzyme L144S, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25C
+15.5	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	mutant enzyme D150E/I168A, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25C
+15.6	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	mutant enzyme L144S/D150E/S53D, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25C
+16.5	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	mutant enzyme D150E, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25C
+17	N-carbobenzoxy-L-Asp-L-Phe methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	mutant enzyme L144S/D150E, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25C
+0.3	L-phenylalanine methyl ester	2532	VSDUZFOSJDMAFZ-VIFPVBQESA-N	25	7.5	X	mutant enzyme F114A, at pH 7.5, at 25C
+1.3	L-phenylalanine methyl ester	2532	VSDUZFOSJDMAFZ-VIFPVBQESA-N	25	7.5		wild type enzyme, at pH 7.5, at 25C
+2.1	L-phenylalanine methyl ester	2532	VSDUZFOSJDMAFZ-VIFPVBQESA-N	25	7.5	X	mutant enzyme D150A, at pH 7.5, at 25C
+2.3	L-phenylalanine methyl ester	2532	VSDUZFOSJDMAFZ-VIFPVBQESA-N	25	7.5	X	mutant enzyme N227H, at pH 7.5, at 25C
+2.5	L-phenylalanine methyl ester	2532	VSDUZFOSJDMAFZ-VIFPVBQESA-N	25	7.5	X	mutant enzyme D150E, at pH 7.5, at 25C
+3.2	L-phenylalanine methyl ester	2532	VSDUZFOSJDMAFZ-VIFPVBQESA-N	25	7.5	X	mutant enzyme D150W, at pH 7.5, at 25C
+4.9	L-phenylalanine methyl ester	2532	VSDUZFOSJDMAFZ-VIFPVBQESA-N	25	7.5	X	mutant enzyme I168A, at pH 7.5, at 25C
+0.083	leucine enkephalin	2214	URLZCHNOLZSCCA-VABKMULXSA-N	37	6.8	X	pH 6.8, 37C, mutant R203M
+2.94	leucine enkephalin	2214	URLZCHNOLZSCCA-VABKMULXSA-N	37	6.8	X	pH 6.8, 37C, mutant D170A
+2.94	leucine enkephalin	2214	URLZCHNOLZSCCA-VABKMULXSA-N	37	7.4	X	pH 7.4, 37C, mutant Y157F
+155.5	leucine enkephalin	2214	URLZCHNOLZSCCA-VABKMULXSA-N	37	7.4		pH 7.4, 37C, wild-type
+156	leucine enkephalin	2214	URLZCHNOLZSCCA-VABKMULXSA-N	37	7.4		pH 7.4, 37C, wild-type
+1555	leucine enkephalin	2214	URLZCHNOLZSCCA-VABKMULXSA-N	37	6.8		pH 6.8, 37C, wild-type
+1560	leucine enkephalin	2214	URLZCHNOLZSCCA-VABKMULXSA-N	37	6.8		pH 6.8, 37C, wild-type
+1.5	N-carbobenzoxy-L-Asp-L-Phe-methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	mutant enzyme F114A, at pH 7.5, at 25C
+9.5	N-carbobenzoxy-L-Asp-L-Phe-methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5		wild type enzyme, at pH 7.5, at 25C
+12.3	N-carbobenzoxy-L-Asp-L-Phe-methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	mutant enzyme I168A, at pH 7.5, at 25C
+17.1	N-carbobenzoxy-L-Asp-L-Phe-methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	mutant enzyme N227H, at pH 7.5, at 25C
+20.5	N-carbobenzoxy-L-Asp-L-Phe-methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	mutant enzyme D150E, at pH 7.5, at 25C
+24.4	N-carbobenzoxy-L-Asp-L-Phe-methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	mutant enzyme D150A, at pH 7.5, at 25C
+49.4	N-carbobenzoxy-L-Asp-L-Phe-methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	mutant enzyme D150W, at pH 7.5, at 25C
+0.3	N-carbobenzoxy-L-aspartic acid	6122	XYXYXSKSTZAEJW-VIFPVBQESA-N	25	7.5	X	mutant enzyme F114A, at pH 7.5, at 25C
+1.3	N-carbobenzoxy-L-aspartic acid	6122	XYXYXSKSTZAEJW-VIFPVBQESA-N	25	7.5		wild type enzyme, at pH 7.5, at 25C
+2.1	N-carbobenzoxy-L-aspartic acid	6122	XYXYXSKSTZAEJW-VIFPVBQESA-N	25	7.5	X	mutant enzyme D150A, at pH 7.5, at 25C
+2.3	N-carbobenzoxy-L-aspartic acid	6122	XYXYXSKSTZAEJW-VIFPVBQESA-N	25	7.5	X	mutant enzyme N227H, at pH 7.5, at 25C
+2.5	N-carbobenzoxy-L-aspartic acid	6122	XYXYXSKSTZAEJW-VIFPVBQESA-N	25	7.5	X	mutant enzyme D150E, at pH 7.5, at 25C
+3.2	N-carbobenzoxy-L-aspartic acid	6122	XYXYXSKSTZAEJW-VIFPVBQESA-N	25	7.5	X	mutant enzyme D150W, at pH 7.5, at 25C
+4.9	N-carbobenzoxy-L-aspartic acid	6122	XYXYXSKSTZAEJW-VIFPVBQESA-N	25	7.5	X	mutant enzyme I168A, at pH 7.5, at 25C
+13.58	N-benzyloxycarbonyl-Gly-L-Leu amide	4655	YNCAXHGPWXYIPH-ZDUSSCGKSA-N	37	7.0	X	recombinant mutant L155A/I156V, pH 7.0, 37C
+26.67	N-benzyloxycarbonyl-Gly-L-Leu amide	4655	YNCAXHGPWXYIPH-ZDUSSCGKSA-N	37	7.0	X	recombinant mutant L155A/I156N, pH 7.0, 37C
+48.33	N-benzyloxycarbonyl-Gly-L-Leu amide	4655	YNCAXHGPWXYIPH-ZDUSSCGKSA-N	37	7.0	X	recombinant mutant L155S/I156N, pH 7.0, 37C
+51.67	N-benzyloxycarbonyl-Gly-L-Leu amide	4655	YNCAXHGPWXYIPH-ZDUSSCGKSA-N	37	7.0		recombinant wild-type enzyme, pH 7.0, 37C
+80	N-benzyloxycarbonyl-Gly-L-Leu amide	4655	YNCAXHGPWXYIPH-ZDUSSCGKSA-N	37	7.0	X	recombinant mutant L155A, pH 7.0, 37C
+105	N-benzyloxycarbonyl-Gly-L-Leu amide	4655	YNCAXHGPWXYIPH-ZDUSSCGKSA-N	37	7.0	X	recombinant mutant L155S/I156V, pH 7.0, 37C
+165	N-benzyloxycarbonyl-Gly-L-Leu amide	4655	YNCAXHGPWXYIPH-ZDUSSCGKSA-N	37	7.0	X	recombinant mutant L155S, pH 7.0, 37C
+0.07	GFSA	4608	ZJLAFVOPQPKPGJ-DRZSPHRISA-N	37	8.0		pH 8.0, 37C, product FSA
+0.173	GFSA	4608	ZJLAFVOPQPKPGJ-DRZSPHRISA-N	37	8.0		pH 8.0, 37C, 5 M glycerol, product FSA
+0.3	GFSA	4608	ZJLAFVOPQPKPGJ-DRZSPHRISA-N	37	8.0		pH 8.0, 37C, product GF
+0.591	GFSA	4608	ZJLAFVOPQPKPGJ-DRZSPHRISA-N	37	8.0		pH 8.0, 37C, 5 M glycerol, product GF
+6.08	GFSA	4608	ZJLAFVOPQPKPGJ-DRZSPHRISA-N	37	8.0		pH 8.0, 37C, 5 M glycerol, product GF
+23.3	N-carbobenzoxy-Gly-L-Leu-NH2	4655	YNCAXHGPWXYIPH-ZDUSSCGKSA-N	37	7.0	X	mutant L155F, 37C, pH 7.0
+51.6	N-carbobenzoxy-Gly-L-Leu-NH2	4655	YNCAXHGPWXYIPH-ZDUSSCGKSA-N	37	7.0		wild-type, 37C, pH 7.0
+80	N-carbobenzoxy-Gly-L-Leu-NH2	4655	YNCAXHGPWXYIPH-ZDUSSCGKSA-N	37	7.0	X	mutant L155A, 37C, pH 7.0
+150	N-carbobenzoxy-Gly-L-Leu-NH2	4655	YNCAXHGPWXYIPH-ZDUSSCGKSA-N	37	7.0	X	mutant L155G, 37C, pH 7.0
+165	N-carbobenzoxy-Gly-L-Leu-NH2	4655	YNCAXHGPWXYIPH-ZDUSSCGKSA-N	37	7.0	X	mutant L155S, 37C, pH 7.0
+0.006	GFL	5082	JPVGHHQGKPQYIL-KBPBESRZSA-N	37	8.0		pH 8.0, 37C, 5 M glycerol, product GF
+0.013	GFL	5082	JPVGHHQGKPQYIL-KBPBESRZSA-N	37	8.0		pH 8.0, 37C, product GF
+0.026	GFL	5082	JPVGHHQGKPQYIL-KBPBESRZSA-N	37	8.0		pH 8.0, 37C, 5 M glycerol, product FL
+0.045	GFL	5082	JPVGHHQGKPQYIL-KBPBESRZSA-N	37	8.0		pH 8.0, 37C, product FL
+4.8	N-benzyloxycarbonyl-L-Asp-L-Phe-methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	recombinant mutant G117R, pH 7.5, 25C
+7.9	N-benzyloxycarbonyl-L-Asp-L-Phe-methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5		recombinant wild-type enzyme, pH 7.5, 25C
+8.4	N-benzyloxycarbonyl-L-Asp-L-Phe-methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	recombinant mutant G117K, pH 7.5, 25C
+10.5	N-benzyloxycarbonyl-L-Asp-L-Phe-methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	recombinant mutant G117E, pH 7.5, 25C
+362	Benzyloxycarbonyl-Phe-Leu-Ala	6127	ZBAUSFDBAKHCHV-NYVOZVTQSA-N				depending on mode of preparation of the form of enzyme
+407	Benzyloxycarbonyl-Gly-Phe-Leu-Ala	10491	WMGCJIRUYDEEGD-VJBMBRPKSA-N				depending on mode of preparation of the form of enzyme
+0.556	N-(benzyloxycarbonyl)-L-Phe	1973	RRONHWAVOYADJL-HNNXBMFYSA-N				
+1.69	N-(benzyloxycarbonyl)-L-Phe	1973	RRONHWAVOYADJL-HNNXBMFYSA-N				
+0.06	GFA	11609	WMGHDYWNHNLGBV-ONGXEEELSA-N	37	8.0		pH 8.0, 37C
+0.076	GFA	11609	WMGHDYWNHNLGBV-ONGXEEELSA-N	37	8.0		pH 8.0, 37C, 5 M glycerol
+0.035	GFS	11610	GGAPHLIUUTVYMX-QWRGUYRKSA-N	37	8.0		pH 8.0, 37C
+0.05	GFS	11610	GGAPHLIUUTVYMX-QWRGUYRKSA-N	37	8.0		pH 8.0, 37C, 5 M glycerol
+861	Benzyloxycarbonyl-(4-nitro)Phe-Leu-Ala	20214	OZZDZNLXPYAYLE-HSQYWUDLSA-N				depending on mode of preparation of the form of enzyme
+1.4	Dansyl-Gly-Phe-Ala	20300	MBVQMUXBPOIWHE-UWJYYQICSA-N				depending on assay method
+6.9	N-[3-(2-furyl)acryloyl]-Gly-L-Leu amide	11612	JRGRHYPAYAJGAF-FYJFLYSWSA-N	25	7.5	X	mutant enzyme S53D, in 40 mM HEPES-NaOH buffer at pH 7.5 containing 10 mM CaCl2, at 25C
+2.36	(7-methoxycoumarin-4yl) acetyl-L-Pro-L-Leu-Gly-L-Leu-[N3-(2,4-dinitrophenyl)-L-2,3-diamino-propionyl]-L-Ala-L-Arg-NH2	4006	VREVNSDWZLZKHR-ZZTWKDBPSA-N				pH and temperature not specified in the publication
+0.238	N,N'-diBoc-dityrosyl-(Ile-isoniazid)2	127214	UDDHTEFJRLSQQU-GDOXHQESSA-N	37	7.5		pH 7.5, 37C
+0.0463	N,N'-diBoc-dityrosyl-(Phe-isoniazid)2	127215	ZPNJBZHMAQYPJZ-NVABTVLNSA-N	37	7.5		pH 7.5, 37C
+5.4	N-carbobenzoxy-L-aspartyl-L-phenylalanine methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	purified recombinant mutant N116T, pH 7.5, 25C
+6.7	N-carbobenzoxy-L-aspartyl-L-phenylalanine methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	purified recombinant mutant N116A, pH 7.5, 25C
+7.1	N-carbobenzoxy-L-aspartyl-L-phenylalanine methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	purified recombinant mutant N116Q, pH 7.5, 25C
+7.7	N-carbobenzoxy-L-aspartyl-L-phenylalanine methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5		purified recombinant wild-type enzyme, pH 7.5, 25C
+12	N-carbobenzoxy-L-aspartyl-L-phenylalanine methyl ester	982	YSCNREZXFSZAQO-ROUUACIJSA-N	25	7.5	X	purified recombinant mutant N116D, pH 7.5, 25C

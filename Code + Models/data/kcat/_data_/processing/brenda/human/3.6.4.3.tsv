@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				microtubule-free KSP
+0.78	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		6.8		DELTA1-226, basal turnover, pH 6.8, temperature not specified in the publication
+1.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				microtubule-free KSP + 50 microM KSPA-1
+3.83	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		6.8		DELTA1-226, microtuble activated turnover, pH 6.8, temperature not specified in the publication
+4.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				KSP + microtubules + 30 microM KSPA-1
+13	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				KSP + microtubules

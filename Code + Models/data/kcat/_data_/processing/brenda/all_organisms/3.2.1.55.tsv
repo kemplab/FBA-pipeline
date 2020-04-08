@@ -1,0 +1,121 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.155	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	40	5.0		recombinant enzyme, pH 5.0, 40C
+0.18	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	40	5.0	X	mutant S160G, pH 5.0, 40C
+0.38	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	40	5.0		wild-type, pH 5.0, 40C
+0.0000134	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	5.3	X	pH 5.3, 25C, mutant enzyme D127A
+0.000239	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	5.3	X	pH 5.3, 25C, mutant enzyme E186A
+0.0005	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	4.1	X	pH 4.1, 25C, mutant enzyme E223Q
+0.000936	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	5.3	X	pH 5.3, 25C, mutant enzyme D14A
+0.003	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	4.1	X	pH 4.1, 25C, mutant enzyme D221N
+0.00553	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	5.3	X	pH 5.3, 25C, mutant enzyme R290G
+0.014	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N		6.5	X	pH 6.5, mutant enzyme D299G
+0.0149	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	5.3	X	pH 5.3, 25C, mutant enzyme R290A
+0.016	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	4.1	X	pH 4.1, 25C, mutant enzyme D299N
+0.0175	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	5.3	X	pH 5.3, 25C, mutant enzyme R290V
+0.0694	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	37	4.0	X	pH 4.0, 37C, mutant enzyme N83Q/N202Q
+0.0755	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	37	4.0	X	pH 4.0, 37C, mutant enzyme N202Q
+0.08	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	4.1	X	pH 4.1, 25C, mutant enzyme D299G
+0.0898	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	37	4.0	X	pH 4.0, 37C, mutant enzyme N83Q
+0.099	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	37	4.0		pH 4.0, 37C, wild-type enzyme
+0.158	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	5.3	X	pH 5.3, 25C, mutant enzyme R290H
+0.275	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	5.3	X	pH 5.3, 25C, mutant enzyme R290Q
+0.3	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	4.1	X	pH 4.1, 25C, mutant enzyme E310G
+0.426	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	5.3	X	pH 5.3, 25C, mutant enzyme R290K
+0.68	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	4.1	X	pH 4.1, 25C, mutant enzyme D170N
+1.09	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	5.3	X	pH 5.3, 25C, mutant enzyme F508A
+1.36	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	37			37C
+2.45	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N				
+2.68	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	5.3		pH 5.3, 25C, wild-type enzyme
+2.84	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N		6.5		pH 6.5, wild-type enzyme
+9.33	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	5.3	X	pH 5.3, 25C, mutant enzyme F31A
+21	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	4.1		pH 4.1, 25C, wild-type enzyme
+22	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	4.1	X	pH 4.1, 25C, mutant enzyme E223G
+103	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	37	7.0		pH 7.0, 37C
+295	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N				
+306	p-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N				
+0.02	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	37			ph 5.5, 37C, recombinant wild-type enzyme
+0.039	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	37	5.0		pH 5.0, 37C
+0.08	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	40	6.0	X	pH 6.0, 40C, mutant E175A
+0.38	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	37	5.0		pH 5.0, 37C
+0.39	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60	5.8	X	pH 5.8, 60C, mutant E176A
+0.53	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60	5.8	X	pH 5.8, 60C, mutant E298D
+0.63	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60	5.8	X	pH 5.8, 60C, mutant E28A
+0.65	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60	5.8	X	pH 5.8, 60C, mutant E176D
+1.04	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60	5.8	X	pH 5.8, 60C, mutant E298Q
+1.08	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60	5.8	X	pH 5.8, 60C, mutant E28D
+4.72	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	50	5.7		pH 5.7, 50C, recombinant full-length enzyme
+4.78	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	50	5.7		pH 5.7, 50C, recombinant catalytic module CtGH43
+5.95	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60	5.8	X	pH 5.8, 60C, mutant E28Q
+14.3	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	37	5.0		enzyme AFQ1, pH 5.0, 37C
+36.7	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60	5.8	X	pH 5.8, 60C, mutant E176Q
+50.17	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	40	5.0		recombinant enzyme, pH 5.0, 40C
+59.3	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	37	5.0		enzyme AFS1, pH 5.0, 37C
+77	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60	5.8	X	mutant W99F, pH 5.8, 60C
+87	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	40	6.0		pH 6.0, 40C, wild-type enzyme
+97	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60	5.8	X	mutant H98F/W99F, pH 5.8, 60C
+137	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60	5.8	X	mutant W99A, pH 5.8, 60C
+154	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60	5.8	X	mutant H98A/W99A, pH 5.8, 60C
+192	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60	5.8	X	mutant H98A, pH 5.8, 60C
+199	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60	5.8	X	mutant H98F, pH 5.8, 60C
+575	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60	5.8		wild-type enzyme, pH 5.8, 60C
+4100	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60	5.8		pH 5.8, 60C, wild-type enzyme
+0.002	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	30	6.0	X	mutant enzyme D20N, in 0.2 M Na2HPO4, 0.1 M citric acid, pH 6.0, at 30C
+0.11	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	30	6.0		wild type enzyme, in 0.2 M Na2HPO4, 0.1 M citric acid, pH 6.0, at 30C
+0.54	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	45	7.0	X	mutant R69H/G179F/L352M, pH 7.0, 45C
+0.56	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	30	6.0	X	mutant enzyme N159A, in 0.2 M Na2HPO4, 0.1 M citric acid, pH 6.0, at 30C
+0.58	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	45	7.0	X	mutant R69H/N216W/L352M, pH 7.0, 45C
+0.62	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	30	6.0	X	mutant enzyme L289A, in 0.2 M Na2HPO4, 0.1 M citric acid, pH 6.0, at 30C
+0.97	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	45	7.0	X	mutant R69H/L352M, pH 7.0, 45C
+1.07	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	30	6.0	X	mutant enzyme Y192A, in 0.2 M Na2HPO4, 0.1 M citric acid, pH 6.0, at 30C
+2.1	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	37	4.6		pH 4.6, 37C
+2.29	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	45	7.0	X	mutant R69H, pH 7.0, 45C
+2.73	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	30	4.0		in 50 mM sodium citrate buffer (pH 4.0), at 30C
+4.55	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	30	6.0	X	mutant enzyme N159L, in 0.2 M Na2HPO4, 0.1 M citric acid, pH 6.0, at 30C
+5.6	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	40	7.0		in 50 mM phosphate/citrate buffer pH 7.0, at 40C
+14.3	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	50	7.0		in 50 mM potassium phosphate buffer (pH 7.0), at 50C
+23	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60	6.0		pH 6.0, 60C
+43	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	40	5.0	X	mutant S160G, pH 5.0, 40C
+50	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	40	5.0		wild-type, pH 5.0, 40C
+139	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	45	7.0		wild-type, pH 7.0, 45C
+151	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	95	5.0		pH 5.0, 95C
+226	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	80	5.5		in 50 mM citric acid buffer (pH 5.5), at 80C
+233	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	45	7.0	X	mutant L352M, pH 7.0, 45C
+285	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	80	5.5		in 50 mM citric acid buffer (pH 5.5), at 80C
+328	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60	6.5		pH 6.5, 60C
+10.6	4-nitrophenyl beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	60	6.5		pH 6.5, 60C
+3.5	4-nitrophenyl-alpha-L-arabinopyranoside	4624	MLJYKRYCCUGBBV-MMWGEVLESA-N	50	5.7		pH 5.7, 50C, recombinant full-length enzyme
+3.53	4-nitrophenyl-alpha-L-arabinopyranoside	4624	MLJYKRYCCUGBBV-MMWGEVLESA-N	50	5.7		pH 5.7, 50C, recombinant catalytic module CtGH43
+24	p-nitrophenyl-alpha-L-arabinofuranose	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60		X	Tx-Abf-C180A mutant, 60C
+35	p-nitrophenyl-alpha-L-arabinofuranose	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60		X	Tx-Abf-M94_I103delinsGG mutant, 60C
+165	p-nitrophenyl-alpha-L-arabinofuranose	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60		X	Tx-Abf-W99A mutant, 60C
+355	p-nitrophenyl-alpha-L-arabinofuranose	491	DUYYBTBDYZXISX-UKKRHICBSA-N	60			Tx-Abf, 60C
+1.23	phenyl-alpha-L-arabinofuranoside	6283	WZMSBIOCODYZPT-UKKRHICBSA-N		6.5		pH 6.5, wild-type enzyme
+0.0041	3-nitrophenyl-alpha-L-arabinofuranoside	6546	DTAJDDQSNQTVJZ-UKKRHICBSA-N	40	6.0	X	pH 6.0, 40C, mutant E175A
+83	3-nitrophenyl-alpha-L-arabinofuranoside	6546	DTAJDDQSNQTVJZ-UKKRHICBSA-N	40	6.0		pH 6.0, 40C, wild-type enzyme
+0.66	3',4'-dinitrophenyl alpha-L-arabinofuranoside	6547	NALMLNBWXPNCBD-UKKRHICBSA-N	40	6.0	X	pH 6.0, 40C, mutant E175A
+340	3',4'-dinitrophenyl alpha-L-arabinofuranoside	6547	NALMLNBWXPNCBD-UKKRHICBSA-N	40	6.0		pH 6.0, 40C, wild-type enzyme
+0.75	1,5-alpha-L-arabinotriose	8672	OUGBMVAQMSBUQH-BGHOBRCPSA-N				
+88	1,5-alpha-L-arabinotriose	8672	OUGBMVAQMSBUQH-BGHOBRCPSA-N				
+0.72	2',5'-dinitrophenyl alpha-L-arabinofuranoside	9047	NBJCJDLOPXQBOQ-UKKRHICBSA-N	40	6.0	X	pH 6.0, 40C, mutant E175A
+190	2',5'-dinitrophenyl alpha-L-arabinofuranoside	9047	NBJCJDLOPXQBOQ-UKKRHICBSA-N	40	6.0		pH 6.0, 40C, wild-type enzyme
+0.24	2',4',6'-trichlorophenyl alpha-L-arabinofuranoside	9048	VKYIIEJQTJTBGM-CKEKPRIKSA-N	40	6.0	X	pH 6.0, 40C, mutant E175A
+65	2',4',6'-trichlorophenyl alpha-L-arabinofuranoside	9048	VKYIIEJQTJTBGM-CKEKPRIKSA-N	40	6.0		pH 6.0, 40C, wild-type enzyme
+0.03	4-chloro-2-nitrophenyl-alpha-L-arabinofuranoside	9454	UEQZFIRFHHHIKL-UKKRHICBSA-N		6.5		pH 6.5, wild-type enzyme
+0.12	4-chloro-2-nitrophenyl-alpha-L-arabinofuranoside	9454	UEQZFIRFHHHIKL-UKKRHICBSA-N		6.5	X	pH 6.5, mutant enzyme D299G
+6.52	4-chloro-2-nitrophenyl-alpha-L-arabinofuranoside	9454	UEQZFIRFHHHIKL-UKKRHICBSA-N		6.5		pH 6.5, wild-type enzyme
+32	1,5-alpha-L-arabinobiose	114535	HANDMAIZTZRPTQ-GJAWKPGMSA-N				
+0.69	2,5-dinitrophenyl-alpha-L-arabinofuranoside	9047	NBJCJDLOPXQBOQ-UKKRHICBSA-N		6.5	X	pH 6.5, mutant enzyme D299G
+8.25	2,5-dinitrophenyl-alpha-L-arabinofuranoside	9047	NBJCJDLOPXQBOQ-UKKRHICBSA-N		6.5		pH 6.5, wild-type enzyme
+0.0003	m-nitrophenyl-alpha-L-arabinofuranoside	6546	DTAJDDQSNQTVJZ-UKKRHICBSA-N		6.5	X	pH 6.5, mutant enzyme D299G
+2.02	m-nitrophenyl-alpha-L-arabinofuranoside	6546	DTAJDDQSNQTVJZ-UKKRHICBSA-N		6.5		pH 6.5, wild-type enzyme
+0.0004	p-cyanophenyl-alpha-L-arabinofuranoside	12294	ZNAJZCLJSPTKGR-NNYUYHANSA-N		6.5	X	pH 6.5, mutant enzyme D299G
+1.7	p-cyanophenyl-alpha-L-arabinofuranoside	12294	ZNAJZCLJSPTKGR-NNYUYHANSA-N		6.5		pH 6.5, wild-type enzyme
+105000	alpha-1,5-L-arabinotetraose	12330	SSTRHYGKXBFFON-OAKPEYCVSA-N	40	5.0		pH 5.0, 40C, wild-type enzyme
+113000	alpha-1,5-L-arabinotriose	8672	OUGBMVAQMSBUQH-BGHOBRCPSA-N	40	5.0		pH 5.0, 40C, wild-type enzyme
+81000	alpha-1,5-L-arabinopentaose	16706	MONGGAYLDOOREZ-DTIDPZSESA-N	40	5.0		pH 5.0, 40C, wild-type enzyme
+8.6	alpha-1,3-arabinoxylobiose	23712	KFOLXNMHONBVIR-IWSUXHDSSA-N				
+4.6	alpha-1,5-arabinotriose	8672	OUGBMVAQMSBUQH-BGHOBRCPSA-N				
+12	linear alpha-1,5-L-arabinan	4915	PYYSVWUXDCRIIM-NOVDDWIBSA-N				
+1	4-nitrophenyl beta-D-galactofuranoside	21652	RMQNVZDXEMOJCW-PZWNZHSQSA-N	37	4.6		pH 4.6, 37C
+327	4-nitrophenyl beta-D-galactofuranoside	21652	RMQNVZDXEMOJCW-PZWNZHSQSA-N	60	6.5		pH 6.5, 60C
+94000	alpha-1,5-L-arabinohexaose	27384	ICDSIUURRIXTJR-PNNZJLGLSA-N	40	5.0		pH 5.0, 40C, wild-type enzyme

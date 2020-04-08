@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3.1	Substance P	957	XHWDVRRNQHMAPE-CUZNLEPHSA-N	37	8.2		pH 8.2, 37C, recombinant wild-type enzyme
+3.13	bradykinin	387	QXZGBUJJYSLZLT-FDISYFBBSA-N	37	8.2		pH 8.2, 37C, recombinant wild-type enzyme
+3.8	bradykinin	387	QXZGBUJJYSLZLT-FDISYFBBSA-N	37	8.0		wild type enzyme in 100 mM Tris-HCl (pH 8.0) and 100 mM NaCl at 37C
+4.48	bradykinin	387	QXZGBUJJYSLZLT-FDISYFBBSA-N	37	8.2		pH 8.2, 37C, recombinant wild-type enzyme
+7.7	L-Arg-L-Pro-L-Pro	2497	YCYXHLZRUSJITQ-SRVKXCTJSA-N	37	8.0		wild type enzyme in 100 mM Tris-HCl (pH 8.0) and 100 mM NaCl at 37C

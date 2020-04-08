@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.04	cortisol	716	JYGXADMDTFJGBT-VWUMJDOOSA-N	37	7.4		37C, pH 7.4, recombinant 11beta-HSD1 expressed in Escherichia coli
+0.042	cortisol	716	JYGXADMDTFJGBT-VWUMJDOOSA-N	22	7.5		pH 7.5, 22C, recombinant wild-type isozyme 11beta-HSD1
+0.078	cortisol	716	JYGXADMDTFJGBT-VWUMJDOOSA-N	22	7.5		pH 7.5, 22C, recombinant wild-type isozyme 11beta-HSD1 oxidized with K3Fe(CN)6
+0.19	cortisol	716	JYGXADMDTFJGBT-VWUMJDOOSA-N	37	7.4		37C, pH 7.4, recombinant 11beta-HSD1 expressed in Escherichia coli
+0.3	cortisone	717	MFYSYFVPBJMHGN-ZPOLXVRWSA-N	37	7.4		37C, pH 7.4, recombinant 11beta-HSD1 expressed in Escherichia coli
+0.4	cortisone	717	MFYSYFVPBJMHGN-ZPOLXVRWSA-N	37	7.4		37C, pH 7.4, recombinant 11beta-HSD1 expressed in Escherichia coli
+0.0000883	11beta,21-dihydroxypregn-4-en-3,20-dione	2077	OMFXVFTZEKFJBZ-KAFNETDFSA-N		7.0		at pH 7.0
+0.000228	11beta,21-dihydroxypregn-4-en-3,20-dione	2077	OMFXVFTZEKFJBZ-KAFNETDFSA-N		8.5		at pH 8.5
+0.000113	21-hydroxy-pregn-4-en-3,11,20-trione	3892	FUFLCEKSBBHCMO-KJQYFISQSA-N		7.0		at pH 7.0
+0.000183	21-hydroxy-pregn-4-en-3,11,20-trione	3892	FUFLCEKSBBHCMO-KJQYFISQSA-N		8.5		at pH 8.5

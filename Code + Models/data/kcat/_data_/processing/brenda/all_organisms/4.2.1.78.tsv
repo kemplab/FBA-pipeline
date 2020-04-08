@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.8	4-hydroxyphenylacetaldehyde	1582	IPRPPFIAVHPVJH-UHFFFAOYSA-N	37	7.5	X	mutant E110A, 37C, 0.1 M phosphate buffer pH 7.5
+1.7	4-hydroxyphenylacetaldehyde	1582	IPRPPFIAVHPVJH-UHFFFAOYSA-N	37	7.5	X	mutant Y108F, 37C, 0.1 M phosphate buffer pH 7.5
+4.5	4-hydroxyphenylacetaldehyde	1582	IPRPPFIAVHPVJH-UHFFFAOYSA-N	37	7.5		wild-type, 37C, 0.1 M phosphate buffer pH 7.5
+6	4-hydroxyphenylacetaldehyde	1582	IPRPPFIAVHPVJH-UHFFFAOYSA-N				cosubstrate: 3-(2-aminoethyl)phenol; cosubstrate: 5-(2-aminoethyl)-2-methoxyphenol
+6.4	4-hydroxyphenylacetaldehyde	1582	IPRPPFIAVHPVJH-UHFFFAOYSA-N				cosubstrate: 4-(2-aminoethyl)benzene-1,2-diol
+6.4	4-(2-Aminoethyl)benzene-1,2-diol	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N				cosubstrate: 4-(2-aminoethyl)benzene-1,2-diol
+7	4-(2-Aminoethyl)benzene-1,2-diol	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N				cosubstrate: (3,4-dihydroxyphenyl)acetaldehyde
+7	(3,4-dihydroxyphenyl)acetaldehyde	2552	IADQVXRMSNIUEL-UHFFFAOYSA-N				cosubstrate: 4-(2-aminoethyl)benzene-1,2-diol
+6	3-(2-aminoethyl)phenol	8775	GHFGJTVYMNRGBY-UHFFFAOYSA-N				cosubstrate: 4-(2-aminoethyl)benzene-1,2-diol
+6	5-(2-aminoethyl)-2-methoxyphenol	37437	WJXQFVMTIGJBFX-UHFFFAOYSA-N				cosubstrate: 4-(2-aminoethyl)benzene-1,2-diol

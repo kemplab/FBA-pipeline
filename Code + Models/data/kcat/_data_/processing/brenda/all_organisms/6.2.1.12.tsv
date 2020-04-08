@@ -1,0 +1,56 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+5.5	CoA	10	RGJOEKWQDUBAIZ-IBOSZNHHSA-N	30	7.0		30C, pH 7.0
+0.0068	ferulate	378	KSEBMYQBYZTDHS-HWKANZROSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl1
+0.032	ferulate	378	KSEBMYQBYZTDHS-HWKANZROSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl4
+0.034	ferulate	378	KSEBMYQBYZTDHS-HWKANZROSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl5
+0.0385	ferulate	378	KSEBMYQBYZTDHS-HWKANZROSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl2
+0.299	ferulate	378	KSEBMYQBYZTDHS-HWKANZROSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl3
+0.34	ferulate	378	KSEBMYQBYZTDHS-HWKANZROSA-N	22	7.5		pH 7.5, 22C
+0.38	ferulate	378	KSEBMYQBYZTDHS-HWKANZROSA-N	22	7.5		pH 7.5, 22C
+0.49	ferulate	378	KSEBMYQBYZTDHS-HWKANZROSA-N	22	7.5		pH 7.5, 22C
+0.569	ferulate	378	KSEBMYQBYZTDHS-HWKANZROSA-N	30	7.8		recombinant V186G, pH 7.8, 30C
+0.57	ferulate	378	KSEBMYQBYZTDHS-HWKANZROSA-N	22	7.8		pH 7.8, 22C
+0.636	ferulate	378	KSEBMYQBYZTDHS-HWKANZROSA-N	30	7.8		recombinant F269L/K415T, pH 7.8, 30C
+1.063	ferulate	378	KSEBMYQBYZTDHS-HWKANZROSA-N	30	7.8		recombinant wild-type enzyme, pH 7.8, 30C
+1.107	ferulate	378	KSEBMYQBYZTDHS-HWKANZROSA-N	30	7.8		recombinant F239S, pH 7.8, 30C
+1.56	ferulate	378	KSEBMYQBYZTDHS-HWKANZROSA-N	30	7.5		pH 7.5, 30C
+2.04	ferulate	378	KSEBMYQBYZTDHS-HWKANZROSA-N	30	7.8		recombinant Q274H, pH 7.8, 30C
+0.0082	4-coumarate	900	NGSWKAQJJWESNS-ZZXKWVIFSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl1
+0.0395	4-coumarate	900	NGSWKAQJJWESNS-ZZXKWVIFSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl2
+0.047	4-coumarate	900	NGSWKAQJJWESNS-ZZXKWVIFSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl4
+0.048	4-coumarate	900	NGSWKAQJJWESNS-ZZXKWVIFSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl5
+0.285	4-coumarate	900	NGSWKAQJJWESNS-ZZXKWVIFSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl3
+0.49	4-coumarate	900	NGSWKAQJJWESNS-ZZXKWVIFSA-N	30	7.8		recombinant V186I/V187L, pH 7.8, 30C
+0.58	4-coumarate	900	NGSWKAQJJWESNS-ZZXKWVIFSA-N	22	7.5		pH 7.5, 22C
+0.66	4-coumarate	900	NGSWKAQJJWESNS-ZZXKWVIFSA-N	30	7.8		recombinant wild-type enzyme, pH 7.8, 30C
+0.7	4-coumarate	900	NGSWKAQJJWESNS-ZZXKWVIFSA-N	30	7.5		pH 7.5, 30C
+0.742	4-coumarate	900	NGSWKAQJJWESNS-ZZXKWVIFSA-N	30	7.8		recombinant F269L/K415T, pH 7.8, 30C
+0.96	4-coumarate	900	NGSWKAQJJWESNS-ZZXKWVIFSA-N	22	7.5		pH 7.5, 22C
+1	4-coumarate	900	NGSWKAQJJWESNS-ZZXKWVIFSA-N	22	7.5		pH 7.5, 22C
+1.02	4-coumarate	900	NGSWKAQJJWESNS-ZZXKWVIFSA-N	22	7.8		pH 7.8, 22C
+1.28	4-coumarate	900	NGSWKAQJJWESNS-ZZXKWVIFSA-N	22	7.8		pH 7.8, 22C
+1.623	4-coumarate	900	NGSWKAQJJWESNS-ZZXKWVIFSA-N	30	7.8		recombinant V186G, pH 7.8, 30C
+1.819	4-coumarate	900	NGSWKAQJJWESNS-ZZXKWVIFSA-N	30	7.8		recombinant F239S, pH 7.8, 30C
+4.05	4-coumarate	900	NGSWKAQJJWESNS-ZZXKWVIFSA-N	30	7.8		recombinant Q274H, pH 7.8, 30C
+0.0087	caffeate	355	QAIPRVGONGVQAS-DUXPYHPUSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl1
+0.014	caffeate	355	QAIPRVGONGVQAS-DUXPYHPUSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl5
+0.036	caffeate	355	QAIPRVGONGVQAS-DUXPYHPUSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl4
+0.0445	caffeate	355	QAIPRVGONGVQAS-DUXPYHPUSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl2
+0.255	caffeate	355	QAIPRVGONGVQAS-DUXPYHPUSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl3
+0.36	caffeate	355	QAIPRVGONGVQAS-DUXPYHPUSA-N	22	7.5		pH 7.5, 22C
+0.44	caffeate	355	QAIPRVGONGVQAS-DUXPYHPUSA-N	30	7.5		pH 7.5, 30C
+0.78	caffeate	355	QAIPRVGONGVQAS-DUXPYHPUSA-N	22	7.5		pH 7.5, 22C
+0.8	caffeate	355	QAIPRVGONGVQAS-DUXPYHPUSA-N	22	7.5		pH 7.5, 22C
+0.92	caffeate	355	QAIPRVGONGVQAS-DUXPYHPUSA-N	22	7.8		pH 7.8, 22C
+0.47	trans-cinnamate	1165	WBYWAXJHAXSJNI-VOTSOKGWSA-N	22	7.8		pH 7.8, 22C
+0.58	trans-cinnamate	1165	WBYWAXJHAXSJNI-VOTSOKGWSA-N	30	7.5		pH 7.5, 30C
+0.97	trans-cinnamate	1165	WBYWAXJHAXSJNI-VOTSOKGWSA-N	22	7.8		pH 7.8, 22C
+0.0061	cinnamate	681	WBYWAXJHAXSJNI-UHFFFAOYSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl1
+0.017	cinnamate	681	WBYWAXJHAXSJNI-UHFFFAOYSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl5
+0.0188	cinnamate	681	WBYWAXJHAXSJNI-UHFFFAOYSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl2
+0.0213	cinnamate	681	WBYWAXJHAXSJNI-UHFFFAOYSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl4
+0.182	cinnamate	681	WBYWAXJHAXSJNI-UHFFFAOYSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl3
+0.26	cinnamate	681	WBYWAXJHAXSJNI-UHFFFAOYSA-N	22	7.5		pH 7.5, 22C
+0.3	cinnamate	681	WBYWAXJHAXSJNI-UHFFFAOYSA-N	22	7.5		pH 7.5, 22C
+0.37	cinnamate	681	WBYWAXJHAXSJNI-UHFFFAOYSA-N	22	7.5		pH 7.5, 22C
+0.053	sinapate	1439	PCMORTLOPMLEFB-ONEGZZNKSA-N	4	7.5		pH 7.5, temperature not specified in the publication, recombinant isozyme Os4Cl5

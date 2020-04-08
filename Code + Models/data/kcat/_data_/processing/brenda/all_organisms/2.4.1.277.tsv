@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0092	10-deoxymethynolide	10232	NZUJVBSYQXETNF-PQWITYJESA-N	29	8.0		pH 8.0, 29C, cosubstrate: 10 mM dTDP-3-amino-4,6-dideoxy-alpha-D-glucopyranose
+1	10-deoxymethynolide	10232	NZUJVBSYQXETNF-PQWITYJESA-N	29	8.0		pH 8.0, 29C, addition of the DesIII protein, cosubstrate: 1.0 mM dTDP-3-amino-4,6-dideoxy-alpha-D-glucopyranose
+0.0062	TDP-3-dimethylamino-4,6-dideoxy-alpha-D-glucopyranose	19418	FFPCARSBUVGIOB-BKRCCOPCSA-N	29	8.0		pH 8.0, 29C, cosubstrate: 9.1 mM 10-deoxymethynolide
+1.33	TDP-3-dimethylamino-4,6-dideoxy-alpha-D-glucopyranose	19418	FFPCARSBUVGIOB-BKRCCOPCSA-N	29	8.0		pH 8.0, 29C, addition of the DesIII protein, cosubstrate: 9.1 mM 10-deoxymethynolide

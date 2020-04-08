@@ -1,0 +1,31 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+11.45	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	85	5.0		pH 5.0, 85C
+299	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	40	5		pH 5, 40C, soluble starch, wild-type Sd2L
+305	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	40	5		pH 5, 40C, soluble starch, wild-type Sd1
+308	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	40	5	X	pH 5, 40C, soluble starch, wild-type Sd2H and V233A/L347S double mutant of Sd2L
+309	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	40	5	X	pH 5, 40C, soluble starch, L347S and R115C mutants of Sd2L
+314	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	40	5	X	pH 5, 40C, soluble starch, V233A mutant of Sd1
+315	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	40	5	X	pH 5, 40C, soluble starch, V233A mutant of Sd2L
+319	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	40	5	X	pH 5, 40C, soluble starch, D165E and V430A mutants of Sd2L
+1260	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N		5.4		pH 5.4-6.0, major isozyme
+5460	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N				from potato
+6540	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N				soluble starch
+3.95	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	85	5.0		pH 5.0, 85C
+0.034	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	37	5.4	X	pH 5.4, 37C, mutant E380Q
+0.08	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	37	5.4	X	pH 5.4, 37C, mutant E186Q
+3.85	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	85	5.0		pH 5.0, 85C
+1280	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	37	5.4		pH 5.4, 37C, wild-type enzyme
+2400	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N				
+0.24	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	37	5.4	X	pH 5.4, 37C, recombinant mutant T342V
+0.75	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	37	5.4	X	pH 5.4, 37C, recombinant mutant T342A
+3.5	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	37	5.4	X	pH 5.4, 37C, recombinant mutant T342S
+92	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	37		X	37C, recombinant mutant Y164H
+98.4	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	37	5.4	X	pH 5.4, 37C, recombinant mutant T342V
+325	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	37		X	37C, recombinant mutant T47M/Y164E/T328N
+453	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	37		X	37C, recombinant mutant Y164Q
+550	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N				
+988	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	37		X	37C, recombinant mutant Y164F
+1129	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	37		X	37C, recombinant mutant Y164E
+1280	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	37	5.4		pH 5.4, 37C, recombinant wild-type enzyme
+2739	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	37			37C, recombinant wild-type enzyme
+962	4-nitrophenyl alpha-maltopyranoside	12819	IAYJZWFYUSNIPN-LTHBGAKLSA-N	90	7.0		pH 7.0, 90C

@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.09	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	24	7.5		pH 7.5, 24C, cosubstrate: 1.28 mM dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose
+0.86	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	24	7.5		pH 7.5, 24C, cosubstrate: 0.89 mM dTDP-3-methylamino-3,6-dideoxy-alpha-D-glucopyranose
+0.0126	dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose	3101	KVYJLJOGNUNRJK-HALQBZCBSA-N	37	8.5	X	pH 8.5, 37C, mutant enzyme H123N
+0.046	dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose	3101	KVYJLJOGNUNRJK-HALQBZCBSA-N	37	8.5	X	pH 8.5, 37C, mutant enzyme H123A
+0.12	dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose	3101	KVYJLJOGNUNRJK-HALQBZCBSA-N	24	7.5		pH 7.5, 24C
+0.165	dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose	3101	KVYJLJOGNUNRJK-HALQBZCBSA-N	24	7.5		pH 7.5, 24C
+0.172	dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose	3101	KVYJLJOGNUNRJK-HALQBZCBSA-N	37	8.5		pH 8.5, 37C, wild-type enzyme
+0.75	dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose	3101	KVYJLJOGNUNRJK-HALQBZCBSA-N				pH and temperature not specified in the publication
+0.54	dTDP-3-methylamino-3,6-dideoxy-alpha-D-glucopyranose	113248	CDWXXXLIBVLVLM-ADAYKIPUSA-N	24	7.5		pH 7.5, 24C

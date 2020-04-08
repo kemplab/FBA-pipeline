@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0022	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N			X	mutant enzyme D332A, pH and temperature not specified in the publication
+0.043	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N			X	mutant enzyme D13A, pH and temperature not specified in the publication
+0.283	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	37	9		pH 9, 37C
+0.55	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N				wild-type enzyme, pH and temperature not specified in the publication
+0.72	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N			X	mutant enzyme H125A, pH and temperature not specified in the publication
+0.283	vancomycin aglycone	13058	JHIKFOISFAQTJQ-YZANBJIASA-N	37	9		pH 9, 37C

@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.3	2-keto-3-deoxy-L-lyxonate	4792	UQIGQRSJIKIPKZ-GSVOUGTGSA-N				data for Mg2+-activated YfaU
+0.3	2-keto-3-deoxy-L-mannonate	25875	WPAMZTWLKIDIOP-PVPKANODSA-N				data for Mg2+-activated YfaU
+0.34	2-dehydro-3-deoxy-6-phospho-D-gluconate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	60	6.2		at 60C in 50 mM sodium phosphate buffer (pH 6.2)
+0.4	2-dehydro-3-deoxy-L-rhamnonic acid	3198	FRIWJYNKZPJVRL-IUYQGCFVSA-N				data for Mg2+-activated YfaU
+0.54	4-hydroxy-2-ketoheptane-1,7-dioate	12560	HNOAJOYERZTSNK-UHFFFAOYSA-N				data for Mg2+-activated YfaU
+26.7	2-dehydro-3-deoxy-D-gluconate	886	WPAMZTWLKIDIOP-WVZVXSGGSA-N	60	6.2		at 60C in 50 mM sodium phosphate buffer (pH 6.2)
+27.3	5-dehydro-4-deoxy-D-glucarate	3769	QUURPCHWPQNNGL-ZAFYKAAXSA-N				
+299	4-hydroxy-2-ketoheptane-1,7-dioate	12560	HNOAJOYERZTSNK-UHFFFAOYSA-N				data for Ni2+-activated YfaU
+396	4-hydroxy-2-ketopentanoic acid	907	HFKQINMYQUXOCH-UHFFFAOYSA-N				data for Ni2+-activated YfaU
+447	4-hydroxy-2-ketohexanoic acid	1530	ALFQPWXBAWHVDP-UHFFFAOYSA-N				data for Ni2+-activated YfaU

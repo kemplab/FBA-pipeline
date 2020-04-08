@@ -1,0 +1,47 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0011	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5	X	mutant E374A/E378A/D301K, pH 7.5, 25C
+0.0021	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5	X	mutant E374K/E378K, pH 7.5, 25C
+0.0023	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		wild-type, pH 7.5, 25C
+0.0024	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5	X	mutant E374A/E378A, pH 7.5, 25C
+0.0028	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5	X	mutant D288N, pH 7.5, 25C
+0.0033	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				at 0.015 mM histone H4 peptide, pH and temperature not specified in the publication
+0.005	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				at 0.030 mM histone H4 peptide, pH and temperature not specified in the publication
+0.0091	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5	X	pH 7.5, 25C, mutant E338Q
+0.0117	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				PCAF protein
+0.012	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5	X	mutant D287N, pH 7.5, 25C
+0.012	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				at 0.060 mM histone H4 peptide, pH and temperature not specified in the publication
+0.018	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				at 0.090 mM histone H4 peptide, pH and temperature not specified in the publication
+0.0267	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant A190S and A190T of Gcn5
+0.0267	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				Gcn5
+0.0283	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				Gcn5 protein
+0.0283	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				Gcn5 protein
+0.0283	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				Gcn5 protein
+0.0283	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				Gcn5 protein
+0.031	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5	X	mutant E374A/E378A/D301K, presence of chaperone Vps75, pH 7.5, 25C
+0.035	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5	X	mutant E374K/E378K, presence of chaperone Vps75, pH 7.5, 25C
+0.0383	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				PCAF catalytic domain
+0.0383	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				PCAF
+0.0467	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				PCAF catalytic domain
+0.07	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		wild-type, wild-type, presence of 0.2 equivalents of chaperone Vps75, pH 7.5, 25C
+0.08	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		wild-type, presence of 0.4 equivalents of chaperone Vps75, pH 7.5, 25C
+0.11	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		wild-type, pH 7.5, 25C
+0.14	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5	X	pH 7.5, 25C, mutant C304S
+0.16	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5	X	mutant E374A/E378A, presence of chaperone Vps75, pH 7.5, 25C
+0.28	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		wild-type, presence of 1 equivalent of chaperone Vps75, pH 7.5, 25C
+0.48	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		wild-type, presence of 2 equivalents of chaperone Vps75, pH 7.5, 25C
+0.62	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		wild-type, presence of 8 equivalents of chaperone Vps75, pH 7.5, 25C
+0.76	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5	X	pH 7.5, 25C, mutant C304A
+0.8	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				enzyme form type I
+1.6	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+4.14	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+12	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				enzyme form type II
+0.8	histone	780	NQRHNZNRBJTKBW-UDXCSSMUSA-N				enzyme form type I
+12	histone	780	NQRHNZNRBJTKBW-UDXCSSMUSA-N				enzyme form type II
+0.0018	histone H4	1124	IBEPCQDISLRYEP-MSIUXIDQSA-N	25	7.5	X	pH 7.5, 25C, mutant Y612C
+0.003	histone H4	1124	IBEPCQDISLRYEP-MSIUXIDQSA-N	25	7.5	X	pH 7.5, 25C, mutant L503P/D601G/Y612C
+0.0035	histone H4	1124	IBEPCQDISLRYEP-MSIUXIDQSA-N	25	7.5	X	pH 7.5, 25C, mutant Y612C/P655R
+0.0048	histone H4	1124	IBEPCQDISLRYEP-MSIUXIDQSA-N	25	7.5	X	pH 7.5, 25C, wild-type P/CAF enzyme and mutant V582A
+0.0053	histone H4	1124	IBEPCQDISLRYEP-MSIUXIDQSA-N	25	7.5	X	pH 7.5, 25C, mutant L503P
+0.0055	histone H4	1124	IBEPCQDISLRYEP-MSIUXIDQSA-N	25	7.5	X	pH 7.5, 25C, mutant D601G
+0.0058	histone H4	1124	IBEPCQDISLRYEP-MSIUXIDQSA-N	25	7.5	X	pH 7.5, 25C, mutant D639E
+0.0062	histone H4	1124	IBEPCQDISLRYEP-MSIUXIDQSA-N	25	7.5	X	pH 7.5, 25C, mutant V582A/D639E

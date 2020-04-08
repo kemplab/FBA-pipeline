@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+5.5	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				pH and temperature not specified in the publication, addition of Brij 35 to the assay buffer
+5.95	S-methyl-L-cysteine	724	IDIDJDIHTAOVLG-VKHMYHEASA-N				pH and temperature not specified in the publication, addition of Brij 35 to the assay buffer
+9.5	S-ethyl-L-cysteine	1772	ULXKXLZEOGLCRJ-BYPYZUCNSA-N				pH and temperature not specified in the publication, addition of Brij 35 to the assay buffer
+10.9	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				pH and temperature not specified in the publication, in absence of Brij 35
+12	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	22	7.4		pH 7.4, 22C
+14.5	beta-chloro-L-alanine	1230	ASBJGPTTYPEMLP-REOHCLBHSA-N				pH and temperature not specified in the publication, addition of Brij 35 to the assay buffer
+32	L-cysteine methyl ester	2989	MCYHPZGUONZRGO-VKHMYHEASA-N				pH and temperature not specified in the publication, addition of Brij 35 to the assay buffer
+39.6	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	65	6.6		65C, pH 6.6, wild-type enzyme

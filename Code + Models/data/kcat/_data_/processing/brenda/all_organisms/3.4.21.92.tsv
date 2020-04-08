@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.17	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				ATPase activity
+2.17	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				proteolysis
+0.5	glucagon	1056	XXIRCCLYZCEEOA-DJYOUOFASA-N				value below
+0.003	N-succinyl-Leu-Tyr-7-amido-4-methylcoumarin	3040	RIYLNECMTVNMSO-GOTSBHOMSA-N			X	mutant L144M, pH and temperature not specified in the publication
+0.093	N-succinyl-Leu-Tyr-7-amido-4-methylcoumarin	3040	RIYLNECMTVNMSO-GOTSBHOMSA-N				wild-type, pH and temperature not specified in the publication
+0.5	N-succinyl-Leu-Tyr-7-amido-4-methylcoumarin	3040	RIYLNECMTVNMSO-GOTSBHOMSA-N	153		X	mutant A153C, reducing conditions, 4C, pH not specified in the publication
+9.6	N-succinyl-Leu-Tyr-7-amido-4-methylcoumarin	3040	RIYLNECMTVNMSO-GOTSBHOMSA-N	4			wild-type, non-reducing conditions, 4C, pH not specified in the publication
+15.8	N-succinyl-Leu-Tyr-7-amido-4-methylcoumarin	3040	RIYLNECMTVNMSO-GOTSBHOMSA-N	4			wild-type, reducing conditions, 4C, pH not specified in the publication
+0.000036	Suc-LLVY-4-methylcoumarin-7-amide	3399	UVFAEQZFLBGVRM-MSMWPWNWSA-N	30	7.0		30C, pH 7.0, PfClpP is a very weak peptidase on its own
+13.3	Phe-Ala-Pro-His-Met-Ala-Leu-Val-Pro-Val	29658	YUQVUSATLXSOOK-RSXQLNDRSA-N				

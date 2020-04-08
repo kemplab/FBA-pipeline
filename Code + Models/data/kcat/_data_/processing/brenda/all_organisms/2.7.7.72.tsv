@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0012	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	70	8.1	X	pH 8.1, 70C, mutant enzyme V34C
+0.0013	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	70	8.1	X	pH 8.1, 70C, mutant enzyme V34C
+0.0013	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	70	8.1	X	pH 8.1, 70C, mutant enzyme A75C
+0.0027	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	70	8.1		pH 8.1, 70C, wild-type enzyme
+0.0183	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	70	8.1	X	pH 8.1, 70C, mutant enzyme A75C
+0.035	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	70	8.1		pH 8.1, 70C, wild-type enzyme
+0.76	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	A76 addition, pH and temperature not specified in the publication, mutant enzyme P295SA
+0.83	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	A76 addition, pH and temperature not specified in the publication, mutant enzyme P295A
+1.4	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N	37			pH not specified in the publication, 37C, diphosphorolysis reaction with substrate tRNA-A76
+1.83	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N			X	C75 addition, pH and temperature not specified in the publication, mutant enzyme P295SA
+1.9	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N	37			pH not specified in the publication, 37C, diphosphorolysis reaction with substrate tRNA-C75
+2.46	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N			X	C75 addition, pH and temperature not specified in the publication, mutant enzyme P295G
+2.48	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N			X	C75 addition, pH and temperature not specified in the publication, mutant enzyme P295A
+2.55	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	A76 addition, pH and temperature not specified in the publication, mutant enzyme P295G
+2.55	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N			X	C74 addition, pH and temperature not specified in the publication, mutant enzyme P295SA
+2.56	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				A76 addition, pH and temperature not specified in the publication, wild-type enzyme
+2.72	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	A76 addition, pH and temperature not specified in the publication, mutant enzyme P295T
+2.93	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N			X	C75 addition, pH and temperature not specified in the publication, mutant enzyme P295T
+3.1	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N	37			pH not specified in the publication, 37C, diphosphorolysis reaction with substrate tRNA-C74
+3.21	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N				C75 addition, pH and temperature not specified in the publication, wild-type enzyme
+3.43	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N			X	C74 addition, pH and temperature not specified in the publication, mutant enzyme P295G
+3.53	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N			X	C74 addition, pH and temperature not specified in the publication, mutant enzyme P295A
+3.68	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N				C74 addition, pH and temperature not specified in the publication, wild-type enzyme
+3.8	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N			X	C74 addition, pH and temperature not specified in the publication, mutant enzyme P295T

@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.13	N-acetyl-S-(1,2-dichlorovinyl)-L-cysteine	24961	LPPJGTSPIBSYQO-YFKPBYRVSA-N				pH and temperature not specified in the publication, absence of Co2+
+0.27	4-hydroxy-2-nonenal mercapturate	127240	RMPMZCPVBQOHTK-UHFFFAOYSA-N				pH and temperature not specified in the publication, absence of Co2+
+0.28	N-acetyl-L-tyrosine	1368	CAHKINHBCWCHCF-JTQLQIEISA-N				pH and temperature not specified in the publication, absence of Co2+
+0.4	acrolein mercapturate	127241	OOMVCGSUXLINOO-UHFFFAOYSA-N				pH and temperature not specified in the publication, absence of Co2+
+1.09	N-acetyl-S-(1,2-dichlorovinyl)-L-cysteine	24961	LPPJGTSPIBSYQO-YFKPBYRVSA-N				pH and temperature not specified in the publication, presence of Co2+
+1.67	4-hydroxy-2-nonenal mercapturate	127240	RMPMZCPVBQOHTK-UHFFFAOYSA-N				pH and temperature not specified in the publication, presence of Co2+
+2.28	N-acetyl-L-tyrosine	1368	CAHKINHBCWCHCF-JTQLQIEISA-N				pH and temperature not specified in the publication, presence of Co2+
+3.03	acrolein mercapturate	127241	OOMVCGSUXLINOO-UHFFFAOYSA-N				pH and temperature not specified in the publication, presence of Co2+

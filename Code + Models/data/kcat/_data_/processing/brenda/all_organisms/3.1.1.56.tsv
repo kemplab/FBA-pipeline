@@ -1,0 +1,39 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0032	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N			X	mutant M162H
+0.04	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N			X	mutant M162H/C60S/W197I
+0.078	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N			X	mutant C60S
+0.198	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N				wild-type
+0.43	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N			X	mutant C60R/W197I
+1.23	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N			X	mutant C60K/W197I
+1.65	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N			X	mutant C60Q/W197I
+1.917	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N			X	mutant W197I
+1.97	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N			X	mutant C60S/W197I
+3.63	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N			X	mutant C60H/W197I
+0.0055	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N			X	mutant L58F/W197I, Lineweaver-Burke extrapolation
+0.0283	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N			X	mutant M162H/C60S/W197I
+0.1	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N			X	mutant M162H
+0.317	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N			X	mutant C60R/W197I
+0.525	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N			X	mutant C60Q/W197I
+0.763	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N			X	mutant C60S/W197I
+0.972	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N			X	mutant C60K/W197I
+1.05	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N			X	mutant W197I
+1.5	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N			X	mutant C60H/W197I
+1.53	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N			X	mutant C60S
+1.583	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N			X	mutant C60S, after removal of beta-mercaptoethanol
+1.783	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N				wild-type
+50	S-Lactoylglutathione	1117	VDYDCVUWILIYQF-RRQHEKLDSA-N			X	mutant C60S/W197I
+116.7	S-Lactoylglutathione	1117	VDYDCVUWILIYQF-RRQHEKLDSA-N			X	mutant W197I
+0.0067	Diethyl p-nitrophenyl phosphate	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	22			phosphorylation rate, wild-type, 22C
+0.1	Diethyl p-nitrophenyl phosphate	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	22		X	phosphorylation rate, mutant W197H, 22C
+0.187	Diethyl p-nitrophenyl phosphate	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	22		X	phosphorylation rate, mutant W197I, 22C
+0.317	Diethyl p-nitrophenyl phosphate	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	22		X	phosphorylation rate, double mutant W197I/C60Q, 22C
+0.333	Diethyl p-nitrophenyl phosphate	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	22		X	phosphorylation rate, double mutant W197I/C60H, 22C
+0.733	Diethyl p-nitrophenyl phosphate	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	22		X	phosphorylation rate, double mutant W197I/C60R, 22C
+0.767	Diethyl p-nitrophenyl phosphate	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	22		X	phosphorylation rate, double mutant W197I/C60K, 22C
+0.00483	dimethyl p-nitrophenyl phosphate	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	22			phosphorylation rate, wild-type, 22C
+0.217	dimethyl p-nitrophenyl phosphate	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	22		X	phosphorylation rate, mutant M162H, 22C
+0.24	dimethyl p-nitrophenyl phosphate	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	22		X	phosphorylation rate, double mutant W197I/C60Q, 22C
+0.417	dimethyl p-nitrophenyl phosphate	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	22		X	phosphorylation rate, mutant W197I, 22C
+0.53	dimethyl p-nitrophenyl phosphate	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	22		X	phosphorylation rate, double mutant W197I/C60H, 22C
+0.637	dimethyl p-nitrophenyl phosphate	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	22		X	phosphorylation rate, double mutant W197I/C60K, 22C
+0.8	dimethyl p-nitrophenyl phosphate	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	22		X	phosphorylation rate, double mutant W197I/C60R, 22C

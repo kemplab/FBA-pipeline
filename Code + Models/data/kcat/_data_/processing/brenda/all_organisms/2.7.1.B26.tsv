@@ -1,0 +1,31 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.35	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant H82A, pH 7.5, 37C
+0.57	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant H123A, pH 7.5, 37C
+0.66	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant H78A, pH 7.5, 37C
+1.76	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		wild-type, pH 7.5, 37C
+3.75	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant H188A, pH 7.5, 37C
+0.125	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	7.5		pH 7.5, 37C
+0.35	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	7.5	X	mutant H82A, pH 7.5, 37C
+0.49	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	7.5	X	mutant H123A, pH 7.5, 37C
+0.67	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	7.5	X	mutant H78A, pH 7.5, 37C
+1.76	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N				pH not specified in the publication, temperature not specified in the publication
+1.79	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	7.5		wild-type, pH 7.5, 37C
+3.36	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	37	7.5	X	mutant H188A, pH 7.5, 37C
+0.12	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+0.5	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N	37	7.5	X	mutant H82A, pH 7.5, 37C
+0.87	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N	37	7.5	X	mutant H123A, pH 7.5, 37C
+1.74	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N	37	7.5	X	mutant H78A, pH 7.5, 37C
+2.04	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N	37	7.5	X	mutant H188A, pH 7.5, 37C
+2.46	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N	37	7.5		wild-type, pH 7.5, 37C
+2	neamine	1335	SYJXFKPQNSDJLI-HKEUSBCWSA-N				pH not specified in the publication, temperature not specified in the publication
+0.122	neomycin B	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N	37	7.5		pH 7.5, 37C
+0.69	neomycin B	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N	37	7.5	X	mutant H82A, pH 7.5, 37C
+0.83	neomycin B	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N	37	7.5	X	mutant H123A, pH 7.5, 37C
+1.2	neomycin B	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N	37	7.5	X	mutant H188A, pH 7.5, 37C
+2.08	neomycin B	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N	37	7.5		wild-type, pH 7.5, 37C
+2.46	neomycin B	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N	37	7.5	X	mutant H78A, pH 7.5, 37C
+0.07	kanamycin B	2210	SKKLOUVUUNMCJE-FQSMHNGLSA-N	37	7.5		pH 7.5, 37C
+1.03	1-deaminoneamine	122440	ZSEYCIAHXHSNLA-OQNAIQLDSA-N				pH not specified in the publication, temperature not specified in the publication
+1.16	3-deaminoneamine	127202	DBSJDDVDEXIZHS-QMRWEYQWSA-N				pH not specified in the publication, temperature not specified in the publication
+0.39	2'-deaminoneamine	127203	OQVRFNYQYCCLQO-BRVRUOOLSA-N				pH not specified in the publication, temperature not specified in the publication
+0.278	6'-deaminoneamine	127204	JSMXXNWNPVCCBZ-ADGZVVDPSA-N				pH not specified in the publication, temperature not specified in the publication

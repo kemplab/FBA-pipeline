@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+167	trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N				
+199	trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	37	5.5		at 37C in sodium maleate buffer (75 mM, pH 5.5)
+662	trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	35	6.6		recombinant enzyme, in 50 mM sodium phosphate buffer, pH 6.6, with 0.01% Triton X-100, at 35C
+0.00045	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	30	7.0	X	mutant R222A/R287A, pH 7.0, 30C
+0.0005	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	30	7.0	X	mutant E520A, pH 7.0, 30C
+0.0009	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	30	7.0	X	mutant R287A, pH 7.0, 30C
+0.12	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	30	7.0	X	mutant R169A, pH 7.0, 30C
+0.18	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	30	7.0	X	mutant D322A, pH 7.0, 30C
+0.3	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	30	7.0	X	mutant R222A, pH 7.0, 30C
+0.67	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N				
+0.91	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N				
+0.94	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N				
+0.99	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N				
+1.02	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N				
+730	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	30	7.0		wild-type, pH 7.0, 30C

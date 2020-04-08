@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.14	6-amino-hexanoate cyclic dimer	4005	HERSSAVMHCMYSQ-UHFFFAOYSA-N	30	7.0	X	mutant C316D, pH 7.0, 30C
+0.71	6-amino-hexanoate cyclic dimer	4005	HERSSAVMHCMYSQ-UHFFFAOYSA-N	30	7.0	X	mutant C316A, pH 7.0, 30C
+1.12	6-amino-hexanoate cyclic dimer	4005	HERSSAVMHCMYSQ-UHFFFAOYSA-N	30	7.0	X	mutant N125A, pH 7.0, 30C
+4.83	6-amino-hexanoate cyclic dimer	4005	HERSSAVMHCMYSQ-UHFFFAOYSA-N	30	7.0	X	mutant C316S, pH 7.0, 30C
+4.97	6-amino-hexanoate cyclic dimer	4005	HERSSAVMHCMYSQ-UHFFFAOYSA-N	30	7.0		wild-type, pH 7.0, 30C
+9.15	6-amino-hexanoate cyclic dimer	4005	HERSSAVMHCMYSQ-UHFFFAOYSA-N	30	7.0	X	mutant C316G, pH 7.0, 30C
+8	1,8-Diazacyclotetradecane-2,9-dione	4005	HERSSAVMHCMYSQ-UHFFFAOYSA-N				
+10.7	1,8-Diazacyclotetradecane-2,9-dione	4005	HERSSAVMHCMYSQ-UHFFFAOYSA-N				

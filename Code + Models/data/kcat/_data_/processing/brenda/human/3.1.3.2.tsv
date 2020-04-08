@@ -1,0 +1,27 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+119	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+73	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N				
+79	UDP	24	XCCTYIAWTASOJW-XVFCMESISA-N				
+113	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N				
+86	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N				
+93	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N				
+119	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N				
+14.1	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.4		pH 5.4-5.6, 37C, recombinant enzyme
+21	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		3.8	X	pH 3.8, recombinant mutant H92A
+23.8	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	6.2		pH 6.2-6.4, 37C, trypsin-cleaved recombinant enzyme, in presence of L-ascorbate
+26.4	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	6.2		pH 6.2-6.4, 37C, trypsin-cleaved recombinant enzyme
+30.4	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.4		pH 5.4-5.6, 37C, recombinant enzyme, in presence of 2-mercaptoethanol
+38.2	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	6.2		pH 6.2-6.4, 37C, recombinant enzyme, in presence of L-ascorbate
+88.6	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	6.2		pH 6.2-6.4, 37C, trypsin-cleaved recombinant enzyme, in presence of L-ascorbate
+200.4	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	6.2		pH 6.2-6.4, 37C, trypsin-cleaved recombinant enzyme, in presence of 2-mercaptoethanol
+240	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		5.5		pH 5.5, recombinant wild-type enzyme
+760	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		4.4	X	pH 4.4, recombinant mutant H92N
+198	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N				
+58	CDP	188	ZWIADYZPOWUWEW-XVFCMESISA-N				
+107	TTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N				
+69	TDP	449	UJLXYODCHAELLY-XLPZGREQSA-N				
+62	Phenyl phosphate	1164	CMPQUABWPXYYSH-UHFFFAOYSA-N				
+121	4-methylumbelliferyl phosphate	3018	BCHIXGBGRHLSBE-UHFFFAOYSA-N				
+53	Alpha-naphthyl phosphate	1779	YNXICDMQCQPQEW-UHFFFAOYSA-N				
+109	Phenolphthalein diphosphate	7231	WMDDNKROYKCDJC-UHFFFAOYSA-N				
+2	phosphoenolpyruvic acid	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				

@@ -1,0 +1,24 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0121	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme R112D
+0.0149	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme R140A
+0.0157	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme R134A
+0.016	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme P165A
+0.0161	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme R112A
+0.0229	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme T108A
+0.029	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme N11A
+0.0314	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme K197A/N200A/E202A/K204A/K205A
+0.0318	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme M196A
+0.032	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme F163A
+0.033	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme N101A
+0.0341	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme N192A
+0.038	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme K133A
+0.048	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme E128A
+0.0522	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme K197A
+0.054	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme K166A; pH 7.5, 25C, mutant enzyme K168A
+0.0648	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme K204A
+0.0649	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme K205A
+0.0655	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5		pH 7.5, 25C, wild-type enzyme
+0.066	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5		pH 7.5, 25C, wild-type enzyme
+0.0688	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme N200A
+0.0735	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme E202A
+0.0775	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme K209A

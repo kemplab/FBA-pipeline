@@ -1,0 +1,40 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.07	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	5	X	pH 5, 30C, mutant enzyme F310A/F320Q
+0.09	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	10	X	pH 10, 30C, mutant enzyme F310A/F320Q; pH 5, 30C, wild-type enzyme
+0.13	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7		pH 7, 30C, wild-type enzyme
+0.16	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	10		pH 10, 30C, wild-type enzyme
+0.34	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7	X	pH 7, 30C, mutant enzyme F310A/F320Q
+76	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	5.5		pH 5.5, 25C
+367	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	7.0		at pH 7.0 in sodium phosphate/citrate buffer, at 25C
+367	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	7.0		in sodium citrate buffer, pH 7.0, at 25C
+471	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	7.0		in the presence of 5 mM benzyl alcohol, in sodium phosphate-citrate buffer at pH 7.0 and 25C
+62	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	25	5.5		pH 5.5, 25C
+176	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	25	7.0		in sodium phosphate-citrate buffer at pH 7.0 and 25C
+269	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	25	7.0		at pH 7.0 in sodium phosphate/citrate buffer, at 25C
+269	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	25	7.0		in sodium citrate buffer, pH 7.0, at 25C
+2	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	4.5		in sodium phosphate-citrate buffer at pH 4.5 and 25C
+70	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	5.5		pH 5.5, 25C
+108	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	7.0		at pH 7.0 in sodium phosphate/citrate buffer, at 25C
+108	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	7.0		in sodium citrate buffer, pH 7.0, at 25C
+34	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	25	7.0		in sodium phosphate-citrate buffer at pH 7.0 and 25C
+49	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	25	5.5		pH 5.5, 25C
+85	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	25	7.0		at pH 7.0 in sodium phosphate/citrate buffer, at 25C
+85	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	25	7.0		in sodium citrate buffer, pH 7.0, at 25C
+8	Benzene	1307	UHOVQNZJYSORNB-UHFFFAOYSA-N		7.0		pH 7.0, temperature not specified in the publication
+15	Naphthalene	1362	UFWIBTONFRDIAS-UHFFFAOYSA-N	25	7.0		in sodium phosphate-citrate buffer at pH 7.0 and 25C
+33	Naphthalene	1362	UFWIBTONFRDIAS-UHFFFAOYSA-N	25	5.5		pH 5.5, 25C
+166	Naphthalene	1362	UFWIBTONFRDIAS-UHFFFAOYSA-N	25	7.0		in potassium phosphate buffer, pH 7.0, at 25C
+166	Naphthalene	1362	UFWIBTONFRDIAS-UHFFFAOYSA-N	22	5.6		pH 5.6, 22C
+0.21	Pyridine	1509	JUJWROOIHBZHMG-UHFFFAOYSA-N		7.0		in 10 mM phosphate buffer (pH 7.0), temperature not specified in the publication
+0.21	Pyridine	1509	JUJWROOIHBZHMG-UHFFFAOYSA-N	22	5.6		pH 5.6, 22C
+33	tetrahydrofuran	1995	WYURNTSHIVDZCO-UHFFFAOYSA-N	23	7.0		in potassium phosphate buffer (50 mM, pH 7.0), at 23C
+410	ethylbenzene	2326	YNQLUTRBYVCPMQ-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication
+37	Cyclohexane	2827	XDTMQSROBMDMFD-UHFFFAOYSA-N	22	5.6		pH 5.6, 22C
+194	propylbenzene	7472	ODLMAHJVESYWTB-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication
+123	2,2'-azinobis-(3-ethylbenzothiazoline-6-sulfonate)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	4.5		in sodium phosphate-citrate buffer at pH 4.5 and 25C
+283	2,2'-azinobis-(3-ethylbenzothiazoline-6-sulfonate)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	4.5		at pH 4.5 in sodium phosphate/citrate buffer, in the presence of 5 mM benzyl alcohol, at 25C
+25	2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	4.5		pH 4.5, 25C
+283	2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	4.5		in sodium citrate buffer, pH 4.5, at 25C
+720	methyl 3,4-dimethoxybenzyl ether	19204	YXXOJIJNHQBMMD-UHFFFAOYSA-N	23	7.0		in potassium phosphate buffer (50 mM, pH 7.0), at 23C
+1257	2-methyl-2-butene	118825	BKOOMYPCSUNDGP-UHFFFAOYSA-N	22	5.6		pH 5.6, 22C
+720	1,2-dimethoxy-4-(methoxymethyl)benzene	19204	YXXOJIJNHQBMMD-UHFFFAOYSA-N	22	5.6		pH 5.6, 22C

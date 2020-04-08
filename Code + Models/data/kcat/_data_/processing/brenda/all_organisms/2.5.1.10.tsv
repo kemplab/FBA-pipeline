@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.2	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	37	7.9		pH 7.9, 37C
+0.49	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.9		pH 7.9, 37C
+5.73	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N	30	7.5		at pH 7.5% and 30C
+6	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	30	7.5		with dimethylallyl diphosphate as cosubstrate, at pH 7.5% and 30C
+33.5	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	30	7.5		with geranyl diphosphate as cosubstrate, at pH 7.5% and 30C
+43.5	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	30	7.5		at pH 7.5% and 30C

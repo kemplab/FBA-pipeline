@@ -1,0 +1,116 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.46	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				2,6-dichlorophenol indophenol used as electron acceptor
+2.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				O2 used as electron acceptor
+5.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	8.0	X	mutant enzyme W351F, at 37C and pH 8.0
+6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	8.0	X	mutant enzyme A38V/S388N, at pH 8.0 and 37C
+6.3	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C
+7.5	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	8.0		wild type enzyme, at 37C and pH 8.0
+10.4	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	8.0	X	mutant enzyme A38V, at pH 8.0 and 37C
+10.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	8.0	X	mutant enzyme Y300N, at 37C and pH 8.0
+13.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	8.0	X	mutant enzyme Y300A, at 37C and pH 8.0
+13.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	8.0	X	mutant enzyme Y300A, at pH 8.0 and 37C
+0.25	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N				2,6-dichlorophenol indophenol used as electron acceptor
+1.5	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N				O2 used as electron acceptor
+6.6	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	37	8.0	X	mutant enzyme W351F, at 37C and pH 8.0
+7.2	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	37	8.0		wild type enzyme, at 37C and pH 8.0
+11.8	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	37	8.0	X	mutant enzyme Y300N, at 37C and pH 8.0
+13.3	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	37	8.0	X	mutant enzyme Y300A, at 37C and pH 8.0
+0.22	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N			X	H70A mutant protein
+0.58	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N			X	C130A mutant protein
+5.7	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	37	8.0	X	mutant enzyme W351F, at 37C and pH 8.0
+6.2	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	37	8.0	X	mutant enzyme A38V/S388N, at pH 8.0 and 37C
+6.3	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	37	8.0		wild type enzyme, at 37C and pH 8.0
+7	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C
+7.4	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				2,6-dichlorophenol indophenol used as electron acceptor
+9	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				O2 used as electron acceptor
+11.4	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	37	8.0	X	mutant enzyme Y300N, at 37C and pH 8.0
+11.9	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				wild type protein
+12	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	37	8.0	X	mutant enzyme A38V, at pH 8.0 and 37C
+13.7	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	37	8.0	X	mutant enzyme Y300A, at 37C and pH 8.0
+13.7	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	37	8.0	X	mutant enzyme Y300A, at pH 8.0 and 37C
+0.76	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N				2,6-dichlorophenol indophenol used as electron acceptor
+2	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N				O2 used as electron acceptor
+5.4	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	37	8.0	X	mutant enzyme W351F, at 37C and pH 8.0
+6	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	37	8.0		wild type enzyme, at 37C and pH 8.0
+10.4	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	37	8.0	X	mutant enzyme Y300A, at 37C and pH 8.0; mutant enzyme Y300N, at 37C and pH 8.0
+4.4	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				2,6-dichlorophenol indophenol used as electron acceptor
+6.3	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				O2 used as electron acceptor
+0.58	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N				2,6-dichlorophenol indophenol used as electron acceptor
+1.7	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N				O2 used as electron acceptor
+4.6	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	37	8.0	X	mutant enzyme W351F, at 37C and pH 8.0
+5.3	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	37	8.0		wild type enzyme, at 37C and pH 8.0
+5.5	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	37	8.0	X	mutant enzyme A38V/S388N, at pH 8.0 and 37C
+7.4	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C
+11.3	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	37	8.0	X	mutant enzyme Y300A, at 37C and pH 8.0
+11.3	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	37	8.0	X	mutant enzyme Y300A, at pH 8.0 and 37C
+11.7	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	37	8.0	X	mutant enzyme Y300N, at 37C and pH 8.0
+12.4	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	37	8.0	X	mutant enzyme A38V, at pH 8.0 and 37C
+2.2	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N				2,6-dichlorophenol indophenol used as electron acceptor
+2.3	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N				O2 used as electron acceptor
+0.73	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N				O2 used as electron acceptor
+1.1	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N				2,6-dichlorophenol indophenol used as electron acceptor
+2.3	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N				O2 used as electron acceptor
+2.6	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N				2,6-dichlorophenol indophenol used as electron acceptor
+0.9	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N				2,6-dichlorophenol indophenol used as electron acceptor
+1.8	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N				O2 used as electron acceptor
+7.8	N-acetyl-D-glucosamine	257	OVRNDRQMDRJTHS-RTRLPJTCSA-N	37	8.0	X	mutant enzyme W351F, at 37C and pH 8.0
+8.1	N-acetyl-D-glucosamine	257	OVRNDRQMDRJTHS-RTRLPJTCSA-N	37	8.0		wild type enzyme, at 37C and pH 8.0
+11.3	N-acetyl-D-glucosamine	257	OVRNDRQMDRJTHS-RTRLPJTCSA-N	37	8.0	X	mutant enzyme Y300N, at 37C and pH 8.0
+12.8	N-acetyl-D-glucosamine	257	OVRNDRQMDRJTHS-RTRLPJTCSA-N	37	8.0	X	mutant enzyme Y300A, at 37C and pH 8.0
+0.35	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N				2,6-dichlorophenol indophenol used as electron acceptor
+0.57	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N				O2 used as electron acceptor
+1.5	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N				2,6-dichlorophenol indophenol used as electron acceptor
+5.3	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	37	8.0	X	mutant enzyme W351F, at 37C and pH 8.0
+6	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	37	8.0		wild type enzyme, at 37C and pH 8.0
+6.9	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C
+7.3	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	37	8.0	X	mutant enzyme A38V/S388N, at pH 8.0 and 37C
+7.5	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N				O2 used as electron acceptor
+10	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	37	8.0	X	mutant enzyme Y300N, at 37C and pH 8.0
+11.2	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	37	8.0	X	mutant enzyme Y300A, at 37C and pH 8.0
+11.2	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	37	8.0	X	mutant enzyme Y300A, at pH 8.0 and 37C
+13.7	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	37	8.0	X	mutant enzyme A38V, at pH 8.0 and 37C
+3	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N				2,6-dichlorophenol indophenol used as electron acceptor
+3.3	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N				O2 used as electron acceptor
+7.5	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N	37	8.0	X	mutant enzyme A38V/S388N, at pH 8.0 and 37C
+8	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N	37	8.0	X	mutant enzyme W351F, at 37C and pH 8.0
+8.7	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C
+8.8	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N	37	8.0		wild type enzyme, at 37C and pH 8.0
+12	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N	37	8.0	X	mutant enzyme Y300N, at 37C and pH 8.0
+13.3	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N	37	8.0	X	mutant enzyme Y300A, at 37C and pH 8.0
+13.3	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N	37	8.0	X	mutant enzyme Y300A, at pH 8.0 and 37C
+14.8	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N	37	8.0	X	mutant enzyme A38V, at pH 8.0 and 37C
+1.4	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N				2,6-dichlorophenol indophenol used as electron acceptor
+4.17	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C
+7.8	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N	37	8.0	X	mutant enzyme A38V/S388N, at pH 8.0 and 37C
+9.9	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C
+11	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N				O2 used as electron acceptor
+12.8	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N	37	8.0	X	mutant enzyme A38V, at pH 8.0 and 37C
+1.1	Cellopentaose	618	FTNIPWXXIGNQQF-FFFJRYSISA-N				2,6-dichlorophenol indophenol used as electron acceptor
+7.6	Cellopentaose	618	FTNIPWXXIGNQQF-FFFJRYSISA-N	37	8.0	X	mutant enzyme A38V/S388N, at pH 8.0 and 37C
+8.3	Cellopentaose	618	FTNIPWXXIGNQQF-FFFJRYSISA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C
+9	Cellopentaose	618	FTNIPWXXIGNQQF-FFFJRYSISA-N				O2 used as electron acceptor
+12.7	Cellopentaose	618	FTNIPWXXIGNQQF-FFFJRYSISA-N	37	8.0	X	mutant enzyme A38V, at pH 8.0 and 37C
+7.9	xylotriose	773	JCSJTDYCNQHPRJ-MMDFAQQLSA-N	37	8.0	X	mutant enzyme W351F, at 37C and pH 8.0
+8.3	xylotriose	773	JCSJTDYCNQHPRJ-MMDFAQQLSA-N	37	8.0		wild type enzyme, at 37C and pH 8.0
+8.7	xylotriose	773	JCSJTDYCNQHPRJ-MMDFAQQLSA-N	37	8.0	X	mutant enzyme A38V/S388N, at pH 8.0 and 37C
+10.3	xylotriose	773	JCSJTDYCNQHPRJ-MMDFAQQLSA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C
+12	xylotriose	773	JCSJTDYCNQHPRJ-MMDFAQQLSA-N	37	8.0	X	mutant enzyme Y300N, at 37C and pH 8.0
+13.9	xylotriose	773	JCSJTDYCNQHPRJ-MMDFAQQLSA-N	37	8.0	X	mutant enzyme Y300A, at 37C and pH 8.0
+13.9	xylotriose	773	JCSJTDYCNQHPRJ-MMDFAQQLSA-N	37	8.0	X	mutant enzyme Y300A, at pH 8.0 and 37C
+14.5	xylotriose	773	JCSJTDYCNQHPRJ-MMDFAQQLSA-N	37	8.0	X	mutant enzyme A38V, at pH 8.0 and 37C
+8.1	xylotetraose	1047	KPTPSLHFVHXOBZ-SVRBUABSSA-N	37	8.0	X	mutant enzyme A38V/S388N, at pH 8.0 and 37C
+9.7	xylotetraose	1047	KPTPSLHFVHXOBZ-SVRBUABSSA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C
+16	xylotetraose	1047	KPTPSLHFVHXOBZ-SVRBUABSSA-N	37	8.0	X	mutant enzyme A38V, at pH 8.0 and 37C
+0.45	6-deoxy-D-glucose	1151	SHZGCJCMOBCMKK-VFUOTHLCSA-N				O2 used as electron acceptor
+0.81	6-deoxy-D-glucose	1151	SHZGCJCMOBCMKK-VFUOTHLCSA-N				2,6-dichlorophenol indophenol used as electron acceptor
+1.1	cellohexaose	1209	OCIBBXPLUVYKCH-FYTDUCIRSA-N				2,6-dichlorophenol indophenol used as electron acceptor
+6.6	cellohexaose	1209	OCIBBXPLUVYKCH-FYTDUCIRSA-N	37	8.0	X	mutant enzyme A38V/S388N, at pH 8.0 and 37C
+7.2	cellohexaose	1209	OCIBBXPLUVYKCH-FYTDUCIRSA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C
+10	cellohexaose	1209	OCIBBXPLUVYKCH-FYTDUCIRSA-N				O2 used as electron acceptor
+13.2	cellohexaose	1209	OCIBBXPLUVYKCH-FYTDUCIRSA-N	37	8.0	X	mutant enzyme A38V, at pH 8.0 and 37C
+8.8	xylopentaose	1778	LFFQNKFIEIYIKL-KUFDKHFESA-N	37	8.0	X	mutant enzyme A38V/S388N, at pH 8.0 and 37C
+10.4	xylopentaose	1778	LFFQNKFIEIYIKL-KUFDKHFESA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C
+15.2	xylopentaose	1778	LFFQNKFIEIYIKL-KUFDKHFESA-N	37	8.0	X	mutant enzyme A38V, at pH 8.0 and 37C
+7.8	xylohexaose	2232	FTTUBRHJNAGMKL-RJIDMKNSSA-N	37	8.0	X	mutant enzyme A38V/S388N, at pH 8.0 and 37C
+8.6	xylohexaose	2232	FTTUBRHJNAGMKL-RJIDMKNSSA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C
+15.2	xylohexaose	2232	FTTUBRHJNAGMKL-RJIDMKNSSA-N	37	8.0	X	mutant enzyme A38V, at pH 8.0 and 37C

@@ -1,0 +1,30 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	7.0	X	mutant enzyme D329A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25C
+5.1	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	7.0	X	mutant enzyme H212A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25C
+7.3	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	mutant enzyme H212A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25C
+9.3	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	mutant enzyme D329A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25C
+13	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0	X	mutant enzyme H212A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25C
+15.4	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0	X	mutant enzyme D329A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25C
+22.5	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0	X	mutant enzyme R324A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25C
+25	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	mutant enzyme R324A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25C
+43	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	7.0	X	mutant enzyme R324A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25C
+47	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	mutant enzyme Q118D, in 50 mM triethanolamine buffer, pH 7.0, at 25C
+73	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0	X	mutant enzyme Q118D, in 50 mM triethanolamine buffer, pH 7.0, at 25C
+120	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	7.0	X	mutant enzyme Q118A, in 50 mM triethanolamine buffer, pH 7.0, at 25C
+122	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	7.0	X	mutant enzyme Q118D, in 50 mM triethanolamine buffer, pH 7.0, at 25C
+173	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	mutant enzyme Q118A, in 50 mM triethanolamine buffer, pH 7.0, at 25C
+272	2-oxovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	25	7.0		wild type enzyme, in 50 mM triethanolamine buffer, pH 7.0, at 25C
+283	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0	X	mutant enzyme Q118A, in 50 mM triethanolamine buffer, pH 7.0, at 25C
+410	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	mutant enzyme C148S, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25C
+422	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	mutant enzyme C148A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25C
+444	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	7.0	X	mutant enzyme C148A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25C
+446	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	7.0	X	mutant enzyme C148S, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25C
+499	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0	X	mutant enzyme C148A, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25C
+511	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0	X	mutant enzyme C148S, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25C
+526	2-oxobutanoate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	25	7.0		wild type enzyme, in 50 mM triethanolamine buffer, pH 7.0, at 25C
+640	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	7.0		wild type recombinant enzyme, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25C
+640	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	7.0		wild type enzyme, in 50 mM triethanolamine buffer, pH 7.0, at 25C
+652	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0		wild type recombinant enzyme, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25C
+652	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0		wild type enzyme, in 50 mM triethanolamine buffer, pH 7.0, at 25C
+775	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0		wild type recombinant enzyme, in 50 mM triethanolamine hydrochloride buffer pH 7.0, at 25C
+775	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0		wild type enzyme, in 50 mM triethanolamine buffer, pH 7.0, at 25C

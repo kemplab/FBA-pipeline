@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0048	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	50		X	D433A mutant; mutant enzyme D433A, at 50C
+0.31	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N			X	R185A mutant
+0.351	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	50		X	mutant enzyme R185A, at 50C
+0.45	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	6.5		pH 6.5, 30C; pH 7.0, 30C
+0.45	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	6.5		pH 6.5, 30C
+1.98	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	50		X	D17A mutant; mutant enzyme D17A, at 50C
+13	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	50		X	mutant enzyme Q97A, at 50C; Q97A mutant
+16.5	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	6.5		pH 6.5, 30C; pH 7.0, 30C
+23	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5		pH 6.5, 30C
+25.5	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	50		X	mutant enzyme S189A, at 50C; S189A mutant
+27.4	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	50		X	mutant enzyme R191A, at 50C; R191A mutant
+30	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	30	6.5		pH 6.5, 30C; pH 7.0, 30C
+39.3	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	50		X	A71E mutant; mutant enzyme A71E, at 50C
+41	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	50		X	K158A mutant; mutant enzyme K158A, at 50C
+42.5	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	50		X	mutant enzyme R191E, at 50C; R191E mutant
+45.5	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	50			wild type enzyme, at 50C; wild type enzyme, at 50C
+52	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	50	6.5		presence of Mg2+, pH 6.5, 50C
+64.1	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	50		X	mutant enzyme S263A, at 50C; S263A mutant
+65.3	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	50		X	mutant enzyme Q224A, at 50C; Q224A mutant
+67	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	50	6.5		presence of Mn2+, pH 6.5, 50C
+91.1	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	50		X	mutant enzyme N15A, at 50C; N15A mutant
+91.7	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	50		X	mutant enzyme S183E, at 50C; S183E mutant
+98	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	50	6.5		presence of Co2+, pH 6.5, 50C
+151	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	50		X	mutant enzyme N160A, at 50C; N160A mutant

@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+107	methenyltetrahydrofolate	825	MEANFMOQMXYMCT-OLZOCXBDSA-O			X	forward reaction, recombinant mutant S197T
+118	methenyltetrahydrofolate	825	MEANFMOQMXYMCT-OLZOCXBDSA-O			X	forward reaction, recombinant mutant S197A
+123	methenyltetrahydrofolate	825	MEANFMOQMXYMCT-OLZOCXBDSA-O			X	forward reaction, recombinant mutant R173E
+128	methenyltetrahydrofolate	825	MEANFMOQMXYMCT-OLZOCXBDSA-O			X	forward reaction, recombinant mutant R173A
+134	methenyltetrahydrofolate	825	MEANFMOQMXYMCT-OLZOCXBDSA-O				forward reaction, recombinant wild-type enzyme
+141	methenyltetrahydrofolate	825	MEANFMOQMXYMCT-OLZOCXBDSA-O			X	forward reaction, recombinant mutant R173K
+177	methenyltetrahydrofolate	825	MEANFMOQMXYMCT-OLZOCXBDSA-O			X	forward reaction, recombinant mutant S197D
+185	methenyltetrahydrofolate	825	MEANFMOQMXYMCT-OLZOCXBDSA-O			X	forward reaction, recombinant mutant S197R

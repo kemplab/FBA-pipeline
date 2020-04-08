@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.98	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	37	8.8	X	mutant R333G, pH 8.8, 37C
+2.5	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	37	8.8	X	mutant F194L, pH 8.8, 37C
+3.6	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N		8.7		recombinant wild-type, pH 8.7
+5.5	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	37	8.8	X	mutant F194L, pH 8.8, 37C; mutant R333G, pH 8.8, 37C
+9.3	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N		8.7		recombinant wild-type, pH 8.7
+9.3	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	37	8.8	X	mutant D28Y, pH 8.8, 37C
+9.4	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	37	8.8	X	mutant D28Y, pH 8.8, 37C
+13.6	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	37	8.8		wild-type, pH 8.8, 37C
+17.7	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	37	8.8		wild-type, pH 8.8, 37C
+98	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N		8.7		recombinant wild-type, pH 8.7

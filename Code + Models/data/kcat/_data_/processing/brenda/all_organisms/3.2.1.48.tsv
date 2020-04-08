@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+12.34	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N			X	recombinant mutant G444R
+12.49	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N			X	recombinant mutant L414R/G444R
+12.77	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N			X	recombinant mutant G219R/G444R
+21.7	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N				
+60.64	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N			X	recombinant mutant G219R/L4141R
+66.45	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N				recombinant wild-type enzyme
+78.01	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N			X	recombinant mutant L414R
+107	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N			X	recombinant mutant G219R
+137	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	37	6.5		pH 6.5, 37C
+1600	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	90			90C, pH not specified in the publication
+58.8	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N	90			90C, pH not specified in the publication
+97	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N	37	6.5		pH 6.5, 37C
+278	panose	815	OWEGMIWEEQEYGQ-QNHQVNOCSA-N	90			90C, pH not specified in the publication
+21.9	4-nitrophenyl alpha-D-glucopyranoside	994	IFBHRQDFSNCLOZ-ZIQFBCGOSA-N	90			90C, pH not specified in the publication
+17	4-nitrophenyl-alpha-D-glucoside	994	IFBHRQDFSNCLOZ-ZIQFBCGOSA-N	37	6.5		pH 6.5, 37C

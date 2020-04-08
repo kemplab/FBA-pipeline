@@ -1,0 +1,79 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.73	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	10.0		30C, pH 10.0
+2.54	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.5		pH 7.5, 30C
+3.21	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.9		pH 7.9, 25C
+3.66	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	8.5		pH 8.5, 30C
+41	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	10	10.0		10C, pH 10.0
+48.6	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	10.0		20C, pH 10.0
+83.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	10.0		30C, pH 10.0
+139	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	10.0		40C, pH 10.0
+150	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		10.2		pH 10.2
+320	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				recombinant enzyme, pH and temperature not specified in the publication
+385	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	22	9.6		pH 9.6, 22C, recombinant enzyme
+385.6	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		8.0		pH 8.0, temperature not specified in the publication
+2770	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.4		pH 7.4, 30C, native enzyme
+3100	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.4		pH 7.4, 30C, recombinant enzyme
+542	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	8.5		pH 8.5, 30C
+609.5	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	7.8		pH 7.8, 30C
+950	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.5		pH 7.5
+962	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	22	8.0		pH 8.0, 22C, recombinant enzyme
+962.7	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0		pH 8.0, temperature not specified in the publication
+3330	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				recombinant enzyme, pH and temperature not specified in the publication
+7880	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				wild type enzyme
+8440	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant enzyme R214G
+8860	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant enzyme R183A
+90000	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	7.4		pH 7.4, 30C, recombinant enzyme
+110000	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	7.4		pH 7.4, 30C, native enzyme
+2.1	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.0	X	pH 7.0, temperature not specified in the publication, 2 M NaCl, mutant enzyme R100Q
+3.5	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.0	X	pH 7.0, temperature not specified in the publication, 4 M NaCl, mutant enzyme R100Q
+12.3	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.0	X	pH 7.0, temperature not specified in the publication, 0.15 M NaCl, mutant enzyme R100Q
+0.00386	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+0.00483	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+0.3	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N		7.0	X	pH 7.0, temperature not specified in the publication, 4 M NaCl, mutant enzyme R100Q
+0.77	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant R81Q
+1.8	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N				
+2	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N		7.0	X	pH 7.0, temperature not specified in the publication, 2 M NaCl, mutant enzyme R100Q
+2.62	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N				
+6	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N		7.0		pH 7.0, temperature not specified in the publication, 4 M NaCl, wild-type enzyme
+77	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	55	10		pH 10, 55C
+197	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N		7.0		pH 7.0, temperature not specified in the publication, 2 M NaCl, wild-type enzyme
+377	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	22	8.1		pH 8.1, 22C
+516	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	9.5		recombinant enzyme, pH 9.5, 30C
+665	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	22	8.0		pH 8.0, 22C, recombinant enzyme
+665.3	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N		8.0		pH 8.0, temperature not specified in the publication
+870	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	9.5		recombinant enzyme, pH 9.5, 30C
+931	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, recombinant wild-type enzyme
+960	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N		7.5		pH 7.5
+1870	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C
+2437	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N				recombinant enzyme, pH and temperature not specified in the publication
+4553	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	7.8		pH 7.8, 30C
+7500	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N			X	mutant enzyme R214G
+8320	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N			X	mutant enzyme R183A
+8570	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N				wild type enzyme
+81000	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	7.4		pH 7.4, 30C, recombinant enzyme
+91000	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	7.4		pH 7.4, 30C, native enzyme
+121600	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N		7.5		pH 7.5
+4.71	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	8.5		pH 8.5, 30C
+8.4	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	25	7.9		pH 7.9, 25C
+9.91	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.5		pH 7.5, 30C
+18	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	22	8.1		pH 8.1, 22C
+41.3	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	10	10.0		10C, pH 10.0
+47	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	22	9.6		pH 9.6, 22C, recombinant enzyme
+47.4	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		8.0		pH 8.0, temperature not specified in the publication
+48.4	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	20	10.0		20C, pH 10.0
+83.2	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	10.0		30C, pH 10.0
+138	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	40	10.0		40C, pH 10.0
+302	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N				recombinant enzyme, pH and temperature not specified in the publication
+621	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	9.5		recombinant enzyme, pH 9.5, 30C
+1141	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	9.5		recombinant enzyme, pH 9.5, 30C
+76.7	L-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N				
+2900	L-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4		pH 7.4, 30C, native enzyme
+3500	L-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4		pH 7.4, 30C, recombinant enzyme
+250	malate	246	BJEPYKJPYRNKOW-UHFFFAOYSA-N		10.2		pH 10.2
+4729	malate	246	BJEPYKJPYRNKOW-UHFFFAOYSA-N		7.5		pH 7.5
+175	reduced acetylpyridine adenine dinucleotide	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N		10.2		pH 10.2
+1010	acetylpyridine adenine dinucleotide	706	KPVQNXLUPNWQHM-RBEMOOQDSA-O		7.5		pH 7.5
+7280	3-acetylpyridine-adenine dinucleotide	706	KPVQNXLUPNWQHM-RBEMOOQDSA-O			X	mutant enzyme R183A
+7300	3-acetylpyridine-adenine dinucleotide	706	KPVQNXLUPNWQHM-RBEMOOQDSA-O				wild type enzyme
+10050	3-acetylpyridine-adenine dinucleotide	706	KPVQNXLUPNWQHM-RBEMOOQDSA-O			X	mutant enzyme R214G
+674	alpha-ketomalonate	4488	XEEVLJKYYUVTRC-UHFFFAOYSA-N		7.5		pH 7.5

@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+33	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	7.0		recombinant enzyme, pH 7.0, 37C, reverse reaction
+85	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				
+24	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N				
+37	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	37	7.0		recombinant enzyme, pH 7.0, 37C, reverse reaction
+19	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	37	7.0		recombinant enzyme, pH 7.0, 37C, reverse reaction
+2	2-deoxy-D-glucose	443	PMMURAAUARKVCB-KAZBKCHUSA-N				
+3.7	2-deoxy-D-glucose	443	PMMURAAUARKVCB-KAZBKCHUSA-N	37	7.0		recombinant enzyme, pH 7.0, 37C, reverse reaction
+50	L-rhamnose	567	SHZGCJCMOBCMKK-JFNONXLTSA-N	37	7.0		recombinant enzyme, pH 7.0, 37C, reverse reaction
+74	L-rhamnose	567	SHZGCJCMOBCMKK-JFNONXLTSA-N				
+14	L-Lyxose	1235	PYMYPHUHKUWMLA-YUPRTTJUSA-N	37	7.0		recombinant enzyme, pH 7.0, 37C, reverse reaction
+120	L-Lyxose	1235	PYMYPHUHKUWMLA-YUPRTTJUSA-N				
+75	L-Mannose	1561	WQZGKKKJIJFFOK-JFNONXLTSA-N	37	7.0		recombinant enzyme, pH 7.0, 37C, reverse reaction
+170	L-Mannose	1561	WQZGKKKJIJFFOK-JFNONXLTSA-N				
+60	beta-D-galactosyl-(1-&gt;4)-L-rhamnose	10114	VFLUXFSSKVKHEL-OAAPHKSHSA-N	37	7.0		recombinant enzyme, pH 7.0, 37C, forward reaction
+45	D-galactosyl-beta-1,4-L-rhamnose	25786	VFLUXFSSKVKHEL-OFOWUZKSSA-N				

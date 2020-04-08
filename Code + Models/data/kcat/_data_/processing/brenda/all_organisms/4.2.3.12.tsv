@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.01	6-(L-erythro-1,2-dihydroxypropyl 3-triphosphate)-7,8-dihydropterin	2070	DGGUVLXVLHAAGT-XINAWCOVSA-N			X	mutant enzyme P87L
+0.012	6-(L-erythro-1,2-dihydroxypropyl 3-triphosphate)-7,8-dihydropterin	2070	DGGUVLXVLHAAGT-XINAWCOVSA-N	16		X	mutant enzyme R16C
+0.02	6-(L-erythro-1,2-dihydroxypropyl 3-triphosphate)-7,8-dihydropterin	2070	DGGUVLXVLHAAGT-XINAWCOVSA-N			X	mutant enzyme R25Q
+0.032	6-(L-erythro-1,2-dihydroxypropyl 3-triphosphate)-7,8-dihydropterin	2070	DGGUVLXVLHAAGT-XINAWCOVSA-N				wild-type enzyme

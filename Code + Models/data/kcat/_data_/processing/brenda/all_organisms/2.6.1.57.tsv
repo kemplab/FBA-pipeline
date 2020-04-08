@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+225	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	80	7.6		pH 7.6, 80C
+225	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	80	7.6		pH 7.6, 80C
+278	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	37	7.3		pH 7.3, 37C
+500	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	37	7.3		pH 7.3, 37C
+140	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N	25	8.0		pH 8.0, 25C, cosubstrate 2-oxoglutarate
+290	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N	25	8.0		pH 8.0, 25C, single-turnover, wild-type enzyme
+152	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	7.3		pH 7.3, 37C
+250	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	25	8.0		pH 8.0, 25C, cosubstrate 2-oxoglutarate
+253	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	80	7.6		pH 7.6, 80C, cosubstrate 2-oxoglutarate
+253	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	80	7.6		pH 7.6, 80C
+1200	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	25	8.0		pH 8.0, 25C, single-turnover, wild-type enzyme
+72	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	80	7.6		pH 7.6, 80C, cosubstrate 2-oxoglutarate
+72	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	80	7.6		pH 7.6, 80C
+210	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	8.0		pH 8.0, 25C, cosubstrate 2-oxoglutarate
+333	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	37	7.3		pH 7.3, 37C
+500	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	8.0		pH 8.0, 25C, single-turnover, wild-type enzyme
+62	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	80	7.6		pH 7.6, 80C, cosubstrate 2-oxoglutarate
+62	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	80	7.6		pH 7.6, 80C
+160	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	25	8.0		pH 8.0, 25C, cosubstrate 2-oxoglutarate
+250	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	37	7.3		pH 7.3, 37C
+350	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	25	8.0		pH 8.0, 25C, single-turnover, wild-type enzyme

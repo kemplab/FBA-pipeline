@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.05	N-formimidoyl-L-glutamate	1676	NRXIKWMTVXPVEF-BYPYZUCNSA-N	22	8.5	X	mutant enzyme R144E, at pH 8.5 and 22C
+3.2	N-formimidoyl-L-glutamate	1676	NRXIKWMTVXPVEF-BYPYZUCNSA-N	22	8.5	X	mutant enzyme R144A, at pH 8.5 and 22C
+80	N-formimidoyl-L-glutamate	1676	NRXIKWMTVXPVEF-BYPYZUCNSA-N	22	8.5	X	mutant enzyme N114H, at pH 8.5 and 22C
+190	N-formimidoyl-L-glutamate	1676	NRXIKWMTVXPVEF-BYPYZUCNSA-N	22	8.5	X	mutant enzyme R144K, at pH 8.5 and 22C
+200	N-formimidoyl-L-glutamate	1676	NRXIKWMTVXPVEF-BYPYZUCNSA-N	22	8.5		wild type enzyme, at pH 8.5 and 22C

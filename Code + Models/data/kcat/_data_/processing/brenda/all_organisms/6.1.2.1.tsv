@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3.3	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	37	6.0	X	mutant S150A, pH 6.0, 37C
+4.1	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				pH not specified in the publication, temperature not specified in the publication
+4.92	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.6		pH 8.6, 25C
+7.5	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	37	6.0	X	mutant Y216F, pH 6.0, 37C
+10.5	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	37	7.5	X	mutant Y216F, pH 7.5, 37C
+15	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	37	8.3		isoform VanA, pH 8.3, 37C
+15.7	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	37	7.5		isoform VanA, pH 7.5, 37C
+16.3	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	37	7.5	X	mutant S150A, pH 7.5, 37C
+0.023	D-lactate	495	JVTAAEKCZFNVCJ-UWTATZPHSA-N	37	6.0	X	mutant S150A, pH 6.0, 37C
+0.057	D-lactate	495	JVTAAEKCZFNVCJ-UWTATZPHSA-N	37	7.5	X	mutant S150A, pH 7.5, 37C
+0.13	D-lactate	495	JVTAAEKCZFNVCJ-UWTATZPHSA-N	37	6.0	X	mutant Y216F, pH 6.0, 37C
+0.47	D-lactate	495	JVTAAEKCZFNVCJ-UWTATZPHSA-N				pH not specified in the publication, temperature not specified in the publication
+0.65	D-lactate	495	JVTAAEKCZFNVCJ-UWTATZPHSA-N	37	6.0		isoform VanA, pH 6.0, 37C
+0.67	D-lactate	495	JVTAAEKCZFNVCJ-UWTATZPHSA-N	37	7.5		isoform VanA, pH 7.5, 37C
+0.7	D-lactate	495	JVTAAEKCZFNVCJ-UWTATZPHSA-N	37	7.5	X	mutant Y216F, pH 7.5, 37C
+1.17	D-lactate	495	JVTAAEKCZFNVCJ-UWTATZPHSA-N	37	8.3		isoform VanA, pH 8.3, 37C
+1.57	D-lactate	495	JVTAAEKCZFNVCJ-UWTATZPHSA-N	25	8.6		pH 8.6, 25C
+0.42	D-2-hydroxyvalerate	7454	JRHWHSJDIILJAT-SCSAIBSYSA-N				pH not specified in the publication, temperature not specified in the publication
+2.6	D-2-hydroxyvalerate	7454	JRHWHSJDIILJAT-SCSAIBSYSA-N	25	8.6		pH 8.6, 25C
+0.25	D-2-hydroxybutanoate	4151	AFENDNXGAFYKQO-GSVOUGTGSA-N				pH not specified in the publication, temperature not specified in the publication
+1.8	D-2-hydroxybutanoate	4151	AFENDNXGAFYKQO-GSVOUGTGSA-N	25	8.6		pH 8.6, 25C

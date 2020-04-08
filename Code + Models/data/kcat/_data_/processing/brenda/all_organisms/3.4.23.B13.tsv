@@ -1,0 +1,49 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3	Ala-Thr-His-Arg-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4182	ZSUZJTKDNSBKHM-DTDXUIGFSA-N	37	6.0		pH 6.0, 37C
+3	Ala-Thr-His-Arg-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4182	ZSUZJTKDNSBKHM-DTDXUIGFSA-N				wild-type enzyme
+3.1	Ala-Thr-His-Arg-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4182	ZSUZJTKDNSBKHM-DTDXUIGFSA-N				wild-type enzyme
+4	Ala-Thr-His-Arg-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4182	ZSUZJTKDNSBKHM-DTDXUIGFSA-N			X	mutant enzyme A100L/V104T/R105P/G106V/S107N
+4.3	Ala-Thr-His-Arg-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4182	ZSUZJTKDNSBKHM-DTDXUIGFSA-N			X	mutant enzyme A100L/V104T/R105P/G106V/S107N
+11	Ala-Thr-His-Arg-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4182	ZSUZJTKDNSBKHM-DTDXUIGFSA-N			X	mutant enzyme A100L/V104T/R105P/G106V/S107N
+2	Ala-Thr-His-Gln-Ile-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4577	PULRBOFLKFKFTG-IAQWMXADSA-N	37	6.0		pH 6.0, 37C
+2	Ala-Thr-His-Gln-Ile-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4577	PULRBOFLKFKFTG-IAQWMXADSA-N				wild-type enzyme
+2	Ala-Thr-His-Gln-Ile-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4577	PULRBOFLKFKFTG-IAQWMXADSA-N				wild-type enzyme
+3.9	Ala-Thr-His-Gln-Ile-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4577	PULRBOFLKFKFTG-IAQWMXADSA-N			X	mutant enzyme A100L/V104T/R105P/G106V/S107N
+4	Ala-Thr-His-Gln-Ile-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4577	PULRBOFLKFKFTG-IAQWMXADSA-N			X	mutant enzyme A100L/V104T/R105P/G106V/S107N
+0.2	Ala-Thr-His-Gln-Leu-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4578	VQFGKIUXSFPUHM-JNIXVCERSA-N	37	6.0		pH 6.0, 37C
+0.2	Ala-Thr-His-Gln-Leu-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4578	VQFGKIUXSFPUHM-JNIXVCERSA-N				wild-type enzyme
+0.2	Ala-Thr-His-Gln-Leu-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4578	VQFGKIUXSFPUHM-JNIXVCERSA-N				wild-type enzyme
+1.5	Ala-Thr-His-Gln-Leu-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4578	VQFGKIUXSFPUHM-JNIXVCERSA-N			X	mutant enzyme A100L/V104T/R105P/G106V/S107N
+1.5	Ala-Thr-His-Gln-Leu-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4578	VQFGKIUXSFPUHM-JNIXVCERSA-N			X	mutant enzyme A100L/V104T/R105P/G106V/S107N
+4.9	Ala-Thr-His-Gln-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4579	GQEGTPCTWPMWIX-IJYOWEKVSA-N				wild-type enzyme
+5	Ala-Thr-His-Gln-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4579	GQEGTPCTWPMWIX-IJYOWEKVSA-N	37	6.0		pH 6.0, 37C
+5	Ala-Thr-His-Gln-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4579	GQEGTPCTWPMWIX-IJYOWEKVSA-N				wild-type enzyme
+9	Ala-Thr-His-Gln-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4579	GQEGTPCTWPMWIX-IJYOWEKVSA-N			X	mutant enzyme A100L/V104T/R105P/G106V/S107N
+9	Ala-Thr-His-Gln-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4579	GQEGTPCTWPMWIX-IJYOWEKVSA-N			X	mutant enzyme A100L/V104T/R105P/G106V/S107N
+4.7	Ala-Thr-His-Glu-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4580	NCJMIPUOVIJELL-IJYOWEKVSA-N				wild-type enzyme
+5	Ala-Thr-His-Glu-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4580	NCJMIPUOVIJELL-IJYOWEKVSA-N	37	6.0		pH 6.0, 37C
+5	Ala-Thr-His-Glu-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4580	NCJMIPUOVIJELL-IJYOWEKVSA-N			X	mutant enzyme A100L/V104T/R105P/G106V/S107N; wild-type enzyme
+5	Ala-Thr-His-Glu-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4580	NCJMIPUOVIJELL-IJYOWEKVSA-N			X	mutant enzyme A100L/V104T/R105P/G106V/S107N
+1	Ala-Thr-His-Asp-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	5034	BYLJIXWIHCEKCT-JMKMKNFSSA-N	37	6.0		pH 6.0, 37C
+1	Ala-Thr-His-Asp-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	5034	BYLJIXWIHCEKCT-JMKMKNFSSA-N				wild-type enzyme
+1.4	Ala-Thr-His-Asp-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	5034	BYLJIXWIHCEKCT-JMKMKNFSSA-N				wild-type enzyme
+11	Ala-Thr-His-Asp-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	5034	BYLJIXWIHCEKCT-JMKMKNFSSA-N			X	mutant enzyme A100L/V104T/R105P/G106V/S107N
+3	Ala-Thr-His-Gln-Val-Phe-Phe(NO2)-Val-Arg-Lys-Ala	5035	IRJQCYVILNWTFL-HWUJDFICSA-N	37	6.0		pH 6.0, 37C
+3	Ala-Thr-His-Gln-Val-Phe-Phe(NO2)-Val-Arg-Lys-Ala	5035	IRJQCYVILNWTFL-HWUJDFICSA-N				wild-type enzyme
+3.2	Ala-Thr-His-Gln-Val-Phe-Phe(NO2)-Val-Arg-Lys-Ala	5035	IRJQCYVILNWTFL-HWUJDFICSA-N			X	mutant enzyme A100L/V104T/R105P/G106V/S107N
+7	Ala-Thr-His-Gln-Val-Phe-Phe(NO2)-Val-Arg-Lys-Ala	5035	IRJQCYVILNWTFL-HWUJDFICSA-N			X	mutant enzyme A100L/V104T/R105P/G106V/S107N
+7.1	Ala-Thr-His-Gln-Val-Phe-Phe(NO2)-Val-Arg-Lys-Ala	5035	IRJQCYVILNWTFL-HWUJDFICSA-N			X	mutant enzyme A100L/V104T/R105P/G106V/S107N
+6.8	Ala-Thr-His-Tyr-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	5036	RMPBEAVELAQZIU-CIXNTXGOSA-N			X	mutant enzyme A100L/V104T/R105P/G106V/S107N
+7	Ala-Thr-His-Tyr-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	5036	RMPBEAVELAQZIU-CIXNTXGOSA-N			X	mutant enzyme A100L/V104T/R105P/G106V/S107N
+11	Ala-Thr-His-Tyr-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	5036	RMPBEAVELAQZIU-CIXNTXGOSA-N	37	6.0		pH 6.0, 37C
+11	Ala-Thr-His-Tyr-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	5036	RMPBEAVELAQZIU-CIXNTXGOSA-N				wild-type enzyme
+0.5	Ala-Thr-His-Gln-Ala-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	5685	KUZYUGHPPTXVRS-CTNQOGPMSA-N	37	6.0		pH 6.0, 37C
+0.5	Ala-Thr-His-Gln-Ala-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	5685	KUZYUGHPPTXVRS-CTNQOGPMSA-N				wild-type enzyme
+0.5	Ala-Thr-His-Gln-Ala-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	5685	KUZYUGHPPTXVRS-CTNQOGPMSA-N				wild-type enzyme
+2.5	Ala-Thr-His-Gln-Ala-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	5685	KUZYUGHPPTXVRS-CTNQOGPMSA-N			X	mutant enzyme A100L/V104T/R105P/G106V/S107N
+2.6	Ala-Thr-His-Gln-Ala-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	5685	KUZYUGHPPTXVRS-CTNQOGPMSA-N			X	mutant enzyme A100L/V104T/R105P/G106V/S107N
+2	Ala-Thr-His-Asn-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	22210	HQQDFNNVRSYFRM-JMKMKNFSSA-N	37	6.0		pH 6.0, 37C
+4	Ala-Thr-His-Gln-Val-Leu-Phe(NO2)-Val-Arg-Lys-Ala	22211	UOBVDZFEYZMTDW-LXWJMTKESA-N	37	6.0		pH 6.0, 37C
+6	Ala-Thr-His-Val-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	22213	YRHLCQKIWJPHRK-DTDXUIGFSA-N	37	6.0		pH 6.0, 37C
+3	Ala-Thr-Pro-Cys-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	22215	UOVQRPXUOPEXCD-ZCEADHKYSA-N	37	6.0		pH 6.0, 37C
+5	Ala-Thr-Pro-Gln-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	4184	NSGCNUUISNDCAB-NWWJTRTFSA-N	37	6.0		pH 6.0, 37C

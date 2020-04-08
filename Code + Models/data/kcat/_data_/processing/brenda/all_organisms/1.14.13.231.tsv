@@ -1,0 +1,19 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.11	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.5		pH 8.5
+1.11	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.5		pH 8.5, temperature not specified in the publication
+0.32	tetracycline	2065	OFVLGDICTFRJMM-WESIUVDSSA-N		8.5		pH 8.5
+0.32	tetracycline	2065	OFVLGDICTFRJMM-WESIUVDSSA-N		8.5		pH 8.5, temperature not specified in the publication
+0.6	doxycycline	2336	VLUQVUWDECWBTL-CVHRZJFOSA-N				presence of 0.0002% arabinose, pH not specified in the publication, temperature not specified in the publication
+0.63	doxycycline	2336	VLUQVUWDECWBTL-CVHRZJFOSA-N		8.5		pH 8.5
+0.63	doxycycline	2336	VLUQVUWDECWBTL-CVHRZJFOSA-N		8.5		pH 8.5, temperature not specified in the publication
+0.12	minocycline	3692	RMSZLIMMCDBWSX-LRTFCNEWSA-N		8.5		pH 8.5
+0.12	minocycline	3692	RMSZLIMMCDBWSX-LRTFCNEWSA-N		8.5		pH 8.5, temperature not specified in the publication
+0.3	chlortetracycline	5431	CYDMQBQPVICBEU-XRNKAMNCSA-N		8.5		pH 8.5
+0.3	chlortetracycline	5431	CYDMQBQPVICBEU-XRNKAMNCSA-N		8.5		pH 8.5, temperature not specified in the publication
+1.3	oxytetracycline	10642	IWVCMVBTMGNXQD-PXOLEDIWSA-N		8.5		pH 8.5
+0.3	chlorotetracycline	5431	CYDMQBQPVICBEU-XRNKAMNCSA-N				presence of 0.0002% arabinose, pH not specified in the publication, temperature not specified in the publication
+0.4	anhydrotetracycline	20198	GYHZYHMZEAWQFQ-XCLVFQIOSA-N				presence of 0.02% arabinose, pH not specified in the publication, temperature not specified in the publication
+0.7	anhydrotetracycline	20198	GYHZYHMZEAWQFQ-XCLVFQIOSA-N				presence of 0.0002% arabinose, pH not specified in the publication, temperature not specified in the publication
+0.2	demeclocycline	23303	HXPZLYXFFSKHJA-MOSHPQCFSA-N		8.5		pH 8.5
+0.2	demeclocycline	23303	HXPZLYXFFSKHJA-MOSHPQCFSA-N		8.5		pH 8.5, temperature not specified in the publication
+0.36	tigecycline	86600	FPZLLRFZJZRHSY-UHFFFAOYSA-N		8.5		pH 8.5, temperature not specified in the publication

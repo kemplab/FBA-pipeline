@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0149	sodium alginate	78237	ZPVYSBTXRSCFPP-JVVJASDWSA-G	30	7.5	X	pH 7.5, 30C, mutant R260A
+0.0156	sodium alginate	78237	ZPVYSBTXRSCFPP-JVVJASDWSA-G	30	7.5	X	pH 7.5, 30C, mutant Q149A
+0.018	sodium alginate	78237	ZPVYSBTXRSCFPP-JVVJASDWSA-G	30	7.5	X	pH 7.5, 30C, mutant R438A
+0.057	sodium alginate	78237	ZPVYSBTXRSCFPP-JVVJASDWSA-G	30	7.5		pH 7.5, 30C, H415A
+10.9	sodium alginate	78237	ZPVYSBTXRSCFPP-JVVJASDWSA-G	30	7.5	X	pH 7.5, 30C, mutant H202L
+12.66	sodium alginate	78237	ZPVYSBTXRSCFPP-JVVJASDWSA-G	30	7.5		with L-guluronate content of 66.7%, pH 7.5, 30C, recombinant enzyme
+17.89	sodium alginate	78237	ZPVYSBTXRSCFPP-JVVJASDWSA-G	30	7.5		with L-guluronate content of 52.6%, pH 7.5, 30C, recombinant enzyme
+19.51	sodium alginate	78237	ZPVYSBTXRSCFPP-JVVJASDWSA-G	30	7.5		with L-guluronate content of 33.3%, pH 7.5, 30C, recombinant enzyme
+32	alginate	2110	GXPCMELWUBXVLD-KXVKUVJNSA-N	25	7.1		pH 7.1, 25C
+32	poly-(beta-(1-&gt;4)-D-mannuronan)	36142	MLMOZXVOWJIFDZ-SRSKGYLISA-N	25	7.1		pH 7.1, 25C
+56.9	sodium alginate	78237	ZPVYSBTXRSCFPP-JVVJASDWSA-G	30	7.5		pH 7.5, 30C, wild-type enzyme
+872.8	sodium alginate	78237	ZPVYSBTXRSCFPP-JVVJASDWSA-G	45	8.5		recombinant His-tagged enzyme, pH 8.5, 45C
+873	alginate	2110	GXPCMELWUBXVLD-KXVKUVJNSA-N	30	8.5		pH 8.5, 30C

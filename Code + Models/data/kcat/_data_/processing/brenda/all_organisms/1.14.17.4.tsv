@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.2	ascorbate	88	CIWBSHSKHKDKBQ-JLAZNSOCSA-N	29	7.0		in 50 mM MOPS, pH 7.0, at 29C
+0.00867	1-aminocyclopropane-1-carboxylate	1128	PAJPWUMXBYXFCZ-UHFFFAOYSA-N	28	7.2	X	recombinant mutant D179E, in presence of 5 mM L-ascorbate and 10 mM HCO3-, pH 7.2, 28C
+0.0095	1-aminocyclopropane-1-carboxylate	1128	PAJPWUMXBYXFCZ-UHFFFAOYSA-N	28	7.2	X	recombinant mutant H177E, in presence of 5 mM L-ascorbate and 10 mM HCO3-, pH 7.2, 28C
+0.07	1-aminocyclopropane-1-carboxylate	1128	PAJPWUMXBYXFCZ-UHFFFAOYSA-N	30	7.0		recombinant enzyme, pH 7.0, 30C
+0.19	1-aminocyclopropane-1-carboxylate	1128	PAJPWUMXBYXFCZ-UHFFFAOYSA-N	29	7.0		in 50 mM MOPS, pH 7.0, at 29C
+0.223	1-aminocyclopropane-1-carboxylate	1128	PAJPWUMXBYXFCZ-UHFFFAOYSA-N	25	7.2		pH 7.2, 25C, 2 mM ascorbate, recombinant enzyme
+0.612	1-aminocyclopropane-1-carboxylate	1128	PAJPWUMXBYXFCZ-UHFFFAOYSA-N	25	7.2		pH 7.2, 25C, 20 mM ascorbate, recombinant enzyme
+5.17	1-aminocyclopropane-1-carboxylate	1128	PAJPWUMXBYXFCZ-UHFFFAOYSA-N	28	7.2	X	recombinant mutant H56Q, in presence of 5 mM L-ascorbate and 10 mM HCO3-, pH 7.2, 28C
+5.9	1-aminocyclopropane-1-carboxylate	1128	PAJPWUMXBYXFCZ-UHFFFAOYSA-N	28	7.2		recombinant wild-type enzyme, in presence of 5 mM L-ascorbate and 10 mM HCO3-, pH 7.2, 28C
+0.0344	1-aminocyclopropane-1-carboxylic acid	1128	PAJPWUMXBYXFCZ-UHFFFAOYSA-N				
+0.066	1-aminocyclopropane-1-carboxylic acid	1128	PAJPWUMXBYXFCZ-UHFFFAOYSA-N				
+0.0914	1-aminocyclopropane-1-carboxylic acid	1128	PAJPWUMXBYXFCZ-UHFFFAOYSA-N				
+0.07	alpha-aminoisobutyrate	1376	FUOOLUPWFVMBKG-UHFFFAOYSA-N	30	7.0		recombinant enzyme, pH 7.0, 30C

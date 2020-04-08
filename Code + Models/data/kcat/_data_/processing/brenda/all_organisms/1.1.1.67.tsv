@@ -1,0 +1,67 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00045	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.1	X	mutant N191A/N300A, pH 7.1, 25C
+0.00055	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N		7.1	X	mutant N191D, pH 7.1, temperature not specified in the publication
+0.00083	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N	25	7.4	X	mutant enzyme N300D, at pH 7.4 and 25C
+0.001	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N	25	7.4	X	mutant enzyme H303A/R73A/K381A, at pH 7.4 and 25C
+0.0011	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N		10.0	X	mutant N191D, pH 10.0, temperature not specified in the publication
+0.0012	meso-erythritol	1717	UNXHWFMMPAWVPI-ZXZARUISSA-N	25	7.4	X	mutant enzyme N191A, at pH 7.4 and 25C
+0.0013	D-arabitol	1329	HEBKCHPVOIAQTA-QWWZWVQMSA-N	25	7.4	X	mutant enzyme N300D, at pH 7.4 and 25C
+0.0014	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N		6.8	X	mutant N300D, pH 6.8, temperature not specified in the publication
+0.0015	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N		10.0	X	mutant N300D, pH 10.0, temperature not specified in the publication
+0.0017	D-arabitol	1329	HEBKCHPVOIAQTA-QWWZWVQMSA-N	25	7.4	X	mutant enzyme H303A/R73A/K381A, at pH 7.4 and 25C
+0.0024	meso-erythritol	1717	UNXHWFMMPAWVPI-ZXZARUISSA-N	25	7.4	X	mutant enzyme N300S, at pH 7.4 and 25C
+0.0029	D-arabitol	1329	HEBKCHPVOIAQTA-QWWZWVQMSA-N	25	7.4	X	mutant enzyme D230A, at pH 7.4 and 25C
+0.0036	meso-erythritol	1717	UNXHWFMMPAWVPI-ZXZARUISSA-N	25	7.4	X	mutant enzyme N300A, at pH 7.4 and 25C
+0.0159	meso-erythritol	1717	UNXHWFMMPAWVPI-ZXZARUISSA-N	25	7.4	X	mutant enzyme H303A, at pH 7.4 and 25C
+0.018	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N	25	7.4	X	mutant enzyme R373A, at pH 7.4 and 25C
+0.034	D-arabitol	1329	HEBKCHPVOIAQTA-QWWZWVQMSA-N	25	7.4	X	mutant enzyme R373A, at pH 7.4 and 25C
+0.04	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	10.0	X	mutant N191A/N300A, pH 10.0, 25C
+0.044	D-arabitol	1329	HEBKCHPVOIAQTA-QWWZWVQMSA-N	25	7.4	X	mutant enzyme N191A, at pH 7.4 and 25C
+0.06	D-arabitol	1329	HEBKCHPVOIAQTA-QWWZWVQMSA-N	25	7.4	X	mutant enzyme N300S, at pH 7.4 and 25C
+0.092	D-arabitol	1329	HEBKCHPVOIAQTA-QWWZWVQMSA-N	25	7.4	X	mutant enzyme N300A, at pH 7.4 and 25C
+0.096	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N	25	7.4	X	mutant enzyme N300S, at pH 7.4 and 25C
+0.15	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N		10.0	X	mutant N191D/N300D, pH 10.0, temperature not specified in the publication
+0.19	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N	25	7.4	X	mutant enzyme K381A, at pH 7.4 and 25C
+0.209	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N	25	7.4	X	mutant enzyme N191A, at pH 7.4 and 25C
+0.21	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N	25	7.4	X	mutant enzyme N300A, at pH 7.4 and 25C
+0.29	D-arabitol	1329	HEBKCHPVOIAQTA-QWWZWVQMSA-N	25	7.4	X	mutant enzyme H303A, at pH 7.4 and 25C
+0.37	D-arabitol	1329	HEBKCHPVOIAQTA-QWWZWVQMSA-N	25	7.4	X	mutant enzyme K381A, at pH 7.4 and 25C
+0.39	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N	25	7.4	X	mutant enzyme D230A, at pH 7.4 and 25C
+0.489	meso-erythritol	1717	UNXHWFMMPAWVPI-ZXZARUISSA-N	25	7.4	X	mutant enzyme E133Q, at pH 7.4 and 25C
+0.49	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N	25	7.4	X	mutant enzyme H303A, at pH 7.4 and 25C
+0.538	meso-erythritol	1717	UNXHWFMMPAWVPI-ZXZARUISSA-N	25	7.4	X	mutant enzyme E133A, at pH 7.4 and 25C
+0.55	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	10.0	X	mutant N191L, pH 10.0, 25C
+0.55	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.1	X	mutant N191L, pH 7.1, 25C
+0.56	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.1	X	mutant N191A, pH 7.1, 25C
+0.599	meso-erythritol	1717	UNXHWFMMPAWVPI-ZXZARUISSA-N	25	7.4		wild type enzyme, at pH 7.4 and 25C
+0.8	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N		10.0	X	mutant N300D, pH 10.0, temperature not specified in the publication
+0.9	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N		6.8	X	mutant N300D, pH 6.8, temperature not specified in the publication
+2.7	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N		7.1	X	mutant N191D, pH 7.1, temperature not specified in the publication
+2.78	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	10.0	X	mutant N191A, pH 10.0, 25C
+3	NAD(P)H	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				wild-type
+3.22	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N	25	7.4	X	mutant enzyme E133Q, at pH 7.4 and 25C
+3.99	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N	25	7.4	X	mutant enzyme E133A, at pH 7.4 and 25C
+4.39	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N	25	7.4		wild type enzyme, at pH 7.4 and 25C
+4.6	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant D69A/D69A
+5.5	D-arabitol	1329	HEBKCHPVOIAQTA-QWWZWVQMSA-N	25	7.4	X	mutant enzyme E133Q, at pH 7.4 and 25C
+6.59	D-arabitol	1329	HEBKCHPVOIAQTA-QWWZWVQMSA-N	25	7.4		wild type enzyme, at pH 7.4 and 25C
+7.3	D-arabitol	1329	HEBKCHPVOIAQTA-QWWZWVQMSA-N	25	7.4	X	mutant enzyme E133A, at pH 7.4 and 25C
+8.2	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N		10.0	X	mutant N191D, pH 10.0, temperature not specified in the publication
+12	NAD(P)H	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant D69A/D69A
+15	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant D69A
+15.9	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N		7.1		wild-type, pH 7.1, temperature not specified in the publication
+20	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N		10.0		in 50 mM glycine/NaOH buffer at pH 10.0
+20	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				recombinant protein
+24	NAD(P)H	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant D69A
+26	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				wild-type
+40	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N		10.0		in 50 mM glycine/NaOH buffer at pH 10.0
+40	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	10.0		wild-type, pH 10.0, 25C
+54	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				recombinant protein
+60	L-sorbitol	3635	FBPFZTCFMRRESA-FSIIMWSLSA-N	25	10.0		pH 10.0, 25C
+61	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N		7.1		wild-type, pH 7.1, temperature not specified in the publication
+61	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.1		wild-type, pH 7.1, 25C
+64	D-xylulose	574	LQXVFWRQNMEDEE-OVEKKEMJSA-N	25	7.1		pH 7.1, 25C
+86	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N	25	7.1		pH 7.1, 25C
+162	D-arabinitol	1329	HEBKCHPVOIAQTA-QWWZWVQMSA-N	25	10.0		pH 10.0, 25C
+180	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N	90	6.5		at pH 6.5 and 90C
+212	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N	25	10.0		pH 10.0, 25C

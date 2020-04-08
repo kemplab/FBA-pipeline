@@ -1,0 +1,62 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.09	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.8	X	mutant F36L, pH 8.8, 25C
+0.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	pH 8.0, 25C, tetrameric enzyme form, mutant D282G; pH 8.0, 25C, tetrameric enzyme form, mutant T34Q/T39S/L43Q
+0.13	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.8	X	mutant F36T, pH 8.8, 25C
+0.24	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.8	X	mutant F36G, pH 8.8, 25C
+1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	pH 8.0, 25C, tetrameric enzyme form, mutant N313T
+1.45	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.5	X	mutant L36T, pH 8.5, 25C
+2.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	mutant enzyme D32A/L187N
+2.73	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.5	X	mutant D35G/L36T/T37K/P192S, pH 8.5, 25C
+2.87	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.5	X	mutant D35G/L36T/P192S, pH 8.5, 25C
+4.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.5	X	mutant D35G/L36T/T37K, pH 8.5, 25C
+6.37	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.5	X	mutant D35G, pH 8.5, 25C
+6.45	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.5		wild-type, pH 8.5, 25C
+20	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	65	8.5		pH 8.5, 65C
+51	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	pH 8.0, 25C, tetrameric enzyme form, mutant W310F
+65	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0		pH 8.0, 25C, tetrameric enzyme form, wild-type
+70	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	wild-type enzyme and mutant enzyme L187N
+70	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.2		30C, pH 7.2
+73	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	pH 8.0, 25C, tetrameric enzyme form, mutant Y283V
+112	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	mutant enzyme L187N
+122	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.8		wild-type, pH 8.8, 25C
+199	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.5		wild-type, pH 8.5, 25C
+234	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.5	X	N-terminally truncated mutant, pH 8.5, 25C
+0.06	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	8.8	X	mutant F36L, pH 8.8, 25C
+0.08	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	8.8	X	mutant F36T, pH 8.8, 25C
+0.14	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	8.8	X	mutant F36G, pH 8.8, 25C
+73.6	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	8.8		wild-type, pH 8.8, 25C
+1.58	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.5	X	mutant L36T, pH 8.5, 25C
+2	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O			X	mutant enzyme D32A
+2.97	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.5	X	mutant D35G, pH 8.5, 25C
+6.48	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.5	X	mutant D35G/L36T/P192S, pH 8.5, 25C
+7.13	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.5	X	mutant D35G/L36T/T37K/P192S, pH 8.5, 25C
+8	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O			X	mutant enzyme L187N
+8	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.5	X	mutant D35G/L36T/T37K, pH 8.5, 25C
+17.7	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O			X	mutant enzyme D32A/L187N
+4.03	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	25	8.5		recombinant enzyme, in 50 mM Tricine buffer (pH 8.5), at 25C
+0.002	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.7	X	mutant enzyme C151S/H178N, pH 8.7, 25C
+0.05	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.7	X	mutant enzyme H178N, pH 8.7, 25C
+0.09	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.7	X	mutant enzyme C151S, pH 8.7, 25C
+0.09	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.8	X	mutant enzyme F37L, in 50 mM triethanolamine, 50 mM Na2HPO4, 0.2 mM EDTA, at pH 8.8 and 25C
+0.13	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.8	X	mutant enzyme F37T, in 50 mM triethanolamine, 50 mM Na2HPO4, 0.2 mM EDTA, at pH 8.8 and 25C
+0.24	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.8	X	mutant enzyme F37G, in 50 mM triethanolamine, 50 mM Na2HPO4, 0.2 mM EDTA, at pH 8.8 and 25C
+9.1	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.5		isoform TDH3, pH 8.5, 25C
+16	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.5		isoform TDH2, pH 8.5, 25C
+16.7	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N				
+24.51	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.5		recombinant enzyme, in 50 mM Tricine buffer (pH 8.5), at 25C
+29	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.5		isoform TDH1, pH 8.5, 25C
+46	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N			X	mutant enzyme W84F
+50	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N				
+70	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N				
+70	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.7		wild type enzyme, pH 8.7, 25C
+122.2	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.8		wild type enzyme, in 50 mM triethanolamine, 50 mM Na2HPO4, 0.2 mM EDTA, at pH 8.8 and 25C
+199	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.5		glyceraldehyde-3-phosphate dehydrogenase, in 10 mM sodium diphosphate, 20 mM sodium phosphate (pH 8.5), 0.003 mM dithiothreitol and 10 mM sodium arsenate, at 25C
+234	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.5		recombinant, highly soluble form of sperm-specific glyceraldehyde-3-phosphate dehydrogenase truncated at the N-terminus, in 10 mM sodium diphosphate, 20 mM sodium phosphate (pH 8.5), 0.003 mM dithiothreitol and 10 mM sodium arsenate, at 25C
+0.06	3-phospho-D-glyceroyl phosphate	462	LJQLQCAXBUHEAZ-UWTATZPHSA-N	25	7.6	X	mutant enzyme F37L, in 80 mM triethanolamine, 3.3 mM L-cysteine HCl, 1.7 mM MgSO4, 0.5 mM EDTA, pH 7.6, at 25C
+0.08	3-phospho-D-glyceroyl phosphate	462	LJQLQCAXBUHEAZ-UWTATZPHSA-N	25	7.6	X	mutant enzyme F37T, in 80 mM triethanolamine, 3.3 mM L-cysteine HCl, 1.7 mM MgSO4, 0.5 mM EDTA, pH 7.6, at 25C
+0.14	3-phospho-D-glyceroyl phosphate	462	LJQLQCAXBUHEAZ-UWTATZPHSA-N	25	7.6	X	mutant enzyme F37G, in 80 mM triethanolamine, 3.3 mM L-cysteine HCl, 1.7 mM MgSO4, 0.5 mM EDTA, pH 7.6, at 25C
+73.56	3-phospho-D-glyceroyl phosphate	462	LJQLQCAXBUHEAZ-UWTATZPHSA-N	25	7.6		wild type enzyme, in 80 mM triethanolamine, 3.3 mM L-cysteine HCl, 1.7 mM MgSO4, 0.5 mM EDTA, pH 7.6, at 25C
+71.4	D-glyceraldehyde	520	MNQZXJOMYWMBOU-VKHMYHEASA-N	25	7.5		in the absence of DMSO and methanol, in TEA-HCl buffer (pH 7.5) at 25C
+118	D-glyceraldehyde	520	MNQZXJOMYWMBOU-VKHMYHEASA-N	25	7.5		in the presence of 5% (v/v) DMSO, in TEA-HCl buffer (pH 7.5) at 25C
+442	D-glyceraldehyde	520	MNQZXJOMYWMBOU-VKHMYHEASA-N	25	7.5		in the presence of 5% (v/v) methanol, in TEA-HCl buffer (pH 7.5) at 25C
+4.35	glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	25	8.5		recombinant enzyme, in 50 mM Tricine buffer (pH 8.5), at 25C

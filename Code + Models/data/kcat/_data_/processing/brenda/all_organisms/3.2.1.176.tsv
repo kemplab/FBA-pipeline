@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.055	4-methylumbelliferyl beta-D-lactoside	2340	PRTGXBPFDYMIJH-KSFLKEQHSA-N	22	5.0		pH 5.0, 22C, wild-type
+0.1	4-nitrophenyl beta-D-cellobioside	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	37	5.0		catalyticdomain, pH 5.0, 37C
+0.19	4-nitrophenyl beta-D-lactoside	15133	UXSAIKQLENWTKW-QYZNXDDNSA-N	37	5.0		catalyticdomain, pH 5.0, 37C
+0.27	4-nitrophenyl beta-D-lactoside	15133	UXSAIKQLENWTKW-QYZNXDDNSA-N	45	5.0		pH 5.0, 45C, recombinant protein carrying Hypocrea jecorina carbohydrate-binding module and linker
+0.31	4-methylumbelliferyl beta-D-lactoside	2340	PRTGXBPFDYMIJH-KSFLKEQHSA-N	45	5.0		pH 5.0, 45C, wild-type
+0.33	4-methylumbelliferyl beta-D-lactoside	2340	PRTGXBPFDYMIJH-KSFLKEQHSA-N	27	5.0	X	pH 5.0, 27C, recombinant mutant W40A enzyme
+0.361	4-methylumbelliferyl beta-D-lactoside	2340	PRTGXBPFDYMIJH-KSFLKEQHSA-N	27	5.0	X	pH 5.0, 27C, recombinant mutant W40A enzyme catalytic domain
+0.415	4-methylumbelliferyl beta-D-lactoside	2340	PRTGXBPFDYMIJH-KSFLKEQHSA-N	27	5.0		pH 5.0, 27C, recombinant wild-type enzyme catalytic domain
+0.435	4-methylumbelliferyl beta-D-lactoside	2340	PRTGXBPFDYMIJH-KSFLKEQHSA-N	45	5.0		pH 5.0, 45C, fusion protein with CBM1 from Hypocrea jecorina Cel7A containing an additional S-S bridge in the catalytic module
+0.492	4-methylumbelliferyl beta-D-lactoside	2340	PRTGXBPFDYMIJH-KSFLKEQHSA-N	27	5.0		pH 5.0, 27C, recombinant wild-type enzyme
+0.51	4-nitrophenyl beta-D-lactoside	15133	UXSAIKQLENWTKW-QYZNXDDNSA-N	45	5.0		pH 5.0, 45C, recombinant protein carrying Hypocrea jecorina carbohydrate-binding module and linker
+0.65	4-methylumbelliferyl beta-D-lactoside	2340	PRTGXBPFDYMIJH-KSFLKEQHSA-N	22	5.0		pH 5.0, 22C, fusion protein with CBM1 from Hypocrea jecorina Cel7A containing an additional S-S bridge in the catalytic module
+1.35	4-methylumbelliferyl beta-D-lactoside	2340	PRTGXBPFDYMIJH-KSFLKEQHSA-N	60	5.0		pH 5.0, 60C, wild-type

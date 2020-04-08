@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.13	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant S82G, pH and temperature not specified in the publication
+0.32	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant E143Q, pH and temperature not specified in the publication
+0.37	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant E143G, pH and temperature not specified in the publication
+2.69	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				wild-type enzyme, pH and temperature not specified in the publication
+0.13	(5S)-5-amino-3-oxohexanoate	105068	FAASBXNEOGMQHS-BYPYZUCNSA-M			X	mutant S82G, pH and temperature not specified in the publication
+0.32	(5S)-5-amino-3-oxohexanoate	105068	FAASBXNEOGMQHS-BYPYZUCNSA-M			X	mutant E143Q, pH and temperature not specified in the publication
+0.37	(5S)-5-amino-3-oxohexanoate	105068	FAASBXNEOGMQHS-BYPYZUCNSA-M			X	mutant E143G, pH and temperature not specified in the publication
+2.69	(5S)-5-amino-3-oxohexanoate	105068	FAASBXNEOGMQHS-BYPYZUCNSA-M				wild-type enzyme, pH and temperature not specified in the publication

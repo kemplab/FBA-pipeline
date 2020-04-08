@@ -1,0 +1,54 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+17.5	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	6.1		pH 6.1, 25C
+58	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	6.4		hydrolysis, pH 6.4, 25C, recombinant enzyme
+72.5	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme
+162	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	6.2		30C, pH 6.2
+162	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	6.2		hydrolysis, pH 6.2, 27-30C; pH 6.0, 30C, recombinant enzyme
+71	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N	25	6.1		pH 6.1, 25C
+160	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N	25	6.4		hydrolysis, pH 6.4, 25C, recombinant enzyme
+200	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme
+274	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N	30	7.0		30C, pH 7.0
+347	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N	30	6.2		30C, pH 6.2
+3200	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N	30	6.4		hydrolysis, pH 6.4, 30C, native enzyme
+3200	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N				cephalexin hydrolysis
+10	amoxicillin	1323	LSQZJLSUYDQPKJ-NJBDSQKTSA-N	30	6.2		30C, pH 6.2
+10	amoxicillin	1323	LSQZJLSUYDQPKJ-NJBDSQKTSA-N	30	6.0		pH 6.0, 30C, recombinant enzyme
+1.6	D-phenylglycine amide	2171	KIYRSYYOVDHSPG-SSDOTTSWSA-N	25	6.4		hydrolysis, pH 6.4, 25C, recombinant enzyme
+43	D-phenylglycine amide	2171	KIYRSYYOVDHSPG-SSDOTTSWSA-N	30	6.2		30C, pH 6.2
+43	D-phenylglycine amide	2171	KIYRSYYOVDHSPG-SSDOTTSWSA-N	30	6.2		above, pH 6.2, 27-30C
+982	D-phenylglycine methyl ester	4136	BHFLUDRTVIDDOR-MRVPVSSYSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme
+1000	D-phenylglycine methyl ester	4136	BHFLUDRTVIDDOR-MRVPVSSYSA-N	25	6.1		pH 6.1, 25C
+1035	D-phenylglycine methyl ester	4136	BHFLUDRTVIDDOR-MRVPVSSYSA-N	30	6.2		30C, pH 6.2
+1035	D-phenylglycine methyl ester	4136	BHFLUDRTVIDDOR-MRVPVSSYSA-N	30	6.2		hydrolysis, pH 6.2, 27-30C
+1040	D-phenylglycine methyl ester	4136	BHFLUDRTVIDDOR-MRVPVSSYSA-N	30	6.2		30C, pH 6.2
+1100	D-phenylglycine methyl ester	4136	BHFLUDRTVIDDOR-MRVPVSSYSA-N	30	6.4		hydrolysis, pH 6.4, 30C, native enzyme
+1860	D-phenylglycine methyl ester	4136	BHFLUDRTVIDDOR-MRVPVSSYSA-N	25	6.4		hydrolysis, pH 6.4, 25C, recombinant enzyme
+9.6	cefadroxil	4150	BOEGTKLJZSQCCD-UEKVPHQBSA-N	30	6.2		30C, pH 6.2
+347	cefadroxil	4150	BOEGTKLJZSQCCD-UEKVPHQBSA-N	30	6.0		pH 6.0, 30C, recombinant enzyme
+6600	D-alpha-phenylglycine methyl ester	4136	BHFLUDRTVIDDOR-MRVPVSSYSA-N				acyl transfer from D-alpha-phenylglycine methyl ester to 7-amino-3-deacetoxycephalosporanic acid
+11100	D-alpha-phenylglycine methyl ester	4136	BHFLUDRTVIDDOR-MRVPVSSYSA-N				hydrolysis of D-alpha-phenylglycine methyl ester
+58	valacyclovir	9645	HDOVUKNUBWVHOX-QMMMGPOBSA-N	37	7.4		pH 7.4, 37C
+58	valacyclovir	9645	HDOVUKNUBWVHOX-QMMMGPOBSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+79	valacyclovir	9645	HDOVUKNUBWVHOX-QMMMGPOBSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+126	valacyclovir	9645	HDOVUKNUBWVHOX-QMMMGPOBSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+0.4	D-2-nitro-5-[(phenylglycyl)amino]benzoic acid	3959	QHVQEQRGDKOHHC-UHFFFAOYSA-N	30	6.2		30C, pH 6.2
+154	4-carbamimidamidobenzyl L-valinate	27967	DTYJSYJSIXUDNJ-NSHDSACASA-N	37	7.4		pH 7.4, 37C
+14	4-carbamimidamidobenzyl L-isoleucinate	27968	XUVTXZIOGFPBTA-ACGXKRRESA-N	37	7.4		pH 7.4, 37C
+345	4-carbamimidamidobenzyl L-phenylalaninate	27969	GWVXJNZVXCUMIP-HNNXBMFYSA-N	37	7.4		pH 7.4, 37C
+130	valine 4-nitrobenzyl ester	113251	USBVDPVTFGLYPZ-NSHDSACASA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+154	valine [3-(hydroxymethyl)phenyl]guanidine	113252	CLFKRUPVXBZVAA-NSHDSACASA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+60	valine benzyl ester	57552	YIRBOOICRQFSOK-NSHDSACASA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+0.0023	valine [3-(aminomethyl)phenyl]guanidine	113253	CYTUHRUPRUQZRW-NSHDSACASA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+345	phenylalanine [3-(hydroxymethyl)phenyl]guanidine	113254	NECWZJFOBTYPNR-HNNXBMFYSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+395	phenylalanine benzyl ester	33389	FPRSPUHXEPWUBZ-HNNXBMFYSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+228	phenylalanine methyl ester	2532	VSDUZFOSJDMAFZ-VIFPVBQESA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+93	phenylalanine ethyl ester	13843	CJGXMNONHNZEQQ-JTQLQIEISA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+6160	phenylalanine methylester	2532	VSDUZFOSJDMAFZ-VIFPVBQESA-N	25	7.0		25C, pH 7.0
+101	valganciclovir	49783	WPVFJKSGQUFQAP-GKAPJAKFSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+263	4-hydroxy-D-phenylglycine methyl ester	118438	SZBDOFWNZVHVGR-MRVPVSSYSA-N	30	6.0		pH 6.0, 30C, recombinant enzyme
+9.6	cefaloglycin	6320	FUBBGQLTSCSAON-PBFPGSCMSA-N	30	6.0		pH 6.0, 30C, recombinant enzyme
+2.3	cefatrizine	113746	UOCJDOLVGGIYIQ-UHFFFAOYSA-N	25	6.4		hydrolysis, pH 6.4, 25C, recombinant enzyme
+147	D-4-hydroxyphenylglycine methyl ester	118438	SZBDOFWNZVHVGR-MRVPVSSYSA-N	30	6.2		wild-type enzyme, pH 6.2, 30C
+262	D-4-hydroxyphenylglycine methyl ester	118438	SZBDOFWNZVHVGR-MRVPVSSYSA-N	30	6.2	X	mutant R87I, pH 6.2, 30C
+605	D-4-hydroxyphenylglycine methyl ester	118438	SZBDOFWNZVHVGR-MRVPVSSYSA-N	30	6.2	X	mutant V1318S, pH 6.2, 30C
+613	D-4-hydroxyphenylglycine methyl ester	118438	SZBDOFWNZVHVGR-MRVPVSSYSA-N	30	6.2	X	mutant V175A, pH 6.2, 30C

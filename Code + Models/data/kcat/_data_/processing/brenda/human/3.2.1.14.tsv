@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.05	4-methylumbelliferyl-(4-deoxy)chitobiose	4001	GLFUTORXYSMPOK-WOIRZSRHSA-N	37	7.0		wild-type, pH 7.0, 37C
+0.34	4-methylumbelliferyl-(4-deoxy)chitobiose	4001	GLFUTORXYSMPOK-WOIRZSRHSA-N	37	2.2		wild-type, pH 2.2, 37C
+0.56	4-methylumbelliferyl-(4-deoxy)chitobiose	4001	GLFUTORXYSMPOK-WOIRZSRHSA-N	37	7.0	X	mutant N45D/D47N/R61M, pH 7.0, 37C
+0.713	4-methylumbelliferyl-(4-deoxy)chitobiose	4001	GLFUTORXYSMPOK-WOIRZSRHSA-N	37	4.6		wild-type, pH 4.6, 37C
+1.43	4-methylumbelliferyl-(4-deoxy)chitobiose	4001	GLFUTORXYSMPOK-WOIRZSRHSA-N	37	2.2	X	mutant N45D/D47N/R61M, pH 2.2, 37C
+1.83	4-methylumbelliferyl-(4-deoxy)chitobiose	4001	GLFUTORXYSMPOK-WOIRZSRHSA-N	37	4.6	X	mutant N45D/D47N/R61M, pH 4.6, 37C
+3	4-methylumbelliferyl chitobioside	12859	UFZRKZYVDOEGCX-BIAPIHPRSA-N	25	5.0		pH 5.0, 25C

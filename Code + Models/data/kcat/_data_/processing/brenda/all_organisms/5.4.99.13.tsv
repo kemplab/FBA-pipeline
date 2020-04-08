@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+38.2	Butanoyl-CoA	235	CRFNGMNYKDXRTN-CITAKDKDSA-N		7.4		pH 7.4, 30&ordm;C
+1.88	isobutyryl-CoA	668	AEWHYWSPVRZHCT-NDZSKPAWSA-N	37	7.5		recombinant enzyme, in the presence of GTP, in 50 mM sodium phosphate buffer, pH 7.5, 250 mM NaCl at 37C
+1.96	isobutyryl-CoA	668	AEWHYWSPVRZHCT-NDZSKPAWSA-N	37	7.5		recombinant enzyme, in the presence of GDP, in 50 mM sodium phosphate buffer, pH 7.5, 250 mM NaCl at 37C
+3.1	isobutyryl-CoA	668	AEWHYWSPVRZHCT-NDZSKPAWSA-N	37	7.5		recombinant enzyme, in 50 mM sodium phosphate buffer, pH 7.5, 250 mM NaCl at 37C

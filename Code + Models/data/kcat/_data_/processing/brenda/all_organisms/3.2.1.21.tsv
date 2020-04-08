@@ -1,0 +1,484 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.001	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	40	4.0	X	mutant enzyme E490A, in 0.1 M sodium acetate, pH 4.0, at 40C
+0.043	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	50	5.0		pH 5.0, 50C
+0.1	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	40	6.5		40C, pH 6.5
+0.13	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	5.0		beta-(1-4)-linked cellobiose,in 100 mM sodium acetate, pH 5.0, at 30C
+0.317	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	90	3.5		pH 3.5, 90C
+0.5	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	6.0		30C, pH 6.0
+0.5	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	40	6.5		40C, pH 6.5
+1.12	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	5.0	X	mutant L442R, pH 5.0, 30C
+1.16	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	5.0		wild-type, pH 5.0, 30C
+1.8	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	60	4.0		pH 4.0, 60C
+2.09	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	5.0	X	mutant N190H, pH 5.0, 30C
+2.53	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N		6.5	X	pH 6.5, mutant M177L
+3.23	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N		6.5	X	pH 6.5, mutant D229N
+3.42	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	5.0	X	mutant I179V, pH 5.0, 30C
+3.94	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N		6.5	X	pH 6.5, mutant H231D
+4.35	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	173	6.5	X	pH 6.5, mutant V173C
+4.47	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N		6.5	X	pH 6.5, mutant K253A
+4.5	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	50	6.2		pH 6.2, 50C
+7.17	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	5.0	X	mutant N245V, pH 5.0, 30C
+18.6	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				beta-glucosidase II
+27.5	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				wild-type BGL
+29.8	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				recombinant BGL
+31.62	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	50	4.8		in 50 mM citrate buffer, pH 4.8, at 50C
+35.6	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	50	6.5		50C, pH 6.5
+37	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	37	4.5		230000 Da form, pH 4.5, 37C
+40.75	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	50	4.8		in 50 mM citrate buffer, pH 4.8, at 50C
+42	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	40	5.0		at pH 5.0 and 40C
+43	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	22	4.8		recombinant enzyme, in 50 mM sodium citrate buffer pH 4.8, at 22C
+47.3	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	40	4.0	X	mutant enzyme D501A, in 0.1 M sodium acetate, pH 4.0, at 40C
+51.5	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				beta-glucosidase I
+67.4	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	40	4.0		wild type enzyme, in 0.1 M sodium acetate, pH 4.0, at 40C
+78.3	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	40	4.0	X	mutant enzyme D496A, in 0.1 M sodium acetate, pH 4.0, at 40C
+78.4	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	40	4.0	X	mutant enzyme D463A, in 0.1 M sodium acetate, pH 4.0, at 40C
+87.7	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	40	4.0	X	mutant enzyme D487A, in 0.1 M sodium acetate, pH 4.0, at 40C
+89	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	40	5.0		at pH 5.0 and 40C
+101.8	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				
+103	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	25	4.5		pH 4.5, 25C, recombinant wild-type enzyme
+103	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	37	4.5		130000 Da form, pH 4.5, 37C
+167	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	40	6.5		pH 6.5, 40C
+181	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N		6.5		pH 6.5, wild-type isozyme BGL1A
+233	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	50	6.0		50C, pH 6.0
+281	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	6.0		at pH 6.0 and 30C
+284.2	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	60	4.5		60C, pH 4.5
+350	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	40	5.0		at pH 5.0 and 40C
+594	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	85	5.5		pH 5.5, 85C
+699	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N		4.5		pH 4.5, 60
+1000	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	40	5.0		pH 5.0, 40C
+3132	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	50	5.0		pH 5.0, 50C
+0.04	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.5		pH 6.5, 30C, recombinant His-tagged isozyme BGL1A
+0.5	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N		4.5		pH 4.5, 60
+0.75	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	45	8.0		pH 8.0, 45C
+1	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N		6.8	X	pH 6.8, isoform AsGlu2 mutant E495K
+1.2	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N		6.8		pH 6.8, isoform AsGlu1
+2	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N		6.8		pH 6.8, isoform AsGlu2
+3.12	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N				recombinant wild-type enzyme
+3.84	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.5		chimeric beta-glucosidase No.8, in 50 mM MOPS buffer (pH 6.5), at 30C
+3.84	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.5		chimeric beta-glucosidase No.8, in 50 mM MOPS buffer (pH 6.5), at 30C
+4.57	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.0	X	mutant L442R, pH 5.0, 30C
+4.69	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.0		wild-type, pH 5.0, 30C
+4.7	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.0	X	mutant N245V, pH 5.0, 30C
+5.62	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.5		chimeric beta-glucosidase No.6, in 50 mM MOPS buffer (pH 6.5), at 30C
+5.62	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.5		chimeric beta-glucosidase No.6, in 50 mM MOPS buffer (pH 6.5), at 30C
+6.08	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.0	X	mutant I179V, pH 5.0, 30C
+6.4	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.5		pH 6.5, 30C, wild-type enzyme
+6.4	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.5		wild type enzyme, in 50 mM MOPS buffer (pH 6.5), at 30C
+6.76	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.0	X	mutant N190H, pH 5.0, 30C
+9.35	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.5		pH 6.5, 30C, recombinant His-tagged isozyme BGL1A
+13	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	50	6.2		pH 6.2, 50C
+20.8	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.5		pH 6.5, 30C, recombinant His-tagged isozyme BGL1A
+23	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N				
+26.37	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	50	4.8		in 50 mM citrate buffer, pH 4.8, at 50C
+30.7	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	5.5		pH 5.5, 37C
+32.3	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	75	5.4		pH 5.4, 75C
+38.9	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.0		in 100 mM sodium acetate, pH 5.0, at 30C
+42.2	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.5		wild type enzyme, in 50 mM MOPS buffer (pH 6.5), at 30C
+44.4	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N				
+66.67	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	60	6.0		pH 6.0, 60C
+66.7	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N				
+87.93	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	50	4.8		in 50 mM citrate buffer, pH 4.8, at 50C
+89	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	25	4.5		pH 4.5, 25C, recombinant wild-type enzyme
+95.4	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.5		pH 6.5, 30C, wild-type enzyme
+118	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	22	4.8		recombinant enzyme, in 50 mM sodium citrate buffer pH 4.8, at 22C
+118	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	40	5.0		at pH 5.0 and 40C
+138	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N				beta-glucosidase II
+141	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	90	6.0		in 100 mM citrate/phosphate buffer, at pH 6.0 and 90C
+144	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N				beta-glucosidase I
+160	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	40	5.0		at pH 5.0 and 40C
+259	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	40	5.0		at pH 5.0 and 40C
+343.5	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	50	5.0		pH 5.0, 50C
+387	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	70	5.5		in 50 mM citrate buffer, at pH 5.5 and 70C
+640	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N				
+721	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N				
+915	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	50	6.0		pH 6.0, 50C
+3460	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	65	5.0		pH 5.0, 65C
+87400	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	90	7.0		pH 7.0, 90C
+0.071	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	50	5.0		pH 5.0, 50C
+0.577	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	90	3.5		pH 3.5, 90C
+0.67	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant F198V/F205L/P377A
+3.21	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	50	6.0	X	pH 6.0, 50C, mutant enzyme I48W
+3.6	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	90	5.6	X	mutant E458G, pH 5.6, 90C
+3.9	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.8		pH 6.8, 30C, hexameric enzyme form
+4.24	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	50	6.0	X	pH 6.0, 50C, mutant enzyme I48W/I278F/T484Y
+4.97	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant D261N
+7.1	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	90	5.6	X	mutant D58A, pH 5.6, 90C
+7.4	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	90	5.6	X	mutant D58A, pH 5.6, 90C, 0.1 M NaN3
+9.61	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	50	6.0	X	pH 6.0, 50C, mutant enzyme I278F
+10.85	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant P377A
+11.1	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant M263F
+11.6	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	40	7.3		pH 7.3, 40C
+13	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	4.5		230000 Da form, pH 4.5, 37C
+13	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	90	5.6	X	mutant E458G, pH 5.6, 90C, 0.1 M NaN3
+15.05	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	50	6.0	X	pH 6.0, 50C, mutant enzyme T484Y
+24.16	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	25	5.8		pH 5.8, 25C, wild-type
+25.3	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	90	5.6	X	mutant D242G, pH 5.6, 90C, 0.1 M NaN3
+29.5	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	5.8		pH 5.8, 37C, wild-type
+30.63	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	45	5.5		at pH 5.5 and 45C
+34.26	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim15 (chimeric construct: parental Zea mays Glu1 with exchanged domain 496-518 of Sorghum Dhr1)
+34.26	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim15 (chimeric construct: parental Zea mays Glu1 with exchanged domain 496-518 of Sorghum Dhr1)
+40.42	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	50	6.0		pH 6.0, 50C, wild-type enzyme
+57.3	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant F205L
+68.16	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	60	5.5	X	pH 5.5, 60C, mutant enzyme Y509T
+68.9	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim22 (chimeric construct: parental Zea mays Glu1 with exchanged domain 481-490 of Sorghum Dhr1)
+68.9	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim22 (chimeric construct: parental Zea mays Glu1 with exchanged domain 481-490 of Sorghum Dhr1)
+73.08	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	60	5.5		pH 5.5, 60C, wild-type enzyme
+78	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	90	5.6		wild-type, pH 5.6, 90C, 0.1 M NaN3
+87.24	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim21 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-473 of Sorghum Dhr1)
+87.24	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim21 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-473 of Sorghum Dhr1)
+89.6	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	90	5.6	X	mutant W243F, pH 5.6, 90C
+90.8	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim16 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-495 of Sorghum Dhr1)
+90.8	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim16 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-495 of Sorghum Dhr1)
+100.7	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant F466S
+107.9	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim2 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-518 of Sorghum Dhr1)
+107.9	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim2 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-518 of Sorghum Dhr1)
+110	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	4.5		130000 Da form, pH 4.5, 37C
+118.5	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant F466S/A467S
+129	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	90	5.6		wild-type, pH 5.6, 90C
+163.8	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant Y473F
+370	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	40	5.0		pH 5.0, 40C
+2226	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	72	5.0		pH 5.0, 72C, recombinant enzyme
+4000	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	72	5.0		pH 5.0, 72C, recombinant enzyme
+8664	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	72	5.0		pH 5.0, 72C, recombinant enzyme
+0.067	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	50	5.0		pH 5.0, 50C
+2	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	25	4.5		pH 4.5, 25C, recombinant wild-type enzyme
+2.35	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	30	5.0		wild-type, pH 5.0, 30C
+2.58	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	30	5.0	X	mutant L442R, pH 5.0, 30C
+3.05	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	30	5.0	X	mutant N190H, pH 5.0, 30C
+3.3	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	30	5.0	X	mutant I179V, pH 5.0, 30C
+6.58	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	30	5.0	X	mutant N245V, pH 5.0, 30C
+85.1	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	25	4.5		pH 4.5, 25C, recombinant wild-type enzyme
+288.3	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	75	5.4		pH 5.4, 75C
+304	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	40	6.5		pH 6.5, 40C
+2050	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N				
+0.19	naringenin	483	FTVWIRXFELQLPI-ZDUSSCGKSA-N	40	6.5		40C, pH 6.5
+0.6	naringenin	483	FTVWIRXFELQLPI-ZDUSSCGKSA-N	40	6.5		40C, pH 6.5
+0.059	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N	50	5.0		pH 5.0, 50C
+54.7	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N	25	4.5		pH 4.5, 25C, recombinant wild-type enzyme
+0.32	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	40	4.0	X	mutant enzyme E490A, in 0.1 M sodium acetate, pH 4.0, at 40C
+0.56	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.0	X	mutant E194A, 30C, pH 6.0
+0.59	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.0	X	mutant E190A, 30C, pH 6.0
+0.65	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.0	X	mutant E190Q, 30C, pH 6.0
+0.66	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.0	X	mutant K201A, 30C, pH 6.0
+1.52	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.0	X	mutant M453A, 30C, pH 6.0
+2.26	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.0		wild-type, 30C, pH 6.0
+4	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.0	X	mutant K201F, 30C, pH 6.0
+9.15	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	60	4.0		pH 4.0, 60C
+104	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	40	4.0	X	mutant enzyme D501A, in 0.1 M sodium acetate, pH 4.0, at 40C
+141	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	40	4.0	X	mutant enzyme D496A, in 0.1 M sodium acetate, pH 4.0, at 40C; wild type enzyme, in 0.1 M sodium acetate, pH 4.0, at 40C
+160	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	40	4.0	X	mutant enzyme D463A, in 0.1 M sodium acetate, pH 4.0, at 40C
+163	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	40	4.0	X	mutant enzyme D487A, in 0.1 M sodium acetate, pH 4.0, at 40C
+0.384	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	30	6.5		pH 6.5, 30C, recombinant His-tagged isozyme BGL1A
+18.4	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	30	6.5		pH 6.5, 30C, wild-type enzyme
+28.9	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	30	6.5		pH 6.5, 30C, wild-type enzyme
+5300	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	90	7.0		pH 7.0, 90C
+51.7	Cellopentaose	618	FTNIPWXXIGNQQF-FFFJRYSISA-N	25	4.5		pH 4.5, 25C, recombinant wild-type enzyme
+0.11	p-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	40	5.0		40C, pH 5.0
+0.36	p-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	40	6.5		40C, pH 6.5
+0.56	p-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.0		30C, pH 6.0
+0.87	p-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	40	6.0		40C, pH 6.0
+1.5	p-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	40	6.5		40C, pH 6.5
+8.14	p-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	6.5		30C, pH 6.5
+12.1	p-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	50	6.5		50C, pH 6.5
+12.1	p-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	6.5		37C, pH 6.5
+28.4	p-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	50	6.5		50C, pH 6.5
+141	p-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	50	6.0		50C, pH 6.0
+170	p-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	50	6.0		50C, pH 6.0
+242.2	p-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	60	4.5		60C, pH 4.5
+0.17	gentiobiose	645	DLRVVLDZNNYCBX-LIZSDCNHSA-N	30	5.0		beta-(1-6)-linked gentiobiose, in 100 mM sodium acetate, pH 5.0, at 30C
+0.4	gentiobiose	645	DLRVVLDZNNYCBX-LIZSDCNHSA-N	40	6.5		40C, pH 6.5
+0.6	gentiobiose	645	DLRVVLDZNNYCBX-LIZSDCNHSA-N	30	6.0		30C, pH 6.0
+0.6	gentiobiose	645	DLRVVLDZNNYCBX-LIZSDCNHSA-N	40	6.5		40C, pH 6.5
+4.2	gentiobiose	645	DLRVVLDZNNYCBX-LIZSDCNHSA-N	50	6.2		pH 6.2, 50C
+17	gentiobiose	645	DLRVVLDZNNYCBX-LIZSDCNHSA-N	37	4.5		230000 Da form, pH 4.5, 37C
+20	gentiobiose	645	DLRVVLDZNNYCBX-LIZSDCNHSA-N	37	4.5		130000 Da form, pH 4.5, 37C
+70	gentiobiose	645	DLRVVLDZNNYCBX-LIZSDCNHSA-N	25	4.5		pH 4.5, 25C, recombinant wild-type enzyme
+140.7	gentiobiose	645	DLRVVLDZNNYCBX-LIZSDCNHSA-N	60	4.5		60C, pH 4.5
+0.1	Salicin	660	NGFMICBWJRZIBI-UJPOAAIJSA-N	40	6.5		40C, pH 6.5
+0.21	Salicin	660	NGFMICBWJRZIBI-UJPOAAIJSA-N	40	5.0		40C, pH 5.0
+0.7	Salicin	660	NGFMICBWJRZIBI-UJPOAAIJSA-N	40	6.5		40C, pH 6.5
+1.32	Salicin	660	NGFMICBWJRZIBI-UJPOAAIJSA-N	40	6.0		40C, pH 6.0
+7.1	Salicin	660	NGFMICBWJRZIBI-UJPOAAIJSA-N	50	6.2		pH 6.2, 50C
+404.8	Salicin	660	NGFMICBWJRZIBI-UJPOAAIJSA-N	50	5.0		pH 5.0, 50C
+0.078	laminaribiose	690	QIGJYVCQYDKYDW-LCOYTZNXSA-N	50	5.0		pH 5.0, 50C
+6.17	laminaribiose	690	QIGJYVCQYDKYDW-LCOYTZNXSA-N	30	5.0		beta-(1-3)-linked laminaribose,in 100 mM sodium acetate, pH 5.0, at 30C
+930	laminaribiose	690	QIGJYVCQYDKYDW-LCOYTZNXSA-N	40	5.0		pH 5.0, 40C
+0.04	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30	6.5		pH 6.5, 30C, recombinant His-tagged isozyme BGL1A
+0.9	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30	6.5		pH 6.5, 30C, recombinant His-tagged isozyme BGL1A
+5.53	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N				recombinant wild-type enzyme
+9.15	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30	6.5		pH 6.5, 30C, recombinant His-tagged isozyme BGL1A
+9.8	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30	5.0		in 100 mM sodium acetate, pH 5.0, at 30C
+27	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	90	6.0		in 100 mM citrate/phosphate buffer, at pH 6.0 and 90C
+67.6	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30	6.5		pH 6.5, 30C, recombinant His-tagged isozyme BGL1A
+82	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	70	5.5		in 50 mM citrate buffer, at pH 5.5 and 70C
+167.4	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	75	5.4		pH 5.4, 75C
+1	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	37	4.5		230000 Da form, pH 4.5, 37C
+6.6	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant F198V
+9.2	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant F469Y
+10.1	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant V196F/L203F
+11.4	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant A375P
+11.6	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	65	6.0	X	mutant N62Y/Q63K/L231F/V303A/E386G/A412V, pH 6.0, 65C
+13	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	37	4.5		130000 Da form, pH 4.5, 37C
+13.7	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	40	7.3		pH 7.3, 40C
+13.8	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	37	5.8		pH 5.8, 37C, wild-type
+19.1	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant F198V/F205L/P377A
+19.83	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	25	5.8		pH 5.8, 25C, wild-type
+31.19	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim15 (chimeric construct: parental Zea mays Glu1 with exchanged domain 496-518 of Sorghum Dhr1)
+31.19	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim15 (chimeric construct: parental Zea mays Glu1 with exchanged domain 496-518 of Sorghum Dhr1)
+36.4	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant D261N
+37.05	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim21 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-473 of Sorghum Dhr1)
+37.05	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim21 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-473 of Sorghum Dhr1)
+45.65	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim22 (chimeric construct: parental Zea mays Glu1 with exchanged domain 481-490 of Sorghum Dhr1)
+45.65	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim22 (chimeric construct: parental Zea mays Glu1 with exchanged domain 481-490 of Sorghum Dhr1)
+53.9	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	65	5.0	X	mutant N62Y/Q63K/L231F/V303A/E386G/A412V, pH 5.0, 65C
+54.02	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim16 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-495 of Sorghum Dhr1)
+54.02	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim16 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-495 of Sorghum Dhr1)
+64.25	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim2 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-518 of Sorghum Dhr1)
+64.25	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	25	5.8	X	pH 5.8, 25C, mutant Chim2 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-518 of Sorghum Dhr1)
+72.9	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	65	6.5	X	mutant E387G, pH 6.5, 65C, presence of 2 M formate
+74.4	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant P377A
+121.5	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	37	5.8		pH 5.8, 37C, wild-type
+137.3	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant F205L
+143.8	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant M263F
+172.4	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant F466S
+177.1	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant F466S/A467S
+305	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	65	4.0	X	mutant N62Y/Q63K/L231F/V303A/E386G/A412V, pH 4.0, 65C
+309	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	65	6.5		wild-type, pH 6.5, 65C
+353.2	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	37	5.8	X	pH 5.8, 37C, mutant Y473F
+439.8	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	65	6.5		wild-type, pH 6.5, 65C, presence of 2 M formate
+970	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	65	3.0	X	mutant N62Y/Q63K/L231F/V303A/E386G/A412V, pH 3.0, 65C
+0.03	Arbutin	837	BJRNKVDFDLYUGJ-RMPHRYRLSA-N	40	6.5		40C, pH 6.5
+0.1	Arbutin	837	BJRNKVDFDLYUGJ-RMPHRYRLSA-N	40	6.5		40C, pH 6.5
+0.15	Arbutin	837	BJRNKVDFDLYUGJ-RMPHRYRLSA-N	40	5.0		40C, pH 5.0
+1.06	Arbutin	837	BJRNKVDFDLYUGJ-RMPHRYRLSA-N	40	6.0		40C, pH 6.0
+0.16	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant F205L
+0.21	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant M263F
+0.55	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant F466S/A467S
+0.59	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant F466S
+0.7	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant F198V/F205L/P377A
+1.13	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant Y473F
+1.32	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, chimeric mutant (Chim21) bearing a C-terminal octapeptide (466-477) exchanged with the homologous octapeptide of Sorghum Dhr1
+2.23	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, chimeric mutant (Chim16) bearing a C-terminal octapeptide (466-477) exchanged with the homologous octapeptide of Sorghum Dhr1 (with an extra 22 amino acids substitution)
+3.6	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant A375P
+3.7	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant V196F/L203F
+6.52	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant F469Y
+13.46	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim15 (chimeric construct: parental Zea mays Glu1 with exchanged domain 496-518 of Sorghum Dhr1)
+13.46	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim15 (chimeric construct: parental Zea mays Glu1 with exchanged domain 496-518 of Sorghum Dhr1)
+14.3	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8		pH 5.8, 37C, wild-type
+18.68	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim17 (chimeric construct: parental Sorghum Dhr1 with exchanged domain 462-508 of Zea mays)
+18.68	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim17 (chimeric construct: parental Sorghum Dhr1 with exchanged domain 462-508 of Zea mays)
+22.7	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim2 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-518 of Sorghum Dhr1)
+22.7	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim2 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-518 of Sorghum Dhr1)
+23.41	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim39 (chimeric construct: parental Sorghum Dhr1 with exchanged domain 466-492 of Zea mays)
+23.41	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim39 (chimeric construct: parental Sorghum Dhr1 with exchanged domain 466-492 of Zea mays)
+27.17	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim22 (chimeric construct: parental Zea mays Glu1 with exchanged domain 481-490 of Sorghum Dhr1)
+27.17	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim22 (chimeric construct: parental Zea mays Glu1 with exchanged domain 481-490 of Sorghum Dhr1)
+31.83	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim16 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-495 of Sorghum Dhr1)
+31.83	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim16 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-495 of Sorghum Dhr1)
+46.02	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim21 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-473 of Sorghum Dhr1)
+46.02	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim21 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-473 of Sorghum Dhr1)
+53.96	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim23 (chimeric construct: parental Sorghum Dhr1 with exchanged domain 492-508 of Zea mays)
+53.96	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim23 (chimeric construct: parental Sorghum Dhr1 with exchanged domain 492-508 of Zea mays)
+77.7	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N	37	5.8		pH 5.8, 37C, wild-type
+0.1	p-nitrophenyl-alpha-D-mannopyranoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	40	5.0		40C, pH 5.0
+0.058	4-nitrophenyl beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30	6.0	X	mutant K201A, 30C, pH 6.0
+0.072	4-nitrophenyl beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30	6.0	X	mutant E190A, 30C, pH 6.0
+0.153	4-nitrophenyl beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30	6.0	X	mutant E190Q, 30C, pH 6.0
+0.174	4-nitrophenyl beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30	6.0	X	mutant M453A, 30C, pH 6.0
+0.189	4-nitrophenyl beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30	6.0	X	mutant E194A, 30C, pH 6.0
+0.269	4-nitrophenyl beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30	6.0		wild-type, 30C, pH 6.0
+4.03	4-nitrophenyl beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30	6.0	X	mutant K201F, 30C, pH 6.0
+5	cellohexaose	1209	OCIBBXPLUVYKCH-FYTDUCIRSA-N	37	4.5		230000 Da form, pH 4.5, 37C
+8	cellohexaose	1209	OCIBBXPLUVYKCH-FYTDUCIRSA-N	37	4.5		130000 Da form, pH 4.5, 37C
+0.32	p-nitrophenyl-beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	40	6.0		40C, pH 6.0
+7.2	4-methylumbelliferyl beta-D-glucoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	40	7.3		pH 7.3, 40C
+1.6	D-cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant L444F
+4.3	D-cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant N317Y/N439S
+12.3	D-cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant A433V
+14	D-cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant N317Y
+16.3	D-cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	25	7.2		pH 7.2, 25C, recombinant wild-type enzyme
+16.8	D-cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant N317Y/L444F
+19.2	D-cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant N317Y/L444F/A433V
+21	D-cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant S319C
+22.3	D-cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant N178I
+29.5	D-cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant N439S
+111.3	D-cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant S319C
+0.17	p-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30	6.0		30C, pH 6.0
+0.62	p-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	40	6.0		40C, pH 6.0
+0.93	p-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	40	5.0		40C, pH 5.0
+17.6	p-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	50	6.5		50C, pH 6.5
+17.6	p-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	37	6.5		37C, pH 6.5
+118	p-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	50	6.5		50C, pH 6.5
+0.077	laminaritriose	1390	DBTMGCOVALSLOR-OGEYSLCJSA-N	50	5.0		pH 5.0, 50C
+1.64	laminaritriose	1390	DBTMGCOVALSLOR-OGEYSLCJSA-N	30	5.0		in 100 mM sodium acetate, pH 5.0, at 30C
+0.05	4-methylumbelliferyl-beta-D-glucopyranoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	40	5.0		40C, pH 5.0
+1.73	4-methylumbelliferyl-beta-D-glucopyranoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	30	6.0		30C, pH 6.0
+11.7	4-methylumbelliferyl-beta-D-glucopyranoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	30	6.5		30C, pH 6.5
+7.72	2-Nitrophenyl-beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	30	6.5		30C, pH 6.5
+308	2-Nitrophenyl-beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	40	6.5		pH 6.5, 40C
+860	2-Nitrophenyl-beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N				
+0.348	4-nitrophenyl beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	30	6.0	X	mutant E190A, 30C, pH 6.0
+0.668	4-nitrophenyl beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	30	6.0	X	mutant K201F, 30C, pH 6.0
+0.98	4-nitrophenyl beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	30	6.0	X	mutant E194A, 30C, pH 6.0
+2.43	4-nitrophenyl beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	30	6.0	X	mutant K201A, 30C, pH 6.0
+4.15	4-nitrophenyl beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	30	6.0	X	mutant M453A, 30C, pH 6.0
+7.14	4-nitrophenyl beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	30	6.0		wild-type, 30C, pH 6.0
+8.9	4-nitrophenyl beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	30	6.0	X	mutant K201F, 30C, pH 6.0
+1.7	4-methylumbelliferyl beta-D-glucopyranoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	37	5.8	X	pH 5.8, 37C, mutant F198V/F205L/P377A
+3.4	4-methylumbelliferyl beta-D-glucopyranoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	37	5.8	X	pH 5.8, 37C, mutant F198V
+8.8	4-methylumbelliferyl beta-D-glucopyranoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	60	4.0		pH 4.0, 60C
+16.8	4-methylumbelliferyl beta-D-glucopyranoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	37	5.8	X	pH 5.8, 37C, mutant P377A
+17.2	4-methylumbelliferyl beta-D-glucopyranoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	37	5.8	X	pH 5.8, 37C, mutant D261N
+17.8	4-methylumbelliferyl beta-D-glucopyranoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	37	5.8	X	pH 5.8, 37C, mutant M263F
+30.3	4-methylumbelliferyl beta-D-glucopyranoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	37	5.8		pH 5.8, 37C, wild-type
+34.3	4-methylumbelliferyl beta-D-glucopyranoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	37	5.8	X	pH 5.8, 37C, mutant F205L
+63.4	4-methylumbelliferyl beta-D-glucopyranoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	37	5.8	X	pH 5.8, 37C, mutant Y473F
+87.2	4-methylumbelliferyl beta-D-glucopyranoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	37	5.8	X	pH 5.8, 37C, mutant F466S/A467S
+97.9	4-methylumbelliferyl beta-D-glucopyranoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	37	5.8	X	pH 5.8, 37C, mutant F466S
+0.0004	4-nitrophenyl-beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	30		X	mutant enzyme Q39N/E451S, at 30C
+0.00053	4-nitrophenyl-beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	30		X	mutant enzyme E451S, at 30C
+0.00061	4-nitrophenyl-beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	30		X	mutant enzyme E451A, at 30C
+0.022	4-nitrophenyl-beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	30		X	mutant enzyme Q39N, at 30C
+0.0236	4-nitrophenyl-beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	30		X	mutant enzyme Q39E/E451A, at 30C
+0.0342	4-nitrophenyl-beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	30		X	mutant enzyme Q39E/E451S, at 30C
+1.49	4-nitrophenyl-beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	30		X	mutant enzyme Q39E, at 30C
+3.3	4-nitrophenyl-beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	30			wild type enzyme, at 30C
+0.32	amygdalin	1757	XUCIJNAGGSZNQT-JHSLDZJXSA-N	30	6.0		30C, pH 6.0
+7.9	amygdalin	1757	XUCIJNAGGSZNQT-JHSLDZJXSA-N	50	6.2		pH 6.2, 50C
+3.7	sophorose	1775	HIWPGCMGAMJNRG-RTPHMHGBSA-N	50	6.2		pH 6.2, 50C
+9.8	sophorose	1775	HIWPGCMGAMJNRG-RTPHMHGBSA-N	30	5.0		beta-(1-2)-linked sophorose, in 100 mM sodium acetate, pH 5.0, at 30C
+136.4	sophorose	1775	HIWPGCMGAMJNRG-RTPHMHGBSA-N	60	4.5		60C, pH 4.5
+820	sophorose	1775	HIWPGCMGAMJNRG-RTPHMHGBSA-N	40	5.0		pH 5.0, 40C
+0.000285	4-nitrophenyl-beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30		X	mutant enzyme E451A, at 30C
+0.00038	4-nitrophenyl-beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30		X	mutant enzyme Q39N, at 30C
+0.0006	4-nitrophenyl-beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30		X	mutant enzyme Q39N/E451S, at 30C
+0.00093	4-nitrophenyl-beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30		X	mutant enzyme E451S, at 30C
+0.0036	4-nitrophenyl-beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30		X	mutant enzyme Q39E/E451A, at 30C
+0.0065	4-nitrophenyl-beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30		X	mutant enzyme Q39E/E451S, at 30C
+0.0377	4-nitrophenyl-beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30		X	mutant enzyme Q39E, at 30C
+0.35	4-nitrophenyl-beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30			wild type enzyme, at 30C
+2.1	strictosidine	2064	XBAMJZTXGWPTRM-NTXHKPOFSA-N	30	5.0		pH 5.0, 30C
+3.13	4-nitrophenyl-beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N				recombinant wild-type enzyme
+22.1	4-nitrophenyl-beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	30	6.5		pH 6.5, 30C, wild-type enzyme
+27.7	4-nitrophenyl-beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	30	6.5		pH 6.5, 30C, wild-type enzyme
+33.5	4-nitrophenyl-beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	30	5.0		in 100 mM sodium acetate, pH 5.0, at 30C
+182	4-nitrophenyl-beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	90	6.0		in 100 mM citrate/phosphate buffer, at pH 6.0 and 90C
+516	4-nitrophenyl-beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	70	5.5		in 50 mM citrate buffer, at pH 5.5 and 70C
+0.00188	4-nitrophenyl beta-D-xyloside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	30	6.0	X	mutant E190A, 30C, pH 6.0
+0.0073	4-nitrophenyl beta-D-xyloside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	30	6.0	X	mutant K201A, 30C, pH 6.0
+0.0127	4-nitrophenyl beta-D-xyloside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	30	6.0	X	mutant E194A, 30C, pH 6.0
+0.0211	4-nitrophenyl beta-D-xyloside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	30	6.0	X	mutant E190Q, 30C, pH 6.0
+0.0238	4-nitrophenyl beta-D-xyloside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	30	6.0	X	mutant M453A, 30C, pH 6.0
+0.0302	4-nitrophenyl beta-D-xyloside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	30	6.0		wild-type, 30C, pH 6.0
+0.089	4-nitrophenyl beta-D-xyloside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	30	6.0	X	mutant K201F, 30C, pH 6.0
+0.49	p-nitrophenyl-alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	40	5.0		40C, pH 5.0
+0.01	p-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	30	6.0		30C, pH 6.0
+0.75	p-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	37	6.5		37C, pH 6.5
+0.02	esculin	2380	XHCADAYNFIFUHF-TVKJYDDYSA-N	40	5.0		40C, pH 5.0
+1.57	esculin	2380	XHCADAYNFIFUHF-TVKJYDDYSA-N	40	6.0		40C, pH 6.0
+0.22	4-nitrophenyl-beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N			X	mutant F193A
+0.63	4-nitrophenyl-beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N			X	mutant W373K
+2.43	4-nitrophenyl-beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N			X	mutant F200K
+42.8	4-nitrophenyl-beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N				wild-type
+49.27	4-nitrophenyl-beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N			X	mutant F461L
+0.22	4-methylumbelliferyl-beta-D-glucoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N			X	mutant W373K
+1.29	4-methylumbelliferyl-beta-D-glucoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N			X	mutant F193A
+1.87	4-methylumbelliferyl-beta-D-glucoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N			X	mutant F200K
+53.8	4-methylumbelliferyl-beta-D-glucoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N				wild-type
+70.88	4-methylumbelliferyl-beta-D-glucoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N			X	mutant F461L
+0.2	daidzin	3054	KYQZWONCHDNPDP-QNDFHXLGSA-N	40	6.5		40C, pH 6.5
+0.4	daidzin	3054	KYQZWONCHDNPDP-QNDFHXLGSA-N	40	6.5		40C, pH 6.5
+2532	daidzin	3054	KYQZWONCHDNPDP-QNDFHXLGSA-N	90	5.5		pH 5.5, 90C
+2.4	p-nitrophenyl-beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	30	6.0		30C, pH 6.0
+10.7	p-nitrophenyl-beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	50	6.5		50C, pH 6.5
+10.7	p-nitrophenyl-beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	37	6.5		37C, pH 6.5
+37.1	p-nitrophenyl-beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	50	6.5		50C, pH 6.5
+0.02	4-methylumbeliferyl beta-D-glucoside	3490	YUDPTGPSBJVHCN-SLZITWOASA-N	30	6.0	X	mutant E190A, 30C, pH 6.0
+0.032	4-methylumbeliferyl beta-D-glucoside	3490	YUDPTGPSBJVHCN-SLZITWOASA-N	30	6.0	X	mutant K201A, 30C, pH 6.0
+0.114	4-methylumbeliferyl beta-D-glucoside	3490	YUDPTGPSBJVHCN-SLZITWOASA-N	30	6.0	X	mutant E190Q, 30C, pH 6.0
+0.231	4-methylumbeliferyl beta-D-glucoside	3490	YUDPTGPSBJVHCN-SLZITWOASA-N	30	6.0		wild-type, 30C, pH 6.0
+0.2674	4-methylumbeliferyl beta-D-glucoside	3490	YUDPTGPSBJVHCN-SLZITWOASA-N	30	6.0	X	mutant E194A, 30C, pH 6.0
+0.62	4-methylumbeliferyl beta-D-glucoside	3490	YUDPTGPSBJVHCN-SLZITWOASA-N	30	6.0	X	mutant M453A, 30C, pH 6.0
+1.32	4-methylumbeliferyl beta-D-glucoside	3490	YUDPTGPSBJVHCN-SLZITWOASA-N	30	6.0	X	mutant K201F, 30C, pH 6.0
+10.2	4-nitrophenyl-beta-D-xyloside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	50	5.0		pH 5.0, 50C
+234.8	n-octyl-beta-D-glucopyranoside	1726	HEGSGKPQLMEBJL-RKQHYHRCSA-N	60	4.5		60C, pH 4.5
+0.06	octyl-beta-D-glucopyranoside	1726	HEGSGKPQLMEBJL-RKQHYHRCSA-N	30	6.0		30C, pH 6.0
+1.4	o-nitrophenyl-beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	40	5.0		40C, pH 5.0
+235.2	o-nitrophenyl-beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	60	4.5		60C, pH 4.5
+9	4-nitrophenyl-alpha-L-arabinopyranoside	4624	MLJYKRYCCUGBBV-MMWGEVLESA-N	30	6.5		pH 6.5, 30C, wild-type enzyme
+119	4-nitrophenyl-alpha-L-arabinopyranoside	4624	MLJYKRYCCUGBBV-MMWGEVLESA-N	30	6.5		pH 6.5, 30C, wild-type enzyme
+4.75	avenacoside	4649	AAJHVVLGKCKBSH-GXJFFCKMSA-N		6.8	X	pH 6.8, isoform AsGlu2 mutant E495K
+29	avenacoside	4649	AAJHVVLGKCKBSH-GXJFFCKMSA-N	30	6.8		pH 6.8, 30C, hexameric enzyme form
+402	avenacoside	4649	AAJHVVLGKCKBSH-GXJFFCKMSA-N		6.8		pH 6.8, isoform AsGlu1
+443	avenacoside	4649	AAJHVVLGKCKBSH-GXJFFCKMSA-N		6.8		pH 6.8, isoform AsGlu2
+950	beta-gentiobiose	645	DLRVVLDZNNYCBX-LIZSDCNHSA-N	40	5.0		pH 5.0, 40C
+0.66	phenyl-beta-D-glucopyranoside	3359	NEZJDVYDSZTRFS-RMPHRYRLSA-N	30	6.5		30C, pH 6.5
+14	4-nitrophenyl-beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	90	6.0		in 100 mM citrate/phosphate buffer, at pH 6.0 and 90C
+0.033	Laminaran	384	QRQPYXNDWFIBPU-SFTAMDAYSA-N	50	5.0		pH 5.0, 50C
+17500	4-nitrophenyl-beta-D-cellobioside	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	90	7.0		pH 7.0, 90C
+5.97	p-nitrophenyl-alpha-L-arabinopyranoside	4624	MLJYKRYCCUGBBV-MMWGEVLESA-N	37	6.5		37C, pH 6.5
+6.4	vincoside	7424	XBAMJZTXGWPTRM-KTSWSYMLSA-N	30	5.0		pH 5.0, 30C
+51.6	ipecoside	7427	QISXROCIXKXUPS-URLIENJSSA-N	30	5.0		pH 5.0, 30C
+3.55	daidzein-7-beta-D-glucopyranoside	3054	KYQZWONCHDNPDP-QNDFHXLGSA-N	37	6.5		37C, pH 6.5
+5.12	daidzein-7-beta-D-glucopyranoside	3054	KYQZWONCHDNPDP-QNDFHXLGSA-N	40	6.0		40C, pH 6.0
+1.53	genistein-7-beta-D-glucopyranoside	3383	ZCOLJUOHXJRHDI-CMWLGVBASA-N	37	6.5		37C, pH 6.5
+5.31	genistein-7-beta-D-glucopyranoside	3383	ZCOLJUOHXJRHDI-CMWLGVBASA-N	40	6.0		40C, pH 6.0
+96.2	p-nitrophenyl-beta-D-glucose	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N				wild-type BGL
+103.1	p-nitrophenyl-beta-D-glucose	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N				recombinant BGL
+1.08	quercetin-4'-beta-D-glucopyranoside	9046	OIUBYZLTFSLSBY-HMGRVEAOSA-N	50	6.5		50C, pH 6.5
+1.08	quercetin-4'-beta-D-glucopyranoside	9046	OIUBYZLTFSLSBY-HMGRVEAOSA-N	37	6.5		37C, pH 6.5
+0.69	quercetin-7-beta-D-glucopyranoside	8467	BBFYUPYFXSSMNV-HMGRVEAOSA-N	50	6.5		50C, pH 6.5
+0.69	quercetin-7-beta-D-glucopyranoside	8467	BBFYUPYFXSSMNV-HMGRVEAOSA-N	37	6.5		37C, pH 6.5
+1.17	luteolin-4'-beta-D-glucopyranoside	11685	UHNXUSWGOJMEFO-QNDFHXLGSA-N	50	6.5		50C, pH 6.5
+1.17	luteolin-4'-beta-D-glucopyranoside	11685	UHNXUSWGOJMEFO-QNDFHXLGSA-N	37	6.5		37C, pH 6.5
+3.05	luteolin-7-beta-D-glucopyranoside	2587	PEFNSGRTCBGNAN-QNDFHXLGSA-N	50	6.5		50C, pH 6.5
+3.05	luteolin-7-beta-D-glucopyranoside	2587	PEFNSGRTCBGNAN-QNDFHXLGSA-N	37	6.5		37C, pH 6.5
+2.6	naringenin-7-beta-D-glucopyranoside	6280	DLIKSSGEMUFQOK-SFTVRKLSSA-N	50	6.5		50C, pH 6.5
+2.6	naringenin-7-beta-D-glucopyranoside	6280	DLIKSSGEMUFQOK-SFTVRKLSSA-N	37	6.5		37C, pH 6.5
+1.26	eriodictyol-7-beta-D-glucopyranoside	11686	RAFHNDRXYHOLSH-SFTVRKLSSA-N	50	6.5		50C, pH 6.5
+1.26	eriodictyol-7-beta-D-glucopyranoside	11686	RAFHNDRXYHOLSH-SFTVRKLSSA-N	37	6.5		37C, pH 6.5
+1.53	apigenin-7-beta-D-glucopyranoside	8515	KMOUJOKENFFTPU-QNDFHXLGSA-N	37	6.5		37C, pH 6.5
+0.17	apigetrin	8515	KMOUJOKENFFTPU-QNDFHXLGSA-N	40	6.5		40C, pH 6.5
+0.6	apigetrin	8515	KMOUJOKENFFTPU-QNDFHXLGSA-N	40	6.5		40C, pH 6.5
+3.55	daidzein 7-O-beta-D-glucopyranoside	3054	KYQZWONCHDNPDP-QNDFHXLGSA-N	50	6.5		50C, pH 6.5
+0.66	p-nitrophenyl-beta-L-arabinopyranoside	8547	MLJYKRYCCUGBBV-UKKRHICBSA-N	37	6.5		37C, pH 6.5
+0.3	quercetin-3,4'-di-beta-D-glucopyranoside	15128	RPVIQWDFJPYNJM-DEFKTLOSSA-N	37	6.5		37C, pH 6.5
+3.92	apigenin-7-O-beta-D-glucopyranoside	8515	KMOUJOKENFFTPU-QNDFHXLGSA-N	40	6.0		40C, pH 6.0
+13	genistein 7-O-beta-D-glucoside	3383	ZCOLJUOHXJRHDI-CMWLGVBASA-N	30	7.0		pH 7.0, 30C
+1.5	quercetin-4'-O-beta-D-glucoside	9046	OIUBYZLTFSLSBY-HMGRVEAOSA-N				recombinant wild-type enzyme
+0.6	quercetin-7-O-beta-D-glucoside	8467	BBFYUPYFXSSMNV-HMGRVEAOSA-N				recombinant wild-type enzyme
+1.4	naringenin-7-glucoside	6280	DLIKSSGEMUFQOK-SFTVRKLSSA-N				recombinant wild-type enzyme
+0.73	eriodictyol-7-glucoside	11686	RAFHNDRXYHOLSH-SFTVRKLSSA-N				recombinant wild-type enzyme
+1.88	4-nitrophenyl-alpha-L-arabino-pyranoside	4624	MLJYKRYCCUGBBV-MMWGEVLESA-N				recombinant wild-type enzyme
+0.29	4-nitrophenyl beta-L-arabinopyranoside	8547	MLJYKRYCCUGBBV-UKKRHICBSA-N				recombinant wild-type enzyme
+31.1	6-O-methyl-N-deacetylipecoside	18051	LJWLPPYGYDAGSL-YVJMXFEMSA-N	30	5.0		pH 5.0, 30C
+0.056	gentobiose	645	DLRVVLDZNNYCBX-LIZSDCNHSA-N	50	5.0		pH 5.0, 50C
+4.45	genistein-7-O-glucoside	3383	ZCOLJUOHXJRHDI-CMWLGVBASA-N	40	5.0		40C, pH 5.0
+4.38	genistein-7-O-glucosyl-6''-O-malonate	23141	FRAUJUKWSKMNJY-RSEYPYQYSA-N	40	5.0		40C, pH 5.0
+3.07	daidzein-7-O-glucoside	3054	KYQZWONCHDNPDP-QNDFHXLGSA-N	40	5.0		40C, pH 5.0
+4.34	daidzein-7-O-glucosyl-6''-O-malonate	23142	MTXMHWSVSZKYBT-ASDZUOGYSA-N	40	5.0		40C, pH 5.0
+3.32	4-bromophenyl-beta-D-glucopyranoside	23144	XKNTYHQVRMHDHY-RMPHRYRLSA-N	30	6.5		30C, pH 6.5
+15.8	3-nitrophenyl-beta-D-glucopyranoside	23145	VCCMGHVCRFMITI-RMPHRYRLSA-N	30	6.5		30C, pH 6.5
+20.5	3,5-dinitrophenyl-beta-D-glucopyranoside	23146	VNPOTVPDCPRUPK-RMPHRYRLSA-N	30	6.5		30C, pH 6.5
+18.2	3,4-dinitrophenyl-beta-D-glucopyranoside	23147	AXPKTIFWSNCTCQ-RMPHRYRLSA-N	30	6.5		30C, pH 6.5
+11.7	2,3-dinitrophenyl-beta-D-glucopyranoside	23148	CBBGSOOJTZUVEP-DVYMNCLGSA-N	30	6.5		30C, pH 6.5
+30.4	2,4-dinitrophenyl-beta-D-glucopyranoside	5095	XAJUPNGKLHFUED-RMPHRYRLSA-N	30	6.5		30C, pH 6.5
+6	p-nitrophenyl-beta-D-arabinopyranoside	23149	MLJYKRYCCUGBBV-ZNSHCXBVSA-N	50	6.5		50C, pH 6.5
+0.24	daidzein-7-malonyl-beta-D-glucopyranoside	23150	CAGQTSQIFMPNLH-JCTDHXFVSA-N	37	6.5		37C, pH 6.5
+98	genistein 7-O-(6''-O-malonyl-beta-D-glucoside)	23141	FRAUJUKWSKMNJY-RSEYPYQYSA-N	30	7.0		pH 7.0, 30C
+46	daidzein 7'-O-(6''-O-beta-D-malonyl-beta-D-glucoside)	23142	MTXMHWSVSZKYBT-ASDZUOGYSA-N	30	7.0		pH 7.0, 30C
+22	daidzein 7'-O-beta-D-glucoside	3054	KYQZWONCHDNPDP-QNDFHXLGSA-N	30	7.0		pH 7.0, 30C
+13.9	plumieride coumarate beta-D-glucoside	24852	AFYIWKNGSIYXCQ-ARTOWFLDSA-N	37	5.5		pH 5.5, 37C
+0.77	apigenin-7-O-beta-D-glucoside	8515	KMOUJOKENFFTPU-QNDFHXLGSA-N				recombinant wild-type enzyme
+28.2	N-deacetylipecoside	26410	MTAVTRZTGFLKSC-MDXCLUIBSA-N	30	5.0		pH 5.0, 30C
+4.25	n-heptyl-beta-D-glucoside	6881	NIDYWHLDTIVRJT-UJPOAAIJSA-N	30	5.0		in 100 mM sodium acetate, pH 5.0, at 30C
+0.56	N,N'-diacetyl-beta-chitobiose	1024	CDOJPCSDOXYJJF-KSKNGZLJSA-N	60	4.0		pH 4.0, 60C
+49	2-nitrophenyl-beta-1,4-D-galactopyranoside-6-phosphate	32195	GLGLUKUEPQHGAS-JCIQBVFBSA-O				
+2.68	genistein-7-beta-D-glucosyl-6''-O-malonate	23141	FRAUJUKWSKMNJY-RSEYPYQYSA-N	40	6.0		40C, pH 6.0
+2.39	daidzein-7-beta-D-glucosyl-6''-O-malonate	23142	MTXMHWSVSZKYBT-ASDZUOGYSA-N	40	6.0		40C, pH 6.0
+284.2	beta,beta-trehalose	36772	HDTRYLNUVZCQOY-NCFXGAEVSA-N	60	4.5		60C, pH 4.5
+0.038	4-O-alpha-D-mannopyranosyl-D-mannopyranose	68559	GUBGYTABKSRVRQ-VQCGNKTKSA-N	90	3.5		pH 3.5, 90C
+0.34	2,4-dinitrophenyl beta-D-glucoside	68470	HGMXBTIXPZIYDV-RMPHRYRLSA-N	40	6.0	X	mutant enzyme E490A, in 0.1 M sodium acetate, pH 6.0, at 40C
+2.12	2,4-dinitrophenyl beta-D-glucoside	68470	HGMXBTIXPZIYDV-RMPHRYRLSA-N	40	4.0	X	mutant enzyme E490A, in 0.1 M sodium acetate, pH 4.0, at 40C
+71	2,4-dinitrophenyl beta-D-glucoside	68470	HGMXBTIXPZIYDV-RMPHRYRLSA-N	40	6.0		wild type enzyme, in 0.1 M sodium acetate, pH 6.0, at 40C
+422	2,4-dinitrophenyl beta-D-glucoside	68470	HGMXBTIXPZIYDV-RMPHRYRLSA-N	40	4.0		wild type enzyme, in 0.1 M sodium acetate, pH 4.0, at 40C

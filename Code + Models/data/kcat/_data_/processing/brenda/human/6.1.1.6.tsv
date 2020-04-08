@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.38	tRNALys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	30		X	human wild-type tRNALys, 30C, N-terminally truncated mutant enzyme
+1.7	tRNALys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	20			human wild-type tRNALys, 20C, wild-type enzyme
+2	tRNALys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	30			human wild-type tRNALys, 30C, wild-type enzyme

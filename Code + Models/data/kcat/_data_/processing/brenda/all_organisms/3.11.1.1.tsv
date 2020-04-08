@@ -1,0 +1,24 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000084	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5	X	mutant D186A, pH 7.5, 25C
+0.0012	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5	X	mutant D12E, pH 7.5, 25C
+0.00247	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5	X	25C, pH 7.5, mutant enzyme m49L
+0.006	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5	X	25C, pH 7.5, mutant enzyme H56Q
+0.0071	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5	X	25C, pH 7.5, mutant enzyme G50A
+0.012	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5	X	mutant K183A, pH 7.5, 25C
+0.022	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5	X	mutant D190A, pH 7.5, 25C
+0.046	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5	X	mutant K183L, pH 7.5, 25C
+0.075	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5	X	mutant H56A, pH 7.5, 25C
+0.077	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5	X	mutant Y128A, pH 7.5, 25C
+0.25	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5		25C, pH 7.5, wild-type enzyme
+1.28	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5	X	triple mutant K121R/K146R/K192R, pH 7.5, 25C
+1.7	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5	X	mutant G185D/D190G, pH 7.5, 25C
+1.95	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5	X	mutant C22A, pH 7.5, 25C
+2.11	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5	X	mutant Y128F/C22S, pH 7.5, 25C
+2.21	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5	X	mutant Y128F, pH 7.5, 25C
+2.26	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5	X	mutant C22S, pH 7.5, 25C
+2.94	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5	X	mutant C22S, pH 7.5, 25C; mutant Y128F/C22S, pH 7.5, 25C; mutant Y128F, pH 7.5, 25C
+6.08	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5	X	triple mutant K121R/K146R/K192R, pH 7.5, 25C
+15	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5		wild-type enzyme, pH 7.5, 25C
+15	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5		wild-type enzyme, pH 7.5, 25C
+15	phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	7.5	X	wild-type enzyme and mutant M49L, pH 7.5, 25C
+16.7	2-phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N				

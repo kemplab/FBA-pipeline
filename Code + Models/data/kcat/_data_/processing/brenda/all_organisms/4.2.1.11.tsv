@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.018	2-phosphoglycerate	606	GXIURPTVHJPJLF-UHFFFAOYSA-N	23	7.8	X	mutant enzyme S39A, pH 7.8, 21-23C
+15.47	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		7.8		in 50 mM imidazole-HCl buffer, pH 7.8, with 1 mM MgSO4, 0.4 M KCl
+19.4	2-phospho-D-glycerate	783	GXIURPTVHJPJLF-UWTATZPHSA-N		7.1		isoform Err3p, in 50 mM imidazole, pH 7.1, 250 mM KCl, 1 mM Mg(OAc)2, 0.1 mM EDTA, temperature not specified in the publication
+19.7	2-phospho-D-glycerate	783	GXIURPTVHJPJLF-UWTATZPHSA-N		7.1		isoform Err2p, in 50 mM imidazole, pH 7.1, 250 mM KCl, 1 mM Mg(OAc)2, 0.1 mM EDTA, temperature not specified in the publication
+20.6	2-phospho-D-glycerate	783	GXIURPTVHJPJLF-UWTATZPHSA-N				recombinant, dimeric enzyme
+22.2	2-phospho-D-glycerate	783	GXIURPTVHJPJLF-UWTATZPHSA-N				recombinant, His-tagged, hexameric enzyme
+34.07	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		6.8		in 50 mM imidazole-HCl buffer, pH 6.8, with 3 mM MgSO4, 0.4 M KCl
+37	2-phospho-D-glycerate	783	GXIURPTVHJPJLF-UWTATZPHSA-N	25	7.4		1.5 mM MgCl2 in 50 mM Tris/HCl (pH 7.4), at 25C
+52.7	2-phospho-D-glycerate	783	GXIURPTVHJPJLF-UWTATZPHSA-N		7.8		in 50 mM imidazole-HCl buffer, pH 7.8, with 1 mM MgSO4, 0.4 M KCl
+71.4	2-phospho-D-glycerate	783	GXIURPTVHJPJLF-UWTATZPHSA-N		7.1		isoform Eno1p, in 50 mM imidazole, pH 7.1, 250 mM KCl, 1 mM Mg(OAc)2, 0.1 mM EDTA, temperature not specified in the publication
+78	2-phosphoglycerate	606	GXIURPTVHJPJLF-UHFFFAOYSA-N				wild-type enzyme
+81.68	2-phospho-D-glycerate	783	GXIURPTVHJPJLF-UWTATZPHSA-N		6.8		in 50 mM imidazole-HCl buffer, pH 6.8, with 3 mM MgSO4, 0.4 M KCl
+230	2-phosphoglycerate	606	GXIURPTVHJPJLF-UHFFFAOYSA-N	23	7.8		native enolase, pH 7.8, 21-23C

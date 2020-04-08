@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.5	ferrocytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	40	7.5		pH 7.5, 40C
+239	caldariellaquinol	3228	UVCQOKDZGIAHDG-UHFFFAOYSA-N	50	6.5		pH 6.5, 50C, enzyme in liposomes (tetraether lipids)
+393	caldariellaquinol	3228	UVCQOKDZGIAHDG-UHFFFAOYSA-N	50	6.5		pH 6.5, 50C, enzyme in detergent micelle (dodecyl-beta-D-maltoside)
+66.9	N,N,N',N'-tetramethyl-1,4-phenylenediamine	1590	CJAOGUFAAWZWNI-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+157	N,N,N',N'-tetramethyl-1,4-phenylenediamine	1590	CJAOGUFAAWZWNI-UHFFFAOYSA-N	40	6.5		pH 6.5, 40C, enzyme in detergent micelle (dodecyl-beta-D-maltoside)
+404	N,N,N',N'-tetramethyl-1,4-phenylenediamine	1590	CJAOGUFAAWZWNI-UHFFFAOYSA-N	40	6.5		pH 6.5, 40C, enzyme in liposomes (tetraether lipids)

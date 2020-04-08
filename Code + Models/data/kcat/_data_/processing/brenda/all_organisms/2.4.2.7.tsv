@@ -1,0 +1,23 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0095	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N				
+11.3	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N				
+0.0095	AMP	9	UDMBCSSLTHHNCD-KQYNXXCUSA-N				
+2.8	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N				
+5.3	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	60	4.1		60C, pH 4.1
+5.4	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	60	7.4		60C, pH 7.4
+9.33	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N				cosubstrate 5-phospho-alpha-D-ribose 1-diphosphate
+0.0001	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N			X	mutant E106L
+0.003	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N			X	mutant R69A
+0.05	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N			X	mutant E106Q
+0.3	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N			X	mutant Y107D
+0.7	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N			X	mutant G108H
+0.8	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N			X	mutant K90A
+2.8	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N				
+4	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N			X	mutant Y107F
+5	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	60	4.1		60C, pH 4.1
+7.2	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	60	7.4		60C, pH 7.4
+10	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N			X	mutant R89A
+17.9	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N				
+30	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N			X	wild-type enzyme, mutant G108A
+40	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N			X	mutant K93A
+1000	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N			X	mutant Y103F

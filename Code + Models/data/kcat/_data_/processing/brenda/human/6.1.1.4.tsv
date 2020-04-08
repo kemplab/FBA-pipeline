@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.028	tRNALeu	383	AXIYUBFLNLCQCD-UHFFFAOYSA-N	37	7.6		37C, pH 7.6, tRNALeu from calf liver, leucylation, full-length enzyme
+0.059	tRNALeu	383	AXIYUBFLNLCQCD-UHFFFAOYSA-N	37	7.6		37C, pH 7.6, tRNALeu from calf liver, leucylation, DELTAChcLeuRS (a C-terminal 89-amino acid truncated enzyme form)
+0.07	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	37	7.5		pH 7.5, 37C
+0.12	tRNALeu	383	AXIYUBFLNLCQCD-UHFFFAOYSA-N	37	7.6		recombinant mitochondrial isozyme, pH 7.6, 37C
+0.18	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37		X	recombinant mitochondrial isozyme mutant, 37C
+0.22	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37		X	recombinant mitochondrial isozyme mutant, 37C
+0.23	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37		X	recombinant mitochondrial isozyme mutant, 37C
+0.27	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.6		37C, pH 7.6, leucylation, full-length enzyme
+0.3	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.6		37C, pH 7.6, leucylation, full-length enzyme
+0.34	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	30	7.6		wild-type, pH 7.6, 30C
+0.51	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	30	7.6	X	mutant D399A, pH 7.6, 30C
+0.55	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.6		37C, pH 7.6, leucylation, DELTAChcLeuRS (a C-terminal 89-amino acid truncated enzyme form)
+0.56	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.6		37C, pH 7.6, leucylation, DELTAChcLeuRS (a C-terminal 89-amino acid truncated enzyme form)
+0.74	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.6		37C, pH 7.6, ATP-diphosphate exchange, DELTAChcLeuRS (a C-terminal 89-amino acid truncated enzyme form)
+0.79	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.6		37C, pH 7.6, ATP-diphosphate exchange, full-length enzyme
+0.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.6		recombinant mitochondrial isozyme, pH 7.6, 37C
+0.81	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.6		37C, pH 7.6, ATP-diphosphate exchange, DELTAChcLeuRS (a C-terminal 89-amino acid truncated enzyme form)
+0.82	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.6		37C, pH 7.6, ATP-diphosphate exchange, full-length enzyme
+2	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.5		pH 7.5, 37C
+2.1	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	30	7.6		wild-type, pH 7.6, 30C
+2.7	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.6		recombinant mitochondrial isozyme, pH 7.6, 37C
+5.6	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	30	7.6	X	mutant D399A, pH 7.6, 30C
+25.8	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.6		pH 7.6, 37C, wild-type enzyme
+26.2	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.6	X	pH 7.6, 37C, mutant D399A

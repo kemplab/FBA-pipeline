@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.15	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37	7.5		pH 7.5, 37C, not stimulated recombinant enzyme
+2.6	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	30	7.2		nonstimulated isozyme RetGC1, in 30 mM MOPS-KOH (pH 7.2), 60 mM KCl, 4 mM NaCl, 1 mM dithiothreitol, 2 mM Ca2+/EGTA buffer, at 30C
+20	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	30	7.2		nonstimulated isozyme RetGC2, in 30 mM MOPS-KOH (pH 7.2), 60 mM KCl, 4 mM NaCl, 1 mM dithiothreitol, 2 mM Ca2+/EGTA buffer, at 30C
+28.7	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37	7.5		pH 7.5, 37C, NO-stimulated recombinant enzyme
+33	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	30	7.2		isozyme RetGC1, stimulated by guanylyl cyclase activating protein 2, in 30 mM MOPS-KOH (pH 7.2), 60 mM KCl, 4 mM NaCl, 1 mM dithiothreitol, 2 mM Ca2+/EGTA buffer, at 30C
+74	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	30	7.2		isozyme RetGC1, stimulated by guanylyl cyclase activating protein 1, in 30 mM MOPS-KOH (pH 7.2), 60 mM KCl, 4 mM NaCl, 1 mM dithiothreitol, 2 mM Ca2+/EGTA buffer, at 30C
+94	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	30	7.2		isozyme RetGC2, stimulated by guanylyl cyclase activating protein 2,in 30 mM MOPS-KOH (pH 7.2), 60 mM KCl, 4 mM NaCl, 1 mM dithiothreitol, 2 mM Ca2+/EGTA buffer, at 30C
+116	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	30	7.2		isozyme RetGC2, stimulated by guanylyl cyclase activating protein 1,in 30 mM MOPS-KOH (pH 7.2), 60 mM KCl, 4 mM NaCl, 1 mM dithiothreitol, 2 mM Ca2+/EGTA buffer, at 30C
+290	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	30	7.4		pH 7.4, 30C
+3.9	MgGTP2-	2606	UMWJYQJNXRDPRY-GWTDSMLYSA-J				
+0.2	MnGTP2-	3385	YDICXKSDGNPOED-GWTDSMLYSA-J				

@@ -1,0 +1,23 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.04	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0	X	pH 5.0, 37C, mutant enzyme D276A
+0.12	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0	X	pH 5.0, 37C, mutant enzyme S475A
+1.52	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0	X	pH 5.0, 37C, mutant enzyme D360A
+1.54	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0	X	pH 5.0, 37C, mutant enzyme E272A
+3.22	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0		pH 5.0, 37C, wild-type enzyme
+4.22	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0	X	pH 5.0, 37C, mutant enzyme D327A
+9.36	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0	X	pH 5.0, 37C, mutant enzyme D276A
+41.66	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0		pH 5.0, 37C, wild-type enzyme
+19	L-Leu-7-amido-4-methylcoumarin	2515	GTAAIHRZANUVJS-ZDUSSCGKSA-N	37	8.0		pH 8.0, 37C
+14.3	L-Lys-4-nitroanilide	2640	VUUNELJIFNFWJC-NSHDSACASA-N	37	8.0		pH 8.0, 37C
+14	L-Met-7-amido-4-methylcoumarin	2768	FOQJZUMVLRTZQB-ZDUSSCGKSA-N	37	8.0		pH 8.0, 37C
+2030	Gly-Gly-Gly	3152	XKUKSGPZAADMRA-UHFFFAOYSA-N				
+265	Gly-Ala-Pro-beta-naphthylamide	3972	KCELZXZDIUJGNM-GUYCJALGSA-N	37	7.0	X	mutant enzyme E636A, in 20 mM Tris-HCl (pH 7.0) at 37C
+354	Gly-Ala-Pro-beta-naphthylamide	3972	KCELZXZDIUJGNM-GUYCJALGSA-N	37	7.0		in 20 mM Tris-HCl buffer (pH 7.0), at 37C
+354	Gly-Ala-Pro-beta-naphthylamide	3972	KCELZXZDIUJGNM-GUYCJALGSA-N	37	7.0		wild type enzyme, in 20 mM Tris-HCl (pH 7.0) at 37C
+6.8	Ala-Phe-Pro-beta-naphthylamide	5844	XNTZVXIZBNJULD-NWVWQQAFSA-N	37	7.0	X	mutant enzyme E636A, in 20 mM Tris-HCl (pH 7.0) at 37C
+511	Ala-Phe-Pro-beta-naphthylamide	5844	XNTZVXIZBNJULD-NWVWQQAFSA-N	37	7.0		wild type enzyme, in 20 mM Tris-HCl (pH 7.0) at 37C
+12	Gly-7-amido-4-methylcoumarin	5924	KYIPWSXYZXKCST-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+14.4	L-Ala-L-Ala-L-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	8.0		pH 8.0, 37C
+0.56	Arg-Ser-Arg	9458	VENMDXUVHSKEIN-GUBZILKMSA-N				calculated value, wild type enzyme
+5.3	Arg-Ala-Arg	16683	SGYSTDWPNPKJPP-GUBZILKMSA-N				calculated value, wild type enzyme
+11.7	L-Asp-7-amido-4-methylcoumarin	5843	AAGPGZSFBVEQMU-JTQLQIEISA-N	37	8.0		pH 8.0, 37C

@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.57	tRNA precursor	3848	RIIZEJKNCGATJE-HNKKTSQDSA-N	50	8.0		pH 8.0, 50C, in presence of 50 mM ammonium acetate and 30 mM MgCl2
+0.88	tRNA precursor	3848	RIIZEJKNCGATJE-HNKKTSQDSA-N	65	8.0		pH 8.0, 65C, in presence of 800 mM ammonium acetate and 5 mM MgCl2
+1.3	tRNA precursor	3848	RIIZEJKNCGATJE-HNKKTSQDSA-N				nuclear enzyme form
+6	tRNA precursor	3848	RIIZEJKNCGATJE-HNKKTSQDSA-N		7.0		enzyme RNA moiety, pH 7.0

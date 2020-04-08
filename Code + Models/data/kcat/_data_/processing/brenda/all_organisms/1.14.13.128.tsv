@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.16	7-methylxanthine	1694	PFWLFWPASULGAN-UHFFFAOYSA-O	30	7.5		in 50 mM potassium phosphate buffer (pH 7.5) at 30C
+0.27	1,7-dimethylxanthine	2781	QUNWUDVFRNGTCO-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, kinetic parameters for two-subunit N-demethylase component (Ndm), in the presence of saturating amounts of Ccr (reductase component with cytochrome c reductase activity) and 50 mM Fe2+
+1.58	7-methylxanthine	1694	PFWLFWPASULGAN-UHFFFAOYSA-O	30	7.5		pH 7.5, 30C, kinetic parameters for two-subunit N-demethylase component (Ndm), in the presence of saturating amounts of Ccr (reductase component with cytochrome c reductase activity) and 50 mM Fe2+

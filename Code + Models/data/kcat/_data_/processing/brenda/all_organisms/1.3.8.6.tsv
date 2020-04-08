@@ -1,0 +1,26 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+16	phenylmethylsulfonyl fluoride	218	YBYRMVIVWMBXKQ-UHFFFAOYSA-N				
+4.8	phenazine methosulfate	250	RXGJTUSBYWCRBK-UHFFFAOYSA-M				
+0.004	glutaryl-CoA	532	SYKWLIJQEHRDNH-CKRMAKSASA-N				wild-type enzyme, pH and temperature not specified in the publication
+0.012	glutaryl-CoA	532	SYKWLIJQEHRDNH-CKRMAKSASA-N			X	mutant E370Q, pH and temperature not specified in the publication
+0.023	glutaryl-CoA	532	SYKWLIJQEHRDNH-CKRMAKSASA-N				oxidase activity
+0.28	glutaryl-CoA	532	SYKWLIJQEHRDNH-CKRMAKSASA-N	25		X	mutant enzyme E370D, at 25C
+3.87	glutaryl-CoA	532	SYKWLIJQEHRDNH-CKRMAKSASA-N				
+4.6	glutaryl-CoA	532	SYKWLIJQEHRDNH-CKRMAKSASA-N	25	7.6	X	mutant A421V, pH 7.6, 25C, electron acceptor is electron transfer flavoprotein
+4.8	glutaryl-CoA	532	SYKWLIJQEHRDNH-CKRMAKSASA-N	25	7.6	X	mutant A421T, pH 7.6, 25C, electron acceptor is electron transfer flavoprotein
+4.9	glutaryl-CoA	532	SYKWLIJQEHRDNH-CKRMAKSASA-N	25	7.6	X	mutant A433V, pH 7.6, 25C, electron acceptor is electron transfer flavoprotein
+5.45	glutaryl-CoA	532	SYKWLIJQEHRDNH-CKRMAKSASA-N				
+5.6	glutaryl-CoA	532	SYKWLIJQEHRDNH-CKRMAKSASA-N		6.5		at pH 6.5
+5.6	glutaryl-CoA	532	SYKWLIJQEHRDNH-CKRMAKSASA-N	25			wild type enzyme, at 25C
+6.7	glutaryl-CoA	532	SYKWLIJQEHRDNH-CKRMAKSASA-N	25	7.6		recombinant wild-type enzyme, pH 7.6, 25C, electron acceptor is electron transfer flavoprotein
+6.9	glutaryl-CoA	532	SYKWLIJQEHRDNH-CKRMAKSASA-N	25	7.6	X	mutant T429M, pH 7.6, 25C, electron acceptor is electron transfer flavoprotein
+11.3	glutaryl-CoA	532	SYKWLIJQEHRDNH-CKRMAKSASA-N		7.6		at pH 7.6
+13.2	glutaryl-CoA	532	SYKWLIJQEHRDNH-CKRMAKSASA-N		8.5		at pH 8.5
+7.5	ferrocenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N				
+14.3	electron transfer flavoprotein	170	VOCHQRDHMUQBKK-UHFFFAOYSA-N				
+16	electron transfer flavoprotein	170	VOCHQRDHMUQBKK-UHFFFAOYSA-N				
+4.8	dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N				
+2.04	glutaconyl-CoA	2289	URTLOTISFJPPOU-DEGQQWIJSA-N	25	7.6	X	mutant enzyme E370D, at 25C in 50 mM potassium phosphate buffer, pH 7.6
+5.5	glutaconyl-CoA	2289	URTLOTISFJPPOU-DEGQQWIJSA-N				
+5.5	glutaconyl-CoA	2289	URTLOTISFJPPOU-DEGQQWIJSA-N	25	7.6	X	mutant enzyme E370D, at 25C in 50 mM potassium phosphate buffer, pH 7.6
+0.033	4-nitrobutyryl-CoA	14197	LZVFVQHAZJCIOQ-QQPMNZIESA-O				oxidase activity

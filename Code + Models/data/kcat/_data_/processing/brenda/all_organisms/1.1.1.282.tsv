@@ -1,0 +1,63 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.004	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	9.0	X	mutant K71A, in the presence of L-quinate, 20C, pH 9.0
+0.0055	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.8		pH 8.8, 25C, with quinate
+0.012	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	9.0	X	mutant K71A, in the presence of shikimate, 20C, pH 9.0
+0.022	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	9.0	X	mutant D107A, in the presence of shikimate, 20C, pH 9.0; mutant Q262A, in the presence of shikimate, 20C, pH 9.0
+0.023	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	9.0	X	mutant S67A, in the presence of L-quinate, 20C, pH 9.0
+0.043	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	9.0	X	mutant Q262A, in the presence of L-quinate, 20C, pH 9.0
+0.05	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	9		pH 9, 20C, cosubstrate shikimate or L-quinate
+0.082	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	9.0	X	mutant S22A, in the presence of L-quinate, 20C, pH 9.0
+0.09	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	9.0	X	mutant Y39F, in the presence of L-quinate, 20C, pH 9.0
+0.105	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	9.0		wild type enzyme, in the presence of shikimate, 20C, pH 9.0
+0.108	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	9.0	X	mutant T106A, in the presence of shihikimat, 20C, pH 9.0
+0.122	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	9.0	X	mutant T106A, in the presence of L-quinate, 20C, pH 9.0
+0.142	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	9.0		wild type enzyme, in the presence of L-quinate, 20C, pH 9.0
+0.153	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	9.0	X	mutant S22A, in the presence of shikimate, 20C, pH 9.0
+0.178	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	9.0	X	mutant S67A, in the presence of shikimate, 20C, pH 9.0
+0.24	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	9.0	X	mutant Y39F, in the presence of shikimate, 20C, pH 9.0
+2.8	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.8		pH 8.8, 25C, with shikimate
+43.67	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.5		pH 7.5, 30C, with quinate
+55.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				in the presence of quinate
+61.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				in the presence of shikimate
+61.12	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.5		pH 7.5, 30C, with shikimate
+105.8	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	10.0		pH 10.0-10.5, 30C, with shikimate
+223.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	9.0		pH 9.0-9.5, 30C, with quinate
+0.022	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.8		pH 8.8, 25C, with shikimate
+0.05	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	20	9		pH 9, 20C, cosubstrate L-quinate
+0.117	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	20	9		pH 9, 20C, cosubstrate shikimate
+0.011	shikimate	299	JXOHGGNKMLTUBP-HSUXUTPPSA-N	20	9.0	X	mutant K71A, 20C, pH 9.0
+0.027	shikimate	299	JXOHGGNKMLTUBP-HSUXUTPPSA-N	25	8.8		pH 8.8, 25C, with NADP+
+0.05	shikimate	299	JXOHGGNKMLTUBP-HSUXUTPPSA-N	20	9		pH 9, 20C, cosubstrate NAD+
+0.05	shikimate	299	JXOHGGNKMLTUBP-HSUXUTPPSA-N	20	9.0	X	mutant Q262A, 20C, pH 9.0
+0.054	shikimate	299	JXOHGGNKMLTUBP-HSUXUTPPSA-N	20	9.0	X	mutant T106A, 20C, pH 9.0
+0.091	shikimate	299	JXOHGGNKMLTUBP-HSUXUTPPSA-N	20	9.0		wild type enzyme, 20C, pH 9.0
+0.109	shikimate	299	JXOHGGNKMLTUBP-HSUXUTPPSA-N	20	9.0	X	mutant S22A, 20C, pH 9.0
+0.117	shikimate	299	JXOHGGNKMLTUBP-HSUXUTPPSA-N	20	9		pH 9, 20C, cosubstrate NADP+
+0.132	shikimate	299	JXOHGGNKMLTUBP-HSUXUTPPSA-N	20	9.0	X	mutant D107A, 20C, pH 9.0
+0.148	shikimate	299	JXOHGGNKMLTUBP-HSUXUTPPSA-N	20	9.0	X	mutant S67A, 20C, pH 9.0
+0.187	shikimate	299	JXOHGGNKMLTUBP-HSUXUTPPSA-N	20	9.0	X	mutant Y39F, 20C, pH 9.0
+1.75	shikimate	299	JXOHGGNKMLTUBP-HSUXUTPPSA-N		7.0		pH 7.0, temperature not specified in the publication, recombinant enzyme, with NAD+
+3.9	shikimate	299	JXOHGGNKMLTUBP-HSUXUTPPSA-N	25	8.8		pH 8.8, 25C, with NAD+
+9.6	shikimate	299	JXOHGGNKMLTUBP-HSUXUTPPSA-N	30	8.6		with NAD+, pH 8.6, 30C
+30.13	shikimate	299	JXOHGGNKMLTUBP-HSUXUTPPSA-N	30	7.5		pH 7.5, 30C, with NAD+
+31.1	shikimate	299	JXOHGGNKMLTUBP-HSUXUTPPSA-N	30	7.0		with NADP+, pH 7.0, 30C
+55.7	shikimate	299	JXOHGGNKMLTUBP-HSUXUTPPSA-N				in the presence of 2 mM NAD+
+214.1	shikimate	299	JXOHGGNKMLTUBP-HSUXUTPPSA-N	30	10.0		pH 10.0-10.5, 30C, with NAD+
+37.7	quinate	637	AAWZDTNXLSGCEK-WYWMIBKRSA-N				in the presence of 2 mM NAD+
+9.31	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N		7.0		pH 7.0, temperature not specified in the publication, recombinant enzyme, with NADPH
+114	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N		7.0		pH 7.0, temperature not specified in the publication, recombinant enzyme, with NADH
+0.0063	L-quinate	637	AAWZDTNXLSGCEK-WYWMIBKRSA-N	25	8.8		pH 8.8, 25C, with NAD+
+0.012	L-quinate	637	AAWZDTNXLSGCEK-WYWMIBKRSA-N	20	9.0	X	mutant K71A, 20C, pH 9.0
+0.024	L-quinate	637	AAWZDTNXLSGCEK-WYWMIBKRSA-N	20	9.0	X	mutant S67A, 20C, pH 9.0
+0.036	L-quinate	637	AAWZDTNXLSGCEK-WYWMIBKRSA-N	30	7.0		with NADPH, pH 7.0, 30C
+0.05	L-quinate	637	AAWZDTNXLSGCEK-WYWMIBKRSA-N	20	9		pH 9, 20C, cosubstrate NAD+ or NADP+
+0.05	L-quinate	637	AAWZDTNXLSGCEK-WYWMIBKRSA-N	20	9.0	X	mutant Q262A, 20C, pH 9.0
+0.06	L-quinate	637	AAWZDTNXLSGCEK-WYWMIBKRSA-N	20	9.0	X	mutant Y39F, 20C, pH 9.0
+0.068	L-quinate	637	AAWZDTNXLSGCEK-WYWMIBKRSA-N	20	9.0	X	mutant S22A, 20C, pH 9.0
+0.113	L-quinate	637	AAWZDTNXLSGCEK-WYWMIBKRSA-N	20	9.0		wild type enzyme, 20C, pH 9.0
+0.233	L-quinate	637	AAWZDTNXLSGCEK-WYWMIBKRSA-N	20	9.0	X	mutant T106A, 20C, pH 9.0
+14.6	L-quinate	637	AAWZDTNXLSGCEK-WYWMIBKRSA-N		7.0		pH 7.0, temperature not specified in the publication, recombinant enzyme, with NAD+
+50.82	L-quinate	637	AAWZDTNXLSGCEK-WYWMIBKRSA-N	30	7.5		pH 7.5, 30C, with NAD+
+104.9	L-quinate	637	AAWZDTNXLSGCEK-WYWMIBKRSA-N	30	9.0		pH 9.0-9.5, 30C, with NAD+
+5.67	3-dehydroshikimate	1666	SLWWJZMPHJJOPH-PHDIDXHHSA-N		7.0		pH 7.0, temperature not specified in the publication, recombinant enzyme, with NADH
+329	3-dehydroshikimate	1666	SLWWJZMPHJJOPH-PHDIDXHHSA-N	30	7.0		with NADPH, pH 7.0, 30C

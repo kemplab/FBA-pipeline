@@ -1,0 +1,37 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.14	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type enzyme
+0.14	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N				wild-type enzyme
+0.14	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N			X	mutant enzyme E190Q, 1 mM Mg2+
+0.14	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J			X	mutant enzyme E190Q, 1 mM Mg2+
+0.17	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme A44V
+0.17	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N			X	mutant enzyme A44V
+0.19	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme A44G
+0.19	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N			X	mutant enzyme A44G
+0.391	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N	30	7.5	X	pH 7.5, 30C, recombinant HBP1 mutant H253A
+0.394	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N	30	7.5	X	pH 7.5, 30C, recombinant HBP1 mutant S460D; pH 7.5, 30C, recombinant HBP1 mutant S460D/T470D
+0.399	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N	30	7.5	X	pH 7.5, 30C, recombinant His-tagged HBP1 mutant S302R
+0.401	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N	30	7.5	X	pH 7.5, 30C, recombinant HBP1 mutant H253A/S460D
+0.405	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N	30	7.5	X	pH 7.5, 30C, recombinant HBP1 mutant S477D
+0.407	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N	30	7.5		pH 7.5, 30C, recombinant wild-type HBP1
+0.43	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N	30	7.5		pH 7.5, 30C, recombinant His-tagged wild-type HBP1
+0.435	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N	30	7.5	X	pH 7.5, 30C, recombinant HBP1 mutant T470
+0.447	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N	30	7.5		pH 7.5, 30C, recombinant His-tagged wild-type HBP2
+0.654	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N	30	7.5	X	pH 7.5, 30C, recombinant non-phosphorylated, His-tagged chimeric mutant enzyme
+0.678	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N	30	7.5	X	pH 7.5, 30C, recombinant phosphorylated, His-tagged chimeric mutant enzyme
+0.696	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N	30	7.5	X	pH 7.5, 30C, recombinant His-tagged HBP1 deletion mutant
+1.43	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N			X	mutant enzyme E190Q, 30 mM Mg2+
+1.43	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J			X	mutant enzyme E190Q, 30 mM Mg2+
+13	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N			X	recombinant mutant C295A
+13	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J			X	recombinant mutant C295F
+39	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N			X	recombinant mutant C295F
+39	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J			X	recombinant mutant C295A
+53	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N				wild-type enzyme, 1 mM Mg2+; wild-type enzyme, 30 mM Mg2+
+53	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J				wild-type enzyme, 1 mM Mg2+; wild-type enzyme, 30 mM Mg2+
+70	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N			X	recombinant mutants C238A and C238F
+70	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J			X	recombinant mutants C238A and C238F
+90	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N				recombinant wild-type enzyme
+90	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J				recombinant wild-type enzyme
+9240	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N				native enzyme
+9240	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J				native enzyme
+9320	beta-D-fructose 6-phosphate	113776	BGWGXPAPYGQALX-ARQDHWQXSA-N				C238-pyrene maleimide modified enzyme
+9320	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J				C238-pyrene maleimide modified enzyme

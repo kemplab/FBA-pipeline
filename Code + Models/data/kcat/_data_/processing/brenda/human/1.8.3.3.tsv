@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.83	dithiothreitol	42	VHJLVAABSRFDPM-QWWZWVQMSA-N			X	mutant enzyme C74A/C85A
+0.867	dithiothreitol	42	VHJLVAABSRFDPM-QWWZWVQMSA-N			X	mutant enzyme C15A
+0.9	dithiothreitol	42	VHJLVAABSRFDPM-QWWZWVQMSA-N			X	mutant enzyme C124A
+0.95	dithiothreitol	42	VHJLVAABSRFDPM-QWWZWVQMSA-N			X	mutant enzyme C15A/C124A
+1.1	dithiothreitol	42	VHJLVAABSRFDPM-QWWZWVQMSA-N				wild type enzyme
+1.25	dithiothreitol	42	VHJLVAABSRFDPM-QWWZWVQMSA-N			X	mutant enzyme C15A/C74A/C85A/C124A
+4.5	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				wild type enzyme

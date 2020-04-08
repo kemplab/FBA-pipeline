@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+22	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N	30	7.4		wild-type, at 30C in 50 mM sodium phosphate buffer, pH 7.4, containing 1 mg/mL of bovine serum albumin
+0.013	juvenile hormone III	1646	QVJMXSGZTCGLHZ-HONBPKQLSA-N	22	7.4		pH 7.4, 22C, recombinant BmCCE-5
+0.164	juvenile hormone III	1646	QVJMXSGZTCGLHZ-HONBPKQLSA-N				pH and temperature not specified in the publication
+0.323	juvenile hormone III	1646	QVJMXSGZTCGLHZ-HONBPKQLSA-N				
+0.7	juvenile hormone III	1646	QVJMXSGZTCGLHZ-HONBPKQLSA-N	30	7.4		wild-type, at 30C in 50 mM sodium phosphate buffer, pH 7.4, containing 1 mg/mL of bovine serum albumin
+0.8	juvenile hormone III	1646	QVJMXSGZTCGLHZ-HONBPKQLSA-N				10S isomer of juvenile hormone III
+0.9	juvenile hormone III	1646	QVJMXSGZTCGLHZ-HONBPKQLSA-N		8		pH 8, major enzyme form with pI 5.6
+1	juvenile hormone III	1646	QVJMXSGZTCGLHZ-HONBPKQLSA-N				racemic juvenile hormone III
+1	juvenile hormone III	1646	QVJMXSGZTCGLHZ-HONBPKQLSA-N	22	7.4		pH 7.4, 22C, recombinant BmJHE
+1.1	juvenile hormone III	1646	QVJMXSGZTCGLHZ-HONBPKQLSA-N				10R isomer of juvenile hormone III
+1.9	juvenile hormone III	1646	QVJMXSGZTCGLHZ-HONBPKQLSA-N		8		pH 8, minor enzyme form with pI 5.5
+4	juvenile hormone III	1646	QVJMXSGZTCGLHZ-HONBPKQLSA-N	30	7.4	X	mutant F259I, at 30C in 50 mM sodium phosphate buffer, pH 7.4, containing 1 mg/mL of bovine serum albumin
+4.5	juvenile hormone III	1646	QVJMXSGZTCGLHZ-HONBPKQLSA-N	30	7.4	X	mutant T314V, at 30C in 50 mM sodium phosphate buffer, pH 7.4, containing 1 mg/mL of bovine serum albumin
+0.1	Juvenile hormone	4863	FRROOOIUKQMBKW-UHFFFAOYSA-N				during vitellogenesis, kcat at ovulation time is 2-3times higher than earlier during vitellogenesis
+0.39	Juvenile hormone	4863	FRROOOIUKQMBKW-UHFFFAOYSA-N				at ovulation time, kcat at ovulation time is 2-3times higher than earlier during vitellogenesis
+0.618	juvenile hormone I	4864	RQIDGZHMTWSMMC-UHFFFAOYSA-N				
+1.6	juvenile hormone I	4864	RQIDGZHMTWSMMC-UHFFFAOYSA-N				
+0.7	saturated juvenile hormone III	128225	XNQUDMBDSSRPSD-JXQTWKCFSA-N	30	7.4		wild-type, at 30C in 50 mM sodium phosphate buffer, pH 7.4, containing 1 mg/mL of bovine serum albumin
+3.1	saturated juvenile hormone III	128225	XNQUDMBDSSRPSD-JXQTWKCFSA-N	30	7.4	X	mutant F259I, at 30C in 50 mM sodium phosphate buffer, pH 7.4, containing 1 mg/mL of bovine serum albumin
+3	methyl farnesoate	24836	NWKXNIPBVLQYAB-VDQVFBMKSA-N				

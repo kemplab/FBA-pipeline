@@ -1,0 +1,23 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00017	phenylethanolamine	1880	ULSIYEODSMZIPX-UHFFFAOYSA-N	30	8.0	X	mutant E185Q, assay mixture consists of 25 microl of 0.5 M phosphate buffer (pH 8.0), 5 microl of [methyl-3H]S-adenosyl-L-methionine containing approximately 2.5 X 10 00000 dpm, varying amounts of phenylethanolamine and unlabeled S-adenosyl-L-methionine, 20 microl enzyme and water at 30C.
+0.001	3-trifluoromethylphenylethanolamine	12129	RRBRWAPWPGAJMA-UHFFFAOYSA-N			X	mutant D267A
+0.0017	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	mutant D267N
+0.0028	phenylethanolamine	1880	ULSIYEODSMZIPX-UHFFFAOYSA-N	30	8.0	X	mutant E185A, assay mixture consists of 25 microl of 0.5 M phosphate buffer (pH 8.0), 5 microl of [methyl-3H]S-adenosyl-L-methionine containing approximately 2.5 X 10 00000 dpm, varying amounts of phenylethanolamine and unlabeled S-adenosyl-L-methionine, 20 microl enzyme and water at 30C.
+0.0043	anti-9-amino-6-(trifluoromethyl)benzonorbornene	12160	QFRCSJBYSNCGPY-UHFFFAOYSA-N			X	mutant D267A
+0.0048	cis-(1R,2S)-2-amino-1-tetralol	24374	IIMSEFZOOYSTDO-VHSXEESVSA-N	30	8.0		wild type enzyme, assay mixture consists of 25 microl of 0.5 M phosphate buffer (pH 8.0), 5 microl of [methyl-3H]S-adenosyl-L-methionine containing approximately 2.5 X 10 00000 dpm, varying amounts of phenylethanolamine and unlabeled S-adenosyl-L-methionine, 20 microl enzyme and water at 30C.
+0.0052	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	mutant D267A
+0.0062	anti-9-amino-6-(trifluoromethyl)benzonorbornene	12160	QFRCSJBYSNCGPY-UHFFFAOYSA-N				wild type enzyme
+0.008	3-trifluoromethylphenylethanolamine	12129	RRBRWAPWPGAJMA-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+0.0083	3-trifluoromethylphenylethanolamine	12129	RRBRWAPWPGAJMA-UHFFFAOYSA-N				wild type enzyme
+0.0142	phenylethanolamine	1880	ULSIYEODSMZIPX-UHFFFAOYSA-N	30	8.0	X	mutant E185D, assay mixture consists of 25 microl of 0.5 M phosphate buffer (pH 8.0), 5 microl of [methyl-3H]S-adenosyl-L-methionine containing approximately 2.5 X 10 00000 dpm, varying amounts of phenylethanolamine and unlabeled S-adenosyl-L-methionine, 20 microl enzyme and water at 30C.
+0.0175	phenylethanolamine	1880	ULSIYEODSMZIPX-UHFFFAOYSA-N	30	8.0	X	mutant Y35F, assay mixture consists of 25 microl of 0.5 M phosphate buffer (pH 8.0), 5 microl of [methyl-3H]S-adenosyl-L-methionine containing approximately 2.5 X 10 00000 dpm, varying amounts of phenylethanolamine and unlabeled S-adenosyl-L-methionine, 20 microl enzyme and water at 30C.
+0.02	octopamine	1314	QHGUCRYDKWKLMG-UHFFFAOYSA-N	30	8.0		wild type enzyme, assay mixture consists of 25 microl of 0.5 M phosphate buffer (pH 8.0), 5 microl of [methyl-3H]S-adenosyl-L-methionine containing approximately 2.5 X 10 00000 dpm, varying amounts of phenylethanolamine and unlabeled S-adenosyl-L-methionine, 20 microl enzyme and water at 30C.
+0.021	octopamine	1314	QHGUCRYDKWKLMG-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+0.0218	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	mutant E219A
+0.043	phenylethanolamine	1880	ULSIYEODSMZIPX-UHFFFAOYSA-N	30	8.0		wild type enzyme, assay mixture consists of 25 microl of 0.5 M phosphate buffer (pH 8.0), 5 microl of [methyl-3H]S-adenosyl-L-methionine containing approximately 2.5 X 10 00000 dpm, varying amounts of phenylethanolamine and unlabeled S-adenosyl-L-methionine, 20 microl enzyme and water at 30C.
+0.045	phenylethanolamine	1880	ULSIYEODSMZIPX-UHFFFAOYSA-N				purified in the absence of reducing agent, dimer, His-tagged
+0.047	phenylethanolamine	1880	ULSIYEODSMZIPX-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+0.0473	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				wild type enzyme
+0.0483	phenylethanolamine	1880	ULSIYEODSMZIPX-UHFFFAOYSA-N	30	8.0	X	mutant D267A, assay mixture consists of 25 microl of 0.5 M phosphate buffer (pH 8.0), 5 microl of [methyl-3H]S-adenosyl-L-methionine containing approximately 2.5 X 10 00000 dpm, varying amounts of phenylethanolamine and unlabeled S-adenosyl-L-methionine, 20 microl enzyme and water at 30C.
+0.0567	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	mutant V53A
+0.0658	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	mutant K57A

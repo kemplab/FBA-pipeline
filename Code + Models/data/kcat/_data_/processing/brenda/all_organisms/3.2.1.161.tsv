@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+10.4	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N				
+7	4-nitrophenyl-beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N				
+480	daidzin	3054	KYQZWONCHDNPDP-QNDFHXLGSA-N				
+500	genistin	3383	ZCOLJUOHXJRHDI-CMWLGVBASA-N				
+0.005	p-nitrophenyl 6-O-beta-D-xylopyranosyl-beta-D-glucopyranoside	3953	FDSMPNZESFMQRW-ZYAAIRSHSA-N		5.0		37&Atilde;C, pH 5.0, S504W
+0.017	p-nitrophenyl 6-O-beta-D-xylopyranosyl-beta-D-glucopyranoside	3953	FDSMPNZESFMQRW-ZYAAIRSHSA-N		5.0		37&Atilde;C, pH 5.0, A419W
+0.042	p-nitrophenyl 6-O-beta-D-xylopyranosyl-beta-D-glucopyranoside	3953	FDSMPNZESFMQRW-ZYAAIRSHSA-N		5.0		37&Atilde;C, pH 5.0, A419V
+0.093	p-nitrophenyl 6-O-beta-D-xylopyranosyl-beta-D-glucopyranoside	3953	FDSMPNZESFMQRW-ZYAAIRSHSA-N		5.0		37&Atilde;C, pH 5.0, S504A
+0.098	p-nitrophenyl 6-O-beta-D-xylopyranosyl-beta-D-glucopyranoside	3953	FDSMPNZESFMQRW-ZYAAIRSHSA-N		5.0		37&Atilde;C, pH 5.0, wild-type
+465	dalpatein-7-O-[beta-D-apiofuranosyl-(1-6)-beta-D-glucopyranoside]	23407	ZJOSOERYGHXRCU-ISWMPQPPSA-N				
+334	dalpaniculin-7-O-[beta-D-apiofuranosyl-(1-6)-beta-D-glucopyranoside]	23408	WIOFFAMWIKGCQE-KIMYXKHESA-N				
+20	dalpatein 7-O-beta-D-apiofuranosyl-(1-&gt;6)-beta-D-glucopyranoside	118782	KAZTVTFKDLJVBH-RXHUWYBMSA-N	30	5.5		pH 5.5, 30C, recombinant Dnbglu2
+229	dalnigrein 7-O-beta-D-apiofuranosyl-(1-&gt;6)-beta-D-glucopyranoside	118783	OBZQFWQGMXWKEI-FNVGUSKRSA-N	30	5.5		pH 5.5, 30C, recombinant Dnbglu2

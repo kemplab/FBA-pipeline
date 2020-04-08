@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.021	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N			X	maximal rate constant for the GTPase activity of the SRP-FtsY complex, UUUU mutant
+0.037	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N				maximal rate constant for the GTPase activity of the SRP-FtsY complex, no RNA
+0.053	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N			X	maximal rate constant for the GTPase activity of the SRP-FtsY complex, UUCG mutant
+0.14	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N			X	maximal rate constant for the GTPase activity of the SRP-FtsY complex, GUAA mutant
+0.182	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N			X	maximal rate constant for the GTPase activity of the SRP-FtsY complex, GAAA mutant
+0.223	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N				maximal rate constant for the GTPase activity of the SRP-FtsY complex, wild-type RNA
+0.253	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N			X	maximal rate constant for the GTPase activity of the SRP-FtsY complex, CUUC mutant

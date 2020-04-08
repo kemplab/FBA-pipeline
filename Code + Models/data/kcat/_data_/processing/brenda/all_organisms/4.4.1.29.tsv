@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000073	(2R,3E)-phycocyanobilin	80368	INPDFIMLLXXDOQ-UAWLBFNISA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme R18V
+0.0000095	(2R,3E)-phycocyanobilin	80368	INPDFIMLLXXDOQ-UAWLBFNISA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme H21T/H22V
+0.0000106	(2R,3E)-phycocyanobilin	80368	INPDFIMLLXXDOQ-UAWLBFNISA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme W75S
+0.000011	(2R,3E)-phycocyanobilin	80368	INPDFIMLLXXDOQ-UAWLBFNISA-N	37	7.5	X	pH 7.5, 37C, cosubstrate: apo phycoerythrocyanin beta-subunit mutant C155I
+0.0000119	(2R,3E)-phycocyanobilin	80368	INPDFIMLLXXDOQ-UAWLBFNISA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme H22V
+0.0000169	(2R,3E)-phycocyanobilin	80368	INPDFIMLLXXDOQ-UAWLBFNISA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme R147Q
+0.000017	(2R,3E)-phycocyanobilin	80368	INPDFIMLLXXDOQ-UAWLBFNISA-N	37	7.5	X	pH 7.5, 37C, cosubstrate: apo C-phycocyanin beta-subunit mutant C155I
+0.000018	(2R,3E)-phycocyanobilin	80368	INPDFIMLLXXDOQ-UAWLBFNISA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme R169L
+0.0000246	(2R,3E)-phycocyanobilin	80368	INPDFIMLLXXDOQ-UAWLBFNISA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme H80L
+0.000025	(2R,3E)-phycocyanobilin	80368	INPDFIMLLXXDOQ-UAWLBFNISA-N	37	7.5		pH 7.5, 37C, wild-type enzyme
+0.000028	(2R,3E)-phycocyanobilin	80368	INPDFIMLLXXDOQ-UAWLBFNISA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme C63T
+0.0000343	(2R,3E)-phycocyanobilin	80368	INPDFIMLLXXDOQ-UAWLBFNISA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme W69M

@@ -1,0 +1,66 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.004	20alpha-hydroxyprogesterone	1781	RWBRUCCWZPSBFC-SJOKZOANSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.006	5-Pregnene-3beta,20alpha-diol	10449	QAAQQTDJEXMIMF-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.008	5alpha-pregnan-20alpha-ol-3-one	4984	DYVGYXXLXQESJE-XPLLOJBJSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.012	5alpha-pregnane-3beta,20alpha-diol	13248	YWYQTGBBEZQBGO-ZVPCKFNKSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.017	1-Tetradecanol	3595	HLZKNKRTKFSKGZ-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.042	Pyridine-3-methanol	8284	MVQVNTPHUGQQHK-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.05	1-Decanol	2466	MWKFXSUHUHTGQN-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.065	1-nonanol	3216	ZWRUINPWMLAQRD-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.078	geranylgeraniol	2150	OJISWRZIEWCUBN-QIRCYJPOSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.09	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant W219E
+0.117	nerol	1677	GLZPCOQZEFWAFX-YFHOEESVSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.155	trans,trans-farnesol	4314	CRDAMVZIKSXKFV-YFVJMOTDSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.158	1-Hexanol	921	ZSIAUFGUXNUGDI-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.16	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R293A
+0.165	geranylgeraniol	2150	OJISWRZIEWCUBN-QIRCYJPOSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.167	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.183	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				
+0.233	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N				
+0.32	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant W219A
+0.38	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R268A
+0.418	D-glucuronate	290	IAJILQKETJEXLJ-QTBDOELSSA-N				recombinant from baculovirus system in Spodoptera frugiperda cells
+0.431	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N				
+0.48	21-Dehydrocortisol	10405	KTPNTAOLZMSACI-UJPCIWJBSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.48	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				recombinant from baculovirus system in Spodoptera frugiperda cells
+0.5	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, recombinant wild-type enzyme
+0.5	trans,trans-farnesol	4314	CRDAMVZIKSXKFV-YFVJMOTDSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.525	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N				recombinant from baculovirus system in Spodoptera frugiperda cells
+0.54	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant S226A
+0.55	D-glyceraldehyde	520	MNQZXJOMYWMBOU-VKHMYHEASA-N				
+0.567	geraniol	759	GLZPCOQZEFWAFX-JXMROGBWSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.58	glycolaldehyde	497	WGCNASOHLSPBMP-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.61	1-palmitoyl-2-(5-oxovaleryl)sn-glycero-3-phosphocholine	15113	RKIDALSACBQVTN-UHFFFAOYSA-O	30	6.0		pH 6.0, 30C
+0.635	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N				recombinant from baculovirus system in Spodoptera frugiperda cells
+0.64	20alpha-Isocorticosterone	19978	SNSWNKAIXNDOKX-SLLBYLKQSA-N				20alpha-isocortisol
+0.673	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N				recombinant from baculovirus system in Spodoptera frugiperda cells
+0.75	3-deoxyglucosone	5104	ZGCHLOWZNKRZSN-PHDIDXHHSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.76	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	25	6.2		pH 6.2, 25C, recombinant enzyme
+0.76	Phenylglyoxal	258	OJUGVDODNPJEEC-UHFFFAOYSA-N				
+0.78	trans-2-buten-1-al	1153	MLUCVPSAIODCQM-NSCUHMNNSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+0.82	trans-2-hexen-1-al	1895	MBDOYVRWFFCFHM-SNAWJCMRSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+1.12	Glyoxal	1091	LEQAOMBKQFMDFZ-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+1.12	isatin	646	JXDYKVIHCLTXOP-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+1.25	1-Dodecanal	1461	HFJRKMMYBMWEAD-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+1.3	1-butanal	415	ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+1.32	2,3-Hexanedione	2352	MWVFCEVNXHTDNF-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+1.34	trans-2-nonen-1-al	1739	BSAIUMLZVGUGKX-BQYQJAHWSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+1.37	1-octanal	664	NUJGJRNETVAIRJ-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+1.38	1-nonanal	1553	GYHFUZHODSMOHU-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+1.43	isocaproaldehyde	4808	JGEGJYXHCFUMJF-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+1.7	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N				
+1.73	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+1.83	trans-2-decen-1-al	26398	MMFCJPPRCYDLLZ-CMDGGOBGSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+1.87	D-lactoaldehyde	2977	BSABBBMNWQWLLU-GSVOUGTGSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+2	1-heptanal	1065	FXHGMKSSBGDXIY-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+2	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant S210A
+2.1	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant S214A
+2.15	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant DELTA214-219
+2.3	D-glucuronate	290	IAJILQKETJEXLJ-QTBDOELSSA-N				
+2.37	1-hexanal	514	JARKCYVAAOWBJS-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+2.5	Pyridine-3-aldehyde	1681	QJZUKDFHGGYHMC-UHFFFAOYSA-N	25	7.4		in 0.1 M potassium phosphate, pH 7.4, at 25C
+3.7	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant G213S
+4	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant C298A
+4.6	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant G213P
+126	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	6.8		pH 6.8, 37C
+143	L-idose	5633	WQZGKKKJIJFFOK-ZNVMLXAYSA-N	37	6.8		pH 6.8, 37C

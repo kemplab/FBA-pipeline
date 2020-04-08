@@ -1,0 +1,39 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.13	UDP-D-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N		8.0	X	mutant D351A, pH 8.0
+0.3	UDP-D-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N		8.0	X	mutant E301A, pH 8.0
+1.3	UDP-D-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N		8.0	X	mutant Y185F, pH 8.0
+1.7	UDP-D-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N		8.0	X	mutant Y349F, pH 8.0
+3.6	UDP-D-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N		8.0	X	mutant Y155F, pH 8.0
+5.2	UDP-D-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N		8.0	X	mutant Y314F, pH 8.0
+5.5	UDP-D-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N		8.0		wild-type, pH 8.0
+35.3	UDP-D-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.4		in 50 mM MOPS, 10 mM sodium dithionite, 2 mM MgCl2 pH 7.4, at 37C
+1.5	UDP-D-galactofuranose	1704	ZQLQOXLUCGXKHS-SIAUPFDVSA-N	37	7.5		37C, pH 7.5
+5	UDP-D-galactofuranose	1704	ZQLQOXLUCGXKHS-SIAUPFDVSA-N	37	7.5		in 25 mM HEPES, 125 mM NaCl, 20 mM dithionite, pH 7.5, at 37C
+27	UDP-D-galactofuranose	1704	ZQLQOXLUCGXKHS-SIAUPFDVSA-N	37	7.5		37C, pH 7.5, in presence of 20 mM sodium dithionite
+36.8	UDP-D-galactofuranose	1704	ZQLQOXLUCGXKHS-SIAUPFDVSA-N	37	7.4		in 50 mM MOPS, 10 mM sodium dithionite, 2 mM MgCl2 pH 7.4, at 37C
+72	UDP-D-galactofuranose	1704	ZQLQOXLUCGXKHS-SIAUPFDVSA-N	37	7.5		in 25 mM HEPES, 125 mM NaCl, 20 mM dithionite, pH 7.5, at 37C
+27	UDP-galactofuranose	1704	ZQLQOXLUCGXKHS-SIAUPFDVSA-N				
+27	UDP-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				
+66	UDP-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N		7.0		wild type enzyme, in 50 mM sodium phosphate buffer pH 7.0
+7.4	UDP-(6-deoxy-6-fluoro)-D-galactofuranose	9639	GGLYLGBYZCYUJG-FJKHSETOSA-N				
+7.4	UDP-(6-deoxy-6-fluoro)-D-galactofuranose	9639	GGLYLGBYZCYUJG-FJKHSETOSA-N				
+5.7	UDP-3-deoxy-3-fluoro-D-galactofuranose	12495	ZZBVKPVPFCBGHX-SIAUPFDVSA-N				
+5.7	UDP-3-deoxy-3-fluoro-D-galactofuranose	12495	ZZBVKPVPFCBGHX-SIAUPFDVSA-N				
+0.033	UDP-2-deoxy-2-fluoro-D-galactofuranose	25557	GNDJUJPUDFDDHV-SIAUPFDVSA-N				
+12	UDP-L-arabinofuranose	8154	QGNZSCRNMXQWNR-IAZOVDBXSA-N				
+0.033	UDP-2-fluoro-galactofuranose	25557	GNDJUJPUDFDDHV-SIAUPFDVSA-N				
+0.0007	UDP-2-deoxy-2-fluoro-D-galactopyranose	27155	NGTCPFGWXMBZEP-KBQKSTHMSA-N	37	7.4		in 50 mM MOPS, 10 mM sodium dithionite, 2 mM MgCl2 pH 7.4, at 37C
+0.9	UDP-3-deoxy-3-fluoro-D-galactopyranose	27156	HCARIYIZTXBDIX-KKGGJVIOSA-N	37	7.4		in 50 mM MOPS, 10 mM sodium dithionite, 2 mM MgCl2 pH 7.4, at 37C
+3.5	UDP-6-deoxy-6-fluoro-D-galactopyranose	27157	WTHZQTISDQXDPM-ABVWGUQPSA-N	37	7.4		in 50 mM MOPS, 10 mM sodium dithionite, 2 mM MgCl2 pH 7.4, at 37C
+1.4	UDP-2-amino-2-deoxy-D-galactopyranose	27158	CYKLRRKFBPBYEI-KIARSPAKSA-N	37	7.4		in 50 mM MOPS, 10 mM sodium dithionite, 2 mM MgCl2 pH 7.4, at 37C
+42.2	UDP-6-deoxy-D-galactopyranose	13545	DRDCJEIZVLVWNC-ABVWGUQPSA-N	37	7.4		in 50 mM MOPS, 10 mM sodium dithionite, 2 mM MgCl2 pH 7.4, at 37C
+0.0224	UDP-alpha-D-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.5	X	mutant R176A, pH 7.5, 37C
+0.079	UDP-alpha-D-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	pH 7.0, 37C, mutant R182A
+0.12	UDP-alpha-D-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	pH 7.0, 37C, mutant R327K
+0.248	UDP-alpha-D-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.5	X	mutant Y395F, pH 7.5, 37C
+0.291	UDP-alpha-D-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.5	X	mutant Y317F, pH 7.5, 37C
+0.44	UDP-alpha-D-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	pH 7.0, 37C, mutant R182K
+4.26	UDP-alpha-D-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.5	X	mutant R327A, pH 7.5, 37C
+6.296	UDP-alpha-D-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.5	X	mutant Y429F, pH 7.5, 37C
+8.72	UDP-alpha-D-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0		pH 7.0, 37C, wild-type enzyme
+13.4	UDP-alpha-D-galactopyranose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.5		wild-type enzyme, pH 7.5, 37C

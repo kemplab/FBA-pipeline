@@ -1,0 +1,49 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000000157	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J			X	mutant enzyme K443A/K529A
+0.0000629	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J			X	mutant enzyme K443A
+0.00025	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J			X	mutant enzyme K529A
+0.02	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J			X	mutant enzyme G446I
+0.0875	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J			X	mutant enzyme Q448A
+0.167	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J				wild-type enzyme
+0.24	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J			X	mutant enzyme K445Q
+0.000000157	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme K443A/K529A
+0.0000629	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme K443A
+0.0001	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme K529A
+0.0002	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme G315A; mutant enzyme G341A
+0.00025	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme K529A
+0.001	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme T343A
+0.004	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme R218A
+0.007	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme F247A
+0.013	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme F250G
+0.02	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme G446I
+0.03	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme S347A
+0.036	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme F250S
+0.041	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme H245A
+0.043	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme T251A
+0.049	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme G316A
+0.06	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme G246A
+0.064	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme A348V
+0.0875	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme Q448A
+0.098	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme F247Y
+0.106	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme L342A
+0.116	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme F247L
+0.125	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N				wild-type enzyme
+0.167	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N				wild-type enzyme
+0.19	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme I351A
+0.19	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N		8.2		pH 8.2, temperature not specified in the publication
+0.24	D-luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N			X	mutant enzyme K445Q
+0.278	lauric acid	711	POULHZVOKOAJMA-UHFFFAOYSA-N				
+0.651	lauric acid	711	POULHZVOKOAJMA-UHFFFAOYSA-N				
+0.13	linolenic acid	1066	DTOSIQBPPRVQHS-PDBXOOCHSA-N				
+1.6	Luciferin	530	BJGNCJDXODQBOB-SSDOTTSWSA-N				
+0.0000311	D-luciferyl-O-adenosine monophosphate	3440	FKALIXPGFOUXEV-GAWQNOGWSA-N			X	mutant enzyme K443A/K529A
+0.000101	D-luciferyl-O-adenosine monophosphate	3440	FKALIXPGFOUXEV-GAWQNOGWSA-N			X	mutant enzyme K443A
+0.021	D-luciferyl-O-adenosine monophosphate	3440	FKALIXPGFOUXEV-GAWQNOGWSA-N			X	mutant enzyme G446I
+0.095	D-luciferyl-O-adenosine monophosphate	3440	FKALIXPGFOUXEV-GAWQNOGWSA-N			X	mutant enzyme Q448A
+0.175	D-luciferyl-O-adenosine monophosphate	3440	FKALIXPGFOUXEV-GAWQNOGWSA-N			X	mutant enzyme K529A
+0.23	D-luciferyl-O-adenosine monophosphate	3440	FKALIXPGFOUXEV-GAWQNOGWSA-N				wild-type enzyme
+0.32	D-luciferyl-O-adenosine monophosphate	3440	FKALIXPGFOUXEV-GAWQNOGWSA-N			X	mutant enzyme K445Q
+0.0018	(4S)-2-(6-hydroxy-1,3-benzoxazol-2-yl)-4,5-dihydro-1,3-thiazole-4-carboxylic acid	110161	DGIVOEDYGNUZIB-SSDOTTSWSA-N		8.5		pH 8.5, temperature not specified in the publication
+0.00063	(4S)-2-(6-hydroxy-1-benzofuran-2-yl)-4,5-dihydro-1,3-thiazole-4-carboxylic acid	110162	FPVBHCWVEXUKIX-MRVPVSSYSA-N		8.5		pH 8.5, temperature not specified in the publication
+0.0067	(4S)-2-(6-hydroxy-1-benzothiophen-2-yl)-4,5-dihydro-1,3-thiazole-4-carboxylic acid	110163	YZIZERPEAKQWHH-MRVPVSSYSA-N		9.1		pH 9.1, temperature not specified in the publication
+0.00051	(4S)-2-(6-hydroxy-1H-benzimidazol-2-yl)-4,5-dihydro-1,3-thiazole-4-carboxylic acid	110164	YFONIHMRCZETGE-MRVPVSSYSA-N		8.5		pH 8.5, temperature not specified in the publication

@@ -1,0 +1,30 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.5		pH 8.5, 30C, recombinant enzyme, with phenylacetic acid
+21.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.8		pH 7.8, 30C
+40	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37			37C
+42.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.5		pH 8.5, 30C, recombinant enzyme, with trans-cinnamic acid
+1.5	CoA	10	RGJOEKWQDUBAIZ-IBOSZNHHSA-N	30	8.5		pH 8.5, 30C, recombinant enzyme, with phenylacetic acid
+21.7	CoA	10	RGJOEKWQDUBAIZ-IBOSZNHHSA-N	30	7.8		pH 7.8, 30C
+40	CoA	10	RGJOEKWQDUBAIZ-IBOSZNHHSA-N	37			37C
+60.5	CoA	10	RGJOEKWQDUBAIZ-IBOSZNHHSA-N	30	8.5		pH 8.5, 30C, recombinant enzyme, with trans-cinnamic acid
+0.026	palmitate	431	IPCSVZSSVZVIGE-UHFFFAOYSA-N	30	7.5		recombinant enzyme, pH 7.5, 30C
+0.099	phenylacetate	624	WLJVXDMOQOGPHL-UHFFFAOYSA-N	30	7.5		recombinant enzyme, pH 7.5, 30C
+1.3	phenylacetate	624	WLJVXDMOQOGPHL-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, recombinant enzyme
+4.17	phenylacetate	624	WLJVXDMOQOGPHL-UHFFFAOYSA-N				pH and temperature not specified in the publication
+5	phenylacetate	624	WLJVXDMOQOGPHL-UHFFFAOYSA-N				pH and temperature not specified in the publication
+20	phenylacetate	624	WLJVXDMOQOGPHL-UHFFFAOYSA-N	75	7.8		pH 7.8, 75C, recombinant enzyme
+21.7	phenylacetate	624	WLJVXDMOQOGPHL-UHFFFAOYSA-N	30	7.8		pH 7.8, 30C
+40	phenylacetate	624	WLJVXDMOQOGPHL-UHFFFAOYSA-N	37			37C
+9.7	Butyric acid	385	FERIUCNNQQJTOY-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, recombinant enzyme
+0.062	stearate	663	QIQXTHQIDYTFRH-UHFFFAOYSA-N	30	7.5		recombinant enzyme, pH 7.5, 30C
+1.17	4-hydroxyphenylacetate	1277	XQXPVVBIMDBYFF-UHFFFAOYSA-N				pH and temperature not specified in the publication
+41.2	trans-cinnamic acid	1165	WBYWAXJHAXSJNI-VOTSOKGWSA-N	30	8.5		pH 8.5, 30C, recombinant enzyme
+0.076	caproate	813	FUZZWVXGSFPDMH-UHFFFAOYSA-N	30	7.5		recombinant enzyme, pH 7.5, 30C
+0.073	caprylate	682	WWZKQHOCKIZLMA-UHFFFAOYSA-N	30	7.5		recombinant enzyme, pH 7.5, 30C
+1.83	3-hydroxyphenylacetate	4027	FVMDYYGIDFPZAX-UHFFFAOYSA-N				pH and temperature not specified in the publication
+2.67	3-hydroxyphenylacetate	4027	FVMDYYGIDFPZAX-UHFFFAOYSA-N				pH and temperature not specified in the publication
+0.102	caprate	1286	GHVNFZFCNZKVNT-UHFFFAOYSA-M	30	7.5		recombinant enzyme, pH 7.5, 30C
+0.063	Phenoxyacetate	4458	LCPDWSOZIOUXRV-UHFFFAOYSA-N	30	7.5		recombinant enzyme, pH 7.5, 30C
+12	Phenoxyacetate	4458	LCPDWSOZIOUXRV-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, recombinant enzyme
+1.6	3-Chlorophenylacetate	63306	GQTKYLQYHPTULY-UHFFFAOYSA-N				pH and temperature not specified in the publication
+1.67	3-Chlorophenylacetate	63306	GQTKYLQYHPTULY-UHFFFAOYSA-N				pH and temperature not specified in the publication

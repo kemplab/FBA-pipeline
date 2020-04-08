@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0181	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	25		X	25C, mutant enzyme R100Y
+0.0211	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	25		X	25C, mutant enzyme R100M
+0.025	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	23		X	23C, mutant enzyme E171N
+0.048	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	25		X	25C, mutant enzyme R100K
+0.11	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	23		X	23C, mutant enzyme E171Q
+0.21	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	23		X	23C, mutant enzyme E171A
+3	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	23		X	23C, mutant enzyme E171D
+3.19	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	23		X	23C, mutant enzyme E171D
+5.8	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	25			25C, wild-type enzyme
+5.8	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	23			23C, wild-type enzyme
+0.65	L-Glu	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				reaction of L-Glu with benzimidazolribofuranosyl-adenosylcobinamide, fusion protein in which the cobalamin-binding subunit is linked to the catalytic subunit
+5.8	L-Glu	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				genetically engineered enzyme with S subunit fused to the C-terminus of the E subunit through an 11 amino acid (Gly-Gln)5-Gly linker segment
+20	L-Glu	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				reaction of L-Glu with benzimidazolribofuranosyl-adenosylcobinamide, wild-type enzyme
+0.073	L-threo-3-methylaspartate	3160	LXRUAYBIUSUULX-HRFVKAFMSA-N		7.0	X	mutant R100K, pH 7.0
+5.4	L-threo-3-methylaspartate	3160	LXRUAYBIUSUULX-HRFVKAFMSA-N		7.0		wild-type, pH 7.0
+0.05	L-2-Hydroxyglutarate	3509	HWXBTNAVRSUOJR-VKHMYHEASA-N		7.0		pH 7.0
+5.8	(2S,3S)-3-methylaspartate	10792	LXRUAYBIUSUULX-STHAYSLISA-N				genetically engineered enzyme with S subunit fused to the C-terminus of the E subunit through an 11 amino acid (Gly-Gln)5-Gly linker segment

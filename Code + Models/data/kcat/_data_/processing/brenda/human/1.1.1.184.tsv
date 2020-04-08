@@ -1,0 +1,65 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.009167	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N			X	mutant P230W
+0.0092	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+0.0098	4-Nitrobenzaldehyde	612	BXRFQSNOROATLV-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+0.0103	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N				wild-type
+0.0103	doxorubicin	662	AOJJSUZBOXZQNB-TZSSRYMLSA-N				
+0.011	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N				wild-type
+0.012	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+0.01217	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N			X	mutant P230W
+0.15	doxorubicin	662	AOJJSUZBOXZQNB-TZSSRYMLSA-N			X	single nucleotide polymorphism V88I mutation
+0.17	isatin	646	JXDYKVIHCLTXOP-UHFFFAOYSA-N	25	7.4		wild-type, pH 7.4, 25C; wild-type, pH 7.4, 37C
+0.18	doxorubicin	662	AOJJSUZBOXZQNB-TZSSRYMLSA-N			X	single nucleotide polymorphism P131S mutation
+0.19	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N			X	single nucleotide polymorphism V88I mutation
+0.21	doxorubicin	662	AOJJSUZBOXZQNB-TZSSRYMLSA-N				wild-type
+0.25	1,4-Naphthoquinone	823	FRASJONUBLZVQX-UHFFFAOYSA-N	25	7.4		after treatment with S-nitrosoglutathione, pH 7.4, 25C
+0.25	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N	37	7.4		enzyme modified by S-nitrosoglutathione, pH 7.4, 37C
+0.28	1,4-Naphthoquinone	823	FRASJONUBLZVQX-UHFFFAOYSA-N	37	7.4		enzyme modified by S-nitrosoglutathione, pH 7.4, 37C
+0.28	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	25	7.4		after treatment with S-nitrosoglutathione, pH 7.4, 25C
+0.3	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N	25	7.4		after treatment with S-nitrosoglutathione, pH 7.4, 25C
+0.3	isatin	646	JXDYKVIHCLTXOP-UHFFFAOYSA-N	37	7.4		enzyme modified by S-nitrosoglutathione, pH 7.4, 37C
+0.3	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N				wild-type
+0.32	2,3-Hexanedione	2352	MWVFCEVNXHTDNF-UHFFFAOYSA-N	25	7.4		after treatment with S-nitrosoglutathione, pH 7.4, 25C
+0.32	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	37	7.4		enzyme modified by S-nitrosoglutathione, pH 7.4, 37C
+0.33	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N			X	single nucleotide polymorphism P131S mutation
+0.38	oracin	11828	LRHPCRBOMKRVOA-UHFFFAOYSA-N	37	7.4		enzyme modified by S-nitrosoglutathione, pH 7.4, 37C
+0.48	daunorubicin	1156	STQGQHZAVUOBTE-VGBVRHCVSA-N	37	7.4		enzyme modified by S-nitrosoglutathione, pH 7.4, 37C
+0.55	1,4-Naphthoquinone	823	FRASJONUBLZVQX-UHFFFAOYSA-N	25	7.4		wild-type, pH 7.4, 25C; wild-type, pH 7.4, 37C
+0.68	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	25	7.4		wild-type, pH 7.4, 25C; wild-type, pH 7.4, 37C
+1.19	daunorubicin	1156	STQGQHZAVUOBTE-VGBVRHCVSA-N			X	single nucleotide polymorphism V88I mutation
+1.2	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N	25	7.4		wild-type, pH 7.4, 25C; wild-type, pH 7.4, 37C
+1.27	daunorubicin	1156	STQGQHZAVUOBTE-VGBVRHCVSA-N	37	7.4		wild-type, pH 7.4, 37C
+1.52	2,3-Hexanedione	2352	MWVFCEVNXHTDNF-UHFFFAOYSA-N	37	7.4		enzyme modified by S-nitrosoglutathione, pH 7.4, 37C
+1.67	oracin	11828	LRHPCRBOMKRVOA-UHFFFAOYSA-N	37	7.4		wild-type, pH 7.4, 37C
+1.94	daunorubicin	1156	STQGQHZAVUOBTE-VGBVRHCVSA-N				wild-type
+2.02	daunorubicin	1156	STQGQHZAVUOBTE-VGBVRHCVSA-N			X	single nucleotide polymorphism P131S mutation
+2.02	S-nitrosoglutathione	753	HYHSBSXUHZOYLX-WDSKDSINSA-N		7.4	X	mutant C227S, pH 7.4, temperature not specified in the publication
+2.62	S-nitrosoglutathione	753	HYHSBSXUHZOYLX-WDSKDSINSA-N		7.4		wild-type, pH 7.4, temperature not specified in the publication
+3.47	1,2-naphthoquinone	1415	KETQAJRQOHHATG-UHFFFAOYSA-N	25	7.4		wild-type, pH 7.4, 25C; wild-type, pH 7.4, 37C
+3.57	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	25	7.4		wild-type, pH 7.4, 25C; wild-type, pH 7.4, 37C
+5.05	S-nitrosoglutathione	753	HYHSBSXUHZOYLX-WDSKDSINSA-N		7.4	X	mutant D236A/K238P/D239K/S240A/I241T/R242K/T243S/V244P, pH 7.4, temperature not specified in the publication
+5.13	2,3-Hexanedione	2352	MWVFCEVNXHTDNF-UHFFFAOYSA-N	25	7.4		wild-type, pH 7.4, 25C; wild-type, pH 7.4, 37C
+5.25	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N		7.4		wild-type, pH 7.4, temperature not specified in the publication
+6.7	1,2-naphthoquinone	1415	KETQAJRQOHHATG-UHFFFAOYSA-N	25	7.4		after treatment with S-nitrosoglutathione, pH 7.4, 25C; enzyme modified by S-nitrosoglutathione, pH 7.4, 37C
+6.7	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	25	7.4		after treatment with S-nitrosoglutathione, pH 7.4, 25C
+8.6	glutathione-4-oxonon-2-enal	7735	XMOLEWOFKNFWHC-GQCTYLIASA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+9.77	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	37	7.4		enzyme modified by S-nitrosoglutathione, pH 7.4, 37C
+9.77	isatin	646	JXDYKVIHCLTXOP-UHFFFAOYSA-N	25	7.4		after treatment with S-nitrosoglutathione, pH 7.4, 25C
+9.9	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, recombinant isozyme CBR V244
+10.83	S-nitrosoglutathione	753	HYHSBSXUHZOYLX-WDSKDSINSA-N		7.4	X	mutant P230W/D236A/K238P/D239K/S240A/I241T/R242K/T243S/V244PpH 7.4, temperature not specified in the publication
+16.3	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	7.4		pH 7.4, 37C, recombinant isozyme CBR V244
+18	prostaglandin E2	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	37	7.4	X	mutant V88I, 37C, pH 7.4
+20.45	S-nitrosoglutathione	753	HYHSBSXUHZOYLX-WDSKDSINSA-N		7.4	X	mutant Q142M/C143S/P230W/D236A/K238P/D239K/S240A/I241T/R242K/T243S/V244P/H270S, pH 7.4, temperature not specified in the publication
+20.5	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, recombinant isozyme CBR M244
+23.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	8.4		pH 8.4, 25C
+25	prostaglandin E2	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	37	7.4		wild-type, 37C, pH 7.4
+26.7	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	7.4		pH 7.4, 37C, recombinant isozyme CBR M244
+36.2	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N		7.4	X	mutant C227S, pH 7.4, temperature not specified in the publication
+61	daunorubicin	1156	STQGQHZAVUOBTE-VGBVRHCVSA-N	37	7.4	X	mutant V88I, 37C, pH 7.4
+85	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	37	7.4	X	mutant V88I, 37C, pH 7.4
+91	daunorubicin	1156	STQGQHZAVUOBTE-VGBVRHCVSA-N	37	7.4		wild-type, 37C, pH 7.4
+110	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	37	7.4		wild-type, 37C, pH 7.4
+149	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	7.4	X	mutant V88I, 37C, pH 7.4
+179	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	7.4		wild-type, 37C, pH 7.4
+220	4-oxonon-2-enal	5090	SEPPVOUBHWNCAW-FNORWQNLSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+246	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme

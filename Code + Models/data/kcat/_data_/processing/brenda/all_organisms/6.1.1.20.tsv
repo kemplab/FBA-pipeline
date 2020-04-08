@@ -1,0 +1,46 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.3		ATP-diphosphate exchange reaction, mitochondrial isozyme, pH 7.3, 37C
+0.055	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	60	7.8		pH 7.8, 60C
+0.075	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	30	8.0		mitochondrial enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30C
+0.115	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	70	7.8		pH 7.8, 70C
+0.87	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	30	8.0		cytoplasmic enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30C
+1.1	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	7.3		ATP-diphosphate exchange reaction, recombinant mitochondrial isozyme, pH 7.3, 37C
+1.12	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	30	8.0		in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30C
+3.27	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	7.2	X	pH 7.2, 37C, truncated mutant PheRSDELTAB2A294G
+3.34	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	7.2		pH 7.2, 37C, full-length PheRSA294G
+140	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	mutant A333G mtPheRS
+180	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N				wild-type mtPheRS
+185	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	mutant A294G EcPheRS
+199	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N				wild-type EcPheRS
+464	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	mutant G45A8 ctPheRS
+603	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N				wild-type ctPheRS
+0.033	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30	8.0		mitochondrial enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30C
+0.6	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N			X	mutant G458S ctPheRS
+5	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N				wild-type mtPheRS
+12.5	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N			X	mutant A333G mtPheRS
+35	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N				wild-type EcPheRS
+184	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N				wild-type ctPheRS
+185	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N			X	mutant A294G EcPheRS
+0.975	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	mutant enzyme with A294G mutation in alpha-subunit and T354W mutation in beta-subunit
+1.72	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N				wild-type enzyme
+2.04	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	mutant enzyme with A294G mutation in alpha-subunit
+2.645	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	mutant enzyme with A294G mutation in alpha-subunit and E334A mutation in beta-subunit
+2.88	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	mutant enzyme with A294G mutation in alpha-subunit and H265A mutation in beta-subunit
+3	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	mutant enzyme with A294G mutation in alpha-subunit and E334A mutation in beta-subunit
+3.12	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	mutant enzyme with A294G mutation in alpha-subunit and A356W mutation in beta-subunit
+3.3	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	mutant enzyme with A294G mutation in alpha-subunit and H265L mutation in beta-subunit
+6.08	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	mutant enzyme with A294G mutation in alpha-subunit and T354W mutation in beta-subunit
+150	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	7.2		pH 7.2, 37C, mitochondrial enzyme
+240	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	7.2		pH 7.2, 37C, cytosolic enzyme
+160	L-Tyr	103	OUYCCCASQSFEME-QMMMGPOBSA-N	37	7.2		pH 7.2, 37C, cytosolic enzyme
+0.077	tRNAPhe	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.2		pH 7.2, 37C, full-length PheRSA294G, substrate from Saccharomyces cerevisiae
+0.11	tRNAPhe	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5		aminoacylation reaction, recombinant mitochondrial isozyme, pH 7.5, 37C
+0.11	tRNAPhe	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.2	X	pH 7.2, 37C, truncated mutant PheRSDELTAB2A294G, substrate from Saccharomyces cerevisiae
+0.78	tRNAPhe	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.2	X	pH 7.2, 37C, truncated mutant PheRSDELTAB2A294G, substrate from Escherichia coli
+0.82	tRNAPhe	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.2		pH 7.2, 37C, full-length PheRSA294G, substrate from Escherichia coli
+0.057	3,4-dihydroxy-L-phenylalanine	275	WTDRDQBEARUVNC-LURJTMIESA-N	30	8.0		mitochondrial enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30C
+0.16	3,4-dihydroxy-L-phenylalanine	275	WTDRDQBEARUVNC-LURJTMIESA-N	30	8.0		in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30C
+0.23	3,4-dihydroxy-L-phenylalanine	275	WTDRDQBEARUVNC-LURJTMIESA-N	30	8.0		cytoplasmic enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30C
+2.3	benzofuranylalanine	24117	IIQKYWMOMQWBER-UHFFFAOYSA-N				
+0.052	DL-m-tyrosine	13654	JZKXXXDKRQWDET-UHFFFAOYSA-N	30	8.0		mitochondrial enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30C
+0.65	DL-m-tyrosine	13654	JZKXXXDKRQWDET-UHFFFAOYSA-N	30	8.0		cytoplasmic enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30C

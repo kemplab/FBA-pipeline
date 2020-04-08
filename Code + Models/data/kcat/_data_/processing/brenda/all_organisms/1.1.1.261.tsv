@@ -1,0 +1,28 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.044	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	65	7.0		pH 7.0, 65C
+0.26	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	50	7.0		wild-type, pH 7.0, 50C
+3.23	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	65	7.8		at pH 7.8 and 65C; pH 7.0, 50C
+7	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	50	7.0	X	mutant S40A/T42A, pH 7.0, 50C
+0.09	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	65	7.0		pH 7.0, 65C
+2.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	65	7.0		pH 7.0, 65C
+3.33	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	65	7.8		at pH 7.8 and 65C; pH 7.0, 50C
+10.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	50	7.0	X	mutant S40A/T42A, pH 7.0, 50C
+11	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	50	7.0		wild-type, pH 7.0, 50C
+0.3	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	50	7.0		wild-type, cosubstrate NADPH, pH 7.0, 50C
+0.493	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N			X	mutant enzyme H271A
+0.75	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	65	7.0		in the presence of 0.32 mM NADPH, pH 7.0, 65C
+1.1	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N			X	mutant enzyme D144A
+1.44	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	50	7.0		cosubstrate NADH, pH 7.0, 50C; with NADH as cosubstrate, at pH 7.8 and 65C
+2.6	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	65	7.0		in the presence of 0.32 mM NADH, pH 7.0, 65C
+2.78	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	50	7.0		cosubstrate NADPH, pH 7.0, 50C; with NADPH as cosubstrate, at pH 7.8 and 65C
+2.945	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N			X	mutant enzyme H287A
+3	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N			X	mutant enzyme H287A
+3.27	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N			X	mutant enzyme D191N
+3.3	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N				wild type enzyme
+4.998	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N				wild type enzyme
+5.22	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	50	7.0	X	mutant S40A/T42A, cosubstrate NADPH, pH 7.0, 50C
+8	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N			X	mutant enzyme D144N
+10.4	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	50	7.0	X	mutant S40A/T42A, cosubstrate NADH, pH 7.0, 50C; wild-type, cosubstrate NADH, pH 7.0, 50C
+18.77	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N			X	mutant enzyme D144A
+60.47	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N			X	mutant enzyme D144N
+0.09	sn-glycerol-1-phosphate	2845	AWUCVROLDVIAJX-VKHMYHEASA-N	65	7.0		pH 7.0, 65C

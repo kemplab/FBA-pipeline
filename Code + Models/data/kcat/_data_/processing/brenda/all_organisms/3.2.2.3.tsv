@@ -1,0 +1,19 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.18	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	30	7.5		pH 7.5, 30C, recombinant enzyme
+0.4	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	30	7.5		pH 7.5, 30C, recombinant enzyme
+1.15	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	32	7.2		pH 7.2, 32C, recombinant His-tagged enzyme
+0.61	Inosine	154	UGQMRVRMYYASKQ-KQYNXXCUSA-N	30	7.5		pH 7.5, 30C, recombinant enzyme
+4.1	Inosine	154	UGQMRVRMYYASKQ-KQYNXXCUSA-N	30	7.5		pH 7.5, 30C, recombinant enzyme
+4.31	Inosine	154	UGQMRVRMYYASKQ-KQYNXXCUSA-N	32	7.2		pH 7.2, 32C, recombinant His-tagged enzyme
+3	uridine	227	DRTQHJPVMGBUCF-XVFCMESISA-N	30	7.5		pH 7.5, 30C, recombinant enzyme
+10.85	uridine	227	DRTQHJPVMGBUCF-XVFCMESISA-N	32	7.2		pH 7.2, 32C, recombinant His-tagged enzyme
+20	uridine	227	DRTQHJPVMGBUCF-XVFCMESISA-N		7.0		in 50 mM Tris-HCl, pH 7.0
+23.8	uridine	227	DRTQHJPVMGBUCF-XVFCMESISA-N	30	7.5		pH 7.5, 30C, recombinant enzyme
+1.12	cytidine	314	UHDGCWIWMRVCDJ-XVFCMESISA-N	32	7.2		pH 7.2, 32C, recombinant His-tagged enzyme
+1.3	Xanthosine	927	UBORTCNDUKBEOP-UUOKFMHZSA-N	30	7.5		pH 7.5, 30C, recombinant enzyme
+4.6	Xanthosine	927	UBORTCNDUKBEOP-UUOKFMHZSA-N	30	7.5		pH 7.5, 30C, recombinant enzyme
+6.3	Xanthosine	927	UBORTCNDUKBEOP-UUOKFMHZSA-N	32	7.2		pH 7.2, 32C, recombinant His-tagged enzyme
+23.4	nicotinamide riboside	1826	HBNCMQASEZXJKM-XNSCTKQGSA-O		7.0		in 50 mM Tris-HCl, pH 7.0
+2.3	nicotinic acid riboside methyl ester	26417	ZNCKPYJUJLEDCE-GWOFURMSSA-N		7.0		in 50 mM Tris-HCl, pH 7.0
+1.8	nicotinic acid riboside	4778	PUEDDPCUCPRQNY-ZYUZMQFOSA-N		7.0		in 50 mM Tris-HCl, pH 7.0
+1.29	ribothymidine	2277	DWRXFEITVBNRMK-JXOAFFINSA-N	32	7.2		pH 7.2, 32C, recombinant His-tagged enzyme

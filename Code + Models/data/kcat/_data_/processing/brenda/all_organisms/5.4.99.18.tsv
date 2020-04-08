@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0004	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	1892	XFVULMDJZXYMSG-ZIYNGMLESA-N	23	7.5	X	mutant H45W, pH 7.5, 23C
+0.0006	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	1892	XFVULMDJZXYMSG-ZIYNGMLESA-N	37	8.0	X	mutant H59Q, 37C, pH 8.0
+0.0012	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	1892	XFVULMDJZXYMSG-ZIYNGMLESA-N	23	7.5	X	mutant H45Q, pH 7.5, 23C
+0.0021	5-carboxyamino-1-(5-phospho-D-ribosyl)imidazole	5775	JHLXDWGVSYMXPL-XVFCMESISA-N	23	7.5	X	mutant H45Q, pH 7.5, 23C
+0.063	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	1892	XFVULMDJZXYMSG-ZIYNGMLESA-N	37	8.0	X	mutant H89N, 37C, pH 8.0
+0.4	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	1892	XFVULMDJZXYMSG-ZIYNGMLESA-N	37	8.0	X	mutant H89D, 37C, pH 8.0
+0.49	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	1892	XFVULMDJZXYMSG-ZIYNGMLESA-N	37	8.0	X	mutant H59D, 37C, pH 8.0
+0.97	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	1892	XFVULMDJZXYMSG-ZIYNGMLESA-N	37	8.0	X	mutant H89G, 37C, pH 8.0
+1.97	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	1892	XFVULMDJZXYMSG-ZIYNGMLESA-N	37	8.0	X	mutant H89F, 37C, pH 8.0
+2.1	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	1892	XFVULMDJZXYMSG-ZIYNGMLESA-N	37	8.0	X	mutant H89V, 37C, pH 8.0
+12.2	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	1892	XFVULMDJZXYMSG-ZIYNGMLESA-N	37	8.0		wild-type, 37C, pH 8.0
+15.5	5-carboxyamino-1-(5-phospho-D-ribosyl)imidazole	5775	JHLXDWGVSYMXPL-XVFCMESISA-N	23	7.5		wild-type, pH 7.5, 23C
+15.6	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	1892	XFVULMDJZXYMSG-ZIYNGMLESA-N	23	7.5		wild-type, pH 7.5, 23C

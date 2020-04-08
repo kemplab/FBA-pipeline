@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.045	benzoyl-CoA	329	VEVJTUNLALKRNO-TYHXJLICSA-N	22	7.5		pH 7.5, 20-22C, cosubstrate: benzyl alcohol, native enzyme; pH 7.5, 20-22C, cosubstrate: benzyl alcohol, recombinant enzyme
+0.32	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	30	7.0		cosubstrate benzyl alcohol, pH 7.0, 30C
+0.35	salicyl alcohol	4094	CQRYARSYNCAZFO-UHFFFAOYSA-N	30	7.0		cosubstrate acetyl-CoA, pH 7.0, 30C
+0.4	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	30	7.0		cosubstrate acetyl-CoA, pH 7.0, 30C
+0.43	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	30	7.0		cosubstrate salicyl alcohol, pH 7.0, 30C
+0.9	cinnamoyl-CoA	1000	JVNVHNHITFVWIX-KZKUDURGSA-N	22	7.7		pH 7.7, 22C, cosustrate: benzyl alcohol
+1.42	3-Hydroxybenzyl alcohol	4803	OKVJCVWFVRATSG-UHFFFAOYSA-N	30	7.0		cosubstrate benzoyl-CoA, pH 7.0, 30C
+1.61	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	22	7.7		pH 7.7, 22C, cosubstrate: acetyl-CoA
+1.72	benzoyl-CoA	329	VEVJTUNLALKRNO-TYHXJLICSA-N	30	7.0		cosubstrate benzyl alcohol, pH 7.0, 30C
+1.79	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	30	7.0		cosubstrate benzoyl-CoA, pH 7.0, 30C
+1.97	3-Hydroxybenzyl alcohol	4803	OKVJCVWFVRATSG-UHFFFAOYSA-N	30	7.0		cosubstrate benzoyl-CoA, pH 7.0, 30C
+2.01	benzoyl-CoA	329	VEVJTUNLALKRNO-TYHXJLICSA-N	30	7.0		cosubstrate 3-hydroxybenzyl alcohol, pH 7.0, 30C
+2.06	benzoyl-CoA	329	VEVJTUNLALKRNO-TYHXJLICSA-N	30	7.0		cosubstrate salicyl alcohol, pH 7.0, 30C
+2.06	salicyl alcohol	4094	CQRYARSYNCAZFO-UHFFFAOYSA-N	30	7.0		cosubstrate benzoyl-CoA, pH 7.0, 30C
+2.25	benzoyl-CoA	329	VEVJTUNLALKRNO-TYHXJLICSA-N	30	7.0		cosubstrate 3-hydroxybenzyl alcohol, pH 7.0, 30C
+4.4	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	22	7.7		pH 7.7, 22C, cosubstrate: benzyl alcohol
+21.5	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	22	7.7		pH 7.7, 22C, cosustrate: benzyl alcohol
+35.8	2-phenylethanol	1248	WRMNZCZEMHIOCP-UHFFFAOYSA-N	22	7.7		pH 7.7, 22C, cosubstrate: 2-phenylethanol
+36.9	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	22	7.7		pH 7.7, 22C, cosubstrate: benzyl alcohol
+47.2	cinnamyl alcohol	728	OOCCDEMITAIZTP-QPJJXVBHSA-N	22	7.7		pH 7.7, 22C, cosustrate: benzoyl-CoA
+57.1	benzoyl-CoA	329	VEVJTUNLALKRNO-TYHXJLICSA-N	22	7.7		pH 7.7, 22C, cosubstrate: benzyl alcohol
+81.3	benzoyl-CoA	329	VEVJTUNLALKRNO-TYHXJLICSA-N	22	7.7		pH 7.7, 22C, cosubstrate: 2-phenylethanol
+85.2	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	22	7.7		pH 7.7, 22C, cosustrate: benzoyl-CoA
+124	benzoyl-CoA	329	VEVJTUNLALKRNO-TYHXJLICSA-N	22	7.7		pH 7.7, 22C, cosustrate: benzyl alcohol

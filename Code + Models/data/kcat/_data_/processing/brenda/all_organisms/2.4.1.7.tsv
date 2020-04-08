@@ -1,0 +1,53 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0001	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N			X	arsenolysis of alpha-D-glucose 1-phosphate, mutant D196N/E237Q
+0.00026	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	6.0	X	30C, pH 6.0, mutant enzyme D196A
+0.00063	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	7.0	X	pH 7.0, 30C, synthesis, mutant E237Q
+0.0014	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N	30	7.0	X	pH 7.0, 30C, synthesis, mutant D295E
+0.0016	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0	X	pH 7.0, 30C, phosphorolysis, mutant E237Q
+0.0065	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K	30	7.0	X	pH 7.0, 30C, arsenolysis, mutant D295E
+0.0124	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	7.0	X	pH 7.0, 30C, synthesis, mutant D295E
+0.0136	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, phosphorolysis, mutant D295E
+0.0159	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	7.0	X	pH 7.0, 30C, synthesis, mutant D295N
+0.02	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0	X	pH 7.0, 30C, phosphorolysis, mutant D295N
+0.0206	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N	30	7.0	X	pH 7.0, 30C, synthesis, mutant D295N
+0.024	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, phosphorolysis, mutant D295N
+0.0252	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K	30	7.0	X	pH 7.0, 30C, arsenolysis, mutant D295N
+1.4	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N	30	7.0	X	30C, pH 7.0, mutant enzyme D295E
+1.59	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	7.0	X	30C, pH 7.0, mutant enzyme D295N
+1.59	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N				
+1.99	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0	X	30C, pH 7.0, mutant enzyme D295N
+2.06	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N	30	7.0	X	30C, pH 7.0, mutant enzyme D295N
+2.38	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30	7.0	X	30C, pH 7.0, mutant enzyme D295N
+12.4	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	7.0	X	30C, pH 7.0, mutant enzyme D295E
+13.6	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30	7.0	X	30C, pH 7.0, mutant enzyme D295E
+31.19	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	37	6.5		pH 6.5, 37C, recombinant enzyme
+39	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	7.0		pH 7.0, 30C, sucrose synthesis by glycosylation from alpha-D-glucose 1-phosphate, recombinant wild-type enzyme
+47	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0		pH 7.0, 30C, deglycosylation by D-fructose, recombinant wild-type enzyme
+62	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	55	6.5		pH 6.5, 55C
+66	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N	55	6.5		pH 6.5, 55C
+72	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N	30	7.0		30C, pH 7.0, wild-type enzyme; pH 7.0, 30C, synthesis, wild-type enzyme
+72	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N	30	7.0		pH 7.0, 30C, synthesis, wild-type enzyme
+72	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N	30	7.0		pH 7.0, 30C, synthesis, wild-type enzyme
+91	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	7.0		30C, pH 7.0, wild-type enzyme; pH 7.0, 30C, synthesis, wild-type enzyme
+91	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	7.0		pH 7.0, 30C, synthesis, wild-type enzyme
+91	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	7.0		pH 7.0, 30C, synthesis, wild-type enzyme
+96	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	7.0		pH 7.0, 30C, synthesis, recombinant enzyme
+105	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	6.0		30C, pH 6.0, wild-type enzyme
+117	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0		pH 7.0, 30C, sucrose phosphorolysis, recombinant wild-type enzyme
+121	alpha-D-glucopyranosyl fluoride	2279	ATMYEINZLWEOQU-DVKNGEFBSA-N	30	7.0		pH 7.0, 30C, phosphorolysis, recombinant wild-type enzyme
+127	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	55	6.5		pH 6.5, 55C
+145	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0		pH 7.0, 30C, deglycosylation by phosphate, recombinant wild-type enzyme
+153	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	55	6.5		pH 6.5, 55C
+165	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0		30C, pH 7.0, wild-type enzyme; pH 7.0, 30C, phosphorolysis, wild-type enzyme
+165	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0		pH 7.0, 30C, phosphorolysis, recombinant enzyme
+165	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0		pH 7.0, 30C, phosphorolysis, wild-type enzyme
+170	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N				arsenolysis of alpha-D-glucose 1-phosphate, wild-type enzyme
+170	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K	30	7.0		pH 7.0, 30C, arsenolysis, wild-type enzyme
+170	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K	30	7.0		pH 7.0, 30C, arsenolysis, wild-type enzyme
+170	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0		pH 7.0, 30C, phosphorolysis, wild-type enzyme
+195	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30	7.0		30C, pH 7.0, wild-type enzyme; pH 7.0, 30C, phosphorolysis, wild-type enzyme
+195	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, phosphorolysis, wild-type enzyme
+200	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, phosphorolysis, wild-type enzyme
+201	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	60	7.0		pH 7.0, 60C, recombinant wild-type enzyme
+260	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	7.0		pH 7.0, 30C, arsenolysis, wild-type enzyme
+261	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	7.0		pH 7.0, 30C, arsenolysis, wild-type enzyme

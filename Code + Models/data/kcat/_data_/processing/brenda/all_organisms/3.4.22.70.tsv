@@ -1,0 +1,31 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000067	o-aminobenzoyl-LPETG-2,4-dinitrophenyl	12868	HAKOSGXTMIGAKD-PLDXUHMYSA-N		7.5		sortase A DELTA56 (residues Asp-57-Lys210), in 20 mM HEPES, pH 7.5
+0.0000083	o-aminobenzoyl-LPETG-2,4-dinitrophenyl	12868	HAKOSGXTMIGAKD-PLDXUHMYSA-N		7.5		sortase A DELTA64 (residues Asp65Lys210), in 20 mM HEPES, pH 7.5
+0.000019	N-(2-aminobenzoyl)-L-leucyl-L-prolyl-L-alpha-glutamyl-L-threonylglycyl-3-(2,4-dinitroanilino)-L-alaninamide	3272	REAQFXZIXGRULK-UGKXUENLSA-N			X	mutant enzyme
+0.00019	Abz-LPETG-Dap(Dnp)	2926	AMXXTBCCSPHEIY-UGKXUENLSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme R197K
+0.00021	Abz-LPETG-Dap(Dnp)	2926	AMXXTBCCSPHEIY-UGKXUENLSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme R197A
+0.0003	N-(2-aminobenzoyl)-L-leucyl-L-prolyl-L-alpha-glutamyl-L-threonylglycyl-3-(2,4-dinitroanilino)-L-alaninamide	3272	REAQFXZIXGRULK-UGKXUENLSA-N			X	mutant enzyme
+0.00046	N-(2-aminobenzoyl)-L-leucyl-L-prolyl-L-alpha-glutamyl-L-threonylglycyl-3-(2,4-dinitroanilino)-L-alaninamide	3272	REAQFXZIXGRULK-UGKXUENLSA-N			X	mutant enzyme
+0.0006	N-(2-aminobenzoyl)-L-leucyl-L-prolyl-L-alpha-glutamyl-L-threonylglycyl-3-(2,4-dinitroanilino)-L-alaninamide	3272	REAQFXZIXGRULK-UGKXUENLSA-N			X	mutant enzyme
+0.000628	aminobenzoyl-LPETGG-diaminopropionic acid(dinitrophenol)-NH2	2347	DAGMMEULMVXNGO-SXHVBRRNSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme R197A
+0.00098	Abz-LPETG-Dap(Dnp)	2926	AMXXTBCCSPHEIY-UGKXUENLSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme R197H
+0.0019	aminobenzoyl-LPETGG-diaminopropionic acid(dinitrophenol)-NH2	2347	DAGMMEULMVXNGO-SXHVBRRNSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme R197K
+0.0123	aminobenzoyl-LPETGG-diaminopropionic acid(dinitrophenol)-NH2	2347	DAGMMEULMVXNGO-SXHVBRRNSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme L169A
+0.013	Dnp-AQALPETGEE-NH2	23742	AHIHAFXMZJWDMD-FTVMPMCCSA-N				
+0.15	aminobenzoyl-LPETGG-diaminopropionic acid(dinitrophenol)-NH2	2347	DAGMMEULMVXNGO-SXHVBRRNSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme V168A
+0.16	aminobenzoyl-LPETGG-diaminopropionic acid(dinitrophenol)-NH2	2347	DAGMMEULMVXNGO-SXHVBRRNSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme E171A
+0.18	Gly-Gly-Gly	3152	XKUKSGPZAADMRA-UHFFFAOYSA-N				
+0.27	Abz-LPETG-Dap(Dnp)-NH2	3272	REAQFXZIXGRULK-UGKXUENLSA-N	37	7.5		37C, pH 7.5
+0.27	Abz-LPETG-Dap(Dnp)-NH2	3272	REAQFXZIXGRULK-UGKXUENLSA-N				
+0.29	Abz-LPETG-Dap(Dnp)	2926	AMXXTBCCSPHEIY-UGKXUENLSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme N98A
+0.29	aminobenzoyl-LPETGG-diaminopropionic acid(dinitrophenol)-NH2	2347	DAGMMEULMVXNGO-SXHVBRRNSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme R197Cit
+0.3	Abz-LPETG-Dap(Dnp)	2926	AMXXTBCCSPHEIY-UGKXUENLSA-N	37	7.5		37C, pH 7.5, wild-type enzyme
+0.37	Abz-LPETG-Dap(Dnp)	2926	AMXXTBCCSPHEIY-UGKXUENLSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme N98Q
+0.69	N-(2-aminobenzoyl)-L-leucyl-L-prolyl-L-alpha-glutamyl-L-threonylglycyl-3-(2,4-dinitroanilino)-L-alaninamide	3272	REAQFXZIXGRULK-UGKXUENLSA-N				wild-type enzyme
+0.72	N-(2-aminobenzoyl)-L-leucyl-L-prolyl-L-alpha-glutamyl-L-threonylglycyl-3-(2,4-dinitroanilino)-L-alaninamide	3272	REAQFXZIXGRULK-UGKXUENLSA-N			X	mutant enzyme
+0.78	N-(2-aminobenzoyl)-L-leucyl-L-prolyl-L-alpha-glutamyl-L-threonylglycyl-3-(2,4-dinitroanilino)-L-alaninamide	3272	REAQFXZIXGRULK-UGKXUENLSA-N			X	mutant enzyme
+1.09	aminobenzoyl-LPETGG-diaminopropionic acid(dinitrophenol)-NH2	2347	DAGMMEULMVXNGO-SXHVBRRNSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme D170A
+1.1	aminobenzoyl-LPETGG-diaminopropionic acid(dinitrophenol)-NH2	2347	DAGMMEULMVXNGO-SXHVBRRNSA-N	37	7.5		37C, pH 7.5, wild-type enzyme
+1.13	aminobenzoyl-LPETGG-diaminopropionic acid(dinitrophenol)-NH2	2347	DAGMMEULMVXNGO-SXHVBRRNSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme G167A; 37C, pH 7.5, mutant enzyme Q172A
+125	Dabcyl-QALPETGEE-Edans	125433	YYEHPZAOYVLULL-YSAYQOMWSA-N	37	7.5	X	pH 7.5, 37C, recombinant linear truncated mutant LSrtADELTAN59 enzyme
+135	Dabcyl-QALPETGEE-Edans	125433	YYEHPZAOYVLULL-YSAYQOMWSA-N	37	7.5	X	pH 7.5, 37C, recombinant circular truncated mutant CSrtADELTAN59 enzyme

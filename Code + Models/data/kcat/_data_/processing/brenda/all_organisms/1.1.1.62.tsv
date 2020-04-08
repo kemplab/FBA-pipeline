@@ -1,0 +1,37 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.065	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	8.0	X	25C, pH 8.0, mutant enzyme Y49D, cosubstrate: 4-estrene-3,17-dione
+1.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	8.0	X	25C, pH 8.0, mutant enzyme H164W, cosubstrate: 4-estrene-3,17-dione
+1.9	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	8.0	X	25C, pH 8.0, mutant enzyme H164G, cosubstrate: 4-estrene-3,17-dione
+2.4	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	8.0	X	pH 8.0, 25C, mutant H111A
+3.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	8.0		pH 8.0, 25C, wild-type enzyme
+3.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	8.0		25C, pH 8.0, wild-type enzyme, cosubstrate: 4-estrene-3,17-dione
+0.24	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	25C, pH 8.0, mutant enzyme Y49D, cosubstrate: 4-estrene-17beta-ol-3-one
+0.27	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	8.0	X	25C, pH 8.0, mutant enzyme Y49D, cosubstrate: 4-estrene-3,17-dione
+0.54	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.0	X	25C, pH 8.0, mutant enzyme Y49D, cosubstrate: 4-estrene-17beta-ol-3-one
+0.65	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.0		pH 8.0, 25C, wild-type enzyme
+0.65	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.0		25C, pH 8.0, wild-type enzyme, cosubstrate: 4-estrene-17beta-ol-3-one
+0.9	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.0	X	pH 8.0, 25C, mutant H111A
+3.1	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.0	X	25C, pH 8.0, mutant enzyme H164W, cosubstrate: 4-estrene-17beta-ol-3-one
+4.7	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.0	X	25C, pH 8.0, mutant enzyme H164G, cosubstrate: 4-estrene-17beta-ol-3-one
+0.12	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N			X	mutant enzyme L149V
+0.16	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N				wild-type enzyme
+0.6	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N	37	7.4		pH 7.4, 37C recombinant His-tagged enzyme
+1.73	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N				recombinant enzyme
+1.7	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	37	7.4		pH 7.4, 37C recombinant His-tagged enzyme
+0.26	estrone	503	DNXHEGUUPJUMQT-CBZIJGRNSA-N			X	mutant enzyme L149V
+1	estrone	503	DNXHEGUUPJUMQT-CBZIJGRNSA-N	37	7.4		pH 7.4, 37C recombinant His-tagged enzyme
+5.8	estrone	503	DNXHEGUUPJUMQT-CBZIJGRNSA-N				wild-type enzyme
+1.13	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N				recombinant enzyme
+0.0004	17beta-estradiol	602	VOXZDWNPVJITMN-ZBRFXRBCSA-N				17beta-HSD14 variant S205, pH and temperature not specified in the publication
+0.00055	17beta-estradiol	602	VOXZDWNPVJITMN-ZBRFXRBCSA-N				17beta-HSD14 variant T205, pH and temperature not specified in the publication
+0.5	17beta-estradiol	602	VOXZDWNPVJITMN-ZBRFXRBCSA-N	37	7.4		pH 7.4, 37C recombinant His-tagged enzyme
+0.24	estradiol-17beta	602	VOXZDWNPVJITMN-ZBRFXRBCSA-N			X	mutant enzyme L149V
+0.95	estradiol-17beta	602	VOXZDWNPVJITMN-ZBRFXRBCSA-N				recombinant enzyme
+4.4	estradiol-17beta	602	VOXZDWNPVJITMN-ZBRFXRBCSA-N				wild-type enzyme
+0.33	dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N				wild-type enzyme
+0.34	dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N			X	mutant enzyme L149V
+4.2	(S)-indan-1-ol	1896	YIAPLDFPUUJILH-VIFPVBQESA-N				recombinant enzyme
+0.00028	5-androstene-3beta,17beta-diol	3135	QADHLRWLCPCEKT-LOVVWNRFSA-N				17beta-HSD14 variant S205, pH and temperature not specified in the publication
+0.00032	5-androstene-3beta,17beta-diol	3135	QADHLRWLCPCEKT-LOVVWNRFSA-N				17beta-HSD14 variant T205, pH and temperature not specified in the publication
+0.433	benzene diohydrodiol	3607	YDRSQRPHLBEPTP-OLQVQODUSA-N				recombinant enzyme
+3	5alpha-adrostane-3alpha,17beta-diol	1491	CBMYJHIOYJEBSB-KHOSGYARSA-N	37	7.4		pH 7.4, 37C recombinant His-tagged enzyme

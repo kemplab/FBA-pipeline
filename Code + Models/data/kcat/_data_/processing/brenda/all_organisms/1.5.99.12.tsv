@@ -1,0 +1,27 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.1	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N		8.0		below, pH 8.0, recombinant enzyme
+0.13	N-methyl-isopentenyladenine	41818	LHPSNJXDVPTHHD-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+0.23	p-topolin	24430	XTKJIEMODDQCRV-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+0.3	caffeic acid	355	QAIPRVGONGVQAS-DUXPYHPUSA-N		6.5		pH 6.5, recombinant enzyme
+0.3	o-coumaric acid	2460	PMOWTIHVNWZYFI-AATRIKPKSA-N		6.5		pH 6.5, recombinant enzyme
+0.4	rosmarinic acid	1511	DOUMFZQKYFQNTF-WUTVXBCWSA-N		6.5		pH 6.5, recombinant enzyme
+0.6	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N		6.5		pH 6.5, recombinant enzyme
+0.8	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L		6.5		pH 6.5, recombinant enzyme
+1	daphnoretin	36769	JRHMMVBOTXEHGJ-UHFFFAOYSA-N		6.5		pH 6.5, recombinant enzyme
+1.4	scopoletin	1025	RODXRVNMMDRFIK-UHFFFAOYSA-N		6.5		pH 6.5, recombinant enzyme
+1.9	kinetin	2476	QANMHLXAZMSUEX-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+2.3	vitamin K1	1074	MBWXNTAXLNYFJB-NKFFZRIASA-N		6.5		pH 6.5, recombinant enzyme
+5.4	N6-(2-isopentenyl)adenine	1324	HYVABZIGRDEKCD-UHFFFAOYSA-N	37	7.0		with 2,3-dimethoxy-5-methyl-p-benzoquinone, pH 7.0, 37C
+21	zeatin riboside	10707	GOSWTRUMMSCNCW-HNNGNKQASA-N	30	7.4		30C, pH 7.4
+40	N6-(2-isopentenyl)adenine	1324	HYVABZIGRDEKCD-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+62	N6-isopentenyladenosine	4888	USVMJSALORZVDV-SDBHATRESA-N	30	7.4		30C, pH 7.4
+85.4	vitamin K3	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N		6.5		pH 6.5, recombinant enzyme
+123.1	coenzyme Q1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		6.5		pH 6.5, recombinant enzyme
+128	N6-isopentenyladenine	1324	HYVABZIGRDEKCD-UHFFFAOYSA-N	30	7.4		30C, pH 7.4
+129.8	N6-(2-isopentenyl)adenosine	4888	USVMJSALORZVDV-SDBHATRESA-N		6.5		pH 6.5, recombinant enzyme, with cofactor 2,3-dimethoxy-5-methyl-1,4-benzoquinone
+135	zeatin	1776	UZKQTCBAMSWPJD-FARCUNLSSA-N	30	7.4		30C, pH 7.4
+143.6	2,3-dimethoxy-5-methyl-1,4-benzoquinone	1753	UIXPTCZPFCVOQF-UHFFFAOYSA-N		6.5		pH 6.5, recombinant enzyme
+143.6	N6-(2-isopentenyl)adenine	1324	HYVABZIGRDEKCD-UHFFFAOYSA-N		6.5		pH 6.5, recombinant enzyme, with cofactor 2,3-dimethoxy-5-methyl-1,4-benzoquinone
+169.6	1,4-Naphthoquinone	823	FRASJONUBLZVQX-UHFFFAOYSA-N		6.5		pH 6.5, recombinant enzyme
+178.4	2,6-dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N		6.5		pH 6.5, recombinant enzyme
+278	2,6-dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N		8.0		pH 8.0, recombinant enzyme

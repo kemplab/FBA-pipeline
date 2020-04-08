@@ -1,0 +1,76 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+6	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	7.2		pH 7.2, 37C
+18.7	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.5	X	mutant N143A, pH 7.5, temperature not specified in the publication
+25.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.5	X	mutant N143L, pH 7.5, temperature not specified in the publication
+32.3	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.5	X	mutant W139A, pH 7.5, temperature not specified in the publication
+34.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.5		wild-type, pH 7.5, temperature not specified in the publication
+37.1	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.5	X	mutant W139F, pH 7.5, temperature not specified in the publication
+45.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.5	X	mutant Y140F, pH 7.5, temperature not specified in the publication
+47.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				reduction of naphthoquinone
+52.7	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				reduction of menadione
+53.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.5	X	mutant W139I, pH 7.5, temperature not specified in the publication
+170	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	7.2		pH 7.2, 37C
+8.9	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	37	7.2		pH 7.2, 37C
+31.7	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				reduction of menadione
+62.7	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				reduction of naphthoquinone
+120	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	37	7.2		pH 7.2, 37C
+192	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				
+46.7	2,6-dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N				recombinant NAD(P)H:quinone acceptor oxidoreductase 2
+600	2,6-dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N				recombinant NAD(P)H:quinone acceptor oxidoreductase 1
+0.11	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	27	7.0		at pH 7.0 and 27C
+23.1	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N				cofactor NADH
+34.8	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N				cofactor NADPH
+38.3	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N				recombinant NAD(P)H:quinone acceptor oxidoreductase 2
+350.7	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N				
+440	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+550	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N				recombinant NAD(P)H:quinone acceptor oxidoreductase 1
+11700	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N				
+370	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	37	7.2		pH 7.2, 37C
+769	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N		7.0		pH 7.0
+3200	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	37	7.2		pH 7.2, 37C
+0.333	Methyl red	760	CEQFOVLGLXCDCX-UHFFFAOYSA-N				recombinant NAD(P)H:quinone acceptor oxidoreductase 1
+3.83	Methyl red	760	CEQFOVLGLXCDCX-UHFFFAOYSA-N				recombinant NAD(P)H:quinone acceptor oxidoreductase 2
+431	1,4-Naphthoquinone	823	FRASJONUBLZVQX-UHFFFAOYSA-N		7.0		pH 7.0
+431	1,4-Naphthoquinone	823	FRASJONUBLZVQX-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+6.4	coenzyme Q1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	60	8.5		pH 8.5, 60C
+25	duroquinone	946	WAMKWBHYPYBEJY-UHFFFAOYSA-N	70	8.0		pH 8.0, 70C
+242	5-hydroxy-1,4-naphthoquinone	1018	KQPYUDDGWXQXHS-UHFFFAOYSA-N		7.0		pH 7.0
+242	5-hydroxy-1,4-naphthoquinone	1018	KQPYUDDGWXQXHS-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+930	benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+380	2-methyl-1,4-naphthoquinone	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N		7.0		pH 7.0
+380	2-methyl-1,4-naphthoquinone	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+232	2-Hydroxy-1,4-naphthoquinone	1855	CSFWPUWCSPOLJW-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+1.8	chromate	2200	NJVLEYOHCIFQQG-UHFFFAOYSA-L	27	7.0		at pH 7.0 and 27C
+43.3	dihydronicotinamide riboside	2246	XSPSNRGQAGZPQC-WPYKOPORSA-N				recombinant NAD(P)H:quinone acceptor oxidoreductase 2
+517	dihydronicotinamide riboside	2246	XSPSNRGQAGZPQC-WPYKOPORSA-N				recombinant NAD(P)H:quinone acceptor oxidoreductase 1
+625	2,6-dimethyl-1,4-benzoquinone	2325	SENUUPBBLQWHMF-UHFFFAOYSA-N		7.0		pH 7.0
+287	2-methyl-1,4-benzoquinone	2605	VTWDKFNVVLAELH-UHFFFAOYSA-N		7.0		pH 7.0
+287	2-methyl-1,4-benzoquinone	2605	VTWDKFNVVLAELH-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+29.9	naphthoquinone	823	FRASJONUBLZVQX-UHFFFAOYSA-N				cofactor NADH
+39.3	naphthoquinone	823	FRASJONUBLZVQX-UHFFFAOYSA-N				cofactor NADPH
+71	5,8-Dihydroxy-1,4-naphthoquinone	4032	RQNVIKXOOKXAJQ-UHFFFAOYSA-N		7.0		pH 7.0
+71	5,8-Dihydroxy-1,4-naphthoquinone	4032	RQNVIKXOOKXAJQ-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+52	9,10-phenanthrene quinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N		7.0		pH 7.0
+52	9,10-phenanthrene quinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+0.01	5-(aziridin-1-yl)-2,4-dinitrobenzamide	4548	WOCXQMCIOTUMJV-UHFFFAOYSA-N				recombinant NAD(P)H:quinone acceptor oxidoreductase 2
+6	5-(aziridin-1-yl)-2,4-dinitrobenzamide	4548	WOCXQMCIOTUMJV-UHFFFAOYSA-N				recombinant NAD(P)H:quinone acceptor oxidoreductase 2
+0.5	1,8-dihydroxy-9,10-anthraquinone	5020	QBPFLULOKWLNNW-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+1000	tetramethyl-1,4-benzoquinone	946	WAMKWBHYPYBEJY-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+500	2-methyl-5-hydroxy-1,4-naphthoquinone	1882	VCMMXZQDRFWYSE-UHFFFAOYSA-N		7.0		pH 7.0
+500	2-methyl-5-hydroxy-1,4-naphthoquinone	1882	VCMMXZQDRFWYSE-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+111	2,5-dimethyl-3,6-diaziridinyl-1,4-benzoquinone	11760	IWVCOLOPRNYONP-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+222	2,5-dimethyl-3,6-diaziridinyl-1,4-benzoquinone	11760	IWVCOLOPRNYONP-UHFFFAOYSA-N		7.0		pH 7.0
+500	2,5-dimethyl-1,4-benzoquinone	11761	MYKLQMNSFPAPLZ-UHFFFAOYSA-N		7.0		pH 7.0
+11	3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium	14189	FTZIQBGFCYJWKA-UHFFFAOYSA-N				recombinant NAD(P)H:quinone acceptor oxidoreductase 2
+167	reduced nicotinamide 2-azidoadenine dinucleotide	21845	ZMJCYFHKUHCQKL-NAJQWHGHSA-M				
+91	reduced nicotinamide 8-azidoadenine dinucleotide	21846	TVIGBUPFTOPLFH-NAJQWHGHSA-M				
+1550	2,5-diaziridinyl-1,4-benzoquinone	12924	RCWJMKCTHJPXJV-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+2331	2,5-diaziridinyl-1,4-benzoquinone	12924	RCWJMKCTHJPXJV-UHFFFAOYSA-N		7.0		pH 7.0
+2000	2,5-diaziridinyl-3-(hydroxymethyl)-6-methyl-1,4-benzoquinone	10173	JKDLOGLNPDVUCX-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+4.4	2,3-diglutathionyl-1,4-naphthoquinone	23352	JCTNEZBQGYMDFH-XSLAGTTESA-N		7.0		pH 7.0
+5.8	chromate(IV)	24827	NYVFBYBBZYEYBE-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C
+1540	2-methyl-5-aziridinyl-1,4-benzoquinone	37355	UCCVCCAWSDESJE-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+500	2,5-dimethyl-1,4-naphthoquinone	37356	FMAJEZFADLOKFJ-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+40	2,5-bis(ethylamine)-3,6-diaziridinyl-1,4-benzoquinone	37357	LRQKWIPWHLKHRX-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+26.3	2-methyl-3-glutathionyl-5-hydroxy-1,4-naphthoquinone	37358	BDYFQNKCGGLANN-RYUDHWBXSA-N		7.0		pH 7.0
+2.3	9,10-anthraquinone-2,6-disulfonate	3713	MSSUFHMGCXOVBZ-UHFFFAOYSA-N		7.0		pH 7.0

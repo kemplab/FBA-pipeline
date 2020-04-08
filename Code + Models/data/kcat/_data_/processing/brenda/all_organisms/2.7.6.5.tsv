@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.4	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N				full length enzyme; full length enzyme + tRNA
+0.47	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N				fragment 87-394; fragment 87-394 + tRNA; fragment 87-394 + tRNA + ribosomes + poly(U)
+0.66	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N				fragment 1-394 monomer; fragment 1-394 + tRNA; fragment 1-394 + tRNA + ribosomes + poly(U)
+8.4	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N				full length enzyme + tRNA + ribosomes + poly(U)
+127	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37	7.5		in 50 mM HEPES, pH 7.5, at 37C
+73	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N	37	7.5		in 50 mM HEPES, pH 7.5, at 37C

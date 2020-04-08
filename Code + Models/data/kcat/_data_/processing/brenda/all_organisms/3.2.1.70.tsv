@@ -1,0 +1,42 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+8.88	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238N
+34.5	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238A
+79.8	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238P
+483	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+517	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N	37	6.0		purified recombinant enzyme, pH 6.0, 37C
+95.2	Dextran	802	ZWMYJNRJRIUFLJ-CPSKUGELSA-N				
+384	Dextran	802	ZWMYJNRJRIUFLJ-CPSKUGELSA-N	37	6.0		purified recombinant enzyme, pH 6.0, 37C
+22.4	panose	815	OWEGMIWEEQEYGQ-QNHQVNOCSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238N
+42.1	panose	815	OWEGMIWEEQEYGQ-QNHQVNOCSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238A
+121	panose	815	OWEGMIWEEQEYGQ-QNHQVNOCSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238P
+538	panose	815	OWEGMIWEEQEYGQ-QNHQVNOCSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+612	panose	815	OWEGMIWEEQEYGQ-QNHQVNOCSA-N	37	6.0		purified recombinant enzyme, pH 6.0, 37C
+12.2	isomaltotriose	1110	FBJQEBRMDXPWNX-QHOUIDNNSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238N
+33.1	isomaltotriose	1110	FBJQEBRMDXPWNX-QHOUIDNNSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238A
+77.5	isomaltotriose	1110	FBJQEBRMDXPWNX-QHOUIDNNSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238P
+475	isomaltotriose	1110	FBJQEBRMDXPWNX-QHOUIDNNSA-N	37	6.0		purified recombinant enzyme, pH 6.0, 37C
+541	isomaltotriose	1110	FBJQEBRMDXPWNX-QHOUIDNNSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+0.04	isomaltotetraose	2045	DFKPJBWUFOESDV-NGZVDTABSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238N
+8.96	isomaltotetraose	2045	DFKPJBWUFOESDV-NGZVDTABSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238N
+22.3	isomaltotetraose	2045	DFKPJBWUFOESDV-NGZVDTABSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238A
+52.5	isomaltotetraose	2045	DFKPJBWUFOESDV-NGZVDTABSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238P
+499	isomaltotetraose	2045	DFKPJBWUFOESDV-NGZVDTABSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+501	isomaltotetraose	2045	DFKPJBWUFOESDV-NGZVDTABSA-N	37	6.0		purified recombinant enzyme, pH 6.0, 37C
+0.04	isomaltopentaose	2209	JKJNEIZIUZSCIE-PGBOVFLCSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238N
+9.21	isomaltopentaose	2209	JKJNEIZIUZSCIE-PGBOVFLCSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238N
+22.6	isomaltopentaose	2209	JKJNEIZIUZSCIE-PGBOVFLCSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238A
+42.4	isomaltopentaose	2209	JKJNEIZIUZSCIE-PGBOVFLCSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238P
+419	isomaltopentaose	2209	JKJNEIZIUZSCIE-PGBOVFLCSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+3	isomaltohexaose	2314	AXXZJMXWWIQXLN-ANNCMZNQSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238A
+7.8	isomaltohexaose	2314	AXXZJMXWWIQXLN-ANNCMZNQSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238N
+39.6	isomaltohexaose	2314	AXXZJMXWWIQXLN-ANNCMZNQSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238P
+401	isomaltohexaose	2314	AXXZJMXWWIQXLN-ANNCMZNQSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+9.81	isomaltoheptaose	2887	WZUUEWPIQJEOOV-UNRXLGRHSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238N
+33.2	isomaltoheptaose	2887	WZUUEWPIQJEOOV-UNRXLGRHSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238A
+56.5	isomaltoheptaose	2887	WZUUEWPIQJEOOV-UNRXLGRHSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238P
+449	isomaltoheptaose	2887	WZUUEWPIQJEOOV-UNRXLGRHSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+61.4	p-nitrophenyl alpha-D-glucoside	994	IFBHRQDFSNCLOZ-ZIQFBCGOSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238N
+202	p-nitrophenyl alpha-D-glucoside	994	IFBHRQDFSNCLOZ-ZIQFBCGOSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238A
+235	p-nitrophenyl alpha-D-glucoside	994	IFBHRQDFSNCLOZ-ZIQFBCGOSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+1202	p-nitrophenyl alpha-D-glucoside	994	IFBHRQDFSNCLOZ-ZIQFBCGOSA-N	37	6.0	X	pH 6.0, 37C, mutant enzyme W238P
+597	4-nitrophenyl-alpha-D-glucopyranoside	994	IFBHRQDFSNCLOZ-ZIQFBCGOSA-N	37	6.0		purified recombinant enzyme, pH 6.0, 37C

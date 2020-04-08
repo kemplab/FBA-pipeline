@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+13	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N				full-length and N-terminal truncated apo-hMCD
+13.3	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		8.5	X	pH 8.5, temperature not specified in the publication, mutant E302G, no H2O2
+47.3	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N				
+94.6	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		8.5	X	pH 8.5, temperature not specified in the publication, mutant C243S, no H2O2
+109.2	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		8.5		pH 8.5, temperature not specified in the publication, wild-type enzyme, 0.2 M H2O2
+114.2	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		8.5	X	pH 8.5, temperature not specified in the publication, mutant C206S, 0.2 M H2O2
+117.1	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		8.5	X	pH 8.5, temperature not specified in the publication, mutant C206S, no H2O2
+128.3	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		8.5		pH 8.5, temperature not specified in the publication, wild-type enzyme, 0.05 M H2O2
+135	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		8.5		pH 8.5, temperature not specified in the publication, wild-type enzyme, 0.1 M H2O2
+137.5	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		8.5	X	pH 8.5, temperature not specified in the publication, mutant C243S, 0.1 M H2O2
+141.2	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		8.5	X	pH 8.5, temperature not specified in the publication, mutant C206S, 00.1 M H2O2; pH 8.5, temperature not specified in the publication, wild-type enzyme, no H2O2
+162.5	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		8.5	X	pH 8.5, temperature not specified in the publication, mutant C206S/C243S, no H2O2
+167.1	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		8.5	X	pH 8.5, temperature not specified in the publication, mutant C206S/C243S, 0.2 M H2O2
+175.4	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		8.5	X	pH 8.5, temperature not specified in the publication, mutant C206S/C243S, 0.1 M H2O2
+208.3	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		8.5	X	pH 8.5, temperature not specified in the publication, mutant C243S, 0.2 M H2O2

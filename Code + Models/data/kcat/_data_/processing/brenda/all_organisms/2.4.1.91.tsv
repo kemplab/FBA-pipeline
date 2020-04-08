@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.442	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	40	7.5		apparent value, in 50 mM phosphate buffer (pH 7.5), at 40C
+3.61	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	30	7.5		pH 7.5, 30C
+0.000113	quercetin	131	REFJWTPEDVJJIY-UHFFFAOYSA-N	30	8.0		in 100 mM Tris-HCl pH 8.0, at 30C
+1.047	quercetin	131	REFJWTPEDVJJIY-UHFFFAOYSA-N	40	7.5		apparent value, in 50 mM phosphate buffer (pH 7.5), at 40C
+3.32	quercetin	131	REFJWTPEDVJJIY-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+0.000247	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	30	8.0		using cyanidin as cosubstrate, in 100 mM Tris-HCl pH 8.0, at 30C
+0.5955	kaempferol	341	IYRMWMYZSQPJKC-UHFFFAOYSA-N	40	7.5		apparent value, in 50 mM phosphate buffer (pH 7.5), at 40C
+1.25	kaempferol	341	IYRMWMYZSQPJKC-UHFFFAOYSA-N	30	8.0		recombinant enzyme, in 50 mM HEPES, at pH 8.0 and 30C
+6.75	kaempferol	341	IYRMWMYZSQPJKC-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+0.6252	myricetin	403	IKMDFBPHZNJCSN-UHFFFAOYSA-N	40	7.5		apparent value, in 50 mM phosphate buffer (pH 7.5), at 40C
+3.11	myricetin	403	IKMDFBPHZNJCSN-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+0.000702	cyanidin	818	VEVZSMAEJFVWIL-UHFFFAOYSA-O	30	8.0		in 100 mM Tris-HCl pH 8.0, at 30C

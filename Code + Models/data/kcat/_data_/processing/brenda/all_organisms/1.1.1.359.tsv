@@ -1,0 +1,30 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+4	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	70	7.5	X	pH 7.5, 70C, cosubstrate: NADP+, mutant enzyme T41V
+6	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	70	7.5	X	pH 7.5, 70C, cosubstrate: NAD+, mutant enzyme T41V
+7	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	70	7.5	X	pH 7.5, 70C, cosubstrate: NADP+, mutant enzyme T41V
+7	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	70	7.5	X	pH 7.5, 70C, cosubstrate: NADP+, mutant enzyme T41V
+8	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	70	7.5	X	pH 7.5, 70C, cosubstrate: NAD+, mutant enzyme T41V
+12	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	70	7.5	X	pH 7.5, 70C, cosubstrate: NAD+, mutant enzyme T41V
+14	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	70	7.5	X	pH 7.5, 70C, cosubstrate: NADP+, mutant enzyme T41A
+22	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	70	7.5	X	pH 7.5, 70C, cosubstrate: NADP+, mutant enzyme T41A
+22	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	70	7.5	X	pH 7.5, 70C, cosubstrate: NADP+, mutant enzyme T41A
+37	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	70	7.5		pH 7.5, 70C, cosubstrate: NADP+, wild-type enzyme
+37	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	70	6.5		pH 6.5, 70C, cosubstrate: NADP+
+37.4	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	70	7.5		pH 7.5, 70C, cofactor: NADP+
+39	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	70	7.5	X	pH 7.5, 70C, cosubstrate: NAD+, mutant enzyme T41A
+41	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	70	6.5		pH 6.5, 70C, cosubstrate: NAD+
+44	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	70	7.5		pH 7.5, 70C, cosubstrate: NADP+, wild-type enzyme
+47	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	70	6.5		pH 6.5, 70C, cosubstrate: NADP+
+47.7	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	70	7.5		pH 7.5, 70C, cofactor: NADP+
+47.7	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	70	6.5		pH 6.5, 70C, cosubstrate: NADP+
+48	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	70	7.5		pH 7.5, 70C, cosubstrate: NADP+, wild-type enzyme
+56	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	70	7.5	X	pH 7.5, 70C, cosubstrate: NAD+, mutant enzyme T41A
+61	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	70	7.5		pH 7.5, 70C, cosubstrate: NAD+, wild-type enzyme
+61	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	70	6.5		pH 6.5, 70C, cosubstrate: NAD+
+61	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	70	7.5		pH 7.5, 70C, cosubstrate: NAD+, wild-type enzyme
+61	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	70	6.5		pH 6.5, 70C, cosubstrate: NAD+
+61.3	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	70	7.5		pH 7.5, 70C, cofactor: NAD+
+74.9	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	70	7.5		pH 7.5, 70C, cofactor: NAD+
+74.9	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	70	6.5		pH 6.5, 70C, cosubstrate: NAD+
+75	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	70	7.5		pH 7.5, 70C, cosubstrate: NAD+, wild-type enzyme
+81	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	70	7.5	X	pH 7.5, 70C, cosubstrate: NAD+, mutant enzyme T41A

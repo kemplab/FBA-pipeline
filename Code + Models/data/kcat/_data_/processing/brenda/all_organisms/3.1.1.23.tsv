@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.45	4-Methylumbelliferyl butyrate	1805	WKPUJZVCZXWKCK-UHFFFAOYSA-N	37	7.0	X	mutant enzyme L169S/L176S/K165A, in 20 mM PIPES, pH 7.0, and 150 mM NaCl at 37C
+0.5	4-Methylumbelliferyl butyrate	1805	WKPUJZVCZXWKCK-UHFFFAOYSA-N	37	7.0	X	mutant enzyme L169S/L176S/K160A, in 20 mM PIPES, pH 7.0, and 150 mM NaCl at 37C; mutant enzyme L169S/L176S/K36A/K226A, in 20 mM PIPES, pH 7.0, and 150 mM NaCl at 37C
+0.63	4-Methylumbelliferyl butyrate	1805	WKPUJZVCZXWKCK-UHFFFAOYSA-N	37	7.0	X	mutant enzyme L169S/L176S/K226A, in 20 mM PIPES, pH 7.0, and 150 mM NaCl at 37C
+0.78	4-Methylumbelliferyl butyrate	1805	WKPUJZVCZXWKCK-UHFFFAOYSA-N	37	7.0	X	mutant enzyme L171Q/L174Q, in 20 mM PIPES, pH 7.0, and 150 mM NaCl at 37C
+0.8	4-Methylumbelliferyl butyrate	1805	WKPUJZVCZXWKCK-UHFFFAOYSA-N	37	7.0	X	mutant enzyme L169S/L176S, in 20 mM PIPES, pH 7.0, and 150 mM NaCl at 37C
+0.85	4-Methylumbelliferyl butyrate	1805	WKPUJZVCZXWKCK-UHFFFAOYSA-N	37	7.0	X	mutant enzyme L169S/L176S/K36A, in 20 mM PIPES, pH 7.0, and 150 mM NaCl at 37C; mutant enzyme L171Q, in 20 mM PIPES, pH 7.0, and 150 mM NaCl at 37C
+0.98	4-Methylumbelliferyl butyrate	1805	WKPUJZVCZXWKCK-UHFFFAOYSA-N	37	7.0	X	mutant enzyme L167Q/L171Q, in 20 mM PIPES, pH 7.0, and 150 mM NaCl at 37C
+1.13	4-Methylumbelliferyl butyrate	1805	WKPUJZVCZXWKCK-UHFFFAOYSA-N	37	7.0		wild type enzyme, in 20 mM PIPES, pH 7.0, and 150 mM NaCl at 37C
+1.17	4-Methylumbelliferyl butyrate	1805	WKPUJZVCZXWKCK-UHFFFAOYSA-N	37	7.0	X	mutant enzyme L167Q/L174Q, in 20 mM PIPES, pH 7.0, and 150 mM NaCl at 37C
+0.35	2-arachidonoylglycerol	3520	RCRCTBLIHCHWDZ-DOFZRALJSA-N	37	8.0		pH 8.0, 37C
+0.16	prostaglandin E2-G	24832	RJXVYMMSQBYEHN-LVXZDWGESA-N	37	8.0		pH 8.0, 37C
+0.07	prostaglandin D2-G	24833	AWSHXGOINMVSGP-MGNPUXDUSA-N	37	8.0		pH 8.0, 37C
+0.14	prostaglandin F3alpha-G	24834	BQFNWOFKZVSRHX-CTYBRFBSSA-N	37	8.0		pH 8.0, 37C
+2.66	arachidonoyl-1-thio-glycerol	128567	UUOPRYPOAXYNLX-DOFZRALJSA-N		7.2		in 10 mM Tris-HCl (pH 7.2), temperature not specified in the publication

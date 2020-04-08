@@ -1,0 +1,160 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.03	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	35	4.5	X	pH 4.5, 35C, recombinant mutant T290A
+0.031	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	35	4.5		pH 4.5, 35C, recombinant wild-type enzyme
+0.04	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	35	4.5	X	pH 4.5, 35C, recombinant mutant S30P/T62A/H391Y; pH 4.5, 35C, recombinant mutant T62A
+0.052	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	35	4.5	X	pH 4.5, 35C, recombinant mutant S30P/H391Y
+0.057	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	35	4.5	X	pH 4.5, 35C, recombinant mutant D20C/A27C/S30P/G137A
+0.13	kojibiose	1111	HIWPGCMGAMJNRG-CQUJWQHSSA-N				wild-type enzyme
+0.14	nigerose	1176	QIGJYVCQYDKYDW-NSYYTRPSSA-N				wild-type enzyme
+0.22	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N	411		X	mutant enzyme S411C
+0.25	4-nitrophenyl alpha-D-glucoside	994	IFBHRQDFSNCLOZ-ZIQFBCGOSA-N				wild-type enzyme
+0.27	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N				wild-type enzyme
+0.27	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N				recombinant glucoamylase
+0.29	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N			X	mutant enzyme S184H
+0.33	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	8	4.5		8C, pH 4.5, wild-type G1
+0.36	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N			X	mutant enzyme S119Y
+0.4	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N				
+0.41	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N				wild-type enzyme
+0.46	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	8	4.5		8C, pH 4.5, wild-type G2
+0.5	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	35	4.5	X	pH 4.5, 35C, recombinant mutant S119P
+0.53	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N			X	mutant enzyme G183K
+0.63	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N			X	mutant enzyme S411A
+0.64	isomaltotriose	1110	FBJQEBRMDXPWNX-QHOUIDNNSA-N				recombinant glucoamylase
+0.72	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N				wild-type enzyme
+0.93	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N			X	mutant enzyme S411G
+0.99	isomaltotetraose	2045	DFKPJBWUFOESDV-NGZVDTABSA-N				recombinant glucoamylase
+1.2	isomaltopentaose	2209	JKJNEIZIUZSCIE-PGBOVFLCSA-N				recombinant glucoamylase
+1.3	isomaltoheptaose	2887	WZUUEWPIQJEOOV-UNRXLGRHSA-N				recombinant glucoamylase
+1.5	isomaltohexaose	2314	AXXZJMXWWIQXLN-ANNCMZNQSA-N				recombinant glucoamylase
+1.6	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	40	6.5		pH 6.5, 40C, recombinant enzyme
+2	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N				recombinant glucoamylase
+2.2	nigerose	1176	QIGJYVCQYDKYDW-NSYYTRPSSA-N				
+2.7	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N	45	4.5		45C, pH 4.5
+3.2	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	8	4.5		8C, pH 4.5, wild-type G1 and G2
+3.4	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	55	5.0		pH 5.0, 55C
+3.5	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	50	5.5		immobilized enzyme, pH 5.5, 50C
+4.12	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	50	5.5		free enzyme, pH 5.5, 50C
+4.36	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N			X	mutant enzyme S411D
+6	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N				
+6.08	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	40	5.5		recombinant AmyD, pH 5.5, 40C
+6.8	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N				wild-type enzyme
+6.8	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N				recombinant enzyme expressed in Pichia pastoris
+6.8	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N				recombinant glucoamylase
+6.9	panose	815	OWEGMIWEEQEYGQ-QNHQVNOCSA-N				wild-type enzyme
+7.1	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N		4.5		pH 4.5, recombinant enzyme
+7.2	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N				
+7.35	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	35	4.5	X	pH 4.5, 35C, recombinant mutant S30P/T290A
+7.46	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	35	4.5	X	pH 4.5, 35C, recombinant mutant T290A
+7.55	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	35	4.5		pH 4.5, 35C, recombinant wild-type enzyme
+7.78	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	411		X	mutant enzyme S411C
+8.3	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	50	3.5		pH 3.5-5.5, 50C
+8.67	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	45	4.4		45C, pH 4.4
+8.9	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	50	4.5		50C, pH 4.5
+8.99	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	35	4.5	X	pH 4.5, 35C, recombinant mutant T62A
+9.1	panose	815	OWEGMIWEEQEYGQ-QNHQVNOCSA-N				
+9.2	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N				wild-type enzyme
+9.3	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	35	4.5	X	pH 4.5, 35C, recombinant mutant S30P/T290A/H391Y
+9.3	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	40	5.5		recombinant AmyC, pH 5.5, 40C
+9.42	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	35	4.5	X	pH 4.5, 35C, recombinant mutant S30P/T62A/H391Y
+9.8	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N			X	mutant S184H
+10.1	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N			X	mutant S119Yr
+10.13	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	35	4.5	X	pH 4.5, 35C, recombinant mutant S30P/H391Y
+10.4	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N			X	mutant G83K
+10.5	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	35	4.5	X	pH 4.5, 35C, recombinant mutant H391Y
+10.7	isomaltose	375	DLRVVLDZNNYCBX-NCFXGAEVSA-N	75	5.0		pH 5.0, 75C
+10.7	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N				recombinant enzyme expressed in Aspergillus niger
+11	Phenyl alpha-maltoside	2229	TYALKKBMRDZWLW-LTHBGAKLSA-N				
+11.3	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N				recombinant enzyme expressed in Saccharomyces cerevisiae
+11.32	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	35	4.5	X	pH 4.5, 35C, recombinant mutant D20C/A27C/S30P/G137A
+13.31	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	35	4.5	X	pH 4.5, 35C, recombinant mutant S119P
+14.2	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N				
+14.5	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N			X	mutant enzyme S411G
+15.5	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	55	5.0		pH 5.0, 55C
+15.8	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N			X	mutant enzyme S411D
+16.9	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	40	6.5		pH 6.5, 40C, recombinant enzyme
+18.9	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N			X	mutant enzyme S411A
+19.5	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	40	5.5		recombinant AmyD, pH 5.5, 40C
+20.4	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N				wild-type enzyme
+22.1	glycogen	421	VMMOHSLSZLSOMM-AHIHXIOASA-N	55	5.0		pH 5.0, 55C
+25.3	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	70	5.0		pH 5.0, 70C
+27.2	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N				
+27.3	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N				wild-type enzyme
+27.6	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N				recombinant enzyme expressed in Pichia pastoris
+28	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N				wild-type enzyme
+30.9	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N				recombinant enzyme expressed in Saccharomyces cerevisiae
+31.3	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	45	4.5		45C, pH 4.5
+33	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N	411		X	mutant enzyme S411C
+33.5	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N				recombinant enzyme expressed in Aspergillus niger
+34.1	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	55	5.0		pH 5.0, 55C
+36.5	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N				DP = 17
+36.6	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	55	5.0		pH 5.0, 55C
+37.7	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N				DP = 13
+38.2	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	40	5.0		pH 5.0, 40C
+38.4	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N	40	5.5		recombinant AmyD, pH 5.5, 40C
+40	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	40	5.5		recombinant AmyD, pH 5.5, 40C
+41.1	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N				
+41.6	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N				
+41.8	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N			X	mutant enzyme S119Y
+43.4	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N				
+43.8	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	40	5.5		recombinant AmyD, pH 5.5, 40C
+44	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N				recombinant glucoamylase
+44.7	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N				recombinant enzyme expressed in Pichia pastoris
+45	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N				wild-type enzyme
+45	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N				recombinant glucoamylase
+45	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N			X	mutant enzyme S119Y
+46.6	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N				
+49	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N				wild-type enzyme
+49	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N				recombinant glucoamylase
+49.9	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N			X	mutant enzyme S119Y
+50.3	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N			X	mutant enzyme S119Y
+52	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N				
+54	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N				wild-type enzyme
+54	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N				recombinant glucoamylase
+54.7	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	40	5.5		recombinant AmyC, pH 5.5, 40C
+55	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N	40	6.5		pH 6.5, 40C, recombinant enzyme
+56.3	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	40	6.5		pH 6.5, 40C, recombinant enzyme
+57	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N			X	mutant enzyme S119Y
+59.4	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N			X	mutant enzyme S411A
+61.6	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N	40	6.5		pH 6.5, 40C, recombinant enzyme
+66	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N				wild-type enzyme
+70.7	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	40	6.5		pH 6.5, 40C, recombinant enzyme
+71.1	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	40	5.5		recombinant AmyC, pH 5.5, 40C
+71.3	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N	40	5.5		recombinant AmyC, pH 5.5, 40C
+72	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N			X	mutant enzyme G183K
+72.3	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N				wild-type enzyme
+73.7	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	40	5.5		recombinant AmyC, pH 5.5, 40C
+76.4	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	40	6.5		pH 6.5, 40C, recombinant enzyme
+79	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N			X	mutant enzyme S184H
+84	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N			X	mutant enzyme S411G
+91.7	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	20	4.0		20C, pH 4.0
+114	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N	40	5.0		pH 5.0, 40C
+122	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	40	5.0		pH 5.0, 40C
+125	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N	40	5.0		pH 5.0, 40C
+149	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	75	5.0		pH 5.0, 75C
+150	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	40	5.0		pH 5.0, 40C
+155	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	40	5.0		pH 5.0, 40C
+158.3	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	40	5.0		pH 5.0, 40C
+217	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	40	4.5		pH 4.5, 40C, native enzyme
+217	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	40	5.5		pH 5.5, 40C, native enzyme
+221.3	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N	45	4.5		45C, pH 4.5
+300	alpha-D-glucopyranosyl fluoride	2279	ATMYEINZLWEOQU-DVKNGEFBSA-N				wild-type enzyme
+328	glycogen	421	VMMOHSLSZLSOMM-AHIHXIOASA-N				
+330	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N				
+343	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N	75	5.0		pH 5.0, 75C
+343	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	40	5.0		wild-type enzyme, pH 5.0, 40C
+354	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	40	4.5		pH 4.5, 40C, ACG-13
+367	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	40	4.5		pH 4.5, 40C, ACG-7
+368	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	75	5.0		pH 5.0, 75C
+413	Dextrin	1980	AGCXZFWEJDGGNL-UJWBPXPRSA-N				
+428	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N				soluble
+459	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N	75	5.0		pH 5.0, 75C
+460	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	75	5.0		pH 5.0, 75C
+485	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	40	5.5		pH 5.5, 40C, EDTA-coupled enzyme
+487	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	40	4.5		pH 4.5, 40C, ACG-1
+518	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	75	5.0		pH 5.0, 75C
+683	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N				
+717	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N				
+720	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N				
+727	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	40	5.0	X	mutant enzyme, pH 5.0, 40C
+800	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N				
+823	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N				

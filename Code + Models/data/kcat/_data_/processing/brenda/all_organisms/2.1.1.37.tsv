@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0068	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	37	8.5		pH 8.5, 37C
+0.01	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N				enzyme Dnmt3A, in absence of Dnmt3L
+0.01	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				enzyme Dnmt3A, in absence of Dnmt3L
+0.013	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N				enzyme Dnmt3A, in presence of Dnmt3L
+0.013	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	mutant enzyme H286A/R287A
+0.013	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				enzyme Dnmt3A, in absence of Dnmt3L
+0.02	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	mutant enzyme R106A, mutant enzyme N173A
+0.03	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	mutant enzyme K284A/K285A
+0.03	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	mutant enzyme D73A, mutant enzyme M168A, mutant enzyme Q301A
+0.04	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	mutant enzyme K111A, mutant enzyme V306A
+0.05	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	wild-type enzyme, mutant enzyme D71A
+0.058	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				wild-type enzyme
+0.08	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	mutant enzyme N39A

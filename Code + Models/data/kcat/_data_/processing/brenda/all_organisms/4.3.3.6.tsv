@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0001	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	37	7.5	X	pyridoxal 5'-phosphate formation, His-tagged H115A/R138A mutant Pdx1 protein, pH 7.5, 37C
+0.00013	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	37	7.5	X	pyridoxal 5'-phosphate formation, His-tagged H115A mutant Pdx1 protein, pH 7.5, 37C
+0.0002	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	37	7.5	X	pyridoxal 5'-phosphate formation, His-tagged E105D mutant Pdx1 protein, pH 7.5, 37C; pyridoxal 5'-phosphate formation, His-tagged R138A mutant Pdx1 protein, pH 7.5, 37C
+0.00033	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	37	8.0		pH 8.0, 37C
+0.00033	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	37	8.0	X	pH 8.0, 37C, mutant enzyme K149R
+0.0005	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	37	7.5	X	pyridoxal 5'-phosphate formation, His-tagged K187A mutant Pdx1 protein, pH 7.5, 37C; pyridoxal 5'-phosphate formation, R288A mutant Pdx1 protein, pH 7.5, 37C
+0.00055	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	37	7.5		pyridoxal 5'-phosphate formation, wild-type protein, pH 7.5, 37C
+0.0006	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	37	7.5		pyridoxal 5'-phosphate formation, His-tagged wild-type protein, pH 7.5, 37C
+0.00062	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	37	7.5	X	pyridoxal 5'-phosphate formation, R288K mutant Pdx1 protein, pH 7.5, 37C
+0.00067	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	37	8.0		pH 8.0, 37C, free pyridoxal 5'-phosphate synthase subunit (Pdx1)
+0.0007	D-ribulose 5-phosphate	371	FNZLKVNUWIIPSJ-UHNVWZDZSA-N	37	8.0		pH 8.0, 37C, free pyridoxal 5'-phosphate synthase subunit (Pdx1)
+0.004	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+0.022	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.5	X	Pdx2 glutaminase activity, His-tagged H115A mutant Pdx1 protein, pH 7.5, 37C
+0.024	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.5	X	Pdx2 glutaminase activity, His-tagged H115A/R138A mutant Pdx1 protein, pH 7.5, 37C; Pdx2 glutaminase activity, His-tagged K187A mutant Pdx1 protein, pH 7.5, 37C; Pdx2 glutaminase activity, His-tagged R138A mutant Pdx1 protein, pH 7.5, 37C; Pdx2 glutaminase activity, His-tagged wild-type protein, pH 7.5, 37C
+0.026	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.5	X	Pdx2 glutaminase activity, His-tagged E105D mutant Pdx1 protein, pH 7.5, 37C
+0.0295	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.5		Pdx2 glutaminase activity, wild-type protein, pH 7.5, 37C
+0.0305	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.5	X	Pdx2 glutaminase activity, R288A mutant Pdx1 protein, pH 7.5, 37C
+0.0307	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.5	X	Pdx2 glutaminase activity, R288K mutant Pdx1 protein, pH 7.5, 37C
+0.127	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	8.0		pH 8.0, 37C

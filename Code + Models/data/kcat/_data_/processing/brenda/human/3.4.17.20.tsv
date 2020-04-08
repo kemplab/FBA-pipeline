@@ -1,0 +1,38 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+121	bradykinin	387	QXZGBUJJYSLZLT-FDISYFBBSA-N				
+26	hippuryl-L-Arg	1986	GFLCPYUSPYXNBV-NSHDSACASA-N				
+52.4	hippuryl-L-Arg	1986	GFLCPYUSPYXNBV-NSHDSACASA-N				plasma-derived enzyme
+56.7	hippuryl-L-Arg	1986	GFLCPYUSPYXNBV-NSHDSACASA-N				recombinant enzyme
+2.67	hippuryl-Arg	1986	GFLCPYUSPYXNBV-NSHDSACASA-N				
+0.00004	hippuryl-arginine	1986	GFLCPYUSPYXNBV-NSHDSACASA-N			X	mutant S90D/S94V/S90D, activation of TAFI by plasmin
+0.00008	hippuryl-arginine	1986	GFLCPYUSPYXNBV-NSHDSACASA-N			X	mutant S90P, activation of TAFI by plasmin
+0.0002	hippuryl-arginine	1986	GFLCPYUSPYXNBV-NSHDSACASA-N			X	mutant P91S, activation of TAFI by plasmin
+0.0003	hippuryl-arginine	1986	GFLCPYUSPYXNBV-NSHDSACASA-N			X	mutant S94V, activation of TAFI by plasmin
+0.00039	hippuryl-arginine	1986	GFLCPYUSPYXNBV-NSHDSACASA-N			X	mutant R92K, activation of TAFI by plasmin
+0.00042	hippuryl-arginine	1986	GFLCPYUSPYXNBV-NSHDSACASA-N				wild-type, activation of TAFI by plasmin
+0.00043	hippuryl-arginine	1986	GFLCPYUSPYXNBV-NSHDSACASA-N			X	mutant A93V, activation of TAFI by plasmin
+15	Hippuryl-L-Lys	4428	LRCZLURYHGISRZ-LBPRGKRZSA-N				
+40.7	Hippuryl-L-Lys	4428	LRCZLURYHGISRZ-LBPRGKRZSA-N				plasma-derived enzyme
+45.6	Hippuryl-L-Lys	4428	LRCZLURYHGISRZ-LBPRGKRZSA-N				recombinant enzyme
+0.205	p-anisylazoformyl-L-arginine	4743	BVQRRDSDWHYCHI-ASMYIELASA-N			X	mutant A93V, activation of TAFI by thrombin in the presence of thrombomodulin
+0.215	p-anisylazoformyl-L-arginine	4743	BVQRRDSDWHYCHI-ASMYIELASA-N			X	mutant R92K, activation of TAFI by thrombin in the presence of thrombomodulin
+0.315	p-anisylazoformyl-L-arginine	4743	BVQRRDSDWHYCHI-ASMYIELASA-N				wild-type, activation of TAFI by thrombin in the presence of thrombomodulin
+0.328	p-anisylazoformyl-L-arginine	4743	BVQRRDSDWHYCHI-ASMYIELASA-N			X	mutant S94V, activation of TAFI by thrombin in the presence of thrombomodulin
+0.377	p-anisylazoformyl-L-arginine	4743	BVQRRDSDWHYCHI-ASMYIELASA-N			X	mutant S90P, activation of TAFI by thrombin in the presence of thrombomodulin
+15.9	anisylazoformyl-Lys	5065	YDOMJMHRVWBTBC-HNAMICAMSA-N	24			24C
+26.8	anisylazoformyl-Lys	5065	YDOMJMHRVWBTBC-HNAMICAMSA-N	24			24C
+27	anisylazoformyl-Lys	5065	YDOMJMHRVWBTBC-HNAMICAMSA-N	24			24C
+27.4	anisylazoformyl-Lys	5065	YDOMJMHRVWBTBC-HNAMICAMSA-N	24			24C
+29.5	anisylazoformyl-Lys	5065	YDOMJMHRVWBTBC-HNAMICAMSA-N	24			24C
+29	N-[3-(2-Furylacryloyl)]-L-Ala-L-Lys	6163	BZUABSYGNBFITP-DDOQPMFUSA-N				
+248	N-[3-(2-Furylacryloyl)]-L-Ala-L-Lys	6163	BZUABSYGNBFITP-DDOQPMFUSA-N				recombinant enzyme
+293	N-[3-(2-Furylacryloyl)]-L-Ala-L-Lys	6163	BZUABSYGNBFITP-DDOQPMFUSA-N				plasma-derived enzyme
+169	Hippuryl-L-argininic acid	10585	IUTTZYBANFEHFK-NSHDSACASA-N				
+748	Arg6-Leu5-enkephalin	3599	ILBHHEXPXBRSKB-FWEHEUNISA-N				
+647	Arg6-Met5-enkephalin	13543	UCBRMNXTPDDSKN-CQJMVLFOSA-N				
+282	Lys6-Leu5-enkephalin	20457	ZJTZBLPUKVGDTD-LJWNLINESA-N				
+290	Lys6-Met5-enkephalin	10611	CFOVZGFKVVQYMH-FWEHEUNISA-N				
+36	N-[3-(2-Furylacryloyl)]-L-Ala-L-Arg	6162	KVMXOYCJJRUPKZ-RIVSHMCHSA-N				
+64	N-benzoyl-Gly-L-Arg	21200	NBGDFGOWSOFUNI-LBPRGKRZSA-N	25	8.0		in 50 mM HEPES (pH 8.0) at 25C
+2.3	biotinyl-(epsilon-aminocaproic acid)-(epsilon-aminocaproic acid)-Gly-Leu-Met-Val-Gly-Gly-Val-Val-Arg-OH	22649	AMFDMDYAYWNUKA-YKTLDRLPSA-N				room temperature
+59	N-benzoyl-2'-cyano-L-Phe-L-Arg	27405	DFLRZLOIVLTEDV-OALUTQOASA-N	25	8.0		in 50 mM HEPES (pH 8.0) at 25C

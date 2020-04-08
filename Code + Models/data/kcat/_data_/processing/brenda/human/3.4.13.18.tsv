@@ -1,0 +1,29 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.1	Leu-Pro-p-nitroanilide	7946	NRWJPDWEPNEFIL-GJZGRUSLSA-N			X	mutant enzyme F822A
+0.1	Ser-Pro-p-nitroanilide	26419	OQKIUDMQNPMZAC-RYUDHWBXSA-N			X	mutant enzyme F822A
+0.2	Ala-Pro-p-nitroanilide	2311	WUOZBACYMYYTOQ-CABZTGNLSA-N			X	mutant enzyme F822A; mutant enzyme Y844A
+0.2	Gly-Pro-p-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N			X	mutant enzyme F822A
+0.2	Lys-Pro-p-nitroanilide	3397	SGOKFEWVODKABL-GJZGRUSLSA-N			X	mutant enzyme F822A
+0.3	Met-Pro-p-nitroanilide	3240	FIOLVCMBUYQDEJ-KBPBESRZSA-N			X	mutant enzyme F822A
+0.4	Arg-Pro-p-nitroanilide	3238	HQLQJFYQCVRVSJ-KBPBESRZSA-N			X	mutant enzyme F822A
+0.7	Ala-Ala-p-nitroanilide	7121	DGJXYQXDZRCZAS-YUMQZZPRSA-N				
+0.9	Asp-Pro-p-nitroanilide	6494	XOJCPCPXSLLQGF-RYUDHWBXSA-N				wild type enzyme
+1	Ala-Pro-p-nitroanilide	2311	WUOZBACYMYYTOQ-CABZTGNLSA-N			X	mutant enzyme V833A
+1.2	Arg-Pro-p-nitroanilide	3238	HQLQJFYQCVRVSJ-KBPBESRZSA-N			X	mutant enzyme H859A
+1.4	Gly-Pro-p-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N			X	mutant enzyme H859A
+1.6	Asp-Pro-p-nitroanilide	6494	XOJCPCPXSLLQGF-RYUDHWBXSA-N				
+2.4	Lys-Pro-p-nitroanilide	3397	SGOKFEWVODKABL-GJZGRUSLSA-N			X	mutant enzyme H859A
+3	Met-Pro-p-nitroanilide	3240	FIOLVCMBUYQDEJ-KBPBESRZSA-N			X	mutant enzyme H859A
+3.2	Lys-Pro-p-nitroanilide	3397	SGOKFEWVODKABL-GJZGRUSLSA-N				wild type enzyme
+3.8	Leu-Pro-p-nitroanilide	7946	NRWJPDWEPNEFIL-GJZGRUSLSA-N			X	mutant enzyme H859A
+7	Leu-Pro-p-nitroanilide	7946	NRWJPDWEPNEFIL-GJZGRUSLSA-N				wild type enzyme
+8	Ala-Pro-p-nitroanilide	2311	WUOZBACYMYYTOQ-CABZTGNLSA-N			X	mutant enzyme H859A
+12.8	Arg-Pro-p-nitroanilide	3238	HQLQJFYQCVRVSJ-KBPBESRZSA-N				
+13	Ser-Pro-p-nitroanilide	26419	OQKIUDMQNPMZAC-RYUDHWBXSA-N			X	mutant enzyme H859A
+14	Arg-Pro-p-nitroanilide	3238	HQLQJFYQCVRVSJ-KBPBESRZSA-N				wild type enzyme
+15	Met-Pro-p-nitroanilide	3240	FIOLVCMBUYQDEJ-KBPBESRZSA-N				wild type enzyme
+19	Ser-Pro-p-nitroanilide	26419	OQKIUDMQNPMZAC-RYUDHWBXSA-N				wild type enzyme
+22	Ala-Pro-p-nitroanilide	2311	WUOZBACYMYYTOQ-CABZTGNLSA-N				wild type enzyme
+25	Gly-Pro-p-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N				wild type enzyme
+40	Ala-Pro-p-nitroanilide	2311	WUOZBACYMYYTOQ-CABZTGNLSA-N				
+62	Gly-Pro-p-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N				

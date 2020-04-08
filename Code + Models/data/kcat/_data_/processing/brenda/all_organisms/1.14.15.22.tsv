@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0009	1alpha,25-dihydroxyvitamin D3	1449	GMRQFYUYWCNGIN-NKMMMXOESA-N			X	26-hydroxylation, mutant R73V/R84A, pH not specified in the publication, temperature not specified in the publication
+0.0023	vitamin D3	1999	QYSXJUFSXHHAJI-YRZJJWOYSA-N			X	25-hydroxylation, mutant R73V/R84A, pH not specified in the publication, temperature not specified in the publication
+0.035	1alpha-hydroxyvitamin D3	3027	VRXQYWFQPFDXCW-CVXXQQNDSA-N			X	25-hydroxylation, mutant R73V/R84A, pH not specified in the publication, temperature not specified in the publication
+0.0023	25-hydroxyvitamin D3	3061	JWUBBDSIWDLEOM-DTOXIADCSA-N			X	1alpha-hydroxylation, mutant R73V/R84A, pH not specified in the publication, temperature not specified in the publication

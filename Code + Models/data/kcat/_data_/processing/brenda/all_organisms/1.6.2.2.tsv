@@ -1,0 +1,155 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.733	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0		wild-type, cosubstrate ferricyanide, 25C, pH 7.0
+0.8	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	mutant P275L, cosubstrate ferricyanide, 25C, pH 7.0
+3	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0	X	mutant E255-, pH 7.0
+5.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.0	X	D239E mutant enzyme, pH 7.0, 25C
+8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0	X	mutant G179V, pH 7.0
+8.3	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				cytochrome b5/cytochrome b5 reductase FAD-domain fusion protein
+10	ferrocytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N		7.0	X	mutant G179P, pH 7.0
+12	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N		7.0	X	mutant G179V, pH 7.0
+12	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0	X	mutant G179T, pH 7.0
+14	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0	X	mutant Y93D, pH 7.0, 25C
+17	ferrocytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N		7.0	X	mutant G179V, pH 7.0
+17	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0	X	mutant G179P, pH 7.0
+18	ferrocytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N		7.0	X	mutant G179T, pH 7.0
+19	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0	X	mutant Y93W, pH 7.0, 25C
+19	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0	X	mutant G291D, pH 7.0
+21.7	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				cytochrome b5/cytochrome b5 reductase FAD-domain fusion protein
+21.7	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	mutant enzyme P247L, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25C; mutant P247L, ferricyanide as electron acceptor
+27	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0	X	mutant Y93H, pH 7.0, 25C
+30.8	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0	X	mutant enzyme P247L, in 100 mM potassium phosphate buffer (pH 7.0) at 25C; mutant P247L
+32	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0	X	mutant Y93S, pH 7.0, 25C
+33	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N		7.0	X	mutant G179T, pH 7.0
+33	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.0		wild type enzyme, pH 7.0, 25C
+33	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0		wild-type, pH 7.0
+33	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0		wild-type, pH 7.0
+38	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0	X	pH 7.0, 25C,T66V mutant enzyme
+40	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N			X	K110Q mutant enzyme
+42	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N		7.0	X	mutant G179P, pH 7.0
+48	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0	X	mutant G179A, pH 7.0
+50	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.0	X	F251R mutant enzyme, pH 7.0, 25C; F251Y mutant enzyme, pH 7.0, 25C
+50.2	2,6-dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N				
+53	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	G273 mutant enzyme
+57	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0	X	mutant Y93A, pH 7.0, 25C
+60	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N			X	mutant G75S
+67	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0	X	mutant P275L, 25C, pH 7.0
+76	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N			X	G273 mutant enzyme
+77	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C,T66V mutant enzyme
+77	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	H49E mutant enzyme
+83	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0	X	mutant Y93D, pH 7.0, 25C; mutant Y93H, pH 7.0, 25C; mutant Y93W, pH 7.0, 25C
+85	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N			X	mutant G75S/V252M
+98.3	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				enzyme from liver microsomes, protease solubilized
+100	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0	X	P144L/L148P mutant enzyme, pH 7.0, 25C
+100	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	pH 7.0, 25C,T66V mutant enzyme
+106	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N		7.0	X	pH 7.0, S127P mutant enzyme
+110	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N			X	H49E mutant enzyme
+120	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N			X	K110E mutant enzyme
+133	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0	X	mutant Y93S, pH 7.0, 25C
+133	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N			X	mutant G75S
+147	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0		wild type enzyme, in 100 mM potassium phosphate buffer (pH 7.0) at 25C
+167	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0	X	mutant enzyme P247A, in 100 mM potassium phosphate buffer (pH 7.0) at 25C
+180	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	Y65A mutant enzyme
+187	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N			X	mutant G75S/V252M
+190	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0	X	mutant D239G, pH 7.0
+200	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0	X	mutant Y93A, pH 7.0, 25C
+200	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.0	X	D239S/F251R mutant enzyme, pH 7.0, 25C
+217	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.0	X	D239S mutant enzyme, pH 7.0, 25C
+245	ferrocytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N		7.0	X	mutant G179A, pH 7.0
+250	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	D239S/F251R mutant enzyme, pH 7.0, 25C
+267	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.0	X	D239T mutant enzyme, pH 7.0, 25C
+270	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N			X	K110A mutant enzyme
+283	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0	X	P144L mutant enzyme, pH 7.0, 25C
+285	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N			X	mutant V252M
+295	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0	X	mutant Y93F, pH 7.0, 25C
+297	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				
+300	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0	X	L148P mutant enzyme, pH 7.0, 25C
+300	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N		7.0	X	pH 7.0, S127P mutant enzyme
+301	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0	X	mutant enzyme P248A, in 100 mM potassium phosphate buffer (pH 7.0) at 25C
+307	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				
+310	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	DELTAF272 mutant enzyme
+314	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0	X	pH 7.0, 25C,T66A mutant enzyme
+315	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0	X	mutant P92S, pH 7.0, 25C
+320	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0	X	mutant P92A, pH 7.0, 25C
+332	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				
+333	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	D239T mutant enzyme, pH 7.0, 25C
+335	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0	X	mutant P92G, pH 7.0, 25C
+337	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0		; wild type enzyme, in 100 mM potassium phosphate buffer (pH 7.0) at 25C
+340	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N			X	K110H mutant enzyme
+354	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	mutant enzyme P247A, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25C; mutant P247A, ferricyanide as electron acceptor
+357	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0	X	mutant enzyme P247A, in 100 mM potassium phosphate buffer (pH 7.0) at 25C; mutant P247A
+360	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N				wild-type
+367	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				
+367	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N		7.0		pH 7.0, wild type enzyme
+367	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	F251Y mutant enzyme, pH 7.0, 25C
+375	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	S99V mutant enzyme
+390	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				native enzyme
+399	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0	X	mutant enzyme P248A, in 100 mM potassium phosphate buffer (pH 7.0) at 25C; mutant P248A
+400	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N			X	DELTAF272 mutant enzyme
+400	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0		wild-type, pH 7.0, 25C
+400	ferrocytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N		7.0		wild-type, pH 7.0
+403	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	R63A mutant enzyme
+412	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	R63Q mutant enzyme
+417	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.0	X	D239S/F251Y mutant enzyme, pH 7.0, 25C
+433	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	D239S mutant enzyme, pH 7.0, 25C
+435	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	S99A mutant enzyme
+440	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	H49A mutant enzyme
+467	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0	X	mutant P92G, pH 7.0, 25C
+467	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	D239S/F251Y mutant enzyme, pH 7.0, 25C
+470	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N			X	H49A mutant enzyme
+470	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N			X	K110R mutant enzyme
+483	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0	X	mutant Y93F, pH 7.0, 25C
+490	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N			X	H49K mutant enzyme
+500	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				
+500	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				
+500	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	F251R mutant enzyme, pH 7.0, 25C
+501	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	Y65F mutant enzyme
+504	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0	X	mutant enzyme P248L, in 100 mM potassium phosphate buffer (pH 7.0) at 25C; mutant P248L
+515	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	R63K mutant enzyme
+517	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0	X	mutant P92A, pH 7.0, 25C
+517	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	D239E mutant enzyme, pH 7.0, 25C
+540	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0	X	mutant enzyme P249A, in 100 mM potassium phosphate buffer (pH 7.0) at 25C
+540	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	mutant enzyme P248L, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25C; mutant P248L, ferricyanide as electron acceptor
+550	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.0	X	D239T/F251R mutant enzyme, pH 7.0, 25C
+559	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N		7.0	X	mutant G179A, pH 7.0
+559	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	mutant enzyme P248A, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25C; mutant P248A, ferricyanide as electron acceptor
+570	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				recombinant wild-type enzyme
+600	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0		wild-type, 25C, pH 7.0
+600	ferrocytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0		pH 7.0, 25C
+630	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				native enzyme
+633	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N			X	mutant V252M
+667	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				
+677	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				enzyme from erythrocyte membrane
+681	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	mutant enzyme P249A, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25C; mutant P249A, ferricyanide as electron acceptor
+684	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C,T66A mutant enzyme
+700	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				enzyme from erythrocyte cytosol
+705	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0	X	pH 7.0, 25C,T66S mutant enzyme
+710	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	H49K mutant enzyme
+717	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	D239T/F251R mutant enzyme, pH 7.0, 25C
+727	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N			X	H49Y mutant enzyme
+742	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0		ferricyanide as electron acceptor; wild type enzyme, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25C
+750	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	H49Y mutant enzyme
+754	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.0	X	mutant D239G, pH 7.0; mutant E255-, pH 7.0; mutant G291D, pH 7.0; wild-type, pH 7.0
+767	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+800	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				recombinant wild-type enzyme
+800	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0		wild type enzyme, pH 7.0, 25C
+800	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N		7.0		pH 7.0, wild type enzyme
+800	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N		7.0		wild-type, pH 7.0
+800	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0		wild-type, pH 7.0, 25C
+800	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				wild-type
+800	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0		wild type enzyme, pH 7.0, 25C
+810	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				recombinant wild-type enzyme
+822	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, wild type enzyme
+827	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				enzyme from liver microsomes, detergent solubilized
+838	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0	X	mutant enzyme P249A, in 100 mM potassium phosphate buffer (pH 7.0) at 25C; mutant P249A
+851	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	S99T mutant enzyme
+880	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0	X	mutant P92S, pH 7.0, 25C
+909	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	K97R mutant enzyme
+911	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0		pH 7.0, 25C, wild type enzyme
+976	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C,T66S mutant enzyme
+984	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	pH 7.0, 25C,T66A mutant enzyme
+1059	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	mutant enzyme P249L, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25C; mutant P249L, ferricyanide as electron acceptor
+1060	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	K97A mutant enzyme
+1100	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				recombinant wild-type enzyme
+1100	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0		pH 7.0, 25C, wild type enzyme
+1150	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	pH 7.0, 25C,T66S mutant enzyme
+1241	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0	X	mutant enzyme P249L, in 100 mM potassium phosphate buffer (pH 7.0) at 25C; mutant P249L

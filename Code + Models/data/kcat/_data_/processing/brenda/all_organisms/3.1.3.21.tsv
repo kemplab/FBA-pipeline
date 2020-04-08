@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	22	7.5		in Tris-HCl 50 mM at pH 7.5, at 22C
+0.18	D-ribulose 5-phosphate	371	FNZLKVNUWIIPSJ-UHNVWZDZSA-N	22	7.5		in Tris-HCl 50 mM at pH 7.5, at 22C
+0.18	Glycerol 2-phosphate	1810	DHCLVCXQIBBOPH-UHFFFAOYSA-N	22	7.5		in Tris-HCl 50 mM at pH 7.5, at 22C
+0.77	DL-glycerol 3-phosphate	352	AWUCVROLDVIAJX-UHFFFAOYSA-N	22	7.5		in Tris-HCl 50 mM at pH 7.5, at 22C
+30.3	DL-glycerol 3-phosphate	352	AWUCVROLDVIAJX-UHFFFAOYSA-N	30	7.5		at 30C, pH 7.5, in 100 mM HEPES
+160	DL-glycerol 3-phosphate	352	AWUCVROLDVIAJX-UHFFFAOYSA-N	30	6.5		in 20 mM MES buffer pH 6.5, containing 10 mM MgSO4, and 1 mM dithioerythritol, at 30C
+0.02	L-glycerol 3-phosphate	3866	AWUCVROLDVIAJX-GSVOUGTGSA-N	22	7.5		in Tris-HCl 50 mM at pH 7.5, at 22C
+1.7	L-glycerol 3-phosphate	3866	AWUCVROLDVIAJX-GSVOUGTGSA-N	30	7.5		at 30C, pH 7.5, in 100 mM HEPES
+833	alpha-glycerolphosphate	352	AWUCVROLDVIAJX-UHFFFAOYSA-N				

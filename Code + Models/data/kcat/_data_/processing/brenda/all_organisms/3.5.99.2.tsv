@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0017	thiamine	522	JZRWCGZRTZMZEH-UHFFFAOYSA-N	37	7.5		in 100 mM Tris-HCl, pH 7.5, at 37C
+0.00407	thiamine	522	JZRWCGZRTZMZEH-UHFFFAOYSA-N	37	7.5		wild type enzyme, at pH 7.5 and 37C
+0.0068	thiamine	522	JZRWCGZRTZMZEH-UHFFFAOYSA-N	37	7.5	X	mutant enzyme D111A/K115A, at pH 7.5 and 37C
+4.83	thiamine	522	JZRWCGZRTZMZEH-UHFFFAOYSA-N				
+0.001	4-amino-5-aminomethyl-2-methylpyrimidine	10186	OZOHTVFCSKFMLL-UHFFFAOYSA-N	20	8.0	X	mutant enzyme F47Y, in 30 mM Tris, 50 mM NaCl (pH 8.0), at 20C
+0.003	4-amino-5-aminomethyl-2-methylpyrimidine	10186	OZOHTVFCSKFMLL-UHFFFAOYSA-N	20	8.0		wild type enzyme, in 30 mM Tris, 50 mM NaCl (pH 8.0), at 20C

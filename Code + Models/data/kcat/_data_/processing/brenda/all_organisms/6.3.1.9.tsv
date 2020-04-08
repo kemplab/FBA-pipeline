@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.3	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	8.0		pH 8.0, 25C, recombinant enzyme
+1.8	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	8.0		recombinant enzyme, pH 8.0, 25C, HEPES buffer, with spermidine
+2	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	7.7		pH 7.7, 25C, recombinant trypanothione synthase
+2.1	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	7.0		recombinant enzyme, pH 7.0, 37C, phosphate buffer, with glutathionylspermidine
+2.8	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	7.0		recombinant enzyme, pH 7.0, 37C, phosphate buffer, with spermidine
+2.8	N1-(gamma-L-glutamyl-L-cysteinyl-glycyl)-spermidine	2409	NEDQLXHBVHSKNV-STQMWFEESA-N		8.0		pH 8.0
+5.2	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	8.0		recombinant enzyme, pH 8.0, 37C, HEPES buffer, with spermidine
+8.7	glutathionylspermidine	2409	NEDQLXHBVHSKNV-STQMWFEESA-N	25	7.2		pH 7.2, 25C, recombinant trypanothione synthase
+10	N1-glutathionylspermidine	2409	NEDQLXHBVHSKNV-STQMWFEESA-N				
+24.3	N8-glutathionylspermidine	13697	OAYJMZFEKFGKBY-STQMWFEESA-N				
+28.6	spermidine	140	ATHGHQPFGPMSJY-UHFFFAOYSA-N				

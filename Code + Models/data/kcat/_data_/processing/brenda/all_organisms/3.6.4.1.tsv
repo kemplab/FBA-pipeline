@@ -1,0 +1,38 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00892	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.5		unphosphorylated myosin, pH 7.5, 25C
+0.03	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				basal activity
+0.03	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				basal activity
+0.033	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				various isoenzymes of subfragment 1 and heavy-meromyosin, absence of actin
+0.0462	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.5		actin-activated, unphosphorylated myosin, pH 7.5, 25C
+0.06	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				basal Mg-ATPase activity
+0.0678	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.5		phosphorylated myosin, pH 7.5, 25C
+0.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				basal activity
+0.13	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.0		pH 7.0, 25C
+0.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				basal MgATPase activity
+0.259	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.5		actin-activated, phosphorylated myosin, pH 7.5, 25C
+0.56	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				Ca2+-ATPase
+0.77	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.0	X	mutant S639D, pH 7.0, 30C, in presence of F-actin
+0.95	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				smooth muscle myosin
+1.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				activation with 0.02 mM actin from rabbit skeletal muscle
+1.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				activation with 0.02 mM actin from rabbit skeletal muscle
+1.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				chimeric myosin, Dictyostelium myosin loop 2 replaced by chicken smooth muscle myosin loop 2, actin activated
+1.83	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				Vmax of actin-activated ATPase activity
+1.85	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.0		wild-type S1 fragment, pH 7.0, 30C, in presence of F-actin
+2.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				Ca2+-ATPase
+2.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				activation with 0.06 mM actin from rabbit skeletal muscle
+2.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				activation with 0.06 mM actin from rabbit skeletal muscle
+3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				actin activated
+3.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				myosin subfragment 1, actin activated
+4.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				activation with 0.09 mM actin from rabbit skeletal muscle
+4.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				activation with 0.09 mM actin from rabbit skeletal muscle
+4.68	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.0		wild-type S1 fragment, pH 7.0, 30C, hyperbolic fit
+5.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				chimeric myosin, Dictyostelium myosin loop 2 replaced by rabbit skeletal myosin loop 2, actin activated
+6.95	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				basal CaATPase activity
+11	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				heavy meromyosin, isoenzyme A1 homodimer, actin activated
+11.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				subfragment 1, isoenzyme A1 homodimer, actin activated
+11.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				subfragment 1, isoenzyme A2 homodimer, actin activated
+14	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				heavy meromyosin, isoenzyme A1A2 heterodimer, actin activated
+15.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				heavy meromyosin, isoenzyme A2 homodimer, actin activated
+17	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				myosin IA, 100-kDa fragment resulting from digestion of myosin heavy chain with alpha-chymotrypsin shows similar activity
+20	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				skeletal muscle myosin, actin-activated
+20	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				skeletal muscle myosin, actin-activated

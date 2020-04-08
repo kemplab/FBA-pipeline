@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0047	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N	30	6.9	X	mutant with C-terminal residues FGLC deleted, pH 6.9, 30C
+0.0058	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	6.9	X	mutant with C-terminal residues FGLC deleted, pH 6.9, 30C
+0.008	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N	30	6.9	X	mutant containing six cysteine-to-serine mutations, with C-terminal residues FGLC deleted, pH 6.9, 30C
+0.011	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N	30	6.9		wild-type, pH 6.9, 30C
+0.0135	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N	30	6.9	X	mutant containing six cysteine-to-serine mutations with the C-terminal cysteine residue deleted, pH 6.9, 30C
+0.0138	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	6.9	X	mutant containing six cysteine-to-serine mutations, with C-terminal residues FGLC deleted, pH 6.9, 30C
+0.0175	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	6.9		wild-type, pH 6.9, 30C
+0.0293	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	6.9	X	mutant containing six cysteine-to-serine mutations with the C-terminal cysteine residue deleted, pH 6.9, 30C
+5.27	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N				

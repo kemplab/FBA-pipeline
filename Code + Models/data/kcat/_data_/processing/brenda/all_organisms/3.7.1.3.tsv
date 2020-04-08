@@ -1,0 +1,40 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0058	L-kynurenine	342	YGPSJZOEDVAXAB-QMMMGPOBSA-N	37	8.0	X	enzyme mutant Y226F, pH 8.0, 37C
+0.007	L-kynurenine	342	YGPSJZOEDVAXAB-QMMMGPOBSA-N	37	8.0	X	mutant enzyme H102W/N333T, in 30 mM potassium phosphate, pH 8.0, and 0.04 mM pyridoxal 5'-phosphate, at 37C
+0.017	L-kynurenine	342	YGPSJZOEDVAXAB-QMMMGPOBSA-N	37	8.0	X	mutant enzyme S332G/N333T, in 30 mM potassium phosphate, pH 8.0, and 0.04 mM pyridoxal 5'-phosphate, at 37C
+0.018	L-kynurenine	342	YGPSJZOEDVAXAB-QMMMGPOBSA-N	37	8.0	X	Km above 0.51 mM, mutant enzyme H102W/S332G/N333T, in 30 mM potassium phosphate, pH 8.0, and 0.04 mM pyridoxal 5'-phosphate, at 37C
+0.026	L-kynurenine	342	YGPSJZOEDVAXAB-QMMMGPOBSA-N	37	8.0	X	mutant enzyme N333T, in 30 mM potassium phosphate, pH 8.0, and 0.04 mM pyridoxal 5'-phosphate, at 37C
+0.23	L-kynurenine	342	YGPSJZOEDVAXAB-QMMMGPOBSA-N	37	8.0		wild type enzyme, in 30 mM potassium phosphate, pH 8.0, and 0.04 mM pyridoxal 5'-phosphate, at 37C
+0.23	L-kynurenine	342	YGPSJZOEDVAXAB-QMMMGPOBSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+16	L-kynurenine	342	YGPSJZOEDVAXAB-QMMMGPOBSA-N		7.8		; at pH 7.8
+16	L-kynurenine	342	YGPSJZOEDVAXAB-QMMMGPOBSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+16	L-kynurenine	342	YGPSJZOEDVAXAB-QMMMGPOBSA-N	37	8.0		wild-type enzyme, pH 8.0, 37C
+0.0039	3-hydroxy-L-kynurenine	1869	VCKPUUFAIGNJHC-LURJTMIESA-N	37	8.0	X	kcat less than 0.0039 1/s, mutant enzyme N333T, in 30 mM potassium phosphate, pH 8.0, and 0.04 mM pyridoxal 5'-phosphate, at 37C
+0.0109	3-hydroxy-L-kynurenine	1869	VCKPUUFAIGNJHC-LURJTMIESA-N	37	8.0	X	kcat less than 0.0109 1/s, mutant enzyme S332G/N333T, in 30 mM potassium phosphate, pH 8.0, and 0.04 mM pyridoxal 5'-phosphate, at 37C
+1	3-hydroxy-L-kynurenine	1869	VCKPUUFAIGNJHC-LURJTMIESA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+3.5	3-hydroxy-L-kynurenine	1869	VCKPUUFAIGNJHC-LURJTMIESA-N	37	8.0		wild type enzyme, in 30 mM potassium phosphate, pH 8.0, and 0.04 mM pyridoxal 5'-phosphate, at 37C
+3.5	3-hydroxy-L-kynurenine	1869	VCKPUUFAIGNJHC-LURJTMIESA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+3.5	3-Hydroxy-DL-kynurenine	7292	VCKPUUFAIGNJHC-UHFFFAOYSA-N				
+0.7	beta-benzoyl-L-alanine	11730	QXRCVKLRAOSZCP-QMMMGPOBSA-N				
+0.7	(2S)-2-amino-4-oxo-4-phenylbutanoic acid	11730	QXRCVKLRAOSZCP-QMMMGPOBSA-N		7.8		at pH 7.8
+1.9	3-bromo-L-kynurenine	37347	BCKYNYDQQSIGTF-ZETCQYMHSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+11	3-bromo-L-kynurenine	37347	BCKYNYDQQSIGTF-ZETCQYMHSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+0.63	5-bromo-L-kynurenine	37348	XVTAZJDWEOGSAW-QMMMGPOBSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+11.9	5-bromo-L-kynurenine	37348	XVTAZJDWEOGSAW-QMMMGPOBSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+0.91	beta-(4-methylbenzoyl)-DL-alanine	118909	SBSXRDFVWZODJZ-UHFFFAOYSA-N	37	7.8		at 37C in 0.04 M potassium phosphate, pH 7.8
+1.83	beta-(4-chlorobenzoyl)-DL-alanine	118910	CKLOTMANRVIPIE-UHFFFAOYSA-N	37	7.8		at 37C in 0.04 M potassium phosphate, pH 7.8
+0.001	beta-(4-trifluoromethylbenzoyl)-DL-alanine	118911	CQLSOTAGCGJASP-UHFFFAOYSA-N	37	7.8		at 37C in 0.04 M potassium phosphate, pH 7.8
+0.1	O-benzoyl-L-serine	8543	ZQXBXSLGROYFDW-QMMMGPOBSA-N	37	8.0	X	enzyme mutant Y226F, pH 8.0, 37C
+2.5	O-benzoyl-L-serine	8543	ZQXBXSLGROYFDW-QMMMGPOBSA-N	37	8.0		wild-type enzyme, pH 8.0, 37C
+0.67	3-chloro-DL-kynurenine	127265	WPAGPJZVYSZPLK-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+0.71	3-chloro-DL-kynurenine	127265	WPAGPJZVYSZPLK-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+0.33	3-methyl-DL-kynurenine	104066	FESKAFKMBJCZAB-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+1.5	3-methyl-DL-kynurenine	104066	FESKAFKMBJCZAB-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+0.23	3-fluoro-DL-kynurenine	127266	IZCRVGKCRAGNFX-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+6.9	3-fluoro-DL-kynurenine	127266	IZCRVGKCRAGNFX-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+0.47	5-chloro-L-kynurenine	127267	VCCXKKFHLAJBJJ-QMMMGPOBSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+8.7	5-chloro-L-kynurenine	127267	VCCXKKFHLAJBJJ-QMMMGPOBSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+0.23	3,5-dibromo-L-kynurenine	127268	LBMPWIGANDFLGT-ZETCQYMHSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+1.2	3,5-dibromo-L-kynurenine	127268	LBMPWIGANDFLGT-ZETCQYMHSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+1.3	5-bromo-3-chloro-DL-kynurenine	127269	KXCISIKAJWWFHW-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+6.3	5-bromo-3-chloro-DL-kynurenine	127269	KXCISIKAJWWFHW-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme

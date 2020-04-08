@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.69	4-nitrophenyl-N-acetyl-alpha-D-glucosaminide	7322	OMRLTNCLYHKQCK-KSTCHIGDSA-N	37	7.4		wild-type, pH 7.4, 37C
+0.74	4-nitrophenyl-N-acetyl-alpha-D-glucosaminide	7322	OMRLTNCLYHKQCK-KSTCHIGDSA-N	37	7.4	X	C-terminal deletion mutant, pH 7.4, 37C
+1.24	N-acetyl-alpha-D-Gluc-1,4-(1-methoxyphenyl)Gal	113796	AUMOQLLKGQJATN-QXHOUFLVSA-N	37	7.4		wild-type, pH 7.4, 37C
+6.19	N-acetyl-alpha-D-Gluc-1,4-(1-methoxyphenyl)Gal	113796	AUMOQLLKGQJATN-QXHOUFLVSA-N	37	7.4	X	C-terminal deletion mutant, pH 7.4, 37C
+8.5	2,4-dinitrophenyl-alpha-N-acetyl-D-glucosaminide	17399	QMWPTWQCSAAGHX-KSTCHIGDSA-N		7.3		pH 7.3
+0.26	4-nitrophenyl N-acetyl-alpha-D-glucosaminopyranoside	7322	OMRLTNCLYHKQCK-KSTCHIGDSA-N		7.3		pH 7.3

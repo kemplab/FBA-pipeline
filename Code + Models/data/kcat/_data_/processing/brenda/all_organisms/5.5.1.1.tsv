@@ -1,0 +1,81 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+4	cis,cis-muconate	1038	TXXHDPDFNKHHGW-CCAGOZQPSA-N			X	mutant enzyme T52G
+13.9	cis,cis-muconate	1038	TXXHDPDFNKHHGW-CCAGOZQPSA-N				expressed per catalytic center
+17.5	cis,cis-muconate	1038	TXXHDPDFNKHHGW-CCAGOZQPSA-N			X	mutant enzyme T52G/F103S
+24.7	cis,cis-muconate	1038	TXXHDPDFNKHHGW-CCAGOZQPSA-N				
+125	cis,cis-muconate	1038	TXXHDPDFNKHHGW-CCAGOZQPSA-N	25			isoform SalC, 25C
+186	cis,cis-muconate	1038	TXXHDPDFNKHHGW-CCAGOZQPSA-N	25			isoform CatB, 25C
+186	cis,cis-muconate	1038	TXXHDPDFNKHHGW-CCAGOZQPSA-N	25			isoform CatB, 25C
+210	cis,cis-muconate	1038	TXXHDPDFNKHHGW-CCAGOZQPSA-N				wild-type enzyme
+4080	cis,cis-muconate	1038	TXXHDPDFNKHHGW-CCAGOZQPSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme L333V
+32400	cis,cis-muconate	1038	TXXHDPDFNKHHGW-CCAGOZQPSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme I54V/F329I
+66000	cis,cis-muconate	1038	TXXHDPDFNKHHGW-CCAGOZQPSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y59W
+126000	cis,cis-muconate	1038	TXXHDPDFNKHHGW-CCAGOZQPSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme K276N
+150000	cis,cis-muconate	1038	TXXHDPDFNKHHGW-CCAGOZQPSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme I54V
+156000	cis,cis-muconate	1038	TXXHDPDFNKHHGW-CCAGOZQPSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme F329I
+222000	cis,cis-muconate	1038	TXXHDPDFNKHHGW-CCAGOZQPSA-N	25	7.5		pH 7.5, 25C
+426000	cis,cis-muconate	1038	TXXHDPDFNKHHGW-CCAGOZQPSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme A271S
+756000	cis,cis-muconate	1038	TXXHDPDFNKHHGW-CCAGOZQPSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+8.8	3-chloro-cis,cis-muconate	1420	ICMVYBXQDUXEEE-BXTBVDPRSA-N				
+14.4	3-chloro-cis,cis-muconate	1420	ICMVYBXQDUXEEE-BXTBVDPRSA-N	25			isoform CatB, 25C
+120	3-chloro-cis,cis-muconate	1420	ICMVYBXQDUXEEE-BXTBVDPRSA-N	25			isoform SalC, 25C
+3120	3-chloro-cis,cis-muconate	1420	ICMVYBXQDUXEEE-BXTBVDPRSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme L333V
+3840	3-chloro-cis,cis-muconate	1420	ICMVYBXQDUXEEE-BXTBVDPRSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+6600	3-chloro-cis,cis-muconate	1420	ICMVYBXQDUXEEE-BXTBVDPRSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme I54V/F329I
+12000	3-chloro-cis,cis-muconate	1420	ICMVYBXQDUXEEE-BXTBVDPRSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme I54V
+22800	3-chloro-cis,cis-muconate	1420	ICMVYBXQDUXEEE-BXTBVDPRSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme K276N
+27600	3-chloro-cis,cis-muconate	1420	ICMVYBXQDUXEEE-BXTBVDPRSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme F329I
+57600	3-chloro-cis,cis-muconate	1420	ICMVYBXQDUXEEE-BXTBVDPRSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme A271S
+3.6	2-chloro-cis,cis-muconate	1485	OZNNVVBQWHRHHH-HSFFGMMNSA-N				
+43.8	2-chloro-cis,cis-muconate	1485	OZNNVVBQWHRHHH-HSFFGMMNSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme L333V
+192	2-chloro-cis,cis-muconate	1485	OZNNVVBQWHRHHH-HSFFGMMNSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme K276N
+600	2-chloro-cis,cis-muconate	1485	OZNNVVBQWHRHHH-HSFFGMMNSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme I54V/F329I
+900	2-chloro-cis,cis-muconate	1485	OZNNVVBQWHRHHH-HSFFGMMNSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y59W and A271S
+1020	2-chloro-cis,cis-muconate	1485	OZNNVVBQWHRHHH-HSFFGMMNSA-N	25	7.5		pH 7.5, 25C
+2100	2-chloro-cis,cis-muconate	1485	OZNNVVBQWHRHHH-HSFFGMMNSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme I54V
+2880	2-chloro-cis,cis-muconate	1485	OZNNVVBQWHRHHH-HSFFGMMNSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme F329I
+2940	2-chloro-cis,cis-muconate	1485	OZNNVVBQWHRHHH-HSFFGMMNSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+2	3-methyl-cis,cis-muconate	1489	LEQDZBVDPGNGMH-LDIADDGTSA-N				
+3.2	3-methyl-cis,cis-muconate	1489	LEQDZBVDPGNGMH-LDIADDGTSA-N				
+27.8	3-methyl-cis,cis-muconate	1489	LEQDZBVDPGNGMH-LDIADDGTSA-N	25			isoform CatB, 25C
+214	3-methyl-cis,cis-muconate	1489	LEQDZBVDPGNGMH-LDIADDGTSA-N	25			isoform SalC, 25C
+3240	3-methyl-cis,cis-muconate	1489	LEQDZBVDPGNGMH-LDIADDGTSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme L333V
+5700	3-methyl-cis,cis-muconate	1489	LEQDZBVDPGNGMH-LDIADDGTSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme K276N
+8400	3-methyl-cis,cis-muconate	1489	LEQDZBVDPGNGMH-LDIADDGTSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y59W
+16200	3-methyl-cis,cis-muconate	1489	LEQDZBVDPGNGMH-LDIADDGTSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme F329I
+18600	3-methyl-cis,cis-muconate	1489	LEQDZBVDPGNGMH-LDIADDGTSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme A271S or I54V/F329
+35400	3-methyl-cis,cis-muconate	1489	LEQDZBVDPGNGMH-LDIADDGTSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+40800	3-methyl-cis,cis-muconate	1489	LEQDZBVDPGNGMH-LDIADDGTSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme A271S
+44400	3-methyl-cis,cis-muconate	1489	LEQDZBVDPGNGMH-LDIADDGTSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme I54V
+108000	3-methyl-cis,cis-muconate	1489	LEQDZBVDPGNGMH-LDIADDGTSA-N	25	7.5		pH 7.5, 25C
+0.4	2,4-dichloro-cis,cis-muconate	1708	FHXOPKKNGKBBKG-DXLKSGPOSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme L333V
+3.4	2,4-dichloro-cis,cis-muconate	1708	FHXOPKKNGKBBKG-DXLKSGPOSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme K276N
+36.6	2,4-dichloro-cis,cis-muconate	1708	FHXOPKKNGKBBKG-DXLKSGPOSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme K276N
+52.8	2,4-dichloro-cis,cis-muconate	1708	FHXOPKKNGKBBKG-DXLKSGPOSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme L333V
+174	2,4-dichloro-cis,cis-muconate	1708	FHXOPKKNGKBBKG-DXLKSGPOSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme A271S
+198	2,4-dichloro-cis,cis-muconate	1708	FHXOPKKNGKBBKG-DXLKSGPOSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+432	2,4-dichloro-cis,cis-muconate	1708	FHXOPKKNGKBBKG-DXLKSGPOSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme I54V
+1320	2,4-dichloro-cis,cis-muconate	1708	FHXOPKKNGKBBKG-DXLKSGPOSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme I54V/F329I
+1920	2,4-dichloro-cis,cis-muconate	1708	FHXOPKKNGKBBKG-DXLKSGPOSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme F329I
+72000	2,4-dichloro-cis,cis-muconate	1708	FHXOPKKNGKBBKG-DXLKSGPOSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme I54V
+3	2-methyl-cis,cis-muconate	1709	VCPQFDRBOZTBAO-JVLMNHKTSA-L	25			isoform CatB, 25C
+19200	2-methyl-cis,cis-muconate	1709	VCPQFDRBOZTBAO-JVLMNHKTSA-L	25	7.5	X	pH 7.5, 25C, mutant enzyme L333V
+39000	2-methyl-cis,cis-muconate	1709	VCPQFDRBOZTBAO-JVLMNHKTSA-L	25	7.5	X	pH 7.5, 25C, mutant enzyme I54V
+84000	2-methyl-cis,cis-muconate	1709	VCPQFDRBOZTBAO-JVLMNHKTSA-L	25	7.5	X	pH 7.5, 25C, mutant enzyme A271S or I54V/F329
+202000	2-methyl-cis,cis-muconate	1709	VCPQFDRBOZTBAO-JVLMNHKTSA-L	25	7.5		pH 7.5, 25C
+222000	2-methyl-cis,cis-muconate	1709	VCPQFDRBOZTBAO-JVLMNHKTSA-L	25	7.5	X	pH 7.5, 25C, mutant enzyme Y59W
+234000	2-methyl-cis,cis-muconate	1709	VCPQFDRBOZTBAO-JVLMNHKTSA-L	25	7.5		pH 7.5, 25C, wild-type enzyme
+304000	2-methyl-cis,cis-muconate	1709	VCPQFDRBOZTBAO-JVLMNHKTSA-L	25	7.5	X	pH 7.5, 25C, mutant enzyme A271S
+600000	2-methyl-cis,cis-muconate	1709	VCPQFDRBOZTBAO-JVLMNHKTSA-L	25	7.5	X	pH 7.5, 25C, mutant enzyme K276N or F329I
+156000	3-fluoro-cis,cis-muconate	2555	OZSAECPLLVFZIE-BXTBVDPRSA-L	25	7.5		pH 7.5, 25C
+192000	3-fluoro-cis,cis-muconate	2555	OZSAECPLLVFZIE-BXTBVDPRSA-L	25	7.5	X	pH 7.5, 25C, mutant enzyme Y59W
+246000	3-fluoro-cis,cis-muconate	2555	OZSAECPLLVFZIE-BXTBVDPRSA-L	25	7.5	X	pH 7.5, 25C, mutant enzyme L333V
+294000	3-fluoro-cis,cis-muconate	2555	OZSAECPLLVFZIE-BXTBVDPRSA-L	25	7.5	X	pH 7.5, 25C, mutant enzyme I54V/F329I
+312000	3-fluoro-cis,cis-muconate	2555	OZSAECPLLVFZIE-BXTBVDPRSA-L	25	7.5	X	pH 7.5, 25C, mutant enzyme K276N
+360000	3-fluoro-cis,cis-muconate	2555	OZSAECPLLVFZIE-BXTBVDPRSA-L	25	7.5	X	pH 7.5, 25C, mutant enzyme A271S
+480000	3-fluoro-cis,cis-muconate	2555	OZSAECPLLVFZIE-BXTBVDPRSA-L	25	7.5	X	pH 7.5, 25C, mutant enzyme F329I
+534000	3-fluoro-cis,cis-muconate	2555	OZSAECPLLVFZIE-BXTBVDPRSA-L	25	7.5		pH 7.5, 25C, wild-type enzyme
+1.4	muconolactone	6199	HPEKPJGPWNSAAV-UHFFFAOYSA-N				
+111	3-chloromuconate	10718	ICMVYBXQDUXEEE-XLFBNKDWSA-N				
+11	3-methylmuconate	1489	LEQDZBVDPGNGMH-LDIADDGTSA-N				
+0.5	2-methylmuconate	14184	VCPQFDRBOZTBAO-ZUVMSYQZSA-L				

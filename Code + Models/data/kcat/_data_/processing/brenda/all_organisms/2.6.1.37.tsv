@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.02	(2-aminoethyl)phosphonate	4790	QQVDJLLNRSOCEL-UHFFFAOYSA-N	25	8.5	X	pH 8.5, 25C, synthesis of 2-phosphonoacetaldehyde, R340K and R340A mutant enzymes
+0.02	2-phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	8.5	X	pH 8.5, 25C, synthesis of (2-aminoethyl)phosphonate, R340A mutant enzyme
+0.04	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.5		pH 8.5, 25C, synthesis of (2-aminoethyl)phosphonate
+0.6	2-phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	8.5	X	pH 8.5, 25C, synthesis of (2-aminoethyl)phosphonate, R340K mutant enzyme
+7.4	(2-aminoethyl)phosphonate	4790	QQVDJLLNRSOCEL-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C, synthesis of 2-phosphonoacetaldehyde
+9.3	2-phosphonoacetaldehyde	992	YEMKIGUKNDOZEG-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C, synthesis of (2-aminoethyl)phosphonate
+9.3	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	25	8.5		pH 8.5, 25C, synthesis of (2-aminoethyl)phosphonate

@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.26	sinigrin	1010	PHZOWSSBXJXFOR-GLVDENFASA-N	37	5.5		recombinant enzyme TGG2, pH 5.5, 37C
+0.38	sinigrin	1010	PHZOWSSBXJXFOR-GLVDENFASA-N	37	5.5		recombinant enzyme TGG1, pH 5.5, 37C
+1.2	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N		5.5		pH 5.5, isozyme TGG1
+1.6	3-deoxyglucotropaeolin	31589	WKPUQSQKQHMKNT-SFTQSGBHSA-N				
+2.11	sinigrin	1010	PHZOWSSBXJXFOR-GLVDENFASA-N				in absence of ascorbate
+2.3	sinigrin	1010	PHZOWSSBXJXFOR-GLVDENFASA-N		5.5		pH 5.5, isozyme TGG1
+3	sinigrin	1010	PHZOWSSBXJXFOR-GLVDENFASA-N	37	4.5		37C, pH 4.5
+3.1	4-deoxyglucotropaeolin	21472	RIGZYYUDKIYHTO-LRIMIZQESA-N				
+4.21	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	5.5		pH 5.5, 37C
+6.04	sinigrin	1010	PHZOWSSBXJXFOR-GLVDENFASA-N	37	5.5		recombinant enzyme TGG2, pH 5.5, 37C, in presence of ascorbate
+7.3	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N		5.5		pH 5.5, isozyme TGG4
+8.91	gluconasturtiin	88832	CKIJIGYDFNXSET-MFIRQCQASA-N	37	5.5		pH 5.5, 37C
+9.4	6-deoxyglucotropaeolin	21494	WSHLDQYWRAUJID-ZYTXFQKRSA-N				
+10.69	sinigrin	1010	PHZOWSSBXJXFOR-GLVDENFASA-N	37	5.5		pH 5.5, 37C
+10.7	sinigrin	1010	PHZOWSSBXJXFOR-GLVDENFASA-N	37	5.5		recombinant enzyme TGG1, pH 5.5, 37C, in presence of ascorbate
+12	sinigrin	1010	PHZOWSSBXJXFOR-GLVDENFASA-N		5.5		pH 5.5, isozyme TGG4
+17	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N		5.5		pH 5.5, isozyme TGG5
+22.8	glucotropaeolin	7138	QQGLQYQXUKHWPX-BXLHIMNRSA-N	37	4.5		37C, pH 4.5
+28.4	sinigrin	1010	PHZOWSSBXJXFOR-GLVDENFASA-N	37	6.0		pH 6.0, 37C
+46	sinigrin	1010	PHZOWSSBXJXFOR-GLVDENFASA-N		5.5		pH 5.5, isozyme TGG5
+65.3	sinigrin	1010	PHZOWSSBXJXFOR-GLVDENFASA-N	37			pH not specified in the publication, at 37C
+65.6	glucotropaeolin	7138	QQGLQYQXUKHWPX-BXLHIMNRSA-N				
+187	sinigrin	1010	PHZOWSSBXJXFOR-GLVDENFASA-N	30	6.8		30C, pH 6.8
+287	sinigrin	1010	PHZOWSSBXJXFOR-GLVDENFASA-N				in presence of 0.5 mM ascorbate

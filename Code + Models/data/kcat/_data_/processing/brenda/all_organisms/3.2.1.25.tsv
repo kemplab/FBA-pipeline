@@ -1,0 +1,39 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+25.5	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	90	5.0	X	pH 5.0, 90C, mutant enzyme Q77R
+34.4	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	90	5.0		pH 5.0, 90C, wild-type enzyme
+252	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	90	5.0	X	pH 5.0, 90C, mutant enzyme D206N
+439	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	90	5.0	X	pH 5.0, 90C, mutant enzyme Q77R/D206N
+13.5	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	90	5.0		pH 5.0, 90C, wild-type enzyme
+14.2	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	90	5.0	X	pH 5.0, 90C, mutant enzyme Q77R
+66.5	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	90	5.0	X	pH 5.0, 90C, mutant enzyme Q77R/D206N
+571	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	90	5.0	X	pH 5.0, 90C, mutant enzyme D206N
+0.0097	p-nitrophenyl-beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	37	5.6	X	mutant enzyme E555A, at 37C in 43.5 mM sodium phosphate, 10 mM citric acid buffer, pH 5.6, containing 1 mg/ml bovine serum albumin
+0.045	p-nitrophenyl-beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	37	5.6	X	mutant enzyme D199A, at 37C in 43.5 mM sodium phosphate, 10 mM citric acid buffer, pH 5.6, containing 1 mg/ml bovine serum albumin
+0.092	p-nitrophenyl-beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	37	5.6	X	mutant enzyme E462A, at 37C in 43.5 mM sodium phosphate, 10 mM citric acid buffer, pH 5.6, containing 1 mg/ml bovine serum albumin
+0.25	p-nitrophenyl-beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	37	5.6	X	mutant enzyme N461A, at 37C in 43.5 mM sodium phosphate, 10 mM citric acid buffer, pH 5.6, containing 1 mg/ml bovine serum albumin
+0.478	p-nitrophenyl-beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	37	5.6	X	mutant enzyme W645A, at 37C in 43.5 mM sodium phosphate, 10 mM citric acid buffer, pH 5.6, containing 1 mg/ml bovine serum albumin
+0.886	p-nitrophenyl-beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	37	5.6	X	mutant enzyme W395A, at 37C in 43.5 mM sodium phosphate, 10 mM citric acid buffer, pH 5.6, containing 1 mg/ml bovine serum albumin
+3.5	p-nitrophenyl-beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	37	5.6	X	mutant enzyme W198A, at 37C in 43.5 mM sodium phosphate, 10 mM citric acid buffer, pH 5.6, containing 1 mg/ml bovine serum albumin
+6.08	p-nitrophenyl-beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	37	5.6	X	mutant enzyme W395A, at 37C in 43.5 mM sodium phosphate, 10 mM citric acid buffer, pH 5.6, containing 1 mg/ml bovine serum albumin
+15.9	p-nitrophenyl-beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	37	5.6	X	mutant enzyme Y537A, at 37C in 43.5 mM sodium phosphate, 10 mM citric acid buffer, pH 5.6, containing 1 mg/ml bovine serum albumin
+20.38	p-nitrophenyl-beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	37	5.6	X	mutant enzyme W198A, at 37C in 43.5 mM sodium phosphate, 10 mM citric acid buffer, pH 5.6, containing 1 mg/ml bovine serum albumin
+26.85	p-nitrophenyl-beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	37	5.6	X	mutant enzyme Y537A, at 37C in 43.5 mM sodium phosphate, 10 mM citric acid buffer, pH 5.6, containing 1 mg/ml bovine serum albumin
+34.43	p-nitrophenyl-beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	37	5.6	X	mutant enzyme Q646A, at 37C in 43.5 mM sodium phosphate, 10 mM citric acid buffer, pH 5.6, containing 1 mg/ml bovine serum albumin
+128.1	p-nitrophenyl-beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	37	5.6		wild type enzyme, at 37C in 43.5 mM sodium phosphate, 10 mM citric acid buffer, pH 5.6, containing 1 mg/ml bovine serum albumin
+157	p-nitrophenyl-beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	37	5.6		wild type enzyme, at 37C in 43.5 mM sodium phosphate, 10 mM citric acid buffer, pH 5.6, containing 1 mg/ml bovine serum albumin
+1.6	4-nitrophenyl beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	90	5.0	X	pH 5.0, 90C, mutant enzyme Q77R
+4.2	4-nitrophenyl beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	90	5.0		pH 5.0, 90C, wild-type enzyme
+6.8	4-nitrophenyl beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	90	5.0	X	pH 5.0, 90C, mutant enzyme Q77R/D206N
+45	4-nitrophenyl beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	90	5.0	X	pH 5.0, 90C, mutant enzyme D206N
+166.7	Mannotriose	2993	FYGDTMLNYKFZSV-PMNVVCTGSA-N	37	7.0		pH 7.0, 37C, wild-type enzyme
+0.00183	2,4-dinitrophenyl-beta-D-mannopyranoside	5173	XAJUPNGKLHFUED-LDMBFOFVSA-N	37	5.6	X	mutant enzyme E555A, at 37C in 43.5 mM sodium phosphate, 10 mM citric acid buffer, pH 5.6, containing 1 mg/ml bovine serum albumin
+0.008	2,4-dinitrophenyl-beta-D-mannopyranoside	5173	XAJUPNGKLHFUED-LDMBFOFVSA-N	37	5.6	X	mutant enzyme E462A, at 37C in 43.5 mM sodium phosphate, 10 mM citric acid buffer, pH 5.6, containing 1 mg/ml bovine serum albumin
+0.85	2,4-dinitrophenyl-beta-D-mannopyranoside	5173	XAJUPNGKLHFUED-LDMBFOFVSA-N	37	5.6	X	mutant enzyme N461A, at 37C in 43.5 mM sodium phosphate, 10 mM citric acid buffer, pH 5.6, containing 1 mg/ml bovine serum albumin
+214.4	2,4-dinitrophenyl-beta-D-mannopyranoside	5173	XAJUPNGKLHFUED-LDMBFOFVSA-N	37	5.6		wild type enzyme, at 37C in 43.5 mM sodium phosphate, 10 mM citric acid buffer, pH 5.6, containing 1 mg/ml bovine serum albumin
+67.8	p-nitrophenyl beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N				
+0.033	4-nitrophenyl-beta-D-mannopyranose	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	37	7.0		pH 7.0, 37C, wild-type enzyme
+3.1	4-nitrophenyl-beta-D-mannopyranose	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	30	4.0		pH 4.0, 30C
+0.5	4-nitrophenyl-beta-D-glucopyranose	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	4.0		pH 4.0, 30C
+0.1	4-nitrophenyl-beta-mannopyranose	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme E215A
+0.053	beta-D-mannosyl-1,4-beta-D-glucoside	23710	GUBGYTABKSRVRQ-PDDHXKFQSA-N	37	7.0		pH 7.0, 37C, wild-type enzyme
+2.17	4-O-beta-D-mannopyranosyl-D-mannopyranose	103404	GUBGYTABKSRVRQ-KWCWEWCRSA-N	37	7.0		pH 7.0, 37C, wild-type enzyme

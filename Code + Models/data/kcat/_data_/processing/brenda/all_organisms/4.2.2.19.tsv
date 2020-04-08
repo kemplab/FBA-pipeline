@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+4.6	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N	30	8.0	X	mutant E333A, pH 8.0, 30C
+29	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N	30	8.0	X	mutant H272A, pH 8.0, 30C
+87	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N	30	8.0		recombinant enzyme, pH 8.0, 30C, dependent on expression system
+190	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N	30	8.0		wild-type enzyme, pH 8.0, 30C
+210	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N	30	8.0		recombinant wild-type enzyme, pH 8.0, 30C, in presence of 0.01 mM Ca2+
+404	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N	30	8.0	X	mutant R363A, pH 8.0, 30C
+410	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N	30	8.0		recombinant wild-type enzyme, pH 8.0, 30C, in presence of 5 mM Ca2+

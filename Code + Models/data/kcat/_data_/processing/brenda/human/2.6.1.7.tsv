@@ -1,0 +1,39 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.065	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	37	7.4		in 100 mM potassium phosphate buffer (pH 7.4), at 37C
+0.36	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.4		in 100 mM potassium phosphate buffer (pH 7.4), at 37C
+0.39	hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	37	7.4		in 100 mM potassium phosphate buffer (pH 7.4), at 37C
+0.92	3-methyl-2-oxobutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	37	7.4		in 100 mM potassium phosphate buffer (pH 7.4), at 37C
+0.92	3-methyl-2-oxopentanoate	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N	37	7.4		in 100 mM potassium phosphate buffer (pH 7.4), at 37C
+1.49	indo-3-pyruvate	1536	RSTKLPZEZYGQPY-UHFFFAOYSA-M	37	7.4		in 100 mM potassium phosphate buffer (pH 7.4), at 37C
+1.8	L-kynurenine	342	YGPSJZOEDVAXAB-QMMMGPOBSA-N	45	7.5		continuous assay, pH 7.5, 45C
+2.2	L-kynurenine	342	YGPSJZOEDVAXAB-QMMMGPOBSA-N	45	7.5		discontinuous assay, pH 7.5, 45C
+2.51	4-methyl-2-oxopentanoate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	37	7.4		in 100 mM potassium phosphate buffer (pH 7.4), at 37C
+2.66	2-oxovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	37	7.4		in 100 mM potassium phosphate buffer (pH 7.4), at 37C
+3.49	2-oxobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	37	7.4		in 100 mM potassium phosphate buffer (pH 7.4), at 37C
+3.59	Mercaptopyruvate	850	OJOLFAIGOXZBCI-UHFFFAOYSA-M	37	7.4		in 100 mM potassium phosphate buffer (pH 7.4), at 37C
+3.64	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	37	7.4		in 100 mM potassium phosphate buffer (pH 7.4), at 37C
+4.27	2-oxo-4-methylthiobutyrate	1168	SXFSQZDSUWACKX-UHFFFAOYSA-N	37	7.4		in 100 mM potassium phosphate buffer (pH 7.4), at 37C
+4.6	L-kynurenine	342	YGPSJZOEDVAXAB-QMMMGPOBSA-N		7.5		mass spectrometry assay, pH 7.5, temperature not specified in the publication
+4.73	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	37	7.4		in 100 mM potassium phosphate buffer (pH 7.4), at 37C
+4.83	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	37	7.4		in 100 mM potassium phosphate buffer (pH 7.4), at 37C
+4.84	2-oxoadipate	895	FGSBNBBHOZHUBO-UHFFFAOYSA-N	37	7.4		in 100 mM potassium phosphate buffer (pH 7.4), at 37C
+7.67	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	37	7.4		in 100 mM potassium phosphate buffer (pH 7.4), at 37C
+9.6	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	45	7.5		pH 7.5, 45C
+9.76	L-kynurenine	342	YGPSJZOEDVAXAB-QMMMGPOBSA-N	37	7.4		in 100 mM potassium phosphate buffer (pH 7.4), at 37C
+14.4	L-asparagine	231	DCXYFEDJOCDNAF-REOHCLBHSA-N	45	7.5		pH 7.5, 45C
+29	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	45	7.5		pH 7.5, 45C
+38.3	2-aminobutanoate	1302	QWCKQJZIFLGMSD-UHFFFAOYSA-M	45	7.5		pH 7.5, 45C
+43.1	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	45	7.5		pH 7.5, 45C
+91	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	45	7.5		pH 7.5, 45C
+91	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	45	7.5		pH 7.5, 45C
+110	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	45	7.5		pH 7.5, 45C
+143	L-histidine	296	HNDVDQJCIGZPNO-YFKPBYRVSA-N	45	7.5		pH 7.5, 45C
+143	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	45	7.5		pH 7.5, 45C
+201	L-kynurenine	342	YGPSJZOEDVAXAB-QMMMGPOBSA-N	45	7.5		pH 7.5, 45C
+215	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	45	7.5		pH 7.5, 45C
+234	2-oxobutanoate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	45	7.5		pH 7.5, 45C
+234	Mercaptopyruvate	850	OJOLFAIGOXZBCI-UHFFFAOYSA-M	45	7.5		pH 7.5, 45C
+263	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	45	7.5		pH 7.5, 45C
+296	2-oxoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	45	7.5		pH 7.5, 45C
+339	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	45	7.5		pH 7.5, 45C
+440	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	45	7.5		pH 7.5, 45C

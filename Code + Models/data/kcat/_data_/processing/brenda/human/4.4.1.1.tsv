@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.02	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N			X	for mutante Q240E
+0.12	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	8.2		wild type enzyme, in 50 mM sodium phosphate buffer (pH 8.2) , at 37C
+0.3	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N			X	for mutante T67I
+0.34	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	8.2	X	mutant enzyme E339K, in 50 mM sodium phosphate buffer (pH 8.2) , at 37C
+0.4	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				
+0.45	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N			X	for mutante T67I
+0.67	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				for variante I403; for variante S403
+0.76	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	8.2	X	mutant enzyme E339Y, in 50 mM sodium phosphate buffer (pH 8.2) , at 37C
+0.82	L-homocysteine	260	FFFHZYDWPBMWHY-VKHMYHEASA-N			X	for mutante T67I
+1.44	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	8.2	X	mutant enzyme E339A, in 50 mM sodium phosphate buffer (pH 8.2) , at 37C
+1.7	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N				for variante S403
+1.9	cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N				
+1.9	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N				for variante I403
+3.5	L-homocysteine	260	FFFHZYDWPBMWHY-VKHMYHEASA-N				for variante S403
+3.7	L-homocysteine	260	FFFHZYDWPBMWHY-VKHMYHEASA-N				for variante I403
+7.5	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N				

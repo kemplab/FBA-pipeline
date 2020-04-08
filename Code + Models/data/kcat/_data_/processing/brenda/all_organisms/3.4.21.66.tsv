@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+25	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5		pH 7.5, 40C, recombinant wild-type enzyme
+37	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5		pH 7.5, 40C, recombinant wild-type enzyme, in presence of DTT
+110	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	70	7.5		pH 7.5, 70C, recombinant wild-type enzyme
+111	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, recombinant mutant C182A/C201A
+124	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, recombinant mutant C182A/C201A, in presence of DTT
+248	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	70	7.5	X	pH 7.5, 70C, recombinant mutant C182A/C201A

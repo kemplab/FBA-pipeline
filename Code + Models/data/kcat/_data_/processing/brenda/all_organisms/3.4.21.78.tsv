@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3.1	Benzyloxycarbonyl-Lys-thiobenzyl ester	2115	FIWAQJRIROPAEC-IBGZPJMESA-N				human granzyme A
+5.83	benzyloxycarbonyl-Gly-Arg thiobenzyl ester	6265	GAFSJNMDBJDBDD-IBGZPJMESA-N				human granzyme A
+59	benzyloxycarbonyl-Gly-Arg thiobenzyl ester	6265	GAFSJNMDBJDBDD-IBGZPJMESA-N				mouse enzyme
+21	benzyloxycarbonyl-Lys thiobenzyl ester	2115	FIWAQJRIROPAEC-IBGZPJMESA-N				mouse enzyme
+8.8	benzyloxycarbonyl-Arg thiobenzyl ester	10489	FUGAPOARIHJRAG-SFHVURJKSA-N				human granzyme A
+83	benzyloxycarbonyl-Arg thiobenzyl ester	10489	FUGAPOARIHJRAG-SFHVURJKSA-N				mouse enzyme
+30360	Z-Arg-SBzl	10489	FUGAPOARIHJRAG-SFHVURJKSA-N	30	7.5		pH 7.5, 30C
+30400	Z-Arg-SBzl	10489	FUGAPOARIHJRAG-SFHVURJKSA-N	30	7.5		pH 7.5, 30C
+22100	Z-Lys-SBzl	2115	FIWAQJRIROPAEC-IBGZPJMESA-N	30	7.5		pH 7.5, 30C
+22140	Z-Lys-SBzl	2115	FIWAQJRIROPAEC-IBGZPJMESA-N	30	7.5		pH 7.5, 30C
+45	tert-butyloxycarbonyl-Ala-Ala-Arg thiobenzyl ester	13717	QFGZMHDZHWUEOV-BQFCYCMXSA-N				mouse enzyme
+3960	Boc-Trp-Arg-SBzl	22786	IKTFICVSQCFBCR-ZEQRLZLVSA-N	30	7.5		pH 7.5, 30C
+4980	Boc-Ala-Ala-Arg-SBzl	13717	QFGZMHDZHWUEOV-BQFCYCMXSA-N	30	7.5		pH 7.5, 30C

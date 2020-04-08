@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.3	3-hydroxybenzoate	768	IJFXRHURBJZNAO-UHFFFAOYSA-N	25	7.8		pH 7.8, 25C, recombinant EntE
+0.8	salicylic acid	508	YGSDEFSMJLZEOE-UHFFFAOYSA-N	25	7.8		pH 7.8, 25C, recombinant EntE
+2.8	2,3-Dihydroxybenzoate	1032	GLDQAMYCGOIJDV-UHFFFAOYSA-N	25	7.8		pH 7.8, 25C, recombinant EntE
+2.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.8		pH 7.8, 25C, recombinant EntE
+4.4	4-aminosalicylic acid	3530	WUBBRNOQWQTFEX-UHFFFAOYSA-N	25	7.8		pH 7.8, 25C, recombinant EntE
+12.7	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				L-Ser-dependent ATP-diphosphate exchange

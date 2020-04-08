@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.9	UDP-glucuronate	200	HDYANYHVCAPMJV-LXQIFKJMSA-N		7.6		recombinant AtUGlcAE2, lacking the amino acid position 1-68, in 0.1 M sodium phosphate, pH 7.6
+10	UDP-glucuronate	200	HDYANYHVCAPMJV-LXQIFKJMSA-N		7.6		recombinant AtUGlcAE3, lacking the amino acid position 1-53, in 0.1 M sodium phosphate, pH 7.6
+10.1	UDP-glucuronate	200	HDYANYHVCAPMJV-LXQIFKJMSA-N		7.6		recombinant ZmUGlcAE, lacking the putative transmembrane domain at amino acid position 1-47, in 0.1 M sodium phosphate, pH 7.6
+24	UDP-glucuronate	200	HDYANYHVCAPMJV-LXQIFKJMSA-N				
+37.4	UDP-glucuronate	200	HDYANYHVCAPMJV-LXQIFKJMSA-N		7.6		recombinant OsUGlcAE3, lacking the amino acid position 1-53, in 0.1 M sodium phosphate, pH 7.6

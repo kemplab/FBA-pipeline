@@ -1,0 +1,148 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.7	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	30	7.5	X	recombinant mutant T58A/G165I/L216W, pH 7.5, 30C
+15.1	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	30	7.5	X	recombinant mutant T58A/G165L/L216W, pH 7.5, 30C
+22.8	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	30	7.5	X	recombinant mutant T58A/G165Y/L216W, pH 7.5, 30C
+33.1	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	30	7.5	X	recombinant mutant T58A/L216W, pH 7.5, 30C
+172.6	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	30	7.5		recombinant wild-type enzyme, pH 7.5, 30C
+419	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.0		pH 8.0, 25C, recombinant wild-type enzyme
+462	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.0	X	pH 8.0, 25C, recombinant wmutant T211G
+475	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant N212G
+638	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant P210G
+697	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant P210G/T211G
+715	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant P210A
+759	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant P210G/T211G/N212G
+0.017	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant M222C-S-a
+0.49	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant M222C-S-c
+0.833	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant S166C-S-f
+1.04	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant M222C-S-f
+1.64	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant M222C-S-e
+2.94	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant M222C-S-e
+3.7	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant S156C-S-e
+3.8	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant S166C-S-e
+4.8	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-f
+6.08	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant M222C-S-f
+6.9	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant S166C-S-d and M222C-S-d
+7.2	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant M222C-S-b
+11.8	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant S166C-S-b
+14.2	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant S166C
+16.3	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant S166C-S-f
+16.9	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-c
+17.3	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant M222C
+17.4	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant S166C-S-a
+18	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant S156C-S-c
+21.8	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant S156C-S-d
+23.1	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-c
+23.4	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant S156C-S-b
+24.2	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant S156C-S-c
+25	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-b
+29	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-g
+30	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant S156C-S-a
+31	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant S166C-S-c
+31.6	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant S156C-S-e
+33.3	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant M222C-S-a
+39	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant S156C-S-f
+43	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5	X	pH 7.5, 25C mutant S156C
+47	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-d
+48	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.5		pH 7.5, 25C, wild-type
+48	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.6	X	pH 8.6, 25C, mutant S166C-h
+50	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-a
+67	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-i
+76	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-j
+82	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-e
+153	succinyl-AAPF-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.6		pH 8.6, 25C wild-type
+0.0064	N-methoxysuccinyl-Ala-Ala-Pro-Val-4-nitroanilide	2014	VLVGCNNWNUERRZ-OSAZLGQLSA-N	37	8.5		pH 8.5, 37C
+0.0074	N-methoxysuccinyl-Ala-Ala-Pro-Val-4-nitroanilide	2014	VLVGCNNWNUERRZ-OSAZLGQLSA-N	37	8.5	X	pH 8.5, 37C, mutant D180G
+0.0079	N-methoxysuccinyl-Ala-Ala-Pro-Val-4-nitroanilide	2014	VLVGCNNWNUERRZ-OSAZLGQLSA-N	37	8.5	X	pH 8.5, 37C, mutant D182G
+0.0089	N-methoxysuccinyl-Ala-Ala-Pro-Val-4-nitroanilide	2014	VLVGCNNWNUERRZ-OSAZLGQLSA-N	37	8.5	X	pH 8.5, 37C; pH 8.5, 37C, mutant D180G/D182G
+1.6	N-succinyl-Ala-Ala-Pro-Phe-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	20	7.5		subtilisin-like serine protease, at 20C, in 50 mM Tris-HCl buffer, pH 7.5
+14	N-succinyl-Ala-Ala-Pro-Phe-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	20	8.0		subtilisin, at 20C, in 50 mM Tris-HCl buffer, pH 8.0
+25	N-succinyl-Ala-Ala-Pro-Phe-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	80	7.5		subtilisin-like serine protease, at 80C, in 50 mM Tris-HCl buffer, pH 7.5
+440	N-succinyl-Ala-Ala-Pro-Phe-p-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	80	8.0		subtilisin, at 80C, in 50 mM Tris-HCl buffer, pH 8.0
+45	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N			X	mutant subtilisin BPN' Asp99Ser
+57	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				subtilisin BPN'
+57	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				subtilisin BPN'
+0.16	succinyl-AAPR-p-nitroanilide	3433	XHCDPNOVUNAIPA-FVCZOJIISA-N	25	8.6		pH 8.6, 25C wild-type
+0.17	succinyl-AAPR-p-nitroanilide	3433	XHCDPNOVUNAIPA-FVCZOJIISA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-b
+0.35	succinyl-AAPR-p-nitroanilide	3433	XHCDPNOVUNAIPA-FVCZOJIISA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-h
+0.43	succinyl-AAPR-p-nitroanilide	3433	XHCDPNOVUNAIPA-FVCZOJIISA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-i
+0.68	succinyl-AAPR-p-nitroanilide	3433	XHCDPNOVUNAIPA-FVCZOJIISA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-d
+1.06	succinyl-AAPR-p-nitroanilide	3433	XHCDPNOVUNAIPA-FVCZOJIISA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-j
+6.08	succinyl-AAPR-p-nitroanilide	3433	XHCDPNOVUNAIPA-FVCZOJIISA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-d; pH 8.6, 25C mutant S166C-S-j
+148	Suc-Ala-Ala-Pro-Phe-p-nitroanilide	3677	LKDMKWNDBAVNQZ-TWXAQOBRSA-N	5	7.5		pH 7.5, 5C
+2900	Suc-Ala-Ala-Pro-Phe-p-nitroanilide	3677	LKDMKWNDBAVNQZ-TWXAQOBRSA-N	20	7.5		pH 7.5, 20C, DTT
+10000	Suc-Ala-Ala-Pro-Phe-p-nitroanilide	3677	LKDMKWNDBAVNQZ-TWXAQOBRSA-N	20	7.5		pH 7.5, 20C
+130000	Suc-Ala-Ala-Pro-Phe-p-nitroanilide	3677	LKDMKWNDBAVNQZ-TWXAQOBRSA-N	40	7.5		pH 7.5, 40C
+222	Suc-Ala-Ala-Ala-p-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N	5	7.5		pH 7.5, 5C
+750	Suc-Ala-Ala-Ala-p-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N	20	7.5		pH 7.5, 20C, DTT
+1200	Suc-Ala-Ala-Ala-p-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N	20	7.5		pH 7.5, 20C
+22000	Suc-Ala-Ala-Ala-p-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N	40	7.5		pH 7.5, 40C
+97000	Suc-Ala-Ala-Ala-p-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N	75	7.5		pH 7.5, 75C
+0.052	succinyl-AAPA-p-nitroanilide	4597	DKQHAQUESIKHGC-XSWJXKHESA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-g
+6.8	succinyl-AAPA-p-nitroanilide	4597	DKQHAQUESIKHGC-XSWJXKHESA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-c and S166C-S-e
+9.65	succinyl-AAPA-p-nitroanilide	4597	DKQHAQUESIKHGC-XSWJXKHESA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-g
+17.7	succinyl-AAPA-p-nitroanilide	4597	DKQHAQUESIKHGC-XSWJXKHESA-N	25	8.6		pH 8.6, 25C wild-type
+28.2	succinyl-AAPA-p-nitroanilide	4597	DKQHAQUESIKHGC-XSWJXKHESA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-f
+90	Suc-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.8		3.5 mol lactose bound per 1 mol subtilisin, in 10 mM potassium phosphate buffer, pH 7.8, at 25C
+132	Suc-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.8		2.2 mol lactose bound per 1 mol subtilisin, in 10 mM potassium phosphate buffer, pH 7.8, at 25C
+166	Suc-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.8		1 mol lactose bound per 1 mol subtilisin, in 10 mM potassium phosphate buffer, pH 7.8, at 25C
+200	Suc-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	7.8		subtilisin without bound lactose, in 10 mM potassium phosphate buffer, pH 7.8, at 25C
+222	Suc-Ala-Ala-Pro-Ala-p-nitroanilide	4597	DKQHAQUESIKHGC-XSWJXKHESA-N	5	7.5		pH 7.5, 5C
+8800	Suc-Ala-Ala-Pro-Ala-p-nitroanilide	4597	DKQHAQUESIKHGC-XSWJXKHESA-N	40	7.5		pH 7.5, 40C
+130000	Suc-Ala-Ala-Pro-Ala-p-nitroanilide	4597	DKQHAQUESIKHGC-XSWJXKHESA-N	75	7.5		pH 7.5, 75C
+47	MeO-succinyl-Ala-Ala-Phe 4-nitroanilide	5479	CXPUNQIURBIPAD-FIKGOQFSSA-N				subtilisin DY
+57	MeO-succinyl-Ala-Ala-Phe 4-nitroanilide	5479	CXPUNQIURBIPAD-FIKGOQFSSA-N				subtilisin Carlsberg
+57	MeO-succinyl-Ala-Ala-Phe 4-nitroanilide	5479	CXPUNQIURBIPAD-FIKGOQFSSA-N				subtilisin Carlsberg
+97	MeO-succinyl-Ala-Ala-Phe 4-nitroanilide	5479	CXPUNQIURBIPAD-FIKGOQFSSA-N				subtilisin
+389	Suc-Ala-Ala-Pro-Leu-p-nitroanilide	5707	PTHRPHGMGFMCSS-USNOLKROSA-N	5	7.5		pH 7.5, 5C
+97000	Suc-Ala-Ala-Pro-Leu-p-nitroanilide	5707	PTHRPHGMGFMCSS-USNOLKROSA-N	40	7.5		pH 7.5, 40C
+70.9	Z-Ala-Ala-Leu-p-nitroanilide	5874	QFSQXEZZCBIDKW-SPEDKVCISA-N				in 20% DMF
+77	Z-Ala-Ala-Leu-p-nitroanilide	5874	QFSQXEZZCBIDKW-SPEDKVCISA-N				in 20% DMSO
+100	Z-Ala-Ala-Leu-p-nitroanilide	5874	QFSQXEZZCBIDKW-SPEDKVCISA-N				in 20% DMSO
+104	Z-Ala-Ala-Leu-p-nitroanilide	5874	QFSQXEZZCBIDKW-SPEDKVCISA-N				in 20% DMF
+93	Suc-Ala-Ala-p-nitroanilide	7646	APALOONUKPGKGU-UWVGGRQHSA-N	20	7.5		pH 7.5, 20C, in presence and absence of DTT
+3700	Suc-Ala-Ala-p-nitroanilide	7646	APALOONUKPGKGU-UWVGGRQHSA-N	40	7.5		pH 7.5, 40C
+64.3	Glp-Ala-Ala-Leu-p-nitroanilide	8011	UCRFGMOOJXYYNR-ZZCKCESHSA-N				in 2% DMF
+69	Glp-Ala-Ala-Leu-p-nitroanilide	8011	UCRFGMOOJXYYNR-ZZCKCESHSA-N				in 2% DMF
+80	Glp-Ala-Ala-Leu-p-nitroanilide	8011	UCRFGMOOJXYYNR-ZZCKCESHSA-N				in 2% DMSO
+1.6	Succinyl-Ala-Ala-Ala 4-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N				subtilisin Carlsberg
+1.8	Succinyl-Ala-Ala-Ala 4-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N				subtilisin DY
+52	succinyl-Ala-Ala-Phe 4-nitroanilide	4600	XRCMATIAAODPHY-FTRWYGJKSA-N				subtilisin DY
+0.04	acetyl-L-Tyr ethyl ester	2967	SKAWDTAMLOJQNK-LBPRGKRZSA-N	30	8.0		30C, pH 8.0
+0.022	acetyl-L-Phe	2051	CBQJSKKFNMDLON-JTQLQIEISA-N	30	8.0		30C, pH 8.0
+1900	benzyloxycarbonyl-Gly-p-nitroanilide	11510	ASXYHQDJLWOSRD-UHFFFAOYSA-N	20	7.5		pH 7.5, 20C
+2500	benzyloxycarbonyl-Gly-p-nitroanilide	11510	ASXYHQDJLWOSRD-UHFFFAOYSA-N	20	7.5		pH 7.5, 20C, DTT
+1.75	succinyl-AAPE-p-nitroanilide	11511	YZDFMSJNAHKTFX-LNMJFAINSA-N	25	8.6		pH 8.6, 25C wild-type
+14.5	succinyl-AAPE-p-nitroanilide	11511	YZDFMSJNAHKTFX-LNMJFAINSA-N	25	8.6	X	pH 8.6, 25C mutant S166C-S-a
+185	L-Ala-L-Ala-L-Pro-L-Phe	12024	XGPIHKWGXDACKQ-SDADXPQNSA-N	24	9.0		wild-type, pH 9.0, 24C
+403	L-Ala-L-Ala-L-Pro-L-Phe	12024	XGPIHKWGXDACKQ-SDADXPQNSA-N	24	9.0		V104S/L124M/P129S/S130G/P131E/A133S/T134L/L135I, pH 9.0, 24C
+10	L-Ala-L-Ala-L-Val-L-Ala	12025	SJTPJZYNIOLWBS-XKNYDFJKSA-N	24	9.0		V104S/L124M/P129S/S130G/P131E/A133S/T134L/L135I, pH 9.0, 24C
+12	L-Ala-L-Ala-L-Val-L-Ala	12025	SJTPJZYNIOLWBS-XKNYDFJKSA-N	24	9.0		wild-type, pH 9.0, 24C
+31	L-Ala-L-Ala-L-Pro-L-Ala	12026	KHANLXYXMOODOB-XKNYDFJKSA-N	24	9.0		V104S/L124M/P129S/S130G/P131E/A133S/T134L/L135I, pH 9.0, 24C
+47	L-Ala-L-Ala-L-Pro-L-Ala	12026	KHANLXYXMOODOB-XKNYDFJKSA-N	24	9.0		wild-type, pH 9.0, 24C
+90	L-Phe-L-Ala-L-Ala-L-Phe	12027	KPWMWLOBKKKKHD-FVCZOJIISA-N	24	9.0		wild-type, pH 9.0, 24C
+189	L-Phe-L-Ala-L-Ala-L-Phe	12027	KPWMWLOBKKKKHD-FVCZOJIISA-N	24	9.0		V104S/L124M/P129S/S130G/P131E/A133S/T134L/L135I, pH 9.0, 24C
+4	L-Tyr-L-Val-L-Ala-L-Asp	12028	XVZUMQAMCYSUMS-SIUGBPQLSA-N	24	9.0		V104S/L124M/P129S/S130G/P131E/A133S/T134L/L135I, pH 9.0, 24C
+10	L-Tyr-L-Val-L-Ala-L-Asp	12028	XVZUMQAMCYSUMS-SIUGBPQLSA-N	24	9.0		wild-type, pH 9.0, 24C
+231.3	N-Succ-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	37	7.4		pH 7.4, 37C, wild-type
+586.2	N-Succ-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	37	7.4	X	pH 7.4, 37C, mutant S101W/G169A/V192A
+210	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	25	8.3	X	mutant Y217L, pH 8.3, 25C
+0.38	acetyl-L-Phe ethyl ester	2819	YIVZYFDBEPMPNL-LBPRGKRZSA-N	30	8.0		30C, pH 8.0
+6.4	succinyl-L-Ala-L-Ala-L-Phe-7-amido-4-methylcoumarin	23972	HHPVJKZZYOXPLH-VGAYAIAPSA-N	25	8.3	X	mutant Y217L, pH 8.3, 25C
+68	succinyl-L-Asp-L-Val-L-Arg-L-Ala-L-Phe-7-amido-4-methylcoumarin	23973	BLQLSAMDIRAXQQ-ANXAOBAYSA-N	25	8.3	X	mutant Y217L, pH 8.3, 25C
+16550	benzyloxycarbonyl-L-Ala-L-Ala-L-Leu-4-nitroanilide	5874	QFSQXEZZCBIDKW-SPEDKVCISA-N				
+70.2	N-succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	37	10.5		37C, pH 10.5
+29	succinyl-Leu-Leu-Val-Tyr-4-methylcoumaryl 7-amide	3399	UVFAEQZFLBGVRM-MSMWPWNWSA-N				subtilisin Sendai
+15	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-methyl-coumaryl-7-amide	6501	FMVUZZZUYBXQGR-KCXKOMAXSA-N	37	8.5		pH 8.5, 37C, recombinant wild-type enzyme, in presence of 2 M GdmCl
+34	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-methyl-coumaryl-7-amide	6501	FMVUZZZUYBXQGR-KCXKOMAXSA-N	37	8.5	X	pH 8.5, 37C, recombinant mutant S62I/A153V/G166S/I205V, in presence of 2 M GdmCl
+35	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-methyl-coumaryl-7-amide	6501	FMVUZZZUYBXQGR-KCXKOMAXSA-N	37	8.5		pH 8.5, 37C, recombinant wild-type enzyme, in presence of SDS
+42	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-methyl-coumaryl-7-amide	6501	FMVUZZZUYBXQGR-KCXKOMAXSA-N	37	8.5	X	pH 8.5, 37C, recombinant mutant S62I/A153V/G166S/I205V, in absence of GdmCl or SDS
+45	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-methyl-coumaryl-7-amide	6501	FMVUZZZUYBXQGR-KCXKOMAXSA-N	37	8.5	X	pH 8.5, 37C, recombinant mutant S62I/A153V/G166S/I205V, in presence of SDS
+50	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-methyl-coumaryl-7-amide	6501	FMVUZZZUYBXQGR-KCXKOMAXSA-N	37	8.5		pH 8.5, 37C, recombinant wild-type enzyme, in absence of GdmCl or SDS
+62	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-methyl-coumaryl-7-amide	6501	FMVUZZZUYBXQGR-KCXKOMAXSA-N	37	8.5	X	pH 8.5, 37C, recombinant mutant G166M, in presence of 2 M GdmCl
+65	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-methyl-coumaryl-7-amide	6501	FMVUZZZUYBXQGR-KCXKOMAXSA-N	37	8.5	X	pH 8.5, 37C, recombinant mutant S62I, in presence of SDS
+70	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-methyl-coumaryl-7-amide	6501	FMVUZZZUYBXQGR-KCXKOMAXSA-N	37	8.5	X	pH 8.5, 37C, recombinant mutant S62I/G166M, in presence of 2 M GdmCl
+81	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-methyl-coumaryl-7-amide	6501	FMVUZZZUYBXQGR-KCXKOMAXSA-N	37	8.5	X	pH 8.5, 37C, recombinant mutant S62I/G166M, in presence of SDS
+102	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-methyl-coumaryl-7-amide	6501	FMVUZZZUYBXQGR-KCXKOMAXSA-N	37	8.5	X	pH 8.5, 37C, recombinant mutant S62I, in absence of GdmCl or SDS
+104	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-methyl-coumaryl-7-amide	6501	FMVUZZZUYBXQGR-KCXKOMAXSA-N	37	8.5	X	pH 8.5, 37C, recombinant mutant G166M, in presence of SDS
+123	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-methyl-coumaryl-7-amide	6501	FMVUZZZUYBXQGR-KCXKOMAXSA-N	37	8.5	X	pH 8.5, 37C, recombinant mutant S62I/G166M, in absence of GdmCl or SDS
+141	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-methyl-coumaryl-7-amide	6501	FMVUZZZUYBXQGR-KCXKOMAXSA-N	37	8.5	X	pH 8.5, 37C, recombinant mutant G166M, in absence of GdmCl or SDS

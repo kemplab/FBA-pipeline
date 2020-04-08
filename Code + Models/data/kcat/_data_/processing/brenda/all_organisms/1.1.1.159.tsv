@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+13.76	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O				wild-type enzyme, pH and temperature not specified in the publication
+28.66	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O			X	mutant R194G, pH and temperature not specified in the publication
+58.55	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O			X	mutant R16G, pH and temperature not specified in the publication
+7.92	cholic acid	629	BHQCQFFYRZLCQQ-OELDTZBJSA-N			X	mutant K163I
+20.1	cholic acid	629	BHQCQFFYRZLCQQ-OELDTZBJSA-N			X	mutant Y159H
+30.7	cholic acid	629	BHQCQFFYRZLCQQ-OELDTZBJSA-N			X	mutant S146A
+53.7	cholic acid	629	BHQCQFFYRZLCQQ-OELDTZBJSA-N			X	mutant S146H
+63.3	cholic acid	629	BHQCQFFYRZLCQQ-OELDTZBJSA-N				
+96.2	cholic acid	629	BHQCQFFYRZLCQQ-OELDTZBJSA-N			X	mutant K163R
+151	cholic acid	629	BHQCQFFYRZLCQQ-OELDTZBJSA-N				
+8.18	chenodeoxycholic acid	969	RUDATBOHQWOJDD-BSWAIDMHSA-N				
+3.13	taurocholic acid	958	WBWWGRHZICKQGZ-HZAMXZRMSA-N				
+0.417	glycocholic acid	2702	RFDAIACWWDREDC-FRVQLJSFSA-N				
+3.43	taurochenodeoxycholic acid	2723	BHTRKEVKTKCXOH-BJLOMENOSA-N				

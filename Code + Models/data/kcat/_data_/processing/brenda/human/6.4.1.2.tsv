@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.155	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.5		in 50 mM HEPES (pH 7.5), 2.0 mM MgCl2, 2.0 mM ATP, 2.0 mM potassium citrate, 12.5 mM sodium bicarbonate, 1 mg/ml bovine serum albumin, and 0.005 mM acetyl-CoA, at 25C
+0.192	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		in 50 mM HEPES (pH 7.5), 2.0 mM MgCl2, 2.0 mM ATP, 2.0 mM potassium citrate, 12.5 mM sodium bicarbonate, 1 mg/ml bovine serum albumin, and 0.005 mM acetyl-CoA, at 25C
+2.9	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N		7.5		pH 7.5, recombinant enzyme
+10.1	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37			at 37C
+11.8	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37			at 37C

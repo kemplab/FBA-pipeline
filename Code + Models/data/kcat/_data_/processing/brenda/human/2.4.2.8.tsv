@@ -1,0 +1,39 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.041	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N				wild-type enzyme
+0.33	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N			X	mutant E196D
+2.5	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N				wild-type enzyme
+2.8	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N			X	mutant E196R
+10.9	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N			X	mutant E196Q
+14.2	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N			X	mutant E196D
+20.3	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N			X	mutant E196A
+0.013	guanine	179	UYTPUPDQBNUYGX-UHFFFAOYSA-N				purified recombinant chimeric enzyme DS1
+0.37	guanine	179	UYTPUPDQBNUYGX-UHFFFAOYSA-N	28	7.4	X	pH 7.4, 28C, recombinant chimeric mutant enzyme
+1.2	guanine	179	UYTPUPDQBNUYGX-UHFFFAOYSA-N	28	7.4		pH 7.4, 28C, wild-type enzyme
+3.4	guanine	179	UYTPUPDQBNUYGX-UHFFFAOYSA-N	22	7.4	X	pH 7.4, 22C, recombinant mutant F36G
+6.3	guanine	179	UYTPUPDQBNUYGX-UHFFFAOYSA-N	22	7.4	X	pH 7.4, 22C, recombinant mutant F36K
+10.5	guanine	179	UYTPUPDQBNUYGX-UHFFFAOYSA-N				wild-type enzyme
+18	guanine	179	UYTPUPDQBNUYGX-UHFFFAOYSA-N	22	7.4	X	pH 7.4, 22C, recombinant mutant F36L
+25.5	guanine	179	UYTPUPDQBNUYGX-UHFFFAOYSA-N	22	7.4		pH 7.4, 22C, recombinant wild-type enzyme
+0.073	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N				purified recombinant chimeric enzyme DS1
+0.47	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N	28	7.4	X	pH 7.4, 28C, recombinant chimeric mutant enzyme
+1.13	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N	28	7.4		pH 7.4, 28C, wild-type enzyme
+2.6	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N				wild-type enzyme
+3.1	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N	22	7.4	X	pH 7.4, 22C, recombinant mutant F36G
+3.4	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N	22	7.4	X	pH 7.4, 22C, recombinant mutant F36K
+3.8	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N			X	mutant E196R
+5.4	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N	22	7.4	X	pH 7.4, 22C, recombinant mutant F36L
+5.7	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N				wild-type enzyme
+7.1	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N	22	7.4		pH 7.4, 22C, recombinant wild-type enzyme
+8.5	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N				recombinant enzyme
+13.7	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N			X	mutant E196Q
+13.8	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N			X	mutant E196D
+20.3	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N			X	mutant E196A
+0.038	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N				wild-type enzyme
+0.18	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N			X	mutant E196D
+0.23	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N			X	mutant E196A
+0.51	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N			X	mutant E196Q
+0.062	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N				purified recombinant chimeric enzyme DS1
+0.07	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	22	7.4	X	pH 7.4, 22C, recombinant mutant F36L
+0.08	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	28	7.4	X	pH 7.4, 28C, recombinant chimeric mutant enzyme
+2.9	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	28	7.4		pH 7.4, 28C, wild-type enzyme
+0.23	inosine monophosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N				recombinant enzyme, reverse reaction

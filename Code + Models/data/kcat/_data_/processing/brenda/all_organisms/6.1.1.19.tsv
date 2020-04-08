@@ -1,0 +1,32 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00016	tRNAArg	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5		25C, pH 7.5, mammalian tRNAArg, aminoacylation
+0.0045	tRNAArg	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5		25C, pH 7.5, tRNAArg from Saccharomyces cerevisiae, aminoacylation
+0.026	tRNAArg	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	50	7.5		pH 7.5, 50C, recombinant MtArgRS
+0.034	tRNAArg	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	50	7.5		pH 7.5, 50C, recombinant MtArgRS in presence of recombinant MtSerRS
+0.215	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	7.5		pH 7.5, 30C, recombinant HIS-/thioredoxin-tagged enzyme
+0.28	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		37C, pH 7.5, arginylation, full-length enzyme
+0.32	tRNAArg	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5		37C, pH 7.5, arginylation, full-length enzyme
+0.337	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	7.5		pH 7.5, 30C, recombinant detagged enzyme
+0.36	tRNAArg	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N		7.5		wild type enzyme, in 50 mM Tris-HCl (pH 7.5)
+0.41	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.5		37C, pH 7.5, arginylation, full-length enzyme
+0.63	Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N				aminoacylation of tRNAArg-C-C-A(3'NH2)
+0.77	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	37C, pH 7.5, arginylation, mutant enzyme DELTA1-72
+0.8	tRNAArg	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N		7.5	X	mutant enzyme DELTANhcArgRS, in 50 mM Tris-HCl (pH 7.5)
+0.81	tRNAArg	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5	X	37C, pH 7.5, arginylation, mutant enzyme DELTA1-72
+0.97	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.5	X	37C, pH 7.5, arginylation, mutant enzyme DELTA1-72
+1.8	tRNAArg	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5		25C, pH 7.5, native tRNAArg from beef liver, wild type enzyme
+2	tRNAArg	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				transfer RNA isoacceptor for arginine UCU
+2.5	tRNAArg	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5		pH 7.5, 37C, recombinant, truncated DELTANhcArgRS, presence of hemin, Escherichia coli tRNAArg
+2.6	tRNAArg	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5	X	25C, pH 7.5, native tRNAArg from beef liver, mutant enzyme DELTA1-73
+2.8	tRNAArg	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5	X	argS1 mutant, pH 7.5, 37C
+3.22	Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N				aminoacylation of tRNAArg-C-C-A
+3.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		pH 7.5, 37C, recombinant, truncated DELTANhcArgRS, presence of hemin
+3.8	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.5		pH 7.5, 37C, recombinant, truncated DELTANhcArgRS, presence of hemin
+5.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.4	X	mutant W162A, pH 7.4, 37&ordm;C
+15.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		pH 7.5, 37C, recombinant, truncated DELTANhcArgRS, absence of hemin
+16.5	tRNAArg	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5		pH 7.5, 37C, recombinant, truncated DELTANhcArgRS, absence of hemin, Escherichia coli tRNAArg
+17	tRNAArg	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5		pH 7.5, 37C
+17.9	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.5		pH 7.5, 37C, recombinant, truncated DELTANhcArgRS, absence of hemin
+21.9	tRNAArg	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				transfer RNA isoacceptor for arginine UCU
+26	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.4		pH 7.4, 37&ordm;C
+26	tRNAArg	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				transfer RNA isoacceptor for arginine UCU

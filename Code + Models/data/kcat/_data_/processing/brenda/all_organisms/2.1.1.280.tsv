@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00017	L-selenocysteine	939	ZKZBPNGNEQAJSX-REOHCLBHSA-N	30	6		pH 6, 30C, cosubstrate: S-adenosyl-L-methionine; with [methyl-14C]S-adenosyl-L-methionine, pH 6.5, 30C
+0.0062	L-selenocysteine	939	ZKZBPNGNEQAJSX-REOHCLBHSA-N	30	6		pH 6, 30C, cosubstrate: S-adenosyl-L-methionine; with [methyl-14C]S-adenosyl-L-methionine, pH 6.0, 30C
+0.0074	DL-selenohomocysteine	5198	RCWCGLALNCIQNM-UHFFFAOYSA-N	30	6		pH 6, 30C, cosubstrate: S-adenosyl-L-methionine; with [methyl-14C]S-adenosyl-L-methionine, pH 6.0, 30C
+0.38	L-homocysteine	260	FFFHZYDWPBMWHY-VKHMYHEASA-N	14	6.5		with [methyl-14C]S-adenosyl-L-methionine, pH 6.5, 30C
+0.74	DL-selenohomocysteine	5198	RCWCGLALNCIQNM-UHFFFAOYSA-N	30	6		pH 6, 30C, cosubstrate: S-adenosyl-L-methionine; with [methyl-14C]S-adenosyl-L-methionine, pH 6.5, 30C

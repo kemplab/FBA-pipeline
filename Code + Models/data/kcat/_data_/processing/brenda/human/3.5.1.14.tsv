@@ -1,0 +1,59 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0015	N-2,2-dimethylpropionyl-L-methionine	7967	SNCJTJSQAMLIQZ-ZETCQYMHSA-N				kcat for the hydrolysis of N-acyl-L-methionine substrates by hAcy1
+0.006	Nalpha-acetylmethionine	881	XUYPXLNMDZIRQH-LURJTMIESA-N	22	7.4	X	pH 7.4, 22C, recombinant mutant D274A
+0.00623	N-cyclohexanoyl-L-methionine	5176	IGIFWQPGFGHFQY-JTQLQIEISA-N				kcat for the hydrolysis of N-acyl-L-methionine substrates by hAcy1
+0.0101	N-benzoyl-L-glutamate	4883	LPJXPACOXRZCCP-VIFPVBQESA-N				kcat for the hydrolysis of N-acyl-L-glutamate substrates by hAcy1
+0.015	Nalpha-acetylmethionine	881	XUYPXLNMDZIRQH-LURJTMIESA-N	22	7.4	X	pH 7.4, 22C, recombinant mutant H206N
+0.052	N-hexanoyl-L-methionine	5175	WUVVOUFAPBDGTP-VIFPVBQESA-N			X	kcat for the hydrolysis of NAM and selected N-acyl-L-methionine substrates by hAcy1-I177A-mutant
+0.086	Nalpha-acetylmethionine	881	XUYPXLNMDZIRQH-LURJTMIESA-N	22	7.4	X	pH 7.4, 22C, recombinant mutant H206A
+0.105	N-isopentanoyl-L-methionine	3466	JCOYMIGUZVEFJA-QMMMGPOBSA-N				kcat for the hydrolysis of N-acyl-L-methionine substrates by hAcy1
+0.129	N-cyclohexanoyl-L-methionine	5176	IGIFWQPGFGHFQY-JTQLQIEISA-N			X	kcat for the hydrolysis of NAM and selected N-acyl-L-methionine substrates by hAcy1-T347S-mutant
+0.14	N-acetyl-L-phenylalanine	2051	CBQJSKKFNMDLON-JTQLQIEISA-N	25			25C, pH7.4
+0.149	Nalpha-acetylmethionine	881	XUYPXLNMDZIRQH-LURJTMIESA-N	22	7.4	X	pH 7.4, 22C, recombinant mutant H206K
+0.158	N-benzoyl-L-methionine	5177	PPFRJEXUPZWQPI-JTQLQIEISA-N				kcat for the hydrolysis of N-acyl-L-methionine substrates by hAcy1
+0.34	N-isopentanoyl-L-methionine	3466	JCOYMIGUZVEFJA-QMMMGPOBSA-N			X	kcat for the hydrolysis of NAM and selected N-acyl-L-methionine substrates by hAcy1-L372V-mutant
+0.458	Nalpha-acetylmethionine	881	XUYPXLNMDZIRQH-LURJTMIESA-N	22	7.4	X	pH 7.4, 22C, recombinant mutant N263D
+0.529	N-isobutanoyl-L-methionine	6767	OMVFHSRJYHNQFU-ZETCQYMHSA-N				kcat for the hydrolysis of N-acyl-L-methionine substrates by hAcy1
+0.667	Nalpha-acetylmethionine	881	XUYPXLNMDZIRQH-LURJTMIESA-N	22	7.4	X	pH 7.4, 22C, recombinant mutant R276A
+1.2	N-acetyl-L-histidine	4445	KBOJOGQFRVVWBH-ZETCQYMHSA-N	25			25C, pH7.4
+1.2	N-acetyl-L-methionine	881	XUYPXLNMDZIRQH-LURJTMIESA-N			X	kcat for the hydrolysis of NAM and selected N-acyl-L-methionine substrates by hAcy1-T347F-mutant
+2.01	N-isopentanoyl-L-methionine	3466	JCOYMIGUZVEFJA-QMMMGPOBSA-N			X	kcat for the hydrolysis of NAM and selected N-acyl-L-methionine substrates by hAcy1-L372I-mutant
+2.23	N-acetyl-L-threonine	12324	PEDXUVCGOLSNLQ-WUJLRWPWSA-N	25			25C, pH7.4
+3.3	N-isopentanoyl-L-methionine	3466	JCOYMIGUZVEFJA-QMMMGPOBSA-N			X	kcat for the hydrolysis of NAM and selected N-acyl-L-methionine substrates by hAcy1-L372A-mutant
+4.49	N-acetyl-L-methionine	881	XUYPXLNMDZIRQH-LURJTMIESA-N			X	kcat for the hydrolysis of NAM and selected N-acyl-L-methionine substrates by hAcy1-L372I-mutant
+5.36	N-isopentanoyl-L-methionine	3466	JCOYMIGUZVEFJA-QMMMGPOBSA-N			X	kcat for the hydrolysis of NAM and selected N-acyl-L-methionine substrates by hAcy1-L372A-mutant
+6.08	N-isobutanoyl-L-methionine	6767	OMVFHSRJYHNQFU-ZETCQYMHSA-N				kcat for the hydrolysis of N-acyl-L-methionine substrates by hAcy1
+9.51	N-hexanoyl-L-methionine	5175	WUVVOUFAPBDGTP-VIFPVBQESA-N			X	kcat for the hydrolysis of NAM and selected N-acyl-L-methionine substrates by hAcy1-I177A-mutant
+12.1	N-acetyl-L-methionine	881	XUYPXLNMDZIRQH-LURJTMIESA-N			X	kcat for the hydrolysis of NAM and selected N-acyl-L-methionine substrates by hAcy1-L372V-mutant
+12.4	N-acetyl-L-ethionine	12326	BVCAPFTWLHLMJP-ZETCQYMHSA-N	25			25C, pH7.4
+13.3	N-cyclopentanoyl-L-methionine	7968	SCOFHFUTEYTKHR-VIFPVBQESA-N				kcat the hydrolysis of N-acyl-L-methionine substrates by hAcy1
+14.7	N-acetyl-L-valine	4881	IHYJTAOFMMMOPX-LURJTMIESA-N	25			25C, pH7.4
+16.1	N-hexanoyl-L-methionine	5175	WUVVOUFAPBDGTP-VIFPVBQESA-N				kcat for the hydrolysis of N-acyl-L-methionine substrates by hAcy1
+16.2	N-pentanoyl-L-methionine	7966	BXHXAMZDCPRECC-QMMMGPOBSA-N				kcat for the hydrolysis of N-acyl-L-methionine substrates by hAcy1
+16.6	N-acetyl-L-methionine	881	XUYPXLNMDZIRQH-LURJTMIESA-N			X	kcat for the hydrolysis of NAM and selected N-acyl-L-methionine substrates by hAcy1-L372G-mutant
+20.1	N-benzoyl-L-methionine	5177	PPFRJEXUPZWQPI-JTQLQIEISA-N			X	kcat for the hydrolysis of N-acyl-L-methionine substrates by hAcy1-T347S-mutant
+25.7	N-propionyl-L-methionine	7964	RBAAEQRITQHPJM-LURJTMIESA-N				kcat for the hydrolysis of N-acyl-L-methionine substrates by hAcy1
+28.1	N-acetyl-L-cysteine	1771	PWKSKIMOESPYIA-BYPYZUCNSA-N	25			25C, pH7.4
+30	N-acetyl-L-Cys	1771	PWKSKIMOESPYIA-BYPYZUCNSA-N	37	7.6		analysis by HPLC, pH 7.6, 37C
+30.7	N-acetyl-L-glutamine	3576	KSMRODHGGIIXDV-YFKPBYRVSA-N	25			25C, pH7.4
+31.7	N-acetyl-glycine	3577	OKJIRPAQVSHGFK-UHFFFAOYSA-N	25			25C, pH7.4
+38.3	N-acetyl-L-methionine	881	XUYPXLNMDZIRQH-LURJTMIESA-N				kcat for the hydrolysis of N-acyl-L-methionine substrates by hAcy1
+38.3	N-acetyl-L-methionine	881	XUYPXLNMDZIRQH-LURJTMIESA-N	25			25C, pH7.4
+38.3	Nalpha-acetylmethionine	881	XUYPXLNMDZIRQH-LURJTMIESA-N	22	7.4		pH 7.4, 22C, recombinant wild-type enzyme
+39.4	N-hexanoyl-L-methionine	5175	WUVVOUFAPBDGTP-VIFPVBQESA-N			X	kcat for the hydrolysis of NAM and selected N-acyl-L-methionine substrates by hAcy1-I177L-mutant
+46	N-acetyl-L-methionine	881	XUYPXLNMDZIRQH-LURJTMIESA-N			X	kcat for the hydrolysis of NAM and selected N-acyl-L-methionine substrates by hAcy1-T347G-mutant
+55.5	N-acetyl-L-leucine	5485	WXNXCEHXYPACJF-ZETCQYMHSA-N	25			25C, pH7.4
+63.4	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	kcat for the hydrolysis of N-acyl-L-glutamate substrates by hAcy1-T347S-mutant
+64.6	N-acetyl-L-methionine	881	XUYPXLNMDZIRQH-LURJTMIESA-N			X	kcat for the hydrolysis of NAM and selected N-acyl-L-methionine substrates by hAcy1-T347S-mutant
+65	N-acetyl-L-Met	881	XUYPXLNMDZIRQH-LURJTMIESA-N	37	7.6		analysis by HPLC, pH 7.6, 37C
+66.7	N-acetyl-L-methionine	881	XUYPXLNMDZIRQH-LURJTMIESA-N			X	kcat for the hydrolysis of NAM and selected N-acyl-L-methionine substrates by hAcy1-I177A-mutant
+80	2-acetylamino-3-[(S)-1-((R)-hydroxyphenyl-methyl)-2-oxo-2-phenyl-ethylsulfanyl]-propionic acid	109260	XXMMIIWNECFPCS-SJQFFEKCSA-N	37	7.6		analysis by HPLC, pH 7.6, 37C
+93.7	N-acetyl-L-methionine	881	XUYPXLNMDZIRQH-LURJTMIESA-N			X	kcat for the hydrolysis of NAM and selected N-acyl-L-methionine substrates by hAcy1-I177L-mutant
+120	2-acetylamino-3-((1S,2S)-2-hydroxycyclohexylsulfanyl)-propionic acid	109259	ORGKYHFOPHPHQL-AGROOBSYSA-N	37	7.6		analysis by HPLC, pH 7.6, 37C
+120	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	kcat for the hydrolysis of N-acyl-L-glutamate substrates by hAcy1-T347S-mutant
+139	N-butanoyl-L-methionine	7965	NZIOTNYOYJRBSN-ZETCQYMHSA-N				kcat for the hydrolysis of N-acyl-L-methionine substrates by hAcy1
+150	2-acetylamino-3-((1S,2S)-2-hydroxy-2,2-dimethyl-chroman-4-ylsulfanyl)-propionic acid	109258	UEDFZGJQHLHYIX-SBKAZOPESA-N	37	7.6		analysis by HPLC, pH 7.6, 37C
+156	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N				kcat for the hydrolysis of N-acyl-L-glutamate substrates by hAcy1
+156	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N	25			25C, pH7.4
+156	N-acetyl-L-norleucine	12325	JDMCEGLQFSOMQH-ZETCQYMHSA-N	25			25C, pH7.4
+177	N-formyl-L-methionine	3347	PYUSHNKNPOHWEZ-YFKPBYRVSA-N				kcat for the hydrolysis of N-acyl-L-methionine substrates by hAcy1

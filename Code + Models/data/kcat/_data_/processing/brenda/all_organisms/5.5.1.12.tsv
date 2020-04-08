@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.02	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				
+0.003	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N			X	mutant T769G
+0.03	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N			X	mutant T769S
+0.1	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N				D405N, Y520A
+0.2	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N				D402N, R365A, R454A
+0.4	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N				wild-type
+0.5	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N				R411A
+0.75	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N				
+2.2	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N				
+2.2	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N				

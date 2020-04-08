@@ -1,0 +1,39 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.34	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant K47A
+0.8	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant E237A
+1.2	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant R193A/E246A
+1.26	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant K46L
+1.8	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant K47R
+2	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant R249K
+2	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant K46R/K47R
+3.3	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant R193A
+3.4	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant R193K
+4.1	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant K46A
+6.7	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant E237D
+6.9	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant E246A
+8.9	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant Y238F/E246A
+10	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant R249A
+13	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant Y238F
+15	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant E246D
+24	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N				recombinant protein
+25.7	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.5		pH 7.5, 25C, recombinant wild-type enzyme
+36.72	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N				recombinant His-tagged wild-type enzyme, pH and temperature not specified in the publication
+37	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant K46R
+38.59	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N			X	recombinant His-tagged mutant I124L, pH and temperature not specified in the publication
+39.28	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N			X	recombinant His-tagged mutant I229Y, pH and temperature not specified in the publication
+40.1	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant K45L
+130	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant C90S; pH 7.2, 25C, recombinant wild-type enzyme
+0.034	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant K47A
+1.8	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant K47R
+2	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant K46R/K47R
+4.1	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant K46A
+24	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N				recombinant protein
+36.72	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N				recombinant His-tagged wild-type enzyme, pH and temperature not specified in the publication
+37	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant K46R
+38.59	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N			X	recombinant His-tagged mutant I124L, pH and temperature not specified in the publication
+39.28	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N			X	recombinant His-tagged mutant I229Y, pH and temperature not specified in the publication
+130	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant C90S; pH 7.2, 25C, recombinant wild-type enzyme
+5.23	coenzyme A	10	RGJOEKWQDUBAIZ-IBOSZNHHSA-N				recombinant protein
+1.6	glutaryl-CoA	532	SYKWLIJQEHRDNH-CKRMAKSASA-N				recombinant protein
+5.23	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N				recombinant protein
+12	D-homoserine	3380	UKAUYVFTDYCKQA-GSVOUGTGSA-N				recombinant protein

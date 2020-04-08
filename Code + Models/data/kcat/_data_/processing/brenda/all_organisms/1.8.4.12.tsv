@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.002	dabsyl-L-methionine (R)-sulfoxide	3062	XMGXJIRDHLTWGA-ZQLLGSLKSA-N				isoform MSRB1 wild type enzyme, in the presence of 20 mMTris(2-carboxyethyl) phosphine hydrochloride
+0.002	L-methionine-(R)-S-oxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N				recombinant wild-type cysteine-containing isozyme MsrB1 expressed in NIH 3T3 cells
+0.005	dabsyl-L-methionine (R)-sulfoxide	3062	XMGXJIRDHLTWGA-ZQLLGSLKSA-N	132		X	isoform MSRB1 mutant T132C, in the presence of 20 mM dithioerythritol
+0.012	dabsyl-L-methionine (R)-sulfoxide	3062	XMGXJIRDHLTWGA-ZQLLGSLKSA-N			X	isoform MSRB1 mutant T132A, in the presence of 20 mM dithioerythritol
+0.014	dabsyl-L-methionine (R)-sulfoxide	3062	XMGXJIRDHLTWGA-ZQLLGSLKSA-N				isoform MSRB2 wild type enzyme, in the presence of 20 mMTris(2-carboxyethyl) phosphine hydrochloride
+0.02	L-methionine-(R)-S-oxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N				recombinant isozyme MsrB2, with dithioerythritol
+0.028	dabsyl-L-methionine (R)-sulfoxide	3062	XMGXJIRDHLTWGA-ZQLLGSLKSA-N				isoform MSRB2 wild type enzyme, in the presence of 20 mM dithioerythritol
+0.047	dabsyl-L-methionine (R)-sulfoxide	3062	XMGXJIRDHLTWGA-ZQLLGSLKSA-N			X	isoform MSRB1 mutant C116S, in the presence of 20 mM dithioerythritol
+0.064	dabsyl-L-methionine (R)-sulfoxide	3062	XMGXJIRDHLTWGA-ZQLLGSLKSA-N			X	isoform MSRB2 mutant C134T, in the presence of 20 mM dithioerythritol
+0.07	L-methionine-(R)-S-oxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N				recombinant isozyme MsrB1, with dithioerythritol
+0.075	dabsyl-L-methionine (R)-sulfoxide	3062	XMGXJIRDHLTWGA-ZQLLGSLKSA-N				isoform MSRB1 wild type enzyme, in the presence of 20 mM dithioerythritol
+0.09	dithiothreitol	42	VHJLVAABSRFDPM-QWWZWVQMSA-N	37	8.0		recombinant enzyme, in 50 mM Tris-HCl, pH 8.0, at 37C
+0.13	L-methionine (R)-sulfoxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N				isoform MSRB4, pH and temperature not specified in the publication
+0.22	L-methionine-(R)-S-oxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N				recombinant wild-type selenocysteine-containing isozyme MsrB1 expressed in NIH 3T3 cells
+0.24	N-acetyl-L-methionine (R)-sulfoxide	9870	NPIMMZJBURSMON-DAZKTRTLSA-N				isoform MSRB4, pH and temperature not specified in the publication
+0.46	L-methionine-(R)-S-oxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N				recombinant wild-type isozyme MsrB2 expressed in Escherichia coli
+0.83	L-methionine-(R)-S-oxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N				recombinant wild-type isozyme MsrB3 expressed in Escherichia coli
+2.04	N-acetyl-L-methionine (R)-sulfoxide	9870	NPIMMZJBURSMON-DAZKTRTLSA-N				isoform MSRB2, pH and temperature not specified in the publication
+2.8	L-methionine (R,S)-sulfoxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N	25	8.0		MsrB activity of PILB, pH 8.0, 25C
+2.86	L-methionine (R)-sulfoxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N				isoform MSRB2, pH and temperature not specified in the publication

@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0012	beta-D-glucose 1-phosphate	583	HXXFSFRBOHSIMQ-DVKNGEFBSA-N	25	7.0	X	mutant E169A/D170A, 25C, pH 7.0
+0.00384	beta-D-glucose 1-phosphate	583	HXXFSFRBOHSIMQ-DVKNGEFBSA-N	25	7.0	X	mutant D170A, 25C, pH 7.0
+17	beta-D-glucose 1-phosphate	583	HXXFSFRBOHSIMQ-DVKNGEFBSA-N				in the presence of beta-D-glucose 1,6-diphosphate and Mg2+
+17.1	beta-D-glucose 1-phosphate	583	HXXFSFRBOHSIMQ-DVKNGEFBSA-N	25	7.0		wild-type, 25C, pH 7.0
+64.7	beta-D-glucose 1-phosphate	583	HXXFSFRBOHSIMQ-DVKNGEFBSA-N		7.2		in 50 mM buffer (HEPES, pH 7.2), with 2 mM MgCl2
+177	beta-D-glucose 1-phosphate	583	HXXFSFRBOHSIMQ-DVKNGEFBSA-N	25	7.0		pH 7.0, 25C

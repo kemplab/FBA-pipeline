@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.2	phenylacetone	2621	QCCDLTOVEPVEJK-UHFFFAOYSA-N		7.5	X	mutant enzyme T345L, in 50 mM Tris/HCl, pH 7.5, temperature not specified in the publication
+0.6	phenylacetone	2621	QCCDLTOVEPVEJK-UHFFFAOYSA-N		7.5	X	mutant enzyme P157Q, in 50 mM Tris/HCl, pH 7.5, temperature not specified in the publication
+1	phenylacetone	2621	QCCDLTOVEPVEJK-UHFFFAOYSA-N		7.5	X	mutant enzyme L500Y, in 50 mM Tris/HCl, pH 7.5, temperature not specified in the publication
+1.5	phenylacetone	2621	QCCDLTOVEPVEJK-UHFFFAOYSA-N		7.5		wild type enzyme, in 50 mM Tris/HCl, pH 7.5, temperature not specified in the publication
+1.8	phenylacetone	2621	QCCDLTOVEPVEJK-UHFFFAOYSA-N		7.5	X	mutant enzyme V291A, in 50 mM Tris/HCl, pH 7.5, temperature not specified in the publication
+3	phenylacetone	2621	QCCDLTOVEPVEJK-UHFFFAOYSA-N		7.5	X	mutant enzyme K295A, in 50 mM Tris/HCl, pH 7.5, temperature not specified in the publication

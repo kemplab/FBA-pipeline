@@ -1,0 +1,311 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+420	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	37	8.0	X	pH 8.0, 37C, mutant E576A
+540	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	37	8.0	X	pH 8.0, 37C, mutant E578A
+1020	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	37	8.0	X	pH 8.0, 37C, mutant D460T/D462N
+1080	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	37	8.0	X	pH 8.0, 37C, mutant D460T and E494H
+1140	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	37	8.0	X	pH 8.0, 37C, mutant D462N
+1200	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	37	8.0	X	pH 8.0, 37C, mutant D599A and D638Q
+1260	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+1320	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	37	8.0	X	pH 8.0, 37C, mutant D567H and E624H
+21	Arg-Arg-2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+30	Arg-Arg-2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N	37	8.0		pH 8.0, 37C, native enzyme
+60	tosyl-Arg methyl ester	1557	FKMJXALNHKIDOD-LBPRGKRZSA-N				
+18	tert-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	1842	WYXAAQVSDGZUNB-KLJDGLGGSA-N	37	8.0		pH 8.0, 37C, native enzyme
+22	tert-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	1842	WYXAAQVSDGZUNB-KLJDGLGGSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+0.016	benzoyl-L-Arg-7-amido-4-methylcoumarin	2256	HYJIKHYBLDRPMG-SFHVURJKSA-N	21			21C, pH not specified in the publication
+0.758	benzoyl-L-Arg-7-amido-4-methylcoumarin	2256	HYJIKHYBLDRPMG-SFHVURJKSA-N	37		X	mutant enzyme E607Q, at 37C
+1.42	benzoyl-L-Arg-7-amido-4-methylcoumarin	2256	HYJIKHYBLDRPMG-SFHVURJKSA-N	37		X	mutant enzyme E609R, at 37C
+1.46	benzoyl-L-Arg-7-amido-4-methylcoumarin	2256	HYJIKHYBLDRPMG-SFHVURJKSA-N	37		X	mutant enzyme E609F, at 37C
+1.64	benzoyl-L-Arg-7-amido-4-methylcoumarin	2256	HYJIKHYBLDRPMG-SFHVURJKSA-N	37		X	mutant enzyme E607Q/E609Q, at 37C
+4.98	benzoyl-L-Arg-7-amido-4-methylcoumarin	2256	HYJIKHYBLDRPMG-SFHVURJKSA-N	37		X	mutant enzyme E609L, at 37C
+6.84	benzoyl-L-Arg-7-amido-4-methylcoumarin	2256	HYJIKHYBLDRPMG-SFHVURJKSA-N	37		X	mutant enzyme E609A, at 37C
+7.81	benzoyl-L-Arg-7-amido-4-methylcoumarin	2256	HYJIKHYBLDRPMG-SFHVURJKSA-N	37		X	mutant enzyme E609Q, at 37C
+8.29	benzoyl-L-Arg-7-amido-4-methylcoumarin	2256	HYJIKHYBLDRPMG-SFHVURJKSA-N	37			wild type enzyme, at 37C
+9.36	benzoyl-L-Arg-7-amido-4-methylcoumarin	2256	HYJIKHYBLDRPMG-SFHVURJKSA-N	37		X	mutant enzyme E610Q, at 37C
+11.2	benzoyl-L-Arg-7-amido-4-methylcoumarin	2256	HYJIKHYBLDRPMG-SFHVURJKSA-N	37		X	mutant enzyme E609Q/E610Q, at 37C
+5496	benzoyl-Arg-4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	7.10		pH 7.10, 25C
+5500	benzoyl-Arg-4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	7.10		pH 7.10, 25C
+6850	benzoyl-Arg-4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	8.00		pH 8.00, 25C
+6852	benzoyl-Arg-4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	8.00		pH 8.00, 25C
+11290	benzoyl-Arg-4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	8.03		pH 8.03, 25C
+11300	benzoyl-Arg-4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	8.03		pH 8.03, 25C
+1.24	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	2534	AHRSQSTVNGDOMZ-IBGZPJMESA-N	37		X	mutant enzyme E607Q, at 37C
+1.58	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	2534	AHRSQSTVNGDOMZ-IBGZPJMESA-N	37		X	mutant enzyme E607Q/E609Q, at 37C
+1.77	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	2534	AHRSQSTVNGDOMZ-IBGZPJMESA-N	37		X	mutant enzyme E609F, at 37C
+5.03	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	2534	AHRSQSTVNGDOMZ-IBGZPJMESA-N	37		X	mutant enzyme E609L, at 37C
+5.37	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	2534	AHRSQSTVNGDOMZ-IBGZPJMESA-N	37		X	mutant enzyme E609R, at 37C
+5.42	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	2534	AHRSQSTVNGDOMZ-IBGZPJMESA-N	37		X	mutant enzyme E609A, at 37C
+9.53	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	2534	AHRSQSTVNGDOMZ-IBGZPJMESA-N	37		X	mutant enzyme E609Q/E610Q, at 37C
+13.3	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	2534	AHRSQSTVNGDOMZ-IBGZPJMESA-N	37			wild type enzyme, at 37C
+15.2	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	2534	AHRSQSTVNGDOMZ-IBGZPJMESA-N	37		X	mutant enzyme E610Q, at 37C
+15.8	benzyloxycarbonyl-L-Arg-7-amido-4-methylcoumarin	2534	AHRSQSTVNGDOMZ-IBGZPJMESA-N	37		X	mutant enzyme E609Q, at 37C
+120	benzyloxycarbonyl-Arg-4-methylcoumarin 7-amide	2534	AHRSQSTVNGDOMZ-IBGZPJMESA-N	37	8.0	X	pH 8.0, 37C, mutant E576A
+240	benzyloxycarbonyl-Arg-4-methylcoumarin 7-amide	2534	AHRSQSTVNGDOMZ-IBGZPJMESA-N	37	8.0	X	pH 8.0, 37C, mutant E578A
+420	benzyloxycarbonyl-Arg-4-methylcoumarin 7-amide	2534	AHRSQSTVNGDOMZ-IBGZPJMESA-N	37	8.0	X	pH 8.0, 37C, mutant D460T/D462N
+540	benzyloxycarbonyl-Arg-4-methylcoumarin 7-amide	2534	AHRSQSTVNGDOMZ-IBGZPJMESA-N	37	8.0	X	pH 8.0, 37C, wild-type, mutant E494H, D599H and D567H
+600	benzyloxycarbonyl-Arg-4-methylcoumarin 7-amide	2534	AHRSQSTVNGDOMZ-IBGZPJMESA-N	37	8.0	X	pH 8.0, 37C, opdB with polyhistidine affinity tag removed, mutant D460T, D462N and E624H
+660	benzyloxycarbonyl-Arg-4-methylcoumarin 7-amide	2534	AHRSQSTVNGDOMZ-IBGZPJMESA-N	37	8.0	X	pH 8.0, 37C, mutant D638Q
+540	benzyloxycarbonyl-Arg-Arg-4-methylcoumarin 7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N	37	8.0	X	pH 8.0, 37C, mutant E576A and E578A
+1080	benzyloxycarbonyl-Arg-Arg-4-methylcoumarin 7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N	37	8.0	X	pH 8.0, 37C, mutant D460T/D462N
+1320	benzyloxycarbonyl-Arg-Arg-4-methylcoumarin 7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N	37	8.0	X	pH 8.0, 37C, mutant D460T
+1380	benzyloxycarbonyl-Arg-Arg-4-methylcoumarin 7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N	37	8.0	X	pH 8.0, 37C, mutant D462N
+1740	benzyloxycarbonyl-Arg-Arg-4-methylcoumarin 7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N	37	8.0	X	pH 8.0, 37C wild-type and mutant D567H
+1800	benzyloxycarbonyl-Arg-Arg-4-methylcoumarin 7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N	37	8.0	X	pH 8.0, 37C, mutant D599H
+1860	benzyloxycarbonyl-Arg-Arg-4-methylcoumarin 7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N	37	8.0	X	pH 8.0, 37C, mutant D638Q
+1980	benzyloxycarbonyl-Arg-Arg-4-methylcoumarin 7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N	37	8.0	X	pH 8.0, 37C, mutant E494H and E624H
+2040	benzyloxycarbonyl-Arg-Arg-4-methylcoumarin 7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N	37	8.0		pH 8.0, 37C, opdB with polyhistidine affinty tag removed
+59	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+64	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N	37	8.0		pH 8.0, 37C, native enzyme
+516	2-aminobenzoyl-Thr-Arg-Arg Phe(NO2)-Ser-Leu-NH2	4192	MRBIBERQSAUCEA-XGRAHALTSA-N	15	8.0		pH 8.0, 15C, 1 M
+1260	2-aminobenzoyl-Thr-Arg-Arg Phe(NO2)-Ser-Leu-NH2	4192	MRBIBERQSAUCEA-XGRAHALTSA-N	25	8.0		pH 8.0, 25C, 3 mM
+1390	2-aminobenzoyl-Thr-Arg-Arg Phe(NO2)-Ser-Leu-NH2	4192	MRBIBERQSAUCEA-XGRAHALTSA-N	25	8.0		pH 8.0, 25C
+1392	2-aminobenzoyl-Thr-Arg-Arg Phe(NO2)-Ser-Leu-NH2	4192	MRBIBERQSAUCEA-XGRAHALTSA-N	25	8.0		pH 8.0, 25C
+1416	2-aminobenzoyl-Thr-Arg-Arg Phe(NO2)-Ser-Leu-NH2	4192	MRBIBERQSAUCEA-XGRAHALTSA-N	35	8.0		pH 8.0, 35C
+1420	2-aminobenzoyl-Thr-Arg-Arg Phe(NO2)-Ser-Leu-NH2	4192	MRBIBERQSAUCEA-XGRAHALTSA-N	35	8.0		pH 8.0, 35C
+14.5	Nalpha-benzoyl-DL-arginine-4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+37.7	Nalpha-benzoyl-DL-arginine-4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	8.0		presence of 50 mM Ca2+, pH 8.0, 25C
+1	Arg-7-amido-4-methylcoumarin	3865	ZSQPDAOJXSYJNP-LBPRGKRZSA-N	37	8.0		pH 8.0, 37C, native enzyme
+2	Arg-7-amido-4-methylcoumarin	3865	ZSQPDAOJXSYJNP-LBPRGKRZSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+108	2-aminobenzoyl-AGGRGAPQ-N-(2,4-dinitrophenyl)ethylenediamine	5073	DAUCRKKGKWILKB-KVAVLYRCSA-N	37	8.0		pH 8.0, 37C
+186	2-aminobenzoyl-AGGRGAPQ-N-(2,4-dinitrophenyl)ethylenediamine	5073	DAUCRKKGKWILKB-KVAVLYRCSA-N	37	8.0		pH 8.0, 37C
+312	2-aminobenzoyl-AGGRGAPQ-N-(2,4-dinitrophenyl)ethylenediamine	5073	DAUCRKKGKWILKB-KVAVLYRCSA-N	37	8.0		pH 8.0, 37C
+11	Gly-Arg-2-naphthylamide	6323	CINAWZLZLRIIIU-HNNXBMFYSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+12	Gly-Arg-2-naphthylamide	6323	CINAWZLZLRIIIU-HNNXBMFYSA-N	37	8.0		pH 8.0, 37C, native enzyme
+17	benzyloxycarbonyl-Arg-7-amido-4-methylcoumarin	6455	OWDQSYNEBWDNRO-IBGZPJMESA-N	37	8.0		pH 8.0, 37C, native enzyme
+26	benzyloxycarbonyl-Arg-7-amido-4-methylcoumarin	6455	OWDQSYNEBWDNRO-IBGZPJMESA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+33	benzyloxycarbonyl-Gly-Gly-Arg-7-amido-4-methylcoumarin	6529	SXTGIAYWYXVNLT-NRFANRHFSA-N	37	8.0		pH 8.0, 37C,recombinant enzyme
+48	benzyloxycarbonyl-Gly-Gly-Arg-7-amido-4-methylcoumarin	6529	SXTGIAYWYXVNLT-NRFANRHFSA-N	37	8.0		pH 8.0, 37C, native enzyme
+108	tert-butyloxycarbonyl-Leu-Arg-Arg-7-amido-4-methylcoumarin	6530	BAVWXCNIABBHLQ-HJOGWXRNSA-N	37	8.0		pH 8.0, 37C, native enzyme
+154	tert-butyloxycarbonyl-Leu-Arg-Arg-7-amido-4-methylcoumarin	6530	BAVWXCNIABBHLQ-HJOGWXRNSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+94	tert-butyloxycarbonyl-Leu-Lys-Arg-7-amido-4-methylcoumarin	6637	RRHPIUJOSIJECH-SDHOMARFSA-N	37	8.0		pH 8.0, 37C, native enzyme
+132	tert-butyloxycarbonyl-Leu-Lys-Arg-7-amido-4-methylcoumarin	6637	RRHPIUJOSIJECH-SDHOMARFSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+9	tert-butyloxycarbonyl-Ala-Gly-Pro-Arg-7-amido-4-methylcoumarin	6638	FSHIRCDNFQJWRI-NYVOZVTQSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+12	tert-butyloxycarbonyl-Ala-Gly-Pro-Arg-7-amido-4-methylcoumarin	6638	FSHIRCDNFQJWRI-NYVOZVTQSA-N	37	8.0		pH 8.0, 37C, native enzyme
+8	tert-butyloxycarbonyl-Val-Pro-Arg-7-amido-4-methylcoumarin	6639	DFOSAUPKTFJBLO-HWBMXIPRSA-N	37	8.0		pH 8.0, 37C, native enzyme
+12	tert-butyloxycarbonyl-Val-Pro-Arg-7-amido-4-methylcoumarin	6639	DFOSAUPKTFJBLO-HWBMXIPRSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+2	Nalpha-benzyloxycarbonyl-L-Phe-L-Arg-4-nitroanilide	38852	SNRRZRWIWHSYLU-DQEYMECFSA-N	25	8.0		pH 8.0, 25C
+35.2	Nalpha-benzyloxycarbonyl-L-Phe-L-Arg-4-nitroanilide	38852	SNRRZRWIWHSYLU-DQEYMECFSA-N	25	8.0		presence of 50 mM Ca2+, pH 8.0, 25C
+21.2	benzoyl-L-Pro-L-Phe-L-Arg-4-nitroanilide	7137	IDSFNACJZVHKIB-KCHLEUMXSA-N	25	8.0		presence of 50 mM Ca2+, pH 8.0, 25C
+201.7	benzoyl-L-Pro-L-Phe-L-Arg-4-nitroanilide	7137	IDSFNACJZVHKIB-KCHLEUMXSA-N	25	8.0		pH 8.0, 25C
+900	2-aminobenzoyl-AGGRGAMQ-N-(2,4-dinitrophenyl)ethylenediamine	7654	GXPNILJAKIJIDC-MVJARCRISA-N	37	8.0		pH 8.0, 37C
+1200	2-aminobenzoyl-AGGRGAMQ-N-(2,4-dinitrophenyl)ethylenediamine	7654	GXPNILJAKIJIDC-MVJARCRISA-N	37	8.0		pH 8.0, 37C
+1020	2-aminobenzoyl-AGGRGANQ-N-(2,4-dinitrophenyl)ethylenediamine	7655	GZFOLDGHAZFSGD-ZYWAVYHBSA-N	37	8.0		pH 8.0, 37C
+1860	2-aminobenzoyl-AGGRGANQ-N-(2,4-dinitrophenyl)ethylenediamine	7655	GZFOLDGHAZFSGD-ZYWAVYHBSA-N	37	8.0		pH 8.0, 37C
+390	2-aminobenzoyl-AGGRGAQQ-N-(2,4-dinitrophenyl)ethylenediamine	7656	XEKQPNDNHXXDLO-YMGWWJNLSA-N	37	8.0		pH 8.0, 37C
+3060	2-aminobenzoyl-AGGRGAQQ-N-(2,4-dinitrophenyl)ethylenediamine	7656	XEKQPNDNHXXDLO-YMGWWJNLSA-N	37	8.0		pH 8.0, 37C
+900	2-aminobenzoyl-AGGRGAFQ-N-(2,4-dinitrophenyl)ethylenediamine	7657	XSMRAZOWTXDJPK-WGTWPTQCSA-N	37	8.0		pH 8.0, 37C
+4080	2-aminobenzoyl-AGGRGAFQ-N-(2,4-dinitrophenyl)ethylenediamine	7657	XSMRAZOWTXDJPK-WGTWPTQCSA-N	37	8.0		pH 8.0, 37C
+24.3	acetyl-L-Leu-L-Lys-L-Arg-4-nitroanilide	23342	FBOIHIQMAAQZDS-FKBYEOEOSA-N	25	8.0		pH 8.0, 25C
+32	acetyl-L-Leu-L-Lys-L-Arg-4-nitroanilide	23342	FBOIHIQMAAQZDS-FKBYEOEOSA-N	25	8.0		presence of 50 mM Ca2+, pH 8.0, 25C
+55	Tosyl-Lys methyl ester	5579	XWVNOUSQIVZZJK-ZDUSSCGKSA-N				
+23	Ala-Phe-Lys-7-amido-4-methylcoumarin	8591	NMLAVQHQIBLWPW-NYVOZVTQSA-N	37	8.0		pH 8.0, 37C, native enzyme
+34	Ala-Phe-Lys-7-amido-4-methylcoumarin	8591	NMLAVQHQIBLWPW-NYVOZVTQSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+17	Phe-Arg-2-naphthylamide	8612	ZNHUFUZDUQRKBB-VXKWHMMOSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+18	Phe-Arg-2-naphthylamide	8612	ZNHUFUZDUQRKBB-VXKWHMMOSA-N	37	8.0		pH 8.0, 37C, native enzyme
+780	Tos-Gly-Pro-Arg-4-methylcoumarin 7-amide	3725	DWTAHKFEIVWFGQ-ZEQRLZLVSA-N	37	8.0		pH 8.0, 37C
+564	2-aminobenzoyl-AGGRGASQ-N-(2,4-dinitrophenyl)ethylenediamine	8964	RREHMODIFIVIMD-PWPLQYRGSA-N	37	8.0		pH 8.0, 37C
+1620	2-aminobenzoyl-AGGRGASQ-N-(2,4-dinitrophenyl)ethylenediamine	8964	RREHMODIFIVIMD-PWPLQYRGSA-N	37	8.0		pH 8.0, 37C
+840	2-aminobenzoyl-AGGRGAHQ-N-(2,4-dinitrophenyl)ethylenediamine	8965	SJTWNQUULJHJDY-MEZHFHTQSA-N	37	8.0		pH 8.0, 37C
+1500	2-aminobenzoyl-AGGRGAHQ-N-(2,4-dinitrophenyl)ethylenediamine	8965	SJTWNQUULJHJDY-MEZHFHTQSA-N	37	8.0		pH 8.0, 37C
+1200	2-aminobenzoyl-AGGRGAYQ-N-(2,4-dinitrophenyl)ethylenediamine	8966	LIEWZNIIWDKTOZ-ARURJVTCSA-N	37	8.0		pH 8.0, 37C
+2760	2-aminobenzoyl-AGGRGAYQ-N-(2,4-dinitrophenyl)ethylenediamine	8966	LIEWZNIIWDKTOZ-ARURJVTCSA-N	37	8.0		pH 8.0, 37C
+2220	2-aminobenzoyl-AGGRGATQ-N-(2,4-dinitrophenyl)ethylenediamine	8967	LGCDWYBRARSTRN-OCDHBNCISA-N	37	8.0		pH 8.0, 37C
+2880	2-aminobenzoyl-AGGRGATQ-N-(2,4-dinitrophenyl)ethylenediamine	8967	LGCDWYBRARSTRN-OCDHBNCISA-N	37	8.0		pH 8.0, 37C
+58	tert-butyloxycarbonyl-Val-Gly-Arg-7-amido-4-methylcoumarin	9262	PNMNIWXHUALKPT-CVDCTZTESA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+64	tert-butyloxycarbonyl-Val-Gly-Arg-7-amido-4-methylcoumarin	9262	PNMNIWXHUALKPT-CVDCTZTESA-N	37	8.0		pH 8.0, 37C, native enzyme
+29	Arg-Arg-Arg	9263	XPSGESXVBSQZPL-SRVKXCTJSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+38	Arg-Arg-Arg	9263	XPSGESXVBSQZPL-SRVKXCTJSA-N	37	8.0		pH 8.0, 37C, native enzyme
+40	Gly-Gly-Lys-Arg	9264	WDVIDPRACNGFPP-QWRGUYRKSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+54	Gly-Gly-Lys-Arg	9264	WDVIDPRACNGFPP-QWRGUYRKSA-N	37	8.0		pH 8.0, 37C, native enzyme
+1380	Boc-Gly-Arg-Arg-4-methylcoumarin 7-amide	3465	KAOILQBHONVZOC-PMACEKPBSA-N	37	8.0		pH 8.0, 37C
+1200	Boc-Gly-Lys-Arg-4-methylcoumarin 7-amide	11517	GCCXTNKNTDPTJQ-LEWJYISDSA-N	37	8.0		pH 8.0, 37C
+156	2-aminobenzoyl-AGGRVAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11518	XQNUTPIKMRCOBC-GWOALQLUSA-N	37	8.0		pH 8.0, 37C
+288	2-aminobenzoyl-AGGRVAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11518	XQNUTPIKMRCOBC-GWOALQLUSA-N	37	8.0		pH 8.0, 37C
+660	2-aminobenzoyl-AGGRFAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11519	SCIPGOGWWOZOHC-WGTWPTQCSA-N	37	8.0		pH 8.0, 37C
+1440	2-aminobenzoyl-AGGRFAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11519	SCIPGOGWWOZOHC-WGTWPTQCSA-N	37	8.0		pH 8.0, 37C
+660	2-aminobenzoyl-AGGRTAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11520	KNYRQFMNFBLARN-GTEYKZJNSA-N	37	8.0		pH 8.0, 37C
+720	2-aminobenzoyl-AGGRTAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11520	KNYRQFMNFBLARN-GTEYKZJNSA-N	37	8.0		pH 8.0, 37C
+660	2-aminobenzoyl-AGGRYAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11521	NAQCVAFJRGWBFV-HQNMPOTQSA-N	37	8.0		pH 8.0, 37C
+780	2-aminobenzoyl-AGGRYAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11521	NAQCVAFJRGWBFV-HQNMPOTQSA-N	37	8.0		pH 8.0, 37C
+840	2-aminobenzoyl-AGGRNAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11522	ZHDUBFFBAVEYCS-PWPLQYRGSA-N	37	8.0		pH 8.0, 37C
+840	2-aminobenzoyl-AGGRNAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11522	ZHDUBFFBAVEYCS-PWPLQYRGSA-N	37	8.0		pH 8.0, 37C
+186	2-aminobenzoyl-AGGRIAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11523	QZNSWGCLEXDSCY-OFGHHPPLSA-N	37	8.0		pH 8.0, 37C
+240	2-aminobenzoyl-AGGRIAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11523	QZNSWGCLEXDSCY-OFGHHPPLSA-N	37	8.0		pH 8.0, 37C
+720	2-aminobenzoyl-AGGRSAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11524	BUCMIDFZZCXKKC-PERLRESQSA-N	37	8.0		pH 8.0, 37C
+1260	2-aminobenzoyl-AGGRSAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11524	BUCMIDFZZCXKKC-PERLRESQSA-N	37	8.0		pH 8.0, 37C
+660	2-aminobenzoyl-AGGRQAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11525	BUCMIDFZZCXKKC-AFGXWFMKSA-N	37	8.0		pH 8.0, 37C
+720	2-aminobenzoyl-AGGRQAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11525	BUCMIDFZZCXKKC-AFGXWFMKSA-N	37	8.0		pH 8.0, 37C
+552	2-aminobenzoyl-AGGRHAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11526	AGAJGLKUBSPVGT-HUZRKIEASA-N	37	8.0		pH 8.0, 37C
+1620	2-aminobenzoyl-AGGRHAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11526	AGAJGLKUBSPVGT-HUZRKIEASA-N	37	8.0		pH 8.0, 37C
+3	2-aminobenzoyl-AGSRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	7961	DJAFYUWMTRGVGG-PWPLQYRGSA-N	37	8.0		pH 8.0, 37C
+102	2-aminobenzoyl-AGSRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	7961	DJAFYUWMTRGVGG-PWPLQYRGSA-N	37	8.0		pH 8.0, 37C
+246	2-aminobenzoyl-AGGRLAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11527	KGDLXEZNMORSAB-ICVHOTGXSA-N	37	8.0		pH 8.0, 37C
+360	2-aminobenzoyl-AGGRLAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11527	KGDLXEZNMORSAB-ICVHOTGXSA-N	37	8.0		pH 8.0, 37C
+1380	2-aminobenzoyl-AMGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11528	CASNYCYYOPWGEA-RTLNALNGSA-N	37	8.0		pH 8.0, 37C
+2340	2-aminobenzoyl-AMGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11528	CASNYCYYOPWGEA-RTLNALNGSA-N	37	8.0		pH 8.0, 37C
+132	2-aminobenzoyl-APGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11529	HGBUJCOOWKAYOR-RMRAHUOJSA-N	37	8.0		pH 8.0, 37C
+264	2-aminobenzoyl-APGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11529	HGBUJCOOWKAYOR-RMRAHUOJSA-N	37	8.0		pH 8.0, 37C
+312	2-aminobenzoyl-AGGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11530	LTYCMKVHSJJMFF-ONUYUPGPSA-N	37	8.0		pH 8.0, 37C
+354	2-aminobenzoyl-AGGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11530	LTYCMKVHSJJMFF-ONUYUPGPSA-N	37	8.0		pH 8.0, 37C
+396	2-aminobenzoyl-AGIRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11531	DUUVYLGZYBSTIA-JYGCAEIUSA-N	37	8.0		pH 8.0, 37C
+780	2-aminobenzoyl-AGIRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11531	DUUVYLGZYBSTIA-JYGCAEIUSA-N	37	8.0		pH 8.0, 37C
+336	2-aminobenzoyl-AGGRGPGQ-N-(2,4-dinitrophenyl)ethylenediamine	11532	BRXWMFAZNSCKMG-SUFMYBPMSA-N	37	8.0		pH 8.0, 37C
+450	2-aminobenzoyl-AGGRGPGQ-N-(2,4-dinitrophenyl)ethylenediamine	11532	BRXWMFAZNSCKMG-SUFMYBPMSA-N	37	8.0		pH 8.0, 37C
+840	2-aminobenzoyl-ALGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11533	ZMPJVJCLMDFUGU-ICVHOTGXSA-N	37	8.0		pH 8.0, 37C
+1740	2-aminobenzoyl-ALGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11533	ZMPJVJCLMDFUGU-ICVHOTGXSA-N	37	8.0		pH 8.0, 37C
+84	2-aminobenzoyl-AGVRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	7959	CZLGZADKBSEXKI-GWOALQLUSA-N	37	8.0		pH 8.0, 37C
+294	2-aminobenzoyl-AGVRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	7959	CZLGZADKBSEXKI-GWOALQLUSA-N	37	8.0		pH 8.0, 37C
+600	2-aminobenzoyl-AGQRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	7960	KWCRBLMTQWNOBS-YMGWWJNLSA-N	37	8.0		pH 8.0, 37C
+960	2-aminobenzoyl-AGQRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	7960	KWCRBLMTQWNOBS-YMGWWJNLSA-N	37	8.0		pH 8.0, 37C
+780	2-aminobenzoyl-AGGREAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11534	KJNYGRMKNWUZID-YMGWWJNLSA-N	37	8.0		pH 8.0, 37C
+900	2-aminobenzoyl-AGGREAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11534	KJNYGRMKNWUZID-YMGWWJNLSA-N	37	8.0		pH 8.0, 37C
+900	2-aminobenzoyl-AGGRDAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11535	ICZVDTACVQQZER-PWPLQYRGSA-N	37	8.0		pH 8.0, 37C
+900	2-aminobenzoyl-AGGRDAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11535	ICZVDTACVQQZER-PWPLQYRGSA-N	37	8.0		pH 8.0, 37C
+486	2-aminobenzoyl-AYGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11536	WKOVSQUSIATECS-HQNMPOTQSA-N	37	8.0		pH 8.0, 37C
+2820	2-aminobenzoyl-AYGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11536	WKOVSQUSIATECS-HQNMPOTQSA-N	37	8.0		pH 8.0, 37C
+1800	2-aminobenzoyl-ATGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11537	NNZIBUFIUOOSFJ-OCDHBNCISA-N	37	8.0		pH 8.0, 37C
+1800	2-aminobenzoyl-ATGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11537	NNZIBUFIUOOSFJ-OCDHBNCISA-N	37	8.0		pH 8.0, 37C
+780	2-aminobenzoyl-AQGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11538	GOFWTDRAJGNDAR-YMGWWJNLSA-N	37	8.0		pH 8.0, 37C
+2520	2-aminobenzoyl-AQGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11538	GOFWTDRAJGNDAR-YMGWWJNLSA-N	37	8.0		pH 8.0, 37C
+900	2-aminobenzoyl-AGLRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	4695	DUUVYLGZYBSTIA-ICVHOTGXSA-N	37	8.0		pH 8.0, 37C
+1140	2-aminobenzoyl-AGLRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	4695	DUUVYLGZYBSTIA-ICVHOTGXSA-N	37	8.0		pH 8.0, 37C
+1140	2-aminobenzoyl-AGTRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11539	OJQXECHCHFWLQM-OCDHBNCISA-N	37	8.0		pH 8.0, 37C
+1620	2-aminobenzoyl-AGTRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11539	OJQXECHCHFWLQM-OCDHBNCISA-N	37	8.0		pH 8.0, 37C
+1380	2-aminobenzoyl-AIGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11540	UKDKZVLQPSNQSX-CCOQLLTJSA-N	37	8.0		pH 8.0, 37C
+2100	2-aminobenzoyl-AIGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11540	UKDKZVLQPSNQSX-CCOQLLTJSA-N	37	8.0		pH 8.0, 37C
+900	2-aminobenzoyl-AGGRGFGQ-N-(2,4-dinitrophenyl)ethylenediamine	11541	URIIMVZBKRSDOY-OPPLUPLLSA-N	37	8.0		pH 8.0, 37C
+2160	2-aminobenzoyl-AGGRGFGQ-N-(2,4-dinitrophenyl)ethylenediamine	11541	URIIMVZBKRSDOY-OPPLUPLLSA-N	37	8.0		pH 8.0, 37C
+1020	2-aminobenzoyl-ASGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11542	OTMDDGNGALURIN-PWPLQYRGSA-N	37	8.0		pH 8.0, 37C
+2460	2-aminobenzoyl-ASGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11542	OTMDDGNGALURIN-PWPLQYRGSA-N	37	8.0		pH 8.0, 37C
+552	2-aminobenzoyl-AGGRGQGQ-N-(2,4-dinitrophenyl)ethylenediamine	11543	LQJPTDJPGPGAQT-OCDVNBFTSA-N	37	8.0		pH 8.0, 37C
+840	2-aminobenzoyl-AGGRGQGQ-N-(2,4-dinitrophenyl)ethylenediamine	11543	LQJPTDJPGPGAQT-OCDVNBFTSA-N	37	8.0		pH 8.0, 37C
+582	2-aminobenzoyl-AGFRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	7957	RMVIQLKDAVNBMK-WGTWPTQCSA-N	37	8.0		pH 8.0, 37C
+1320	2-aminobenzoyl-AGFRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	7957	RMVIQLKDAVNBMK-WGTWPTQCSA-N	37	8.0		pH 8.0, 37C
+780	2-aminobenzoyl-AGMRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	4694	WTHZBPGWYOWAJZ-RMRAHUOJSA-N	37	8.0		pH 8.0, 37C
+1440	2-aminobenzoyl-AGMRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	4694	WTHZBPGWYOWAJZ-RMRAHUOJSA-N	37	8.0		pH 8.0, 37C
+186	2-aminobenzoyl-AVGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11544	GJGFSYIXOQDOBX-GWOALQLUSA-N	37	8.0		pH 8.0, 37C
+2700	2-aminobenzoyl-AVGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11544	GJGFSYIXOQDOBX-GWOALQLUSA-N	37	8.0		pH 8.0, 37C
+660	2-aminobenzoyl-AGGRGMGQ-N-(2,4-dinitrophenyl)ethylenediamine	11545	DJSZUCCMVSHBCE-SUFMYBPMSA-N	37	8.0		pH 8.0, 37C
+3240	2-aminobenzoyl-AGGRGMGQ-N-(2,4-dinitrophenyl)ethylenediamine	11545	DJSZUCCMVSHBCE-SUFMYBPMSA-N	37	8.0		pH 8.0, 37C
+312	2-aminobenzoyl-AFGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11546	DFHYPKXGRSEQGS-WGTWPTQCSA-N	37	8.0		pH 8.0, 37C
+2200	2-aminobenzoyl-AFGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11546	DFHYPKXGRSEQGS-WGTWPTQCSA-N	37	8.0		pH 8.0, 37C
+1140	2-aminobenzoyl-AHGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11547	FOJDOQVJOZIUPU-GXRQCQMZSA-N	37	8.0		pH 8.0, 37C
+1260	2-aminobenzoyl-AHGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11547	FOJDOQVJOZIUPU-GXRQCQMZSA-N	37	8.0		pH 8.0, 37C
+588	2-aminobenzoyl-AGGRGSGQ-N-(2,4-dinitrophenyl)ethylenediamine	11548	BEYDGMLFAVDYGX-LAMIVESZSA-N	37	8.0		pH 8.0, 37C
+1380	2-aminobenzoyl-AGGRGSGQ-N-(2,4-dinitrophenyl)ethylenediamine	11548	BEYDGMLFAVDYGX-LAMIVESZSA-N	37	8.0		pH 8.0, 37C
+960	2-aminobenzoyl-AGGRGHGQ-N-(2,4-dinitrophenyl)ethylenediamine	11549	ZAPHTTIRGIAXEA-VRQXWPJZSA-N	37	8.0		pH 8.0, 37C
+1020	2-aminobenzoyl-AGGRGHGQ-N-(2,4-dinitrophenyl)ethylenediamine	11549	ZAPHTTIRGIAXEA-VRQXWPJZSA-N	37	8.0		pH 8.0, 37C
+426	2-aminobenzoyl-AGNRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11550	VIPRGCRKBWHJFX-PERLRESQSA-N	37	8.0		pH 8.0, 37C
+468	2-aminobenzoyl-AGNRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11550	VIPRGCRKBWHJFX-PERLRESQSA-N	37	8.0		pH 8.0, 37C
+1200	2-aminobenzoyl-AGGRGYGQ-N-(2,4-dinitrophenyl)ethylenediamine	11551	BPSWHUZWRFIHOU-MFFRHLKCSA-N	37	8.0		pH 8.0, 37C
+1380	2-aminobenzoyl-AGGRGYGQ-N-(2,4-dinitrophenyl)ethylenediamine	11551	BPSWHUZWRFIHOU-MFFRHLKCSA-N	37	8.0		pH 8.0, 37C
+432	2-aminobenzoyl-AGGRGNGQ-N-(2,4-dinitrophenyl)ethylenediamine	11552	YEVIMLUFLCZGEH-FYYOVZQQSA-N	37	8.0		pH 8.0, 37C
+660	2-aminobenzoyl-AGGRGNGQ-N-(2,4-dinitrophenyl)ethylenediamine	11552	YEVIMLUFLCZGEH-FYYOVZQQSA-N	37	8.0		pH 8.0, 37C
+264	2-aminobenzoyl-AGKRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	6766	NFFGKZGMZGNHGI-ICVHOTGXSA-N	37	8.0		pH 8.0, 37C
+444	2-aminobenzoyl-AGKRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	6766	NFFGKZGMZGNHGI-ICVHOTGXSA-N	37	8.0		pH 8.0, 37C
+1500	2-aminobenzoyl-AGGRGLGQ-N-(2,4-dinitrophenyl)ethylenediamine	11553	CIFOTLSZDLJXQL-XTPLGNKUSA-N	37	8.0		pH 8.0, 37C
+3720	2-aminobenzoyl-AGGRGLGQ-N-(2,4-dinitrophenyl)ethylenediamine	11553	CIFOTLSZDLJXQL-XTPLGNKUSA-N	37	8.0		pH 8.0, 37C
+1020	2-aminobenzoyl-AGGRGADQ-N-(2,4-dinitrophenyl)ethylenediamine	11554	JSYDTEFPEVJVQX-PWPLQYRGSA-N	37	8.0		pH 8.0, 37C
+1020	2-aminobenzoyl-AGGRGTGQ-N-(2,4-dinitrophenyl)ethylenediamine	11555	CIFQAQPUFFZAGD-BDOIXXCYSA-N	37	8.0		pH 8.0, 37C
+1140	2-aminobenzoyl-AGGRGTGQ-N-(2,4-dinitrophenyl)ethylenediamine	11555	CIFQAQPUFFZAGD-BDOIXXCYSA-N	37	8.0		pH 8.0, 37C
+1020	2-aminobenzoyl-AGGRMAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11556	YRPVWBNFSMGABL-MVJARCRISA-N	37	8.0		pH 8.0, 37C
+1140	2-aminobenzoyl-AGGRMAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11556	YRPVWBNFSMGABL-MVJARCRISA-N	37	8.0		pH 8.0, 37C
+720	2-aminobenzoyl-AGYRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	4693	ICVWRQRKSDDFAA-HQNMPOTQSA-N	37	8.0		pH 8.0, 37C
+1440	2-aminobenzoyl-AGYRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	4693	ICVWRQRKSDDFAA-HQNMPOTQSA-N	37	8.0		pH 8.0, 37C
+264	2-aminobenzoyl-AGGRGDGQ-N-(2,4-dinitrophenyl)ethylenediamine	11557	ARQSYEYRXIYHHP-FYYOVZQQSA-N	37	8.0		pH 8.0, 37C
+720	2-aminobenzoyl-AGGRGDGQ-N-(2,4-dinitrophenyl)ethylenediamine	11557	ARQSYEYRXIYHHP-FYYOVZQQSA-N	37	8.0		pH 8.0, 37C
+216	2-aminobenzoyl-AGPRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11558	HEHFUKLNUBMFDS-RMRAHUOJSA-N	37	8.0		pH 8.0, 37C
+720	2-aminobenzoyl-AGPRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11558	HEHFUKLNUBMFDS-RMRAHUOJSA-N	37	8.0		pH 8.0, 37C
+2160	2-aminobenzoyl-AGGRGAVQ-N-(2,4-dinitrophenyl)ethylenediamine	11559	QPUXPJADSORNSO-GWOALQLUSA-N	37	8.0		pH 8.0, 37C
+2640	2-aminobenzoyl-AGGRGAVQ-N-(2,4-dinitrophenyl)ethylenediamine	11559	QPUXPJADSORNSO-GWOALQLUSA-N	37	8.0		pH 8.0, 37C
+720	2-aminobenzoyl-AGGRGEGQ-N-(2,4-dinitrophenyl)ethylenediamine	11560	ZRMCKWJMEBRIBV-OCDVNBFTSA-N	37	8.0		pH 8.0, 37C
+1980	2-aminobenzoyl-AGGRGEGQ-N-(2,4-dinitrophenyl)ethylenediamine	11560	ZRMCKWJMEBRIBV-OCDVNBFTSA-N	37	8.0		pH 8.0, 37C
+1380	2-aminobenzoyl-AGGRGALQ-N-(2,4-dinitrophenyl)ethylenediamine	11561	BKPFOVAYLRTCOH-ICVHOTGXSA-N	37	8.0		pH 8.0, 37C
+2820	2-aminobenzoyl-AGGRGALQ-N-(2,4-dinitrophenyl)ethylenediamine	11561	BKPFOVAYLRTCOH-ICVHOTGXSA-N	37	8.0		pH 8.0, 37C
+2400	2-aminobenzoyl-AGGRGVGQ-N-(2,4-dinitrophenyl)ethylenediamine	11562	CVGLROIXNZHJKU-RZZIVJHCSA-N	37	8.0		pH 8.0, 37C
+3180	2-aminobenzoyl-AGGRGVGQ-N-(2,4-dinitrophenyl)ethylenediamine	11562	CVGLROIXNZHJKU-RZZIVJHCSA-N	37	8.0		pH 8.0, 37C
+414	2-aminobenzoyl-AGGRGAIQ-N-(2,4-dinitrophenyl)ethylenediamine	11563	OYWLHQXIEHOKSJ-SHYVMRBESA-N	37	8.0		pH 8.0, 37C
+3300	2-aminobenzoyl-AGGRGAIQ-N-(2,4-dinitrophenyl)ethylenediamine	11563	OYWLHQXIEHOKSJ-SHYVMRBESA-N	37	8.0		pH 8.0, 37C
+1680	2-aminobenzoyl-AGGRGIGQ-N-(2,4-dinitrophenyl)ethylenediamine	11564	HABDEUFNDJGZKG-QNPPSPEDSA-N	37	8.0		pH 8.0, 37C
+1740	2-aminobenzoyl-AGGRGIGQ-N-(2,4-dinitrophenyl)ethylenediamine	11564	HABDEUFNDJGZKG-QNPPSPEDSA-N	37	8.0		pH 8.0, 37C
+81	tert-butyloxycarbonyl-Gly-Arg-Arg-7-amido-4-methylcoumarin	3465	KAOILQBHONVZOC-PMACEKPBSA-N	37	8.0		pH 8.0, 37C, native enzyme
+101	tert-butyloxycarbonyl-Gly-Arg-Arg-7-amido-4-methylcoumarin	3465	KAOILQBHONVZOC-PMACEKPBSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+102	tert-butyloxycarbonyl-Ala-Arg-Arg-7-amido-4-methylcoumarin	12029	SSCFJYYLEOONHU-YYWHXJBOSA-N	37	8.0		pH 8.0, 37C, native enzyme
+122	tert-butyloxycarbonyl-Ala-Arg-Arg-7-amido-4-methylcoumarin	12029	SSCFJYYLEOONHU-YYWHXJBOSA-N	37	8.0	X	pH 8.0, 37C, ecombinant mutant enzyme S563A
+57	tert-butyloxycarbonyl-Leu-Gly-Arg-7-amido-4-methylcoumarin	12030	DLAQYOHJZUTWDJ-SFTDATJTSA-N	37	8.0		pH 8.0, 37C, native enzyme
+74	tert-butyloxycarbonyl-Leu-Gly-Arg-7-amido-4-methylcoumarin	12030	DLAQYOHJZUTWDJ-SFTDATJTSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+55	tert-butyloxycarbonyl-Gly-Lys-Arg-7-amido-4-methylcoumarin	11517	GCCXTNKNTDPTJQ-LEWJYISDSA-N	37	8.0		pH 8.0, 37C,recombinant enzyme
+76	tert-butyloxycarbonyl-Gly-Lys-Arg-7-amido-4-methylcoumarin	11517	GCCXTNKNTDPTJQ-LEWJYISDSA-N	37	8.0		pH 8.0, 37C, native enzyme
+59	benzyloxycarbonyl-Phe-Arg-Arg-7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N	37	8.0		pH 8.0, 37C, native enzyme
+77	benzyloxycarbonyl-Phe-Arg-Arg-7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+38	Val-Lys-Arg-Arg	12031	BYKLLBXODZPDLB-QAETUUGQSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+44	Val-Lys-Arg-Arg	12031	BYKLLBXODZPDLB-QAETUUGQSA-N	37	8.0		pH 8.0, 37C, native enzyme
+12	3-(2-furyl)acryloyl-Tyr-Lys-Arg	12032	KBMPBILPJXXXFC-SQLPKEAASA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+18	3-(2-furyl)acryloyl-Tyr-Lys-Arg	12032	KBMPBILPJXXXFC-SQLPKEAASA-N	37	8.0		pH 8.0, 37C, native enzyme
+16	Phe-Arg-Arg	12033	LZDIENNKWVXJMX-JYJNAYRXSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+21	Phe-Arg-Arg	12033	LZDIENNKWVXJMX-JYJNAYRXSA-N	37	8.0		pH 8.0, 37C, native enzyme
+53.8	Nalpha-benzyloxycarbonyl-L-lysine thiobenzyl ester	13020	FIWAQJRIROPAEC-UHFFFAOYSA-N	25	8.0		presence of 50 mM Ca2+, pH 8.0, 25C
+55.5	Nalpha-benzyloxycarbonyl-L-lysine thiobenzyl ester	13020	FIWAQJRIROPAEC-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+7.6	acetyl-L-Leu-L-Leu-L-Arg-4-nitroanilide	23343	KNHMYJLUSRDABK-FKBYEOEOSA-N	25	8.0		pH 8.0, 25C
+13.9	acetyl-L-Leu-L-Leu-L-Arg-4-nitroanilide	23343	KNHMYJLUSRDABK-FKBYEOEOSA-N	25	8.0		presence of 50 mM Ca2+, pH 8.0, 25C
+0.5	succinyl-L-AlaL-Ala-L-Pro-L-Arg-4-nitroanilide	3433	XHCDPNOVUNAIPA-FVCZOJIISA-N	25	8.0		pH 8.0, 25C
+1.2	succinyl-L-AlaL-Ala-L-Pro-L-Arg-4-nitroanilide	3433	XHCDPNOVUNAIPA-FVCZOJIISA-N	25	8.0		presence of 50 mM Ca2+, pH 8.0, 25C
+0.024	benzoyl-Arg 2-naphthylamide	5421	DEFAKPKFXYITPZ-FQEVSTJZSA-N				
+4.4	Benzoyl-Lys 2-naphthylamide	13291	WQMHKDDDTVJQHE-NRFANRHFSA-N				
+197	N-benzoyl-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N				
+55	N-Benzyloxycarbonyl-Lys benzyl ester	13450	GCKQVXGRLKRLHJ-IBGZPJMESA-N				
+4848	benzoyl-Arg-beta-naphthylamide	5421	DEFAKPKFXYITPZ-FQEVSTJZSA-N	25	8.00		pH 8.00, 25C
+4850	benzoyl-Arg-beta-naphthylamide	5421	DEFAKPKFXYITPZ-FQEVSTJZSA-N	25	8.00		pH 8.00, 25C
+1218	2-aminobenzoyl-Thr-Cit-Arg Phe(NO2)-Ser-Leu-NH2	14818	MQWUIENVVGTYEZ-FSYUTJKLSA-N	25	8.0		pH 8.0, 25C
+1220	2-aminobenzoyl-Thr-Cit-Arg Phe(NO2)-Ser-Leu-NH2	14818	MQWUIENVVGTYEZ-FSYUTJKLSA-N	25	8.0		pH 8.0, 25C
+660	2-aminobenzoyl-AGGRGGGQG-N-(2,4-dinitrophenyl)ethylenediamine	14950	VXBFJZSBBYPYTD-FAQZDJIUSA-N	37	8.0		pH 8.0, 37C
+780	2-aminobenzoyl-AGGRGGGQG-N-(2,4-dinitrophenyl)ethylenediamine	14950	VXBFJZSBBYPYTD-FAQZDJIUSA-N	37	8.0		pH 8.0, 37C
+3.5	N-benzoyl-arginine amide	3789	UMKJQJGLFKDADN-JTQLQIEISA-N				
+57	N-benzoyl-arginine amide	3789	UMKJQJGLFKDADN-JTQLQIEISA-N				
+294	2-aminobenzoyl-Thr-Arg Cit-Phe(NO2)-Ser-Leu-NH2	22791	XKKJFCVYFWYHLJ-VJTDWEKZSA-N	25	8.0		pH 8.0, 25C
+1560	Boc-Leu-Arg-Arg-4-methylcoumarin 7-amide	6530	BAVWXCNIABBHLQ-HJOGWXRNSA-N	37	8.0		pH 8.0, 37C
+1080	Boc-Leu-Thr-Arg-4-methylcoumarin 7-amide	22792	FYFOYUJBUKFPIP-ZURQEGGNSA-N	37	8.0		pH 8.0, 37C
+1500	benzyloxycarbonyl-Gly-Gly-Arg-4-methylcoumarin 7-amide	22793	SXTGIAYWYXVNLT-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+960	Boc-Leu-Gly-Lys-4-methylcoumarin 7-amide	22794	HAXMBHCTRAPHKC-VXKWHMMOSA-N	37	8.0		pH 8.0, 37C
+900	benzyloxycarbonyl-Val-Arg-4-methylcoumarin 7-amide	10495	PPCUYJROGHMPDG-DHLKQENFSA-N	37	8.0		pH 8.0, 37C
+1080	Boc-Leu-Gly-Arg-4-methylcoumarin 7-amide	12030	DLAQYOHJZUTWDJ-SFTDATJTSA-N	37	8.0		pH 8.0, 37C
+1020	Boc-Gln-Gly-Arg-4-methylcoumarin 7-amide	22744	PDPAZZMSSBKXOH-OALUTQOASA-N	37	8.0		pH 8.0, 37C
+900	benzyloxycarbonyl-Gly-Arg-4-methylcoumarin 7-amide	22796	WWPAXXXLKMZTIF-FQEVSTJZSA-N	37	8.0		pH 8.0, 37C
+420	benzyloxycarbonyl-Lys-4-methylcoumarin 7-amide	22797	BGUZGLJLCRENHP-FQEVSTJZSA-N	37	8.0		pH 8.0, 37C
+1080	Tos-Gly-Pro-Lys-4-methylcoumarin 7-amide	12557	DENHHFBQLLZEME-DQEYMECFSA-N	37	8.0		pH 8.0, 37C
+108	2-aminobenzoyl-AGERGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	7958	AIGFZNHTKHMHNI-YMGWWJNLSA-N	37	8.0		pH 8.0, 37C
+288	2-aminobenzoyl-ADGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	22798	VXGBUKFEXGOFBG-PERLRESQSA-N	37	8.0		pH 8.0, 37C
+450	2-aminobenzoyl-ANGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	12301	QLVNDKFAIYJEAY-PWPLQYRGSA-N	37	8.0		pH 8.0, 37C
+180	2-aminobenzoyl-AGDRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	7962	RBYMPBAGBADVPW-PWPLQYRGSA-N	37	8.0		pH 8.0, 37C
+720	2-aminobenzoyl-AGHRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	4697	KGPGUOBWRXCATB-RUDWLACJSA-N	37	8.0		pH 8.0, 37C
+402	2-aminobenzoyl-AGGRGAEQ-N-(2,4-dinitrophenyl)ethylenediamine	22799	MRGMUMCIPFEWJU-YMGWWJNLSA-N	37	8.0		pH 8.0, 37C
+312	2-aminobenzoyl-AEGRGAGQ-N-(2,4-dinitrophenyl)ethylenediamine	11538	GOFWTDRAJGNDAR-YMGWWJNLSA-N	37	8.0		pH 8.0, 37C
+1	succinyl-L-Ala-L-Ala-L-Pro-L-Lys-4-nitroanilide	3935	SSKJMHLJNHUFHI-USNOLKROSA-N	25	8.0		presence of 50 mM Ca2+, pH 8.0, 25C
+5.82	N2-benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+8.72	N2-benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N			X	mutant E172Q, pH not specified in the publication, temperature not specified in the publication
+11.4	N2-benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N			X	mutant R689A, pH not specified in the publication, temperature not specified in the publication
+11.8	N2-benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N			X	mutant E524Q, pH not specified in the publication, temperature not specified in the publication
+14.3	N2-benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N			X	mutant E490Q, pH not specified in the publication, temperature not specified in the publication
+0.01	N-benzyloxycarbonyl-L-Arg-L-Arg-7-amido-4-methylcoumarin	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N	21			21C, pH not specified in the publication
+0.011	N-benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N	21			21C, pH not specified in the publication
+0.013	benzyloxycarbonyl-Gly-L-Arg-L-Arg-7-amido-4-methylcoumarin	114621	SQMVICYPIHHFET-ZEQRLZLVSA-N	21			21C, pH not specified in the publication
+0.02	N-benzyloxycarbonyl-Gly-Gly-L-Arg-7-amido-4-methylcoumarin	6529	SXTGIAYWYXVNLT-NRFANRHFSA-N	21			21C, pH not specified in the publication
+4250	benzoyl-Gly-L-Pro-L-Arg-7-amido-4-methylcoumarin	114622	CSRLSMJTPDIMAV-GOTSBHOMSA-N	25	8.0		pH 8.0, 25C
+6830	benzoyl-Gly-Gly-L-Arg-7-amido-4-methylcoumarin	114623	WHQGEGZVLPCMQQ-FQEVSTJZSA-N	25	8.0		pH 8.0, 25C
+1.5	Acetyl-Tyr 4-nitroanilide	29103	QATYPERFLZVAKG-INIZCTEOSA-N				
+43	N-benzyloxycarbonyl-Lys 4-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N				
+6.61	benzoyl-Arg-7-amido-4-methylcoumarin	2256	HYJIKHYBLDRPMG-SFHVURJKSA-N			X	mutant E172Q, pH not specified in the publication, temperature not specified in the publication
+13.3	benzoyl-Arg-7-amido-4-methylcoumarin	2256	HYJIKHYBLDRPMG-SFHVURJKSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+13.4	benzoyl-Arg-7-amido-4-methylcoumarin	2256	HYJIKHYBLDRPMG-SFHVURJKSA-N			X	mutant R689A, pH not specified in the publication, temperature not specified in the publication
+22.8	benzoyl-Arg-7-amido-4-methylcoumarin	2256	HYJIKHYBLDRPMG-SFHVURJKSA-N			X	mutant E524Q, pH not specified in the publication, temperature not specified in the publication
+33.9	benzoyl-Arg-7-amido-4-methylcoumarin	2256	HYJIKHYBLDRPMG-SFHVURJKSA-N			X	mutant E490Q, pH not specified in the publication, temperature not specified in the publication
+3.62	benzoyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N			X	mutant R689A, pH not specified in the publication, temperature not specified in the publication
+3.91	benzoyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N			X	mutant E172Q, pH not specified in the publication, temperature not specified in the publication
+7	benzoyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N			X	mutant E524Q, pH not specified in the publication, temperature not specified in the publication
+8.29	benzoyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+9.55	benzoyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N			X	mutant E490Q, pH not specified in the publication, temperature not specified in the publication
+1.38	benzyloxycarbonyl-Arg-Thr-Lys-Arg-7-amido-4-methylcoumarin	125405	PTZXNAVCJCRERV-XWIIFWCMSA-N			X	mutant E172Q, pH not specified in the publication, temperature not specified in the publication
+4.25	benzyloxycarbonyl-Arg-Thr-Lys-Arg-7-amido-4-methylcoumarin	125405	PTZXNAVCJCRERV-XWIIFWCMSA-N			X	mutant R689A, pH not specified in the publication, temperature not specified in the publication
+5.16	benzyloxycarbonyl-Arg-Thr-Lys-Arg-7-amido-4-methylcoumarin	125405	PTZXNAVCJCRERV-XWIIFWCMSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+6.64	benzyloxycarbonyl-Arg-Thr-Lys-Arg-7-amido-4-methylcoumarin	125405	PTZXNAVCJCRERV-XWIIFWCMSA-N			X	mutant E524Q, pH not specified in the publication, temperature not specified in the publication
+10	benzyloxycarbonyl-Arg-Thr-Lys-Arg-7-amido-4-methylcoumarin	125405	PTZXNAVCJCRERV-XWIIFWCMSA-N			X	mutant E490Q, pH not specified in the publication, temperature not specified in the publication

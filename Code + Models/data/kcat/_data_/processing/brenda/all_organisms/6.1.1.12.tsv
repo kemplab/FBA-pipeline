@@ -1,0 +1,39 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00016	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5	X	pH 7.5, 37C, recombinant mutant Q184K
+0.0008	tRNAAsn	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.2	X	recombinant mutant enzyme, pH 7.2, 37C
+0.0016	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5	X	pH 7.5, 37C, recombinant mutant C152F
+0.004	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5		native enzyme, at pH 7.5 and 25C
+0.0056	tRNAAsn	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.2		recombinant wild-type enzyme, pH 7.2, 37C
+0.0083	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.2	X	recombinant mutant enzyme, pH 7.2, 37C
+0.009	tRNAAsn	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	60	6.0	X	pH 6.0, 60C, mutant enzyme K85P; pH 6.0, 60C, mutant enzyme W26H/K85P
+0.01	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	Plasmodium falciparum aspartyl-tRNA synthetase, mutated RNA binding motif
+0.0103	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5		recombinant enzyme, at pH 7.5 and 25C
+0.0117	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.2		recombinant wild-type enzyme, pH 7.2, 37C
+0.026	tRNAAsn	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	60	6.0	X	pH 6.0, 60C, mutant enzyme K85P; pH 6.0, 60C, mutant enzyme W26H
+0.027	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme
+0.034	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	60	6.0	X	pH 6.0, 60C, mutant enzyme W26H/K85P; pH 6.0, 60C, mutant enzyme W26HK85P
+0.037	tRNAAsn	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	60	6.0	X	pH 6.0, 60C, mutant enzyme W26H/K85P; pH 6.0, 60C, mutant enzyme W26HK85P
+0.042	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.2		recombinant wild-type enzyme, pH 7.2, 37C
+0.05	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5	X	pH 7.5, 37C, aminoacylation of tRNAAsp(QUC), mutant enzyme E93K
+0.061	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	60	6.0	X	pH 6.0, 60C, mutant enzyme K85P; pH 6.0, 60C, mutant enzyme K85P; pH 6.0, 60C, wild-type enzyme; pH 6.0, 60C, wild-type enzyme
+0.092	tRNAAsn	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	70	7.2		pH 7.2, 70C
+0.1	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				human mitochondrial tRNAAsp
+0.116	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	60	6.0	X	pH 6.0, 60C, mutant enzyme W26H; pH 6.0, 60C, mutant enzyme W26H
+0.12	tRNAAsn	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	70	7.2		pH 7.2, 70C
+0.133	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				Escherichia coli native tRNAAsp
+0.2	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				Plasmodium falciparum wild type aspartyl-tRNA synthetase, amino acids 49-626
+0.22	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				Homo sapiens wild type aspartyl-tRNA synthetase, amino acids 1-500
+0.23	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5		recombinant enzyme, at pH 7.5 and 25C
+0.24	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	70	7.2		pH 7.2, 70C
+0.55	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	28	7.8		pH 7.8, 28C
+2	Asp	91	CKLJMWTZIZZHCS-REOHCLBHSA-N			X	mutant enzyme
+2.7	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	70	7.2		pH 7.2, 70C
+5.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				Plasmodium falciparum wild type aspartyl-tRNA synthetase, amino acids 49-626, ATP-diphosphate exchange
+6.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				Homo sapiens wild type aspartyl-tRNA synthetase, amino acids 1-500, ATP-diphosphate exchange
+8	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5	X	pH 7.5, 37C, aminoacylation of tRNAAsp(QUC), mutant enzyme A471T
+8.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	Plasmodium falciparum aspartyl-tRNA synthetase, mutated RNA binding motif, ATP-diphosphate exchange
+9.3	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5		wild-type enzyme, acylation activity, pH 7.5, 37C
+12	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5	X	pH 7.5, 37C, aminoacylation of tRNAAsp(QUC), mutant enzyme L30F; pH 7.5, 37C, aminoacylation of tRNAAsp(QUC), wild-type enzyme
+16.9	aspartyl-tRNA	6412	CMSFPVKELZISOA-RVIGULEBSA-N				
+18	Asp	91	CKLJMWTZIZZHCS-REOHCLBHSA-N				wild-type enzyme
+79	tRNAAsp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5	X	pH 7.5, 37C, aminoacylation of tRNAAsp(QUC), mutant enzyme E118K

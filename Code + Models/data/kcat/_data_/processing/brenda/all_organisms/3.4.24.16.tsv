@@ -1,0 +1,204 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.8	neurotensin	1629	PCJGZPGTCUMMOT-ISULXFBGSA-N	37	7.5	X	recombinant mutant R470E/T499R, pH 7.5, 37C
+5	neurotensin	1629	PCJGZPGTCUMMOT-ISULXFBGSA-N	37	7.5		recombinant wild-type enzyme, pH 7.5, 37C
+0.4	Abz-GFSRFRQEDDnp	3084	YQYMNERJCDLEFV-KHVQSSSXSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606A
+0.7	Abz-GFSRFRQEDDnp	3084	YQYMNERJCDLEFV-KHVQSSSXSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant G608A
+0.9	Abz-GFSRFRQEDDnp	3084	YQYMNERJCDLEFV-KHVQSSSXSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606F
+3.3	Abz-GFSRFRQEDDnp	3084	YQYMNERJCDLEFV-KHVQSSSXSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant G608A
+4.8	Abz-GFSRFRQEDDnp	3084	YQYMNERJCDLEFV-KHVQSSSXSA-N	37	7.4		pH 7.4, 37C, recombinant GST-tagged wild-type enzyme
+0.01	Abz-GFSIFRQEDDnp	3274	AGXIGKVFHLQKIK-RIKCFSDVSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606F
+0.04	Abz-GFSIFRQEDDnp	3274	AGXIGKVFHLQKIK-RIKCFSDVSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant G608A
+0.2	Abz-GFSIFRQEDDnp	3274	AGXIGKVFHLQKIK-RIKCFSDVSA-N	37	7.4		pH 7.4, 37C, recombinant GST-tagged wild-type enzyme
+0.006	2-aminobenzoyl-GFSPFRQ-(N-2,4-dinitrophenyl)ethylenediamine	3275	CDHXXEKDLLJPCM-KHVQSSSXSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606A
+0.1	2-aminobenzoyl-GFSPFRQ-(N-2,4-dinitrophenyl)ethylenediamine	3275	CDHXXEKDLLJPCM-KHVQSSSXSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606F
+0.3	2-aminobenzoyl-GFSPFRQ-(N-2,4-dinitrophenyl)ethylenediamine	3275	CDHXXEKDLLJPCM-KHVQSSSXSA-N	37	7.4		pH 7.4, 37C, recombinant GST-tagged wild-type enzyme
+0.2	Abz-GFSAFRQEDDnp	3469	JIXGTLAZTGJRRS-IDNKWEKWSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant G608A
+0.5	Abz-GFSAFRQEDDnp	3469	JIXGTLAZTGJRRS-IDNKWEKWSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606A
+0.8	Abz-GFSAFRQEDDnp	3469	JIXGTLAZTGJRRS-IDNKWEKWSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606F
+2.6	Abz-GFSAFRQEDDnp	3469	JIXGTLAZTGJRRS-IDNKWEKWSA-N	37	7.4		pH 7.4, 37C, recombinant GST-tagged wild-type enzyme
+0.1	Abz-GFSLFRQEDDnp	3470	HXHHPTUVILSUBW-WGXSSYHUSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606A
+0.7	Abz-GFSLFRQEDDnp	3470	HXHHPTUVILSUBW-WGXSSYHUSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606F
+2.4	Abz-GFSLFRQEDDnp	3470	HXHHPTUVILSUBW-WGXSSYHUSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant G608A
+3.5	Abz-GFSLFRQEDDnp	3470	HXHHPTUVILSUBW-WGXSSYHUSA-N	37	7.4		pH 7.4, 37C, recombinant GST-tagged wild-type enzyme
+0.09	Abz-GFSFFRQEDDnp	3471	YVEVCAWAPWKCOW-FQEQRRFLSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606A
+1.1	Abz-GFSFFRQEDDnp	3471	YVEVCAWAPWKCOW-FQEQRRFLSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606F
+3.4	Abz-GFSFFRQEDDnp	3471	YVEVCAWAPWKCOW-FQEQRRFLSA-N	37	7.4		pH 7.4, 37C, recombinant GST-tagged wild-type enzyme
+4.9	Abz-GFSFFRQEDDnp	3471	YVEVCAWAPWKCOW-FQEQRRFLSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant G608A
+0.3	Abz-GFSyFRQEDDnp	3472	SXQYVTIXCQBMBK-FQEQRRFLSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606A
+1	Abz-GFSyFRQEDDnp	3472	SXQYVTIXCQBMBK-FQEQRRFLSA-N	37	7.4		pH 7.4, 37C, recombinant GST-tagged wild-type enzyme
+1.3	Abz-GFSyFRQEDDnp	3472	SXQYVTIXCQBMBK-FQEQRRFLSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606F
+4.1	Abz-GFSyFRQEDDnp	3472	SXQYVTIXCQBMBK-FQEQRRFLSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant G608A
+0.3	Abz-GFSWFRQEDDnp	3473	FZJGJFSIXVSXJC-RRXWZPBSSA-N	37	7.4		pH 7.4, 37C, recombinant GST-tagged wild-type enzyme
+1	Abz-GFSWFRQEDDnp	3473	FZJGJFSIXVSXJC-RRXWZPBSSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606A
+1.5	Abz-GFSWFRQEDDnp	3473	FZJGJFSIXVSXJC-RRXWZPBSSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606F
+2.4	Abz-GFSWFRQEDDnp	3473	FZJGJFSIXVSXJC-RRXWZPBSSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant G608A
+0.06	Abz-GFSSFRQEDDnp	3474	UIWJLIUTJXCLOO-SKGSPYGFSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606A
+0.2	Abz-GFSSFRQEDDnp	3474	UIWJLIUTJXCLOO-SKGSPYGFSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606F
+2.4	Abz-GFSSFRQEDDnp	3474	UIWJLIUTJXCLOO-SKGSPYGFSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant G608A
+7.5	Abz-GFSSFRQEDDnp	3474	UIWJLIUTJXCLOO-SKGSPYGFSA-N	37	7.4		pH 7.4, 37C, recombinant GST-tagged wild-type enzyme
+0.6	Abz-GFSQFRQEDDnp	3475	LWBIRMFHZURSKK-UJKKYYSESA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606F
+0.7	Abz-GFSQFRQEDDnp	3475	LWBIRMFHZURSKK-UJKKYYSESA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606A
+3.6	Abz-GFSQFRQEDDnp	3475	LWBIRMFHZURSKK-UJKKYYSESA-N	37	7.4		pH 7.4, 37C, recombinant GST-tagged wild-type enzyme
+5.9	Abz-GFSQFRQEDDnp	3475	LWBIRMFHZURSKK-UJKKYYSESA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant G608A
+0.05	Abz-GFSHFRQEDDnp	3476	GKWIACHEQKKVOR-WGXSSYHUSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606A
+0.2	Abz-GFSHFRQEDDnp	3476	GKWIACHEQKKVOR-WGXSSYHUSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606F
+2.5	Abz-GFSHFRQEDDnp	3476	GKWIACHEQKKVOR-WGXSSYHUSA-N	37	7.4		pH 7.4, 37C, recombinant GST-tagged wild-type enzyme
+6.3	Abz-GFSHFRQEDDnp	3476	GKWIACHEQKKVOR-WGXSSYHUSA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant G608A
+0.827	Tyr-Gly-Gly-Phe-Leu-Arg	3599	ILBHHEXPXBRSKB-FWEHEUNISA-N				
+0.1	Abz-GFSEFRQEDDnp	3976	MWNXFRKSLIJEKZ-UJKKYYSESA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606A
+0.7	Abz-GFSEFRQEDDnp	3976	MWNXFRKSLIJEKZ-UJKKYYSESA-N	37	7.4		pH 7.4, 37C, recombinant GST-tagged wild-type enzyme
+1.2	Abz-GFSEFRQEDDnp	3976	MWNXFRKSLIJEKZ-UJKKYYSESA-N	37	7.4	X	pH 7.4, 37C, recombinant GST-tagged mutant Y606F
+0.56	(o-aminobenzoyl)-GFSPFQQ-(N-(2,4-dinitrophenyl)ethylenediamine)	5081	ZLAXQKOXPCIAPB-UJKKYYSESA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+0.73	(o-aminobenzoyl)-GFSPFQQ-(N-(2,4-dinitrophenyl)ethylenediamine)	5081	ZLAXQKOXPCIAPB-UJKKYYSESA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+6.08	(o-aminobenzoyl)-GFSPFQQ-(N-(2,4-dinitrophenyl)ethylenediamine)	5081	ZLAXQKOXPCIAPB-UJKKYYSESA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond; pH 7.4, 37C, cleavage of P-F bond
+2.52	Tyr-Gly-Gly-Phe-Leu-Arg-Arg-Ile	5587	WRPLGMBDXVBPEG-VGXZEHLRSA-N				
+0.12	(o-aminobenzoyl)-SFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	5715	CCTIJUAYBCXQDH-XCONQBMMSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+0.77	(o-aminobenzoyl)-SFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	5715	CCTIJUAYBCXQDH-XCONQBMMSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+6.08	(o-aminobenzoyl)-SFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	5715	CCTIJUAYBCXQDH-XCONQBMMSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+0.31	(o-aminobenzoyl)-GFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	3275	CDHXXEKDLLJPCM-KHVQSSSXSA-N	37	7.4		pH 7.4, 37C; pH 7.4, 37C, cleavage of P-F bond; pH 7.4, 37C, cleavage of P-X bond
+0.05	(o-aminobenzoyl)-IFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	6512	FCIHZMMTSJZAFF-HGTGKSISSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+0.45	(o-aminobenzoyl)-IFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	6512	FCIHZMMTSJZAFF-HGTGKSISSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+0.01	(o-aminobenzoyl)-EFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	6513	IOZHMHSPHZCEKP-FXRUNAACSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+0.08	(o-aminobenzoyl)-EFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	6513	IOZHMHSPHZCEKP-FXRUNAACSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+0.53	(o-aminobenzoyl)-GFSPIRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	6514	OGTNXNNAUDLFKU-UVAOTLOMSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+0.65	(o-aminobenzoyl)-GFSPIRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	6514	OGTNXNNAUDLFKU-UVAOTLOMSA-N	37	7.4		pH 7.4, 37C, cleavage of P-X bond
+6.08	(o-aminobenzoyl)-GFSPIRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	6514	OGTNXNNAUDLFKU-UVAOTLOMSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+0.55	(o-aminobenzoyl)-GFSPLRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	6515	ZYKLBQIMZCUKLV-LLFPMDERSA-N	37	7.4		pH 7.4, 37C, cleavage of P-X bond
+1.3	(o-aminobenzoyl)-GFSPLRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	6515	ZYKLBQIMZCUKLV-LLFPMDERSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+0.64	(o-aminobenzoyl)-GFSPFNQ-(N-(2,4-dinitrophenyl)ethylenediamine)	6516	YZEKMJJJKBMBFM-XIYQXPGCSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+1.1	(o-aminobenzoyl)-GFSPFNQ-(N-(2,4-dinitrophenyl)ethylenediamine)	6516	YZEKMJJJKBMBFM-XIYQXPGCSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+6.08	(o-aminobenzoyl)-GFSPFNQ-(N-(2,4-dinitrophenyl)ethylenediamine)	6516	YZEKMJJJKBMBFM-XIYQXPGCSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+0.88	(o-aminobenzoyl)-GFSPFHQ-(N-(2,4-dinitrophenyl)ethylenediamine)	6517	GIRRLQOVJKIMAG-IKGBEOROSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+1.4	(o-aminobenzoyl)-GFSPFHQ-(N-(2,4-dinitrophenyl)ethylenediamine)	6517	GIRRLQOVJKIMAG-IKGBEOROSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+6.08	(o-aminobenzoyl)-GFSPFHQ-(N-(2,4-dinitrophenyl)ethylenediamine)	6517	GIRRLQOVJKIMAG-IKGBEOROSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+0.1	(o-aminobenzoyl)-AFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7662	BXIIWHDVQHVQTB-VVSCBZBRSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+0.27	(o-aminobenzoyl)-AFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7662	BXIIWHDVQHVQTB-VVSCBZBRSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+0.13	(o-aminobenzoyl)-LFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7663	FWNCCGYGZZKASZ-DRODSASKSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+0.35	(o-aminobenzoyl)-LFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7663	FWNCCGYGZZKASZ-DRODSASKSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+0.03	(o-aminobenzoyl)-FFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7664	UCVFSFUQARABET-OLLPCQKTSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+0.23	(o-aminobenzoyl)-FFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7664	UCVFSFUQARABET-OLLPCQKTSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+0.16	(o-aminobenzoyl)-NFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7665	KOENIANFZIWTSQ-VLOLPVCOSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+1	(o-aminobenzoyl)-NFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7665	KOENIANFZIWTSQ-VLOLPVCOSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+0.12	(o-aminobenzoyl)-QFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7666	LDNBAPZNLOCRRD-FXRUNAACSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+0.39	(o-aminobenzoyl)-QFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7666	LDNBAPZNLOCRRD-FXRUNAACSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+0.02	(o-aminobenzoyl)-DFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7667	CGHNKJHBTSDOIA-VLOLPVCOSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+0.12	(o-aminobenzoyl)-DFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7667	CGHNKJHBTSDOIA-VLOLPVCOSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+0.02	(o-aminobenzoyl)-RFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7668	NVDURQBKRNISRN-BEGKBBJWSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+0.27	(o-aminobenzoyl)-RFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7668	NVDURQBKRNISRN-BEGKBBJWSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+0.52	(o-aminobenzoyl)-GFHPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7669	ZQHYAEGNVRTGNR-JSHGGYKJSA-N	37	7.4		pH 7.4, 37C
+6.08	(o-aminobenzoyl)-GFHPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7669	ZQHYAEGNVRTGNR-JSHGGYKJSA-N	37	7.4		pH 7.4, 37C
+3.6	(o-aminobenzoyl)-GFSXFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7670	GAAUSYAECJWJJT-YWKUYIJJSA-N	37	7.4		pH 7.4, 37C
+0.67	(o-aminobenzoyl)-GFSQFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	3475	LWBIRMFHZURSKK-UJKKYYSESA-N	37	7.4		pH 7.4, 37C
+6.08	(o-aminobenzoyl)-GFSQFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	3475	LWBIRMFHZURSKK-UJKKYYSESA-N	37	7.4		pH 7.4, 37C
+2.5	(o-aminobenzoyl)-GFSDFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7671	SICSCHPGOPHLDD-SKGSPYGFSA-N	37	7.4		pH 7.4, 37C
+0.14	(o-aminobenzoyl)-GFSPERQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7672	ZRFCKBDKFHYMHU-ZRSNTTJMSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+0.65	(o-aminobenzoyl)-GFSPERQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7672	ZRFCKBDKFHYMHU-ZRSNTTJMSA-N	37	7.4		pH 7.4, 37C, cleavage of P-X bond
+0.03	(o-aminobenzoyl)-GFSPDRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7673	GCOLKPJQUSVAQJ-BECXIUFFSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+0.24	(o-aminobenzoyl)-GFSPDRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7673	GCOLKPJQUSVAQJ-BECXIUFFSA-N	37	7.4		pH 7.4, 37C, cleavage of P-X bond
+1.3	(o-aminobenzoyl)-GFSPFAQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7624	BODOSSIKMQLZKC-IDNKWEKWSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+1.4	(o-aminobenzoyl)-GFSPFAQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7624	BODOSSIKMQLZKC-IDNKWEKWSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+0.4	(o-aminobenzoyl)-GFSPFFQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7623	JWJYYPIBSUEZRQ-FQEQRRFLSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+1.4	(o-aminobenzoyl)-GFSPFFQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7623	JWJYYPIBSUEZRQ-FQEQRRFLSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+1.1	(o-aminobenzoyl)-GFSPFSQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7626	YRQNNWNMKQDSMS-SKGSPYGFSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+1.3	(o-aminobenzoyl)-GFSPFSQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7626	YRQNNWNMKQDSMS-SKGSPYGFSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+0.29	(o-aminobenzoyl)-GFSPFEQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7674	MSPGIYUPGNCJRC-UJKKYYSESA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+1.6	(o-aminobenzoyl)-GFSPFEQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7674	MSPGIYUPGNCJRC-UJKKYYSESA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+0.6	(o-aminobenzoyl)-GGFLRRHQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7675	BPPCIPPWZUPWQV-JSVMBZAGSA-N	37	7.4		pH 7.4. 37C, cleavage of the R-H bond
+1.6	(o-aminobenzoyl)-GGFLRRHQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7675	BPPCIPPWZUPWQV-JSVMBZAGSA-N	37	7.4		pH 7.4. 37C, cleavage of the R-R bond
+0.2	(o-aminobenzoyl)-GGFLRRYQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7676	AEQGTAIPAGPMGX-BMDWSCHASA-N	37	7.4		pH 7.4. 37C, cleavage of the R-Y bond
+0.3	(o-aminobenzoyl)-GGFLRRYQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7676	AEQGTAIPAGPMGX-BMDWSCHASA-N	37	7.4		pH 7.4. 37C, cleavage of the R-R bond
+0.2	(o-aminobenzoyl)-GGFLRRFQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7677	NXPWUQMVNPCNCO-BMDWSCHASA-N	37	7.4		pH 7.4. 37C, cleavage of the R-R bond
+0.3	(o-aminobenzoyl)-GGFLRRFQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7677	NXPWUQMVNPCNCO-BMDWSCHASA-N	37	7.4		pH 7.4. 37C, cleavage of the R-F bond
+0.3	(o-aminobenzoyl)-GGFLRRNQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7678	MBNPTUSUXWVACB-YJGNPGDASA-N	37	7.4		pH 7.4. 37C, cleavage of the R-N bond
+0.6	(o-aminobenzoyl)-GGFLRRNQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7678	MBNPTUSUXWVACB-YJGNPGDASA-N	37	7.4		pH 7.4. 37C, cleavage of the R-R bond
+0.1	(o-aminobenzoyl)-GGFLRRIQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7679	UUBAMAHYQVOUSA-AXYSJJCVSA-N	37	7.4		pH 7.4. 37C, cleavage of the R-I bond
+0.7	(o-aminobenzoyl)-GGFLRRIQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7679	UUBAMAHYQVOUSA-AXYSJJCVSA-N	37	7.4		pH 7.4. 37C, cleavage of the R-R bond
+0.2	(o-aminobenzoyl)-GGFLRRLQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7680	JMDKCVWHKZGIAF-JSVMBZAGSA-N	37	7.4		pH 7.4. 37C, cleavage of the R-R bond
+0.5	(o-aminobenzoyl)-GGFLRRLQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7680	JMDKCVWHKZGIAF-JSVMBZAGSA-N	37	7.4		pH 7.4. 37C, cleavage of the R-L bond
+11.9	(7-methoxycoumarin-4-yl)acetyl-Gly-Gly-Phe-Ile-Arg-Arg-Ala-Lys-dinitrophenyl	8585	GGXSXHBMGVYACH-ULZAOLAASA-N				
+2.1	(7-methoxycoumarin-4-yl)acetyl-Gly-Gly-Phe-Leu-Arg-Arg-Ala-Lys-dinitrophenyl	8586	SGGZBQLMTXFGQG-JVSGEHDTSA-N				
+0.84	(o-aminobenzoyl)-GESPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	8973	IUSXCLVBZBAAJO-JPRYDEJLSA-N	37	7.4		pH 7.4, 37C
+6.08	(o-aminobenzoyl)-GESPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	8973	IUSXCLVBZBAAJO-JPRYDEJLSA-N	37	7.4		pH 7.4, 37C
+1.28	(o-aminobenzoyl)-GFFPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	8974	XPMYFUXBFWVTHJ-RRXWZPBSSA-N	37	7.4		pH 7.4, 37C
+6.08	(o-aminobenzoyl)-GFFPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	8974	XPMYFUXBFWVTHJ-RRXWZPBSSA-N	37	7.4		pH 7.4, 37C
+0.64	(o-aminobenzoyl)-GFNPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	8975	FIOUJDLXUUFNDT-KHVQSSSXSA-N	37	7.4		pH 7.4, 37C
+6.08	(o-aminobenzoyl)-GFNPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	8975	FIOUJDLXUUFNDT-KHVQSSSXSA-N	37	7.4		pH 7.4, 37C
+0.97	(o-aminobenzoyl)-GFRPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	8976	IBLSYUYYJFEKEQ-RCWIFLETSA-N	37	7.4		pH 7.4, 37C
+6.08	(o-aminobenzoyl)-GFRPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	8976	IBLSYUYYJFEKEQ-RCWIFLETSA-N	37	7.4		pH 7.4, 37C
+0.62	(o-aminobenzoyl)-GFPPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	8977	RDYLXEDXGGSFEA-RCWIFLETSA-N	37	7.4		pH 7.4, 37C
+6.08	(o-aminobenzoyl)-GFPPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	8977	RDYLXEDXGGSFEA-RCWIFLETSA-N	37	7.4		pH 7.4, 37C
+0.19	(o-aminobenzoyl)-GFSEFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	3976	MWNXFRKSLIJEKZ-UJKKYYSESA-N	37	7.4		pH 7.4, 37C
+4.8	(o-aminobenzoyl)-GFSHFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	3476	GKWIACHEQKKVOR-WGXSSYHUSA-N	37	7.4		pH 7.4, 37C
+0.31	(o-aminobenzoyl)-GFSRFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	3084	YQYMNERJCDLEFV-KHVQSSSXSA-N	37	7.4		pH 7.4, 37C
+0.62	(o-aminobenzoyl)-GFSPNRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	8978	YHBXTTRCZTUONI-BECXIUFFSA-N	37	7.4		pH 7.4, 37C, cleavage of P-X bond
+6.08	(o-aminobenzoyl)-GFSPNRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	8978	YHBXTTRCZTUONI-BECXIUFFSA-N	37	7.4		pH 7.4, 37C, cleavage of P-X bond
+0.61	(o-aminobenzoyl)-GFSPFIQ-(N-(2,4-dinitrophenyl)ethylenediamine)	8979	HTXLKVULPLOKRD-JTXFGHLESA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+6.08	(o-aminobenzoyl)-GFSPFIQ-(N-(2,4-dinitrophenyl)ethylenediamine)	8979	HTXLKVULPLOKRD-JTXFGHLESA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+1.8	(o-aminobenzoyl)-GFSPFDQ-(N-(2,4-dinitrophenyl)ethylenediamine)	8980	SNUIXZCGZOCWNW-XIYQXPGCSA-N	37	7.4		pH 7.4, 37C, cleavage of F-S bond
+1.4	(o-aminobenzoyl)-GFSPFPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	8981	YTICLWVPHAGKPJ-FXTIGTEMSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+0.45	(o-aminobenzoyl)-GFSPFRR-(N-(2,4-dinitrophenyl)ethylenediamine)	7622	YBSJCQWQTKKJKR-WGXSSYHUSA-N	37	7.4		pH 7.4, 37C
+0.83	(o-aminobenzoyl)-GFSPFRP-(N-(2,4-dinitrophenyl)ethylenediamine)	8982	NNMYOTLCMATVBL-QWPLPAKPSA-N	37	7.4		pH 7.4, 37C
+6.08	(o-aminobenzoyl)-GFSPFRP-(N-(2,4-dinitrophenyl)ethylenediamine)	8982	NNMYOTLCMATVBL-QWPLPAKPSA-N	37	7.4		pH 7.4, 37C
+1.94	Tyr-Gly-Gly-Phe-Leu-Arg-Arg	10894	DIXKOJUSHXZXKB-QKUYTOGTSA-N				
+0.22	(o-aminobenzoyl)-GFSIFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	3274	AGXIGKVFHLQKIK-RIKCFSDVSA-N	37	7.4		pH 7.4, 37C
+0.15	(o-aminobenzoyl)-GFSPPRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11440	KKBBYIDGSAODST-BGBFCPIGSA-N	37	7.4		pH 7.4, 37C, cleavage of P-X bond
+1.2	(o-aminobenzoyl)-HFSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11574	FCKZICTYIVPCSF-DRODSASKSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+1.3	(o-aminobenzoyl)-GASPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11575	VSXVCXQVIGHJQR-QJSKOQLASA-N	37	7.4		pH 7.4, 37C
+2.6	(o-aminobenzoyl)-GISPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11576	VKYBLLYQJXCECU-MVMYWSRKSA-N	37	7.4		pH 7.4, 37C
+6.2	(o-aminobenzoyl)-GLSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11577	FMXJTTTZCTUUJX-UNHORJANSA-N	37	7.4		pH 7.4, 37C
+2	(o-aminobenzoyl)-GSSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11578	UFLNEFFYXGKPOV-DUGSHLAESA-N	37	7.4		pH 7.4, 37C
+1.3	(o-aminobenzoyl)-GNSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11579	AGGUXEWNIZCUKN-DUGSHLAESA-N	37	7.4		pH 7.4, 37C
+1.9	(o-aminobenzoyl)-GQSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11580	XUXIYBGAUUPAJP-JPRYDEJLSA-N	37	7.4		pH 7.4, 37C
+0.34	(o-aminobenzoyl)-GDSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11581	HPAOOPLEMACMEQ-DUGSHLAESA-N	37	7.4		pH 7.4, 37C
+0.95	(o-aminobenzoyl)-GHSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11582	WGGBATDYYPMTKW-UNHORJANSA-N	37	7.4		pH 7.4, 37C
+5.4	(o-aminobenzoyl)-GRSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11583	KPMQVGXMHMNTFU-VVZPPATISA-N	37	7.4		pH 7.4, 37C
+2.2	(o-aminobenzoyl)-GPSPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11584	YMMIPPKREDDPNO-BGBFCPIGSA-N	37	7.4		pH 7.4, 37C
+0.8	(o-aminobenzoyl)-GFAPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11585	OZBINBYUGTZKMN-BKANQJANSA-N	37	7.4		pH 7.4, 37C
+0.27	(o-aminobenzoyl)-GFIPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11586	IGVKAGAEPCWAFV-URAFUAIRSA-N	37	7.4		pH 7.4, 37C
+0.24	(o-aminobenzoyl)-GFLPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11587	CZMZCFBROQBELR-JSHGGYKJSA-N	37	7.4		pH 7.4, 37C
+0.39	(o-aminobenzoyl)-GFQPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	128224	WZPLOAFCVINWNG-WGXSSYHUSA-N	37	7.4		pH 7.4, 37C
+0.07	(o-aminobenzoyl)-GFEPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11588	YUFCGQHFCUQECY-WGXSSYHUSA-N	37	7.4		pH 7.4, 37C
+0.2	(o-aminobenzoyl)-GFDPFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11589	YDRGQYWTZNZRKO-KHVQSSSXSA-N	37	7.4		pH 7.4, 37C
+2.6	(o-aminobenzoyl)-GFSAFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	3469	JIXGTLAZTGJRRS-IDNKWEKWSA-N	37	7.4		pH 7.4, 37C
+3.5	(o-aminobenzoyl)-GFSLFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	3470	HXHHPTUVILSUBW-WGXSSYHUSA-N	37	7.4		pH 7.4, 37C
+3.4	(o-aminobenzoyl)-GFSFFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	3471	YVEVCAWAPWKCOW-FQEQRRFLSA-N	37	7.4		pH 7.4, 37C
+7.5	(o-aminobenzoyl)-GFSSFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	3474	UIWJLIUTJXCLOO-SKGSPYGFSA-N	37	7.4		pH 7.4, 37C
+8.8	(o-aminobenzoyl)-GFSNFRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11590	DFESTCXMRMVGNK-SKGSPYGFSA-N	37	7.4		pH 7.4, 37C
+0.4	(o-aminobenzoyl)-GFSPARQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11591	IIYBRTZIUBWZOU-QJSKOQLASA-N	37	7.4		pH 7.4, 37C, cleavage of P-X bond
+1.5	(o-aminobenzoyl)-GFSPSRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11592	PIZMAPGPVJTLQE-BECXIUFFSA-N	37	7.4		pH 7.4, 37C, cleavage of P-X bond
+2.6	(o-aminobenzoyl)-GFSPQRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11593	YUDHZPZWTRBRFR-ZRSNTTJMSA-N	37	7.4		pH 7.4, 37C, cleavage of P-X bond
+0.19	(o-aminobenzoyl)-GFSPHRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11594	SKLSTVWQRMCXQO-MJCKYLJUSA-N	37	7.4		pH 7.4, 37C, cleavage of P-X bond
+0.42	(o-aminobenzoyl)-GFSPRRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11595	LNMYRVPQOHZRLK-VQMVLQCLSA-N	37	7.4		pH 7.4, 37C, cleavage of P-X bond
+5.9	(o-aminobenzoyl)-GFSPFLQ-(N-(2,4-dinitrophenyl)ethylenediamine)	7625	XCTDNJFYSVYEAC-WGXSSYHUSA-N	37	7.4		pH 7.4, 37C, cleavage of P-F bond
+3	(o-aminobenzoyl)-GFSPFRA-(N-(2,4-dinitrophenyl)ethylenediamine)	7617	SOCTVSMLGYTVEC-DEWCAVSXSA-N	37	7.4		pH 7.4, 37C
+1.9	(o-aminobenzoyl)-GFSPFRI-(N-(2,4-dinitrophenyl)ethylenediamine)	7618	CKPBASVDHBIVNU-KODIBZKNSA-N	37	7.4		pH 7.4, 37C
+7.4	(o-aminobenzoyl)-GFSPFRL-(N-(2,4-dinitrophenyl)ethylenediamine)	11596	GBJCVJZBPLERES-OMOZGRIZSA-N	37	7.4		pH 7.4, 37C
+1.8	(o-aminobenzoyl)-GFSPFRF-(N-(2,4-dinitrophenyl)ethylenediamine)	7619	YLUZUCSDKWAKGR-RYICAFHUSA-N	37	7.4		pH 7.4, 37C
+2.1	(o-aminobenzoyl)-GFSPFRS-(N-(2,4-dinitrophenyl)ethylenediamine)	7620	VKSXBRRMCBLXTN-UJKKYYSESA-N	37	7.4		pH 7.4, 37C
+1.9	(o-aminobenzoyl)-GFSPFRN-(N-(2,4-dinitrophenyl)ethylenediamine)	7621	WVCBSRFDEBSSQR-UJKKYYSESA-N	37	7.4		pH 7.4, 37C
+1.1	(o-aminobenzoyl)-GFSPFRE-(N-(2,4-dinitrophenyl)ethylenediamine)	11597	KHLJFYCWFUXJDK-BBYQVZDBSA-N	37	7.4		pH 7.4, 37C
+3.3	(o-aminobenzoyl)-GGFLRRRQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11598	VRZGTSMJNDOFHC-LGMGHNKLSA-N	37	7.4		pH 7.4. 37C, cleavage of the R-R bond
+1.8	(o-aminobenzoyl)-GGFLRRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11599	MZHYOFGTHQAIQY-YTQXEMMKSA-N	37	7.4		pH 7.4. 37C, cleavage of the R-R bond
+3.2	(o-aminobenzoyl)-GGFLRRAQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11600	HVYAGXRHOAMVPO-RKBDHZGZSA-N	37	7.4		pH 7.4. 37C, cleavage of the R-R bond
+1.4	(o-aminobenzoyl)-GGFLRRVQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11601	VIFJPNWTPGDKMG-ZPUHRLEVSA-N	37	7.4		pH 7.4. 37C, cleavage of the R-R bond
+1.1	(o-aminobenzoyl)-GGFLRREQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11602	PKFCALQUNRVDGX-FGAOXFKXSA-N	37	7.4		pH 7.4. 37C, cleavage of the R-R bond
+1	(o-aminobenzoyl)-GGFLRRDQ-(N-(2,4-dinitrophenyl)ethylenediamine)	11603	URCCURJYESXVIL-YJGNPGDASA-N	37	7.4		pH 7.4. 37C, cleavage of the R-R bond
+2	(o-aminobenzoyl)-GGFLRRV-(N-(2,4-dinitrophenyl)ethylenediamine)	11604	KISAGIYLGCVHFL-VAZIJGCMSA-N	37	7.4		pH 7.4. 37C, cleavage of the R-R bond
+1.9	(7-methoxy-coumarin-4-yl)acetyl-RPKPYA-Nva-WMK(2,4-dinitrophenyl)-NH2	12691	PMQNLFGGVGXOSM-BULAGXLTSA-N	37		X	mutant Y610L, 37C
+2.1	(7-methoxy-coumarin-4-yl)acetyl-RPKPYA-Nva-WMK(2,4-dinitrophenyl)-NH2	12691	PMQNLFGGVGXOSM-BULAGXLTSA-N	37			wild-type, 37C
+0.76	(7-methoxy-coumarin-4-yl)acetyl-RPKPVE-Nva-WRK(2,4-dinitrophenyl)-NH2	12692	TVZDWYYXHAIMCR-BKNSPTOHSA-N	37			wild-type, 37C
+1.1	(7-methoxy-coumarin-4-yl)acetyl-RPKPVE-Nva-WRK(2,4-dinitrophenyl)-NH2	12692	TVZDWYYXHAIMCR-BKNSPTOHSA-N	37		X	mutant Y610L, 37C
+1.5	Tyr-Gly-Gly-Phe-Leu-Arg-Arg-Ile-Arg	13827	CZWWJMLXKYUVTQ-VCZUSBFASA-N				
+2.63	(o-aminobenzoyl)-KPRRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	14891	PVAJLHUGSBTCFX-DUGSHLAESA-N	37	8.0		pH 8.0, 37C, hydrolysis of R-R bond
+3	(o-aminobenzoyl)-KPRRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	14891	PVAJLHUGSBTCFX-DUGSHLAESA-N	37	8.0		pH 8.0, 37C, hydrolysis of R-R bond
+1.77	(o-aminobenzoyl)-GGFLPRRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	14892	MLHMETUMAWWDBZ-DRODSASKSA-N	37	8.0		pH 8.0, 37C, hydrolysis of R-R bond
+2.94	(o-aminobenzoyl)-GGFLPRRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	14892	MLHMETUMAWWDBZ-DRODSASKSA-N	37	8.0		pH 8.0, 37C, hydrolysis of R-R bond
+0.00497	(o-aminobenzoyl)-AKPRRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	14893	QFOCUBVRWSERDS-ICJZXESVSA-N	37	8.0		pH 8.0, 37C, hydrolysis of R-R bond
+0.00697	(o-aminobenzoyl)-NAPRRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	14894	ARVVOZQILGUFSP-YRJXDFQMSA-N	37	8.0		pH 8.0, 37C, hydrolysis of R-R bond
+0.00576	(o-aminobenzoyl)-NKARRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	14895	KCSAYXXTRLTQPZ-YNEYNXGLSA-N	37	8.0		pH 8.0, 37C, hydrolysis of R-R bond
+0.00123	(o-aminobenzoyl)-NKPARPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	14896	ZKRSANQPSBQSHR-YNEYNXGLSA-N	37	8.0		pH 8.0, 37C, hydrolysis of R-R bond
+0.014	(o-aminobenzoyl)-NKPRAPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	14897	GPRUPCWPCHEGBF-YNEYNXGLSA-N	37	8.0		pH 8.0, 37C, hydrolysis of R-R bond
+0.00124	(o-aminobenzoyl)-NKPRRAQ-(N-(2,4-dinitrophenyl)ethylenediamine)	14898	UFTVIWIQZRQSGN-MMEYEERCSA-N	37	8.0		pH 8.0, 37C, hydrolysis of R-R bond
+3.8	(o-aminobenzoyl)-LYENKPRRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	14888	KEQNRDIBCCEWSM-CXLWOFLVSA-N	37	8.0		pH 8.0, 37C, hydrolysis of R-R bond
+1.35	(o-aminobenzoyl)-ENKPRRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	14889	BXDPMMGHOLVTNP-BXXNOCLASA-N	37	8.0		pH 8.0, 37C, hydrolysis of R-R bond
+7	(o-aminobenzoyl)-NKPRRPQ-(N-(2,4-dinitrophenyl)ethylenediamine)	14890	PSCICUKLGNGUHP-ZTYVOHGWSA-N	37	8.0		pH 8.0, 37C, hydrolysis of R-R bond

@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.967	10-formyltetrahydrofolate	445	AUFGTPPARQZWDO-YUZLPWPTSA-N				
+1	10-formyltetrahydrofolate	445	AUFGTPPARQZWDO-YUZLPWPTSA-N				
+97	10-formyltetrahydrofolate	445	AUFGTPPARQZWDO-YUZLPWPTSA-N	30			30C, pH not specified in the publication, full-length recombinant enzyme
+0.867	10-formyltetrahydropteroylpentaglutamate	21703	FOEMHATXYKEYGL-FITOHQFISA-N				with excess substrate, reaction cycle in combination with C1-tetrahydrofolate synthase, lower value than for dehydrogenase alone
+0.9	10-formyltetrahydropteroylpentaglutamate	21703	FOEMHATXYKEYGL-FITOHQFISA-N	30			at 30C

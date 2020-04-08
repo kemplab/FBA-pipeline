@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.017	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	8.0		in the presence of 20 mM phosphonoacetic acid, at 25C, 50 mM Tris-HCl, pH 8.0, 5 mM MgCl2
+0.017	Phosphonoacetic acid	1993	XUYJLQHKOGNDPB-UHFFFAOYSA-N				
+0.024	Orotidine	2998	FKCRAVPPBFWEJD-XVFCMESISA-N				
+0.024	Orotidine	2998	FKCRAVPPBFWEJD-XVFCMESISA-N	25	8.0		pH 8.0, 25C
+0.1	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	8.0		in the presence of 1 mM diphosphate, at 25C, 50 mM Tris-HCl, pH 8.0, 5 mM MgCl2

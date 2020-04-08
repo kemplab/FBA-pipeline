@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00012	all-trans-retinal	626	NCYCYZXNIZJOKI-OVSJKPMPSA-N	37			37C
+0.18	all-trans-retinal	626	NCYCYZXNIZJOKI-OVSJKPMPSA-N				wild-type
+0.21	all-trans-retinal	626	NCYCYZXNIZJOKI-OVSJKPMPSA-N			X	mutant I51N
+0.3	all-trans-retinal	626	NCYCYZXNIZJOKI-OVSJKPMPSA-N				purified recombinant enzyme
+0.4	all-trans-retinal	626	NCYCYZXNIZJOKI-OVSJKPMPSA-N			X	mutant T49M
+0.0006	all-trans-retinol	671	FPIPGXGPPPQFEQ-OVSJKPMPSA-N	37			37C
+0.2	all-trans-retinol	671	FPIPGXGPPPQFEQ-OVSJKPMPSA-N				purified recombinant enzyme

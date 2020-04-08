@@ -1,0 +1,79 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00034	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N		8.5	X	pH 8.5, mutant enzyme D7S
+0.0023	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N		8.5	X	pH 8.5, mutant enzyme E147N
+0.0047	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N		8.5	X	pH 8.5, mutant enzyme E147N
+0.037	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N		8.5	X	pH 8.5, mutant enzyme D7S
+0.045	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	30	8	X	pH 8, 30C, mutant enzyme H186N
+0.056	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N		8.5		pH 8.5, wild-type enzyme
+0.063	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	30	8	X	pH 8, 30C, mutant enzyme D10N
+0.065	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N			X	deletion mutant A75T
+0.068	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	30	8	X	pH 8, 30C, mutant enzyme D10N
+0.08	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N			X	deletion mutant E151T
+0.093	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	30	8	X	pH 8, 30C, mutant enzyme H186N
+0.2	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N				
+0.21	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N		8.5		pH 8.5, wild-type enzyme
+0.41	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N				
+0.41	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				
+0.43	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	25	8.0	X	mutant T76A, at 25C in 50 mM Tris-HCl (pH 8.0), 5 mM NAD+, 0.5 mM iodonitrotetrazolium chloride, 2.5 mM ADP, 20 units of L-glutamate dehydrogenase, 2 units of diaphorase and D-glutamate
+0.49	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N				
+0.56	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N				
+1.05	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				
+1.3	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	25	8.0		wild type enzyme, at 25C in 50 mM Tris-HCl, pH 8.0, 5 mM NAD+, 0.5 mM iodonitrotetrazolium chloride, 2.5 mM ADP, 20 units of L-glutamate dehydrogenase, 2 units of diaphorase and D-glutamate
+1.6	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N				
+1.63	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				
+1.78	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N			X	deletion mutant A75T
+1.8	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N				
+2	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N				
+2.26	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N			X	deletion mutant E151T
+2.4	L-2-aminoadipic acid	1333	OYIFNHCXNCRBQI-BYPYZUCNSA-N		8.0		His-tagged recombinant FnGR, in potassium phosphate buffer (10 mM, pH 8.0)
+3.3	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N				
+3.4	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				
+3.9	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N				
+6.8	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	30	8.0		pH 8.0, 30C
+8.3	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N		8.0		His-tagged recombinant BsGR, in potassium phosphate buffer (10 mM, pH 8.0)
+8.5	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				
+11.73	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N				
+12	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				
+12.16	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				
+13.8	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N		8.0		His-tagged recombinant FnGR, in potassium phosphate buffer (10 mM, pH 8.0)
+15	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N				
+15	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N		8.0	X	His-tagged recombinant BsGR mutant V149A, in potassium phosphate buffer (10 mM, pH 8.0)
+17.4	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N		8.0		recombinant FnGR, in potassium phosphate buffer (10 mM, pH 8.0)
+17.7	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				
+18	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				
+20	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	30	8	X	pH 8, 30C, mutant enzyme D36N
+22	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	30	8	X	pH 8, 30C, mutant enzyme D36N and H152Q
+22	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N		8.0		His-tagged recombinant FnGR, in potassium phosphate buffer (10 mM, pH 8.0)
+25	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				
+26	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N		8.0		recombinant FnGR, in potassium phosphate buffer (10 mM, pH 8.0)
+36.66	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				
+38	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	30	8	X	pH 8, 30C, mutant enzyme H152Q
+38	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				
+43.33	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N				
+63	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N		8.0		His-tagged recombinant BsGR, in potassium phosphate buffer (10 mM, pH 8.0)
+68	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	30	8		pH 8, 30C, wild-type enzyme
+69	D-Glu	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N				
+69	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	30	8		pH 8, 30C, wild-type enzyme
+76	L-Glu	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				
+76	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N		8.0	X	His-tagged recombinant BsGR mutant V149A, in potassium phosphate buffer (10 mM, pH 8.0)
+87	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	25	8.0		wild type enzyme, 50 mM boric acid, 100 mM KCl, 0.2 mM dithiothreitol, pH 8.0, at 25C in the presence of 0.22 microM glutamate racemase
+780	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	25	9.2		recombinant wild type enzyme, reactions are conducted at 25C in the assay mixture that contains 5 mM NAD+, 2.5 mM ADP, 50 mM CHES buffer (pH 9.2), 0.65 mM iodonitrotetrazolium chloride, 37.5 units/ml L-glutamate dehydrogenase, 2 units/ml diaphorase, and 0.05 mM D-glutamate
+2160	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	25	9.2	X	mutant Q86A, reactions are conducted at 25C in the assay mixture that contains 5 mM NAD+, 2.5 mM ADP, 50 mM CHES buffer (pH 9.2), 0.65 mM iodonitrotetrazolium chloride, 37.5 units/ml L-glutamate dehydrogenase, 2 units/ml diaphorase, and 0.05 mM D-glutamate
+2760	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	25	9.2	X	mutant Y221A, reactions are conducted at 25C in the assay mixture that contains 5 mM NAD+, 2.5 mM ADP, 50 mM CHES buffer (pH 9.2), 0.65 mM iodonitrotetrazolium chloride, 37.5 units/ml L-glutamate dehydrogenase, 2 units/ml diaphorase, and 0.05 mM D-glutamate
+3029	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	7.5		pH 7.5, 37C
+5220	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	25	9.2	X	mutant K106A, reactions are conducted at 25C in the assay mixture that contains 5 mM NAD+, 2.5 mM ADP, 50 mM CHES buffer (pH 9.2), 0.65 mM iodonitrotetrazolium chloride, 37.5 units/ml L-glutamate dehydrogenase, 2 units/ml diaphorase, and 0.05 mM D-glutamate
+5980	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	37	7.5		pH 7.5, 37C
+6660	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	25	9.2	X	mutant R214A, reactions are conducted at 25C in the assay mixture that contains 5 mM NAD+, 2.5 mM ADP, 50 mM CHES buffer (pH 9.2), 0.65 mM iodonitrotetrazolium chloride, 37.5 units/ml L-glutamate dehydrogenase, 2 units/ml diaphorase, and 0.05 mM D-glutamate
+7440	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	25	9.2	X	mutant K29A, reactions are conducted at 25C in the assay mixture that contains 5 mM NAD+, 2.5 mM ADP, 50 mM CHES buffer (pH 9.2), 0.65 mM iodonitrotetrazolium chloride, 37.5 units/ml L-glutamate dehydrogenase, 2 units/ml diaphorase, and 0.05 mM D-glutamate
+7560	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	25	9.2	X	mutant R25A, reactions are conducted at 25C in the assay mixture that contains 5 mM NAD+, 2.5 mM ADP, 50 mM CHES buffer (pH 9.2), 0.65 mM iodonitrotetrazolium chloride, 37.5 units/ml L-glutamate dehydrogenase, 2 units/ml diaphorase, and 0.05 mM D-glutamate
+7680	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	25	9.2	X	mutant P99A, reactions are conducted at 25C in the assay mixture that contains 5 mM NAD+, 2.5 mM ADP, 50 mM CHES buffer (pH 9.2), 0.65 mM iodonitrotetrazolium chloride, 37.5 units/ml L-glutamate dehydrogenase, 2 units/ml diaphorase, and 0.05 mM D-glutamate
+7980	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	25	9.2	X	mutant R214A/K106A, reactions are conducted at 25C in the assay mixture that contains 5 mM NAD+, 2.5 mM ADP, 50 mM CHES buffer (pH 9.2), 0.65 mM iodonitrotetrazolium chloride, 37.5 units/ml L-glutamate dehydrogenase, 2 units/ml diaphorase, and 0.05 mM D-glutamate
+116600	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N		8.2		recombinant wild type enzyme, in 10 mM potassium phosphate (pH 8.2) and 0.2 mM dithiothreitol
+144000	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N		8.2	X	mutant Q86A, in 10 mM potassium phosphate (pH 8.2) and 0.2 mM dithiothreitol
+164400	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N		8.2	X	mutant P99A, in 10 mM potassium phosphate (pH 8.2) and 0.2 mM dithiothreitol
+219600	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N		8.2	X	mutant K106A, in 10 mM potassium phosphate (pH 8.2) and 0.2 mM dithiothreitol
+252000	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N		8.2	X	mutant Y221A, in 10 mM potassium phosphate (pH 8.2) and 0.2 mM dithiothreitol
+278400	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N		8.2	X	mutant R214A/K106A, in 10 mM potassium phosphate (pH 8.2) and 0.2 mM dithiothreitol
+294000	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N		8.2	X	mutant R25A, in 10 mM potassium phosphate (pH 8.2) and 0.2 mM dithiothreitol
+306000	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N		8.2	X	mutant K29A, in 10 mM potassium phosphate (pH 8.2) and 0.2 mM dithiothreitol
+355200	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N		8.2	X	mutant R214A, in 10 mM potassium phosphate (pH 8.2) and 0.2 mM dithiothreitol

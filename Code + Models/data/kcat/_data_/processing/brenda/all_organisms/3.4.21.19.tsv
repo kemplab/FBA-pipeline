@@ -1,0 +1,33 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+16.7	succinyl-Ala-Ala-Pro-Glu-p-nitroanilide	4126	GTUBEXCJJGHLMJ-KJWYOANISA-N			X	mutant H199V
+18.3	succinyl-Ala-Ala-Pro-Glu-p-nitroanilide	4126	GTUBEXCJJGHLMJ-KJWYOANISA-N			X	mutant S216A
+21.7	succinyl-Ala-Ala-Pro-Glu-p-nitroanilide	4126	GTUBEXCJJGHLMJ-KJWYOANISA-N			X	mutant H228A
+38.3	succinyl-Ala-Ala-Pro-Glu-p-nitroanilide	4126	GTUBEXCJJGHLMJ-KJWYOANISA-N				wild-type enzyme
+63.3	succinyl-Ala-Ala-Pro-Glu-p-nitroanilide	4126	GTUBEXCJJGHLMJ-KJWYOANISA-N			X	mutant H216G
+6147	Leu-Leu-Glu-4-methylcoumaryl-7-amide	4723	CPKMTHCEWAHMKH-ACRUOGEOSA-N				chimera B,W185, V188, P189
+7681	Leu-Leu-Glu-4-methylcoumaryl-7-amide	4723	CPKMTHCEWAHMKH-ACRUOGEOSA-N				GluSE-P, Y185, V188, P189
+7695	Leu-Leu-Glu-4-methylcoumaryl-7-amide	4723	CPKMTHCEWAHMKH-ACRUOGEOSA-N				GluSE-WP, W185, V188, P189
+8863	Leu-Leu-Glu-4-methylcoumaryl-7-amide	4723	CPKMTHCEWAHMKH-ACRUOGEOSA-N				GluSE-W, W185, V188, D189
+9059	Leu-Leu-Glu-4-methylcoumaryl-7-amide	4723	CPKMTHCEWAHMKH-ACRUOGEOSA-N				GluSE-WAP, W185, A188, P189
+20.8	benzyloxycarbonyl-Ala-Ala-Glu-p-nitroanilide	6319	LXPANUYRGQTONH-FTRWYGJKSA-N				
+40.9	benzyloxycarbonyl-Ala-Ala-Glu-p-nitroanilide	6319	LXPANUYRGQTONH-FTRWYGJKSA-N				
+0.28	benzyloxycarbonyl-Glu-p-nitroanilide	7371	CDEPIDNQWNRDHL-INIZCTEOSA-N				
+0.29	benzyloxycarbonyl-Glu-p-nitroanilide	7371	CDEPIDNQWNRDHL-INIZCTEOSA-N				
+5.6	benzyloxycarbonyl-Ala-Glu-p-nitroanilide	10831	OWYQONJOGVUZME-KSSFIOAISA-N				
+5.9	benzyloxycarbonyl-Ala-Glu-p-nitroanilide	10831	OWYQONJOGVUZME-KSSFIOAISA-N				
+60.9	benzyloxycarbonyl-Ala-Leu-Glu-p-nitroanilide	10832	TWGZTEFBYGENGP-TZYHBYERSA-N				
+131	benzyloxycarbonyl-Ala-Leu-Glu-p-nitroanilide	10832	TWGZTEFBYGENGP-TZYHBYERSA-N				
+22.6	benzyloxycarbonyl-Leu-Glu-p-nitroanilide	10835	XTSUOMBISZFJKA-SFTDATJTSA-N				
+31.4	benzyloxycarbonyl-Leu-Glu-p-nitroanilide	10835	XTSUOMBISZFJKA-SFTDATJTSA-N				
+30.2	benzyloxycarbonyl-Leu-Leu-Glu-p-nitroanilide	10836	ZGRODTSBWSCAFC-GSDHBNRESA-N				
+50.8	benzyloxycarbonyl-Leu-Leu-Glu-p-nitroanilide	10836	ZGRODTSBWSCAFC-GSDHBNRESA-N				
+33.2	benzyloxycarbonyl-Phe-Leu-Glu-p-nitroanilide	10838	NKCYBLOQDDROAO-AWCRTANDSA-N				
+40.9	benzyloxycarbonyl-Phe-Leu-Glu-p-nitroanilide	10838	NKCYBLOQDDROAO-AWCRTANDSA-N				
+0.16	t-butyloxycarbonyl-Ala-Ala-Asp-p-nitroanilide	10888	TYYPGAJVJMVNJT-XEZPLFJOSA-N				
+0.54	t-butyloxycarbonyl-Ala-Ala-Asp-p-nitroanilide	10888	TYYPGAJVJMVNJT-XEZPLFJOSA-N				
+11.9	t-butyloxycarbonyl-Ala-Ala-Glu-p-nitroanilide	10889	ASYXLQLCMCSBQW-ZQIUZPCESA-N				
+24	t-butyloxycarbonyl-Ala-Ala-Glu-p-nitroanilide	10889	ASYXLQLCMCSBQW-ZQIUZPCESA-N				
+0.027	benzyloxycarbonyl-L-Ala-L-Ala-L-Leu-L-Glu-4-nitroanilide	12017	DERNJRXTSNAIAA-SSIXMMAVSA-N	37	8.5	X	mutant H186T, pH 8.5, 37C
+16.6	benzyloxycarbonyl-L-Ala-L-Ala-L-Leu-L-Glu-4-nitroanilide	12017	DERNJRXTSNAIAA-SSIXMMAVSA-N	37	8.5		wild-type, pH 8.5, 37C
+81	benzyloxycarbonyl-Glu-4-nitroanilide	7371	CDEPIDNQWNRDHL-INIZCTEOSA-N		8.5		pH 8.5
+44.4	L-Phe-L-Leu-L-Glu-4-nitroanilide	114620	LCFQVZJMQMWHRN-FKBYEOEOSA-N				pH and temperature not specified in the publication

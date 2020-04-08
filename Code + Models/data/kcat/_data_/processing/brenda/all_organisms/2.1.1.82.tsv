@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.064	kaempferol	341	IYRMWMYZSQPJKC-UHFFFAOYSA-N	37	7.5		wild type enzyme, in 10 mM Tris/HCl buffer (pH 7.5), at 37C
+0.064	quercetin	131	REFJWTPEDVJJIY-UHFFFAOYSA-N	37	7.5	X	mutant enzyme D257G, in 10 mM Tris/HCl buffer (pH 7.5), at 37C
+0.07	kaempferol	341	IYRMWMYZSQPJKC-UHFFFAOYSA-N	37	7.5	X	mutant enzyme D257G, in 10 mM Tris/HCl buffer (pH 7.5), at 37C
+0.071	quercetin	131	REFJWTPEDVJJIY-UHFFFAOYSA-N	37	7.5		wild type enzyme, in 10 mM Tris/HCl buffer (pH 7.5), at 37C

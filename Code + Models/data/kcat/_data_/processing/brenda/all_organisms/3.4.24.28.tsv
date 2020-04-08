@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+64	3-(2-furylacryloyl)-L-alanyl-L-phenylalanine amide	11611	IALVRPKNGOHYGE-AULVFQMTSA-N	37	7.5		pH 7.5, 37C, wild-type
+99	3-(2-furylacryloyl)-L-alanyl-L-phenylalanine amide	11611	IALVRPKNGOHYGE-AULVFQMTSA-N	37	7.5	X	pH 7.5, 37C, mutant I157D
+80	3-(2-furylacryloyl)-glycyl-L-leucine amide	11612	JRGRHYPAYAJGAF-FYJFLYSWSA-N	37	7.5	X	pH 7.5, 37C, mutant I157D
+256	3-(2-furylacryloyl)-glycyl-L-leucine amide	11612	JRGRHYPAYAJGAF-FYJFLYSWSA-N	37	7.5		pH 7.5, 37C, wild-type

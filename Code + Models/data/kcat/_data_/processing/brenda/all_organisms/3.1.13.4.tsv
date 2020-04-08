@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.02	Poly(A)	1265	YRIJWKUDYVHEAC-UHFFFAOYSA-N				
+0.65	Poly(A)	1265	YRIJWKUDYVHEAC-UHFFFAOYSA-N		7.0		residues 1-446 with the deletion of the R3H domain, pH 7.0, temperature not specified in the publication
+1.1	Poly(A)	1265	YRIJWKUDYVHEAC-UHFFFAOYSA-N		7.0		residues 1-520 with the deletion of the R3H domain, pH 7.0, temperature not specified in the publication
+5.6	Poly(A)	1265	YRIJWKUDYVHEAC-UHFFFAOYSA-N		7.0		N-terminal fragment residues 1-446, pH 7.0, temperature not specified in the publication
+7.6	Poly(A)	1265	YRIJWKUDYVHEAC-UHFFFAOYSA-N		7.0		N-terminal fragment residues 1-520, pH 7.0, temperature not specified in the publication

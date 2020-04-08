@@ -1,0 +1,51 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000076	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5	X	mutant F64P, pH 7.5, 25C
+0.00001	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5	X	below, mutant F64P, pH 7.5, 25C
+0.000046	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5	X	mutant G113N, pH 7.5, 25C
+0.00015	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme E232G
+0.0002	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5	X	multiple turnovers, mutant H90Q, pH 7.5, 25C
+0.00045	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5	X	mutant G113S, pH 7.5, 25C
+0.002	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5	X	mutant G114A, pH 7.5, 25C
+0.005	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5	X	mutant G113A, pH 7.5, 25C
+0.008	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5	X	mutant G113A, pH 7.5, 25C
+0.016	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5	X	single turnover, mutant H90Q, pH 7.5, 25C
+0.03	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5	X	mutant F64A, pH 7.5, 25C
+0.13	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5	X	mutant A112V, pH 7.5, 25C
+0.14	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5	X	mutant R257L, pH 7.5, 25C
+0.3	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N				
+0.33	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5	X	mutant R24L, pH 7.5, 25C
+0.38	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5	X	mutant R67K, pH 7.5, 25C
+0.44	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5	X	mutant Y65D, pH 7.5, 25C
+0.55	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5	X	mutant R257K, pH 7.5, 25C
+0.6	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5		wild-type enzyme, pH 7.5, 25C
+0.6	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5		wild-type enzyme, pH 7.5, 25C
+0.6	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+0.7	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5		multiple turnovers, wild-type enzyme, pH 7.5, 25C
+0.95	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5	X	mutant R24K, pH 7.5, 25C
+1	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	30	7.5		30C, pH 7.5
+1.3	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N				
+2.3	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25	7.5		single turnover, wild-type enzyme, pH 7.5, 25C
+5	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N				
+0.003	4-fluorobenzoyl-CoA	4363	ORILDBXADZMSHG-TYHXJLICSA-N				
+1.4	4-bromobenzoyl-CoA	6084	ZOGDCJZPJVBGQV-TYHXJLICSA-N				
+1.4	4-bromobenzoyl-CoA	6084	ZOGDCJZPJVBGQV-TYHXJLICSA-N				
+2.4	4-bromobenzoyl-CoA	6084	ZOGDCJZPJVBGQV-TYHXJLICSA-N				
+1.1	4-iodobenzoyl-CoA	6090	AVVQLFMXWCHRDZ-TYHXJLICSA-N				
+1.1	4-iodobenzoyl-CoA	6090	AVVQLFMXWCHRDZ-TYHXJLICSA-N				
+2	4-iodobenzoyl-CoA	6090	AVVQLFMXWCHRDZ-TYHXJLICSA-N				
+0.511	2,4-Dichlorobenzoyl-CoA	7286	MBVYUVNTXZVQRL-TYHXJLICSA-N				
+0.511	2,4-Dichlorobenzoyl-CoA	7286	MBVYUVNTXZVQRL-TYHXJLICSA-N				
+0.052	3,4-dichlorobenzoyl-CoA	10716	RCRYRNMCXZTHLC-TYHXJLICSA-N				
+0.052	3,4-dichlorobenzoyl-CoA	10716	RCRYRNMCXZTHLC-TYHXJLICSA-N				
+0.063	4-chloro-2-nitrobenzoyl-CoA	10722	ASXUVWDTOZHJSG-TYHXJLICSA-N				
+0.063	4-chloro-2-nitrobenzoyl-CoA	10722	ASXUVWDTOZHJSG-TYHXJLICSA-N				
+0.001	4-chlorobenzoyl-pantetheine	11695	DCCCGBOIEGLLGD-UHFFFAOYSA-N	25	7.5		about, wild-type enzyme, pH 7.5, 25C
+0.056	4-chlorobenzoyl-pantetheine	11695	DCCCGBOIEGLLGD-UHFFFAOYSA-N	25	7.5		wild-type enzyme, pH 7.5, 25C, in presence of 1 mM 5'-ADP
+0.6	chlorobenzoyl-CoA	20970	XINUZONNAXAVBH-TYHXJLICSA-N				multiple turnovers
+2	chlorobenzoyl-CoA	20970	XINUZONNAXAVBH-TYHXJLICSA-N				single turnover
+0.45	4-chlorobenzoyl-3'-dephospho-CoA	23173	PELOAOZXESZJOC-ROSQQCMLSA-N	25	7.5		wild-type enzyme, pH 7.5, 25C
+0.007	4-chlorobenzoyl-epsilon-CoA	23174	DEPSOKCZMQPCBI-ROSQQCMLSA-N	25	7.5		wild-type enzyme, pH 7.5, 25C
+0.051	4-chlorobenzoyl-pantetheine phosphate	23175	DPRKWVFQAFZIKK-UHFFFAOYSA-N	25	7.5		wild-type enzyme, pH 7.5, 25C
+0.003	4-chlorobenzoyl-dithio-CoA	23176	YVSFLMMUQYFNMZ-ROSQQCMLSA-N	25	7.5		wild-type enzyme, pH 7.5, 25C
+0.03	4-bromophenacyl-CoA	23177	PHROWVBCOLGDSA-PLJULYFUSA-N	25	7.5		wild-type enzyme, pH 7.5, 25C
+207	2,4,5,6-tetrachloroisophthalonitrile	118747	CRQQGFGUEAVUIL-UHFFFAOYSA-N	50	7.0		pH 7.0, 50C

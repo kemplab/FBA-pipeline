@@ -1,0 +1,19 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0667	reduced acetylpyridine adenine dinucleotide	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N				reverse reaction of wild-type domain III/R. rubrum domain I mixture
+0.1	reduced acetylpyridine adenine dinucleotide	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N	432		X	reverse reaction of A432C mutant domain III/R. rubrum domain I mixture
+0.117	reduced acetylpyridine adenine dinucleotide	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N	393		X	reverse reaction of D393C mutant domain III/R. rubrum domain I mixture
+0.167	reduced acetylpyridine adenine dinucleotide	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N	345		X	reverse reaction of H345C mutant domain III/R. rubrum domain I mixture; reverse reaction of R350C mutant domain III/R. rubrum domain I mixture
+0.283	reduced acetylpyridine adenine dinucleotide	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N	424		X	reverse reaction of K424C mutant domain III/R. rubrum domain I mixture; reverse reaction of R425C mutant domain III/R. rubrum domain I mixture
+0.55	reduced acetylpyridine adenine dinucleotide	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N	348		X	reverse reaction of A348C mutant domain III/R. rubrum domain I mixture
+0.567	reduced acetylpyridine adenine dinucleotide	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N	430		X	reverse reaction of G430C mutant domain III/R. rubrum domain I mixture
+0.917	reduced acetylpyridine adenine dinucleotide	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N	392		X	reverse reaction of D392C mutant domain III/R. rubrum domain I mixture
+10	reduced acetylpyridine adenine dinucleotide	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N	425		X	cyclic reaction of R425C mutant domain III/R. rubrum domain I mixture
+11.7	reduced acetylpyridine adenine dinucleotide	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N	430		X	cyclic reaction of G430C mutant domain III/R. rubrum domain I mixture
+15	reduced acetylpyridine adenine dinucleotide	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N	392		X	cyclic reaction of D392C mutant domain III/R. rubrum domain I mixture
+20.8	reduced acetylpyridine adenine dinucleotide	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N	345		X	cyclic reaction of H345C mutant domain III/R. rubrum domain I mixture
+33.3	reduced acetylpyridine adenine dinucleotide	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N	350		X	cyclic reaction of R350C mutant domain III/R. rubrum domain I mixture
+36.7	reduced acetylpyridine adenine dinucleotide	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N	424		X	cyclic reaction of K424C mutant domain III/R. rubrum domain I mixture
+40	reduced acetylpyridine adenine dinucleotide	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N	393		X	cyclic reaction of D393C mutant domain III/R. rubrum domain I mixture
+51.7	reduced acetylpyridine adenine dinucleotide	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N	432		X	cyclic reaction of A432C mutant domain III/R. rubrum domain I mixture
+55	reduced acetylpyridine adenine dinucleotide	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N	348		X	cyclic reaction of A348C mutant domain III/R. rubrum domain I mixture
+81.7	reduced acetylpyridine adenine dinucleotide	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N				cyclic reaction of wild-type domain III/R. rubrum domain I mixture

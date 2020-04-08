@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000083	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.8	X	mutant enzyme T80A, in 20 mM sodium phosphate buffer (pH 7.8), at 25C
+0.00015	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.8	X	mutant enzyme S158A, in 20 mM sodium phosphate buffer (pH 7.8), at 25C
+0.001	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.8	X	mutant enzyme T80S, in 20 mM sodium phosphate buffer (pH 7.8), at 25C
+0.0012	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.8		wild type enzyme, in 20 mM sodium phosphate buffer (pH 7.8), at 25C
+0.0021	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	26	7.5		pH 7.5, 26C, recombinant enzyme
+0.0023	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	26	7.5		pH 7.5, 26C, recombinant enzyme
+0.074	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				
+0.000012	fluoride	158	KRHYYFGTRYWZRS-UHFFFAOYSA-M	25	7.8	X	mutant enzyme S158G, in 20 mM sodium phosphate buffer (pH 7.8), at 25C
+0.000013	fluoride	158	KRHYYFGTRYWZRS-UHFFFAOYSA-M	25	7.8	X	mutant enzyme S158G, in 20 mM sodium phosphate buffer (pH 7.8), at 25C
+0.000067	fluoride	158	KRHYYFGTRYWZRS-UHFFFAOYSA-M	25	7.8	X	mutant enzyme T80A, in 20 mM sodium phosphate buffer (pH 7.8), at 25C
+0.0001	fluoride	158	KRHYYFGTRYWZRS-UHFFFAOYSA-M	25	7.8	X	mutant enzyme S158A, in 20 mM sodium phosphate buffer (pH 7.8), at 25C
+0.001	fluoride	158	KRHYYFGTRYWZRS-UHFFFAOYSA-M	25	7.8	X	mutant enzyme T80S, in 20 mM sodium phosphate buffer (pH 7.8), at 25C; wild type enzyme, in 20 mM sodium phosphate buffer (pH 7.8), at 25C
+0.0012	fluoride	158	KRHYYFGTRYWZRS-UHFFFAOYSA-M				
+0.0012	fluoride	158	KRHYYFGTRYWZRS-UHFFFAOYSA-M	26	7.5		pH 7.5, 26C, recombinant enzyme
+0.0018	fluoride	158	KRHYYFGTRYWZRS-UHFFFAOYSA-M	26	7.5		pH 7.5, 26C, recombinant enzyme
+2	fluoride	158	KRHYYFGTRYWZRS-UHFFFAOYSA-M				

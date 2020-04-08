@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1200	UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucopyranose	19497	FUUMLYWEEZBCQR-UINYWEPJSA-N	25	7.4	X	mutant H210F, pH 7.4, 25C
+1900	UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucopyranose	19497	FUUMLYWEEZBCQR-UINYWEPJSA-N	25	7.4	X	mutant Q174A, pH 7.4, 25C
+3000	UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucopyranose	19497	FUUMLYWEEZBCQR-UINYWEPJSA-N	25	7.4	X	mutant Q370A, pH 7.4, 25C
+3600	UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucopyranose	19497	FUUMLYWEEZBCQR-UINYWEPJSA-N	25	7.4	X	mutant D332A, pH 7.4, 25C
+5600	UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucopyranose	19497	FUUMLYWEEZBCQR-UINYWEPJSA-N	25	7.4	X	mutant Q369A, pH 7.4, 25C
+8050	UDP-4-amino-4,6-dideoxy-N-acetyl-alpha-D-glucosamine	19497	FUUMLYWEEZBCQR-UINYWEPJSA-N	37	7.7		at 37C, pH 7.7
+72000	UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucopyranose	19497	FUUMLYWEEZBCQR-UINYWEPJSA-N	25	7.4		wild-type, pH 7.4, 25C
+82000	UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucopyranose	19497	FUUMLYWEEZBCQR-UINYWEPJSA-N	25	7.4	X	mutant F13A, pH 7.4, 25C
+330000	UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucopyranose	19497	FUUMLYWEEZBCQR-UINYWEPJSA-N	25	7.4	X	mutant T176A, pH 7.4, 25C
+510000	UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucopyranose	19497	FUUMLYWEEZBCQR-UINYWEPJSA-N	25	7.4		wild-type, pH 7.4, 25C

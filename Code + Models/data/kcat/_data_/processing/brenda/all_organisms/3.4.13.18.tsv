@@ -1,0 +1,41 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.2	Gly-Pro-p-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N			X	mutant enzyme F822A
+1.4	Gly-Pro-p-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N			X	mutant enzyme H859A
+25	Gly-Pro-p-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N				wild type enzyme
+62	Gly-Pro-p-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N				
+1190	Ala-Leu	1808	RDIKFPRVLJLMER-BQBZGAKWSA-N				phosphate buffer
+6510	Ala-Leu	1808	RDIKFPRVLJLMER-BQBZGAKWSA-N				Tris buffer
+8190	Gly-Phe	1821	JBCLFWXMTIKCCB-VIFPVBQESA-N				phosphate buffer
+20400	Gly-Phe	1821	JBCLFWXMTIKCCB-VIFPVBQESA-N				phosphate buffer
+0.2	Ala-Pro-p-nitroanilide	2311	WUOZBACYMYYTOQ-CABZTGNLSA-N			X	mutant enzyme F822A; mutant enzyme Y844A
+1	Ala-Pro-p-nitroanilide	2311	WUOZBACYMYYTOQ-CABZTGNLSA-N			X	mutant enzyme V833A
+8	Ala-Pro-p-nitroanilide	2311	WUOZBACYMYYTOQ-CABZTGNLSA-N			X	mutant enzyme H859A
+22	Ala-Pro-p-nitroanilide	2311	WUOZBACYMYYTOQ-CABZTGNLSA-N				wild type enzyme
+40	Ala-Pro-p-nitroanilide	2311	WUOZBACYMYYTOQ-CABZTGNLSA-N				
+10900	Gly-Leu	2580	DKEXFJVMVGETOO-LURJTMIESA-N				phosphate buffer
+23100	Gly-Leu	2580	DKEXFJVMVGETOO-LURJTMIESA-N				Tris buffer
+0.4	Arg-Pro-p-nitroanilide	3238	HQLQJFYQCVRVSJ-KBPBESRZSA-N			X	mutant enzyme F822A
+1.2	Arg-Pro-p-nitroanilide	3238	HQLQJFYQCVRVSJ-KBPBESRZSA-N			X	mutant enzyme H859A
+12.8	Arg-Pro-p-nitroanilide	3238	HQLQJFYQCVRVSJ-KBPBESRZSA-N				
+14	Arg-Pro-p-nitroanilide	3238	HQLQJFYQCVRVSJ-KBPBESRZSA-N				wild type enzyme
+0.3	Met-Pro-p-nitroanilide	3240	FIOLVCMBUYQDEJ-KBPBESRZSA-N			X	mutant enzyme F822A
+3	Met-Pro-p-nitroanilide	3240	FIOLVCMBUYQDEJ-KBPBESRZSA-N			X	mutant enzyme H859A
+15	Met-Pro-p-nitroanilide	3240	FIOLVCMBUYQDEJ-KBPBESRZSA-N				wild type enzyme
+0.2	Lys-Pro-p-nitroanilide	3397	SGOKFEWVODKABL-GJZGRUSLSA-N			X	mutant enzyme F822A
+2.4	Lys-Pro-p-nitroanilide	3397	SGOKFEWVODKABL-GJZGRUSLSA-N			X	mutant enzyme H859A
+3.2	Lys-Pro-p-nitroanilide	3397	SGOKFEWVODKABL-GJZGRUSLSA-N				wild type enzyme
+43.3	Ala-Gly	4041	CXISPYVYMQWFLE-VKHMYHEASA-N				
+0.1	Ser-Pro-p-nitroanilide	26419	OQKIUDMQNPMZAC-RYUDHWBXSA-N			X	mutant enzyme F822A
+13	Ser-Pro-p-nitroanilide	26419	OQKIUDMQNPMZAC-RYUDHWBXSA-N			X	mutant enzyme H859A
+19	Ser-Pro-p-nitroanilide	26419	OQKIUDMQNPMZAC-RYUDHWBXSA-N				wild type enzyme
+0.9	Asp-Pro-p-nitroanilide	6494	XOJCPCPXSLLQGF-RYUDHWBXSA-N				wild type enzyme
+1.6	Asp-Pro-p-nitroanilide	6494	XOJCPCPXSLLQGF-RYUDHWBXSA-N				
+0.1	Leu-Pro-p-nitroanilide	7946	NRWJPDWEPNEFIL-GJZGRUSLSA-N			X	mutant enzyme F822A
+3.8	Leu-Pro-p-nitroanilide	7946	NRWJPDWEPNEFIL-GJZGRUSLSA-N			X	mutant enzyme H859A
+7	Leu-Pro-p-nitroanilide	7946	NRWJPDWEPNEFIL-GJZGRUSLSA-N				wild type enzyme
+10700	Gly-Ile	8390	KGVHCTWYMPWEGN-FSPLSTOPSA-N				phosphate buffer
+23000	Gly-Ile	8390	KGVHCTWYMPWEGN-FSPLSTOPSA-N				Tris buffer
+7450	Gly-Val	8393	STKYPAFSDFAEPH-LURJTMIESA-N				phosphate buffer
+21400	Gly-Val	8393	STKYPAFSDFAEPH-LURJTMIESA-N				Tris buffer
+33300	Ala-Ile	13273	ZSOICJZJSRWNHX-ACZMJKKPSA-N				
+0.7	Ala-Ala-p-nitroanilide	7121	DGJXYQXDZRCZAS-YUMQZZPRSA-N				

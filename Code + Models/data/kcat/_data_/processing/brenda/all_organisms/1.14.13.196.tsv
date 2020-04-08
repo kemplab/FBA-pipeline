@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.03	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	25	7.6	X	pH 7.6, 25C, mutant enzyme S257A, cofactor: NADPH; pH 7.6, 25C, wild-type enzyme, cofactor: NADPH
+0.48	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	25	7.5		pH 7.5, 25C, cosubstrate: NADPH, following the formation of hydroxylated ornithine
+0.5	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	25	7.5		pH 7.5, 25C, cosubstrate: NADH, following the formation of hydroxylated ornithine
+0.6	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.5		pH 7.5, temperature not specified in the publication
+0.6	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.6		pH 7.6, 25C, wild-type enzyme
+0.63	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.5		pH 7.5, 25C, oxygen consumption assay
+0.68	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	25	7.5		pH 7.5, 25C, cosubstrate: NADH, oxygen consumption assay
+0.73	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.5		pH 7.5, temperature not specified in the publication
+0.85	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.6	X	pH 7.6, 25C, mutant enzyme S257A
+0.87	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	25	7.5		pH 7.5, 25C, cosubstrate: NADPH, oxygen consumption assay
+1.18	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.5		pH 7.5, 25C, following the formation of hydroxylated ornithine
+1.25	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.5		pH 7.5, 25C, following the formation of hydroxylated ornithine
+1.36	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.5		pH 7.5, 25C, oxygen consumption assay

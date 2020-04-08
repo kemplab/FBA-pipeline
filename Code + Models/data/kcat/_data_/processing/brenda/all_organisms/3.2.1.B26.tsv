@@ -1,0 +1,146 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.004	4-methylumbelliferyl beta-D-galacturonate	109261	ARQXEQLMMNGFDU-SQCNAZHOSA-N	45	6.5	X	pH 6.5, 45C, mutant enzyme E432C; pH 6.5, 45C, mutant enzyme W433C
+0.018	4-methylumbelliferyl beta-D-glucoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	45	6.5	X	pH 6.5, 45C, mutant enzyme E432C
+0.018	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	45	6.5	X	pH 6.5 (50 mM phosphate), 45C, mutant enzyme E432C
+0.028	4-methylumbelliferyl beta-D-xyloside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	45	6.5	X	pH 6.5, 45C, mutant enzyme E432C
+0.028	4-nitrophenyl beta-D-xyloside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	45	6.5	X	pH 6.5 (50 mM phosphate), 45C, mutant enzyme E432C
+0.047	4-methylumbelliferyl beta-D-galactoside	2338	YUDPTGPSBJVHCN-DZQJYWQESA-N	45	6.5	X	pH 6.5, 45C, mutant enzyme E432C
+0.047	4-nitrophenyl beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	45	6.5	X	pH 6.5 (50 mM phosphate), 45C, mutant enzyme E432C
+0.08	4-methylumbelliferyl beta-D-galactoside	2338	YUDPTGPSBJVHCN-DZQJYWQESA-N	45	6.5	X	pH 6.5, 45C, mutant enzyme W433C
+0.08	4-nitrophenyl beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	45	6.5	X	pH 6.5 (50 mM phosphate), 45C, mutant enzyme W433C
+0.8	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	65	5.5		pH 5.5, 65C
+0.81	4-methylumbelliferyl beta-D-galacturonate	109261	ARQXEQLMMNGFDU-SQCNAZHOSA-N	80	6.5		pH 6.5, 80C, wild-type enzyme
+0.81	4-methylumbelliferyl beta-D-glucuronic acid	41801	ARQXEQLMMNGFDU-JHZZJYKESA-N	80	6.5		pH 6.5, 80C, wild-type enzyme
+0.81	4-methylumbelliferyl beta-D-glucuronide	2963	ARQXEQLMMNGFDU-UHFFFAOYSA-N	80	6.5		pH 6.5 (50 mM phosphate), 80C, wild-type enzyme
+0.92	4-methylumbelliferyl beta-D-mannopyranoside	2681	YUDPTGPSBJVHCN-NZBFACKJSA-N	80	6.5	X	pH 6.5, 80C, mutant enzyme W433C
+0.92	4-methylumbelliferyl beta-D-mannoside	2681	YUDPTGPSBJVHCN-NZBFACKJSA-N	80	6.5	X	pH 6.5 (50 mM phosphate), 80C, mutant enzyme W433C; pH 6.5, 80C, mutant enzyme W433C
+1.2	4-methylumbelliferyl-beta-D-glucopyranoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	65	5.5		pH 5.5, 65C
+1.3	4-methylumbelliferyl beta-D-glucuronic acid	41801	ARQXEQLMMNGFDU-JHZZJYKESA-N	80	6.5	X	pH 6.5, 80C, mutant enzyme M439C
+1.5	4-methylumbelliferyl beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	80	6.5	X	pH 6.5, 80C, mutant enzyme W433C
+1.5	4-methylumbelliferyl beta-D-xyloside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	80	6.5	X	pH 6.5 (50 mM phosphate), 80C, mutant enzyme W433C; pH 6.5, 80C, mutant enzyme W433C
+1.8	4-methylumbelliferyl beta-D-mannopyranoside	2681	YUDPTGPSBJVHCN-NZBFACKJSA-N	80	6.5		pH 6.5, 80C, wild-type enzyme
+1.8	4-methylumbelliferyl beta-D-mannoside	2681	YUDPTGPSBJVHCN-NZBFACKJSA-N	80	6.5		pH 6.5 (50 mM phosphate), 80C, wild-type enzyme; pH 6.5, 80C, wild-type enzyme
+2.3	4-methylumbelliferyl beta-D-mannopyranoside	2681	YUDPTGPSBJVHCN-NZBFACKJSA-N	80	6.5	X	pH 6.5, 80C, mutant enzyme M439C
+2.65	4-methylumbelliferyl beta-D-mannoside	2681	YUDPTGPSBJVHCN-NZBFACKJSA-N	45	6.5		pH 6.5, 45C, wild-type enzyme
+2.65	4-nitrophenyl beta-D-mannoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	45	6.5		pH 6.5 (50 mM phosphate), 45C, wild-type enzyme
+2.72	4-methylumbelliferyl beta-D-glucoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	45	6.5	X	pH 6.5, 45C, mutant enzyme W433C
+2.72	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	45	6.5	X	pH 6.5 (50 mM phosphate), 45C, mutant enzyme W433C
+2.8	4-methylumbelliferyl beta-D-mannopyranoside	2681	YUDPTGPSBJVHCN-NZBFACKJSA-N	80	6.5	X	pH 6.5, 80C, mutant enzyme E432C
+2.8	4-methylumbelliferyl beta-D-mannoside	2681	YUDPTGPSBJVHCN-NZBFACKJSA-N	80	6.5	X	pH 6.5 (50 mM phosphate), 80C, mutant enzyme E432C; pH 6.5, 80C, mutant enzyme E432C
+2.8	4-methylumbelliferyl beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	80	6.5	X	pH 6.5, 80C, mutant enzyme E432C
+2.8	4-methylumbelliferyl beta-D-xyloside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	80	6.5	X	pH 6.5 (50 mM phosphate), 80C, mutant enzyme E432C; pH 6.5, 80C, mutant enzyme E432C
+3.8	4-methylumbelliferyl beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	80	6.5		pH 6.5, 80C, wild-type enzyme
+3.8	4-methylumbelliferyl beta-D-xyloside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	80	6.5		pH 6.5 (50 mM phosphate), 80C, wild-type enzyme; pH 6.5, 80C, wild-type enzyme
+3.95	4-methylumbelliferyl beta-D-xyloside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	45	6.5		pH 6.5, 45C, wild-type enzyme
+3.95	4-nitrophenyl beta-D-xyloside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	45	6.5		pH 6.5 (50 mM phosphate), 45C, wild-type enzyme
+4.2	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	6.5		pH 6.5, 37C
+4.3	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	65	5.5		pH 5.5, 65C
+4.35	4-methylumbelliferyl beta-D-glucoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	45	6.5		pH 6.5, 45C, wild-type enzyme
+4.35	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	45	6.5		pH 6.5 (50 mM phosphate), 45C, wild-type enzyme
+4.4	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	65	6.5	X	pH 6.5, 65C, mutant enzyme E206Q
+4.5	2-Nitrophenyl beta-D-glucoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	65	6.5	X	pH 6.5, 65C, mutant enzyme E206Q
+4.7	2-Nitrophenyl-beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	65	5.5		pH 5.5, 65C
+4.9	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	65	5.5		pH 5.5, 65C
+5.1	4-methylumbelliferyl beta-D-glucopyranoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	80	6.5	X	pH 6.5, 80C, mutant enzyme E432C
+5.1	4-methylumbelliferyl beta-D-glucoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	80	6.5	X	pH 6.5 (50 mM phosphate), 80C, mutant enzyme E432C; pH 6.5, 80C, mutant enzyme E432C
+5.16	4-methylumbelliferyl beta-D-fucoside	2948	CQKHENXHLAUMBH-OSLYUKSHSA-N	45	6.5		pH 6.5, 45C, wild-type enzyme
+5.16	4-nitrophenyl beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	45	6.5		pH 6.5 (50 mM phosphate), 45C, wild-type enzyme
+5.4	4-methylumbelliferyl beta-D-galactopyranoside	2338	YUDPTGPSBJVHCN-DZQJYWQESA-N	80	6.5	X	pH 6.5, 80C, mutant enzyme E432C
+5.4	4-methylumbelliferyl beta-D-galactoside	2338	YUDPTGPSBJVHCN-DZQJYWQESA-N	80	6.5	X	pH 6.5 (50 mM phosphate), 80C, mutant enzyme E432C; pH 6.5, 80C, mutant enzyme E432C
+6.6	methyl beta-D-galactoside	5019	HOVAGTYPODGVJG-VOQCIKJUSA-N	80	7.5		release of methanol, pH 7.5, 80C
+7.2	4-methylumbelliferyl beta-D-galactoside	2338	YUDPTGPSBJVHCN-DZQJYWQESA-N	45	6.5		pH 6.5, 45C, wild-type enzyme
+7.2	4-nitrophenyl beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	45	6.5		pH 6.5 (50 mM phosphate), 45C, wild-type enzyme
+9.3	4-methylumbelliferyl beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	80	6.5	X	pH 6.5, 80C, mutant enzyme M439C
+9.43	4-methylumbelliferyl beta-D-fucoside	2948	CQKHENXHLAUMBH-OSLYUKSHSA-N	45	6.5	X	pH 6.5, 45C, mutant enzyme W433C
+9.43	4-nitrophenyl beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	45	6.5	X	pH 6.5 (50 mM phosphate), 45C, mutant enzyme W433C
+14	4-methylumbelliferyl beta-D-galactopyranoside	2338	YUDPTGPSBJVHCN-DZQJYWQESA-N	80	6.5	X	pH 6.5, 80C, mutant enzyme W433C
+14.6	4-methylumbelliferyl beta-D-galactoside	2338	YUDPTGPSBJVHCN-DZQJYWQESA-N	80	6.5	X	pH 6.5 (50 mM phosphate), 80C, mutant enzyme W433C; pH 6.5, 80C, mutant enzyme W433C
+18	4-methylumbelliferyl beta-D-fucopyranoside	109237	CQKHENXHLAUMBH-NXPHAWEXSA-N	80	6.5	X	pH 6.5, 80C, mutant enzyme E432C
+18	4-methylumbelliferyl beta-D-fucoside	2948	CQKHENXHLAUMBH-OSLYUKSHSA-N	80	6.5	X	pH 6.5 (50 mM phosphate), 80C, mutant enzyme E432C; pH 6.5, 80C, mutant enzyme E432C
+20.7	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	65	6.0	X	mutant E387G, pH 6.0, 65C
+23.2	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	70	5.0		pH 5.0, 70C
+31	4-methylumbelliferyl beta-D-fucopyranoside	109237	CQKHENXHLAUMBH-NXPHAWEXSA-N	80	6.5	X	pH 6.5, 80C, mutant enzyme W433C
+31	4-methylumbelliferyl beta-D-fucoside	2948	CQKHENXHLAUMBH-OSLYUKSHSA-N	80	6.5	X	pH 6.5 (50 mM phosphate), 80C, mutant enzyme W433C; pH 6.5, 80C, mutant enzyme W433C
+31	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	65	6.5	X	pH 6.5, 65C, mutant enzyme E206Q
+33	4-methylumbelliferyl beta-D-glucopyranoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	80	6.5	X	pH 6.5, 80C, mutant enzyme W433C
+33	4-methylumbelliferyl beta-D-glucoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	80	6.5	X	pH 6.5 (50 mM phosphate), 80C, mutant enzyme W433C; pH 6.5, 80C, mutant enzyme W433C
+34	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	65	6.5	X	pH 6.5, 65C, mutant enzyme E206Q
+35	4-nitrophenyl beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	65	6.5	X	pH 6.5, 65C, mutant enzyme E206Q
+45	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	70	5.0		pH 5.0, 70C
+52.9	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	65	5.0	X	mutant E387G, pH 5.0, 65C
+56	4-nitrophenyl beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30	5.4		pH 5.4, 30C
+72.9	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	65	6.5	X	mutant E387G, pH 6.5, 65C, presence of 2 M formate
+80	4-methylumbelliferyl beta-D-fucopyranoside	109237	CQKHENXHLAUMBH-NXPHAWEXSA-N	80	6.5		pH 6.5, 80C, wild-type enzyme
+80	4-methylumbelliferyl beta-D-fucoside	2948	CQKHENXHLAUMBH-OSLYUKSHSA-N	80	6.5		pH 6.5 (50 mM phosphate), 80C, wild-type enzyme
+89	4-methylumbelliferyl beta-D-fucoside	2948	CQKHENXHLAUMBH-OSLYUKSHSA-N	80	6.5		pH 6.5, 80C, wild-type enzyme
+91	4-methylumbelliferyl beta-D-fucopyranoside	109237	CQKHENXHLAUMBH-NXPHAWEXSA-N	80	6.5	X	pH 6.5, 80C, mutant enzyme M439C
+94	4-methylumbelliferyl beta-D-galactopyranoside	2338	YUDPTGPSBJVHCN-DZQJYWQESA-N	80	6.5	X	pH 6.5, 80C, mutant enzyme M439C
+98	4-methylumbelliferyl beta-D-galactopyranoside	2338	YUDPTGPSBJVHCN-DZQJYWQESA-N	80	6.5		pH 6.5, 80C, wild-type enzyme
+98	4-methylumbelliferyl beta-D-galactoside	2338	YUDPTGPSBJVHCN-DZQJYWQESA-N	80	6.5		pH 6.5 (50 mM phosphate), 80C, wild-type enzyme; pH 6.5, 80C, wild-type enzyme
+121	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	70	5.0		pH 5.0, 70C
+140	4-methylumbelliferyl beta-D-glucopyranoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	80	6.5		pH 6.5, 80C, wild-type enzyme
+140	4-methylumbelliferyl beta-D-glucoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	80	6.5		pH 6.5 (50 mM phosphate), 80C, wild-type enzyme; pH 6.5, 80C, wild-type enzyme
+143	4-nitrophenyl beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	40	5.4		pH 5.4, 40C
+165	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	70	5.0		pH 5.0, 70C
+190	4-methylumbelliferyl beta-D-glucopyranoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	80	6.5	X	pH 6.5, 80C, mutant enzyme M439C
+240	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	65	6.5		pH 6.5, 65C, wild-type enzyme
+252	2-Nitrophenyl beta-D-glucoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	65	6.5		pH 6.5, 65C, wild-type enzyme
+263	4-nitrophenyl beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	65	6.5		pH 6.5, 65C, wild-type enzyme
+274	oleuropein	6912	RFWGABANNQMHMZ-PYQDGUMHSA-N	60	7.0		pH 7.0, 60C, soluble enzyme
+275	2,4-dinitrophenyl beta-D-glucopyranoside	5095	XAJUPNGKLHFUED-RMPHRYRLSA-N	65	6.5		pH 6.5, 65C, wild-type enzyme
+275	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	65	6.5		pH 6.5, 65C, wild-type enzyme
+293	4-nitrophenyl beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	50	5.4		pH 5.4, 50C
+295	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	65	6.5		pH 6.5, 65C, wild-type enzyme
+309	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	65	6.5		wild-type, pH 6.5, 65C
+321.9	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	65	4.0	X	mutant E387G, pH 4.0, 65C
+350.8	oleuropein	6912	RFWGABANNQMHMZ-PYQDGUMHSA-N	70	7.0		pH 7.0, 70C, soluble enzyme
+366	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	65	6.5	X	pH 6.5, 65C, mutant enzyme delVal484-His489
+416	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	65	6.5	X	pH 6.5, 65C, mutant enzyme His489
+427	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	65	6.5	X	pH 6.5, 65C, mutant enzyme R488A
+427	4-nitrophenyl beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N				pH and temperature not specified in the publication, recombinant enzyme
+439.8	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	65	6.5		wild-type, pH 6.5, 65C, presence of 2 M formate
+445.6	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	75	7.5		pH 7.5, 75C
+448	4-nitrophenyl cellobioside	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	75	6.5		pH 6.5, 75C, recombinant enzyme
+460	4-nitrophenyl beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N				pH and temperature not specified in the publication, native enzyme
+462	4-nitrophenyl beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	60	6.5		pH 6.5, 60C
+498	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	65	6.5		pH 6.5, 65C, wild-type enzyme
+503	4-nitrophenyl beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	75	6.5		pH 6.5, 75C, recombinant enzyme
+503	4-nitrophenyl cellobioside	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	75	6.5		pH 6.5, 75C, wild-type enzyme
+524	laminaribiose	690	QIGJYVCQYDKYDW-LCOYTZNXSA-N				pH and temperature not specified in the publication, native enzyme
+538	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	65	6.5		pH 6.5, 65C, wild-type enzyme
+542	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N				
+542	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	75	6.5		pH 6.5, 75C, recombinant enzyme; pH 6.5, 75C, wild-type enzyme
+547	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				pH and temperature not specified in the publication, recombinant enzyme
+573	laminaribiose	690	QIGJYVCQYDKYDW-LCOYTZNXSA-N				pH and temperature not specified in the publication, recombinant enzyme
+611	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	65	6.5	X	pH 6.5, 65C, mutant enzyme R489A
+628	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				pH and temperature not specified in the publication, soluble enzyme
+634	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N				pH and temperature not specified in the publication, recombinant enzyme
+644	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	75	7.0		pH 7.0, 75C, soluble enzyme
+648	4-nitrophenyl beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	60	5.4		pH 5.4, 60C
+654	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				pH and temperature not specified in the publication, native enzyme
+726	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N				pH and temperature not specified in the publication, native enzyme
+727	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				pH and temperature not specified in the publication, immobilized enzyme
+746	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	75	7.0		pH 7.0, 75C, enzyme immobilized on chitosan activated with glutaraldehyde
+772	4-nitrophenyl beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	75	6.5		pH 6.5, 75C, wild-type enzyme
+901.4	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	65	3.0	X	mutant E387G, pH 3.0, 65C
+930	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N				pH and temperature not specified in the publication, recombinant enzyme
+940	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	60	6.5		pH 6.5, 60C
+1000	4-nitrophenyl beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	65	5.4		pH 5.4, 65C
+1020	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	75	6.5		pH 6.5, 75C, wild-type enzyme
+1239	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	75	6.5		pH 6.5, 75C, wild-type enzyme
+1252	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N				pH and temperature not specified in the publication, recombinant enzyme
+1285	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	75	6.5		pH 6.5, 75C, recombinant enzyme
+1300	2-nitrophenyl beta-D-galactoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	80	7.5		release of 2-nitrophenol, pH 7.5, 80C
+1341	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N				pH and temperature not specified in the publication, native enzyme
+1416	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N				pH and temperature not specified in the publication, native enzyme
+1500	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	80	7.5		release of D-glucose, pH 7.5, 80C
+1662	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	75	7.0		pH 7.0, 75C, immobilized enzyme
+1686	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	75	7.0		pH 7.0, 75C, enzyme immobilized on chitosan activated with glutaraldehyde
+1689	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	75	7.0		pH 7.0, 75C, soluble enzyme
+1713	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	75	6.5		pH 6.5, 75C, recombinant enzyme
+1713	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	75	7.0		pH 7.0, 75C, soluble enzyme
+2288	4-nitrophenyl beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	75	5.4		pH 5.4, 75C
+2374	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	60	6.5		pH 6.5, 60C
+2400	2-nitrophenyl beta-D-galactoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	75	5.4		pH 5.4, 75C
+2437	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	60	6.5		pH 6.5, 60C
+4380	4-nitrophenyl beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	85	5.4		pH 5.4, 85C

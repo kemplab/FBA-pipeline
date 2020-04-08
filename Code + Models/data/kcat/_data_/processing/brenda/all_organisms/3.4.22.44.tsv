@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.002	WDGGEVAHQAGESV	109188	ZJLYHQBPLKUZIT-LPGIOFAESA-N	25	8.5	X	recombinant W143A NIa-Pro mutant, pH 8.5, 25C
+0.004	WDGGEVAHQAGESV	109188	ZJLYHQBPLKUZIT-LPGIOFAESA-N	25	8.5	X	recombinant S129D NIa-Pro mutant, pH 8.5, 25C
+0.005	WDGGEVAHQAGESV	109188	ZJLYHQBPLKUZIT-LPGIOFAESA-N	25	8.5	X	recombinant S129A NIa-Pro mutant, pH 8.5, 25C
+0.006	WDGGEVAHQAGESV	109188	ZJLYHQBPLKUZIT-LPGIOFAESA-N	25	8.5	X	recombinant S129D NIa-Pro mutant in presence of the VPg domain, pH 8.5, 25C
+0.01	WDGGEVAHQAGESV	109188	ZJLYHQBPLKUZIT-LPGIOFAESA-N	25	8.5	X	recombinant W143A NIa-Pro mutant in presence of the VPg domain, pH 8.5, 25C
+0.033	Pro-Thr-Thr-Glu-Leu-Tyr-Phe-Gln-Ser-Gly-Thr-Val-Asp-Arg-Arg	10947	GYOURJCBLWESKO-DUFBWVQOSA-N				truncated protease
+0.034	WDGGEVAHQAGESV	109188	ZJLYHQBPLKUZIT-LPGIOFAESA-N	25	8.5		recombinant wild-type NIa-Pro, pH 8.5, 25C
+0.063	WDGGEVAHQAGESV	109188	ZJLYHQBPLKUZIT-LPGIOFAESA-N	25	8.5	X	recombinant E191A VPg-Pro mutant, pH 8.5, 25C
+0.092	TETVRFQSGTRR	114561	PXPDCLPYRDESDX-HVQJHMQESA-N	30	7.0		recombinant wild-type TVMV protease, pH 7.0, 30C
+0.094	TETVRFQSGTRR	114561	PXPDCLPYRDESDX-HVQJHMQESA-N	30	7.0	X	recombinant mutant TVMV1-217 protease, pH 7.0, 30C
+0.12	acetyl-Glu-Pro-Thr-Val-Tyr-His-Gln-Thr-Leu-amide	113173	BIQDSORECNWHNI-JNUKNSTJSA-N	12	7.0		27 kDa full length protease, pH 7.0, 12C
+0.18	Pro-Thr-Thr-Glu-Leu-Tyr-Phe-Gln-Ser-Gly-Thr-Val-Asp-Arg-Arg	10947	GYOURJCBLWESKO-DUFBWVQOSA-N				27 kDa full length protease
+0.19	acetyl-Glu-Pro-Thr-Val-Tyr-His-Gln-Thr-Leu-amide	113173	BIQDSORECNWHNI-JNUKNSTJSA-N	25	7.0		27 kDa full length protease, pH 7.0, 25C
+0.22	acetyl-Glu-Pro-Thr-Val-Tyr-His-Gln-Thr-Leu-amide	113173	BIQDSORECNWHNI-JNUKNSTJSA-N	12	7.4		27 kDa full length protease, pH 7.4, 12C
+0.23	WDGGEVAHQAGESV	109188	ZJLYHQBPLKUZIT-LPGIOFAESA-N	25	8.5		recombinant VPg-Pro, pH 8.5, 25C
+0.32	acetyl-Glu-Pro-Thr-Val-Tyr-His-Gln-Thr-Leu-amide	113173	BIQDSORECNWHNI-JNUKNSTJSA-N				27 kDa full length protease
+0.33	acetyl-Glu-Pro-Thr-Val-Tyr-His-Gln-Thr-Leu-amide	113173	BIQDSORECNWHNI-JNUKNSTJSA-N				25 kDa protease
+0.34	acetyl-Glu-Pro-Thr-Val-Tyr-His-Gln-Thr-Leu-amide	113173	BIQDSORECNWHNI-JNUKNSTJSA-N	25	7.4		27 kDa full length protease, pH 7.4, 25C
+0.373	acetyl-Glu-Pro-Thr-Val-Tyr-His-Gln-Thr-Leu-amide	113173	BIQDSORECNWHNI-JNUKNSTJSA-N	12	8.0		27 kDa full length protease, pH 8.0, 12C
+1.01	acetyl-Glu-Pro-Thr-Val-Tyr-His-Gln-Thr-Leu-amide	113173	BIQDSORECNWHNI-JNUKNSTJSA-N	25	8.0		27 kDa full length protease, pH 8.0, 25C

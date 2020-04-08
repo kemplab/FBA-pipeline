@@ -1,0 +1,108 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.06	o-aminobenzoyl-TDK-(dinitrophenyl)-P-OH	6496	ACMLDDRMYJNXEC-QRJIKESZSA-N	37	8.0		pH 8.0, 37C, C-domain
+0.1	o-aminobenzoyl-SDK-(dinitrophenyl)-P-OH	7627	GMKYRHRAUUXWAX-ZJZGAYNASA-N	37	8.0		pH 8.0, 37C, C-domain
+0.2	o-aminobenzoyl-TRK-(dinitrophenyl)-P-OH	7630	CSRXXRXRLYZXJK-CZZXPTITSA-N	37	8.0		pH 8.0, 37C, C-domain
+0.3	o-aminobenzoyl-GFSPFQQ-(N-2,4-dinitrophenyl)ethylenediamine	5081	ZLAXQKOXPCIAPB-UJKKYYSESA-N	37	8.0		pH 8.0, 37C, C-domain
+0.567	neurotensin	1629	PCJGZPGTCUMMOT-ISULXFBGSA-N				
+0.58	angiotensin	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N	37			37C
+0.6	o-aminobenzoyl-GFSPFQQ-(N-2,4-dinitrophenyl)ethylenediamine	5081	ZLAXQKOXPCIAPB-UJKKYYSESA-N	37	8.0		pH 8.0, 37C, N-domain
+0.8	o-aminobenzoyl-GFSPFSQ-(N-2,4-dinitrophenyl)ethylenediamine	7626	YRQNNWNMKQDSMS-SKGSPYGFSA-N	37	8.0		pH 8.0, 37C, C-domain
+0.9	o-aminobenzoyl-GFSPFRR-(N-2,4-dinitrophenyl)ethylenediamine	7622	YBSJCQWQTKKJKR-WGXSSYHUSA-N	37	8.0		pH 8.0, 37C, N-domain
+0.9	o-aminobenzoyl-GFSPFRS-(N-2,4-dinitrophenyl)ethylenediamine	7620	VKSXBRRMCBLXTN-UJKKYYSESA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+1	o-aminobenzoyl-GFSPFAQ-(N-2,4-dinitrophenyl)ethylenediamine	7624	BODOSSIKMQLZKC-IDNKWEKWSA-N	37	8.0		pH 8.0, 37C, N-domain
+1	o-aminobenzoyl-GFSPFRF-(N-2,4-dinitrophenyl)ethylenediamine	7619	YLUZUCSDKWAKGR-RYICAFHUSA-N	37	8.0		pH 8.0, 37C, N-domain
+1	o-aminobenzoyl-GFSPFRR-(N-2,4-dinitrophenyl)ethylenediamine	7622	YBSJCQWQTKKJKR-WGXSSYHUSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+1.01	o-aminobenzoyl-YRK-(dinitrophenyl)-P-OH	7631	JQPHXASFDMFJDK-YDPTYEFTSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+1.1	o-aminobenzoyl-TDK-(dinitrophenyl)-P-OH	6496	ACMLDDRMYJNXEC-QRJIKESZSA-N	37	8.0		pH 8.0, 37C, N-domain
+1.3	o-aminobenzoyl-GFSPFRS-(N-2,4-dinitrophenyl)ethylenediamine	7620	VKSXBRRMCBLXTN-UJKKYYSESA-N	37	8.0		pH 8.0, 37C, N-domain
+1.4	o-aminobenzoyl-GFSPFRF-(N-2,4-dinitrophenyl)ethylenediamine	7619	YLUZUCSDKWAKGR-RYICAFHUSA-N	37	8.0		pH 8.0, 37C, C-domain
+1.4	o-aminobenzoyl-GFSPFRR-(N-2,4-dinitrophenyl)ethylenediamine	7622	YBSJCQWQTKKJKR-WGXSSYHUSA-N	37	8.0		pH 8.0, 37C, C-domain
+1.8	o-aminobenzoyl-GFSPFRN-(N-2,4-dinitrophenyl)ethylenediamine	7621	WVCBSRFDEBSSQR-UJKKYYSESA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+2	o-aminobenzoyl-GFSPFAQ-(N-2,4-dinitrophenyl)ethylenediamine	7624	BODOSSIKMQLZKC-IDNKWEKWSA-N	37	8.0		pH 8.0, 37C, C-domain
+2	o-aminobenzoyl-GFSPFQQ-(N-2,4-dinitrophenyl)ethylenediamine	5081	ZLAXQKOXPCIAPB-UJKKYYSESA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+2	o-aminobenzoyl-GFSPFSQ-(N-2,4-dinitrophenyl)ethylenediamine	7626	YRQNNWNMKQDSMS-SKGSPYGFSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+2.1	benzyloxycarbonyl-Phe-His-Leu	2740	BOMYCHBQXOKSLT-SDHOMARFSA-N	37	8.3		37C, pH 8.3, ACE
+2.2	o-aminobenzoyl-GFSPFEQ-(N-2,4-dinitrophenyl)ethylenediamine	7674	MSPGIYUPGNCJRC-UJKKYYSESA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+2.2	o-aminobenzoyl-GFSPFRQ-(N-2,4-dinitrophenyl)ethylenediamine	3275	CDHXXEKDLLJPCM-KHVQSSSXSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+2.3	o-aminobenzoyl-GFSPFSQ-(N-2,4-dinitrophenyl)ethylenediamine	7626	YRQNNWNMKQDSMS-SKGSPYGFSA-N	37	8.0		pH 8.0, 37C, N-domain
+2.4	o-aminobenzoyl-GFSPFFQ-(N-2,4-dinitrophenyl)ethylenediamine	7623	JWJYYPIBSUEZRQ-FQEQRRFLSA-N	37	8.0		pH 8.0, 37C, N-domain
+2.4	o-aminobenzoyl-GFSPFRS-(N-2,4-dinitrophenyl)ethylenediamine	7620	VKSXBRRMCBLXTN-UJKKYYSESA-N	37	8.0		pH 8.0, 37C, C-domain
+2.6	o-aminobenzoyl-GFSPFRI-(N-2,4-dinitrophenyl)ethylenediamine	7618	CKPBASVDHBIVNU-KODIBZKNSA-N	37	8.0		pH 8.0, 37C, N-domain
+2.7	o-aminobenzoyl-GFSPFRQ-(N-2,4-dinitrophenyl)ethylenediamine	3275	CDHXXEKDLLJPCM-KHVQSSSXSA-N	37	8.0		pH 8.0, 37C, N-domain
+2.9	o-aminobenzoyl-GFSPFRI-(N-2,4-dinitrophenyl)ethylenediamine	7618	CKPBASVDHBIVNU-KODIBZKNSA-N	37	8.0		pH 8.0, 37C, C-domain
+3	Abz-SDK(Dnp)P-OH	125324	CAQVNYOZGOKCQM-UFYCRDLUSA-N	37	7.4		pH 7.4, 37C
+3	o-aminobenzoyl-GFSPFLQ-(N-2,4-dinitrophenyl)ethylenediamine	7625	XCTDNJFYSVYEAC-WGXSSYHUSA-N	37	8.0		pH 8.0, 37C, N-domain
+3.3	o-aminobenzoyl-GFSPFAQ-(N-2,4-dinitrophenyl)ethylenediamine	7624	BODOSSIKMQLZKC-IDNKWEKWSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+3.3	o-aminobenzoyl-GFSPFRN-(N-2,4-dinitrophenyl)ethylenediamine	7621	WVCBSRFDEBSSQR-UJKKYYSESA-N	37	8.0		pH 8.0, 37C, C-domain
+3.4	o-aminobenzoyl-GFSPFRA-(N-2,4-dinitrophenyl)ethylenediamine	7617	SOCTVSMLGYTVEC-DEWCAVSXSA-N	37	8.0		pH 8.0, 37C, N-domain
+3.7	o-aminobenzoyl-GFSPFLQ-(N-2,4-dinitrophenyl)ethylenediamine	7625	XCTDNJFYSVYEAC-WGXSSYHUSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+3.75	Substance P	957	XHWDVRRNQHMAPE-CUZNLEPHSA-N				
+3.8	o-aminobenzoyl-GFSPFRN-(N-2,4-dinitrophenyl)ethylenediamine	7621	WVCBSRFDEBSSQR-UJKKYYSESA-N	37	8.0		pH 8.0, 37C, N-domain
+4.2	o-aminobenzoyl-GFSPFRF-(N-2,4-dinitrophenyl)ethylenediamine	7619	YLUZUCSDKWAKGR-RYICAFHUSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+4.2	o-aminobenzoyl-GFSPFRQ-(N-2,4-dinitrophenyl)ethylenediamine	3275	CDHXXEKDLLJPCM-KHVQSSSXSA-N	37	8.0		pH 8.0, 37C, C-domain
+4.8	o-aminobenzoyl-GFSPFLQ-(N-2,4-dinitrophenyl)ethylenediamine	7625	XCTDNJFYSVYEAC-WGXSSYHUSA-N	37	8.0		pH 8.0, 37C, C-domain
+5	o-aminobenzoyl-GFSPFRA-(N-2,4-dinitrophenyl)ethylenediamine	7617	SOCTVSMLGYTVEC-DEWCAVSXSA-N	37	8.0		pH 8.0, 37C, C-domain
+6.5	[Phe9,Arg10]angiotensin I	5805	QMMQWUIHTBDYPV-ASQDNUSESA-N	37	7.5	X	37C, pH 7.5, mutant enzyme K1087A
+7	o-aminobenzoyl-YDK-(dinitrophenyl)-P-OH	7628	QGYPBQRIGDHXNE-KRCBVYEFSA-N	37	8.0		pH 8.0, 37C, C-domain
+8.33	angiotensin	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N				
+8.33	bradykinin	387	QXZGBUJJYSLZLT-FDISYFBBSA-N				
+8.7	angiotensin I	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N	37			37C
+8.7	o-aminobenzoyl-GFSPFRI-(N-2,4-dinitrophenyl)ethylenediamine	7618	CKPBASVDHBIVNU-KODIBZKNSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+10.1	o-aminobenzoyl-GFSPFFQ-(N-2,4-dinitrophenyl)ethylenediamine	7623	JWJYYPIBSUEZRQ-FQEQRRFLSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+10.4	o-aminobenzoyl-GFSPFRA-(N-2,4-dinitrophenyl)ethylenediamine	7617	SOCTVSMLGYTVEC-DEWCAVSXSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+11.7	Leu5-enkephalin	2214	URLZCHNOLZSCCA-VABKMULXSA-N				
+11.8	hippuryl-His-Leu	1244	AAXWBCKQYLBQKY-IRXDYDNUSA-N	37	8.3		37C, pH 8.3, chimeric enzyme C417-579Ndom-ACE
+12.6	o-aminobenzoyl-GFSPFFQ-(N-2,4-dinitrophenyl)ethylenediamine	7623	JWJYYPIBSUEZRQ-FQEQRRFLSA-N	37	8.0		pH 8.0, 37C, C-domain
+12.9	hippuryl-His-Leu	1244	AAXWBCKQYLBQKY-IRXDYDNUSA-N	37	8.3		37C, pH 8.3, chimeric enzyme C583-623Ndom-ACE
+13.7	o-aminobenzoyl-SRK-(dinitrophenyl)-P-OH	7629	CFRYZAQXODRSQB-CQJMVLFOSA-N	37	8.0		pH 8.0, 37C, C-domain
+13.9	o-aminobenzoyl-TRK-(dinitrophenyl)-P-OH	7630	CSRXXRXRLYZXJK-CZZXPTITSA-N	37	8.0		pH 8.0, 37C, N-domain
+15.1	hippuryl-His-Leu	1244	AAXWBCKQYLBQKY-IRXDYDNUSA-N	37	8.3		37C, pH 8.3, chimeric enzyme C1163Ndom-ACE
+18.7	o-aminobenzoyl-TDK-(dinitrophenyl)-P-OH	6496	ACMLDDRMYJNXEC-QRJIKESZSA-N	37	8.0		pH 8.0, 37C, N-domain
+20.33	Mca-RPPGFSAFK(Dnp)-OH	125325	FDQLQIBWKJMUSI-UEVTYGKUSA-N	37	7.4		pH 7.4, 37C
+21.3	Substance P	957	XHWDVRRNQHMAPE-CUZNLEPHSA-N				free acid, recombinant enzyme, and wild-type enzyme
+23	Abz-LFK(Dnp)-OH	27403	VIJDOWIGLQWTPK-AWCRTANDSA-N	37	7.4		pH 7.4, 37C
+24.5	hippuryl-His-Leu	1244	AAXWBCKQYLBQKY-IRXDYDNUSA-N	37	8.3		37C, pH 8.3, tACE
+24.6	o-aminobenzoyl-SDK-(dinitrophenyl)-P-OH	7627	GMKYRHRAUUXWAX-ZJZGAYNASA-N	37	8.0		pH 8.0, 37C, N-domain
+26.7	o-aminobenzoyl-FRK-(dinitrophenyl)-P-OH	7632	ZEWJTBVOMMZVAU-YDPTYEFTSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+28.6	o-aminobenzoyl-SRK-(dinitrophenyl)-P-OH	7629	CFRYZAQXODRSQB-CQJMVLFOSA-N	37	8.0		pH 8.0, 37C, N-domain
+28.9	o-aminobenzoyl-YDK-(dinitrophenyl)-P-OH	7628	QGYPBQRIGDHXNE-KRCBVYEFSA-N	37	8.0		pH 8.0, 37C, N-domain
+31	o-aminobenzoyl-FDK-(dinitrophenyl)-P-OH	6497	BYMBPTPTFQSUNY-KRCBVYEFSA-N	37	8.0		pH 8.0, 37C, C-domain
+34.4	benzyloxycarbonyl-Phe-His-Leu	2740	BOMYCHBQXOKSLT-SDHOMARFSA-N	37	8.3		37C, pH 8.3, chimeric enzyme C417-579Ndom-ACE
+36.3	o-aminobenzoyl-TDK-(dinitrophenyl)-P-OH	6496	ACMLDDRMYJNXEC-QRJIKESZSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+36.8	benzyloxycarbonyl-Phe-His-Leu	2740	BOMYCHBQXOKSLT-SDHOMARFSA-N	37	8.3		37C, pH 8.3, chimeric enzyme C583-623Ndom-ACE
+44.2	o-aminobenzoyl-SDK-(dinitrophenyl)-P-OH	7627	GMKYRHRAUUXWAX-ZJZGAYNASA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+52	angiotensin I	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N	37	7.5		37C, pH 7.5, wild-type enzyme
+54.9	o-aminobenzoyl-FRK-(dinitrophenyl)-P-OH	7632	ZEWJTBVOMMZVAU-YDPTYEFTSA-N	37	8.0		pH 8.0, 37C, N-domain
+57	[Arg10]angiotensin I	7843	AZSPINRRKIHBAB-RMWOQXJUSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme Y1096F
+58.3	Met5-enkephalin	1872	YFGBQHOOROIVKG-FKBYEOEOSA-N				
+58.8	o-aminobenzoyl-YRK-(dinitrophenyl)-P-OH	7631	JQPHXASFDMFJDK-YDPTYEFTSA-N	37	8.0		pH 8.0, 37C, C-domain
+60	angiotensin I	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme R1098Q
+62.5	o-aminobenzoyl-YDK-(dinitrophenyl)-P-OH	7628	QGYPBQRIGDHXNE-KRCBVYEFSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+69.2	o-aminobenzoyl-FRK-(dinitrophenyl)-P-OH	7632	ZEWJTBVOMMZVAU-YDPTYEFTSA-N	37	8.0		pH 8.0, 37C, C-domain
+73.2	benzyloxycarbonyl-Phe-His-Leu	2740	BOMYCHBQXOKSLT-SDHOMARFSA-N	37	8.3		37C, pH 8.3, ACE
+76.7	benzoyl-Gly-His-Leu	1244	AAXWBCKQYLBQKY-IRXDYDNUSA-N				
+79	o-aminobenzoyl-FDK-(dinitrophenyl)-P-OH	6497	BYMBPTPTFQSUNY-KRCBVYEFSA-N	37	8.0		pH 8.0, 37C, N-domain
+79.9	o-aminobenzoyl-FDK-(dinitrophenyl)-P-OH	6497	BYMBPTPTFQSUNY-KRCBVYEFSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+82	o-aminobenzoyl-TRK-(dinitrophenyl)-P-OH	7630	CSRXXRXRLYZXJK-CZZXPTITSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+85.6	o-aminobenzoyl-YRK-(dinitrophenyl)-P-OH	7631	JQPHXASFDMFJDK-YDPTYEFTSA-N	37	8.0		pH 8.0, 37C, N-domain
+97.5	benzyloxycarbonyl-Phe-His-Leu	2740	BOMYCHBQXOKSLT-SDHOMARFSA-N	37	8.3		37C, pH 8.3, chimeric enzyme C1-163Ndom-ACE
+100	[Arg10]angiotensin I	7843	AZSPINRRKIHBAB-RMWOQXJUSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme R1098Q
+101.7	o-aminobenzoyl-FDK-(dinitrophenyl)-P-OH	6497	BYMBPTPTFQSUNY-KRCBVYEFSA-N	37	8.0		pH 8.0, 37C, N-domain
+110	[Phe9]angiotensin I	7842	YGDCTOGHNZNNSC-MIPYRDRASA-N	37	7.5	X	37C, pH 7.5, mutant enzyme Y1096F
+128	benzyloxycarbonyl-Phe-His-Leu	2740	BOMYCHBQXOKSLT-SDHOMARFSA-N	37	8.3		37C, pH 8.3, N-domain of tACE
+179	furanacryloyl-L-Phe-Gly-Gly	11478	ZDLZKMDMBBMJLI-FDMDGMSGSA-N				
+196	hippuryl-His-Leu	1244	AAXWBCKQYLBQKY-IRXDYDNUSA-N				
+220	[Phe9,Arg10]angiotensin I	5805	QMMQWUIHTBDYPV-ASQDNUSESA-N	37	7.5	X	37C, pH 7.5, mutant enzyme Y1096F
+262.5	hippuryl-His-Leu	1244	AAXWBCKQYLBQKY-IRXDYDNUSA-N	37	8.3		37C, pH 8.3, N-domain of tACE
+283	benzoyl-Gly-Gly-Gly	13836	CYQZRSVDAIOAIY-UHFFFAOYSA-N				
+320	2-furanacryloyl-Phe-Gly-Gly	10819	MHWYEMQVORTTCS-ZCGNUHBKSA-N				recombinant enzyme
+368	2-furanacryloyl-Phe-Gly-Gly	10819	MHWYEMQVORTTCS-ZCGNUHBKSA-N				wild-type enzyme
+383	benzoyl-Gly-Phe-Arg	13837	GQKRRZAUNABSCW-OALUTQOASA-N				
+408	hippuryl-His-Leu	1244	AAXWBCKQYLBQKY-IRXDYDNUSA-N				recombinant enzyme
+414	hippuryl-His-Leu	1244	AAXWBCKQYLBQKY-IRXDYDNUSA-N				wild-type enzyme
+460	[Arg10]angiotensin I	7843	AZSPINRRKIHBAB-RMWOQXJUSA-N	37	7.5		37C, pH 7.5, wild-type enzyme
+545	hippuryl-His-Leu	1244	AAXWBCKQYLBQKY-IRXDYDNUSA-N				
+550	[Phe9]angiotensin I	7842	YGDCTOGHNZNNSC-MIPYRDRASA-N	37	7.5		37C, pH 7.5, wild-type enzyme
+1400	[Phe9,Arg10]angiotensin I	5805	QMMQWUIHTBDYPV-ASQDNUSESA-N	37	7.5		37C, pH 7.5, wild-type enzyme
+1500	[Phe9]angiotensin I	7842	YGDCTOGHNZNNSC-MIPYRDRASA-N	37	7.5	X	37C, pH 7.5, mutant enzyme R1098Q
+1700	[Phe9,Arg10]angiotensin I	5805	QMMQWUIHTBDYPV-ASQDNUSESA-N	37	7.5	X	37C, pH 7.5, mutant enzyme R1098Q

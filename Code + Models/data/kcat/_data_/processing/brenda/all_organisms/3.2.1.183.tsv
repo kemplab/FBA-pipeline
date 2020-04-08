@@ -1,0 +1,3 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.33	UDP-N-acetyl-alpha-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	37	7.5		pH 7.5, 37C
+4.7	UDP-N-acetyl-alpha-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	37			wild-type, 37C, pH not specified in the publication

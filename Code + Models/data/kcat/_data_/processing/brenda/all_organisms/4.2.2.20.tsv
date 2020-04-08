@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+48.5	dermatan sulfate	708	GTAJMQSHMYIYPR-LPBXCWEGSA-N	37	6.8		pH 6.8, 37C
+69.7	chondroitin 4-sulfate	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N	37	6.8		presence of 1 M sorbitol, pH 6.8, 37C
+75.8	chondroitin 4-sulfate	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N	37	6.8		presence of 1 M trehalose, pH 6.8, 37C
+78.8	chondroitin 4-sulfate	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N	37	6.8		presence of 20% glycerol, pH 6.8, 37C
+80	chondroitin 4-sulfate	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N	25	6.8	X	mutant Q140N, pH 6.8, 25C
+83	chondroitin 4-sulfate	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N	25	6.8		wild-type, pH 6.8, 25C
+84.8	chondroitin 4-sulfate	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N	37	6.8		pH 6.8, 37C
+88	chondroitin 4-sulfate	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N	25	6.8	X	mutant Q140A, pH 6.8, 25C
+89	chondroitin 4-sulfate	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N	25	6.8	X	mutant Q140G, pH 6.8, 25C
+100	chondroitin 6-sulfate	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N	37	6.8		pH 6.8, 37C
+587	chondroitin sulfate A	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N	50	7.4		recombinant protein fused to maltose-binding protein, pH 7.4, 50C

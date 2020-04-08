@@ -1,0 +1,57 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+7.41	benzoyl-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N				
+0.103	Trypsinogen	1596	NDIORHLFYZGYPG-FNRPHRCSSA-N				
+0.103	Trypsinogen	1596	NDIORHLFYZGYPG-FNRPHRCSSA-N				
+0.8	tert-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	1842	WYXAAQVSDGZUNB-KLJDGLGGSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169G
+2	tert-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	1842	WYXAAQVSDGZUNB-KLJDGLGGSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169V
+3	tert-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	1842	WYXAAQVSDGZUNB-KLJDGLGGSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169L
+4.6	tert-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	1842	WYXAAQVSDGZUNB-KLJDGLGGSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169A
+45	tert-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	1842	WYXAAQVSDGZUNB-KLJDGLGGSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme H210A
+52	tert-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	1842	WYXAAQVSDGZUNB-KLJDGLGGSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme H210S
+67	tert-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	1842	WYXAAQVSDGZUNB-KLJDGLGGSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169H
+71	tert-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	1842	WYXAAQVSDGZUNB-KLJDGLGGSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169F
+83	tert-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	1842	WYXAAQVSDGZUNB-KLJDGLGGSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169Y
+93	tert-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	1842	WYXAAQVSDGZUNB-KLJDGLGGSA-N	37	9.0		pH 9.0, 37C, wild-type enzyme
+96	tert-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	1842	WYXAAQVSDGZUNB-KLJDGLGGSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme H210A
+2.6	tert-butyloxycarbonyl-Ala-Ala-Lys-7-amido-4-methylcoumarin	2516	XFXXCYALAXIYIL-WFXMLNOXSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169A
+15	tert-butyloxycarbonyl-Ala-Ala-Lys-7-amido-4-methylcoumarin	2516	XFXXCYALAXIYIL-WFXMLNOXSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme H210A
+18	tert-butyloxycarbonyl-Ala-Ala-Lys-7-amido-4-methylcoumarin	2516	XFXXCYALAXIYIL-WFXMLNOXSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme H210S
+20	tert-butyloxycarbonyl-Ala-Ala-Lys-7-amido-4-methylcoumarin	2516	XFXXCYALAXIYIL-WFXMLNOXSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169V
+23	tert-butyloxycarbonyl-Ala-Ala-Lys-7-amido-4-methylcoumarin	2516	XFXXCYALAXIYIL-WFXMLNOXSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169H
+37	tert-butyloxycarbonyl-Ala-Ala-Lys-7-amido-4-methylcoumarin	2516	XFXXCYALAXIYIL-WFXMLNOXSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169L
+40	tert-butyloxycarbonyl-Ala-Ala-Lys-7-amido-4-methylcoumarin	2516	XFXXCYALAXIYIL-WFXMLNOXSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169Y
+48	tert-butyloxycarbonyl-Ala-Ala-Lys-7-amido-4-methylcoumarin	2516	XFXXCYALAXIYIL-WFXMLNOXSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169F
+51	tert-butyloxycarbonyl-Ala-Ala-Lys-7-amido-4-methylcoumarin	2516	XFXXCYALAXIYIL-WFXMLNOXSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme H210A
+98	tert-butyloxycarbonyl-Ala-Ala-Lys-7-amido-4-methylcoumarin	2516	XFXXCYALAXIYIL-WFXMLNOXSA-N	37	9.0		pH 9.0, 37C, wild-type enzyme
+0.4	tert-butyloxycarbonyl-Lys-7-amido-4-methylcoumarin	3431	CKHXPQCFPIBVKY-KRWDZBQOSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169A
+2.3	tert-butyloxycarbonyl-Lys-7-amido-4-methylcoumarin	3431	CKHXPQCFPIBVKY-KRWDZBQOSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169V
+2.7	tert-butyloxycarbonyl-Lys-7-amido-4-methylcoumarin	3431	CKHXPQCFPIBVKY-KRWDZBQOSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169H
+4.5	tert-butyloxycarbonyl-Lys-7-amido-4-methylcoumarin	3431	CKHXPQCFPIBVKY-KRWDZBQOSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169L
+5.2	tert-butyloxycarbonyl-Lys-7-amido-4-methylcoumarin	3431	CKHXPQCFPIBVKY-KRWDZBQOSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169Y
+6	tert-butyloxycarbonyl-Lys-7-amido-4-methylcoumarin	3431	CKHXPQCFPIBVKY-KRWDZBQOSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169F
+8.4	tert-butyloxycarbonyl-Lys-7-amido-4-methylcoumarin	3431	CKHXPQCFPIBVKY-KRWDZBQOSA-N	37	9.0		pH 9.0, 37C, wild-type enzyme
+1.1	tert-butyloxycarbonyl-Ala-Lys-7-amido-4-methylcoumarin	3432	LVBYRPZAPACWIR-LPHOPBHVSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169A
+7	tert-butyloxycarbonyl-Ala-Lys-7-amido-4-methylcoumarin	3432	LVBYRPZAPACWIR-LPHOPBHVSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169V
+11	tert-butyloxycarbonyl-Ala-Lys-7-amido-4-methylcoumarin	3432	LVBYRPZAPACWIR-LPHOPBHVSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169H
+22	tert-butyloxycarbonyl-Ala-Lys-7-amido-4-methylcoumarin	3432	LVBYRPZAPACWIR-LPHOPBHVSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169Y
+24	tert-butyloxycarbonyl-Ala-Lys-7-amido-4-methylcoumarin	3432	LVBYRPZAPACWIR-LPHOPBHVSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169F
+31	tert-butyloxycarbonyl-Ala-Lys-7-amido-4-methylcoumarin	3432	LVBYRPZAPACWIR-LPHOPBHVSA-N	37	9.0	X	pH 9.0, 37C, mutant enzyme W169L
+46	tert-butyloxycarbonyl-Ala-Lys-7-amido-4-methylcoumarin	3432	LVBYRPZAPACWIR-LPHOPBHVSA-N	37	9.0		pH 9.0, 37C, wild-type enzyme
+59	tosyl-Gly-Pro-Lys-p-nitroanilide	3624	PZISISNJNWOBHV-SRBWTXITSA-N		9.0		pH 9.0
+0.14	Lys-p-nitroanilide	3873	PIGQEBNFDLQSLS-NSHDSACASA-N				
+5.04	N-tosyl-L-Arg methyl ester	1557	FKMJXALNHKIDOD-LBPRGKRZSA-N				
+5.04	N-tosyl-L-Arg methyl ester	1557	FKMJXALNHKIDOD-LBPRGKRZSA-N				
+282	N-tosyl-L-Lys methyl ester	5579	XWVNOUSQIVZZJK-ZDUSSCGKSA-N				
+570	N-tosyl-L-Lys methyl ester	5579	XWVNOUSQIVZZJK-ZDUSSCGKSA-N				
+570	N-tosyl-L-Lys methyl ester	5579	XWVNOUSQIVZZJK-ZDUSSCGKSA-N				
+225	benzoyl-Lys methyl ester	7136	RNFLYGMDYGDLQG-LBPRGKRZSA-N				
+225	benzoyl-Lys methyl ester	7136	RNFLYGMDYGDLQG-LBPRGKRZSA-N				
+10.4	N-benzoyl-L-Orn methyl ester	7383	RDQQPDCPZUNFDX-NSHDSACASA-N				
+10.4	N-benzoyl-L-Orn methyl ester	7383	RDQQPDCPZUNFDX-NSHDSACASA-N				
+282	Tosyl-Lys methyl ester	5579	XWVNOUSQIVZZJK-ZDUSSCGKSA-N		8.0		pH 8.0
+1.54	benzoyl-Lys-NH2	13810	KOUTUYBOJSFSCO-NSHDSACASA-N				
+49	N-tert-butyloxycarbonyl-Ala-Ala-Lys-4-methylcoumarin 7-amide	21213	JXTLSDZTFUNINV-WFXMLNOXSA-N				
+32.9	N-tert-butyloxycarbonyl-Ala-Lys-4-methylcoumarin 7-amide	21214	GHTQVGXKNIWAJT-LPHOPBHVSA-N				
+3.02	N-tert-butyloxycarbonyl-Lys-4-methylcoumarin 7-amide	21215	IXRJXSKBUCWJPD-KRWDZBQOSA-N				
+59	N-tosyl-Gly-Pro-Lys-p-nitroanilide	2331	PEHDMKYTTRTXSH-GOTSBHOMSA-N				
+0.86	benzoyl-Lys-p-nitroanilide	30830	AGLYTHSJEFCGRE-KRWDZBQOSA-N				

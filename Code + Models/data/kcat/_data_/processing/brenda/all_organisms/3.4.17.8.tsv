@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.31	methyl N-acetylmuramate-L-Ala-gamma-D-Glu-meso-diaminopimelate-D-Ala-D-Ala	114695	QEDKKYLQLHRLIJ-XQUUWHHNSA-N				pH not specified in the publication, temperature not specified in the publication
+0.59	Nalpha,Nepsilon-Diacetyl-L-Lys-D-Ala-D-Ala	2299	VIHGYLJIMMKSBR-BREBYQMCSA-N				pH not specified in the publication, temperature not specified in the publication
+6.2	UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-L-lysyl-D-alanyl-D-alanine	12014	PFMVORMCVGOQKR-VXDMWADVSA-N	37	7.5		wild-type, pH 7.5, 37C
+23	UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-L-lysyl-D-alanyl-D-alanine	12014	PFMVORMCVGOQKR-VXDMWADVSA-N	37	7.5	X	mutant D59S, pH 7.5, 37C

@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.43	tert-butyloxycarbonyl-Gln-Gly-Arg-7-amido-4-methylcoumarin	22744	PDPAZZMSSBKXOH-OALUTQOASA-N	37	8.5		in 100 mM sodium phosphate, 0.01% (v/v) Tween 20, pH 8.5, at 37C
+1.49	benzyloxycarbonyl-Gly-Gly-Arg-7-amido-4-methylcoumarin	6529	SXTGIAYWYXVNLT-NRFANRHFSA-N	37	8.5		in 100 mM sodium phosphate, 0.01% (v/v) Tween 20, pH 8.5, at 37C
+1.56	tert-butyloxycarbonyl-Leu-Lys-Arg-7-amido-4-methylcoumarin	6637	RRHPIUJOSIJECH-SDHOMARFSA-N	37	8.5		in 100 mM sodium phosphate, 0.01% (v/v) Tween 20, pH 8.5, at 37C
+1.62	tert-butyloxycarbonyl-Leu-Arg-Arg-7-amido-4-methylcoumarin	6530	BAVWXCNIABBHLQ-HJOGWXRNSA-N	37	8.5		in 100 mM sodium phosphate, 0.01% (v/v) Tween 20, pH 8.5, at 37C
+2.11	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	1570	KTYVDPYPXDRLTE-HFKGTQBBSA-N	37	8.5		in 100 mM sodium phosphate, 0.01% (v/v) Tween 20, pH 8.5, at 37C
+3.39	tert-butyloxycarbonyl-Gln-Arg-Arg-7-amido-4-methylcoumarin	23984	GWQJHZHFUZJSAA-FKBYEOEOSA-N	37	8.5		in 100 mM sodium phosphate, 0.01% (v/v) Tween 20, pH 8.5, at 37C
+3.57	tert-butyloxycarbonyl-Phe-Ser-Arg-7-amido-4-methylcoumarin	7590	IAHNTKXAMDUIKN-SESNRCPMSA-N	37	8.5		in 100 mM sodium phosphate, 0.01% (v/v) Tween 20, pH 8.5, at 37C
+4.45	Pro-Phe-Arg-7-amido-4-methylcoumarin	3623	BTCWZEKYFOKVMQ-DZUOILHNSA-N	37	8.5		in 100 mM sodium phosphate, 0.01% (v/v) Tween 20, pH 8.5, at 37C
+5.75	tert-butyloxycarbonyl-Gln-Ala-Arg-7-amido-4-methylcoumarin	12688	LQSLBVXESNRILG-VDGAXYAQSA-N	37	8.5		in 100 mM sodium phosphate, 0.01% (v/v) Tween 20, pH 8.5, at 37C
+6.76	tert-butyloxycarbonyl-Val-Pro-Arg-7-amido-4-methylcoumarin	6639	DFOSAUPKTFJBLO-HWBMXIPRSA-N	37	8.5		in 100 mM sodium phosphate, 0.01% (v/v) Tween 20, pH 8.5, at 37C
+9.64	tert-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	1842	WYXAAQVSDGZUNB-KLJDGLGGSA-N	37	8.5		in 100 mM sodium phosphate, 0.01% (v/v) Tween 20, pH 8.5, at 37C
+40	t-butyloxycarbonyl-L-Phe-L-Ser-L-Arg-7-amido-4-methylcoumarin	15886	JLKJMNJZJBEYLQ-JWDFLIAJSA-N	37	8.0		37C, pH 8.0
+48	t-butyloxycarbonyl-L-Val-L-Leu-L-Lys-7-amido-4-methylcoumarin	23965	KVLPXRKIIFWZLM-OEUPSBDZSA-N	37	8.0		37C, pH 8.0
+65	t-butyloxycarbonyl-L-Leu-L-Lys-L-Arg-7-amido-4-methylcoumarin	23964	RRHPIUJOSIJECH-DJHGOXGWSA-N	37	8.0		37C, pH 8.0
+98	t-butyloxycarbonyl-L-Val-L-Pro-L-Arg-7-amido-4-methylcoumarin	6639	DFOSAUPKTFJBLO-HWBMXIPRSA-N	37	8.0		37C, pH 8.0
+140	benzyloxycarbonyl-L-Val-L-Val-L-Arg-7-amido-4-methylcoumarin	10496	VCOVUYXJMHMVNV-FMYROPPKSA-N	37	8.0		37C, pH 8.0
+180	L-Pro-L-Phe-L-Arg-7-amido-4-methylcoumarin	3191	LATXIQYQVGEJJC-HJOGWXRNSA-N	37	8.0		37C, pH 8.0

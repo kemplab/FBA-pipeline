@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.035	4-hydroxyestradiol	2162	QOZFCKXEVSGWGS-ZHIYBZGJSA-N				S-COMT, 0.1 mM S-adenosyl-L-methionine
+0.04	norepinephrine	750	SFLSHLFXELFNJZ-UHFFFAOYSA-N				S-COMT, 0.1 mM S-adenosyl-L-methionine
+0.077	4-hydroxyestradiol	2162	QOZFCKXEVSGWGS-ZHIYBZGJSA-N				MB-COMT, 0.1 mM S-adenosyl-L-methionine
+0.085	2-hydroxyestradiol	1534	DILDHNKDVHLEQB-XSSYPUMDSA-N				MB-COMT, 0.1 mM S-adenosyl-L-methionine
+0.085	epinephrine	864	UCTWMZQNUQWSLP-UHFFFAOYSA-N				S-COMT, 0.1 mM S-adenosyl-L-methionine
+0.088	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N				S-COMT, 0.1 mM S-adenosyl-L-methionine
+0.1	4-hydroxyequilenin	11725	MRSWRSDZIPNFCN-KSSFIOAISA-N		7.8		pH 7.8
+0.17	epicatechin	879	PFTAWBLQPZVEMU-ZFWWWQNUSA-N				S-COMT, 0.25 mM S-adenosyl-L-methionine
+0.18	catechin	1085	PFTAWBLQPZVEMU-UHFFFAOYSA-N				S-COMT, 0.25 mM S-adenosyl-L-methionine
+0.18	norepinephrine	750	SFLSHLFXELFNJZ-UHFFFAOYSA-N				MB-COMT, 0.1 mM S-adenosyl-L-methionine
+0.19	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N				MB-COMT, 0.1 mM S-adenosyl-L-methionine
+0.25	epinephrine	864	UCTWMZQNUQWSLP-UHFFFAOYSA-N				MB-COMT, 0.1 mM S-adenosyl-L-methionine
+0.26	catechin	1085	PFTAWBLQPZVEMU-UHFFFAOYSA-N				MB-COMT, 0.25 mM S-adenosyl-L-methionine
+0.315	epicatechin	879	PFTAWBLQPZVEMU-ZFWWWQNUSA-N				MB-COMT, 0.25 mM S-adenosyl-L-methionine
+0.99	2-hydroxyestradiol	1534	DILDHNKDVHLEQB-XSSYPUMDSA-N				S-COMT, 0.1 mM S-adenosyl-L-methionine
+9.67	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C

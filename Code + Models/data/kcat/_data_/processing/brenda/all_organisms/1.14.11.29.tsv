@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0101	hypoxia-inducible factor-L-proline	123918	SHTHDOHPGJMTEE-VFWPHYJGSA-N	37	7.0	X	N-terminal oxygen degradation domain DALTLLAP402AAGDTIISLDYG mutant F413Y in absence of NaCl, pH 7.0, 37C
+0.0103	hypoxia-inducible factor-L-proline	123918	SHTHDOHPGJMTEE-VFWPHYJGSA-N	37	7.0	X	N-terminal oxygen degradation domain DALTLLAP402AAGDTIISLDYG mutant F413Y in presence of 100 mM NaCl, pH 7.0, 37C
+0.0188	hypoxia-inducible factor-L-proline	123918	SHTHDOHPGJMTEE-VFWPHYJGSA-N	37	7.0	X	C-terminal oxygen degradation domain DLDLEALAP564YIPADDDFQL mutant M561A/M568A in absence of NaCl, pH 7.0, 37C
+0.02	hypoxia-inducible factor-L-proline	123918	SHTHDOHPGJMTEE-VFWPHYJGSA-N	37	7.0	X	C-terminal oxygen degradation domain DLDLEALAP564YIPADDDFQL mutant M561A/M568A in presence of 100 mM NaCl, pH 7.0, 37C

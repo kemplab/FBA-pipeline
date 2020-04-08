@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.007	GDP-D-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N				recombinant enzyme with N-terminal His-tag
+0.01	GDP-D-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N				recombinant enzyme with N-terminal glutathione-S-transferase tag
+0.03	GDP-D-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N				without NAD+
+0.041	GDP-D-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N				native enzyme
+0.127	GDP-D-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N				in presence of 0.02 mM NAD+

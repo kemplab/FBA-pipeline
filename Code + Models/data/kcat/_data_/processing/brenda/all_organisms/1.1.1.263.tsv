@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.3	1,5-Anhydro-D-fructose	680	OCLOLUFOLJIQDC-HSUXUTPPSA-N			X	mutant D176A in the presence of NADPH
+3.7	1,5-Anhydro-D-fructose	680	OCLOLUFOLJIQDC-HSUXUTPPSA-N			X	mutant H108A in the presence of NADPH
+4.2	1,5-Anhydro-D-fructose	680	OCLOLUFOLJIQDC-HSUXUTPPSA-N			X	mutant K94G in the presence of NADPH
+5.5	1,5-Anhydro-D-fructose	680	OCLOLUFOLJIQDC-HSUXUTPPSA-N			X	mutant A13G/S10G in the presence of NADH
+6.3	1,5-Anhydro-D-fructose	680	OCLOLUFOLJIQDC-HSUXUTPPSA-N			X	mutant A13G/S33D in the presence of NADPH
+8.7	1,5-Anhydro-D-fructose	680	OCLOLUFOLJIQDC-HSUXUTPPSA-N				
+12.4	1,5-Anhydro-D-fructose	680	OCLOLUFOLJIQDC-HSUXUTPPSA-N			X	mutant A13G in the presence of NADH
+13.5	1,5-Anhydro-D-fructose	680	OCLOLUFOLJIQDC-HSUXUTPPSA-N			X	mutant S33D in the presence of NADH
+63.2	D-glucosone	4018	FYWIDDXZIOQEQU-SVXWRWBYSA-N				
+119	1,5-Anhydro-D-fructose	680	OCLOLUFOLJIQDC-HSUXUTPPSA-N			X	mutant S10G in the presence of NADPH
+145	1,5-Anhydro-D-fructose	680	OCLOLUFOLJIQDC-HSUXUTPPSA-N				recombinant wild type enzyme in the presence of NADPH
+156	1,5-Anhydro-D-fructose	680	OCLOLUFOLJIQDC-HSUXUTPPSA-N			X	mutant G206I in the presence of NADPH
+216	1,5-Anhydro-D-fructose	680	OCLOLUFOLJIQDC-HSUXUTPPSA-N				native wild type enzyme in the presence of NADPH
+286.7	1,5-Anhydro-D-fructose	680	OCLOLUFOLJIQDC-HSUXUTPPSA-N				
+369	1,5-Anhydro-D-fructose	680	OCLOLUFOLJIQDC-HSUXUTPPSA-N			X	mutant A13G/S10Gin the presence of NADPH
+405	1,5-Anhydro-D-fructose	680	OCLOLUFOLJIQDC-HSUXUTPPSA-N			X	mutant A13G in the presence of NADPH
+1300	1,5-Anhydro-D-fructose	680	OCLOLUFOLJIQDC-HSUXUTPPSA-N				

@@ -1,0 +1,41 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000333	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	65	7.5		65C, pH 7.5, H19A
+0.000117	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	65	7.5		65C, pH 7.5, R136A
+0.000133	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	65	7.5		65C, pH 7.5, R11A
+0.000167	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	65	7.5		65C, pH 7.5, H16A
+0.0008	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	65	7.5		65C, pH 7.5, R11K
+0.00222	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	65	7.5		65C, pH 7.5, R136K
+0.00278	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	65	7.5		65C, pH 7.5, wild-type
+0.42	tiazofurin riboside 5'-monophosphate	2264	XDDGVTBJYGSVPM-DBRKOABJSA-N	37	7.5		pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3
+0.55	tiazofurin riboside 5'-monophosphate	2264	XDDGVTBJYGSVPM-DBRKOABJSA-N	37	7.5		pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2
+0.654	nicotinamide ribonucleotide	623	DAYLJWODMCOQEW-TURQNECASA-O		7.5		wild type enzyme, in 50 mM HEPES-NaOH, pH 7.5, temperature not specified in the publication
+0.718	nicotinamide ribonucleotide	623	DAYLJWODMCOQEW-TURQNECASA-O	37	7.4		pH 7.4, 37C, recombinant enzyme, kinetics following Hanes-Woolf method
+0.73	nicotinamide ribonucleotide	623	DAYLJWODMCOQEW-TURQNECASA-O	37	7.4		pH 7.4, 37C, recombinant enzyme, kinetics following Eadie-Hofstee method
+0.74	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		isoform NMNAT3, in 30 mM HEPES/KOH, pH 7.5, at 37C
+0.75	nicotinamide ribonucleotide	623	DAYLJWODMCOQEW-TURQNECASA-O	37	7.5		isoform NMNAT3, in 30 mM HEPES/KOH, pH 7.5, at 37C
+0.76	nicotinamide ribonucleotide	623	DAYLJWODMCOQEW-TURQNECASA-O	37	7.4		pH 7.4, 37C, recombinant enzyme, kinetics following Lineweaver-Burk method
+0.969	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme, kinetics following Hanes-Woolf method
+0.984	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme, kinetics following Eadie-Hofstee method
+1.174	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme, kinetics following Lineweaver-Burk method
+2.33	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		isoform NMNAT2, in 30 mM HEPES/KOH, pH 7.5, at 37C
+2.41	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	26	7.5		pH 7.5, 26C, recombinant isozyme GlNMNAT-A
+2.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3
+2.5	NMN	623	DAYLJWODMCOQEW-TURQNECASA-O	37	7.5		pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3
+2.87	nicotinamide ribonucleotide	623	DAYLJWODMCOQEW-TURQNECASA-O	37	7.5		isoform NMNAT2, in 30 mM HEPES/KOH, pH 7.5, at 37C
+2.97	nicotinamide ribonucleotide	623	DAYLJWODMCOQEW-TURQNECASA-O	26	7.5		pH 7.5, 26C, recombinant isozyme GlNMNAT-A
+3.3	NMNH	1552	XQHMUSRSLNRVGA-TURQNECASA-N	37	7.5		pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2
+3.6	ADP-ribose	337	SRNWOUGRCWSEMX-KEOHHSTQSA-N	37	8.2		pH 8.2, 37C
+3.8	nicotinic acid mononucleotide	1045	JOUIQRNQJGXQDC-ZYUZMQFOSA-O	37	7.5		pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3
+6.9	nicotinic acid mononucleotide	1045	JOUIQRNQJGXQDC-ZYUZMQFOSA-O	37	7.5		pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2
+7.2	NMNH	1552	XQHMUSRSLNRVGA-TURQNECASA-N	37	7.5		pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3
+7.21	nicotinamide ribonucleotide	623	DAYLJWODMCOQEW-TURQNECASA-O		7.5	X	mutant enzyme C164S/C165S, in 50 mM HEPES-NaOH, pH 7.5, temperature not specified in the publication
+8.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2
+8.8	NMN	623	DAYLJWODMCOQEW-TURQNECASA-O	37	7.5		pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2
+14.9	tiazofurin riboside 5'-monophosphate	2264	XDDGVTBJYGSVPM-DBRKOABJSA-N	37	7.5		pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1
+15	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		isoform NMNAT1, in 30 mM HEPES/KOH, pH 7.5, at 37C
+15.5	nicotinamide ribonucleotide	623	DAYLJWODMCOQEW-TURQNECASA-O	37	7.5		isoform NMNAT1, in 30 mM HEPES/KOH, pH 7.5, at 37C
+18.6	NMNH	1552	XQHMUSRSLNRVGA-TURQNECASA-N	37	7.5		pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1
+35.33	nicotinamide ribonucleotide	623	DAYLJWODMCOQEW-TURQNECASA-O	30	10.0		pH 10.0, 30C, recombinant enzyme
+42.9	nicotinic acid mononucleotide	1045	JOUIQRNQJGXQDC-ZYUZMQFOSA-O	37	7.5		pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1
+53.8	NMN	623	DAYLJWODMCOQEW-TURQNECASA-O	37	7.5		pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1
+53.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1

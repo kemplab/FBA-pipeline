@@ -1,0 +1,147 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.012	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N			X	mutant E317Q
+0.037	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N			X	D270N mutant
+0.46	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N			X	mutant K166R
+2	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N			X	mutant enzyme Y54W
+2.5	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5	X	25C, pH 7.5, mutant enzyme N197A
+12	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N			X	mutant enzyme F52W/Y64W
+22	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5	X	mutant A25V, pH 7.5, 25C; mutant V26F, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant A25V; pH 7.5, 3.3 mM Mg2+, mutant V26F
+23	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5	X	mutant V26L, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant V26L
+53	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5	X	mutant V29F, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant V29F
+77	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5	X	mutant V22A, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+ mutant V22A
+89	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5	X	mutant V26A/V29L, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant V26A/V29L
+98	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5	X	mutant V22F, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant V22F
+120	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5	X	mutant T24S, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant T24S
+176	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5	X	mutant V29A, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant V29A
+180	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5	X	mutant V29L, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant V29L
+190	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N		7.5		recombinant mandelate racemase, putative misfolded form with N-terminal hexahistidine tag, Na-HEPES buffer (0.1 M, pH 7.5), 3.3 mM MgCl2
+248	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N			X	mutant enzyme F52W
+350	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N				wild type enzyme
+440	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N				wild type enzyme
+447	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5		; 25C, pH 7.5, wild-type enzyme
+467	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N				wild-type enzyme
+470	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5		pH 7.5, 3.3 mM Mg2+, wild-type; wild-type, pH 7.5, 25C
+472	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N		7.5		recombinant mandelate racemase fusion protein bearing an N-terminal StrepII-tag and a C-terminal decahistidine tag, Na-HEPES buffer (0.1 M, pH 7.5), 3.3 mM MgCl2
+492	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5		pH 7.5, 20 mM Mg2+, wild-type; wild-type, pH 7.5, 25C, presence of 20 mM Mg2+
+550	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5	X	mutant V26A, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant V26A
+637	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5		pH 7.5, 25C, recombinant wild-type enzyme
+650	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N				
+710	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5	X	mutant V22I/V29L, pH 7.5, 25C, presence of 20 mM Mg2+; pH 7.5, 3.3 mM Mg2+, mutant V26A/V29L
+740	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5	X	mutant V22I, pH 7.5, 25C, presence of 20 mM Mg2+; pH 7.5, 3.3 mM Mg2+, mutant V22I
+940	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N		7.5		recombinant mandelate racemase represents correctly folded enzyme, with N-terminal hexahistidine tag, in Na-HEPES buffer (0.1 M, pH 7.5), 3.3 mM MgCl2
+1124	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N		7.5		recombinant enzyme replacement of the N-terminal hexahistidine tag by a StrepII-tag appears to ameliorate the folding problem yielding a single enzyme species, Na-HEPES buffer (0.1 M, pH 7.5), 3.3 mM MgCl2
+0.018	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N			X	D270N mutant
+0.11	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N			X	mutant E317Q
+0.21	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N			X	mutant K166R
+1	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N			X	mutant enzyme F52W/Y64W
+3	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N	25	7.5	X	mutant V26L, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant V26L
+10	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N			X	mutant enzyme Y54W
+13	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N	25	7.5	X	mutant A25V, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant A25V
+16.9	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N	25	7.5	X	25C, pH 7.5, mutant enzyme N197A
+33	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N	25	7.5	X	mutant V26F, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant V26F
+53	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N	25	7.5	X	mutant V29F, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant V29F
+82	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N	25	7.5	X	mutant V22A, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant V22A
+98	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N	25	7.5	X	mutant V22F, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant V22F
+102	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N	25	7.5	X	mutant T24S, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant T24S
+106	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N	25	7.5	X	mutant V26A/V29L, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant V26A/V29L
+159	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N			X	mutant enzyme F52W
+240	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N	25	7.5	X	mutant V29A, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant V29A
+300	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N	25	7.5	X	mutant V29L, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant V29L
+304	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N	25	7.5	X	mutant V26A, pH 7.5, 25C; pH 7.5, 3.3 mM Mg2+, mutant V26A
+480	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N				wild type enzyme
+500	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N				wild type enzyme
+514	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N	25	7.5		; 25C, pH 7.5, wild-type enzyme
+526	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N				wild-type enzyme
+552	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N	25	7.5		pH 7.5, 3.3 mM Mg2+, wild-type; wild-type, pH 7.5, 25C
+620	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N	25	7.5		pH 7.5, 20 mM Mg2+, wild-type; wild-type, pH 7.5, 25C, presence of 20 mM Mg2+
+792	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N	25	7.5		pH 7.5, 25C, recombinant wild-type enzyme
+1010	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N	25	7.5	X	mutant V22I/V29L, pH 7.5, 25C, presence of 20 mM Mg2+; pH 7.5, 3.3 mM Mg2+, mutant V22I/V29L
+1150	(R)-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N	25	7.5	X	mutant V22I, pH 7.5, 25C, presence of 20 mM Mg2+; pH 7.5, 3.3 mM Mg2+, mutant V22I
+2.95	(S)-2-naphthylglycolate	1450	AXSZGQWPAAHKDH-NSHDSACASA-M	25	7.5	X	mutant V22F, pH 7.5, 25C
+5.4	(S)-2-naphthylglycolate	1450	AXSZGQWPAAHKDH-NSHDSACASA-M	25	7.5	X	mutant V26F, pH 7.5, 25C
+5.8	(S)-2-naphthylglycolate	1450	AXSZGQWPAAHKDH-NSHDSACASA-M	25	7.5	X	mutant A25V, pH 7.5, 25C
+7.1	(S)-2-naphthylglycolate	1450	AXSZGQWPAAHKDH-NSHDSACASA-M	25	7.5	X	mutant V22I/V29L, pH 7.5, 25C, presence of 20 mM Mg2+
+8.2	(S)-2-naphthylglycolate	1450	AXSZGQWPAAHKDH-NSHDSACASA-M	25	7.5	X	mutant V26L, pH 7.5, 25C
+8.9	(S)-2-naphthylglycolate	1450	AXSZGQWPAAHKDH-NSHDSACASA-M	25	7.5	X	mutant T24S, pH 7.5, 25C
+9.7	(S)-2-naphthylglycolate	1450	AXSZGQWPAAHKDH-NSHDSACASA-M	25	7.5	X	mutant V29F, pH 7.5, 25C
+9.8	(S)-2-naphthylglycolate	1450	AXSZGQWPAAHKDH-NSHDSACASA-M	25	7.5	X	mutant V26A/V29L, pH 7.5, 25C
+11.1	(S)-2-naphthylglycolate	1450	AXSZGQWPAAHKDH-NSHDSACASA-M	25	7.5	X	mutant V22A, pH 7.5, 25C
+14	(S)-2-naphthylglycolate	1450	AXSZGQWPAAHKDH-NSHDSACASA-M	25	7.5	X	mutant V26A, pH 7.5, 25C
+25	(S)-2-naphthylglycolate	1450	AXSZGQWPAAHKDH-NSHDSACASA-M	25	7.5		25C, pH 7.5
+30	(S)-2-naphthylglycolate	1450	AXSZGQWPAAHKDH-NSHDSACASA-M	25	7.5	X	mutant V29A, pH 7.5, 25C
+32	(S)-2-naphthylglycolate	1450	AXSZGQWPAAHKDH-NSHDSACASA-M	25	7.5		wild-type, pH 7.5, 25C
+38.4	(S)-2-naphthylglycolate	1450	AXSZGQWPAAHKDH-NSHDSACASA-M	25	7.5		wild-type, pH 7.5, 25C, presence of 20 mM Mg2+
+65	(S)-2-naphthylglycolate	1450	AXSZGQWPAAHKDH-NSHDSACASA-M	25	7.5	X	mutant V29L, pH 7.5, 25C
+101	(S)-2-naphthylglycolate	1450	AXSZGQWPAAHKDH-NSHDSACASA-M	25	7.5	X	mutant V22I, pH 7.5, 25C, presence of 20 mM Mg2+
+5.4	(R)-2-naphthylglycolate	1451	AXSZGQWPAAHKDH-LLVKDONJSA-M	25	7.5	X	mutant A25V, pH 7.5, 25C
+7.3	(R)-2-naphthylglycolate	1451	AXSZGQWPAAHKDH-LLVKDONJSA-M	25	7.5	X	mutant V26F, pH 7.5, 25C
+10.4	(R)-2-naphthylglycolate	1451	AXSZGQWPAAHKDH-LLVKDONJSA-M	25	7.5	X	mutant V22F, pH 7.5, 25C
+10.5	(R)-2-naphthylglycolate	1451	AXSZGQWPAAHKDH-LLVKDONJSA-M	25	7.5	X	mutant V22I/V29L, pH 7.5, 25C, presence of 20 mM Mg2+
+14	(R)-2-naphthylglycolate	1451	AXSZGQWPAAHKDH-LLVKDONJSA-M	25	7.5	X	mutant V26L, pH 7.5, 25C
+14.1	(R)-2-naphthylglycolate	1451	AXSZGQWPAAHKDH-LLVKDONJSA-M	25	7.5	X	mutant V29F, pH 7.5, 25C
+15.6	(R)-2-naphthylglycolate	1451	AXSZGQWPAAHKDH-LLVKDONJSA-M	25	7.5	X	mutant V22A, pH 7.5, 25C
+18.3	(R)-2-naphthylglycolate	1451	AXSZGQWPAAHKDH-LLVKDONJSA-M	25	7.5	X	mutant T24S, pH 7.5, 25C
+23	(R)-2-naphthylglycolate	1451	AXSZGQWPAAHKDH-LLVKDONJSA-M	25	7.5	X	mutant V26A/V29L, pH 7.5, 25C
+30	(R)-2-naphthylglycolate	1451	AXSZGQWPAAHKDH-LLVKDONJSA-M	25	7.5	X	mutant V26A, pH 7.5, 25C
+33	(R)-2-naphthylglycolate	1451	AXSZGQWPAAHKDH-LLVKDONJSA-M	25	7.5		25C, pH 7.5
+46	(R)-2-naphthylglycolate	1451	AXSZGQWPAAHKDH-LLVKDONJSA-M	25	7.5		wild-type, pH 7.5, 25C
+53	(R)-2-naphthylglycolate	1451	AXSZGQWPAAHKDH-LLVKDONJSA-M	25	7.5	X	mutant V29A, pH 7.5, 25C
+70	(R)-2-naphthylglycolate	1451	AXSZGQWPAAHKDH-LLVKDONJSA-M	25	7.5		wild-type, pH 7.5, 25C, presence of 20 mM Mg2+
+137	(R)-2-naphthylglycolate	1451	AXSZGQWPAAHKDH-LLVKDONJSA-M	25	7.5	X	mutant V29L, pH 7.5, 25C
+147	(R)-2-naphthylglycolate	1451	AXSZGQWPAAHKDH-LLVKDONJSA-M	25	7.5	X	mutant V22I, pH 7.5, 25C, presence of 20 mM Mg2+
+5.4	(R)-2-naphtylglyconate	1746	UJDJTWLEXYIASW-UHFFFAOYSA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant A25V
+7.3	(R)-2-naphtylglyconate	1746	UJDJTWLEXYIASW-UHFFFAOYSA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V26F
+10.4	(R)-2-naphtylglyconate	1746	UJDJTWLEXYIASW-UHFFFAOYSA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V22F
+10.5	(R)-2-naphtylglyconate	1746	UJDJTWLEXYIASW-UHFFFAOYSA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V22I/V29L
+14	(R)-2-naphtylglyconate	1746	UJDJTWLEXYIASW-UHFFFAOYSA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V26L
+14.1	(R)-2-naphtylglyconate	1746	UJDJTWLEXYIASW-UHFFFAOYSA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V29F
+15.6	(R)-2-naphtylglyconate	1746	UJDJTWLEXYIASW-UHFFFAOYSA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V22A
+18.3	(R)-2-naphtylglyconate	1746	UJDJTWLEXYIASW-UHFFFAOYSA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant T24S
+23	(R)-2-naphtylglyconate	1746	UJDJTWLEXYIASW-UHFFFAOYSA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V26A/V29L
+30	(R)-2-naphtylglyconate	1746	UJDJTWLEXYIASW-UHFFFAOYSA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V26A
+46	(R)-2-naphtylglyconate	1746	UJDJTWLEXYIASW-UHFFFAOYSA-N		7.5		pH 7.5, 3.3 mM Mg2+, wild-type
+53	(R)-2-naphtylglyconate	1746	UJDJTWLEXYIASW-UHFFFAOYSA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V29A
+70	(R)-2-naphtylglyconate	1746	UJDJTWLEXYIASW-UHFFFAOYSA-N		7.5		pH 7.5, 20 mM Mg2+, wild-type
+137	(R)-2-naphtylglyconate	1746	UJDJTWLEXYIASW-UHFFFAOYSA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V29L
+147	(R)-2-naphtylglyconate	1746	UJDJTWLEXYIASW-UHFFFAOYSA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V22I
+2.95	(S)-2-naphtylglyconate	1747	UJDJTWLEXYIASW-NSHDSACASA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V22F
+5.4	(S)-2-naphtylglyconate	1747	UJDJTWLEXYIASW-NSHDSACASA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V26F
+5.8	(S)-2-naphtylglyconate	1747	UJDJTWLEXYIASW-NSHDSACASA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant A25V
+7.1	(S)-2-naphtylglyconate	1747	UJDJTWLEXYIASW-NSHDSACASA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V26A/V29L
+8.2	(S)-2-naphtylglyconate	1747	UJDJTWLEXYIASW-NSHDSACASA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V26L
+8.9	(S)-2-naphtylglyconate	1747	UJDJTWLEXYIASW-NSHDSACASA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant T24S
+9.7	(S)-2-naphtylglyconate	1747	UJDJTWLEXYIASW-NSHDSACASA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V29F
+9.8	(S)-2-naphtylglyconate	1747	UJDJTWLEXYIASW-NSHDSACASA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V26A/V29L
+11.1	(S)-2-naphtylglyconate	1747	UJDJTWLEXYIASW-NSHDSACASA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V22A
+14	(S)-2-naphtylglyconate	1747	UJDJTWLEXYIASW-NSHDSACASA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V26A
+30	(S)-2-naphtylglyconate	1747	UJDJTWLEXYIASW-NSHDSACASA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V29A
+32	(S)-2-naphtylglyconate	1747	UJDJTWLEXYIASW-NSHDSACASA-N		7.5		pH 7.5, 3.3 mM Mg2+, wild-type
+38.4	(S)-2-naphtylglyconate	1747	UJDJTWLEXYIASW-NSHDSACASA-N		7.5		pH 7.5, 20 mM Mg2+, wild-type
+65	(S)-2-naphtylglyconate	1747	UJDJTWLEXYIASW-NSHDSACASA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V29L
+101	(S)-2-naphtylglyconate	1747	UJDJTWLEXYIASW-NSHDSACASA-N		7.5	X	pH 7.5, 3.3 mM Mg2+, mutant V22I
+11.03	(R)-mandelamide	2412	MAGPZHKLEZXLNU-SSDOTTSWSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+21.17	(R)-mandelamide	2412	MAGPZHKLEZXLNU-SSDOTTSWSA-N	25	7.5	X	pH 7.5, 25C, mutant V26L
+1070	D-mandelate	592	IWYDHOAUDWTVEP-SSDOTTSWSA-N				
+240	(R)-2-hydroxy-3-butenoic acid	19853	VBWPSWWDYVWZKA-GSVOUGTGSA-N				
+250	(S)-2-Hydroxy-3-butenoic acid	28514	VBWPSWWDYVWZKA-VKHMYHEASA-N				
+2	(R)-trifluorolactate	124576	BVKGUTLIPHZYCX-PVQJCKRUSA-N	25	7.5		pH 7.5, 25C, recombinant wild-type enzyme
+2.5	(S)-trifluorolactate	124577	BVKGUTLIPHZYCX-SFOWXEAESA-N	25	7.5		pH 7.5, 25C, recombinant wild-type enzyme
+388	(R)-3-chloromandelate	82404	SAMVPMGKGGLIPF-SSDOTTSWSA-N	25	7.5	X	pH 7.5, 25C, mutant V29L
+469	(R)-3-chloromandelate	82404	SAMVPMGKGGLIPF-SSDOTTSWSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+507	(R)-3-chloromandelate	82404	SAMVPMGKGGLIPF-SSDOTTSWSA-N	25	7.5	X	pH 7.5, 25C, mutant Y54F
+510	(R)-3-chloromandelate	82404	SAMVPMGKGGLIPF-SSDOTTSWSA-N	25	7.5	X	pH 7.5, 25C, mutant V26I/Y54V
+559	(R)-3-chloromandelate	82404	SAMVPMGKGGLIPF-SSDOTTSWSA-N	25	7.5	X	pH 7.5, 25C, mutant V26S
+565	(R)-3-chloromandelate	82404	SAMVPMGKGGLIPF-SSDOTTSWSA-N	25	7.5	X	pH 7.5, 25C, mutant Y54L
+637	(R)-3-chloromandelate	82404	SAMVPMGKGGLIPF-SSDOTTSWSA-N	25	7.5	X	pH 7.5, 25C, mutant V22I
+913	(R)-3-chloromandelate	82404	SAMVPMGKGGLIPF-SSDOTTSWSA-N	25	7.5	X	pH 7.5, 25C, mutant L319F
+953	(R)-3-chloromandelate	82404	SAMVPMGKGGLIPF-SSDOTTSWSA-N	25	7.5	X	pH 7.5, 25C, mutant Y54A
+1030	(R)-3-chloromandelate	82404	SAMVPMGKGGLIPF-SSDOTTSWSA-N	25	7.5	X	pH 7.5, 25C, mutant V26I/Y54I
+1160	(R)-3-chloromandelate	82404	SAMVPMGKGGLIPF-SSDOTTSWSA-N	25	7.5	X	pH 7.5, 25C, mutant Y54V
+1220	(R)-3-chloromandelate	82404	SAMVPMGKGGLIPF-SSDOTTSWSA-N	25	7.5	X	pH 7.5, 25C, mutant V22L
+1520	(R)-3-chloromandelate	82404	SAMVPMGKGGLIPF-SSDOTTSWSA-N	25	7.5	X	pH 7.5, 25C, mutant Y54I
+1710	(R)-3-chloromandelate	82404	SAMVPMGKGGLIPF-SSDOTTSWSA-N	25	7.5	X	pH 7.5, 25C, mutant V26L
+2020	(R)-3-chloromandelate	82404	SAMVPMGKGGLIPF-SSDOTTSWSA-N	25	7.5	X	pH 7.5, 25C, mutant V26I
+46	(2R)-2-naphthylglycolate	82111	UJDJTWLEXYIASW-LLVKDONJSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+70	(2R)-2-naphthylglycolate	82111	UJDJTWLEXYIASW-LLVKDONJSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme, in presence of 20 mM MgCl2
+137	(2R)-2-naphthylglycolate	82111	UJDJTWLEXYIASW-LLVKDONJSA-N	25	7.5	X	pH 7.5, 25C, mutant V29L
+147	(2R)-2-naphthylglycolate	82111	UJDJTWLEXYIASW-LLVKDONJSA-N	25	7.5	X	pH 7.5, 25C, mutant V22I

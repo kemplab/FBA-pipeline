@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+26.6	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	25	6.0		pH 6.0, 25C
+47.4	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N		5.0	X	mutant enzyme H103Y, in 100 mM citrate buffer pH 5.0, temperature not specified in the publication
+83.2	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N		5.0	X	mutant enzyme K176P, in 100 mM citrate buffer pH 5.0, temperature not specified in the publication
+90.4	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N		5.0	X	mutant enzyme H103L, in 100 mM citrate buffer pH 5.0, temperature not specified in the publication
+93.5	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N		5.0	X	mutant enzyme K176P/K199P/K224P, in 100 mM citrate buffer pH 5.0, temperature not specified in the publication
+96.1	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N		5.0	X	mutant enzyme H103M, in 100 mM citrate buffer pH 5.0, temperature not specified in the publication
+96.6	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N		5.0		wild type enzyme, in 100 mM citrate buffer pH 5.0, temperature not specified in the publication
+28.1	3-Methoxybenzaldehyde	1377	WMPDAIZRQDCGFH-UHFFFAOYSA-N	25	6.0		pH 6.0, 25C
+1.83	(S)-mandelonitrile	1705	NNICRUQPODTGRU-MRVPVSSYSA-N		5.0		in 50 mM citrate buffer (pH 5.0), temperature not specified in the publication
+21.5	(S)-mandelonitrile	1705	NNICRUQPODTGRU-MRVPVSSYSA-N			X	mutant enzyme H103L, in 100 mM citrate buffer pH above 6.0, temperature not specified in the publication
+21.67	(S)-mandelonitrile	1705	NNICRUQPODTGRU-MRVPVSSYSA-N		5.0		in 50 mM citrate buffer (pH 5.0), temperature not specified in the publication
+23.9	(S)-mandelonitrile	1705	NNICRUQPODTGRU-MRVPVSSYSA-N			X	mutant enzyme H103M, in 100 mM citrate buffer pH above 6.0, temperature not specified in the publication
+34.5	(S)-mandelonitrile	1705	NNICRUQPODTGRU-MRVPVSSYSA-N				wild type enzyme, in 100 mM citrate buffer pH above 6.0, temperature not specified in the publication
+39.7	(S)-mandelonitrile	1705	NNICRUQPODTGRU-MRVPVSSYSA-N			X	mutant enzyme K176P/K199P/K224P, in 100 mM citrate buffer pH above 6.0, temperature not specified in the publication
+41.8	(S)-mandelonitrile	1705	NNICRUQPODTGRU-MRVPVSSYSA-N			X	mutant enzyme K176P, in 100 mM citrate buffer pH above 6.0, temperature not specified in the publication
+49.2	3-methylbenzaldehyde	1966	OVWYEQOVUDKZNU-UHFFFAOYSA-N	25	6.0		pH 6.0, 25C
+53.6	2-Methylbenzaldehyde	2549	BTFQKIATRPGRBS-UHFFFAOYSA-N	25	6.0		pH 6.0, 25C
+91.4	piperonal	9135	SATCULPHIDQDRE-UHFFFAOYSA-N	25	6.0		pH 6.0, 25C
+18.5	2,4-dimethylbenzaldehyde	82524	GISVICWQYMUPJF-UHFFFAOYSA-N	25	6.0		pH 6.0, 25C

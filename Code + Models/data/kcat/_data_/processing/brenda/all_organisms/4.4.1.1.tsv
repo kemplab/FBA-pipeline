@@ -1,0 +1,51 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0035	O-acetyl-L-serine	549	VZXPDPZARILFQX-BYPYZUCNSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E48D/E333D
+0.0045	O-acetyl-L-serine	549	VZXPDPZARILFQX-BYPYZUCNSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E333D
+0.0047	O-acetyl-L-serine	549	VZXPDPZARILFQX-BYPYZUCNSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E48A/E333A
+0.0053	O-acetyl-L-serine	549	VZXPDPZARILFQX-BYPYZUCNSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E48D
+0.0058	O-acetyl-L-serine	549	VZXPDPZARILFQX-BYPYZUCNSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E333A
+0.0092	O-acetyl-L-serine	549	VZXPDPZARILFQX-BYPYZUCNSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E48Q/E333Q
+0.0097	O-acetyl-L-serine	549	VZXPDPZARILFQX-BYPYZUCNSA-N	25	7.2		pH 7.2, 25C, recombinant wild-type enzyme
+0.0102	O-acetyl-L-serine	549	VZXPDPZARILFQX-BYPYZUCNSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E333Q
+0.0124	O-acetyl-L-serine	549	VZXPDPZARILFQX-BYPYZUCNSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E48Q
+0.0142	O-acetyl-L-serine	549	VZXPDPZARILFQX-BYPYZUCNSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E48A
+0.02	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N			X	for mutante Q240E
+0.029	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E48D/E333D
+0.09	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E48A
+0.11	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E48A/E333A
+0.12	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	8.2		wild type enzyme, in 50 mM sodium phosphate buffer (pH 8.2) , at 37C
+0.15	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	25	7.2		pH 7.2, 25C, recombinant wild-type enzyme
+0.16	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E48Q/E333Q
+0.18	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E48Q
+0.24	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E333D
+0.3	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N			X	for mutante T67I
+0.32	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E48D
+0.34	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	8.2	X	mutant enzyme E339K, in 50 mM sodium phosphate buffer (pH 8.2) , at 37C
+0.39	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	7.8	X	mutant enzyme E48F, in 50 mM potassium phosphate, pH 7.8, at 25C
+0.4	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				
+0.45	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N			X	for mutante T67I
+0.48	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E333Q
+0.5	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E333Q
+0.54	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E48A
+0.67	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	7.8	X	mutant enzyme E48A, in 50 mM potassium phosphate, pH 7.8, at 25C
+0.67	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				for variante I403; for variante S403
+0.69	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	7.8	X	mutant enzyme E333A, in 50 mM potassium phosphate, pH 7.8, at 25C
+0.76	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	7.8	X	mutant enzyme E48D, in 50 mM potassium phosphate, pH 7.8, at 25C
+0.76	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	8.2	X	mutant enzyme E339Y, in 50 mM sodium phosphate buffer (pH 8.2) , at 37C
+0.78	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E333A
+0.82	L-homocysteine	260	FFFHZYDWPBMWHY-VKHMYHEASA-N			X	for mutante T67I
+0.9	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	7.8		native wild type enzyme, in 50 mM potassium phosphate, pH 7.8, at 25C
+0.98	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E333D
+1.29	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E48Q
+1.3	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E333A
+1.4	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	7.2	X	pH 7.2, 25C, recombinant mutant E48D
+1.44	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	8.2	X	mutant enzyme E339A, in 50 mM sodium phosphate buffer (pH 8.2) , at 37C
+1.51	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	7.2		pH 7.2, 25C, recombinant wild-type enzyme
+1.7	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N				for variante S403
+1.81	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	7.8		His-tagged recombinant wild type enzyme, in 50 mM potassium phosphate, pH 7.8, at 25C
+1.9	cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N				
+1.9	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N				for variante I403
+3.5	L-homocysteine	260	FFFHZYDWPBMWHY-VKHMYHEASA-N				for variante S403
+3.7	L-homocysteine	260	FFFHZYDWPBMWHY-VKHMYHEASA-N				for variante I403
+7.5	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N				
+12	Cys	70	XUJNEKJLAYXESH-REOHCLBHSA-N				

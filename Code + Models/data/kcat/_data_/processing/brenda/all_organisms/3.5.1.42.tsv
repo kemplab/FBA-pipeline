@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.38	beta-nicotinamide D-ribonucleotide	623	DAYLJWODMCOQEW-TURQNECASA-O	37	7.4		recombinant enzyme, pH 7.4, 37C
+1.1	beta-nicotinamide D-ribonucleotide	623	DAYLJWODMCOQEW-TURQNECASA-O	37	7.5	X	recombinant mutant S103A, pH 7.5, 37C
+3.2	beta-nicotinamide D-ribonucleotide	623	DAYLJWODMCOQEW-TURQNECASA-O	37	7.5	X	recombinant mutant T31A, pH 7.5, 37C
+3.3	nicotinamide mononucleotide	623	DAYLJWODMCOQEW-TURQNECASA-O	37	8.0		in 100 mM potassium phosphate, pH 8.0, 10 mM sodium fluoride, 10 mM EDTA, at 37C
+3.3	nicotinamide mononucleotide	623	DAYLJWODMCOQEW-TURQNECASA-O	37	8.0		in 100 mM potassium phosphate, pH 8.0, 10 mM sodium fluoride, 10 mM EDTA, at 37C
+3.9	beta-nicotinamide D-ribonucleotide	623	DAYLJWODMCOQEW-TURQNECASA-O	37	7.5	X	recombinant mutant E28A, pH 7.5, 37C
+4.1	beta-nicotinamide D-ribonucleotide	623	DAYLJWODMCOQEW-TURQNECASA-O	37	7.5		recombinant wild-type enzyme, pH 7.5, 37C

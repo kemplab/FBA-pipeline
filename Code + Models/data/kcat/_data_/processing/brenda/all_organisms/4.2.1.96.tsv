@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.4	4a(S)-hydroxy-6(R)-methyltetrahydropterin	6300	KKZHOKPJEZUDMN-HWCFNMORSA-N			X	mutant enzyme H62A
+7.5	4a(S)-hydroxy-6(R)-methyltetrahydropterin	6300	KKZHOKPJEZUDMN-HWCFNMORSA-N			X	mutant enzyme H79A
+8.6	4a(R)-hydroxy-6(S)-methyltetrahydropterin	6299	KKZHOKPJEZUDMN-RKZJDPPWSA-N			X	mutant enzyme H61A
+8.9	4a(R)-hydroxy-6(S)-methyltetrahydropterin	6299	KKZHOKPJEZUDMN-RKZJDPPWSA-N			X	mutant enzyme H62A
+10	4a(R)-hydroxy-6(S)-methyltetrahydropterin	6299	KKZHOKPJEZUDMN-RKZJDPPWSA-N				wild type enzyme
+10	4a(S)-hydroxy-6(R)-methyltetrahydropterin	6300	KKZHOKPJEZUDMN-HWCFNMORSA-N				wild type enzyme
+23	(6R)-6-(L-erythro-1,2-dihydroxypropyl)-5,6,7,8-tetrahydro-4a-hydroxypterin	2729	KJKIEFUPAPPGBC-JVJCOLAWSA-N				N61D; N61D/Q45R/K98Q; Q45R/K98Q
+24	(6R)-6-(L-erythro-1,2-dihydroxypropyl)-5,6,7,8-tetrahydro-4a-hydroxypterin	2729	KJKIEFUPAPPGBC-JVJCOLAWSA-N				wild-type

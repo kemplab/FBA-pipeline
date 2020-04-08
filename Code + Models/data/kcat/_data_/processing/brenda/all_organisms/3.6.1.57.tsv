@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.27	UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altropyranose	3739	KCAODEOZHCZEBC-SXTUWYCGSA-N	37	7.3	X	pH 7.3, 37C, mutant enzyme N255A
+2.8	UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altropyranose	3739	KCAODEOZHCZEBC-SXTUWYCGSA-N	37	7.3	X	pH 7.3, 37C, mutant enzyme H17N
+8.3	UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altropyranose	3739	KCAODEOZHCZEBC-SXTUWYCGSA-N	37	7.3	X	pH 7.3, 37C, mutant enzyme Y78F
+25	UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altropyranose	3739	KCAODEOZHCZEBC-SXTUWYCGSA-N	37	7.3		pH 7.3, 37C, wild-type enzym
+26.6	UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altropyranose	3739	KCAODEOZHCZEBC-SXTUWYCGSA-N	37	7.5		pH 7.5, 37C

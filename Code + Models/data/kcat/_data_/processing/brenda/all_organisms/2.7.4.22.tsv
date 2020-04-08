@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+19	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N	60			radioactive assay, at 60C, the more commonly used photometric assay using auxiliary enzymes is incompatible with high temperature
+117.9	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N	30	7.4		in the presence of 2 mM Mg2+, at pH 7.4 and 30C
+120	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				in the presence of MnCl2
+175	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				in the presence of MgCl2
+189.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4		in the presence of 2 mM Mg2+, at pH 7.4 and 30C
+436.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4		in the presence of 2 mM Mn2+, at pH 7.4 and 30C
+545.2	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N	30	7.4		in the presence of 2 mM Mn2+, at pH 7.4 and 30C

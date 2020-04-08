@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.05	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5	X	mutant enzyme N468A, in the absence of DNA, in 40 mM Tris-HCl (pH 7.5), 10 mM MgCl2, 10 mM dithiothreitol, 50 mM potassium glutamate, at 37C; mutant enzyme R493A/N468A, in the presence of M13 single-stranded DNA, in 40 mM Tris-HCl (pH 7.5), 10 mM MgCl2, 10 mM dithiothreitol, 50 mM potassium glutamate, at 37C
+0.06	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5	X	mutant enzyme N468A, in the presence of M13 single-stranded DNA, in 40 mM Tris-HCl (pH 7.5), 10 mM MgCl2, 10 mM dithiothreitol, 50 mM potassium glutamate, at 37C
+0.08	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5	X	mutant enzyme R493Q, in the presence of M13 single-stranded DNA, in 40 mM Tris-HCl (pH 7.5), 10 mM MgCl2, 10 mM dithiothreitol, 50 mM potassium glutamate, at 37C
+0.22	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5	X	mutant enzyme R493Q, in the absence of DNA, in 40 mM Tris-HCl (pH 7.5), 10 mM MgCl2, 10 mM dithiothreitol, 50 mM potassium glutamate, at 37C; wild type enzyme, in the absence of DNA, in 40 mM Tris-HCl (pH 7.5), 10 mM MgCl2, 10 mM dithiothreitol, 50 mM potassium glutamate, at 37C
+0.35	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5	X	mutant enzyme R493A/N468A, in the absence of DNA, in 40 mM Tris-HCl (pH 7.5), 10 mM MgCl2, 10 mM dithiothreitol, 50 mM potassium glutamate, at 37C
+20	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		wild type enzyme, in the presence of M13 single-stranded DNA, in 40 mM Tris-HCl (pH 7.5), 10 mM MgCl2, 10 mM dithiothreitol, 50 mM potassium glutamate, at 37C

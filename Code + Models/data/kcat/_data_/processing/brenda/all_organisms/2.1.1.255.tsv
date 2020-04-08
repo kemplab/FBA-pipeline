@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0075	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	37	7.0		pH 7.0, 37C, recombinant enzyme; pH and temperature not specified in the publication
+0.0075	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	37	7.0		pH 7.0, 37C, recombinant enzyme; pH and temperature not specified in the publication
+0.039	(E)-2-methylgeranyl diphosphate	6013	PRUWPPRJQIGKNB-ZHACJKMWSA-N	37	7.0		pH 7.0, 37C, recombinant enzyme

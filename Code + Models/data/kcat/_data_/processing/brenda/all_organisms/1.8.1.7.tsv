@@ -1,0 +1,58 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+37.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				
+53.72	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	8.0		in 100 mM potassium phosphate buffer (pH 8.0), at 25C
+367	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				recombinant enzyme
+463.3	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				recombinant Glr1
+900	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				native Glr1
+32.5	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				
+38	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				recombinant enzyme
+1.2	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	25	7.0		truncated recombinant enzyme (lacking the last two amino acids Sec597-Gly598), in 100 mM potassium phosphate pH 7.0, at 25C
+16	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	25	7.0		full length enzyme, in 100 mM potassium phosphate pH 7.0, at 25C
+0.16	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	25			25C
+0.16	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	25			25C
+0.19	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	37	7.0		truncated recombinant enzyme (lacking the last two amino acids Sec597-Gly598), in 150 mM potassium phosphate pH 7.0, at 37C
+210	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N				
+210	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N				
+210	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N				
+210	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N		7.5		pH 7.5
+317	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N				
+538.3	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N		7.5	X	pH 7.5, mutant enzyme N21R
+733.3	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N		7.5		pH 7.5, wild-type enzyme
+2	glutathione disulfide	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	25	7.4	X	mutant enzyme, pH 7.4, 25C
+5	glutathione disulfide	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	25	7.4	X	mutant enzyme, pH 7.4, 25C
+48.3	glutathione disulfide	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N				reoxidation
+50.14	glutathione disulfide	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	25	8.0		in 100 mM potassium phosphate buffer (pH 8.0), at 25C
+120	glutathione disulfide	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	25	7.4		pH 7.4, 25C
+165	glutathione disulfide	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	25	7.4		pH 7.4, 25C
+1	1,4-Naphthoquinone	823	FRASJONUBLZVQX-UHFFFAOYSA-N	25	7.0		pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25C
+1.08	1,4-Naphthoquinone	823	FRASJONUBLZVQX-UHFFFAOYSA-N	25			25C
+1.08	1,4-Naphthoquinone	823	FRASJONUBLZVQX-UHFFFAOYSA-N	25			25C
+5.5	5-hydroxy-1,4-naphthoquinone	1018	KQPYUDDGWXQXHS-UHFFFAOYSA-N	25	7.0		pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25C
+0.16	trypanothione	1290	PHDOXVGRXXAYEB-VJANTYMQSA-N		7.5		pH 7.5
+20.8	trypanothione	1290	PHDOXVGRXXAYEB-VJANTYMQSA-N				recombinant glutathione-trypanothione reductase-like enzyme
+85	trypanothione	1290	PHDOXVGRXXAYEB-VJANTYMQSA-N		7.5	X	pH 7.5, mutant enzyme N21R
+101.7	trypanothione	1290	PHDOXVGRXXAYEB-VJANTYMQSA-N		7.5		pH 7.5, wild-type enzyme
+0.14	2-methyl-1,4-naphthoquinone	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	25	7.0		pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25C
+1.1	2,6-dimethyl-1,4-benzoquinone	2325	SENUUPBBLQWHMF-UHFFFAOYSA-N	25	7.0		pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25C
+7	5,8-Dihydroxy-1,4-naphthoquinone	4032	RQNVIKXOOKXAJQ-UHFFFAOYSA-N	25	7.0		pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25C
+0.22	9,10-phenanthrene quinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	25	7.0		pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25C
+0.1	1,8-dihydroxy-9,10-anthraquinone	5020	QBPFLULOKWLNNW-UHFFFAOYSA-N	25	7.0		pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25C
+0.3	tetramethyl-1,4-benzoquinone	946	WAMKWBHYPYBEJY-UHFFFAOYSA-N	25	7.0		pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25C
+0.16	diallyl trisulfide	5655	UBAXRAHSPKWNCX-UHFFFAOYSA-N				
+0.35	6-methylquinoline-5,8-dione	5860	XXQAHBXLRFWCTG-UHFFFAOYSA-N	25			25C
+0.35	6-methylquinoline-5,8-dione	5860	XXQAHBXLRFWCTG-UHFFFAOYSA-N	25			25C
+0.13	7-methylquinoline-5,8-dione	5861	YRJYIDLDVMUPOX-UHFFFAOYSA-N	25			25C
+0.39	7-methylquinoline-5,8-dione	5861	YRJYIDLDVMUPOX-UHFFFAOYSA-N	25			25C
+0.08	6,7-dimethylquinoline-5,8-dione	5862	ZLBBUZKKNNMGHA-UHFFFAOYSA-N	25			25C
+0.11	6,7-dimethylquinoline-5,8-dione	5862	ZLBBUZKKNNMGHA-UHFFFAOYSA-N	25			25C
+0.34	quinoxaline-5,8-dione	5863	GHLUWAJFYKILGZ-UHFFFAOYSA-N	25			25C
+0.35	quinoxaline-5,8-dione	5863	GHLUWAJFYKILGZ-UHFFFAOYSA-N	25			25C
+0.11	1,4-dihydroxy-9,10-anthraquinone	7529	GUEIZVNYDFNHJU-UHFFFAOYSA-N	25	7.0		pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25C
+0.2	trimethyl-1,4-benzoquinone	9060	QIXDHVDGPXBRRD-UHFFFAOYSA-N	25	7.0		pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25C
+0.1	diethyl [2,5-bis(aziridin-1-yl)-3,6-dioxocyclohexa-1,4-diene-1,4-diyl]biscarbamate	9593	WVYXNIXAMZOZFK-UHFFFAOYSA-N	25	7.0		kcat_Km above 0.8 1/sec*mM, pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25Ckcat above 0.1 1/sec, pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25C
+0.34	(E)-ajoene	6409	IXELFRRANAOWSF-FNORWQNLSA-N				
+1.47	(E)-ajoene	6409	IXELFRRANAOWSF-FNORWQNLSA-N				+ GSH
+1.55	quinoline-5,8-dione	12454	NVJSPQCVDHGYRE-UHFFFAOYSA-N	25			25C
+2.23	quinoline-5,8-dione	12454	NVJSPQCVDHGYRE-UHFFFAOYSA-N	25			25C
+5	2,5-bis(aziridin-1-yl)cyclohexa-2,5-diene-1,4-dione	12924	RCWJMKCTHJPXJV-UHFFFAOYSA-N	25	7.0		pH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25CpH 7.0, 0.1 M potassium phosphate, 1 mM EDTA, 25C
+2.6	(Z)-ajoene	14166	IXELFRRANAOWSF-ALCCZGGFSA-N				

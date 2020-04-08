@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3.9	NH4Cl	282	NLXLAEXVIDQMFP-UHFFFAOYSA-N			X	N-terminal deletion mutant, His-tagged
+9.6	NH4Cl	282	NLXLAEXVIDQMFP-UHFFFAOYSA-N			X	mutant T4A, His-tagged
+11.6	NH4Cl	282	NLXLAEXVIDQMFP-UHFFFAOYSA-N			X	mutant L6A, His-tagged
+20.9	NH4Cl	282	NLXLAEXVIDQMFP-UHFFFAOYSA-N				wild-type with His-tag
+2.1	5,10-methylenetetrahydrofolate	336	QYNUQALWYRSVHF-OLZOCXBDSA-N			X	N-terminal deletion mutant, His-tagged
+7.8	5,10-methylenetetrahydrofolate	336	QYNUQALWYRSVHF-OLZOCXBDSA-N			X	mutant T4A, His-tagged
+10.3	5,10-methylenetetrahydrofolate	336	QYNUQALWYRSVHF-OLZOCXBDSA-N			X	mutant L6A, His-tagged
+14.4	5,10-methylenetetrahydrofolate	336	QYNUQALWYRSVHF-OLZOCXBDSA-N				
+18.4	5,10-methylenetetrahydrofolate	336	QYNUQALWYRSVHF-OLZOCXBDSA-N				wild-type with His-tag
+8.75	5,10-methylenetetrahydropteroyltetraglutamate	4170	FKRJBFJWSHKJTM-FXTUREPZSA-N				
+9.5	5,10-methylenetetrahydropteroyltetraglutamate	4170	FKRJBFJWSHKJTM-FXTUREPZSA-N			X	N-terminal deletion mutant, His-tagged
+10.5	5,10-methylenetetrahydropteroyltetraglutamate	4170	FKRJBFJWSHKJTM-FXTUREPZSA-N				wild-type with His-tag
+10.6	5,10-methylenetetrahydropteroyltetraglutamate	4170	FKRJBFJWSHKJTM-FXTUREPZSA-N			X	mutant L6A, His-tagged
+11.6	5,10-methylenetetrahydropteroyltetraglutamate	4170	FKRJBFJWSHKJTM-FXTUREPZSA-N			X	mutant T4A, His-tagged

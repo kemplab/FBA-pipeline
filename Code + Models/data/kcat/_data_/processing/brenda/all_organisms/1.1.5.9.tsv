@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+69.54	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				pH and temperature not specified in the publication
+179	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	5.5		recombinant enzyme, pH 5.5, 30C
+180	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	5.5		native enzyme, pH 5.5, 30C
+380	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5		native enzyme, pH 7.5, 30C
+418	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5		recombinant enzyme, pH 7.5, 30C
+749.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	7.0		recombinant enzyme, apparent value, at pH 7.0 and 37C
+760	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	149	6.5	X	mutant enzyme V149C7G190C, at pH 6.5 and 25C
+780	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	6.5		wild type enzyme, at pH 6.5 and 25C
+5330	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				
+40	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	5.5		native enzyme, pH 5.5, 30C
+53	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	5.5		recombinant enzyme, pH 5.5, 30C
+60	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	7.5		native enzyme, pH 7.5, 30C
+61	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	7.5		recombinant enzyme, pH 7.5, 30C
+230	Fe(CN)63-	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				apparent turnover number

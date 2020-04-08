@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.32	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N				chondrosarcoma transglutaminase B
+0.467	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N				transglutaminase C
+1.86	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N				factor XIIIa
+0.00055	ethylamine	565	QUSNBJAOOMFDIB-UHFFFAOYSA-N				1-N-(carbobenzoxy-L-glutaminylglycyl)-5-N-(5'-N',N'-dimethylamino-1'-naphthalenesulfonyl)diamidopentane as glutamine donor
+0.0004	Propylamine	1072	WGYKZJWCGVVSQN-UHFFFAOYSA-N				1-N-(carbobenzoxy-L-glutaminylglycyl)-5-N-(5'-N',N'-dimethylamino-1'-naphthalenesulfonyl)diamidopentane as glutamine donor
+0.00055	Butylamine	1044	HQABUPZFAYXKJW-UHFFFAOYSA-N				1-N-(carbobenzoxy-L-glutaminylglycyl)-5-N-(5'-N',N'-dimethylamino-1'-naphthalenesulfonyl)diamidopentane as glutamine donor
+0.17	Nalpha-benzyloxycarbonyl-L-Gln-Gly	10735	SOUXAAOTONMPRY-NSHDSACASA-N	37	7.2	X	mutant enzyme C230A, in 1 M MOPS, 5 mM EDTA, and 50 mM 2-oxoglutarate (pH 7.2), 100 mM CaCl2, at 37C
+0.19	Nalpha-benzyloxycarbonyl-L-Gln-Gly	10735	SOUXAAOTONMPRY-NSHDSACASA-N	37	7.2		wild type enzyme, in 1 M MOPS, 5 mM EDTA, and 50 mM 2-oxoglutarate (pH 7.2), 100 mM CaCl2, at 37C
+0.00233	involucrin	14299	FSBLXTAIINGBJY-UHFFFAOYSA-N				recombinant transglutaminase 5
+2.8	NQENVSPLTLLRLGN	16161	QICYIYJJWWYYAD-ZISQGCNESA-N	37	7.4		37C, pH 7.4
+77.3	NQENVSPLTLLRLGN	16161	QICYIYJJWWYYAD-ZISQGCNESA-N	37	7.4		37C, pH 7.4
+0.088	CBz-Gln-Gly	10735	SOUXAAOTONMPRY-NSHDSACASA-N	37	7.2		at pH 7.2 and 37C
+96	CBz-Gln-Gly	10735	SOUXAAOTONMPRY-NSHDSACASA-N	37	7.0		37C, pH 7.0
+51	CBz-Gln-Ala	23318	KNVLNSBUANOSHD-JQWIXIFHSA-N	37	7.0		37C, pH 7.0
+71	CBz-Gln-Val	23319	CZUIZHWORLDXSN-ZFWWWQNUSA-N	37	7.0		37C, pH 7.0
+127	CBz-Gln-Leu	23320	IXNLPONTCMXBMQ-GJZGRUSLSA-N	37	7.0		37C, pH 7.0
+54	CBz-Gln-Phe	23321	VXTWBZOVHXKSCR-ROUUACIJSA-N	37	7.0		37C, pH 7.0
+66	CBz-Gln-Ser	23322	ONMSMLNGEGKSSD-RYUDHWBXSA-N	37	7.0		37C, pH 7.0
+102	CBz-Gln-Gly-Gly	23323	ZMPOHIBMPSUJCM-LBPRGKRZSA-N	37	7.0		37C, pH 7.0
+78	LGPQSKVIG	24381	UERWLOGGAORNBU-TUQKNVKFSA-N	37	7.4		37C, pH 7.4
+44	LGPQSLVIG	24382	MHZTVCYTKYMVAV-TUQKNVKFSA-N	37	7.4		37C, pH 7.4
+175	NQEQVSPLTLLKLGN	24383	LHNIYCBMODSYQC-RHLGTNDGSA-N	37	7.4		37C, pH 7.4
+147	NQENVSPLTLLKLGN	24384	HTRJHKKHOKCWJJ-VCFFDIMXSA-N	37	7.4		37C, pH 7.4
+0.00035	alpha-carbobenzoxy-lysine	13729	OJTJKAUNOLVMDX-UHFFFAOYSA-N				1-N-(carbobenzoxy-L-glutaminylglycyl)-5-N-(5'-N'-N'-dimethylamino-1'naphthalenesulfonyl)diamidopentane as glutamine donor

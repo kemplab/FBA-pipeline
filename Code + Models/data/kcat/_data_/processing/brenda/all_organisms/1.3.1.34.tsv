@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.008	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.4	X	mutant enzyme C337A, in 50 mM potassium phosphate buffer (pH 7.4)
+0.011	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.4	X	mutant enzyme H252A, in 50 mM potassium phosphate buffer (pH 7.4)
+0.15	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.4	X	mutant enzyme E164A, in 50 mM potassium phosphate buffer (pH 7.4)
+0.44	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.4	X	mutant enzyme H252A/Y166F, in 50 mM potassium phosphate buffer (pH 7.4)
+2.1	2-trans,4-trans-hexadienoyl-CoA	21447	IZVRSCDRSPUCHF-XARCHFPQSA-N				
+2.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.4	X	mutant enzyme Y166F, in 50 mM potassium phosphate buffer (pH 7.4)
+9.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.4		wild type enzyme, in 50 mM potassium phosphate buffer (pH 7.4)
+16	2-trans,4-trans-decadienoyl-CoA	8678	FASAKYLWSRDQOH-IKZSJNQUSA-N				

@@ -1,0 +1,38 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.59	D-Ile-Pro-Arg-p-nitroanilide	108746	XHTORJWGZKCDGL-UDTPNQRGSA-N	30	8.0	X	pH 8.0, 30C, mutant enzyme DELTA360-329, without tissue factor
+1.95	D-Ile-Pro-Arg-p-nitroanilide	108746	XHTORJWGZKCDGL-UDTPNQRGSA-N	30	8.0		pH 8.0, 30C, activated wild-type enzyme, without tissue factor
+3.29	D-Ile-Pro-Arg-p-nitroanilide	108746	XHTORJWGZKCDGL-UDTPNQRGSA-N	30	8.0		pH 8.0, 30C, plasma derived wild-type enzyme, without tissue factor
+7.81	D-Ile-Pro-Arg-p-nitroanilide	108746	XHTORJWGZKCDGL-UDTPNQRGSA-N	30	8.0	X	pH 8.0, 30C, mutant enzyme DELTA360-329, activated by tissue factor
+18.53	D-Ile-Pro-Arg-p-nitroanilide	108746	XHTORJWGZKCDGL-UDTPNQRGSA-N	30	8.0	X	pH 8.0, 30C, mutant enzyme which has all of the residues of the loop formed by a disulfide bond between Cys310 and Cys329 replaced with those of trypsin, without tissue factor
+20.98	D-Ile-Pro-Arg-p-nitroanilide	108746	XHTORJWGZKCDGL-UDTPNQRGSA-N	30	8.0	X	pH 8.0, 30C, mutant enzyme which has all of the residues of the loop formed by a disulfide bond between Cys310 and Cys329 replaced with those of trypsin, activated by tissue factor
+37.08	D-Ile-Pro-Arg-p-nitroanilide	108746	XHTORJWGZKCDGL-UDTPNQRGSA-N	30	8.0		pH 8.0, 30C, activated wild-type enzyme, activated by tissue factor
+44.2	D-Ile-Pro-Arg-p-nitroanilide	108746	XHTORJWGZKCDGL-UDTPNQRGSA-N	30	8.0		pH 8.0, 30C, plasma derived wild-type enzyme, activated by tissue factor
+8.4	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		8.0		pH 8.0, wild-type enzyme, without tissue factor
+12.1	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+24.6	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N	37	8.0	X	pH 8.0, 37C, mutant enzyme M156Q
+32.2	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		8.0	X	pH 8.0, mutant enzyme V21N/E154I/M156Q, without tissue factor
+37.2	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		8.0		pH 8.0, wild-type enzyme, with addition of tissue factor
+47	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		8.0	X	pH 8.0, mutant enzyme V21N/E154I/M156Q, with addition of tissue factor
+49.1	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme, addition of tissue factor
+49.8	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N	37	8.0	X	pH 8.0, 37C, mutant enzyme M156Q, addition of tissue factor
+1500	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		6.5		pH 6.5, MTE buffer, without tissue factor
+1560	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		6.5		pH 6.5, MES buffer, without tissue factor
+5940	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		9.5		pH 9.5, BTP buffer, without tissue factor
+7200	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		9.5		pH 9.5, ethanolamine buffer, without tissue factor
+9600	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		9.5		pH 9.5, MTE buffer, without tissue factor
+31800	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		7.5		pH 7.5, Tris buffer, without tissue factor
+33600	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		7.5		pH 7.5, HEPES buffer, without tissue factor
+38400	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		7.5		pH 7.5, MTE buffer, without tissue factor
+84000	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		9.5		pH 9.5, veronal buffer, without tissue factor
+96000	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		6.5		pH 6.5, MES buffer, in presence of tissue factor; pH 6.5, MTE buffer, in presence of tissue factor
+198000	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		7.5		pH 7.5, HEPES buffer, in presence of tissue factor
+216000	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		7.5		pH 7.5, MTE buffer, in presence of tissue factor
+246000	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		7.5		pH 7.5, Tris buffer, in presence of tissue factor
+324000	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		9.5		pH 9.5, veronal buffer, in presence of tissue factor
+360000	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		9.5		pH 9.5, MTE buffer, in presence of tissue factor
+366000	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		9.5		pH 9.5, BTP buffer, in presence of tissue factor
+396000	N-methylsulfonyl-D-Phe-Gly-Arg-p-nitroanilide	1296	DHBFRMLZXPZFCC-SFTDATJTSA-N		9.5		pH 9.5, ethanolamine buffer, in presence of tissue factor
+13	S-2288	5713	XHTORJWGZKCDGL-GRGSLBFTSA-N	37	7.4		in 50 mM HEPES, pH 7.4, with 0.1 M NaCl, 5 mM CaCl2, 0.1% (w/v) bovine serum albumin, and 0.01% Tween 80, at 37C
+16	spectrozyme fVIIa	15134	IMXDIVDJELMKOR-OYDTZGIZSA-N			X	mutant enzyme A294V
+17	spectrozyme fVIIa	15134	IMXDIVDJELMKOR-OYDTZGIZSA-N				wild-type enzyme
+17	methanesulfonyl-D-cyclohexylalanyl-butyl-arginine p-nitroanilide	23161	WICOGLGEDKUUNM-PBHICJAKSA-N				wild-type enzyme

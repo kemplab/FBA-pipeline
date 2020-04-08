@@ -1,0 +1,35 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.014	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N		7.5		pH 7.5, temperature not specified in the publication
+0.02	thermospermine	3279	DODDBCGMRAFLEB-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, recombinant AtPAO1
+0.0208	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N		8.5	X	pH 8.5, mutant mSMOmuDELTA (with a deletion of the nuclear domain A)
+0.024	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	25	8.5	X	mutant H82Q, pH 8.5, 25C; pH 8.5, 25C, recombinant mutant H82Q
+0.09	norspermine	2897	ZAXCZCOUDLENMH-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, recombinant AtPAO1
+0.1	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	25	8.5	X	mutant K367M, pH 8.5, 25C; pH 8.5, 25C, recombinant mutant K367M
+0.1	thermospermine	3279	DODDBCGMRAFLEB-UHFFFAOYSA-N		7.5		pH 7.5, temperature not specified in the publication
+0.2	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N		8.0		pH 8.0
+0.2	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N		8.0		pH 8.0, temperature not specified in the publication
+0.2	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, recombinant AtPAO1
+0.28	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N				SMO/PAOh1; splice variant SMO5
+0.45	norspermine	2897	ZAXCZCOUDLENMH-UHFFFAOYSA-N		7.5		pH 7.5, temperature not specified in the publication
+1.4	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	25	8		25C, pH 8; recombinant His-tagged isozyme AtPAO4
+2.5	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N		8.5		pH 8.5, isoform mSMOmu
+2.5	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N		8.0		pH 8.0, temperature not specified in the publication
+2.5	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, recombinant AtPAO1
+2.7	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N		8.0		pH 8.0
+3.11	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N				splice variant SMO5
+3.57	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C, recombinant wild-type enzyme; wild-type, pH 8.5, 25C
+4.5	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, purified recombinant-tagged form enzyme
+4.5	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N		8.0		isozyme SMOalpha, pH 8.0, temperature not specified in the publication
+4.5	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N		8.0		isozyme SMOalpha, pH 8.0, temperature not specified in the publication
+4.6	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N		7.5		pH 7.5, temperature not specified in the publication
+4.8	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N				
+5.7	thermospermine	3279	DODDBCGMRAFLEB-UHFFFAOYSA-N		8.0		pH 8.0, temperature not specified in the publication
+6.6	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	25	8.3		pH 8.3, 25C
+6.6	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N		8.0		isozyme SMO1, pH 8.0, temperature not specified in the publication
+6.9	norspermine	2897	ZAXCZCOUDLENMH-UHFFFAOYSA-N		8.0		pH 8.0
+6.9	norspermine	2897	ZAXCZCOUDLENMH-UHFFFAOYSA-N		8.0		pH 8.0, temperature not specified in the publication
+7.55	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N				SMO/PAOh1
+22.4	N8-Acetylspermidine	1938	FONIWJIDLJEJTL-UHFFFAOYSA-N	20	9.0		pH 9.0, 20C
+47	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N	20	9.0		pH 9.0, 20C
+165	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	20	9.0		pH 9.0, 20C
+684	N1-acetylspermidine	1435	MQTAVJHICJWXBR-UHFFFAOYSA-N	20	9.0		pH 9.0, 20C

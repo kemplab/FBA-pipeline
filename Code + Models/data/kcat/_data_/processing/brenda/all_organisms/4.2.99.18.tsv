@@ -1,0 +1,47 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000048	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	1609	FXMAFSLJTMSCFH-UXACQWOJSA-A			X	mutant deltaQLY, Nei placed opposite G
+0.000013	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	1609	FXMAFSLJTMSCFH-UXACQWOJSA-A			X	mutant Q261A, Nei placed opposite C
+0.000015	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	1609	FXMAFSLJTMSCFH-UXACQWOJSA-A			X	mutant Q261A, Nei placed opposite G
+0.000023	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	1609	FXMAFSLJTMSCFH-UXACQWOJSA-A			X	mutant Q261A, Nei placed opposite A
+0.000065	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	1609	FXMAFSLJTMSCFH-UXACQWOJSA-A			X	mutant QLY/AAA, Nei placed opposite G
+0.000067	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	1609	FXMAFSLJTMSCFH-UXACQWOJSA-A			X	mutant Q261A, Nei placed opposite T
+0.00007167	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	1609	FXMAFSLJTMSCFH-UXACQWOJSA-A			X	mutant QLY/AAA, Nei placed opposite A
+0.000583	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	1609	FXMAFSLJTMSCFH-UXACQWOJSA-A				wild-type, Nei placed opposite A
+0.0007	DNA containing an abasic site	2646	IEVAIPYHJJRLNO-KTHOVBHSSA-N		7.5	X	pH 7.5, mutant enzyme Y171A, high salt concentration (150 mM NaCl)
+0.0008	DNA containing an abasic site	2646	IEVAIPYHJJRLNO-KTHOVBHSSA-N		7.5	X	pH 7.5, mutant enzyme Y171A, low salt concentration (82 mM NaCl)
+0.0009	DNA containing an abasic site	2646	IEVAIPYHJJRLNO-KTHOVBHSSA-N		7.5	X	pH 7.5, mutant enzyme Y171F, low salt concentration (82 mM NaCl)
+0.0025	5'-GACAAGCGCAG-(5R,6S)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	2777	XBGLJQROZKZLDZ-KCSFMWTQSA-A			X	mutant deltaQLY, Nei placed opposite A
+0.003167	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	1609	FXMAFSLJTMSCFH-UXACQWOJSA-A				wild-type, Nei placed opposite T
+0.00333	5,6-dihydrothymidine/A	6453	FEYHMSUYKIMUAL-UNYLCCJPSA-N	37	7.5		pH 7.5, 37C
+0.00417	5,6-dihydrothymidine/A	6453	FEYHMSUYKIMUAL-UNYLCCJPSA-N	37	7.5		pH 7.5, 37C
+0.00567	5'-GACAAGCGCAG-(5S,6R)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	4219	XBGLJQROZKZLDZ-LGIBWEORSA-A			X	mutant Q261A, Nei placed opposite G
+0.00583	5'-GACAAGCGCAG-(5R,6S)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	2777	XBGLJQROZKZLDZ-KCSFMWTQSA-A			X	mutant Q261A, Nei placed opposite G
+0.00783	5'-CTCTCCCTTC-8-oxo-7,8-dihydroguanine-CTCCTTTCCTCT-3'	4684	JLNPIIPVMBOPDB-VDYDHQEGSA-A				wild-type, Nei placed opposite A
+0.008167	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	1609	FXMAFSLJTMSCFH-UXACQWOJSA-A				wild-type, Nei placed opposite C
+0.0112	5'-GACAAGCGCAG-(5S,6R)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	4219	XBGLJQROZKZLDZ-LGIBWEORSA-A				wild-type, Nei placed opposite T
+0.0115	5'-GACAAGCGCAG-(5S,6R)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	4219	XBGLJQROZKZLDZ-LGIBWEORSA-A				wild-type, Nei placed opposite C
+0.01167	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	1609	FXMAFSLJTMSCFH-UXACQWOJSA-A			X	mutant QLY/AAA, Nei placed opposite T
+0.013	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	1609	FXMAFSLJTMSCFH-UXACQWOJSA-A			X	mutant QLY/AAA, Nei placed opposite C
+0.01317	5'-CTCTCCCTTC-8-oxo-7,8-dihydroguanine-CTCCTTTCCTCT-3'	4684	JLNPIIPVMBOPDB-VDYDHQEGSA-A				wild-type, Nei placed opposite G
+0.01583	5'-CTCTCCCTTC-8-oxo-7,8-dihydroguanine-CTCCTTTCCTCT-3'	4684	JLNPIIPVMBOPDB-VDYDHQEGSA-A				wild-type, Nei placed opposite C
+0.016	5'-GACAAGCGCAG-(5R,6S)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	2777	XBGLJQROZKZLDZ-KCSFMWTQSA-A			X	mutant QLY/AAA, Nei placed opposite G
+0.02167	5'-GACAAGCGCAG-(5R,6S)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	2777	XBGLJQROZKZLDZ-KCSFMWTQSA-A			X	mutant QLY/AAA, Nei placed opposite T
+0.023	5'-CTCTCCCTTC-8-oxo-7,8-dihydroguanine-CTCCTTTCCTCT-3'	4684	JLNPIIPVMBOPDB-VDYDHQEGSA-A				wild-type, Nei placed opposite T
+0.023	5'-GACAAGCGCAG-(5S,6R)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	4219	XBGLJQROZKZLDZ-LGIBWEORSA-A				wild-type, Nei placed opposite A
+0.03	5'-GACAAGCGCAG-(5R,6S)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	2777	XBGLJQROZKZLDZ-KCSFMWTQSA-A				wild-type, Nei placed opposite G
+0.035	5'-GACAAGCGCAG-(5R,6S)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	2777	XBGLJQROZKZLDZ-KCSFMWTQSA-A				wild-type, Nei placed opposite A
+0.04167	5'-GACAAGCGCAG-(5R,6S)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	2777	XBGLJQROZKZLDZ-KCSFMWTQSA-A				wild-type, Nei placed opposite C
+0.0483	5'-GACAAGCGCAG-(5R,6S)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	2777	XBGLJQROZKZLDZ-KCSFMWTQSA-A				wild-type, Nei placed opposite T
+0.0567	5'-GACAAGCGCAG-(5S,6R)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'	4219	XBGLJQROZKZLDZ-LGIBWEORSA-A				wild-type, Nei placed opposite G
+0.07167	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'	1609	FXMAFSLJTMSCFH-UXACQWOJSA-A				wild-type, Nei placed opposite G
+0.2	DNA containing an abasic site	2646	IEVAIPYHJJRLNO-KTHOVBHSSA-N		7.5	X	pH 7.5, mutant enzyme Y128A, high salt concentration (150 mM NaCl)
+0.3	DNA containing an abasic site	2646	IEVAIPYHJJRLNO-KTHOVBHSSA-N		7.5	X	pH 7.5, mutant enzyme Y269A, high salt concentration (150 mM NaCl)
+0.5	DNA containing an abasic site	2646	IEVAIPYHJJRLNO-KTHOVBHSSA-N		7.5	X	pH 7.5, mutant enzyme Y128A, low salt concentration (82 mM NaCl)
+1.3	DNA containing an abasic site	2646	IEVAIPYHJJRLNO-KTHOVBHSSA-N		7.5	X	pH 7.5, mutant enzyme Y269A, low salt concentration (82 mM NaCl)
+1.6	DNA containing an abasic site	2646	IEVAIPYHJJRLNO-KTHOVBHSSA-N		7.5		pH 7.5, wild-type enzyme, high salt concentration (150 mM NaCl)
+2.3	2-deoxyribonolactone	11152	YIXDEYPPAGPYDP-IUYQGCFVSA-N		7.6		pH 7.6, room temperature
+10	DNA containing an abasic site	2646	IEVAIPYHJJRLNO-KTHOVBHSSA-N		7.5		pH 7.5, wild-type enzyme, low salt concentration (82 mM NaCl)
+1140	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N			X	LMAP mutant A138D, 3'-phosphodiesterase activity
+2340	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N				Ape1, 3'-phosphodiesterase activity
+10440	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N				LMAP, 3'-phosphodiesterase activity
+16440	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N			X	Ape mutant D70A, 3'-phosphodiesterase activity

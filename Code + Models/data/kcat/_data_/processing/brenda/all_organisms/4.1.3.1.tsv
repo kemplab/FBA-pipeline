@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.56	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	30	7.8	X	recombinant His-tagged mutant N214D, pH 7.8, 30C
+1.25	(2R,3S:2S,3R)-2-methyl-isocitrate	2442	HHKPKXCSHMJWCF-WVBDSBKLSA-N		6.8		ICL1, in 50 mM MOPS pH 6.8, 5 mM MgCl2
+1.38	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N		7.5		ICL2, in Tricine-HCl pH 7.5, 5 mM MgCl2
+3.25	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	30	7.8	X	recombinant His-tagged mutant Q221K, pH 7.8, 30C
+3.46	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	30	7.8	X	recombinant His-tagged mutant Q211H, pH 7.8, 30C
+3.6	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant enzyme
+3.6	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant enzyme
+4.63	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	30	7.8	X	recombinant His-tagged mutant E219A, pH 7.8, 30C
+5.2	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant enzyme
+5.24	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N		6.8		ICL1, in 50 mM MOPS pH 6.8, 5 mM MgCl2
+8.43	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N		7.5		in 50 mM MOPS buffer, pH 7.5, with 1 mM MgCl2, 10 mM 2-mercaptoethanol, and 2.7 mM O-nitrophenyl-beta-D-galactopyranoside
+8.5	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	37	7.0		recombinant detagged enzyme, pH 7.0, 37C
+9.81	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	30	7.8		recombinant His-tagged wild-type enzyme, pH 7.8, 30C
+12.2	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	37	7.0		recombinant detagged enzyme, pH 7.0, 37C
+13.3	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	25		X	mutant enzyme A341N, at 25C
+18.1	DL-isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	20	6.8		20C, pH 6.8
+24	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N				
+24	threo-Ds-isocitrate	1444	ODBLHEXUDAPZAU-ZAFYKAAXSA-N				
+26.6	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	25		X	mutant enzyme Q47K, at 25C
+28.5	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	25			wild type enzyme, at 25C
+32	DL-isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N		7		pH 7
+44.5	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N				
+122	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N				
+800	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N				

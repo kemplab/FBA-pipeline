@@ -1,0 +1,99 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0014	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N			X	mutant enzyme H447E/E361Q
+0.017	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N			X	mutant enzyme H447E
+0.035	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N			X	mutant enzyme N485D, determined by H2O2 detection
+0.035	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N		5.1	X	apparent value, mutant enzyme N485L, pH 5.1, temperature not specified in the publication
+0.044	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N		7.0	X	apparent value, mutant enzyme N485L, pH 7.0, temperature not specified in the publication
+0.073	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N			X	mutant enzyme N485D, determined by cholest-4-en-3-one detection
+0.073	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N		7.0	X	apparent value, mutant enzyme N485D, pH 7.0, temperature not specified in the publication
+0.093	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N			X	mutant enzyme H447Q/E361Q
+0.32	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N			X	mutant enzyme H447Q
+0.55	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N			X	H69A mutant enzyme, steady state, 50 mM phosphate buffer, 1% thesit, 1% 2-propanol
+0.8	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N				assay relies on spectroscopic detection of 4-cholesten-3-one formation, decreasing length of C17 chain affects turnover negatively
+0.85	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N			X	mutant enzyme G347N, determined by H2O2 detection
+0.86	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N			X	mutant enzyme F359W, determined by cholest-4-en-3-one detection
+1	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N			X	mutant enzyme G347N, determined by cholest-4-en-3-one detection
+1.3	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N			X	mutant enzyme F359W, determined by H2O2 detection
+1.4	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N			X	mutant enzyme E361
+1.4	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N		5.1	X	apparent value, mutant enzyme N485D, pH 5.1, temperature not specified in the publication
+1.6	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N			X	H69A mutant enzyme, cholesterol oxidation, 50 mM phosphate buffer, 1% thesit, 1% 2-propanol
+2.21	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	22	7.0	X	recombinant mutant V191A, pH 7.0, 22C
+3	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	25	7.5		substrate cholesterol, polarographic determination of the rate of oxygen consumption. 1% thesit (polyoxyethylene(9)-lauryl-ether), 10% propan-2-ol and 50 mM phosphate, 25C and pH 7.5
+6	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	25	7.5		substrate cholesterol, polarographic determination of the rate of oxygen consumption. 1% thesit (polyoxyethylene(9)-lauryl-ether), 10% propan-2-ol and 50 mM phosphate, 25C and pH 7.5
+9	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme P357N
+9	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	25	7.5		substrate cholesterol, polarographic determination of the rate of oxygen consumption. 0.5 M potassium phosphate, 1% thesit (polyoxyethylene(9)-lauryl-ether), 1.25% propan-2-ol, 25C and pH 7.5
+11	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N				assay relies on spectroscopic detection of 4-cholesten-3-one formation
+11	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme V145D; pH 7.0, 37C, mutant enzyme V145Q
+11	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	25	7.5		substrate cholesterol, detection of product formation (cholest-4-en-3-one) at 240 nm. 0.5 M potassium phosphate, 1% thesit (polyoxyethylene(9)-lauryl-ether), 1.25% propan-2-ol, 25C and pH 7.5
+15	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme L119A
+23	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme Q286R; pH 7.0, 37C, mutant enzyme V145E
+27	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme L119F
+28	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N		7.5		50 mM phosphate buffer, pH 7.5
+29	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme S379T
+32	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	25	7.5		substrate cholesterol, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25C and pH 7.5
+40	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	37	7.0		pH 7.0, 37C, wild-type enzyme
+42	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N				wild-type enzyme, determined by cholest-4-en-3-one detection
+43	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	25	7.5		substrate cholesterol, polarographic determination of the rate of oxygen consumption. 1% thesit (polyoxyethylene(9)-lauryl-ether), 10% propan-2-ol and 50 mM phosphate, 25C and pH 7.5
+44	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N				
+44	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N				wild-type enzyme
+46	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N		5.1		apparent value, wild type enzyme, pH 5.1, temperature not specified in the publication
+47	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N				wild-type enzyme, determined by H2O2 detection
+47	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N		7.0		apparent value, wild type enzyme, pH 7.0, temperature not specified in the publication
+47.3	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	22	7.0		recombinant wild-type enzyme, pH 7.0, 22C
+48	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N		7.5		50 mM phosphate buffer, pH 7.5
+48	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	25	7.5		substrate cholesterol, detection of product formation (cholest-4-en-3-one) at 240 nm. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25C and pH 7.5; substrate cholesterol, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25C and pH 7.5
+48.1	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N				product formation followed at 240 nm in the presence of 0.02 ml H2O2, substrate dissolved in Triton X-100, 100 mM phosphate buffer
+49	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme S379A
+51	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme S379V
+56	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	25	7.5		substrate cholesterol, polarographic determination of the rate of oxygen consumption. 0.5 M potassium phosphate, 1% thesit (polyoxyethylene(9)-lauryl-ether), 1.25% propan-2-ol, 25C and pH 7.5
+57	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	25	7.5		substrate cholesterol, polarographic determination of the rate of oxygen consumption. 1% thesit (polyoxyethylene(9)-lauryl-ether), 10% propan-2-ol and 50 mM phosphate, 25C and pH 7.5
+63	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N				product formation followed at 240 nm in the presence of 0.02 ml H2O2, substrate dissolved in Triton X-100, 100 mM phosphate buffer
+63	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	25	7.5		substrate cholesterol, detection of product formation (cholest-4-en-3-one) at 240 nm. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25C and pH 7.5
+67	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N				assay relies on spectroscopic detection of 4-cholesten-3-one formation
+67	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	25	7.5		substrate cholesterol, detection of product formation (cholest-4-en-3-one) at 240 nm. 0.5 M potassium phosphate, 1% thesit (polyoxyethylene(9)-lauryl-ether), 1.25% propan-2-ol, 25C and pH 7.5
+105	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N		7.5		50 mM phosphate buffer, pH 7.5, 1% thesit, 10% 2-propanol
+345	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N		7.5		50 mM phosphate buffer, pH 7.5, 1% thesit, 10% 2-propanol
+0.69	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N				
+9	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme P357N; pH 7.0, 37C, mutant enzyme V145D
+11	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme V145E
+12	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme V145Q
+13	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme L119A
+19	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme Q286R
+21	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N				assay relies on spectroscopic detection of 4-cholesten-3-one formation
+21	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N				product formation followed at 240 nm in the presence of 0.02 ml H2O2, substrate dissolved in Triton X-100, 100 mM phosphate buffer
+21	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme L119F
+21	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N	25	7.5		substrate pregnenolone, detection of product formation at 240 nm. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25C and pH 7.5
+21	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N	25	7.5		substrate pregnenolone, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25C and pH 7.5
+24	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N				assay relies on spectroscopic detection of 4-cholesten-3-one formation
+24	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N				product formation followed at 240 nm in the presence of 0.02 ml H2O2, substrate dissolved in Triton X-100, 100 mM phosphate buffer
+24	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N	25	7.5		substrate pregnenolone, detection of product formation at 240 nm. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25C and pH 7.5
+30	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N	37	7.0		pH 7.0, 37C, wild-type enzyme
+35	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme S379A
+35	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N	25	7.5		substrate pregnenolone, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25C and pH 7.5
+39	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme S379V
+45	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme S379T
+28	5-Cholesten-3-one	3128	GGCLNOIGPMGLDB-GYKMGIIDSA-N			X	H69A mutant enzyme, 5-cholesten-3-one isomerization, 50 mM phosphate buffer, 1% thesit, 1% 2-propanol
+250	5-Cholesten-3-one	3128	GGCLNOIGPMGLDB-GYKMGIIDSA-N		7.5		isomerization to 4-cholesten-3-one, rapid reaction, stopped-flow measurement, 500 mM phosphate buffer, pH 7.5, in the presence of 1% thesit and 1.25% 2-propanol
+278	5-Cholesten-3-one	3128	GGCLNOIGPMGLDB-GYKMGIIDSA-N				assay relies on spectroscopic detection of 4-cholesten-3-one formation
+330	5-Cholesten-3-one	3128	GGCLNOIGPMGLDB-GYKMGIIDSA-N		7.5		isomerization to 4-cholesten-3-one, rapid reaction, stopped-flow measurement, 500 mM phosphate buffer, pH 7.5, in the presence of 1% thesit and 1.25% 2-propanol
+332	5-Cholesten-3-one	3128	GGCLNOIGPMGLDB-GYKMGIIDSA-N				assay relies on spectroscopic detection of 4-cholesten-3-one formation
+670	5-Cholesten-3-one	3128	GGCLNOIGPMGLDB-GYKMGIIDSA-N		7.5		isomerization to 4-cholesten-3-one, rapid reaction, stopped-flow measurement, 50 mM phosphate buffer, pH 7.5, in the presence of 1% thesit and 1.25% 2-propanol
+37	cholestanol	3143	QYIXCDOBOSTCEI-UHFFFAOYSA-N				assay relies on detection of H2O2 formation
+37	cholestanol	3143	QYIXCDOBOSTCEI-UHFFFAOYSA-N				H2O2 production assayed, 100 mM phosphate buffer
+37	cholestanol	3143	QYIXCDOBOSTCEI-UHFFFAOYSA-N	25	7.5		substrate cholestanol, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25C and pH 7.5
+40	cholestanol	3143	QYIXCDOBOSTCEI-UHFFFAOYSA-N				assay relies on detection of H2O2 formation
+40	cholestanol	3143	QYIXCDOBOSTCEI-UHFFFAOYSA-N				H2O2 production assayed, 100 mM phosphate buffer
+40	cholestanol	3143	QYIXCDOBOSTCEI-UHFFFAOYSA-N	25	7.5		substrate cholestanol, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25C and pH 7.5
+0.8	3beta-hydroxy-androst-5-en-17-one	239	FMGSKLZLMKYGDP-USOAJAOKSA-N				product formation followed at 240 nm in the presence of 0.02 ml H2O2, substrate dissolved in Triton X-100, 100 mM phosphate buffer
+7	3beta-hydroxy-androst-5-en-17-one	239	FMGSKLZLMKYGDP-USOAJAOKSA-N				assay relies on detection of H2O2 formation
+8.2	3beta-hydroxy-androst-5-en-17-one	239	FMGSKLZLMKYGDP-USOAJAOKSA-N				assay relies on spectroscopic detection of 4-cholesten-3-one formation
+8.2	3beta-hydroxy-androst-5-en-17-one	239	FMGSKLZLMKYGDP-USOAJAOKSA-N				product formation followed at 240 nm in the presence of 0.02 ml H2O2, substrate dissolved in Triton X-100, 100 mM phosphate buffer
+7	epiandrosterone	3332	QGXBDMJGAMFCBF-LUJOEAJASA-N				H2O2 production assayed, 100 mM phosphate buffer
+0.8	trans-androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	25	7.5		substrate trans-androsterone, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25C and pH 7.5
+7	trans-androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	25	7.5		substrate trans-androsterone, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25C and pH 7.5
+0.8	trans-dehydroandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	25	7.5		substrate trans-dehydroandrosterone, detection of product formation at 240 nm. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25C and pH 7.5
+1	trans-dehydroandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	25	7.5		substrate trans-dehydroandrosterone, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25C and pH 7.5
+6	trans-dehydroandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	25	7.5		substrate trans-dehydroandrosterone, rate of H2O2 formation detected with o-dianisidine and horseradish peroxidase. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25C and pH 7.5
+8.2	trans-dehydroandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	25	7.5		substrate trans-dehydroandrosterone, detection of product formation at 240 nm. 0.1 M potassium phosphate, 1% Triton X-100, 1.25% propan-2-ol, 25C and pH 7.5
+0.8	3beta-hydroxy-5-androsten-17-one	239	FMGSKLZLMKYGDP-USOAJAOKSA-N				assay relies on detection of H2O2 formation
+0.8	3beta-hydroxy-5-androsten-17-one	239	FMGSKLZLMKYGDP-USOAJAOKSA-N				H2O2 production assayed, 100 mM phosphate buffer

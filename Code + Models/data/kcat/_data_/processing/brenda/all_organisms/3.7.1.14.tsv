@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.001	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	1749	RFENOVFRMPRRJI-AFCKVHGPSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme S110G
+0.0029	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	1749	RFENOVFRMPRRJI-AFCKVHGPSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme H263A
+0.0054	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	1749	RFENOVFRMPRRJI-AFCKVHGPSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme S110A
+0.016	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	1749	RFENOVFRMPRRJI-AFCKVHGPSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme D235A, approximate value from activity of the cell extract
+0.08	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	1749	RFENOVFRMPRRJI-AFCKVHGPSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme N109H
+0.1	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	1749	RFENOVFRMPRRJI-AFCKVHGPSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme R188Q
+0.13	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	1749	RFENOVFRMPRRJI-AFCKVHGPSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme N109A
+0.26	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	1749	RFENOVFRMPRRJI-AFCKVHGPSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme F173D
+0.74	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	1749	RFENOVFRMPRRJI-AFCKVHGPSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme R188K
+2	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	1749	RFENOVFRMPRRJI-AFCKVHGPSA-N		8.0		pH 8.0, 25, wild-type enzyme
+2	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	1749	RFENOVFRMPRRJI-AFCKVHGPSA-N	25	8.0		pH 8.0, 25C, wild-type enzyme
+2.7	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	1749	RFENOVFRMPRRJI-AFCKVHGPSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme W264G
+2.9	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	1749	RFENOVFRMPRRJI-AFCKVHGPSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme S40A
+4.5	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	1749	RFENOVFRMPRRJI-AFCKVHGPSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme H114A
+7.5	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	1749	RFENOVFRMPRRJI-AFCKVHGPSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme F173G
+12	(2E,4Z)-2-hydroxy-6-oxonona-2,4-dienedioate	1749	RFENOVFRMPRRJI-AFCKVHGPSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme C261A
+0.036	2-hydroxy-6-keto-6-phenylhexa-2,4-dienoic acid	1533	RDRDHXDYMGUCKE-KXBBGWRGSA-N	25	8.0		pH 8.0, 25C

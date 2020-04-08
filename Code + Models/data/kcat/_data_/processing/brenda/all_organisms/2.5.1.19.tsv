@@ -1,0 +1,68 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000045	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				5-enpolpyruvylshikimate 3-phosphate ketal formation in presence of shikimate 3-phosphate and equimolar phosphoenolpyruvate
+0.000012	5-enolpyruvylshikimate 3-phosphate	1249	QUTYKIXIUDQOLK-PRJMDXOYSA-N	25	7.0		5-enpolpyruvylshikimate 3-phosphate ketal formation by hydrolysis of radiolabelled 5-enpolpyruvylshikimate 3-phosphate, pH 7.0, 25C
+0.000049	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				5-enpolpyruvylshikimate 3-phosphate ketal formation in presence of shikimate 3-phosphate and 6.7 equivalents of phosphoenolpyruvate
+0.00008	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				5-enpolpyruvylshikimate 3-phosphate ketal formation in presence of shikimate 3-phosphate and 6.7 equivalents of phosphoenolpyruvate and 10 mM phosphate
+0.026	3-phosphoshikimate	998	QYOJSKGCWNAKGW-PBXRRBTRSA-N	313		X	50 mM KCl, mutant D313C, cosubstrate: phosphoenolpyruvate
+0.026	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	313		X	50 mM KCl, mutant D313C, cosubstrate: 3-phosphoshikimate
+0.22	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N				reverse reaction, in the presence of 50 mM KCl
+0.23	5-enolpyruvylshikimate 3-phosphate	1249	QUTYKIXIUDQOLK-PRJMDXOYSA-N				reverse reaction, in the presence of 50 mM KCl
+0.3	3-phosphoshikimate	998	QYOJSKGCWNAKGW-PBXRRBTRSA-N			X	50 mM KCl, mutant K22A value above 0.3, cosubstrate: phosphoenolpyruvate
+0.3	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N			X	50 mM KCl, mutant K22A value above 0.3, cosubstrate: 3-phosphoshikimate
+0.41	3-phosphoshikimate	998	QYOJSKGCWNAKGW-PBXRRBTRSA-N			X	50 mM KCl, mutant H385A, cosubstrate: phosphoenolpyruvate
+0.41	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N			X	50 mM KCl, mutant H385A, cosubstrate: 3-phosphoshikimate
+1	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	25	7.0	X	25C, pH 7.0, mutant enzyme G99A
+1	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N			X	+/-0.03, mutant G99A
+1.1	3-phosphoshikimate	998	QYOJSKGCWNAKGW-PBXRRBTRSA-N			X	50 mM KCl, mutant D313L, cosubstrate: phosphoenolpyruvate; 50 mM KCl, mutant E341Q, cosubstrate: phosphoenolpyruvate
+1.1	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N			X	50 mM KCl, mutant D313L, cosubstrate: 3-phosphoshikimate; 50 mM KCl, mutant E341Q, cosubstrate: 3-phosphoshikimate
+1.2	3-phosphoshikimate	998	QYOJSKGCWNAKGW-PBXRRBTRSA-N			X	50 mM KCl, mutant D313A, cosubstrate: phosphoenolpyruvate
+1.2	5-enolpyruvylshikimate 3-phosphate	1249	QUTYKIXIUDQOLK-PRJMDXOYSA-N	25	7.0	X	25C, pH 7.0, mutant enzyme G99A
+1.2	5-enolpyruvylshikimate 3-phosphate	1249	QUTYKIXIUDQOLK-PRJMDXOYSA-N			X	+/-0.04, mutant G99A
+1.2	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N			X	50 mM KCl, mutant D313A, cosubstrate: 3-phosphoshikimate
+1.7	3-phosphoshikimate	998	QYOJSKGCWNAKGW-PBXRRBTRSA-N			X	50 mM KCl, mutant E341M, cosubstrate: phosphoenolpyruvate
+1.7	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N			X	50 mM KCl, mutant E341M, cosubstrate: 3-phosphoshikimate
+1.8	3-phosphoshikimate	998	QYOJSKGCWNAKGW-PBXRRBTRSA-N			X	50 mM KCl, mutant D313N, cosubstrate: phosphoenolpyruvate
+1.8	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N			X	50 mM KCl, mutant D313N, cosubstrate: 3-phosphoshikimate
+2	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	4			in the presence of 1 mM NH4Cl and 10 mM KCl
+2.1	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	4			in the presence of 1 mM NH4Cl
+2.7	5-enolpyruvylshikimate 3-phosphate	1249	QUTYKIXIUDQOLK-PRJMDXOYSA-N	25	7.0	X	25C, pH 7.0, mutant strain L104P
+2.7	5-enolpyruvylshikimate 3-phosphate	1249	QUTYKIXIUDQOLK-PRJMDXOYSA-N			X	+/-0.1, mutant L104P
+2.8	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	25	7.0	X	25C, pH 7.0, mutant enzyme L104P
+2.8	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N			X	+/-0.2, mutant L104P
+2.8	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	4			in the presence of 10 mM NH4Cl
+3	3-phosphoshikimate	998	QYOJSKGCWNAKGW-PBXRRBTRSA-N			X	50 mM KCl, mutant K22R value above 0.3, cosubstrate: phosphoenolpyruvate
+3	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	4			in the presence of 100 mM NH4Cl
+3	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N			X	50 mM KCl, mutant K22R value above 0.3, cosubstrate: 3-phosphoshikimate
+3.6	3-phosphoshikimate	998	QYOJSKGCWNAKGW-PBXRRBTRSA-N	341		X	50 mM KCl, mutant E341C, cosubstrate: phosphoenolpyruvate
+3.6	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	341		X	50 mM KCl, mutant E341C, cosubstrate: 3-phosphoshikimate
+4.2	3-phosphoshikimate	998	QYOJSKGCWNAKGW-PBXRRBTRSA-N		7.0		pH 7.0, recombinant enzyme, in presence of 100 mM KCl
+4.2	3-phosphoshikimate	998	QYOJSKGCWNAKGW-PBXRRBTRSA-N			X	50 mM KCl, mutant E341A, cosubstrate: phosphoenolpyruvate
+4.2	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N			X	50 mM KCl, mutant E341A, cosubstrate: 3-phosphoshikimate
+4.3	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		7.0		pH 7.0, recombinant enzyme, in presence of 100 mM KCl
+5.4	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, wild-type enzyme
+5.4	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N				+/-0.4
+7.4	5-enolpyruvylshikimate 3-phosphate	1249	QUTYKIXIUDQOLK-PRJMDXOYSA-N	25	7.0		25C, pH 7.0, wild-type enzyme
+7.4	5-enolpyruvylshikimate 3-phosphate	1249	QUTYKIXIUDQOLK-PRJMDXOYSA-N				+/-0.4
+12.8	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	4			in the presence of 1 mM NH4Cl and 100 mM KCl
+14	3-phosphoshikimate	998	QYOJSKGCWNAKGW-PBXRRBTRSA-N				wild-type AroA, 100 mM KCl, cosubstrate: phosphoenolpyruvate
+14	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				wild-type AroA, 100 mM KCl, cosubstrate: 3-phosphoshikimate
+15	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N			X	mutant A183T, in presence of 1 mM shikimate 3-phosphate
+21	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N			X	mutant G96A/A183T, in presence of 1 mM shikimate 3-phosphate
+26.2	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	28	7.0		pH 7.0, 28C
+26.4	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				in presence of 1 mM shikimate 3-phosphate
+26.7	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		7.0		wild-type, pH 7.0, temperature not specified in the publication
+28.3	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				
+29.7	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N			X	mutant G96A, in presence of 1 mM shikimate 3-phosphate
+31.7	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		7.0	X	mutant N267S, pH 7.0, temperature not specified in the publication
+31.8	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	28	7.0		pH 7.0, 28C
+32	3-phosphoshikimate	998	QYOJSKGCWNAKGW-PBXRRBTRSA-N				C-terminal His6-tagged AroA, 50 mM KCl, cosubstrate: phosphoenolpyruvate
+32	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				C-terminal His6-tagged AroA, 50 mM KCl, cosubstrate: 3-phosphoshikimate
+33.6	3-phosphoshikimate	998	QYOJSKGCWNAKGW-PBXRRBTRSA-N				cosubstrate phosphoenolpyruvate
+33.6	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				cosubstrate 3-phosphoshikimate
+35	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		7.0	X	mutant M425T, pH 7.0, temperature not specified in the publication
+38.4	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				
+43.3	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		7.0	X	mutant P318R, pH 7.0, temperature not specified in the publication
+51.7	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		7.0	X	mutant E145G/N163H/N267S/P318R/M377V/M425T/P438L, pH 7.0, temperature not specified in the publication; mutant N267S/P318R/M425T, pH 7.0, temperature not specified in the publication
+56.6	3-phosphoshikimate	998	QYOJSKGCWNAKGW-PBXRRBTRSA-N				
+100	3-phosphoshikimate	998	QYOJSKGCWNAKGW-PBXRRBTRSA-N				C-terminal His6-tagged AroA, 100 mM KCl, cosubstrate: phosphoenolpyruvate
+100	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				C-terminal His6-tagged AroA, 100 mM KCl, cosubstrate: 3-phosphoshikimate

@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.69	Gly-Pro-Gln-Gly-Ile-Ala-Gly-Gln	8392	RNLITAVDIDKTFC-POALBGPRSA-N				
+1.3	MOAcPLGLA2pr(Dnp)-AR-NH2	8983	BUEGTQMJRHKMFG-FGMGNRLVSA-N	25	8.0		pH 8.0, 25C, 45 kDa form
+3	MOAcPLGLA2pr(Dnp)-AR-NH2	8983	BUEGTQMJRHKMFG-FGMGNRLVSA-N	25	8.0		pH 8.0, 25C, 62 kDa form
+3.18	MOAcPLGLA2pr(Dnp)-AR-NH2	8983	BUEGTQMJRHKMFG-FGMGNRLVSA-N	25	8.0		pH 8.0, 25C, 62 kDa form
+0.6	Mca-Pro-Leu-Gly-Leu-Dap-Ala-Arg-NH2	11606	SXJQYLKLZPDNQZ-PYHODHCZSA-N	37	7.5		pH 7.5, 37C, GaCDfn, with fibronectin-like insert
+1.7	Mca-Pro-Leu-Gly-Leu-Dap-Ala-Arg-NH2	11606	SXJQYLKLZPDNQZ-PYHODHCZSA-N	37	7.5		pH 7.5, 37C, GaCD, without fibronectin-like insert
+4.7	Dnp-Pro-beta-cyclohexyl-Ala-Gly-Cys(Me)-His-Ala-Lys(N-Me-Abz)-NH2	11607	XGSOAKZXJHAZNG-HEVGUTIVSA-N	37	7.5		pH 7.5, 37C, GaCDfn, with fibronectin-like insert
+5.4	Dnp-Pro-beta-cyclohexyl-Ala-Gly-Cys(Me)-His-Ala-Lys(N-Me-Abz)-NH2	11607	XGSOAKZXJHAZNG-HEVGUTIVSA-N	37	7.5		pH 7.5, 37C, GaCD, without fibronectin-like insert
+16.7	Ac-Pro-Leu-Gly-[2-mercapto-4-methylpentanoyl]-Leu-Gly-OEt	11608	PJJCQSKFEUKPHK-HJOGWXRNSA-N	37	7.5		pH 7.5, 37C, GaCD, without fibronectin-like insert
+19.5	Ac-Pro-Leu-Gly-[2-mercapto-4-methylpentanoyl]-Leu-Gly-OEt	11608	PJJCQSKFEUKPHK-HJOGWXRNSA-N	37	7.5		pH 7.5, 37C, GaCDfn, with fibronectin-like insert
+1.6	Acetyl-Pro-Leu-Gly-thioester-Leu-Leu-Gly ethyl ester	13726	OJIFMDRLHMGYGK-QORCZRPOSA-N				
+2	Gly-Pro-Gln-Gly-Ile-Ala-Ser-Gln	20388	RDAMJHVZXLEUCG-PYFYTZNFSA-N				
+3.33	Gly-Pro-Gln-Gly-Ile-Phe-Gly-Gln	20389	DGIQVDQVHROKOX-OHBVWKMYSA-N				
+0.612	Gly-Pro-Gln-Gly-Ile-Trp-Gly-Gln	20390	MOKVLQJEXVVJOD-WDGONGBNSA-N				

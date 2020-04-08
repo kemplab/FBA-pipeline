@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0276	4-hydroxy-4-methyl-2-oxoglutarate	3305	YRWAMSXHYBBHFL-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, RraA-like protein Yer010Cp
+0.048	4-hydroxy-2-oxopentanoate	907	HFKQINMYQUXOCH-UHFFFAOYSA-N	25	8.0		wild type protein, 1.0 mM Mg2+, pH 8.0, 25C
+0.058	2-hydroxy-4-oxopentanedioic acid	1714	WXSKVKPSMAHCSG-UHFFFAOYSA-N	25	8.0		wild type protein, 1.0 mM Mg2+, pH 8.0, 25C
+0.061	4-hydroxy-4-methyl-2-oxoglutarate	3305	YRWAMSXHYBBHFL-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, mutant E199A
+0.099	4-hydroxy-4-methyl-2-oxoglutarate	3305	YRWAMSXHYBBHFL-UHFFFAOYSA-N	25	8.0	X	R123K mutant protein, pH 8.0, 25C
+0.19	4-hydroxy-2-oxopentanoate	907	HFKQINMYQUXOCH-UHFFFAOYSA-N	25	8.0		wild type protein, 1.0 mM Mn2+, pH 8.0, 25C
+0.25	2-hydroxy-4-oxopentanedioic acid	1714	WXSKVKPSMAHCSG-UHFFFAOYSA-N	25	8.0		wild type protein, 1.0 mM Mn2+, pH 8.0, 25C
+0.356	4-hydroxy-4-methyl-2-oxoglutarate	3305	YRWAMSXHYBBHFL-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, RraA-like protein TtRraA
+1.52	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	25	8.0		wild type protein, 1.0 mM Mn2+, pH 8.0, 25C
+1.85	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	25	8.0		wild type protein, 1.0 mM Mg2+, pH 8.0, 25C
+13.7	4-hydroxy-4-methyl-2-oxoglutarate	3305	YRWAMSXHYBBHFL-UHFFFAOYSA-N	25	8.0		wild type protein, 1.0 mM Mn2+, pH 8.0, 25C
+15.6	4-hydroxy-4-methyl-2-oxoglutarate	3305	YRWAMSXHYBBHFL-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, wild-type enzyme
+19.3	4-hydroxy-4-methyl-2-oxoglutarate	3305	YRWAMSXHYBBHFL-UHFFFAOYSA-N	25	8.0		wild type protein, 1.0 mM Mg2+, pH 8.0, 25C

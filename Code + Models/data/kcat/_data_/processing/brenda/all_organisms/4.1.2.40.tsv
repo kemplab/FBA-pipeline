@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+4.41	D-fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5		isoform LacD.2, pH 7.5, temperature not specified in the publication
+6.35	D-fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5		isoform LacD.1, pH 7.5, temperature not specified in the publication
+12.6	D-fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5	X	mutant isoform LacD.1, C-terminal half replaced with 162 amino acid residues from the C-terminus of LacD.2, pH 7.5, temperature not specified in the publication
+14.6	D-tagatose 1,6-diphosphate	4922	RNBGYGVWRKECFJ-OEXCPVAWSA-N		7.5		isoform LacD.2, pH 7.5, temperature not specified in the publication
+18.3	D-tagatose 1,6-diphosphate	4922	RNBGYGVWRKECFJ-OEXCPVAWSA-N		7.5	X	mutant isoform LacD.1, C-terminal half replaced with 162 amino acid residues from the C-terminus of LacD.2, pH 7.5, temperature not specified in the publication
+24.3	D-tagatose 1,6-diphosphate	4922	RNBGYGVWRKECFJ-OEXCPVAWSA-N		7.5		isoform LacD.1, pH 7.5, temperature not specified in the publication

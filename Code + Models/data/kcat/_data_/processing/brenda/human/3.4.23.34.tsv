@@ -1,0 +1,28 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.1	big ET-2	13747	QQNPBIVFUVBXIY-LWNBSAROSA-N				
+0.13	big ET-1	4939	VROIERDONYIZMV-UHFFFAOYSA-N				
+0.13	big ET-1	4939	VROIERDONYIZMV-UHFFFAOYSA-N				
+0.14	big ET-3	13748	JRDOKIROBPGKAE-XJYVYMKDSA-N				
+5	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		7		value below, with ATP, pH 7
+11	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		6.6		with ATP, pH 6.6 and without ATP, pH 5
+16	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		6.2		with ATP, pH 6.2
+19.4	(7-methoxycoumarin-4-yl)acetyl-Gly-Ser-Pro-Ala-Phe-Leu-Ala-Lys(Dnp)-D-Arg-NH2	3704	NSIRVLHIYQWTDO-BRHSRUOZSA-N	40	4.0		40C, pH 4.0, erythrocyte cathepsin E
+26	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N		5.4		without ATP, pH 5.4
+31	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		5		with ATP, pH 5
+36	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		4.5		without ATP, pH 4.5
+39	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		4.5		with ATP, pH 4.5 and pH 5.4
+40	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		5.8		with ATP, pH 5.8
+40	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N				
+47	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		5		without ATP, pH 5
+47	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N				
+54	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N		5		without ATP, pH 5
+56	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N		5.8		with ATP, pH 5.8
+70	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		3.1	X	Cys4-Ala mutant cathepsin E, pH 3.1
+72	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N		5.4		with ATP, pH 5.4
+76	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N		4.5		without ATP, pH 4.5
+77	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N		4.5		with ATP, pH 4.5 and pH 5
+82	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N		3.1	X	Cys4-Ala mutant cathepsin E, pH 3.1
+115	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N				
+132	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N				
+322.5	(7-methoxycoumarin-4-yl)acetyl-L-Ala-Gly-L-Phe-L-Ser-L-Leu-L-Pro-L-Ala-L-Lys(Dnp)-D-Arg-amide	114641	AAIWALLSVHKGAY-BRHSRUOZSA-N	27	4.0		pH 4.0, 27C
+360	MOCAc-Gly-Lys-Pro-Ile-Leu-Phe-Phe-Arg-Leu-Lys(Dnp)-D-Arg-NH2	15897	RABBIMDUAQIKTD-FNWSCJAASA-N	25	4.0		25C, pH 4.0

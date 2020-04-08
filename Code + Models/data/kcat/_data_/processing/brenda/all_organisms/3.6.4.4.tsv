@@ -1,0 +1,43 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0009	methylanthraniloyl-ATP	4250	OTIXVXNMFVNGEF-OVHGWZCWSA-N	25	6.9		basal activity, in absence of tubulin or microtubles, pH 6.9, 25C
+0.00095	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.9		basal activity, in absence of tubulin or microtubles, pH 6.9, 25C
+0.004	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	247	6.7	X	mutant A247C, pH 6.7, 25C
+0.005	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	272	6.7	X	mutant G272C, pH 6.7, 25C
+0.014	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	252	6.7	X	mutant A252C, pH 6.7, 25C
+0.021	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	249	6.7	X	mutant L249C, pH 6.7, 25C
+0.023	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	275	6.7	X	mutant S275C, pH 6.7, 25C; wild-type, pH 6.7, 25C
+0.069	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.8	X	pH 6.8, 25C, tubulin-vinblastine-stimulated recombinant Kif2C functional domain mutant L2
+0.079	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.8	X	pH 6.8, 25C, tubuline-stimulated recombinant Kif2C functional domain mutant DSK
+0.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.8	X	pH 6.8, 25C, tubuline-stimulated recombinant Kif2C functional domain mutant DVK
+0.117	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.8	X	pH 6.8, 25C, tubulin-stimulated recombinant Kif2C functional domain mutant L2
+0.123	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.9		in presence of unpolymerized tubulin, pH 6.9, 25C
+0.152	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.8		pH 6.8, 25C, tubulin-stimulated recombinant Kif2C functional domain wild-type
+0.18	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.8	X	pH 6.8, 25C, microtubule-stimulated recombinant Kif2C functional domain mutant DSK
+0.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				in the absence of microtubules
+0.21	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.8	X	pH 6.8, 25C, microtubule-stimulated recombinant Kif2C functional domain mutant L2
+0.48	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				dimeric Eg5-513
+0.62	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.8		pH 6.8, 25C, tubulin-vinblastine-stimulated recombinant Kif2C functional domain wild-type
+0.97	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.8	X	pH 6.8, 25C, microtubule-stimulated recombinant Kif2C functional domain mutant DVK
+1.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				in the absence of microtubules with 0.05 mM kinesin spindle protein activator-1
+2.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+2.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.2		25C, pH 7.2, Eg5-437
+4.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				in the presence of microtubules, with 0.03 mM kinesin spindle protein activator-1
+4.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.8	X	in presence of mutant microtubles alpha-E415A, pH 6.8, 25C
+4.97	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.9		in presence of microtubles, pH 6.9, 25C
+5.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+5.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.2		25C, pH 7.2, Eg5-367
+13	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				in the presence of microtubules
+17.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.8	X	in presence of mutant microtubles alpha-E416A, pH 6.8, 25C
+18	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.8	X	in presence of mutant microtubles alpha-E418A, pH 6.8, 25C
+20	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.2		22-25C, pH 7.2, kinesin-microtubules complex
+20.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.8	X	in presence of mutant microtubles alpha-E421A, pH 6.8, 25C
+22	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.8		in presence of wild type microtubles, pH 6.8, 25C
+23.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	22	6.8		in 12.5 mM ACES-KOH, 25 mM potassium acetate, 5 mM MgCl2, 0.5 M EGTA, pH 6.8, at 22C
+25.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.8	X	in presence of mutant microtubles beta-D417A, pH 6.8, 25C
+26.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.8	X	in presence of mutant microtubles beta-E410A, pH 6.8, 25C
+29	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N				in presence of microtubule the ATP hydrolysis is activated 3fold to 4fold compared to kcat, 125 vs. 34 s-1, while phosphate release is approximately equally fast: 29 s-1, pH and temperature not specified in the publication
+34	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N				in presence of microtubule the ATP hydrolysis is activated 3fold to 4fold compared to kcat, 125 vs. 34 s-1, while phosphate release is approximately equally fast: 29 s-1, pH and temperature not specified in the publication
+42.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type KIF4 enzyme, pH and temperature not specified in the publication
+45.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	22	6.8		truncated protein Kif3-342, 22C, pH 6.8
+60.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	22	6.8		truncated protein Kif3-592, 22C, pH 6.8
+144	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	22	6.8		full-length protein, 22C, pH 6.8

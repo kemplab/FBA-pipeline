@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.02	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	mutant enzyme S140A, pH and temperature not specified in the publication
+0.87	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	mutant enzyme D141E, pH and temperature not specified in the publication
+1.03	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	mutant enzyme H44A, pH and temperature not specified in the publication
+1.06	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	mutant enzyme D141A, pH and temperature not specified in the publication
+1.47	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	mutant enzyme D141N, pH and temperature not specified in the publication
+1.9	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	mutant enzyme Y52F, pH and temperature not specified in the publication
+2.51	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	mutant enzyme S43A, pH and temperature not specified in the publication
+9.29	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	mutant enzyme R259A, pH and temperature not specified in the publication
+30.65	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	mutant enzyme M251A, pH and temperature not specified in the publication
+62.39	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				wild type enzyme, pH and temperature not specified in the publication
+1.29	(S)-ureidoglycolate	1016	NWZYYCVIOKVTII-SFOWXEAESA-N			X	mutant enzyme S140A, pH and temperature not specified in the publication
+1.37	(S)-ureidoglycolate	1016	NWZYYCVIOKVTII-SFOWXEAESA-N			X	mutant enzyme S43A, pH and temperature not specified in the publication
+1.62	(S)-ureidoglycolate	1016	NWZYYCVIOKVTII-SFOWXEAESA-N			X	mutant enzyme D141A, pH and temperature not specified in the publication
+1.67	(S)-ureidoglycolate	1016	NWZYYCVIOKVTII-SFOWXEAESA-N			X	mutant enzyme D141E, pH and temperature not specified in the publication
+1.76	(S)-ureidoglycolate	1016	NWZYYCVIOKVTII-SFOWXEAESA-N			X	mutant enzyme H44A, pH and temperature not specified in the publication
+1.92	(S)-ureidoglycolate	1016	NWZYYCVIOKVTII-SFOWXEAESA-N			X	mutant enzyme Y52F, pH and temperature not specified in the publication
+1.97	(S)-ureidoglycolate	1016	NWZYYCVIOKVTII-SFOWXEAESA-N			X	mutant enzyme D141N, pH and temperature not specified in the publication
+11.98	(S)-ureidoglycolate	1016	NWZYYCVIOKVTII-SFOWXEAESA-N			X	mutant enzyme R259A, pH and temperature not specified in the publication
+45.98	(S)-ureidoglycolate	1016	NWZYYCVIOKVTII-SFOWXEAESA-N			X	mutant enzyme M251A, pH and temperature not specified in the publication
+57.06	(S)-ureidoglycolate	1016	NWZYYCVIOKVTII-SFOWXEAESA-N				wild type enzyme, pH and temperature not specified in the publication

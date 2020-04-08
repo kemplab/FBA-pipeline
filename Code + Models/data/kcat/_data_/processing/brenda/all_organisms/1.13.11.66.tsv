@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.25	2,6-dimethylhydroquinone	21717	SGWZVZZVXOJRAQ-UHFFFAOYSA-N	23	7.0		pH 7.0, 23C
+1.4	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	23	7.0		cosubstrate 2,6-dimethylhydroquinone, pH 7.0, 23C
+1.6	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	23	7.0		cosubstrate 2-chloro-6-methylhydroquinone, 1,2-cleavage, pH 7.0, 23C
+1.61	2,6-dibromohydroquinone	14179	IELUPRVYGHTVHQ-UHFFFAOYSA-N	23	7.0		pH 7.0, 23C
+1.8	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	23	7.0		cosubstrate 2-chloro-6-methylhydroquinone, 1,6-cleavage, pH 7.0, 23C
+2.1	2,6-dichloro-p-hydroquinone	5001	QQAHQUBHRBQWBL-UHFFFAOYSA-N	22	6.7		pH 6.7, 22C
+2.1	hydroquinone	370	QIGBRXMKCJKVMJ-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+2.2	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	23	7.0		cosubstrate 2,6-dibromohydroquinone, pH 7.0, 23C
+2.41	2-chloro-6-methylhydroquinone	118687	GGEDSODGCSDETG-UHFFFAOYSA-N	23	7.0		pH 7.0, 23C
+3.05	2,6-dichlorohydroquinone	5001	QQAHQUBHRBQWBL-UHFFFAOYSA-N	23	7.0		pH 7.0, 23C
+4.8	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	23	7.0		cosubstrate 2,6-dichlorohydroquinone, pH 7.0, 23C
+13.5	hydroquinone	370	QIGBRXMKCJKVMJ-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C; pH 7.0, 25C

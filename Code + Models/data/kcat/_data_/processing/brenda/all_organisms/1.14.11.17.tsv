@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.06	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N				wild type enzyme, without taurine
+0.12	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N			X	mutant enzyme Y73I, without taurine
+0.14	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N			X	mutant enzyme W98I, in the presence of taurine
+1	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N			X	mutant enzyme Y73I, in the presence of taurine
+3	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N				wild type enzyme, in the presence of taurine
+0.74	taurine	490	XOAAWQZATWQOTB-UHFFFAOYSA-N	30		X	mutant D101E, 30C
+1.1	taurine	490	XOAAWQZATWQOTB-UHFFFAOYSA-N	30		X	mutant H255E, 30C
+2.7	taurine	490	XOAAWQZATWQOTB-UHFFFAOYSA-N	30		X	mutant H255Q, 30C
+3	taurine	490	XOAAWQZATWQOTB-UHFFFAOYSA-N				wild type enzyme
+3.3	taurine	490	XOAAWQZATWQOTB-UHFFFAOYSA-N	30			wild-type, 30C

@@ -1,0 +1,51 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.09	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	10.0	X	pH 10.0, 25C, mutant N510A
+0.33	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.0	X	mutant enzyme H351Q, in 50 mM potassium phosphate (pH 7.0), at 25C
+3.4	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	10.0	X	pH 10.0, 25C, mutant N510H
+15	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.0		wild type enzyme, in 50 mM potassium phosphate (pH 7.0), at 25C
+0.02	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant N510L
+0.03	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	5.5	X	pH 5.5, 25C, mutant H466A; pH 5.5, 25C, recombinant mutant H466A
+0.06	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant N510A
+0.07	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	6.0	X	pH 6.0, 25C, recombinant mutant H466A
+0.09	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	10.0	X	pH 10.0, 25C, mutant N510A
+0.21	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	5.5	X	pH 5.5, 25C, mutant H466A, presence of imidazole
+0.37	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant H466A
+0.51	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant N510H
+0.52	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant H466A, presence of imidazole
+0.7	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	10.0	X	pH 10.0, 25C, mutant H466A, presence of imidazole
+0.72	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant H466A
+0.73	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	10.0	X	pH 10.0, 25C, mutant H466A; pH 10.0, 25C, recombinant mutant H466A
+1.03	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7	X	apparent, H99N mutant, substrate choline, pH 7, 25C. Measuring the rate of oxygen consumption with a computer-interfaced Oxy-32 oxygen monitoring system
+1.1	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant H466A
+1.86	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7	X	H99N mutant, substrate choline, pH 7, 25C. Measuring the rate of oxygen consumption with a computer-interfaced Oxy-32 oxygen monitoring system
+2.24	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	19	7.0		19C, pH 7.0
+2.5	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7.0	X	mutant enzyme F357A, at pH 7.0 and 25C
+2.83	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N				enzyme immobilized in polyethylenimine-coated silica-monolith, apparent value, pH and temperature not specified in the publication
+3	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N				free enzyme, apparent value, pH and temperature not specified in the publication
+3.4	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	10.0	X	pH 10.0, 25C, mutant N510H
+4.4	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme stored at pH 6.0, -20C
+4.4	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	20	6		previously stored at pH 6 and -20C, measured at pH 7 and 25C
+6.7	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	10.0	X	mutant enzyme S101A, in 50 mM sodium diphosphate, pH 10.0, at 25C
+6.8	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7.0	X	mutant enzyme M62A/F357A, at pH 7.0 and 25C
+12.5	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7.0	X	mutant enzyme M62A, at pH 7.0 and 25C
+13.3	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme stored at pH 6.0, 0C
+13.3	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	0	6		previously stored at pH 6 and 0C, measured at pH 7 and 25C
+13.4	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+13.4	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, wild-type enzyme
+14.9	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme stored at pH 8.0, -20C
+14.9	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	0	8		previously stored at pH 8 and 0C, measured at pH 7 and 25C
+15.5	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme stored at pH 8.0, 0C
+15.5	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	20	8		previously stored at pH 8 and -20C, measured at pH 7 and 25C
+20	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7.0		wild type enzyme, at pH 7.0 and 25C
+60	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	10		pH 10, 25C
+60	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	10.0		wild type enzyme, in 50 mM sodium diphosphate, pH 10.0, at 25C
+61	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, wild type
+86	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+43	Betaine aldehyde	661	SXKNCCSPZDCRFD-UHFFFAOYSA-N	25	10.0	X	mutant enzyme S101A, in 50 mM sodium diphosphate, pH 10.0, at 25C
+133	Betaine aldehyde	661	SXKNCCSPZDCRFD-UHFFFAOYSA-N	25	10		pH 10, 25C
+133	Betaine aldehyde	661	SXKNCCSPZDCRFD-UHFFFAOYSA-N	25	10.0		wild type enzyme, in 50 mM sodium diphosphate, pH 10.0, at 25C
+5.9	N,N-dimethylethanolamine	2888	DAZXVJBJRMWXJP-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+0.37	N-Methylethanolamine	4446	OPKOKAMJFNKNAS-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+1.71	betaine-aldehyde	661	SXKNCCSPZDCRFD-UHFFFAOYSA-N	19	7.0		19C, pH 7.0
+11.6	betaine-aldehyde	661	SXKNCCSPZDCRFD-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+8	3,3-dimethyl-1-butanol	15114	DUXCSEISVMREAX-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C

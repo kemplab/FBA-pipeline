@@ -1,0 +1,46 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.02	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7		pH 7, temperature not specified in the publication, cosubstrate: (2S)-2-hydroxy-2-methyl-3-oxobutanoate
+0.03	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7		pH 7, temperature not specified in the publication, cosubstrate: (2S)-2-hydroxy-2-methyl-3-oxobutanoate
+0.06	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7		pH 7, temperature not specified in the publication, cosubstrate: (2S)-2-hydroxy-2-methyl-3-oxobutanoate
+0.06	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant V48L/R49P/K52E/S53D, pH not specified in the publication, temperature not specified in the publication
+0.07	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7		pH 7, temperature not specified in the publication, cosubstrate: (2S)-2-hydroxy-2-methyl-3-oxobutanoate
+0.08	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant V48L/R49P/K52L/S53D, pH not specified in the publication, temperature not specified in the publication
+0.1	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.1	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant R76D/Ser78D, pH not specified in the publication, temperature not specified in the publication
+0.1	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant S61D/S63D, pH not specified in the publication, temperature not specified in the publication
+0.12	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7		pH 7, temperature not specified in the publication, cosubstrate: (2S)-2-hydroxy-2-methyl-3-oxobutanoate
+0.12	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7		pH 7, temperature not specified in the publication, cosubstrate: (2S)-2-hydroxy-2-methyl-3-oxobutanoate
+0.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0	X	mutant A71S/R76D/S78D/Q110V, pH 7.0, temperature not specified in the publication
+0.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant A71S/R76D/S78D/Q110V, pH not specified in the publication, temperature not specified in the publication
+0.25	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant S61D/S63D/I95V, pH not specified in the publication, temperature not specified in the publication
+0.3	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.0		wild-type, pH 7.0, temperature not specified in the publication
+0.3	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.3	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant A71S/R76D/S78AD/Q110V, pH not specified in the publication, temperature not specified in the publication
+0.35	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant V48L/R49P/K52E/S53D, pH not specified in the publication, temperature not specified in the publication
+0.35	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant V48L/R49P/K52L/S53D/E59K/T182S/E320K, pH not specified in the publication, temperature not specified in the publication
+0.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant V48L/R49P/K52L/S53D, pH not specified in the publication, temperature not specified in the publication
+0.41	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.54	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant A71S/R76D/S78D/Q110V/D146G/G185R/K433E , pH not specified in the publication, temperature not specified in the publication
+0.6	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0	X	mutant A71S/R76D/S78D/Q110A, pH 7.0, temperature not specified in the publication
+0.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.97	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant S61D/S63D, pH not specified in the publication, temperature not specified in the publication
+1.01	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant S61D/S63D/I95V, pH not specified in the publication, temperature not specified in the publication
+1.07	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant V48L/R49P/K52L/S53D/E59K/T182S/E320K, pH not specified in the publication, temperature not specified in the publication
+1.1	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+1.3	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant R76D/Ser78D, pH not specified in the publication, temperature not specified in the publication
+2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.0	X	mutant S78D/Q110V, pH 7.0, temperature not specified in the publication
+2.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0	X	mutant S78D/Q110V, pH 7.0, temperature not specified in the publication
+2.3	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.0	X	mutant A71S/R76D/S78D/Q110V, pH 7.0, temperature not specified in the publication
+2.3	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant A71S/R76D/S78D/Q110V, pH not specified in the publication, temperature not specified in the publication
+2.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant A71S/R76D/S78AD/Q110V, pH not specified in the publication, temperature not specified in the publication
+2.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0	X	mutant S78D, pH 7.0, temperature not specified in the publication
+2.6	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.0	X	mutant A71S/R76D/S78D/Q110A, pH 7.0, temperature not specified in the publication
+3.1	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.0	X	mutant Q110A, pH 7.0, temperature not specified in the publication
+3.3	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.0	X	mutant Q110V, pH 7.0, temperature not specified in the publication
+3.6	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.0	X	mutant S78D, pH 7.0, temperature not specified in the publication
+3.6	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0		wild-type, pH 7.0, temperature not specified in the publication
+3.6	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+4.3	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant A71S/R76D/S78D/Q110V/D146G/G185R/K433E , pH not specified in the publication, temperature not specified in the publication
+4.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+7.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0	X	mutant Q110A, pH 7.0, temperature not specified in the publication; mutant Q110V, pH 7.0, temperature not specified in the publication

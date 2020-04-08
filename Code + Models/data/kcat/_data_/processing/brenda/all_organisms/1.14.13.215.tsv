@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.113	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	7.0		in presence of 0.01 mM FAD, recombinant enzyme, pH 7.0, 30C
+0.324	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	7.0		in presence of 0.01 mM FAD, recombinant enzyme, pH 7.0, 30C
+16.67	protoasukamycin	123860	VBCLNKLOMFDNGC-JMAMMSEDSA-N	30	7.0		in presence of 0.01 mM FAD, recombinant enzyme, pH 7.0, 30C

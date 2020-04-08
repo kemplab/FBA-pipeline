@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.19	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	30	7.5		wild-type, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; wild-type, pH 7.5, 30C, overall reaction
+0.31	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	30	7.5	X	mutant Y300A, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; mutant Y300A, pH 7.5, 30C, overall reaction
+0.41	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	30	7.5	X	mutant R301A, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; mutant R301A, pH 7.5, 30C, overall reaction
+0.42	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	30	7.5	X	mutant D295A, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; mutant D295A, pH 7.5, 30C, overall reaction
+0.53	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	30	7.5	X	mutant Y300F, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; mutant Y300F, pH 7.5, 30C, overall reaction
+0.19	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	30	7.5		wild-type, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; wild-type, pH 7.5, 30C, overall reaction
+0.38	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	30	7.5	X	mutant Y300A, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; mutant Y300A, pH 7.5, 30C, overall reaction
+0.41	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	30	7.5	X	mutant R301A, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; mutant R301A, pH 7.5, 30C, overall reaction
+0.48	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	30	7.5	X	mutant D295A, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; mutant D295A, pH 7.5, 30C, overall reaction
+0.57	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	30	7.5	X	mutant Y300F, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; mutant Y300F, pH 7.5, 30C, overall reaction

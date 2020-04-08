@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.005	4-methylsulfonyl-D-Leu-Gly-Arg-p-nitroanilide	3070	FNSVMYKNNMWQBB-DLBZAZTESA-N			X	mutant enzyme FIXagamma225P
+0.058	4-methylsulfonyl-D-Leu-Gly-Arg-p-nitroanilide	3070	FNSVMYKNNMWQBB-DLBZAZTESA-N			X	mutant enzyme FIXagamma225P, in presence of 200 mM Na+
+0.42	4-methylsulfonyl-D-Leu-Gly-Arg-p-nitroanilide	3070	FNSVMYKNNMWQBB-DLBZAZTESA-N				wild type enzyme FIXa
+0.63	4-methylsulfonyl-D-Leu-Gly-Arg-p-nitroanilide	3070	FNSVMYKNNMWQBB-DLBZAZTESA-N				wild type enzyme FIXa, in presence of 200 mM Na+
+0.78	4-methylsulfonyl-D-Leu-Gly-Arg-p-nitroanilide	3070	FNSVMYKNNMWQBB-DLBZAZTESA-N			X	mutant enzyme FIXagamma225P, in presence of Ca2+ and 185 mM Na+
+0.89	4-methylsulfonyl-D-Leu-Gly-Arg-p-nitroanilide	3070	FNSVMYKNNMWQBB-DLBZAZTESA-N			X	mutant enzyme FIXagamma225P, in presence of 200 mM Ca2+
+2.01	methoxycarbonyl-D-Nle-Gly-Arg-p-nitroanilide	21190	XCYONURPTWFXCT-RTWAWAEBSA-N		7.4		rFIXa, at pH 7.4, in the presence of 33% v/v ethylene glycol
+3.15	4-methylsulfonyl-D-Leu-Gly-Arg-p-nitroanilide	3070	FNSVMYKNNMWQBB-DLBZAZTESA-N				wild type enzyme FIXa, in presence of 200 mM Ca2+
+3.38	4-methylsulfonyl-D-Leu-Gly-Arg-p-nitroanilide	3070	FNSVMYKNNMWQBB-DLBZAZTESA-N				wild type enzyme FIXa, in presence of Ca2+ and 185 mM Na+
+5.67	methylsulfonyl-D-cyclohexylglycyl-Gly-Arg-p-nitroanilide	21193	UZWREAAUIIBTBN-AZUAARDMSA-N		7.4		rFIXa, at pH 7.4, in the presence of 33% v/v ethylene glycol
+6.11	methylsulfonyl-D-hexahydrotyrosyl-Gly-Arg-p-nitroanilide	21194	JXDKQYVACFORTL-OSXBXZONSA-N		7.4		rFIXa, at pH 7.4, in the presence of 33% v/v ethylene glycol
+13.2	CH3SO2-D-Leu-Gly-L-Arg-p-nitroanilide	3070	FNSVMYKNNMWQBB-DLBZAZTESA-N				
+17.5	L-Leu-Gly-L-Arg-4-nitroanilide	114538	DZBADAKTNIRQKK-HOTGVXAUSA-N	22	7.5		FIXa/FXa chimera in which the 39-loop of the protease is replaced with the corresponding loop of FXa, in 0.02 M Tris-HCl (pH 7.5) buffer containing 0.1 M NaCl, 0.1 mg/ml bovine serum albumin, 33% ethylene glycol, and 5 mM Ca2+, at 22C
+18.5	CH3SO2-D-Leu-Gly-Arg-4-nitroanilide	3070	FNSVMYKNNMWQBB-DLBZAZTESA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme, in absence of NaCl
+18.5	CH3SO2-D-Leu-Gly-Arg-4-nitroanilide	3070	FNSVMYKNNMWQBB-DLBZAZTESA-N	22	7.5		pH 7.5, 22C, in presence of 5 mM Ca2+
+19	CH3SO2-D-Leu-Gly-Arg-4-nitroanilide	3070	FNSVMYKNNMWQBB-DLBZAZTESA-N	22	7.5		pH 7.5, 22C, in presence of 5 mM Ca2+ and 0.2 M LiCl
+20.2	CH3SO2-D-Leu-Gly-Arg-4-nitroanilide	3070	FNSVMYKNNMWQBB-DLBZAZTESA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme, in presence of 0.2 M NaCl
+20.2	CH3SO2-D-Leu-Gly-Arg-4-nitroanilide	3070	FNSVMYKNNMWQBB-DLBZAZTESA-N	22	7.5		pH 7.5, 22C, in presence of 5 mM Ca2+ and 0.2 M NaCl
+21.3	CH3SO2-D-Leu-Gly-Arg-4-nitroanilide	3070	FNSVMYKNNMWQBB-DLBZAZTESA-N	22	7.5		pH 7.5, 22C, in presence of 5 mM Ca2+ and 0.2 M ChCl
+21.4	L-Leu-Gly-L-Arg-4-nitroanilide	114538	DZBADAKTNIRQKK-HOTGVXAUSA-N	22	7.5		wild type enzyme, in 0.02 M Tris-HCl (pH 7.5) buffer containing 0.1 M NaCl, 0.1 mg/ml bovine serum albumin, 33% ethylene glycol, and 5 mM Ca2+, at 22C
+21.9	CH3SO2-D-Leu-Gly-Arg-4-nitroanilide	3070	FNSVMYKNNMWQBB-DLBZAZTESA-N	22	7.5		pH 7.5, 22C, in presence of 5 mM Ca2+ and 0.2 M RbCl

@@ -1,0 +1,122 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0151	benzyloxycarbonyl-Gly-Pro-beta-naphthylamide	3928	YVMWGYRWDXZYLQ-QFIPXVFZSA-N		7.0	X	pH 7.0, mutant enzyme D641N
+0.021	benzyloxycarbonyl-Gly-Pro-p-nitrophenol	5066	MAXYPAJZEQDQRB-SFHVURJKSA-N		7.0	X	pH 7.0, mutant enzyme D641N
+0.028	benzyloxycarbonyl-Gly-Pro-SBzl	7643	MOUXTJZLPNOSSQ-IBGZPJMESA-N		7.0	X	pH 7.0, mutante enzyme D641N
+0.03	2-aminobenzoyl-Glu-Gly-Phe-Ser-Pro-Phe(NO2)-Arg-Ala	14794	ZXFNHVBQNOMKQB-XZUOCMGYSA-N				
+0.03	Arg-Pro-4-nitroanilide	5419	IUMFVSMNETWFNX-KBPBESRZSA-N	85	7.5		pH 7.5, 85C
+0.03	Arg-Pro-p-nitroanilide	3238	HQLQJFYQCVRVSJ-KBPBESRZSA-N	85	7.5		pH 7.5, 85C
+0.031	Benzyloxycarbonyl-Gly-Pro-Leu-Gly	4830	BHYBKKFGHQVXFO-ROUUACIJSA-N				
+0.031	benzyloxycarbonyl-Gly-Pro-p-nitrophenol	5066	MAXYPAJZEQDQRB-SFHVURJKSA-N		7.0	X	pH 7.0, mutant enzyme D641A
+0.06	Gly-Pro-4-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N	85	7.5		pH 7.5, 85C
+0.06	Gly-Pro-p-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N	85	7.5		pH 7.5, 85C
+0.0657	benzyloxycarbonyl-Gly-Pro-beta-naphthylamide	3928	YVMWGYRWDXZYLQ-QFIPXVFZSA-N		7.0	X	pH 7.0, mutant enzyme D641A
+0.073	Asp-Pro-4-nitroanilide	6494	XOJCPCPXSLLQGF-RYUDHWBXSA-N	85	7.5		pH 7.5, 85C
+0.073	Asp-Pro-p-nitroanilide	6494	XOJCPCPXSLLQGF-RYUDHWBXSA-N	85	7.5		pH 7.5, 85C
+0.079	Ala-Pro-4-nitroanilide	2311	WUOZBACYMYYTOQ-CABZTGNLSA-N	85	7.5		pH 7.5, 85C
+0.079	Ala-Pro-p-nitroanilide	2311	WUOZBACYMYYTOQ-CABZTGNLSA-N	85	7.5		pH 7.5, 85C
+0.099	benzyloxycarbonyl-Gly-Pro-SBzl	7643	MOUXTJZLPNOSSQ-IBGZPJMESA-N		7.0	X	pH 7.0, mutant enzymeD641A
+0.147	benzyloxycarbonyl-D-Ala-Pro-beta-naphthylamide	22680	HLZOCXXPKORRAI-JPYJTQIMSA-N				
+0.4	Benzyloxycarbonyl-Gly-Pro-Leu-Gly-Pro	5425	DGRDYZZPQWDRBB-FKBYEOEOSA-N				enzyme from kidney
+0.6	2-aminobenzoyl-Arg-Pro-Pro-Gly-Phe-Ser-Pro-Phe-Arg-Ser-Ser-Arg-Gln-N-(2,4-dinitrophenyl)ethylenediamine	12349	AYBABWHAKJYNMD-HIQGHICLSA-N	37	7.5	X	pH 7.5, 37C, recombinant mutant C255T
+0.6	2-aminobenzoyl-Gly-Phe-Ser-Pro-Phe-Arg-Ser-Ser-Arg-Ile-Gly-GLu-Ile-Lys-Glu-Glu-Gln-N-(2,4-dinitrophenyl)ethylenediamine	16742	ZSULIVNKUMZHSQ-IJKQENJHSA-N	37	7.5	X	pH 7.5, 37C, recombinant wild-type enzyme and mutant C255T
+0.67	benzyloxycarbonyl-Gly-Pro-D-Leu	14791	QYDFKWAKGMDHJL-SJORKVTESA-N				enzyme from kidney
+0.82	benzyloxycarbonyl-Ala-Gly-Pro-beta-naphthylamide	11504	MPDOHDQZAJZTFE-CYFREDJKSA-N				
+0.85	angiotensin I	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N				
+0.9	2-aminobenzoyl-Arg-Pro-Pro-Gly-Phe-Ser-Pro-Phe-Arg-Ser-Ser-Arg-Gln-N-(2,4-dinitrophenyl)ethylenediamine	12349	AYBABWHAKJYNMD-HIQGHICLSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme
+0.95	benzyloxycarbonyl-Gly-Pro-4-methylcoumaryl-7-amide	7913	YWOXKKRKNGWXEG-FQEVSTJZSA-N				
+0.97	Abz-Gly-L-Phe-L-Arg-L-Pro-L-Phe(NO2)-L-Arg-L-Ala	22682	GJLIVTWYQAXMPJ-QJSKOQLASA-N	25	8.0		wild type enzyme, at pH 8.0 and 25C
+1	2-aminobenzoyl-Arg-Pro-Pro-Gly-Phe-Ser-Pro-Phe-Arg-Gln-N-(2,4-dinitrophenyl)ethylenediamine	12348	WEPMWJDGEHUSJK-MQXGFEHYSA-N	37	7.5	X	pH 7.5, 37C, recombinant mutant C255T
+1.05	Benzyloxycarbonyl-Gly-Pro-Leu	6124	QYDFKWAKGMDHJL-IRXDYDNUSA-N				
+1.1	2-aminobenzoyl-Arg-Pro-Pro-Gly-Phe-Ser-Pro-Phe-Arg-Gln-N-(2,4-dinitrophenyl)ethylenediamine	12348	WEPMWJDGEHUSJK-MQXGFEHYSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme
+1.26	Benzyloxycarbonyl-Gly-Pro-Ala	6123	PYRIIPBSDFLGNG-JSGCOSHPSA-N				
+1.31	Abz-Gly-L-Phe-L-Arg-L-Pro-L-Phe(NO2)-L-Arg-L-Ala	22682	GJLIVTWYQAXMPJ-QJSKOQLASA-N	202	8.0	X	mutant enzyme T202C/T590C, at pH 8.0 and 25C
+1.4	2-aminobenzoyl-Gly-Phe-Ser-Pro-Phe-Arg-Gln-N-(2,4-dinitrophenyl)ethylenediamine	3275	CDHXXEKDLLJPCM-KHVQSSSXSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme
+1.4	2-aminobenzoyl-Gly-Phe-Ser-Pro-Phe-Arg-Ser-Ser-Arg-Gln-N-(2,4-dinitrophenyl)ethylenediamine	11262	SDQDQWCSJOVVIT-ZTNWZYIDSA-N	37	7.5	X	pH 7.5, 37C, recombinant mutant C255T
+1.4	2-aminobenzoyl-Gly-Pro-Gln-N-(2,4-dinitrophenyl)ethylenediamine	7982	BIQGKWWZJRVWCM-SFTDATJTSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme
+1.5	2-aminobenzoyl-Gly-Phe-Ser-Pro-Phe-Arg-Ser-Ser-Arg-Gln-N-(2,4-dinitrophenyl)ethylenediamine	11262	SDQDQWCSJOVVIT-ZTNWZYIDSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme
+1.52	benzyloxycarbonyl-Gly-Pro-D-Ala	14790	PYRIIPBSDFLGNG-OCCSQVGLSA-N				enzyme from kidney
+1.7	2-aminobenzoyl-Glu-Phe-Ser-Pro-Phe(NO2)-Arg-Ala	22684	NWRCKJUHZSVWPX-HRJAQBPISA-N				
+1.8	2-aminobenzoyl-Gly-Pro-Gln-N-(2,4-dinitrophenyl)ethylenediamine	7982	BIQGKWWZJRVWCM-SFTDATJTSA-N	37	7.5	X	pH 7.5, 37C, recombinant mutant C255T
+1.82	2-aminobenzoyl-Gly-Glu-Ser-Pro-Phe(NO2)-Arg-Ala	14793	IIQWIMWCOVAYJV-RSGBUPOYSA-N				
+2	benzyloxycarbonyl-Gly-Pro-Leu-Gly-Gly	11502	VLKJNKSPLCUKSN-OALUTQOASA-N				enzyme from kidney
+2	benzyloxycarbonyl-D-Ala-Gly-Pro-beta-naphthylamide	11505	MPDOHDQZAJZTFE-DVECYGJZSA-N				
+2.05	benzyloxycarbonyl-Gly-Gly-Pro-p-nitrophenol	8953	CEPBMXJDEIVMLX-IBGZPJMESA-N				
+2.4	2-aminobenzoyl-Gly-Phe-Glu-Pro-Phe(NO2)-Arg-Ala	22683	JETCNZKMANPRGK-PGVZYDAFSA-N				
+2.5	benzyloxycarbonyl-Ala-Ala-4-nitroanilide	22672	TUBKJDFIMPSKNT-KBPBESRZSA-N	85	7.5		pH 7.5, 85C
+2.5	benzyloxycarbonyl-Ala-Ala-p-nitroanilide	22672	TUBKJDFIMPSKNT-KBPBESRZSA-N	85	7.5		pH 7.5, 85C
+2.7	benzyloxycarbonyl-Ala-Ala-p-nitrophenol	22678	KBMJROAGOKBDPH-KBPBESRZSA-N				
+2.94	2-aminobenzoyl-Gly-Glu-Ser-Pro-Phe(NO2)-Arg-Ala	14793	IIQWIMWCOVAYJV-RSGBUPOYSA-N				
+2.94	benzyloxycarbonyl-Gly-Pro-D-Ala	14790	PYRIIPBSDFLGNG-OCCSQVGLSA-N				enzyme from kidney
+3	benzyloxycarbonyl-Gly-Pro-p-nitrophenol	5066	MAXYPAJZEQDQRB-SFHVURJKSA-N		7.0		pH 7.0, wild-type enzyme
+3.2	2-aminobenzoyl-Gly-Phe-Arg-Pro-Phe(NO2)-Arg-Ala	22682	GJLIVTWYQAXMPJ-QJSKOQLASA-N				
+3.2	Benzyloxycarbonyl-Gly-Pro-Phe	8337	BFWHAFJJBLUVDM-PMACEKPBSA-N				enzyme from kidney
+3.3	2-aminobenzoyl-Gly-Phe-Gly-Pro-Phe-Gly-Phe(NO2)-Ala-NH2	14792	KRLKDLGSOBJWAM-HVXDCEFMSA-N		8.0		pH 8.0, wild-type enzyme
+3.5	2-aminobenzoyl-Gly-Ser-Pro-Phe-Arg-Gln-N-(2,4-dinitrophenyl)ethylenediamine	25070	ARINHHLBOYTNIU-ZZTWKDBPSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme
+3.8	benzyloxycarbonyl-Gly-Pro-p-nitroanilide	7372	PLVNYTUIZLUBSS-SFHVURJKSA-N				
+3.95	Benzyloxycarbonyl-Gly-Pro-Phe	8337	BFWHAFJJBLUVDM-PMACEKPBSA-N				
+4	2-aminobenzoyl-Gly-Pro-Phe-Arg-Gln-N-(2,4-dinitrophenyl)ethylenediamine	25071	SCZAVHSWGWVMBL-YRCZKMHPSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme
+4.2	benzyloxycarbonyl-Ala-Pro-beta-naphthylamide	22679	HLZOCXXPKORRAI-MBSDFSHPSA-N				
+4.7	benzyloxycarbonyl-Gly-L-Pro-beta-naphthylamide	3928	YVMWGYRWDXZYLQ-QFIPXVFZSA-N	37	7.4		pH 7.4, 37C, enzyme from thioglycollate-elicited macrophage
+5.38	2-aminobenzoyl-Gly-Phe-Gly-Pro-Phe-Gly-Phe(NO2)-Ala-NH2	14792	KRLKDLGSOBJWAM-HVXDCEFMSA-N		8.0		pH 8.0, wild-type enzyme
+5.67	benzyloxycarbonyl-Gly-Pro-Leu-D-Ala	7642	CCDGCVHPCPMMPM-NEWSRXKRSA-N				
+5.9	benzyloxycarbonyl-Ala-Ala-beta-naphthylamide	22677	FAQAHVLOEUFZPE-IRXDYDNUSA-N				
+6	2-aminobenzoyl-Gly-Pro-Phe-Gln-N-(2,4-dinitrophenyl)ethylenediamine	25072	GYPJXMBGYAGNFL-AWCRTANDSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme
+6.08	Benzyloxycarbonyl-Gly-Pro-Ala	6123	PYRIIPBSDFLGNG-JSGCOSHPSA-N				
+6.08	benzyloxycarbonyl-Gly-Pro-D-Leu	14791	QYDFKWAKGMDHJL-SJORKVTESA-N				enzyme from kidney
+6.1	N-benzyloxycarbonyl-Gly-Pro-Ala	6123	PYRIIPBSDFLGNG-JSGCOSHPSA-N				
+7.22	2-aminobenzoyl-Glu-Gly-Phe-Ser-Pro-Phe(NO2)-Arg-Ala	14794	ZXFNHVBQNOMKQB-XZUOCMGYSA-N				
+7.9	2-aminobenzoyl-Gly-Pro-Gln-N-(2,4-dinitrophenyl)ethylenediamine	7982	BIQGKWWZJRVWCM-SFTDATJTSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme
+7.98	Benzyloxycarbonyl-Gly-Pro-Leu-Gly	4830	BHYBKKFGHQVXFO-ROUUACIJSA-N				
+8.9	benzyloxycarbonyl-Pro-p-nitrophenol	22673	GXUFIJVKXYWCAO-KRWDZBQOSA-N				enzyme from kidney
+12.4	Benzyloxycarbonyl-Gly-Pro-Leu-Gly-Pro	5425	DGRDYZZPQWDRBB-FKBYEOEOSA-N				
+13.2	benzyloxycarbonyl-Gly-Pro-Leu-Ala	8954	CCDGCVHPCPMMPM-WDSOQIARSA-N				
+14.4	thyrotropin-releasing hormone	3370	XNSAINXGIQZQOO-SRVKXCTJSA-N				
+15.6	Benzyloxycarbonyl-Gly-Pro-Ala	6123	PYRIIPBSDFLGNG-JSGCOSHPSA-N				enzyme from kidney
+15.9	Ala-Gly-Pro-beta-naphthylamide	3972	KCELZXZDIUJGNM-GUYCJALGSA-N				
+16.9	Arg-Pro-4-nitroanilide	5419	IUMFVSMNETWFNX-KBPBESRZSA-N	85	7.5		pH 7.5, 85C
+16.9	benzyloxycarbonyl-Gly-Pro-p-nitroanilide	7372	PLVNYTUIZLUBSS-SFHVURJKSA-N	85	7.5		pH 7.5, 85C
+17.6	Nalpha-benzyloxycarbonyl-Gly-Pro-Leu-Gly	4830	BHYBKKFGHQVXFO-ROUUACIJSA-N				
+17.9	benzyloxycarbonyl-Ala-Pro-4-nitroanilide	11501	KFRUDZOHZFJLLZ-KXBFYZLASA-N	85	7.5		pH 7.5, 85C
+17.9	benzyloxycarbonyl-Ala-Pro-p-nitroanilide	11501	KFRUDZOHZFJLLZ-KXBFYZLASA-N	85	7.5		pH 7.5, 85C
+22.2	N-succinyl-Ala-Pro-4-nitroanilide	25073	ODADHBYAFURJLG-FZMZJTMJSA-N	80	7.5		pH 7.5, 80C, recombinant enzyme
+23	Benzyloxycarbonyl-Gly-Pro-Leu	6124	QYDFKWAKGMDHJL-IRXDYDNUSA-N				
+25	benzyloxycarbonyl-Gly-Pro-Leu-Gly-D-Ala	22676	CJQYIMULNZLRKJ-HOJAQTOUSA-N				enzyme from kidney
+26	Benzyloxycarbonyl-Gly-Pro-Leu	6124	QYDFKWAKGMDHJL-IRXDYDNUSA-N				enzyme from kidney
+26.6	benzyloxycarbonyl-Gly-L-Pro-7-amido-4-methylcoumarin	39080	ZAVHGCVJEOYOIH-UHFFFAOYSA-N	37	8.0		at pH 8.0 and 37C
+27	benzyloxycarbonyl-Gly-Gly-Pro-p-nitrophenol	8953	CEPBMXJDEIVMLX-IBGZPJMESA-N				enzyme from kidney
+28.1	N-succinyl-Gly-L-Pro-L-Leu-Gly-L-Pro-7-amido-4-methylcoumarin	12018	RPHBOWQMQBFJME-SDHOMARFSA-N		7.5		pH 7.5, native enzyme
+29.2	Nalpha-benzyl-Gly-Pro-Leu-Gly	31107	NTXCGNQAOOKAJD-VYRBHSGPSA-N				
+30	benzyloxycarbonyl-D-Ala-Gly-Pro-p-nitrophenol	22675	XGCRPPXNSHEIQY-UZLBHIALSA-N				enzyme from kidney
+32.3	N-benzyloxycarbonyl-Gly-Pro-Leu-Gly	4830	BHYBKKFGHQVXFO-ROUUACIJSA-N				
+32.5	benzyloxycarbonyl-Gly-Pro-beta-naphthylamide	3928	YVMWGYRWDXZYLQ-QFIPXVFZSA-N		7.0		pH 7.0, wild-type enzyme
+32.7	benzyloxycarbonyl-Gly-Pro-p-nitrophenol	5066	MAXYPAJZEQDQRB-SFHVURJKSA-N				enzyme from kidney
+34	benzyloxycarbonyl-Gly-Pro-Leu-Gly-Ala	11503	CJQYIMULNZLRKJ-IHPCNDPISA-N				enzyme from kidney
+38	benzyloxycarbonyl-D-Ala-Gly-Pro-beta-naphthylamide	11505	MPDOHDQZAJZTFE-DVECYGJZSA-N				
+38.2	benzyloxycarbonyl-Ala-Gly-Pro-p-nitrophenol	14789	XGCRPPXNSHEIQY-JXFKEZNVSA-N				enzyme from kidney
+38.4	benzyloxycarbonyl-Gly-Pro-Leu-Ala	8954	CCDGCVHPCPMMPM-WDSOQIARSA-N				enzyme from kidney
+46	benzyloxycarbonyl-Gly-Pro-Leu-D-Ala	7642	CCDGCVHPCPMMPM-NEWSRXKRSA-N				enzyme from kidney
+48.7	N-succinyl-Gly-L-Pro-L-Leu-Gly-L-Pro-7-amido-4-methylcoumarin	12018	RPHBOWQMQBFJME-SDHOMARFSA-N		7.5		pH 7.5, recombinant enzyme
+52	Benzyloxycarbonyl-Gly-Pro-Leu-Gly	4830	BHYBKKFGHQVXFO-ROUUACIJSA-N				enzyme from kidney
+53.3	Benzyloxycarbonyl-Gly-Pro-Leu-Gly-Pro	5425	DGRDYZZPQWDRBB-FKBYEOEOSA-N				enzyme from kidney
+61	benzyloxycarbonyl-Ala-Pro-p-nitrophenol	22674	PCXKAGXFGALNHS-KXBFYZLASA-N				enzyme from kidney
+75	Z-L-Ala-L-Ala-L-Ala-L-Pro-4-nitroanilide	125372	WZWDDHHVGTXMPQ-KGYLXKDPSA-N	35	5.0		at pH 5.0 and 35C
+85.8	benzyloxycarbonyl-Gly-Gly-Pro-p-nitrophenol	8953	CEPBMXJDEIVMLX-IBGZPJMESA-N				
+93	Z-L-Ala-L-Ala-L-Ala-L-Pro-4-nitroanilide	125372	WZWDDHHVGTXMPQ-KGYLXKDPSA-N	40	4.0		at 40C and pH 4.0
+102	benzyloxycarbonyl-Gly-Pro-p-nitrophenol	5066	MAXYPAJZEQDQRB-SFHVURJKSA-N				
+107.4	L-Ala-L-Ala-L-Pro-4-nitroanilide	30791	JJSQTVFRQZPPIV-COPLHBTASA-N	35	5.0		at pH 5.0 and 35C
+108	benzyloxycarbonyl-Gly-Pro-SBzl	7643	MOUXTJZLPNOSSQ-IBGZPJMESA-N		7.0		pH 7.0, wild-type enzyme
+115	benzyloxycarbonyl-Gly-Pro-4-methylcoumaryl-7-amide	7913	YWOXKKRKNGWXEG-FQEVSTJZSA-N				
+126	benzyloxycarbonyl-Ala-Pro-p-nitroanilide	11501	KFRUDZOHZFJLLZ-KXBFYZLASA-N				
+139.4	L-Ala-L-Ala-L-Pro-4-nitroanilide	30791	JJSQTVFRQZPPIV-COPLHBTASA-N	40	4.0		at 40C and pH 4.0
+153	benzyloxycarbonyl-Gly-Pro-beta-naphthylamide	3928	YVMWGYRWDXZYLQ-QFIPXVFZSA-N				
+162	benzyloxycarbonyl-Gly-L-Pro-4-nitroanilide	9873	UTXSFKPOIVELPQ-SFHVURJKSA-N	37	8.0		at pH 8.0 and 37C
+169	benzyloxycarbonyl-Gly-Pro-beta-naphthylamide	3928	YVMWGYRWDXZYLQ-QFIPXVFZSA-N				
+180	Benzyloxycarbonyl-Gly-Pro-Phe	8337	BFWHAFJJBLUVDM-PMACEKPBSA-N				
+192	benzyloxycarbonyl-Ala-Gly-Pro-beta-naphthylamide	11504	MPDOHDQZAJZTFE-CYFREDJKSA-N				
+240	Benzyloxycarbonyl-Gly-Pro-Ala	6123	PYRIIPBSDFLGNG-JSGCOSHPSA-N				
+505	Z-Gly-Pro-4-nitroanilide	9873	UTXSFKPOIVELPQ-SFHVURJKSA-N				
+520	benzyloxycarbonyl-Gly-Pro-Leu-Ala	8954	CCDGCVHPCPMMPM-WDSOQIARSA-N				
+520	Benzyloxycarbonyl-Gly-Pro-Leu-Gly	4830	BHYBKKFGHQVXFO-ROUUACIJSA-N				
+700	benzyloxycarbonyl-Gly-Pro-Leu-Gly-Gly	11502	VLKJNKSPLCUKSN-OALUTQOASA-N				
+1000	benzyloxycarbonyl-Gly-Pro-Leu-Gly-Ala	11503	CJQYIMULNZLRKJ-IHPCNDPISA-N				
+1600	benzyloxycarbonyl-Gly-Pro-Leu-D-Ala	7642	CCDGCVHPCPMMPM-NEWSRXKRSA-N				

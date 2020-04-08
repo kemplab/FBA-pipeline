@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.002	desvancosaminyl-vancomycin	7033	QCHYVJAUGVHJHX-PZIRYZLHSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme D13A
+0.002	UDP-L-epi-vancosamine	115609	FGGPJUJHZBIDKW-VBZJYVEMSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme D13A
+1.12	desvancosaminyl-vancomycin	7033	QCHYVJAUGVHJHX-PZIRYZLHSA-N	37	7.0		pH 7.0, 37C, wild-type enzyme
+1.12	UDP-L-epi-vancosamine	115609	FGGPJUJHZBIDKW-VBZJYVEMSA-N	37	7.0		pH 7.0, 37C, wild-type enzyme
+2.13	dTDP-beta-L-daunosamine	118829	CEQVCLWWGAYCPR-QUTCXQLSSA-N				pH not specified in the publication, temperature not specified in the publication
+2.25	dTDP-beta-L-acosamine	124563	CEQVCLWWGAYCPR-LITXJTQSSA-N				pH not specified in the publication, temperature not specified in the publication

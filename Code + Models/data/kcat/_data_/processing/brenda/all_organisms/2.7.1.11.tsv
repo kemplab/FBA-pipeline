@@ -1,0 +1,29 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.015	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	8.5	8.0	X	pH 8.0, 8.5C, T125A mutant PFK
+0.016	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	7.2		pH 7.2, 30C, cosubstrate gamma-thio-ATP
+0.037	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8.2		wild type enzyme, in the presence of Mn2+, in 0.05 M Tris-HCl, pH 8.2, temperature not specified in the publication
+0.24	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8.2	X	mutant enzyme E190Q, in the presence of Mg2+, in 0.05 M Tris-HCl, pH 8.2, temperature not specified in the publication
+0.3	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	8.5	X	pH 8.5, 30C, R72H mutant PFK
+0.303	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	8.5	8.0	X	pH 8.0, 8.5C, R72E mutant PFK
+3.2	fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				reverse raction, recombinant enzyme
+3.47	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	8.5	8.0	X	pH 8.0, 8.5C, R171E mutant PFK
+3.7	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	8.5	X	pH 8.5, 30C, R252Q mutant PFK
+5	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	5	8.2		pH 8.2, 5C
+9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8.2	X	mutant enzyme E190Q, in the presence of Mn2+, in 0.05 M Tris-HCl, pH 8.2, temperature not specified in the publication
+44	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	25	8.2		in the presence of 0.5 mM MgATP2-, at pH 8.2 and 25C
+49	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	7.2		pH 7.2, 30C, cosubstrate ATP
+57.2	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	8.5	X	pH 8.5, 30C, I126A mutant PFK
+60	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	25	8.2		in the presence of 0.1 mM MgATP2-, at pH 8.2 and 25C
+60	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	15	8.2		pH 8.2, 15C
+61	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	8.5	8.0		pH 8.0, 8.5C, wild-type PFK
+62	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8.2		wild type enzyme, in the presence of Mg2+, in 0.05 M Tris-HCl, pH 8.2, temperature not specified in the publication
+88	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	7.2		pH 7.2, 30C, at 2mM ATP
+110	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	25	8.2		pH 8.2, 25C
+111	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	8.5		pH 8.5, 30C, wild-type PFK
+112	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N				forward reaction, recombinant enzyme
+126	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	8.2	X	pH 8.2, 30C, G212V mutant PFK
+149	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	8.2		pH 8.2, 30C, native PFK
+167	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	8.5		pH 8.5, 30C
+185	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	37	8.2		pH 8.2, 37C
+236	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.0		wild type enzyme, at pH 7.0 in 50 mM HEPES, 100 mM KCl, 5 mM MgCl2 and 25C
+357	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.0		wild type enzyme, at pH 7.0 in 50 mM HEPES, 100 mM KCl, 5 mM MgCl2 and 25C

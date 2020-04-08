@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.61	(7-methoxycoumarin-4-yl)acetyl-LPro-L-Leu-Gly-L-Leu-[N3-(2,4-dinitrophenyl)-L-2,3-diaminopropionyl]-L-Ala-L-Arg-NH2	4006	VREVNSDWZLZKHR-ZZTWKDBPSA-N	25	7.5	X	pH 7.5, 25C, mutant Y219C
+3.53	(7-methoxycoumarin-4-yl)acetyl-LPro-L-Leu-Gly-L-Leu-[N3-(2,4-dinitrophenyl)-L-2,3-diaminopropionyl]-L-Ala-L-Arg-NH2	4006	VREVNSDWZLZKHR-ZZTWKDBPSA-N	25	7.5	X	pH 7.5, 25C, mutant Y219A
+5.41	(7-methoxycoumarin-4-yl)acetyl-LPro-L-Leu-Gly-L-Leu-[N3-(2,4-dinitrophenyl)-L-2,3-diaminopropionyl]-L-Ala-L-Arg-NH2	4006	VREVNSDWZLZKHR-ZZTWKDBPSA-N	25	7.5	X	pH 7.5, 25C, mutant Y219S
+6.18	(7-methoxycoumarin-4-yl)acetyl-LPro-L-Leu-Gly-L-Leu-[N3-(2,4-dinitrophenyl)-L-2,3-diaminopropionyl]-L-Ala-L-Arg-NH2	4006	VREVNSDWZLZKHR-ZZTWKDBPSA-N	25	7.5	X	pH 7.5, 25C, mutant Y219F
+6.35	(7-methoxycoumarin-4-yl)acetyl-LPro-L-Leu-Gly-L-Leu-[N3-(2,4-dinitrophenyl)-L-2,3-diaminopropionyl]-L-Ala-L-Arg-NH2	4006	VREVNSDWZLZKHR-ZZTWKDBPSA-N	25	7.5	X	pH 7.5, 25C, mutant Y219D
+6.43	(7-methoxycoumarin-4-yl)acetyl-LPro-L-Leu-Gly-L-Leu-[N3-(2,4-dinitrophenyl)-L-2,3-diaminopropionyl]-L-Ala-L-Arg-NH2	4006	VREVNSDWZLZKHR-ZZTWKDBPSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+0.00051	dansyl-PLALWAR	4607	QYQGCWLNUPVUOF-JTWHSJNFSA-N	25	7.5	X	pH 7.5, 25C, mutant E198A
+0.0036	dansyl-PLALWAR	4607	QYQGCWLNUPVUOF-JTWHSJNFSA-N	25	7.5	X	pH 7.5, 25C, mutant E198Q
+0.014	dansyl-PLALWAR	4607	QYQGCWLNUPVUOF-JTWHSJNFSA-N	25	7.5	X	pH 7.5, 25C, mutant E198C
+0.61	dansyl-PLALWAR	4607	QYQGCWLNUPVUOF-JTWHSJNFSA-N	25	7.5	X	pH 7.5, 25C, mutant E198D
+2.7	dansyl-PLALWAR	4607	QYQGCWLNUPVUOF-JTWHSJNFSA-N	25	7.5		pH 7.5, 25C, wild-type
+6.08	dansyl-PLALWAR	4607	QYQGCWLNUPVUOF-JTWHSJNFSA-N	25	7.5	X	pH 7.5, 25C, mutant E198D
+0.222	Gly-Pro-Gln-Gly-Ile-Ala-Gly-Gln	8392	RNLITAVDIDKTFC-POALBGPRSA-N				
+3.5	2,4-dinitrophenyl-Pro-Leu-Gly-Leu-Trp-Ala-D-Arg	13569	HJDSNHQADSBDEC-LVBQAGNWSA-N				
+5	2,4-Dinitrophenyl-Arg-Pro-Leu-Ala-Leu-Trp-Arg-Ser	19937	QGUMMYMULJJAFN-VMTJQXTBSA-N				
+0.472	Gly-Pro-Gln-Ala-Ile-Ala-Gly-Gln	20386	FSNCDSOSSZRMIA-PYFYTZNFSA-N				
+1.17	Gly-Pro-Gln-Gly-Ile-Ala-Met-Gln	20387	VONGQJYCEZAFJD-RTAOGMSSSA-N				
+2.47	Gly-Pro-Gln-Gly-Leu-Ala-Gly-Gln	20391	ITGXWYXWBPMATE-HVTWWXFQSA-N				
+1.92	Gly-Pro-Met-Gly-Ile-Ala-Gly-Gln	20393	VKRYIQZYRWBZQO-BPBFDTGDSA-N				

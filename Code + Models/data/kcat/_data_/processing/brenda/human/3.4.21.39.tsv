@@ -1,0 +1,48 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.2	succinyl-Val-Pro-Met-4-nitroanilide	7396	ADFSKYNAASCKOQ-WFXMLNOXSA-N				
+2.5	succinyl-Ala-Ala-Pro-Met-4-nitroanilide	13866	LRADSKUFXJUEHR-VVWQDTPRSA-N				
+2.5	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	37	7.4		in the presence of heparin, at pH 7.4 and 37C
+3.6	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	37	7.4		in the absence of heparin, at pH 7.4 and 37C
+3.9	succinyl-Phe-Gln-Phe-4-nitroanilide	10879	XZOZFJSPNPKSLH-GSDHBNRESA-N				
+4	succinyl-Phe-Val-Phe-4-nitroanilide	10883	FOPKXFSCSMKBTK-ZEZDXWPOSA-N				
+5.9	succinyl-Phe-Met-Phe-4-nitroanilide	10881	PIWNYCMHNGJHLM-KCHLEUMXSA-N				
+6.2	succinyl-Phe-Ser-Phe-4-nitroanilide	6335	FFYPQBXBRUILGA-SDHOMARFSA-N				
+6.7	succinyl-Ala-Ala-Pro-Leu-4-nitroanilide	8618	VGQSFPRHTFAOCG-YAJHFMINSA-N				
+7.5	succinyl-Phe-Leu-Phe-4-nitroanilide	4954	ZDFAXGKOHVNQOY-AWCRTANDSA-N				
+8.4	succinyl-Phe-Glu-Phe-4-nitroanilide	10880	QFOPGAYQILHLSR-GSDHBNRESA-N				
+8.7	succinyl-Val-Pro-Met-4-nitroanilide	7396	ADFSKYNAASCKOQ-WFXMLNOXSA-N				
+8.7	succinyl-Val-Pro-Met-4-nitroanilide	7396	ADFSKYNAASCKOQ-WFXMLNOXSA-N				
+10	succinyl-Phe-Ala-Phe-4-nitroanilide	10878	LKXGYPZLEFOYGZ-LQGLAIQGSA-N				
+10	succinyl-Phe-Thr-Phe-4-nitroanilide	10882	NZPNSJNHMRBFQP-QLPRNTKGSA-N				
+12.6	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-thiobenzyl ester	77849	TWURVFFNODFJBJ-NBMBROAQSA-N	37	7.4		in the absence of heparin, at pH 7.4 and 37C
+14	succinyl-Lys-Pro-Phe-4-nitroanilide	10875	FGIROCKRKVGUJN-HJOGWXRNSA-N				
+17.8	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-thiobenzyl ester	77849	TWURVFFNODFJBJ-NBMBROAQSA-N	37	7.4		in the presence of heparin, at pH 7.4 and 37C
+19	succinyl-Val-Pro-Tyr-4-nitroanilide	10886	XNPAPYMJZRSQNE-HWBMXIPRSA-N				
+19.3	Ala-Ala-Pro-Leu-4-nitroanilide	3952	JJYSJBMKKZTIOY-LNMJFAINSA-N				wild type enzyme
+21	succinyl-Val-Pro-Leu-4-nitroanilide	7395	MTZBOHHLCSOETA-IPJJNNNSSA-N				
+21	succinyl-Val-Pro-Leu-4-nitroanilide	7395	MTZBOHHLCSOETA-IPJJNNNSSA-N				
+23	Ala-Ala-Pro-Met-4-nitroanilide	7947	XNTNHYLNJTWETI-USJZOSNVSA-N				wild type enzyme
+24.7	Big endothelin-1	3185	BAQAGSKMSJLKSP-MNKWLDRPSA-N				untreated enzyme
+25.6	Big endothelin-1	3185	BAQAGSKMSJLKSP-MNKWLDRPSA-N				deglycosylated enzyme
+38	succinyl-Ser-Pro-Phe-4-nitroanilide	10884	CFXDFGWREFEKMF-ACRUOGEOSA-N				
+51	succinyl-Ala-Pro-Phe-4-nitroanilide	7388	SDUAKMPTDHAQKJ-XRQBVDHJSA-N				
+53	succinyl-Met-Val-Pro-Phe-4-nitroanilide	5584	MKTCKIYGFQCTIS-VZTVMPNDSA-N				
+56	succinyl-Gln-Pro-Phe-4-nitroanilide	10870	FRNYCQUVWVZCDR-FKBYEOEOSA-N				
+56	succinyl-Phe-Val-Pro-Phe-4-nitroanilide	5585	BSMIMUOMFFQXMO-ZGDGUDBWSA-N				
+58	succinyl-Lys-Val-Pro-Phe-4-nitroanilide	10876	QGHNLMGVRPPREV-YRUYCOJQSA-N				
+61	succinyl-Glu-Pro-Phe-4-nitroanilide	10871	RLTPUJDOELVTRF-FKBYEOEOSA-N				
+65	angiotensin I	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N				
+65	succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				
+68	succinyl-Glu-Val-Pro-Phe-4-nitroanilide	10872	CCKUMEZOVJIKNK-MGQBIDJDSA-N				
+75	succinyl-Val-Pro-Phe-4-nitroanilide	6336	WXLJMJFAMYVXHX-HWBMXIPRSA-N				
+75	succinyl-Val-Pro-Phe-4-nitroanilide	6336	WXLJMJFAMYVXHX-HWBMXIPRSA-N				
+77	succinyl-Leu-Pro-Phe-4-nitroanilide	10873	XOLDYOMGVDACAQ-HJOGWXRNSA-N				
+79	succinyl-Leu-Val-Pro-Phe-4-nitroanilide	10874	YHDWQNOFCGFTQL-YRUYCOJQSA-N				
+86	succinyl-Gln-Pro-Phe-4-nitroanilide	10870	FRNYCQUVWVZCDR-FKBYEOEOSA-N				
+100	succinyl-Met-Pro-Phe-4-nitroanilide	10877	FNQRFPHVWWKSCE-VABKMULXSA-N				
+120	succinyl-Thr-Pro-Phe-4-nitroanilide	7394	PMDVINIXNOAYGX-QKDODKLFSA-N				
+140	angiotensin I	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N				glycosylated enzyme
+143	Ala-Ala-Pro-Phe-4-nitroanilide	7705	ZCWMSMLAGCXPPA-FHQLIMNDSA-N				wild type enzyme
+143	angiotensin I	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N				deglycosylated enzyme
+160	DRVWIHPFHL	21134	WMNLHPCAOHRAON-BOPPZIMTSA-N				
+210	DRVWIHPWHL	21135	HGLWNAAKEQVSEW-BFYRRKHWSA-N				

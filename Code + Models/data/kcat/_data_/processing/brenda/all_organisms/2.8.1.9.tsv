@@ -1,0 +1,3 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.03	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	9.3		for the L-cysteine desulfurase domain, 2 mM DTT, pH 9.3, 37C
+0.357	L-selenocysteine	939	ZKZBPNGNEQAJSX-REOHCLBHSA-N	37	9.3		for the L-cysteine desulfurase domain, 2 mM DTT, pH 9.3, 37C

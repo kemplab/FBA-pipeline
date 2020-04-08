@@ -1,0 +1,44 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00000028	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N	22	7.5		papain immobilized on sepharose 6B, pH 7.5, 22C
+0.00000035	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N	22	7.5		papain immobilized on sepharose 6B in presence of 200 mM cysteine, pH 7.5, 22C
+0.00000045	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N	22	7.5		free papain, pH 7.5, 22C
+0.0000038	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N	20	9		pH 9, 20C, immobilized papain
+0.0000046	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N	20	9		pH 9, 20C, free papain
+0.03	4(4'-dimethylaminophenylazo)benzoyl-Lys-Phe-Gly-Gly-Ala-Ala-(5-[(2-aminoethyl)amino]naphthalene)	4195	JRVWWXUURZAVBE-QQBPRGSMSA-N	40	6.8		pH 6.8, 40C, in presence of 5% methanol
+0.064	benzoyl-thiocarbamic acid methyl ester	21098	GBXSGKMMVVHJQU-UHFFFAOYSA-N				
+0.41	4(4'-dimethylaminophenylazo)benzoyl-Lys-Phe-Gly-Gly-Ala-Ala-(5-[(2-aminoethyl)amino]naphthalene)	4195	JRVWWXUURZAVBE-QQBPRGSMSA-N	40	6.8		pH 6.8, 40C, in presence of 0.6% dimethylformamide
+0.42	benzyloxycarbonyl-citrullyl-Arg 4-methylcoumarin-7-amide	8594	AAGHXVNXZZFFDU-NQCNTLBGSA-N			X	mutant enzyme V133A/V157G/S205E
+0.79	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin-7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N			X	mutant enzyme V133A/V157G/S205E
+0.833	4(4'-dimethylaminophenylazo)benzoyl-Lys-Phe-Gly-Gly-Ala-Ala-(5-[(2-aminoethyl)amino]naphthalene)	4195	JRVWWXUURZAVBE-QQBPRGSMSA-N	40	6.8		pH 6.8, 40C
+1.18	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin-7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N				
+1.386	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N	45	8.0		cotton-immobilized papain modified by pyromellitic anhydride, pH 8.0, 45C
+1.604	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N	45	8.0		cotton-immobilized papain modified by 1,2,4-benzenetricarboxylic anhydride, pH 8.0, 45C
+1.79	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N	45	8.0		cotton-immobilized unmodified papain, pH 8.0, 45C
+2.77	4(4'-dimethylaminophenylazo)benzoyl-Lys-Phe-Gly-Gly-Ala-Ala-(5-[(2-aminoethyl)amino]naphthalene)	4195	JRVWWXUURZAVBE-QQBPRGSMSA-N	40	6.8		pH 6.8, 40C, in presence of 1% methanol
+2.78	benzyloxycarbonyl-Phe-Arg 4-methylcoumarin-7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N			X	mutant enzyme V133A/V157G/S205E
+3	4(4'-dimethylaminophenylazo)benzoyl-Lys-Phe-Gly-Gly-Ala-Ala-(5-[(2-aminoethyl)amino]naphthalene)	4195	JRVWWXUURZAVBE-QQBPRGSMSA-N	40	6.8		pH 6.8, 40C, in presence of 1% methanol
+3.4	benzoyl-thiocarbamic acid ethyl ester	21097	KETGXUOKCIPKEX-UHFFFAOYSA-N				
+3.48	N-benzoyl-Gly methyl ester	13851	VISLHUSQBAQEBB-UHFFFAOYSA-N				
+5.67	benzyloxycarbonyl-citrullyl-Arg 4-methylcoumarin-7-amide	8594	AAGHXVNXZZFFDU-NQCNTLBGSA-N			X	mutant enzyme V133A/S205E
+6.86	4(4'-dimethylaminophenylazo)benzoyl-Lys-Phe-Gly-Gly-Ala-Ala-(5-[(2-aminoethyl)amino]naphthalene)	4195	JRVWWXUURZAVBE-QQBPRGSMSA-N	40	6.8		pH 6.8, 40C, in presence of 5% methanol
+8.14	benzyloxycarbonyl-citrullyl-Arg 4-methylcoumarin-7-amide	8594	AAGHXVNXZZFFDU-NQCNTLBGSA-N			X	mutant enzyme V133A/V157G/S205E
+9.3	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin-7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N			X	mutant enzyme V133A/S205E
+16.4	Nalpha-benzoyl-L-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N				
+16.9	benzyloxycarbonyl-Phe-Arg 4-methylcoumarin-7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N			X	mutant enzyme V133A/S205E
+24	Nalpha-benzoyl-L-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N				
+28.5	Nalpha-benzoyl-L-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N				
+35.6	N-alpha-benzyloxycarbonyl-L-lysine 4-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N	27	6.5		pH 6.5, 27C
+41.6	benzyloxycarbonyl-Phe-Arg 4-methylcoumarin-7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+51	benzyloxycarbonyl-L-Phe-L-Arg 4-methylcoumarin-7-amide	8595	YNOWJXKEFCXKPL-WKTGJHSFSA-N				recombinant wild-type enzyme
+52	benzyloxycarbonyl-L-Phe-L-Arg 4-methylcoumarin-7-amide	8595	YNOWJXKEFCXKPL-WKTGJHSFSA-N				commercial enzyme preparation
+180	benzyl-Phe-Val-Arg-4-nitroanilide	25449	LOVIXFXDQFBJNU-AWCRTANDSA-N	25	3.2		McIlvaine buffer, pH 3.2, 25C, papain from ripe fruit
+189	benzyl-Phe-Val-Arg-4-nitroanilide	25449	LOVIXFXDQFBJNU-AWCRTANDSA-N	25	3.2		McIlvaine buffer, pH 3.2, 25C, papain from papaya latex
+215	benzyl-Phe-Val-Arg-4-nitroanilide	25449	LOVIXFXDQFBJNU-AWCRTANDSA-N	25	3.2		McIlvaine buffer + 12% ethanol, pH 3.2, 25C, papain from papaya latex
+217	benzyl-Phe-Val-Arg-4-nitroanilide	25449	LOVIXFXDQFBJNU-AWCRTANDSA-N	25	3.2		tartaric buffer containing 12% ethanol, pH 3.2, 25C, papain from papaya latex
+243	methyl red-Abu-Ser-Ala-Pro-Val-Lys-Ala-Lys(N6-(5-carboxyfluorescein))-NH2	3990	QFHZAITWKOXZST-LYUQDQFISA-N		6.2		at pH 6.2, in 10 mM sodium acetate, 0.1 mM EDTA and 1 mM cysteine
+290	benzyl-Phe-Val-Arg-4-nitroanilide	25449	LOVIXFXDQFBJNU-AWCRTANDSA-N	25	3.2		McIlvaine buffer + 12% ethanol, pH 3.2, 25C, papain from ripe fruit
+309	benzyl-Phe-Val-Arg-4-nitroanilide	25449	LOVIXFXDQFBJNU-AWCRTANDSA-N	25	3.2		tartaric buffer containing 12% ethanol, pH 3.2, 25C, papain from ripe fruit
+475	methyl red-Abu-Ala-Pro-Val-Lys-Lys(N5-(5-carboxyfluorescein))-NH2	3732	LVEHLSLMPTXGJU-IGVDHBRESA-N		6.2		at pH 6.2, in 10 mM sodium acetate, 0.1 mM EDTA and 1 mM cysteine
+1503	methyl red-Abu-Ser-Ala-Pro-Val-Lys-Ala-Lys(N6-(5-carboxyfluorescein))-NH2	3990	QFHZAITWKOXZST-LYUQDQFISA-N		7.4		at pH 7.4, in 100 mM phosphate-buffered saline
+1773	methyl red-Abu-Ala-Pro-Val-Lys-Lys(N5-(5-carboxyfluorescein))-NH2	3732	LVEHLSLMPTXGJU-IGVDHBRESA-N		7.4		at pH 7.4, in 100 mM phosphate-buffered saline
+3340	benzoyl-thiocarbamic acid	21096	WPGPVEFMPKSRLT-UHFFFAOYSA-N				

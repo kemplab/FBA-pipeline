@@ -1,0 +1,38 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0869	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N			X	mutant R325S, pH and temperature not specified in the publication
+0.137	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N			X	mutant E241Q, pH and temperature not specified in the publication
+1.49	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N		7.0		wild-type enzyme, pH 7.0, temperature not specified in the publication
+1.6	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N	25	7.2		recombinant wild-type enzyme, pH 7.2, 25C
+2.2	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N				more than 0.153 mM. AtzA wild type, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+2.2	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N				AtzA wild-type, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+2.3	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N				A216S/T217A/T219P/A220F/D250G, site-directed mutagenesis, AtzA-variant 357, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+2.3	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N			X	A216S/T217A/T219P/A220F/D250G, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+4.3	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N				A216A/T217D/T219E/A220A/D250D, site-directed mutagenesis, AtzA-variant 288, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+4.3	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N			X	T217D/T219E, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+6.2	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N				A216G/T217D/T219A/A220V/D250W, site-directed mutagenesis, AtzA-variant 305, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+6.2	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N			X	A216G/T217D/T219A/A220V/D250W, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+6.5	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N				A216Y/T217D/T219Y/A220H/D250V, site-directed mutagenesis, AtzA-variant 422, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+6.5	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N			X	A216Y/T217D/T219Y/A220H/D250V, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+6.8	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N				A216S/T217D/T219V/A220H/D250G, site-directed mutagenesis, AtzA-variant 297, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+6.8	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N			X	A216S/T217D/T219V/A220H/D250G, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+7.4	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N				A216H/T217A/T219E/A220S/D250S, site-directed mutagenesis, AtzA-variant 662, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+7.4	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N			X	A216H/T217A/T219E/A220S/D250S, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+8	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N				A216A/T217S/T219H/A220G/D250Y, site-directed mutagenesis, AtzA-variant 431, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+8	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N			X	T217S/T219H/A220G/D250Y, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+8.5	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N				A216S/T217D/T219G/A220S/D250D, site-directed mutagenesis, AtzA-variant 841, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+8.5	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N			X	A216S/T217D/T219G/A220S, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+11	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N				
+12.7	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N				A216G/T217D/T219G/A220H/D250G, site-directed mutagenesis, AtzA-variant 430, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+12.7	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N			X	A216G/T217D/T219G/A220H/D250G, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+15.1	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N				A216G/T217D/T219G/A220H/D250D, site-directed mutagenesis, AtzA-variant 734, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+15.1	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N			X	A216G/T217D/T219G/A220H/D250D, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+27.9	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N				A216Y/T217D/T219T/A220H/D250E, site-directed mutagenesis, AtzA best variant consensus, kinetic data obtained using 4.6 to 153 microM atrazine and 10 nM enzyme
+27.9	Atrazine	844	MXWJVTOOROXGIU-UHFFFAOYSA-N			X	A216Y/T217D/A220H/D250E, AtzA mutant, substrate concentration 153 microM, enzyme concentration 10 nM, measuring absorbance of atrazine after reaction with pyridine at 436 nm
+0.467	ametryn	13047	RQVYBGPQFYCBGX-UHFFFAOYSA-N			X	mutant R325S, pH and temperature not specified in the publication
+6.04	ametryn	13047	RQVYBGPQFYCBGX-UHFFFAOYSA-N		7.0		wild-type enzyme, pH 7.0, temperature not specified in the publication
+3	hydroxyatrazine	4944	NFMIMWNQWAWNDW-UHFFFAOYSA-N				
+3.2	2-(N-ethylamino)-4-hydroxy-6-(N-isopropylamino)-1,3,5-triazine	4944	NFMIMWNQWAWNDW-UHFFFAOYSA-N				deamination
+1.4	6-hydroxy-4-(N-isopropylamino)-2-(N-methylamino)-1,3,5-triazine	17030	QGIJSTMRQUSXHN-UHFFFAOYSA-N				deamination
+0.8	2,4-diisopropylamino-6-hydroxy-1,3,5-triazine	17031	RUOTUMSRCIMLJK-UHFFFAOYSA-N				deamination
+1.9	2-chloro-4-hydroxy-6-(N-isopropylamino)-1,3,5-triazine	17032	RENJVZBIVKQIPU-UHFFFAOYSA-N				dechlorination
+1.6	2-chloro-4-(N-ethylamino)-6-hydroxy-1,3,5-triazine	17033	NZRYDMXBGUDOMX-UHFFFAOYSA-N				dechlorination

@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+50	1,5-alpha-L-arabinan	4915	PYYSVWUXDCRIIM-NOVDDWIBSA-N	75	6.5		recombinant enzyme, pH 6.5, 75C
+3.1	linear 1,5-alpha-L-arabinan	4915	PYYSVWUXDCRIIM-NOVDDWIBSA-N			X	mutant H318A of isoform Arb43B, pH and temperature not specified in the publication
+68.7	linear 1,5-alpha-L-arabinan	4915	PYYSVWUXDCRIIM-NOVDDWIBSA-N	40	6.0		wild type enzyme, at 40C and pH 6.0
+99.7	linear 1,5-alpha-L-arabinan	4915	PYYSVWUXDCRIIM-NOVDDWIBSA-N	40	6.0	X	mutant enzyme H218D, at 40C and pH 6.0
+191.6	linear 1,5-alpha-L-arabinan	4915	PYYSVWUXDCRIIM-NOVDDWIBSA-N				wild type isoform Arb43B, pH and temperature not specified in the publication
+349.3	linear arabinan	4915	PYYSVWUXDCRIIM-NOVDDWIBSA-N	75	6.5		at pH 6.5 and 75C

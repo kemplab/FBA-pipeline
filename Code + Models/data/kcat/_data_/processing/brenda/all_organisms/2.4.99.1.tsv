@@ -1,0 +1,37 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+4.3	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	22	8.0		wild type enzyme, at pH 8.0 and 22C
+25.4	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	22	8.0	X	mutant enzyme I411T, at pH 8.0 and 22C
+76.5	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	22	8.0	X	mutant enzyme L433T, at pH 8.0 and 22C
+85	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	22	8.0	X	mutant enzyme L433S, at pH 8.0 and 22C
+102	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	22	8.0	X	mutant enzyme I411T/L433S, at pH 8.0 and 22C
+110	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	22	8.0	X	mutant enzyme I411T/L433T, at pH 8.0 and 22C
+0.05	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	6.5	X	mutant enzyme D271A, at pH 6.5 and 37C; mutant enzyme Y272A, at pH 6.5 and 37C
+0.1	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	6.5	X	mutant enzyme Q232A, at pH 6.5 and 37C
+0.19	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	6.5	X	mutant enzyme F208A, at pH 6.5 and 37C
+0.39	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	6.5	X	mutant enzyme Y119F, at pH 6.5 and 37C
+0.42	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	6.5	X	mutant enzyme Q354A, at pH 6.5 and 37C
+0.49	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	6.5		recombinant wild type enzyme from HEK-293 cells, at pH 6.5 and 37C
+0.59	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	6.5		recombinant wild type enzyme from 293-F cells, at pH 6.5 and 37C
+0.69	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	6.5	X	mutant enzyme K355A, at pH 6.5 and 37C
+1.4	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	8.5		pH 8.5, 37C, enzyme form DELTA112Pd2,6ST(N)
+2.7	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	8.5		pH 8.5, 37C, enzyme form DELTA15Pd2,6ST(N)
+4.32	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	22	8.0		wild type enzyme, at pH 8.0 and 22C
+10.7	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	22	8.0	X	mutant enzyme L433T, at pH 8.0 and 22C
+10.9	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	22	8.0	X	mutant enzyme I411T, at pH 8.0 and 22C
+16.9	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	22	8.0	X	mutant enzyme I411T/L433S, at pH 8.0 and 22C
+18.8	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	22	8.0	X	mutant enzyme I411T/L433T, at pH 8.0 and 22C
+20.3	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	22	8.0	X	mutant enzyme L433S, at pH 8.0 and 22C
+1.1	4-methylumbelliferyl beta-D-lactoside	2340	PRTGXBPFDYMIJH-KSFLKEQHSA-N	37	8.5		pH 8.5, 37C, enzyme form DELTA112Pd2,6ST(N)
+2.3	4-methylumbelliferyl beta-D-lactoside	2340	PRTGXBPFDYMIJH-KSFLKEQHSA-N	37	8.5		pH 8.5, 37C, enzyme form DELTA15Pd2,6ST(N)
+1.13	5-(5-dimethylaminonaphthalene-1-sulfonyl-2-(2-aminoethoxy))ethyl beta-N-acetyllactosamine	27119	BUPAMJIVODYIOH-DRMOSIPBSA-N				
+0.087	5-(5-dimethylaminonaphthalene-1-sulfonyl-2-(2-aminoethoxy))ethyl beta-lactose	27120	HXEDNHRQOBEPIQ-QFOURGAPSA-N				
+0.883	Neu5Acalpha-4-nitrophenyl	27121	OICUZSPXIJAAEA-WTUOYXTGSA-N				alpha2,6-trans-sialidase activity of DELTA15Pd2,6ST
+0.07	beta-D-galactosyl-(1-&gt;4)-N-acetyl-beta-D-glucosamine	846	KFEUJDWYNGMDBV-LODBTCKLSA-N	37	6.5	X	mutant enzyme Y272A, at pH 6.5 and 37C
+0.09	beta-D-galactosyl-(1-&gt;4)-N-acetyl-beta-D-glucosamine	846	KFEUJDWYNGMDBV-LODBTCKLSA-N	37	6.5	X	mutant enzyme D271A, at pH 6.5 and 37C
+0.14	beta-D-galactosyl-(1-&gt;4)-N-acetyl-beta-D-glucosamine	846	KFEUJDWYNGMDBV-LODBTCKLSA-N	37	6.5	X	mutant enzyme Q232A, at pH 6.5 and 37C
+0.31	beta-D-galactosyl-(1-&gt;4)-N-acetyl-beta-D-glucosamine	846	KFEUJDWYNGMDBV-LODBTCKLSA-N	37	6.5	X	mutant enzyme Y119F, at pH 6.5 and 37C
+0.35	beta-D-galactosyl-(1-&gt;4)-N-acetyl-beta-D-glucosamine	846	KFEUJDWYNGMDBV-LODBTCKLSA-N	37	6.5		recombinant wild type enzyme from HEK-293 cells, at pH 6.5 and 37C
+0.39	beta-D-galactosyl-(1-&gt;4)-N-acetyl-beta-D-glucosamine	846	KFEUJDWYNGMDBV-LODBTCKLSA-N	37	6.5	X	mutant enzyme K355A, at pH 6.5 and 37C
+0.43	beta-D-galactosyl-(1-&gt;4)-N-acetyl-beta-D-glucosamine	846	KFEUJDWYNGMDBV-LODBTCKLSA-N	37	6.5	X	mutant enzyme F208A, at pH 6.5 and 37C
+0.64	beta-D-galactosyl-(1-&gt;4)-N-acetyl-beta-D-glucosamine	846	KFEUJDWYNGMDBV-LODBTCKLSA-N	37	6.5	X	mutant enzyme Q354A, at pH 6.5 and 37C
+0.67	beta-D-galactosyl-(1-&gt;4)-N-acetyl-beta-D-glucosamine	846	KFEUJDWYNGMDBV-LODBTCKLSA-N	37	6.5		recombinant wild type enzyme from 293-F cells, at pH 6.5 and 37C

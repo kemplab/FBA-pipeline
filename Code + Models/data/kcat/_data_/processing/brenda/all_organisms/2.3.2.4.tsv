@@ -1,0 +1,29 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.001	L-2-amino-3-(3-n-butylureido)-propionic acid	118908	YJVWZSDSNSOJDO-LURJTMIESA-N				kcat below 0.001 s-1, pH and temperature not specified in the publication
+0.02	5-L-glutamyl-methylamine	13466	ONXPDKGXOOORHB-BYPYZUCNSA-N				pH and temperature not specified in the publication
+0.035	5-L-glutamyl-neopentylamine	118712	VGAQZPMZJMAZRH-ZETCQYMHSA-N				pH and temperature not specified in the publication
+0.036	5-L-glutamyl-anilide	14283	VMNRUJGOLBSEPK-VIFPVBQESA-N				pH and temperature not specified in the publication
+0.038	5-L-glutamyl-ethylamine	7203	DATAGRPVKZEWHA-YFKPBYRVSA-N				pH and temperature not specified in the publication
+0.054	5-L-glutamyl-(+)-3-aminobutyric acid	118711	LPNXHEYVFDHVMQ-GDVGLLTNSA-N				pH and temperature not specified in the publication
+0.071	5-L-glutamyl-(+)-3-aminoisobutyric acid	79493	FFJJSWCEJRPJEI-GDVGLLTNSA-N				pH and temperature not specified in the publication
+0.076	5-L-glutamyl-cyclopentylamine	118714	LJAYPOBRWZMRSU-QMMMGPOBSA-N				pH and temperature not specified in the publication
+0.08	gamma-glutamyl-L-alanine	5868	WQXXXVRAFAKQJM-WHFBIAKZSA-N			X	mutant enzyme Y105F
+0.113	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	8.0		isoform GGCT2;3, at pH 8.0 and 37C
+0.14	5-L-Glutamyl-glycine	8306	ACIJGUBIMXQCMF-BYPYZUCNSA-N				pH and temperature not specified in the publication
+0.17	5-L-glutamyl-beta-phenethylamine	118716	MWUNDCCUMICSNT-NSHDSACASA-N				pH and temperature not specified in the publication
+0.18	5-L-glutamyl-beta-alanine	118710	NVWURHFYDLADGP-YFKPBYRVSA-N				pH and temperature not specified in the publication
+0.18	5-L-glutamyl-neohexylamine	118713	FNZMPCYJCBABOW-QMMMGPOBSA-N				pH and temperature not specified in the publication
+0.2	Nepsilon-(5-L-glutamyl)-L-lysine	21965	JXDGHPJJAHILKV-UHFFFAOYSA-N				pH and temperature not specified in the publication
+0.21	5-L-glutamyl-n-butylamine	65121	XICDRBBFDHHRJP-ZETCQYMHSA-N				pH and temperature not specified in the publication
+0.23	5-L-glutamyl-n-propylamine	65123	PFRXQAMOMSLGRY-LURJTMIESA-N				pH and temperature not specified in the publication
+0.24	S-(n-propylcarbamyl)-L-cysteine	118718	PQTFPYVRVKUBDV-YFKPBYRVSA-N				pH and temperature not specified in the publication
+0.25	Nepsilon-(5-L-glutamyl)-D-lysine	118709	JPKNLFVGUZRHOB-SFYZADRCSA-N				pH and temperature not specified in the publication
+0.26	S-(cyclohexylamine)-L-cysteine	118720	SABNWNROAZCIHD-QMMMGPOBSA-N				pH and temperature not specified in the publication
+0.27	S-(n-butylcarbamyl)-L-cysteine	118719	NVGRDJFWLCANRS-LURJTMIESA-N				pH and temperature not specified in the publication
+0.4	5-L-glutamyl-benzylamine	118715	SCUJQBGQMWBTIG-JTQLQIEISA-N				pH and temperature not specified in the publication
+0.64	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	8.0		isoform GGCT2;2, at pH 8.0 and 37C
+6.6	gamma-glutamyl-L-alanine	5868	WQXXXVRAFAKQJM-WHFBIAKZSA-N			X	mutant enzyme G23A
+12	O-(n-butylcarbamyl)-L-serine	118717	UFQVDVWMYUIDRY-LURJTMIESA-N				pH and temperature not specified in the publication
+14.7	gamma-glutamyl-L-alanine	5868	WQXXXVRAFAKQJM-WHFBIAKZSA-N			X	mutant enzyme Y125F
+18.3	gamma-glutamyl-L-alanine	5868	WQXXXVRAFAKQJM-WHFBIAKZSA-N				recombinant wild type enzyme
+52.8	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	8.0		at pH 8.0 and 37C

@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.47	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4	X	mutant enzyme T244S, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+0.63	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4	X	mutant enzyme T244G, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+2.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4	X	mutant enzyme T244V, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4	X	mutant enzyme T244A, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+7.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4		wild type enzyme, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+45.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				reaction with benzaldehyde
+38.8	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O				reaction with benzaldehyde
+35.9	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N				
+51	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N				
+34	Hexanal	514	JARKCYVAAOWBJS-UHFFFAOYSA-N				
+0.47	Chloroacetaldehyde	1812	QSKPIOLLBIHNAC-UHFFFAOYSA-N		7.4	X	mutant enzyme T244S, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+0.63	Chloroacetaldehyde	1812	QSKPIOLLBIHNAC-UHFFFAOYSA-N		7.4	X	mutant enzyme T244G, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+2.5	Chloroacetaldehyde	1812	QSKPIOLLBIHNAC-UHFFFAOYSA-N		7.4	X	mutant enzyme T244V, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+4	Chloroacetaldehyde	1812	QSKPIOLLBIHNAC-UHFFFAOYSA-N		7.4	X	mutant enzyme T244A, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+7.7	Chloroacetaldehyde	1812	QSKPIOLLBIHNAC-UHFFFAOYSA-N		7.4		wild type enzyme, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication
+53	trans-2-hexenal	1895	MBDOYVRWFFCFHM-SNAWJCMRSA-N				

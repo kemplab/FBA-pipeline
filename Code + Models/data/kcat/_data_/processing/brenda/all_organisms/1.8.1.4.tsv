@@ -1,0 +1,45 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+6.75	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	mutant enzyme S53K/K54S
+30	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	mutant enzyme E192Q
+135.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0		pH 8.0, 25C, mitochondrial isozyme, forward reaction, varying conditions
+160	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				recombinant DLDH
+223	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				recombinant DLDH expressed without lipoic acid
+506	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				recombinant DLDH expressed without without a lipoyl protein domain
+574	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				wild-type enzyme
+19.8	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant enzyme S53K/K54S
+26.2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant enzyme E192Q
+340	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				wild-type enzyme
+448	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	8.0		pH 8.0, 25C, mitochondrial isozyme, reverse reaction, varying conditions
+0.25	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+108	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N				
+72	ubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, in absence of Zn2+
+300	ubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, in presence of Zn2+
+6	Dihydrolipoamide	667	VLYUGYAKYZETRF-UHFFFAOYSA-N	37	8.0	X	mutant P325A, pH 8.0, 37C, presence of 1.5 mM EDTA
+8.5	Dihydrolipoamide	667	VLYUGYAKYZETRF-UHFFFAOYSA-N			X	mutant enzyme S53K/K54S
+29.7	Dihydrolipoamide	667	VLYUGYAKYZETRF-UHFFFAOYSA-N			X	mutant enzyme E192Q
+107	Dihydrolipoamide	667	VLYUGYAKYZETRF-UHFFFAOYSA-N			X	mutant D320N; mutant enzyme D320N
+116	Dihydrolipoamide	667	VLYUGYAKYZETRF-UHFFFAOYSA-N			X	mutant enzyme N286Q; mutant N286Q
+159	Dihydrolipoamide	667	VLYUGYAKYZETRF-UHFFFAOYSA-N			X	mutant enzyme N286D; mutant N286D
+220	Dihydrolipoamide	667	VLYUGYAKYZETRF-UHFFFAOYSA-N			X	mutant R281N
+223	Dihydrolipoamide	667	VLYUGYAKYZETRF-UHFFFAOYSA-N			X	mutant R281K
+448	Dihydrolipoamide	667	VLYUGYAKYZETRF-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, mitochondrial isozyme, reverse reaction, varying conditions
+505	Dihydrolipoamide	667	VLYUGYAKYZETRF-UHFFFAOYSA-N				wild-type; wild type enzyme
+505	Dihydrolipoamide	667	VLYUGYAKYZETRF-UHFFFAOYSA-N				wild-type E3
+567	Dihydrolipoamide	667	VLYUGYAKYZETRF-UHFFFAOYSA-N				wild-type enzyme
+655	Dihydrolipoamide	667	VLYUGYAKYZETRF-UHFFFAOYSA-N			X	mutant T148G
+742	Dihydrolipoamide	667	VLYUGYAKYZETRF-UHFFFAOYSA-N			X	mutant T148S
+899	Dihydrolipoamide	667	VLYUGYAKYZETRF-UHFFFAOYSA-N	37	8.0		wild-type, pH 8.0, 37C, presence of 1.5 mM EDTA
+1032	Dihydrolipoamide	667	VLYUGYAKYZETRF-UHFFFAOYSA-N	37	8.0	X	mutant W366A, pH 8.0, 37C, presence of 1.5 mM EDTA
+14.4	Lipoamide	720	FCCDDURTIIUXBY-UHFFFAOYSA-N			X	mutant enzyme S53K/K54S
+23	Lipoamide	720	FCCDDURTIIUXBY-UHFFFAOYSA-N			X	mutant enzyme K54E
+67	Lipoamide	720	FCCDDURTIIUXBY-UHFFFAOYSA-N			X	mutant D320N; mutant enzyme D320N
+81.3	Lipoamide	720	FCCDDURTIIUXBY-UHFFFAOYSA-N			X	mutant enzyme E192Q
+88	Lipoamide	720	FCCDDURTIIUXBY-UHFFFAOYSA-N				
+134	Lipoamide	720	FCCDDURTIIUXBY-UHFFFAOYSA-N			X	mutant enzyme N286D; mutant N286D
+135.5	Lipoamide	720	FCCDDURTIIUXBY-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, mitochondrial isozyme, forward reaction, varying conditions
+148	Lipoamide	720	FCCDDURTIIUXBY-UHFFFAOYSA-N			X	mutant enzyme N286Q; mutant N286Q
+519	Lipoamide	720	FCCDDURTIIUXBY-UHFFFAOYSA-N				wild-type; wild type enzyme
+649	Lipoamide	720	FCCDDURTIIUXBY-UHFFFAOYSA-N				wild-type enzyme
+70	lipoic acid	1501	AGBQKNBQESQNJD-SSDOTTSWSA-N				
+190	2,6-dimethyl-1,4-benzoquinone	2325	SENUUPBBLQWHMF-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+220	DL-lipoylpentanoate	37359	SQYNUZZNWZJNPI-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C

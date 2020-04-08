@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.105	1D-myo-inositol 3,4,5,6-tetrakisphosphate	10591	MRVYFOANPDTYBY-YORTWTKJSA-N	25	7.5		wild type enzyme, at pH 7.5 and 25C
+0.105	1D-myo-inositol 3,4,5,6-tetrakisphosphate	10591	MRVYFOANPDTYBY-YORTWTKJSA-N	25	7.5		wild type enzyme, at pH 7.5 and 25C
+0.11	1D-myo-inositol 1,4,5,6-tetrakisphosphate	3639	MRVYFOANPDTYBY-UZAAGFTCSA-N	25	7.5		wild type enzyme, at pH 7.5 and 25C
+0.246	1D-myo-inositol 1,3,4,5,6-pentakisphosphate	2227	CTPQAXVNYGZUAJ-KXXVROSKSA-N	25	7.5	X	mutant enzyme N238A, at pH 7.5 and 25C
+0.265	1D-myo-inositol 1,3,4,5,6-pentakisphosphate	2227	CTPQAXVNYGZUAJ-KXXVROSKSA-N	25	7.5	X	mutant enzyme N239A, at pH 7.5 and 25C
+0.279	1D-myo-inositol 1,3,4,5,6-pentakisphosphate	2227	CTPQAXVNYGZUAJ-KXXVROSKSA-N	25	7.5	X	mutant enzyme K200A, at pH 7.5 and 25C
+0.367	1D-myo-inositol 1,3,4,5,6-pentakisphosphate	2227	CTPQAXVNYGZUAJ-KXXVROSKSA-N	25	7.5	X	mutant enzyme R192A, at pH 7.5 and 25C
+0.453	1D-myo-inositol 1,3,4,5,6-pentakisphosphate	2227	CTPQAXVNYGZUAJ-KXXVROSKSA-N	25	7.5	X	mutant enzyme R45A, at pH 7.5 and 25C
+0.4581	1D-myo-inositol 1,3,4,6-tetrakisphosphate	4486	ZAWIXNGTTZTBKV-JMVOWJSSSA-N	25	7.5		wild type enzyme, at pH 7.5 and 25C
+0.549	1D-myo-inositol 3,4,5,6-tetrakisphosphate	10591	MRVYFOANPDTYBY-YORTWTKJSA-N	82	7.5	X	mutant enzyme E82C/S142C, at pH 7.5 and 25C
+0.569	1D-myo-inositol 1,3,4,5,6-pentakisphosphate	2227	CTPQAXVNYGZUAJ-KXXVROSKSA-N	25	7.5	X	mutant enzyme H196A, at pH 7.5 and 25C
+0.645	1D-myo-inositol 1,3,4,5,6-pentakisphosphate	2227	CTPQAXVNYGZUAJ-KXXVROSKSA-N	25	7.5	X	mutant enzyme R415A, at pH 7.5 and 25C
+0.694	1D-myo-inositol 1,3,4,5,6-pentakisphosphate	2227	CTPQAXVNYGZUAJ-KXXVROSKSA-N	25	7.5	X	mutant enzyme Y419A, at pH 7.5 and 25C
+0.734	1D-myo-inositol 1,3,4,5,6-pentakisphosphate	2227	CTPQAXVNYGZUAJ-KXXVROSKSA-N	25	7.5		wild type enzyme, at pH 7.5 and 25C
+0.734	1D-myo-inositol 1,3,4,5,6-pentakisphosphate	2227	CTPQAXVNYGZUAJ-KXXVROSKSA-N	25	7.5		wild type enzyme, at pH 7.5 and 25C
+0.736	1D-myo-inositol 1,3,4,5,6-pentakisphosphate	2227	CTPQAXVNYGZUAJ-KXXVROSKSA-N	82	7.5	X	mutant enzyme E82C/S142C, at pH 7.5 and 25C

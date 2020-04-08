@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0048	mycothiol bimane	91312	DUKFQTJTBSIGQL-JHRDNDSMSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant H139A
+0.005	mycothiol bimane	91312	DUKFQTJTBSIGQL-JHRDNDSMSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant Y137A
+0.036	mycothiol bimane	91312	DUKFQTJTBSIGQL-JHRDNDSMSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant D14A
+0.046	mycothiol bimane	91312	DUKFQTJTBSIGQL-JHRDNDSMSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant D141A
+0.058	mycothiol bimane	91312	DUKFQTJTBSIGQL-JHRDNDSMSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant E43A
+0.059	mycothiol bimane	91312	DUKFQTJTBSIGQL-JHRDNDSMSA-N	30	7.5		pH 7.5, 30C, recombinant wild-type enzyme
+0.065	mycothiol bimane	91312	DUKFQTJTBSIGQL-JHRDNDSMSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant D132A
+0.0655	mycothiol bimane	91312	DUKFQTJTBSIGQL-JHRDNDSMSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant H142A
+0.066	mycothiol bimane	91312	DUKFQTJTBSIGQL-JHRDNDSMSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant H12A
+0.068	mycothiol bimane	91312	DUKFQTJTBSIGQL-JHRDNDSMSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant H10A
+0.069	mycothiol bimane	91312	DUKFQTJTBSIGQL-JHRDNDSMSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant E16A
+0.078	mycothiol bimane	91312	DUKFQTJTBSIGQL-JHRDNDSMSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant D15A
+0.82	RifS13	118839	NMJJSSRALLQXPI-UWGPOFHGSA-N	37	7.5		in 50 mM HEPES (pH 7.5) containing 50 mM NaCl and 0.1 mM dithiothreitol, at 37C
+1.04	RifS17	118840	VFLNSFLNTCCLNI-UWGPOFHGSA-N	37	7.5		in 50 mM HEPES (pH 7.5) containing 50 mM NaCl and 0.1 mM dithiothreitol, at 37C
+1.3	mycothiol-7-(diethylamino)-3-(4'-maleimidylphenyl)-4-methylcoumarin	118836	CZFRWIOSTHDYRR-CJDSZPCXSA-N	37	7.5		in 50 mM HEPES (pH 7.5) containing 50 mM NaCl and 0.1 mM dithiothreitol, at 37C
+1.7	mycothiol disulfide	97394	YKSIHFDRGQQOCJ-LHHMOHDTSA-N	37	7.5		in 50 mM HEPES (pH 7.5) containing 50 mM NaCl and 0.1 mM dithiothreitol, at 37C
+3	mycothiol-3-(N-maleimidopropionyl)biocytin	118837	QRNVTTJWPAHWTF-SHOGMRPCSA-N	37	7.5		kcat above 3.0 s-1, in 50 mM HEPES (pH 7.5) containing 50 mM NaCl and 0.1 mM dithiothreitol, at 37C
+7	mycothiol-cerulenin	118835	BGHTUDPJCJAQGM-HOTXEJAQSA-N	37	7.5		in 50 mM HEPES (pH 7.5) containing 50 mM NaCl and 0.1 mM dithiothreitol, at 37C
+8	mycothiol bimane derivative	118841	POYGWKXYMYQCAB-HQCBEHDYSA-N	30	7.5		at pH 7.5 and 30C
+15	mycothiol-N-ethylmaleimide	118838	YFFJOSWPXOIETK-UQQPXVIBSA-N	37	7.5		in 50 mM HEPES (pH 7.5) containing 50 mM NaCl and 0.1 mM dithiothreitol, at 37C
+37	mycothiol-acetophenone	107563	DCKKWVXFNSLGPY-QSMJRBHPSA-N	37	7.5		in 50 mM HEPES (pH 7.5) containing 50 mM NaCl and 0.1 mM dithiothreitol, at 37C

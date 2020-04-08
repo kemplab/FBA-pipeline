@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.03	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N	65	7.0		65C, pH 7.0, wild-type enzyme
+0.031	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N	37	7.0	X	37C, pH 7.0, mutant enzyme A302C
+0.52	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N	65	7.0	X	65C, pH 7.0, mutant enzyme P295C/F304C
+1.1	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N	55	7.0	X	55C, pH 7.0, mutant enzyme A302C
+2	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N	65	7.0	X	65C, pH 7.0, mutant enzyme A302C
+5.4	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N				wild-type enzyme
+5.9	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N			X	mutant enzyme A18T/Y30N/K34E
+6.8	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N	40	7.0	X	mutant enzyme Q12L/Q23L/Q207E/N242G/H248Q/T262A/T263S/E266D/T271I/A273P, in 100 mM potassium phosphate buffer (pH 7.0), at 40C
+6.9	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N	40	7.0	X	pH 7.0, 40C, mutant enzyme Q23L/V40A/H58Y/G75S/M184L/T262A
+6.93	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N	65	7.0		65C, pH 7.0, wild-type enzyme
+7	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N	40	7.0		CDase-M3, in 100 mM potassium phosphate buffer (pH 7.0), at 40C
+7.73	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N	37	7.0	X	37C, pH 7.0, mutant enzyme A302C
+7.88	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N	37	7.0		37C, pH 7.0, wild-type enzyme
+7.97	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N	37	7.0	X	37C, pH 7.0, mutant enzyme P295C/F304C
+9.5	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N	40	7.0		pH 7.0, 40C, wild-type enzyme
+12.3	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N	40	7.0	X	pH 7.0, 40C, mutant enzyme M184L, T262A
+13.71	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N	65	7.0	X	65C, pH 7.0, mutant enzyme P295C/F304C
+14.88	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N	55	7.0		55C, pH 7.0, wild-type enzyme
+15.25	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N	55	7.0	X	55C, pH 7.0, mutant enzyme P295C/F304C
+19.08	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N	55	7.0	X	55C, pH 7.0, mutant enzyme A302C
+22.47	N-carbamoyl-D-p-hydroxyphenylglycine	1199	GSHIDXLOTQDUAV-SSDOTTSWSA-N	65	7.0	X	65C, pH 7.0, mutant enzyme A302C

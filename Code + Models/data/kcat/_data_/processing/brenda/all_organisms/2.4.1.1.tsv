@@ -1,0 +1,64 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.1	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	70	7.0		70C, pH 7.0
+8.2	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	50	7.2		pH 7.2, 50C, degradation reaction
+40	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30	7.0	X	30C, pH 7.0, mutant R141A
+44	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30	7.0	X	30C, pH 7.0, mutant K31A; 30C, pH 7.0, mutant S174A; 30C, pH 7.0, mutant T28A
+47	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30	7.0		30C, pH 7.0, wild-type
+50.5	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N				dextrin DP9 phosphorolysis
+15.2	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	37	6.2		pH 6.2, 37C, synthetic direction, wild-type enzyme
+0.68	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	7.0	X	pH 7.0, 30C, recombinant mutant H334Q, synthesis
+1.27	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	7.0	X	pH 7.0, 30C, recombinant mutant H334N, synthesis
+4.2	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	50	6.8		pH 6.8, 50C, synthesis reaction
+49	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	7.0	X	pH 7.0, 30C, recombinant mutant H334A, synthesis
+52	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	7.0		pH 7.0, 30C, recombinant wild-type enzyme, synthesis
+0.06	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	37	6.2		pH 6.2, 37C, phosphorolytic direction, wild-type enzyme
+0.11	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	37	6.2	X	pH 6.2, 37C, synthetic direction, mutant enzyme k308A
+0.16	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	37	6.2	X	pH 6.2, 37C, synthetic direction, mutant enzyme R303A
+0.73	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	37	6.2	X	pH 6.2, 37C, synthetic direction, mutant enzyme H185A
+6.8	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	37	6.5		pH 6.5, 37C, recombinant enzyme, synthesis reaction
+24.8	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	37	6.2		pH 6.2, 37C, synthetic direction, wild-type enzyme
+0.2	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	37	6.2		pH 6.2, 37C, phosphorolytic direction, wild-type enzyme
+0.52	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	30	7.0	X	pH 7.0, 30C, recombinant mutant H334Q, phosphorolysis
+1.5	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	30	7.0	X	pH 7.0, 30C, recombinant mutant H334N, phosphorolysis
+2.1	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	50	6.8		pH 6.8, 50C, synthesis reaction
+6.3	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	50	7.2		pH 7.2, 50C, degradation reaction
+19.4	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	37	6.2		pH 6.2, 37C, synthetic direction, wild-type enzyme
+69.9	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N				phosphorolysis
+74	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	30	7.0		pH 7.0, 30C, recombinant wild-type enzyme, phosphorolysis
+80	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	30	7.0	X	pH 7.0, 30C, recombinant mutant H334A, phosphorolysis
+4.9	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K				maltohexaose arsenolysis
+0.0017	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	37	5.5	X	mutant F39L, 37C, pH 5.5
+0.002	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	37	5.5	X	mutant N135S, 37C, pH 5.5
+0.0027	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	37	5.5	X	mutant F39L/T706I, 37C, pH 5.5
+0.0029	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	37	5.5	X	mutant T706I, 37C, pH 5.5
+0.0036	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	37	5.5	X	mutant F39L/N135S, 37C, pH 5.5
+0.0037	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	37	5.5	X	mutant F39L/N135S/T706I, 37C, pH 5.5; wild-type, 37C, pH 5.5
+0.0044	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	37	5.5	X	mutant N135S/T706I, 37C, pH 5.5
+0.16	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	37	6.2		pH 6.2, 37C, phosphorolytic direction, wild-type enzyme
+0.76	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	37	6.5		pH 6.5, 37C, recombinant enzyme, phosphorolysis reaction
+6	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	37	6.5		pH 6.5, 37C, recombinant enzyme, synthesis reaction
+34.6	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	37	6.2		pH 6.2, 37C, synthetic direction, wild-type enzyme
+0.033	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N		7.0		pH 7.0
+2.2	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	37	6.5		pH 6.5, 37C, recombinant enzyme, phosphorolysis reaction
+5.4	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	37	6.5		pH 6.5, 37C, recombinant enzyme, synthesis reaction
+33.8	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N				phosphorolysis
+2.7	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N	37	6.5		pH 6.5, 37C, recombinant enzyme, phosphorolysis reaction
+4.1	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N	37	6.5		pH 6.5, 37C, recombinant enzyme, synthesis reaction
+38.9	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N				phosphorolysis
+2.3	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N	37	6.5		pH 6.5, 37C, recombinant enzyme, phosphorolysis reaction
+4.4	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N	37	6.5		pH 6.5, 37C, recombinant enzyme, synthesis reaction
+41.3	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N				phosphorolysis
+312	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N				synthesis
+131	glucose 1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N				dextrin DP11 synthesis
+0.001	D-glucose-1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N	37	5.5		wild-type, 37C, pH 5.5
+0.0019	D-glucose-1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N	37	5.5	X	mutant N135S, 37C, pH 5.5
+0.0023	D-glucose-1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N	37	5.5	X	mutant F39L, 37C, pH 5.5
+0.0026	D-glucose-1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N	37	5.5	X	mutant T706I, 37C, pH 5.5
+0.0036	D-glucose-1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N	37	5.5	X	mutant F39L/N135S/T706I, 37C, pH 5.5
+0.0041	D-glucose-1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N	37	5.5	X	mutant N135S/T706I, 37C, pH 5.5
+0.0042	D-glucose-1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N	37	5.5	X	mutant F39L/N135S, 37C, pH 5.5
+0.0049	D-glucose-1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N	37	5.5	X	mutant F39L/T706I, 37C, pH 5.5
+0.00048	alpha-D-xylose 1-phosphate	2456	ILXHFXFPPZGENN-KKQCNMDGSA-N	30	7.0	X	pH 7.0, 30C, recombinant mutant H334N, synthesis
+0.0026	alpha-D-xylose 1-phosphate	2456	ILXHFXFPPZGENN-KKQCNMDGSA-N	30	7.0		pH 7.0, 30C, recombinant wild-type enzyme, synthesis
+0.0028	alpha-D-xylose 1-phosphate	2456	ILXHFXFPPZGENN-KKQCNMDGSA-N	30	7.0	X	pH 7.0, 30C, recombinant mutant H334A, synthesis
+0.0066	alpha-D-xylose 1-phosphate	2456	ILXHFXFPPZGENN-KKQCNMDGSA-N	30	7.0	X	pH 7.0, 30C, recombinant mutant H334Q, synthesis

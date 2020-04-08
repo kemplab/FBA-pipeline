@@ -1,0 +1,3 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.68	3,4-dihydroxy-L-phenylalanine	275	WTDRDQBEARUVNC-LURJTMIESA-N	30	7.8		pH 7.8, 30C
+4.5	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N	25	7.5	X	Y332F DDC mutant, reaction in 50 mM Hepes, pH 7.5, at 25C causes the production of ammonia and 3,4-dihydroxyphenylacetaldehyde along with the consumption of molecular oxygen in a 1:2 molar ratio

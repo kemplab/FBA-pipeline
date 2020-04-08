@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.21	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N			X	mutant F189Y, reaction: fructose 6-phosphate cleavage into dihydroxyacetone and glyceraldehyde 3-phosphate
+0.22	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N			X	mutant F189Y, reaction: fructose 6-phosphate cleavage into dihydroxyacetone and glyceraldehyde 3-phosphate
+4.9	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	20	6.0		; pH 6.0, 20C
+7.4	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N			X	mutant F189Y, reaction: sedoheptulose 7-phosphate and D-glyceraldehyde 3-phosphate formation from erythrose 4-phosphate + D-fructose 6-phosphate
+8.8	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N			X	mutant F189Y, reaction: sedoheptulose 7-phosphate and D-glyceraldehyde 3-phosphate formation from erythrose 4-phosphate + D-fructose 6-phosphate
+22.3	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	80	9.0		pH 9.0, 80C
+0.54	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	30	8.5	X	mutant F178, pH 8.5, 30C
+22.9	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N	80	9.0		pH 9.0, 80C
+12	glyceraldehyde 3-phosphate	473	LXJXRIRHZLFYRP-UHFFFAOYSA-N	30	8.5	X	mutant F178, pH 8.5, 30C
+13	glyceraldehyde 3-phosphate	473	LXJXRIRHZLFYRP-UHFFFAOYSA-N	30	8.5		wild-type, pH 8.5, 30C
+4.3	dihydroxyacetone	509	RXKJFZQQPQGTFL-UHFFFAOYSA-N			X	mutant F189Y, reaction: fructose 6-phosphate synthesis from dihydroxyacetone and glyceraldehyde 3-phosphate
+8.9	dihydroxyacetone	509	RXKJFZQQPQGTFL-UHFFFAOYSA-N			X	mutant F189Y, reaction: fructose 6-phosphate synthesis from dihydroxyacetone and glyceraldehyde 3-phosphate
+0.53	D-glyceraldehyde	520	MNQZXJOMYWMBOU-VKHMYHEASA-N	30	8.5	X	mutant F178, pH 8.5, 30C
+6.44	D-erythrose-4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N				

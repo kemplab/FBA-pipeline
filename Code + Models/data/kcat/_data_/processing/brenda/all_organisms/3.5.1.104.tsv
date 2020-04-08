@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.099	peptidoglycan-N-acetyl-D-glucosamine	13481	ULRVCCFEFVCVPQ-XATCYGKVSA-N	37	7.0		recombinant enzyme, pH 7.0, 37C
+0.24	GlcNAc-beta-1,4-GlcNAc-beta-1,4-GlcNAc-beta-1,4-GlcNAc	3689	PFZKWTWCVGDJQC-AOMJWMKZSA-N	37	7.0		pH 7.0, 37C
+0.27	GlcNAc-beta-1,4-GlcNAc-beta-1,4-GlcNAc	2524	WZZVUHWLNMNWLW-VFCSDQTKSA-N			X	mutant enzyme I419G
+0.28	4-yethylumbelliferyl acetate	1229	HXVZGASCDAGAPS-UHFFFAOYSA-N	37	7.0		37C, pH 7.0
+0.32	peptidoglycan-N-acetyl-D-glucosamine	13481	ULRVCCFEFVCVPQ-XATCYGKVSA-N	37	7.0		pH 7.0, 37C
+0.46	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	37	7.0		37C, pH 7.0
+0.55	GlcNAc-beta-1,4-GlcNAc-beta-1,4-GlcNAc	2524	WZZVUHWLNMNWLW-VFCSDQTKSA-N				wild-type enzyme
+1.5	GlcNAc-beta-1,4-GlcNAc-beta-1,4-GlcNAc	2524	WZZVUHWLNMNWLW-VFCSDQTKSA-N			X	mutant enzyme L302A
+1.6	GlcNAc-beta-1,4-GlcNAc-beta-1,4-GlcNAc	2524	WZZVUHWLNMNWLW-VFCSDQTKSA-N			X	mutant enzyme K304I
+1.64	4-yethylumbelliferyl acetate	1229	HXVZGASCDAGAPS-UHFFFAOYSA-N	37	8.0		37C, pH 8.0

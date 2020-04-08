@@ -1,0 +1,23 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0075	L-pyroglutamyl-glycyl-L-arginine 4-nitroanilide hydrochloride	6184	PZDJIXYQYPADDW-IODNYQNNSA-N		8.8		pH 8.8, nonphosphorylated uPA
+0.0077	S2444	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	25	7.4	X	pH 7.4, 25C, mutant K300A, single-chain activator
+0.0085	S2444	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	25	7.4	X	pH 7.4, 25C, mutant K300W, single-chain activator
+0.0113	L-pyroglutamyl-glycyl-L-arginine 4-nitroanilide hydrochloride	6184	PZDJIXYQYPADDW-IODNYQNNSA-N		7.5		pH 7.5, nonphosphorylated uPA
+0.027	S2444	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	25	7.4	X	pH 7.4, 25C, mutant E301A, single-chain activator
+0.029	S2444	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	25	7.4	X	pH 7.4, 25C, mutant Y306G, single-chain activator
+0.047	S2444	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	25	7.4	X	pH 7.4, 25C, mutant E301D, single-chain activator
+0.065	S2444	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	25	7.4	X	pH 7.4, 25C, mutant K300H, single-chain activator
+0.32	S2444	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	25	7.4	X	pH 7.4, 25C, mutant S303E, single-chain activator; pH 7.4, 25C, wild-type, single-chain activator
+0.33	S2444	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	25	7.4	X	pH 7.4, 25C, mutant K313A, single-chain activator
+0.73	pyroGlu-Gly-Arg-4-nitroanilide	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	37	7.4		pH 7.4, 37C, pro-uPA
+1.5	S2444	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	25	7.4	X	pH 7.4, 25C, mutant E301H, single-chain activator
+22	S2444	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	25	7.4	X	pH 7.4, 25C, mutant Y306G, two-chain activator
+27	S2444	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	25	7.4	X	pH 7.4, 25C, mutant K300W, two-chain activator
+60	S2444	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	25	7.4	X	pH 7.4, 25C, mutant K300A, two-chain activator
+83	S2444	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	25	7.4	X	pH 7.4, 25C, mutant E301H, two-chain activator
+180	S2444	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	25	7.4	X	pH 7.4, 25C, wild-type and mutant S303E, two-chain activator
+190	S2444	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	25	7.4	X	pH 7.4, 25C, mutant K313A, two-chain activator
+200	S2444	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	25	7.4	X	pH 7.4, 25C, mutant E301A, two-chain activator
+270	S2444	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	25	7.4	X	pH 7.4, 25C, mutant E301D, two-chain activator
+350	S2444	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	25	7.4	X	pH 7.4, 25C, mutant K300H, two-chain activator
+773	pyroGlu-Gly-Arg-4-nitroanilide	1522	DGYWXYFLXYIOCP-KBPBESRZSA-N	37	7.4		pH 7.4, 37C, mature uPA

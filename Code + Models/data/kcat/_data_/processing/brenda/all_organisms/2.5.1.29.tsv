@@ -1,0 +1,57 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000042	(E,E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant DELTA1-9, pH 7.5, 25C
+0.000066	(E,E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant DELTA1-8, pH 7.5, 25C
+0.000072	(E,E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant L8G/I9G, pH 7.5, 25C
+0.00013	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant N101A/Y105A, pH 7.5, 25C
+0.00013	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	25	7.5	X	mutant N101A/Y105A, pH 7.5, 25C
+0.00015	(E,E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant E7G/L8G, pH 7.5, 25C
+0.0002	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant N101A/N104A, pH 7.5, 25C
+0.0002	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	25	7.5	X	mutant N101A/N104A, pH 7.5, 25C
+0.00062	(E,E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant I9G, pH 7.5, 25C
+0.0051	(E,E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant L8G, pH 7.5, 25C
+0.0073	(E,E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant DELTA1-7, pH 7.5, 25C
+0.017	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant N104A/Y105A, pH 7.5, 25C
+0.017	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	25	7.5	X	mutant N104A/Y105A, pH 7.5, 25C
+0.018	(E,E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant DELTA1-6, pH 7.5, 25C
+0.02	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant M111E, pH 7.5, 25C
+0.02	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	25	7.5	X	mutant M111E, pH 7.5, 25C
+0.02	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, recombinant His-tagged enzyme
+0.021	(E,E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant E7G, pH 7.5, 25C
+0.025	(E,E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5		wild-type, pH 7.5, 25C
+0.036	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant M111F, pH 7.5, 25C
+0.036	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	25	7.5	X	mutant M111F, pH 7.5, 25C
+0.037	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5		wild-type enzyme, pH 7.5, 25C
+0.037	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	25	7.5		wild-type enzyme, pH 7.5, 25C
+0.038	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant R140A, pH 7.5, 25C
+0.038	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	25	7.5	X	mutant R140A, pH 7.5, 25C
+0.04	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant M111A, pH 7.5, 25C
+0.04	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	25	7.5	X	mutant M111A, pH 7.5, 25C
+0.042	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant H139A, pH 7.5, 25C
+0.042	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	25	7.5	X	mutant H139A, pH 7.5, 25C
+0.06	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant Y105A, pH 7.5, 25C
+0.06	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	25	7.5	X	mutant Y105A, pH 7.5, 25C
+0.067	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant N101A, pH 7.5, 25C
+0.067	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	25	7.5	X	mutant N101A, pH 7.5, 25C
+0.1	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.5		pH 7.5, 30C, recombinant His-tagged enzyme
+0.11	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant N104A, pH 7.5, 25C
+0.11	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	25	7.5	X	mutant N104A, pH 7.5, 25C
+0.204	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.7		pH 7.7, 37C, recombinant enzyme
+0.4	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.5		pH 7.5, 30C, recombinant His-tagged enzyme
+0.5	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N	37	7.7		pH 7.7, 37C, recombinant PvGGPPS
+0.5	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	37	7.7		pH 7.7, 37C, recombinant PvGGPPS
+0.8	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.7		pH 7.7, 37C, recombinant PvGGPPS
+0.8	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.7		pH 7.7, 37C, recombinant PvGGPPS
+1	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N				
+1.1	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, recombinant His-tagged enzyme
+1.4	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N				
+1.6	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant F108A/H139A
+2.1	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N				
+2.5	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant Y107A/F108A/H139A; pH 7.5, 25C, recombinant wild-type enzyme
+3.3	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				
+3.9	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant Y107A/H139A
+4.2	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant H139A
+4.7	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant F108A
+4.9	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant Y107A/F108A
+5.6	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant Y107A
+6.4	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant L135A/H139A
+8.4	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant Y107A/F108A/L135A/H139A

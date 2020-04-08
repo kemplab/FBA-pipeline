@@ -1,0 +1,81 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.49	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant E196A, in presence of Ca2+
+0.55	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant E196A, in absence of Ca2+
+0.97	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	8.0		pH 8.0, 37C, recombinant wild-type enzyme, in presence of Ca2+
+1.08	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant D3A/D262G, in presence of Ca2+
+2.12	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	8.0		pH 8.0, 37C, recombinant wild-type enzyme, in absence of Ca2+
+2.71	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant D3A/D262G, in absence of Ca2+
+3	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant D3A/D262G, in absence of Ca2+
+4.72	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	8.0	X	pH 8.0, 37C, recombinant chimeric mutant, in presence of Ca2+
+5.2	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	8.0	X	pH 8.0, 37C, recombinant chimeric mutant, in absence of Ca2+
+34	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant F221A
+41.5	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	8.0		pH 8.0, 37C, recombinant enzyme, in absence of Ca2+
+42.1	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	8.0		pH 8.0, 37C, recombinant enzyme, in presence of Ca2+
+65.9	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	8.0		pH 8.0, 37C, recombinant wild-type enzyme
+75.3	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	8.0		pH 8.0, 37C, recombinant enzyme, in absence of Ca2+
+108	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant F221I
+223	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	8.0		pH 8.0, 37C, recombinant enzyme, in presence of Ca2+
+391	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	30	8.0		pH 8.0, 30C
+0.42	bis(p-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+0.0433	Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				in presence of Ni-Ni-homo-dinuclear aminopeptidase
+0.0505	Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				in presence of Mn-Ni-hetero-dinuclear aminopeptidase
+1.5	Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				in presence of Mn-Cd-hetero-dinuclear aminopeptidase
+1.68	Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				in presence of Cd-Cd-homo-dinuclear aminopeptidase
+27.5	Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				in presence of Mn-Mn-homo-dinuclear aminopeptidase
+37.4	Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				in presence of Mn-Co-hetero-dinuclear aminopeptidase
+41	Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				in presence of Co-Co-homo-dinuclear aminopeptidase
+92.8	Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				in presence of Mn-Zn-hetero-dinuclear aminopeptidase
+101	Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				in presence of Zn-Zn-homo-dinuclear aminopeptidase
+657	Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	30	8.0		pH 8.0, 30C
+0.0064	bis(4-nitrophenyl) phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N				in presence of Mn-Ni-hetero-dinuclear aminopeptidase
+0.01	bis(4-nitrophenyl) phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, Ni2+-enzyme
+0.01	bis(4-nitrophenyl) phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N				in presence of Ni-Ni-homo-dinuclear aminopeptidase
+0.016	bis(4-nitrophenyl) phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N				in presence of Mn-Cd-hetero-dinuclear aminopeptidase
+0.043	bis(4-nitrophenyl) phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, Cd2+-enzyme
+0.043	bis(4-nitrophenyl) phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N				in presence of Cd-Cd-homo-dinuclear aminopeptidase
+0.081	bis(4-nitrophenyl) phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N				in presence of Mn-Mn-homo-dinuclear aminopeptidase
+0.087	bis(4-nitrophenyl) phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N				in presence of Mn-Co-hetero-dinuclear aminopeptidase
+0.1	bis(4-nitrophenyl) phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N				in presence of Mn-Zn-hetero-dinuclear aminopeptidase
+0.21	bis(4-nitrophenyl) phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, Mn2+-enzyme
+0.45	bis(4-nitrophenyl) phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, Zn2+-enzyme
+0.45	bis(4-nitrophenyl) phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N				in presence of Zn-Zn-homo-dinuclear aminopeptidase
+0.74	bis(4-nitrophenyl) phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, Co2+-enzyme
+0.74	bis(4-nitrophenyl) phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N				in presence of Co-Co-homo-dinuclear aminopeptidase
+1.71	L-Ala-4-nitroanilide	1401	HMNPAESPRLNEBP-LURJTMIESA-N	30	8.0		pH 8.0, 30C
+2.94	L-Ala-4-nitroanilide	1401	HMNPAESPRLNEBP-LURJTMIESA-N	30	8.0		pH 8.0, 30C
+4.9	Ala-4-nitroanilide	2879	PXFUDSMGEYRNNC-LURJTMIESA-N	30	8.0		pH 8.0, 30C
+10.7	L-Phe-NH2	3021	OBSIQMZKFXFYLV-QMMMGPOBSA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant F221I
+43.8	L-Phe-NH2	3021	OBSIQMZKFXFYLV-QMMMGPOBSA-N	37	8.0		pH 8.0, 37C, recombinant wild-type enzyme
+115	L-Phe-NH2	3021	OBSIQMZKFXFYLV-QMMMGPOBSA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant F221A
+1.31	L-leucine-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	30	8.0		pH 8.0, 30C, in absence of Ca2+
+75	L-leucine-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	22	8.0		pH 8.0, 22C, acetylated aminopeptidases 2
+111	L-leucine-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	22	8.0		pH 8.0, 22C, native aminopeptidases 2
+116	L-leucine-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	22	8.0		pH 8.0, 22C, acetylated aminopeptidases 1
+153	L-leucine-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	22	8.0		pH 8.0, 22C, native aminopeptidases 1
+2.8	Lys-4-nitroanilide	2640	VUUNELJIFNFWJC-NSHDSACASA-N	30	8.0		pH 8.0, 30C
+0.191	L-Val-4-nitroanilide	4596	IFIZCLBWDPSXDM-JTQLQIEISA-N	30	8.0		pH 8.0, 30C
+0.0033	4-nitrophenyl phenylphosphonate	1631	NRGZTHQFAQCJCQ-UHFFFAOYSA-N	50	8.0		pH 8.0, 50C, Ni2+-enzyme
+0.01	4-nitrophenyl phenylphosphonate	1631	NRGZTHQFAQCJCQ-UHFFFAOYSA-N	50	8.0		pH 8.0, 50C, Mn2+-enzyme
+0.014	4-nitrophenyl phenylphosphonate	1631	NRGZTHQFAQCJCQ-UHFFFAOYSA-N	50	8.0		pH 8.0, 50C, Zn2+-enzyme
+0.017	4-nitrophenyl phenylphosphonate	1631	NRGZTHQFAQCJCQ-UHFFFAOYSA-N	50	8.0		pH 8.0, 50C, Cd2+-enzyme
+0.022	4-nitrophenyl phenylphosphonate	1631	NRGZTHQFAQCJCQ-UHFFFAOYSA-N	50	8.0		pH 8.0, 50C, Co2+-enzyme
+17.6	L-Phe-4-nitroanilide	4867	GJHIOWXZFDVUKQ-AWEZNQCLSA-N	37	8.0		pH 8.0, 37C, recombinant wild-type enzyme
+19.3	L-Phe-4-nitroanilide	4867	GJHIOWXZFDVUKQ-AWEZNQCLSA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant F221I
+229	L-Phe-4-nitroanilide	4867	GJHIOWXZFDVUKQ-AWEZNQCLSA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant F221A
+0.47	L-alanine-4-nitroanilide	5064	PXFUDSMGEYRNNC-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, in absence of Ca2+
+1.81	L-alanine-4-nitroanilide	5064	PXFUDSMGEYRNNC-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, in presence of Ca2+
+2.94	L-alanine-4-nitroanilide	5064	PXFUDSMGEYRNNC-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, in presence of Ca2+
+1.1	Gly-4-nitroanilide	6528	VZZMNSJSZXVCCW-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+0.28	Val-4-nitroanilide	4596	IFIZCLBWDPSXDM-JTQLQIEISA-N	30	8.0		pH 8.0, 30C
+43.3	Met-4-nitroanilide	7543	PLBWRAWSHVJPTL-JTQLQIEISA-N	30	8.0		pH 8.0, 30C
+31.7	L-Leu-NH2	3567	FORGMRSGVSYZQR-YFKPBYRVSA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant F221A
+104	L-Leu-NH2	3567	FORGMRSGVSYZQR-YFKPBYRVSA-N	37	8.0		pH 8.0, 37C, recombinant wild-type enzyme
+155	L-Leu-NH2	3567	FORGMRSGVSYZQR-YFKPBYRVSA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant F221I
+64.2	L-Leu-O-methyl ester	9189	QVDXUKJJGUSGLS-LURJTMIESA-N	37	8.0		pH 8.0, 37C, recombinant wild-type enzyme
+142	L-Leu-O-methyl ester	9189	QVDXUKJJGUSGLS-LURJTMIESA-N	37	8.0		pH 8.0, 37C, recombinant wild-type enzyme
+169	L-Leu-O-methyl ester	9189	QVDXUKJJGUSGLS-LURJTMIESA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant F221I
+0.64	L-Phe-O-methyl ester	2532	VSDUZFOSJDMAFZ-VIFPVBQESA-N	37	8.0		pH 8.0, 37C, recombinant wild-type enzyme
+54.3	L-Phe-O-methyl ester	2532	VSDUZFOSJDMAFZ-VIFPVBQESA-N	37	8.0		pH 8.0, 37C, recombinant wild-type enzyme
+224	L-Phe-O-methyl ester	2532	VSDUZFOSJDMAFZ-VIFPVBQESA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant F221A
+0.13	L-valine-4-nitroanilide	4596	IFIZCLBWDPSXDM-JTQLQIEISA-N	30	8.0		pH 8.0, 30C, in absence of Ca2+
+0.26	L-valine-4-nitroanilide	4596	IFIZCLBWDPSXDM-JTQLQIEISA-N	30	8.0		pH 8.0, 30C, in presence of Ca2+

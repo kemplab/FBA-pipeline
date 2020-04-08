@@ -1,0 +1,23 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+14.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0		with acetaldehyde as substrate, pH 8.0 and 25C
+12.9	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.0		with acetaldehyde as substrate, pH 8.0 and 25C
+2.2	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	25	8.0		BphJ-TTHB246 complex, pH 8.0, 25C
+2.8	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	25	8.0		TTHB247-BphI complex, pH 8.0, 25C
+3.5	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	25	8.0		TTHB246-TTHB247 complex, pH 8.0, 25C
+7.4	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	25	8.0		single TTHB247, pH 8.0, 25C
+16	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	25	8.0	X	I195F mutant, steady state, pH 8.0, 25C
+17.2	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	25	8.0		pH 8.0 and 25C, NAD+
+17.2	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	25	8.0		wild-type protein, steady state, pH 8.0, 25C
+17.2	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	25	8.0		BphJ-BphI complex, pH 8.0, 25C
+42	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	25	8.0	X	I195L mutant, steady state, pH 8.0, 25C
+2.3	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	8.0		BphJ-TTHB246 complex, pH 8.0, 25C
+2.6	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	8.0		TTHB247-BphI complex, pH 8.0, 25C
+3.6	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	8.0		TTHB246-TTHB247 complex, pH 8.0, 25C
+8.4	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	8.0		single TTHB247, pH 8.0, 25C
+8.9	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	8.0	X	I195F mutant, steady state, pH 8.0, 25C
+16.3	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	8.0		pH 8.0 and 25C, NAD+
+16.3	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	8.0		wild-type protein, steady state, pH 8.0, 25C
+16.3	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	8.0		BphJ-BphI complex, pH 8.0, 25C
+46	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	8.0	X	I195L mutant, steady state, pH 8.0, 25C
+9.5	Butyraldehyde	415	ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	25	8.0		pH 8.0 and 25C, NAD+
+11.2	Isobutyraldehyde	1234	AMIMRNSIRUDHCM-UHFFFAOYSA-N	25	8.0		pH 8.0 and 25C, NAD+

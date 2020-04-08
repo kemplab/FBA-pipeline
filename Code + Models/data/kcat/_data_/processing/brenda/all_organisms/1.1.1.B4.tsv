@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.84	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	65	6.0		pH 6.0, 65C, recombinant enzyme, reduction reaction
+23.6	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	7.2		wild-type, pH 7.2, 30C
+26.6	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	7.2	X	mutant S154Y, pH 7.2, 30C
+52.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	65	6.0		pH 6.0, 65C, recombinant enzyme, reduction reaction
+100	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	7.2	X	mutant S154Y/L194I, pH 7.2, 30C
+36.1	2,3-Butanedione	603	QSJXEFYPDANLFS-UHFFFAOYSA-N	30	7.4		pH 7.4, 30C
+1	(R)-2-butanol	1685	BTANRVKWQNVYAZ-SCSAIBSYSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+1.7	(R)-2-butanol	1685	BTANRVKWQNVYAZ-SCSAIBSYSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+5.2	ethyl 4-chloro-3-oxobutanoate	2619	OHLRLMWUFVDREV-UHFFFAOYSA-N	30	7.4		pH 7.4, 30C
+25.5	2,2,2-trifluoroacetophenone	2940	KZJRKRQSDZGHEC-UHFFFAOYSA-N	65	6.0		pH 6.0, 65C, recombinant enzyme, reduction reaction
+1.1	(R)-2-pentanol	3888	JYVLIDXNZAXMDK-RXMQYKEDSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+1.9	(R)-2-pentanol	3888	JYVLIDXNZAXMDK-RXMQYKEDSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+50.1	ethylbenzoylformate	3721	QKLCQKPAECHXCQ-UHFFFAOYSA-N	65	6.0		pH 6.0, 65C, recombinant enzyme, reduction reaction

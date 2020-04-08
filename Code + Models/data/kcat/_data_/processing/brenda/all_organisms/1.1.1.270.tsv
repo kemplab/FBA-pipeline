@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.003	17beta-hydroxy-5alpha-androstan-3-one	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	37	7.0		pH 7.0, 37C, radiometric analysis, formation of 3beta-androstanediol
+0.02	5beta-dihydrotestosterone	1523	NVKAWKQGWWIWPM-MISPCMORSA-N	25	7.4	X	pH 7.4, 25C, mutant F303Q/M304S
+0.023	5beta-pregnane-21-ol-3,20-dione	28779	USPYDUPOCUYHQL-VEVMSBRDSA-N	25	7.4	X	pH 7.4, 25C, mutant F303Q/M304S
+0.042	5beta-pregnane-21-ol-3,20-dione	28779	USPYDUPOCUYHQL-VEVMSBRDSA-N	25	7.4	X	pH 7.4, 25C, mutant M304S
+0.047	5beta-dihydrotestosterone	1523	NVKAWKQGWWIWPM-MISPCMORSA-N	25	7.4	X	pH 7.4, 25C, mutant M304S
+0.0493	17beta-hydroxy-5alpha-androstan-3-one	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	37	7.0		pH 7.0, 37C, radiometric analysis, formation of 3alpha-androstanediol
+0.052	17beta-hydroxy-5alpha-androstan-3-one	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	37	7.0		pH 7.0, 37C, spectrophotometric analysis, formation of 3beta-androstanediol or 3alpha-androstanediol
+0.062	5beta-pregnane-21-ol-3,20-dione	28779	USPYDUPOCUYHQL-VEVMSBRDSA-N	25	7.4	X	pH 7.4, 25C, mutant F303Q
+0.063	5beta-pregnane-21-ol-3,20-dione	28779	USPYDUPOCUYHQL-VEVMSBRDSA-N	25	7.4	X	pH 7.4, 25C, mutant L116F
+0.08	5beta-dihydrotestosterone	1523	NVKAWKQGWWIWPM-MISPCMORSA-N	25	7.4	X	pH 7.4, 25C, mutant F303Q
+0.092	5beta-pregnane-21-ol-3,20-dione	28779	USPYDUPOCUYHQL-VEVMSBRDSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+0.107	5beta-dihydrotestosterone	1523	NVKAWKQGWWIWPM-MISPCMORSA-N	25	7.4	X	pH 7.4, 25C, mutant L116F
+0.113	5beta-dihydrotestosterone	1523	NVKAWKQGWWIWPM-MISPCMORSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+0.3	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+0.32	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant L116F
+0.37	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant M304S
+0.4	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant F303Q/M304S
+0.58	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant F303Q
+0.6	Pyridine-3-aldehyde	1681	QJZUKDFHGGYHMC-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant L116F
+0.72	Pyridine-3-aldehyde	1681	QJZUKDFHGGYHMC-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+0.73	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+0.78	Pyridine-3-aldehyde	1681	QJZUKDFHGGYHMC-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant M304S
+0.87	Pyridine-3-aldehyde	1681	QJZUKDFHGGYHMC-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant F303Q
+1.2	Pyridine-3-aldehyde	1681	QJZUKDFHGGYHMC-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant F303Q/M304S

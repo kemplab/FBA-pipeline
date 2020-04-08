@@ -1,0 +1,212 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N	25	5	X	25C, pH 5, mutant E36A/E40A/D175A; 25C, pH 5, mutant E36A/E40A/D175A/P327ter
+3.9	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication
+5	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N	25	5	X	25C, pH 5, mutant E36A/E40A
+15	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N	25	5	X	25C, pH 5, mutant E40A
+32	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N	25	5	X	25C, pH 5, mutant D175A
+54	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N		3.5		wild-type, pH 3.5, temperature not specified in the publication
+59	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N		4.5		pH 4.5
+75	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N		3.5	X	mutant E37K/V160A/T184M/Q202L, pH 3.5, temperature not specified in the publication
+78	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N		5.0		pH 5.0, isoenzyme PS3
+79	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N		5.0		pH 5.0, isoenzyme PS1
+85	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N	25	5	X	25C, pH 5, mutant E36A
+103	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N	25	5	X	25C, pH 5, mutant E36D
+110	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N				
+138	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N	25	5.0		pH 5.0, 25C
+145	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N	25	5	X	25C, pH 5, mutant E40D
+164	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N			X	mutant enzyme W164Y
+207	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N		5.0	X	mutant W164S, pH 5.0
+207	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N			X	mutant enzyme R257A/A260F; mutant enzyme W164S
+216	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N			X	mutant enzyme W164Y/R257A/A260F
+247	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N		5.0	X	mutant W164S/P76H, pH 5.0
+275	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N				native recombinant enzyme
+291	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N		5.0	X	mutant P76H, pH 5.0
+298	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N	37	9.0		0.000083 1/sec/mg, incubates 30 min at 37C, pH 9.0, spectrophotometrically measured at 415 nm; wild-type, pH 5.0
+308	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N		5.0	X	mutant H232F, pH 5.0
+320	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N		5.0	X	mutant W164H, pH 5.0
+328	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N			X	mutant enzyme W164H
+467	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N	25	5	X	25C, pH 5, mutant A173R
+1.8	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	5.5	X	mutant D153H, pH 5.5, 25C
+3.2	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	5.5		wild-type, pH 5.5, 25C
+5.4	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	5.5	X	mutant N246A, pH 5.5, 25C
+19	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	5.5	X	mutant D153A/N246A, pH 5.5, 25C
+51	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	5.5	X	mutant D153A, pH 5.5, 25C
+75	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N		4.5		pH 4.5
+135	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N		3.5		wild-type, pH 3.5, temperature not specified in the publication
+490	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N		3.5	X	mutant E37K/V160A/T184M/Q202L, pH 3.5, temperature not specified in the publication
+8	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25	3.5	X	mutant W164S, pH 3.5, 25C
+75	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25	3.5	X	mutant F142G, pH 3.5, 25C
+78	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25	3.5	X	mutant P141G, pH 3.5, 25C
+80	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25	3.5	X	mutant K176G, pH 3.5, 25C
+81	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25	3.5	X	mutant K215Q, pH 3.5, 25C
+85	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25	3.5	X	mutant K215G, pH 3.5, 25C
+94	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25	3.5	X	mutant K176D, pH 3.5, 25C
+99	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25	3.5	X	mutant P76G, pH 3.5, 25C
+105.6	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25	3.5	X	mutant E140G/P141G, pH 3.5, 25C
+135.7	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25	3.5	X	mutant E140G/P141G/K176G, pH 3.5, 25C
+164	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25	3.5	X	mutant E140G, pH 3.5, 25C
+164.8	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25	3.5	X	mutant E140G/W164S/K176G, pH 3.5, 25C
+185	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25	3.5		wild-type, pH 3.5, 25C
+185.6	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25	3.5	X	mutant E140G/K176G, pH 3.5, 25C
+2.3	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N		4.5		pH 4.5
+4.6	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant E140G/P141G, high efficiency site, pH 3.5, 25C
+4.8	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant P141G, high efficiency site, pH 3.5, 25C
+5.6	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5		wild-type, high efficiency site, pH 3.5, 25C
+6.2	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant P76G, high efficiency site, pH 3.5, 25C
+7.6	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant K215Q, high efficiency site, pH 3.5, 25C
+9.3	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant K176G, high efficiency site, pH 3.5, 25C
+9.5	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant K215G, high efficiency site, pH 3.5, 25C
+9.8	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant F142G, high efficiency site, pH 3.5, 25C
+10	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant E140G, high efficiency site, pH 3.5, 25C
+10.6	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N				absence of Mn2+, pH not specified in the publication, temperature not specified in the publication
+10.6	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant K176D, high efficiency site, pH 3.5, 25C
+17.3	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant E140G/K176G, high efficiency site, pH 3.5, 25C
+20.4	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant E140G/P141G/K176G, high efficiency site, pH 3.5, 25C
+29.8	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5		wild-type, low efficiency site, pH 3.5, 25C
+30	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N				presence of Mn2+, pH not specified in the publication, temperature not specified in the publication
+47.6	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant W164S, low efficiency site, pH 3.5, 25C
+50.2	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant E140G/W164S/K176G, low efficiency site, pH 3.5, 25C
+56.6	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant E140G/P141G/K176G, low efficiency site, pH 3.5, 25C
+58	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N		3.5	X	mutant E37K/V160A/T184M/Q202L, pH 3.5, temperature not specified in the publication
+61	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant E140G/P141G, low efficiency site, pH 3.5, 25C
+67	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant E140G/K176G, low efficiency site, pH 3.5, 25C
+74.5	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant K215Q, low efficiency site, pH 3.5, 25C
+98	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N		3.5		wild-type, pH 3.5, temperature not specified in the publication
+141	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant P141G, low efficiency site, pH 3.5, 25C
+231.6	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant K176G, low efficiency site, pH 3.5, 25C
+293	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	25	3.5	X	mutant E140G, low efficiency site, pH 3.5, 25C
+9.3	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	3.5	X	mutant P141G, pH 3.5, 25C
+16.2	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	3.5	X	mutant K215G, pH 3.5, 25C
+17.5	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	3.5	X	mutant F142G, pH 3.5, 25C
+22.7	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	3.5		wild-type, pH 3.5, 25C
+23.8	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	3.5	X	mutant K215Q, pH 3.5, 25C
+26.2	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	3.5	X	mutant P76G, pH 3.5, 25C
+29.8	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	3.5	X	mutant K176D, pH 3.5, 25C
+30.6	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	3.5	X	mutant W164S, pH 3.5, 25C
+33.3	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	3.5	X	mutant K176G, pH 3.5, 25C
+34.8	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	3.5	X	mutant E140G, pH 3.5, 25C
+105.6	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	3.5	X	mutant E140G/P141G, pH 3.5, 25C
+135.7	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	3.5	X	mutant E140G/P141G/K176G, pH 3.5, 25C
+164.8	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	3.5	X	mutant E140G/W164S/K176G, pH 3.5, 25C
+185.6	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	3.5	X	mutant E140G/K176G, pH 3.5, 25C
+1.4	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N		4.5		pH 4.5
+2.8	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N		3.0		pH 3.0
+4	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N		3.0		pH 3.0, isoenzyme PS1
+4.3	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	25	3.0	X	pH 3.0, 25C, mutant M247F
+5	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	25	3.0	X	pH 3.0, 25C, mutant M247L
+6.4	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	25	3.0		pH 3.0, 25C
+7.08	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N		3.0		absence of Mn2+, pH 3.0, temperature not specified in the publication
+7.5	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	25	3.0	X	pH 3.0, 25C, mutant A260F
+8	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	30	6.5	X	H196A mutant, 30C, pH 6.5; wild-type, pH 3.0
+8.2	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	25	3.0	X	pH 3.0, 25C, mutant K264A
+9.5	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	25	3.0		pH 3.0, 25C, wild-type
+9.5	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N				native recombinant enzyme
+9.6	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	25	3.0	X	pH 3.0, 25C, mutant S158D; pH 3.0, 25C, mutant S158E
+10.9	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	25	3.0	X	pH 3.0, 25C, mutant R257K
+11	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N		3.0	X	mutant P76H, pH 3.0
+13	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N				
+14	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N		3.0	X	mutant H232F, pH 3.0
+17.9	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	25	3.0	X	pH 3.0, 25C, mutant R257A/A260F
+17.9	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N			X	mutant enzyme R257A/A260F
+19.6	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	25	3.0	X	pH 3.0, 25C, mutant R257D
+26.8	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N		4.5		presence of Mn2+, pH 4.5, temperature not specified in the publication
+27.3	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	25	3.0	X	pH 3.0, 25C, mutant R257L
+0.18	methylene blue	426	RBTBFTRPCNLSDE-UHFFFAOYSA-N	25	3.5		lignin peroxidase activity, pH 3.5, 25C
+2.92	methylene blue	426	RBTBFTRPCNLSDE-UHFFFAOYSA-N	25	4.5		manganese peroxidase activity, pH 4.5, 25C
+0.22	syringaldazine	656	YARKTHNUMGKMGS-LQGKIZFRSA-N		7.0		absence of Mn2+, pH 7.0, temperature not specified in the publication
+6.1	syringaldazine	656	YARKTHNUMGKMGS-LQGKIZFRSA-N		7.0		presence of Mn2+, pH 7.0, temperature not specified in the publication
+0.7	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	pH 3.5, 25C, mutant M247F
+1.3	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N		4.5		pH 4.5
+2.77	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N		3.0		absence of Mn2+, pH 3.0, temperature not specified in the publication
+4.9	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	pH 3.5, 25C, mutant M247L
+5.4	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5		pH 3.5, 25C
+5.9	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	pH 3.5, 25C, mutant A260F
+6.2	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N		3.0		presence of Mn2+, pH 3.0, temperature not specified in the publication
+6.6	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant P76G, high efficiency site, pH 3.5, 25C
+7.7	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	pH 3.5, 25C, mutant S158D
+7.9	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant K215Q, high efficiency site, pH 3.5, 25C
+8.1	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5		pH 3.5, 25C, wild-type
+8.1	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5		wild-type, high efficiency site, pH 3.5, 25C
+8.8	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	pH 3.5, 25C, mutant K264A
+9.1	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	pH 3.5, 25C, mutant S158E
+10.9	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant F142G, high efficiency site, pH 3.5, 25C
+11.8	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	pH 3.5, 25C, mutant R257K
+12.6	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant E140G, high efficiency site, pH 3.5, 25C
+13.2	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant K176G, high efficiency site, pH 3.5, 25C
+13.8	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant K176D, high efficiency site, pH 3.5, 25C; mutant K215G, high efficiency site, pH 3.5, 25C
+16.1	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant P141G, high efficiency site, pH 3.5, 25C
+18.6	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	pH 3.5, 25C, mutant R257A/A260F
+19.2	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant E140G/P141G, high efficiency site, pH 3.5, 25C
+22.2	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	pH 3.5, 25C, mutant R257L
+93	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant P141G, low efficiency site, pH 3.5, 25C
+146	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant P76G, low efficiency site, pH 3.5, 25C
+154	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant F142G, low efficiency site, pH 3.5, 25C
+162	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant E140G/P141G, low efficiency site, pH 3.5, 25C
+165	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant K215Q, low efficiency site, pH 3.5, 25C
+186	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5		wild-type, low efficiency site, pH 3.5, 25C
+204	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant K215G, low efficiency site, pH 3.5, 25C
+205	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant W164S, low efficiency site, pH 3.5, 25C
+216	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant E140G, low efficiency site, pH 3.5, 25C
+220	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N		3.5		wild-type, pH 3.5, temperature not specified in the publication
+223	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant K176D, low efficiency site, pH 3.5, 25C
+227	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant E140G/W164S/K176G, low efficiency site, pH 3.5, 25C
+235	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant E140G/P141G/K176G, low efficiency site, pH 3.5, 25C
+259	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant K176G, low efficiency site, pH 3.5, 25C
+326	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5	X	mutant E140G/K176G, low efficiency site, pH 3.5, 25C
+365	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N		3.5	X	mutant E37K/V160A/T184M/Q202L, pH 3.5, temperature not specified in the publication
+0.4	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J	25	3.5	X	pH 3.5, 25C, mutant M247F
+2.3	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J	25	3.5	X	pH 3.5, 25C, mutant R257K
+2.7	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J	25	3.5		pH 3.5, 25C
+3.1	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J	25	3.5	X	pH 3.5, 25C, mutant A260F
+3.3	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J	25	3.5	X	pH 3.5, 25C, mutant M247L
+4.2	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J	25	3.5	X	pH 3.5, 25C, mutant K264A
+4.6	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J	25	3.5	X	pH 3.5, 25C, mutant S158E
+4.7	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J		3.5	X	mutant H232F, pH 3.5
+4.8	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J		4.0		pH 4.0
+4.9	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J	25	3.5	X	pH 3.5, 25C, mutant S158D
+5	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J		3.0		pH 3.0, isoenzyme PS1
+5	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J		3.5		0.0 M NaCl, 55.6 IgG relative content, 5.5% relative DNase activity; wild-type, pH 3.5
+5.5	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J	25	3.5		pH 3.5, 25C, wild-type
+5.5	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J				native recombinant enzyme
+6	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J		3.5	X	mutant P76H, pH 3.5
+9.1	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J	25	3.5	X	pH 3.5, 25C, mutant R257A/A260F
+9.1	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J			X	mutant enzyme R257A/A260F
+10.6	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J		3.5	X	mutant E37K/V160A/T184M/Q202L, pH 3.5, temperature not specified in the publication
+11.6	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J	25	3.5	X	pH 3.5, 25C, mutant R257L
+11.8	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J		3.5		wild-type, pH 3.5, temperature not specified in the publication
+7.2	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant K215G, high efficiency site, pH 3.5, 25C
+8	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant K176D, high efficiency site, pH 3.5, 25C; mutant P76G, high efficiency site, pH 3.5, 25C
+9.71	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant F142G, high efficiency site, pH 3.5, 25C
+10.3	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5		wild-type, high efficiency site, pH 3.5, 25C
+11.4	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant K215Q, high efficiency site, pH 3.5, 25C
+11.6	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant K176G, high efficiency site, pH 3.5, 25C
+14.6	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant E140G/P141G, high efficiency site, pH 3.5, 25C
+15.6	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant P141G, high efficiency site, pH 3.5, 25C
+16.2	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant E140G, high efficiency site, pH 3.5, 25C
+19.2	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant F142G, low efficiency site, pH 3.5, 25C
+20	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant E140G/K176G, high efficiency site, pH 3.5, 25C; mutant W164S, low efficiency site, pH 3.5, 25C
+20.4	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant E140G/P141G/K176G, high efficiency site, pH 3.5, 25C
+25.2	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant K176D, low efficiency site, pH 3.5, 25C
+25.8	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant K215G, low efficiency site, pH 3.5, 25C
+29.9	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant P76G, low efficiency site, pH 3.5, 25C
+35.1	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5		wild-type, low efficiency site, pH 3.5, 25C
+35.2	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant K215Q, low efficiency site, pH 3.5, 25C
+65.5	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant E140G/P141G, low efficiency site, pH 3.5, 25C
+70.6	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant K176G, low efficiency site, pH 3.5, 25C
+72.9	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant E140G, low efficiency site, pH 3.5, 25C
+82.1	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant E140G/K176G, low efficiency site, pH 3.5, 25C
+82.2	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant E140G/P141G/K176G, low efficiency site, pH 3.5, 25C
+85.6	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant E140G/W164S/K176G, low efficiency site, pH 3.5, 25C
+108	4-hydroquinone	1080	MMLJDECBZWQXCV-UHFFFAOYSA-N	25	3.5	X	mutant P141G, low efficiency site, pH 3.5, 25C
+4	methoxyhydroquinone	1857	NWVVVBRKAWDGAB-UHFFFAOYSA-N		3.0		pH 3.0, isoenzyme PS1
+17	methoxyhydroquinone	1857	NWVVVBRKAWDGAB-UHFFFAOYSA-N				
+19	methoxyhydroquinone	1857	NWVVVBRKAWDGAB-UHFFFAOYSA-N		3.0		pH 3.0, isoenzyme PS3
+3	syringol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N		3.0		pH 3.0, isoenzyme PS3
+6	syringol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N		3.0		pH 3.0, isoenzyme PS1
+0.19	2,7-diaminofluorene	118614	SNCJAJRILVFXAE-UHFFFAOYSA-N		4.5		absence of Mn2+, pH 4.5, temperature not specified in the publication
+0.83	2,7-diaminofluorene	118614	SNCJAJRILVFXAE-UHFFFAOYSA-N		7.0		presence of Mn2+, pH 7.0, temperature not specified in the publication
+2.4	2-methylanthracene	21442	GYMFBYTZOGMSQJ-UHFFFAOYSA-N		4.0		pH 4.0
+4	p-dimethoxybenzene	5643	OHBQPCCCRFSCAX-UHFFFAOYSA-N		3.0		pH 3.0, isoenzyme PS1
+19.8	Reactive Blue 38	25400	KLLWDHONLANFLE-UHFFFAOYSA-L		4.0		pH 4.0
+10	Reactive Blue 72	25401	LSWUFSICCLCJID-UHFFFAOYSA-N		4.0		pH 4.0
+16.9	Reactive Violet 5	25402	UBTDYBUJBRAYEZ-DQUNTQLESA-K		4.0		pH 4.0

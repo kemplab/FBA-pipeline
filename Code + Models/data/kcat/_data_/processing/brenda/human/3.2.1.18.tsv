@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+8	4-methylumbelliferyl alpha-D-N-acetylneuraminic acid	3098	KKDWIUJBUSOPGC-GKHMPSLRSA-N	37	5.0	X	recombinant mutant M87G, pH 5.0, 37C
+23	4-methylumbelliferyl alpha-D-N-acetylneuraminic acid	3098	KKDWIUJBUSOPGC-GKHMPSLRSA-N	37	5.0		recombinant wild-type enzyme, pH 5.0, 37C
+27	4-methylumbelliferyl alpha-D-N-acetylneuraminic acid	3098	KKDWIUJBUSOPGC-GKHMPSLRSA-N	37	5.0	X	recombinant mutants A160G and H277F, pH 5.0, 37C
+32	4-methylumbelliferyl alpha-D-N-acetylneuraminic acid	3098	KKDWIUJBUSOPGC-GKHMPSLRSA-N	37	5.0	X	recombinant mutant R48N, pH 5.0, 37C
+44	4-methylumbelliferyl alpha-D-N-acetylneuraminic acid	3098	KKDWIUJBUSOPGC-GKHMPSLRSA-N	37	5.0	X	recombinant mutant R48S, pH 5.0, 37C
+51	4-methylumbelliferyl alpha-D-N-acetylneuraminic acid	3098	KKDWIUJBUSOPGC-GKHMPSLRSA-N	37	5.0	X	recombinant mutant E51S, pH 5.0, 37C

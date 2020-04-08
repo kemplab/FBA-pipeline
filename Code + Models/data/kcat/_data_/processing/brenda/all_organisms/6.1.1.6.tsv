@@ -1,0 +1,77 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00051	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme Y269S
+0.0011	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme T31G
+0.013	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme E240Q
+0.017	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme E278Q; pH 7.2, 37C, mutant enzyme E428Q
+0.017	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme Y269F
+0.054	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme E278D
+0.14	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme E240D
+0.17	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme Y280F
+0.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0	X	ATP-diphosphate exchange reaction, recombinant mutant Y271F, pH 8.0, 37C
+0.35	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme Y280S
+0.57	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild type enzyme
+0.67	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme F426H
+0.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme G216A
+1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme E428D; pH 7.2, 37C, mutant enzyme N424D
+1.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme T31S
+2.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme N424Q
+2.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme F426W
+3.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.2		pH 7.2, 37C, wild-type enzyme
+5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.5		recombinant wild-type enzyme, pH 7.5, 25C
+5.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.5		recombinant N-terminally truncated enzyme, pH 7.5, 25C
+34.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0	X	ATP-diphosphate exchange reaction, recombinant mutant Y271F, pH 8.0, 37C
+36.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0	X	ATP-diphosphate exchange reaction, recombinant mutant W332F, pH 8.0, 37C
+37.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0	X	ATP-diphosphate exchange reaction, recombinant mutant W314F/W332F, pH 8.0, 37C
+38.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0	X	ATP-diphosphate exchange reaction, recombinant mutant W314F, pH 8.0, 37C
+40.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				ATP-diphosphate exchange
+42.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0		ATP-diphosphate exchange reaction, recombinant wild-type enzyme, pH 8.0, 37C
+0.00012	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N			X	mutant enzyme H242A
+0.00017	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N			X	mutant enzyme W220L
+0.00065	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	7.4		L-lysine lactam formation, pH 7.4, 37C
+0.00075	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N			X	mutant enzyme W220A
+0.0026	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N			X	mutant enzyme Y269S
+0.0046	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N			X	mutant enzyme T31G
+0.0087	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme E240Q
+0.0143	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	25	7.5		at 25C, in 250 mM KCl, 100 mM HEPES, pH 7.5, 10 mM dithiothreitol, 10 mM MgCl2, 0.05 mg/ml bovine serum albumin
+0.015	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme E278Q
+0.02	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme E428D
+0.031	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme Y280F
+0.086	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme E240D
+0.099	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N			X	mutant enzyme Y269F
+0.13	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N			X	mutant enzyme W220Y
+0.16	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme E278D
+0.29	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N			X	mutant enzyme H242L
+0.34	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N				wild type enzyme
+0.45	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N			X	mutant enzyme G29A
+0.53	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N			X	mutant enzyme T31S
+0.6	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme F426W
+0.65	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme N424Q
+1	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme E428D
+1.6	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme N424D; pH 7.2, 37C, mutant enzyme Y280S
+1.8	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	7.2		pH 7.2, 37C, wild-type enzyme
+2.4	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme F426H
+3	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	8.0	X	aminoacylation reaction, recombinant mutant W332F, pH 8.0, 37C
+3.13	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	8.0	X	aminoacylation reaction, recombinant mutant W314F, pH 8.0, 37C; aminoacylation reaction, recombinant wild-type enzyme, pH 8.0, 37C
+3.2	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	30	8.0		native enzyme, pH 8.0, 30C
+3.23	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	8.0	X	aminoacylation reaction, recombinant mutant W332F, pH 8.0, 37C
+3.3	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	8.0	X	aminoacylation reaction, recombinant mutant W314F/W332F, pH 8.0, 37C
+3.4	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	7.2	X	pH 7.2, 37C, mutant enzyme G216A
+3.53	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	8.0		aminoacylation reaction, recombinant wild-type enzyme, pH 8.0, 37C
+3.58	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	8.0	X	aminoacylation reaction, recombinant mutant W314F, pH 8.0, 37C
+3.6	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N				recombinant enzyme without t7-tag
+4.1	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	30	8.0		recombinant T7-tagged enzyme, pH 8.0, 30C
+5.1	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	25	7.5		recombinant N-terminally truncated enzyme, pH 7.5, 25C
+5.8	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	25	7.5		recombinant wild-type enzyme, pH 7.5, 25C
+8.2	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	7.2	X	mutant enzyme G469A, in 100 mM HEPES (pH 7.2), 30 mM KCl, 10 mM MgCl2, at 37C
+41.7	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	7.2		wild type enzyme, in 100 mM HEPES (pH 7.2), 30 mM KCl, 10 mM MgCl2, at 37C
+45.7	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	30	8.0		forward reaction, pH 8.0, 30C
+85	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	7.2	X	mutant enzyme A233S, in 100 mM HEPES (pH 7.2), 30 mM KCl, 10 mM MgCl2, at 37C
+0.34	tRNALys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				wild-type tRNALys
+0.38	tRNALys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	30		X	human wild-type tRNALys, 30C, N-terminally truncated mutant enzyme
+1.7	tRNALys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	20			human wild-type tRNALys, 20C, wild-type enzyme
+2	tRNALys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	30			human wild-type tRNALys, 30C, wild-type enzyme
+14.5	L-Lysine amide	13410	HKXLAGBDJVHRQG-YFKPBYRVSA-N	30	8.0		forward reaction, pH 8.0, 30C
+221	L-Lysine hydroxamate	13412	NZWPVDFOIUKVSJ-YFKPBYRVSA-N	30	8.0		forward reaction, pH 8.0, 30C
+0.00023	Lys-tRNALys	13683	CVKHVXDGHLOZOC-FEBKDJPLSA-N	37	7.4		deacylation reaction, pH 7.4, 37C, in absence of DTT
+0.0088	Lys-tRNALys	13683	CVKHVXDGHLOZOC-FEBKDJPLSA-N	37	7.4		deacylation reaction, pH 7.4, 37C, in presence of 50 mM DTT
+0.00056	Met-tRNALys	6392	SWSBBAUIIWYODW-PMXSHBKZSA-N	37	7.4		deacylation reaction, pH 7.4, 37C, in absence or presence of 50 mM DTT

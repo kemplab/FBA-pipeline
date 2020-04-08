@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.02	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	8.2		V229G/H226P/G225 insertion, pH 8.2 and 30C; V229G/Y252L/V253I/G225 insertion, pH 8.2 and 30C
+0.06	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	8.2	X	R124L mutant enzyme, steady-state conditions with methylmalonate semialdehyde, pH 8.2 and 30C
+0.09	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	8.2		V229G/H226P, pH 8.2 and 30C
+0.14	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	8.2	X	R301L mutant enzyme, steady-state conditions with methylmalonate semialdehyde, pH 8.2 and 30C
+0.21	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	8.2		V229G/G225 insertion, pH 8.2 and 30C
+0.39	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	8.2		G225 insertion, pH 8.2 and 30C
+0.78	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	8.2		V229G, pH 8.2 and 30C
+2.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	8.2		wild type MSDH, steady-state conditions with methylmalonate semialdehyde, pH 8.2 and 30C
+2.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	8.2		wild type MSDH, pH 8.2 and 30C
+2.8	CoA	10	RGJOEKWQDUBAIZ-IBOSZNHHSA-N	30	8.2	X	R124L mutant enzyme, steady-state conditions with propionaldehyde, pH 8.2 and 30C
+12.6	CoA	10	RGJOEKWQDUBAIZ-IBOSZNHHSA-N	30	8.2		wild type MSDH, steady-state conditions with propionaldehyde, pH 8.2 and 30C
+0.03	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	30	8.2		30C, pH 8.2; pH 8.2, 30C
+0.02	Malonate semialdehyde	2126	OAKURXIZZOAYBC-UHFFFAOYSA-N	30	8.2		30C, pH 8.2; pH 8.2, 30C
+0.003	2-Methyl-3-oxopropanoate	2274	VOKUMXABRRXHAR-UHFFFAOYSA-N	30	8.2		pH 8.2, 30C
+1.1	2-Methyl-3-oxopropanoate	2274	VOKUMXABRRXHAR-UHFFFAOYSA-N	30	8.2		50 mM potassium phosphate pH 8.2, 30C, 0.5 mM 2-methyl-3-oxopropanoate, 12 mM NAD+, 0.5 mM CoA
+0.003	methylmalonate semialdehyde	2274	VOKUMXABRRXHAR-UHFFFAOYSA-N	30	8.2		30C, pH 8.2

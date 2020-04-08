@@ -1,0 +1,19 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+19	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	37	6.8		pH 6.8, 37C
+31.9	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	40	7.6		pH 7.6, 40C
+61	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant TSMrTt
+66	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	37	6.8		pH 6.8, 37C
+68.9	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N				
+68.9	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	30	6.5		pH 6.5, 30C, recombinant wild-type enzyme
+95	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	45	6.0		45C, pH 6.0
+97.8	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	45	6.0		45C, pH 6.0, presence of 10 mM glucose
+110	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	30	6.5		pH 6.5, 30C, recombinant wild-type enzyme
+115	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant TSMrTt
+115	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant TSMrTt
+147	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N				
+147	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	6.5		pH 6.5, 30C, recombinant wild-type enzyme
+152	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant TSTtMr
+152	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant TSTtMr
+187.6	trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	45	6.0		45C, pH 6.0
+202	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant TSTtMr
+227	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	6.5		pH 6.5, 30C, recombinant wild-type enzyme

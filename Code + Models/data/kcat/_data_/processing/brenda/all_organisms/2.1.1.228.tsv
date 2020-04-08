@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0001	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	50	8.0	X	pH 8.0, 50C, mutant enzyme P267A
+0.012	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	50	8.0		pH 8.0, 50C, wild-type enzyme
+0.02	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				kcat in steady-state phase turnover, pH and temperature not specified in the publication
+0.09	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				pH and temperature not specified in the publication
+0.25	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	37	8.5		pH 8.5, 37C

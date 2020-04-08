@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0675	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N			X	mutant enzyme V350G, pH and temperature not specified in the publication
+0.1197	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N			X	mutant enzyme V350A, pH and temperature not specified in the publication
+0.1263	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N			X	mutant enzyme V350F, pH and temperature not specified in the publication
+0.1519	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N			X	mutant enzyme A182L, pH and temperature not specified in the publication
+0.1755	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N				wild type enzyme, pH and temperature not specified in the publication
+0.0735	4-Coumaroyl-CoA	374	DMZOKBALNZWDKI-AZKRPDILSA-N			X	mutant enzyme V350A, pH and temperature not specified in the publication
+0.109	4-Coumaroyl-CoA	374	DMZOKBALNZWDKI-AZKRPDILSA-N			X	mutant enzyme V350G, pH and temperature not specified in the publication
+0.0688	cinnamoyl-CoA	1000	JVNVHNHITFVWIX-KZKUDURGSA-N				wild type enzyme, pH and temperature not specified in the publication
+0.0877	cinnamoyl-CoA	1000	JVNVHNHITFVWIX-KZKUDURGSA-N			X	mutant enzyme V350G, pH and temperature not specified in the publication
+104	(2S)-ethylmalonyl-CoA	8045	VUGZQVCBBBEZQE-UQCJFRAESA-N		7.9		in 100 mM Tris-HCl buffer (pH 7.9), temperature not specified in the publication

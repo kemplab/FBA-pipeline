@@ -1,0 +1,43 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.012	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+0.0208	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N				
+0.045	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N	37	6.0	X	pH 6.0, 37C, mutant P133R
+0.05	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N			X	mutant P133R, pH not specified in the publication, temperature not specified in the publication
+0.12	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.14	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N	37	6.0		pH 6.0, 37C
+1.3	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N				
+0.0075	progesterone	249	RJKFOVLPORLFTN-LEKSSAKUSA-N	40	8.0	X	pH 8.0, 40C, recombinant mutant Y156V
+0.011	progesterone	249	RJKFOVLPORLFTN-LEKSSAKUSA-N	40	8.0	X	pH 8.0, 40C, recombinant mutant Y156V/N205M
+0.019	progesterone	249	RJKFOVLPORLFTN-LEKSSAKUSA-N	40	8.0		pH 8.0, 40C, recombinant wild-type enzyme
+0.03	progesterone	249	RJKFOVLPORLFTN-LEKSSAKUSA-N	40	8.0	X	pH 8.0, 40C, recombinant mutant N205M
+0.0302	progesterone	249	RJKFOVLPORLFTN-LEKSSAKUSA-N				
+0.037	progesterone	249	RJKFOVLPORLFTN-LEKSSAKUSA-N	40	8.0	X	pH 8.0, 40C, recombinant mutant N205A
+0.17	progesterone	249	RJKFOVLPORLFTN-LEKSSAKUSA-N	40	8.0		pH 8.0, 40C, recombinant wild-type enzyme
+1.8	progesterone	249	RJKFOVLPORLFTN-LEKSSAKUSA-N				
+0.00817	cortisol	716	JYGXADMDTFJGBT-VWUMJDOOSA-N				
+0.045	cortisol	716	JYGXADMDTFJGBT-VWUMJDOOSA-N	37	6.0		pH 6.0, 37C
+0.01	cortisone	717	MFYSYFVPBJMHGN-ZPOLXVRWSA-N	37	6.0	X	mutant P133R, pH not specified in the publication, temperature not specified in the publication; pH 6.0, 37C, mutant P133R
+0.0375	cortisone	717	MFYSYFVPBJMHGN-ZPOLXVRWSA-N				
+0.165	cortisone	717	MFYSYFVPBJMHGN-ZPOLXVRWSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+0.17	cortisone	717	MFYSYFVPBJMHGN-ZPOLXVRWSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.195	cortisone	717	MFYSYFVPBJMHGN-ZPOLXVRWSA-N	37	6.0		pH 6.0, 37C
+0.032	corticosterone	839	OMFXVFTZEKFJBZ-HJTSIMOOSA-N	37	6.0		pH 6.0, 37C
+0.0337	4-androstene-3,17-dione	897	AEMFNILZOJDQLW-QAGGRKNESA-N				
+0.1	4-androstene-3,17-dione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	37	6.0		pH 6.0, 37C
+0.013	androstenedione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	37	7.4		pH 7.4, 37C, wild-type enzyme
+0.0405	androstenedione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	37	7.4	X	pH 7.4, 37C, mutant Y132F
+0.0425	androstenedione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	37	7.4	X	pH 7.4, 37C, mutant V309F
+0.1	Epitestosterone	1587	MUMGGOZAMZWBJJ-KZYORJDKSA-N	37	6.0		pH 6.0, 37C
+0.4	2-cyclohexen-1-one	1791	FWFSEYBSWVRWGL-UHFFFAOYSA-N	40	8.0	X	pH 8.0, 40C, recombinant mutant Y156V/N205M
+0.475	2-cyclohexen-1-one	1791	FWFSEYBSWVRWGL-UHFFFAOYSA-N	40	8.0	X	pH 8.0, 40C, recombinant mutant N205M
+0.49	2-cyclohexen-1-one	1791	FWFSEYBSWVRWGL-UHFFFAOYSA-N	40	8.0		pH 8.0, 40C, recombinant wild-type enzyme
+0.68	2-cyclohexen-1-one	1791	FWFSEYBSWVRWGL-UHFFFAOYSA-N	40	8.0	X	pH 8.0, 40C, recombinant mutant Y156V
+1.1	2-cyclohexen-1-one	1791	FWFSEYBSWVRWGL-UHFFFAOYSA-N	40	8.0	X	pH 8.0, 40C, recombinant mutant N205A
+1.11	2-cyclohexen-1-one	1791	FWFSEYBSWVRWGL-UHFFFAOYSA-N	40	8.0		pH 8.0, 40C, recombinant wild-type enzyme
+0.15	aldosterone	2030	PQSUYGKTWSAVDQ-ZVIOFETBSA-N	37	6.0		pH 6.0, 37C
+0.01	7alpha-hydroxy-4-cholesten-3-one	6261	IOIZWEJGGCZDOL-RQDYSCIWSA-N				
+0.0128	7alpha,12alpha-dihydroxy-4-cholesten-3-one	13263	UQPYXHJTHPHOMM-NIBOIBLTSA-N				
+0.01	cholestenone	4052	NYOXRYYXRWJDKP-GYKMGIIDSA-N	37	6.0		pH 6.0, 37C
+0.045	4-estren-17beta-ol-3-one	3747	NPAGDVCDWIYMMC-IZPLOLCNSA-N	37	6.0		pH 6.0, 37C
+0.035	1,4-androstadien-17beta-ol-3-one	49208	RSIHSRDYCUFFLA-DYKIIFRCSA-N	37	6.0		pH 6.0, 37C
+0.033	4-cholesten-7alpha-ol-3-one	6261	IOIZWEJGGCZDOL-RQDYSCIWSA-N	37	6.0		pH 6.0, 37C

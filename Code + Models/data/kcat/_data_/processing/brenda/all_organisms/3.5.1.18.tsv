@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0555	N-succinyl-LL-2,6-diaminoheptanedioate	6279	GLXUWZBUPATPBR-BQBZGAKWSA-N				in the presence of zinc
+2.9	N-succinyl-LL-2,6-diaminoheptanedioate	6279	GLXUWZBUPATPBR-BQBZGAKWSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant T325S
+4	N-succinyl-LL-2,6-diaminoheptanedioate	6279	GLXUWZBUPATPBR-BQBZGAKWSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant T325A
+80	N-succinyl-LL-2,6-diaminoheptanedioate	6279	GLXUWZBUPATPBR-BQBZGAKWSA-N	25	7.5		pH 7.5, 25C, recombinant enzyme
+114	N-succinyl-LL-2,6-diaminoheptanedioate	6279	GLXUWZBUPATPBR-BQBZGAKWSA-N	25	7.5		pH 7.5, 25C, recombinant enzyme
+0.13	N-succinyl-LL-diaminopimelate	6279	GLXUWZBUPATPBR-BQBZGAKWSA-N		7.5	X	mutant enzyme E134D at pH 7.5
+140	N-succinyl-LL-diaminopimelate	6279	GLXUWZBUPATPBR-BQBZGAKWSA-N		7.5		wild type enzyme at pH 7.5
+140	N-succinyl LL-diaminopimelic acid	6279	GLXUWZBUPATPBR-BQBZGAKWSA-N				pH not specified in the publication, temperature not specified in the publication

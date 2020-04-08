@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.06	prostaglandin H2	504	YIBNHAJFJUQSRA-YNNPMVKQSA-N	25	8.0	X	mutant enzyme L79A, in 100 mM Tris-HCl (pH 8.0), 100 mM NaCl, and 1 mM dithiothreitol, at 25C
+0.37	(5Z,13E)-(15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoate	504	YIBNHAJFJUQSRA-YNNPMVKQSA-N				
+0.5	(5Z,13E)-(15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoate	504	YIBNHAJFJUQSRA-YNNPMVKQSA-N				in the presence of 1 M urea
+0.63	prostaglandin H2	504	YIBNHAJFJUQSRA-YNNPMVKQSA-N	25	8.0	X	mutant enzyme M64A, in 100 mM Tris-HCl (pH 8.0), 100 mM NaCl, and 1 mM dithiothreitol, at 25C
+0.81	prostaglandin H2	504	YIBNHAJFJUQSRA-YNNPMVKQSA-N	25	8.0	X	mutant enzyme L131A, in 100 mM Tris-HCl (pH 8.0), 100 mM NaCl, and 1 mM dithiothreitol, at 25C
+0.87	prostaglandin H2	504	YIBNHAJFJUQSRA-YNNPMVKQSA-N	25	8.0	X	mutant enzyme F83A, in 100 mM Tris-HCl (pH 8.0), 100 mM NaCl, and 1 mM dithiothreitol, at 25C
+0.95	(5Z,13E)-(15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoate	504	YIBNHAJFJUQSRA-YNNPMVKQSA-N				in the presence of 500 mM guanidinium hydrochloride
+2	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				conjugation of glutathione to 1-chloro-2,4-dinitrobenzene
+2.23	prostaglandin H2	504	YIBNHAJFJUQSRA-YNNPMVKQSA-N	25	8.0	X	mutant enzyme S45A, in 100 mM Tris-HCl (pH 8.0), 100 mM NaCl, and 1 mM dithiothreitol, at 25C
+2.24	prostaglandin H2	504	YIBNHAJFJUQSRA-YNNPMVKQSA-N	25	8.0	X	mutant enzyme M94A, in 100 mM Tris-HCl (pH 8.0), 100 mM NaCl, and 1 mM dithiothreitol, at 25C
+2.4	prostaglandin H2	504	YIBNHAJFJUQSRA-YNNPMVKQSA-N	25	8.0	X	mutant enzyme W54A, in 100 mM Tris-HCl (pH 8.0), 100 mM NaCl, and 1 mM dithiothreitol, at 25C
+2.64	prostaglandin H2	504	YIBNHAJFJUQSRA-YNNPMVKQSA-N	25	8.0		wild type enzyme, in 100 mM Tris-HCl (pH 8.0), 100 mM NaCl, and 1 mM dithiothreitol, at 25C
+2.91	prostaglandin H2	504	YIBNHAJFJUQSRA-YNNPMVKQSA-N	25	8.0	X	mutant enzyme S81A, in 100 mM Tris-HCl (pH 8.0), 100 mM NaCl, and 1 mM dithiothreitol, at 25C
+3.67	prostaglandin H2	504	YIBNHAJFJUQSRA-YNNPMVKQSA-N	25	8.0	X	mutant enzyme T147A, in 100 mM Tris-HCl (pH 8.0), 100 mM NaCl, and 1 mM dithiothreitol, at 25C
+5	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				conjugation of glutathione to 1-chloro-2,4-dinitrobenzene
+5.73	prostaglandin H2	504	YIBNHAJFJUQSRA-YNNPMVKQSA-N	25	8.0	X	mutant enzyme Y149A, in 100 mM Tris-HCl (pH 8.0), 100 mM NaCl, and 1 mM dithiothreitol, at 25C
+5.84	prostaglandin H2	504	YIBNHAJFJUQSRA-YNNPMVKQSA-N	25	8.0	X	mutant enzyme K59A, in 100 mM Tris-HCl (pH 8.0), 100 mM NaCl, and 1 mM dithiothreitol, at 25C
+15	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				
+21.7	(5Z,13E)-(15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoate	504	YIBNHAJFJUQSRA-YNNPMVKQSA-N				

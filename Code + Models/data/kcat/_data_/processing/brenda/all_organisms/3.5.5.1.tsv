@@ -1,0 +1,50 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000129	Benzonitrile	859	JFDZBHWFFUWGJE-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 50 mM potassium phosphate (pH 7.5), at 25C
+0.000162	Benzonitrile	859	JFDZBHWFFUWGJE-UHFFFAOYSA-N	25	7.5	X	mutant enzyme R129K, in 50 mM potassium phosphate (pH 7.5), at 25C
+0.00047	Benzonitrile	859	JFDZBHWFFUWGJE-UHFFFAOYSA-N	25	7.5	X	mutant enzyme R129H, in 50 mM potassium phosphate (pH 7.5), at 25C
+0.00115	Benzonitrile	859	JFDZBHWFFUWGJE-UHFFFAOYSA-N			X	mutant enzyme Y142V
+0.00131	Benzonitrile	859	JFDZBHWFFUWGJE-UHFFFAOYSA-N				wild type enzyme
+0.0021	Benzonitrile	859	JFDZBHWFFUWGJE-UHFFFAOYSA-N			X	mutant enzyme Y142F
+0.0024	Benzonitrile	859	JFDZBHWFFUWGJE-UHFFFAOYSA-N			X	mutant enzyme Y142A
+0.00358	Benzonitrile	859	JFDZBHWFFUWGJE-UHFFFAOYSA-N			X	mutant enzyme Y142S
+0.09	Benzonitrile	859	JFDZBHWFFUWGJE-UHFFFAOYSA-N	70	7.4		pH 7.4, 70C, wild-type enzyme
+14400	Benzonitrile	859	JFDZBHWFFUWGJE-UHFFFAOYSA-N				
+0.072	mandelonitrile	1262	NNICRUQPODTGRU-UHFFFAOYSA-N				soluble recombinant enzyme
+0.083	mandelonitrile	1262	NNICRUQPODTGRU-UHFFFAOYSA-N				recombinant enzyme in cross-linked enzyme aggregates
+175	mandelonitrile	1262	NNICRUQPODTGRU-UHFFFAOYSA-N	30	8.0		at 30C and pH 8.0
+0.00098	2-Cyanopyridine	1477	FFNVQNRYTPFDDP-UHFFFAOYSA-N			X	mutant enzyme Y142F
+0.00146	2-Cyanopyridine	1477	FFNVQNRYTPFDDP-UHFFFAOYSA-N				wild type enzyme
+0.00193	2-Cyanopyridine	1477	FFNVQNRYTPFDDP-UHFFFAOYSA-N			X	mutant enzyme Y142A
+0.00612	2-Cyanopyridine	1477	FFNVQNRYTPFDDP-UHFFFAOYSA-N			X	mutant enzyme Y142S
+0.00085	m-tolunitrile	2181	BOHCMQZJWOGWTA-UHFFFAOYSA-N			X	mutant enzyme Y142V
+0.00119	m-tolunitrile	2181	BOHCMQZJWOGWTA-UHFFFAOYSA-N			X	mutant enzyme Y142F
+0.00157	m-tolunitrile	2181	BOHCMQZJWOGWTA-UHFFFAOYSA-N			X	mutant enzyme Y142A
+0.00198	m-tolunitrile	2181	BOHCMQZJWOGWTA-UHFFFAOYSA-N				wild type enzyme
+0.00313	m-tolunitrile	2181	BOHCMQZJWOGWTA-UHFFFAOYSA-N			X	mutant enzyme Y142S
+0.13	indole-3-acetonitrile	2418	DMCPFOBLJMLSNX-UHFFFAOYSA-N				
+0.29	indole-3-acetonitrile	2418	DMCPFOBLJMLSNX-UHFFFAOYSA-N	35	8.0		isozyme NIT-T2, in 50 mM sodium phosphate (pH 8.0) containing 0.2% (w/v) BSA with 5 mM substrate, at 35C
+43900	4-cyanopyridine	2814	GPHQHTOMRSGBNZ-UHFFFAOYSA-N				
+0.14	Malononitrile	4874	CUONGYYJJVDODC-UHFFFAOYSA-N	70	7.4		pH 7.4, 70C, wild-type enzyme
+1.05	Malononitrile	4874	CUONGYYJJVDODC-UHFFFAOYSA-N	70	7.4	X	pH 7.4, 70C, mutant enzyme K96R
+0.000158	3-methylbenzonitrile	2181	BOHCMQZJWOGWTA-UHFFFAOYSA-N	25	7.5	X	mutant enzyme R129K, in 50 mM potassium phosphate (pH 7.5), at 25C
+0.00018	3-methylbenzonitrile	2181	BOHCMQZJWOGWTA-UHFFFAOYSA-N	25	7.5	X	mutant enzyme R129H, in 50 mM potassium phosphate (pH 7.5), at 25C
+0.000198	3-methylbenzonitrile	2181	BOHCMQZJWOGWTA-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 50 mM potassium phosphate (pH 7.5), at 25C
+1370	3-chlorobenzonitrile	5616	WBUOVKBZJOIOAE-UHFFFAOYSA-N				
+0.00014	3-aminobenzonitrile	6370	NJXPYZHXZZCTNI-UHFFFAOYSA-N	25	7.5	X	mutant enzyme R129K, in 50 mM potassium phosphate (pH 7.5), at 25C
+0.00015	3-aminobenzonitrile	6370	NJXPYZHXZZCTNI-UHFFFAOYSA-N	25	7.5	X	mutant enzyme R129H, in 50 mM potassium phosphate (pH 7.5), at 25C
+0.000288	3-aminobenzonitrile	6370	NJXPYZHXZZCTNI-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 50 mM potassium phosphate (pH 7.5), at 25C
+19.8	allyl cyanide	6553	SJNALLRHIVGIBI-UHFFFAOYSA-N	35	8.0		isozyme NIT-T2, in 50 mM sodium phosphate (pH 8.0) containing 0.2% (w/v) BSA with 5 mM substrate, at 35C
+79.7	3-Phenylpropionitrile	3944	ACRWYXSKEHUQDB-UHFFFAOYSA-N	35	8.0		isozyme NIT-T2, in 50 mM sodium phosphate (pH 8.0) containing 0.2% (w/v) BSA with 5 mM substrate, at 35C
+0.016	Cinnamonitrile	8521	ZWKNLRXFUTWSOY-UHFFFAOYSA-N	70	7.4	X	pH 7.4, 70C, mutant enzyme K96R
+0.000283	4-aminobenzonitrile	8691	YBAZINRZQSAIAY-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 50 mM potassium phosphate (pH 7.5), at 25C
+0.01	trichloroacetonitrile	118617	SFFUEHODRAXXIA-UHFFFAOYSA-N	70	7.4		pH 7.4, 70C, wild-type enzyme
+0.225	trichloroacetonitrile	118617	SFFUEHODRAXXIA-UHFFFAOYSA-N	70	7.4	X	pH 7.4, 70C, mutant enzyme K96R
+0.016	phenylglycinenitrile	13095	KAXCEFLQAYFJKV-UHFFFAOYSA-N	70	7.4	X	pH 7.4, 70C, mutant enzyme K96R
+0.04	phenylglycinenitrile	13095	KAXCEFLQAYFJKV-UHFFFAOYSA-N	70	7.4		pH 7.4, 70C, wild-type enzyme
+0.18	3-anilinoproprionitrile	118618	FENJKTQEFUPECW-UHFFFAOYSA-N	70	7.4	X	pH 7.4, 70C, mutant enzyme K96R
+0.28	3-anilinoproprionitrile	118618	FENJKTQEFUPECW-UHFFFAOYSA-N	70	7.4		pH 7.4, 70C, wild-type enzyme
+11100	4-Chlorobutyronitrile	13587	ZFCFBWSVQWGOJJ-UHFFFAOYSA-N				
+15.8	4-phenylbutyronitrile	9051	ICMVGKQFVMTRLB-UHFFFAOYSA-N	35	8.0		isozyme NIT-T2, in 50 mM sodium phosphate (pH 8.0) containing 0.2% (w/v) BSA with 5 mM substrate, at 35C
+0.000695	4-methylbenzonitrile	18196	VCZNNAKNUVJVGX-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 50 mM potassium phosphate (pH 7.5), at 25C
+1.57	Iminodiacetonitrile	20810	BSRDNMMLQYNQQD-UHFFFAOYSA-N	30	7.2		at pH 7.2 and 30C
+40.8	heptanenitrile	25457	SDAXRHHPNYTELL-UHFFFAOYSA-N	35	8.0		isozyme NIT-T2, in 50 mM sodium phosphate (pH 8.0) containing 0.2% (w/v) BSA with 5 mM substrate, at 35C

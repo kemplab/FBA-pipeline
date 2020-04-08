@@ -1,0 +1,26 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.05	5'-phosphoadenylyl-(3'-&gt;5')-adenosine	128588	GTUJJVSZIHQLHA-XPWFQUROSA-N	3	7.5		pH 7.5, 3C
+0.069	adenosine 3',5'-bisphosphate	64	WHTCPDAXWFLDIH-KQYNXXCUSA-N	30	7.5	X	mutant enzyme E301K, in 50 mM Tris-MES, pH 7.5, 0.5 mM magnesium acetate for 30 min at 30C
+0.24	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		8.5		in 50 mM Tris buffer, pH 8.5, 0.5 mM Mg2+
+0.31	D-myo-inositol monophosphate	24992	INAPMGSXUVUWAF-RFGHGYKVSA-N		8.5		in 50 mM Tris buffer, pH 8.5, 0.5 mM Mg2+
+0.7	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.0		in 10 mM HEPES pH 7.0
+1.1	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.0		in 10 mM HEPES pH 7.0
+1.45	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0		in 10 mM HEPES pH 7.0
+1.465	adenosine 3',5'-bisphosphate	64	WHTCPDAXWFLDIH-KQYNXXCUSA-N	30	7.5	X	mutant enzyme V131A, in 50 mM Tris-MES, pH 7.5, 0.5 mM magnesium acetate for 30 min at 30C
+1.921	adenosine 3',5'-bisphosphate	64	WHTCPDAXWFLDIH-KQYNXXCUSA-N	30	7.5		wild type enzyme, in 50 mM Tris-MES, pH 7.5, 0.5 mM magnesium acetate for 30 min at 30C
+2.94	adenosine 3',5'-bisphosphate	64	WHTCPDAXWFLDIH-KQYNXXCUSA-N	30	7.5		wild type enzyme, in 50 mM Tris-MES, pH 7.5, 0.5 mM magnesium acetate for 30 min at 30C
+3.3	thymidine 3',5'-bisphosphate	69162	IPCVTMHFAPIUAK-JXOAFFINSA-N	3	7.5		pH 7.5, 3C
+4.2	2'-deoxyguanosine 3',5'-bisphosphate	128585	HLOADLNVPDIIIB-KVQBGUIXSA-N	3	7.5		pH 7.5, 3C
+4.3	2'-deoxythymidine 3',5'-bisphosphate	13902	CSNCBOPUCJOHLS-XLPZGREQSA-N	3	7.5		pH 7.5, 3C
+5.2	2'-deoxyuridine 3',5'-bisphosphate	128587	FHZQKRVABILKGW-SHYZEUOFSA-N	3	7.5		pH 7.5, 3C
+5.4	adenosine 3',5'-bisphosphate	64	WHTCPDAXWFLDIH-KQYNXXCUSA-N		8.5		in 50 mM Tris buffer, pH 8.5, 0.5 mM Mg2+
+5.4	uridine 3',5'-bisphosphate	128586	ZPVPRWPOZBXDKD-XVFCMESISA-N	3	7.5		pH 7.5, 3C
+6.08	adenosine 3',5'-bisphosphate	64	WHTCPDAXWFLDIH-KQYNXXCUSA-N	30	7.5	X	mutant enzyme V131A, in 50 mM Tris-MES, pH 7.5, 0.5 mM magnesium acetate for 30 min at 30C
+7.1	2'-deoxyadenosine 3',5'-bisphosphate	63066	GOZKRKUVKAXOEP-RRKCRQDMSA-N	3	7.5		pH 7.5, 3C
+9.4	2'-deoxycytidine 3',5'-bisphosphate	128584	PIILJQRMNSOCFD-SHYZEUOFSA-N	3	7.5		pH 7.5, 3C
+11	3'-phosphoadenosine 5'-phosphate	64	WHTCPDAXWFLDIH-KQYNXXCUSA-N		8.0		pH 8.0, temperature not specified in the publication
+11.4	adenosine 3',5'-bisphosphate	64	WHTCPDAXWFLDIH-KQYNXXCUSA-N		7.0		in 10 mM HEPES pH 7.0
+11.6	N6-methyl-5'-phosphoadenylyl-(3'-&gt;5')-adenosine	128589	FVDWSBOKYRONPA-NAGRZYTCSA-N	3	7.5		pH 7.5, 3C
+12.3	guanosine 3',5'-bisphosphate	29386	XYVNHPYNSPGYLI-UUOKFMHZSA-N	3	7.5		pH 7.5, 3C
+13.2	adenosine 2',5'-bisphosphate	1457	AEOBEOJCBAYXBA-KQYNXXCUSA-N		7.0		in 10 mM HEPES pH 7.0
+22	adenosine 3',5'-bisphosphate	64	WHTCPDAXWFLDIH-KQYNXXCUSA-N	3	7.5		pH 7.5, 3C

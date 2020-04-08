@@ -1,0 +1,35 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0058	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	6.9	X	mutant with C-terminal residues FGLC deleted, pH 6.9, 30C
+0.0138	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	6.9	X	mutant containing six cysteine-to-serine mutations, with C-terminal residues FGLC deleted, pH 6.9, 30C
+0.0175	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	6.9		wild-type, pH 6.9, 30C
+0.0293	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	6.9	X	mutant containing six cysteine-to-serine mutations with the C-terminal cysteine residue deleted, pH 6.9, 30C
+40.53	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				
+100.6	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25			25C
+745	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant K8A, pH not specified in the publication, temperature not specified in the publication
+6705	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant S73A, pH not specified in the publication, temperature not specified in the publication
+15960	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant D72A, pH not specified in the publication, temperature not specified in the publication
+40850	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				pH not specified in the publication, temperature not specified in the publication
+53880	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+99830	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				pH not specified in the publication, temperature not specified in the publication
+210	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme C9S/C26S
+280	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme C23S
+420	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme C9S
+490	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				wild-type enzyme
+0.0047	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N	30	6.9	X	mutant with C-terminal residues FGLC deleted, pH 6.9, 30C
+0.008	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N	30	6.9	X	mutant containing six cysteine-to-serine mutations, with C-terminal residues FGLC deleted, pH 6.9, 30C
+0.011	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N	30	6.9		wild-type, pH 6.9, 30C
+0.0135	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N	30	6.9	X	mutant containing six cysteine-to-serine mutations with the C-terminal cysteine residue deleted, pH 6.9, 30C
+5.27	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N				
+10.15	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N				
+21.51	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N				
+210	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N				
+280	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N			X	mutant enzyme C23S
+368.2	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N	25			25C
+420	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N			X	mutant enzyme C9S
+490	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N				wild-type enzyme
+570	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N			X	mutant K8A, pH not specified in the publication, temperature not specified in the publication
+3988	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N			X	mutant S73A, pH not specified in the publication, temperature not specified in the publication
+5737	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N			X	mutant D72A, pH not specified in the publication, temperature not specified in the publication
+13130	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N				pH not specified in the publication, temperature not specified in the publication
+17730	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+21150	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N				pH not specified in the publication, temperature not specified in the publication

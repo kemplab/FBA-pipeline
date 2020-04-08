@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+9.7	oxalate	166	MUBZPKHOEPUJKR-UHFFFAOYSA-N	25			oxalate oxidase activity is measured by oxygen uptake assay with a Clark oxygen electrode in a thermostated cell (25C)
+20	oxalate	166	MUBZPKHOEPUJKR-UHFFFAOYSA-N	25	4.0		succinate buffer, at pH 4.0 and 25C
+85	oxalate	166	MUBZPKHOEPUJKR-UHFFFAOYSA-N	80	3.8		at pH 3.8 and 80C

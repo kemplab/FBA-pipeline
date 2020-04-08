@@ -1,0 +1,19 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.11	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, recombinant wild-type enzyme
+0.53	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	8.5	X	pH 8.5, 30C, recombinant mutantT171P
+0.7	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	8.5	X	pH 8.5, 30C, recombinant mutant T171S/R181F
+0.88	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	8.5	X	pH 8.5, 30C, recombinant mutant T171S
+1.07	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	8.5	X	pH 8.5, 30C, recombinant mutant R181F
+2.09	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	8.5	X	pH 8.5, 30C, recombinant mutant T171S/R181F/H227V
+2.37	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	8.5	X	pH 8.5, 30C, recombinant mutant T171S/H227V
+2.48	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	8.5	X	pH 8.5, 30C, recombinant mutant H227C
+3.43	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	8.5	X	pH 8.5, 30C, recombinant mutant R181F/H227V
+3.98	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	8.5	X	pH 8.5, 30C, recombinant mutant H227V
+664	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	8.5	X	pH 8.5, 30C, recombinant mutant F146W/M152Q
+1010	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	8.5	X	pH 8.5, 30C, recombinant mutant M152Q
+6780	meso-2,6-diaminoheptanedioate	1057	GMKMEZVLHJARHF-SYDPRGILSA-N	30	8.5	X	pH 8.5, 30C, recombinant mutant F146W/M152Q
+7850	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, recombinant wild-type enzyme
+10100	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	8.5	X	pH 8.5, 30C, recombinant mutant F1446W
+15100	meso-2,6-diaminoheptanedioate	1057	GMKMEZVLHJARHF-SYDPRGILSA-N	30	8.5	X	pH 8.5, 30C, recombinant mutant F1446W
+35700	meso-2,6-diaminoheptanedioate	1057	GMKMEZVLHJARHF-SYDPRGILSA-N	30	8.5	X	pH 8.5, 30C, recombinant mutant M152Q
+127000	meso-2,6-diaminoheptanedioate	1057	GMKMEZVLHJARHF-SYDPRGILSA-N	30	8.5		pH 8.5, 30C, recombinant wild-type enzyme

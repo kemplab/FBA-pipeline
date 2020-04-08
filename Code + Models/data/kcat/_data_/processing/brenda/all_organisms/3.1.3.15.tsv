@@ -1,0 +1,28 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.031	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N	22	9.0	X	mutant enzyme D228N, at pH 9.0 and 22C
+0.62	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N	22	9.0	X	mutant enzyme H42N, at pH 9.0 and 22C
+0.74	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N	22	9.0	X	mutant enzyme R160M, at pH 9.0 and 22C
+0.93	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N				
+11	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	80	6.5		in the presence of 1 mM Co2+, at 80C and pH 6.5
+14	L-phosphoserine	899	BZQFBWGGLXLEPQ-REOHCLBHSA-N	80	6.5		in the presence of 1 mM Co2+, at 80C and pH 6.5
+20	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N	25	7.5		in 25 mM Tris-HCl (pH 7.5), 70 nM enzyme, 0.025 mM Mg2+, and 0.2 mM histidinol phosphate, at 25C, in the presence of 0.05 mM Co2+
+29	AMP	9	UDMBCSSLTHHNCD-KQYNXXCUSA-N	80	6.5		in the presence of 1 mM Co2+, at 80C and pH 6.5
+31	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N	22	9.0	X	mutant enzyme E115Q, at pH 9.0 and 22C
+38	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N	22	9.0	X	mutant enzyme R197M, at pH 9.0 and 22C
+48	carbon disulfide	7031	QGJOPFRUJISHPQ-UHFFFAOYSA-N	50	7.5		pH 7.5, 50C, catenane form enzyme
+48	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N	22	9.0	X	mutant enzyme Y161A, at pH 9.0 and 22C
+53	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N	22	9.0	X	mutant enzyme Y117A, at pH 9.0 and 22C
+61	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N	22	9.0	X	mutant enzyme HY157F, at pH 9.0 and 22C
+72	carbon disulfide	7031	QGJOPFRUJISHPQ-UHFFFAOYSA-N	50	7.5		pH 7.5, 50C, ring form enzyme
+110	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N	22	9.0	X	mutant enzyme Y117F, at pH 9.0 and 22C
+174	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N	22	9.0		wild type enzyme, at pH 9.0 and 22C
+180	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N	22	9.0	X	mutant enzyme Y161F, at pH 9.0 and 22C
+260	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N	80	6.5		in the presence of 1 mM Co2+, at 80C and pH 6.5
+290	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N	80	6.5		in the presence of 1 mM Ni2+, at 80C and pH 6.5
+320	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N	80	6.5		in the presence of 1 mM Mn2+, at 80C and pH 6.5
+420	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N	80	6.5		in the presence of 1 mM Mg2+, at 80C and pH 6.5
+952	carbon disulfide	7031	QGJOPFRUJISHPQ-UHFFFAOYSA-N				pH and temperature not specified in the publication
+960	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N	25	7.5		in 25 mM Tris-HCl (pH 7.5), 70 nM enzyme, 0.025 mM Mg2+, and 0.2 mM histidinol phosphate, at 25C, in the presence of 0.05 mM Mn2+
+1410	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N	25	7.5		in 25 mM Tris-HCl (pH 7.5), 70 nM enzyme, 0.025 mM Mg2+, and 0.2 mM histidinol phosphate, at 25C, in the presence of 0.05 mM Zn2+
+1800	carbonyl sulfide	8597	JJWKPURADFRFRB-UHFFFAOYSA-N				pH and temperature not specified in the publication
+2140	L-Histidinol phosphate	1003	CWNDERHTHMWBSI-YFKPBYRVSA-N	25	7.5		in 25 mM Tris-HCl (pH 7.5), 70 nM enzyme, 0.025 mM Mg2+, and 0.2 mM histidinol phosphate, at 25C, in the presence of 0.05 mM Mg2+

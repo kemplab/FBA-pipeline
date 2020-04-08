@@ -1,0 +1,125 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0025	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N				
+0.005	chitin	1493	KVORTEAOLIACLS-FXUHFHQRSA-N				
+0.4	chitin	1493	KVORTEAOLIACLS-FXUHFHQRSA-N	37	5.5	X	pH 5.5, 37C, colloidal chitin, mutant enzym W70A
+0.6	chitin	1493	KVORTEAOLIACLS-FXUHFHQRSA-N	37	5.5	X	pH 5.5, 37C, colloidal chitin, mutant enzym W231A
+0.9	chitin	1493	KVORTEAOLIACLS-FXUHFHQRSA-N	37	5.5	X	pH 5.5, 37C, colloidal chitin, mutant enzym S33A; pH 5.5, 37C, colloidal chitin, mutant enzym W231F
+1.2	chitin	1493	KVORTEAOLIACLS-FXUHFHQRSA-N	37	5.5		pH 5.5, 37C, colloidal chitin, wild-type enzyme
+1.4	chitin	1493	KVORTEAOLIACLS-FXUHFHQRSA-N	37	5.5	X	pH 5.5, 37C, colloidal chitin, mutant enzym S33W
+1.7	chitin	1493	KVORTEAOLIACLS-FXUHFHQRSA-N	37	5.5	X	pH 5.5, 37C, colloidal chitin, mutant enzym Y245W
+83.46	chitin	1493	KVORTEAOLIACLS-FXUHFHQRSA-N	50	5.0		pH 5.0, 50C
+0.5	chitohexaose	1565	TVFFFBGOCAKQBH-GXRNKMMISA-N	30			30C
+0.68	chitohexaose	1565	TVFFFBGOCAKQBH-GXRNKMMISA-N	37	3.9		pH 3.9, 37C
+2.4	chitohexaose	1565	TVFFFBGOCAKQBH-GXRNKMMISA-N	37	5.5	X	pH 5.5, 37C, mutant enzyme W231F
+2.5	chitohexaose	1565	TVFFFBGOCAKQBH-GXRNKMMISA-N	37	5.5	X	pH 5.5, 37C, mutant enzyme W70A
+2.6	chitohexaose	1565	TVFFFBGOCAKQBH-GXRNKMMISA-N	37	5.5	X	pH 5.5, 37C, mutant enzyme S33A; pH 5.5, 37C, mutant enzyme W231A; pH 5.5, 37C, mutant enzyme Y245W
+2.8	chitohexaose	1565	TVFFFBGOCAKQBH-GXRNKMMISA-N	37	5.5	X	pH 5.5, 37C, mutant enzyme S33W
+2.9	chitohexaose	1565	TVFFFBGOCAKQBH-GXRNKMMISA-N	37	5.5		pH 5.5, 37C, wild-type enzyme
+0.12	chitopentaose	1811	SNRMXXMATSAYCF-UNGVDACOSA-N	30	4.2		30C, pH 4.2, Y183F
+0.28	chitopentaose	1811	SNRMXXMATSAYCF-UNGVDACOSA-N	30	4.2		30C, pH 4.2, D125N
+0.61	chitopentaose	1811	SNRMXXMATSAYCF-UNGVDACOSA-N	30	4.2		30C, pH 4.2, recombinant wild-type
+0.77	chitopentaose	1811	SNRMXXMATSAYCF-UNGVDACOSA-N	30	4.2		30C, pH 4.2, purified wild-type
+0.003	cellulose	1975	IXRUSCNYPXHSAV-UKFBFLRUSA-N				
+0.52	4-methylumbelliferyl-N,N'-diacetylchitobiose	2662	NWKAKGPADOAYNN-XSCCHYTGSA-N	37	7		pH 7, 37C, VpChiA
+0.833	4-methylumbelliferyl-N,N'-diacetylchitobiose	2662	NWKAKGPADOAYNN-XSCCHYTGSA-N	37	7	X	pH 7, 37C, mutant enzyme VpChiAG589
+7	4-methylumbelliferyl-N,N'-diacetylchitobiose	2662	NWKAKGPADOAYNN-XSCCHYTGSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme S497E
+9	4-methylumbelliferyl-N,N'-diacetylchitobiose	2662	NWKAKGPADOAYNN-XSCCHYTGSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme I270V; pH 7.0, 37C, mutant enzyme V493M
+13	4-methylumbelliferyl-N,N'-diacetylchitobiose	2662	NWKAKGPADOAYNN-XSCCHYTGSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme I270L
+13.94	4-methylumbelliferyl-N,N'-diacetylchitobiose	2662	NWKAKGPADOAYNN-XSCCHYTGSA-N	37	7		pH 7, 37C, VpChiA
+16.16	4-methylumbelliferyl-N,N'-diacetylchitobiose	2662	NWKAKGPADOAYNN-XSCCHYTGSA-N	37	7	X	pH 7, 37C, mutant enzyme VpChiAG589
+18	4-methylumbelliferyl-N,N'-diacetylchitobiose	2662	NWKAKGPADOAYNN-XSCCHYTGSA-N	37	7.0		pH 7.0, 37C, wild-type enzyme
+20	4-methylumbelliferyl-N,N'-diacetylchitobiose	2662	NWKAKGPADOAYNN-XSCCHYTGSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme N401V
+24	4-methylumbelliferyl-N,N'-diacetylchitobiose	2662	NWKAKGPADOAYNN-XSCCHYTGSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme T218S
+0.089	4-methylumbelliferyl beta-N,N',N''-triacetylchitotrioside	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N	60	4		60C, pH 4
+0.14	4-methylumbelliferyl beta-N,N',N''-triacetylchitotrioside	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N	37	6		37C, pH 6, Chi386(MCBD)
+0.17	4-methylumbelliferyl beta-N,N',N''-triacetylchitotrioside	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N	37	6		37C, pH 6, Chi386(MCBD)2
+0.22	4-methylumbelliferyl beta-N,N',N''-triacetylchitotrioside	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N	37	6		37C, pH 6, Chi386(RCBD)
+0.27	4-methylumbelliferyl beta-N,N',N''-triacetylchitotrioside	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N	37	6		37C, pH 6, Chi396
+0.31	4-methylumbelliferyl beta-N,N',N''-triacetylchitotrioside	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N	37	6		37C, pH 6, Chi477
+0.37	4-methylumbelliferyl beta-N,N',N''-triacetylchitotrioside	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N	37	6		37C, pH 6, Chi386
+0.76	4-methylumbelliferyl beta-N,N',N''-triacetylchitotrioside	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N	37	6		37C, pH 6, wild-type
+0.11	p-nitrophenyl-N,N'-diacetylchitobiose	3270	HWBFEVWOQMUQIE-MVEDJEFUSA-N	30	5.0	X	pH 5.0, 30C, mutant enzyme W168G
+0.12	p-nitrophenyl-N,N'-diacetylchitobiose	3270	HWBFEVWOQMUQIE-MVEDJEFUSA-N	30	5.0	X	pH 5.0, 30C, mutant enzyme W275G
+0.21	p-nitrophenyl-N,N'-diacetylchitobiose	3270	HWBFEVWOQMUQIE-MVEDJEFUSA-N	30	5.0	X	pH 5.0, 30C, mutant enzyme Y171G
+0.31	p-nitrophenyl-N,N'-diacetylchitobiose	3270	HWBFEVWOQMUQIE-MVEDJEFUSA-N	30	5.0	X	pH 5.0, 30C, mutant enzyme D392N
+2.15	p-nitrophenyl-N,N'-diacetylchitobiose	3270	HWBFEVWOQMUQIE-MVEDJEFUSA-N	30	5.0		pH 5.0, 30C, wild-type enzyme
+2.59	p-nitrophenyl-N,N'-diacetylchitobiose	3270	HWBFEVWOQMUQIE-MVEDJEFUSA-N	30	5.0	X	pH 5.0, 30C, mutant enzyme W397F
+0.14	4-nitrophenyl-chitobiose	3498	HJGFAPPMSCVJGP-MWKRTYNOSA-N	37	3.0		wild-type, strain DSM8785, pH 3.0, 37C
+0.17	4-nitrophenyl-chitobiose	3498	HJGFAPPMSCVJGP-MWKRTYNOSA-N	37	3.0		wild-type, strain DSM13, pH 3.0, 37C
+0.23	4-nitrophenyl-chitobiose	3498	HJGFAPPMSCVJGP-MWKRTYNOSA-N	37	3.0	X	mutant N29S/A234V/Q387R/V465A/D480N, pH 3.0, 37C
+0.31	4-nitrophenyl-chitobiose	3498	HJGFAPPMSCVJGP-MWKRTYNOSA-N	37	6.0		pH 6.0, 37C
+0.31	4-nitrophenyl-chitobiose	3498	HJGFAPPMSCVJGP-MWKRTYNOSA-N	37	6.0		wild-type, strain DSM8785, pH 6.0, 37C
+0.43	4-nitrophenyl-chitobiose	3498	HJGFAPPMSCVJGP-MWKRTYNOSA-N	37	6.0		wild-type, strain DSM13, pH 6.0, 37C
+0.65	4-nitrophenyl-chitobiose	3498	HJGFAPPMSCVJGP-MWKRTYNOSA-N	37	6.0	X	mutant N29S/A234V/Q387R/V465A/D480N, pH 6.0, 37C
+0.022	4-nitrophenyl chitobioside	3498	HJGFAPPMSCVJGP-MWKRTYNOSA-N	50	4.8	X	pH 4.8, 50C, mutant enzyme D524A; pH 4.8, 50C, mutant enzyme W664A
+0.045	4-nitrophenyl chitobioside	3498	HJGFAPPMSCVJGP-MWKRTYNOSA-N	50	4.8	X	pH 4.8, 50C, mutant enzyme E526Q
+1.49	4-nitrophenyl chitobioside	3498	HJGFAPPMSCVJGP-MWKRTYNOSA-N	50	4.8	X	pH 4.8, 50C, mutant enzyme D522A
+2.36	4-nitrophenyl chitobioside	3498	HJGFAPPMSCVJGP-MWKRTYNOSA-N	50	4.8	X	pH 4.8, 50C, mutant enzyme D522N
+2.47	4-nitrophenyl chitobioside	3498	HJGFAPPMSCVJGP-MWKRTYNOSA-N	50	4.8	X	pH 4.8, 50C, mutant enzyme D524N
+6.7	4-nitrophenyl chitobioside	3498	HJGFAPPMSCVJGP-MWKRTYNOSA-N	50	4.8		pH 4.8, 50C, wild-type enzyme
+0.8	4-methylumbelliferyl-N,N',N''-triacetylchitotriose	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N			X	mutant enzyme F210W/A283S
+1.3	4-methylumbelliferyl-N,N',N''-triacetylchitotriose	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N				wild-type enzyme
+2.3	4-methylumbelliferyl-N,N',N''-triacetylchitotriose	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N			X	mutant enzyme A283S
+21	4-methylumbelliferyl-N,N',N''-triacetylchitotriose	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N	37	7		pH 7, 37C, VpChiA
+68.87	4-methylumbelliferyl-N,N',N''-triacetylchitotriose	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N	37	7	X	pH 7, 37C, mutant enzyme VpChiAG589
+110.6	4-methylumbelliferyl-N,N',N''-triacetylchitotriose	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N	37	7		pH 7, 37C, VpChiA
+0.79	4-nitrophenyl-beta-1,4-N,N'-diacetyl-chitobiose	3270	HWBFEVWOQMUQIE-MVEDJEFUSA-N	0	5.0		pH 5.0, 0C, purified recombinant enzyme
+4.33	4-nitrophenyl-beta-1,4-N,N'-diacetyl-chitobiose	3270	HWBFEVWOQMUQIE-MVEDJEFUSA-N	5	5.0		pH 5.0, 5C, purified recombinant enzyme
+5.46	4-nitrophenyl-beta-1,4-N,N'-diacetyl-chitobiose	3270	HWBFEVWOQMUQIE-MVEDJEFUSA-N	10	5.0		pH 5.0, 10C, purified recombinant enzyme
+7.33	4-nitrophenyl-beta-1,4-N,N'-diacetyl-chitobiose	3270	HWBFEVWOQMUQIE-MVEDJEFUSA-N	15	5.0		pH 5.0, 15C, purified recombinant enzyme
+11.88	4-nitrophenyl-beta-1,4-N,N'-diacetyl-chitobiose	3270	HWBFEVWOQMUQIE-MVEDJEFUSA-N	20	5.0		pH 5.0, 20C, purified recombinant enzyme
+19.54	4-nitrophenyl-beta-1,4-N,N'-diacetyl-chitobiose	3270	HWBFEVWOQMUQIE-MVEDJEFUSA-N	28	5.0		pH 5.0, 28C, purified recombinant enzyme
+0.05	4-methylumbelliferyl-(4-deoxy)chitobiose	4001	GLFUTORXYSMPOK-WOIRZSRHSA-N	37	7.0		wild-type, pH 7.0, 37C
+0.34	4-methylumbelliferyl-(4-deoxy)chitobiose	4001	GLFUTORXYSMPOK-WOIRZSRHSA-N	37	2.2		wild-type, pH 2.2, 37C
+0.56	4-methylumbelliferyl-(4-deoxy)chitobiose	4001	GLFUTORXYSMPOK-WOIRZSRHSA-N	37	7.0	X	mutant N45D/D47N/R61M, pH 7.0, 37C
+0.713	4-methylumbelliferyl-(4-deoxy)chitobiose	4001	GLFUTORXYSMPOK-WOIRZSRHSA-N	37	4.6		wild-type, pH 4.6, 37C
+1.43	4-methylumbelliferyl-(4-deoxy)chitobiose	4001	GLFUTORXYSMPOK-WOIRZSRHSA-N	37	2.2	X	mutant N45D/D47N/R61M, pH 2.2, 37C
+1.83	4-methylumbelliferyl-(4-deoxy)chitobiose	4001	GLFUTORXYSMPOK-WOIRZSRHSA-N	37	4.6	X	mutant N45D/D47N/R61M, pH 4.6, 37C
+0.06	GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAc	4278	GVTXKCFKWGVHBK-SDEUBOORSA-N	37		X	mutant W275G, 37C
+0.19	GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAc	4278	GVTXKCFKWGVHBK-SDEUBOORSA-N	37			wild-type, 37C
+3	GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAc	4278	GVTXKCFKWGVHBK-SDEUBOORSA-N	37		X	mutant W397F, 37C
+2	4-methylumbelliferyl-beta-D-N,N',N''-triacetylchitotrioside	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N		6.5		pH 6.5, isozyme ChiC
+56.8	4-methylumbelliferyl-beta-D-N,N',N''-triacetylchitotrioside	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N		6.5		pH 6.5, isozyme ChiB
+67.4	4-methylumbelliferyl-beta-D-N,N',N''-triacetylchitotrioside	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N		6.5		pH 6.5, isozyme ChiA
+0.04	GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAc	5923	BZBKTWJIYTYFBH-YSJWDAEMSA-N	37		X	mutant W275G, 37C
+0.21	GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAc	5923	BZBKTWJIYTYFBH-YSJWDAEMSA-N	37			wild-type, 37C
+2.1	GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAc	5923	BZBKTWJIYTYFBH-YSJWDAEMSA-N	37		X	mutant W397F, 37C
+0.005	4-methylumbelliferyl-tri-N-acetylchitotriose	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N	37	6		37C, pH 6, W433A
+0.14	4-methylumbelliferyl-tri-N-acetylchitotriose	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N	37	6		37C, pH 6, Y279F
+22.4	4-methylumbelliferyl-tri-N-acetylchitotriose	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N	37	6		37C, pH 6, wild-type
+1.06	glycolchitin	8717	XTRKEOBQIPOBPD-LOARJJSGSA-N				isoenzyme HoChiB
+1.85	glycolchitin	8717	XTRKEOBQIPOBPD-LOARJJSGSA-N				isoenzyme HoChiC
+2.21	glycolchitin	8717	XTRKEOBQIPOBPD-LOARJJSGSA-N				isoenzyme HoChiC
+3.15	glycolchitin	8717	XTRKEOBQIPOBPD-LOARJJSGSA-N				isoenzyme HoChiA
+0.267	4-nitrophenyl 2-(acetylamino)-4-O-[2-(acetylamino)-2-deoxy-beta-D-glucopyranosyl]-2-deoxy-beta-D-glucopyranoside	3270	HWBFEVWOQMUQIE-MVEDJEFUSA-N		6.5		pH 6.5, wild-type enzyme from Trichoderma harzianum
+0.35	4-nitrophenyl 2-(acetylamino)-4-O-[2-(acetylamino)-2-deoxy-beta-D-glucopyranosyl]-2-deoxy-beta-D-glucopyranoside	3270	HWBFEVWOQMUQIE-MVEDJEFUSA-N		6.5		pH 6.5, wilde-type recombinant enzyme expressed in Escherichia coli
+0.0047	4-methylumbelliferyl-GlcNAcbeta(1-&gt;4)GlcNAc	9637	UPSFMJHZUCSEHU-MAEPHREKSA-N	50	6.0	X	pH 6.0, 50C, recombinant His-tagged truncation mutant enzyme
+0.006	4-methylumbelliferyl-GlcNAcbeta(1-&gt;4)GlcNAc	9637	UPSFMJHZUCSEHU-MAEPHREKSA-N	50	6.0		pH 6.0, 50C, recombinant His-tagged wild-type enzyme
+0.0007	4-methylumbelliferyl GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAc	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N	50	6.0		pH 6.0, 50C, recombinant His-tagged wild-type enzyme
+0.0012	4-methylumbelliferyl GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAc	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N	50	6.0	X	pH 6.0, 50C, recombinant His-tagged truncation mutant enzyme
+350	methylumbelliferyl-beta-N',N'-diacetyl-chitobioside	12238	UPSFMJHZUCSEHU-JYGUBCOQSA-N	30	5.0		pH 5.0, 30C
+1500	methylumbelliferyl-beta-N',N',N'-triacetyl-chitotrioside	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N	30	5.0		pH 5.0, 30C
+3	4-methylumbelliferyl chitobioside	12859	UFZRKZYVDOEGCX-BIAPIHPRSA-N	25	5.0		pH 5.0, 25C
+31.8	4-methylumbelliferyl chitobioside	12859	UFZRKZYVDOEGCX-BIAPIHPRSA-N	25	5.0		pH 5.0, 25C
+0.383	p-nitrophenol-beta-D-N,N'-diacetylchitobioside	3270	HWBFEVWOQMUQIE-MVEDJEFUSA-N	70	7		70C, pH 7
+9.55	carboxymethyl chitin	15143	AXEVUCPQJBEYRG-JKSVLRQZSA-N	37	6		37C, pH 6, wild-type
+24.1	carboxymethyl chitin	15143	AXEVUCPQJBEYRG-JKSVLRQZSA-N	37	6		37C, pH 6, W164A
+25.2	carboxymethyl chitin	15143	AXEVUCPQJBEYRG-JKSVLRQZSA-N	37	6		37C, pH 6, W285A
+0.9	4-methyl-2-oxo-2H-chromen-7-yl 2-(acetylamino)-4-O-[2-(acetylamino)-2-deoxy-beta-D-glucopyranosyl]-2-deoxy-beta-D-glucopyranoside	12238	UPSFMJHZUCSEHU-JYGUBCOQSA-N	37			37C, C-terminal truncated enzyme ChiCWDELTAFC
+300	methylumbelliferyl-beta-N'-acetylglucosamine	3718	QCTHLCFVVACBSA-JVNHZCFISA-N	30	5.0		pH 5.0, 30C
+0.095	p-nitrophenol-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N				
+0.07	p-nitrophenol-beta-D-maltoside	23713	IAYJZWFYUSNIPN-YMJSIHPXSA-N				
+0.04	p-nitrophenol-beta-D-cellobioside	36771	IAYJZWFYUSNIPN-NLSBPSIXSA-N				
+0.032	p-nitrophenol-beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N				
+0.025	p-nitrophenol-beta-D-lactopyranoside	21969	IAYJZWFYUSNIPN-MUKCROHVSA-N				
+0.017	p-nitrophenol-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N				
+366.7	CM-chitin-RBV	49795	HYPKPZVNAFQBCY-QJYJXYEXSA-N	37	5.0		pH 5.0, 37C
+6.93	4-methylumbelliferyl chitotriose	2915	BNYGKUQXGBVTRE-JFWBNMEYSA-N	37	5.0		pH 5.0, 37C
+2.87	4-methylumbelliferyl chitobiose	12238	UPSFMJHZUCSEHU-JYGUBCOQSA-N	37	5.0		pH 5.0, 37C
+1.7	beta-chitin	1493	KVORTEAOLIACLS-FXUHFHQRSA-N	37	8.0		pH 8.0, 37C; pH 8.0, 37C
+2.2	beta-chitin	1493	KVORTEAOLIACLS-FXUHFHQRSA-N	37	6.1		pH 6.1, 37C
+9.2	beta-chitin	1493	KVORTEAOLIACLS-FXUHFHQRSA-N	37	6.1		presence of lytic polysaccharide monooxygenase Cbp21, pH 6.1, 37C
+11.1	beta-chitin	1493	KVORTEAOLIACLS-FXUHFHQRSA-N	37	8.0		presence of lytic polysaccharide monooxygenase Cbp21, pH 8.0, 37C
+13.9	beta-chitin	1493	KVORTEAOLIACLS-FXUHFHQRSA-N	37	8.0		presence of lytic polysaccharide monooxygenase Cbp21, pH 8.0, 37C
+9.6	4-nitrophenyl N,N'-diacetyl-beta-D-chitobioside	3270	HWBFEVWOQMUQIE-MVEDJEFUSA-N	60	7.0		pH 7.0, 60C
+0.99	4-nitrophenyl N,N'-diacetylchitobiose	3270	HWBFEVWOQMUQIE-MVEDJEFUSA-N	37	5.5		recombinant enzyme, pH 5.5, 37C

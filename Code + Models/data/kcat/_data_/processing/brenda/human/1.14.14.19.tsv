@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00283	17alpha-hydroxypregnenolone	2021	JERGUCIJOXJXHF-TVWVXWENSA-N				
+0.0065	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N	37	7.4	X	mutant enzyme A105L, at pH 7.4 and 37C; wild type enzyme, at pH 7.4 and 37C
+0.017	progesterone	249	RJKFOVLPORLFTN-LEKSSAKUSA-N	37	7.4		wild type enzyme, at pH 7.4 and 37C
+0.019	progesterone	249	RJKFOVLPORLFTN-LEKSSAKUSA-N	37	7.4	X	mutant enzyme A105L, at pH 7.4 and 37C
+0.0483	progesterone	249	RJKFOVLPORLFTN-LEKSSAKUSA-N				

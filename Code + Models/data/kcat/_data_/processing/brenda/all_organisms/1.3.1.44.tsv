@@ -1,0 +1,34 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.73	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N			X	mutant Y240F, pH not specified in the publication, temperature not specified in the publication; pH and temperature not specified in the publication, mutant Y240F
+2.3	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	6.2	X	mutant enzyme Y225A, at pH 6.2 and 25C; pH 6.2, 25C, mutant Y225A
+6	2-dodecenoyl-CoA	3184	IRFYVBULXZMEDE-GMHMEAMDSA-N			X	pH and temperature not specified in the publication, mutant I287A
+6	trans-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N			X	mutant I287A, pH not specified in the publication, temperature not specified in the publication
+7.1	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N			X	mutant I287A, pH not specified in the publication, temperature not specified in the publication; pH and temperature not specified in the publication, mutant I287A
+15.3	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N			X	pH and temperature not specified in the publication, mutant I287A
+15.3	trans-2-hexenoyl-CoA	1142	OINXHIBNZUUIMR-IXUYQXAASA-N			X	mutant I287A, pH not specified in the publication, temperature not specified in the publication
+15.6	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N			X	mutant L276A/V277A, pH not specified in the publication, temperature not specified in the publication; pH and temperature not specified in the publication, mutant L276A/V277A
+16.5	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	6.2	X	mutant enzyme F11K, at pH 6.2 and 25C; pH 6.2, 25C, mutant F11K
+18.9	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N			X	mutant L276A/V277A/F295A, pH not specified in the publication, temperature not specified in the publication; pH and temperature not specified in the publication, mutant L276A/V277A/F295A
+19	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N			X	pH and temperature not specified in the publication, mutant L276A/V277A
+19	trans-2-hexenoyl-CoA	1142	OINXHIBNZUUIMR-IXUYQXAASA-N			X	mutant L276A/V277A, pH not specified in the publication, temperature not specified in the publication
+22.4	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N			X	pH and temperature not specified in the publication, mutant L276A/V277A/F295A
+22.4	trans-2-hexenoyl-CoA	1142	OINXHIBNZUUIMR-IXUYQXAASA-N			X	mutant L276A/V277A/F295A, pH not specified in the publication, temperature not specified in the publication
+23.6	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	6.2	X	mutant enzyme K245A, at pH 6.2 and 25C; pH 6.2, 25C, mutant K245A
+24	2-dodecenoyl-CoA	3184	IRFYVBULXZMEDE-GMHMEAMDSA-N			X	pH and temperature not specified in the publication, mutant L276A/V277A/F295A
+24	trans-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N			X	mutant L276A/V277A/F295A, pH not specified in the publication, temperature not specified in the publication
+28.2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	6.2		pH 6.2, 25C, wild-type; wild type enzyme, at pH 6.2 and 25C
+37	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N			X	mutant L291A, pH not specified in the publication, temperature not specified in the publication; pH and temperature not specified in the publication, mutant L291A
+48	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N			X	pH and temperature not specified in the publication, mutant Y370A
+48	trans-2-hexenoyl-CoA	1142	OINXHIBNZUUIMR-IXUYQXAASA-N			X	mutant Y370A, pH not specified in the publication, temperature not specified in the publication
+50	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N			X	pH and temperature not specified in the publication, mutant L291A
+50	trans-2-hexenoyl-CoA	1142	OINXHIBNZUUIMR-IXUYQXAASA-N			X	mutant L291A, pH not specified in the publication, temperature not specified in the publication
+64	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N			X	pH and temperature not specified in the publication, mutant F295A
+64	trans-2-hexenoyl-CoA	1142	OINXHIBNZUUIMR-IXUYQXAASA-N			X	mutant F295A, pH not specified in the publication, temperature not specified in the publication
+73	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N			X	mutant F295A, pH not specified in the publication, temperature not specified in the publication; pH and temperature not specified in the publication, mutant F295A
+90	2-dodecenoyl-CoA	3184	IRFYVBULXZMEDE-GMHMEAMDSA-N				pH and temperature not specified in the publication, wild-type
+90	trans-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+91	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N				pH and temperature not specified in the publication, wild-type; wild-type, pH not specified in the publication, temperature not specified in the publication
+92	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N			X	mutant Y370A, pH not specified in the publication, temperature not specified in the publication; pH and temperature not specified in the publication, mutant Y370A
+112	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N				pH and temperature not specified in the publication, wild-type
+112	trans-2-hexenoyl-CoA	1142	OINXHIBNZUUIMR-IXUYQXAASA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+385.9	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	6.2		pH 6.2, 25C, wild-type; wild type enzyme, at pH 6.2 and 25C

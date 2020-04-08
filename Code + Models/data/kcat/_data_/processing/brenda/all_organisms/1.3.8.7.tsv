@@ -1,0 +1,80 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00233	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N				hydratase activity, value depending on pH
+0.0024	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N	25	7.6	X	pH 7.6, 25C, mutant enzyme E376Q
+0.016	indolepropionyl-CoA	6418	MHBDABBYVQLMMD-HSJNEKGZSA-N				oxidase reaction
+0.038	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N		7.6	X	mutant enzyme Y375K, in 50 mM potassium phosphate buffer, pH 7.6
+0.047	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N	25			25C, with ferricenium as acceptor, pig enzyme reconstituted with 2'-deoxy-FAD
+0.071	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N			X	mutant enzyme R256K
+0.1	meldola's blue	2416	GGPKBEOZAQTFFZ-UHFFFAOYSA-M				medium chain acyl-CoA dehydrogenase from kidney, terminal acceptor iodonitrotetrazolium
+0.167	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N			X	T255E/E376G double mutant enzyme
+0.22	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N		7.6	X	mutant enzyme Y375A, in 50 mM potassium phosphate buffer, pH 7.6
+0.233	decanoyl-CoA	448	CNKJPHSEFDPYDB-HSJNEKGZSA-N			X	T255E/E376T double mutant enzyme
+0.235	octanoyl-pantetheine	13475	RPXRBSYZSSRZIE-UHFFFAOYSA-N				general acyl-CoA dehydrogenase
+0.333	decanoyl-CoA	448	CNKJPHSEFDPYDB-HSJNEKGZSA-N			X	T255E/E376G double mutant enzyme
+0.37	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N		7.6	X	mutant enzyme Y375F, in 50 mM potassium phosphate buffer, pH 7.6
+0.46	indolepropionyl-CoA	6418	MHBDABBYVQLMMD-HSJNEKGZSA-N				
+0.61	[4-(dimethylamino)phenyl]propionyl-CoA	11071	SUBFVOZSWIIDSI-USGHCGBKSA-N				
+0.617	hexadecanoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N			X	T255E/E376G double mutant enzyme
+0.667	Octadecanoyl-CoA	438	SIARJEKBADXQJG-LFZQUHGESA-N			X	K304E mutant enzyme, ferricenium assay
+0.75	phenazine ethosulfate	2135	VDJKJPMLWJWQIH-UHFFFAOYSA-M				medium chain acyl-CoA dehydrogenase from kidney, terminal acceptor 2,6-dichlorphenol-indophenol
+1.17	electron transferring flavoprotein	170	VOCHQRDHMUQBKK-UHFFFAOYSA-N				
+2.33	electron transferring flavoprotein	170	VOCHQRDHMUQBKK-UHFFFAOYSA-N				medium chain acyl-CoA dehydrogenase from kidney, terminal acceptor 2,6-dichlorphenol-indophenol
+2.33	hexadecanoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N				
+2.67	tetradecanoyl-CoA	382	DUAFKXOFBZQTQE-QSGBVPJFSA-N			X	T255E/E376G double mutant enzyme
+2.83	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N			X	T255E mutant enzyme
+2.92	hexadecanoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N			X	K304E mutant enzyme, ferricenium assay
+3	phenazine methosulfate	250	RXGJTUSBYWCRBK-UHFFFAOYSA-M				medium chain acyl-CoA dehydrogenase from kidney, terminal acceptor 2,6-dichlorphenol-indophenol
+3.17	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N				
+3.17	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N				phenazine methosulfate as electron carrier
+3.2	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N				wild-type enzyme
+3.25	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N				phenazine methosulfate and 2,6-dichlorophenolindophenol as electron acceptors
+3.3	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N				C-2 proton/deuteron exchange
+3.3	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N		7.6		wild type enzyme, in 50 mM potassium phosphate buffer, pH 7.6
+3.33	Dodecanoyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N			X	T255E/E376G double mutant enzyme
+3.4	indolepropionyl-CoA	6418	MHBDABBYVQLMMD-HSJNEKGZSA-N				
+4.6	[4-(dimethylamino)phenyl]propionyl-CoA	11071	SUBFVOZSWIIDSI-USGHCGBKSA-N				
+4.67	tetradecanoyl-CoA	382	DUAFKXOFBZQTQE-QSGBVPJFSA-N				
+6	tetradecanoyl-CoA	382	DUAFKXOFBZQTQE-QSGBVPJFSA-N				long-chain acyl-CoA dehydrogenase
+6	tetradecanoyl-CoA	382	DUAFKXOFBZQTQE-QSGBVPJFSA-N				
+6.2	Butanoyl-CoA	235	CRFNGMNYKDXRTN-CITAKDKDSA-N				
+6.33	Butanoyl-CoA	235	CRFNGMNYKDXRTN-CITAKDKDSA-N				ferricenium assay
+7	dodecadecanoyl-coA	32364	CNKJPHSEFDPYDB-UHFFFAOYSA-N				
+7.4	decanoyl-CoA	448	CNKJPHSEFDPYDB-HSJNEKGZSA-N				
+8.33	Butanoyl-CoA	235	CRFNGMNYKDXRTN-CITAKDKDSA-N			X	wild-type and T255E mutant enzyme
+8.33	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N				with electron transferring flavoprotein as electron carrier
+8.33	tetradecanoyl-CoA	382	DUAFKXOFBZQTQE-QSGBVPJFSA-N			X	K304E mutant enzyme, ferricenium assay
+8.6	decanoyl-CoA	448	CNKJPHSEFDPYDB-HSJNEKGZSA-N				
+8.83	decanoyl-CoA	448	CNKJPHSEFDPYDB-HSJNEKGZSA-N			X	K304E mutant enzyme, ferricenium assay
+9	Butanoyl-CoA	235	CRFNGMNYKDXRTN-CITAKDKDSA-N			X	K304E mutant enzyme, ferricenium assay
+9.17	Dodecanoyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N				
+9.5	Dodecanoyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N			X	K304E mutant enzyme, ferricenium assay
+9.67	decanoyl-CoA	448	CNKJPHSEFDPYDB-HSJNEKGZSA-N				
+11.2	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N				general acyl-CoA dehydrogenase
+11.3	decanoyl-CoA	448	CNKJPHSEFDPYDB-HSJNEKGZSA-N			X	T255E mutant enzyme
+11.5	Butanoyl-CoA	235	CRFNGMNYKDXRTN-CITAKDKDSA-N				
+11.6	electron transfer flavoprotein	170	VOCHQRDHMUQBKK-UHFFFAOYSA-N				
+11.7	decanoyl-CoA	448	CNKJPHSEFDPYDB-HSJNEKGZSA-N				
+12.7	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N			X	K304E mutant enzyme, ferricenium assay
+13.2	furylpropionyl-CoA	8771	ZZJUUVMUQVPHBB-SVHODSNWSA-N				
+13.2	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N			X	T255E mutant enzyme
+13.6	furylpropionyl-CoA	8771	ZZJUUVMUQVPHBB-SVHODSNWSA-N				
+14.2	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N				
+16.2	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N			X	K304E mutant enzyme, ferricenium assay
+16.3	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N				
+16.8	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N				
+17	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N	25	7.6		pH 7.6, 25C, wild-type enzyme
+18.3	ferricenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N				medium chain acyl-CoA dehydrogenase from kidney
+18.3	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N				ferricenium assay
+18.8	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N	25			25C, with ferricenium as acceptor, recombinant wild-type enzyme
+19.2	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N				
+19.6	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N				
+19.6	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N	25			25C, with ferricenium as acceptor, native enzyme
+19.6	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N				
+20	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N	25			25C, with ferricenium as acceptor, pig enzyme reconstituted with commercial FAD
+20.6	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N				
+20.8	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N				ferricenium assay
+27.2	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N				
+31.2	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N				medium-chain acyl-CoA dehydrogenase
+33.3	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N				
+33.3	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N				
+35.7	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N				

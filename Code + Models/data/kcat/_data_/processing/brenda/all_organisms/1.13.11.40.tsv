@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3.2	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	25	7.4		in 50 mM sodium phosphate buffer, pH 7.4, at 25C
+19.3	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N				purified enzyme
+66.7	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N				
+0.3	arachidonate	253	YZXBAPSDXZZRGB-DOFZRALJSA-N				
+7	arachidonate	253	YZXBAPSDXZZRGB-DOFZRALJSA-N			X	mutant L432I
+12	arachidonate	253	YZXBAPSDXZZRGB-DOFZRALJSA-N			X	mutant L432A
+19	arachidonate	253	YZXBAPSDXZZRGB-DOFZRALJSA-N			X	mutant I433A
+42	arachidonate	253	YZXBAPSDXZZRGB-DOFZRALJSA-N			X	mutant L432V
+206	arachidonate	253	YZXBAPSDXZZRGB-DOFZRALJSA-N				wild-type
+1.5	(15S)-hydroperoxyeicosatetraenoic acid	7341	BFWYTORDSFIVKP-VAEKSGALSA-N	25	7.4		in 50 mM sodium phosphate buffer, pH 7.4, at 25C
+7	(8R)-8-hydroperoxy-5,9,11,14-eicosatetraenoic acid	14161	QQUFCXFFOZDXLA-UFVZWBCUSA-N	25	7.4		in 50 mM sodium phosphate buffer, pH 7.4, at 25C
+1	(15S)-hydroxyeicosatetraenoic acid	24358	JSFATNQSLKRBCI-VAEKSGALSA-N	25	7.4		in 50 mM sodium phosphate buffer, pH 7.4, at 25C
+3.5	(8S)-hydroxyeicosatetraenoic acid	24359	NLUNAYAEIJYXRB-VYOQERLCSA-N	25	7.4		in 50 mM sodium phosphate buffer, pH 7.4, at 25C

@@ -1,0 +1,3 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1100	Glcalpha(1-&gt;2)Glcalpha(1-&gt;3)Glcalpha(1-&gt;3)Manalpha(1-&gt;2)Manalpha(1-&gt;2)Manalpha(1-&gt;3)Manbeta(1-&gt;4)GlcNacbeta(1-&gt;4)GlcNacbeta-pyridylamine	113840	FMMWEKGLSJICQY-LURQIDGJSA-N	25	7.0		in 20 mM sodium phosphate, pH 7.0, at 25C
+1450	Glc3Man9GlcNAc2-pyridylamine	112094	BPBAITUUGIRTTH-BZCMQHSUSA-N	25	7.0		in 20 mM sodium phosphate, pH 7.0, at 25C

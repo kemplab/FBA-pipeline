@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0026	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme S487A
+0.0045	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30			accession Wassilewskija, 30C, pH not specified in the publication
+0.0048	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30			accession Columbia, 30C, pH not specified in the publication
+0.0086	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme D484A
+0.039	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme S488A
+0.0553	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme
+0.0613	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme S485A
+0.44	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N		7.5		pH 7.5
+0.0026	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant S487A, 50 mM KCl, 10 mM MgCl2
+0.0062	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				without K+
+0.0086	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant D484A, 50 mM KCl, 10 mM MgCl2
+0.022	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	without K+, sesquiterpene synthase activity in mutant S487K is independent of K+
+0.039	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant S488A, 50 mM KCl, 10 mM MgCl2
+0.0533	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				wild-type MdAFS, 50 mM KCl, 10 mM MgCl2
+0.0613	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant S485A, 50 mM KCl, 10 mM MgCl2
+0.000005	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	30	7.5	X	mutant S487A; pH 7.5, 30C, mutant enzyme S487A
+0.000034	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	30	7.5	X	mutant D484A; pH 7.5, 30C, mutant enzyme D484A
+0.000052	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	30	7.5	X	mutant S488A; pH 7.5, 30C, mutant enzyme S488A
+0.000281	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme; wild-type
+0.000588	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	30	7.5	X	mutant S485A; pH 7.5, 30C, mutant enzyme S485A
+0.03	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N		7.5		pH 7.5

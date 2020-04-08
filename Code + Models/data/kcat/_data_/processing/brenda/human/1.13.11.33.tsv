@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+5.1	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.5		with arachidonic acid as substrate, in 25 mM Hepes buffer, pH 7.5, 25C, in the presence of 12(S)-hydroperoxyeicosatetraenoic acid
+5.2	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N				
+5.6	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.5		with arachidonic acid as substrate, in 25 mM Hepes buffer, pH 7.5, 25C
+7	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.5		with linoleic acid as substrate, in 25 mM Hepes buffer, pH 7.5, 25C, in the presence of 12(S)-hydroperoxyeicosatetraenoic acid
+7.6	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.5		with linoleic acid as substrate, in 25 mM Hepes buffer, pH 7.5, 25C
+0.57	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	15			at 15C, normalized to iron content
+0.62	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N		7		at pH 7
+0.74	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N		8		at pH 8
+0.75	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	22	7.5		at 22C, normalized to iron content; at pH 7.5
+1	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	25	7.5		10,10,13,13-tetradeuterated arachidonic acid, pH 7.5, 25C, recombinant isozyme 15-hLO-1
+1.04	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	30			at 30C, normalized to iron content
+1.38	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	37			at 37C, normalized to iron content
+2.49	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	25	7.5		13,13-dideuterated arachidonic acid, pH 7.5, 25C, recombinant isozyme 15-hLO-1
+9.26	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	25	7.5		10,10-dideuterated arachidonic acid, pH 7.5, 25C, recombinant isozyme 15-hLO-1
+9.93	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	25	7.5		unlabeled substrate, pH 7.5, 25C, recombinant isozyme 15-hLO-1
+4	linoleic acid	357	OYHQOLUKZRVURQ-HZJYTTRNSA-N				recombinant enzyme
+10.2	linoleic acid	357	OYHQOLUKZRVURQ-HZJYTTRNSA-N	20	7.5		pH 7.5, 20C
+17.8	linoleic acid	357	OYHQOLUKZRVURQ-HZJYTTRNSA-N	30	7.5		pH 7.5, 30C
+3	arachidonate	253	YZXBAPSDXZZRGB-DOFZRALJSA-N			X	mutant enzyme A416G
+14	arachidonate	253	YZXBAPSDXZZRGB-DOFZRALJSA-N				wild-type enzyme

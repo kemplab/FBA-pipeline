@@ -1,0 +1,119 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+119	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+133.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	5.8		pH 5.8, 30C
+155	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		5.6		pH 5.6
+188	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+73	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N				
+2676	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	60	4.5		recombinant enzyme, in 100 mM sodium acetate buffer (pH 4.5), at 60C
+79	UDP	24	XCCTYIAWTASOJW-XVFCMESISA-N				
+45	AMP	9	UDMBCSSLTHHNCD-KQYNXXCUSA-N		5.6		pH 5.6
+50	AMP	9	UDMBCSSLTHHNCD-KQYNXXCUSA-N		5.6		pH 5.6
+845	AMP	9	UDMBCSSLTHHNCD-KQYNXXCUSA-N	60	4.5		recombinant enzyme, in 100 mM sodium acetate buffer (pH 4.5), at 60C
+1901	pyridoxal 5'-phosphate	30	NGVDGCNFYWLIFO-UHFFFAOYSA-N	60	4.5		recombinant enzyme, in 100 mM sodium acetate buffer (pH 4.5), at 60C
+113	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N				
+198	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37	4.5		37C, pH 4.5
+198.6	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				
+86	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N				
+93	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N				
+119	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N				
+171	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N		5.6		pH 5.6
+0.48	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	37	37		pH 37C, pH 5.6, 1 mM MgCl2, Vmax: 1.38 micromol/min/mg
+218	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N		5.6		pH 5.6
+2462	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	60	4.5		recombinant enzyme, in 100 mM sodium acetate buffer (pH 4.5), at 60C
+0.2	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	4.9	X	pH 4.9, 37C, mutant enzyme P54N
+0.49	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	4.9	X	pH 4.9, 37C, mutant enzyme L51T and P55T
+4.48	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	37		pH 37C, pH 5.6, 1 mM MgCl2, Vmax: 11.84 micromol/min/mg
+6.2	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.5		pH 5.5, 37C
+6.6	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	4.9	X	pH 4.9, 37C, mutant enzyme DELTAN47
+14.1	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.4		pH 5.4-5.6, 37C, recombinant enzyme
+21	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		3.8	X	pH 3.8, recombinant mutant H92A
+23.8	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	6.2		pH 6.2-6.4, 37C, trypsin-cleaved recombinant enzyme, in presence of L-ascorbate
+26	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	4.9		pH 4.9, 37C, wild-type enzyme
+26.4	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	6.2		pH 6.2-6.4, 37C, trypsin-cleaved recombinant enzyme
+30.4	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.4		pH 5.4-5.6, 37C, recombinant enzyme, in presence of 2-mercaptoethanol
+38.2	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	6.2		pH 6.2-6.4, 37C, recombinant enzyme, in presence of L-ascorbate
+88.6	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	6.2		pH 6.2-6.4, 37C, trypsin-cleaved recombinant enzyme, in presence of L-ascorbate
+161.9	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	4.5		37C, pH 4.5
+200.4	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	6.2		pH 6.2-6.4, 37C, trypsin-cleaved recombinant enzyme, in presence of 2-mercaptoethanol
+240	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		5.5		pH 5.5, recombinant wild-type enzyme
+760	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		4.4	X	pH 4.4, recombinant mutant H92N
+790	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	5.75		pH 5.75, 25C
+0.41	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.5	X	mutant enzyme I78D, in 100 mM sodium acetate buffer, at 37C and pH 5.5
+0.99	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	8.5	X	mutant enzyme I78H, in 100 mM sodium acetate buffer, at 37C and pH 8.5
+2	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	7.0	X	mutant enzyme I78H, in 100 mM sodium acetate buffer, at 37C and pH 7.0
+3.5	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	8.5	X	mutant enzyme I78D, in 100 mM sodium acetate buffer, at 37C and pH 8.5
+3.8	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	8.5		wild type enzyme, in 100 mM sodium acetate buffer, at 37C and pH 8.5
+5.9	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	3.5	X	mutant enzyme I78H, in 100 mM sodium acetate buffer, at 37C and pH 3.5
+8.1	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.5	X	mutant enzyme I78A, in 100 mM sodium acetate buffer, at 37C and pH 5.5
+11.83	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.5	X	mutant enzyme I78D, in 100 mM sodium acetate buffer, at 37C and pH 5.5
+12.1	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	3.5		wild type enzyme, in 100 mM sodium acetate buffer, at 37C and pH 3.5
+16.1	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.5	X	mutant enzyme I78H, in 100 mM sodium acetate buffer, at 37C and pH 5.5
+16.9	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	8.5	X	mutant enzyme I78A, in 100 mM sodium acetate buffer, at 37C and pH 8.5
+18.24	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	8.5	X	mutant enzyme I78H, in 100 mM sodium acetate buffer, at 37C and pH 8.5
+19.7	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	3.5	X	mutant enzyme I78A, in 100 mM sodium acetate buffer, at 37C and pH 3.5
+19.95	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	8.5	X	mutant enzyme I78D, in 100 mM sodium acetate buffer, at 37C and pH 8.5
+20.84	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	8.5		wild type enzyme, in 100 mM sodium acetate buffer, at 37C and pH 8.5
+21.53	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	7.0	X	mutant enzyme I78H, in 100 mM sodium acetate buffer, at 37C and pH 7.0
+22.25	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.5		wild type enzyme, in 100 mM sodium acetate buffer, at 37C and pH 5.5
+23.32	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	8.5	X	mutant enzyme I78A, in 100 mM sodium acetate buffer, at 37C and pH 8.5
+26.42	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.5	X	mutant enzyme I78A, in 100 mM sodium acetate buffer, at 37C and pH 5.5
+32.2	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	8.5	X	mutant enzyme I78D, in 100 mM sodium acetate buffer, at 37C and pH 8.5
+41.6	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	7.0	X	mutant enzyme I78D, in 100 mM sodium acetate buffer, at 37C and pH 7.0
+125	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	30	5.8		pH 5.8, 30C
+161.9	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N				
+198	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N				
+430	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N				
+470	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		4.9		at pH 4.9
+531	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		5.6		pH 5.6
+850	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		6.25		at pH 6.25
+40850	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	60	4.5		recombinant enzyme, in 100 mM sodium acetate buffer (pH 4.5), at 60C
+58	CDP	188	ZWIADYZPOWUWEW-XVFCMESISA-N				
+8.85	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	4.5		37C, pH 4.5
+0.07	5'-AMP	9	UDMBCSSLTHHNCD-KQYNXXCUSA-N	25	5.5		pH 5.5, 25C
+0.18	5'-AMP	9	UDMBCSSLTHHNCD-KQYNXXCUSA-N	37	5.5		pH 5.5, 37C
+60.4	IDP	372	JPXZQMKKFWMMGK-KQYNXXCUSA-N	30	5.8		pH 5.8, 30C
+107	TTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N				
+0.1	3'-AMP	529	LNQVTSROQXJCDD-KQYNXXCUSA-N	25	5.5		pH 5.5, 25C
+0.19	3'-AMP	529	LNQVTSROQXJCDD-KQYNXXCUSA-N	37	5.5		pH 5.5, 37C
+69	TDP	449	UJLXYODCHAELLY-XLPZGREQSA-N				
+33.24	phosphocholine	604	YHHSONZFOIEMCP-UHFFFAOYSA-O	37	37		pH 37C, pH 5.6, 1 mM MgCl2, Vmax: 89.58 micromol/min/mg
+0.11	2'-AMP	621	QDFHPFSBQFLLSW-KQYNXXCUSA-N	25	5.5		pH 5.5, 25C
+0.13	2'-AMP	621	QDFHPFSBQFLLSW-KQYNXXCUSA-N	37	5.5		pH 5.5, 37C
+4.4	NMN	623	DAYLJWODMCOQEW-TURQNECASA-O	37	5.5		pH 5.5, 37C
+62	Phenyl phosphate	1164	CMPQUABWPXYYSH-UHFFFAOYSA-N				
+219	Phenyl phosphate	1164	CMPQUABWPXYYSH-UHFFFAOYSA-N				
+0.52	nicotinamide mononucleotide	623	DAYLJWODMCOQEW-TURQNECASA-O	25	5.5		pH 5.5, 25C
+295	NADP	6	XJLXINKUBYWONI-NNYOXOHSSA-O		5.6		pH 5.6
+5282	1-naphthyl phosphate	1779	YNXICDMQCQPQEW-UHFFFAOYSA-N	60	4.5		recombinant enzyme, in 100 mM sodium acetate buffer (pH 4.5), at 60C
+62.4	phosphotyrosine	1881	DCWXELXMIBXGTH-QMMMGPOBSA-N	30	5.8		pH 5.8, 30C
+2042	Sodium diphosphate	1943	FQENQNTWSFEDLI-UHFFFAOYSA-J	60	4.5		recombinant enzyme, in 100 mM sodium acetate buffer (pH 4.5), at 60C
+1831	Glycerol 2-phosphate	1810	DHCLVCXQIBBOPH-UHFFFAOYSA-N	60	4.5		recombinant enzyme, in 100 mM sodium acetate buffer (pH 4.5), at 60C
+700	bis(p-nitrophenyl) phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N				
+125	2-glycerophosphate	1810	DHCLVCXQIBBOPH-UHFFFAOYSA-N				
+121	4-methylumbelliferyl phosphate	3018	BCHIXGBGRHLSBE-UHFFFAOYSA-N				
+53	Alpha-naphthyl phosphate	1779	YNXICDMQCQPQEW-UHFFFAOYSA-N				
+4.85	Thiamine monophosphate	3180	HZSAJDVWZRBGIF-UHFFFAOYSA-O	37	37		pH 37C, pH 5.6, 1 mM MgCl2, Vmax: 13.3 micromol/min/mg
+915	Phytic acid	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	60	4.5		recombinant enzyme, in 100 mM sodium acetate buffer (pH 4.5), at 60C
+26.8	phosphoserine	899	BZQFBWGGLXLEPQ-REOHCLBHSA-N	30	5.8		pH 5.8, 30C
+109	Phenolphthalein diphosphate	7231	WMDDNKROYKCDJC-UHFFFAOYSA-N				
+17	methylphosphate	4875	CAAULPUQFIIOTL-UHFFFAOYSA-N		4.9		at pH 4.9
+20	methylphosphate	4875	CAAULPUQFIIOTL-UHFFFAOYSA-N		6.25		at pH 6.25
+101	3'-dCMP	8264	FVSAHFFHPOLBLL-SHYZEUOFSA-N	37	6.0		pH 6.0, 37C, recombinant AphA
+2	RRA(pT)VA	7738	SFVAADUTXFBCPT-JUKXBMAYSA-N	30	5.8		pH 5.8, 30C
+65	EEY(P)AA	11882	PADRNAOGQQAXCU-IGISWZIWSA-N	25	2.5		pH 2.5, 25C
+79	EEY(P)AA	11882	PADRNAOGQQAXCU-IGISWZIWSA-N	25	4.9		pH 4.9, 25C
+35	Fmoc-EEY(P)AA	11883	GTADITZBYLFJRH-LKBHVWHPSA-N	25	2.5		pH 2.5, 25C
+120	Fmoc-EEY(P)AA	11883	GTADITZBYLFJRH-LKBHVWHPSA-N	25	4.9		pH 4.9, 25C
+25	Fmoc-EY(P)A	11884	NRIBHOWQYYVHTO-OALGXETFSA-N	25	2.5		pH 2.5, 25C
+31	Fmoc-EY(P)A	11884	NRIBHOWQYYVHTO-OALGXETFSA-N	25	4.9		pH 4.9, 25C
+542	methyl-p-nitrophenyl phosphate	12065	VFLXIIVUAKWFJE-UHFFFAOYSA-N		6.25		at pH 6.25
+542	methyl-p-nitrophenyl phosphate	12065	VFLXIIVUAKWFJE-UHFFFAOYSA-N		4.9		at pH 4.9
+2	phosphoenolpyruvic acid	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				
+170	Fmoc-KKAY(P)AA	15586	ZIMXWXJVSOCXGD-YCHMAPDVSA-N	25	4.9		pH 4.9, 25C
+8.85	sodium phytate	16675	DHZIAGCFFSRULK-BQYPOXACSA-H				
+232	Na2H2P2O7	21353	BUNRJRUBYYFXBD-UHFFFAOYSA-N				
+100	Fmoc-AAY(P)AA	23690	MIQSGHZPCHLCOU-RSWRKMSNSA-N	25	4.9		pH 4.9, 25C
+1056	3-indoxyl phosphate	24843	WCSKWBKPKXJWEG-UHFFFAOYSA-L	60	4.5		recombinant enzyme, in 100 mM sodium acetate buffer (pH 4.5), at 60C
+32.8	END(pY)INASL	25792	KKVRGTFYEALPMH-YVEKJIBJSA-N	30	5.8		pH 5.8, 30C
+26.7	DADE(pY)LIPQQG	3931	KPRQFQUHRZFMNK-XNDMIMEESA-N	30	5.8		pH 5.8, 30C
+35	D-sucrose 6-phosphate	35926	CAJXMYOUVKDVBJ-MJSMJDDCSA-N		5.6		pH 5.6

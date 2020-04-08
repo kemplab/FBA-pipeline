@@ -1,0 +1,58 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.052	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				citrate buffer, pH6.0
+0.052	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		6.5		in citrate buffer, pH 6.5, temperature not specified in the publication
+0.064	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		6.5		in citrate buffer, pH 6.5, temperature not specified in the publication
+0.071	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		6.0		citrate buffer, pH 6.0
+0.13	(2R)-2,4-dihydroxy-3,3-dimethyl-N-(3-[[2-oxo-2-(pentylamino)ethyl]amino]propyl)butanamide	128103	ZZLLHPHOPJDBFF-AWEZNQCLSA-N		7.6		at pH 7.6, temperature not specified in the publication
+0.15	N-pentylpantothenamide	6578	HWNKKPMQPCHGBA-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+0.18	(2R)-N-[3-(2,3-dihydro-1H-indol-1-yl)-3-oxopropyl]-2,4-dihydroxy-3,3-dimethylbutanamide	128096	ZSYFTVYJKNSZGZ-HNNXBMFYSA-N		7.6		at pH 7.6, temperature not specified in the publication
+0.23	3-[[(2R)-2,4-dihydroxy-3,3-dimethylbutanoyl]amino]-2-(pentylamino)propanoate	128099	KQENCTSKQKWDST-DTIOYNMSSA-M		7.6		at pH 7.6, temperature not specified in the publication
+0.28	(2S)-3-ethyl-2-hydroxy-3-(hydroxymethyl)-N-[3-oxo-3-(pentylamino)propyl]hex-5-enamide	128098	CWZILQUWDRDQDO-LDCVWXEPSA-N		7.6		at pH 7.6, temperature not specified in the publication
+0.29	(R)-pantothenate	1139	GHOKWGTUZJEAQD-ZETCQYMHSA-N	50	7.6		in 100 mM HEPES, pH 7.6, 20 mM KCl, 10 mM MgCl2, 2 mM phosphoenolpyruvate, 0.3 mM NADH, 5 units of lactate dehydrogenase, 2.5 units of pyruvate kinase, and 0.00027 mM of the PanK-III protein, at 50C
+0.38	pantothenol	5590	SNPLKNRPJHDVJA-ZETCQYMHSA-N	25	7.8		25C, pH 7.8, determined by isothermal titration calorimetry
+0.4	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N				
+0.4	pantothenol	5590	SNPLKNRPJHDVJA-ZETCQYMHSA-N	25	7.8		25C, pH 7.8, determined from coupled assay
+0.411	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				Tris-HCl buffer, pH8.0
+0.425	N-heptylpantothenamide	6579	HHAVGBXLGVYXFF-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+0.45	(2R)-N-[3-(1,3-dihydro-2H-isoindol-2-yl)-3-oxopropyl]-2,4-dihydroxy-3,3-dimethylbutanamide	128092	FHNQTFLWVWNGDN-HNNXBMFYSA-N		7.6		at pH 7.6, temperature not specified in the publication
+0.46	(2R)-2,4-dihydroxy-N-(3-[[3-(1H-imidazol-1-yl)propyl]amino]-3-oxopropyl)-3,3-dimethylbutanamide	128080	VBRCTKLQEDXOGX-ZDUSSCGKSA-N		7.6		at pH 7.6, temperature not specified in the publication
+0.49	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[3-(1-propyl-1H-1,2,3-triazol-4-yl)propyl]butanamide	128100	MXPLKCDZRJXGMT-LBPRGKRZSA-N		7.6		at pH 7.6, temperature not specified in the publication
+0.5	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N				
+0.61	pantothenate	1139	GHOKWGTUZJEAQD-ZETCQYMHSA-N	25	7.8		25C, pH 7.8, determined from coupled assay
+0.62	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.8		25C, pH 7.8, determined from coupled assay
+0.62	pantothenate	1139	GHOKWGTUZJEAQD-ZETCQYMHSA-N	25	7.8		25C, pH 7.8, determined by isothermal titration calorimetry
+0.65	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.8		25C, pH 7.8, determined by isothermal titration calorimetry
+0.718	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+0.75	(2R)-2,4-dihydroxy-3,3-dimethyl-N-(3-oxo-3-[[2-(piperazin-1-yl)ethyl]amino]propyl)butanamide	128102	YTTBYPIQODNMEO-ZDUSSCGKSA-N		7.6		at pH 7.6, temperature not specified in the publication
+0.78	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[3-[(3-methylpyridin-2-yl)amino]-3-oxopropyl]butanamide	128083	ZCRQPQAWVQMOAJ-NSHDSACASA-N		7.6		at pH 7.6, temperature not specified in the publication
+0.8	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N				
+0.818	pantothenate	1139	GHOKWGTUZJEAQD-ZETCQYMHSA-N				
+0.89	(2S)-3-ethyl-2-hydroxy-3-(hydroxymethyl)-N-[3-oxo-3-(pentylamino)propyl]hex-5-enamide	128098	CWZILQUWDRDQDO-LDCVWXEPSA-N		7.6		at pH 7.6, temperature not specified in the publication
+0.9	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N				
+0.93	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[3-oxo-3-(pentylamino)propyl]butanamide	128079	HWNKKPMQPCHGBA-LBPRGKRZSA-N		7.6		at pH 7.6, temperature not specified in the publication
+0.94	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[3-oxo-3-[(pyridin-4-ylmethyl)amino]propyl]butanamide	128090	SKOHZEZJOUKNSD-ZDUSSCGKSA-N		7.6		at pH 7.6, temperature not specified in the publication
+0.96	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[(1-pentyl-1H-1,2,3-triazol-4-yl)methyl]butanamide	128091	ZZHIZIPQERIFSN-LBPRGKRZSA-N		7.6		at pH 7.6, temperature not specified in the publication
+1.02	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[3-oxo-3-(phenylamino)propyl]butanamide	128084	KYNAOOWLETXBSX-ZDUSSCGKSA-N		7.6		at pH 7.6, temperature not specified in the publication
+1.02	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[3-oxo-3-[(pyridin-2-ylmethyl)amino]propyl]butanamide	128085	WGSGRAMIZSARRY-ZDUSSCGKSA-N		7.6		at pH 7.6, temperature not specified in the publication
+1.03	(2R)-2,4-dihydroxy-3,3-dimethyl-N-(3-[[3-(morpholin-4-yl)propyl]amino]-3-oxopropyl)butanamide	128095	IRCHZMKQAQEKCI-AWEZNQCLSA-N		7.6		at pH 7.6, temperature not specified in the publication
+1.04	(2S)-3-ethyl-2-hydroxy-3-(hydroxymethyl)-N-[3-oxo-3-(pentylamino)propyl]hept-6-ynamide	128088	BSDLYZOYBHJUBZ-PYUWXLGESA-N		7.6		at pH 7.6, temperature not specified in the publication
+1.07	(R)-pantothenate	1139	GHOKWGTUZJEAQD-ZETCQYMHSA-N		7.6		at pH 7.6, temperature not specified in the publication
+1.09	(2R)-N-[3-[(2-butanamidoethyl)amino]-3-oxopropyl]-2,4-dihydroxy-3,3-dimethylbutanamide	128094	UXKQWUZXSUMNAK-ZDUSSCGKSA-N		7.6		at pH 7.6, temperature not specified in the publication
+1.12	N-[(2R)-2,4-dihydroxy-3,3-dimethylbutanoyl]-beta-alanyl-N-pentylglycinamide	128089	VPRGMMBEMLMCAR-AWEZNQCLSA-N		7.6		at pH 7.6, temperature not specified in the publication
+1.13	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[3-oxo-3-[(3-phenylpropyl)amino]propyl]butanamide	128081	JZTQSLUDXHZXRW-INIZCTEOSA-N		7.6		at pH 7.6, temperature not specified in the publication
+1.14	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8.0		Tris-HCl buffer, pH 8.0
+1.15	(2R)-2,4-dihydroxy-3,3-dimethyl-N-(3-oxo-3-[[2-(pyridin-2-yl)ethyl]amino]propyl)butanamide	128087	XJHIPDFSDGRRQL-AWEZNQCLSA-N		7.6		at pH 7.6, temperature not specified in the publication
+1.15	(2R)-N-[3-(benzylamino)-3-oxopropyl]-2,4-dihydroxy-3,3-dimethylbutanamide	128086	ZEIWRHZUPNPKAW-AWEZNQCLSA-N		7.6		at pH 7.6, temperature not specified in the publication
+1.17	(2S)-2-hydroxy-3-(hydroxymethyl)-3-methyl-N-[3-oxo-3-(pentylamino)propyl]pentanamide	128093	BSSLREQCMPGZTB-AFYYWNPRSA-N		7.6		at pH 7.6, temperature not specified in the publication
+1.19	(2R)-2,4-dihydroxy-3,3-dimethyl-N-(3-oxo-3-[[(piperidin-4-yl)methyl]amino]propyl)butanamide	128101	QUWJBXPJRPKGNW-ZDUSSCGKSA-N		7.6		at pH 7.6, temperature not specified in the publication
+1.24	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[3-oxo-3-[(pyridin-3-ylmethyl)amino]propyl]butanamide	128082	VXNNKPMWKMAMDX-ZDUSSCGKSA-N		7.6		at pH 7.6, temperature not specified in the publication
+1.44	(2R)-2,4-dihydroxy-3,3-dimethyl-N-[3-oxo-3-(pyrimidin-4-ylamino)propyl]butanamide	128097	RNMHKVSMTBWVSG-NSHDSACASA-N		7.6		at pH 7.6, temperature not specified in the publication
+1.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+1.5	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N				
+1.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+1.7	(R)-pantothenate	1139	GHOKWGTUZJEAQD-ZETCQYMHSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+1.7	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N				
+2.09	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6		pH 7.6, 25C
+2.09	(R)-pantothenate	1139	GHOKWGTUZJEAQD-ZETCQYMHSA-N	25	7.6		pH 7.6, 25C
+2.12	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6		pH 7.6, 25C
+2.12	(R)-pantothenate	1139	GHOKWGTUZJEAQD-ZETCQYMHSA-N	25	7.6		pH 7.6, 25C

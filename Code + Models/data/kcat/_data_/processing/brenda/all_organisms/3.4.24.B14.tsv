@@ -1,0 +1,31 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.5	Arg-Pro-Pro-Gly-Phe-Ser-Pro-Phe-Arg	387	QXZGBUJJYSLZLT-FDISYFBBSA-N	37			37C
+0.52	succinyl-Ala-Ala-Phe-4-methylcoumarin 7-amide	2317	HHPVJKZZYOXPLH-SPEDKVCISA-N	37	7.2		37C, pH 7.2, wild-type enzyme
+1.2	succinyl-Ala-Ala-Phe-4-methylcoumarin 7-amide	2317	HHPVJKZZYOXPLH-SPEDKVCISA-N	37	7.2	X	37C, pH 7.2, mutant enzyme W774A
+1.97	succinyl-Ala-Ala-Phe-4-methylcoumarin 7-amide	2317	HHPVJKZZYOXPLH-SPEDKVCISA-N	37	7.2	X	37C, pH 7.2, mutant enzyme S133G
+3.5	succinyl-Ala-Ala-Phe-4-methylcoumarin 7-amide	2317	HHPVJKZZYOXPLH-SPEDKVCISA-N	37	7.2	X	37C, pH 7.2, mutant enzyme P764Y
+5.23	succinyl-Ala-Ala-Phe-4-methylcoumarin 7-amide	2317	HHPVJKZZYOXPLH-SPEDKVCISA-N	37	7.2	X	37C, pH 7.2, mutant enzyme N567G
+7.8	succinyl-Ala-Ala-Phe-4-methylcoumarin 7-amide	2317	HHPVJKZZYOXPLH-SPEDKVCISA-N	37	7.2	X	37C, pH 7.2, mutant enzyme W774F
+8.7	succinyl-Ala-Ala-Phe-4-methylcoumarin 7-amide	2317	HHPVJKZZYOXPLH-SPEDKVCISA-N	37	7.2		37C, pH 7.2, wild-type enzyme
+14.03	succinyl-Ala-Ala-Phe-4-methylcoumarin 7-amide	2317	HHPVJKZZYOXPLH-SPEDKVCISA-N	37	7.2		37C, pH 7.2, wild-type enzyme
+17.3	succinyl-Ala-Ala-Phe-4-methylcoumarin 7-amide	2317	HHPVJKZZYOXPLH-SPEDKVCISA-N	37	7.2	X	37C, pH 7.2, mutant enzyme R131M
+19	succinyl-Ala-Ala-Phe-4-methylcoumarin 7-amide	2317	HHPVJKZZYOXPLH-SPEDKVCISA-N	37	7.2	X	37C, pH 7.2, mutant enzyme L739G/S133G
+30.7	succinyl-Ala-Ala-Phe-4-methylcoumarin 7-amide	2317	HHPVJKZZYOXPLH-SPEDKVCISA-N	37	7.2	X	37C, pH 7.2, mutant enzyme L739G
+2.7	Tyr-Gly-Gly-Phe-Leu	2214	URLZCHNOLZSCCA-VABKMULXSA-N	37			37C
+9	Tyr-Gly-Gly-Phe-Met	1872	YFGBQHOOROIVKG-FKBYEOEOSA-N	37			37C
+6	Arg-Pro-Lys-Pro-Gln-Gln-Phe-Phe-Gly-Leu-Met-NH2	4117	ADNPLDHMAVUMIW-CUZNLEPHSA-N	37			37C
+8.5	gonadotropin-releasing hormone	4949	PHGPTCQKBAJVCX-AQJXLSMYSA-N	37			37C
+50	Phe-Phe-Gly-Leu-Met-NH2	8613	WBASICGQFARJFT-ZTTXAYQISA-N	37			37C
+8.5	succinyl-Ala-Ala-Phe-7-amido-4-methylcoumarin	2317	HHPVJKZZYOXPLH-SPEDKVCISA-N	37			37C
+3	Asp-Arg-Val-Tyr-Ile-His-Pro-Phe-His-Leu	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N	37			37C
+0.33	Tyr-Gly-Gly-Phe-Met-NH2	10896	HBDDEVHKKBWEQT-FKBYEOEOSA-N	37			37C
+13.8	succinyl-Ala-Ala-Val-7-amido-4-methylcoumarin	17400	IRQTXCWYXLITEA-DFFLPILJSA-N	37			37C
+11.5	3-methoxysuccinyl-Gly-Leu-Phe-Met-7-amido-4-methylcoumarin	17401	DNNAYEBKYGVPLS-JNVBTDMXSA-N	37			37C
+8.5	Gly-Gly-Phe-Met	17406	KWHAJHJQOWBJEG-KBPBESRZSA-N	37			37C
+41.7	Tyr-Gly-Ala-Phe-Met	17407	WXXXTGCEFZNPNO-ZMVGRULKSA-N	37			37C
+0.33	Tyr-Gly-Gly-Phe-Leu-NH2	13846	YZXGODHVAJPXSG-VABKMULXSA-N	37			37C
+6.17	Asp-Tyr(sulfated)-Met-Gly-Trp-Met-Asp-Phe-NH2	5716	IZTQOLKUZKXIRV-YRVFCXMDSA-N	37			37C
+13.17	Asp-Tyr-Met-Gly-Trp-Met-Asp-Phe-NH2	13869	OIXQINQYMGNCII-YRVFCXMDSA-N	37			37C
+34.5	Asp-Tyr-Met-Gly-Trp-Met	17409	JELHPECOPKUHAI-CISYKLKFSA-N	37			37C
+22.83	Phe-Gly-Leu-Met-NH2	20543	JIJRURCWBONLPN-BZSNNMDCSA-N	37			37C
+4	Gly-Trp-Met-Asp-Phe-NH2	22263	AGNHQKAXUWFRGP-QORCZRPOSA-N	37			37C

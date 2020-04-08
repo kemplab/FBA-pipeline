@@ -1,0 +1,89 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.5	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N				
+1.5	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N				coenzyme NADP+
+1.6	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N				coenzyme NAD+
+4	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	mutant enzyme T41V, NADP+ as cofactor
+6	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	mutant enzyme T41V, NAD+ as cofactor
+7	beta-D-galactose	115542	WQZGKKKJIJFFOK-FPRJBGLDSA-N			X	mutant enzyme T41V, NADP+ as cofactor
+7	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N			X	mutant enzyme T41V, NADP+ as cofactor
+8	beta-D-galactose	115542	WQZGKKKJIJFFOK-FPRJBGLDSA-N			X	mutant enzyme T41V, NAD+ as cofactor
+11.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				coenzyme NAD+
+12	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N			X	mutant enzyme T41V, NAD+ as cofactor
+12.7	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N				coenzyme NADP+
+14	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	mutant enzyme T41A, NADP+ as cofactor
+14.2	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N				coenzyme NAD+
+14.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				coenzyme NADP+
+18	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	E96K mutant, coenzyme NADP+
+18	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O			X	E96K mutant
+19.34	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	70	6.5		pH 6.5, 70C, cosubstrate: NADP+
+19.34	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	70			cosubstrate NADP+, 70C, pH not specified in the publication
+22	beta-D-galactose	115542	WQZGKKKJIJFFOK-FPRJBGLDSA-N			X	mutant enzyme T41A, NADP+ as cofactor
+22	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N			X	mutant enzyme T41A, NADP+ as cofactor
+23	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	E96K mutant, coenzyme NAD+
+23	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	E96K mutant
+26.74	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	65			cosubstrate D-glucose, 65C, pH not specified in the publication
+28.52	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	70			cosubstrate D-glucose, 70C, pH not specified in the publication
+37	beta-D-galactose	115542	WQZGKKKJIJFFOK-FPRJBGLDSA-N				wild type enzyme, NADP+ as cofactor
+37.4	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	70	7.5		with beta-D-galactose, pH 7.5, 70C
+39	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	mutant enzyme T41A, NAD+ as cofactor
+41	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				coenzyme NADP+
+44	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N				wild type enzyme, NADP+ as cofactor
+44.17	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	80			cosubstrate D-glucose, 80C, pH not specified in the publication
+45.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				coenzyme NAD+
+47.7	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	70	7.5		with beta-D-glucose, pH 7.5, 70C
+48	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N				wild type enzyme, NADP+ as cofactor
+54.47	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	65			cosubstrate D-glucose, 65C, pH not specified in the publication
+56	beta-D-galactose	115542	WQZGKKKJIJFFOK-FPRJBGLDSA-N			X	mutant enzyme T41A, NAD+ as cofactor
+61	beta-D-galactose	115542	WQZGKKKJIJFFOK-FPRJBGLDSA-N				wild type enzyme, NAD+ as cofactor
+61	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N				wild type enzyme, NAD+ as cofactor
+61.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	7.5		with beta-D-galactose, pH 7.5, 70C
+68.23	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	70	6.5		pH 6.5, 70C, cosubstrate: NAD+
+68.23	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	70			cosubstrate NAD+, 70C, pH not specified in the publication
+70	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	8.0		at pH 8.0 and 37C
+70.49	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70			cosubstrate D-glucose, 70C, pH not specified in the publication
+74.9	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	7.5		with beta-D-glucose, pH 7.5, 70C
+75	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N				wild type enzyme, NAD+ as cofactor
+81	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N			X	mutant enzyme T41A, NAD+ as cofactor
+92	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	E96G mutant, coenzyme NADP+
+92	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O			X	E96G mutant
+93	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0		pH 8.0, 25C
+93	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.0		pH 8.0, 25C
+93	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.0		wild type enzyme, at pH 8.0 and 25C
+97	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	E96A mutant, coenzyme NAD+
+97	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	E96A mutant
+98	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	E96A mutant, coenzyme NADP+
+98	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O			X	E96A mutant
+105.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	80			cosubstrate D-glucose, 80C, pH not specified in the publication
+114	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	E96G mutant, coenzyme NAD+
+114	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	E96G mutant
+115	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0		pH 8.0, 25C
+115	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0		wild type enzyme, at pH 8.0 and 25C
+120	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	30	8.0		pH 8.0, 30C, coenzyme NADP+, isoenzyme GlcDH I
+130	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.0	X	mutant enzyme DS255, at pH 8.0 and 25C
+140	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	30	8.0		pH 8.0, 30C, coenzyme NADP+, isoenzyme GlcDH II
+180	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0	X	mutant enzyme DS255, at pH 8.0 and 25C
+186	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	253		X	Y253C mutant, coenzyme NADP+
+186	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	253		X	Y253C mutant
+190	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	30	8.0		pH 8.0, 30C, coenzyme NAD+, isoenzymes GlcDH I and GlcDH II
+190	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				isozyme GlcDH-I; isozyme GlcDH-I; isozyme GlcDH-I; isozyme GlcDH-II; isozyme GlcDH-II; isozyme GlcDH-II
+200	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	253		X	Y253C mutant, coenzyme NAD+
+200	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	253		X	Y253C mutant
+260	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N				wild type, coenzyme NADP+
+260	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O				wild type
+300	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	Q252L mutant, coenzyme NADP+
+300	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O			X	Q252L mutant
+317	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	25	8.0	X	mutant Q252L, pH 8.0, 25C
+317	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	8.0	X	apparent value, mutant enzyme Q252L, in 50 mM Tris-HCl buffer (pH 8.0), at 25C
+334	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	25	8.0	X	mutant Q252L/E170K, pH 8.0, 25C
+334	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	8.0	X	apparent value, mutant enzyme Q252L/E170K, in 50 mM Tris-HCl buffer (pH 8.0), at 25C
+352	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	8.0	X	apparent value, mutant enzyme E170K, in 50 mM Tris-HCl buffer (pH 8.0), at 25C
+390	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N				wild type, coenzyme NAD+
+390	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				isozyme GlcDH-IWG3; isozyme GlcDH-IWG3; isozyme GlcDH-IWG3
+390	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				wild type, coenzyme NAD+
+395	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	25	8.0		wild-type enzyme, pH 8.0, 25C
+395	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	8.0		apparent value, wild type enzyme, in 50 mM Tris-HCl buffer (pH 8.0), at 25C
+420	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	30	8.0		pH 8.0, 30C, coenzyme NAD+, isoenzyme GlcDH IV
+430	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	30	8.0		pH 8.0, 30C, coenzyme NAD+, isoenzyme GlcDH III
+462	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	30	8.0		pH 8.0, 30C, coenzyme NADP, isoenzyme GlcDH IV
+802	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	30	8.0		pH 8.0, 30C, coenzyme NADP+, isoenzyme GlcDH III
+521000	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0		at pH 8.0 and 25C

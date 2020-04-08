@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.28	octyl acetate	5018	YLYBTZIQSIBWLI-UHFFFAOYSA-N	22	7.5		plasma isozyme, pH 7.5, 22C
+0.69	octyl acetate	5018	YLYBTZIQSIBWLI-UHFFFAOYSA-N	22	7.5		isozyme Ib, (alpha1)2 subunit, pH 7.5, 22C
+1.9	octyl acetate	5018	YLYBTZIQSIBWLI-UHFFFAOYSA-N	22	7.5		isozyme Ib, (alpha2)2 subunit, pH 7.5, 22C
+6.08	octyl acetate	5018	YLYBTZIQSIBWLI-UHFFFAOYSA-N	22	7.5		isozyme Ib, (alpha1)2 subunit, pH 7.5, 22C
+0.34	2-acetyl-1-hexadecyl-sn-glycero-3-phosphocholine	5667	HVAUUPRFYPCOCA-AREMUKBSSA-O	22	7.5		isozyme Ib, (alpha1)2 subunit, pH 7.5, 22C
+3.2	2-acetyl-1-hexadecyl-sn-glycero-3-phosphocholine	5667	HVAUUPRFYPCOCA-AREMUKBSSA-O	22	7.5		isozyme Ib, (alpha2)2 subunit, pH 7.5, 22C
+24.6	2-acetyl-1-hexadecyl-sn-glycero-3-phosphocholine	5667	HVAUUPRFYPCOCA-AREMUKBSSA-O	22	7.5		plasma isozyme, pH 7.5, 22C
+1.7	triacetylglycerol	1998	URAYPUMNDPQOKB-UHFFFAOYSA-N	22	7.5		isozyme Ib, (alpha1)2 subunit, pH 7.5, 22C
+16.5	triacetylglycerol	1998	URAYPUMNDPQOKB-UHFFFAOYSA-N	22	7.5		plasma isozyme, pH 7.5, 22C
+37	triacetylglycerol	1998	URAYPUMNDPQOKB-UHFFFAOYSA-N	22	7.5		isozyme Ib, (alpha2)2 subunit, pH 7.5, 22C
+0.68	2-acetyl-1-octadecyl-sn-glycero-3-phosphocholine	8787	ZXCIEWBDUAPBJF-UHFFFAOYSA-O	22	7.5		isozyme Ib, (alpha2)2 subunit, pH 7.5, 22C
+4.8	2-acetyl-1-octadecyl-sn-glycero-3-phosphocholine	8787	ZXCIEWBDUAPBJF-UHFFFAOYSA-O	22	7.5		plasma isozyme, pH 7.5, 22C
+6.08	2-acetyl-1-octadecyl-sn-glycero-3-phosphocholine	8787	ZXCIEWBDUAPBJF-UHFFFAOYSA-O	22	7.5		isozyme Ib, (alpha2)2 subunit, pH 7.5, 22C
+0.25	2-acetyl-1-oleoyl-sn-glycerol	7284	PWTCCMJTPHCGMS-QFIPXVFZSA-N	22	7.5		isozyme Ib, (alpha2)2 subunit, pH 7.5, 22C
+3	2-acetyl-1-oleoyl-sn-glycerol	7284	PWTCCMJTPHCGMS-QFIPXVFZSA-N	22	7.5		plasma isozyme, pH 7.5, 22C
+1.1	1-acetyl-2-hexadecyl-sn-glycero-3-phosphocholine	14771	KLLCFZPZFUTMGS-AREMUKBSSA-O	22	7.5		isozyme Ib, (alpha2)2 subunit, pH 7.5, 22C
+8.1	1-acetyl-2-hexadecyl-sn-glycero-3-phosphocholine	14771	KLLCFZPZFUTMGS-AREMUKBSSA-O	22	7.5		plasma isozyme, pH 7.5, 22C

@@ -1,0 +1,24 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	6.5		in the presence of Zn2+, at pH 6.5 and 37C
+0.03	pyridoxal	501	RADKZDMFGJYCBB-UHFFFAOYSA-N			X	D235A mutant protein
+0.12	pyridoxal	501	RADKZDMFGJYCBB-UHFFFAOYSA-N	30	7.0		in the presence of K+, at pH 7.0 and 30C
+0.23	pyridoxal	501	RADKZDMFGJYCBB-UHFFFAOYSA-N			X	D235N mutant protein
+0.23	pyridoxal	501	RADKZDMFGJYCBB-UHFFFAOYSA-N	30	7.0		in the presence of Na+, at pH 7.0 and 30C
+0.48	pyridoxal	501	RADKZDMFGJYCBB-UHFFFAOYSA-N				wild-type protein
+0.5	pyridoxal	501	RADKZDMFGJYCBB-UHFFFAOYSA-N	37	7.3		with ZnATP2- as substrate, pH 7.3, 37C
+0.8	pyridoxal	501	RADKZDMFGJYCBB-UHFFFAOYSA-N	37	7.3		with MgATP2- as substrate, pH 7.3, 37C
+0.995	pyridoxal	501	RADKZDMFGJYCBB-UHFFFAOYSA-N	37	6.2		pH 6.2, 37C
+1.42	pyridoxal	501	RADKZDMFGJYCBB-UHFFFAOYSA-N	37	7.3		presence of 40 mM K+, pH 7.3, 37C
+3.2	pyridoxal	501	RADKZDMFGJYCBB-UHFFFAOYSA-N	37	6.5		at pH 6.5 and 37C
+3.3	pyridoxal	501	RADKZDMFGJYCBB-UHFFFAOYSA-N	37	7.3		presence of 40 mM Na+, pH 7.3, 37C
+6.08	pyridoxal	501	RADKZDMFGJYCBB-UHFFFAOYSA-N		6.2		in 70 mM potassium phosphate buffer, pH 6.2
+0.1	pyridoxine	807	LXNHXLLTXMVWPM-UHFFFAOYSA-N	37	7.3		with ZnATP2- as substrate, pH 7.3, 37C
+0.3	pyridoxine	807	LXNHXLLTXMVWPM-UHFFFAOYSA-N	37	7.3		with MgATP2- as substrate, pH 7.3, 37C
+1.233	pyridoxine	807	LXNHXLLTXMVWPM-UHFFFAOYSA-N	37	6.2		pH 6.2, 37C
+6.08	pyridoxine	807	LXNHXLLTXMVWPM-UHFFFAOYSA-N		6.2		in 70 mM potassium phosphate buffer, pH 6.2
+0.3	pyridoxamine	975	NHZMQXZHNVQTQA-UHFFFAOYSA-N	37	7.3		with MgATP2- as substrate, pH 7.3, 37C
+0.79	pyridoxamine	975	NHZMQXZHNVQTQA-UHFFFAOYSA-N	37	6.2		in 70 mM potassium phosphate buffer, pH 6.2; pH 6.2, 37C
+1.535	4'-deoxypyridoxine	4028	KKOWAYISKWGDBG-UHFFFAOYSA-N	37	6.2		pH 6.2, 37C
+2.94	4'-deoxypyridoxine	4028	KKOWAYISKWGDBG-UHFFFAOYSA-N		6.2		in 70 mM potassium phosphate buffer, pH 6.2
+0.46	ginkgotoxin	4671	SVINQHQHARVZFF-UHFFFAOYSA-N		6.2		in 70 mM potassium phosphate buffer, pH 6.2
+0.46	4'-O-methylpyridoxine	4671	SVINQHQHARVZFF-UHFFFAOYSA-N	37	6.2		pH 6.2, 37C

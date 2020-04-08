@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.65	Gly-Ala-Pro-beta-naphthylamide	3972	KCELZXZDIUJGNM-GUYCJALGSA-N				prolyl tripeptidyl aminopeptidase with an N-terminal truncation of 38 residues
+354	Gly-Ala-Pro-beta-naphthylamide	3972	KCELZXZDIUJGNM-GUYCJALGSA-N				
+354	Gly-Ala-Pro-beta-naphthylamide	3972	KCELZXZDIUJGNM-GUYCJALGSA-N				prolyl tripeptidyl aminopeptidase with an N-terminal truncation of 38 residues
+2.65	Gly-Ala-Pro-2-naphthylamide	3972	KCELZXZDIUJGNM-GUYCJALGSA-N	37	7.0	X	mutant enzyme E636A, in 20 mM Tris-HCl (pH 7.0), at 37C
+6.8	Gly-Ala-Pro-2-naphthylamide	3972	KCELZXZDIUJGNM-GUYCJALGSA-N	37	7.0	X	mutant enzyme E636A, in 20 mM Tris-HCl (pH 7.0), at 37C
+354	Gly-Ala-Pro-2-naphthylamide	3972	KCELZXZDIUJGNM-GUYCJALGSA-N	37	7.0		in 20 mM Tris-HCl buffer (pH 7.0), at 37C
+354	Gly-Ala-Pro-2-naphthylamide	3972	KCELZXZDIUJGNM-GUYCJALGSA-N	37	7.0		wild type enzyme, in 20 mM Tris-HCl (pH 7.0), at 37C
+511	Gly-Ala-Pro-2-naphthylamide	3972	KCELZXZDIUJGNM-GUYCJALGSA-N	37	7.0		wild type enzyme, in 20 mM Tris-HCl (pH 7.0), at 37C
+6.8	Ala-Phe-Pro-beta-naphthylamide	5844	XNTZVXIZBNJULD-NWVWQQAFSA-N			X	E636A mutant
+511	Ala-Phe-Pro-beta-naphthylamide	5844	XNTZVXIZBNJULD-NWVWQQAFSA-N			X	E636A mutant
+115	Gly-L-Ala-L-Pro-beta-naphthylamide	3972	KCELZXZDIUJGNM-GUYCJALGSA-N	30	6.5		pH 6.5, 30C
+43	Gly-L-Ala-Gly-L-Pro-beta-naphthylamide	23933	UJLUQGZLACWOPX-KSSFIOAISA-N	30	6.5		pH 6.5, 30C

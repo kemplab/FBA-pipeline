@@ -1,0 +1,34 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.91	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	37	8.5		in 50 mM phosphate buffer, pH 8.5, 0.02 mM pyridoxal 5'-phosphate, 1 mM EDTA, at 37C
+4.24	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant S33A
+6.78	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant S32A
+6.8	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant chimeric mutant enzyme eCGS-sC-eCBL
+8.1	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25		X	mutant enzyme R372K, at 25C
+9.7	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25		X	mutant enzyme R58A, at 25C
+25.4	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant W131F/W188F/W230F/W276F
+31.7	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant W131F/W188F/W230F/W276F/W300F
+34.1	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25			wild type enzyme, at 25C
+35.1	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant W131F/W188F/W276F/W300F/W340F
+36.7	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25		X	mutant enzyme R59K, at 25C
+37.9	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25		X	mutant enzyme D116N, at 25C
+38	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant W131F/W188F/W230F/W300F/W340F
+38.1	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant W188F
+40	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant W131F/W188F/W230F/W276F/W340F
+40.7	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant K42A
+41.9	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25		X	mutant enzyme D116A, at 25C
+42	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant W188F/W230F/W276F/W300F/W340F
+42.5	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant W300F
+45.3	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant W131F
+45.3	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5		pH 8.5, 25C, recombinant wild-type enzyme
+45.8	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25		X	mutant enzyme R59A, at 25C
+46	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant W131F/W188F/W230F/W276F/W300F/W340F
+54	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant W131F/W230F/W276F/W300F/W340F
+54.5	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant W131FF/W230FF/W276F; pH 8.5, 25C, recombinant wild-type enzyme
+55.9	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant W230F
+60.4	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant W276F
+60.7	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant W340F
+65	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant W131F/W230F/W276F/W340F
+74	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant W131F/W230F/W276F/W300F
+79	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25		X	mutant enzyme W340F, at 25C
+1.5	cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N				
+1.27	L-djenkolate	3012	JMQMNWIBUCGUDO-RFZPGFLSSA-N	37	8.5		in 50 mM phosphate buffer, pH 8.5, 0.02 mM pyridoxal 5'-phosphate, 1 mM EDTA, at 37C

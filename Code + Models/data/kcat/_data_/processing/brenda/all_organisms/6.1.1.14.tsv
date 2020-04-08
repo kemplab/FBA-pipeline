@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.19	tRNAGly	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5		wild type isoform GlyRS1 without insertion peptide, in 50 mM HEPES (pH 7.5), 50 mM KCl, 15 mM MgCl2, 5 mM dithiothreitol, at 25C
+0.33	tRNAGly	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5		wild type isoform GlyRS1, in 50 mM HEPES (pH 7.5), 50 mM KCl, 15 mM MgCl2, 5 mM dithiothreitol, at 25C
+0.73	tRNAGly	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5		wild type isoform GlyRS2, in 50 mM HEPES (pH 7.5), 50 mM KCl, 15 mM MgCl2, 5 mM dithiothreitol, at 25C
+8.1	tRNA2Gly	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				aminoacylation
+15.9	tRNA1Gly	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				aminoacylation

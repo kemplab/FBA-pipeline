@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.11	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				KM-value with 50% of the enzyme being substrate-saturated, in the presence of 200 mM NaCl
+0.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				KM-value with 50% of the enzyme being substrate-saturated, in the presence of 100 mM NaCl
+0.31	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				KM-value with 50% of the enzyme being substrate-saturated, in the presence of 50 mM NaCl
+0.33	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				KM-value with 50% of the enzyme being substrate-saturated, in the presence of 10 mM NaCl

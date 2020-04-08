@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.71	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	25	7.2		pH 7.2, 25C, presence of Mn2+
+0.001	bis(p-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	25	7.1	X	mutant D164A, pH 7.1, 25C, presence of Mn2+; mutant D54A, pH 7.1, 25C, presence of Mn2+; mutant D80A, pH 7.1, 25C, presence of Mn2+
+0.003	bis(p-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	25	7.1	X	mutant H78A, pH 7.1, 25C, presence of Mn2+
+0.03	bis(p-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	25	7.2		pH 7.2, 25C, presence of Zn2+
+0.13	bis(p-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	25	7.1	X	mutant H222A, pH 7.1, 25C, presence of Mn2+
+0.25	bis(p-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	25	7.1	X	mutant T75A, pH 7.1, 25C, presence of Mn2+
+0.55	bis(p-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	25	7.1	X	mutant H200A, pH 7.1, 25C, presence of Mn2+
+0.88	bis(p-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	25	7.1	X	mutant D187A, pH 7.1, 25C, presence of Mn2+
+1.07	bis(p-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	25	7.1		wild-type, pH 7.1, 25C, presence of Mn2+
+1.19	bis(p-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	25	7.2		pH 7.2, 25C, presence of Mn2+
+4.1	bis(p-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	25	7.2		pH 7.2, 25C, presence of Ni2+
+1.23	2',3'-cGMP	3516	UASRYODFRYWBRC-UUOKFMHZSA-N	25	7.2		pH 7.2, 25C, presence of Mn2+
+0.08	thymidine 5'-monophosphate p-nitrophenyl ester	3356	RWOAVOYBVRQNIZ-BFHYXJOUSA-N	25	7.2		pH 7.2, 25C, presence of Mn2+
+0.64	2',3'-cCMP	2010	NMPZCCZXCOMSDQ-XVFCMESISA-N	25	7.2		pH 7.2, 25C, presence of Mn2+

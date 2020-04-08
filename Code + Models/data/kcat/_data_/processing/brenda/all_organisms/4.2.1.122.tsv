@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.39	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	85	7.5		pH 7.5, 85C, recombinant TrpB2, with or without TrpA
+0.44	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	80			at 80C, pH not specified in the publication
+0.46	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	80			at 80C, pH not specified in the publication
+1.04	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	85	7.5		pH 7.5, 85C, recombinant TrpB1
+3.46	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	85	7.5		pH 7.5, 85C, recombinant TrpB1 with TrpA

@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.23	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.5		wild-type, pH 7.5
+0.28	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.5	X	mutant Y782F, pH 7.5
+0.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.7	X	pH 7.7, 30C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA
+0.6	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N	37	7.7	X	pH 7.7, 37C, DNA passage, mutant Y165S
+1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.7	X	pH 7.7, 30C, recombinant Y50F mutant enzyme, in absence of DNA
+1.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.7		pH 7.7, 30C, recombinant wild-type enzyme, in absence of DNA
+1.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.7	X	pH 7.7, 30C, recombinant Y50F mutant enzyme, in presence of DNA
+1.24	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N	37	7.7	X	pH 7.7, 37C, DNA passage, mutant R162Q
+1.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.7	X	pH 7.7, 30C, recombinant Y50F mutant enzyme, in presence of DNA
+1.65	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N	37	7.7	X	pH 7.7, 37C, DNA passage, mutant L169F
+1.8	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N	37	7.7	X	pH 7.7, 37C, DNA passage, mutant R162K
+2.55	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	80			80C, pH not specified in the publication, wild-type enzyme
+3.33	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N	37	7.7	X	pH 7.7, 37C, DNA passage, mutant L169I
+3.38	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N	37	7.7		pH 7.7, 37C, DNA passage, wild-type enzyme
+3.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.7		pH 7.7, 30C, recombinant wild-type enzyme, in presence of DNA
+3.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.7		pH 7.7, 30C, recombinant wild-type enzyme, in presence of DNA
+3.97	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	80		X	80C, pH not specified in the publication, mutant enzyme Y965F
+5.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.5	X	mutant Y782F, presence of 68 bp DNA duplex, pH 7.5
+7.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.5		wild-type, presence of 68 bp DNA duplex, pH 7.5

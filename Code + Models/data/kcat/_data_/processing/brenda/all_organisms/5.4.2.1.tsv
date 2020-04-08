@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+102	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N	30	7.5		in 30 mM Tris-HCl, 5 mM MgSO4, 20 mM KCl, pH 7.5, at 30C
+132	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N	30	7.5		in 30 mM Tris-HCl, 5 mM MgSO4, 20 mM KCl, pH 7.5, at 30C
+3200	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N		7.2		in triethanol-HCl buffer (125 mM, pH 7.2, 5 mM MgCl2, 10 mM KCl), 0.1 mM 2,3-bisphosphoglyceric acid, temperature not specified in the publication

@@ -1,0 +1,78 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.05	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	1298	SKKLIRUAUNZTRY-AWEZNQCLSA-N	23	7.4	X	mutant enzyme E203A/E204A, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.13	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	1298	SKKLIRUAUNZTRY-AWEZNQCLSA-N	23	7.4	X	mutant enzyme E204D, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.2	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	1298	SKKLIRUAUNZTRY-AWEZNQCLSA-N	23	7.4	X	mutant enzyme A657F, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.36	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	1298	SKKLIRUAUNZTRY-AWEZNQCLSA-N	23	7.4	X	mutant enzyme E203D, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.37	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	1298	SKKLIRUAUNZTRY-AWEZNQCLSA-N	23	7.4	X	mutant enzyme E203A, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA; mutant enzyme Y656F, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.4	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	1298	SKKLIRUAUNZTRY-AWEZNQCLSA-N	23	7.4	X	mutant enzyme R123K, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.45	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	1298	SKKLIRUAUNZTRY-AWEZNQCLSA-N	23	7.4	X	mutant enzyme E204A, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.47	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	1298	SKKLIRUAUNZTRY-AWEZNQCLSA-N	23	7.4	X	mutant enzyme R123A, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.48	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	1298	SKKLIRUAUNZTRY-AWEZNQCLSA-N	23	7.4	X	mutant enzyme R123M, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.6	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	1298	SKKLIRUAUNZTRY-AWEZNQCLSA-N	23	7.4	X	mutant enzyme E204Q, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.94	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	1298	SKKLIRUAUNZTRY-AWEZNQCLSA-N	23	7.4	X	mutant enzyme A657V, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+1.4	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	1298	SKKLIRUAUNZTRY-AWEZNQCLSA-N	23	7.4	X	mutant enzyme E203D/E204D, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+1.8	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	1298	SKKLIRUAUNZTRY-AWEZNQCLSA-N	23	7.4	X	mutant enzyme A657G, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+2	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	1298	SKKLIRUAUNZTRY-AWEZNQCLSA-N	23	7.4	X	mutant enzyme A657Q, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+4.5	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	1298	SKKLIRUAUNZTRY-AWEZNQCLSA-N	23	7.4	X	mutant enzyme A657T, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+4.7	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	1298	SKKLIRUAUNZTRY-AWEZNQCLSA-N	23	7.4	X	mutant enzyme A657S, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+7.7	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	1298	SKKLIRUAUNZTRY-AWEZNQCLSA-N	23	7.4		wild type enzyme, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+8.9	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	1298	SKKLIRUAUNZTRY-AWEZNQCLSA-N	23	7.4	X	mutant enzyme A657N, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+14	acetyl-Gly-Pro-7-amido-4-trifluoromethylcoumarin	1298	SKKLIRUAUNZTRY-AWEZNQCLSA-N	23	7.4	X	mutant enzyme A657D, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.03	Gly-Pro-7-amido-4-trifluoromethylcoumarin	1326	PSEMEFVPHHIWLG-LBPRGKRZSA-N	23	7.4	X	mutant enzyme A657D, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.09	Gly-Pro-7-amido-4-trifluoromethylcoumarin	1326	PSEMEFVPHHIWLG-LBPRGKRZSA-N	23	7.4	X	mutant enzyme A657Q, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA; mutant enzyme A657V, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.12	Gly-Pro-7-amido-4-trifluoromethylcoumarin	1326	PSEMEFVPHHIWLG-LBPRGKRZSA-N	23	7.4	X	mutant enzyme N704A, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.15	Gly-Pro-7-amido-4-trifluoromethylcoumarin	1326	PSEMEFVPHHIWLG-LBPRGKRZSA-N	23	7.4	X	mutant enzyme Y656F, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.19	Gly-Pro-7-amido-4-trifluoromethylcoumarin	1326	PSEMEFVPHHIWLG-LBPRGKRZSA-N	23	7.4	X	mutant enzyme E203D, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA; mutant enzyme E204Q, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.26	Gly-Pro-7-amido-4-trifluoromethylcoumarin	1326	PSEMEFVPHHIWLG-LBPRGKRZSA-N	23	7.4	X	mutant enzyme E203A, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.28	Gly-Pro-7-amido-4-trifluoromethylcoumarin	1326	PSEMEFVPHHIWLG-LBPRGKRZSA-N	23	7.4	X	mutant enzyme E204A, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.29	Gly-Pro-7-amido-4-trifluoromethylcoumarin	1326	PSEMEFVPHHIWLG-LBPRGKRZSA-N	23	7.4	X	mutant enzyme A657T, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.33	Gly-Pro-7-amido-4-trifluoromethylcoumarin	1326	PSEMEFVPHHIWLG-LBPRGKRZSA-N	23	7.4	X	mutant enzyme E204D, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.46	Gly-Pro-7-amido-4-trifluoromethylcoumarin	1326	PSEMEFVPHHIWLG-LBPRGKRZSA-N	23	7.4	X	mutant enzyme A657S, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+0.71	Gly-Pro-7-amido-4-trifluoromethylcoumarin	1326	PSEMEFVPHHIWLG-LBPRGKRZSA-N	23	7.4	X	mutant enzyme E203D/E204D, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+1.2	Gly-Pro-7-amido-4-trifluoromethylcoumarin	1326	PSEMEFVPHHIWLG-LBPRGKRZSA-N	23	7.4	X	mutant enzyme R123K, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+1.7	Gly-Pro-7-amido-4-trifluoromethylcoumarin	1326	PSEMEFVPHHIWLG-LBPRGKRZSA-N	23	7.4	X	mutant enzyme R123A, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+2.1	Gly-Pro-7-amido-4-trifluoromethylcoumarin	1326	PSEMEFVPHHIWLG-LBPRGKRZSA-N	23	7.4	X	mutant enzyme R123M, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+5.6	Gly-Pro-7-amido-4-trifluoromethylcoumarin	1326	PSEMEFVPHHIWLG-LBPRGKRZSA-N	23	7.4		wild type enzyme, at 23C in 50 mM Tris (pH 7.4), 100 mM NaCl, and 1 mM EDTA
+5.6	Gly-Pro-7-amido-4-trifluoromethylcoumarin	1326	PSEMEFVPHHIWLG-LBPRGKRZSA-N	23	7.4		at 23C in 50 mM Tris-HCl, 100 mM NaCl, 1 mM EDTA, pH 7.4
+0.995	Ala-Pro-7-amido-4-trifluoromethylcoumarin	1908	AOUAKFCUUCRDQS-HZMBPMFUSA-N				APCE
+1.08	Ala-Pro-7-amido-4-trifluoromethylcoumarin	1908	AOUAKFCUUCRDQS-HZMBPMFUSA-N	22	7.5		pH 7.5, 22C, recombinant FAP
+6.08	Ala-Pro-7-amido-4-trifluoromethylcoumarin	1908	AOUAKFCUUCRDQS-HZMBPMFUSA-N	22	7.5		pH 7.5, 22C, APCE
+14.2	Ala-Pro-7-amido-4-trifluoromethylcoumarin	1908	AOUAKFCUUCRDQS-HZMBPMFUSA-N	23	7.4		at 23C in 50 mM Tris-HCl, 100 mM NaCl, 1 mM EDTA, pH 7.4
+29.1	Gly-Pro-7-amido-4-methylcoumarin	2075	UTDVHCQTKWTQEA-ZDUSSCGKSA-N	22	7.5		pH 7.5, 22C
+0.51	benzyloxycarbonyl-Gly-Pro-7-amido-4-methylcoumarin	7913	YWOXKKRKNGWXEG-FQEVSTJZSA-N	22	7.5		pH 7.5, 22C, recombinant FAP
+0.54	benzyloxycarbonyl-Gly-Pro-7-amido-4-methylcoumarin	7913	YWOXKKRKNGWXEG-FQEVSTJZSA-N	22	7.5		pH 7.5, 22C, APCE
+36.4	benzyloxycarbonyl-Gly-Pro-7-amido-4-methylcoumarin	7913	YWOXKKRKNGWXEG-FQEVSTJZSA-N	22	7.5		pH 7.5, 22C
+2	Ala-Pro-4-trifluoromethylcoumarin-7-amide	11567	GGRRKBLWOMKWNS-ZANVPECISA-N		8.5		pH 8.5
+1.08	L-Ala-Pro-7-amido-4-trifluoromethylcoumarin	11567	GGRRKBLWOMKWNS-ZANVPECISA-N				recombinant enzyme
+1.06	Arg-Lys(4-(4-dimethylaminophenylazo)benzoyl)-Thr-Ser-Gly-Pro-Asn-Gln-Glu-Gln-Glu(5-[(2-aminoethyl)amino]-naphthalene-1-sulfonic acid)-Arg	12317	HBLZMHFNXQILRV-SYYVPLRQSA-N	22	7.5		pH 7.5, 22C, APCE
+1.2	Arg-Lys(4-(4-dimethylaminophenylazo)benzoyl)-Thr-Ser-Gly-Pro-Asn-Gln-Glu-Gln-Glu(5-[(2-aminoethyl)amino]-naphthalene-1-sulfonic acid)-Arg	12317	HBLZMHFNXQILRV-SYYVPLRQSA-N	22	7.5		pH 7.5, 22C, recombinant FAP
+0.141	7-methoxycoumarin-4-acetic acid-ERGETGPA-dinitrophenyl	16691	IOEQYAQZNCZYFO-MBNVNGORSA-N	37	7.8		in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37C
+0.121	7-methoxycoumarin-4-acetic acid-ERGETGPAG-dinitrophenyl	16692	DSBJWABOCDFVHR-OZMZDWGWSA-N	37	7.8		in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37C
+0.268	7-methoxycoumarin-4-acetic acid-ERGETGPSG-dinitrophenyl	16693	HYZRQSILHPBBDW-FPGFVWCHSA-N	37	7.8		in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37C
+1.2	L-Arg-Lys-(4-(4-dimethylaminophenylazo)benzoyl)-Thr-Ser-Gly-Pro-Asn-Gln-Gln-Gln-Glu(5-[(2-aminoethyl)amino]-naphthalene-1-sulfonic acid)-Arg	12317	HBLZMHFNXQILRV-SYYVPLRQSA-N				recombinant enzyme
+1.1	Phe-Pro-7-amido-4-trifluoromethylcoumarin	24909	KNTZFANRJMTRLY-OALUTQOASA-N	23	7.4		at 23C in 50 mM Tris-HCl, 100 mM NaCl, 1 mM EDTA, pH 7.4
+6.9	Ile-Pro-7-amido-4-trifluoromethylcoumarin	24910	CSFXTSATHALYFG-GYOIFBIXSA-N	23	7.4		at 23C in 50 mM Tris-HCl, 100 mM NaCl, 1 mM EDTA, pH 7.4
+0.01	Lys-Ala-7-amido-4-trifluoromethylcoumarin	24911	OFWMFACIBQDJIS-HZMBPMFUSA-N	23	7.4		at 23C in 50 mM Tris-HCl, 100 mM NaCl, 1 mM EDTA, pH 7.4
+0.196	7-methoxycoumarin-4-acetic acid-ASGPAGPA-dinitrophenyl	24912	VIZZCCKYXBKPMJ-KKFVDBEISA-N	37	7.8		in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37C
+0.115	7-methoxycoumarin-4-acetic acid-EPGPPGPA-dinitrophenyl	24913	KGIWUHOOGDBFFW-HMDHSGHOSA-N	37	7.8		in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37C
+0.081	7-methoxycoumarin-4-acetic acid-DRGETGPA-dinitrophenyl	24914	PZTMVYWPPVDBRT-MENQSWPVSA-N	37	7.8		in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37C
+0.095	7-methoxycoumarin-4-acetic acid-VGPAGK-dinitrophenyl	24915	ZBQPGYHHQATZFC-KYBWXWICSA-N	37	7.8		in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37C
+0.067	7-methoxycoumarin-4-acetic acid-DKGESGPA-dinitrophenyl	24916	JQIZLNPAAORRBR-IMJABKPDSA-N	37	7.8		in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37C
+0.015	7-methoxycoumarin-4-acetic acid-APGSKGDA-dinitrophenyl	24917	RGHVBWOEPCEPTD-MHHNKGNVSA-N	37	7.8		in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37C
+0.003	7-methoxycoumarin-4-acetic acid-DRGETGP-dinitrophenyl	24918	DIJNYTVXYKMSBK-IUDBJOHFSA-N	37	7.8		in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37C
+0.079	7-methoxycoumarin-4-acetic acid-ERGETGPAGG-dinitrophenyl	24919	WQBGSQHMCZDTLA-SJNGSGOYSA-N	37	7.8		in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37C
+0.003	7-methoxycoumarin-4-acetic acid-DSGETGP-dinitrophenyl	24920	LLBNPLGQSXBMTL-BHJVRECCSA-N	37	7.8		in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37C
+0.059	7-methoxycoumarin-4-acetic acid-DSGETGPA-dinitrophenyl	24921	UMLDPVARXLQYFJ-GIGZKPOWSA-N	37	7.8		in 100 mM NaCl, 100 mM Tris, pH 7.8, at 37C
+70.2	MEPLGRQLTSGP-7-amido-4-methylcoumarin	25832	VOOOOYXXPSKORY-VJOCBTDGSA-N	22	7.5		pH 7.5, 22C
+55.3	MEPLGWQLTSGP-7-amido-4-methylcoumarin	25833	QBOCNWJHYKFUFZ-RZGGPZPBSA-N	22	7.5		pH 7.5, 22C
+1.6	Thr-Ser-Gly-Pro-Asn-Gln	25834	KBMSOQRLDBIEHQ-UGNIIIIWSA-N	23			23C
+2.7	Ala-Ser-Gly-Pro-Asn-Gln	25835	LGAOMQFBUCNECN-PEDHHIEDSA-N	23			23C
+1.5	Thr-Ala-Gly-Pro-Asn-Gln	25836	XEUKOKKJHHXBHO-BTGSIIHZSA-N	23			23C
+2	Thr-Ser-Gly-Pro-Ser-Gln	25837	DSSFQGDGIPSCTF-ACLGSTHRSA-N	23			23C
+3.1	Thr-Ser-Gly-Pro-Asn-Ser	25838	XPLHIBVFHQKADA-IPUZAUSCSA-N	23			23C
+5.5	Ala-Ser-Gly-Pro-Ser-Ser	25839	LNHKMAXZZUZUFK-VLJOUNFMSA-N	23			23C
+0.19	Arg-Lys-(4-(4-dimethylaminophenylazo)benzoyl)-Thr-Ser-D-Ala-Pro-Asn-Gln-Glu-Gln-Glu(5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid)-Arg	25840	ADXLCWJRMWTYIK-ZDEMZFFJSA-N	23			23C
+0.22	Arg-Lys-(4-(4-dimethylaminophenylazo)benzoyl)-Thr-Ser-D-Ser-Pro-Asn-Gln-Glu-Gln-Glu(5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid)-Arg	25841	BJUNLNXAIBBYFF-QRCMSVNFSA-N	23			23C
+0.3	acetyl-D-Ala-Pro-7-amido-4-trifluoromethylcoumarin	25842	PIMSNTGAZYGAAT-BMIGLBTASA-N	23			23C
+1.5	D-Ala-Pro-7-amido-4-trifluoromethylcoumarin	25843	GGRRKBLWOMKWNS-RNCFNFMXSA-N	23			23C
+1.19	Tic-Pro-7-amido-4-trifluoromethylcoumarin	114632	DASYXFYFQOEXFB-PMACEKPBSA-N	22	7.5		in 25 mM sodium phosphate buffer, pH 7.5, containing 1.0 mM EDTA and 2% (v/v) methanol, at 22C

@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.24	Fe(III)-citrate	7345	AMFORBZNARAGJY-UHFFFAOYSA-K	25	7.0		in the absence of FAD, in 50 mM sodium phosphate buffer (pH 7.0) containing 0.2 mM NADPH at 25C
+0.95	Fe(III)-EDTA	3287	UOMQUZPKALKDCA-UHFFFAOYSA-J	25	7.0		in the absence of FAD, in 50 mM sodium phosphate buffer (pH 7.0) containing 0.2 mM NADPH at 25C
+1.11	Fe(III)-citrate	7345	AMFORBZNARAGJY-UHFFFAOYSA-K	25	7.0		in the presence of FAD, in 50 mM sodium phosphate buffer (pH 7.0) containing 0.2 mM NADPH at 25C
+2	Fe(III)-EDTA	3287	UOMQUZPKALKDCA-UHFFFAOYSA-J	25	7.0		in the presence of FAD, in 50 mM sodium phosphate buffer (pH 7.0) containing 0.2 mM NADPH at 25C

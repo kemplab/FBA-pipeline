@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.01	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	37	7.5		pH 7.5, 37C
+0.012	nicotinate	787	PVNIIMVLHYAWGP-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+0.25	nicotinate	787	PVNIIMVLHYAWGP-UHFFFAOYSA-N	37	7.5		in the presence of phosphate, pH 7.5, 37C
+0.36	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	37	7.5		in the presence of phosphate, pH 7.5, 37C

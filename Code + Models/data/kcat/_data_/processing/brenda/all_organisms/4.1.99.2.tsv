@@ -1,0 +1,78 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00013	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme K256H
+0.000217	S-ethyl-L-Cys	1772	ULXKXLZEOGLCRJ-BYPYZUCNSA-N			X	mutant enzyme Y71F
+0.000383	S-methyl-L-Cys	724	IDIDJDIHTAOVLG-VKHMYHEASA-N			X	mutant enzyme Y71F
+0.0008	Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N				beta-elimination
+0.001	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme K256A
+0.001	Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				transamination
+0.0012	S-benzyl-L-Cys	3014	GHBAYRBVXCRIHT-VIFPVBQESA-N			X	mutant enzyme Y71F
+0.00153	Ala	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N				beta-elimination
+0.0016	S-methyl-L-Cys	724	IDIDJDIHTAOVLG-VKHMYHEASA-N	25	8.0	X	mutant enzyme D214N, in 50 mM potassium phosphate pH 8.0, at 25C
+0.0025	S-ethyl-L-Cys	1772	ULXKXLZEOGLCRJ-BYPYZUCNSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme K256A
+0.00268	L-m-Tyr	7315	JZKXXXDKRQWDET-QMMMGPOBSA-N				transamination
+0.004	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N			X	mutant enzyme H343A
+0.0052	S-methyl-L-Cys	724	IDIDJDIHTAOVLG-VKHMYHEASA-N	25	8.0	X	mutant enzyme D214A, in 50 mM potassium phosphate pH 8.0, at 25C
+0.0065	3-chloro-L-Ala	1230	ASBJGPTTYPEMLP-REOHCLBHSA-N	25	8.0	X	mutant enzyme D214N, in 50 mM potassium phosphate pH 8.0, at 25C
+0.0067	S-benzyl-L-Cys	3014	GHBAYRBVXCRIHT-VIFPVBQESA-N	25	8.0	X	mutant enzyme D214N, in 50 mM potassium phosphate pH 8.0, at 25C
+0.008	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				racemization
+0.0088	S-ethyl-L-Cys	1772	ULXKXLZEOGLCRJ-BYPYZUCNSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme K256H
+0.0091	S-(o-nitrophenyl)-L-cysteine	3015	NDZOOTLIHLSPMZ-LURJTMIESA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme K256A
+0.01	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				wild-type enzyme
+0.012	Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				beta-elimination
+0.015	L-Met	83	FFEARJCKVFRZRR-BYPYZUCNSA-N				
+0.02	3-chloro-L-Ala	1230	ASBJGPTTYPEMLP-REOHCLBHSA-N	25	8.0	X	mutant enzyme D214A, in 50 mM potassium phosphate pH 8.0, at 25C
+0.02	S-benzoyl-L-Cys	30434	OWZIPHGMKGSDNS-QMMMGPOBSA-N			X	mutant enzyme H343A
+0.02	S-benzyl-L-Cys	3014	GHBAYRBVXCRIHT-VIFPVBQESA-N	25	8.0	X	mutant enzyme D214A, in 50 mM potassium phosphate pH 8.0, at 25C
+0.02	S-ethyl-L-Cys	1772	ULXKXLZEOGLCRJ-BYPYZUCNSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme K256R
+0.024	S-(o-nitrophenyl)-L-Cys	3015	NDZOOTLIHLSPMZ-LURJTMIESA-N	25	8.0	X	mutant enzyme D214A, in 50 mM potassium phosphate pH 8.0, at 25C
+0.027	S-(o-nitrophenyl)-L-cysteine	3015	NDZOOTLIHLSPMZ-LURJTMIESA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme K256H
+0.03	L-Ala	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N				wild-type enzyme
+0.041	S-(o-nitrophenyl)-L-Cys	3015	NDZOOTLIHLSPMZ-LURJTMIESA-N	25	8.0	X	mutant enzyme D214N, in 50 mM potassium phosphate pH 8.0, at 25C
+0.053	3-chloro-L-Ala	1230	ASBJGPTTYPEMLP-REOHCLBHSA-N			X	mutant enzyme Y71F
+0.07	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant enzyme H343A
+0.11	L-Tyr	103	OUYCCCASQSFEME-QMMMGPOBSA-N			X	mutant enzyme R100T/V283R
+0.12	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme K256R
+0.15	O-benzoyl-L-Ser	8543	ZQXBXSLGROYFDW-QMMMGPOBSA-N			X	mutant enzyme Y71F
+0.15	S-methyl-L-Cys	724	IDIDJDIHTAOVLG-VKHMYHEASA-N			X	mutant enzyme H343A
+0.17	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				wild-type enzyme
+0.17	S-(o-nitrophenyl)-L-cysteine	3015	NDZOOTLIHLSPMZ-LURJTMIESA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme K256R
+0.18	3-fluoro-L-Tyr	4489	VIIAUOZUUGXERI-ZETCQYMHSA-N			X	mutant enzyme H343A
+0.2	Tyr	103	OUYCCCASQSFEME-QMMMGPOBSA-N				beta-elimination
+0.25	S-(o-nitrophenyl)-L-Cys	3015	NDZOOTLIHLSPMZ-LURJTMIESA-N			X	mutant enzyme Y71F
+0.31	3,4-dihydroxyphenyl-L-alanine	275	WTDRDQBEARUVNC-LURJTMIESA-N	30	8.0		wild type enzyme, in 0.1 M potassium phosphate buffer (pH 8.0) at 30C
+0.37	S-ethyl-L-Cys	1772	ULXKXLZEOGLCRJ-BYPYZUCNSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme E69D/K256R
+0.42	L-Tyr	103	OUYCCCASQSFEME-QMMMGPOBSA-N			X	mutant enzyme H343A
+0.5	S-benzyl-L-Cys	3014	GHBAYRBVXCRIHT-VIFPVBQESA-N				wild-type enzyme
+0.5	S-benzyl-L-Cys	3014	GHBAYRBVXCRIHT-VIFPVBQESA-N	25	8.0		wild type enzyme, in 50 mM potassium phosphate pH 8.0, at 25C
+0.52	S-benzyl-L-Cys	3014	GHBAYRBVXCRIHT-VIFPVBQESA-N				wild-type enzyme
+0.68	3,4-dihydroxyphenyl-L-alanine	275	WTDRDQBEARUVNC-LURJTMIESA-N	30		X	mutant enzyme T15A, at 30C
+0.7	3-chloro-L-Ala	1230	ASBJGPTTYPEMLP-REOHCLBHSA-N				wild-type enzyme
+0.7	3-chloro-L-Ala	1230	ASBJGPTTYPEMLP-REOHCLBHSA-N	25	8.0		wild type enzyme, in 50 mM potassium phosphate pH 8.0, at 25C
+0.748	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N				
+0.9	S-methyl-L-Cys	724	IDIDJDIHTAOVLG-VKHMYHEASA-N				wild-type enzyme
+0.9	S-methyl-L-Cys	724	IDIDJDIHTAOVLG-VKHMYHEASA-N				wild-type enzyme
+0.9	S-methyl-L-Cys	724	IDIDJDIHTAOVLG-VKHMYHEASA-N	25	8.0		wild type enzyme, in 50 mM potassium phosphate pH 8.0, at 25C
+1.13	3-chloro-L-Ala	1230	ASBJGPTTYPEMLP-REOHCLBHSA-N			X	mutant enzyme R100T/V283R
+1.2	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30	8.0	X	mutant enzyme T15A, in 0.1 M potassium phosphate buffer (pH 8.0) at 30C
+1.4	3-fluoro-L-Tyr	4489	VIIAUOZUUGXERI-ZETCQYMHSA-N				wild-type enzyme
+1.4	3-fluoro-L-Tyr	4489	VIIAUOZUUGXERI-ZETCQYMHSA-N	25	8.0		wild type enzyme, in 50 mM potassium phosphate pH 8.0, at 25C
+1.4	S-ethyl-L-Cys	1772	ULXKXLZEOGLCRJ-BYPYZUCNSA-N			X	mutant enzyme H343A
+1.55	S-(o-nitrophenyl)-L-Cys	3015	NDZOOTLIHLSPMZ-LURJTMIESA-N			X	mutant enzyme H343A
+1.7	S-ethyl-L-Cys	1772	ULXKXLZEOGLCRJ-BYPYZUCNSA-N				wild-type enzyme
+1.8	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30	8.0		wild type enzyme, in 0.1 M potassium phosphate buffer (pH 8.0) at 30C
+2.2	L-Tyr	103	OUYCCCASQSFEME-QMMMGPOBSA-N				wild-type enzyme
+3	3-chloro-L-Ala	1230	ASBJGPTTYPEMLP-REOHCLBHSA-N				wild-type enzyme
+3	3-chloro-L-Ala	1230	ASBJGPTTYPEMLP-REOHCLBHSA-N				wild-type enzyme
+3.5	L-Tyr	103	OUYCCCASQSFEME-QMMMGPOBSA-N				wild-type enzyme
+3.5	L-Tyr	103	OUYCCCASQSFEME-QMMMGPOBSA-N				wild-type enzyme
+3.5	L-Tyr	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	8.0		wild type enzyme, in 50 mM potassium phosphate pH 8.0, at 25C
+3.7	L-Tyr	103	OUYCCCASQSFEME-QMMMGPOBSA-N				
+3.88	S-ethyl-L-Cys	1772	ULXKXLZEOGLCRJ-BYPYZUCNSA-N				wild-type enzyme
+5.1	S-(o-nitrophenyl)-L-Cys	3015	NDZOOTLIHLSPMZ-LURJTMIESA-N				wild-type enzyme
+5.1	S-(o-nitrophenyl)-L-Cys	3015	NDZOOTLIHLSPMZ-LURJTMIESA-N				wild-type enzyme
+5.1	S-(o-nitrophenyl)-L-Cys	3015	NDZOOTLIHLSPMZ-LURJTMIESA-N	25	8.0		wild type enzyme, in 50 mM potassium phosphate pH 8.0, at 25C
+6.08	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N				
+7.4	S-(o-nitrophenyl)-L-cysteine	3015	NDZOOTLIHLSPMZ-LURJTMIESA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme E69D/K256R
+8.3	O-benzoyl-L-Ser	8543	ZQXBXSLGROYFDW-QMMMGPOBSA-N				wild-type enzyme
+8.3	O-benzoyl-L-Ser	8543	ZQXBXSLGROYFDW-QMMMGPOBSA-N				wild-type enzyme
+9.7	S-(o-nitrophenyl)-L-Cys	3015	NDZOOTLIHLSPMZ-LURJTMIESA-N				wild-type enzyme

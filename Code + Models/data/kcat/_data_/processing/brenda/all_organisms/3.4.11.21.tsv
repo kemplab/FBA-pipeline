@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.011	Glu-7-amido-4-methylcoumarin	1851	USALUSONPMPEKY-NSHDSACASA-N		7.5		at pH 7.5, in the absesence of Co2+
+0.33	Glu-7-amido-4-methylcoumarin	1851	USALUSONPMPEKY-NSHDSACASA-N		7.5		at pH 7.5, in the presence of 1 mM Co2+
+0.05	Asp-7-amido-4-methylcoumarin	5843	AAGPGZSFBVEQMU-JTQLQIEISA-N		7.5		at pH 7.5, in the absence of Co2+
+0.354	Asp-7-amido-4-methylcoumarin	5843	AAGPGZSFBVEQMU-JTQLQIEISA-N		7.5		at pH 7.5, in the presence of 1 mM Co2+

@@ -1,0 +1,56 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.026	4-nitrophenol	75	BTJIUGUIPKRLHP-UHFFFAOYSA-N			X	mutant enzyme D247L, enzyme form SULT1D1
+0.089	4-nitrophenol	75	BTJIUGUIPKRLHP-UHFFFAOYSA-N			X	mutant enzyme O86D, enzyme form SULT1D1
+0.15	4-nitrophenol	75	BTJIUGUIPKRLHP-UHFFFAOYSA-N				wild-type enzyme, enzyme form SULT1D1
+30	4-nitrophenol	75	BTJIUGUIPKRLHP-UHFFFAOYSA-N	37	6.8		isoform ST1, in 50 mM sodium phosphate, pH 6.8, at 37C
+70	4-nitrophenol	75	BTJIUGUIPKRLHP-UHFFFAOYSA-N	37	6.8		isoform ST4, in 50 mM sodium phosphate, pH 6.8, at 37C
+330	4-nitrophenol	75	BTJIUGUIPKRLHP-UHFFFAOYSA-N	37	6.8		isoform ST3, in 50 mM sodium phosphate, pH 6.8, at 37C
+8.5	3'-phosphoadenylyl sulfate	106	GACDQMDRPRGCTN-KQYNXXCUSA-N	37	6.8		isoform ST1, in 50 mM sodium phosphate, pH 6.8, at 37C
+27	3'-phosphoadenylyl sulfate	106	GACDQMDRPRGCTN-KQYNXXCUSA-N	37	6.8		isoform ST4, in 50 mM sodium phosphate, pH 6.8, at 37C
+40.7	3'-phosphoadenylyl sulfate	106	GACDQMDRPRGCTN-KQYNXXCUSA-N	37	6.8		isoform ST3, in 50 mM sodium phosphate, pH 6.8, at 37C
+0.028	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N			X	mutant enzyme D247L, enzyme form SULT1D1
+0.09	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N			X	mutant enzyme O86D, enzyme form SULT1D1
+0.18	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N				wild-type enzyme, enzyme form SULT1D1
+0.113	phenol	219	ISWSIDIOOBJBQZ-UHFFFAOYSA-N				isoenzyme I
+0.113	phenol	219	ISWSIDIOOBJBQZ-UHFFFAOYSA-N				isoenzyme I
+0.122	phenol	219	ISWSIDIOOBJBQZ-UHFFFAOYSA-N				isoenzyme II
+0.122	phenol	219	ISWSIDIOOBJBQZ-UHFFFAOYSA-N				isoenzyme II
+0.0015	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N				enzyme form SULT2A1, 4'-sulfate formation
+0.0062	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N				enzyme form SULT2A1, 7-sulfate formation
+0.013	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N				enzyme form SULT1A1, 4'-sulfate formation
+0.024	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N				enzyme form SULT1A3, 4'-sulfate formation
+0.11	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N				enzyme form SULT1A1, 7-sulfate formation
+0.12	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N				enzyme form SULT1E1, 7-sulfate formation
+0.124	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N				enzyme form SULT1E1, 4'-sulfate formation
+0.00033	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N				enzyme form SULT2A1, 4'-sulfate formation
+0.0035	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N				enzyme form SULT2A1, 7-sulfate formation
+0.005	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N				enzyme form SULT1A3, 4'-sulfate formation
+0.0055	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N				enzyme form SULT1A1, 4'-sulfate formation
+0.02	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N				enzyme form SULT1A1, 7-sulfate formation
+0.095	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N				enzyme form SULT1E1, 7-sulfate formation
+0.1065	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N				enzyme form SULT1E1, 4'-sulfate formation
+0.783	2-naphthol	1061	JWAZRIHNYRIHIV-UHFFFAOYSA-N				isoenzyme I
+0.783	2-naphthol	1061	JWAZRIHNYRIHIV-UHFFFAOYSA-N				isoenzyme I
+0.9	2-naphthol	1061	JWAZRIHNYRIHIV-UHFFFAOYSA-N				isoenzyme II
+0.9	2-naphthol	1061	JWAZRIHNYRIHIV-UHFFFAOYSA-N				isoenzyme II
+0.667	4-Chlorophenol	1150	WXNZTHHGJRFXKQ-UHFFFAOYSA-N				isoenzyme II
+0.8	4-Chlorophenol	1150	WXNZTHHGJRFXKQ-UHFFFAOYSA-N				isoenzyme I
+0.01	5-hydroxytryptamine	365	QZAYGJVTTNCVMB-UHFFFAOYSA-N				isoenzyme II
+0.025	5-hydroxytryptamine	365	QZAYGJVTTNCVMB-UHFFFAOYSA-N				isoenzyme I
+1.55	4-methoxyphenol	1857	NWVVVBRKAWDGAB-UHFFFAOYSA-N				isoenzyme I
+1.55	4-methoxyphenol	1857	NWVVVBRKAWDGAB-UHFFFAOYSA-N				isoenzyme I
+2	4-methoxyphenol	1857	NWVVVBRKAWDGAB-UHFFFAOYSA-N				isoenzyme II
+2	4-methoxyphenol	1857	NWVVVBRKAWDGAB-UHFFFAOYSA-N				isoenzyme II
+0.733	2-chlorophenol	2100	ISPYQTSUDJAMAB-UHFFFAOYSA-N				isoenzyme I
+0.6	5-hydroxyindole	3534	LMIQERWZRIFWNZ-UHFFFAOYSA-N				isoenzyme II
+0.65	5-hydroxyindole	3534	LMIQERWZRIFWNZ-UHFFFAOYSA-N				isoenzyme I
+0.00183	daidzein 4'-sulfate	7780	CQRHJEVIKOKQMO-UHFFFAOYSA-N				enzyme form SULT1A1
+0.063	daidzein 4'-sulfate	7780	CQRHJEVIKOKQMO-UHFFFAOYSA-N				enzyme form SULT1E1
+0.00116	genistein 7-sulfate	7781	DKEIWIJUHWVGRC-UHFFFAOYSA-N				enzyme form SULT1A1
+0.06	genistein 7-sulfate	7781	DKEIWIJUHWVGRC-UHFFFAOYSA-N				enzyme form SULT1E1
+0.0067	genistein 4'-sulfate	7782	KIWWRRLFZKBEAL-UHFFFAOYSA-N				enzyme form SULT1A1
+0.035	genistein 4'-sulfate	7782	KIWWRRLFZKBEAL-UHFFFAOYSA-N				enzyme form SULT1E1
+0.65	3-hydroxyindole	8277	PCKPVGOLPKLUHR-UHFFFAOYSA-N				
+0.733	3-hydroxyindole	8277	PCKPVGOLPKLUHR-UHFFFAOYSA-N				isoenzyme I
+0.00016	daidzein 7-sulfate	9128	AUXMRGLXSPIQNV-UHFFFAOYSA-N				enzyme form SULT1A1
+0.076	daidzein 7-sulfate	9128	AUXMRGLXSPIQNV-UHFFFAOYSA-N				enzyme form SULT1E1

@@ -1,0 +1,415 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00098	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				with fluorodifen as cosubstrate, pH and temperature not specified in the publication
+0.005	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		isoform Gstz1, at pH 6.5 and 25C
+0.01	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		pH 6.5, 25C, recombinant enzyme, with (2Z,4E)-3-chloro-6-(3,5-dichlorophenyl)-2-hydroxy-6-oxohexa-2,4-dienoic acid
+0.02	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		isoform GSTd14, at pH 6.5 and 25C
+0.027	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		isoform GSTd10, at pH 6.5 and 25C
+0.04	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	6.5		pH 6.5, 37C, recombinant AtuGSTH1-1, with 2-hydroxyethyl disulfide
+0.12	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5	X	pH 6.5, 25C, mutant F113A
+0.16	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		pH 6.5, 25C, recombinant enzyme, with (2Z,4E)-3-chloro-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid
+0.16	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	8.0	X	mutant enzyme S11A, at pH 8.0 and 30C
+0.16	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				with cumene hydroperoxide as cosubstrate, pH and temperature not specified in the publication
+0.17	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant S16A
+0.2	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				
+0.23	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N		6.5	X	recombinant mutant S22A, pH 6.5, temperature not specified in the publication
+0.24	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		pH 6.5, 25C, recombinant enzyme, with (2E,4Z)-5-chloro-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid
+0.26	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		with tert-butyl peroxide as cosubstrate, at pH 6.5 and 25C
+0.264	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	7.4		pH 7.4, 37C
+0.28	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	S9A mutant, cosubstrate: 1-chloro-2,4-dinitrobenzene
+0.3	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5	X	mutant enzyme C10S, at 25C, in 100 mM phosphate buffer (pH 6.5)
+0.3	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	122	8.0	X	Ure2p mutant A122C, at 25C and pH 8.0, in the presence of 1 mM dithiothreitol
+0.32	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant D69A
+0.39	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		isoform GSTm09, at pH 6.5 and 25C
+0.43	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5	X	pH 6.5, 25C, mutant H167A
+0.45	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30		X	mutant enzyme C10A/S11A, at 30C
+0.47	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant D201A; pH 7.4, 25C, recombinant GSTk mutant L183A
+0.52	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	8.0	X	mutant enzyme F119A, at pH 8.0 and 30C
+0.53	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	6.5		pH 6.5, 37C, recombinant AtuGSTH1-1, with 1-chloro-2,4-dinitrobenzene
+0.58	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	8.0	X	mutant enzyme H52A, at pH 8.0 and 30C
+0.58	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		with cumene hydroperoxide as cosubstrate, at pH 6.5 and 25C
+0.67	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant R202A
+0.75	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant K62E
+0.78	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	8.0	X	mutant enzyme V54A, at pH 8.0 and 30C
+0.82	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		with fluorodifen as cosubstrate, at pH 6.5 and 25C
+0.85	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	8.0	X	mutant enzyme E66A, at pH 8.0 and 30C
+0.88	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		pH 6.5, 25C, wild-type enzyme
+0.89	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant K62A
+0.99	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant S200A
+1.1	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5	X	mutant enzyme H106A, at 25C, in 100 mM phosphate buffer (pH 6.5)
+1.13	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant F108G, pH and temperature not specified in the publication
+1.18	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	7.4		pH 7.4, 25C, recombinant wild-type GSTk
+1.33	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant D69T
+1.42	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				with 1-chloro-2,4-dinitrobenzene as cosubstrate, pH and temperature not specified in the publication
+1.43	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				with tert-butyl peroxide as cosubstrate, pH and temperature not specified in the publication
+1.56	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant Y18F
+1.56	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5	X	pH 6.5, 25C, mutant S110A
+1.62	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	8.0		wild type enzyme, at pH 8.0 and 30C
+1.7	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	8.0	X	Ure2p mutant N124V, at 25C and pH 8.0
+1.75	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant N53A
+1.83	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	8.0	X	mutant enzyme S67A, at pH 8.0 and 30C
+2.29	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant P56A
+2.65	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		with 1-chloro-2,4-dinitrobenzene as cosubstrate, at pH 6.5 and 25C
+2.67	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	8.0	X	mutant enzyme R68A, at pH 8.0 and 30C
+3.74	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant S19A
+3.82	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25			at 25C
+4.3	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		at pH 6.5 and 25C
+4.37	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5	X	pH 6.5, 25C, mutant H167A
+6	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				recombinant His6-tagged isozyme GSTE8-8, pH and temperature not specified in the publication
+6.38	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5	X	pH 6.5, 25C, mutant F113A
+6.44	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5	X	pH 6.5, 25C, mutant S110A
+6.8	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5	X	mutant enzyme H106F, at 25C, in 100 mM phosphate buffer (pH 6.5)
+7	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				recombinant His6-tagged isozyme GSTE7-7, pH and temperature not specified in the publication
+7.33	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				
+7.67	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				minor enzyme form
+7.7	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		wild type enzyme, at 25C, in 100 mM phosphate buffer (pH 6.5)
+7.95	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				
+8.69	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		isoform Gsto2, at pH 6.5 and 25C
+10	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				recombinant His6-tagged isozyme GSTE1-1, pH and temperature not specified in the publication
+11	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				recombinant His6-tagged isozyme GSTE2-2 from strain NO, pH and temperature not specified in the publication
+11	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant R113A, pH and temperature not specified in the publication
+11.03	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N		6.5		recombinant wild-type, pH 6.5, temperature not specified in the publication
+11.2	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		isoform Gstta1, at pH 6.5 and 25C
+11.79	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30		X	mutant enzyme C10A, at 30C
+12.2	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				major enzyme form
+12.4	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		pH 6.5, 25C, wild-type enzyme
+14	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				wild-type enzyme, pH and temperature not specified in the publication
+14.1	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		isoform Gstp2, at pH 6.5 and 25C
+14.99	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5	X	pH 6.5, 25C, mutant W164A
+15.48	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	7.5		at pH 7.5 and 30C
+16.4	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	7.5		at pH 7.5 and 30C
+16.51	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30			wild type enzyme, at 30C
+16.6	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		isoform Gsta3, at pH 6.5 and 25C
+17	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30			at 30C in 0.1 M potassium phosphate buffer
+20.8	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		isoform Gstr1, at pH 6.5 and 25C
+22.7	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		isoform Gstm1, at pH 6.5 and 25C
+23	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				recombinant His6-tagged isozyme GSTE2-2 from strain PMD-R, pH and temperature not specified in the publication; recombinant His6-tagged isozyme GSTE4-4, pH and temperature not specified in the publication
+29.7	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5	X	pH 6.5, 25C, mutant W164A
+39.8	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N		8.0		pH 8.0, substrate concentration 0.1-0.3 mM
+41	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5	X	mutant enzyme C10A, at 25C, in 100 mM phosphate buffer (pH 6.5)
+46	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				recombinant His6-tagged isozyme GSTE3-3, pH and temperature not specified in the publication
+47.3	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	7.4		pH 7.4, 30C, purified recombinant isozyme P1-1
+48.7	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30			at 30C in 0.1 M potassium phosphate buffer
+51	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				recombinant His6-tagged isozyme GSTE5-5, pH and temperature not specified in the publication
+53	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				wild-type, cosubstrate: 1-chloro-2,4-dinitrobenzene
+57.2	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		isoform Gstm3, at pH 6.5 and 25C
+57.87	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25			at 25C
+129	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		isoform Gstp1, at pH 6.5 and 25C
+141.7	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	7.5		at pH 7.5 and 30C
+144	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	Y113F mutant, cosubstrate: 1-chloro-2,4-dinitrobenzene
+274.4	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		pH 6.5, 25C
+552	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N		8.0		pH 8.0, substrate concentration 0.3-2.0 mM
+692.8	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	7.6		isoform GstO2A, at pH 7.6 and 30C
+905.8	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	7.6		isoform GstO2B, at pH 7.6 and 30C
+2286	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	6.5		pH 6.5, 25C, recombinant catalytically active monoclonal antibody fragment ScFv2F3
+0.19	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme R175A of glutathione transferase Zeta 1c-1c, reaction with (+)-2-bromo-3-(4-nitrophenyl)propanoic acid
+0.32	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25		X	25C, mutant enzyme E66A
+0.35	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25		X	25C, mutant enzyme S67A
+0.52	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25		X	25C, mutant enzyme K40A
+0.61	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme R175K of glutathione transferase Zeta 1c-1c, reaction with (+)-2-bromo-3-(4-nitrophenyl)propanoic acid
+1	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme S15A of glutathione transferase Zeta 1c-1c, reaction with (+)-2-bromo-3-(4-nitrophenyl)propanoic acid
+2.55	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme C16A of glutathione transferase Zeta 1c-1c, reaction with (+)-2-bromo-3-(4-nitrophenyl)propanoic acid
+2.6	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				selenoenzyme
+3.4	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25		X	25C, mutant enzyme I54A
+6.48	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25			25C, wild-type enzyme
+6.7	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				reaction with 1-chloro-2,3-dinitrobenzene
+16.6	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				wild-type enzyme
+18.6	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				wild-type enzyme
+19.78	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme L103A
+20.3	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				
+21.94	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme L103N
+30.16	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme L103M
+31.9	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme L103E
+36.21	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme L103I
+72.6	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme S15A of glutathione transferase Zeta 1c-1c, reaction with maleylacetone
+74.5	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				
+107	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30		X	30C, mutant enzyme Y108F, reaction with 1,2-epoxy-3-(p-nitrophenoxy)propane
+108	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30			30C, wild-type enzyme, reaction with 1,2-epoxy-3-(p-nitrophenoxy)propane
+110	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30		X	30C, mutant enzyme Y108F, reaction with 1,2-dichloro-4-nitrobenzene
+132	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30		X	30C, mutant enzyme Y108A, reaction with 1,2-epoxy-3-(p-nitrophenoxy)propane
+141	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme C16A of glutathione transferase Zeta 1c-1c, reaction with maleylacetone
+149	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme R175A of glutathione transferase Zeta 1c-1c, reaction with maleylacetone
+150	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30		X	30C, mutant enzyme Y108W, reaction with 1,2-epoxy-3-(p-nitrophenoxy)propane
+368	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme R175K of glutathione transferase Zeta 1c-1c, reaction with maleylacetone
+410	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30		X	30C, mutant enzyme Y108A, reaction with 1,2-dichloro-4-nitrobenzene; 30C, wild-type enzyme, reaction with 1,2-dichloro-4-nitrobenzene
+464	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	7.4		pH 7.4, 37C, glutathione transferase Zeta 1c-1c, reaction with maleylacetone
+551	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				
+700	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30		X	30C, mutant enzyme Y108W, reaction with 1,2-dichloro-4-nitrobenzene
+1020	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30		X	30C, mutant enzyme Y108F, reaction with cumene hydroperoxide
+1370	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30			30C, wild-type enzyme, reaction with cumene hydroperoxide
+1610	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30		X	30C, mutant enzyme Y108W, reaction with cumene hydroperoxide
+1700	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30		X	30C, mutant enzyme Y108A, reaction with cumene hydroperoxide
+0.03	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	6.5		isoform GSTd14, at pH 6.5 and 25C
+0.051	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	6.5		isoform GSTd10, at pH 6.5 and 25C
+0.0897	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30	6.5	X	pH 6.5, 30C, recombinant GSTU4-4 mutant S13A
+0.098	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				
+0.1	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		7.5		isoform GTT1.2, at pH 7.5, temperature not specified in the publication
+0.14	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	mutant enzyme L33Y
+0.2	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	6.5	X	pH 6.5, 25C, mutant F113A
+0.25	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	6.5		isoform GSTm09, at pH 6.5 and 25C
+0.26	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	mutant enzyme I52A
+0.27	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30	8.0	X	mutant enzyme S11A, at pH 8.0 and 30C
+0.33	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30	8.0	X	mutant enzyme F119A, at pH 8.0 and 30C
+0.5	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25		X	25C, mutant enzyme S67A
+0.53	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	37	6.5		pH 6.5, 37C, recombinant AtuGSTH1-1
+0.54	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		6.5	X	mutant enzyme F212E, in 0.1 M phosphate buffer pH 6.5
+0.65	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	mutant enzyme L33F
+0.85	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30		X	mutant enzyme C10A/S11A, at 30C
+0.99	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	recombinant His-tagged mutant F108G, pH and temperature not specified in the publication
+1.07	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30	8.0	X	mutant enzyme V54A, at pH 8.0 and 30C
+1.08	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25		X	25C, mutant enzyme E66A
+1.1	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	6.5	X	mutant enzyme H106A, at 25C, in 100 mM phosphate buffer (pH 6.5)
+1.15	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+1.19	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant L15A
+1.27	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30	8.0	X	mutant enzyme H52A, at pH 8.0 and 30C
+1.45	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30	6.5	X	pH 6.5, 30C, recombinant GSTU4-4 mutant D48A
+1.5	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		7.5		isoform Ure2pB1, at pH 7.5, temperature not specified in the publication
+1.6	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	6.5	X	mutant enzyme C10S, at 25C, in 100 mM phosphate buffer (pH 6.5)
+1.7	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25		X	25C, mutant enzyme K40A
+2.08	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	20	6.5		isoform GSTO7, at pH 6.5 and 20C
+2.13	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C, wild-type enzyme
+2.14	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		6.5	X	mutant enzyme T174A, in 0.1 M phosphate buffer pH 6.5
+2.35	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30			wild type enzyme, at 30C
+2.38	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant P17A
+2.4	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant L58A
+2.44	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25			at 25C
+2.48	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30	6.5		pH 6.5, 30C, recombinant wild-type GSTU4-4
+2.67	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30	8.0	X	mutant enzyme E66A, at pH 8.0 and 30C; wild type enzyme, at pH 8.0 and 30C
+2.89	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30			isoform GSTU16, pH not specified in the publication, at 30C
+2.94	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant W126A
+3	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30	8.0	X	mutant enzyme S67A, at pH 8.0 and 30C
+3.17	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30	8.0	X	mutant enzyme R68A, at pH 8.0 and 30C
+3.18	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant F83W
+3.18	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	6.5	X	pH 6.5, 25C, mutant H167A
+3.28	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant I44A
+3.55	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		6.5	X	mutant enzyme F212H, in 0.1 M phosphate buffer pH 6.5
+3.56	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				enzyme form GSTR1
+3.94	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, recombinant wild-type GSTk
+4.18	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant F87A
+4.5	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				minor enzyme form
+4.5	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant P55A
+4.7	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	6.5	X	pH 6.5, 25C, mutant S110A
+4.75	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25		X	25C, mutant enzyme I54A
+4.8	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	6.5	X	mutant enzyme H106F, at 25C, in 100 mM phosphate buffer (pH 6.5)
+5	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant L88A
+5.11	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant M91K
+5.3	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30			isoform GSTU45, pH not specified in the publication, at 30C
+5.5	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant M91A
+5.78	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant F87W
+5.9	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30	6.5	X	pH 6.5, 30C, recombinant GSTU4-4 mutant P49A
+6	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				recombinant His6-tagged isozyme GSTE8-8, pH and temperature not specified in the publication
+6.24	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant F83A
+6.44	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		6.5	X	mutant enzyme F212Y, in 0.1 M phosphate buffer pH 6.5
+6.74	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25			25C, wild-type enzyme
+7	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				recombinant His6-tagged isozyme GSTE7-7, pH and temperature not specified in the publication
+7.83	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, recombinant GSTk mutant P56A
+8	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	recombinant His-tagged mutant R113A, pH and temperature not specified in the publication
+8.85	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		6.5	X	mutant enzyme F212W, in 0.1 M phosphate buffer pH 6.5
+9.1	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	6.5		wild type enzyme, at 25C, in 100 mM phosphate buffer (pH 6.5)
+9.7	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	mutant enzyme L33A
+9.73	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	mutant enzyme T31A
+10	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				recombinant His6-tagged isozyme GSTE1-1, pH and temperature not specified in the publication
+10.78	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30		X	mutant enzyme C10A, at 30C
+10.9	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30	7.5		at pH 7.5 and 30C
+11	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				recombinant His6-tagged isozyme GSTE2-2 from strain NO, pH and temperature not specified in the publication
+11.7	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				recombinant His-tagged wild-type enzyme, pH and temperature not specified in the publication
+12.6	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		6.5	X	mutant enzyme Y215S, in 0.1 M phosphate buffer pH 6.5
+12.8	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		6.5	X	mutant enzyme F216A, in 0.1 M phosphate buffer pH 6.5
+13.9	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		6.5	X	mutant enzyme Y215A, in 0.1 M phosphate buffer pH 6.5
+14.9	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		6.5	X	mutant enzyme F212A, in 0.1 M phosphate buffer pH 6.5
+17	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		6.5	X	mutant enzyme Y215E, in 0.1 M phosphate buffer pH 6.5
+17.7	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	mutant enzyme L6A
+18	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	6.5		at pH 6.5 and 25C
+18.3	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				major enzyme form
+18.3	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	mutant enzyme I52L
+18.6	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				wild-type enzyme
+18.7	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		6.5	X	mutant enzyme F212L, in 0.1 M phosphate buffer pH 6.5
+19.78	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	mutant enzyme L103A
+20.3	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				
+20.4	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	mutant enzyme E37A
+20.5	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		6.5	X	mutant enzyme R214A, in 0.1 M phosphate buffer pH 6.5
+20.7	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		6.5	X	mutant enzyme Y215H, in 0.1 M phosphate buffer pH 6.5
+21.44	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	6.5	X	pH 6.5, 25C, mutant W164A
+21.5	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	mutant enzyme K40A
+21.6	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	27	6.5	X	25-27C, pH 6.5, mutant enzyme V147L
+21.94	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	mutant enzyme L103N
+22.2	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	mutant enzyme L33I
+22.2	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25			recombinant enzyme, at 25C
+22.4	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	mutant enzyme A35R
+23	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				recombinant His6-tagged isozyme GSTE2-2 from strain PMD-R, pH and temperature not specified in the publication; recombinant His6-tagged isozyme GSTE4-4, pH and temperature not specified in the publication
+24.9	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	27	6.5	X	25-27C, pH 6.5, mutant enzyme V147A
+25.1	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				recombinant detagged wild-type enzyme, pH and temperature not specified in the publication
+25.2	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	27	6.5		25-27C, pH 6.5, wild-type enzyme
+26.1	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				wild-type enzyme
+26.3	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	mutant enzyme E37Q
+26.4	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		6.5	X	mutant enzyme Q112A, in 0.1 M phosphate buffer pH 6.5
+26.5	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	mutant enzyme K42A
+26.5	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		6.5		wild type enzyme, in 0.1 M phosphate buffer pH 6.5
+27	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				isoenzyme 4-4, cofactor: glutathione
+27.8	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	27	6.5	X	25-27C, pH 6.5, mutant enzyme D150S
+29.1	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	27	6.5	X	25-27C, pH 6.5, mutant enzyme H144A
+29.42	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		6.5	X	recombinant mutant S22A, pH 6.5, temperature not specified in the publication
+29.5	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	27	6.5	X	25-27C, pH 6.5, mutant enzyme D150Y
+30.16	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	mutant enzyme L103M
+31.7	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	27	6.5	X	25-27C, pH 6.5, mutant enzyme D150A
+31.9	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	mutant enzyme L103E
+35.7	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		6.5	X	mutant enzyme Y215F, in 0.1 M phosphate buffer pH 6.5
+36.21	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N			X	mutant enzyme L103I
+38.18	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		7.5		isoform GSTFuA1, at pH 7.5, temperature not specified in the publication
+39.8	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		8.0		pH 8.0, substrate concentration 0.1-0.3 mM
+46	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				recombinant His6-tagged isozyme GSTE3-3, pH and temperature not specified in the publication
+46.8	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	27	6.5	X	25-27C, pH 6.5, mutant enzyme R96A
+51	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				recombinant His6-tagged isozyme GSTE5-5, pH and temperature not specified in the publication
+54	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				isoenzyme 3-3, cofactor: glutathione
+55.8	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	6.5	X	mutant enzyme C10A, at 25C, in 100 mM phosphate buffer (pH 6.5)
+63	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				isoenzyme 1-2, cofactor: glutathione
+65	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				isoenzyme 3-4, cofactor: glutathione
+65.43	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25			at 25C
+74.5	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				
+76	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				
+78	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				isoenzyme 1-1, cofactor: glutathione
+82	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				isoenzyme 3-?, cofactor: glutathione
+82	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30	7.4		pH 7.4, 30C, purified recombinant isozyme P1-1
+84	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30	7.8		pH 7.8, 30C
+99	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30	7.5		at pH 7.5 and 30C
+103.3	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30	7.4		pH 7.4, 30C, purified recombinant isozyme P1-1
+187	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	4	6.5		4C, 20 mM sodium phosphate buffer, pH 6.5, 0.5 mM glutathione
+190.6	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				
+193	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				ssGST3
+251.2	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+552	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N		8.0		pH 8.0, substrate concentration 0.3-2.0 mM
+610	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	30	7.5		at pH 7.5 and 30C
+761	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				transferase P1-1, cofactor: glutathione
+1515	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N				
+2286	1-chloro-2,4-dinitrobenzene	164	VYZAHLCBVHPDDF-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C, recombinant catalytically active monoclonal antibody fragment ScFv2F3
+1.26	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N	20	6.5		isoform GSTO4, at pH 6.5 and 20C
+11.9	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N	25	6.5		isoform Gsto2, at pH 6.5 and 25C
+673.7	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N	30	7.6		isoform GstO2A, at pH 7.6 and 30C
+925.2	dehydroascorbate	362	SBJKKFFYIZUCET-JLAZNSOCSA-N	30	7.6		isoform GstO2B, at pH 7.6 and 30C
+0.29	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N		6.5	X	recombinant mutant S22A, pH 6.5, temperature not specified in the publication
+27.6	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N		6.5		recombinant wild-type, pH 6.5, temperature not specified in the publication
+4.8	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	30	7.8		pH 7.8, 30C
+0.14	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme L33Y
+0.26	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme I52A
+0.65	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme L33F
+9.7	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme L33A
+9.73	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme T31A
+17.7	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme L6A
+18.3	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme I52L
+20.4	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme E37A
+21.5	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme K40A
+21.6	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	27	6.5	X	25-27C, pH 6.5, mutant enzyme V147L
+22.2	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme L33I
+22.4	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme A35R
+24.9	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	27	6.5	X	25-27C, pH 6.5, mutant enzyme V147A
+25.2	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	27	6.5		25-27C, pH 6.5, wild-type enzyme
+26.1	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				wild-type enzyme
+26.3	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme E37Q
+26.5	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N			X	mutant enzyme K42A
+27.8	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	27	6.5	X	25-27C, pH 6.5, mutant enzyme D150S
+29.1	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	27	6.5	X	25-27C, pH 6.5, mutant enzyme H144A
+29.5	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	27	6.5	X	25-27C, pH 6.5, mutant enzyme D150Y
+31.7	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	27	6.5	X	25-27C, pH 6.5, mutant enzyme D150A
+39	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme
+46.8	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	27	6.5	X	25-27C, pH 6.5, mutant enzyme R96A
+0.27	cumene hydroperoxide	653	YQHLDYVWEZKEOX-UHFFFAOYSA-N	30			isoform GSTU45, pH not specified in the publication, at 30C
+0.58	cumene hydroperoxide	653	YQHLDYVWEZKEOX-UHFFFAOYSA-N	30			isoform GSTU16, pH not specified in the publication, at 30C
+200	cumene hydroperoxide	653	YQHLDYVWEZKEOX-UHFFFAOYSA-N	30		X	30C, mutant enzyme Y108A
+2700	cumene hydroperoxide	653	YQHLDYVWEZKEOX-UHFFFAOYSA-N	30		X	30C, mutant enzyme Y108W
+8100	cumene hydroperoxide	653	YQHLDYVWEZKEOX-UHFFFAOYSA-N	30		X	30C, mutant enzyme Y108F
+9600	cumene hydroperoxide	653	YQHLDYVWEZKEOX-UHFFFAOYSA-N	30			30C, wild-type enzyme
+0.2	Ethacrynic acid	803	AVOLMBLBETYQHX-UHFFFAOYSA-N		6.5	X	mutant enzyme F212L, in 0.1 M phosphate buffer pH 6.5
+0.28	Ethacrynic acid	803	AVOLMBLBETYQHX-UHFFFAOYSA-N		6.5		wild type enzyme, in 0.1 M phosphate buffer pH 6.5
+0.36	Ethacrynic acid	803	AVOLMBLBETYQHX-UHFFFAOYSA-N		6.5	X	mutant enzyme Q112A, in 0.1 M phosphate buffer pH 6.5
+0.38	Ethacrynic acid	803	AVOLMBLBETYQHX-UHFFFAOYSA-N		6.5	X	mutant enzyme Y215S, in 0.1 M phosphate buffer pH 6.5
+0.4	Ethacrynic acid	803	AVOLMBLBETYQHX-UHFFFAOYSA-N		6.5	X	mutant enzyme Y215A, in 0.1 M phosphate buffer pH 6.5
+1.23	Ethacrynic acid	803	AVOLMBLBETYQHX-UHFFFAOYSA-N	25	6.5		isoform Gstp2, at pH 6.5 and 25C
+2.24	Ethacrynic acid	803	AVOLMBLBETYQHX-UHFFFAOYSA-N	25	6.5		isoform Gstp1, at pH 6.5 and 25C
+82.17	Dichloroacetate	878	JXTHNDFMNIQAHM-UHFFFAOYSA-N	30	7.5		at pH 7.5 and 30C
+0.155	trans-2-nonenal	1739	BSAIUMLZVGUGKX-BQYQJAHWSA-N	30	7.8		pH 7.8, 30C
+31	1,2-epoxy-3-(p-nitrophenoxy)propane	996	FPIGOBKNDYAZTP-UHFFFAOYSA-N	30		X	30C, mutant enzyme Y108F
+112	1,2-epoxy-3-(p-nitrophenoxy)propane	996	FPIGOBKNDYAZTP-UHFFFAOYSA-N	30		X	30C, mutant enzyme Y108A
+201	1,2-epoxy-3-(p-nitrophenoxy)propane	996	FPIGOBKNDYAZTP-UHFFFAOYSA-N	30			30C, wild-type enzyme
+302	1,2-epoxy-3-(p-nitrophenoxy)propane	996	FPIGOBKNDYAZTP-UHFFFAOYSA-N	30		X	30C, mutant enzyme Y108W
+1.03	1-Fluoro-2,4-dinitrobenzene	2186	LOTKRQAVGJMPNV-UHFFFAOYSA-N	25	6.5	X	pH 6.5, 25C, mutant F113A
+2.59	1-Fluoro-2,4-dinitrobenzene	2186	LOTKRQAVGJMPNV-UHFFFAOYSA-N	25	6.5	X	pH 6.5, 25C, mutant H167A
+6.78	1-Fluoro-2,4-dinitrobenzene	2186	LOTKRQAVGJMPNV-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C, wild-type enzyme
+8.66	1-Fluoro-2,4-dinitrobenzene	2186	LOTKRQAVGJMPNV-UHFFFAOYSA-N	25	6.5	X	pH 6.5, 25C, mutant S110A
+12.2	1-Fluoro-2,4-dinitrobenzene	2186	LOTKRQAVGJMPNV-UHFFFAOYSA-N	25	6.5	X	pH 6.5, 25C, mutant W164A
+106	1-Fluoro-2,4-dinitrobenzene	2186	LOTKRQAVGJMPNV-UHFFFAOYSA-N				
+0.257	7-Chloro-4-nitrobenzo-2-oxa-1,3-diazole	2816	IGHBXJSNZCFXNK-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C
+0.19	(+)-2-bromo-3-(4-nitrophenyl)propanoic acid	2637	UOMCKHFTGNAYBX-UHFFFAOYSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme R175A of glutathione transferase Zeta 1c-1c
+0.55	(+)-2-bromo-3-(4-nitrophenyl)propanoic acid	2637	UOMCKHFTGNAYBX-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, enzyme variant glutathione transferase Zeta 1d-1d
+0.59	(+)-2-bromo-3-(4-nitrophenyl)propanoic acid	2637	UOMCKHFTGNAYBX-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, enzyme variant glutathione transferase Zeta 1c-1c
+0.61	(+)-2-bromo-3-(4-nitrophenyl)propanoic acid	2637	UOMCKHFTGNAYBX-UHFFFAOYSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme R175K of glutathione transferase Zeta 1c-1c
+0.82	(+)-2-bromo-3-(4-nitrophenyl)propanoic acid	2637	UOMCKHFTGNAYBX-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, enzyme variant glutathione transferase Zeta 1b-1b
+1	(+)-2-bromo-3-(4-nitrophenyl)propanoic acid	2637	UOMCKHFTGNAYBX-UHFFFAOYSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme S15A of glutathione transferase Zeta 1c-1c
+2.55	(+)-2-bromo-3-(4-nitrophenyl)propanoic acid	2637	UOMCKHFTGNAYBX-UHFFFAOYSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme C16A of glutathione transferase Zeta 1c-1c
+13	(+)-2-bromo-3-(4-nitrophenyl)propanoic acid	2637	UOMCKHFTGNAYBX-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, enzyme variant glutathione transferase Zeta 1a-1a
+0.035	1,3-Bis-(2-chloroethyl)-1-nitrosourea	3107	DLGOEMSEDOSKAD-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, recombinant wild-type isozyme GST-T1-1
+2.3	1,3-Bis-(2-chloroethyl)-1-nitrosourea	3107	DLGOEMSEDOSKAD-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, recombinant wild-type isozyme GST-T1-1
+3.6	1,3-Bis-(2-chloroethyl)-1-nitrosourea	3107	DLGOEMSEDOSKAD-UHFFFAOYSA-N	37	7.4	X	pH 7.4, 37C, recombinant mutant F2:1215
+3.6	1,3-Bis-(2-chloroethyl)-1-nitrosourea	3107	DLGOEMSEDOSKAD-UHFFFAOYSA-N	37	7.4	X	pH 7.4, 37C, recombinant mutant F2:1215
+9.16	iodomethane	3158	INQOMBQAUSQDDS-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+238	iodomethane	3158	INQOMBQAUSQDDS-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+349	iodomethane	3158	INQOMBQAUSQDDS-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme
+0.347	maleylacetone	3161	MQVQZTWTXUPFFC-IHWYPQMZSA-N	37	7.4		pH 7.4, 37C, glutathione transferase Zeta 1c-1c
+72.6	maleylacetone	3161	MQVQZTWTXUPFFC-IHWYPQMZSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme S15A of glutathione transferase Zeta 1c-1c
+141	maleylacetone	3161	MQVQZTWTXUPFFC-IHWYPQMZSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme C16A of glutathione transferase Zeta 1c-1c
+149	maleylacetone	3161	MQVQZTWTXUPFFC-IHWYPQMZSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme R175A of glutathione transferase Zeta 1c-1c
+368	maleylacetone	3161	MQVQZTWTXUPFFC-IHWYPQMZSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme R175K of glutathione transferase Zeta 1c-1c
+464	maleylacetone	3161	MQVQZTWTXUPFFC-IHWYPQMZSA-N	37	7.4		pH 7.4, 37C, glutathione transferase Zeta 1c-1c
+110	1,2-dichloro-4-nitrobenzene	3512	NTBYINQTYWZXLH-UHFFFAOYSA-N	30		X	30C, mutant enzyme Y108A; 30C, mutant enzyme Y108F
+210	1,2-dichloro-4-nitrobenzene	3512	NTBYINQTYWZXLH-UHFFFAOYSA-N	30			30C, wild-type enzyme
+320	1,2-dichloro-4-nitrobenzene	3512	NTBYINQTYWZXLH-UHFFFAOYSA-N	30		X	30C, mutant enzyme Y108W
+0.00011	alachlor	3539	XCSGPAVHZFQHGE-UHFFFAOYSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant W12I
+0.00019	alachlor	3539	XCSGPAVHZFQHGE-UHFFFAOYSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant F35L
+0.00046	alachlor	3539	XCSGPAVHZFQHGE-UHFFFAOYSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant I118F
+0.00048	alachlor	3539	XCSGPAVHZFQHGE-UHFFFAOYSA-N	30	6.5		pH 6.5, 30C, recombinant wild-type enzyme
+0.01	5-Pregnene-3,20-dione	3772	MNRHZPCIEGLWGK-LEKSSAKUSA-N	30	7.8		pH 7.8, 30C
+6	1-chloro-2,3-dinitrobenzene	4181	VXSKTMFHWOMVLX-UHFFFAOYSA-N				
+772	1-chloro-2,3-dinitrobenzene	4181	VXSKTMFHWOMVLX-UHFFFAOYSA-N				
+0.04	2-hydroxyethyl disulfide	4349	KYNFOMQIXZUKRK-UHFFFAOYSA-N	37	6.5		pH 6.5, 37C, recombinant AtuGSTH1-1
+0.073	sulforaphane	4688	SUVMJBTUFCVSAD-UHFFFAOYSA-N	30			isoform GSTU45, pH not specified in the publication, at 30C
+2.57	sulforaphane	4688	SUVMJBTUFCVSAD-UHFFFAOYSA-N	30			isoform GSTU16, pH not specified in the publication, at 30C
+0.14	phenethyl isothiocyanate	4703	IZJDOKYDEWTZSO-UHFFFAOYSA-N	30			isoform GSTU45, pH not specified in the publication, at 30C
+1.69	phenethyl isothiocyanate	4703	IZJDOKYDEWTZSO-UHFFFAOYSA-N	20	6.5		isoform GSTO7, at pH 6.5 and 20C
+8.52	phenethyl isothiocyanate	4703	IZJDOKYDEWTZSO-UHFFFAOYSA-N		6.5		recombinant wild-type, pH 6.5, temperature not specified in the publication
+9.5	phenethyl isothiocyanate	4703	IZJDOKYDEWTZSO-UHFFFAOYSA-N	30	7.8		pH 7.8, 30C
+62.9	phenethyl isothiocyanate	4703	IZJDOKYDEWTZSO-UHFFFAOYSA-N	30			isoform GSTU16, pH not specified in the publication, at 30C
+0.037	iodobutane	4759	KMGBZBJJOKUPIA-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+0.137	iodobutane	4759	KMGBZBJJOKUPIA-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+0.215	iodobutane	4759	KMGBZBJJOKUPIA-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme
+0.068	iodohexane	4760	ANOOTOPTCJRUPK-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+3.17	iodohexane	4760	ANOOTOPTCJRUPK-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+3.52	iodohexane	4760	ANOOTOPTCJRUPK-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme
+2.7	(R)-styrene-7,8-oxide	5098	AWMVMTVKBNGEAK-QMMMGPOBSA-N	112	7.2	X	mutant enzyme G112C, at 30C in 250 mM Tris-HCl buffer, pH 7.2
+4.4	(R)-styrene-7,8-oxide	5098	AWMVMTVKBNGEAK-QMMMGPOBSA-N	10	7.2	X	mutant enzyme I10C, at 30C in 250 mM Tris-HCl buffer, pH 7.2
+4.8	(R)-styrene-7,8-oxide	5098	AWMVMTVKBNGEAK-QMMMGPOBSA-N	30	7.2		wild type enzyme, at 30C in 250 mM Tris-HCl buffer, pH 7.2
+2.3	(S)-styrene-7,8-oxide	5098	AWMVMTVKBNGEAK-QMMMGPOBSA-N	10	7.2	X	mutant enzyme I10C, at 30C in 250 mM Tris-HCl buffer, pH 7.2
+3.2	(S)-styrene-7,8-oxide	5098	AWMVMTVKBNGEAK-QMMMGPOBSA-N	112	7.2	X	mutant enzyme G112C, at 30C in 250 mM Tris-HCl buffer, pH 7.2
+8.4	(S)-styrene-7,8-oxide	5098	AWMVMTVKBNGEAK-QMMMGPOBSA-N	30	7.2		wild type enzyme, at 30C in 250 mM Tris-HCl buffer, pH 7.2
+0.83	(R,R)-1-phenylpropylene oxide	8004	YVCOJTATJWDGEU-APPZFPTMSA-N	10	7.2	X	mutant enzyme I10C, at 30C in 250 mM Tris-HCl buffer, pH 7.2
+4.6	(R,R)-1-phenylpropylene oxide	8004	YVCOJTATJWDGEU-APPZFPTMSA-N	112	7.2	X	mutant enzyme G112C, at 30C in 250 mM Tris-HCl buffer, pH 7.2
+17.7	(R,R)-1-phenylpropylene oxide	8004	YVCOJTATJWDGEU-APPZFPTMSA-N	30	7.2		wild type enzyme, at 30C in 250 mM Tris-HCl buffer, pH 7.2
+1.1	(S,S)-1-phenylpropylene oxide	8005	YVCOJTATJWDGEU-IONNQARKSA-N	10	7.2		wild type enzyme I10C, at 30C in 250 mM Tris-HCl buffer, pH 7.2
+2.4	(S,S)-1-phenylpropylene oxide	8005	YVCOJTATJWDGEU-IONNQARKSA-N	112	7.2		wild type enzyme G112C, at 30C in 250 mM Tris-HCl buffer, pH 7.2
+9	(S,S)-1-phenylpropylene oxide	8005	YVCOJTATJWDGEU-IONNQARKSA-N	30	7.2		wild type enzyme, at 30C in 250 mM Tris-HCl buffer, pH 7.2
+0.37	(R,R)-trans-stilbene oxide	8006	ARCJQKUWGAZPFX-ZIAGYGMSSA-N	10	7.2		wild type enzyme I10C, at 30C in 250 mM Tris-HCl buffer, pH 7.2
+1.3	(R,R)-trans-stilbene oxide	8006	ARCJQKUWGAZPFX-ZIAGYGMSSA-N	112	7.2		wild type enzyme G112C, at 30C in 250 mM Tris-HCl buffer, pH 7.2
+7.7	(R,R)-trans-stilbene oxide	8006	ARCJQKUWGAZPFX-ZIAGYGMSSA-N	30	7.2		wild type enzyme, at 30C in 250 mM Tris-HCl buffer, pH 7.2
+0.07	(S,S)-trans-stilbene oxide	8007	ARCJQKUWGAZPFX-KBPBESRZSA-N	10	7.2		wild type enzyme I10C, at 30C in 250 mM Tris-HCl buffer, pH 7.2
+0.2	(S,S)-trans-stilbene oxide	8007	ARCJQKUWGAZPFX-KBPBESRZSA-N	112	7.2		wild type enzyme G112C, at 30C in 250 mM Tris-HCl buffer, pH 7.2
+0.46	(S,S)-trans-stilbene oxide	8007	ARCJQKUWGAZPFX-KBPBESRZSA-N	30	7.2		wild type enzyme, at 30C in 250 mM Tris-HCl buffer, pH 7.2
+0.002	Dichloroacetic acid	878	JXTHNDFMNIQAHM-UHFFFAOYSA-N	25	6.5		isoform Gstz1, at pH 6.5 and 25C
+19	trans-o-hydroxybenzylidene pyruvic acid	5251	HMXOGGUFCBUALL-AATRIKPKSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme
+21.4	phenethyl-isothiocyanate	4703	IZJDOKYDEWTZSO-UHFFFAOYSA-N	30			at 30C in 0.1 M potassium phosphate buffer
+63.4	phenethyl-isothiocyanate	4703	IZJDOKYDEWTZSO-UHFFFAOYSA-N	30			at 30C in 0.1 M potassium phosphate buffer
+47	2-hydroxychromene-2-carboxylic acid	8082	LGYIZQLNYONEFJ-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme
+367	3,4-dinitrobenzanilide	25438	LZBOEAUDEFYCDQ-UHFFFAOYSA-N	37	7.4		in phosphate buffered saline, pH 7.4, at 37C
+0.044	2-chloro-5-nitropyridine	40908	BAZVFQBTJPBRTJ-UHFFFAOYSA-N	25	7.0		25C, 20 mM sodium phosphate buffer, pH 7.0, 0.5 mM glutathione
+0.63	methyl 3-(4-methoxyphenyl)oxirane-2-carboxylate	40909	CVZUMGUZDAWOGA-UHFFFAOYSA-N	25	7.0		25C, 20 mM sodium phosphate buffer, pH 7.0, 0.5 mM glutathione
+39	L-gamma-glutamyl-S-[2-hydroxy-3-methoxy-1-(4-methoxyphenyl)-3-oxopropyl]-L-cysteinylglycine	40910	JTKHFLKDZTVFIX-DIOPXHOYSA-N	25	7.0		25C, 20 mM sodium phosphate buffer, pH 7.0, 0.5 mM glutathione
+0.037	7-oxabicyclo[4.1.0]heptan-2-one	40911	QKOHEJBTNOEACF-UHFFFAOYSA-N	4	6.5		4C, 20 mM sodium phosphate buffer, pH 6.5, 0.5 mM glutathione
+0.25	allyl-isothiocyanate	7713	ZOJBYZNEUISWFT-UHFFFAOYSA-N	30			isoform GSTU45, pH not specified in the publication, at 30C
+3.6	allyl-isothiocyanate	7713	ZOJBYZNEUISWFT-UHFFFAOYSA-N	30			isoform GSTU16, pH not specified in the publication, at 30C
+180	S-phenylacetylglutathione	129002	DTHONLOIMOHXHF-UHFFFAOYSA-N	20	6.5		isoform GSTO4, at pH 6.5 and 20C

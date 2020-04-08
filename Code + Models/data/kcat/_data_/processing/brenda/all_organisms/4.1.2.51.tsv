@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+24.2	2-dehydro-3-deoxy-D-gluconate	886	WPAMZTWLKIDIOP-WVZVXSGGSA-N	60	6.2		pH 6.2, 60C, recombinant enzyme
+26.7	2-dehydro-3-deoxy-D-gluconate	886	WPAMZTWLKIDIOP-WVZVXSGGSA-N	60	6.2		pH 6.2, 60C, enzyme purified from Picrophilus torridus
+0.34	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	60	6.2		pH 6.2, 60C, enzyme purified from Picrophilus torridus
+0.36	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	60	6.2		pH 6.2, 60C, recombinant enzyme

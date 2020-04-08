@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.49	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	30	9.0		pH 9.0, 30C
+1.33	3-phosphonooxypyruvate	965	LFLUCDOSQPJJBE-UHFFFAOYSA-N	37	8.2		MalE/PdxC(SerC) fusion protein, pH 8.2, 37C
+1.75	3-phosphonooxypyruvate	965	LFLUCDOSQPJJBE-UHFFFAOYSA-N	37	8.2		PdxC(SerC) protein, pH 8.2, 37C
+0.08	4-(phosphonooxy)-L-threonine	11772	FKHAKIJOKDGEII-GBXIJSLDSA-N	37	8.2		MalE/PdxC(SerC) fusion protein, pH 8.2, 37C
+0.15	4-(phosphonooxy)-L-threonine	11772	FKHAKIJOKDGEII-GBXIJSLDSA-N	37	8.2		PdxC(SerC) protein, pH 8.2, 37C
+0.39	3-O-phospho-L-serine	899	BZQFBWGGLXLEPQ-REOHCLBHSA-N	37	8.2		PdxC(SerC) protein, pH 8.2, 37C
+0.63	3-O-phospho-L-serine	899	BZQFBWGGLXLEPQ-REOHCLBHSA-N	37	8.2		MalE/PdxC(SerC) fusion protein, pH 8.2, 37C

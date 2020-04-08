@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.08	4-nitrophenyl beta-N-acetylgalactosaminide	5123	OMRLTNCLYHKQCK-RKQHYHRCSA-N	37	6.0	X	mutant E608Q, pH 6.0, 37C
+0.1	4-nitrophenyl beta-N-acetylgalactosaminide	5123	OMRLTNCLYHKQCK-RKQHYHRCSA-N	37	6.0	X	mutant D607E, pH 6.0, 37C
+0.38	4-nitrophenyl beta-N-acetylgalactosaminide	5123	OMRLTNCLYHKQCK-RKQHYHRCSA-N	37	6.0	X	mutant E608D, pH 6.0, 37C
+7.3	4-nitrophenyl beta-N-acetylgalactosaminide	5123	OMRLTNCLYHKQCK-RKQHYHRCSA-N	37	6.0		wild-type, pH 6.0, 37C

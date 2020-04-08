@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.075	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N	37	7.6		at pH 7.6 and 37C
+0.078	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	37	7.6		at pH 7.6 and 37C
+0.177	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	37	7.6		at pH 7.6 and 37C
+41	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N		7.0		in 50 mM MOPS buffer, pH 7.0, temperature not specified in the publication
+311	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N		7.0		in 200 mM KPO4 buffer, pH 7.0, temperature not specified in the publication

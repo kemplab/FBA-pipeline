@@ -1,0 +1,28 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.32	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N				10 mM MnCl2, 0.3 mM UDP-galactose
+0.14	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	37		X	37C, mutant enzyme Q247E, galactosyltransferase reaction
+0.17	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	37		X	37C, mutant enzyme R365K, galactosyltransferase reaction
+0.77	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	37		X	37C, mutant enzyme H280Q, galactosyltransferase reaction
+6.4	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	37			37C, wild-type enzyme, galactosyltransferase reaction
+0.00013	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37		X	37C, mutant enzyme E317Q, hydrolase reaction
+0.0014	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37		X	37C, mutant enzyme R365K, hydrolase reaction
+0.0067	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	30	6	X	AGGL mutant, N-acetyllactosamine, pH 6, 30C
+0.0099	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	30	6	X	AGGL mutant, lactose, pH 6, 30C
+0.011	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37		X	37C, mutant enzyme Q247E, hydrolase reaction
+0.016	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37			37C, wild-type enzyme, hydrolase reaction
+0.02	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant AGG, lactose as acceptor, 37C, MnCl2, 25 mM Tris-HCl, pH 7.0
+0.1	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant SGG, lactose as acceptor, 37C, MnCl2, 25 mM Tris-HCl, pH 7.0
+0.14	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37		X	37C, mutant enzyme Q247E, galactosyltransferase reaction
+0.17	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37		X	37C, mutant enzyme R365K, galactosyltransferase reaction
+0.77	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37		X	37C, mutant enzyme H280Q, galactosyltransferase reaction
+1.91	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	30	6		wild-type, N-acetyllactosamine, pH 6, 30C
+3.4	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0		wild-type, lactose as acceptor, 37C, MnCl2, 25 mM Tris-HCl, pH 7.0
+4.8	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	30	6		wild-type, lactose, pH 6, 30C
+6.4	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37			37C, wild-type enzyme, galactosyltransferase reaction
+1.9	N-acetyllactosamine	846	KFEUJDWYNGMDBV-LODBTCKLSA-N				10 mM MnCl2, 0.3 mM UDP-galactose
+0.045	UDP-N-acetylgalactosamine	303	LFTYTUAZOPRMMI-NESSUJCYSA-N	30	6	X	AGGL mutant, N-acetyllactosamine, pH 6, 30C
+0.095	UDP-N-acetylgalactosamine	303	LFTYTUAZOPRMMI-NESSUJCYSA-N	30	6	X	AGGL mutant, lactose, pH 6, 30C
+0.3	UDP-N-acetylgalactosamine	303	LFTYTUAZOPRMMI-NESSUJCYSA-N	37	7.0	X	mutant AGG, lactose as acceptor, 37C, MnCl2, 25 mM Tris-HCl, pH 7.0
+0.4	UDP-N-acetylgalactosamine	303	LFTYTUAZOPRMMI-NESSUJCYSA-N	37	7.0	X	mutant SGG, lactose as acceptor, 37C, MnCl2, 25 mM Tris-HCl, pH 7.0
+1.1	p-nitrophenyl-beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N				10 mM MnCl2, 0.3 mM UDP-galactose
+0.059	p-nitrophenyl-alpha-D-galactoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N				10 mM MnCl2, 0.3 mM UDP-galactose

@@ -1,0 +1,161 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.017	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	42	7.2		pH 7.2, 42C
+0.022	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	42	7.2		presence of 0.4 mM neohesperidin dihydrochalcone, pH 7.2, 42C
+0.0258	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	40	5.6		pH 5.6, 40C
+0.03	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	5	8.3		5C, pH 8.3
+0.035	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	42	7.2		presence of 2.4 mM neohesperidin dihydrochalcone, pH 7.2, 42C
+0.04	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	42	7.2		presence of 4.8 mM neohesperidin dihydrochalcone, pH 7.2, 42C
+0.042	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	5	8.3		5C, pH 8.3
+0.0494	4-nitrophenyl-alpha-D-maltoside	12819	IAYJZWFYUSNIPN-LTHBGAKLSA-N	30	6.9		isozyme PPA-I, at pH 6.9 and 30C
+0.0497	4-nitrophenyl-alpha-D-maltoside	12819	IAYJZWFYUSNIPN-LTHBGAKLSA-N	30	6.9		isozyme PPA-II, at pH 6.9 and 30C
+0.085	Pullulan	789	XFKDGVTXXXARHP-IUYGNOPYSA-N	40	5.6		pH 5.6, 40C
+0.15	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	15	8.3		15C, pH 8.3
+0.156	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	15	8.3		15C, pH 8.3
+0.23	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N				
+0.24	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	40	5.6		pH 5.6, 40C
+0.399	alpha-cyclodextrin	380	HFHDHCJBZVLPGP-RWMJIURBSA-N	40	5.6		pH 5.6, 40C
+0.81	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N				
+1.6	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N				
+1.9	2-chloro-4-nitrophenyl alpha-maltotrioside	3083	KMYYNUOXSFGLNX-XFNLHOCBSA-N				in presence of 0.01 mM Br-
+2	2-chloro-4-nitrophenyl alpha-maltotrioside	3083	KMYYNUOXSFGLNX-XFNLHOCBSA-N				in presence of 0.2 mM ClO3-
+2	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N	30	5.5		30C, pH 5.5
+2.1	2-chloro-4-nitrophenyl alpha-maltotrioside	3083	KMYYNUOXSFGLNX-XFNLHOCBSA-N				in presence of 0.01 mM I-
+2.2	2-chloro-4-nitrophenyl alpha-maltotrioside	3083	KMYYNUOXSFGLNX-XFNLHOCBSA-N				in presence of 0.1 mM NO3-
+2.4	2-chloro-4-nitrophenyl alpha-maltotrioside	3083	KMYYNUOXSFGLNX-XFNLHOCBSA-N				in presence of 0.01 mM Cl-
+2.98	2-chloro-4-nitrophenyl alpha-D-maltotrioside	3083	KMYYNUOXSFGLNX-XFNLHOCBSA-N	30	7.0		pH 7.0, 30C
+3	2-chloro-4-nitrophenyl beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranoside	5880	UFQOUXCAOOCZCY-KAMDTKEASA-N	30	5.5		wild-type enzyme, pH 5.5, 30C, kcat/Km: 48 1/s/mg/ml
+3.5	2-chloro-4-nitrophenyl alpha-maltotrioside	3083	KMYYNUOXSFGLNX-XFNLHOCBSA-N				in presence of 1 mM NO2-
+4.4	2-chloro-4-nitrophenyl alpha-maltotrioside	3083	KMYYNUOXSFGLNX-XFNLHOCBSA-N				in presence of 1 mM N3-
+4.8	Pullulan	789	XFKDGVTXXXARHP-IUYGNOPYSA-N			X	mutant Y374A
+5.6	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N	30	5.5		30C, pH 5.5
+5.87	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	40	5.6		pH 5.6, 40C
+7.86	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	25	6.0	X	double mutant, L134R/S320A, kcat/Km: L134R/S320A, 680000 1/s/M, 25C, pH 6.0
+8.14	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	25	6.0	X	mutant L134R, kcat/Km: 710000 1/s/M, 25C, pH 6.0
+8.32	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	25	6.0	X	mutant S329A, kcat/Km: 740000 1/s/M, 25C, pH 6.0
+8.5	p-nitrophenylhexa[alpha-D-glucopyranosyl(1-4)]-alpha-D-glucopyranoside	3686	XRWPEPZTMTVFPI-UYDBUFRNSA-N	37	8.0	X	37C, pH 8.0, F256W mutant
+8.73	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	25	6.0		wild-type, kcat/Km: 770000 1/s/M, 25C, pH 6.0
+9.4	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N			X	mutant Y374A
+9.8	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	30	7.2	X	mutant enzyme A53S, in the presence of 5 mM Ca2+, in 20 mM Tris-HCl buffer (pH 7.2), at 30C
+10	2-chloro-4-nitrophenyl beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranoside	5880	UFQOUXCAOOCZCY-KAMDTKEASA-N	30	5.5	X	Y105A mutant, kcat below 10 1/s, pH 5.5, 30C; Y105A/Y380A mutant, kcat below 10 1/s, pH 5.5, 30C; Y105A/Y380M mutant, kcat below 10 1/s, pH 5.5, 30C
+10	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	1292	ROTOMRNYBWYZSB-ZDNZMPEXSA-N	37	5.5	X	below, pH 5.5, 37C, mutant Y105A
+10.7	alpha-cyclodextrin	380	HFHDHCJBZVLPGP-RWMJIURBSA-N				calculated as low molecular weight products
+15.8	2-chloro-4-nitrophenyl alpha-maltotrioside	3083	KMYYNUOXSFGLNX-XFNLHOCBSA-N				in presence of 1 mM N3-
+19	2-chloro-4-nitrophenyl beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranoside	5880	UFQOUXCAOOCZCY-KAMDTKEASA-N	30	5.5	X	Y380A mutant, pH 5.5, 30C, kcat/Km: 28 1/s/mg/ml
+19	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	1292	ROTOMRNYBWYZSB-ZDNZMPEXSA-N			X	mutant enzyme Y380A
+19.9	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	30	7.2		wild type enzyme, in the presence of 5 mM Ca2+, in 20 mM Tris-HCl buffer (pH 7.2), at 30C
+20.7	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	30	7.2	X	mutant enzyme H58I, in the presence of 5 mM Ca2+, in 20 mM Tris-HCl buffer (pH 7.2), at 30C
+21	2-chloro-4-nitrophenyl beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranoside	5880	UFQOUXCAOOCZCY-KAMDTKEASA-N	30	5.5	X	H395A mutant, pH 5.5, 30C, kcat/Km: 23 1/s/mg/ml
+22.4	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	30	7.2	X	mutant enzyme A53S, in the absence of Ca2+, in 20 mM Tris-HCl buffer (pH 7.2), at 30C
+24	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	1292	ROTOMRNYBWYZSB-ZDNZMPEXSA-N	37	5.5	X	pH 5.5, 37C, mutant Y105A/T212W
+25	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N	75	6.5		in 50 mM sodium phosphate buffer (pH 6.5) at 75C
+25.7	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	30	7.2		wild type enzyme, in the absence of Ca2+, in 20 mM Tris-HCl buffer (pH 7.2), at 30C
+27.4	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	30	7.2	X	mutant enzyme H58I, in the absence of Ca2+, in 20 mM Tris-HCl buffer (pH 7.2), at 30C
+29.4	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N				calculated as low molecular weight products
+31	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	1292	ROTOMRNYBWYZSB-ZDNZMPEXSA-N	37	5.5	X	pH 5.5, 37C, mutant Y105A/T212Y
+31.1	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	40	5.6		pH 5.6, 40C
+34	2-chloro-4-nitrophenyl beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranoside	5880	UFQOUXCAOOCZCY-KAMDTKEASA-N	30	5.5	X	Y380M mutant, pH 5.5, 30C, kcat/Km: 39 1/s/mg/ml
+34	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	1292	ROTOMRNYBWYZSB-ZDNZMPEXSA-N			X	mutant enzyme Y380M
+34	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	37	4.5		wild-type, kcat/Km: 140000 1/s/M, 37C, pH 4.5
+34	4-nitrophenyl alpha-D-maltohexaoside	27132	GNFSLPRCTKUSTG-UYDBUFRNSA-N	75	6.5		in 50 mM sodium phosphate buffer (pH 6.5) at 75C
+35	2-chloro-4-nitrophenyl beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranoside	5880	UFQOUXCAOOCZCY-KAMDTKEASA-N	30	5.5	X	Y380A/H395A mutant, pH 5.5, 30C, kcat/Km: 25 1/s/mg/ml
+37.2	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	40	5.6		pH 5.6, 40C
+40.4	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	1292	ROTOMRNYBWYZSB-ZDNZMPEXSA-N				malt enzyme
+44.2	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N	40	5.6		pH 5.6, 40C
+48	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	1292	ROTOMRNYBWYZSB-ZDNZMPEXSA-N			X	mutant enzyme S378T
+52	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	1292	ROTOMRNYBWYZSB-ZDNZMPEXSA-N				alpha-amylase 1
+55.5	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	37	5.3		37C, pH 5.3
+56	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	1292	ROTOMRNYBWYZSB-ZDNZMPEXSA-N			X	mutant enzyme Y380F
+56	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	30	5.5	X	Y105A/Y380M mutant, pH 5.5, 30C, kcat/Km: 56 1/s/mg/ml, kcat/Km decreases 10-25fold for all Y105 mutants
+59	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	1292	ROTOMRNYBWYZSB-ZDNZMPEXSA-N			X	mutant enzyme S378P
+61	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	1292	ROTOMRNYBWYZSB-ZDNZMPEXSA-N	37	5.5	X	pH 5.5, 37C, mutant T212W
+61	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	30	5.5	X	Y105A/Y380A mutant, pH 5.5, 30C, kcat/Km: 51 1/s/mg/ml, kcat/Km decreases 10-25fold for all Y105 mutants
+62.4	p-nitrophenylhexa[alpha-D-glucopyranosyl(1-4)]-alpha-D-glucopyranoside	3686	XRWPEPZTMTVFPI-UYDBUFRNSA-N	37	5.3		37C, pH 5.3
+63.1	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	1292	ROTOMRNYBWYZSB-ZDNZMPEXSA-N				recombinant enzyme
+64.6	gamma-cyclodextrin	521	GDSRMADSINPKSL-HSEONFRVSA-N	40	5.6		pH 5.6, 40C
+67	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	90	4.5		pH 4.5, 90C, recombinant enzyme
+71.8	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	37	5.3		37C, pH 5.3
+75	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	30	5.5	X	H395A mutant, pH 5.5, 30C, kcat/Km: 394 1/s/mg/ml
+85.3	p-nitrophenylhexa[alpha-D-glucopyranosyl(1-4)]-alpha-D-glucopyranoside	3686	XRWPEPZTMTVFPI-UYDBUFRNSA-N	37	5.3		37C, pH 5.3
+91.4	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	40	5.6		pH 5.6, 40C
+94.7	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N				
+95	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	30	5.5	X	Y380A mutant, pH 5.5, 30C, kcat/Km: 264 1/s/mg/ml
+105	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N				
+117	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N				value depends on assay method
+119	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	1292	ROTOMRNYBWYZSB-ZDNZMPEXSA-N	37	5.5		pH 5.5, 37C, wild-type enzyme
+120	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	37	6.0		37C, pH 6.0
+120	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N				wild-type enzyme
+125	maltodextrin	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	30	5.5		30C, pH 5.5
+127	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	1292	ROTOMRNYBWYZSB-ZDNZMPEXSA-N	37	5.5	X	pH 5.5, 37C, mutant T212Y
+129	maltodextrin	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	30	5.5		30C, pH 5.5
+130	glycogen	421	VMMOHSLSZLSOMM-AHIHXIOASA-N				from rat liver, calculated as low molecular weight products
+132	2-chloro-4-nitrophenyl alpha-D-maltoheptaoside	23708	UFQOUXCAOOCZCY-HTZQGQHSSA-N	30	6.8		pH 6.8, 30C, recombinant AMY1-SBD fusion enzyme
+132	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	1292	ROTOMRNYBWYZSB-ZDNZMPEXSA-N	37	5.5	X	pH 5.5, 37C, mutant Y105W
+140	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	1292	ROTOMRNYBWYZSB-ZDNZMPEXSA-N	37	5.5	X	pH 5.5, 37C, mutant T212P
+140	Pullulan	789	XFKDGVTXXXARHP-IUYGNOPYSA-N				wild-type enzyme
+141	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	25	7.2		25C, pH 7.2
+144	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N				DP 17, malt enzyme, calculated as low molecular weight products
+149	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	30	5.5	X	Y380M mutant, pH 5.5, 30C, kcat/Km: 425 1/s/mg/ml
+150	maltosyl fluoride	38861	MPJMJSVSVMGORJ-PICCSMPSSA-N	30	7.0		pH 7.0, 30C
+153	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	25			pH not specified in the publication, 25C
+163	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	30	5.5	X	Y380A/H395A mutant, pH 5.5, 30C, kcat/Km: 543 1/s/mg/ml
+166	glycogen	421	VMMOHSLSZLSOMM-AHIHXIOASA-N				from oyster, calculated as low molecular weight products
+168.5	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N				
+169	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	30	5.5		wild-type enzyme, pH 5.5, 30C, kcat/Km: 1300 1/s/mg/ml
+171	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N				calculated as low molecular weight products
+173	gamma-cyclodextrin	521	GDSRMADSINPKSL-HSEONFRVSA-N	90	4.5		pH 4.5, 90C, recombinant enzyme
+175	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	37	6.5	X	mutant S329A, kcat/Km: 880000 1/s/M, 37C, pH 6.5; wild-type, kcat/Km: 870000 1/s/M, 37C, pH 5.5
+175	p-nitrophenylhexa[alpha-D-glucopyranosyl(1-4)]-alpha-D-glucopyranoside	3686	XRWPEPZTMTVFPI-UYDBUFRNSA-N	37	8.0		37C, pH 8.0, wild-type
+178	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	30	5.5	X	Y105A mutant, pH 5.5, 30C, kcat/Km: 132 1/s/mg/ml, kcat/Km decreases 10-25fold for all Y105 mutants
+179	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	5			pH not specified in the publication, 5C
+185	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N				DP 17, recombinant enzyme, calculated as low molecular weight products
+186	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	37	6.5	X	mutant L134R, kcat/Km: 920000 1/s/M, 37C, pH 6.5
+186	gamma-cyclodextrin	521	GDSRMADSINPKSL-HSEONFRVSA-N				calculated as low molecular weight products
+187	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	37	5.5	X	mutant S329A, kcat/Km: 1230000 1/s/M, 37C, pH 5.5
+196	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	90	4.5		pH 4.5, 90C, recombinant enzyme
+201	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	37	5.5	X	mutant L134R, kcat/Km: 1070000 1/s/M, 37C, pH 5.5
+202	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	30	5.5		30C, pH 5.5
+203	2-chloro-4-nitrophenyl beta-D-maltoheptaoside	1292	ROTOMRNYBWYZSB-ZDNZMPEXSA-N	37	5.5	X	pH 5.5, 37C, mutant Y105F
+205	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	37	6.5		wild-type, kcat/Km: 1420000 1/s/M, 37C, pH 6.5
+206	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	30	5.5		30C, pH 5.5
+206	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N				soluble starch of Zulkowsky type, calculated as low molecular weight products
+209	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	37	6.5	X	double mutant, L134R/S320A, kcat/Km: L134R/S320A, 1100000 1/s/M, 37C, pH 6.5
+219	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	37	4.5	X	mutant S329A, kcat/Km: 1210000 1/s/M, 37C, pH 4.5
+228	acarbose	345	XUFXOAAUWZOOIT-SXARVLRPSA-N	90	4.5		pH 4.5, 90C, recombinant enzyme
+230	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N				short chain amylose, calculated as low molecular weight products
+233	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	37	5.5	X	double mutant, L134R/S320A, kcat/Km: L134R/S320A, 680000 1/s/M, 37C, pH 5.5
+234	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	37	4.5	X	mutant L134R, kcat/Km: 1350000 1/s/M, 37C, pH 4.5
+237	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N				soluble starch from Merck, calculated as low molecular weight products
+241	alpha-cyclodextrin	380	HFHDHCJBZVLPGP-RWMJIURBSA-N	90	4.5		pH 4.5, 90C, recombinant enzyme
+266	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	37	4.5	X	double mutant, L134R/S320A, kcat/Km: L134R/S320A, 1910000 1/s/M, 37C, pH 4.5
+268	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	90	4.5		pH 4.5, 90C, recombinant enzyme
+280	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	20			pH not specified in the publication, 20C
+283	alpha-maltotriosyl fluoride	15127	FFFVUJZCDBUWRY-WUZXSGHDSA-N	30	7.0		30C, pH 7.0
+283	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	75	6.5		in 50 mM sodium phosphate buffer (pH 6.5) at 75C
+283.3	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N				
+285	alpha-maltotriosyl fluoride	15127	FFFVUJZCDBUWRY-WUZXSGHDSA-N	30	7.0		pH 7.0, 30C
+291	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	25	7.2		25C, pH 7.2
+291	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	25			pH not specified in the publication, 25C
+364	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	25			pH not specified in the publication, 25C
+377	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	5	9.0		5C, pH 9.0
+392	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	15	7.2		15C, pH 7.2
+443	alpha-maltosyl fluoride	23137	RDZZHXLYJSZTDQ-QUYVBRFLSA-N	30	7.0		30C, pH 7.0
+485	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N				
+518	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	37			pH not specified in the publication, 37C
+580	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N				
+619	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	25	9.0		25C, pH 9.0
+675	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	25			pH not specified in the publication, 25C
+679	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N				
+697	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene	1654	QOGJBGFYMYQFNE-SECAJZLMSA-N	25	7.2		25C, pH 7.2
+718	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	5	9.0		5C, pH 9.0
+754	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N				
+809	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	75	6.5		in 50 mM sodium phosphate buffer (pH 6.5) at 75C
+880	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	35	9.0		35C, pH 9.0
+982	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	35	9.0		35C, pH 9.0
+1457	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	55			pH not specified in the publication, 55C
+1466	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	25	9.0		25C, pH 9.0
+1940	Dextrin	1980	AGCXZFWEJDGGNL-UJWBPXPRSA-N	30	7.0		at 30C in 10 mM MOPS buffer (pH 7.0) with 5 mM CaCl2
+2280	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	90	6.5		pH 6.5, 90C
+2300	glycogen	421	VMMOHSLSZLSOMM-AHIHXIOASA-N	90	6.5		pH 6.5, 90C
+3000	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N				calculated as low molecular weight products
+4180	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	90	6.5		pH 6.5, 90C
+4680	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	90	6.5		pH 6.5, 90C

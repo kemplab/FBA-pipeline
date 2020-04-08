@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.035	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N				endoinulinase III
+0.038	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N				endoinulinase I
+0.053	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N				endoinulinase II
+0.1377	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N				
+0.5	raffinose	360	MUPFEKGTMRGPLJ-ZQSKZDJDSA-N				
+0.0367	inulin	548	BWRYDXSZCCQXIF-TWMOFSFSSA-N			X	mutant E519A, calculated as fructose units released from inulin
+0.06	inulin	548	BWRYDXSZCCQXIF-TWMOFSFSSA-N				endoinulinase I
+0.162	inulin	548	BWRYDXSZCCQXIF-TWMOFSFSSA-N				endoinulinase II
+0.17	inulin	548	BWRYDXSZCCQXIF-TWMOFSFSSA-N			X	mutant D460E, calculated as fructose units released from inulin
+0.35	inulin	548	BWRYDXSZCCQXIF-TWMOFSFSSA-N				endoinulinase III
+0.3617	inulin	548	BWRYDXSZCCQXIF-TWMOFSFSSA-N			X	mutant D460A, calculated as fructose units released from inulin
+3.33	inulin	548	BWRYDXSZCCQXIF-TWMOFSFSSA-N				calculatedas fructose units released from inulin
+3.367	inulin	548	BWRYDXSZCCQXIF-TWMOFSFSSA-N			X	mutant E323A, calculated as fructose units released from inulin
+711.7	inulin	548	BWRYDXSZCCQXIF-TWMOFSFSSA-N				wild-type, calculated as fructose units released from inulin

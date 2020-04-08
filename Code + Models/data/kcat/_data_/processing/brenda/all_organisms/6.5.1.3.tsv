@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.017	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37	7.4		pH 7.4, 37C
+0.028	etidronate	3666	DBVJJBKOTRCVKF-UHFFFAOYSA-N				
+0.05	(RNA)n	1941	DCLDSIDYVXLCKV-YNAVGHPFSA-N	22	6.0		pH 6.0, 22C, multiple-turnover derivatives 210t and 207t, engineered by changing the arrangement of the base pairs in the P2 stem
+0.055	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4		pH 7.4, 30C, ATP as acceptor of AMP, Ap4A synthesis
+0.266	(RNA)n	1941	DCLDSIDYVXLCKV-YNAVGHPFSA-N	22	8.0		pH 8.0, 22C, multiple-turnover derivative 207t, engineered by changing the arrangement of the base pairs in the P2 stem
+0.28	methylenebisphosphonate	6198	MBKDYNNUVRNNRF-UHFFFAOYSA-N				
+0.29	clodronate	2902	ACSIXWWBWUQEHA-UHFFFAOYSA-N				
+0.583	(RNA)n	1941	DCLDSIDYVXLCKV-YNAVGHPFSA-N	22	9.0		pH 9.0, 22C, multiple-turnover derivative 207t, engineered by changing the arrangement of the base pairs in the P2 stem
+0.9	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N				
+1.66	(ribonucleotide)n+m	5360	METAFPMPXCSMBQ-BRHYBXGJSA-N	22	8.0		pH 8.0, 22C
+2.33	(RNA)n	1941	DCLDSIDYVXLCKV-YNAVGHPFSA-N	22	8.0		pH 8.0, 22C, multiple-turnover derivative 210t, engineered by changing the arrangement of the base pairs in the P2 stem
+2.94	(ribonucleotide)n+m	5360	METAFPMPXCSMBQ-BRHYBXGJSA-N	22	8.0		pH 8.0, 22C
+2.94	(RNA)n	1941	DCLDSIDYVXLCKV-YNAVGHPFSA-N	22	8.0		pH 8.0, 22C, multiple-turnover derivative 210t, engineered by changing the arrangement of the base pairs in the P2 stem
+3.1	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N				
+6	(RNA)n	1941	DCLDSIDYVXLCKV-YNAVGHPFSA-N	22	9.0		pH 9.0, 22C, multiple-turnover derivative 210t, engineered by changing the arrangement of the base pairs in the P2 stem
+6.08	(RNA)n	1941	DCLDSIDYVXLCKV-YNAVGHPFSA-N	22	9.0		pH 9.0, 22C, multiple-turnover derivative 207t, engineered by changing the arrangement of the base pairs in the P2 stem
+6.7	isopentenyl triphosphate	5975	PPHMOEFIXVDZJT-UHFFFAOYSA-N				
+8.6	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N				
+11.6	(2E,6E)-farnesyl triphosphate	3846	QIOOKVHMPPJVHS-YFVJMOTDSA-N				
+12.1	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				
+52.2	geranyl triphosphate	5976	KXWMBFDSASOMND-JXMROGBWSA-N				

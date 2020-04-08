@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.48	(Z)-but-1-ene-1,2,4-tricarboxylate	3067	BJYPZFUWWJSAKC-ARJAWSKDSA-N		7.0	X	mutant R26V, pH 7.0, temperature not specified in the publication
+0.75	(Z)-but-1-ene-1,2,4-tricarboxylate	3067	BJYPZFUWWJSAKC-ARJAWSKDSA-N		7.0		wild-type HACNMj, pH 7.0, temperature not specified in the publication
+1.43	(Z)-but-1-ene-1,2,4-tricarboxylate	3067	BJYPZFUWWJSAKC-ARJAWSKDSA-N		7.0	X	mutant R26K, pH 7.0, temperature not specified in the publication
+1.7	(Z)-but-1-ene-1,2,4-tricarboxylate	3067	BJYPZFUWWJSAKC-ARJAWSKDSA-N		7.0	X	mutant R26V/T27Y, pH 7.0, temperature not specified in the publication
+2.5	(Z)-but-1-ene-1,2,4-tricarboxylate	3067	BJYPZFUWWJSAKC-ARJAWSKDSA-N		7.0	X	mutant T27A, pH 7.0, temperature not specified in the publication
+0.66	(Z)-pent-1-ene-1,2,5-tricarboxylate	17403	WXZASCSXAMHFCX-PLNGDYQASA-N		7.0		wild-type HACNMj, pH 7.0, temperature not specified in the publication
+2.2	(Z)-pent-1-ene-1,2,5-tricarboxylate	17403	WXZASCSXAMHFCX-PLNGDYQASA-N		7.0	X	mutant T27A, pH 7.0, temperature not specified in the publication
+5.8	(Z)-pent-1-ene-1,2,5-tricarboxylate	17403	WXZASCSXAMHFCX-PLNGDYQASA-N		7.0	X	mutant R26V, pH 7.0, temperature not specified in the publication
+6.6	(Z)-pent-1-ene-1,2,5-tricarboxylate	17403	WXZASCSXAMHFCX-PLNGDYQASA-N		7.0	X	mutant R26V/T27Y, pH 7.0, temperature not specified in the publication
+1.9	(Z)-hex-1-ene-1,2,6-tricarboxylate	6012	NGULBISQWGMRGK-WAYWQWQTSA-N		7.0	X	mutant R26V/T27Y, pH 7.0, temperature not specified in the publication
+2.5	(Z)-hex-1-ene-1,2,6-tricarboxylate	6012	NGULBISQWGMRGK-WAYWQWQTSA-N		7.0		wild-type HACNMj, pH 7.0, temperature not specified in the publication
+2.8	(Z)-hex-1-ene-1,2,6-tricarboxylate	6012	NGULBISQWGMRGK-WAYWQWQTSA-N		7.0	X	mutant R26V, pH 7.0, temperature not specified in the publication
+4.1	(Z)-hex-1-ene-1,2,6-tricarboxylate	6012	NGULBISQWGMRGK-WAYWQWQTSA-N		7.0	X	mutant T27A, pH 7.0, temperature not specified in the publication

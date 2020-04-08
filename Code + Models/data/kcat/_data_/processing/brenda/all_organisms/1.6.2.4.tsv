@@ -1,0 +1,81 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.43	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N			X	mutant enzyme Y459H
+0.47	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N			X	mutant enzyme V492E
+0.5	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N			X	mutant enzyme R457H
+0.67	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme G539R
+0.87	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme C569Y
+1.45	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N				
+1.5	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N			X	mutant enzyme Q153R
+1.7	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme L565P
+1.73	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N			X	mutant enzyme C569Y
+1.87	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N			X	mutant enzyme L565P; mutant enzyme V608F
+2.3	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme V608F; mutant enzyme V631I
+2.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme A287P
+2.6	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N			X	mutant enzyme A287P
+2.6	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme A115V
+2.7	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N			X	mutant enzyme G539R
+2.97	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme T142A
+3.1	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme Q153R
+3.6	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N			X	mutant enzyme T142A
+3.63	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme G504R
+3.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme P228L
+3.86	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.4		isozyme CPR1, at 25C, pH 7.4
+3.97	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.4		isozyme CPR1, at 25C, pH 7.4
+3.97	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme A503V
+4.3	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme F646del
+4.4	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme G413S
+4.6	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N			X	mutant enzyme G413S
+4.87	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				wild-type enzyme
+4.9	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N			X	mutant enzyme P228L
+4.9	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme M263V; mutant enzyme R316W
+5.2	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N			X	mutant enzyme G504R
+5.4	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N			X	mutant enzyme R316W
+5.47	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N			X	mutant enzyme V631I
+5.73	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N			X	mutant enzyme A503V
+5.8	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N			X	mutant enzyme A115V
+5.83	oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide	1748	NBWRJAOOMGASJP-UHFFFAOYSA-N	25	7.5		wild type enzyme, using 10 mM oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+6.4	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N			X	mutant enzyme F646del
+6.47	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N				wild-type enzyme
+6.7	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N			X	mutant enzyme M263V
+7.63	2,6-dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N				
+8.5	oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide	1748	NBWRJAOOMGASJP-UHFFFAOYSA-N	25	7.5		wild type enzyme, using 30 mM oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+10.1	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.4		isozyme CPR1, at 25C, pH 7.4
+10.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.4		isozyme CPR1, at 25C, pH 7.4
+10.5	oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide	1748	NBWRJAOOMGASJP-UHFFFAOYSA-N	25	7.5	X	mutant enzyme D113A, using 10 mM oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+11.67	oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide	1748	NBWRJAOOMGASJP-UHFFFAOYSA-N	25	7.5		wild type enzyme, using 60 mM oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+13	oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide	1748	NBWRJAOOMGASJP-UHFFFAOYSA-N	25	7.5	X	mutant enzyme E115A/E116A, using 10 mM oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+13.83	oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide	1748	NBWRJAOOMGASJP-UHFFFAOYSA-N	25	7.5	X	mutant enzyme D113A, using 30 mM oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+14.67	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.5		wild type enzyme, using 60 mM ferricytochrome c as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+15	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+16.67	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.5		wild type enzyme, using 30 mM ferricytochrome c as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+18.3	oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide	1748	NBWRJAOOMGASJP-UHFFFAOYSA-N	25	7.5	X	mutant enzyme E115A/E116A, using 30 mM oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C; wild type enzyme, using 110 mM oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+19	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.8		full length enzyme, pH 7.8, 25C
+20	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.5		wild type enzyme, using 110 mM ferricytochrome c as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+20	oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide	1748	NBWRJAOOMGASJP-UHFFFAOYSA-N	25	7.5	X	mutant enzyme D113A, using 60 mM oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+20.5	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+20.8	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+20.8	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+21.3	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				aortic microsomal enzyme
+21.9	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				purified enzyme
+23.3	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.5	X	mutant enzyme D113A, using 60 mM ferricytochrome c as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+25	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.5	X	mutant enzyme D113A, using 30 mM ferricytochrome c as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C; mutant enzyme E115A/E116A, using 30 mM ferricytochrome c as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C; mutant enzyme E115A/E116A, using 60 mM ferricytochrome c as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+25	oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide	1748	NBWRJAOOMGASJP-UHFFFAOYSA-N	25	7.5	X	mutant enzyme E115A/E116A, using 60 mM oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+28.3	oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide	1748	NBWRJAOOMGASJP-UHFFFAOYSA-N	25	7.5		wild type enzyme, using 210 mM oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+30	oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide	1748	NBWRJAOOMGASJP-UHFFFAOYSA-N	25	7.5	X	mutant enzyme D113A, using 110 mM oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+31.92	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	25	7.5		pH 7.5, 25C
+33.33	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.5		wild type enzyme, using 210 mM ferricytochrome c as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+35	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.5		wild type enzyme, using 310 mM ferricytochrome c as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+36.7	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.5	X	mutant enzyme D113A, using 110 mM ferricytochrome c as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C; mutant enzyme E115A/E116A, using 110 mM ferricytochrome c as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+38.3	oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide	1748	NBWRJAOOMGASJP-UHFFFAOYSA-N	25	7.5	X	mutant enzyme E115A/E116A, using 110 mM oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+40	oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide	1748	NBWRJAOOMGASJP-UHFFFAOYSA-N	25	7.5	X	mutant enzyme D113A, using 210 mM oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+42	5-cyano-2,3-ditolyl tetrazolium chloride	18046	SSJZAXOTLCJNLF-UHFFFAOYSA-M				
+42	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.8		truncated enzyme, pH 7.8, 25C
+50	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+53.3	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+55	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.5	X	mutant enzyme D113A, using 310 mM ferricytochrome c as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+56.67	oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide	1748	NBWRJAOOMGASJP-UHFFFAOYSA-N	25	7.5	X	mutant enzyme E115A/E116A, using 210 mM oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+58.3	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.5	X	mutant enzyme E115A/E116A, using 210 mM ferricytochrome c as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C; mutant enzyme E115A/E116A, using 310 mM ferricytochrome c as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+64.5	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				
+65	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.5	X	mutant enzyme D113A, using 210 mM ferricytochrome c as substrate, in 20 mM HEPES buffer (pH 7.5), at 25C
+102	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				grown on alkanes
+417	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				in the presence of laurate and carbon monoxide

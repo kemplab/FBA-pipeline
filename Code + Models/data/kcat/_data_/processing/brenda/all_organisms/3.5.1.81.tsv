@@ -1,0 +1,26 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0147	N-acetyl-D-leucine	4444	WXNXCEHXYPACJF-SSDOTTSWSA-N			X	mutant enzyme H67N
+0.297	N-acetyl-D-leucine	4444	WXNXCEHXYPACJF-SSDOTTSWSA-N			X	mutant enzyme H250N
+5.97	N-Acetyl-D-Ala	6277	KTHDTJVBEPMMGL-GSVOUGTGSA-N	30	7.0	X	mutant enzyme L298A, in 100 mM HEPES (pH 7.0), at 30C
+25.2	N-acetyl-D-methionine	3860	XUYPXLNMDZIRQH-ZCFIWIBFSA-N			X	recombinant mutant M56L, pH and temperature not specified in the publication
+34.56	N-acetyl-D-methionine	3860	XUYPXLNMDZIRQH-ZCFIWIBFSA-N			X	recombinant mutant M352L, pH and temperature not specified in the publication
+41	N-acetyl-D-phenylalanine	7316	CBQJSKKFNMDLON-SNVBAGLBSA-N	37	7.0		pH 7.0, 37C
+54.06	N-acetyl-D-methionine	3860	XUYPXLNMDZIRQH-ZCFIWIBFSA-N			X	recombinant mutant M254L, pH and temperature not specified in the publication
+57.53	N-acetyl-D-methionine	3860	XUYPXLNMDZIRQH-ZCFIWIBFSA-N				recombinant wild-type enzyme, pH and temperature not specified in the publication
+61.31	N-acetyl-D-methionine	3860	XUYPXLNMDZIRQH-ZCFIWIBFSA-N			X	recombinant mutant M39L, pH and temperature not specified in the publication
+76.08	N-acetyl-D-methionine	3860	XUYPXLNMDZIRQH-ZCFIWIBFSA-N			X	recombinant mutant M221L, pH and temperature not specified in the publication
+89.5	N-Acetyl-D-Trp	6278	DZTHIGRZJZPRDV-GFCCVEGCSA-N	30	7.0		wild type enzyme, in 100 mM HEPES (pH 7.0), at 30C
+229	N-Acetyl-D-Ala	6277	KTHDTJVBEPMMGL-GSVOUGTGSA-N	30	7.0		wild type enzyme, in 100 mM HEPES (pH 7.0), at 30C
+330	N-Acetyl-D-Ala	6277	KTHDTJVBEPMMGL-GSVOUGTGSA-N	30	7.0	X	mutant enzyme F191W, in 100 mM HEPES (pH 7.0), at 30C
+382	N-Chloroacetyl-D-Val	20850	LJRISAYPKJORFZ-ZCFIWIBFSA-N				
+404	N-Acetyl-D-Trp	6278	DZTHIGRZJZPRDV-GFCCVEGCSA-N	30	7.0	X	mutant enzyme L298A, in 100 mM HEPES (pH 7.0), at 30C
+438	N-Acetyl-D-Met	3860	XUYPXLNMDZIRQH-ZCFIWIBFSA-N				wild-type enzyme
+463	N-Acetyl-D-Met	3860	XUYPXLNMDZIRQH-ZCFIWIBFSA-N	30	7.0	X	mutant enzyme L298A, in 100 mM HEPES (pH 7.0), at 30C
+468	N-Acetyl-D-Leu	4444	WXNXCEHXYPACJF-SSDOTTSWSA-N				
+593.3	N-acetyl-D-leucine	4444	WXNXCEHXYPACJF-SSDOTTSWSA-N			X	mutant enzyme H251N
+669	N-Acetyl-D-Trp	6278	DZTHIGRZJZPRDV-GFCCVEGCSA-N	30	7.0	X	mutant enzyme F191W, in 100 mM HEPES (pH 7.0), at 30C
+829	N-Acetyl-D-Met	3860	XUYPXLNMDZIRQH-ZCFIWIBFSA-N	30	7.0	X	mutant enzyme F191W, in 100 mM HEPES (pH 7.0), at 30C
+877	N-Acetyl-D-Phe	7316	CBQJSKKFNMDLON-SNVBAGLBSA-N				
+1040	N-Acetyl-D-Met	3860	XUYPXLNMDZIRQH-ZCFIWIBFSA-N				
+1225	N-acetyl-D-leucine	4444	WXNXCEHXYPACJF-SSDOTTSWSA-N				wild-type enzyme
+1826	N-Acetyl-D-Met	3860	XUYPXLNMDZIRQH-ZCFIWIBFSA-N	30	7.0		wild type enzyme, in 100 mM HEPES (pH 7.0), at 30C

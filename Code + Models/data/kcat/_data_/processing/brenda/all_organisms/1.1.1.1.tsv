@@ -1,0 +1,512 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+433	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	65	6.5		pH 6.5, 65C
+4808	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	60	8.0		cosubstrate octanal, pH 8.0, 60C
+0.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	60	8.0		pH 8.0, 60C
+0.52	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	65	10.5	X	mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+0.717	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.5		pH 7.5, anodic enzyme form
+0.84	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	65	10.5		65C; pH 10.5, 65C
+1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30		X	mutant W49F/W87F/V260A, 30C, pH not specified in the publication
+1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.0		cosubstrate butan-1-ol, pH 7.0, 30C
+1.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	55			native enzyme, at 55C
+1.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	65	9.2		in 0.1 M glycine-NaOH, pH 9.2, at 65C
+1.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30		X	mutant W49F/W167Y/V260A, 30C, pH not specified in the publication
+1.9	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30		X	mutant V260A, 30C, pH not specified in the publication; mutant Y25A/W49F/W167Y/V260A, 30C, pH not specified in the publication
+2.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30		X	mutant Y25A/W49F/W167Y, 30C, pH not specified in the publication; mutant Y25A/W49F/W87F/V260A, 30C, pH not specified in the publication
+3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30		X	mutant W49F/W87F, 30C, pH not specified in the publication
+3.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	65			wild type enzyme, at 65C, in the presence of benzyl alcohol
+3.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+3.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30		X	mutant W49F/W167Y, 30C, pH not specified in the publication
+3.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	65	8.0		65C, pH 8.0; pH 8.0, 65C
+4.67	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				enzyme form ADH-2
+5.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30		X	mutant Y25A, 30C, pH not specified in the publication
+6.18	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				enzyme form ADH-3
+6.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30		X	mutant Y25A/W49F/W87F, 30C, pH not specified in the publication
+7.75	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				oxidation of ethanol
+8	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30			wild-type, 30C, pH not specified in the publication
+10.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	9.0		cosubstrate 1-phenylethanol, pH 9.0, 70C
+18.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	55			carboxymethylated enzyme, at 55C
+19.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	65	10.5		65C, pH 10.5
+21	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	65	10.5	X	Km above 50 mM, mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+30.8	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	9.0		cosubstrate 2,3-butanediol, pH 9.0, 70C
+33	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	60	7.7		pH 7.7, 60C
+34.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	60	8.0		wild-type, pH 8.0, 60C
+38.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	60	8.0		cosubstrate 1-octanol, pH 8.0, 60C
+50	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	65		X	mutant enzyme N249Y, at 65C, in the presence of benzyl alcohol
+443.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	60	8.0		cosubstrate ethanol, pH 8.0, 60C
+0.38	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	65	10.5	X	mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+0.41	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	60	8.0		pH 8.0, 60C
+2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	65	5.5		65C, pH 5.5; pH 5.5, 65C
+2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	55			carboxymethylated enzyme, at 55C
+4.5	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	55			native enzyme, at 55C
+4.5	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	65	7.5		in 50 mM Tris-HCl (pH 7.5) containing 0.25 mM benzaldehyde, at 65C
+8.88	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				enzyme form ADH-3
+10.3	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	65			wild type enzyme, at 65C, in the presence of benzaldehyde
+10.3	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+15.6	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	70	6.0		cosubstrate acetoin, pH 6.0, 70C
+17.3	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	70	6.0		cosubstrate acetoin, pH 6.0, 70C
+25.3	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	65		X	mutant enzyme N249Y, at 65C, in the presence of benzaldehyde
+26.2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	65	5.0		65C, pH 5.0
+34.8	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+43	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	60	7.7		pH 7.7, 60C
+52.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	65	10.5		65C; pH 10.5, 65C
+153	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	7.0		cosubstrate butanal, pH 7.0, 30C
+326	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	60	8.0		wild-type, pH 8.0, 60C
+1646	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	60	8.0		cosubstrate acetaldehyde, pH 8.0, 60C
+10.5	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	70	9.0		cosubstrate 1-phenylethanol, pH 9.0, 70C
+30	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	70	9.0		cosubstrate 2,3-butanediol, pH 9.0, 70C
+43.9	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	60	8.0		cosubstrate ethanol, pH 8.0, 60C
+194	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	55	8.0		pH 8.0, 55C
+283.1	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	60	8.0		cosubstrate 1-octanol, pH 8.0, 60C
+0.00086	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N				
+0.0833	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N		7.5		pyrazole-insensitive enzyme, pH 7.5
+0.167	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	25	7.5		recombinant allozyme Ile308, pH 7.5, 25C
+0.175	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	25	7.5		recombinant allozyme Val308, pH 7.5, 25C
+0.23	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+0.4	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N		7.5		pyrazole-sensitive enzyme, pH 7.5
+0.4	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	40	9.0		40C, pH 9.0, 50 mM Tris-HCl, 4 M NaCl
+0.45	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N		10.0		pyrazole-insensitive enzyme, pH 10.0
+0.467	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N				
+0.5	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	55			native enzyme, at 55C
+0.5	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	65	9.2		in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65C
+0.567	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N				pyrazole-sensitive enzyme
+0.7	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N		7.5		pH 7.5, anodic enzyme form
+0.85	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	55			carboxymethylated enzyme, at 55C
+1	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N		10.0		isoenzyme ADH-3, pH 10.0
+1.27	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N				
+1.88	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N				
+1.92	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	25	7.5		recombinant isozyme ADH1, pH 7.5, 25C
+2.5	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N				per active site
+2.83	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N				isoenzyme AA-ADH
+3.1	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+3.38	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N				isoenzyme BB-ADH
+3.83	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N				isoenzyme gamma1,gamma1
+4	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N				isoenzyme alpha,gamma1
+4.1	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+4.42	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	25	10.5		recombinant isozyme ADH1, pH 10.5, 25C
+4.5	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N		7.0		pH 7.0, temperature not specified in the publication
+4.92	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N				enzyme form ADH-2
+6.63	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N				enzyme form ADH-3
+7.83	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N				
+8	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N				
+8.2	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	70	9.0		70C, pH 9.0, 50 mM Tris-HCl, 4 M NaCl
+9.58	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N				isoenzyme TT-ADH
+10.2	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N		10.0		pH 10.0, anodic enzyme form
+30.7	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N				
+33	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N		7.0		pH 7.0, temperature not specified in the publication
+39.9	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	10	9.0		10C, pH 9.0
+41.3	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	25	7.5		recombinant isozyme ADH4, pH 7.5, 25C
+62.48	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	20	9.0		20C, pH 9.0
+62.7	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N		10.0		isoenzyme ADH-1, pH 10.0
+102	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N			X	mutant enzyme W54L
+109.5	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	30	9.0		30C, pH 9.0
+123	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N				wild-type enzyme Adh 1
+136.2	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	60	8.0		cosubstrate NADP+, pH 8.0, 60C
+142	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N		7.0		pH 7.0, temperature not specified in the publication
+143	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	25	8.0		in 50 mM Tris-HCl, pH 8.0 at 25C
+158	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N		7.0		pH 7.0, temperature not specified in the publication
+160.8	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	40	9.0		40C, pH 9.0
+215	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	25	10.5		recombinant isozyme ADH4, pH 10.5, 25C
+251.3	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	10	9.0		10C, pH 9.0
+262.3	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	50	9.0		50C, pH 9.0
+305	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	60	8.0		wild-type, pH 8.0, 60C
+308	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N				wild-type enzyme Adh 1
+365	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	60	8.0	X	mutant C257L, pH 8.0, 60C
+432.3	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	20	9.0		20C, pH 9.0
+474.9	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	60	9.0		60C, pH 9.0
+638.7	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	60	8.0		cosubstrate NAD+, pH 8.0, 60C
+786.1	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	30	9.0		30C, pH 9.0
+895.4	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	40	9.0		40C, pH 9.0
+3000	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	22	9.0		pH 9.0, 22C, recombinant enzyme
+0.05	methanol	78	OKKJLVBELUTLKV-UHFFFAOYSA-N				
+0.102	methanol	78	OKKJLVBELUTLKV-UHFFFAOYSA-N				
+0.117	methanol	78	OKKJLVBELUTLKV-UHFFFAOYSA-N		7.5		pyrazole-sensitive enzyme, pH 7.5
+0.217	methanol	78	OKKJLVBELUTLKV-UHFFFAOYSA-N		10.0		pyrazole-sensitive enzyme, pH 10.0
+3.1	methanol	78	OKKJLVBELUTLKV-UHFFFAOYSA-N				
+0.3	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	40	9.0		40C, pH 9.0, 50 mM Tris-HCl, 4 M NaCl
+3.33	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N		7.0		pyrazole-insensitive enzyme, pH 7.0
+5.4	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	70	9.0		70C, pH 9.0, 50 mM Tris-HCl, 4 M NaCl
+16.7	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N		7.0		pyrazole-sensitive enzyme, pH 7.0
+31.8	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N				
+53	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N		7.0		pH 7.0, temperature not specified in the publication
+83	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	60	6.0		wild-type, 60C, pH 6.0, presence of 0.1 mM Zn2+
+138.1	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	60	8.0		cosubstrate NADPH, pH 8.0, 60C
+283	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N		7.0		pH 7.0, temperature not specified in the publication
+350	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	60	6.0		alcohol dehydrogenase domain, 60C, pH 6.0, presence of 0.1 mM Zn2+
+404.8	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	60	8.0		cosubstrate NADH, pH 8.0, 60C
+681	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	60	8.0		wild-type, pH 8.0, 60C
+3500	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	22	6.0		pH 6.0, 22C, recombinant enzyme
+1.28	formaldehyde	124	WSFSSNUMVMOOMR-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+0.36	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	65	10.5	X	mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+1.22	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+1.8	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	55			carboxymethylated enzyme, at 55C
+3.5	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	55			native enzyme, at 55C
+3.5	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	65	7.5		in 50 mM Tris-HCl (pH 7.5) containing 0.2 mM NADH + H+, at 65C
+11.3	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	65			wild type enzyme, at 65C
+11.3	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+13.1	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+25.5	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	65		X	mutant enzyme N249Y, at 65C
+29.5	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N				
+360	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	65	6.5		pH 6.5, 65C
+0.35	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	65	10.5	X	mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+0.78	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N				
+1	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N		10.0		isoenzyme ADH-3, pH 10.0
+1.02	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+1.37	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N				
+1.4	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	55			native enzyme, at 55C
+1.68	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N				
+2.52	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N				enzyme form ADH-3
+3.6	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	65			wild type enzyme, at 65C
+3.6	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+3.8	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	30	7.0	X	mutant A25Y, pH 7.0, 30C
+4.67	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N				isoenzyme alpha,gamma1
+5.5	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	30	7.0	X	mutant W87A, pH 7.0, 30C
+6.9	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	30	7.0		wild-type, pH 7.0, 30C
+9.17	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N				
+14	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	30	7.0	X	mutant Y25A, pH 7.0, 30C
+14.5	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	55			carboxymethylated enzyme, at 55C
+20	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+21.7	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	65		X	mutant enzyme N249Y, at 65C
+24.9	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	30	7.0		wild-type, pH 7.0, 30C
+89.7	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N		10.0		isoenzyme ADH-1, pH 10.0
+93.3	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	55	8.0		pH 8.0, 55C
+41.9	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N				
+0.73	propanal	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+0.317	acetone	286	CSCPPACGZOOCGX-UHFFFAOYSA-N				
+0.33	acetone	286	CSCPPACGZOOCGX-UHFFFAOYSA-N				
+0.36	Butyraldehyde	415	ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	65	10.5	X	mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+19.7	Butyraldehyde	415	ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C; wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+35.4	Butyraldehyde	415	ZTQSAGDEMFDKMZ-UHFFFAOYSA-N				
+931	Butyraldehyde	415	ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	60	8.0		wild-type, pH 8.0, 60C
+1.99	Butanal	415	ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+102	Butanal	415	ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	30	7.0		cosubstrate NADH, pH 7.0, 30C
+0.41	1-butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+0.833	1-butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N		10.0		isoenzyme ADH-3, pH 10.0
+3.1	1-butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+7.5	1-butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N				
+15.1	1-butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+48.8	1-butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N		10.0		isoenzyme ADH-1, pH 10.0
+18.65	glycolaldehyde	497	WGCNASOHLSPBMP-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+0.0833	butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N		7.5		pyrazole-insensitive enzyme, pH 7.5
+0.35	butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N		7.5		pyrazole-sensitive enzyme, pH 7.5
+0.45	butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N		10.0		pyrazole-sensitive enzyme and pyrazole-insensitive enzyme, pH 10.0
+0.7	butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N		7.5		pH 7.5, anodic enzyme form
+1.1	butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N				
+32.7	butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N			X	mutant enzyme W54L
+34.8	butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N				
+118	butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N				wild-type enzyme Adh 1
+2.58	n-butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N				isoenzymee BB-ADH
+3.33	n-butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N				isoenzyme AA-ADH
+7.18	n-butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N				isoenzyme TT-ADH
+195	n-butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N	60	8.0		wild-type, pH 8.0, 60C
+0.26	1-propanol	536	BDERNNFJNOPAEC-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+1.2	1-propanol	536	BDERNNFJNOPAEC-UHFFFAOYSA-N	55			native enzyme, at 55C
+1.2	1-propanol	536	BDERNNFJNOPAEC-UHFFFAOYSA-N	65	9.2		in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65C
+2.2	1-propanol	536	BDERNNFJNOPAEC-UHFFFAOYSA-N	55			carboxymethylated enzyme, at 55C
+2.5	1-propanol	536	BDERNNFJNOPAEC-UHFFFAOYSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+2.6	1-propanol	536	BDERNNFJNOPAEC-UHFFFAOYSA-N	65			wild type enzyme, at 65C
+15.7	1-propanol	536	BDERNNFJNOPAEC-UHFFFAOYSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+16.6	1-propanol	536	BDERNNFJNOPAEC-UHFFFAOYSA-N	65		X	mutant enzyme N249Y, at 65C
+0.24	2-propanol	551	KFZMGEQAYNKOFK-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+0.25	2-propanol	551	KFZMGEQAYNKOFK-UHFFFAOYSA-N	55			native enzyme, at 55C
+0.25	2-propanol	551	KFZMGEQAYNKOFK-UHFFFAOYSA-N	65	9.2		in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65C
+0.45	2-propanol	551	KFZMGEQAYNKOFK-UHFFFAOYSA-N	55			carboxymethylated enzyme, at 55C
+0.75	2-propanol	551	KFZMGEQAYNKOFK-UHFFFAOYSA-N				
+287	2-propanol	551	KFZMGEQAYNKOFK-UHFFFAOYSA-N	60	7.7		pH 7.7, 60C
+4.6	4-Nitrobenzaldehyde	612	BXRFQSNOROATLV-UHFFFAOYSA-N	55			native enzyme, at 55C
+4.6	4-Nitrobenzaldehyde	612	BXRFQSNOROATLV-UHFFFAOYSA-N	65	7.5		in 50 mM Tris-HCl (pH 7.5) containing 0.2 mM NADH + H+, at 65C
+202	phenylacetaldehyde	619	DTUQWGWMVIHBKE-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C, recombinant enzyme expressed from Saccharomyces cerevisiae
+264	phenylacetaldehyde	619	DTUQWGWMVIHBKE-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C, recombinant enzyme expressed from Hansenula polymorpha
+303	phenylacetaldehyde	619	DTUQWGWMVIHBKE-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C, recombinant enzyme expressed from Arxula adeninivorans
+0.018	all-trans-retinal	626	NCYCYZXNIZJOKI-OVSJKPMPSA-N	25	7.5		pH 7.5, 25C, isozyme ADH1B1
+0.022	all-trans-retinal	626	NCYCYZXNIZJOKI-OVSJKPMPSA-N				oxidation with NAD+
+0.55	all-trans-retinal	626	NCYCYZXNIZJOKI-OVSJKPMPSA-N	25	7.5		pH 7.5, 25C, isozyme ADH1B2
+1.83	all-trans-retinal	626	NCYCYZXNIZJOKI-OVSJKPMPSA-N	25	7.5		pH 7.5, 25C, isozyme ADH4
+2.5	all-trans-retinal	626	NCYCYZXNIZJOKI-OVSJKPMPSA-N				reduction with NADH
+22	isatin	646	JXDYKVIHCLTXOP-UHFFFAOYSA-N	65	5.5		65C, pH 5.5; pH 5.5, 65C
+3.33	octanal	664	NUJGJRNETVAIRJ-UHFFFAOYSA-N				
+17	octanal	664	NUJGJRNETVAIRJ-UHFFFAOYSA-N				enzyme form ADH-3
+518.4	octanal	664	NUJGJRNETVAIRJ-UHFFFAOYSA-N	60	8.0		cosubstrate NADPH, pH 8.0, 60C
+0.028	all-trans-retinol	671	FPIPGXGPPPQFEQ-OVSJKPMPSA-N	25	7.5		pH 7.5, 25C, isozyme ADH1B1
+0.25	all-trans-retinol	671	FPIPGXGPPPQFEQ-OVSJKPMPSA-N	25	7.5		pH 7.5, 25C, isozyme ADH1B2
+0.4	all-trans-retinol	671	FPIPGXGPPPQFEQ-OVSJKPMPSA-N				
+0.9	all-trans-retinol	671	FPIPGXGPPPQFEQ-OVSJKPMPSA-N	25	7.5		pH 7.5, 25C, isozyme ADH4
+1.55	all-trans-retinol	671	FPIPGXGPPPQFEQ-OVSJKPMPSA-N				oxidation with NAD+
+0.167	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N				
+0.383	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N		10.0		isoenzyme ADH-2, pH 10.0
+0.52	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+0.583	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N				
+0.65	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N	55			native enzyme, at 55C
+0.65	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N	65	9.2		in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65C
+0.75	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N				enzyme form ADH-2
+1.2	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N	55			carboxymethylated enzyme, at 55C
+1.2	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N	65			wild type enzyme, at 65C
+1.2	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+1.5	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N		10.0		isoenzyme ADH-3, pH 10.0
+1.75	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N		10.0		isoenzyme ADH-1, pH 10.0
+1.75	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N				isoenzyme BB-ADH
+2.03	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N				
+2.4	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N				isoenzyme AA-ADH
+3.55	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N				enzyme form ADH-3
+8.5	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N				isoenzyme TT-ADH
+12.4	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+15.9	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N	65		X	mutant enzyme N249Y, at 65C
+43	cinnamyl alcohol	728	OOCCDEMITAIZTP-QPJJXVBHSA-N	60	7.7		pH 7.7, 60C
+98	cinnamyl alcohol	728	OOCCDEMITAIZTP-QPJJXVBHSA-N			X	mutant enzyme W54L
+133	cinnamyl alcohol	728	OOCCDEMITAIZTP-QPJJXVBHSA-N				wild-type enzyme Adh 1
+0.58	Isopropanol	551	KFZMGEQAYNKOFK-UHFFFAOYSA-N				
+17.2	Propanol	536	BDERNNFJNOPAEC-UHFFFAOYSA-N				
+28.7	Propanol	536	BDERNNFJNOPAEC-UHFFFAOYSA-N			X	mutant enzyme W54L
+211	acetophenone	755	KWOLFJPFCHCOCG-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C, recombinant enzyme expressed from Hansenula polymorpha
+259	acetophenone	755	KWOLFJPFCHCOCG-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C, recombinant enzyme expressed from Saccharomyces cerevisiae
+288	acetophenone	755	KWOLFJPFCHCOCG-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C, recombinant enzyme expressed from Arxula adeninivorans
+0.6	4-methoxybenzaldehyde	779	ZRSNZINYAWTAHE-UHFFFAOYSA-N	55			native enzyme, at 55C
+0.6	4-methoxybenzaldehyde	779	ZRSNZINYAWTAHE-UHFFFAOYSA-N	65	7.5		in 50 mM Tris-HCl (pH 7.5) containing 0.2 mM NADH + H+, at 65C
+3.1	4-methoxybenzaldehyde	779	ZRSNZINYAWTAHE-UHFFFAOYSA-N	65	6.0		pH 6.0, 65C
+3.3	4-methoxybenzaldehyde	779	ZRSNZINYAWTAHE-UHFFFAOYSA-N	65			wild type enzyme, at 65C
+20.5	4-methoxybenzaldehyde	779	ZRSNZINYAWTAHE-UHFFFAOYSA-N	65		X	mutant enzyme N249Y, at 65C
+55	cinnamaldehyde	817	KJPRLNWUNMBNBZ-QPJJXVBHSA-N	60	7.7		pH 7.7, 60C
+0.48	2-butanol	857	BTANRVKWQNVYAZ-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+4.75	2-butanol	857	BTANRVKWQNVYAZ-UHFFFAOYSA-N				
+0.183	1-Pentanol	874	AMQJEAYHLZJPGS-UHFFFAOYSA-N				
+0.45	1-Pentanol	874	AMQJEAYHLZJPGS-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+0.53	1-Pentanol	874	AMQJEAYHLZJPGS-UHFFFAOYSA-N	65	10.5	X	mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+1.17	1-Pentanol	874	AMQJEAYHLZJPGS-UHFFFAOYSA-N		10.0		isoenzyme ADH-3, pH 10.0
+2.5	1-Pentanol	874	AMQJEAYHLZJPGS-UHFFFAOYSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+3.53	1-Pentanol	874	AMQJEAYHLZJPGS-UHFFFAOYSA-N		10.0		isoenzyme ADH-2, pH 10.0
+16.3	1-Pentanol	874	AMQJEAYHLZJPGS-UHFFFAOYSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+48.8	1-Pentanol	874	AMQJEAYHLZJPGS-UHFFFAOYSA-N		10.0		isoenzyme ADH-1, pH 10.0
+0.37	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+0.6	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+1.5	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	55			native enzyme, at 55C
+1.6	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	65	10.5		65C; pH 10.5, 65C
+2.9	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+3.3	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	65			wild type enzyme, at 65C
+16.8	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+20.5	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	55			carboxymethylated enzyme, at 55C
+25.5	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	65		X	mutant enzyme N249Y, at 65C
+0.12	2-butanone	885	ZWEHNKRNPOVVGH-UHFFFAOYSA-N				
+0.37	1-Hexanol	921	ZSIAUFGUXNUGDI-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+0.42	1-Hexanol	921	ZSIAUFGUXNUGDI-UHFFFAOYSA-N	65	10.5	X	mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+2	1-Hexanol	921	ZSIAUFGUXNUGDI-UHFFFAOYSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+3.03	1-Hexanol	921	ZSIAUFGUXNUGDI-UHFFFAOYSA-N				
+13.3	1-Hexanol	921	ZSIAUFGUXNUGDI-UHFFFAOYSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+1	1-Octanol	931	KBPLFHHGFOOTCA-UHFFFAOYSA-N		10.0		isoenzyme ADH-3, pH 10.0
+2.33	1-Octanol	931	KBPLFHHGFOOTCA-UHFFFAOYSA-N		10.0		isoenzyme ADH-2, pH 10.0
+2.83	1-Octanol	931	KBPLFHHGFOOTCA-UHFFFAOYSA-N				
+60.8	1-Octanol	931	KBPLFHHGFOOTCA-UHFFFAOYSA-N		10.0		isoenzyme ADH-1, pH 10.0
+260.7	1-Octanol	931	KBPLFHHGFOOTCA-UHFFFAOYSA-N	60	8.0		cosubstrate NADP+, pH 8.0, 60C
+0.038	Octanol	931	KBPLFHHGFOOTCA-UHFFFAOYSA-N	25	7.5		recombinant allozyme Ile308, pH 7.5, 25C
+0.04	Octanol	931	KBPLFHHGFOOTCA-UHFFFAOYSA-N	25	7.5		recombinant allozyme Val308, pH 7.5, 25C
+0.15	Octanol	931	KBPLFHHGFOOTCA-UHFFFAOYSA-N				
+3.17	Octanol	931	KBPLFHHGFOOTCA-UHFFFAOYSA-N				pH and temperature not specified in the publication
+4.33	Octanol	931	KBPLFHHGFOOTCA-UHFFFAOYSA-N				isoenzyme alpha,gamma1
+7.33	Octanol	931	KBPLFHHGFOOTCA-UHFFFAOYSA-N				
+8.33	Octanol	931	KBPLFHHGFOOTCA-UHFFFAOYSA-N				
+13.7	acetoin	967	ROWKJAVDOGWPAT-UHFFFAOYSA-N	70	6.0		pH 6.0, 70C
+1.27	cyclohexanone	987	JHIVVAPYMSGYDF-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+5.9	cyclohexanone	987	JHIVVAPYMSGYDF-UHFFFAOYSA-N				
+0.087	retinol	671	FPIPGXGPPPQFEQ-OVSJKPMPSA-N	25	7.5		recombinant allozyme Ile308, pH 7.5, 25C
+0.11	retinol	671	FPIPGXGPPPQFEQ-OVSJKPMPSA-N	25	7.5		recombinant allozyme Val308, pH 7.5, 25C
+0.75	ethylene glycol	1064	LYCAIKOWRPUZTN-UHFFFAOYSA-N				
+4.5	ethylene glycol	1064	LYCAIKOWRPUZTN-UHFFFAOYSA-N				
+0.167	Hexanol	921	ZSIAUFGUXNUGDI-UHFFFAOYSA-N				
+0.45	Hexanol	921	ZSIAUFGUXNUGDI-UHFFFAOYSA-N	25	7.5		recombinant isozyme ADH1, pH 7.5, 25C
+3.83	Hexanol	921	ZSIAUFGUXNUGDI-UHFFFAOYSA-N	25	10.5		recombinant isozyme ADH1, pH 10.5, 25C
+19.5	Hexanol	921	ZSIAUFGUXNUGDI-UHFFFAOYSA-N				
+23.9	Hexanol	921	ZSIAUFGUXNUGDI-UHFFFAOYSA-N			X	mutant enzyme W54L
+29.6	Hexanol	921	ZSIAUFGUXNUGDI-UHFFFAOYSA-N				wild-type enzyme Adh 1
+30.8	Hexanol	921	ZSIAUFGUXNUGDI-UHFFFAOYSA-N	25	7.5		recombinant isozyme ADH4, pH 7.5, 25C
+86.5	Hexanol	921	ZSIAUFGUXNUGDI-UHFFFAOYSA-N	25	10.5		recombinant isozyme ADH4, pH 10.5, 25C
+418	Valeraldehyde	628	HGBOYTHUEUWSSQ-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C, recombinant enzyme expressed from Saccharomyces cerevisiae
+432	Valeraldehyde	628	HGBOYTHUEUWSSQ-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C, recombinant enzyme expressed from Arxula adeninivorans
+528	Valeraldehyde	628	HGBOYTHUEUWSSQ-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C, recombinant enzyme expressed from Hansenula polymorpha
+0.245	Pentanol	874	AMQJEAYHLZJPGS-UHFFFAOYSA-N				
+0.283	Pentanol	874	AMQJEAYHLZJPGS-UHFFFAOYSA-N		7.5		pyrazole-sensitive enzyme, pH 7.5
+0.333	Pentanol	874	AMQJEAYHLZJPGS-UHFFFAOYSA-N		10.0		pyrazole-sensitive enzyme, pH 10.0
+0.667	Pentanol	874	AMQJEAYHLZJPGS-UHFFFAOYSA-N		7.5		pH 7.5, anodic enzyme form
+8	Pentanol	874	AMQJEAYHLZJPGS-UHFFFAOYSA-N				
+16	Pentanol	874	AMQJEAYHLZJPGS-UHFFFAOYSA-N				
+18.4	Pentanol	874	AMQJEAYHLZJPGS-UHFFFAOYSA-N			X	mutant enzyme W54L
+56.2	Pentanol	874	AMQJEAYHLZJPGS-UHFFFAOYSA-N				wild-type enzyme Adh 1
+0.82	Isobutyraldehyde	1234	AMIMRNSIRUDHCM-UHFFFAOYSA-N	65	10.5	X	mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+18.1	Isobutyraldehyde	1234	AMIMRNSIRUDHCM-UHFFFAOYSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+29	Isobutyraldehyde	1234	AMIMRNSIRUDHCM-UHFFFAOYSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+1.6	benzil	1253	WURBFLDFSFBTLW-UHFFFAOYSA-N	65	5.0		65C, pH 5.0
+0.467	Vanillyl alcohol	1320	ZENOXNGFMSCLLL-UHFFFAOYSA-N				
+8.67	Vanillyl alcohol	1320	ZENOXNGFMSCLLL-UHFFFAOYSA-N				
+3.1	3-Methoxybenzaldehyde	1377	WMPDAIZRQDCGFH-UHFFFAOYSA-N	65			65C
+5.8	propan-2-ol	551	KFZMGEQAYNKOFK-UHFFFAOYSA-N			X	mutant enzyme W54L
+6.92	propan-2-ol	551	KFZMGEQAYNKOFK-UHFFFAOYSA-N				
+53.1	propan-2-ol	551	KFZMGEQAYNKOFK-UHFFFAOYSA-N				wild-type enzyme Adh 1
+0.0713	2-Pentanone	1419	XNLICIUVMPYHGG-UHFFFAOYSA-N				
+0.77	2-Pentanone	1419	XNLICIUVMPYHGG-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+2.35	n-Hexanol	921	ZSIAUFGUXNUGDI-UHFFFAOYSA-N				isoenzyme BB-ADH
+2.8	n-Hexanol	921	ZSIAUFGUXNUGDI-UHFFFAOYSA-N				isoenzyme AA-ADH
+4.08	n-Hexanol	921	ZSIAUFGUXNUGDI-UHFFFAOYSA-N				isoenzyme TT-ADH
+1	(S)-2-butanol	1476	BTANRVKWQNVYAZ-BYPYZUCNSA-N				
+1.2	(S)-2-butanol	1476	BTANRVKWQNVYAZ-BYPYZUCNSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+2.17	(S)-2-butanol	1476	BTANRVKWQNVYAZ-BYPYZUCNSA-N				
+4.8	(S)-2-butanol	1476	BTANRVKWQNVYAZ-BYPYZUCNSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+43.8	2,3-Butanediol	1484	OWBTYPJTUOEWEK-UHFFFAOYSA-N	70	9.0		pH 9.0, 70C
+0.022	11-cis-retinol	1613	FPIPGXGPPPQFEQ-IOUUIBBYSA-N				oxidation with NAD+
+0.21	trans-cinnamaldehyde	817	KJPRLNWUNMBNBZ-QPJJXVBHSA-N	65	10.5	X	mutant enzyme W95L,, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+2.1	trans-cinnamaldehyde	817	KJPRLNWUNMBNBZ-QPJJXVBHSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+18.9	trans-cinnamaldehyde	817	KJPRLNWUNMBNBZ-QPJJXVBHSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+1	(R)-2-butanol	1685	BTANRVKWQNVYAZ-SCSAIBSYSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+1.7	(R)-2-butanol	1685	BTANRVKWQNVYAZ-SCSAIBSYSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+2	(R)-2-butanol	1685	BTANRVKWQNVYAZ-SCSAIBSYSA-N				
+0.6	2-Pentanol	1710	JYVLIDXNZAXMDK-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+0.983	Anisaldehyde	779	ZRSNZINYAWTAHE-UHFFFAOYSA-N				
+1.02	Cyclopentanone	1815	BGTOWKSIORTVQH-UHFFFAOYSA-N				
+0.51	1-Heptanol	1918	BBMCTIGTTCKYKF-UHFFFAOYSA-N	65	10.5	X	mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+1.6	1-Heptanol	1918	BBMCTIGTTCKYKF-UHFFFAOYSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+11.9	1-Heptanol	1918	BBMCTIGTTCKYKF-UHFFFAOYSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+1.97	butan-1-ol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N				
+2	butan-1-ol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N	30	7.0		cosubstrate NAD+, pH 7.0, 30C
+7.22	butan-1-ol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N				enzyme form ADH-3
+3.97	ethyl pyruvate	1933	XXRCUYVCPSWGCC-UHFFFAOYSA-N	50	6.5		pH 6.5, 50C, recombinant enzyme
+2.83	2-deoxy-D-ribose	2023	PDWIQYODPROSQH-PYHARJCCSA-N				
+0.023	9-cis-retinal	2078	NCYCYZXNIZJOKI-MKOSUFFBSA-N				reduction with NADH
+0.7	4-carboxybenzaldehyde	2105	GOUHYARYYWKXHS-UHFFFAOYSA-N	55			native enzyme, at 55C
+0.7	4-carboxybenzaldehyde	2105	GOUHYARYYWKXHS-UHFFFAOYSA-N	65	7.5		in 50 mM Tris-HCl (pH 7.5) containing 0.2 mM NADH + H+, at 65C
+1.03	12-hydroxydodecanoate	2155	ZDHCZVWCTKTBRY-UHFFFAOYSA-N				isoenzyme TT-ADH
+1.27	12-hydroxydodecanoate	2155	ZDHCZVWCTKTBRY-UHFFFAOYSA-N		10.0		isoenzyme ADH-3, pH 10.0
+1.45	12-hydroxydodecanoate	2155	ZDHCZVWCTKTBRY-UHFFFAOYSA-N				enzyme form ADH-3
+2.2	12-hydroxydodecanoate	2155	ZDHCZVWCTKTBRY-UHFFFAOYSA-N				isoenzyme BB-ADH
+2.43	12-hydroxydodecanoate	2155	ZDHCZVWCTKTBRY-UHFFFAOYSA-N				
+2.77	12-hydroxydodecanoate	2155	ZDHCZVWCTKTBRY-UHFFFAOYSA-N				isoenzyme AA-ADH
+2.95	12-hydroxydodecanoate	2155	ZDHCZVWCTKTBRY-UHFFFAOYSA-N				
+3.03	12-hydroxydodecanoate	2155	ZDHCZVWCTKTBRY-UHFFFAOYSA-N				
+3.83	12-hydroxydodecanoate	2155	ZDHCZVWCTKTBRY-UHFFFAOYSA-N		10.0		isoenzyme ADH-12, pH 10.0
+4	12-hydroxydodecanoate	2155	ZDHCZVWCTKTBRY-UHFFFAOYSA-N				
+20	12-hydroxydodecanoate	2155	ZDHCZVWCTKTBRY-UHFFFAOYSA-N		10.0		isoenzyme ADH-1, pH 10.0
+6.2	1-Indanol	2270	YIAPLDFPUUJILH-UHFFFAOYSA-N	65	10.5		65C, pH 10.5
+45.7	1-Indanol	2270	YIAPLDFPUUJILH-UHFFFAOYSA-N	65			65C
+0.333	12-Hydroxydodecanoic acid	2155	ZDHCZVWCTKTBRY-UHFFFAOYSA-N				
+1.93	butan-2-one	885	ZWEHNKRNPOVVGH-UHFFFAOYSA-N				
+8.3	1-Indanone	2443	QNXSIUBBGPHDDE-UHFFFAOYSA-N	65	10.5		65C; pH 10.5, 65C
+35.7	1-phenylethanol	2444	WAPNOHKVXSQRPX-UHFFFAOYSA-N	70	9.0		pH 9.0, 70C
+1.5	3-Pentanol	2449	AQIXEPGDORPWBJ-UHFFFAOYSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+2.26	3-Pentanol	2449	AQIXEPGDORPWBJ-UHFFFAOYSA-N				
+0.08	3-methyl-1-butanol	2556	PHTQWCKDNZKARW-UHFFFAOYSA-N			X	mutant enzyme W54L
+0.27	3-methyl-1-butanol	2556	PHTQWCKDNZKARW-UHFFFAOYSA-N				wild-type enzyme Adh 1
+3.1	1-phenyl-1,2-propanedione	2602	BVQVLAIMHVDZEL-UHFFFAOYSA-N	65	5.5		65C, pH 5.5
+5.3	1-phenyl-1,2-propanedione	2602	BVQVLAIMHVDZEL-UHFFFAOYSA-N	65	5.0		65C, pH 5.0
+17.1	1-phenyl-1,2-propanedione	2602	BVQVLAIMHVDZEL-UHFFFAOYSA-N	65			65C
+0.025	9-cis-retinol	2613	FPIPGXGPPPQFEQ-MKOSUFFBSA-N				oxidation with NAD+
+0.018	13-cis-retinal	2617	NCYCYZXNIZJOKI-HWCYFHEPSA-N				reduction with NADH
+0.73	2-Heptanone	2673	CATSNJVOTSVZJV-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+0.021	11-cis-retinal	2804	NCYCYZXNIZJOKI-IOUUIBBYSA-N				reduction with NADH
+1.08	2-Hexanone	2809	QQZOPKMRPOGIEB-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+2.17	3-methylcyclohexanone	2812	UJBOOUHRTQVGRU-UHFFFAOYSA-N				
+3.8	3-methylcyclohexanone	2812	UJBOOUHRTQVGRU-UHFFFAOYSA-N	65	5.5		65C, pH 5.5
+4.03	propan-1-ol	536	BDERNNFJNOPAEC-UHFFFAOYSA-N				
+1.7	2,2,2-trifluoroacetophenone	2940	KZJRKRQSDZGHEC-UHFFFAOYSA-N	65	5.0		65C, pH 5.0
+10	2,2,2-trifluoroacetophenone	2940	KZJRKRQSDZGHEC-UHFFFAOYSA-N	65	5.5		65C, pH 5.5
+25.5	2,2,2-trifluoroacetophenone	2940	KZJRKRQSDZGHEC-UHFFFAOYSA-N	65	10.5		65C; pH 10.5, 65C
+1.4	benzylalcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	65	9.2		in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65C
+1.1	(S)-1-phenylethanol	3024	WAPNOHKVXSQRPX-ZETCQYMHSA-N	65	10.5		pH 10.5, 65C
+0.31	butan-2-ol	857	BTANRVKWQNVYAZ-UHFFFAOYSA-N			X	mutant enzyme W54L
+3.55	butan-2-ol	857	BTANRVKWQNVYAZ-UHFFFAOYSA-N				
+11.9	butan-2-ol	857	BTANRVKWQNVYAZ-UHFFFAOYSA-N				wild-type enzyme Adh 1
+13.7	(S)-1-indanol	1896	YIAPLDFPUUJILH-VIFPVBQESA-N	65	8.0		65C, pH 8.0; pH 8.0, 65C
+61.4	(S)-1-indanol	1896	YIAPLDFPUUJILH-VIFPVBQESA-N	65	10.5		pH 10.5, 65C
+0.36	3-Pentanone	3304	FDPIMTJIUBPUKL-UHFFFAOYSA-N				
+0.87	(S)-2-pentanol	3406	JYVLIDXNZAXMDK-YFKPBYRVSA-N				
+2.6	(S)-2-pentanol	3406	JYVLIDXNZAXMDK-YFKPBYRVSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+6.7	(S)-2-pentanol	3406	JYVLIDXNZAXMDK-YFKPBYRVSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+1.4	3-Methoxybenzyl alcohol	2936	IIGNZLVHOZEOPV-UHFFFAOYSA-N	55			native enzyme, at 55C
+16	3-Methoxybenzyl alcohol	2936	IIGNZLVHOZEOPV-UHFFFAOYSA-N	55			carboxymethylated enzyme, at 55C
+7.5	3-Phenyl-1-propanol	3528	VAJVDSVGBWFCLW-UHFFFAOYSA-N				
+0.018	13-cis-retinol	3628	FPIPGXGPPPQFEQ-HWCYFHEPSA-N				oxidation with NAD+
+1.9	ethyl benzoylformate	3721	QKLCQKPAECHXCQ-UHFFFAOYSA-N	65	5.0		65C, pH 5.0
+2.35	ethyl benzoylformate	3721	QKLCQKPAECHXCQ-UHFFFAOYSA-N	65	5.5		65C, pH 5.5
+50.1	ethyl benzoylformate	3721	QKLCQKPAECHXCQ-UHFFFAOYSA-N	65			65C
+1.67	2-Buten-1-ol	3751	WCASXYBKJHWFMY-UHFFFAOYSA-N		10.0		isoenzyme ADH-3, pH 10.0
+5.83	2-Buten-1-ol	3751	WCASXYBKJHWFMY-UHFFFAOYSA-N		10.0		isoenzyme ADH-2, pH 10.0
+213	2-Buten-1-ol	3751	WCASXYBKJHWFMY-UHFFFAOYSA-N		10.0		isoenzyme ADH-1, pH 10.0
+0.74	2-Octanone	3759	ZPVFWPFBNIEHGJ-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+0.35	all-trans retinol	671	FPIPGXGPPPQFEQ-OVSJKPMPSA-N				isoenzyme AA-ADH
+1.3	all-trans retinol	671	FPIPGXGPPPQFEQ-OVSJKPMPSA-N				
+1.3	all-trans retinol	671	FPIPGXGPPPQFEQ-OVSJKPMPSA-N				isoenzyme TT-ADH
+1.9	all-trans retinol	671	FPIPGXGPPPQFEQ-OVSJKPMPSA-N				isoenzyme BB-ADH
+1.01	(R)-2-pentanol	3888	JYVLIDXNZAXMDK-RXMQYKEDSA-N				
+1.1	(R)-2-pentanol	3888	JYVLIDXNZAXMDK-RXMQYKEDSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+1.9	(R)-2-pentanol	3888	JYVLIDXNZAXMDK-RXMQYKEDSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+1.58	furfural	4066	HYBBIBNJHNGZAN-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+56.6	hexaldehyde	514	JARKCYVAAOWBJS-UHFFFAOYSA-N				
+2.92	pentan-1-ol	874	AMQJEAYHLZJPGS-UHFFFAOYSA-N				enzyme form ADH-3
+145	4-chloroacetophenone	4264	BUZYGTVTZYSBCU-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C, recombinant enzyme expressed from Hansenula polymorpha
+230	4-chloroacetophenone	4264	BUZYGTVTZYSBCU-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C, recombinant enzyme expressed from Saccharomyces cerevisiae
+432	4-chloroacetophenone	4264	BUZYGTVTZYSBCU-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C, recombinant enzyme expressed from Arxula adeninivorans
+317	Capronaldehyde	514	JARKCYVAAOWBJS-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C, recombinant enzyme expressed from Arxula adeninivorans
+410	Capronaldehyde	514	JARKCYVAAOWBJS-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C, recombinant enzyme expressed from Hansenula polymorpha
+576	Capronaldehyde	514	JARKCYVAAOWBJS-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C, recombinant enzyme expressed from Saccharomyces cerevisiae
+0.053	(R)-2-octanol	4976	SJWFXCIHNDVPSH-MRVPVSSYSA-N				
+0.4	2-decanone	4978	ZAJNGDIORYACQU-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+1.85	octan-1-ol	931	KBPLFHHGFOOTCA-UHFFFAOYSA-N				enzyme form ADH-3
+7.7	alpha-tetralone	5185	XHLHPRDBBAGVEG-UHFFFAOYSA-N	65	10.5		65C; pH 10.5, 65C
+6.7	4-Methyl-1-pentanol	5400	PCWGTDULNUVNBN-UHFFFAOYSA-N				wild-type enzyme Adh 1
+18.6	4-Methyl-1-pentanol	5400	PCWGTDULNUVNBN-UHFFFAOYSA-N			X	mutant enzyme W54L
+0.24	p-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N				
+2.92	pentan-3-ol	2449	AQIXEPGDORPWBJ-UHFFFAOYSA-N				
+1.52	(S)-2-octanol	6359	SJWFXCIHNDVPSH-QMMMGPOBSA-N				
+0.7	2-nonanone	6368	VKCYHJWLYTUGCC-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+4.4	cycloheptanol	6386	QCRFMSUKWRQZEM-UHFFFAOYSA-N	65	8.0		65C, pH 8.0; pH 8.0, 65C
+7	cycloheptanol	6386	QCRFMSUKWRQZEM-UHFFFAOYSA-N	65	10.5		65C, pH 10.5
+1.2	3-methoxybenzylalcohol	2936	IIGNZLVHOZEOPV-UHFFFAOYSA-N	65	9.2		in the presence of 5 mM benzylalcohol, in 0.1 M glycine-NaOH, pH 9.2, at 65C
+1.4	3-methoxybenzylalcohol	2936	IIGNZLVHOZEOPV-UHFFFAOYSA-N	65	9.2		in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65C
+1.22	3-methylbutan-2-one	7441	SYBYTAAJFKOIEJ-UHFFFAOYSA-N				
+0.092	4-hydroxy-retinol	7733	IOELQUUUYMBPSA-ITCDGTHUSA-N	25	7.5		pH 7.5, 25C, isozyme ADH1B1
+2.83	4-hydroxy-retinol	7733	IOELQUUUYMBPSA-ITCDGTHUSA-N	25	7.5		pH 7.5, 25C, isozyme ADH1B2
+34.2	4-hydroxy-retinol	7733	IOELQUUUYMBPSA-ITCDGTHUSA-N	25	7.5		pH 7.5, 25C, isozyme ADH4
+0.167	4-oxo-retinal	7734	PLILDISEFZJECC-ITCDGTHUSA-N	25	7.5		pH 7.5, 25C, isozyme ADH1B1
+7.83	4-oxo-retinal	7734	PLILDISEFZJECC-ITCDGTHUSA-N	25	7.5		pH 7.5, 25C, isozyme ADH1B2
+20	4-oxo-retinal	7734	PLILDISEFZJECC-ITCDGTHUSA-N	25	7.5		pH 7.5, 25C, isozyme ADH4
+6.2	methyl benzoylformate	7865	YLHXLHGIAMFFBU-UHFFFAOYSA-N	65	5.5		65C, pH 5.5
+0.683	3-Pyridylcarbinol	8284	MVQVNTPHUGQQHK-UHFFFAOYSA-N		7.5		pH 7.5, anodic enzyme form
+7.1	(R)-1-indanol	1896	YIAPLDFPUUJILH-VIFPVBQESA-N	65	8.0		65C, pH 8.0; pH 8.0, 65C
+1.2	3-bromobenzyl alcohol	8684	FSWNRRSWFBXQCL-UHFFFAOYSA-N	55			native enzyme, at 55C
+2	3-bromobenzyl alcohol	8684	FSWNRRSWFBXQCL-UHFFFAOYSA-N	55			carboxymethylated enzyme, at 55C
+1.1	4-bromobenzyl alcohol	8692	VEDDBHYQWFOITD-UHFFFAOYSA-N	55			native enzyme, at 55C
+3.5	4-bromobenzyl alcohol	8692	VEDDBHYQWFOITD-UHFFFAOYSA-N	55			carboxymethylated enzyme, at 55C
+2.1	(S)-alpha-tetralol	2616	JAAJQSRLGAYGKZ-JTQLQIEISA-N	65	8.0		65C, pH 8.0; pH 8.0, 65C
+57	(S)-alpha-tetralol	2616	JAAJQSRLGAYGKZ-JTQLQIEISA-N	65	10.5		pH 10.5, 65C
+1.83	tryptophol	10701	MBBOMCVGYCRMEA-UHFFFAOYSA-N				
+1.5	4-methoxybenzylalcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	65	9.2		in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65C
+0.088	3,4-dihydro-retinol	11682	FPIPGXGPPPQFEQ-BOOMUCAASA-N	25	7.5		pH 7.5, 25C, isozyme ADH1B2
+2.5	3,4-dihydro-retinol	11682	FPIPGXGPPPQFEQ-BOOMUCAASA-N	25	7.5		pH 7.5, 25C, isozyme ADH4
+0.22	3,4-dihydro-retinal	2617	NCYCYZXNIZJOKI-HWCYFHEPSA-N	25	7.5		pH 7.5, 25C, isozyme ADH1B2
+1.22	3,4-dihydro-retinal	2617	NCYCYZXNIZJOKI-HWCYFHEPSA-N	25	7.5		pH 7.5, 25C, isozyme ADH4
+3.2	2',3',4',5',6'-pentafluoroacetophenone	12812	FBGHCYZBCMDEOX-UHFFFAOYSA-N	65	5.0		65C, pH 5.0
+61.4	(S)-(+)-1-indanol	1896	YIAPLDFPUUJILH-VIFPVBQESA-N	65			65C
+0.99	hexyl alcohol	921	ZSIAUFGUXNUGDI-UHFFFAOYSA-N				
+2.63	methylcrotonyl alcohol	14097	GJYMQFMQRRNLCY-ONEGZZNKSA-N				isoenzyme BB-ADH
+3	methylcrotonyl alcohol	14097	GJYMQFMQRRNLCY-ONEGZZNKSA-N				isoenzyme AA-ADH
+8.58	methylcrotonyl alcohol	14097	GJYMQFMQRRNLCY-ONEGZZNKSA-N				isoenzyme TT-ADH
+26	ethyl 3-methyl-2-oxobutyrate	15915	CKTYYUQUWFEUCO-UHFFFAOYSA-N	65	5.0		65C, pH 5.0
+48.1	alpha-tetralol	17015	JAAJQSRLGAYGKZ-UHFFFAOYSA-N	65			65C
+57	(S)-(+)-alpha-tetraol	2616	JAAJQSRLGAYGKZ-JTQLQIEISA-N	65			65C
+2.05	3-oxo-5beta-androstan-17beta-ol	1523	NVKAWKQGWWIWPM-MISPCMORSA-N				
+0.9	5beta-Pregnan-21-ol-3,20-dione hemisuccinate	20111	KLRNMIUKAXHHFS-UHFFFAOYSA-N				
+0.94	Butyl alcohol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N				
+6.17	16-hydroxyhexadecanoate	7784	UGAGPNKCDRTDHP-UHFFFAOYSA-N				
+1.2	3-bromobenzylalcohol	8684	FSWNRRSWFBXQCL-UHFFFAOYSA-N	65	9.2		in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65C
+1.1	4-bromobenzylalcohol	8692	VEDDBHYQWFOITD-UHFFFAOYSA-N	65	9.2		in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65C
+1.1	(S)-(-)-1-phenylethanol	3024	WAPNOHKVXSQRPX-ZETCQYMHSA-N	65			65C
+38.1	methylbenzoylformate	7865	YLHXLHGIAMFFBU-UHFFFAOYSA-N	65			65C
+0.65	2,2-dichloroacetophenone	25470	CERJZAHSUZVMCH-UHFFFAOYSA-N	65	5.0		65C, pH 5.0
+405	(2E)-but-2-enal	1153	MLUCVPSAIODCQM-NSCUHMNNSA-N	65	6.5		pH 6.5, 65C
+1.6	2-ethoxyethanol	26396	ZNQVEEAIQZEUHB-UHFFFAOYSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+0.98	cis-decahydro-1-naphthol	118685	NDZOISQLWLWLEW-XMCUXHSSSA-N	65	8.0		65C, pH 8.0
+13.5	(R)-alpha-tetralol	11798	JAAJQSRLGAYGKZ-SNVBAGLBSA-N	65	8.0		65C, pH 8.0; pH 8.0, 65C
+9.2	methyl o-chlorobenzoylformate	118686	XWVVPXXXQOJCJV-UHFFFAOYSA-N	65	5.5		65C, pH 5.5; pH 5.5, 65C
+16.6	isoborneol	28294	DTGKSKDOIYIVQL-MRTMQBJTSA-N	65	10.5		65C, pH 10.5
+9.6	tetralin-1-ol	17015	JAAJQSRLGAYGKZ-UHFFFAOYSA-N	65	10.5		65C, pH 10.5
+1.17	Propyl alcohol	536	BDERNNFJNOPAEC-UHFFFAOYSA-N				
+7.72	3-methyl-cyclohexanol	6077	HTSABYAWKQAHBT-UHFFFAOYSA-N				
+3.82	pentan2-ol	1710	JYVLIDXNZAXMDK-UHFFFAOYSA-N				
+17.1	1-phenyl-1,2-propandione	2602	BVQVLAIMHVDZEL-UHFFFAOYSA-N	65	10.5		pH 10.5, 65C
+38.1	methyl oxo(phenyl)acetate	7865	YLHXLHGIAMFFBU-UHFFFAOYSA-N	65	10.5		pH 10.5, 65C
+0.072	tert-butyl acetoacetate	85318	JKUYRAMKJLMYLO-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+0.071	4-methoxyphenylacetone	53862	WFWKNGZODAOLEO-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C

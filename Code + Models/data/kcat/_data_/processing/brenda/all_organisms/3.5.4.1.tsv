@@ -1,0 +1,58 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00013	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N		7.5	X	mutant E64A, pH 7.5, temperature not specified in the publication
+0.005	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N		7.5	X	mutant E64D, pH 7.5, temperature not specified in the publication
+0.0075	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N	30	8.5	X	mutant D313N, pH 8.5, 30C
+0.18	3-oxauracil	118588	WQAIPNTUCFSZRZ-UHFFFAOYSA-N	30	8.5	X	mutant E217A, pH 8.5, 30C
+0.18	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N	30	8.5	X	mutant H246Q, pH 8.5, 30C
+0.65	5-Azacytosine	6099	MFEFTTYGMZOIKO-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, Zn2+CDase
+1.69	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N	316		X	mutant enzyme V152A/F316C/D317G, pH and temperature not specified in the publication
+2.13	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N			X	mutant enzyme D314E/F316L/D317G, pH and temperature not specified in the publication
+2.27	2-thiocytosine	9050	DCPSTSVLRXOYGS-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, Zn2+CDase
+2.3	3-oxauracil	118588	WQAIPNTUCFSZRZ-UHFFFAOYSA-N	30	8.5		wild-type, pH 8.5, 30C
+2.68	5-Azacytosine	6099	MFEFTTYGMZOIKO-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, CDase
+2.98	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N			X	mutant enzyme V315L/F316V/D317G, pH and temperature not specified in the publication
+5.1	isocytosine	4430	XQCZBXHVTFVIFE-UHFFFAOYSA-N	30	8.5		wild-type, pH 8.5, 30C
+5.4	6-azacytosine	11692	SVXNJCYYMRMXNM-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, Zn2+CDase
+5.5	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, Zn2+CDase
+5.6	creatinine	1494	DDRJAANPRJIHGJ-UHFFFAOYSA-N	30	8.5		wild-type, pH 8.5, 30C
+9.5	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N			X	mutant A23L/D92E/V108I/I140L
+9.5	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N			X	mutant A23L/D92E/V108I/I140L
+16	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, CDase
+17	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, steady-state kinetics
+17	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N		7.5		wild-type, pH 7.5, temperature not specified in the publication
+18.8	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N				wild-type enzyme
+19.71	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N				wild type enzyme, pH and temperature not specified in the publication
+21	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, transient kinetics
+22.3	2-thiocytosine	9050	DCPSTSVLRXOYGS-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, CDase
+26.4	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, Zn2+CDase
+29.5	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N			X	mutant D92E
+29.5	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N			X	mutant D92E
+31.7	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N			X	mutant A23L/V108I/I140L
+31.7	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N			X	mutant A23L/V108I/I140L
+36.8	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N	37	7.5	X	mutant D314G, pH 7.5, 37C
+49.68	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N				wild type enzyme, pH and temperature not specified in the publication
+71	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+74.3	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, mutant F316A
+75.6	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, wild-type
+75.6	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N	37	7.5		wild-type, pH 7.5, 37C
+83.68	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N			X	mutant enzyme D314E/F316L/D317G, pH and temperature not specified in the publication
+91	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, steady-state kinetics
+97.7	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N	37	7.5	X	mutant D314G, pH 7.5, 37C
+101.7	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N	316		X	mutant enzyme V152A/F316C/D317G, pH and temperature not specified in the publication
+104	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, mutant D314A
+104	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N	37	7.5	X	mutant D314A, pH 7.5, 37C
+115.2	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N			X	mutant enzyme V315L/F316V/D317G, pH and temperature not specified in the publication
+132	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N	30	8.5		wild-type, pH 8.5, 30C
+137	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N	37	7.5	X	mutant D314A, pH 7.5, 37C
+137.4	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, mutant D314A
+165	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, wild-type
+165	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N	37	7.5		wild-type, pH 7.5, 37C
+170	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N				wild-type enzyme
+185	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, CDase
+185	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+186	6-azacytosine	11692	SVXNJCYYMRMXNM-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, CDase
+189	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, mutant H312A
+233	5-fluorocytosine	950	XRECTZIEBJDKEO-UHFFFAOYSA-N	37	7.5	X	mutant D314S, pH 7.5, 37C
+279	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N	37	7.5	X	mutant D314S, pH 7.5, 37C
+1030	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, mutant P318A
+2286	cytosine	406	OPTASPLRGRRNAP-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, mutant F316A

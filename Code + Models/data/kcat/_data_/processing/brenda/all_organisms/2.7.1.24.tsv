@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0017	3'-Dephospho-CoA	1349	KDTSHFARGAKYJN-IBOSZNHHSA-N	25	8.0	X	mutant enzyme D32A, in 50 mM Tris with MgCl2 (10 mM) and KCl (20 mM), pH 8.0, at 25C
+0.0076	3'-Dephospho-CoA	1349	KDTSHFARGAKYJN-IBOSZNHHSA-N	25	8.0	X	mutant enzyme R140K, in 50 mM Tris with MgCl2 (10 mM) and KCl (20 mM), pH 8.0, at 25C
+0.014	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0	X	mutant enzyme D32A, in 50 mM Tris with MgCl2 (10 mM) and KCl (20 mM), pH 8.0, at 25C
+0.0192	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0	X	mutant enzyme L114A, in 50 mM Tris with MgCl2 (10 mM) and KCl (20 mM), pH 8.0, at 25C
+0.0255	3'-Dephospho-CoA	1349	KDTSHFARGAKYJN-IBOSZNHHSA-N	25	8.0	X	mutant enzyme K14A, in 50 mM Tris with MgCl2 (10 mM) and KCl (20 mM), pH 8.0, at 25C
+0.0257	3'-Dephospho-CoA	1349	KDTSHFARGAKYJN-IBOSZNHHSA-N	25	8.0	X	mutant enzyme G8A, in 50 mM Tris with MgCl2 (10 mM) and KCl (20 mM), pH 8.0, at 25C
+0.0293	3'-Dephospho-CoA	1349	KDTSHFARGAKYJN-IBOSZNHHSA-N	25	8.0		wild type enzyme, in 50 mM Tris with MgCl2 (10 mM) and KCl (20 mM), pH 8.0, at 25C
+0.0327	3'-Dephospho-CoA	1349	KDTSHFARGAKYJN-IBOSZNHHSA-N	25	8.0	X	mutant enzyme D32E, in 50 mM Tris with MgCl2 (10 mM) and KCl (20 mM), pH 8.0, at 25C
+0.0334	3'-Dephospho-CoA	1349	KDTSHFARGAKYJN-IBOSZNHHSA-N	25	8.0	X	mutant enzyme D32N, in 50 mM Tris with MgCl2 (10 mM) and KCl (20 mM), pH 8.0, at 25C
+0.039	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0	X	mutant enzyme K14A, in 50 mM Tris with MgCl2 (10 mM) and KCl (20 mM), pH 8.0, at 25C
+0.043	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0	X	mutant enzyme G8A, in 50 mM Tris with MgCl2 (10 mM) and KCl (20 mM), pH 8.0, at 25C
+0.0481	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0		wild type enzyme, in 50 mM Tris with MgCl2 (10 mM) and KCl (20 mM), pH 8.0, at 25C
+0.0569	3'-Dephospho-CoA	1349	KDTSHFARGAKYJN-IBOSZNHHSA-N	25	8.0	X	mutant enzyme L114A, in 50 mM Tris with MgCl2 (10 mM) and KCl (20 mM), pH 8.0, at 25C
+0.0651	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0	X	mutant enzyme D32N, in 50 mM Tris with MgCl2 (10 mM) and KCl (20 mM), pH 8.0, at 25C
+0.067	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0	X	mutant enzyme D32E, in 50 mM Tris with MgCl2 (10 mM) and KCl (20 mM), pH 8.0, at 25C

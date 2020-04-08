@@ -1,0 +1,24 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00058	(1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N			X	H232A mutant protein
+0.021	(1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N			X	H232K mutant protein
+0.047	(1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N			X	R90A mutant protein
+0.056	(1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N			X	W147A mutant protein
+0.13	(1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N		7.0	X	mutant V152A, pH 7.0, temperature not specified in the publication; mutant Y148A, pH 7.0, temperature not specified in the publication
+0.18	(1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N			X	D210A mutant protein
+0.2	(1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N		7.0	X	mutant V152G, pH 7.0, temperature not specified in the publication
+0.29	(1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N			X	S86A mutant protein
+0.51	(1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N			X	R124A mutant protein
+0.58	(1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N		7.0	X	mutant Y148F, pH 7.0, temperature not specified in the publication
+2.58	(1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N			X	Y85F mutant protein
+2.9	(1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N			X	R168A mutant protein
+3.33	(1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N		7.0	X	mutant F153A, pH 7.0, temperature not specified in the publication
+8.5	(1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N		7.0		wild-type, pH 7.0, temperature not specified in the publication
+15.4	(1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N			X	W147F mutant protein
+41.5	(1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N			X	K212A mutant protein
+115	(1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N			X	D128A mutant protein
+147	(1R,2S,5S,6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N				wild-type protein
+0.18	5-enolpyruvoyl-6-hydroxy-2-succinyl-cyclohex-3-ene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N	25		X	25C, mutant enzyme D210A
+0.29	5-enolpyruvoyl-6-hydroxy-2-succinyl-cyclohex-3-ene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N	25		X	25C, mutant enzyme S86A
+5.8	5-enolpyruvoyl-6-hydroxy-2-succinyl-cyclohex-3-ene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N	25		X	25C, mutant enzyme H232A
+147	5-enolpyruvoyl-6-hydroxy-2-succinyl-cyclohex-3-ene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N	25			25C, wild-type enzyme
+167	5-enolpyruvoyl-6-hydroxy-2-succinyl-cyclohex-3-ene-1-carboxylate	2018	XYCATPIYKOARSZ-OAIFWDMCSA-N	37	7.0		pH 7.0, 37C

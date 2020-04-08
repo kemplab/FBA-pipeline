@@ -1,0 +1,37 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.05	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.5		50 mM Tris-HCl (pH 8.5), 1 mM MnCl2, at 25C
+0.08	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	25	8.5		50 mM Tris-HCl (pH 8.5), 1 mM MnCl2, at 25C
+0.0883	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N	37	7.2		pH 7.2, 37C
+0.117	UDP	24	XCCTYIAWTASOJW-XVFCMESISA-N	37	7.2		pH 7.2, 37C
+0.167	CDP	188	ZWIADYZPOWUWEW-XVFCMESISA-N	37	7.2		pH 7.2, 37C
+0.482	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N	37	7.5		pH 7.5, 37C, guanosine 5'-tetraphosphate synthesis
+1.04	Polyphosphate	723	KVYVPOJVIUSMCN-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, guanosine 5'-tetraphosphate synthesis
+1.46	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0		pH 8.0, 37C
+2.77	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37	8.0		pH 8.0, 37C
+3.17	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	37	8.0		pH 8.0, 37C
+3.69	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N	37	8.0		pH 8.0, 37C
+4.18	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N	30	8.0		pH 8.0, 30C, recombinant isozyme PPK2-1
+4.9	UDP	24	XCCTYIAWTASOJW-XVFCMESISA-N	30	8.0		pH 8.0, 30C, recombinant isozyme PPK2-3
+5.22	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	30	8.0		pH 8.0, 30C, recombinant isozyme PPK2-2
+10.5	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	37	7.2		pH 7.2, 37C
+23.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+34	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	30	7.2		pH 7.2, 30C, recombinant wild-type enzyme
+41.9	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	25	8.5		50 mM Tris-HCl (pH 8.5), 30 mM MgCl2, at 25C
+43	ITP	203	HAEJPQIATWHALX-KQYNXXCUSA-N	30	7.2		pH 7.2, 30C, recombinant wild-type enzyme
+44.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant H510Q of isoform PPK1, pH and temperature not specified in the publication
+45	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant H480Q of isoform PPK1, pH and temperature not specified in the publication
+45.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant H480A of isoform PPK1, pH and temperature not specified in the publication
+46.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				isoform PPK1, pH and temperature not specified in the publication
+47	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N				
+55	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant Y524A of isoform PPK1, pH and temperature not specified in the publication
+55.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant H510A of isoform PPK1, pH and temperature not specified in the publication
+74	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.2		pH 7.2, 30C, recombinant wild-type enzyme
+77	Polyphosphate	723	KVYVPOJVIUSMCN-UHFFFAOYSA-N	30	7.2		pH 7.2, 30C, recombinant wild-type enzyme
+210	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N				isoform PPK2, pH and temperature not specified in the publication
+332	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant H510A of isoform PPK1, pH and temperature not specified in the publication
+622	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant H510Q of isoform PPK1, pH and temperature not specified in the publication
+645	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N				isoform PPK1, pH and temperature not specified in the publication
+943	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N				isoform PPK1, pH and temperature not specified in the publication
+950	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant H480A of isoform PPK1, pH and temperature not specified in the publication
+971	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant H480Q of isoform PPK1, pH and temperature not specified in the publication
+994	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant Y524A of isoform PPK1, pH and temperature not specified in the publication

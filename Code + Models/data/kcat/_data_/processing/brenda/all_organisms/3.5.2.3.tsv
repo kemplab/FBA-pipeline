@@ -1,0 +1,19 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.183	L-dihydroorotate	697	UFIVEPVSAGBUSI-REOHCLBHSA-N				
+1.492	L-dihydroorotate	697	UFIVEPVSAGBUSI-REOHCLBHSA-N		6.0		at pH 6.0
+4.31	L-dihydroorotate	697	UFIVEPVSAGBUSI-REOHCLBHSA-N				
+4.31	L-dihydroorotate	697	UFIVEPVSAGBUSI-REOHCLBHSA-N				
+1.55	(S)-dihydroorotate	697	UFIVEPVSAGBUSI-REOHCLBHSA-N	25	8.3		pH 8.3, 25C, recombinant detagged enzyme
+1.87	(S)-dihydroorotate	697	UFIVEPVSAGBUSI-REOHCLBHSA-N	25	8.3		pH 8.3, 25C, recombinant tagged enzyme
+0.073	L-carbamoyl-L-aspartate	3231	HLKXYZVTANABHZ-REOHCLBHSA-N		9.0		at pH 9.0
+11.5	L-carbamoyl-L-aspartate	3231	HLKXYZVTANABHZ-REOHCLBHSA-N		5.8	X	mutant enzyme T110A, at pH 5.8
+49.8	L-carbamoyl-L-aspartate	3231	HLKXYZVTANABHZ-REOHCLBHSA-N		5.8	X	mutant enzyme T109S, at pH 5.8
+59.7	L-carbamoyl-L-aspartate	3231	HLKXYZVTANABHZ-REOHCLBHSA-N		5.8	X	mutant enzyme T110S, at pH 5.8
+145.5	L-carbamoyl-L-aspartate	3231	HLKXYZVTANABHZ-REOHCLBHSA-N		5.8	X	mutant enzyme T110V, at pH 5.8
+181.1	L-carbamoyl-L-aspartate	3231	HLKXYZVTANABHZ-REOHCLBHSA-N		5.8		wild type enzyme, at pH 5.8
+1.9	N-Carbamoyl-L-aspartate	3231	HLKXYZVTANABHZ-REOHCLBHSA-N	25	8.3		pH 8.3, 25C, recombinant tagged enzyme
+2.48	N-Carbamoyl-L-aspartate	3231	HLKXYZVTANABHZ-REOHCLBHSA-N	25	8.3		pH 8.3, 25C, recombinant detagged enzyme
+0.653	L-carbamoylaspartate	3231	HLKXYZVTANABHZ-REOHCLBHSA-N				
+0.653	L-carbamoylaspartate	3231	HLKXYZVTANABHZ-REOHCLBHSA-N				
+127	dihydro-DL-orotate	709	UFIVEPVSAGBUSI-UHFFFAOYSA-N				
+195	N-carbamoyl-DL-aspartate	14102	HLKXYZVTANABHZ-UHFFFAOYSA-N				

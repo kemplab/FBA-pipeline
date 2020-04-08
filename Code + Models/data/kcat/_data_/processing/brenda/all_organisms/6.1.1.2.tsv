@@ -1,0 +1,57 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0009	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	30	7.5	X	pH 7.5, 30C, mutant V85K
+0.016	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	22	7.5	X	22C, pH 7.5, tRNATrp from Bacillus subtilis, mutant enzyme K149D/E153R, aminoacylation
+0.02	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	22	7.5	X	22C, pH 7.5, tRNATrp from Bacillus subtilis, mutant enzyme E153K, aminoacylation
+0.02	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	30	7.5	X	pH 7.5, 30C, mutant V85E
+0.028	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	30	7.5	X	pH 7.5, 30C, mutant V85S
+0.03	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	22	7.5	X	22C, pH 7.5, tRNATrp from Bacillus subtilis, mutant enzyme E153D, aminoacylation
+0.047	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	30	7.5	X	pH 7.5, 30C, mutant V85A/V90A
+0.063	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	30	7.5	X	pH 7.5, 30C, mutant V90S
+0.16	tRNAArg	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	60	7.5		pH 7.5, 60C
+0.32	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	22	7.5	X	22C, pH 7.5, tRNATrp from Bacillus subtilis, mutant enzyme K149R, 0.32 aminoacylation; 22C, pH 7.5, tRNATrp from Bacillus subtilis, wild-type enzyme, aminoacylation
+0.48	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	30	7.5	X	pH 7.5, 30C, mutant V85A
+0.59	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	22	7.5	X	pH 7.5, 22C, deletion 234-238 mutant
+0.59	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	22	7.5	X	pH 7.5, 22C, deletion 234-238 mutant
+0.61	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	22	7.5	X	pH 7.5, 22C, deletion 108-122 mutant
+0.61	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	22	7.5	X	pH 7.5, 22C, deletion 108-122 mutant
+0.67	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	22	7.5	X	22C, pH 7.5, tRNATrp from Bacillus subtilis, mutant enzyme K149E, aminoacylation
+0.78	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	22	7.5	X	22C, pH 7.5, tRNATrp from Bacillus subtilis, mutant enzyme K149G, aminoacylation
+0.9	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	22	7.5		pH 7.5, 22C, wild-type enzyme
+0.9	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	22	7.5		pH 7.5, 22C, wild-type enzyme
+1	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	30	7.5		pH 7.5, 30C, recombinant enzyme
+1.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5		pH 7.5, 30C, recombinant enzyme
+1.1	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	30	7.5		pH 7.5, 30C, recombinant enzyme
+1.2	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	22	9.0		pH 9.0, 22C, recombinant enzyme, exchange assay
+1.33	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	30	7.5		pH 7.5, 30C, recombinant wild-type enzyme
+1.37	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme
+1.39	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	30	7.5	X	pH 7.5, 30C, mutant V90A
+1.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	22	9.0		pH 9.0, 22C, recombinant enzyme, exchange assay
+2	Trp	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	25	9.0	X	25C, pH 9.0, mutant enzyme K149D/E153R, activation of Trp
+2.22	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	recombinant truncated mutant
+2.94	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	recombinant truncated mutant
+3	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				recombinant wild-type
+3.17	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				recombinant wild-type
+3.3	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	30	7.5	X	pH 7.5, 30C, mutant V85L
+4.88	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	37	7.5		wild type enzyme, in 0.1 M Tris-HCl (pH 7.5), 0.01 M potassium fluoride, 5 mM MnCl2, at 37C
+5.11	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	30	7.5	X	pH 7.5, 30C, mutant V85L
+5.45	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	37	7.5		wild type enzyme, in 0.1 M Tris-HCl (pH 7.5), 0.01 M potassium fluoride, 5 mM MgCl2, at 37C
+5.7	ammonia	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N				
+6.08	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	22	7.5	X	pH 7.5, 22C, deletion 108-122 mutant; pH 7.5, 22C, deletion 234-238 mutant
+6.08	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	22	7.5	X	pH 7.5, 22C, deletion 108-122 mutant; pH 7.5, 22C, deletion 234-238 mutant
+13.6	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N			X	recombinant truncated mutant
+13.9	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	recombinant mutant
+15	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	9.0	X	25C, pH 9.0, mutant enzyme K149G, activation of Trp
+15	Trp	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	25	9.0	X	25C, pH 9.0, mutant enzyme K149G, activation of Trp
+16	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	9.0	X	25C, pH 9.0, mutant enzyme K149E, activation of Trp
+16	tRNATrp	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	60	7.5		pH 7.5, 60C
+16	Trp	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	25	9.0	X	25C, pH 9.0, mutant enzyme K149E, activation of Trp
+17	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	9.0	X	25C, pH 9.0, mutant enzyme E153D, activation of Trp
+18	Trp	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	25	9.0	X	25C, pH 9.0, mutant enzyme E153D, activation of Trp
+22	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	9.0		25C, pH 9.0, wild-type enzyme, activation of Trp
+22	Trp	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	25	9.0		25C, pH 9.0, wild-type enzyme, activation of Trp
+24.5	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				recombinant wild-type
+27	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	9.0	X	25C, pH 9.0, mutant enzyme K149D/E153R, activation of Trp
+46	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	9.0	X	25C, pH 9.0, mutant enzyme K149R, activation of Trp
+46	Trp	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	25	9.0	X	25C, pH 9.0, mutant enzyme K149R, activation of Trp
+419	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	9.0	X	25C, pH 9.0, mutant enzyme E153K, activation of Trp
+419	Trp	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	25	9.0	X	25C, pH 9.0, mutant enzyme E153K, activation of Trp

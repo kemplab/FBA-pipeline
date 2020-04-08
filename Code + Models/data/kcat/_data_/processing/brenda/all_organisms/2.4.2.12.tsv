@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0003	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				ATPase activity is decreased in simultaneous presence of 1 mM of substrates of forward and reverse NAMPT reaction
+0.00137	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N		7.5		+/-0.00002, KM/kcat = 1600 1/M*s, pH 7.5, 100 microM PRPP, 88 nM NAMPT
+0.00142	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N		7.5		+/-0.00002, in presence of 2 mM phosphate, KM/kcat = 6100 1/M*s, pH 7.5, 100 microM PRPP, 88 nM NAMPT
+0.00183	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				ATPase (ATP hydrolysis) activity of the free NAMPT, 2 mM ATP
+0.00617	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				ATPase activity is enhanced in presence of 1 mM nicotinamide, 2 mM ATP
+0.00767	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N		7.5		+/-0.00150, in presence of 2 mM ATP the catalytic efficiency (KM/kcat = 1800000 1/M*s) is improved 1100-fold, pH 7.5, 100 microM PRPP, 88 nM NAMPT
+0.015	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				ADP-ATP radiolabel exchange in absence of other reactants (without NMN synthesis), formation or hydrolysis of phospho-NAMPT may be rate limiting for overall NMN synthesis reaction in presence of ATP
+0.0183	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				ATPase activity is enhanced in presence of 1 mM diphosphate, presence of PRPP and/or nicotinamide reverses stimulation by diphosphate, 2 mM ATP
+0.02	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+0.0433	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				ATPase activity in presence of 1 mM imidodiphosphate (PNP) is higher than in presence of pyophosphate, 2 mM ATP

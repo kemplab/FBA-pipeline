@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000717	4-methylumbelliferyl (alpha-D-glucopyranosyl)-(1-&gt;3)-alpha-D-mannopyranoside	128696	JNAWLDYZIIXRCJ-WZBDZHSDSA-N	37	7.0		wild type enzyme, in 25 mM HEPES pH 7.0, 100 mM NaCl, at 37C
+0.00008	4-methylumbelliferyl (alpha-D-mannopyranosyl)-(1-&gt;3)-alpha-D-mannopyranoside	128697	JNAWLDYZIIXRCJ-LCGHSTGVSA-N	37	7.0		wild type enzyme, in 25 mM HEPES pH 7.0, 100 mM NaCl, at 37C
+0.00115	4-methylumbelliferyl (alpha-D-mannopyranosyl)-(1-&gt;3)-alpha-D-mannopyranoside	128697	JNAWLDYZIIXRCJ-LCGHSTGVSA-N	37	7.0		wild type enzyme, in 25 mM HEPES pH 7.0, 100 mM NaCl, at 37C
+0.58	alpha-glucopyranosyl-(1-&gt;3)-alpha-mannopyranosyl fluoride	128698	OWFNMYDGQOUXRJ-ZINHCKEWSA-N	37	8.0	X	mutant enzyme E332A, at pH 8.0 and 37C
+4.77	alpha-glucopyranosyl-(1-&gt;3)-alpha-mannopyranosyl fluoride	128698	OWFNMYDGQOUXRJ-ZINHCKEWSA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C
+6.34	alpha-glucopyranosyl-(1-&gt;3)-alpha-mannopyranosyl fluoride	128698	OWFNMYDGQOUXRJ-ZINHCKEWSA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C

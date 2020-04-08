@@ -1,0 +1,30 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.015	N,N-dimethyl-4-nitrosoaniline	4762	CMEWLCATCRTSGF-UHFFFAOYSA-N	37	8.0		at pH 8.0 and 37C
+0.018	1-nitrosonaphthalen-2-ol	126109	YXAOOTNFFAQIPZ-UHFFFAOYSA-N	37	8.0		at pH 8.0 and 37C
+0.02	6-hydroxy-5-nitrosonaphthalene-2-sulfonamide	126111	YYLHIQMUORIISP-UHFFFAOYSA-N	37	8.0		at pH 8.0 and 37C
+0.022	7-methoxy-1-nitrosonaphthalen-2-ol	126112	UVNKSTJWSMMDEZ-UHFFFAOYSA-N	37	8.0		at pH 8.0 and 37C
+0.023	3,5-dimethyl-4-nitroso-1-(propan-2-yl)-1H-pyrazole	126113	UUECYTLJOJGWJK-UHFFFAOYSA-N	37	8.0		at pH 8.0 and 37C
+0.033	6-bromo-1-nitrosonaphthalen-2-ol	126110	ZHBZWHMJJIBGSH-UHFFFAOYSA-N	37	8.0		at pH 8.0 and 37C
+0.53	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	8.0		at pH 8.0 and 37C
+0.6	1-methyl-2-nitrosobenzene	16961	TWLBRQVYXPMCFK-UHFFFAOYSA-N	37	8.0		at pH 8.0 and 37C
+0.64	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	37	8.0		at pH 8.0 and 37C
+1.7	D-glyceraldehyde	520	MNQZXJOMYWMBOU-VKHMYHEASA-N	37	7.4		pH 7.4, 37C
+1.7	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, cosubstrate: D-glyceraldehyde
+1.9	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	37	7.4		pH 7.4, 37C
+1.9	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, cosubstrate: D-glyceraldehyde 3-phosphate
+1.9	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	32	7.8		pH 7.8, 32C
+2	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	32	7.8		pH 7.8, 32C; pH 7.8, 32C
+2.4	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	32	7.8		pH 7.8, 32C
+2.57	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C
+2.57	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C
+2.6	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+4.1	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	37	7.0		apparent value, at pH 7.0 and 37C
+4.2	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.0		apparent value, at pH 7.0 and 37C
+5.6	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	32	7.8		pH 7.8, 32C
+6	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	32	7.8		pH 7.8, 32C
+6.4	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	37	7.0		apparent value, at pH 7.0 and 37C
+6.6	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.0		apparent value, at pH 7.0 and 37C
+9.5	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				pH and temperature not specified in the publication
+11	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N				pH and temperature not specified in the publication
+26.8	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	37	8.0		pH 8.0, 37C
+26.8	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	8.0		; pH 8.0, 37C

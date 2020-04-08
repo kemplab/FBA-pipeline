@@ -1,0 +1,28 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0004	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N	30	8.5	X	E392A mutant, enzyme assay is run at pH 8.5 at 30C
+0.1	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, recombinant isozyme GmUGT3
+0.11	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	30	8.5		pH 8.5, 30C, recombinant isozyme GmUGT3
+0.13	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N	30	8.5	X	H15A mutant, enzyme assay is run at pH 8.5 at 30C
+0.13	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, recombinant isozyme GmUGT3
+0.39	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, recombinant isozyme GmUGT3
+0.41	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N	30	8.5	X	E456A mutant, enzyme assay is run at pH 8.5 at 30C
+0.59	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N	30	8.5		H359A muant, enzyme assay is run at pH 8.5 at 30C
+0.63	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N	30	8.5	X	E376A mutant, enzyme assay is run at pH 8.5 at 30C
+0.66	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N	30	8.5	X	D125A mutant, enzyme assay is run at pH 8.5 at 30C
+0.74	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N	30	8.5		purified enzyme, enzyme assay is run at pH 8.5 at 30C
+0.76	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N	30	8.5		wild-type, enzyme assay is run at pH 8.5 at 30C
+0.97	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, recombinant isozyme GmUGT3
+1.1	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+1.1	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+1.22	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, recombinant isozyme GmUGT3
+1.41	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	30	8.5		pH 8.5, 30C, recombinant isozyme GmUGT3
+1.72	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	30	8.5		pH 8.5, 30C, recombinant isozyme GmUGT3
+1.75	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, recombinant isozyme GmUGT3
+2	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N	30	8.5	X	H368A mutant, enzyme assay is run at pH 8.5 at 30C
+3	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N	30	8.5	X	E392D mutant, enzyme assay is run at pH 8.5 at 30C
+4.34	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, recombinant isozyme GmUGT1
+5.75	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, recombinant isozyme GmUGT1
+5.89	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, recombinant isozyme GmUGT3
+6.04	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, recombinant isozyme GmUGT3
+7.65	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	30	8.5		pH 8.5, 30C, recombinant isozyme GmUGT3
+8.79	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	30	8.5		pH 8.5, 30C, recombinant isozyme GmUGT1

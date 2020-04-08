@@ -1,0 +1,23 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+85.73	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	23	9.0		L-arabinose as cosubstrate, in 100 mM Tris-HCl, pH 9.0, 23C
+35.45	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	23	9.0		L-arabinose as cosubstrate, in 100 mM Tris-HCl, pH 9.0, 23C
+19.8	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	9.0		pH 9.0, 30C, cofactor: NAD+, enzyme purified from Azospirillum brasilense
+26	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	9.0		pH 9.0, 30C, cofactor: NADP+, enzyme purified from Azospirillum brasilense
+38.12	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	23	9.0		with NAD+ as cosubstrate, in 100 mM Tris-HCl, pH 9.0, 23C
+69.9	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	23	9.0		with NADP+ as cosubstrate, in 100 mM Tris-HCl, pH 9.0, 23C
+4	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	9.0		pH 9.0, 30C, cofactor: NAD+, enzyme purified from Azospirillum brasilense
+12	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	9.0		pH 9.0, 30C, cofactor: NADP+, enzyme purified from Azospirillum brasilense
+0.1	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	30	9.0	X	pH 9.0, 30C, cofactor: NAD+, mutant enzyme N172A
+0.3	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	30	9.0	X	pH 9.0, 30C, cofactor: NADP+, mutant enzyme N172A
+6.1	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	30	9.0		pH 9.0, 30C, cofactor: NAD+, recombinant wild-type enzyme
+16.5	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	30	9.0		pH 9.0, 30C, cofactor: NADP+, recombinant wild-type enzyme
+19	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	30	9.0		pH 9.0, 30C, cofactor: NAD+, enzyme purified from Azospirillum brasilense
+20.85	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	23	9.0		with NADP+ as cosubstrate, in 100 mM Tris-HCl, pH 9.0, 23C
+33.3	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	30	9.0		pH 9.0, 30C, cofactor: NADP+, enzyme purified from Azospirillum brasilense
+65.55	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	23	9.0		with NAD+ as cosubstrate, in 100 mM Tris-HCl, pH 9.0, 23C
+110.1	D-fucose	954	SHZGCJCMOBCMKK-SVZMEOIVSA-N	23	9.0		with NADP+ as cosubstrate, in 100 mM Tris-HCl, pH 9.0, 23C
+120.4	D-fucose	954	SHZGCJCMOBCMKK-SVZMEOIVSA-N	23	9.0		with NAD+ as cosubstrate, in 100 mM Tris-HCl, pH 9.0, 23C
+1.04	D-talose	1496	GZCGUPFRVQAUEE-KAZBKCHUSA-N	30	9.0		pH 9.0, 30C, cofactor: NAD+, enzyme purified from Azospirillum brasilense
+9.7	D-talose	1496	GZCGUPFRVQAUEE-KAZBKCHUSA-N	30	9.0		pH 9.0, 30C, cofactor: NADP+, enzyme purified from Azospirillum brasilense
+74.58	D-talose	1496	GZCGUPFRVQAUEE-KAZBKCHUSA-N	23	9.0		with NAD+ as cosubstrate, in 100 mM Tris-HCl, pH 9.0, 23C
+99.52	D-talose	1496	GZCGUPFRVQAUEE-KAZBKCHUSA-N	23	9.0		with NADP+ as cosubstrate, in 100 mM Tris-HCl, pH 9.0, 23C

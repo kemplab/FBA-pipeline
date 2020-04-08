@@ -1,0 +1,35 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0167	imidazole	390	RAXXELZNTBOGNW-UHFFFAOYSA-N	27	8.5	X	mutant H166A, forward reaction with UDP-glucose, pH 8.5, 27C
+0.0217	uridine 5'-phosphoimidazolate	22142	HEMGEVQMAMJKPG-QCNRFFRDSA-N	27	8.5	X	mutant H166A, forward reaction with D-glucose 1-phosphate, pH 8.5, 27C
+0.0533	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N	27	8.5	X	recombinant mutant S161A, forward reaction, pH 8.5, 27C
+0.0533	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N	27	8.5	X	recombinant mutant S161A, forward reaction, pH 8.5, 27C
+0.0967	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	27	8.5	X	recombinant mutant S161A, reverse reaction, pH 8.5, 27C
+0.98	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	37	8.8	X	mutant R333G, pH 8.8, 37C
+2.5	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	37	8.8	X	mutant F194L, pH 8.8, 37C
+3.6	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N		8.7		recombinant wild-type, pH 8.7
+5.5	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	37	8.8	X	mutant F194L, pH 8.8, 37C; mutant R333G, pH 8.8, 37C
+5.52	imidazole	390	RAXXELZNTBOGNW-UHFFFAOYSA-N	27	8.5	X	mutant H166G, forward reaction with UDP-glucose, pH 8.5, 27C
+9.3	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N		8.7		recombinant wild-type, pH 8.7
+9.3	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	37	8.8	X	mutant D28Y, pH 8.8, 37C
+9.4	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	37	8.8	X	mutant D28Y, pH 8.8, 37C
+13.5	uridine 5'-phosphoimidazolate	22142	HEMGEVQMAMJKPG-QCNRFFRDSA-N	27	8.5	X	mutant H166G, forward reaction with D-glucose 1-phosphate, pH 8.5, 27C
+13.6	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	37	8.8		wild-type, pH 8.8, 37C
+17.7	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	37	8.8		wild-type, pH 8.8, 37C
+19	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N	27	8.5	X	recombinant mutant Q168N, forward reaction, pH 8.5, 27C
+24	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N	27	8.5		purified recombinant bifunctional chimeric fusion protein, pH 8.5, 27C
+55	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	27	8.5	X	recombinant mutant C160A, reverse reaction, pH 8.5, 27C
+98	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N		8.7		recombinant wild-type, pH 8.7
+177	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	27	8.5	X	recombinant mutant E182A, reverse reaction, pH 8.5, 27C
+265	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N	27	8.5	X	recombinant mutant C160A, forward reaction, pH 8.5, 27C
+265	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N	27	8.5	X	recombinant mutant C160A, forward reaction, pH 8.5, 27C
+278	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N	25	8.8		pH 8.8, 25C
+281	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N	4	8.5		recombinant wild-type, pH 8.5, 4C
+283	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	27	8.5		recombinant wild-type, reverse reaction, pH 8.5, 27C
+283	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	27	8.5		recombinant wild-type, reverse reaction, pH 8.5, 27C
+653	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N	27	8.5	X	recombinant mutant E182A, forward reaction, pH 8.5, 27C
+780	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N	27	8.5		recombinant wild-type, forward reaction, pH 8.5, 27C
+780	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N	27	8.5		recombinant wild-type, forward reaction, pH 8.5, 27C
+780	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N	27	8.5		recombinant wild-type, forward reaction, pH 8.5, 27C
+780	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N	27	8.5		recombinant wild-type, forward reaction, pH 8.5, 27C
+987	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N	25	8.7		pH 8.7, 25C
+987	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N	25	8.7		pH 8.7, 25C

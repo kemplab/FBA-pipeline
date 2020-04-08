@@ -1,0 +1,31 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.033	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	7.4	X	mutant Q155D, presence of ATP, pH 7.4, 37C; wild-type, alpha,beta-elimination, pH 7.4, 37C
+0.166	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	7.4		wild-type, alpha,beta-elimination, presence of ATP, pH 7.4, 37C
+3	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				
+3.8	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	8.0		pH 8.0, 37C, presence of 1 mM ATP, racemization reaction
+4	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	8.0		pH 8.0, 37C, presence of 1 mM ATP, elimination reaction
+12	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N		7		pH 7, temperature not specified in the publication
+184	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N		7		pH 7, temperature not specified in the publication, 100 mM KCl
+286	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N		7		pH 7, temperature not specified in the publication
+436	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	8.0		pH 8.0, 37C
+465	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N		7		pH 7, temperature not specified in the publication, 300 mM KCl
+544	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N		8.0		anaerobically isolated enzyme, pH 8.0
+585	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N		7		pH 7, temperature not specified in the publication, 500 mM KCl
+5.2	L-threonine	220	AYFVYJQAPQTCCC-GBXIJSLDSA-N				
+10.5	L-threonine	220	AYFVYJQAPQTCCC-GBXIJSLDSA-N	37	8.0		pH 8.0, 37C, presence of 1 mM ATP, elimination reaction
+323	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N		7.0	X	mutant C304A, pH 7.0, temperature not specified in the publication
+330	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N		7.0		wild-type, pH 7.0, temperature not specified in the publication
+359	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N		7.0	X	mutant C221A, pH 7.0, temperature not specified in the publication
+467	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N		7.0	X	mutant C226A, pH 7.0, temperature not specified in the publication
+506	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N		7.0	X	mutant C183A, pH 7.0, temperature not specified in the publication
+512	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N		7.0	X	mutant C458A, pH 7.0, temperature not specified in the publication
+0.0033	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	37	7.4		wild-type, pH 7.4, 37C
+0.012	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	37	7.4	X	mutant Q155D, alpha,beta-elimination, presence of ATP, pH 7.4, 37C
+0.042	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	37	7.4		wild-type, alpha,beta-elimination, presence of ATP, pH 7.4, 37C
+3.2	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	37	8.0		pH 8.0, 37C, presence of 1 mM ATP, elimination reaction
+14.5	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	37	8.0		pH 8.0, 37C, presence of 1 mM ATP, racemization reaction
+2.6	beta-chloro-L-alanine	1230	ASBJGPTTYPEMLP-REOHCLBHSA-N	37	8.0		pH 8.0, 37C, presence of 1 mM ATP, elimination reaction
+0.028	D-threonine	1285	AYFVYJQAPQTCCC-PWNYCUMCSA-N	37	7.4	X	mutant Q155D, alpha,beta-elimination, presence of ATP, pH 7.4, 37C
+0.3	D-threonine	1285	AYFVYJQAPQTCCC-PWNYCUMCSA-N	37	7.4		wild-type, alpha,beta-elimination, presence of ATP, pH 7.4, 37C
+0.49	L-serine O-sulfate	3159	LFZGUGJDVUUGLK-REOHCLBHSA-N	37	8.0		pH 8.0, 37C, presence of 1 mM ATP, elimination reaction
+31	L-threo-3-hydroxyaspartate	6391	YYLQUHNPNCGKJQ-LWMBPPNESA-N	37	8.0		pH 8.0, 37C, presence of 1 mM ATP, elimination reaction

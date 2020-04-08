@@ -1,0 +1,37 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.32	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	8.0	X	aldol addition reaction with propionaldehyde, L87A mutant protein, pH 8.0, 25C
+0.64	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	8.0	X	aldol addition reaction with propionaldehyde, L89A mutant protein, pH 8.0, 25C
+1.2	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	8.0		aldol addition reaction with propionaldehyde, wild type protein, pH 8.0, 25C
+0.86	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+0.86	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	25			at 25C with 120 microg of BphI, 2 mM MnCl2 and 100 mM pyruvate
+0.86	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	25	8.0		wild type protein, pH 8.0, 25C
+0.94	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	25	8.0	X	L89A mutant protein, pH 8.0, 25C
+205.4	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+0.29	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	8.0	X	L87A mutant protein, pH 8.0, 25C
+0.63	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	8.0	X	L89A mutant protein, pH 8.0, 25C
+1.79	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+1.79	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25			at 25C with 120 microg of BphI, 2 mM MnCl2 and 100 mM pyruvate
+1.79	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	8.0		wild type protein, pH 8.0, 25C
+358.4	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+0.26	Butyraldehyde	415	ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	25	8.0	X	L87A mutant protein, pH 8.0, 25C
+0.3	Butyraldehyde	415	ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	25	8.0	X	L87A/L89A mutant protein, pH 8.0, 25C
+0.64	Butyraldehyde	415	ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	25	8.0	X	L89A mutant protein, pH 8.0, 25C
+132.5	Butyraldehyde	415	ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+0.4	glycolaldehyde	497	WGCNASOHLSPBMP-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+0.4	glycolaldehyde	497	WGCNASOHLSPBMP-UHFFFAOYSA-N	25			at 25C with 120 microg of BphI, 2 mM MnCl2 and 100 mM pyruvate
+175.5	glycolaldehyde	497	WGCNASOHLSPBMP-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+64.9	Succinic semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+0.089	(4S)-4-hydroxy-2-oxopentanoate	3504	HFKQINMYQUXOCH-VKHMYHEASA-N	25	8.0	X	H20S mutant protein, pH 8.0, 25C
+0.099	(4S)-4-hydroxy-2-oxopentanoate	3504	HFKQINMYQUXOCH-VKHMYHEASA-N	25	8.0	X	H20A mutant protein, pH 8.0, 25C
+0.132	(4S)-4-hydroxy-2-oxopentanoate	3504	HFKQINMYQUXOCH-VKHMYHEASA-N	25	8.0	X	Y290F mutant protein, pH 8.0, 25C
+0.171	(4S)-4-hydroxy-2-oxopentanoate	3504	HFKQINMYQUXOCH-VKHMYHEASA-N	25	8.0	X	Y290S mutant protein, pH 8.0, 25C
+4.07	(4S)-4-hydroxy-2-oxopentanoate	3504	HFKQINMYQUXOCH-VKHMYHEASA-N	25	8.0		wild type protein, pH 8.0, 25C
+0.13	pentaldehyde	628	HGBOYTHUEUWSSQ-UHFFFAOYSA-N	25	8.0	X	L87A/L89A mutant protein, pH 8.0, 25C
+0.58	pentaldehyde	628	HGBOYTHUEUWSSQ-UHFFFAOYSA-N	25	8.0	X	L89A mutant protein, pH 8.0, 25C
+0.131	(4R)-4-hydroxy-2-oxopentanoate	109187	HFKQINMYQUXOCH-GSVOUGTGSA-N	25	8.0	X	Y290F mutant protein, pH 8.0, 25C
+0.17	(4R)-4-hydroxy-2-oxopentanoate	109187	HFKQINMYQUXOCH-GSVOUGTGSA-N	25	8.0	X	Y290S mutant protein, pH 8.0, 25C
+0.41	(S)-4-hydroxy-2-oxopentanoate	3504	HFKQINMYQUXOCH-VKHMYHEASA-N	25	8.0		in 100 mM HEPES (pH 8.0), 1 mM MgCl2, at 25C
+0.79	(S)-4-hydroxy-2-oxopentanoate	3504	HFKQINMYQUXOCH-VKHMYHEASA-N	25	8.0		in the absence of NADH, in 100 mM HEPES pH 8.0, at 25C
+4.07	(S)-4-hydroxy-2-oxopentanoate	3504	HFKQINMYQUXOCH-VKHMYHEASA-N	25	8.0		in the presence of NADH, in 100 mM HEPES pH 8.0, at 25C
+0.38	(S)-4-hydroxy-2-oxohexanoate	19702	ALFQPWXBAWHVDP-BYPYZUCNSA-N	25	8.0		in 100 mM HEPES (pH 8.0), 1 mM MgCl2, at 25C
+5.6	(R,S)-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C

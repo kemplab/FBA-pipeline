@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.042	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N	25	8.0		cosubstrate NADP+, pH 8.0, 25C
+0.052	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N	25	8.0		cosubstrate NADP+, pH 8.0, 25C
+0.07	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N	25	8.0		cosubstrate NADP+, pH 8.0, 25C
+0.24	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N				recombinant wild-type bifunctional holoenzyme, homoserine dehydrogenase activity
+0.51	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N				recombinant isolated catalytic HDH-domain not containing the interface region, homoserine dehydrogenase activity
+1.43	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N	25	8.0		cosubstrate NAD+, pH 8.0, 25C
+2.8	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	25	8.0		cosubstrate NADPH, pH 8.0, 25C
+3.3	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N				recombinant isolated catalytic HDH-domain containing the interface region, homoserine dehydrogenase activity
+3.4	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	50	9.0	X	pH 9.0, 50C, recombinant mutant R40A
+7	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N	25	8.0		cosubstrate NAD+, pH 8.0, 25C
+9.68	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	25	8.0		cosubstrate NADH, pH 8.0, 25C
+10.15	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N	25	8.0		cosubstrate NAD+, pH 8.0, 25C
+11.58	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	25	8.0		cosubstrate NADPH, pH 8.0, 25C
+12.98	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	25	8.0		cosubstrate NADPH, pH 8.0, 25C
+19.3	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	25	8.0		cosubstrate NADH, pH 8.0, 25C
+22.58	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	25	8.0		cosubstrate NADH, pH 8.0, 25C
+24	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N				recombinant hybrid bifunctional holoenzyme AKIII-HDHI+ containing the interface region, homoserine dehydrogenase activity
+26.7	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	50	9.0	X	pH 9.0, 50C, recombinant mutant K57A
+48.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	50	9.0	X	pH 9.0, 50C, recombinant mutant K57A
+70.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	50	9.0		pH 9.0, 50C, recombinant wild-type enzyme
+96.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	50	9.0	X	pH 9.0, 50C, recombinant mutant R40A

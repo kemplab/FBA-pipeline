@@ -1,0 +1,37 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.04	2-oxobutanoic acid	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	7.0	X	mutant enzyme M624W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+0.06	2-oxobutanoic acid	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	7.0	X	mutant enzyme I335Y, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+0.064	Pyruvic acid	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0	X	mutant enzyme I335Y, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+0.07	Indole-3-pyruvate	1536	RSTKLPZEZYGQPY-UHFFFAOYSA-M	30	6.5		in 10 mM MES, 2.5 mM MgSO4, 0.1 mM thiamine diphosphate, 0.35 mM NADH, and 0.125 units alcohol dehydrogenase, at pH 6.5 and 30C
+0.14	Indole-3-pyruvate	1536	RSTKLPZEZYGQPY-UHFFFAOYSA-M	30	7.0	X	mutant enzyme E545L, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+0.21	4-phenyl-2-oxobutanoic acid	5113	PPKAIMDMNWBOKN-UHFFFAOYSA-N	30	6.5		in 10 mM MES, 2.5 mM MgSO4, 0.1 mM thiamine diphosphate, 0.35 mM NADH, and 0.125 units alcohol dehydrogenase, at pH 6.5 and 30C
+0.29	2-ketohexanoic acid	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	6.5		in 10 mM MES, 2.5 mM MgSO4, 0.1 mM thiamine diphosphate, 0.35 mM NADH, and 0.125 units alcohol dehydrogenase, at pH 6.5 and 30C
+0.32	Pyruvic acid	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0	X	mutant enzyme Q448W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+0.34	Pyruvic acid	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0		wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+0.39	2-Oxopentanoic acid	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	7.0	X	mutant enzyme I335Y/M624W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+0.41	2-oxohexanoic acid	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	mutant enzyme I335Y/M624W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+0.45	Pyruvic acid	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0	X	mutant enzyme M624W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+0.76	2-Oxopentanoic acid	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	7.0	X	mutant enzyme M624W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+0.85	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	mutant enzyme I335Y, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+0.96	2-oxohexanoic acid	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	mutant enzyme M624W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+1.2	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	mutant enzyme M624W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+1.3	2-oxohexanoic acid	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	mutant enzyme Q448W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+1.7	2-oxo-4-phenylbutanoic acid	5113	PPKAIMDMNWBOKN-UHFFFAOYSA-N	30	7.0		wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+1.7	5-phenyl-2-oxopentanoic acid	23757	MJXXAPORLGKVLB-UHFFFAOYSA-N	30	6.5		in 10 mM MES, 2.5 mM MgSO4, 0.1 mM thiamine diphosphate, 0.35 mM NADH, and 0.125 units alcohol dehydrogenase, at pH 6.5 and 30C
+2	2-Oxopentanoic acid	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	7.0	X	mutant enzyme Q448W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+2.1	2-Oxopentanoic acid	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	7.0	X	mutant enzyme I335Y, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+2.2	2-oxobutanoic acid	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	7.0	X	mutant enzyme Q448W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+3.3	2-oxohexanoic acid	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	mutant enzyme I335Y, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+3.9	2-oxobutanoic acid	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	7.0		wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+4.8	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	mutant enzyme Q448W, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+5.2	2-Oxopentanoic acid	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	7.0		wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+5.4	Indole-3-pyruvate	1536	RSTKLPZEZYGQPY-UHFFFAOYSA-M	30	7.0		wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+5.56	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	6.5		in 10 mM MES, 2.5 mM MgSO4, 0.1 mM thiamine diphosphate, 0.35 mM NADH, and 0.125 units alcohol dehydrogenase, at pH 6.5 and 30C
+7.7	4-methylthio-2-oxobutanoic acid	1168	SXFSQZDSUWACKX-UHFFFAOYSA-N	30	7.0		wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+8.8	2-oxohexanoic acid	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0		wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+8.8	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	mutant enzyme E545L, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+10	4-methyl-2-oxopentanoic acid	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0		wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+11	3-methyl-2-oxopentanoic acid	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N	30	7.0		wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+11	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	30	7.0		wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+19	3-methyl-2-oxobutanoic acid	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	30	7.0		wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C
+20	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0		wild type enzyme, in 100 mM KPO4 buffer (pH 7.0), 1 mM MgSO4, 0.5 mM thiamine diphosphate, at pH 7.0 and 30C

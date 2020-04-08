@@ -1,0 +1,37 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0028	5beta-Pregnan-3beta-ol-20-one	3310	AURFZBICLPNKBZ-GRWISUQFSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.0078	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.008	geranylgeraniol	2150	OJISWRZIEWCUBN-QIRCYJPOSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.009	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.01	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.012	5beta-androstane-3alpha,17beta-diol	3773	CBMYJHIOYJEBSB-GCXXXECGSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.013	5alpha-pregnan-3beta-ol-20-one	7493	AURFZBICLPNKBZ-FZCSVUEKSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.018	farnesol	1764	CRDAMVZIKSXKFV-PVMFERMNSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.022	17beta-estradiol	602	VOXZDWNPVJITMN-ZBRFXRBCSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.022	1-Acenaphthenol	1961	MXUCIEHYJYRTLT-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.022	5beta-androstan-3beta-ol-17-one	3536	QGXBDMJGAMFCBF-XRJZGPCZSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.023	geraniol	759	GLZPCOQZEFWAFX-JXMROGBWSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.023	nerol	1677	GLZPCOQZEFWAFX-YFHOEESVSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.025	cis-benzene dihydrodiol	3607	YDRSQRPHLBEPTP-OLQVQODUSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.025	(S)-1,2,3,4-tetrahydro-1-naphthol	2616	JAAJQSRLGAYGKZ-JTQLQIEISA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.027	5alpha-Androstan-3beta-ol-17-one	3309	QGXBDMJGAMFCBF-GDJLQRCHSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.028	(S)-1-indanol	1896	YIAPLDFPUUJILH-VIFPVBQESA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.032	5beta-dihydrotestosterone	1523	NVKAWKQGWWIWPM-MISPCMORSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.033	trans-benzene dihydrodiol	1737	YDRSQRPHLBEPTP-PHDIDXHHSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.036	5beta-androstane-3beta,17beta-diol	5621	CBMYJHIOYJEBSB-VXZRPZIYSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.04	2-Cyclohexen-1-ol	2547	PQANGXXSEABURG-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.043	4-androstene-3alpha,17beta-diol	21468	BTTWKVFKBPAFDK-KYQPOWKGSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.043	5-androstene-3beta,17beta-diol	3135	QADHLRWLCPCEKT-LOVVWNRFSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.057	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.1	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.4		pH 7.4, 25C, with substrate S-camphorquinone
+0.11	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.4		pH 7.4, 25C, with substrate S-tetralol
+0.15	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.4		pH 7.4, 25C, with substrate S-camphorquinone
+0.27	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.4		pH 7.4, reaction with 4-dionetestosterone
+0.33	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.4		pH 7.4, reaction with estronel
+0.78	20alpha-dihydroprogesterone	1781	RWBRUCCWZPSBFC-SJOKZOANSA-N		7.4		pH 7.4, with NAD+ as cofactor
+1.3	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.4		pH 7.4, reaction with estradiol
+2.4	dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N		7.4		pH 7.4, with NAD+ as cofactor
+2.9	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4		pH 7.4, reaction with testosterone
+3.4	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N		7.4		pH 7.4, with NAD+ as cofactor
+3.9	estradiol	602	VOXZDWNPVJITMN-ZBRFXRBCSA-N		7.4		pH 7.4, with NAD+ as cofactor
+4.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4		pH 7.4, reaction with estradiol

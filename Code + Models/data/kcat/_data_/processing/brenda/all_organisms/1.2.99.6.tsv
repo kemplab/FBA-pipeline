@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.8	octaldehyde	664	NUJGJRNETVAIRJ-UHFFFAOYSA-N	25	8.0		25C, pH 8.0, enzyme in aqueous solution
+1.19	decylaldehyde	627	KSMVZQYAVGTKIV-UHFFFAOYSA-N	25	8.0		25C, pH 8.0, enzyme in aqueous solution
+1.2	octaldehyde	664	NUJGJRNETVAIRJ-UHFFFAOYSA-N	25	8.0		25C, pH 8.0, enzyme in sodium bis(2-ethylhexyl) sulfosuccinate reverse micelles, hydratation degree 26
+1.22	decylaldehyde	627	KSMVZQYAVGTKIV-UHFFFAOYSA-N	25	8.0		25C, pH 8.0, enzyme in sodium bis(2-ethylhexyl) sulfosuccinate reverse micelles, hydratation degree 26
+1.25	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	25	8.0		25C, pH 8.0, enzyme in sodium bis(2-ethylhexyl) sulfosuccinate reverse micelles, hydratation degree 26
+1.35	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	25	8.0		25C, pH 8.0, enzyme in aqueous solution
+1.6	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N				with methyl viologen as cosubstrate
+10.5	glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	45			with benzyl viologen as cosubstrate, at 45C
+13	Salicylaldehyde	1141	SMQUZDBALVYZAC-UHFFFAOYSA-N	85			with benzyl viologen as cosubstrate, at 85C
+22	crotonaldehyde	1153	MLUCVPSAIODCQM-NSCUHMNNSA-N	45			with benzyl viologen as cosubstrate, at 45C
+55	indolecetaldehyde	1158	WHOOUMGHGSPMGR-UHFFFAOYSA-N	85			with benzyl viologen as cosubstrate, at 85C
+62	methyl viologen	302	INFDPOAKFNIJBF-UHFFFAOYSA-N	85			with crotonaldehyde as cosubstrate, at 85C
+250	benzyl viologen	471	LUAZZOXZPVVGSO-UHFFFAOYSA-N	85			with crotonaldehyde as cosubstrate, at 85C
+269	crotonaldehyde	1153	MLUCVPSAIODCQM-NSCUHMNNSA-N	85			with benzyl viologen as cosubstrate, at 85C
+272	Isovaleraldehyde	1623	YGHRJJRRZDOVPD-UHFFFAOYSA-N	85			with benzyl viologen as cosubstrate, at 85C
+343	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	85			with benzyl viologen as cosubstrate, at 85C
+720	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	85			with benzyl viologen as cosubstrate, at 85C
+950	methanal	124	WSFSSNUMVMOOMR-UHFFFAOYSA-N	85			with benzyl viologen as cosubstrate, at 85C
+960	phenylacetaldehyde	619	DTUQWGWMVIHBKE-UHFFFAOYSA-N	85			with benzyl viologen as cosubstrate, at 85C
+1100	propanal	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	85			with benzyl viologen as cosubstrate, at 85C

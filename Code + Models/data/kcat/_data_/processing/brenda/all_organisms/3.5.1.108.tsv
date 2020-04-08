@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00096	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme E78A/H265A, steady-state
+0.0016	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme D246A, steady-state
+0.005	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme H265A, steady-state
+0.01	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N			X	K239A mutant
+0.017	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N			X	H19A mutant
+0.052	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N			X	F192A mutant
+0.053	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N			X	T191A mutant
+0.083	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme E78A, steady-state
+0.09	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N	1	5.7		pH 5.7, 1C
+0.13	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N			X	H19Q mutant
+0.25	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N			X	H19Y mutant
+0.283	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N		7.3		pH 7.3
+0.45	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme substituted with Co2+, steady-state
+1.32	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N			X	D197E mutant
+1.5	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N			X	D197A mutant; wild-type
+1.5	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N	30	7.5		pH 7.5, 30C, wild-type Zn2+-containing enzyme, steady-state
+3.3	UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N	30	5.5		pH 5.5, 30C
+1.5	UDP-3-((R)-3-hydroxytetradecanoyl)-N-acetyl-alpha-D-glucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N	30	7.5		wild-type Fe2+-LpxC, pH 7.5, 30C
+2.1	UDP-3-((R)-3-hydroxytetradecanoyl)-N-acetyl-alpha-D-glucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N	30	7.5	X	mutant C63A Zn2+-LpxC, pH 7.5, 30C
+8.83	UDP-3-((R)-3-hydroxytetradecanoyl)-N-acetyl-alpha-D-glucosamine	1528	TZSJGZGYQDNRRX-MPLCHSTDSA-N	30	7.5	X	mutant C63A Fe2+-LpxC, pH 7.5, 30C

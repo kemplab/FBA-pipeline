@@ -1,0 +1,42 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0003	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0		isoform RibH2, pH 7.0, 37C
+0.0022	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme H88K
+0.0022	L-3,4-dihydroxybutan-2-one 4-phosphate	796	OKYHYXLCTGGOLM-BYPYZUCNSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme H88K
+0.003	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0		pH 7.0, 37C
+0.0038	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme F113S
+0.0038	L-3,4-dihydroxybutan-2-one 4-phosphate	796	OKYHYXLCTGGOLM-BYPYZUCNSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme F113S
+0.0054	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme K131N
+0.0054	L-3,4-dihydroxybutan-2-one 4-phosphate	796	OKYHYXLCTGGOLM-BYPYZUCNSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme K131N
+0.0067	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme H88A
+0.0067	L-3,4-dihydroxybutan-2-one 4-phosphate	796	OKYHYXLCTGGOLM-BYPYZUCNSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme H88A
+0.0081	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme F22D
+0.0081	L-3,4-dihydroxybutan-2-one 4-phosphate	796	OKYHYXLCTGGOLM-BYPYZUCNSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme F22D
+0.0122	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme K135A; pH 7.0, 37C, mutant enzyme N23S
+0.0122	L-3,4-dihydroxybutan-2-one 4-phosphate	796	OKYHYXLCTGGOLM-BYPYZUCNSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme K135A; pH 7.0, 37C, mutant enzyme N23S
+0.0147	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme F22V
+0.0147	L-3,4-dihydroxybutan-2-one 4-phosphate	796	OKYHYXLCTGGOLM-BYPYZUCNSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme F22V
+0.0166	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme K131R
+0.0166	L-3,4-dihydroxybutan-2-one 4-phosphate	796	OKYHYXLCTGGOLM-BYPYZUCNSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme K131R
+0.0244	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme F22W; pH 7.0, 37C, mutant enzyme F57S
+0.0244	L-3,4-dihydroxybutan-2-one 4-phosphate	796	OKYHYXLCTGGOLM-BYPYZUCNSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme F22W; pH 7.0, 37C, mutant enzyme F57S
+0.0263	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme F22S
+0.0263	L-3,4-dihydroxybutan-2-one 4-phosphate	796	OKYHYXLCTGGOLM-BYPYZUCNSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme F22S
+0.0307	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme T80V
+0.0307	L-3,4-dihydroxybutan-2-one 4-phosphate	796	OKYHYXLCTGGOLM-BYPYZUCNSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme T80V
+0.0347	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme S142L
+0.0347	L-3,4-dihydroxybutan-2-one 4-phosphate	796	OKYHYXLCTGGOLM-BYPYZUCNSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme S142L
+0.0389	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme R127H
+0.0389	L-3,4-dihydroxybutan-2-one 4-phosphate	796	OKYHYXLCTGGOLM-BYPYZUCNSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme R127H
+0.0391	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme E58Q
+0.0391	L-3,4-dihydroxybutan-2-one 4-phosphate	796	OKYHYXLCTGGOLM-BYPYZUCNSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme E58Q
+0.04	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0		isoform RibH1, pH 7.0, 37C
+0.0453	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme A56S
+0.0453	L-3,4-dihydroxybutan-2-one 4-phosphate	796	OKYHYXLCTGGOLM-BYPYZUCNSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme A56S
+0.051	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme D138A
+0.051	L-3,4-dihydroxybutan-2-one 4-phosphate	796	OKYHYXLCTGGOLM-BYPYZUCNSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme D138A
+0.0557	5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	793	XKQZIXVJVUPORE-RPDRRWSUSA-N	37	7.0		pH 7.0, 37C, wild-type enzyme
+0.0557	L-3,4-dihydroxybutan-2-one 4-phosphate	796	OKYHYXLCTGGOLM-BYPYZUCNSA-N	37	7.0		pH 7.0, 37C, wild-type enzyme
+0.056	5-nitro-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	6439	KSKGHNZSCSCHEQ-RPDRRWSUSA-N	37	7.0		native enzyme complex, pH 7.0, 37C
+0.056	L-3,4-dihydroxybutan-2-one 4-phosphate	796	OKYHYXLCTGGOLM-BYPYZUCNSA-N	37	7.0		native enzyme complex, pH 7.0, 37C
+0.076	5-nitro-6-ribitylamino-2,4(1H,3H)-pyrimidinedione	6439	KSKGHNZSCSCHEQ-RPDRRWSUSA-N	37	7.0		hollow beta60 capsid, pH 7.0, 37C
+0.076	L-3,4-dihydroxybutan-2-one 4-phosphate	796	OKYHYXLCTGGOLM-BYPYZUCNSA-N	37	7.0		hollow beta60 capsid, pH 7.0, 37C

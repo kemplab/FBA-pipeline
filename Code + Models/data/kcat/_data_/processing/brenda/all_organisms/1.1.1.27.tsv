@@ -1,0 +1,83 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000045	(S)-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	25	5.5		pH 5.5, 25C, recombinant enzyme
+0.000055	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	5.5		pH 5.5, 25C, recombinant enzyme
+0.000248	APAD+	706	KPVQNXLUPNWQHM-RBEMOOQDSA-O	25	5.5		pH 5.5, 25C, recombinant enzyme
+0.00208	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	5.5		pH 5.5, 25C, recombinant enzyme
+0.00209	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	5.5		pH 5.5, 25C, recombinant enzyme
+0.00386	APADH	1898	CIWXCGUGRDQCHH-RBEMOOQDSA-N	25	5.5		pH 5.5, 25C, recombinant enzyme
+0.33	4-methyl-2-oxopentanoate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N				wild-type enzyme
+0.64	2-oxovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M		7.5		pH 7.5
+0.7	epsilon-NAD+	3743	JCDBQDNBEQHDHK-BSLNIGMPSA-O				
+1.1	nicotinamide hypoxanthine dinucleotide	1551	DGVSIBCCYUVRNA-NNYOXOHSSA-O				
+1.1	nicotinamide hypoxanthine dinucleotide	1551	DGVSIBCCYUVRNA-NNYOXOHSSA-O				enzyme from muscle
+1.4	3-acetylpyridine adenine dinucleotide	706	KPVQNXLUPNWQHM-RBEMOOQDSA-O				
+3.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				enzyme from muscle
+5.3	epsilon-NAD+	3743	JCDBQDNBEQHDHK-BSLNIGMPSA-O				
+5.5	nicotinamide hypoxanthine dinucleotide	1551	DGVSIBCCYUVRNA-NNYOXOHSSA-O				
+6.2	epsilon-NAD+	3743	JCDBQDNBEQHDHK-BSLNIGMPSA-O				enzyme from heart
+6.9	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				
+12.33	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	9.2		pH 9.2, 25C
+12.33	(S)-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	25	9.2		pH 9.2, 25C
+16	3-acetylpyridine adenine dinucleotide	706	KPVQNXLUPNWQHM-RBEMOOQDSA-O				enzyme form heart and muscle
+18.8	nicotinamide hypoxanthine dinucleotide	1551	DGVSIBCCYUVRNA-NNYOXOHSSA-O				enzyme from heart
+21.1	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	6.0		pH 6.0, 25C, recombinant wild-type enzyme in presence of fructose 1,6-bisphosphate
+23	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8	X	25C, pH 8, mutant enzyme F16Q/C81S/N85R, activated by fructose 1,6-diphosphate; 25C, pH 8, mutant enzyme F16Q/I37K/D38SC81S/N85R, activated by fructose 1,6-diphosphate
+25	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	9.2		pH 9.2, 25C
+25	(S)-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	25	9.2		pH 9.2, 25C
+32	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8		25C, pH 8, wild-type enzyme, activated by fructose 1,6-diphosphate
+38.33	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	9.2		pH 9.2, 25C
+38.33	(S)-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	25	9.2		pH 9.2, 25C
+39.5	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N				wild-type enzyme
+40	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N		7.5		pH 7.5
+40	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.5		pH 7.5
+46.5	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant I12V/R81Q/M85E/G210A/V214I
+60	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				enzyme from heart
+65	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	9.2		pH 9.2, 25C
+65	(S)-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	25	9.2		pH 9.2, 25C
+80	2-oxobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N		7.5		pH 7.5
+94	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.5		pH 7.5
+96	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.5		pH 7.5
+96	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.5		pH 7.5
+98	Fluoropyruvate	2448	CXABZTLXNODUTD-UHFFFAOYSA-M				
+106	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.5		pH 7.5
+125	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.5		pH 7.5, 25C
+125	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+126.7	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.5		pH 7.5, 25C
+126.7	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+142	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				LDHB, in the presence of 0.125 mM NADH
+148.3	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.5		pH 7.5, 25C
+148.3	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+153.3	3-acetylpyridine adenine dinucleotide	706	KPVQNXLUPNWQHM-RBEMOOQDSA-O	25	9.2		pH 9.2, 25C
+154	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				LDHB, in the presence of 0.15 mM NADH
+170.7	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0		immobiized recombinant enzyme, pH 7.0, 25C
+176	pyruvate ethyl ester	1933	XXRCUYVCPSWGCC-UHFFFAOYSA-N				
+178.4	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	6.0	X	pH 6.0, 25C, recombinant mutant D38R in presence of fructose 1,6-bisphosphate
+180	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				wild-type enzyme
+194.9	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	6.0	X	pH 6.0, 25C, recombinant mutant D38R in absence of fructose 1,6-bisphosphate
+197	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				LDHB, in the presence of 0.125 mM NADH
+204	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				
+216.7	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				
+227	pyruvate methyl ester	3342	CWKLZLBVOJRSOM-UHFFFAOYSA-N				
+230	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	0	7.0		pH 7.0, 0C, recombinant enzyme
+233.3	3-acetylpyridine adenine dinucleotide	706	KPVQNXLUPNWQHM-RBEMOOQDSA-O	25	9.2		pH 9.2, 25C
+244	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				LDHB, in the presence of 0.15 mM NADH
+250	3-acetylpyridine adenine dinucleotide	706	KPVQNXLUPNWQHM-RBEMOOQDSA-O	25	9.2		pH 9.2, 25C
+250	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	6.0		pH 6.0, 25C, recombinant wild-type enzyme
+266.7	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.5		pH 7.5, 25C
+266.7	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+269	Bromopyruvate	1425	PRRZDZJYSJLDBS-UHFFFAOYSA-M				
+276.5	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0		soluble recombinant enzyme, pH 7.0, 25C
+298	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				LDHB, in the presence of 0.2 mM NADH
+318	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				LDHB, in the presence of 0.2 mM NADH
+320	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				RLDHB, in the presence of 0.25 mM NADH
+327.2	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	6.0		pH 6.0, 25C, recombinant wild-type enzyme in absence of fructose 1,6-bisphosphate
+333.3	3-acetylpyridine adenine dinucleotide	706	KPVQNXLUPNWQHM-RBEMOOQDSA-O	25	9.2		pH 9.2, 25C
+350	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				LDHB, in the presence of 0.25 mM NADH
+643	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				
+676	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	0	7.0		pH 7.0, 0C, recombinant enzyme
+884	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	0	7.0		pH 7.0, 0C, recombinant enzyme
+1300	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.5		pH 7.5, temperature not specified in the publication, wild-type LDH-2, with 3 mM fructose-1,6-bisphosphate
+1500	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.5		pH 7.5, temperature not specified in the publication, LDH-1, with 3 mM fructose-1,6-bisphosphate
+1600	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		5.5		pH 5.5, temperature not specified in the publication, LDH-1, with 3 mM fructose-1,6-bisphosphate
+1800	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		5.5	X	pH 5.5, temperature not specified in the publication, wild-type and mutant D241N LDH-2, with 3 mM fructose-1,6-bisphosphate; pH 7.5, temperature not specified in the publication, mutant D241N LDH-2, with 3 mM fructose-1,6-bisphosphate
+2330	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				

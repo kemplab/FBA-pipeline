@@ -1,0 +1,34 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.07	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4	X	mutant DELTA Q25, pH 7.4, 30C, in the absence of DNA
+0.075	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4	X	mutant K52R, pH 7.4, 30C, in the presence of M13 ssDNA
+0.085	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4	X	mutant K52R, pH 7.4, 30C, in the presence of M13 ssDNA
+0.155	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4	X	mutant Q25A, pH 7.4, 30C, in the absence of DNA
+0.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4		wild-type, pH 7.4, 30C, in the absence of DNA
+0.66	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant A475P, pH 7.5, 37C, in the presence of calf thymus DNA
+0.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	474	7.5	X	mutant W474C, pH 7.5, 37C, in the presence of calf thymus DNA
+0.88	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant T457I, pH 7.5, 37C, in the presence of calf thymus DNA
+0.98	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant K319T, pH 7.5, 37C, in the presence of calf thymus DNA
+1.01	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant R334Q, pH 7.5, 37C, in the presence of calf thymus DNA
+1.06	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant A359T, pH 7.5, 37C, in the presence of calf thymus DNA
+1.08	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant P335L, pH 7.5, 37C, in the presence of calf thymus DNA
+1.13	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant W315L, pH 7.5, 37C, in the presence of calf thymus DNA
+1.15	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant F485L, pH 7.5, 37C, in the presence of calf thymus DNA
+1.18	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant R354P, pH 7.5, 37C, in the presence of calf thymus DNA
+1.19	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant A318T, pH 7.5, 37C, in the presence of calf thymus DNA
+1.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				full-length RECQ1 helicase
+1.52	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant R357P, pH 7.5, 37C, in the presence of calf thymus DNA
+1.68	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4	X	mutant DELTA Q25, pH 7.4, 30C, in the presence of M13 ssDNA
+1.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		wild-type wit His-tag, pH 7.5, 37C, in the presence of calf thymus DNA
+1.94	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant S369Y pH 7.5, 37C, in the presence of calf thymus DNA
+2.04	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	508	7.5	X	mutant Y508C, pH 7.5, 37C, in the presence of calf thymus DNA
+2.09	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant S369P, pH 7.5, 37C, in the presence of calf thymus DNA
+2.17	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant R374Q , pH 7.5, 37C, in the presence of calf thymus DNA
+2.18	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		wild-type without His-tag, pH 7.5, 37C, in the presence of calf thymus DNA
+2.24	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant K319E, pH 7.5, 37C, in the presence of calf thymus DNA
+2.29	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant R303W, pH 7.5, 37C, in the presence of calf thymus DNA
+2.89	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant I367T, pH 7.5, 37C, in the presence of calf thymus DNA
+3.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4	X	mutant Q25A, pH 7.4, 30C, in the presence of M13 ssDNA
+7.41	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant (RECQ1(T1))Y564A, a construct encompassing amino acids 49&acirc;616 (of 649) of RECQ1, followed by a C-terminal tag of 22 aa
+8.31	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant L381P, pH 7.5, 37C, in the presence of calf thymus DNA
+11.25	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				(RECQ1(T1)), a construct encompassing amino acids 49&acirc;616 (of 649) of RECQ1, followed by a C-terminal tag of 22 aa
+43.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4		wild-type, pH 7.4, 30C, in the presence of M13 ssDNA

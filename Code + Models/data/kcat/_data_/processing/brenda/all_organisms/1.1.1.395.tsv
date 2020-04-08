@@ -1,0 +1,27 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.089	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	8.7		wild type enzyme isoform BaiA2, at pH 8.7 and 37C
+0.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	8.7		wild type enzyme isoform BaiA1, at pH 8.7 and 37C
+0.32	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	8.7	X	mutant E42A of isoform BaiA2, at pH 8.7 and 37C
+0.025	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	37	8.7		wild type enzyme isoform BaiA2, at pH 8.7 and 37C
+0.05	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	37	8.7	X	mutantE42A of isoform BaiA2, at pH 8.7 and 37C
+0.11	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	37	8.7		wild type enzyme isoform BaiA1, at pH 8.7 and 37C
+0.09	cholic acid	629	BHQCQFFYRZLCQQ-OELDTZBJSA-N	37	8.7		wild type enzyme isoform BaiA2, at pH 8.7 and 37C
+0.27	cholic acid	629	BHQCQFFYRZLCQQ-OELDTZBJSA-N	37	8.7		wild type enzyme isoform BaiA1, at pH 8.7 and 37C
+0.055	chenodeoxycholic acid	969	RUDATBOHQWOJDD-BSWAIDMHSA-N	37	8.7		wild type enzyme isoform BaiA2, at pH 8.7 and 37C
+0.25	chenodeoxycholic acid	969	RUDATBOHQWOJDD-BSWAIDMHSA-N	37	8.7		wild type enzyme isoform BaiA1, at pH 8.7 and 37C
+0.15	taurocholic acid	958	WBWWGRHZICKQGZ-HZAMXZRMSA-N	37	8.7		wild type enzyme isoform BaiA2, at pH 8.7 and 37C
+0.4	taurocholic acid	958	WBWWGRHZICKQGZ-HZAMXZRMSA-N	37	8.7		wild type enzyme isoform BaiA1, at pH 8.7 and 37C
+0.17	choloyl-CoA	2199	ZKWNOTQHFKYUNU-JGCIYWTLSA-N	37	8.7		wild type enzyme isoform BaiA2, at pH 8.7 and 37C
+1.23	choloyl-CoA	2199	ZKWNOTQHFKYUNU-JGCIYWTLSA-N	37	8.7		wild type enzyme isoform BaiA1, at pH 8.7 and 37C
+0.145	glycocholic acid	2702	RFDAIACWWDREDC-FRVQLJSFSA-N	37	8.7		wild type enzyme isoform BaiA2, at pH 8.7 and 37C
+0.42	glycocholic acid	2702	RFDAIACWWDREDC-FRVQLJSFSA-N	37	8.7		wild type enzyme isoform BaiA1, at pH 8.7 and 37C
+0.2	chenodeoxycholoyl-CoA	5429	IIWDDMINEZBCTG-RUAADODMSA-N	37	8.7		wild type enzyme isoform BaiA2, at pH 8.7 and 37C
+0.82	chenodeoxycholoyl-CoA	5429	IIWDDMINEZBCTG-RUAADODMSA-N	37	8.7		wild type enzyme isoform BaiA1, at pH 8.7 and 37C
+0.16	deoxycholoyl-CoA	7166	YTGXPYMXYISPEB-SIQRDODDSA-N	37	8.7		wild type enzyme isoform BaiA2, at pH 8.7 and 37C
+0.87	deoxycholoyl-CoA	7166	YTGXPYMXYISPEB-SIQRDODDSA-N	37	8.7		wild type enzyme isoform BaiA1, at pH 8.7 and 37C
+0.18	Lithocholoyl-CoA	20447	MHVCMYOMCROIEL-FYYKUXHTSA-N	37	8.7		wild type enzyme isoform BaiA2, at pH 8.7 and 37C
+0.73	Lithocholoyl-CoA	20447	MHVCMYOMCROIEL-FYYKUXHTSA-N	37	8.7		wild type enzyme isoform BaiA1, at pH 8.7 and 37C
+0.14	3-oxocholoyl-CoA	91447	DABYNUYNLLSQQV-QROUSYAVSA-N	37	8.7		wild type enzyme isoform BaiA2, at pH 8.7 and 37C
+0.55	3-oxocholoyl-CoA	91447	DABYNUYNLLSQQV-QROUSYAVSA-N	37	8.7		wild type enzyme isoform BaiA1, at pH 8.7 and 37C
+0.15	3-oxodeoxycholoyl-CoA	91448	DUXMITADCRRTKI-REQADMJUSA-N	37	8.7		wild type enzyme isoform BaiA2, at pH 8.7 and 37C
+0.73	3-oxodeoxycholoyl-CoA	91448	DUXMITADCRRTKI-REQADMJUSA-N	37	8.7		wild type enzyme isoform BaiA1, at pH 8.7 and 37C

@@ -1,0 +1,117 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.056	2-ketocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	5.5	X	30C, pH 5.5, mutant enzyme Y52L
+0.07	(R)-lactate	495	JVTAAEKCZFNVCJ-UWTATZPHSA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+0.3	2-ketocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	5.5	X	30C, pH 5.5, mutant enzyme Y52V
+0.31	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52R
+0.36	2-ketocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	5.5	X	30C, pH 5.5, mutant enzyme Y52R/F299G
+0.48	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52R
+0.51	2-Ketoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	30	5.5		30C, pH 5.5, wild-type enzyme
+0.64	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0		isozyme D-LDH3, pH 8.0, 25C
+0.7	2-ketocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	5.5	X	30C, pH 5.5, mutant enzyme Y52A
+1.8	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	37	7.4	X	pH 7.4, 37C, recombinant His-taged mutant F299Y
+2.1	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme F299S
+2.8	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52R/F299G
+3.4	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme F299G
+3.65	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0		isozyme D-LDH2, pH 8.0, 25C
+4.42	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0		isozyme D-LDH1, pH 8.0, 25C
+4.5	2-oxobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme N97D
+5.2	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52T/D299S
+5.7	2-Ketovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	5.5		30C, pH 5.5, wild-type enzyme
+6.5	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme F299S
+8.1	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme F299G
+8.28	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	8.0		isozyme D-LDH3, pH 8.0, 25C
+11	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+11.1	2-ketoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	5.5		30C, pH 5.5, wild-type enzyme
+11.3	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, recombinant His-taged wild-type enzyme
+11.3	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+11.7	2-ketoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52L
+13.8	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52R
+15.8	2-ketoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52A
+15.9	2-ketocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	5.5	X	30C, pH 5.5, mutant enzyme Y52R
+17	2-ketoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52V
+18	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+19	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52R/F299G
+21	2-ketocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	5.5		30C, pH 5.5, wild-type enzyme
+22	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme F299G
+25.5	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52A
+27	2-ketoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	30	5.5		30C, pH 5.5, wild-type enzyme
+31	2-oxobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+35.8	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme F299S
+37	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52V
+38	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme N97D
+39	2-oxoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+40	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	5.5		30C, pH 5.5, wild-type enzyme
+41	2-Ketobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52V
+41.5	2-Ketobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52A
+50	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme N97D
+50	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52V
+50	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+55.7	2-Ketovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	5.5	X	30C, pH 5.5, mutant enzyme Y52A
+65.7	2-ketoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52L
+69	2-oxovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	7.0		pH 7.0, 30C, recombinant enzyme
+80	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme, with fructose 1,6-bisphosphate
+80	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+80	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme; pH 8.0, 30C, recombinant enzyme, with Mg2+
+87	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme
+90	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme
+91.3	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+98	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+100	2-oxobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+100	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+100	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme, with fructose 1,6-bisphosphate
+102	2-Ketovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	5.5	X	30C, pH 5.5, mutant enzyme Y52V
+104	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52A
+110	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme, with Mg2+
+118	2-Ketobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	5.5		30C, pH 5.5, wild-type enzyme
+120	2-oxobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	5.5		30C, pH 5.5, wild-type enzyme
+120	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+120	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+140	2-oxobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+140	2-oxovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	7.0		pH 7.0, 30C, recombinant enzyme
+144.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	8.0		isozyme D-LDH1, pH 8.0, 25C
+160	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0		pH 7.0, 30C, recombinant enzyme
+160	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+171	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52V
+173	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	45	5.5		pH 5.5, 45C
+175	2-Ketobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52L
+200	2-oxoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+213	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52L
+230	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0		pH 7.0, 30C, recombinant enzyme
+232	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52A
+235.5	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+240	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme; pH 8.0, 30C, recombinant enzyme, with fructose 1,6-bisphosphate
+257	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	30	5.5		30C, pH 5.5, wild-type enzyme
+260	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	30	5.5		30C, pH 5.5, wild-type enzyme
+270	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	30	5.5		30C, pH 5.5, wild-type enzyme
+270	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme, with or without fructose 1,6-bisphosphate and Mg2+
+270	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme N97D
+280	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	5.5		30C, pH 5.5, wild-type enzyme
+290	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme, with Mg2+
+305	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	5.5		recombinant enzyme, pH 5.5, 30C
+310	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+320	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	5.5		30C, pH 5.5, wild-type enzyme
+320	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	45	5.5		pH 5.5, 45C
+321	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	5.5		30C, pH 5.5, wild-type enzyme
+334	2-Ketovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	5.5	X	30C, pH 5.5, mutant enzyme Y52L
+370	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme, with Mg2+
+380	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme
+400	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme, with fructose 1,6-bisphosphate
+400	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+407	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52L
+410	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+410	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+420	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+512.2	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				recombinant enzyme, pH and temperature not specified in the publication
+516.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	8.0		isozyme D-LDH2, pH 8.0, 25C
+633	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				
+640	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+690	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme, with Mg2+
+710	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme
+730	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme, with fructose 1,6-bisphosphate
+778	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	5.5	X	30C, pH 5.5, mutant enzyme Y52L
+880	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+1100	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+1447	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	37	7.4	X	pH 7.4, 37C, recombinant His-taged mutant Y52L/F299Y
+2013	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	37	7.4	X	pH 7.4, 37C, recombinant His-taged mutant Y52L
+2280	(R)-lactate	495	JVTAAEKCZFNVCJ-UWTATZPHSA-N	20	11.0		pH 11.0, 20C, recombinant enzyme
+29000	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme

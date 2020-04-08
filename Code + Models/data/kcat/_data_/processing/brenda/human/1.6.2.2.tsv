@@ -1,0 +1,23 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.733	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0		wild-type, cosubstrate ferricyanide, 25C, pH 7.0
+0.8	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	mutant P275L, cosubstrate ferricyanide, 25C, pH 7.0
+3	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0	X	mutant E255-, pH 7.0
+19	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0	X	mutant G291D, pH 7.0
+33	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0		wild-type, pH 7.0
+60	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N			X	mutant G75S
+67	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0	X	mutant P275L, 25C, pH 7.0
+85	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N			X	mutant G75S/V252M
+98.3	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				enzyme from liver microsomes, protease solubilized
+133	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N			X	mutant G75S
+187	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N			X	mutant G75S/V252M
+190	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0	X	mutant D239G, pH 7.0
+285	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N			X	mutant V252M
+360	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N				wild-type
+500	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				
+600	ferricytochrome b5	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N	25	7.0		wild-type, 25C, pH 7.0
+633	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N			X	mutant V252M
+677	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				enzyme from erythrocyte membrane
+700	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				enzyme from erythrocyte cytosol
+754	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.0	X	mutant D239G, pH 7.0; mutant E255-, pH 7.0; mutant G291D, pH 7.0; wild-type, pH 7.0
+800	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				wild-type
+827	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				enzyme from liver microsomes, detergent solubilized

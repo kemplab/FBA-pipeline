@@ -1,0 +1,145 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+250	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N			X	mutant enzyme C315A
+270	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N			X	mutant enzyme C315A/C318A
+340	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N				wild type enzyme
+360	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N			X	mutant enzyme C318A
+700	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	90	8.0		half transamination reaction, pH 8.0, 90C
+50.1	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N			X	mutant enzyme C315A/C318A
+52	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N			X	mutant enzyme C315A
+141	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	7.8	X	mutant enzyme C335S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+150	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	90	8.0		half transamination reaction, pH 8.0, 90C
+208	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	7.8	X	mutant enzyme C335S/C338S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+265	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N			X	mutant enzyme C318A
+290	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				wild type enzyme
+403	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	7.8	X	mutant enzyme C221S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+517	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	7.8	X	mutant enzyme C242S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+741	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	7.8	X	mutant enzyme C338S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+1035	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	7.8	X	mutant enzyme C293S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+1075	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	7.8		wild type enzyme, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+1157	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	7.8	X	mutant enzyme C235S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+17	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	25	8.0		pH 8.0, 25C
+16	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	25	7.4		TAT-peptide fusion protein, pH 7.4, 25C
+42	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	25	7.4		wild-type, pH 7.4, 25C
+17	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	25	7.4		TAT-peptide fusion protein, pH 7.4, 25C
+50	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	25	7.4		wild-type, pH 7.4, 25C
+2.9	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	25	8.0		pH 8.0, 25C
+80	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	90	8.0		half transamination reaction, pH 8.0, 90C
+2.2	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	8.0		pH 8.0, 25C
+3.7	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	25	8.0		pH 8.0, 25C
+8.1	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	25			pH not specified in the publication, 25C
+8.1	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	25			SlBCAT2, pH not specified in the publication, 25C
+15.7	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	25			SlBCAT6, pH not specified in the publication, 25C
+17.9	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	25			SlBCAT4, pH not specified in the publication, 25C
+39.1	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	25			SlBCAT1, pH not specified in the publication, 25C
+40.8	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	25			pH not specified in the publication, 25C
+60.8	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N			X	mutant enzyme C315A/C318A
+65	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N			X	mutant enzyme C315A
+78	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	25	8.0		pH 8.0, 25C
+80.2	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	25			SpBCAT1, pH not specified in the publication, 25C
+110	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	90	8.0		half transamination reaction, pH 8.0, 90C
+118	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	25			SlBCAT5, pH not specified in the publication, 25C
+121	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	25			SlBCAT3, pH not specified in the publication, 25C
+213	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.8	X	mutant enzyme C335S/C338S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+253	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.8	X	mutant enzyme C335S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+286	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.8	X	mutant enzyme C221S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+310	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N			X	mutant enzyme C318A
+337	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N				wild type enzyme
+430	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.8	X	mutant enzyme C338S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+651	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.8	X	mutant enzyme C242S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+756	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.8	X	mutant enzyme C235S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+803	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.8	X	mutant enzyme C293S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+898	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.8		wild type enzyme, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+52	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	90	8.0		half transamination reaction, pH 8.0, 90C
+3.8	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	25			SlBCAT2, pH not specified in the publication, 25C
+19	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	25	8.0		pH 8.0, 25C
+20.6	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	25			SlBCAT4, pH not specified in the publication, 25C
+24	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	25			SlBCAT6, pH not specified in the publication, 25C
+28.1	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	25			pH not specified in the publication, 25C
+31	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	90	8.0		half transamination reaction, pH 8.0, 90C
+39.1	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	25			pH not specified in the publication, 25C
+50.5	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	25			SlBCAT1, pH not specified in the publication, 25C
+55	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	25			SpBCAT1, pH not specified in the publication, 25C
+111	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	25			SlBCAT3, pH not specified in the publication, 25C
+123	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	25			SlBCAT5, pH not specified in the publication, 25C
+170	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.8	X	mutant enzyme C335S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+188	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N			X	mutant enzyme C315A
+197	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N			X	mutant enzyme C315A/C318A
+230	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N			X	mutant enzyme C318A
+277	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N				wild type enzyme
+292	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.8	X	mutant enzyme C335S/C338S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+443	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.8	X	mutant enzyme C221S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+597	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.8	X	mutant enzyme C338S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+688	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.8	X	mutant enzyme C242S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+838	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.8	X	mutant enzyme C235S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+1111	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.8	X	mutant enzyme C293S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+1236	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.8		wild type enzyme, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+7.6	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	25			pH not specified in the publication, 25C
+7.6	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	25			SlBCAT2, pH not specified in the publication, 25C
+20	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	25			SlBCAT4, pH not specified in the publication, 25C; SlBCAT6, pH not specified in the publication, 25C
+40.8	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	25			SlBCAT1, pH not specified in the publication, 25C
+46.5	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	25			pH not specified in the publication, 25C
+48	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	25	8.0		pH 8.0, 25C
+51	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	90	8.0		half transamination reaction, pH 8.0, 90C
+69.9	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	25			SpBCAT1, pH not specified in the publication, 25C
+70.5	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N			X	mutant enzyme C315A/C318A
+72	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N			X	mutant enzyme C315A
+163	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	25			SlBCAT5, pH not specified in the publication, 25C
+174	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	25			SlBCAT3, pH not specified in the publication, 25C
+319	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N			X	mutant enzyme C318A
+341	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	37	7.8	X	mutant enzyme C335S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+371	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N				wild type enzyme
+419	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	37	7.8	X	mutant enzyme C335S/C338S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+503	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	37	7.8	X	mutant enzyme C221S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+529	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	37	7.8	X	mutant enzyme C338S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+779	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	37	7.8	X	mutant enzyme C235S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+843	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	37	7.8	X	mutant enzyme C293S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+870	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	37	7.8	X	mutant enzyme C242S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+1075	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	37	7.8		wild type enzyme, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+250	2-oxobutanoate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	90	8.0		half transamination reaction, pH 8.0, 90C
+86	L-norvaline	559	SNDPXSYFESPGGJ-BYPYZUCNSA-N	90	8.0		half transamination reaction, pH 8.0, 90C
+70	4-methyl-2-oxopentanoate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+10.5	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+270	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	90	8.0		half transamination reaction, pH 8.0, 90C
+260	L-norleucine	647	LRQKBLKVPFOOQJ-YFKPBYRVSA-N	90	8.0		half transamination reaction, pH 8.0, 90C
+23.1	2-Oxohexanoate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	37	8.0		pH 8.0, 37C
+23	3-methyl-2-oxopentanoate	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+24.7	2-oxoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+270	2-oxoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	90	8.0		half transamination reaction, pH 8.0, 90C
+25.9	2-oxovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	37	8.0		pH 8.0, 37C
+190	2-oxovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	90	8.0		half transamination reaction, pH 8.0, 90C
+25	L-2-aminobutanoate	1112	QWCKQJZIFLGMSD-VKHMYHEASA-N	90	8.0		half transamination reaction, pH 8.0, 90C
+11.7	4-methyl-2-oxopentanoic acid	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	25			SlBCAT1, pH not specified in the publication, 25C
+16.3	4-methyl-2-oxopentanoic acid	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	25			pH not specified in the publication, 25C
+28.1	4-methyl-2-oxopentanoic acid	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	25			SlBCAT3, pH not specified in the publication, 25C
+28.7	4-methyl-2-oxopentanoic acid	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	25			SlBCAT6, pH not specified in the publication, 25C
+35	4-methyl-2-oxopentanoic acid	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	25			SlBCAT4, pH not specified in the publication, 25C
+54.6	4-methyl-2-oxopentanoic acid	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	25			SlBCAT5, pH not specified in the publication, 25C
+84.8	4-methyl-2-oxopentanoic acid	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	25			SlBCAT2, pH not specified in the publication, 25C
+173.8	4-methyl-2-oxopentanoic acid	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	25			pH not specified in the publication, 25C
+16.3	3-methyl-2-oxopentanoic acid	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N	25			SlBCAT1, pH not specified in the publication, 25C
+18.4	3-methyl-2-oxopentanoic acid	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N	25			SlBCAT4, pH not specified in the publication, 25C
+22.7	3-methyl-2-oxopentanoic acid	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N	25			SlBCAT6, pH not specified in the publication, 25C
+23.6	3-methyl-2-oxopentanoic acid	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N	25			SlBCAT3, pH not specified in the publication, 25C; SlBCAT5, pH not specified in the publication, 25C
+67.6	3-methyl-2-oxopentanoic acid	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N	25			SlBCAT2, pH not specified in the publication, 25C
+83.9	3-methyl-2-oxopentanoic acid	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N	25			pH not specified in the publication, 25C
+84.8	3-methyl-2-oxopentanoic acid	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N	25			pH not specified in the publication, 25C
+11.7	3-methyl-2-oxobutanoic acid	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25			pH not specified in the publication, 25C
+22.1	3-methyl-2-oxobutanoic acid	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25			SlBCAT5, pH not specified in the publication, 25C
+23	3-methyl-2-oxobutanoic acid	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25			SlBCAT1, pH not specified in the publication, 25C
+23.4	3-methyl-2-oxobutanoic acid	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25			pH not specified in the publication, 25C
+46.5	3-methyl-2-oxobutanoic acid	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25			SlBCAT3, pH not specified in the publication, 25C
+60.6	3-methyl-2-oxobutanoic acid	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25			SlBCAT4, pH not specified in the publication, 25C
+84.3	3-methyl-2-oxobutanoic acid	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25			SlBCAT2, pH not specified in the publication, 25C
+109.8	3-methyl-2-oxobutanoic acid	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25			SlBCAT6, pH not specified in the publication, 25C
+91	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	90	8.0		half transamination reaction, pH 8.0, 90C
+360	2-oxo-3-methylvalerate	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N	90	8.0		half transamination reaction, pH 8.0, 90C
+2.9	2-(3-hydroxy-1-adamantyl)-2-oxoethanoic acid	9578	UDKIRRNUAXWHTO-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+4.11	2-(3-hydroxy-1-adamantyl)-2-oxoethanoic acid	9578	UDKIRRNUAXWHTO-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+12.15	3-methyl-2-oxovaleric acid	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+13.75	3-methyl-2-oxovaleric acid	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+6.61	4-methyl-2-oxovaleric acid	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+17.32	4-methyl-2-oxovaleric acid	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+12.45	3-methyl-2-oxobutyric acid	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+16.84	3-methyl-2-oxobutyric acid	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+2.2	trimethylpyruvate	13073	IAWVHZJZHDSEOC-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+2.59	trimethylpyruvate	13073	IAWVHZJZHDSEOC-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C

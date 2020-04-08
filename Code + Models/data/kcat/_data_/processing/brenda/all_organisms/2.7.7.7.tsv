@@ -1,0 +1,189 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000072	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		pH 7.5, 37C, DNA polymerase Dpo2
+0.000013	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		pH 7.5, 37C, DNA polymerase Dpo3
+0.000016	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		pH 7.5, 37C, DNA polymerase Dpo3
+0.000053	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		pH 7.5, 37C, DNA polymerase Dpo2
+0.000083	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.8		pH 7.8, 37C, incorporation of dATP opposite (G) in the double stranded oligonucleotide: 5'-GGGGGAAGGATTC-3'/3'-CCCCCTTCCTAAG(G)CACT-5'
+0.0001	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: N2-BzG
+0.00011	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		pH 7.5, 37C, DNA polymerase Dpo3
+0.00013	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.8		pH 7.8, 37C, dTTP insertion opposite N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine in 5'-TCAT-(N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine)-GAATCCTTACGAGCATCGCCCCC-3'
+0.00019	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: N2-BzG
+0.0002	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.8		pH 7.8, 37C, dATP insertion opposite N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine in 5'-TCAT-(N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine)-GAATCCTTACGAGCATCGCCCCC-3'
+0.0002	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: O6-BzG
+0.00024	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.8		pH 7.8, 37C, dATP insertion opposite N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine in 5'-TCGT-(N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine)-TCAATCCTTACGAGCATCGCCCCC-3'
+0.00024	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.8		pH 7.8, 37C, dCTP insertion opposite an unmodified deoxyguanosine in 5'-TCGT-G-TCAATCCTTACGAGCATCGCCCCC-3'
+0.00025	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.8		pH 7.8, 37C, dATP insertion opposite an unmodified deoxyguanosine in 5'-TCAT-G-GAATCCTTACGAGCATCGCCCCC-3'
+0.00027	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.8		pH 7.8, 37C, dCTP insertion opposite N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine in 5'-TCAT-(N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine)-GAATCCTTACGAGCATCGCCCCC-3'
+0.00029	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.8		pH 7.8, 37C, dATP insertion opposite an unmodified deoxyguanosine in 5'-TCGT-G-TCAATCCTTACGAGCATCGCCCCC-3'
+0.00029	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.8		pH 7.8, 37C, dTTP insertion opposite an unmodified deoxyguanosine in 5'-TCAT-G-GAATCCTTACGAGCATCGCCCCC-3'
+0.0003	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.8		pH 7.8, 37C, dCTP insertion opposite an unmodified deoxyguanosine in 5'-TCAT-G-GAATCCTTACGAGCATCGCCCCC-3'
+0.00032	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: O6-MeG
+0.00038	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.8		pH 7.8, 37C, incorporation of dGTP opposite (8oxoG) in the double stranded oligonucleotide: 5'-GGGGGAAGGATTC-3'/3'-CCCCCTTCCTAAG(8oxoG)CACT-5'
+0.0004	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: N2-BzG
+0.00043	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.8		pH 7.8, 37C, dGTP insertion opposite an unmodified deoxyguanosine in 5'-TCAT-G-GAATCCTTACGAGCATCGCCCCC-3'
+0.00053	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.8		pH 7.8, 37C, dCTP insertion opposite N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine in 5'-TCGT-(N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine)-TCAATCCTTACGAGCATCGCCCCC-3'
+0.00053	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		pH 7.5, 37C, DNA polymerase Dpo3
+0.00055	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: O6-BzG
+0.0006	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.8		pH 7.8, 37C, dGTP insertion opposite N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine in 5'-TCAT-(N6-(2-deoxy-D-erythro-pentofuranosyl)-2,6-diamino-3,4-dihydro-4-oxo-5-N-methylformamidopyrimidine)-GAATCCTTACGAGCATCGCCCCC-3'
+0.0006	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: N2-BzG
+0.00068	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.8		pH 7.8, 37C, incorporation of dGTP opposite (G) in the double stranded oligonucleotide: 5'-GGGGGAAGGATTC-3'/3'-CCCCCTTCCTAAG(G)CACT-5'
+0.0008	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: O6-BzG
+0.0012	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: O6-BzG
+0.0016	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: N2-BzG
+0.0016	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: N2-BzG
+0.0016	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		template base: dI, pH 7.5, 37C
+0.0017	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: O6-BzG
+0.0018	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		pH 7.5, 37C, DNA polymerase Dpo1
+0.0021	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template: abasic site
+0.0021	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: N2-MeG
+0.0022	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template: abasic site
+0.0023	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: O6-BzG
+0.0025	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.8		pH 7.8, 37C, incorporation of dATP opposite (8oxoG) in the double stranded oligonucleotide: 5'-GGGGGAAGGATTC-3'/3'-CCCCCTTCCTAAG(8oxoG)CACT-5'
+0.0027	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: N2-MeG
+0.0028	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: G
+0.0029	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: O6-MeG
+0.003	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: O6-BzG
+0.0033	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template: abasic site
+0.0036	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: O6-MeG
+0.0045	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: G
+0.0046	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		template base: dA, pH 7.5, 37C
+0.0046	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		template base: 2-bromo-2'-deoxyinosine, pH 7.5, 37C
+0.0047	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		template base: 2-fluoro-2'-deoxyinosine, pH 7.5, 37C
+0.0049	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: N2-MeG
+0.005	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.8		pH 7.8, 37C, incorporation of dCTP opposite (8oxoG) in the double stranded oligonucleotide: 5'-GGGGGAAGGATTC-3'/3'-CCCCCTTCCTAAG(8oxoG)CACT-5'
+0.0052	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: N2-MeG
+0.0053	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: N2-BzG
+0.0054	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		template base: dA, pH 7.5, 37C
+0.0055	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: O6-MeG
+0.0057	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		template base: dG, pH 7.5, 37C
+0.0057	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: O6-BzG
+0.0062	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: N2-BzG
+0.0063	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		template base: dG, pH 7.5, 37C
+0.0067	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: O6-MeG
+0.0068	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: N2-MeG
+0.0068	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		pH 7.5, 37C, DNA polymerase Dpo1
+0.0088	South-methanocarba-dATP	118831	OXVNWUDHLNBZRB-QZOVBDONSA-N	37	7.5		pH 7.5, 37C
+0.0096	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	30	8.8		pH 8.8, 30C, recombinant enzyme, in presence of Mn2+
+0.0098	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: G
+0.01	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		template base: dX, pH 7.5, 37C
+0.011	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		template base: dC, pH 7.5, 37C
+0.011	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		template base: dC, pH 7.5, 37C; template base: dX, pH 7.5, 37C
+0.012	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		template base: dI, pH 7.5, 37C
+0.012	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: G
+0.012	N1-methyl-2'-deoxyadenosine 5'-triphosphate	109216	XSTBBNMVQPSSLF-XLPZGREQSA-O	60	7.5		pH 7.5, 60C, incorporation opposite the 3'-thymine of a cis-syn thymine dimer of the template
+0.0123	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	30	8.8		pH 8.8, 30C, recombinant enzyme, in presence of Mg2+
+0.013	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.8		pH 7.8, 37C, incorporation of dCTP opposite (G) in the double stranded oligonucleotide: 5'-GGGGGAAGGATTC-3'/3'-CCCCCTTCCTAAG(G)CACT-5'
+0.014	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: O6-MeG
+0.014	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		template base: dI, pH 7.5, 37C
+0.015	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		template base: dT, pH 7.5, 37C
+0.017	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template: abasic site
+0.017	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		template base: dC, pH 7.5, 37C
+0.019	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		template base: 2-bromo-2'-deoxyinosine, pH 7.5, 37C
+0.02	5-Methyl-dCTP	2193	NGYHUCPPLJOZIX-XLPZGREQSA-N	37	7.4		pH 7.4, 37C, steady-state kinetics for single nucleotide primer extension with O6-methylguanine as template
+0.02	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		template base: dX, pH 7.5, 37C
+0.02	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.4		pH 7.4, 37C, steady-state kinetics for single nucleotide primer extension with O6-methylguanine as template
+0.021	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template: abasic site
+0.021	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: G
+0.022	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	55		X	55C, pH not specified in the publication, mutant enzyme L409I
+0.022	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		template base: dA, pH 7.5, 37C
+0.022	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: O6-MeG
+0.023	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		pH 7.5, 37C
+0.025	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template: abasic site; pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: N2-MeG
+0.027	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: N2-MeG
+0.028	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	55		X	55C, pH not specified in the publication, mutant enzyme L409M
+0.028	N1-methyl-2'-deoxyadenosine 5'-triphosphate	109216	XSTBBNMVQPSSLF-XLPZGREQSA-O	60	7.5		pH 7.5, 60C, incorporation opposite an abasic site
+0.029	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	55		X	55C, pH not specified in the publication, mutant enzyme Y410V
+0.03	2-thio-dCTP	118616	VCHURPMMWRACNQ-SHYZEUOFSA-N	37	7.4		pH 7.4, 37C, steady-state kinetics for single nucleotide primer extension with O6-methylguanine as template
+0.031	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		template base: dT, pH 7.5, 37C
+0.034	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	55		X	55C, pH not specified in the publication, mutant enzyme L409V
+0.034	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		template base: dG, pH 7.5, 37C
+0.035	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		template base: dX, pH 7.5, 37C
+0.037	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	55		X	55C, pH not specified in the publication, mutant enzyme A408S
+0.038	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		pH 7.5, 37C, dCTP insertion opposite the N6dA-(OH)2butyl-GSH in 5'-TCTC-N6dA-(OH)2butyl-GSH-GTTTATGGACCACC-3'
+0.04	2-thio-dCTP	118616	VCHURPMMWRACNQ-SHYZEUOFSA-N	37	7.4		pH 7.4, 37C, steady-state kinetics for single nucleotide primer extension with guanine as template
+0.042	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		pH 7.5, 37C, dCTP insertion opposite the N6dA-butanetriol in 5'-TCTC-N6dA-butanetriol-GTTTATGGACCACC-3'
+0.042	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		template base: dT, pH 7.5, 37C
+0.043	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template: abasic site
+0.043	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template: abasic site
+0.043	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: G
+0.044	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		template base: 2-fluoro-2'-deoxyinosine, pH 7.5, 37C
+0.045	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	60	7.5		pH 7.5, 60C, incorporation opposite the 3'-thymine of a cis-syn thymine dimer of the template
+0.05	dPTP	27511	ZFIZANDNGWVDEE-HOSYDEDBSA-N	37	7.4		pH 7.4, 37C, steady-state kinetics for single nucleotide primer extension with guanine as template
+0.056	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.6	X	polymerase activity, D190A mutant, pH 7.6, 37C
+0.056	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		pH 7.5, 37C, dCTP insertion opposite an unmodified deoxyadenosine in 5'-TCTCAGTTTATGGACCACC-3'
+0.063	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	60	7.5		pH 7.5, 60C, incorporation opposite an abasic site
+0.063	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: O6-MeG
+0.063	N1-methyl-2'-deoxyadenosine 5'-triphosphate	109216	XSTBBNMVQPSSLF-XLPZGREQSA-O	60	7.5		pH 7.5, 60C, incorporation opposite the 5'-thymine of a cis-syn thymine dimer of the template
+0.065	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: G
+0.0667	deoxynucleoside triphosphate	1864	WRABFGJAIBZBND-VPENINKCSA-N	60	7.5		wild-type enzyme, pH 7.5, 60C
+0.0667	deoxynucleoside triphosphate	1864	WRABFGJAIBZBND-VPENINKCSA-N	60	7.5		wild-type enzyme, pH 7.5, 60C
+0.068	7-deaza-2'-deoxyadenosine 5'-triphosphate	109215	AZJLCKAEZFNJDI-DJLDLDEBSA-N	60	7.5		pH 7.5, 60C, incorporation opposite the 3'-thymine of a cis-syn thymine dimer of the template
+0.073	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		pH 7.5, 37C, DNA polymerase Dpo4
+0.085	7-deaza-2'-deoxyadenosine 5'-triphosphate	109215	AZJLCKAEZFNJDI-DJLDLDEBSA-N	60	7.5		pH 7.5, 60C, incorporation opposite an abasic site
+0.09	rCTP	23500	PCDQPRRSZKQHHS-JDNPWWSISA-J				
+0.092	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: N2-MeG
+0.096	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	22	8.0		pH 8.0, 22C, recombinant enzyme
+0.096	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		pH 7.5, 37C, DNA polymerase Dpo1
+0.14	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N				
+0.145	N1-methyl-2'-deoxyadenosine 5'-triphosphate	109216	XSTBBNMVQPSSLF-XLPZGREQSA-O	60	7.5		pH 7.5, 60C, incorporation opposite the 5'-thymine of an nondamaged template
+0.15	deoxynucleoside triphosphate	1864	WRABFGJAIBZBND-VPENINKCSA-N	60	7.5	X	G418K/E507Q mutant, pH 7.5, 60C
+0.15	deoxynucleoside triphosphate	1864	WRABFGJAIBZBND-VPENINKCSA-N	60	7.5	X	G418K/E507Q mutant, pH 7.5, 60C
+0.15	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		pH 7.5, 37C, DNA polymerase Dpo4
+0.15	N1-methyl-2'-deoxyadenosine 5'-triphosphate	109216	XSTBBNMVQPSSLF-XLPZGREQSA-O	60	7.5		pH 7.5, 60C, incorporation opposite the 3'-thymine of an nondamaged template
+0.16	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N				
+0.16	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		template base: dA, pH 7.5, 37C
+0.185	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+0.2	7-deaza-2'-deoxyadenosine 5'-triphosphate	109215	AZJLCKAEZFNJDI-DJLDLDEBSA-N	60	7.5		pH 7.5, 60C, incorporation opposite the 5'-thymine of a cis-syn thymine dimer of the template
+0.22	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	55			55C, pH not specified in the publication, wild-type enzyme
+0.23	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	60	7.5		pH 7.5, 60C, incorporation opposite the 5'-thymine of an nondamaged template
+0.23	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		pH 7.5, 37C, DNA polymerase Dpo1
+0.24	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	60	7.5		pH 7.5, 60C, incorporation opposite the 5'-thymine of a cis-syn thymine dimer of the template
+0.265	7-deaza-2'-deoxyadenosine 5'-triphosphate	109215	AZJLCKAEZFNJDI-DJLDLDEBSA-N	60	7.5		pH 7.5, 60C, incorporation opposite the 5'-thymine of an nondamaged template
+0.28	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.4		pH 7.4, 37C, steady-state kinetics for single nucleotide primer extension with guanine as template
+0.28	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		pH 7.5, 37C, dTTP insertion opposite the N6dA-butanetriol in 5'-TCTC-N6dA-butanetriol-GTTTATGGACCACC-3'
+0.29	2-aminopurine-2'-deoxy-D-ribose 5'-triphosphate	118615	RFFKLCXZSWDRJT-XLPZGREQSA-N	60	7.5		pH 7.5, 60C, incorporation opposite the 5'-thymine of a cis-syn thymine dimer of the template
+0.3	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		pH 7.5, 37C
+0.31	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	55		X	55C, pH not specified in the publication, mutant enzyme Y410L
+0.32	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	55		X	55C, pH not specified in the publication, mutant enzyme Y410I
+0.33	5-Methyl-dCTP	2193	NGYHUCPPLJOZIX-XLPZGREQSA-N	37	7.4		pH 7.4, 37C, steady-state kinetics for single nucleotide primer extension with guanine as template
+0.34	2-aminopurine-2'-deoxy-D-ribose 5'-triphosphate	118615	RFFKLCXZSWDRJT-XLPZGREQSA-N	60	7.5		pH 7.5, 60C, incorporation opposite the 5'-thymine of an nondamaged template
+0.34	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.4	X	37C, pH 7.4, mutant enzyme T239W
+0.35	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		pH 7.5, 37C, dTTP insertion opposite the N6dA-(OH)2butyl-GSH in 5'-TCTC-N6dA-(OH)2butyl-GSH-GTTTATGGACCACC-3'
+0.36	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	7.5		template base: dT, pH 7.5, 37C
+0.36	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		pH 7.5, 37C, dTTP insertion opposite an unmodified deoxyadenosine in 5'-TCTCAGTTTATGGACCACC-3'
+0.38	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	60	7.5		pH 7.5, 60C, incorporation opposite the 3'-thymine of an nondamaged template
+0.38	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		pH 7.5, 37C, dNTP incorporation opposite DNA lesions, template base: G
+0.4	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	50	8.0		pH 8.0, 50C, recombinant enzyme
+0.405	7-deaza-2'-deoxyadenosine 5'-triphosphate	109215	AZJLCKAEZFNJDI-DJLDLDEBSA-N	60	7.5		pH 7.5, 60C, incorporation opposite the 3'-thymine of an nondamaged template
+0.41	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		template base: dI, pH 7.5, 37C
+0.47	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.4	X	37C, pH 7.4, mutant enzyme N188W
+0.48	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.5		pH 7.5, 37C, DNA polymerase Dpo4
+0.54	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	7.5		template base: dC, pH 7.5, 37C
+0.64	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	25	7.5		pH 7.5, 25C
+0.89	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	9.0	X	pH 9.0, 37C, recombinant mutant enzyme
+0.93	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		template base: dG, pH 7.5, 37C
+0.96	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	9.0	X	pH 9.0, 37C, recombinant mutant enzyme
+1	dNTP	3382	AHOQMRJQSIAHCP-VPENINKCSA-N				
+1	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	50	8.2		pH 8.2, 50C, recombinant M1pol
+1.05	deoxynucleoside triphosphate	1864	WRABFGJAIBZBND-VPENINKCSA-N	70	7.5		equimolar mixture of all nucleotides, pH 7.5, 70C
+1.4	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	9.0	X	pH 9.0, 37C, recombinant mutant enzyme
+1.7	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	50	8.2	X	pH 8.2, 50C, recombinant enzyme mutant K4polL329A
+2.4	DNAn	891	FGVSRQREYZAMGV-AAEXPAOISA-N	75	8.6	X	pH 8.6, 75C, mM of template, in the presence of an excess of annealed primer, mutant enzyme H633R
+2.5	deoxynucleoside triphosphate	1864	WRABFGJAIBZBND-VPENINKCSA-N	30	7.6		pH 7.6, 30C
+2.5	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	25	7.5		pH 7.5, 25C
+2.6	DNAn	891	FGVSRQREYZAMGV-AAEXPAOISA-N	75	8.6		pH 8.6, 75C, mM of template, in the presence of an excess of annealed primer, wild-type enzyme
+3.7	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	25	7.5		pH 7.5, 25C
+3.9	deoxynucleoside triphosphate	1864	WRABFGJAIBZBND-VPENINKCSA-N	75	8.6		pH 8.6, 75C, mM of each nucleotide in an equimolar mixture of the four nucleotides, wild-type enzyme
+4.17	Nucleotide	2560	SPZDHSUJIZCYOY-TXICZTDVSA-N				pol II
+4.2	deoxynucleoside triphosphate	1864	WRABFGJAIBZBND-VPENINKCSA-N	75	8.6	X	pH 8.6, 75C, mM of each nucleotide in an equimolar mixture of the four nucleotides, mutant enzyme H633R
+5.6	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	25	7.5		pH 7.5, 25C
+12	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	7.5		pH 7.5, 37C, DNA polymerase Dpo4
+12.9	DNAn	891	FGVSRQREYZAMGV-AAEXPAOISA-N	75	7.5		pH 7.5, 75C, mol of template, in the presence of an excess of annealed primer, fusion protein of the Sso7d protein to the C-terminus of Tpa DNA polymerase
+13.6	DNAn	891	FGVSRQREYZAMGV-AAEXPAOISA-N	75	7.5		pH 7.5, 75C, mol of template, in the presence of an excess of annealed primer, unmodified Tpa DNA polymerase
+16.7	Nucleotide	2560	SPZDHSUJIZCYOY-TXICZTDVSA-N				pol I
+25.8	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	22	8.0		pH 8.0, 22C, recombinant enzyme
+75.6	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+92	deoxynucleoside triphosphate	1864	WRABFGJAIBZBND-VPENINKCSA-N	75	7.5		pH 7.5, 75C, turnover number of each nucleotide in an equimolar mixture of the four nucleotides, unmodified Tpa DNA polymerase
+116	deoxynucleoside triphosphate	1864	WRABFGJAIBZBND-VPENINKCSA-N	75	7.5		pH 7.5, 75C, turnover number of each nucleotide in an equimolar mixture of the four nucleotides, fusion protein of the Sso7d protein to the C-terminus of Tpa DNA polymerase
+175	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	50	8.0		pH 8.0, 50C, recombinant enzyme
+250	Nucleotide	2560	SPZDHSUJIZCYOY-TXICZTDVSA-N				pol III

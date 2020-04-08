@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+7.2	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	37	7.1	X	pH 7.1, 37C, mutant enzyme Y75F
+7.2	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	7.1	X	pH 7.1, 37C, mutant enzyme
+7.7	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	37	7.1		pH 7.1, 37C, wild-type enzyme
+7.7	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	7.1		pH 7.1, 37C, wild-type enzyme
+7.8	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	37	7.1	X	pH 7.1, 37C, mutant enzyme S184F
+7.8	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	7.1	X	pH 7.1, 37C, mutant enzyme S184F
+9.7	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	37	7.7	X	pH 7.7, 37C, mutant enzyme Y75F; pH 7.7, 37C, wild-type enzyme
+9.7	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	7.7	X	pH 7.7, 37C, mutant enzyme; pH 7.7, 37C, wild-type enzyme
+10.8	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	37	7.7	X	pH 7.7, 37C, mutant enzyme S184A
+10.8	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	7.7	X	pH 7.7, 37C, mutant enzyme S184A

@@ -1,0 +1,63 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.031	2-aminobenzoyl-GFSPFRSSRQED(2,4-dinitrophenyl)	11262	SDQDQWCSJOVVIT-ZTNWZYIDSA-N	37	7.0		pH 7.0, 37C
+0.04	2-aminobenzoyl-MISLMKRPQED(2,4-dinitrophenyl)	11617	GYNBELLUFMZQDK-VIJQINEXSA-N	37	7.0		pH 7.0, 37C
+0.187	2-aminobenzoyl-GGFYKKVGQ-ethylenediamine-2,4-dinitrophenyl	18089	MHKYILMLUIFAEA-SIDOUHSTSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFYXXVGQ-ethylenediamine-2,4-dinitrophenyl
+0.198	2-aminobenzoyl-GGFIKKVGQ-ethylenediamine-2,4-dinitrophenyl	26491	CFJXPJGXEFBWNM-DMLDKVOOSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFIXXVGQ-ethylenediamine-2,4-dinitrophenyl
+0.216	2-aminobenzoyl-TPLVTLX1X2NAIIKQED(2,4-dinitrophenyl)	2770	VHLRNQSBRDIFIZ-KYVJRCEHSA-N	37	7.0		pH 7.0, 37C, LK
+0.24	2-aminobenzoyl-GGFLRKDGQ-ethylenediamine-2,4-dinitrophenyl	18073	BJZAOHGCXOZCPC-KHVQSSSXSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFLRKXGQ-ethylenediamine-2,4-dinitrophenyl
+0.353	2-aminobenzoyl-GGFSRKVGQ-ethylenediamine-2,4-dinitrophenyl	18064	SKQZXHKKIYQTAN-BZDJNNGWSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFXRKVGQ-ethylenediamine-2,4-dinitrophenyl
+0.405	2-aminobenzoyl-GGFYKRVGQ-ethylenediamine-2,4-dinitrophenyl	18088	QRIQVIYFZVCLPY-PUALEOJWSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFYXXVGQ-ethylenediamine-2,4-dinitrophenyl
+0.41	2-aminobenzoyl-GGFVRKVGQ-ethylenediamine-2,4-dinitrophenyl	26489	OFRGRPVEYYVUAT-SECUTVSKSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFXRKVGQ-ethylenediamine-2,4-dinitrophenyl
+0.455	2-aminobenzoyl-TPLVTLX1X2NAIIKQED(2,4-dinitrophenyl)	2770	VHLRNQSBRDIFIZ-KYVJRCEHSA-N	37	7.0		pH 7.0, 37C, WK and MK
+0.498	2-aminobenzoyl-TPLVTLX1X2NAIIKQED(2,4-dinitrophenyl)	2770	VHLRNQSBRDIFIZ-KYVJRCEHSA-N	37	7.0		pH 7.0, 37C, KK
+0.628	2-aminobenzoyl-TPLVTLX1X2NAIIKQED(2,4-dinitrophenyl)	2770	VHLRNQSBRDIFIZ-KYVJRCEHSA-N	37	7.0		pH 7.0, 37C, FK
+0.693	2-aminobenzoyl-TPLVTLX1X2NAIIKQED(2,4-dinitrophenyl)	2770	VHLRNQSBRDIFIZ-KYVJRCEHSA-N	37	7.0		pH 7.0, 37C, RK
+0.705	2-aminobenzoyl-GGFWRKVGQ-ethylenediamine-2,4-dinitrophenyl	26488	ZSHFUMCRLSQORX-MLRDFDCQSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFXRKVGQ-ethylenediamine-2,4-dinitrophenyl
+0.78	2-aminobenzoyl-TPLVTLX1X2NAIIKQED(2,4-dinitrophenyl)	2770	VHLRNQSBRDIFIZ-KYVJRCEHSA-N	37	7.0		pH 7.0, 37C, YK
+0.783	somatostatin14	4904	NHXLMOGPVYXJNR-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C
+0.95	somatostatin14	4904	NHXLMOGPVYXJNR-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C, reduced somatostatin
+0.953	2-aminobenzoyl-GGNLRKVGQ-ethylenediamine-2,4-dinitrophenyl	18083	WGTJKXASGYSLCE-XOUQXPFASA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGXLRKVGQ-ethylenediamine-2,4-dinitrophenyl
+1.08	2-aminobenzoyl-GGFARKVGQ-ethylenediamine-2,4-dinitrophenyl	18063	GVAFUYQXMCBKJT-FPULMOGQSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFXRKVGQ-ethylenediamine-2,4-dinitrophenyl
+1.08	2-aminobenzoyl-GGFNRKVGQ-ethylenediamine-2,4-dinitrophenyl	26487	ZRMJNPCLKMLUEA-XSOBVZBFSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFXRKVGQ-ethylenediamine-2,4-dinitrophenyl
+1.22	2-aminobenzoyl-GGFIRKVGQ-ethylenediamine-2,4-dinitrophenyl	12694	PQFWMVUTUNXLSX-DCUCBBAXSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFXRKVGQ-ethylenediamine-2,4-dinitrophenyl
+1.23	2-aminobenzoyl-GGFIRKVGQ-ethylenediamine-2,4-dinitrophenyl	12694	PQFWMVUTUNXLSX-DCUCBBAXSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFIXXVGQ-ethylenediamine-2,4-dinitrophenyl
+1.59	2-aminobenzoyl-GGFLRKNGQ-ethylenediamine-2,4-dinitrophenyl	18072	LFUPCKHCHPAHOH-KHVQSSSXSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFLRKXGQ-ethylenediamine-2,4-dinitrophenyl
+1.74	2-aminobenzoyl-GGFLRKLGQ-ethylenediamine-2,4-dinitrophenyl	18071	INJIXPISRACYKC-JSHGGYKJSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFLRKXGQ-ethylenediamine-2,4-dinitrophenyl
+1.81	calcitonin	8985	BBBFJLBPOGFECG-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C
+1.85	2-aminobenzoyl-GGYLRKVGQ-ethylenediamine-2,4-dinitrophenyl	18082	MTOABSDSRRKVIJ-CSUXSHPNSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGXLRKVGQ-ethylenediamine-2,4-dinitrophenyl
+2.04	2-aminobenzoyl-GGFLRKAGQ-ethylenediamine-2,4-dinitrophenyl	18069	ONSVHKLRFNJABE-JVSGEHDTSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFLRKXGQ-ethylenediamine-2,4-dinitrophenyl
+2.04	2-aminobenzoyl-GGFLRKIGQ-ethylenediamine-2,4-dinitrophenyl	18070	MXOKOHINJKGAJQ-NMWSKYKHSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFLRKXGQ-ethylenediamine-2,4-dinitrophenyl
+2.16	2-aminobenzoyl-GGFLKKVGQ-ethylenediamine-2,4-dinitrophenyl	18086	FXJNXNGUHJAUKK-RVLONWIRSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFLXXVGQ-ethylenediamine-2,4-dinitrophenyl
+2.48	2-aminobenzoyl-GGFLRKVGQ-ethylenediamine-2,4-dinitrophenyl	8081	JGTMJOWQEURIGJ-CSUXSHPNSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFXRKVGQ-ethylenediamine-2,4-dinitrophenyl and hydrolysis of the peptide series 2-aminobenzoyl-GGFLRKXGQ-ethylenediamine-2,4-dinitrophenyl and hydrolysis of the peptide series 2-aminobenzoyl-GGXLRKVGQ-ethylenediamine-2,4-dinitrophenyl and hydrolysis of the peptide series 2-aminobenzoyl-GGFLXXVGQ-ethylenediamine-2,4-dinitrophenyl
+2.59	2-aminobenzoyl-GGFYRKVGQ-ethylenediamine-2,4-dinitrophenyl	12693	RBDKOVWLZWVOND-PUALEOJWSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFXRKVGQ-ethylenediamine-2,4-dinitrophenyl and hydrolysis of the peptide series 2-aminobenzoyl-GGFLXXVGQ-ethylenediamine-2,4-dinitrophenyl
+2.63	2-aminobenzoyl-GGFYRKVGQ-ethylenediamine-2,4-dinitrophenyl	12693	RBDKOVWLZWVOND-PUALEOJWSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFYXXVGQ-ethylenediamine-2,4-dinitrophenyl
+2.77	2-aminobenzoyl-GGFLRKMGQ-ethylenediamine-2,4-dinitrophenyl	18068	XLULZCZEOFXHSG-RCWIFLETSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFLRKXGQ-ethylenediamine-2,4-dinitrophenyl
+2.83	2-aminobenzoyl-GGFFRKVGQ-ethylenediamine-2,4-dinitrophenyl	26486	QGWBLTLUACCFQO-PUALEOJWSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFXRKVGQ-ethylenediamine-2,4-dinitrophenyl
+2.94	2-aminobenzoyl-GGFLRKFGQ-ethylenediamine-2,4-dinitrophenyl	18067	DIRZVMJIWLLVAX-RRXWZPBSSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFLRKXGQ-ethylenediamine-2,4-dinitrophenyl
+2.94	calcitonin	8985	BBBFJLBPOGFECG-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C
+3.24	2-aminobenzoyl-GGVLRKVGQ-ethylenediamine-2,4-dinitrophenyl	18081	UFYMPVMJRMQRRY-DZRKETKQSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGXLRKVGQ-ethylenediamine-2,4-dinitrophenyl
+3.3	2-aminobenzoyl-GGFIRRVGQ-N-(2,4-dinitrophenyl)ethylenediamine	8984	JPLYSZMOBGHDOW-CGZIBTDKSA-N	37	7.0		pH 7.0, 37C
+3.3	beta-endorphin	117734	FKKMLNBKPJXIIJ-NOSLXCIXSA-N	37	7.0		pH 7.0, 37C
+3.88	2-aminobenzoyl-GGALRKVGQ-ethylenediamine-2,4-dinitrophenyl	18080	ZGZZSJBQRUEDRL-ULINDTQNSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGXLRKVGQ-ethylenediamine-2,4-dinitrophenyl
+4.36	2-aminobenzoyl-GGHLRKVGQ-ethylenediamine-2,4-dinitrophenyl	18079	FOEFAGAUUSCQFG-BZDJNNGWSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGXLRKVGQ-ethylenediamine-2,4-dinitrophenyl
+4.65	2-aminobenzoyl-GGFLRKSGQ-ethylenediamine-2,4-dinitrophenyl	18066	KYEBLJNFXURHPV-KHVQSSSXSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFLRKXGQ-ethylenediamine-2,4-dinitrophenyl
+4.84	2-aminobenzoyl-GGILRKVGQ-ethylenediamine-2,4-dinitrophenyl	18078	DJSQKENCGJOHQV-PSQJJKAASA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGXLRKVGQ-ethylenediamine-2,4-dinitrophenyl
+4.86	2-aminobenzoyl-GGFMRKVGQ-ethylenediamine-2,4-dinitrophenyl	18062	PYOWKZRLWYIQJB-RAQCPQEGSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFXRKVGQ-ethylenediamine-2,4-dinitrophenyl
+4.95	2-aminobenzoyl-GGWLRKVGQ-ethylenediamine-2,4-dinitrophenyl	18077	MIYYLDDUFHVJBN-JXKHYTHNSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGXLRKVGQ-ethylenediamine-2,4-dinitrophenyl
+5.03	2-aminobenzoyl-GGFIRRVGQ-N-(2,4-dinitrophenyl)ethylenediamine	8984	JPLYSZMOBGHDOW-CGZIBTDKSA-N	37	7.0		pH 7.0, 37C
+5.03	beta-endorphin	117734	FKKMLNBKPJXIIJ-NOSLXCIXSA-N	37	7.0		pH 7.0, 37C
+5.61	2-aminobenzoyl-GGFLRKWGQ-ethylenediamine-2,4-dinitrophenyl	18065	FDJMAIMMDOGRMB-QXYUJABFSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFLRKXGQ-ethylenediamine-2,4-dinitrophenyl
+5.83	2-aminobenzoyl-GGLLRKVGQ-ethylenediamine-2,4-dinitrophenyl	18076	BYZOKPKTGLWBQL-BZDJNNGWSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGXLRKVGQ-ethylenediamine-2,4-dinitrophenyl
+6.08	2-aminobenzoyl-TPLVTLX1X2NAIIKQED(2,4-dinitrophenyl)	2770	VHLRNQSBRDIFIZ-KYVJRCEHSA-N	37	7.0		pH 7.0, 37C, FK; pH 7.0, 37C, FR; pH 7.0, 37C, RK; pH 7.0, 37C, YK
+6.08	somatostatin14	4904	NHXLMOGPVYXJNR-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C
+6.9	2-aminobenzoyl-GGFHRKVGQ-ethylenediamine-2,4-dinitrophenyl	26485	RWUYAZSJJGGRQY-CSUXSHPNSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFXRKVGQ-ethylenediamine-2,4-dinitrophenyl
+7.68	2-aminobenzoyl-GFSPFRSSRQED(2,4-dinitrophenyl)	11262	SDQDQWCSJOVVIT-ZTNWZYIDSA-N	37	7.0		pH 7.0, 37C
+7.84	2-aminobenzoyl-GGMLRKVGQ-ethylenediamine-2,4-dinitrophenyl	18075	DAJSPMYCBDCSJA-ZVNYPHDXSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGXLRKVGQ-ethylenediamine-2,4-dinitrophenyl
+8.53	2-aminobenzoyl-GGSLRKVGQ-ethylenediamine-2,4-dinitrophenyl	18074	BGAXNRZYUFZDSC-FBPSVDGKSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGXLRKVGQ-ethylenediamine-2,4-dinitrophenyl
+9.48	2-aminobenzoyl-MISLMKRPQED(2,4-dinitrophenyl)	11617	GYNBELLUFMZQDK-VIJQINEXSA-N	37	7.0		pH 7.0, 37C
+9.75	2-aminobenzoyl-GGFLKRVGQ-ethylenediamine-2,4-dinitrophenyl	18085	BTAFQYZAEOPEIM-CSUXSHPNSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFLXXVGQ-ethylenediamine-2,4-dinitrophenyl
+9.92	2-aminobenzoyl-GGFLRRVGQ-ethylenediamine-2,4-dinitrophenyl	18084	DMGQQHZBMVIJLG-RAQCPQEGSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFLXXVGQ-ethylenediamine-2,4-dinitrophenyl
+12.09	2-aminobenzoyl-GGFIKRVGQ-ethylenediamine-2,4-dinitrophenyl	26490	BKOQCDJHIYFGRW-DCUCBBAXSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFIXXVGQ-ethylenediamine-2,4-dinitrophenyl
+13.69	2-aminobenzoyl-GGFLRKHGQ-ethylenediamine-2,4-dinitrophenyl	1662	NVESQGSNMIQICC-JSHGGYKJSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFLRKXGQ-ethylenediamine-2,4-dinitrophenyl
+15.73	2-aminobenzoyl-GGFIRRVGQ-ethylenediamine-2,4-dinitrophenyl	8984	JPLYSZMOBGHDOW-CGZIBTDKSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFIXXVGQ-ethylenediamine-2,4-dinitrophenyl
+18.99	2-aminobenzoyl-GGFYRRVGQ-ethylenediamine-2,4-dinitrophenyl	18087	FZNIWZZRCQYGNP-JXKHYTHNSA-N		7.0		pH 7.0, hydrolysis of the peptide series 2-aminobenzoyl-GGFYXXVGQ-ethylenediamine-2,4-dinitrophenyl

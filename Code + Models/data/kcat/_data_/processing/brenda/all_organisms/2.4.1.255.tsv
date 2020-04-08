@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000073	UDP-GlcNAc	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	37			using CARM1 as cosubstrate, at 37C, pH not specified in the publication
+0.000077	UDP-GlcNAc	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	37			using calcium/calmodulin-dependent kinase IV as cosubstrate, at 37C, pH not specified in the publication
+0.00057	UDP-GlcNAc	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	37			using TAB1 as cosubstrate, at 37C, pH not specified in the publication
+0.00093	UDP-GlcNAc	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	37			using Nup62 as cosubstrate, at 37C, pH not specified in the publication
+0.0027	UDP-GlcNAc	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	22	7.2	X	mutant C917A, pH 7.2 22C
+0.008	UDP-GlcNAc	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	22	7.2		wild-type, pH 7.2 22C
+0.122	UDP-GlcNAc	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	37	7.5		isolated core enzyme GtfA, pH 7.5, 37C
+1.25	UDP-GlcNAc	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	37	7.5		GtfA-GtfB complex, pH 7.5, 37C
+1.76	UDP-GlcNAc	120	LFTYTUAZOPRMMI-CFRASDGPSA-N				
+2.48	YSDSPSTST	6434	OSDSURFECJYOEM-BACBJXSSSA-N				

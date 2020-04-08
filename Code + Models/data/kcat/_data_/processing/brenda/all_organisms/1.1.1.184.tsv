@@ -1,0 +1,190 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.21	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	35	7.5	X	mutant S67D/H68D, pH 7.5, 35C
+1.34	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	35	7.5	X	mutant V270D, pH 7.5, 35C
+1.36	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	35	7.5	X	mutant S172T, pH 7.5, 35C
+1.39	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	35	7.5	X	deletion mutant lacking 31 N-terminal amino acids, pH 7.5, 35C
+1.48	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	35	7.5		wild-type, pH 7.5, 35C
+2.67	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	6.0		pH 6.0, 25C
+3.67	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	6.0		pH 6.0, 25C
+16.3	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	7.4		pH 7.4, 37C, recombinant isozyme CBR V244
+23.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	8.4		pH 8.4, 25C
+26.7	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	7.4		pH 7.4, 37C, recombinant isozyme CBR M244
+129	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	7.5		pH 7.5, 37C
+149	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	7.4	X	mutant V88I, 37C, pH 7.4
+179	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	7.4		wild-type, 37C, pH 7.4
+870	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	6.5		pH 6.5, 30C, recombinant wild-type enzyme
+1.13	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	35	7.5	X	mutant S172T, pH 7.5, 35C
+1.22	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	35	7.5	X	mutant V270D, pH 7.5, 35C
+1.24	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	35	7.5	X	deletion mutant lacking 31 N-terminal amino acids, pH 7.5, 35C
+1.26	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	35	7.5	X	mutant S67D/H68D, pH 7.5, 35C
+1.32	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	35	7.5		wild-type, pH 7.5, 35C
+64	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant S1M1
+120	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant S1M4
+243	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	37	7.5		pH 7.5, 37C
+0.0092	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+0.011	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N				wild-type
+0.01217	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N			X	mutant P230W
+0.04167	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N			X	mutant W230P
+0.0483	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N				wild-type
+0.15	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C
+0.19	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N			X	single nucleotide polymorphism V88I mutation
+0.27	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+0.28	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	25	7.4		after treatment with S-nitrosoglutathione, pH 7.4, 25C
+0.3	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N				wild-type
+0.32	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	37	7.4		enzyme modified by S-nitrosoglutathione, pH 7.4, 37C
+0.33	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N			X	single nucleotide polymorphism P131S mutation
+0.51	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N		6.0		pH 6.0
+0.68	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	25	7.4		wild-type, pH 7.4, 25C; wild-type, pH 7.4, 37C
+1.12	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	37	7.4	X	mutant D218V, pH 7.4, 37C
+4.17	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C
+8.48	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	37	7.4		wild-type, pH 7.4, 37C
+9.9	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, recombinant isozyme CBR V244
+20.5	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, recombinant isozyme CBR M244
+85	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	37	7.4	X	mutant V88I, 37C, pH 7.4
+110	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	37	7.4		wild-type, 37C, pH 7.4
+246	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+0.6	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N	25	6.5		pH 6.5, 25C
+39.3	Phenylglyoxal	258	OJUGVDODNPJEEC-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+23.8	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+0.18	acetone	286	CSCPPACGZOOCGX-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+1.27	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	50	6.0		pH 6.0, 50C
+2.33	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+3.57	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	25	7.4		wild-type, pH 7.4, 25C; wild-type, pH 7.4, 37C
+5.25	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N		7.4		wild-type, pH 7.4, temperature not specified in the publication
+6.7	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	25	7.4		after treatment with S-nitrosoglutathione, pH 7.4, 25C
+9.77	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	37	7.4		enzyme modified by S-nitrosoglutathione, pH 7.4, 37C
+20	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N		6.0		pH 6.0
+36.2	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N		7.4	X	mutant C227S, pH 7.4, temperature not specified in the publication
+0.45	estrone	503	DNXHEGUUPJUMQT-CBZIJGRNSA-N	25	6.5		pH 6.5, 25C
+243	2-propanol	551	KFZMGEQAYNKOFK-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+609	diacetyl	603	QSJXEFYPDANLFS-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+0.0098	4-Nitrobenzaldehyde	612	BXRFQSNOROATLV-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+0.0283	4-Nitrobenzaldehyde	612	BXRFQSNOROATLV-UHFFFAOYSA-N	25	6.5		at 100 mM sodium phosphate buffer, pH 6.5, 0.065 mM NADPH, 25C
+0.3	4-Nitrobenzaldehyde	612	BXRFQSNOROATLV-UHFFFAOYSA-N	25	6.5		at 100 mM sodium phosphate buffer, pH 6.5, 0.065 mM NADPH, 25C
+1.087	4-Nitrobenzaldehyde	612	BXRFQSNOROATLV-UHFFFAOYSA-N	25	6.5		at 100 mM sodium phosphate buffer, pH 6.5, 0.065 mM NADPH, 25C
+3.48	4-Nitrobenzaldehyde	612	BXRFQSNOROATLV-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+0.08	all-trans-retinal	626	NCYCYZXNIZJOKI-OVSJKPMPSA-N		7.4		pH 7.4
+0.17	isatin	646	JXDYKVIHCLTXOP-UHFFFAOYSA-N	25	7.4		wild-type, pH 7.4, 25C; wild-type, pH 7.4, 37C
+0.3	isatin	646	JXDYKVIHCLTXOP-UHFFFAOYSA-N	37	7.4		enzyme modified by S-nitrosoglutathione, pH 7.4, 37C
+0.5167	isatin	646	JXDYKVIHCLTXOP-UHFFFAOYSA-N	25	6.5		at 100 mM sodium phosphate buffer, pH 6.5, 0.065 mM NADPH, 25C
+0.583	isatin	646	JXDYKVIHCLTXOP-UHFFFAOYSA-N	25	6.5		at 100 mM sodium phosphate buffer, pH 6.5, 0.065 mM NADPH, 25C
+1.225	isatin	646	JXDYKVIHCLTXOP-UHFFFAOYSA-N	25	6.5		at 100 mM sodium phosphate buffer, pH 6.5, 0.065 mM NADPH, 25C
+2.55	isatin	646	JXDYKVIHCLTXOP-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+6.3	isatin	646	JXDYKVIHCLTXOP-UHFFFAOYSA-N		7.4		pH 7.4
+9.77	isatin	646	JXDYKVIHCLTXOP-UHFFFAOYSA-N	25	7.4		after treatment with S-nitrosoglutathione, pH 7.4, 25C
+14	isatin	646	JXDYKVIHCLTXOP-UHFFFAOYSA-N		6.0		pH 6.0
+0.0103	doxorubicin	662	AOJJSUZBOXZQNB-TZSSRYMLSA-N				
+0.15	doxorubicin	662	AOJJSUZBOXZQNB-TZSSRYMLSA-N			X	single nucleotide polymorphism V88I mutation
+0.18	doxorubicin	662	AOJJSUZBOXZQNB-TZSSRYMLSA-N			X	single nucleotide polymorphism P131S mutation
+0.21	doxorubicin	662	AOJJSUZBOXZQNB-TZSSRYMLSA-N				wild-type
+0.01	all-trans-retinol	671	FPIPGXGPPPQFEQ-OVSJKPMPSA-N		7.4		pH 7.4
+5	Cyclohexanol	688	HPXRVTGHNJAIIH-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+0.68	prostaglandin E2	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	25	6.5		pH 6.5, 25C
+18	prostaglandin E2	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	37	7.4	X	mutant V88I, 37C, pH 7.4
+25	prostaglandin E2	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	37	7.4		wild-type, 37C, pH 7.4
+2.02	S-nitrosoglutathione	753	HYHSBSXUHZOYLX-WDSKDSINSA-N		7.4	X	mutant C227S, pH 7.4, temperature not specified in the publication
+2.62	S-nitrosoglutathione	753	HYHSBSXUHZOYLX-WDSKDSINSA-N		7.4		wild-type, pH 7.4, temperature not specified in the publication
+5.05	S-nitrosoglutathione	753	HYHSBSXUHZOYLX-WDSKDSINSA-N		7.4	X	mutant D236A/K238P/D239K/S240A/I241T/R242K/T243S/V244P, pH 7.4, temperature not specified in the publication
+10.83	S-nitrosoglutathione	753	HYHSBSXUHZOYLX-WDSKDSINSA-N		7.4	X	mutant P230W/D236A/K238P/D239K/S240A/I241T/R242K/T243S/V244PpH 7.4, temperature not specified in the publication
+20.45	S-nitrosoglutathione	753	HYHSBSXUHZOYLX-WDSKDSINSA-N		7.4	X	mutant Q142M/C143S/P230W/D236A/K238P/D239K/S240A/I241T/R242K/T243S/V244P/H270S, pH 7.4, temperature not specified in the publication
+0.25	1,4-Naphthoquinone	823	FRASJONUBLZVQX-UHFFFAOYSA-N	25	7.4		after treatment with S-nitrosoglutathione, pH 7.4, 25C
+0.28	1,4-Naphthoquinone	823	FRASJONUBLZVQX-UHFFFAOYSA-N	37	7.4		enzyme modified by S-nitrosoglutathione, pH 7.4, 37C
+0.55	1,4-Naphthoquinone	823	FRASJONUBLZVQX-UHFFFAOYSA-N	25	7.4		wild-type, pH 7.4, 25C; wild-type, pH 7.4, 37C
+149	2-butanol	857	BTANRVKWQNVYAZ-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+86	2-butanone	885	ZWEHNKRNPOVVGH-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+183	acetoin	967	ROWKJAVDOGWPAT-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+86	cyclohexanone	987	JHIVVAPYMSGYDF-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+1.13	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N	35	5.0	X	mutant S172T, with NADH as cofactor, at 35C in 100 mM acetate buffer (pH 5.0)
+1.21	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N			X	mutant S67D/H68D, NADPH as cofactor
+1.21	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N	35	5.0	X	mutant S67D/H68D, with NADPH as cofactor, at 35C in 100 mM acetate buffer (pH 5.0)
+1.22	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N	35	5.0	X	mutant V270D, with NADH as cofactor, at 35C in 100 mM acetate buffer (pH 5.0)
+1.24	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N	35	5.0	X	mutant DELTA31, with NADH as cofactor, at 35C in 100 mM acetate buffer (pH 5.0)
+1.26	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N			X	mutant S67D/H68D, NADH as cofactor
+1.26	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N	35	5.0	X	mutant S67D/H68D, with NADH as cofactor, at 35C in 100 mM acetate buffer (pH 5.0)
+1.32	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N				wild-type, NADH as cofactor
+1.32	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N	35	5.0		wild-type, with NADH as cofactor, at 35C in 100 mM acetate buffer (pH 5.0)
+1.34	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N	35	5.0	X	mutant V270D, with NADPH as cofactor, at 35C in 100 mM acetate buffer (pH 5.0)
+1.36	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N	35	5.0	X	mutant S172T, with NADPH as cofactor, at 35C in 100 mM acetate buffer (pH 5.0)
+1.39	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N	35	5.0	X	mutant DELTA31, with NADPH as cofactor, at 35C in 100 mM acetate buffer (pH 5.0)
+1.48	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N				wild-type, NADPH as cofactor
+1.48	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N	35	5.0		wild-type, with NADPH as cofactor, at 35C in 100 mM acetate buffer (pH 5.0)
+1.72	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N			X	mutant H68D/P69D, NADPH as cofactor
+1.95	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N			X	mutant H68D, NADPH as cofactor
+2.23	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N			X	mutant P69D, NADPH as cofactor
+2.32	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N			X	mutant S67D/P69D, NADPH as cofactor
+2.35	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N			X	mutant S67D, NADPH as cofactor
+6.37	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N			X	mutant H68D/P69D, NADH as cofactor
+6.54	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N			X	mutant P69D, NADH as cofactor
+6.58	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N			X	mutant H68D, NADH as cofactor
+6.63	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N			X	mutant S67D, NADH as cofactor
+6.76	2-hydroxyacetophenone	1030	ZWVHTXAYIKBMEE-UHFFFAOYSA-N			X	mutant S67D/P69D, NADH as cofactor
+0.48	daunorubicin	1156	STQGQHZAVUOBTE-VGBVRHCVSA-N	37	7.4		enzyme modified by S-nitrosoglutathione, pH 7.4, 37C
+1.12	daunorubicin	1156	STQGQHZAVUOBTE-VGBVRHCVSA-N	37	7.4	X	mutant D218V, pH 7.4, 37C
+1.19	daunorubicin	1156	STQGQHZAVUOBTE-VGBVRHCVSA-N			X	single nucleotide polymorphism V88I mutation
+1.27	daunorubicin	1156	STQGQHZAVUOBTE-VGBVRHCVSA-N	37	7.4		wild-type, pH 7.4, 37C
+1.94	daunorubicin	1156	STQGQHZAVUOBTE-VGBVRHCVSA-N				wild-type
+2.02	daunorubicin	1156	STQGQHZAVUOBTE-VGBVRHCVSA-N			X	single nucleotide polymorphism P131S mutation
+3.52	daunorubicin	1156	STQGQHZAVUOBTE-VGBVRHCVSA-N	37	7.4		wild-type, pH 7.4, 37C
+61	daunorubicin	1156	STQGQHZAVUOBTE-VGBVRHCVSA-N	37	7.4	X	mutant V88I, 37C, pH 7.4
+91	daunorubicin	1156	STQGQHZAVUOBTE-VGBVRHCVSA-N	37	7.4		wild-type, 37C, pH 7.4
+0.009167	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N			X	mutant P230W
+0.0103	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N				wild-type
+0.012	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+0.053	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N	25	6.5		at 100 mM sodium phosphate buffer, pH 6.5, 0.065 mM NADPH, 25C
+0.063	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N				wild-type
+0.065	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N			X	mutant W230P
+0.183	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N			X	mutant W230P
+0.23	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N				wild-type
+0.25	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N	37	7.4		enzyme modified by S-nitrosoglutathione, pH 7.4, 37C
+0.3	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N	25	7.4		after treatment with S-nitrosoglutathione, pH 7.4, 25C
+1.03	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N	25	6.5		at 100 mM sodium phosphate buffer, pH 6.5, 0.065 mM NADPH, 25C
+1.2	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N	25	7.4		wild-type, pH 7.4, 25C; wild-type, pH 7.4, 37C
+1.967	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N	25	6.5		at 100 mM sodium phosphate buffer, pH 6.5, 0.065 mM NADPH, 25C
+17	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N		6.0		pH 6.0
+3.47	1,2-naphthoquinone	1415	KETQAJRQOHHATG-UHFFFAOYSA-N	25	7.4		wild-type, pH 7.4, 25C; wild-type, pH 7.4, 37C
+6.7	1,2-naphthoquinone	1415	KETQAJRQOHHATG-UHFFFAOYSA-N	25	7.4		after treatment with S-nitrosoglutathione, pH 7.4, 25C; enzyme modified by S-nitrosoglutathione, pH 7.4, 37C
+18	2-Pentanone	1419	XNLICIUVMPYHGG-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+10.7	2,3-Pentanedione	1458	TZMFJUDUGYTVRY-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+23	2,3-Pentanedione	1458	TZMFJUDUGYTVRY-UHFFFAOYSA-N		6.0		pH 6.0
+36.7	2,3-Pentanedione	1458	TZMFJUDUGYTVRY-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+123	(S)-2-butanol	1476	BTANRVKWQNVYAZ-BYPYZUCNSA-N	37	7.5		pH 7.5, 37C
+26	2,3-Butanediol	1484	OWBTYPJTUOEWEK-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+177	(R)-2-butanol	1685	BTANRVKWQNVYAZ-SCSAIBSYSA-N	37	7.5		pH 7.5, 37C
+5	2-Pentanol	1710	JYVLIDXNZAXMDK-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+80	Cyclopentanone	1815	BGTOWKSIORTVQH-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+106	Cyclopentanol	1977	XCIXKGXIYUWCLL-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+0.07	9-cis-retinal	2078	NCYCYZXNIZJOKI-MKOSUFFBSA-N		7.4		pH 7.4
+0.32	2,3-Hexanedione	2352	MWVFCEVNXHTDNF-UHFFFAOYSA-N	25	7.4		after treatment with S-nitrosoglutathione, pH 7.4, 25C
+1.52	2,3-Hexanedione	2352	MWVFCEVNXHTDNF-UHFFFAOYSA-N	37	7.4		enzyme modified by S-nitrosoglutathione, pH 7.4, 37C
+5.13	2,3-Hexanedione	2352	MWVFCEVNXHTDNF-UHFFFAOYSA-N	25	7.4		wild-type, pH 7.4, 25C; wild-type, pH 7.4, 37C
+24	2,3-Hexanedione	2352	MWVFCEVNXHTDNF-UHFFFAOYSA-N		6.0		pH 6.0
+1.05	ethyl 4-chloro-3-oxobutanoate	2619	OHLRLMWUFVDREV-UHFFFAOYSA-N	50	6.0		pH 6.0, 50C
+16.4	2,2,2-trifluoroacetophenone	2940	KZJRKRQSDZGHEC-UHFFFAOYSA-N	70	9.0		pH 9.0, 70C, recombinant enzyme
+23	2,3-heptanedione	3213	FJPGAMCQJNLTJC-UHFFFAOYSA-N		6.0		pH 6.0
+129	propanone	286	CSCPPACGZOOCGX-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+12.5	ethyl 2-methylacetoacetate	3899	FNENWZWNOPCZGK-UHFFFAOYSA-N	70	9.0		pH 9.0, 70C, recombinant enzyme
+6	Cycloheptanone	4057	CGZZMOTZOONQIA-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+13	acenaphthenequinone	4383	AFPRJLBZLPBTPZ-UHFFFAOYSA-N		6.0		pH 6.0
+6.8	16-ketoestrone	4977	ANPHVANSJXDRTP-BSXFFOKHSA-N		7.4		pH 7.4
+20	16-ketoestrone	4977	ANPHVANSJXDRTP-BSXFFOKHSA-N		6.0		pH 6.0
+220	4-oxonon-2-enal	5090	SEPPVOUBHWNCAW-FNORWQNLSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+11	valerophenone	5093	XKGLSKVNOSHTAD-UHFFFAOYSA-N		6.0		pH 6.0
+25	hexanophenone	5743	MAHPVQDVMLWUAG-UHFFFAOYSA-N		6.0		pH 6.0
+15	n-butyrophenone	5062	FFSAXUULYPJSKH-UHFFFAOYSA-N		6.0		pH 6.0
+17	4-hexanoylpyridine	6551	ZDGPOJYWTVDMDU-UHFFFAOYSA-N		6.0		pH 6.0
+2.5	methyl glyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N	25	6.0		pH 6.0, 25C
+4	methyl glyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N	25	6.0		pH 6.0, 25C
+8.6	glutathione-4-oxonon-2-enal	7735	XMOLEWOFKNFWHC-GQCTYLIASA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+10	heptanophenone	9040	UXMQORVHJMUQFD-UHFFFAOYSA-N		6.0		pH 6.0
+17	1-phenylisatin	9041	UWCPWBIMRYXUOU-UHFFFAOYSA-N		6.0		pH 6.0
+0.38	oracin	11828	LRHPCRBOMKRVOA-UHFFFAOYSA-N	37	7.4		enzyme modified by S-nitrosoglutathione, pH 7.4, 37C
+1.67	oracin	11828	LRHPCRBOMKRVOA-UHFFFAOYSA-N	37	7.4		wild-type, pH 7.4, 37C
+0.00027	1-(3-methyl-1,4-dioxidoquinoxalin-2-yl)ethanone	13091	CUJMCPPBTUATEJ-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C
+0.00062	1-(3-methyl-1,4-dioxidoquinoxalin-2-yl)ethanone	13091	CUJMCPPBTUATEJ-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C
+2.72	1-(3-methyl-4-oxidoquinoxalin-2-yl)ethanone	13092	KKJLJOBEYXZTCY-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C
+2.89	1-(3-methyl-4-oxidoquinoxalin-2-yl)ethanone	13092	KKJLJOBEYXZTCY-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C
+32	benzoylformic acid ethyl ester	3721	QKLCQKPAECHXCQ-UHFFFAOYSA-N		6.0		pH 6.0
+3.5	S-1-phenyl-1-butanol	25415	HQRWWHIETAKIMO-JTQLQIEISA-N		7.4		pH 7.4
+11.2	ethyl 2-oxo-4-phenylbutyrate	28373	STPXIOGYOLJXMZ-UHFFFAOYSA-N	70	9.0		pH 9.0, 70C, recombinant enzyme
+2.5	p-toluquinone	2605	VTWDKFNVVLAELH-UHFFFAOYSA-N	50	6.0		pH 6.0, 50C
+3.28	p-toluquinone	2605	VTWDKFNVVLAELH-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C

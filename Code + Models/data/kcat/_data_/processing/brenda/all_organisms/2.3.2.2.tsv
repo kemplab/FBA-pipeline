@@ -1,0 +1,31 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+11	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	8.0		37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT A
+12	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	8.0		37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT B
+31	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	8.0		37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT I
+32	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	37	8.0		37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT II
+23	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	37	8.0		37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT A
+27	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	37	8.0		37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT I
+30	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	37	8.0		37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT B
+32	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	37	8.0		37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT II
+0.105	5-L-glutamyl-4-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N				
+0.49	5-L-glutamyl-4-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	37	9.0	X	mutant S463T, pH 9.0, 37C
+0.62	5-L-glutamyl-4-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	37	9.0		wild-type, pH 9.0, 37C
+1.42	5-L-glutamyl-4-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	40	8.0	X	mutant T399S, pH 8.0, 40C
+15	5-L-glutamyl-4-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	37	8.0		37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT I
+16	5-L-glutamyl-4-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	37	8.0		37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT II
+24.24	5-L-glutamyl-4-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	40	8.0	X	mutant T417S, pH 8.0, 40C
+38	5-L-glutamyl-4-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	37	8.0		37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT B
+39	5-L-glutamyl-4-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	37	8.0		37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT A
+43.33	5-L-glutamyl-4-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N				wild-type enzyme
+56.33	5-L-glutamyl-4-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N			X	mutant enzyme D445A
+97	5-L-glutamyl-4-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	40	8.0		in 1 mM MgCl2, 50 mM Tris-HCl buffer (pH 8.0), at 40C
+109.5	5-L-glutamyl-4-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	40	8.0		wild-type, pH 8.0, 40C
+13	gamma-Glu-Cys	912	RITKHVBHSGLULN-WHFBIAKZSA-N	37	8.0		37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT A; 37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT B
+30	gamma-Glu-Cys	912	RITKHVBHSGLULN-WHFBIAKZSA-N	37	8.0		37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT I
+31	gamma-Glu-Cys	912	RITKHVBHSGLULN-WHFBIAKZSA-N	37	8.0		37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT II
+1150	4-nitroanilide	93	TYMLOMAKGOJONV-UHFFFAOYSA-N				
+1250	4-nitroanilide	93	TYMLOMAKGOJONV-UHFFFAOYSA-N				
+20	GS-bimane	5827	KPJNKLWIESQKCG-STQMWFEESA-N	37	8.0		37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT B
+21	GS-bimane	5827	KPJNKLWIESQKCG-STQMWFEESA-N	37	8.0		37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT A
+33	GS-bimane	5827	KPJNKLWIESQKCG-STQMWFEESA-N	37	8.0		37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT I
+40	GS-bimane	5827	KPJNKLWIESQKCG-STQMWFEESA-N	37	8.0		37C, pH 8.0, cosubstrate: Gly-Gly, enzyme form GGT II

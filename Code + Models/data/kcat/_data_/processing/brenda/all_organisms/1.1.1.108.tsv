@@ -1,0 +1,34 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.001	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O		9.5	X	mutant enzyme F234A, at pH 9.5, temperature not specified in the publication; mutant enzyme R200A, at pH 9.5, temperature not specified in the publication; mutant enzyme S120A, at pH 9.5, temperature not specified in the publication
+0.002	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O	30	9.5	X	mutant enzyme F143G, at pH 9.5 and 30C
+0.003	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O		9.5	X	mutant enzyme Y147A, at pH 9.5, temperature not specified in the publication
+0.003	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O	30	9.5	X	mutant enzyme Y140S, at pH 9.5 and 30C
+0.006	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O	30	9.5	X	mutant enzyme F143S, at pH 9.5 and 30C
+0.007	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O		9.5	X	mutant enzyme Y147A, at pH 9.5, temperature not specified in the publication
+0.007	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O	30	9.5	X	mutant enzyme F143A, at pH 9.5 and 30C
+0.008	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O		9.5	X	mutant enzyme W228A, at pH 9.5, temperature not specified in the publication
+0.009	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O		9.5	X	mutant enzyme F189A, at pH 9.5, temperature not specified in the publication
+0.01	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O		9.5	X	mutant enzyme M231A, at pH 9.5, temperature not specified in the publication
+0.01	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O	140	9.5	X	mutant enzyme Y140C, at pH 9.5 and 30C
+0.013	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O		9.5	X	mutant enzyme Y237A, at pH 9.5, temperature not specified in the publication
+0.016	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O		9.5	X	mutant enzyme R297A, at pH 9.5, temperature not specified in the publication
+0.016	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O	30	9.5	X	mutant enzyme F143K, at pH 9.5 and 30C
+0.017	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O	30	9.5	X	mutant enzyme F143N, at pH 9.5 and 30C
+0.019	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O		9.5	X	mutant enzyme S117A, at pH 9.5, temperature not specified in the publication
+0.039	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O	30	9.5	X	mutant enzyme F143H, at pH 9.5 and 30C
+0.044	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O		9.5	X	mutant enzyme M246A, at pH 9.5, temperature not specified in the publication
+0.05	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O	30	9.5	X	mutant enzyme F143Y, at pH 9.5 and 30C
+0.051	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O	143	9.5	X	mutant enzyme F143C, at pH 9.5 and 30C
+0.068	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O		9.5	X	mutant enzyme T262A, at pH 9.5, temperature not specified in the publication
+0.079	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O		9.5	X	mutant enzyme N144A, at pH 9.5, temperature not specified in the publication
+0.157	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O		9.5	X	mutant enzyme Q252A, at pH 9.5, temperature not specified in the publication
+0.22	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O		9.5	X	mutant enzyme E185A, at pH 9.5, temperature not specified in the publication
+0.236	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O	30	9.5	X	mutant enzyme Y140W, at pH 9.5 and 30C
+0.37	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O	30	9.5	X	mutant enzyme G233S/A224F, at pH 9.5 and 30C; mutant enzyme I190V/A191G, at pH 9.5 and 30C
+1.19	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O	30	9.5	X	mutant enzyme G188A, at pH 9.5 and 30C
+1.279	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O		9.5		wild type enzyme, at pH 9.5, temperature not specified in the publication
+1.97	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O	30	9.5		wild type enzyme, at pH 9.5 and 30C
+6.03	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O	30	9.5	X	mutant enzyme A185G, at pH 9.5 and 30C
+9.796	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O	30	9.5	X	mutant enzyme Y140F, at pH 9.5 and 30C
+11.36	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O	30	9.5	X	mutant enzyme S220G/F221A, at pH 9.5 and 30C
+11.77	carnitine	757	PHIQHXFUZVPYII-UHFFFAOYSA-O	30	9.5		wild type enzyme, at pH 9.5 and 30C

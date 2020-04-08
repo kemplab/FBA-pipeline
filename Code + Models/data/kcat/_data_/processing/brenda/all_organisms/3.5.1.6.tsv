@@ -1,0 +1,35 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.15	N-acetyl-L-methionine	881	XUYPXLNMDZIRQH-LURJTMIESA-N	30	8.0		pH 8.0, 30C
+0.005	N-Carbamoyl-beta-alanine	1361	JSJWCHRYRHKBBW-UHFFFAOYSA-N			X	mutant enzyme E159A; mutant enzyme E159D
+0.0077	N-Carbamoyl-beta-alanine	1361	JSJWCHRYRHKBBW-UHFFFAOYSA-N			X	mutant enzyme R322A
+0.38	N-Carbamoyl-beta-alanine	1361	JSJWCHRYRHKBBW-UHFFFAOYSA-N			X	mutant enzyme H397N
+0.47	N-Carbamoyl-beta-alanine	1361	JSJWCHRYRHKBBW-UHFFFAOYSA-N			X	mutant enzyme H262A
+0.6	N-Carbamoyl-beta-alanine	1361	JSJWCHRYRHKBBW-UHFFFAOYSA-N				
+5.3	N-Carbamoyl-beta-alanine	1361	JSJWCHRYRHKBBW-UHFFFAOYSA-N				wild-type enzyme
+25.71	N-Carbamoyl-beta-alanine	1361	JSJWCHRYRHKBBW-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+0.89	N-acetyl-L-alanine	2128	KTHDTJVBEPMMGL-VKHMYHEASA-N	30	8.0		pH 8.0, 30C
+8.64	N-carbamoyl-L-methionine	2892	DEWDMTSMCKXBNP-BYPYZUCNSA-N	30	8.0		pH 8.0, 30C
+23.03	N-formyl-L-methionine	3347	PYUSHNKNPOHWEZ-YFKPBYRVSA-N	30	8.0		pH 8.0, 30C
+6.27	N-carbamoyl-L-alanine	5635	LUSWEUMSEVLFEQ-REOHCLBHSA-N	30	8.0		pH 8.0, 30C
+5.81	N-carbamoyl-L-phenylalanine	6393	IPWQOZCSQLTKOI-QMMMGPOBSA-N	30	8.0		pH 8.0, 30C
+3.93	N-Acetyl-beta-alanine	7214	LJLLAWRMBZNPMO-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+21.88	N-Carbamoyl-glycine	7219	KZVRXPPUJQRGFN-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+0.08	N-carbamoyl-L-ornithine	730	RHGKLRLOHDJJDR-BYPYZUCNSA-N	30	8.0		pH 8.0, 30C
+25.71	3-ureidopropionic acid	1361	JSJWCHRYRHKBBW-UHFFFAOYSA-N				
+24.39	2-methyl-3-ureidopropionic acid	5595	PHENTZNALBMCQD-UHFFFAOYSA-N				
+5.84	2-ureidoethanesulfonic acid	26494	LEUTZZGRQWHOFW-UHFFFAOYSA-N				
+0.23	2-ureidoethane phosphonic acid	26495	UYRSJDHZOKXTTQ-UHFFFAOYSA-N				
+0.15	2-amino-3-ureidopropionic acid	7122	GZYFIMLSHBLMKF-UHFFFAOYSA-N				
+0.13	2-phenyl-3-ureidopropionic acid	26496	DVDCALZTEDGANJ-UHFFFAOYSA-N				
+0.2	3-methyl-3-ureidopropionic acid	26497	KEKWHWDFMALYBU-UHFFFAOYSA-N				
+0.21	N-carbamoyl-beta-homoalanine	26497	KEKWHWDFMALYBU-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+0.15	N-carbamoyl-alpha-amino-beta-alanine	7122	GZYFIMLSHBLMKF-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+24.39	N-carbamoyl-alpha-methyl-beta-alanine	5595	PHENTZNALBMCQD-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+0.13	N-carbamoyl-alpha-phenyl-beta-alanine	26496	DVDCALZTEDGANJ-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+5.84	N-carbamoyl-taurine	26494	LEUTZZGRQWHOFW-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+0.23	N-carbamoyl-ciliatine	26495	UYRSJDHZOKXTTQ-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+24.03	N-carbamoyl-GABA	21478	QYTWIMMLQKHPGL-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+1.95	N-carbamoyl-gamma-amino-beta-hydroxybutyric acid	118728	HZDRBMXYANUGAQ-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+4.27	N-carbamoyl-homoisoserine	118729	HJWPXHFCIJZIHQ-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+2.28	N-carbamoyl-5-aminopentanoate	118730	JKFZKHRPJOYSAM-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+0.01	N-carbamoyl-D-ornithine	26530	RHGKLRLOHDJJDR-SCSAIBSYSA-N	30	8.0		pH 8.0, 30C

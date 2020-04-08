@@ -1,0 +1,19 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.12	NH3	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	37	8.0		NH3-dependent p-aminobenzoate production in the absence of glutamine (assay contains 4-amino-4-desoxychorismate lyase), pH 8.0, 37C
+0.013	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	25	8.0		pH 8.0, 25C
+0.22	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	8.0		p-aminobenzoate or pyruvate production in the presence of glutamine (assay contains 4-amino-4-desoxychorismate lyase), pH 8.0, 37C
+0.23	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	8.0		glutamate production in the absence of chorismate, pH 8.0, 37C
+0.6	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	25	8.0	X	mutant K213A/Q147K amidotransferase activity, pH 8.0, 25C
+0.67	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	25	8.0		wild type amidotransferase activity, pH 8.0, 25C
+0.79	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	8.0		glutamate production in the presence of chorismate, pH 8.0, 37C
+0.000098	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	25	8.5	X	mutant K274R, cosubstrate NH4+, pH 8.5, 25C
+0.00083	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	25	8.5	X	mutant K274R, cosubstrate L-glutamine, pH 8.5, 25C
+0.002	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	25	8.5	X	mutant K274A, cosubstrate L-glutamine, pH 8.5, 25C
+0.007	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	25	8.0		PabB, addition of Escherichia coli PabA enhances the reaction rate 20fold in the absence of glutamine, pH 8.0, 25C
+0.017	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	25	8.0		pH 8.0, 25C
+0.026	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	25	8.5	X	mutant K274A, cosubstrate NH4+, pH 8.5, 25C
+0.032	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	25	8.5		wild-type, cosubstrate NH4+, pH 8.5, 25C
+0.16	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	25	7.0		cosubstrate NH3, pH 7.0, 25C
+0.53	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	25	8.5		wild-type, cosubstrate L-glutamine, pH 8.5, 25C
+2.2	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	25	7.0		cosubstrate L-glutamine, pH 7.0, 25C
+0.02	2-amino-2-deoxychorismate	87911	GGCPIKCAFSGNKM-UHFFFAOYSA-N	25	8.0		PabB, second half of the reaction, pH 8.0, 25C

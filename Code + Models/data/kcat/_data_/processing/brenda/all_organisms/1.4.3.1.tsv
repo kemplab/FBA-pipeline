@@ -1,0 +1,36 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+30	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N				apparent value, using D-glutamate as substrate
+172	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N				apparent value, using D-aspartate as substrate
+635	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N				apparent value, using N-methyl-D-aspartate as substrate
+1.62	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				pH and temperature not specified in the publication
+2	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	37	7.5		37C, pH 7.5
+2.11	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	37	8.3		37C, pH 8.3, F18E3.7a gene product; recombinant F18Ep protein, in 40 mM sodium diphosphate buffer (pH 8.3), at 37C
+5.31	D-glutamate	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	37	8.3		37C, pH 8.3, C47A10.5 gene product; recombinant C47Ap protein, in 40 mM sodium diphosphate buffer (pH 8.3), at 37C
+0.183	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	4	7.4		50 mM potassium phosphate buffer, 0.3 mM EDTA, pH 7.4, 4C
+0.183	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N				
+0.725	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	25	7.4		50 mM potassium phosphate buffer, 0.3 mM EDTA, pH 7.4, 25C
+3.07	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	37	8.3		37C, pH 8.3, F18E3.7a gene product
+3.13	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	37	8.3		37C, pH 8.3, C47A10.5 gene product
+27.9	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N				pH and temperature not specified in the publication
+82.6	D-Aspartate	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	37	7.5		37C, pH 7.5
+0.76	D-Glu	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	37	8.3		pH 8.3, 37C, recombinant DDO-3
+3.01	D-Glu	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	37	8.3		pH 8.3, 37C, recombinant DDO-2
+35.4	D-Glu	293	WHUUTDBJXJRKMK-GSVOUGTGSA-N	37	8.3		pH 8.3, 37C, recombinant DDO-1
+1.3	D-Asp	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	20	7.0	X	pH 7.0, 20C, recombinant mutant R243E
+1.4	D-Asp	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	20	7.0	X	pH 7.0, 20C, recombinant mutant R243K
+2.51	D-Asp	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	37	8.3		pH 8.3, 37C, recombinant DDO-3
+9.49	D-Asp	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	37	8.3		pH 8.3, 37C, recombinant DDO-2
+26.1	D-Asp	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	37	8.3		pH 8.3, 37C, recombinant DDO-1
+62.6	D-Asp	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	20	7.0	X	pH 7.0, 20C, recombinant mutant R243M
+74.5	D-Asp	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	20	7.0		pH 7.0, 20C, recombinant wild-type enzyme
+121	D-Asp	517	CKLJMWTZIZZHCS-UWTATZPHSA-N	20	7.0	X	pH 7.0, 20C, recombinant mutant R243D
+3.07	D-asparagine	1619	DCXYFEDJOCDNAF-UWTATZPHSA-N	37	8.3		recombinant F18Ep protein, in 40 mM sodium diphosphate buffer (pH 8.3), at 37C
+4.29	D-asparagine	1619	DCXYFEDJOCDNAF-UWTATZPHSA-N	37	8.3		recombinant C47Ap protein, in 40 mM sodium diphosphate buffer (pH 8.3), at 37C
+3	N-Methyl-D-aspartate	1937	HOKKHZGPKSLGJE-GSVOUGTGSA-N	37	8.3		37C, pH 8.3, F18E3.7a gene product
+6.13	N-Methyl-D-aspartate	1937	HOKKHZGPKSLGJE-GSVOUGTGSA-N	37	8.3		37C, pH 8.3, C47A10.5 gene product
+38.1	N-Methyl-D-aspartate	1937	HOKKHZGPKSLGJE-GSVOUGTGSA-N	37	7.5		37C, pH 7.5
+1.52	N-methyl-D-Asp	1937	HOKKHZGPKSLGJE-GSVOUGTGSA-N	37	8.3		pH 8.3, 37C, recombinant DDO-3
+6.04	N-methyl-D-Asp	1937	HOKKHZGPKSLGJE-GSVOUGTGSA-N	37	8.3		pH 8.3, 37C, recombinant DDO-2
+84.5	N-methyl-D-Asp	1937	HOKKHZGPKSLGJE-GSVOUGTGSA-N	37	8.3		pH 8.3, 37C, recombinant DDO-1
+3	N-methyl-D-asparagine	9571	LNSMPSPTFDIWRQ-GSVOUGTGSA-N	37	8.3		recombinant F18Ep protein, in 40 mM sodium diphosphate buffer (pH 8.3), at 37C
+6.13	N-methyl-D-asparagine	9571	LNSMPSPTFDIWRQ-GSVOUGTGSA-N	37	8.3		recombinant C47Ap protein, in 40 mM sodium diphosphate buffer (pH 8.3), at 37C

@@ -1,0 +1,23 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0015	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N				enzyme form SULT2A1, 4'-sulfate formation
+0.0062	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N				enzyme form SULT2A1, 7-sulfate formation
+0.013	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N				enzyme form SULT1A1, 4'-sulfate formation
+0.024	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N				enzyme form SULT1A3, 4'-sulfate formation
+0.11	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N				enzyme form SULT1A1, 7-sulfate formation
+0.12	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N				enzyme form SULT1E1, 7-sulfate formation
+0.124	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N				enzyme form SULT1E1, 4'-sulfate formation
+0.00033	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N				enzyme form SULT2A1, 4'-sulfate formation
+0.0035	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N				enzyme form SULT2A1, 7-sulfate formation
+0.005	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N				enzyme form SULT1A3, 4'-sulfate formation
+0.0055	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N				enzyme form SULT1A1, 4'-sulfate formation
+0.02	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N				enzyme form SULT1A1, 7-sulfate formation
+0.095	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N				enzyme form SULT1E1, 7-sulfate formation
+0.1065	daidzein	672	ZQSIJRDFPHDXIC-UHFFFAOYSA-N				enzyme form SULT1E1, 4'-sulfate formation
+0.00183	daidzein 4'-sulfate	7780	CQRHJEVIKOKQMO-UHFFFAOYSA-N				enzyme form SULT1A1
+0.063	daidzein 4'-sulfate	7780	CQRHJEVIKOKQMO-UHFFFAOYSA-N				enzyme form SULT1E1
+0.00116	genistein 7-sulfate	7781	DKEIWIJUHWVGRC-UHFFFAOYSA-N				enzyme form SULT1A1
+0.06	genistein 7-sulfate	7781	DKEIWIJUHWVGRC-UHFFFAOYSA-N				enzyme form SULT1E1
+0.0067	genistein 4'-sulfate	7782	KIWWRRLFZKBEAL-UHFFFAOYSA-N				enzyme form SULT1A1
+0.035	genistein 4'-sulfate	7782	KIWWRRLFZKBEAL-UHFFFAOYSA-N				enzyme form SULT1E1
+0.00016	daidzein 7-sulfate	9128	AUXMRGLXSPIQNV-UHFFFAOYSA-N				enzyme form SULT1A1
+0.076	daidzein 7-sulfate	9128	AUXMRGLXSPIQNV-UHFFFAOYSA-N				enzyme form SULT1E1

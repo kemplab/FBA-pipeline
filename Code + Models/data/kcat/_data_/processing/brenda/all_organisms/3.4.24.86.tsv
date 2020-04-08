@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.14	Glu(EDANS)-Pro-Leu-Ala-Gln-Ala-Val-Arg-Ser-Ser-Ser-Lys(DABCYL)	127236	VDJUTJVNDIENRK-NJBCXZNHSA-N	22	7.5		pH 7.5, 22C
+0.25	Glu(EDANS)-Pro-Leu-Ala-Gln-Ala-Val-Arg-Ser-Ser(4O-(beta-D-Gal-(1-&gt;3)-alpha-D-GalNAc))-Ser-Lys(DABCYL)	127235	CASTVYPJUUXPJU-VKDJLVBTSA-N	22	7.5		pH 7.5, 22C
+0.08	S80-glycosylated (EDANS)-EPLAQAVRSSSK-(DABCYL)	127235	CASTVYPJUUXPJU-VKDJLVBTSA-N	25			extracellular domain, presence of L-galactose, 25C, pH not specified in the publication
+0.22	S80-glycosylated (EDANS)-EPLAQAVRSSSK-(DABCYL)	127235	CASTVYPJUUXPJU-VKDJLVBTSA-N	25			catalytic domain, 25C, pH not specified in the publication
+0.25	S80-glycosylated (EDANS)-EPLAQAVRSSSK-(DABCYL)	127235	CASTVYPJUUXPJU-VKDJLVBTSA-N	25			extracellular domain, 25C, pH not specified in the publication
+0.36	S80-glycosylated (EDANS)-EPLAQAVRSSSK-(DABCYL)	127235	CASTVYPJUUXPJU-VKDJLVBTSA-N	25			catalytic domain, presence of L-galactose, 25C, pH not specified in the publication
+0.06	(EDANS)-EPLAQAVRSSSK-(DABCYL)	127236	VDJUTJVNDIENRK-NJBCXZNHSA-N	25			catalytic domain, presence of L-galactose, 25C, pH not specified in the publication
+0.07	(EDANS)-EPLAQAVRSSSK-(DABCYL)	127236	VDJUTJVNDIENRK-NJBCXZNHSA-N	25			catalytic domain, 25C, pH not specified in the publication
+0.1	(EDANS)-EPLAQAVRSSSK-(DABCYL)	127236	VDJUTJVNDIENRK-NJBCXZNHSA-N	25			extracellular domain, presence of L-galactose, 25C, pH not specified in the publication
+0.14	(EDANS)-EPLAQAVRSSSK-(DABCYL)	127236	VDJUTJVNDIENRK-NJBCXZNHSA-N	25			extracellular domain, 25C, pH not specified in the publication
+0.08	S80-glycosylated (EDANS)-ELAQAVRSSSRK-(DABCYL)	127237	QITWUOAOCWHYAZ-SKRPRLSNSA-N	25			catalytic domain, 25C, pH not specified in the publication
+0.42	S80-glycosylated (EDANS)-ELAQAVRSSSRK-(DABCYL)	127237	QITWUOAOCWHYAZ-SKRPRLSNSA-N	25			extracellular domain, 25C, pH not specified in the publication
+0.05	(EDANS)-ELAQAVRSSSRK-(DABCYL)	127238	NEXOLXSYEUXWNN-XWJDSREJSA-N	25			catalytic domain, 25C, pH not specified in the publication
+0.2	(EDANS)-ELAQAVRSSSRK-(DABCYL)	127238	NEXOLXSYEUXWNN-XWJDSREJSA-N	25			extracellular domain, 25C, pH not specified in the publication

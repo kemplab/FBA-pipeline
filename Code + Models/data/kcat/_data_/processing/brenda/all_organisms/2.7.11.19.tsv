@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0983	Melittin	5478	VDXZNPDIRNWWCW-UHFFFAOYSA-N				
+23.6	tetradecapeptide	8555	HEFAYPBDVHZLFE-IJAVENJESA-N				
+57.1	phosphorylase b	1048	OJDNOGOUOQGWQX-WAJLRALXSA-N				
+91.4	phosphorylase b	1048	OJDNOGOUOQGWQX-WAJLRALXSA-N				nonactivated enzyme
+97	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8.2		at pH 8.2 in the presence of calcium
+99	phosphorylase b	1048	OJDNOGOUOQGWQX-WAJLRALXSA-N				alphagammadelta subunit complex
+104	phosphorylase b	1048	OJDNOGOUOQGWQX-WAJLRALXSA-N				gammadelta subunit complex
+134	glycogen phosphorylase b	1048	OJDNOGOUOQGWQX-WAJLRALXSA-N		8.2		at pH 8.2 in the presence of calcium

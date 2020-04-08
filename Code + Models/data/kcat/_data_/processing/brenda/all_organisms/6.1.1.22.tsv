@@ -1,0 +1,24 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37		X	mutant P231L, 37C, aminoacylation
+0.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant Y426S, aminoacylation
+0.5	tRNAAsn	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.2		in 50 mM HEPES-NaOH, pH 7.2, 10 mM MgCl2, at 37C
+0.7	Asn	231	DCXYFEDJOCDNAF-REOHCLBHSA-N			X	mutant Y426S, aminoacylation
+0.9	Asn	231	DCXYFEDJOCDNAF-REOHCLBHSA-N	37		X	mutant P231L, 37C, aminoacylation
+1	Asn	231	DCXYFEDJOCDNAF-REOHCLBHSA-N	37		X	mutant P231L, 37C, ATP-diphosphate exchange
+1	Asn	231	DCXYFEDJOCDNAF-REOHCLBHSA-N			X	ATP, , mutant Y426F, aminoacylation
+1.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25		X	mutant P231L, 25C, ATP-diphosphate exchange; wild-type, 37C, aminoacylation
+1.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	Asn, , mutant Y426S, ATP-diphosphate exchange; wild-type, aminoacylation
+1.6	Asn	231	DCXYFEDJOCDNAF-REOHCLBHSA-N	37			37C; wild-type, aminoacylation
+1.6	Asn	231	DCXYFEDJOCDNAF-REOHCLBHSA-N				wild-type, aminoacylation
+2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37		X	mutant P231L, 37C, ATP-diphosphate exchange
+2.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant Y426S, ATP-diphosphate exchange
+2.2	Asn	231	DCXYFEDJOCDNAF-REOHCLBHSA-N	25		X	mutant P231L, 25C, aminoacylation
+2.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37			wild-type, 37C, ATP-diphosphate exchange
+2.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37			wild-type, 37C, ATP-diphosphate exchange
+2.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant Y426F, ATP-diphosphate exchange
+2.7	Asn	231	DCXYFEDJOCDNAF-REOHCLBHSA-N			X	mutant Y426F, , ATP-diphosphate exchange
+2.8	Asn	231	DCXYFEDJOCDNAF-REOHCLBHSA-N	25			wild-type, 25C, aminoacylation; wild-type, 37C, ATP-diphosphate exchange
+2.8	Asn	231	DCXYFEDJOCDNAF-REOHCLBHSA-N			X	Asn, , wild-type, ATP-diphosphate exchange; mutant Y426F, aminoacylation
+3	Asn	231	DCXYFEDJOCDNAF-REOHCLBHSA-N	25		X	mutant P231L, 25C, ATP-diphosphate exchange
+4.2	L-asparagine	231	DCXYFEDJOCDNAF-REOHCLBHSA-N	37	7.2		in 50 mM HEPES-NaOH, pH 7.2, 10 mM MgCl2, at 37C
+10.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.2		in 50 mM HEPES-NaOH, pH 7.2, 10 mM MgCl2, at 37C

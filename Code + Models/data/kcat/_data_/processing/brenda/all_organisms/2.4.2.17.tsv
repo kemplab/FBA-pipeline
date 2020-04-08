@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.84	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	25	8	X	25C, pH 8, mutant enzyme T162A
+1.07	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	25	8	X	25C, pH 8, mutant enzyme K8A
+1.2	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	25	8	X	25C, pH 8, mutant enzyme T159A
+1.29	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N		8.5	X	A270P mutant protein, pH 8.5, temperature not specified in the publication
+1.36	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N		8.5	X	L231F/T235A mutant protein, pH 8.5, temperature not specified in the publication
+1.75	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N		8.5	X	N215K/L231F/T235A mutant protein, pH 8.5, temperature not specified in the publication
+1.8	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	25	8.5		at pH 8.5 and 25C
+1.91	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N		8.5		wild type protein, pH 8.5, temperature not specified in the publication
+2.22	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N		8.5	X	N215K mutant protein, pH 8.5, temperature not specified in the publication
+2.7	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	25	8		25C, pH 8, wild-type enzyme
+2.83	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	25	8	X	25C, pH 8, mutant enzyme D155A
+6.16	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	25	8	X	25C, pH 8, mutant enzyme K50A

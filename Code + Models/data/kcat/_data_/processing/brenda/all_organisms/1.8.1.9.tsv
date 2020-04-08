@@ -1,0 +1,118 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.012	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	498		X	mutant U498C
+0.016	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				Escherichia coli thioredoxin as substrate
+0.018	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L			X	TrxR-16 mutant K29R/H108Y/A119N/V478E
+0.02	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N	489		X	mutant enzyme U489C
+0.052	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				thioredoxin from Escherichia coli, wild type enzyme
+0.06	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.0		in 50 mM potassium phosphate, pH 7.0, 1 mM EDTA, temperature not specified in the publication
+0.075	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L			X	TrxR-16 mutant K29R/H108Y
+0.083	thioredoxin disulfide	396	MXIPACWNDCRLEN-XKNYDFJKSA-N				full-length mouse enzyme with C-terminal sequence SCCS
+0.13	thioredoxin disulfide	396	MXIPACWNDCRLEN-XKNYDFJKSA-N				full-length mouse enzyme with C-terminal sequence GCCG
+0.16	DTNB	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L			X	mutant enzyme H509A
+0.2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	7.0		with 5,5'-dithiobis(2-nitrobenzoic acid) as cosubstrate, in 50 mM potassium phosphate, pH 7.0, 2 mM EDTA at 30C
+0.23	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	30	7.0		with NADH as cosubstrate, in 50 mM potassium phosphate, pH 7.0, 2 mM EDTA at 30C
+0.233	DTNB	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L			X	mutant enzyme H509Q
+0.243	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N	498		X	SeC498C mutant enzyme, human thioredoxin
+0.25	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	30	7.0		with NADPH as cosubstrate, in 50 mM potassium phosphate, pH 7.0, 2 mM EDTA at 30C
+0.25	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	7.0		with 5,5'-dithiobis(2-nitrobenzoic acid) as cosubstrate, in 50 mM potassium phosphate, pH 7.0, 2 mM EDTA at 30C
+0.35	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.0		in 50 mM potassium phosphate, pH 7.0, 1 mM EDTA, temperature not specified in the publication
+0.38	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N		7.0		in 50 mM potassium phosphate, pH 7.0, 1 mM EDTA, temperature not specified in the publication
+0.5	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N	30	7.0		with NADH as cosubstrate, in 50 mM potassium phosphate, pH 7.0, 2 mM EDTA at 30C
+0.52	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L			X	TrxR-16 mutant K29R
+0.55	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L				TrxR-16, TrxR lacking the last 16 C-terminal amino acids
+0.61	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	60	5.5		pH 5.5, 60C
+0.62	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L		7.5		; pH 7.5
+0.65	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				cosubstrate: 5,5'-dithiobis(2-nitrobenzoic acid), pH and temperature not specified in the publication
+0.817	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				cosubstrate: 5,5'-dithiobis(2-nitrobenzoic acid), pH and temperature not specified in the publication
+1.175	thioredoxin disulfide	396	MXIPACWNDCRLEN-XKNYDFJKSA-N				Methanosarcina acetivorans thioredoxin 7, cosubstrate: NADPH, pH and temperature not specified in the publication
+1.183	hydrogen peroxide	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N				semisynthetic enzyme with 91% content of selenium
+1.2	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	25	7.0		truncated recombinant enzyme (lacking the last two amino acids Sec597-Gly598), in 100 mM potassium phosphate pH 7.0, at 25C
+1.25	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N	30	7.0		with NADPH as cosubstrate, in 50 mM potassium phosphate, pH 7.0, 2 mM EDTA at 30C
+1.3	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N	60	5.5		pH 5.5, 60C
+1.6	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L				full-length Drosophila enzyme with C-terminal sequence SCCS
+1.6	Lipoamide	720	FCCDDURTIIUXBY-UHFFFAOYSA-N	37	8.0		isoform TrxR2, in 50 mM Tris-HCl, 1 mM EDTA, pH 8.0, at 37C
+1.77	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L		7.0		in 50 mM potassium phosphate, pH 7.0, 1 mM EDTA, temperature not specified in the publication
+1.8	lipoic acid	1501	AGBQKNBQESQNJD-SSDOTTSWSA-N	37	8.0		isoform TrxR1, in 50 mM Tris-HCl, 1 mM EDTA, pH 8.0, at 37C
+2	Lipoamide	720	FCCDDURTIIUXBY-UHFFFAOYSA-N	20			wild type enzyme, in TE buffer, at 20C
+2.23	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L				wild type enzyme
+2.23	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L		7.0		wild type enzyme, in 50 mM potassium phosphate at pH 7.0
+2.38	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N			X	mutant C136S
+2.4	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L				truncated enzyme (missing residues CCS from the C-terminus) so that Ser488 is the C-terminal amino acid
+2.53	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L		7.0		truncated thioredoxin reductase missing its final eight amino acids, in 50 mM potassium phosphate at pH 7.0
+2.62	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	25	7		pH 7, 25C
+2.62	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L		7.0		wild type enzyme, in 50 mM potassium phosphate at pH 7.0
+3.3	Lipoamide	720	FCCDDURTIIUXBY-UHFFFAOYSA-N	37	8.0		isoform TrxR1, in 50 mM Tris-HCl, 1 mM EDTA, pH 8.0, at 37C
+3.5	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				human thioredoxin as substrate
+4.03	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N			X	thioredoxin from Escherichia coli, mutant TR-SCCS
+4.58	DTNB	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L				wild-type enzyme
+4.99	thioredoxin disulfide	396	MXIPACWNDCRLEN-XKNYDFJKSA-N	25	7		pH 7, 25C
+5.1	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N				
+5.3	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N			X	thioredoxin from Escherichia coli, mutant TR-GCCS
+5.5	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L		7.4		pH 7.4
+5.58	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				insulin coupled assay method
+5.8	thioredoxin disulfide	396	MXIPACWNDCRLEN-XKNYDFJKSA-N				full-length Drosophila enzyme with C-terminal sequence SCCS
+6.08	hydrogen peroxide	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N				semisynthetic enzyme with 91% content of selenium
+8.1	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				human thioredoxin as substrate
+8.28	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	37	7.0		isoform TrxR2, in 50 mM Tris-HCl, 1 mM EDTA, pH 7.0, at 37C
+9	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L				
+10.17	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				thioredoxin from Escherichia coli, wild type enzyme
+12	methylseleninate	7511	UEQANLFPOFICBH-UHFFFAOYSA-N				recombinant protein
+13.2	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N			X	mutant C139S
+14	methylseleninate	7511	UEQANLFPOFICBH-UHFFFAOYSA-N				
+14.3	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N		7.4		thioredoxin-2 from Drosophila melanogaster, pH 7.4
+15.4	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N		7.4		thioredoxin-1 from Anopheles gambiae, pH 7.4
+15.6	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L			X	truncated mutant enzyme (missing residues CUG from the C-terminus) so that Gly521 is the C-terminal amino acid
+15.7	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N		7.4		thioredoxin-1 from Plasmodium falciparum, pH 7.4
+16	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	25	7.0		full length enzyme, in 100 mM potassium phosphate pH 7.0, at 25C
+16.05	methaneseleninic acid	7511	UEQANLFPOFICBH-UHFFFAOYSA-N	37	6.1		at pH 6.1 and 37C
+18.73	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	37	7.0		isoform TrxR1, in 50 mM Tris-HCl, 1 mM EDTA, pH 7.0, at 37C
+19.2	thioredoxin disulfide	396	MXIPACWNDCRLEN-XKNYDFJKSA-N				
+19.97	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				human thioredoxin as substrate
+20.83	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L				full-length mouse enzyme with C-terminal sequence GCUG
+20.85	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L		7.0		wild type enzyme, in 50 mM potassium phosphate at pH 7.0
+21.6	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L		7.0		truncated thioredoxin reductase missing its final eight amino acids, in 50 mM potassium phosphate at pH 7.0
+22	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				wild-type
+22.8	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N		8.0		wild-type, pH 8.0
+23	methylseleninate	7511	UEQANLFPOFICBH-UHFFFAOYSA-N				
+24.1	5-hydroxy-1,4-naphthoquinone	1018	KQPYUDDGWXQXHS-UHFFFAOYSA-N	20			wild type enzyme, in TE buffer, at 20C
+25	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				semisynthetic enzyme with 63% content of selenium
+25.78	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				human thioredoxin as substrate
+27.4	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				rat thioredoxin as substrate
+27.6	Lipoamide	720	FCCDDURTIIUXBY-UHFFFAOYSA-N	20		X	mutant enzyme Y116I, in TE buffer, at 20C
+29.5	DTNB	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L				
+29.5	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				Escherichia coli thioredoxin as substrate
+30	thioredoxin disulfide	396	MXIPACWNDCRLEN-XKNYDFJKSA-N	25	7.0		full length enzyme, in 50 mM potassium phosphate pH 7.0, at 25C
+30.02	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	25	7.0		wild type enzyme, 10 mM potassium phosphate buffer (pH 7.0) containing 10 mM EDTA, at 25C
+31	methylseleninate	7511	UEQANLFPOFICBH-UHFFFAOYSA-N				
+31.2	Lipoamide	720	FCCDDURTIIUXBY-UHFFFAOYSA-N	20		X	mutant enzyme Y116T, in TE buffer, at 20C
+33	FAD	14	VWWQXMAJTJZDQX-UYBVJOGSSA-N				
+33.08	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L				purified, recombinant, tetrameric enzyme
+33.3	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				
+33.33	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L				wild type enzyme
+37	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				semisynthetic enzyme with 91% content of selenium
+37	thioredoxin disulfide	396	MXIPACWNDCRLEN-XKNYDFJKSA-N				full-length mouse enzyme with C-terminal sequence GCUG
+37.88	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				rat thioredoxin as substrate
+40.98	thioredoxin disulfide	396	MXIPACWNDCRLEN-XKNYDFJKSA-N	20		X	mutant enzyme Y116I, in TE buffer, at 20C
+41.7	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				wild-type enzyme, human thioredoxin
+43.7	thioredoxin 1	2778	WKBCLXIXVMHRAZ-SVXFZJLFSA-N				wild type enzyme, pH and temperature not specified in the publication
+44.85	thioredoxin disulfide	396	MXIPACWNDCRLEN-XKNYDFJKSA-N	20		X	mutant enzyme Y116T, in TE buffer, at 20C
+46.57	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				Escherichia coli thioredoxin as substrate
+47	thioredoxin disulfide	396	MXIPACWNDCRLEN-XKNYDFJKSA-N				purified, recombinant, tetrameric enzyme
+47.72	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	20		X	mutant enzyme Y116T, in TE buffer, at 20C
+48.42	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L		7.0		truncated thioredoxin reductase missing its final eight amino acids, in 50 mM potassium phosphate at pH 7.0
+49.87	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	20		X	mutant enzyme Y116I, in TE buffer, at 20C
+50	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				
+50.3	DTNB	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L			X	chimeric enzyme mutant, partly from Salmonella typhimurium AhpF protein
+52.75	5-hydroxy-1,4-naphthoquinone	1018	KQPYUDDGWXQXHS-UHFFFAOYSA-N	20		X	mutant enzyme Y116T, in TE buffer, at 20C
+63.2	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				
+66.7	DTNB	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L				
+70.3	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	20			wild type enzyme, in TE buffer, at 20C
+94.17	thioredoxin disulfide	396	MXIPACWNDCRLEN-XKNYDFJKSA-N	20			wild type enzyme, in TE buffer, at 20C
+106.3	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L				purified, recombinant, dimeric enzyme
+114.1	thioredoxin disulfide	396	MXIPACWNDCRLEN-XKNYDFJKSA-N				purified, recombinant, dimeric enzyme
+167	alloxan	2687	HIMXGTXNXJYFGB-UHFFFAOYSA-N				
+174.3	5-hydroxy-1,4-naphthoquinone	1018	KQPYUDDGWXQXHS-UHFFFAOYSA-N	20		X	mutant enzyme Y116I, in TE buffer, at 20C
+1030	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				human thioredoxin
+1200	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				
+1300	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				thioredoxin from E. coli
+1600	selenocysteine	939	ZKZBPNGNEQAJSX-REOHCLBHSA-N				

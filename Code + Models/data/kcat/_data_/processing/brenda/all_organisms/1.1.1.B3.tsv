@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.2	(S)-2-butanol	1476	BTANRVKWQNVYAZ-BYPYZUCNSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+2.6	(S)-2-pentanol	3406	JYVLIDXNZAXMDK-YFKPBYRVSA-N	65	10.5		wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+4.8	(S)-2-butanol	1476	BTANRVKWQNVYAZ-BYPYZUCNSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+6.7	(S)-2-pentanol	3406	JYVLIDXNZAXMDK-YFKPBYRVSA-N	65	10.5	X	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65C
+7.7	alpha-tetralone	5185	XHLHPRDBBAGVEG-UHFFFAOYSA-N	65	6.0		pH 6.0, 65C, recombinant enzyme, reduction reaction
+8.3	1-Indanone	2443	QNXSIUBBGPHDDE-UHFFFAOYSA-N	65	6.0		pH 6.0, 65C, recombinant enzyme, reduction reaction
+45.7	rac-1-indanol	2270	YIAPLDFPUUJILH-UHFFFAOYSA-N	65	6.0		pH 6.0, 65C, recombinant enzyme, reduction reaction
+48.1	rac-alpha-tetralol	17015	JAAJQSRLGAYGKZ-UHFFFAOYSA-N	65	6.0		pH 6.0, 65C, recombinant enzyme, reduction reaction
+61.4	(S)-1-indanol	1896	YIAPLDFPUUJILH-VIFPVBQESA-N	65	6.0		pH 6.0, 65C, recombinant enzyme, reduction reaction

@@ -1,0 +1,30 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.058	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37	7.5		at pH 7.5 and 37C
+0.117	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37	8.0		at pH 8.0 and 37C
+0.41	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				pH and temperature not specified in the publication
+0.68	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	6.0	X	mutant enzyme C117D, at pH 6.0 and 25C
+1.13	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				pH and temperature not specified in the publication
+1.8	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				pH and temperature not specified in the publication
+3	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				wild-type enzyme
+3	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				pH and temperature not specified in the publication
+3.5	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	7.8		wild type enzyme, at pH 7.8 and 25C
+3.8	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				pH and temperature not specified in the publication
+4.75	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				cosubstrate UDP-N-acetyl-D-glucosamine; recombinant enzyme
+0.41	UDP-N-acetyl-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N				pH and temperature not specified in the publication
+0.68	UDP-N-acetyl-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	25	6.0	X	mutant enzyme C117D, at pH 6.0 and 25C
+1.13	UDP-N-acetyl-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N				pH and temperature not specified in the publication
+1.8	UDP-N-acetyl-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N				the calculated value for UDP is 40 times higher than that of ADP
+1.8	UDP-N-acetyl-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N				pH and temperature not specified in the publication
+2.4	UDP-N-acetyl-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N				the calculated value for UDP is 40times higher than that of ADP
+3	UDP-N-acetyl-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N				pH and temperature not specified in the publication
+3.5	UDP-N-acetyl-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	25	7.8		wild type enzyme, at pH 7.8 and 25C
+3.8	UDP-N-acetyl-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N				pH and temperature not specified in the publication
+4.75	UDP-N-acetyl-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N				cosubstrate phosphoenolpyruvate; recombinant enzyme
+0.41	UDP-GlcNAc	120	LFTYTUAZOPRMMI-CFRASDGPSA-N				isoform MurA1
+0.78	UDP-GlcNAc	120	LFTYTUAZOPRMMI-CFRASDGPSA-N				isoform MurA2
+3	UDP-GlcNAc	120	LFTYTUAZOPRMMI-CFRASDGPSA-N				wild-type enzyme
+8.9	UDP-GlcNAc	120	LFTYTUAZOPRMMI-CFRASDGPSA-N				
+0.76	fosfomycin	872	YMDXZJFXQJVXBF-STHAYSLISA-N		7.6		50 mM HEPES, 250 mM methylthioguanosine, 0.1 U/ml purine-nucleoside phosphorylase, 100 mM dithiothreitol, pH 7.6
+1.13	fosfomycin	872	YMDXZJFXQJVXBF-STHAYSLISA-N		7.6		50 mM HEPES, 250 mM methylthioguanosine, 0.1 U/ml purine-nucleoside phosphorylase, 100 mM dithiothreitol, pH 7.6
+0.033	UDP-N-acetyl-alpha-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	37	7.5		at pH 7.5 and 37C
+0.147	UDP-N-acetyl-alpha-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	37	8.0		at pH 8.0 and 37C

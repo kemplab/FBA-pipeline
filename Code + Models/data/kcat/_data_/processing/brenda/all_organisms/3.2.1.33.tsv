@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.48	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	75	6.5		pH 6.5, 75C, calculated as microMol maltose released from the substrate, in absence of DMSO
+0.923	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	75	5.5		pH 5.5, 75C, calculated as microMol maltose released from the substrate, in absence of DMSO
+7.57	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	75	5.5		pH 5.5, 75C, calculated as microMol maltose released from the substrate, in presence of DMSO
+17.35	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	75	5.5		pH 5.5, 75C, calculated as microMol maltose released from the substrate, in presence of DMSO
+0.0205	maltononaose	4076	KEFAHNNQIPSIMC-FXWIDUTLSA-N	30	7.5		in 50 mM sodium phosphate buffer (pH 7.5) at 30C
+0.0452	maltoundecaose	8424	DZIFDDFXDDGQOX-POETWQBZSA-N	30	7.5		in 50 mM sodium phosphate buffer (pH 7.5) at 30C
+0.045	maltodecaose	8810	RJQKKZNUWRIHCS-MYWUTMGMSA-N	30	7.5		in 50 mM sodium phosphate buffer (pH 7.5) at 30C
+0.0478	maltododecaose	27135	GVLLXJWXCIPCSR-MDGCXCLMSA-N	30	7.5		in 50 mM sodium phosphate buffer (pH 7.5) at 30C
+2570	6-O-alpha-maltotetraosyl-beta-cyclodextrin	27133	YVDDHKIGRGHRMC-FLCYYJKHSA-N	75	5.5		pH 5.5, 75C

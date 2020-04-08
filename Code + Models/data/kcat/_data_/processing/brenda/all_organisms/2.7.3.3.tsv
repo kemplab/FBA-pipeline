@@ -1,0 +1,193 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00229	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme L65G
+0.005	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme E314V
+0.0329	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme D62_F63delinsDGF
+0.443	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme R193G
+0.913	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme D62G
+2.02	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8		pH 8, 25C
+3.31	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme F63G
+8.92	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25		X	25C, H60G mutant of domain 2
+9.22	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme Y89R
+9.53	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25		X	25C, D197G mutant of domain 2
+11.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0		pH 8.0, 25C, recombinant enzyme
+18.09	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme H64G
+18.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25		X	25C, H60R mutant of domain 2
+22.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme S282G
+22.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type two-domain enzyme
+24.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.9	X	pH 7.9, 25C, mutant enzyme N62G/K193G
+25.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.9	X	pH 7.9, 25C, mutant enzyme N62G
+25.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type enzyme
+29.18	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+32.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.9	X	pH 7.9, 25C, mutant enzyme K193G
+33.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0	X	isoform AK2 mutant Y89Q, using L-arginine as cosubstrate, in 100 mM Tris/HCl (pH 8.0), at 25C
+36.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0		wild type enzyme isoform AK2, using D-arginine as cosubstrate, in 100 mM Tris/HCl (pH 8.0), at 25C
+38.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.5		pH 7.5, 25C, recombinant enzyme
+39.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0		wild type isoform AK2, using L-arginine as cosubstrate, in 100 mM Tris/HCl (pH 8.0), at 25C
+40	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0		pH 8.0, 25C, recombinant enzyme
+40.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.9	X	pH 7.9, 25C, mutant enzyme K193R
+41	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0	X	isoform AK2 mutant G54A, using L-arginine as cosubstrate, in 100 mM Tris/HCl (pH 8.0), at 25C
+41.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.9	X	pH 7.9, 25C, mutant enzyme N62D
+41.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0	X	isoform AK2 mutant Y89Q, using D-arginine as cosubstrate, in 100 mM Tris/HCl (pH 8.0), at 25C
+42.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.9	X	pH 7.9, 25C, mutant enzyme N62D/K193R
+43.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0	X	isoform AK2 mutant G54S, using L-arginine as cosubstrate, in 100 mM Tris/HCl (pH 8.0), at 25C
+43.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0	X	isoform AK2 mutant L64V, using L-arginine as cosubstrate, in 100 mM Tris/HCl (pH 8.0), at 25C
+44.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25			25C, domain 2
+45	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0		pH 8.0, 25C, recombinant enzyme
+47.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.9		pH 7.9, 25C, wild-type enzyme
+50.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0	X	isoform AK2 mutant L64I, using L-arginine as cosubstrate, in 100 mM Tris/HCl (pH 8.0), at 25C
+54.16	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant T273G
+60.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.6	X	pH 8.6, 30C, mutant enzyme P272R
+60.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0	X	isoform AK2 mutant G54S, using D-arginine as cosubstrate, in 100 mM Tris/HCl (pH 8.0), at 25C
+60.97	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant T273A
+61.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0	X	isoform AK2 mutant L64V, using D-arginine as cosubstrate, in 100 mM Tris/HCl (pH 8.0), at 25C
+63.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0		pH 8.0, 25C, recombinant His6-tagged isozyme AK2
+65.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0	X	isoform AK2 mutant G54A, using D-arginine as cosubstrate, in 100 mM Tris/HCl (pH 8.0), at 25C
+68.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0	X	isoform AK2 mutant L64I, using D-arginine as cosubstrate, in 100 mM Tris/HCl (pH 8.0), at 25C
+73.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25			25C, two-domain enzyme
+74.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.6	X	pH 8.6, 30C, mutant enzyme Y75F/P272G
+79.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.6	X	pH 8.6, 30C, mutant enzyme P272G
+88	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+104	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0		pH 8.0, 25C, recombinant His6-tagged isozyme AK1
+126.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.6	X	pH 8.6, 30C, mutant enzyme Y75F
+129	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				recombinant wild-type enzyme with MBP tag. The intact 2D/wild-type enzyme has a higher catalytic constant than the isolated domains
+140.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.6	X	pH 8.6, 30C, mutant enzyme Y75D
+141.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.6	X	pH 8.6, 30C, mutant enzyme Y75D/P272R
+143.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant T273D
+151.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant T273S
+159.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+159.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.6		pH 8.6, 30C, recombinant arginine kinase
+159.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+163	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.6		pH 8.6, 30C, native arginine kinase
+163	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0		pH 8.0, 30C, wild-type enzyme
+180	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0		pH 8.0, 25C, recombinant enzyme
+0.27	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant enzyme E225Q/E314Q
+0.34	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant enzyme E225D
+0.37	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant enzyme E314Q
+0.45	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant enzyme E225Q
+1.11	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	25	8		pH 8, 25C
+2.17	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant enzyme E314D
+116	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant enzyme R312G/E314V/H315D/E317A/E319V
+140	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N				wild-type enzyme
+0.00229	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	mutant enzyme L65G
+0.005	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	mutant enzyme E314V
+0.0329	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	mutant enzyme D62_F63delinsDGF
+0.443	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	mutant enzyme R193G
+0.913	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	mutant enzyme D62G
+3.31	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	mutant enzyme F63G
+9.22	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	mutant enzyme Y89R
+11.4	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0		pH 8.0, 25C, recombinant enzyme
+18.09	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	mutant enzyme H64G
+22.8	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	mutant enzyme S282G
+24.4	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	7.9	X	pH 7.9, 25C, mutant enzyme N62G/K193G
+25.3	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	7.9	X	pH 7.9, 25C, mutant enzyme N62G
+25.7	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N				wild-type enzyme
+32.4	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	7.9	X	pH 7.9, 25C, mutant enzyme K193G
+38.9	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	7.5		pH 7.5, 25C, recombinant enzyme
+40	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0		pH 8.0, 25C, recombinant enzyme
+40.8	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	7.9	X	pH 7.9, 25C, mutant enzyme K193R
+41.9	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	7.9	X	pH 7.9, 25C, mutant enzyme N62D
+42.1	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	7.9	X	pH 7.9, 25C, mutant enzyme N62D/K193R
+45	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0		pH 8.0, 25C, recombinant enzyme
+47.5	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	7.9		pH 7.9, 25C, wild-type enzyme
+54.16	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant T273G
+60.97	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant T273A
+63.4	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0		pH 8.0, 25C, recombinant His6-tagged isozyme AK2
+84.8	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	20	8.0		pH 8.0, 20C
+88	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0		pH 8.0, 25C, recombinant wild-type enzyme
+104	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0		pH 8.0, 25C, recombinant His6-tagged isozyme AK1
+108	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	15	8.0		pH 8.0, 15C, recombinant enzyme
+134	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	17.5	8.0		pH 8.0, 17.5C, recombinant enzyme
+143.2	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant T273D
+151.3	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant T273S
+159.4	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N				
+159.4	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+163	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0		pH 8.0, 30C, wild-type enzyme
+170	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	15	8.0		pH 8.0, 15C, recombinant enzyme
+174	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	20	8.0		pH 8.0, 20C, recombinant enzyme
+180	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0		pH 8.0, 25C, recombinant enzyme
+183	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	17.5	8.0		pH 8.0, 17.5C, recombinant enzyme
+196	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	22.5	8.0		pH 8.0, 22.5C, recombinant enzyme
+212.9	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N				wild-type two-domain enzyme
+217	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0		pH 8.0, 25C, recombinant enzyme
+244	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	20	8.0		pH 8.0, 20C, recombinant enzyme
+272	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0		pH 8.0, 25C, recombinant enzyme
+343	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme
+459	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	35	8.0		pH 8.0, 35C, recombinant enzyme
+0.08	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	mutant enzyme S312G/E314V/F315D/E317A/S318A/G321S
+0.833	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	mutant enzyme F315Y
+1.02	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	mutant enzyme F315A
+1.1	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N				wild type enzyme
+2.02	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8		in 100 mM Tris/HCl (pH 8), 750 mM KCl, 250 mM Mg-acetate, 25 mM phosphoenolpyruvate, at 25C; pH 8, 25C
+2.73	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	10	8.0		two-domain enzyme, in 100 mM Tris-HCl (pH 8.0), at 10C
+3.97	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	mutant enzyme F315H
+4.3	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0		two-domain enzyme, in 100 mM Tris-HCl (pH 8.0), at 25C
+4.38	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0	X	mutant enzyme Q53A/D57A, in 100 mM Tris, pH 8.0, at 30C
+5.54	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	mutant enzyme S312R/F315H/V319E
+5.8	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25			25C; 25C
+7.4	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	10	8.0		isolated domain 2, in 100 mM Tris-HCl (pH 8.0), at 10C
+8.8	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N				
+8.92	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25		X	25C, H60G mutant of domain 2
+9.53	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25		X	25C, D197G mutant of domain 2
+10.26	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0	X	mutant enzyme D57A, in 100 mM Tris, pH 8.0, at 30C
+13.09	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0	X	mutant enzyme Q53A, in 100 mM Tris, pH 8.0, at 30C
+13.7	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0		isolated domain 2, in 100 mM Tris-HCl (pH 8.0), at 25C
+15.67	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	mutant enzyme F315Y
+15.95	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0	X	mutant enzyme D57E, in 100 mM Tris, pH 8.0, at 30C
+18.1	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25		X	25C, H60R mutant of domain 2
+18.66	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N				wild type enzyme
+23.33	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0	X	mutant enzyme Q53E, in 100 mM Tris, pH 8.0, at 30C
+25.7	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0		native wild type enzyme, in 100 mM Tris, pH 8.0, at 30C
+29.18	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N				
+29.93	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0		recombinant wild type enzyme, in 100 mM Tris, pH 8.0, at 30C
+34.8	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0	X	mutant enzyme A105S, in 4.76 mM Tris-HCl (pH 8.0), at 25C
+35.4	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8		the reaction mixture contains 100 mM Tris/HCl (pH 8), 750 mM KCl, 250 mM Mg-acetate, 25 mM phosphoenolpyruvate made up in 100 mM imidazole/HCl (pH 7), 5 mM NADH made up in Tris/HCl (pH 8), pyruvate kinase/lactate dehydrogenase mixture made up in 100 mM imidazole/HCl (pH 7), 100 mM ATP made up in 100 mM imidazole/HCl (pH 7), and recombinant enzyme, at 25C
+43.3	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0	X	mutant enzyme A105S/S106G, in 4.76 mM Tris-HCl (pH 8.0), at 25C
+44.7	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25			25C, domain 2
+45.1	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0	X	mutant enzyme S106G, in 4.76 mM Tris-HCl (pH 8.0), at 25C
+45.9	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0		recombinant wild type enzyme, in 4.76 mM Tris-HCl (pH 8.0), at 25C
+46	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0		wild type enzyme isoform AK2, in 100 mM Tris/HCl (pH 8.0), at 25C
+56.21	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0	X	mutant enzyme L113K, in 100 mM Tris, pH 8.0, at 30C
+60.36	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0	X	mutant enzyme I121D, in 100 mM Tris, pH 8.0, at 30C
+62.3	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0	X	isoform AK2 mutant L64V, in 100 mM Tris/HCl (pH 8.0), at 25C
+64.43	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0	X	mutant enzyme L113D, in 100 mM Tris, pH 8.0, at 30C
+70.93	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0	X	mutant enzyme I121K, in 100 mM Tris, pH 8.0, at 30C
+73.3	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25			25C, two-domain enzyme
+75.4	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0	X	isoform AK2 mutant L64I, in 100 mM Tris/HCl (pH 8.0), at 25C
+77.8	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0	X	isoform AK2 mutant Y89Q, in 100 mM Tris/HCl (pH 8.0), at 25C
+81	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8		in 100 mM Tris-HCl (pH 8), 750 mM KCl, 250 mM Mg-acetate, 25 mM phosphoenolpyruvate, 5 mM NADH, at 25C
+81.2	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0	X	isoform AK2 mutant G54S, in 100 mM Tris/HCl (pH 8.0), at 25C
+89	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0	X	mutant two-domain-enzyme D1(Y68G)-D2, in 100 mM Tris/HCl, pH 8.0 at 25C
+104	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0		wild type one-domain-enzyme D1, in 100 mM Tris/HCl, pH 8.0 at 25C
+105.6	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0	X	mutant enzyme L113G, in 100 mM Tris, pH 8.0, at 30C
+109.8	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0	X	mutant enzyme I121G, in 100 mM Tris, pH 8.0, at 30C
+121	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0	X	isoform AK2 mutant G54A, in 100 mM Tris/HCl (pH 8.0), at 25C
+123	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0	X	mutant two-domain-enzyme D1-D2(Y68G), in 100 mM Tris/HCl, pH 8.0 at 25C
+129	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N				recombinant wild-type enzyme with MBP tag
+139	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N				
+151.2	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0	X	mutant enzyme I121L, in 100 mM Tris, pH 8.0, at 30C
+152.2	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0	X	mutant enzyme L113I, in 100 mM Tris, pH 8.0, at 30C
+157	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0		wild type one-domain-enzyme D2, in 100 mM Tris/HCl, pH 8.0 at 25C
+159.4	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N				
+159.4	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0		recombinant wild type enzyme, in 100 mM Tris, pH 8.0, at 30C
+159.4	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0		recombinant wild type enzyme, in 100 mM Tris, pH 8.0, at 30C
+163	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0		native wild type enzyme, in 100 mM Tris, pH 8.0, at 30C
+163	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	30	8.0		native wild type enzyme, in 100 mM Tris, pH 8.0, at 30C
+187	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0	X	mutant two-domain-enzyme D1-Lys6-D2, in 100 mM Tris/HCl, pH 8.0 at 25C
+678	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	25	8.0		wild type two-domain-enzyme D1-D2, in 100 mM Tris/HCl, pH 8.0 at 25C
+2	D-Arg	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	25	8		the reaction mixture contains 100 mM Tris/HCl (pH 8), 750 mM KCl, 250 mM Mg-acetate, 25 mM phosphoenolpyruvate made up in 100 mM imidazole/HCl (pH 7), 5 mM NADH made up in Tris/HCl (pH 8), pyruvate kinase/lactate dehydrogenase mixture made up in 100 mM imidazole/HCl (pH 7), 100 mM ATP made up in 100 mM imidazole/HCl (pH 7), and recombinant enzyme, at 25C
+40.8	D-Arg	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	25	8.0		wild type enzyme isoform AK2, in 100 mM Tris/HCl (pH 8.0), at 25C
+61.5	D-Arg	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	25	8.0	X	isoform AK2 mutant Y89Q, in 100 mM Tris/HCl (pH 8.0), at 25C
+86.7	D-Arg	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	25	8.0	X	isoform AK2 mutant G54S, in 100 mM Tris/HCl (pH 8.0), at 25C
+90.7	D-Arg	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	25	8.0	X	isoform AK2 mutant L64I, in 100 mM Tris/HCl (pH 8.0), at 25C; isoform AK2 mutant L64V, in 100 mM Tris/HCl (pH 8.0), at 25C
+121	D-Arg	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	25	8.0	X	isoform AK2 mutant G54A, in 100 mM Tris/HCl (pH 8.0), at 25C
+0.27	N5-(N-phosphonocarbamimidoyl)-L-ornithine	2855	CCTIOCVIZPCTGO-BYPYZUCNSA-N			X	mutant enzyme E225Q/E314Q
+0.34	N5-(N-phosphonocarbamimidoyl)-L-ornithine	2855	CCTIOCVIZPCTGO-BYPYZUCNSA-N			X	mutant enzyme E225D
+0.37	N5-(N-phosphonocarbamimidoyl)-L-ornithine	2855	CCTIOCVIZPCTGO-BYPYZUCNSA-N			X	mutant enzyme E314D
+0.45	N5-(N-phosphonocarbamimidoyl)-L-ornithine	2855	CCTIOCVIZPCTGO-BYPYZUCNSA-N			X	mutant enzyme E225Q
+2.17	N5-(N-phosphonocarbamimidoyl)-L-ornithine	2855	CCTIOCVIZPCTGO-BYPYZUCNSA-N			X	mutant enzyme E314S
+116	N5-(N-phosphonocarbamimidoyl)-L-ornithine	2855	CCTIOCVIZPCTGO-BYPYZUCNSA-N			X	mutant enzyme R312G/E314V/H315D/E317A/E319V
+140	N5-(N-phosphonocarbamimidoyl)-L-ornithine	2855	CCTIOCVIZPCTGO-BYPYZUCNSA-N				wild-type enzyme
+0.093	Nomega-phospho-L-Arg	2855	CCTIOCVIZPCTGO-BYPYZUCNSA-N	25	8.0		at pH 8.0 and 25C
+431	Nomega-phospho-L-Arg	2855	CCTIOCVIZPCTGO-BYPYZUCNSA-N				
+50.7	L-phosphocanavanine	20821	LTLAKHAVPGMZTN-VKHMYHEASA-N				
+1.11	omega-N-phospho-L-arginine	2855	CCTIOCVIZPCTGO-BYPYZUCNSA-N	25	8		pH 8, 25C

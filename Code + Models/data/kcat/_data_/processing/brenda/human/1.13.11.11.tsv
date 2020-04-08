@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.04	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N		8.0	X	H76A mutant enzyme, pH 8.0, normal atmospheric conditions
+0.065	5-hydroxy-L-tryptophan	1035	LDCYZAJDBXYCGN-VIFPVBQESA-N				
+0.18	5-fluoro-tryptophan	6531	INPQIVHQSQUEAJ-VIFPVBQESA-N				
+0.2	D-tryptophan	657	QIVBCDIJIAJPQS-SECBINFHSA-N		7.0		pH 7.0
+0.6	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N		7.0		pH 7.0, normal atmospheric conditions
+1.4	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+1.4	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+1.55	L-Trp	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+2.07	D-Trp	657	QIVBCDIJIAJPQS-SECBINFHSA-N				
+2.1	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N		7.0		pH 7.0
+3.04	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N		8.0	X	Y42F mutant enzyme, pH 8.0, normal atmospheric conditions
+6.12	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N		8.0		pH 8.0, normal atmospheric conditions

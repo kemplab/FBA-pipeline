@@ -1,0 +1,43 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.044	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N			X	mutant K208E, Michaelis-Hill equation, presence of saturating concentration of allosteric activator N-acetylglucose-6-phosphate
+0.37	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	8.0		pH 8.0, 30C
+2	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	22	8.0		22C, pH 8.0
+2	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	7.5		wild-type, modified with bimane at C164, pH 7.5, 30C
+5.8	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	7.5		pH 7.5, 30C
+6.1	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N			X	mutant R172A/K208E, Michaelis-Hill equation, presence of saturating concentration of allosteric activator N-acetylglucose-6-phosphate
+7.8	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N			X	mutant K208V, Michaelis-Hill equation, presence of saturating concentration of allosteric activator N-acetylglucose-6-phosphate
+11.4	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	7.7	X	pH 7.7, 30C, mutant enzyme Y254F
+11.8	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N			X	mutant R172A, Michaelis-Hill equation, presence of saturating concentration of allosteric activator N-acetylglucose-6-phosphate
+26.7	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N		7.5	X	mutant W15Y/W224Y/Y254W, pH 7.5
+39.6	NH3	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	60	7.3		pH 7.3, 60C
+41.2	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	8.0	X	recombinant isozyme GNPDA1 268 truncation mutant, pH 8.0, 30C, kinetic method 2
+42	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N		8.8		per subunit, hyperbolic kinetic conditions, in presence of 1 mM N-acetylglucosamine 6-phosphate, pH 8.8
+44.2	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	60	7.3		pH 7.3, 60C
+44.2	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	8.0	X	recombinant isozyme GNPDA1 275 truncation mutant, pH 8.0, 30C, kinetic method 1
+61.6	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	8.0		pH 8.0, 30C, in presence of N-acetylglucosamine 6-phosphate
+69.5	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	7.5		wild-type, modified with bimane at C206, pH 7.5, 30C
+70.6	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	7.5		wild-type, modified with dansyl-aminoethyl moiety at C164, pH 7.5, 30C
+70.9	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	7.5		wild-type, modified with dansyl-aminoethyl moiety at C206, pH 7.5, 30C
+71.6	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	7.5		wild-type, modified with bimane at C164, pH 7.5, 30C
+74	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	8.0	X	recombinant isozyme GNPDA1 275 truncation mutant, pH 8.0, 30C, kinetic method 2
+75	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	7.7	X	pH 7.7, 30C, mutant enzyme Y254F in presence of N-acetylglucosamine 6-phosphate
+80	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N		7.5	X	mutant W15Y/F174W/W224Y, pH 7.5
+96	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	7.5	X	mutant C118S/C228S/C239S, pH 7.5, 30C
+97.5	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	60	7.3		pH 7.3, 60C
+107	alpha-D-glucosamine 6-phosphate	21922	XHMJOUIAFHJHBW-UKFBFLRUSA-N	165	7.8	X	mutant C118Ser/C228S/C239S/D165C/S206W, at pH 7.8 and 30C
+134	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N		7.5	X	mutant W15Y, pH 7.5
+138	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N		7.5	X	mutant W224Y, pH 7.5
+144	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N		7.5	X	mutant W15Y/W224Y, pH 7.5
+153	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	7.5		wild-type, pH 7.5, 30C
+158	alpha-D-glucosamine 6-phosphate	21922	XHMJOUIAFHJHBW-UKFBFLRUSA-N	30	7.8		wild type enzyme, at pH 7.8 and 30C
+158	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N		7.5		wild-type, pH 7.5
+160	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N				wild-type, Michaelis-Hill equation, presence of saturating concentration of allosteric activator N-acetylglucose-6-phosphate
+218	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	7.7	X	pH 7.7, 30C, mutant enzyme Y254T
+228	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	8.0		recombinant wild-type isozyme GNPDA1, pH 8.0, 30C, kinetic method 1, in presence of saturating concentration of N-acetylglucosamine 6-phosphate
+248	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	7.7	X	pH 7.7, 30C, mutant enzyme Y254T in presence of N-acetylglucosamine 6-phosphate
+255	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N		8.8		hexameric enzyme, hyperbolic kinetic conditions, in presence of 1 mM N-acetylglucosamine 6-phosphate, pH 8.8
+260	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	8.0		recombinant wild-type isozyme GNPDA1, pH 8.0, 30C, kinetic method 2, in presence of saturating concentration of N-acetylglucosamine 6-phosphate
+292	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	7.7		pH 7.7, 30C, wild-type enzyme
+320	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	7.7		pH 7.7, 30C, wild-type enzyme in presence of N-acetylglucosamine 6-phosphate
+455	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	7.7		pH 7.7, 30C
+1800	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	7.7		pH 7.7, 30C

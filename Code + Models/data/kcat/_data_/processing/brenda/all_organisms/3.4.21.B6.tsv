@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.068	D-Pro-Phe-Arg 7-amido-4-methylcoumarin	14841	YUXGGLSSFRBWKJ-SGNDLWITSA-N	25	9		pH 9, 25C
+0.083	acetyl-KDYR-7-amido-4-carbamoylmethylcoumarin	7907	ZFLIOUSVBLIVPP-DZUOILHNSA-N				
+0.105	D-Val-Leu-Arg-7-amido-4-methylcoumarin	22827	QWRXFENZVXMIOU-JAXLGGSGSA-N	25	9		pH 9, 25C
+0.12	acetyl-KHYR-7-amido-4-methylcoumarin	3965	PZMDVRMCWVDLAN-YDPTYEFTSA-N	23	9		pH 9, 23C, variant 26 expressed in Escherichia coli, not glycosylated
+0.13	acetyl-KHYR-7-amido-4-methylcoumarin	3965	PZMDVRMCWVDLAN-YDPTYEFTSA-N	23	9		pH 9, 23C, variant 40 expressed in Sf21 cells, not glycosylated
+0.14	acetyl-KHYR-7-amido-4-methylcoumarin	3965	PZMDVRMCWVDLAN-YDPTYEFTSA-N	23	9		pH 9, 23C, variant 28 expressed in Escherichia coli, not glycosylated
+0.17	acetyl-KHYR-7-amido-4-methylcoumarin	3965	PZMDVRMCWVDLAN-YDPTYEFTSA-N	23	9		pH 9, 23C, variant 35 expressed in Sf21 cells, glycosylated
+0.23	acetyl-KHYR-7-amido-4-methylcoumarin	3965	PZMDVRMCWVDLAN-YDPTYEFTSA-N	23	9		pH 9, 23C, variant 801 expressed in Sf21 cells, glycosylated
+0.27	acetyl-KHYR-7-amido-4-methylcoumarin	3965	PZMDVRMCWVDLAN-YDPTYEFTSA-N	23	9		pH 9, 23C, variant 1 expressed in mouse cells, glycosylated
+0.287	Z-Gly-Pro-Arg-7-amido-4-trifluoromethylcoumarin	3967	NFIKTSWJXJTUBZ-ZEQRLZLVSA-N	25	9		pH 9, 25C
+0.29	D-Phe-Phe-Arg 7-amido-4-methylcoumarin	14840	YQYOZGXPBNJPPA-PKXQUSJVSA-N	25	9		pH 9, 25C
+0.381	acetyl-PRLR-7-amido-4-carbamoylmethylcoumarin	7908	KNFPIMOSEWNTON-FWEHEUNISA-N				with ZnCL2
+0.601	acetyl-PRLR-7-amido-4-carbamoylmethylcoumarin	7908	KNFPIMOSEWNTON-FWEHEUNISA-N				without ZnCL2
+1.97	acetyl-KHYR-7-amido-4-carbamoylmethylcoumarin	24420	SETVOPLZUSROKL-YDPTYEFTSA-N				
+2.38	acetyl-KDYR-7-amido-4-carbamoylmethylcoumarin	7907	ZFLIOUSVBLIVPP-DZUOILHNSA-N				without ZnCL2
+6.08	acetyl-PRLR-7-amido-4-carbamoylmethylcoumarin	7908	KNFPIMOSEWNTON-FWEHEUNISA-N				without ZnCL2
+6.53	acetyl-KDYR-7-amido-4-carbamoylmethylcoumarin	7907	ZFLIOUSVBLIVPP-DZUOILHNSA-N				with ZnCL2

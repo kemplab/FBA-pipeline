@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+125	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	25	7.1		pH 7.1, 25C, recombinant enzyme
+132	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	25	10.0		pH 10.0, 25C, recombinant enzyme
+0.0019	D-mannitol 1-phosphate	1931	GACTWZZMVMUKNG-KVTDHHQDSA-N			X	purified mutant K213A
+8.5	D-mannitol 1-phosphate	1931	GACTWZZMVMUKNG-KVTDHHQDSA-N	25	7.1		pH 7.1, 25C, recombinant enzyme
+10.6	D-mannitol 1-phosphate	1931	GACTWZZMVMUKNG-KVTDHHQDSA-N	25	7.1		pH 7.1, 25C, recombinant enzyme

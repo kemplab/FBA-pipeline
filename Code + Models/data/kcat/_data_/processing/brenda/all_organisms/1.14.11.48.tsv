@@ -1,0 +1,30 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.66	9-methylxanthine	31708	DHNIKYWYTSMDDA-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme Q101A
+1.26	9-methylxanthine	31708	DHNIKYWYTSMDDA-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme N358A
+1.4	9-methylxanthine	31708	DHNIKYWYTSMDDA-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme Q356A
+1.9	9-methylxanthine	31708	DHNIKYWYTSMDDA-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme K122A
+2	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme Q356A
+3	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme Q101A
+3.8	9-methylxanthine	31708	DHNIKYWYTSMDDA-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+4.25	9-methylxanthine	31708	DHNIKYWYTSMDDA-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme D138A
+4.5	9-methylxanthine	31708	DHNIKYWYTSMDDA-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme C357A
+5.9	9-methylxanthine	31708	DHNIKYWYTSMDDA-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme E137A
+7.6	2-oxoadipate	895	FGSBNBBHOZHUBO-UHFFFAOYSA-N	25	7.4		25C, pH 7.4, recombinant enzyme isolated from Escherichia coli
+15	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	30	7.4		30C, pH 7.4, value depending on preparation, enzyme isolated from Aspergillus nidulans
+15	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	30	7.4		30C, pH 7.4, value depending on preparation, enzyme isolated from Aspergillus nidulans
+17	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme N358A
+19	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme C357A
+21	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme Q101A
+25	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme D138A
+31	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme E137A
+32	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme C357A
+34	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme D138A
+35	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme Q356A
+38	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme N358A
+40	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme E137A
+42	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme K122A
+60	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme K122A
+66.5	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	25	7.4		25C, pH 7.4, recombinant enzyme isolated from Escherichia coli
+67	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+71.4	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.4		25C, pH 7.4, recombinant enzyme isolated from Escherichia coli
+72	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme

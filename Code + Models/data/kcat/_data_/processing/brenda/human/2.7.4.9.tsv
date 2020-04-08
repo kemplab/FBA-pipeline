@@ -1,0 +1,33 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.003	3'-azido-3'-deoxythymidine 5'-monophosphate	3036	OIFWQOKDSPDILA-SPDVFEMOSA-L				wild-type enzyme fused to the protein transduction domain of Tat
+0.01	3'-azido-3'-deoxythymidine 5'-monophosphate	3036	OIFWQOKDSPDILA-SPDVFEMOSA-L	25	7.5		pH 7.5, 25C
+0.012	3'-azido-3'-deoxythymidine 5'-monophosphate	3036	OIFWQOKDSPDILA-SPDVFEMOSA-L				wild-type
+0.03	3'-fluoro-3'-deoxythymidine 5'-monophosphate	22175	GGCAVPJXJISBOA-XLPZGREQSA-N	25	7.5		pH 7.5, 25C
+0.03	ddTMP	33070	WVNRRNJFRREKAR-JGVFFNPUSA-N	25	7.5		pH 7.5, 25C
+0.058	N1-[(E)-5-dihydroxyphosphonyl-pent-2-enyl]-5-bromouracil	28413	UBSZOBUHNRQZAW-OWOJBTEDSA-N	37	7.4		at 37C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+0.074	N1-[(E)-5-dihydroxyphosphonyl-pent-2-enyl]-uracil	28410	HEHXPGYOJLWXPS-OWOJBTEDSA-N	37	7.4		at 37C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+0.09	2',3'-didehydro-2',3'-dideoxythymidine 5'-monophosphate	11198	XLPGURCDSRIXFL-JGVFFNPUSA-N	25	7.5		pH 7.5, 25C
+0.09	N1-[(E)-5-dihydroxyphosphonyl-pent-2-enyl]-5-fluorouracil	28411	KCTKUURHXFRJGJ-OWOJBTEDSA-N	37	7.4		at 37C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+0.1	N1-[(E)-5-dihydroxyphosphonyl-pent-2-enyl]-5-chlorouracil	28412	JYEPAZFBJFKASZ-OWOJBTEDSA-N	37	7.4		at 37C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+0.14	3'-amino-3'-deoxythymidine 5'-monophosphate	33707	BQZMHQZNZNBJNF-XLPZGREQSA-N	25	7.5		pH 7.5, 25C
+0.14	dTMP	518	GYOZYWVXFNDGLU-XLPZGREQSA-N			X	mutant F105Y fused to the protein transduction domain of Tat
+0.17	3'-azido-3'-deoxythymidine 5'-monophosphate	3036	OIFWQOKDSPDILA-SPDVFEMOSA-L			X	mutant F105Y fused to the protein transduction domain of Tat
+0.17	dTMP	518	GYOZYWVXFNDGLU-XLPZGREQSA-N			X	mutant F105Y
+0.27	3'-azido-3'-deoxythymidine 5'-monophosphate	3036	OIFWQOKDSPDILA-SPDVFEMOSA-L			X	mutant F105Y
+0.32	N1-[(E)-5-dihydroxyphosphonyl-pent-2-enyl]-thymine	28414	OPTUJJWAHBAMIG-NSCUHMNNSA-N	37	7.4		at 37C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+0.4	TMP	518	GYOZYWVXFNDGLU-XLPZGREQSA-N	25	7.5		pH 7.5, 25C
+0.48	N1-[(E)-4-dihydroxyphosphonyl-but-2-enyl]-uracil	28407	GXKCIWVPHHHYHS-OWOJBTEDSA-N	37	7.4		at 37C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+0.5	N1-[(E)-4-dihydroxyphosphonyl-but-2-enyl]-5-chlorouracil	13075	OJNXTNOGLCWOBG-OWOJBTEDSA-N	37	7.4		at 37C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+0.6	N1-[(E)-3-dihydroxyphosphonyl-prop-2-enyl]-thymine	28406	REWSWBWZQAYNHC-DUXPYHPUSA-N	37	7.4		at 37C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+0.73	dTMP	518	GYOZYWVXFNDGLU-XLPZGREQSA-N				wild-type
+0.73	N1-[(E)-4-dihydroxyphosphonyl-but-2-enyl]-5-fluorouracil	28408	HQXXZZRCJPJFHM-OWOJBTEDSA-N	37	7.4		at 37C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+0.76	dTMP	518	GYOZYWVXFNDGLU-XLPZGREQSA-N				wild-type enzyme fused to the protein transduction domain of Tat
+0.83	dTMP	518	GYOZYWVXFNDGLU-XLPZGREQSA-N			X	mutant carrying a substitution of the LID domain in human enzyme by the Escherichia coli LID sequence and mutation of the P-loop Arg residue to Gly and fused to the protein transduction domain of Tat
+0.84	N1-[(E)-4-dihydroxyphosphonyl-but-2-enyl]-thymine	28409	YKUCVYAJEHGNTI-NSCUHMNNSA-N	37	7.4		at 37C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+0.9	N1-[(E)-4-dihydroxyphosphonyl-but-2-enyl]-5-chlorouracil	13075	OJNXTNOGLCWOBG-OWOJBTEDSA-N	37	7.4		at 37C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+1.1	dTMP	518	GYOZYWVXFNDGLU-XLPZGREQSA-N			X	mutant carrying a substitution of the LID domain in human enzyme by the Escherichia coli LID sequence and mutation of the P-loop Arg residue to Gly
+1.2	5-bromo-dUMP	3659	LHLHVDBXXZVYJT-RRKCRQDMSA-N	37	7.4		at 37C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+1.5	3'-azido-3'-deoxythymidine 5'-monophosphate	3036	OIFWQOKDSPDILA-SPDVFEMOSA-L			X	mutant carrying a substitution of the LID domain in human enzyme by the Escherichia coli LID sequence and mutation of the P-loop Arg residue to Gly and fused to the protein transduction domain of Tat
+1.7	3'-azido-3'-deoxythymidine 5'-monophosphate	3036	OIFWQOKDSPDILA-SPDVFEMOSA-L			X	mutant carrying a substitution of the LID domain in human enzyme by the Escherichia coli LID sequence and mutation of the P-loop Arg residue to Gly
+3	dTMP	518	GYOZYWVXFNDGLU-XLPZGREQSA-N	37	7.4		at 37C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2
+4.8	dUMP	496	JSRLJPSBLDHEIO-SHYZEUOFSA-N	37	7.4		at 37C in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2

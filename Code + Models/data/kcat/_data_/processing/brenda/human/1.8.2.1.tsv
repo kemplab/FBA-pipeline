@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+10.6	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.0	X	tether deletion mutant enzyme DELTAKVATV, in 20 mM Tris acetate, pH 8.0, at 25C
+26.9	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.0		wild type enzyme, in 20 mM Tris acetate, pH 8.0, at 25C
+35	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.0	X	tether deletion mutant enzyme DELTAKVAT, in 20 mM Tris acetate, pH 8.0, at 25C
+39	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.0	X	mutant enzyme P105A, in 20 mM Tris acetate, pH 8.0, at 25C
+40	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.0	X	tether deletion mutant enzyme DELTAKVA, in 20 mM Tris acetate, pH 8.0, at 25C
+46	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.0	X	mutant enzyme P105A/P111A, in 20 mM Tris acetate, pH 8.0, at 25C
+50	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.0	X	mutant enzyme P111A, in 20 mM Tris acetate, pH 8.0, at 25C

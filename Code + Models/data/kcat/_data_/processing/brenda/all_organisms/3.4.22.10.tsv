@@ -1,0 +1,28 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.21	N-benzoyl-Gly-p-nitrophenyl ester	21201	LBDSGORYHQHXNN-UHFFFAOYSA-N				
+0.35	acetyl-Ala-Ile-Arg-7-amino-4-methylcoumarin	127205	FIKHIJFHPSZTLA-ZZLKRZPVSA-N	25	7.4	X	mutant G384D, pH 7.4, 25C
+0.39	acetyl-Ala-Ile-Arg-7-amino-4-methylcoumarin	127205	FIKHIJFHPSZTLA-ZZLKRZPVSA-N	25	7.4	X	mutant G380A, pH 7.4, 25C
+0.4	acetyl-Ala-Ile-Arg-7-amino-4-methylcoumarin	127205	FIKHIJFHPSZTLA-ZZLKRZPVSA-N	25	7.4	X	mutant G378A, pH 7.4, 25C
+0.52	acetyl-Ala-Ile-Arg-7-amino-4-methylcoumarin	127205	FIKHIJFHPSZTLA-ZZLKRZPVSA-N	25	7.4	X	mutant G384A, pH 7.4, 25C
+0.57	acetyl-Ala-Ile-Arg-7-amino-4-methylcoumarin	127205	FIKHIJFHPSZTLA-ZZLKRZPVSA-N	25	7.4	X	mutant G382A, pH 7.4, 25C
+0.6	acetyl-Ala-Ile-Arg-7-amino-4-methylcoumarin	127205	FIKHIJFHPSZTLA-ZZLKRZPVSA-N	25	7.4	X	mutant G381A, pH 7.4, 25C
+0.62	acetyl-Ala-Ile-Arg-7-amino-4-methylcoumarin	127205	FIKHIJFHPSZTLA-ZZLKRZPVSA-N	25	7.4	X	mutant T379V, pH 7.4, 25C
+0.63	acetyl-Ala-Ile-Arg-7-amino-4-methylcoumarin	127205	FIKHIJFHPSZTLA-ZZLKRZPVSA-N	25	7.4	X	mutant T379A, pH 7.4, 25C
+0.69	acetyl-Ala-Ile-Arg-7-amino-4-methylcoumarin	127205	FIKHIJFHPSZTLA-ZZLKRZPVSA-N	25	7.4		wild-type, pH 7.4, 25C
+1.09	benzyloxycarbonyl-Lys-Phe	13618	ZJNWRGVKAPAHCI-PMACEKPBSA-N				
+1.15	p-nitrobenzyloxycarbonyl-Gly-p-nitrophenyl ester	21222	XAEXEXAJYABTCN-UHFFFAOYSA-N				
+1.52	cinnamoyl-Gly-p-nitrophenyl ester	21127	RXVVERSAFFVTQP-IZZDOVSWSA-N				
+2.14	acetyl-Ala-Ile-Arg-7-amino-4-methylcoumarin	127205	FIKHIJFHPSZTLA-ZZLKRZPVSA-N	25	7.4	X	mutant G385A, pH 7.4, 25C
+2.3	benzyloxycarbonyl-Glu-Phe	4517	ZORDBMVWKMEZAC-ROUUACIJSA-N				
+4.31	tert-butyloxycarbonyl-Ala-p-nitrophenyl ester	8896	SUHFNHHZORGDFI-VIFPVBQESA-N				
+8.6	Nalpha-benzyloxycarbonyl-Nepsilon-t-butyloxycarbonyl-Lys-Phe	21217	JHSIJOXXLAMPHT-VXKWHMMOSA-N				
+9.4	N-benzyloxycarbonyl-Gly-p-nitrophenyl ester	21207	XJAXXKQGSSRNOA-UHFFFAOYSA-N				
+29.7	benzyloxycarbonyl-Lys-p-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N		4.27		pH 4.27
+89.8	benzyloxycarbonyl-Lys-p-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N		4.49		pH 4.49
+118	N-benzyloxycarbonyl-Ala-p-nitrophenyl ester	21202	HKLBFNUXBCAWPF-NSHDSACASA-N				
+142	benzyloxycarbonyl-Lys-p-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N		6.35		pH 6.35
+174	Nalpha-benzyloxycarbonyl-Lys-phenyl ester	31959	STGNCTUJRBIZNI-SFHVURJKSA-N		7.25		at pH 7.25
+176	Nalpha-benzyloxycarbonyl-Lys-p-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N		5.53		at pH 5.53
+178	Nalpha-benzyloxycarbonyl-Lys-p-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N		6.73		at pH 6.73
+182	Nalpha-benzyloxycarbonyl-Lys-p-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N		6.21		at pH 6.21
+190	Nalpha-benzyloxycarbonyl-Lys-p-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N		6.99		at pH 6.99

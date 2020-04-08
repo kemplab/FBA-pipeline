@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00042	peroxiredoxin-(S-hydroxy-S-oxocysteine)	3059	DXJIMIZQILWVMM-REOHCLBHSA-N	30	7.5		pH 7.5, 30C, saturating ATP, 0.03 mM Srx, 0.04 mM substrate
+0.003	peroxiredoxin-(S-hydroxy-S-oxocysteine)	3059	DXJIMIZQILWVMM-REOHCLBHSA-N	30			at 30C
+0.011	peroxiredoxin-(S-hydroxy-S-oxocysteine)	3059	DXJIMIZQILWVMM-REOHCLBHSA-N	30	7.5		pH 7.5, 30C, 1 mM ATP, 0.03 mM Srx, saturating substrate concentration
+0.016	gamma-S-ATP	1380	NLTUCYMLOPLUHL-KQYNXXCUSA-N	30	7.0		wild-type, pH 7.0, 30C
+0.03	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.0		wild-type, pH 7.0, 30C

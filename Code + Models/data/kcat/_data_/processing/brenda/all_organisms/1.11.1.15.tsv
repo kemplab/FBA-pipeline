@@ -1,0 +1,51 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.285	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	7.3		PrxQ, in 50 mM HEPES/NaOH, pH 7.3, at 25C; PrxT, in 50 mM HEPES/NaOH, pH 7.3, at 25C
+0.69	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N				
+0.83	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N				
+1	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, wild-type enzyme
+1.1	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+1.4	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N		7.0		pH 7.0, reaction with GSH
+1.67	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.6		pH 7.6, 30C
+2.6	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N				
+10.6	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N		8		wild type enzyme, in 25 mM Tris-HCl (pH 8)
+15.8	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	22	7.0		22C, pH 7.0
+17	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, TpAhpC
+22.3	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N		7.0		pH 7.0, temperature not specified in the publication, Prx197
+24.6	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N		7.0		pH 7.0, temperature not specified in the publication, Prx231
+25	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant enzyme T77I
+31.5	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant enzyme T77D
+52.4	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	7.0		in 50 mM potassium phosphate pH 7.0, at 25C
+55.1	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, wild-type enzyme
+75.8	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant enzyme T77V
+99.4	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N		7.0		pH 7.0, reaction with GSH
+957	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N		7.0		pH 7.0, reaction with thioredoxin
+9.65	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N	30	7.6		pH 7.6, 30C
+9.8	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N	25	7.0		pH 7.0, 25C, TpAhpC with cumene hydroperoxide
+17	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N	25	7.0		pH 7.0, 25C, TpAhpC with H2O2
+20.9	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N	25	7.0		pH 7.0, 25C, TpAhpC with t-butyl hydroperoxide
+1.5	tert-butyl hydroperoxide	511	CIHOLLKRGTVIJN-UHFFFAOYSA-N				
+2.79	tert-butyl hydroperoxide	511	CIHOLLKRGTVIJN-UHFFFAOYSA-N				
+7.6	tert-butyl hydroperoxide	511	CIHOLLKRGTVIJN-UHFFFAOYSA-N	22	7.0		22C, pH 7.0
+54.7	tert-butyl hydroperoxide	511	CIHOLLKRGTVIJN-UHFFFAOYSA-N	25	7.0		in 50 mM potassium phosphate pH 7.0, at 25C
+109	tert-butyl hydroperoxide	511	CIHOLLKRGTVIJN-UHFFFAOYSA-N		7.0		pH 7.0, reaction with GSH
+368	tert-butyl hydroperoxide	511	CIHOLLKRGTVIJN-UHFFFAOYSA-N		7.0		pH 7.0, reaction with thioredoxin
+0.274	cumene hydroperoxide	653	YQHLDYVWEZKEOX-UHFFFAOYSA-N	25	7.3		PrxT, in 50 mM HEPES/NaOH, pH 7.3, at 25C
+0.281	cumene hydroperoxide	653	YQHLDYVWEZKEOX-UHFFFAOYSA-N	25	7.3		PrxQ, in 50 mM HEPES/NaOH, pH 7.3, at 25C
+0.41	cumene hydroperoxide	653	YQHLDYVWEZKEOX-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+0.9	cumene hydroperoxide	653	YQHLDYVWEZKEOX-UHFFFAOYSA-N				
+6.3	cumene hydroperoxide	653	YQHLDYVWEZKEOX-UHFFFAOYSA-N	22	7.0		22C, pH 7.0
+7.3	cumene hydroperoxide	653	YQHLDYVWEZKEOX-UHFFFAOYSA-N		7.0		pH 7.0, temperature not specified in the publication, Prx197
+9.8	cumene hydroperoxide	653	YQHLDYVWEZKEOX-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, TpAhpC
+15.2	cumene hydroperoxide	653	YQHLDYVWEZKEOX-UHFFFAOYSA-N		7.0		pH 7.0, temperature not specified in the publication, Prx231
+52	cumene hydroperoxide	653	YQHLDYVWEZKEOX-UHFFFAOYSA-N	25	7.0		in 50 mM potassium phosphate pH 7.0, at 25C
+2	t-butyl hydroperoxide	511	CIHOLLKRGTVIJN-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+3.2	t-butyl hydroperoxide	511	CIHOLLKRGTVIJN-UHFFFAOYSA-N		7.0		pH 7.0, temperature not specified in the publication, Prx197
+10.4	t-butyl hydroperoxide	511	CIHOLLKRGTVIJN-UHFFFAOYSA-N		7.0		pH 7.0, temperature not specified in the publication, Prx231
+20.9	t-butyl hydroperoxide	511	CIHOLLKRGTVIJN-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, TpAhpC
+33.8	S128W NTD	4262	KEHVGDYFOUZHET-XQASUVORSA-N			X	mutant enzyme A167T
+44.5	S128W NTD	4262	KEHVGDYFOUZHET-XQASUVORSA-N			X	mutant enzyme S159P
+52.2	S128W NTD	4262	KEHVGDYFOUZHET-XQASUVORSA-N				wild type enzyme
+70.3	S128W NTD	4262	KEHVGDYFOUZHET-XQASUVORSA-N			X	mutant enzyme P161S
+109	S128W NTD	4262	KEHVGDYFOUZHET-XQASUVORSA-N			X	mutant enzyme P166L
+2.1	phosphatidylcholine hydroperoxide	5663	HBLCCILSGGAJQU-AXWDYBKVSA-O				
+52.7	Ethyl hydroperoxide	13363	ILHIHKRJJMKBEE-UHFFFAOYSA-N	25	7.0		in 50 mM potassium phosphate pH 7.0, at 25C

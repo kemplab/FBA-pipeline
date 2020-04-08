@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.001	dTDP-L-2-deoxyfucose	122485	GLUZBIYLBPDBPE-GIBSRQGRSA-N	25	7.5		with epsilon-rhodomycinone as cosubstrate, in 75 mM Tris (pH 7.5), 10 mM MgCl2, at 25C
+0.001	epsilon-rhodomycinone	19710	PYFOXRACBORDCT-GOSXWKPOSA-N	25	7.5		with dTDP-L-2-deoxyfucose as cosubstrate, in 75 mM Tris (pH 7.5), 10 mM MgCl2, at 25C
+0.003	aklavinone	3103	RACGRCLGVYXIAO-YOKWENHESA-N	25	7.5		with dTDP-4-amino-2-deoxyrhamnose as cosubstrate, in 75 mM Tris (pH 7.5), 10 mM MgCl2, at 25C
+0.003	dTDP-4-amino-2-deoxyrhamnose	128544	RLIPWZQZUOJLJM-NCOPAQCDSA-N	25	7.5		in 75 mM Tris (pH 7.5), 10 mM MgCl2, at 25C
+0.004	aklavinone	3103	RACGRCLGVYXIAO-YOKWENHESA-N	25	7.5		with dTDP-L-2-deoxyfucose as cosubstrate, in 75 mM Tris (pH 7.5), 10 mM MgCl2, at 25C
+0.004	dTDP-L-2-deoxyfucose	122485	GLUZBIYLBPDBPE-GIBSRQGRSA-N	25	7.5		with aklavinone as cosubstrate, in 75 mM Tris (pH 7.5), 10 mM MgCl2, at 25C
+0.0083	dTDP-beta-L-rhodosamine	111093	XPIWJCQKSXFPJI-VDHOWQJKSA-N	25	7.5		in the absence of activator protein AknT, at pH 7.5 and 25C
+0.16	dTDP-beta-L-rhodosamine	111093	XPIWJCQKSXFPJI-VDHOWQJKSA-N	25	7.5		at pH 7.5 and 25C

@@ -1,0 +1,80 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+160.2	acetylthiocholine	463	GFFIJCYHQYHUHB-UHFFFAOYSA-N	25	7.5	X	mutant enzyme A199S/S287G/A328W/Y332G, at 25C, in 0.1 M potassium phosphate, pH 7.5
+336.7	acetylthiocholine	463	GFFIJCYHQYHUHB-UHFFFAOYSA-N	25	7.5		wild type enzyme, at 25C, in 0.1 M potassium phosphate, pH 7.5
+125	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	25		X	mutant enzyme A199S/S287G/A328W/Y332G, pH not specified in the publication, at 25C
+230	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	25		X	mutant enzyme A199S/F227A/S287G/A328W/Y332G/E441D, pH not specified in the publication, at 25C
+243	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	25		X	mutant enzyme A199S/F227A/S287G/A328W/E441D, pH not specified in the publication, at 25C
+1433	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	25			wild type enzyme, pH not specified in the publication, at 25C
+0.016	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N		5		pH 5, wild-type enzyme, absence of excess substrate
+0.05	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N		5	X	pH 5, A328I mutant, presence of excess substrate
+0.4	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N		5	X	pH 5, A328W and E197Q mutant, absence of excess substrate
+2	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7	X	W82A mutant, pH 7, 25C
+2	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N		5	X	pH 5, L286W mutant, absence of excess substrate
+20.5	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N		5	X	pH 5, A328I mutant, absence of excess substrate
+22.3	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N		5	X	pH 5, A328G mutant, absence of excess substrate
+41.4	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N		5	X	pH 5, Y332A mutant, presence of excess substrate
+46.67	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7.5	X	mutant enzyme A199S/S287G/A328W/Y332G, at 25C, in 0.1 M potassium phosphate, pH 7.5
+46.7	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N		5		pH 5, wild-type enzyme, absence of excess substrate
+48.3	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N		5	X	pH 5, Y332A mutant, absence of excess substrate
+53.3	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N		5	X	pH 5, A328W and E197Q mutant, absence of excess substrate
+67	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7	X	E197D mutant, pH 7, 25C
+71.7	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N		5	X	pH 5, L286W mutant, absence of excess substrate
+83	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7	X	W430A mutant, pH 7, 25C
+98	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant G333C
+105	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N		5	X	pH 5, V288W mutant, absence of excess substrate
+110	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N		5	X	pH 5, A328F mutant, absence of excess substrate
+150	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7	X	E197Q mutant, pH 7, 25C
+250	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7	X	K339M mutant, pH 7, 25C
+290	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N		5	X	pH 5, L286W mutant, presence of excess substrate
+333	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7	X	G328G mutant, pH 7, 25C
+338	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant V294M
+450	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7		wild-type, pH 7, 25C
+490	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant R470W
+491.7	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7.5		wild type enzyme, at 25C, in 0.1 M potassium phosphate, pH 7.5
+500	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, wild-type enzyme
+508	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7	X	E497V/A539T mutant, pH 7, 25C
+533	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7	X	A328F mutant, pH 7, 25C
+542	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7	X	A539T mutant and E497V mutant, pH 7, 25C
+565	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7		wild-type, pH 7, 25C
+585	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant K12R
+617	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7	X	N83A mutant, pH 7, 25C
+667	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7	X	A328Y mutant, pH 7, 25C
+767	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25	7	X	N83Q mutant, pH 7, 25C
+920	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N		5	X	pH 5, A328F mutant, presence of excess substrate
+1048	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N		5	X	pH 5, V288W mutant, presence of excess substrate
+1050	butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N		5	X	pH 5, V288W mutant, presence of excess substrate
+386.8	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N			X	A328W/Y332A mutant BChE
+418.3	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N				wild-type BChE
+0.009	(-)-cocaine	1841	ZPUCINDJVBIVPJ-LJISPDSOSA-N	37	7.4		pH 7.4, 37C
+0.068	(-)-cocaine	1841	ZPUCINDJVBIVPJ-LJISPDSOSA-N		7.4		pH 7.4, wild-type enzyme
+0.83	(-)-cocaine	1841	ZPUCINDJVBIVPJ-LJISPDSOSA-N		7.4	X	pH 7.4, A328W mutant
+1.83	(-)-cocaine	1841	ZPUCINDJVBIVPJ-LJISPDSOSA-N		7.4	X	pH 7.4, Y332A mutant
+2.6	(-)-cocaine	1841	ZPUCINDJVBIVPJ-LJISPDSOSA-N		7.4	X	pH 7.4, A328W/Y332A mutant
+2.94	(-)-cocaine	1841	ZPUCINDJVBIVPJ-LJISPDSOSA-N		7.4	X	pH 7.4, Y332A mutant
+6.08	(-)-cocaine	1841	ZPUCINDJVBIVPJ-LJISPDSOSA-N		7.4	X	pH 7.4, A328W mutant
+14.7	Benzoylcholine	2033	HOPVGFKDVOOCHD-UHFFFAOYSA-N	25	7.4		wild-type, pH 7.4, 25C
+15	Benzoylcholine	2033	HOPVGFKDVOOCHD-UHFFFAOYSA-N	25	7.4	X	mutant D70G, pH 7.4, 25C
+223	Benzoylcholine	2033	HOPVGFKDVOOCHD-UHFFFAOYSA-N	25	7	X	E497V/A539T mutant, pH 7, 25C
+242	Benzoylcholine	2033	HOPVGFKDVOOCHD-UHFFFAOYSA-N	25	7		wild-type, pH 7, 25C
+245	Benzoylcholine	2033	HOPVGFKDVOOCHD-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+250	Benzoylcholine	2033	HOPVGFKDVOOCHD-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, D70G mutant
+250	Benzoylcholine	2033	HOPVGFKDVOOCHD-UHFFFAOYSA-N				usual and atypical enzyme
+265	Benzoylcholine	2033	HOPVGFKDVOOCHD-UHFFFAOYSA-N	25	7	X	A539T mutant, pH 7, 25C
+303	Benzoylcholine	2033	HOPVGFKDVOOCHD-UHFFFAOYSA-N	25	7	X	E497V mutant, pH 7, 25C
+250	2-Nitrophenyl butyrate	2550	DMBLCROMMOZRCN-UHFFFAOYSA-N	25	7	X	K339M mutant, pH 7, 25C
+333	2-Nitrophenyl butyrate	2550	DMBLCROMMOZRCN-UHFFFAOYSA-N	25	7	X	W430A mutant, pH 7, 25C
+416	2-Nitrophenyl butyrate	2550	DMBLCROMMOZRCN-UHFFFAOYSA-N	25	7	X	W82A mutant, pH 7, 25C
+600	2-Nitrophenyl butyrate	2550	DMBLCROMMOZRCN-UHFFFAOYSA-N	25	7		wild-type, pH 7, 25C
+0.82	benzoylthiocholine	5043	WHFRQMFIMVEPIU-UHFFFAOYSA-N	25	7.4		wild-type, pH 7.4, 25C
+1.3	benzoylthiocholine	5043	WHFRQMFIMVEPIU-UHFFFAOYSA-N	25	7.4	X	mutant D70G, pH 7.4, 25C
+13.3	benzoylthiocholine	5043	WHFRQMFIMVEPIU-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+21.6	benzoylthiocholine	5043	WHFRQMFIMVEPIU-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, D70G mutant
+200	N-methylindoxyl acetate	5705	QSVQMVRTWNDRDT-UHFFFAOYSA-N	25	7	X	pH 7, 25C, Y332A mutant
+250	N-methylindoxyl acetate	5705	QSVQMVRTWNDRDT-UHFFFAOYSA-N	25	7	X	pH 7, 25C, D70G/Y332A mutant
+300	N-methylindoxyl acetate	5705	QSVQMVRTWNDRDT-UHFFFAOYSA-N	25	7	X	pH 7, 25C, D70G mutant; pH 7, 25C, wild-type
+3	succinylthiocholine	8934	RIVDVPKFQITBEO-UHFFFAOYSA-O	25	7	X	K339M and W430A mutant, pH 7, 25C
+6	succinylthiocholine	8934	RIVDVPKFQITBEO-UHFFFAOYSA-O	25	7		wild-type, pH 7, 25C
+0.0085	(+)-cocaine	11466	ZPUCINDJVBIVPJ-BARDWOONSA-N	25	7.4		pH 7.4, 25C
+0.0000417	N-methyl-(7-dimethylcarbamoxy)quinolinium iodide	13735	YTLGJXQJZILJDB-UHFFFAOYSA-M				usual and atypical enzyme
+535	butyryl thiocholine iodide	1861	WEQAAFZDJROSBF-UHFFFAOYSA-M		7	X	pH 7, mutant with only 5 N-glycosylation sites
+800	o-nitrophenylbutyrate	2550	DMBLCROMMOZRCN-UHFFFAOYSA-N				usual and atypical enzyme

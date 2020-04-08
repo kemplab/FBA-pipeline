@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+27	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	37	7.5		37C, cofactor: NADPH; pH 7.5, 37C, recombinant enzyme, with NADPH
+67	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	37	7.5		37C, cofactor: NADH; pH 7.5, 37C, recombinant enzyme, with NADH
+38	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	37	7.5		37C, cofactor: NAPDH; pH 7.5, 37C, recombinant enzyme, with NADPH
+65	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	37	7.5		37C, cofactor: NADH; pH 7.5, 37C, recombinant enzyme, with NADH

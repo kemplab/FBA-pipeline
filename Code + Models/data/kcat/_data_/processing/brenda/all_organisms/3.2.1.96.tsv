@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+11	4-nitrophenyl-beta-D-N-acetylglucosamine	767	OMRLTNCLYHKQCK-DHGKCCLASA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant N175A
+64	4-nitrophenyl-beta-D-N-acetylglucosamine	767	OMRLTNCLYHKQCK-DHGKCCLASA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant N175G
+67	4-nitrophenyl-beta-D-N-acetylglucosamine	767	OMRLTNCLYHKQCK-DHGKCCLASA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant Y217F/N175Q
+150	4-nitrophenyl-beta-D-N-acetylglucosamine	767	OMRLTNCLYHKQCK-DHGKCCLASA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant D279A
+250	4-nitrophenyl-beta-D-N-acetylglucosamine	767	OMRLTNCLYHKQCK-DHGKCCLASA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant N175Q
+0.0458	dansyl-Asn-(GlcNAc)2(Man)5	9455	LVHPQBOEUKMAFI-HMWVTTLISA-N	37	6.0	X	mutant E174A, presence of 2 M sodium azide, pH 6.0, 37C
+365	dansyl-Asn-(GlcNAc)2(Man)5	9455	LVHPQBOEUKMAFI-HMWVTTLISA-N	37	6.0		wild-type, pH 6.0, 37C
+0.21	Man3GlcNAc-oxazoline	128706	CFJYTGJZCRGCLC-SHYLFXLQSA-N	30	7.5	X	mutant enzyme N322A, with Fmoc-Asn(Fucalpha1,6GlcNAc)-OH as acceptor, at pH 7.5 and 30C
+10.17	Man3GlcNAc-oxazoline	128706	CFJYTGJZCRGCLC-SHYLFXLQSA-N	30	7.5	X	mutant enzyme N322Q, with Fmoc-Asn(Fucalpha1,6GlcNAc)-OH as acceptor, at pH 7.5 and 30C
+0.24	Fmoc-Asn(Fucalpha(1-&gt;6)GlcNAc)-OH	128707	MCARXWIZADFQPU-HJQKPWBNSA-N	30	7.5	X	mutant enzyme N322A, at pH 7.5 and 30C
+14.32	Fmoc-Asn(Fucalpha(1-&gt;6)GlcNAc)-OH	128707	MCARXWIZADFQPU-HJQKPWBNSA-N	30	7.5	X	mutant enzyme N322Q, at pH 7.5 and 30C
+0.5	Fmoc-Asn(GlcNAc)-OH	125571	HDNZZXLCJIXZDX-ORQKIPKCSA-N	30	7.5	X	mutant enzyme N322A, at pH 7.5 and 30C
+6.37	Fmoc-Asn(GlcNAc)-OH	125571	HDNZZXLCJIXZDX-ORQKIPKCSA-N	30	7.5	X	mutant enzyme N322Q, at pH 7.5 and 30C

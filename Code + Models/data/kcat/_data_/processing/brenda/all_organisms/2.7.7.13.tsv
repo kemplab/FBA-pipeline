@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+6.85	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N				in the presence of 10 mM Mn2+
+195.9	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N				in the presence of 10 mM Mn2+
+195.9	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N		7.6		pH 7.6, recombinant enzyme, presence of 10 mM Mn2+
+22.1	GDPmannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	37	8.0		pH 8.0, 37C, cosubstrate diphosphate
+10.3	mannose 1-phosphate	1109	HXXFSFRBOHSIMQ-QTVWNMPRSA-N	37	8.0		pH 8.0, 37C, cosubstrate GTP

@@ -1,0 +1,44 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.018	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	23	7.0		wild-type, pH 7.0, 23C, presence of Mn2+
+0.028	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	23	7.0	X	mutant E166A, pH 7.0, 23C, presence of Mn2+
+0.037	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	23	7.0	X	mutant Y220F, pH 7.0, 23C, presence of Mn2+
+0.042	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	23	7.0	X	mutant Y220A, pH 7.0, 23C, presence of Mn2+
+0.045	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	23	7.0	X	mutant D135A, pH 7.0, 23C, presence of Mn2+
+0.047	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	23	7.0	X	mutant R73A, pH 7.0, 23C, presence of Mn2+
+0.06	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	23	7.0	X	mutant R73G, pH 7.0, 23C, presence of Mn2+
+0.067	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	23	7.0	X	mutant W189A, pH 7.0, 23C, presence of Mn2+
+0.068	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	23	7.0	X	mutant K76A, pH 7.0, 23C, presence of Mn2+
+0.082	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	23	7.0	X	mutant K9A, pH 7.0, 23C, presence of Mn2+
+0.085	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	23	7.0	X	mutant T139A, pH 7.0, 23C, presence of Mn2+
+0.127	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	23	7.0	X	mutant M229A, pH 7.0, 23C, presence of Mn2+
+0.163	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	23	7.0	X	mutant Y37A, pH 7.0, 23C, presence of Mn2+
+0.183	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	23	7.0	X	mutant R218A, pH 7.0, 23C, presence of Mn2+
+0.483	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	23	7.0	X	mutant H217A, pH 7.0, 23C, presence of Mn2+
+0.967	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	23	7.0	X	mutant Q66A, pH 7.0, 23C, presence of Mn2+
+1.02	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	25	7.8		pH 7.8, 25C, cosubstrate: D-glycerate
+6.1	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	65	7.8		pH 7.8, 65C, cosubstrate: D-glycerate
+0.017	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	23	7.0	X	mutant T139A, pH 7.0, 23C, presence of Mn2+
+0.023	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	23	7.0	X	mutant E166A, pH 7.0, 23C, presence of Mn2+; mutant Q66A, pH 7.0, 23C, presence of Mn2+
+0.032	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	23	7.0		wild-type, pH 7.0, 23C, presence of Mn2+
+0.055	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	23	7.0	X	mutant R73A, pH 7.0, 23C, presence of Mn2+
+0.06	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	23	7.0	X	mutant R73G, pH 7.0, 23C, presence of Mn2+
+0.065	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	23	7.0	X	mutant D135A, pH 7.0, 23C, presence of Mn2+
+0.067	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	23	7.0	X	mutant Y220A, pH 7.0, 23C, presence of Mn2+
+0.07	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	23	7.0	X	mutant Y220F, pH 7.0, 23C, presence of Mn2+
+0.075	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	23	7.0	X	mutant K76A, pH 7.0, 23C, presence of Mn2+
+0.077	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	23	7.0	X	mutant W189A, pH 7.0, 23C, presence of Mn2+
+0.083	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	23	7.0	X	mutant H217A, pH 7.0, 23C, presence of 3 mM Mg2+
+0.115	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	23	7.0	X	mutant K9A, pH 7.0, 23C, presence of Mn2+
+0.135	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	23	7.0	X	mutant M229A, pH 7.0, 23C, presence of Mn2+
+0.183	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	23	7.0	X	mutant Y37A, pH 7.0, 23C, presence of Mn2+
+0.25	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	23	7.0	X	mutant R218A, pH 7.0, 23C, presence of Mn2+
+0.267	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	23	7.0	X	mutant H217A, pH 7.0, 23C, presence of Mn2+
+0.6	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	23	7.0		wild-type, pH 7.0, 23C, presence of 3 mM Ca2+
+1.02	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	25	7.8		pH 7.8, 25C, cosubstrate: GDP-mannose
+1.92	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	23	7.0		wild-type, pH 7.0, 23C, presence of 3 mM Mg2+
+6.5	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	65	7.8		pH 7.8, 65C, cosubstrate: GDP-mannose
+0.0026	D-lactate	495	JVTAAEKCZFNVCJ-UWTATZPHSA-N	25	7.8		pH 7.8, 25C, cosubstrate: GDP-mannose
+0.017	D-lactate	495	JVTAAEKCZFNVCJ-UWTATZPHSA-N	23	7.0		wild-type, pH 7.0, 23C, presence of Mn2+
+0.63	GDP-glucose	841	MVMSCBBUIHUTGJ-LRJDVEEWSA-N	25	7.8		pH 7.8, 25C, cosubstrate: D-glycerate
+1.1	GDP-glucose	841	MVMSCBBUIHUTGJ-LRJDVEEWSA-N	25	7.8		pH 7.8, 25C, cosubstrate: D-glycerate
+0.0052	glycolic acid	399	AEMRFAOFKBGASW-UHFFFAOYSA-N	25	7.8		pH 7.8, 25C, cosubstrate: GDP-mannose

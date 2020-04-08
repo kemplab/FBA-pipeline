@@ -1,0 +1,23 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0012	Gly	68	DHMQDGOQFOQNFH-UHFFFAOYSA-N				with pyruvate as cosubstrate, decarboxylation
+0.025	alpha-aminomalonate	4044	JINBYESILADKFW-UHFFFAOYSA-N				with pyruvate as cosubstrate, oxidative decarboxylation
+0.033	L-Ala	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N				with pyruvate as cosubstrate, decarboxylation
+0.05	2-aminoisobutanoate	1376	FUOOLUPWFVMBKG-UHFFFAOYSA-N				activated by Ca2+
+0.076	2-aminoisobutanoate	1376	FUOOLUPWFVMBKG-UHFFFAOYSA-N				activated by Mg2+
+0.12	2-aminoisobutanoate	1376	FUOOLUPWFVMBKG-UHFFFAOYSA-N		7.8	X	pH 7.8, mutant enzyme Q52A
+0.12	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.8	X	pH 7.8, mutant enzyme Q52A
+0.2	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				with pyruvate as cosubstrate, decarboxylation
+0.86	2-aminoisobutanoate	1376	FUOOLUPWFVMBKG-UHFFFAOYSA-N				activated by Li+
+0.98	1-amino-1-cyclopentanecarboxylate	5440	NILQLFBWTXNUOE-UHFFFAOYSA-N				with pyruvate as cosubstrate, decarboxylation
+1.29	2-aminoisobutanoate	1376	FUOOLUPWFVMBKG-UHFFFAOYSA-N				enzyme with Na+ in the metal binding site
+1.4	2-aminoisobutanoate	1376	FUOOLUPWFVMBKG-UHFFFAOYSA-N				activated by Ba2+
+1.83	2-aminoisobutanoate	1376	FUOOLUPWFVMBKG-UHFFFAOYSA-N				activated by Na+
+2.3	1-amino-1-cyclohexanecarboxylate	29866	WOXWUZCRWJWTRT-UHFFFAOYSA-M				with pyruvate as cosubstrate, decarboxylation
+3.8	2-aminoisobutanoate	1376	FUOOLUPWFVMBKG-UHFFFAOYSA-N				activated by Cs+
+4.47	2-aminoisobutanoate	1376	FUOOLUPWFVMBKG-UHFFFAOYSA-N				enzyme with Rb+ in the metal binding site
+4.9	2-aminoisobutanoate	1376	FUOOLUPWFVMBKG-UHFFFAOYSA-N				activated by NH4+
+5.22	2-aminoisobutanoate	1376	FUOOLUPWFVMBKG-UHFFFAOYSA-N				activated by Tl+
+7.4	2-aminoisobutanoate	1376	FUOOLUPWFVMBKG-UHFFFAOYSA-N				activated by Rb+
+10.4	2-aminoisobutanoate	1376	FUOOLUPWFVMBKG-UHFFFAOYSA-N				activated by K+
+13.1	2-aminoisobutanoate	1376	FUOOLUPWFVMBKG-UHFFFAOYSA-N				enzyme with K+ in the metal binding site
+25	2-aminoisobutanoate	1376	FUOOLUPWFVMBKG-UHFFFAOYSA-N				with pyruvate as cosubstrate, decarboxylation

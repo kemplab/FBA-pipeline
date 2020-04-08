@@ -1,0 +1,101 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.57	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				horse cytochrome c
+1	ferrocytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	7			at 7C, in presence of 56% ethylene glycol
+1.3	cytochrome c550	66	VTLYFUHAOXGGBS-UHFFFAOYSA-N				
+1.6	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				Candida krusei cytochrome c
+1.8	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				Nitrosomonaseuropaea cytochrome c
+2.08	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+3.88	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				horse cytochrome c
+3.93	N,N,N',N'-tetramethyl-p-phenylendiamine	1590	CJAOGUFAAWZWNI-UHFFFAOYSA-N				ascorbate/N,N,N',N'-tetramethyl-p-phenylendiamine assay system
+4	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				Saccharomyces cerevisiae cytochrome c, in the presence of 0.05% laurylmaltoside
+5	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				Saccharomyces cerevisiae cytochrome c, in the presence of asolectin
+6	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	Rhodobacter sphaeroides cytochrome c, W143A mutant enzyme
+7.5	N,N,N',N'-tetramethyl-p-phenylendiamine	1590	CJAOGUFAAWZWNI-UHFFFAOYSA-N				
+8	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				in the presence of 0.1% dodecyl-beta-D-maltoside
+8.33	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				Candida krusei cytochrome c
+9.38	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				horse heart cytochrome c
+11	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				oxidation of horse heart cytochrome c
+12	ferrocytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	7			at 7C in absence of ethylene glycol
+13.3	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				enzyme reconstituted into asolectin liposomes
+14	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				Candida krusei cytochrome c, in the presence of cardiolipin
+15.3	diaminodurene	32355	WCZNKVPCIFMXEQ-UHFFFAOYSA-N				ascorbate/diaminodurene assay system
+20	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	20	5.5		Thiobacillus novellus cytochrome c, 12.5 mM phosphate at pH 5.5 and 20C
+20	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	horse cytochrome c, W143A mutant enzyme; Rhodobacter sphaeroides cytochrome c, W143F mutant enzyme
+20	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	R54M mutant enzyme
+24	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				Candida krusei cytochrome c
+24.3	phenazine methosulfate	250	RXGJTUSBYWCRBK-UHFFFAOYSA-M				ascorbate/phenazine methosulfate assay system
+30	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+30	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+30	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				high-affinity reaction
+32	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				horse cytochrome c
+32	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				horse cytochrome c, in the presence of cardiolipin
+36	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				oxidation of horse heart cytochrome c
+37.4	cytochrome c550	66	VTLYFUHAOXGGBS-UHFFFAOYSA-N				Magnetospirillum magnetotacticum cytochrome c550
+40	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+40	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	horse cytochrome c, W143F mutant enzyme
+45.8	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	20	5.5		Candida krusei cytochrome c, 30 mM phosphate at pH 5.5 and 20C
+50	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				soluble enzyme, higher values for particulate enzyme
+50	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				soluble enzyme, higher values for particulate enzyme
+50	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				soluble enzyme, higher values for particulate enzyme
+50	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	Rhodobacter sphaeroides cytochrome c, D229N mutant enzyme
+53	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				Thermus thermophilus cytochrome c
+54	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	Rhodobacter sphaeroides cytochrome c, D195Q mutant enzyme
+60	N,N,N',N'-tetramethyl-p-phenylendiamine	1590	CJAOGUFAAWZWNI-UHFFFAOYSA-N				ascorbate/N,N,N',N'-tetramethyl-p-phenylendiamine assay system
+66	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				horse heart cytochrome c
+80	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				low-affinity reaction
+80	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				horse cytochrome c
+90	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				horse-heart cytochrome c
+90	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				cow cytochrome c
+91	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+100	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	Rhodobacter sphaeroides cytochrome c, E157Q and E254A mutant enzyme
+111	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				Crithidia fasciculata cytochrome c, very low turnover numbers with human, yeast, rat, horse, and bovine cytochrome c
+120	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				fetal heart enzyme
+133	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+158	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				horse cytochrome c
+160	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				Saccharomyces oviformis cytochrome c
+180	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	Rhodobacter sphaeroides cytochrome c, D214N mutant enzyme
+180	N,N,N',N'-tetramethyl-p-phenylendiamine	1590	CJAOGUFAAWZWNI-UHFFFAOYSA-N				
+187	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				horse heart cytochrome c
+200	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				adult heart enzyme
+220	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	Rhodobacter sphaeroides cytochrome c, D151N/E152Q mutant enzyme
+220	N,N,N',N'-tetramethyl-p-phenylendiamine	1590	CJAOGUFAAWZWNI-UHFFFAOYSA-N				
+230	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	Rhodobacter sphaeroides cytochrome c, E148Q mutant enzyme
+260	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				tuna cytochrome c
+260	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	Rhodobacter sphaeroides cytochrome c, D188N/E189Q mutant enzyme
+270	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				Rhodobacter sphaeroides cytochrome c, wild-type enzyme
+290	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				Candida krusei cytochrome c
+290	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				wild-type enzyme, horse cytochrome c, 155 mM ionic strength
+300	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				horse heart cytochrome c
+300	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+300	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				horse heart cytochrome c
+336	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				horse cytochrome c, in the presence of cardiolipin
+350	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				muscle enzyme
+360	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				muscle enzyme
+380	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				heart enzyme
+400	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+400	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	horse cytochrome c, D214N and D229N mutant enzyme
+410	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				muscle enzyme
+500	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				enzyme from kidney, photometric assay
+520	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				enzyme from diaphragm, photometric assay
+535	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				purified COV
+540	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				enzyme from liver, photometric assay
+550	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				enzyme from heart, photometric assay
+550	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	407		X	reconstituted recombinant D407C mutant enzyme
+590	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				wild-type enzyme, horse cytochrome c, 5 mM ionic strength
+600	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	horse cytochrome c, E157Q and E254Amutant enzyme
+650	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	407		X	recombinant D407C mutant enzyme
+700	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	reconstituted recombinant D407A mutant enzyme; reconstituted recombinant D407N mutant enzyme
+708	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				unpurified COV
+980	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	wild-type, D188N/E189Q and D151N/E152Q mutant enzyme, horse cytochrome c, 75 mM ionic strength
+1000	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				
+1100	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	recombinant D407A mutant enzyme
+1100	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	horse cytochrome c, E148Q mutant enzyme
+1200	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				reconstituted wild-type enzyme
+1200	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	horse cytochrome c, D195Q mutant enzyme
+1300	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				wild-type enzyme
+1300	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	horse cytochrome c, D151N/E152Q mutant enzyme
+1400	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	recombinant D407N mutant enzyme
+1500	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				horse heart cytochrome c
+1600	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L			X	horse cytochrome c, D188N/E189Q mutant enzyme
+1700	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				horse cytochrome c, wild-type enzyme
+2000	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				recombinant enzyme

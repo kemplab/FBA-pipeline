@@ -1,0 +1,61 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.3	2,2'-azino-bis-(3-ethylbenzthiazole-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	3.5		25C, pH 3.5
+0.3	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	3.5		25C, pH 3.5
+0.46	Br-	285	CPELXLSAUQHCOX-UHFFFAOYSA-M	20	6.5		20C, pH 6.5
+1.3	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N		7.2		pH 7.2
+3.2	Pentachlorophenol	821	IZUPBVBPLAPZRR-UHFFFAOYSA-N		4.0		pH 4.0
+4.7	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J	24	3.5	X	24C, pH 3.5, mutant enzyme H232F
+5	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J	24	3.5		24C, pH 3.5, wild-type enzyme
+6	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J	24	3.5	X	24C, pH 3.5, mutant enzyme P76H
+6.13	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N		6.0		at pH 6.0
+6.8	3,5-dibromo-4-hydroxybenzonitrile	6067	UPMXNNIRAGDFEH-UHFFFAOYSA-N		4.0		pH 4.0
+8	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	24	3		24C, pH 3, wild-type enzyme
+8.7	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	7.0		in the presence of 25% (v/v) 1-butyl-3-methylimidazolium tetrafluoroborate, in potassium phosphate buffer (20 mM, pH 7.0) at 25C
+9.3	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	7.0		in the presence of 20% (v/v) 1-butyl-3-methylimidazolium tetrafluoroborate, in potassium phosphate buffer (20 mM, pH 7.0) at 25C
+10.6	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	7.0		in the presence of 15% (v/v) 1-butyl-3-methylimidazolium tetrafluoroborate, in potassium phosphate buffer (20 mM, pH 7.0) at 25C
+10.9	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	7.0		in the presence of 10% (v/v) 1-butyl-3-methylimidazolium tetrafluoroborate, in potassium phosphate buffer (20 mM, pH 7.0) at 25C
+11	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	24	3	X	24C, pH 3, mutant enzyme P76H
+12.2	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	7.0		in the absence of 1-butyl-3-methylimidazolium tetrafluoroborate, in potassium phosphate buffer (20 mM, pH 7.0) at 25C
+12.3	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	9.0		in 100 mM Tris-HCl, pH 9.0, at 25C
+12.4	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N	25	7.0		in the presence of 5% (v/v) 1-butyl-3-methylimidazolium tetrafluoroborate, in potassium phosphate buffer (20 mM, pH 7.0) at 25C
+13	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N		7.0		in 50 mM potassium phosphate buffer, pH 7.0
+13.6	SCN-	790	ZBKFYXZXZJPWNQ-UHFFFAOYSA-N	20	6.5		20C, pH 6.5
+14	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	24	3	X	24C, pH 3, mutant enzyme H232F
+17.8	3-methyltyrosine	7348	MQHLULPKDLJASZ-QMMMGPOBSA-N	25	9.0		in 100 mM Tris-HCl, pH 9.0, at 25C
+70.1	cumene hydroperoxide	653	YQHLDYVWEZKEOX-UHFFFAOYSA-N	25	7.0		25C, pH 7.0
+76	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	7.0		25C, pH 7.0
+90	3,5-dimethoxyphenol	15238	XQDNFAMOIPNVES-UHFFFAOYSA-N		7.0		pH 7.0
+100	2,3-dimethoxyphenol	23294	QSZCGGBDNYTQHH-UHFFFAOYSA-N		7.0		pH 7.0
+102.5	pyrogallol	534	WQGWDDDVZFFDIG-UHFFFAOYSA-N	30	5.5		30C, pH 5.5, isoenzyme E5
+172	3,3',5,5'-tetramethylbenzidine	3255	UAIUNKRWKOVEES-UHFFFAOYSA-N	20	7.4		20C, pH 7.4
+201.8	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N		6.0		at pH 6.0
+207	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N	24	5	X	24C, pH 5, mutant enzyme W164S
+240	amplex red	17416	PKYCWFICOKSIHZ-UHFFFAOYSA-N				native HRP
+247	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N	24	5	X	24C, pH 5, mutant enzyme W164S/P76H
+270	o-toluidine	3525	RNVCVTLRINQCPJ-UHFFFAOYSA-N		7.0		pH 7.0
+291	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N	24	5	X	24C, pH 5, mutant enzyme P76H
+298	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N	24	5		24C, pH 5, wild-type enzyme
+300	3-(4-hydroxyphenyl)propanoic acid	3766	NMHMNPHRMNGLLB-UHFFFAOYSA-N		7.0		pH 7.0
+308	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N	24	5	X	24C, pH 5, mutant enzyme H232F
+311.7	p-hydroxybenzoic acid	311	FJKROLUGYXJWQN-UHFFFAOYSA-N	30			native enzyme, at 30C
+320	Mn2+	26	WAEMQWOKJMHJLA-UHFFFAOYSA-N	24	5	X	24C, pH 5, mutant enzyme W164H
+320	tert-butyl hydroperoxide	511	CIHOLLKRGTVIJN-UHFFFAOYSA-N		7.0		in 50 mM potassium phosphate buffer, pH 7.0
+330	cumene hydroperoxide	653	YQHLDYVWEZKEOX-UHFFFAOYSA-N		7.0		in 50 mM potassium phosphate buffer, pH 7.0
+430	m-hydroxyanisol	5648	ASHGTJPOSUFTGB-UHFFFAOYSA-N		7.0		pH 7.0
+435	3,3',5,5'-tetramethylbenzidine	3255	UAIUNKRWKOVEES-UHFFFAOYSA-N	20	6.8		20C, pH 6.8
+528	o-phenylenediamine	2394	GEYOCULIXLDCMW-UHFFFAOYSA-N		6.2		20, pH 6.2
+650	N,N,N',N'-tetramethyl-p-phenylenediamine	1590	CJAOGUFAAWZWNI-UHFFFAOYSA-N		7.0		pH 7.0
+691.7	phenol	219	ISWSIDIOOBJBQZ-UHFFFAOYSA-N	30			native enzyme, at 30C
+736	2,2'-azino-bis-(3-ethylbenzthiazole-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	6.8		25C, pH 6.8
+744.6	o-phenylenediamine	2394	GEYOCULIXLDCMW-UHFFFAOYSA-N	30	5.5		30C, pH 5.5, isoenzyme E5
+790	3,3',5,5'-tetramethylbenzidine	3255	UAIUNKRWKOVEES-UHFFFAOYSA-N	20	6.4		20C, pH 6.4
+810	2,2'-azino-bis-(3-ethylbenzthiazole-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	5.0		25C, pH 5.0
+871	esculetin	1157	ILEDWLMCKZNDJK-UHFFFAOYSA-N		7		at pH 7; kcat as a kinetic constant of the POD/H2O2/ESC system at pH 7
+890	esculetin	1157	ILEDWLMCKZNDJK-UHFFFAOYSA-N		4.5		at pH 4.5; kcat as a kinetic constant of the POD/H2O2/ESC system at pH 4.5
+990	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N		7.0		pH 7.0
+1230	2,2'-azino-bis-(3-ethylbenzthiazole-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	6.8		25C, pH 6.8
+1272	4-Aminophenol	2451	PLIKAWJENQZMHA-UHFFFAOYSA-N	30			native enzyme, at 30C
+1800	3,4-dimethoxyphenol	23295	SMFFZOQLHYIRDA-UHFFFAOYSA-N		7.0		pH 7.0
+1900	2-chloro-4-methoxyphenol	23293	GNVRRKLFFYSLGT-UHFFFAOYSA-N		7.0		pH 7.0
+2383	reduced 2,2'-azino-bis-(3-ethylbenzthiazole-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	30	5.5		30C, pH 5.5, isoenzyme E5
+2663	2,2'-azino-bis-(3-ethylbenzthiazole-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	5.0		25C, pH 5.0

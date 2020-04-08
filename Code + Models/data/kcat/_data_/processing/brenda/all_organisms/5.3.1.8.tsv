@@ -1,0 +1,42 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.076	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	25	7.1		pH 7.1, 25C
+0.25	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	25	7.0	X	mutant R472A, pH 7.0, 25C
+0.54	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	25	7.0	X	mutant R479A, pH 7.0, 25C
+0.75	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	25	7.0	X	mutant R373A, pH 7.0, 25C
+1.38	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	25	7.0		wild-type, pH 7.0, 25C
+2.63	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	25	7.0	X	mutant E410A, pH 7.0, 25C
+3	beta-D-mannose 6-phosphate	113798	NBSCHQHZLSJFNQ-RWOPYEJCSA-N	25	7.1		in 50 mM HEPES buffer, pH 7.1, at 25C
+3.25	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	25	7.0	X	mutant E458A, pH 7.0, 25C
+3.5	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	25	7.0	X	mutant N433A, pH 7.0, 25C
+4.41	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	25	7.0	X	mutant H411A, pH 7.0, 25C
+11	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	80	7.0	X	mutant enzyme W13A, pH 7.0, 80C
+19	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	80	7.0	X	mutant enzyme E132A, pH 7.0, 80C
+19.4	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N		7.6		pH 7.6, presence of 5 mM Mg2+
+20	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	25	7.1		pH 7.1, 25C
+23	beta-D-mannose 6-phosphate	113798	NBSCHQHZLSJFNQ-RWOPYEJCSA-N	25	7.1		in 50 mM HEPES buffer, pH 7.1, at 25C
+31	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	80	7.0	X	mutant enzyme E67A, pH 7.0, 80C
+37	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	80	7.0	X	mutant enzyme Q48A, pH 7.0, 80C
+54	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	80	7.0	X	mutant enzyme H50A, pH 7.0, 80C
+70	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	80	7.0	X	mutant enzyme R142A, pH 7.0, 80C
+72	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N	40	7.5		pH 7.5, 40C, recombinant enzyme
+75	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	80	7.0	X	mutant enzyme H122A, pH 7.0, 80C
+121	mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N				selenomethionine-labelled enzyme
+141	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	80	7.0		wild type enzyme, pH 7.0, 80C
+162	mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N				wild-type enzyme
+920	L-allose	6834	GZCGUPFRVQAUEE-MOJAZDJTSA-N	40	7.5		pH 7.5, 40C, recombinant enzyme
+1371	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	80	7.0		wild type enzyme, pH 7.0, 80C
+3748	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	40	7.5		pH 7.5, 40C, recombinant enzyme
+7089	D-Lyxose	1193	HMFHBZSHGGEWLO-AGQMPKSLSA-N	40	7.5		pH 7.5, 40C, recombinant enzyme
+17600	L-ribose	2240	HMFHBZSHGGEWLO-OWMBCFKOSA-N	40	7.5		pH 7.5, 40C, recombinant enzyme
+23550	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	70	7.0		wild type enzyme, at pH 7.0 and 70C
+32670	L-ribulose	1217	LQXVFWRQNMEDEE-QRHDOFTISA-N	75	7.0	X	mutant enzyme R142E, at pH 7.0 and 75C
+48300	L-ribulose	1217	LQXVFWRQNMEDEE-QRHDOFTISA-N	75	7.0	X	mutant enzyme R142Q, at pH 7.0 and 75C
+50640	L-ribulose	1217	LQXVFWRQNMEDEE-QRHDOFTISA-N	75	7.0		wild type enzyme, at pH 7.0 and 75C
+55120	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	70	7.0	X	mutant enzyme L129F, at pH 7.0 and 70C
+56180	L-ribulose	1217	LQXVFWRQNMEDEE-QRHDOFTISA-N	75	7.0	X	mutant enzyme R142Y, at pH 7.0 and 75C
+63970	D-talose	1496	GZCGUPFRVQAUEE-KAZBKCHUSA-N	40	7.5		pH 7.5, 40C, recombinant enzyme
+64870	L-ribulose	1217	LQXVFWRQNMEDEE-QRHDOFTISA-N	75	7.0	X	mutant enzyme R142A, at pH 7.0 and 75C
+68880	L-ribulose	1217	LQXVFWRQNMEDEE-QRHDOFTISA-N	75	7.0	X	mutant enzyme R142K, at pH 7.0 and 75C
+81060	L-ribulose	1217	LQXVFWRQNMEDEE-QRHDOFTISA-N	75	7.0	X	mutant enzyme R142N, at pH 7.0 and 75C
+85720	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	70	7.0	X	mutant enzyme N90A/L129F, at pH 7.0 and 70C
+112100	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	70	7.0	X	mutant enzyme W17Q/N90A/L129F, at pH 7.0 and 70C

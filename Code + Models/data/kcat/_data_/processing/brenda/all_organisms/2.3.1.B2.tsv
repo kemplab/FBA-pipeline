@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+26	(R)-3-hydroxybutyryl-CoA	2339	QHHKKMYHDBRONY-JYMPOPDUSA-N	25	7.0	X	25C, pH 7.0, mutant enzyme G4D, based on one catalytic site in a dimeric enzyme
+44	(R)-3-hydroxybutyryl-CoA	2339	QHHKKMYHDBRONY-JYMPOPDUSA-N	25	7.0		25C, pH 7.0, wild-type enzyme, based on one catalytic site in a dimeric enzyme
+10	3-hydroxypropionyl-CoA	1974	BERBFZCUSMQABM-IEXPHMLFSA-N				
+196	(R)-3-hydroxybutanoyl-CoA	9272	QHHKKMYHDBRONY-WZZMXTMRSA-N	25	7.2		pH 7.2, 25C, presence of 0.05% Hecameg

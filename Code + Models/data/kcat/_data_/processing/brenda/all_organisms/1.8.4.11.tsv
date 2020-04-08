@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.048	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N	37	8.0		in 20 mM Tris-HCl, pH 8.0, 30 mM KCl, 10 mM MgCl2, at 37C
+0.06	dabsyl L-methionine-(S)-sulfoxide	7768	XMGXJIRDHLTWGA-UOQXOBTISA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+0.1	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N	28	8.0	X	mutant C180S of isoform MSRA2, in 50 mM Tris-HCl (pH 8.0), at 28C; mutant C194S of isoform E4, in 50 mM Tris-HCl (pH 8.0), at 28C
+0.11	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N	28	8.0		wild type isoform MSRA2, in 50 mM Tris-HCl (pH 8.0), at 28C
+0.13	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N	28	8.0	X	mutant C188S of isoform E4, in 50 mM Tris-HCl (pH 8.0), at 28C
+0.15	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N	28	8.0		wild type isoform E4, in 50 mM Tris-HCl (pH 8.0), at 28C
+0.17	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N	28	8.0	X	mutant C180S of isoform E4, in 50 mM Tris-HCl (pH 8.0), at 28C
+0.28	dabsyl-L-methionine-(S)-S-oxide	6630	ODHCHXIGNYCIAY-AYLPOAFMSA-N	37	7.5		recombinant wild-type MsrA, with DTT, pH 7.5, 37C
+0.32	L-methionine (S)-sulfoxide	3058	QEFRNWWLZKMPFJ-MFXDVPHUSA-N	30	7.5		recombinant enzyme. isoform MSRA, at 30C and pH 7.5
+0.52	L-methionine (S)-sulfoxide	3058	QEFRNWWLZKMPFJ-MFXDVPHUSA-N	30	7.5		recombinant enzyme. isoform MSR10, at 30C and pH 7.5
+0.6	L-methionine (S)-sulfoxide	3058	QEFRNWWLZKMPFJ-MFXDVPHUSA-N	25	5.5		pH 5.5, 25C, MsrA, steady-state conditions
+0.78	dabsyl-L-methionine-(S)-S-oxide	6630	ODHCHXIGNYCIAY-AYLPOAFMSA-N	37	7.5		recombinant truncated MsrA DELTA(1-46), with DTT, pH 7.5, 37C
+0.91	9-fluorenylmethyl chloroformate-labeled L-methionine-(S)-S-oxide	9258	CEHRSUBRZOGRSW-MYUZEXMDSA-N	22	7.5		recombinant isozyme PMSRA3, with DTT, pH 7.5, 22C
+1.59	9-fluorenylmethyl chloroformate-labeled L-methionine-(S)-S-oxide	9258	CEHRSUBRZOGRSW-MYUZEXMDSA-N	22	8.0		recombinant isozyme PMSRA4, with DTT, pH 8.0, 22C
+3.7	L-methionine (S,R)-sulfoxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N	25	8.0		MsrB activity of PILB, pH 8.0, 25C
+3.7	L-methionine (S)-sulfoxide	3058	QEFRNWWLZKMPFJ-MFXDVPHUSA-N	25	8.0		pH 8.0, 25C, cofactor thioredoxin
+3.8	dabsylated L-methionine (S)-sulfoxide	9862	ODHCHXIGNYCIAY-PEIIXLJSSA-N	16	7.5	X	purified cysteine mutant form U16C, using dithiothreitol as cosubstrate, in 50 mM sodium phosphate, pH 7.5, at 37C
+7	L-methionine (S)-sulfoxide	3058	QEFRNWWLZKMPFJ-MFXDVPHUSA-N	25	8.0		pH 8.0, 25C, MsrA, steady-state conditions
+84	dabsylated L-methionine (S)-sulfoxide	9862	ODHCHXIGNYCIAY-PEIIXLJSSA-N	37	7.5		wild type enzyme, using dithiothreitol as cosubstrate, in 50 mM sodium phosphate, pH 7.5, at 37C

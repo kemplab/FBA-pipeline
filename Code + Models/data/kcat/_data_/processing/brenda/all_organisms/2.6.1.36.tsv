@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N			X	mutant E243A, pH not specified in the publication, temperature not specified in the publication
+1.43	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N				
+1.43	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.917	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N				
+0.92	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+1.17	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N			X	mutant E243A, pH not specified in the publication, temperature not specified in the publication

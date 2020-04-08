@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0014	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant DELTA6; mutant DELTA8
+0.0015	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant DELTA5
+0.0019	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant DELTA10
+0.002	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant DELTA3
+0.0021	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant DELTA4; mutant DELTA7
+16.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				wild-type liver isoenzyme enzyme
+17.6	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	179	7.5	X	muscle enzyme mutant K20E/T177M/Q179C, pH 7.5, 37C
+18.4	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	7.5	X	liver enzyme mutant M177T/C179Q, pH 7.5, 37C
+18.6	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	7.5	X	liver enzyme mutant E20K, pH 7.5, 37C
+19.9	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	179	7.5	X	muscle enzyme mutant T177M/Q179C, pH 7.5, 37C
+20.8	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	7.5		wild-type liver enzyme, pH 7.5, 37C
+21.1	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	7.5	X	muscle enzyme mutant K20E, pH 7.5, 37C
+21.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	7.5	X	liver enzyme mutant E20K/M177T/C179Q, pH 7.5, 37C
+21.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	7.0		wild-type, pH 7.0, 37C
+23.4	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	7.5		wild-type muscle enzyme, pH 7.5, 37C
+23.5	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				wild-type muscle isoenzyme enzyme
+24.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	7.0	X	mutant Y57W, pH 7.0, 37C

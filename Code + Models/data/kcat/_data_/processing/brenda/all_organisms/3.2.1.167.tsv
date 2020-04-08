@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.011	5,6,7-trihydroxyflavone 7-O-beta-D-glucoronate	2603	IKIIZLYTISPENI-ZFORQUDYSA-N	28	6.5	X	pH 6.5, 28C, mutant enzyme E329A
+0.135	5,6,7-trihydroxyflavone 7-O-beta-D-glucoronate	2603	IKIIZLYTISPENI-ZFORQUDYSA-N	28	6.5	X	pH 6.5, 28C, mutant enzyme E212A
+0.77	5,6,7-trihydroxyflavone 7-O-beta-D-glucoronate	2603	IKIIZLYTISPENI-ZFORQUDYSA-N	28	6.5	X	pH 6.5, 28C, mutant enzyme Y281A
+6.37	wogonoside	27138	LNOHXHDWGCMVCO-NTKSAMNMSA-N	37	5.0		recombinant His-tagged enzyme, pH 5.0, 37C
+18.5	Baicalin	2603	IKIIZLYTISPENI-ZFORQUDYSA-N	37	5.0		recombinant His-tagged enzyme, pH 5.0, 37C
+21.3	Baicalin	2603	IKIIZLYTISPENI-ZFORQUDYSA-N	37	5.0		native enzyme, pH 5.0, 37C
+31.8	4-nitrophenyl beta-D-glucuronide	2735	QSUILVWOWLUOEU-GOVZDWNOSA-N	37	5.0		recombinant His-tagged enzyme, pH 5.0, 37C
+53.7	4-nitrophenyl beta-D-glucuronide	2735	QSUILVWOWLUOEU-GOVZDWNOSA-N	37	5.0		native enzyme, pH 5.0, 37C
+639	5,6,7-trihydroxyflavone 7-O-beta-D-glucoronate	2603	IKIIZLYTISPENI-ZFORQUDYSA-N	28	6.5		pH 6.5, 28C, wild-type enzyme

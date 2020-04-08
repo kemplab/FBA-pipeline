@@ -1,0 +1,154 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.38	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25			wild type enzyme, at 25C
+0.42	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N				ANtS40L Rubisco oligomer complex, using soluble leaf protein extract
+0.49	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N				
+0.83	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N				
+1	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	8	X	mutant enzyme H44N, at 25C, pH 8
+1.1	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	8	X	mutant enzyme D117H, at 25C, pH 8
+1.2	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	8	X	mutant enzyme H44Q, at 25C, pH 8
+1.4	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	8		wild type enzyme, at 25C, pH 8
+1.5	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	8	X	mutant enzyme D117V, at 25C, pH 8
+0.2	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N			X	mutant D263Q, cosubstrate: D-ribulose 1,5-bisphosphate
+0.25	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25			wild type enzyme, at 25C
+0.31	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.3		wild type enzyme, in 100 mM Bicine-NaOH (pH 8.3) and 10 mM MgCl2, temperature not specified in the publication
+0.46	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N			X	mutant D263S, cosubstrate: D-ribulose 1,5-bisphosphate
+0.53	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.3	X	mutant enzyme V330T, in 100 mM Bicine-NaOH (pH 8.3) and 10 mM MgCl2, temperature not specified in the publication
+0.6	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N			X	mutant A375V, co-substrate: D-ribulose 1,5-bisphosphate
+0.65	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				wild-type, using soluble leaf protein extract
+0.78	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				
+0.81	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N			X	mutant D263A, cosubstrate: D-ribulose 1,5-bisphosphate
+0.82	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N			X	mutant D263N, cosubstrate: D-ribulose 1,5-bisphosphate
+0.83	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				
+0.94	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N			X	mutant D263E, cosubstrate: D-ribulose 1,5-bisphosphate
+1.04	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				
+1.2	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.3		at pH 8.3
+1.2	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				cosubstrate: D-ribulose 1,5-bisphosphate
+1.38	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				
+1.59	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				
+1.69	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				
+1.9	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				enzyme form I
+1.95	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				
+2.22	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	28	8.0		recombinant enzyme expressed in Oryza sativa transgenic line SS16, in 100 mM Bicine-NaOH, 1 mM EDTA, 5 mM MgCl2, 2 mM NaH2PO4, 0.4% (w/v) bovine serum albumin, 5 mM dithiothreitol, 4 mM amino-n-caproic acid, and 0.8 mM benzamidine, pH 8.0, at 28C
+2.48	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	28	8.0		recombinant enzyme expressed in Oryza sativa transgenic line SS5, in 100 mM Bicine-NaOH, 1 mM EDTA, 5 mM MgCl2, 2 mM NaH2PO4, 0.4% (w/v) bovine serum albumin, 5 mM dithiothreitol, 4 mM amino-n-caproic acid, and 0.8 mM benzamidine, pH 8.0, at 28C
+2.5	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8		at pH 8
+2.52	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	28	8.0		recombinant enzyme expressed in Oryza sativa transgenic line SS10, in 100 mM Bicine-NaOH, 1 mM EDTA, 5 mM MgCl2, 2 mM NaH2PO4, 0.4% (w/v) bovine serum albumin, 5 mM dithiothreitol, 4 mM amino-n-caproic acid, and 0.8 mM benzamidine, pH 8.0, at 28C
+2.6	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.3		at pH 8.3
+2.6	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				cosubstrate: D-ribulose 1,5-bisphosphate
+2.65	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				
+2.9	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				ANtS40L Rubisco oligomer complex, using soluble leaf protein extract; rubisco oligomer (S40L)8 composed of linked small and large subunits, measured using fractions 7 and 8 following Superdex 200 HR purification
+3	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25	8.0	X	mutant enzyme K122R, in CO2- and O2-free 200 mM Bicine-NaOH buffer (pH 8.0) containing 20 mM MgCl2, at 25C
+3.1	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N			X	mutant A375V/D103V, co-substrate: D-ribulose 1,5-bisphosphate
+3.1	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				rubisco oligomer (S40L)16 composed of linked small and large subunits, measured using fractions 7 and 8 following Superdex 200 HR purification; wild-type, using soluble leaf protein extract
+3.3	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				wild-type, measured using fractions 12 and 13 following Superdex 200 HR purification
+3.4	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.3		at pH 8.3
+3.4	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.3		at pH 8.3
+3.4	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				cosubstrate: D-ribulose 1,5-bisphosphate
+3.4	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				cosubstrate: D-ribulose 1,5-bisphosphate
+3.5	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				enzyme form II
+3.7	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.3		at pH 8.3
+3.71	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				
+3.8	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.3		at pH 8.3
+3.8	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				
+4.09	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	28	8.0		wild type enzyme, in 100 mM Bicine-NaOH, 1 mM EDTA, 5 mM MgCl2, 2 mM NaH2PO4, 0.4% (w/v) bovine serum albumin, 5 mM dithiothreitol, 4 mM amino-n-caproic acid, and 0.8 mM benzamidine, pH 8.0, at 28C
+4.2	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				cosubstrate: D-ribulose 1,5-bisphosphate
+4.4	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.3		at pH 8.3
+4.7	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				
+4.9	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N			X	mutant D103V, co-substrate: D-ribulose 1,5-bisphosphate; wild-type, co-substrate: D-ribulose 1,5-bisphosphate
+5	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25	8.0		wild type enzyme, in CO2- and O2-free 200 mM Bicine-NaOH buffer (pH 8.0) containing 20 mM MgCl2, at 25C
+5.4	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.3		at pH 8.3
+5.8	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.3		at pH 8.3
+6.28	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				wild-type, cosubstrate: D-ribulose 1,5-bisphosphate
+6.7	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.0		at pH 8.0
+7.3	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		7.8		at pH 7.8
+7.4	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25	8	X	mutant enzyme D117V, at 25C, pH 8
+7.5	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25	8	X	mutant enzyme D117H, at 25C, pH 8
+9.3	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25	8	X	mutant enzyme H44Q, at 25C, pH 8
+9.8	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25	8	X	mutant enzyme H44N, at 25C, pH 8
+11.6	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		7.8		at pH 7.8
+12.3	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25	8		wild type enzyme, at 25C, pH 8
+13.4	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		7.8		at pH 7.8
+13.9	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				cosubstrate: D-ribulose 1,5-bisphosphate
+0.2	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N			X	mutant D263Q, cosubstrate: CO2
+0.3	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N			X	mutant enzyme G176D
+0.4	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N			X	mutant enzyme G176N
+0.46	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N			X	mutant D263S, cosubstrate: CO2
+0.6	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N			X	mutant A375V, co-substrate: CO2
+0.67	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	30	8.0	X	mutant enzyme T65A, in 50 mM HEPES, pH 8.0, at 30C
+0.7	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	83	8.3	X	mutant M295D/S363I, pH 8.3, 83C
+0.72	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N			X	mutant enzyme H298A
+0.8	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N		8.0		pH 8.0, for both dimer and pentamer
+0.81	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N			X	mutant D263A, cosubstrate: CO2
+0.82	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N			X	mutant D263N, cosubstrate: CO2
+0.94	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N			X	mutant D263E, cosubstrate: CO2
+1.2	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N				cosubstrate: CO2
+1.2	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	30	8.0	X	mutant enzyme G404A, in 50 mM HEPES, pH 8.0, at 30C
+1.3	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N			X	mutant enzyme G176A
+1.53	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N			X	mutant enzyme H327Q
+2	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+2.2	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	30	8.0	X	mutant enzyme T65S, in 50 mM HEPES, pH 8.0, at 30C
+2.3	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+2.4	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+2.4	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+2.5	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+2.5	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25			enzyme from well-watered plant grown at 25C, pH and temperature not specified in the publication
+2.5	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25			enzyme from well-watered plant grown at 25C, pH and temperature not specified in the publication
+2.6	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N				cosubstrate: CO2
+2.6	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+2.6	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+2.7	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+2.7	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+2.7	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+2.7	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+2.8	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+2.95	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N			X	mutant enzyme K305A
+2.97	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N			X	mutant enzyme R134A
+3	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0	X	mutant enzyme K122R, in CO2- and O2-free 200 mM Bicine-NaOH buffer (pH 8.0) containing 20 mM MgCl2, at 25C
+3	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+3	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+3.08	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N			X	mutant enzyme H310D; mutant enzyme K305E
+3.1	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N			X	mutant D103V/A375V, co-substrate: CO2
+3.1	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+3.2	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+3.2	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+3.2	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25			enzyme from well-watered plant grown at 25C, pH and temperature not specified in the publication
+3.3	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+3.4	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N				co substrate: CO2
+3.4	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N				cosubstrate: CO2
+3.4	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+3.4	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+3.4	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+3.5	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N				wild-type enzyme
+3.5	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+3.5	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+3.6	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+4	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N		6.0		pH 6.0, for both dimer and pentamer
+4	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+4	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+4.1	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+4.2	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N				cosubstrate: CO2
+4.3	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	83	8.3	X	mutant M295D/S363V, pH 8.3, 83C
+4.4	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+4.5	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+4.7	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25C
+4.9	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N			X	mutant D103V, co-substrate: CO2; wild-type, co-substrate: CO2
+5	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	25	8.0		wild type enzyme, in CO2- and O2-free 200 mM Bicine-NaOH buffer (pH 8.0) containing 20 mM MgCl2, at 25C
+5.5	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	38			enzyme from well-watered plant grown at 38C, pH and temperature not specified in the publication
+6.28	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N				wild-type, cosubstrate: CO2
+9	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N			X	mutant enzyme H310A
+9.08	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N				wild-type enzyme
+9.5	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	83	8.3	X	mutant S363I, pH 8.3, 83C
+12.4	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	83	8.3	X	mutant S363V, pH 8.3, 83C
+13.9	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N				cosubstrate: CO2
+14.28	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	30	8.0		wild type enzyme, in 50 mM HEPES, pH 8.0, at 30C
+16.6	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	83	8.3		wild-type, pH 8.3, 83C
+17.7	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	83		X	mutant enzyme M295D, at 83C
+17.7	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	83	8.3	X	mutant M295D, pH 8.3, 83C
+23.1	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	83			wild type enzyme, at 83C
+23.1	D-ribulose 1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	83	8.3		wild-type, pH 8.3, 83C
+1.3	D-ribulose-1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	23	8.0	X	pH 8.0, 23C, mutant D103E
+1.8	D-ribulose-1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	23	8.0	X	pH 8.0, 23C, mutant D103N
+2.4	D-ribulose-1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	23	8.0	X	pH 8.0, 23C, mutant F342V and D103V
+2.6	D-ribulose-1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N				
+3.5	D-ribulose-1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N	23	8.0		pH 8.0, 23C, wild-type
+3.4	ribulose-1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N				
+7.3	ribulose-1,5-bisphosphate	407	YAHZABJORDUQGO-NQXXGFSBSA-N				

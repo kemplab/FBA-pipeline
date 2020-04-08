@@ -1,0 +1,28 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.4	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	28	5.2	X	pH 5.2, 28C, recombinant mutant DRN4
+0.6	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	28	5.2	X	pH 5.2, 28C, recombinant mutant DRN2
+1.6	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0	X	pH 7.0, 30C, mutant S628R
+1.8	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	28	5.2		pH 5.2, 28C, recombinant wild-type enzyme
+2.4	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	28	5.2	X	pH 5.2, 28C, recombinant mutant DRN1
+2.8	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	28	5.2	X	pH 5.2, 28C, recombinant mutant DRN3
+3.1	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	25	5.2		directly QCM-immobilized enzyme, pH 5.2, 25C
+3.5	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	25	5.2		dextran-QCM-immobilized enzyme, pH 5.2, 25C
+5.2	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0	X	pH 7.0, 30C, mutant R624G
+14.5	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0	X	pH 7.0, 30C, mutant R624G/V630I
+22.4	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0		pH 7.0, 30C, wild-type enzyme
+23.2	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	35	5.4		pH 5.4, 35C, recombinant enzyme
+25.6	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0	X	pH 7.0, 30C, mutant R624G/V630I/D717A
+29.8	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0	X	pH 7.0, 30C, mutant S628D
+32.6	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0	X	pH 7.0, 30C, mutant V630I
+38.2	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	25	5.2	X	pH 5.2, 25C, recombinant mutant D460M/H463Y/T464M/S512C
+43.9	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	25	5.2	X	pH 5.2, 25C, recombinant mutant D460A/H463S/T464L
+60	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	5.4		pH 5.4, 30C, recombinant enzyme
+86	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	25	5.2	X	pH 5.2, 25C, recombinant mutant F353W
+172.1	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	25	5.2	X	pH 5.2, 25C, recombinant mutant H463R/T464D/S512T
+207.1	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	25	5.2	X	pH 5.2, 25C, recombinant mutant S512C
+338.8	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	25	5.2	X	pH 5.2, 25C, recombinant mutant F353T
+610.2	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	25	5.2	X	pH 5.2, 25C, recombinant mutant H463R/T464V/S512T
+641	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N				synthesis of dextran from sucrose
+1070	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N				transfer of D-glucose from sucrose to maltose
+0.085	Dextran	802	ZWMYJNRJRIUFLJ-CPSKUGELSA-N				hydrolysis of D-glucose from the non-reducing ends of dextran chains
+3.2	Dextran	802	ZWMYJNRJRIUFLJ-CPSKUGELSA-N				transfer of D-glucose from the non-reducing ends of dextran chains to maltose

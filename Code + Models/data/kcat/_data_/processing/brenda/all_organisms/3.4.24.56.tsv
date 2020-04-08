@@ -1,0 +1,28 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.003	Abz-GGFLRKHGQ-EDDnp	1662	NVESQGSNMIQICC-JSHGGYKJSA-N	37	7.4	X	pH 7.4, 37C, mutant Y609F IDE:IDE mutant E111F/Y609F
+0.01	Abz-GGFLRKHGQ-EDDnp	1662	NVESQGSNMIQICC-JSHGGYKJSA-N	37	7.4	X	pH 7.4, 37C, IDE:IDE mutant E111F/Y609F; pH 7.4, 37C, mutant Y609F IDE:IDE mutant E111F
+0.01	Abz-GGFLRKHGQ-EDDnp	1662	NVESQGSNMIQICC-JSHGGYKJSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant DELTAC lacking the C-terminal region
+0.028	(7-methoxycoumarin-4-yl)acetyl-NPPGFSAFK-2,4-dinitrophenyl	61469	DTDPRZJKQFMYDL-XPAAGCGVSA-N	37			pH not specified in the publication, 37C
+0.03	Abz-GGFLRKHGQ-EDDnp	1662	NVESQGSNMIQICC-JSHGGYKJSA-N	37	7.4	X	pH 7.4, 37C, IDE:IDE mutant H112Q/Y609F; pH 7.4, 37C, mutant Y609F IDE:IDE mutant Y609F
+0.043	Abz-GGFLRKHGQ-EDDnp	1662	NVESQGSNMIQICC-JSHGGYKJSA-N		7.4		pH 7.4, temperature not specified in the publication, wild-type
+0.05	Abz-GGFLRKHGQ-EDDnp	1662	NVESQGSNMIQICC-JSHGGYKJSA-N	37	7.4	X	pH 7.4, 37C, mutant Y609F IDE:IDE mutant H112Q
+0.06	Abz-GGFLRKHGQ-EDDnp	1662	NVESQGSNMIQICC-JSHGGYKJSA-N	37	7.4	X	pH 7.4, 37C, mutant Y609F IDE:IDE mutant H112Q/Y609F
+0.078	Abz-GGFLRKHGQ-EDDnp	1662	NVESQGSNMIQICC-JSHGGYKJSA-N		7.4	X	mutant R429S, pH 7.4, temperature not specified in the publication
+0.086	Abz-GGFLRKHGQ-EDDnp	1662	NVESQGSNMIQICC-JSHGGYKJSA-N		7.4		wild-type, pH 7.4, temperature not specified in the publication
+0.12	Abz-GGFLRKHGQ-EDDnp	1662	NVESQGSNMIQICC-JSHGGYKJSA-N	37	7.4	X	pH 7.4, 37C, IDE:IDE mutant H112Q
+0.14	Abz-GGFLRKHGQ-EDDnp	1662	NVESQGSNMIQICC-JSHGGYKJSA-N	37	7.4		pH 7.4, 37C, IDE:IDE, wild-type
+0.258	Abz-GGFLRKHGQ-EDDnp	1662	NVESQGSNMIQICC-JSHGGYKJSA-N			X	mutant K898A/K899A/S901A, pH and temperature not specified in the publication
+0.38	Somatostatin	4470	NHXLMOGPVYXJNR-ATOGVRKGSA-N	37	7.3		pH 7.3, 37C
+0.72	Abz-GGFLRKHGQEDDnp	1662	NVESQGSNMIQICC-JSHGGYKJSA-N	37	7.4		pH 7.4, 37C, 56 kDa detagged fragment of recombinant His6-tagged enzyme
+0.77	Abz-GGFLRKHGQEDDnp	1662	NVESQGSNMIQICC-JSHGGYKJSA-N	37	7.4		pH 7.4, 37C, 76 kDa detagged fragment of recombinant His6-tagged enzyme
+2	2-aminobenzoyl-GGFLRKHGQ-(N-(2,4-dinitrophenyl)ethylenediamine)	1662	NVESQGSNMIQICC-JSHGGYKJSA-N		7.3	X	mutant H112D, pH 7.3
+2.4	2-aminobenzoyl-GGFLRKHGQ-(N-(2,4-dinitrophenyl)ethylenediamine)	1662	NVESQGSNMIQICC-JSHGGYKJSA-N		7.3	X	mutant E111V, pH 7.3
+6.5	2-aminobenzoyl-GGFLRKHGQ-(N-(2,4-dinitrophenyl)ethylenediamine)	1662	NVESQGSNMIQICC-JSHGGYKJSA-N		7.3	X	mutant E111L, pH 7.3
+11.4	2-aminobenzoyl-GGFLRKHGQ-(N-(2,4-dinitrophenyl)ethylenediamine)	1662	NVESQGSNMIQICC-JSHGGYKJSA-N		7.3	X	mutant E111F, pH 7.3
+17.5	2-aminobenzoyl-GGFLRKHGQ-(N-(2,4-dinitrophenyl)ethylenediamine)	1662	NVESQGSNMIQICC-JSHGGYKJSA-N		7.3	X	mutant E111A, pH 7.3
+61	Dabcyl-Tyr-Glu-Val-His-His-Gln-Lys-Leu-Val-Phe-Phe-Ala-Glu-Asp-Val-Gly-Glu(EDANS)-NH2	117764	DJBVIXAYANQBPB-DJDOXLATSA-N	37	7.3		pH 7.3, 37C, presence of 0.04 mM somatostatin
+62.7	Dabcyl-Tyr-Glu-Val-His-His-Gln-Lys-Leu-Val-Phe-Phe-Ala-Glu-Asp-Val-Gly-Glu(EDANS)-NH2	117764	DJBVIXAYANQBPB-DJDOXLATSA-N	37	7.3		pH 7.3, 37C
+93.17	Abz-GGFLRKHGQEDDnp	1662	NVESQGSNMIQICC-JSHGGYKJSA-N	37	7.4		pH 7.4, 37C, recombinant His6-tagged full-length enzyme
+104	Abz-GGFLRKHGQEDDnp	1662	NVESQGSNMIQICC-JSHGGYKJSA-N	37	7.4		pH 7.4, 37C, recombinant His6-tagged full-length enzyme
+1953	2-aminobenzoyl-GGFLRKHGQ-(N-(2,4-dinitrophenyl)ethylenediamine)	1662	NVESQGSNMIQICC-JSHGGYKJSA-N		7.3	X	mutant H112Q, pH 7.3
+162600	2-aminobenzoyl-GGFLRKHGQ-(N-(2,4-dinitrophenyl)ethylenediamine)	1662	NVESQGSNMIQICC-JSHGGYKJSA-N		7.3		wild-type, pH 7.3

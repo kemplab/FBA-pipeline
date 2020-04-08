@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000081	4-methylumbelliferyl beta-chitotrioside	22185	DTPBJHCTIBQLMO-YMZUYRKCSA-N	40	5.5		40C, pH 5.5
+0.0167	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N			X	mutant D40G/T45D, assayed as the amount of D-glucosamine released from chitosan
+0.024	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N			X	mutant E36A/D40G, assayed as the amount of D-glucosamine released from chitosan
+0.0368	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N			X	mutant T45E, assayed as the amount of D-glucosamine released from chitosan
+0.0683	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N			X	mutant E36Q/D40G, assayed as the amount of D-glucosamine released from chitosan
+0.44	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N			X	mutant D40G, assayed as the amount of D-glucosamine released from chitosan
+0.9	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N	37	5.5	X	mutant enzyme R42K, at 37C in 50 mM sodium acetate buffer (pH 5.5)
+1.6	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N	37	5.5	X	mutant enzyme R42E at 37C in 50 mM sodium acetate buffer (pH 5.5)
+2.3	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N	40	4		40C, pH 4, isoform PSC-II
+5.9	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N	40	4		40C, pH 4, isoform PSC-I
+6.2	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N	40	4		40C, pH 4, isoform PSC-III
+6.5	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N	45	6.0		chitosan with 75-85% deacetylation, at pH 6.0 and 45C
+6.827	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N			X	mutant E36N, assayed as the amount of D-glucosamine released from chitosan
+8.34	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N			X	mutant E36D, assayed as the amount of D-glucosamine released from chitosan
+10	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N	45	6.0		chitosan with less than 75% deacetylation, at pH 6.0 and 45C
+10.48	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N			X	mutant T45S, assayed as the amount of D-glucosamine released from chitosan
+10.7	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N	37	5.5		wild type enzyme, at 37C in 50 mM sodium acetate buffer (pH 5.5)
+11.2	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N	45	6.0		chitosan with more than 90% deacetylation, at pH 6.0 and 45C
+11.47	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N			X	mutant E36A, assayed as the amount of D-glucosamine released from chitosan
+11.66	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N			X	mutant E36Q, assayed as the amount of D-glucosamine released from chitosan
+12.4	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N				wild-type, assayed as the amount of D-glucosamine released from chitosan
+107	chitohexaose	1565	TVFFFBGOCAKQBH-GXRNKMMISA-N	40	5.5		40C, pH 5.5
+126.5	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N	37	4.8		at pH 4.8 and 37C
+205	chitosan	851	MRCRDVMVLYJUMQ-GGPZZOMRSA-N	37	5.6		at pH 5.6 and 37C

@@ -1,0 +1,64 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0018	p-nitrophenyl-p'-guanidinobenzoate	10644	CFOQGBUQTOGYKI-UHFFFAOYSA-N				
+0.01	Fc-[RFSRPQL]-PEG	27433	QIFRNQRMDUEJFS-HHLKOROSSA-N				
+0.018	D-Phe-Pro-Lys-4-nitroanilide	5725	BKIBYDNMRWBARX-VJBWXMMDSA-N	25	8.0	X	mutant enzyme N143P, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25C, 200 mM NaCl
+0.018	D-Phe-Pro-Phe-4-nitroanilide	5973	RMORZTMJHIJTGS-ZNZIZOMTSA-N	25	8.0	X	mutant enzyme N143P, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25C, 200 mN NaCl
+0.11	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	1843	WTBDFMCIAGBHPK-CHKMWVBISA-N	217	7.5	X	mutant enzyme E217C/K224C, in Tris-HCl (pH 7.5) with 0.2 M choline chloride, at 22C
+0.23	D-Phe-Pro-Phe-4-nitroanilide	5973	RMORZTMJHIJTGS-ZNZIZOMTSA-N	25	8.0	X	mutant enzyme N143P, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25C, 200 mM choline chloride
+0.26	D-Phe-Pro-Lys-4-nitroanilide	5725	BKIBYDNMRWBARX-VJBWXMMDSA-N	25	8.0	X	mutant enzyme N143P, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25C, 200 mM choline chloride
+0.32	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	1843	WTBDFMCIAGBHPK-CHKMWVBISA-N	217	7.5	X	mutant enzyme E217C/K224C, in Tris-HCl (pH 7.5) with 0.2 M NaCl, at 22C
+1.2	Ac-Gly-Gly-Val-Arg-7-amido-4-methylcoumarin	22741	CXAADEFYXHDVTF-CYFREDJKSA-N	25	8.0		pH 8.0, 25C
+1.4	D-Phe-Pro-Phe-4-nitroanilide	5973	RMORZTMJHIJTGS-ZNZIZOMTSA-N	25	8.0		wild type enzyme, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25C, 200 mM choline chloride
+1.82	Fibrinopeptide A	4064	JWICNZAGYSIBAR-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, mutant DELTAK9
+2	D-Phe-Pro-Lys-4-nitroanilide	5725	BKIBYDNMRWBARX-VJBWXMMDSA-N	25	8.0		wild type enzyme, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25C, 200 mM NaCl
+2.94	Fibrinopeptide A	4064	JWICNZAGYSIBAR-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, mutant DELTAK9
+3	factor VIII(341-376) peptide	14807	FMEDFHBIMIGUJY-AFQNVFECSA-N	25	7.5		pH 7.5, 25C
+3.24	factor VIII(341-376) peptide	14807	FMEDFHBIMIGUJY-AFQNVFECSA-N	25	7.5		pH 7.5, 25C
+3.27	tosyl-Arg ethyl ester	7399	RJLCUUMGNUDPPI-ZDUSSCGKSA-N				0.15 M NaCl
+3.5	D-Phe-Pro-Arg-4-nitroanilide	5726	OMNTUFAFMRMBBU-FSSWDIPSSA-N	25	8.0		wild type enzyme, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25C, 200 mM choline chloride
+3.78	tosyl-Arg ethyl ester	7399	RJLCUUMGNUDPPI-ZDUSSCGKSA-N				0.15 M NaNO3
+4.2	PAR1 peptide	11509	AEFOJEHEVNNBSU-JLKRTOESSA-N	25	8.0	X	pH 8.0, 25C, mutant DELTAK9
+5.8	Ac-Nle-Thr-Leu-Arg-7-amido-4-methylcoumarin	22739	BRWOMXBAXSAEMQ-SRFXGCSXSA-N	25	8.0		pH 8.0, 25C
+6	D-Phe-Pro-Arg-4-nitroanilide	5726	OMNTUFAFMRMBBU-FSSWDIPSSA-N	25	8.0	X	mutant enzyme N143P, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25C, 200 mM NaCl
+7.5	D-Phe-Pro-Arg-4-nitroanilide	5726	OMNTUFAFMRMBBU-FSSWDIPSSA-N	25	8.0	X	mutant enzyme N143P, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25C, 200 mM choline chloride
+8.3	D-Phe-Pro-Phe-4-nitroanilide	5973	RMORZTMJHIJTGS-ZNZIZOMTSA-N	25	8.0		wild type enzyme, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25C, 200 mN NaCl
+9.33	tosyl-Arg ethyl ester	7399	RJLCUUMGNUDPPI-ZDUSSCGKSA-N				0.15 M RbCl
+9.4	tosyl-Arg ethyl ester	7399	RJLCUUMGNUDPPI-ZDUSSCGKSA-N				0.15 M KCl
+10	tosyl-Arg ethyl ester	7399	RJLCUUMGNUDPPI-ZDUSSCGKSA-N				0.15 M CsNO3
+10.3	tosyl-Arg ethyl ester	7399	RJLCUUMGNUDPPI-ZDUSSCGKSA-N				0.15 M CsCl
+12	D-Phe-Pro-Lys-4-nitroanilide	5725	BKIBYDNMRWBARX-VJBWXMMDSA-N	25	8.0		wild type enzyme, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25C, 200 mM choline chloride
+13.7	benzoyl-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N				0.15 M NaNO3
+14	benzoyl-Arg methyl ester	5422	KAOMIKSYDXLMCD-NSHDSACASA-N				0.15 M NaCl
+14.1	benzoyl-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N				0.15 M NaCl
+15	benzoyl-Arg methyl ester	5422	KAOMIKSYDXLMCD-NSHDSACASA-N				0.15 M KCl
+15	spectrozyme-TH	7862	AAHHUPISDJCLQV-YAELJTEYSA-N	25	8.0		pH 8.0, 25C, absence of Na+
+15.2	benzoyl-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N				0.15 M KCl
+15.6	Ac-Leu-Gly-Val-Arg-7-amido-4-methylcoumarin	22740	UJDCONYVQNATDT-WCYRKSIYSA-N	25	8.0		pH 8.0, 25C
+15.8	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	1843	WTBDFMCIAGBHPK-CHKMWVBISA-N	22	7.5		wild type enzyme, in Tris-HCl (pH 7.5) with 0.2 M choline chloride, at 22C
+16.1	benzoyl-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N				0.15 M CsCl
+17.8	benzoyl-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N				0.15 M CsNO3
+21.2	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	1843	WTBDFMCIAGBHPK-CHKMWVBISA-N	67	7.5	X	mutant enzyme R67C/I82C, in Tris-HCl (pH 7.5) with 0.2 M choline chloride, at 22C
+29	D-Phe-Pro-Arg-4-nitroanilide	5726	OMNTUFAFMRMBBU-FSSWDIPSSA-N	25	8.0		wild type enzyme, in 5 mM Tris, 0.1% (w/v) PEG 8000, pH 8.0, 25C, 200 mM NaCl
+30.8	Ac-Val-Thr-Pro-Arg-7-amido-4-methylcoumarin	22738	LKKAAWOKGWFTKM-GLSHJSLHSA-N	25	8.0		pH 8.0, 25C
+41.2	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	1843	WTBDFMCIAGBHPK-CHKMWVBISA-N	217	7.5	X	mutant enzyme E217C/K224C, in Tris-HCl (pH 7.5) with 0.2 M NaCl and dithiothreitol, at 22C
+45	Ac-Nle-Thr-Pro-Arg-7-amido-4-methylcoumarin	22737	IEXAJADUVTZUSZ-PZIWFPJOSA-N	25	8.0		pH 8.0, 25C
+45.3	Fibrinopeptide A	4064	JWICNZAGYSIBAR-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, wild-type enzyme
+46.6	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	1843	WTBDFMCIAGBHPK-CHKMWVBISA-N	22	7.5		wild type enzyme, in Tris-HCl (pH 7.5) with 0.2 M NaCl and dithiothreitol, at 22C
+47.9	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	1843	WTBDFMCIAGBHPK-CHKMWVBISA-N	217	7.5	X	mutant enzyme E217C/K224C, in Tris-HCl (pH 7.5) with 1.0 M NaCl and dithiothreitol, at 22C
+55.5	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	1843	WTBDFMCIAGBHPK-CHKMWVBISA-N	22	7.5		wild type enzyme, in Tris-HCl (pH 7.5) with 1.0 M NaCl and dithiothreitol, at 22C
+75	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	1843	WTBDFMCIAGBHPK-CHKMWVBISA-N	22	7.5		wild type enzyme, in Tris-HCl (pH 7.5) with 0.2 M NaCl, at 22C
+84.4	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	1843	WTBDFMCIAGBHPK-CHKMWVBISA-N	67	7.5	X	mutant enzyme R67C/I82C, in Tris-HCl (pH 7.5) with 0.2 M NaCl, at 22C
+91	spectrozyme-TH	7862	AAHHUPISDJCLQV-YAELJTEYSA-N	25	8.0		pH 8.0, 25C, presence of 0.2 M Na+
+101.9	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	1843	WTBDFMCIAGBHPK-CHKMWVBISA-N				no additive
+106.8	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	1843	WTBDFMCIAGBHPK-CHKMWVBISA-N				in the presence of 0.01 mM HD22
+146	PAR1 peptide	11509	AEFOJEHEVNNBSU-JLKRTOESSA-N	25	8.0		pH 8.0, 25C, wild-type enzyme
+156.5	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	1843	WTBDFMCIAGBHPK-CHKMWVBISA-N				in the presence of 0.01 mM hirudin-(54-65)
+192.8	tosyl-Gly-Pro-Arg-4-nitroanilide	3392	VYLJFJGMPYBPMN-VXKWHMMOSA-N				in the presence of 0.01 mM HD22
+209.4	D-phenylalanyl-pipecolyl-L-arginine-4-nitroanilide	1843	WTBDFMCIAGBHPK-CHKMWVBISA-N				in the presence of 0.01 mM HD1
+217.1	di-L-Glu-L-Pro-L-Arg-4-nitroanilide	5972	RJKJLMOSLVEFFW-QUQVWLGBSA-N				in the presence of 0.01 mM HD1
+231.1	di-L-Glu-L-Pro-L-Arg-4-nitroanilide	5972	RJKJLMOSLVEFFW-QUQVWLGBSA-N				in the presence of 0.01 mM HD22
+234.5	tosyl-Gly-Pro-Arg-4-nitroanilide	3392	VYLJFJGMPYBPMN-VXKWHMMOSA-N				no additive
+240.3	tosyl-Gly-Pro-Arg-4-nitroanilide	3392	VYLJFJGMPYBPMN-VXKWHMMOSA-N				in the presence of 0.01 mM HD1
+249.5	di-L-Glu-L-Pro-L-Arg-4-nitroanilide	5972	RJKJLMOSLVEFFW-QUQVWLGBSA-N				no additive
+251.6	tosyl-Gly-Pro-Arg-4-nitroanilide	3392	VYLJFJGMPYBPMN-VXKWHMMOSA-N				in the presence of 0.01 mM hirudin-(54-65)
+278.6	di-L-Glu-L-Pro-L-Arg-4-nitroanilide	5972	RJKJLMOSLVEFFW-QUQVWLGBSA-N				in the presence of 0.01 mM hirudin-(54-65)

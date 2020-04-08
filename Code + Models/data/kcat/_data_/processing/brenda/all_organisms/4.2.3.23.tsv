@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00035	2-trans,6-trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant T433A
+0.00037	2-trans,6-trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant T433A/A435T
+0.016	2-trans,6-trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.0		pH 7.0, 25C, recombinant wild-type enzyme
+0.017	2-trans,6-trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant S434A
+0.044	2-trans,6-trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant A435T
+4.4	2-trans,6-trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				determined by incubating purified enzyme with various concentrations of 1 to 100 microM 2-trans,6-trans-farnesyl diphosphate

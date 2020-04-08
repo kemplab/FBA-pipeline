@@ -1,0 +1,35 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.011	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.4		pH 7.4, 30C, enzyme from patients with intolerance
+0.029	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	10	7.4		pH 7.4, 10C, enzyme from patients with intolerance
+0.19	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	10	7.4		pH 7.4, 10C, wild-type enzyme
+0.19	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22		X	N334K mutant, 22C
+0.43	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22		X	W147R mutant, 22C
+0.54	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22		X	L256P mutant, 22C
+0.57	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22		X	Q354E mutant, 22C
+0.61	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22			wild-type enzyme, 22C
+2.1	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.4		pH 7.4, 30C, wild-type enzyme
+2.83	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant aldolase C Y363S
+4.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant enzyme G346S
+5.2	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				
+6.08	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22		X	L256P mutant, 22C; Q354E mutant, 22C; wild-type enzyme, 22C
+10.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant enzyme E206K
+12.6	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				aldolase C
+14	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.4	X	wild-type and mutants, pH 7.4
+16.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				wild-type enzyme
+20.1	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				aldolase B
+59.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				aldolase A
+0.008	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	30	7.4		pH 7.4, 30C, enzyme from patients with intolerance
+0.019	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	10	7.4		pH 7.4, 10C, enzyme from patients with intolerance
+0.059	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	22		X	Q354E mutant, 22C
+0.085	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	22		X	N334K mutant, 22C
+0.12	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	10	7.4		pH 7.4, 10C, wild-type enzyme
+0.25	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	22		X	W147R mutant, 22C
+0.38	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	22		X	L256P mutant, 22C
+0.67	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	22			wild-type enzyme, 22C
+2	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	30	7.4		pH 7.4, 30C, wild-type enzyme
+2.8	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N				
+6.08	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	22			wild-type enzyme, 22C
+0.75	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N			X	mutant aldolase C Y363S
+1.28	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N				aldolase A
+1.48	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N				aldolase C
+10.8	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N				aldolase B

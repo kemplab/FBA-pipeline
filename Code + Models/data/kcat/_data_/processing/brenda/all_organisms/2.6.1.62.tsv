@@ -1,0 +1,29 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.001	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O		9.0	X	pH 9.0, recombinant mutant R253A
+0.001	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	37	8.6	X	mutant F326Y, pH 8.6, 37C
+0.0012	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	37	8.6		wild-type, pH 8.6, 37C
+0.0021	8-Amino-7-oxononanoate	1131	GUAHPAJOXVYFON-UHFFFAOYSA-N	25	9	X	pH 9, 25C, R391A mutant
+0.0035	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O		9.0	X	pH 9.0, recombinant mutant Y17F
+0.009	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O		9.0	X	pH 9.0, recombinant mutant R253K
+0.009	sinefungin	535	LMXOHSDXUQEUSF-YECHIGJVSA-N		7.5		pH 7.5, temperature not specified in the publication
+0.01	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O		9.0	X	pH 9.0, recombinant mutant R253M
+0.012	8-Amino-7-oxononanoate	1131	GUAHPAJOXVYFON-UHFFFAOYSA-N		9.0	X	pH 9.0, recombinant mutant Y17F
+0.012	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O		7.5		pH 7.5, temperature not specified in the publication
+0.013	8-Amino-7-oxononanoate	1131	GUAHPAJOXVYFON-UHFFFAOYSA-N	25	9		pH 9, 25C, wild-type enzyme
+0.016	S-adenosyl-(5')-3-methylthiopropylamine	1079	ZUNBITIXDCPNSD-LSRJEVITSA-N		9.0	X	pH 9.0, recombinant wild-type enzyme and mutant R253K
+0.016	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O		9.0		pH 9.0, recombinant wild-type enzyme
+0.017	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	37	8.6		pH 8.6, 37C
+0.02	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				
+0.04	8-Amino-7-oxononanoate	1131	GUAHPAJOXVYFON-UHFFFAOYSA-N		9.0	X	pH 9.0, recombinant mutant Y144F
+0.06	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O		9.0	X	pH 9.0, recombinant mutant Y144F
+0.074	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O		9.0	X	pH 9.0, recombinant mutant R253Q
+0.08	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				recombinant enzyme
+0.13	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				native enzyme
+0.283	8-Amino-7-oxononanoate	1131	GUAHPAJOXVYFON-UHFFFAOYSA-N	37	8.5		pH 8.5, 37C
+0.283	8-Amino-7-oxononanoate	1131	GUAHPAJOXVYFON-UHFFFAOYSA-N	37	8.5		pH 8.5, 37C
+0.67	8-Amino-7-oxononanoate	1131	GUAHPAJOXVYFON-UHFFFAOYSA-N		9.0	X	pH 9.0, recombinant mutant R253M
+0.79	8-Amino-7-oxononanoate	1131	GUAHPAJOXVYFON-UHFFFAOYSA-N		9.0		pH 9.0, recombinant wild-type enzyme
+0.8	8-Amino-7-oxononanoate	1131	GUAHPAJOXVYFON-UHFFFAOYSA-N				
+1	8-Amino-7-oxononanoate	1131	GUAHPAJOXVYFON-UHFFFAOYSA-N				
+1.3	8-Amino-7-oxononanoate	1131	GUAHPAJOXVYFON-UHFFFAOYSA-N		9.0	X	pH 9.0, recombinant mutant R253A; pH 9.0, recombinant mutant R253K
+1.7	8-Amino-7-oxononanoate	1131	GUAHPAJOXVYFON-UHFFFAOYSA-N		9.0	X	pH 9.0, recombinant mutant R253Q

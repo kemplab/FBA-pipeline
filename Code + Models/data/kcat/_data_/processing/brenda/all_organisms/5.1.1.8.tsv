@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.012	trans-4-hydroxy-L-proline	4507	PMMYEEVYMWASQN-DMTCNVIQSA-N	50	8.0	X	pH 8.0, 50C, mutant enzyme F420W
+0.014	cis-4-hydroxy-D-proline	20675	PMMYEEVYMWASQN-QWWZWVQMSA-N	50	8.0	X	pH 8.0, 50C, mutant enzyme F62S
+0.039	trans-4-hydroxy-L-proline	4507	PMMYEEVYMWASQN-DMTCNVIQSA-N	50	8.0	X	pH 8.0, 50C, mutant enzyme F62S
+0.0395	trans-4-hydroxy-L-proline	4507	PMMYEEVYMWASQN-DMTCNVIQSA-N	50	8.0		pH 8.0, 50C, wild-type enzyme
+0.11	cis-4-hydroxy-D-proline	20675	PMMYEEVYMWASQN-QWWZWVQMSA-N	50	8.0	X	pH 8.0, 50C, mutant enzyme L221H
+0.13	trans-4-hydroxy-L-proline	4507	PMMYEEVYMWASQN-DMTCNVIQSA-N	50	8.0	X	pH 8.0, 50C, mutant enzyme F62V
+0.29	trans-3-hydroxy-L-proline	20627	BJBUEDPLEOHJGE-IMJSIDKUSA-N	50	8.0	X	pH 8.0, 50C, mutant enzyme W241F
+0.65	trans-4-hydroxy-L-proline	4507	PMMYEEVYMWASQN-DMTCNVIQSA-N	50	8.0	X	pH 8.0, 50C, mutant enzyme L221H
+0.69	cis-4-hydroxy-D-proline	20675	PMMYEEVYMWASQN-QWWZWVQMSA-N	50	8.0	X	pH 8.0, 50C, mutant enzyme W241F
+1.53	trans-4-hydroxy-L-proline	4507	PMMYEEVYMWASQN-DMTCNVIQSA-N	50	8.0	X	pH 8.0, 50C, mutant enzyme W241F
+3.6	trans-3-hydroxy-L-proline	20627	BJBUEDPLEOHJGE-IMJSIDKUSA-N	50	8.0		pH 8.0, 50C, wild-type enzyme
+3.83	cis-4-hydroxy-D-proline	20675	PMMYEEVYMWASQN-QWWZWVQMSA-N	50	8.0		pH 8.0, 50C, wild-type enzyme
+12.13	trans-4-hydroxy-L-proline	4507	PMMYEEVYMWASQN-DMTCNVIQSA-N	50	8.0		pH 8.0, 50C, wild-type enzyme

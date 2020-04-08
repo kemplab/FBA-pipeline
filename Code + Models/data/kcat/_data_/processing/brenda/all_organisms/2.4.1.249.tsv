@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+4.4	delphinidin 3-O-(6''-O-malonyl)-beta-D-glucoside	17396	FNFHDAUGLIPVPU-XQKZCQIMSA-O				UDP-glucose as sugar donor
+4.9	UDP-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N				delphinidin 3-O-(6''-O-malonyl)-beta-D-glucoside-3'-O-beta-glucoside as substrate
+5.1	UDP-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N				delphinidin 3-O-(6''-O-malonyl)-beta-D-glucoside as substrate
+5.4	delphinidin 3-O-(6''-O-malonyl)-beta-D-glucoside-3'-O-beta-glucoside	25785	YHLZPXCREROAPG-YEQKKNNOSA-O				UDP-glucose as sugar donor

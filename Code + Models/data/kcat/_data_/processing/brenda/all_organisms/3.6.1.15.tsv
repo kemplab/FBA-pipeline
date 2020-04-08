@@ -1,0 +1,63 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0086	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	22	7.0		pH 7.0, 22C, recombinant wild-type enzyme
+0.29	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37			substrate concentration between 0.01 and 4.0 mM, 37C
+0.93	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	23	7.5		pH 7.5, 23C
+1.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+10.25	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	23	7.5		pH 7.5, 23C
+13.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	22			wild-type transcriptase cofactor my2, 22C, 6.5-7.0
+133	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5		pH 7.5, 30C
+155	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	6.5		pH 6.5, 37C, recombinant truncated protein ntNS3, in absence of poly(U)
+4384	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	6.5		pH 6.5, 37C, recombinant truncated protein ntNS3, in presence of poly(U)
+0.0051	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	22	7.0		pH 7.0, 22C, recombinant wild-type enzyme
+0.29	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	37			substrate concentration between 0.01 and 4.0 mM, 37C
+1.35	UDP	24	XCCTYIAWTASOJW-XVFCMESISA-N	37			substrate concentration between 0.01 and 4.0 mM, 37C
+0.0076	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	22	7.0		pH 7.0, 22C, recombinant wild-type enzyme
+0.04	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	23	7.5		pH 7.5, 23C
+0.32	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37			substrate concentration between 0.01 and 4.0 mM, 37C
+9.03	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	23	7.5		pH 7.5, 23C
+9.8	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	22			wild-type transcriptase cofactor my2, 22C, 6.5-7.0
+400	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37	6.5		pH 6.5, 37C, recombinant truncated protein ntNS3, in absence of poly(U)
+2963	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37	6.5		pH 6.5, 37C, recombinant truncated protein ntNS3, in presence of poly(U)
+0.39	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N	37			substrate concentration between 0.01 and 4.0 mM, 37C
+0.0073	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	22	7.0		pH 7.0, 22C, recombinant wild-type enzyme
+0.59	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	37			substrate concentration between 0.01 and 4.0 mM, 37C
+0.97	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	23	7.5		pH 7.5, 23C
+8	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	22			wild-type transcriptase cofactor my2, 22C, 6.5-7.0
+16.67	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	23	7.5		pH 7.5, 23C
+220	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	37	6.5		pH 6.5, 37C, recombinant truncated protein ntNS3, in absence of poly(U)
+2286	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	37	6.5		pH 6.5, 37C, recombinant truncated protein ntNS3, in presence of poly(U)
+0.007	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	22	7.0		pH 7.0, 22C, recombinant wild-type enzyme
+0.53	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	37			substrate concentration between 0.01 and 4.0 mM, 37C
+0.97	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	23	7.5		pH 7.5, 23C
+7.3	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	22			wild-type transcriptase cofactor my2, 22C, 6.5-7.0
+17.28	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	23	7.5		pH 7.5, 23C
+114	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	37	6.5		pH 6.5, 37C, recombinant truncated protein ntNS3, in absence of poly(U)
+2162	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	37	6.5		pH 6.5, 37C, recombinant truncated protein ntNS3, in presence of poly(U)
+0.057	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	23	7.5		pH 7.5, 23C
+0.31	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37			substrate concentration between 0.01 and 4.0 mM, 37C
+11.18	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	23	7.5		pH 7.5, 23C
+208	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	6.5		pH 6.5, 37C, recombinant truncated protein ntNS3, in absence of poly(U)
+3150	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	6.5		pH 6.5, 37C, recombinant truncated protein ntNS3, in presence of poly(U)
+10.9	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	23	7.5		pH 7.5, 23C
+0.3	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37			substrate concentration between 0.01 and 4.0 mM, 37C
+0.5	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	23	7.5		pH 7.5, 23C
+12.57	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	23	7.5		pH 7.5, 23C
+135	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	6.5		pH 6.5, 37C, recombinant truncated protein ntNS3, in absence of poly(U)
+5096	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	6.5		pH 6.5, 37C, recombinant truncated protein ntNS3, in presence of poly(U)
+1.67	CDP	188	ZWIADYZPOWUWEW-XVFCMESISA-N	37			substrate concentration between 0.01 and 4.0 mM, 37C
+0.4	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37			substrate concentration between 0.01 and 4.0 mM, 37C
+10.2	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	23	7.5		pH 7.5, 23C
+136	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	6.5		pH 6.5, 37C, recombinant truncated protein ntNS3, in absence of poly(U)
+2500	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	6.5		pH 6.5, 37C, recombinant truncated protein ntNS3, in presence of poly(U)
+0.18	ITP	203	HAEJPQIATWHALX-KQYNXXCUSA-N	37			substrate concentration between 0.01 and 4.0 mM, 37C
+82	dUTP	363	AHCYMLUZIRLXAA-SHYZEUOFSA-N	37	6.5		pH 6.5, 37C, recombinant truncated protein ntNS3, in absence of poly(U)
+1875	dUTP	363	AHCYMLUZIRLXAA-SHYZEUOFSA-N	37	6.5		pH 6.5, 37C, recombinant truncated protein ntNS3, in presence of poly(U)
+0.06	IDP	372	JPXZQMKKFWMMGK-KQYNXXCUSA-N	37			substrate concentration between 0.01 and 4.0 mM, 37C
+0.0074	TTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	22	7.0		pH 7.0, 22C, recombinant wild-type enzyme
+0.69	TTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37			substrate concentration between 0.01 and 4.0 mM, 37C
+0.005	RNA	439	SMFIZLOMDPDKTP-VHXIBLMRSA-N	22			wild-type transcriptase cofactor my2, 22C, 6.5-7.0
+1.03	TDP	449	UJLXYODCHAELLY-XLPZGREQSA-N	37			substrate concentration between 0.01 and 4.0 mM, 37C
+0.52	dADP	589	DAEAPNUQQAICNR-RRKCRQDMSA-N	37			substrate concentration between 0.01 and 4.0 mM, 37C
+1.12	dCDP	852	FTDHDKPUHBLBTL-SHYZEUOFSA-N	37			substrate concentration between 0.01 and 4.0 mM, 37C
+0.51	dGDP	863	CIKGWCTVFSRMJU-KVQBGUIXSA-N	37			substrate concentration between 0.01 and 4.0 mM, 37C
+0.22	dITP	2039	UFJPAQSLHAGEBL-RRKCRQDMSA-N	37			substrate concentration between 0.01 and 4.0 mM, 37C

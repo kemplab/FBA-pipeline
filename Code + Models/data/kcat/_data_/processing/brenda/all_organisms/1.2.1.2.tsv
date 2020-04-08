@@ -1,0 +1,135 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.095	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.0	X	pH 7.0, 30C, mutant enzyme D196A/Y197R
+0.12	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.0	X	pH 7.0, 30C, mutant enzyme D196A/Y197R, with 0.5 M formate
+0.21	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.5	X	mutant enzyme D195N, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195N, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195N, in 0.1 M potassium phosphate buffer (pH 7.5), at 37C
+0.26	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.5	X	mutant enzyme D195Q, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q, in 0.1 M potassium phosphate buffer (pH 7.5), at 37C
+0.34	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.5	X	mutant enzyme D195S, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195S, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195S, in 0.1 M potassium phosphate buffer (pH 7.5), at 37C
+0.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.5	X	mutant enzyme D195Q/Y196S, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196S, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196S, in 0.1 M potassium phosphate buffer (pH 7.5), at 37C
+0.49	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.5	X	mutant enzyme D195Q/Y196H, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196H, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196H, in 0.1 M potassium phosphate buffer (pH 7.5), at 37C
+0.65	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.4		at pH 7.4 and 25C
+0.76	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.5	X	mutant enzyme D195A, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195A, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195A, in 0.1 M potassium phosphate buffer (pH 7.5), at 37C
+0.87	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.5	X	mutant enzyme D195Q/Y196P, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196P, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196P, in 0.1 M potassium phosphate buffer (pH 7.5), at 37C
+1.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.5		in 0.1 M potassium phosphate buffer, pH 7.5, at 30C
+1.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	8.0		pH 8.0, 20C, wild-type enzyme; wild-type enzyme
+1.6	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	8.0	X	mutant enzyme S195S; pH 8.0, 20C, mutant enzyme D195S
+2.6	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	239	7.0	X	mutant enzyme I239C, at 30C and pH 7.0
+2.8	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.0	X	mutant enzyme F290N, in 0.1 M sodium phosphate buffer, pH 7.0, at 30C
+2.8	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.0	X	mutant enzyme F290N, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+2.9	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.0		wild type enzyme, in 0.1 M sodium phosphate buffer, pH 7.0, at 30C
+2.9	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.0		wild type enzyme, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+3.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.0		wild type enzyme, at 30C and pH 7.0
+3.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.0	X	mutant enzyme F290Q, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication; mutant enzyme F290Y, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+3.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.5		wild type enzyme, in 0.1 M potassium phosphate buffer (pH 7.5); wild type enzyme, in 0.1 M potassium phosphate buffer (pH 7.5); wild type enzyme, in 0.1 M potassium phosphate buffer (pH 7.5), at 37C
+3.8	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.0	X	mutant enzyme F290A, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.0	X	mutant enzyme F290T, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.0	X	mutant enzyme F311D, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+4.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.0	X	mutant enzyme F290S, in 0.1 M sodium phosphate buffer, pH 7.0, at 30C
+4.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.0	X	mutant enzyme F290S, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+4.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	10	7.0	X	mutant enzyme A10C/I239C, at 30C and pH 7.0
+4.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.0	X	mutant enzyme F290E, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+5.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.0	X	mutant enzyme F290D, in 0.1 M sodium phosphate buffer, pH 7.0, at 30C
+5.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.0	X	mutant enzyme F290D, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+5.18	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.0	X	mutant enzyme C145S/A198G/D221Q/C255V, in 0.1 M sodium phosphate buffer (pH 7.0), at 30C
+5.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.0	X	mutant enzyme F311S, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+5.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.0	X	mutant enzyme F311N, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+5.6	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.5		recombinant enzyme, at pH 7.5 and 25C
+6.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	10	7.0	X	mutant enzyme A10C, at 30C and pH 7.0
+6.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.0		pH 7.0, 30C, wild-type enzyme
+6.67	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.0		in 100 mM Tris-HCl (pH 7.0), at 30C
+6.8	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.5	X	mutant enzyme K328V, at pH 7.5 and 25C
+7.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.0	X	mutant enzyme F311Y, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication; wild type enzyme, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication
+8.22	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.0	X	mutant enzyme C145S/D221Q/C255V, in 0.1 M sodium phosphate buffer (pH 7.0), at 30C
+18.68	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	9.5	X	mutant enzyme V120S/N187D, at pH 9.5 and 30C
+22.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	9.5		wild type enzyme, at pH 9.5 and 30C
+28.99	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	9.5	X	mutant enzyme N187D, at pH 9.5 and 30C
+40.63	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	9.5	X	mutant enzyme V120S, at pH 9.5 and 30C
+890	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	9.7		wild type enzyme, in the absence of 1-methyl-3-methylimidazolium dimethylphosphate, in 50 mM carbonate buffer, pH 9.7, at 30C
+1300	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	9.7		wild type enzyme, in the presence of 30% (v/v) 1-methyl-3-methylimidazolium dimethylphosphate, in 50 mM carbonate buffer, pH 9.7, at 30C
+0.08	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	37	6.8		in 0.1 M sodium phosphate (pH 6.8), at 37C
+0.00004	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	37	7.5		wild type enzyme, in 0.1 M potassium phosphate buffer (pH 7.5); wild type enzyme, in 0.1 M potassium phosphate buffer (pH 7.5); wild type enzyme, in 0.1 M potassium phosphate buffer (pH 7.5), at 37C
+0.005	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.5		in 0.1 M potassium phosphate buffer, pH 7.5, at 30C
+0.052	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	37	7.5	X	mutant enzyme D195A, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195A, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195A, in 0.1 M potassium phosphate buffer (pH 7.5), at 37C
+0.26	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	37	7.5	X	mutant enzyme D195N, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195N, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195N, in 0.1 M potassium phosphate buffer (pH 7.5), at 37C; mutant enzyme D195Q, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q, in 0.1 M potassium phosphate buffer (pH 7.5), at 37C
+0.34	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	37	7.5	X	mutant enzyme D195Q/Y196P, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196P, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196P, in 0.1 M potassium phosphate buffer (pH 7.5), at 37C; mutant enzyme D195Q/Y196S, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196S, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196S, in 0.1 M potassium phosphate buffer (pH 7.5), at 37C; mutant enzyme D195S, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195S, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195S, in 0.1 M potassium phosphate buffer (pH 7.5), at 37C
+0.44	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	37	7.5	X	mutant enzyme D195Q/Y196H, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196H, in 0.1 M potassium phosphate buffer (pH 7.5); mutant enzyme D195Q/Y196H, in 0.1 M potassium phosphate buffer (pH 7.5), at 37C
+0.52	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	22	7.0	X	mutant enzyme D221G, in 0.1 M sodium phosphate buffer (pH 7.0), at 22C
+0.55	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	22	7.0	X	mutant enzyme D221S, in 0.1 M sodium phosphate buffer (pH 7.0), at 22C
+0.62	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	22	7.0	X	mutant enzyme D221G/C255V, in 0.1 M sodium phosphate buffer (pH 7.0), at 22C
+0.79	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	22	7.0	X	mutant enzyme A198G/D221Q, in 0.1 M sodium phosphate buffer (pH 7.0), at 22C
+1.04	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	22	7.0	X	mutant enzyme D221Q, in 0.1 M sodium phosphate buffer (pH 7.0), at 22C
+1.05	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	22	7.0	X	mutant enzyme D221A, in 0.1 M sodium phosphate buffer (pH 7.0), at 22C
+1.07	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.0		in 100 mM Tris-HCl (pH 7.0), at 30C
+1.5	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	22	7.0	X	mutant enzyme C145S/A198G/D221Q/C255V, in 0.1 M sodium phosphate buffer (pH 7.0), at 22C
+1.64	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	22	7.0	X	mutant enzyme C145S/D221G/C255V, in 0.1 M sodium phosphate buffer (pH 7.0), at 22C
+1.91	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	22	7.0	X	mutant enzyme C145S/D221A/C255V, in 0.1 M sodium phosphate buffer (pH 7.0), at 22C
+2.76	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	22	7.0	X	mutant enzyme C145S/D221Q/C255V, in 0.1 M sodium phosphate buffer (pH 7.0), at 22C
+3.08	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.0	X	mutant enzyme C145S/A198G/D221Q/C255V, in 0.1 M sodium phosphate buffer (pH 7.0), at 30C
+4.5	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.0	X	pH 7.0, 30C, mutant enzyme D196A/Y197R
+7.89	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.0	X	mutant enzyme C145S/D221Q/C255V, in 0.1 M sodium phosphate buffer (pH 7.0), at 30C
+1.5	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	30	9.0		with NADH as cosubstrate, at pH 9.0 and 30C
+46.6	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	22	7.0		at pH 7.0 and 22C
+0.007	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	30	7.0		wild-type, 30C, pH 7.0
+0.023	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	30	7.0	X	mutant E141Q, 30C, pH 7.0
+0.36	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	30	7.0	X	mutant E141N, 30C, pH 7.0
+0.01	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	7.0	X	mutant E141N, 30C, pH 7.0
+0.054	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	7.0	X	mutant E141Q, 30C, pH 7.0
+0.21	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	7.2		wild type enzyme, at pH 7.2 and 30C
+0.25	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	8.0	X	mutant enzyme Y302R, at pH 8.0 and 25C
+0.29	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	169	8	X	oxidized mutant enzyme T169C/T226C, at 20C, in 20 mM triethanolamine at pH 8
+0.3	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	20	8	X	20C, pH 8, mutant enzyme T69V; 20C, pH 8, mutant enzyme T69V/T226V
+0.3	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	8.0	X	mutant enzyme Y160R, at pH 8.0 and 25C
+0.31	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme R284Q
+0.44	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	7.2	X	mutant enzyme T321S, at pH 7.2 and 30C
+0.5	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	169	8	X	reduced mutant enzyme T169C/T226C, at 20C, in 20 mM triethanolamine at pH 8
+0.5	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	8.0	X	mutant enzyme N187E/N147R, at pH 8.0 and 25C
+0.55	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	8.0	X	mutant enzyme H13E, at pH 8.0 and 25C
+0.6	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	8.0	X	mutant enzyme N187E/Q105R, at pH 8.0 and 25C
+0.7	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	8.0	X	mutant enzyme N187E, at pH 8.0 and 25C
+0.7	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	9.5	X	mutant enzyme V120S/N187D, at pH 9.5 and 30C
+0.71	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	7.2	X	mutant enzyme N187S/T321S, at pH 7.2 and 30C
+0.8	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	8.0	X	mutant enzyme Y160E, at pH 8.0 and 25C
+0.81	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	7.4		at pH 7.4 and 25C
+0.85	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	8.0	X	mutant enzyme N147R, at pH 8.0 and 25C
+0.9	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	9.0	X	mutant enzyme H387K, at pH 9.0 and 25C
+1.1	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	20	8	X	20C, pH 8, mutant enzyme T226V
+1.13	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	8.0		wild type enzyme, at pH 8.0 and 25C
+1.2	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	20	8		20C, pH 8, wild-type enzyme
+1.2	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	20	8		wild type enzyme, at 20C, in 20 mM triethanolamine at pH 8
+1.2	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	8.0	X	mutant enzyme Q105R, at pH 8.0 and 25C
+1.25	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	7.2	X	mutant enzyme N187S, at pH 7.2 and 30C
+1.3	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	7.5		in 0.1 M potassium phosphate buffer, pH 7.5, at 30C
+1.31	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	7.0		at pH 7.0 and 25C
+1.53	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	9.5		wild type enzyme, at pH 9.5 and 30C
+1.77	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	7.0		at pH 7.0 and 25C
+2.039	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	7.0		at pH 7.0 and 25C
+2.2	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	37	8.0	X	mutant enzyme A267M/I272V, at pH 8.0 and 37C
+2.32	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	6.5		at pH 6.5 and 30C
+2.8	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	7.0	X	mutant enzyme F290N, in 0.1 M sodium phosphate buffer, pH 7.0, at 30C
+2.8	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	37	8.0	X	mutant enzyme F290N, at pH 8.0 and 37C
+2.9	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	7.0		wild type enzyme, in 0.1 M sodium phosphate buffer, pH 7.0, at 30C
+2.9	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	37	8.0	X	mutant enzyme A267M/I272V/F290D, at pH 8.0 and 37C; wild type enzyme, at pH 8.0 and 37C
+3.2	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	37	8.0	X	mutant enzyme A267M/I272V/F290N, at pH 8.0 and 37C
+3.29	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	9.5	X	mutant enzyme N187D, at pH 9.5 and 30C
+3.7	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	37	8.0	X	mutant enzyme A267M/I272V/F290S, at pH 8.0 and 37C
+4.1	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	7.0	X	mutant enzyme F290S, in 0.1 M sodium phosphate buffer, pH 7.0, at 30C
+4.1	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	37	8.0	X	mutant enzyme F290S, at pH 8.0 and 37C
+5	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	37	8.0	X	mutant enzyme A267M, at pH 8.0 and 37C
+5.1	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	7.0	X	mutant enzyme F290D, in 0.1 M sodium phosphate buffer, pH 7.0, at 30C
+5.1	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	37	8.0	X	mutant enzyme F290D, at pH 8.0 and 37C
+5.34	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	9.5	X	mutant enzyme V120S, at pH 9.5 and 30C
+5.6	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	7.5		recombinant enzyme, at pH 7.5 and 25C
+6.1	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	7.0		wild-type, 30C, pH 7.0
+6.8	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	7.5	X	mutant enzyme K328V, at pH 7.5 and 25C
+7.3	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	7.0		in 0.1 M potassium phosphate buffer pH 7.0, at 30C
+10	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C, wild-type enzyme
+11.2	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	9.0	X	mutant enzyme R587K, at pH 9.0 and 25C
+32	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	9.0		with 2,6-dichlorophenolindophenol as cosubstrate, at pH 9.0 and 30C
+33.7	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	9.0	X	mutant enzyme H387M, at pH 9.0 and 25C
+35.4	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	25	9.0		wild type enzyme, at pH 9.0 and 25C
+36.5	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	9.0		with NAD+ as cosubstrate, at pH 9.0 and 30C
+39.7	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	9.0		with ferricyanide as cosubstrate, at pH 9.0 and 30C
+76	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	30	7.0		at pH 7.0 and 30C
+543	formate	114	BDAGIHXWWSANSR-UHFFFAOYSA-N	22	8.0		at pH 8.0 and 22C
+0.023	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M	25	7.0		at pH 7.0 and 25C
+0.023	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M	25	7.0		at pH 7.0 and 25C
+0.032	reduced methyl viologen	321	QMHXHFQNEHCDJP-UHFFFAOYSA-N		7.4		at pH 7.4, temperature not specified in the publication

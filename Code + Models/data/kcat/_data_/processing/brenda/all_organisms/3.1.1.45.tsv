@@ -1,0 +1,34 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.24	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N		7.0	X	E36D,C123S mutant enzyme, pH 7.0
+2.9	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N		7.0	X	C123S mutant enzyme, pH 7.0
+97.9	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N		7.0	X	E36D,C123S mutant enzyme, pH 7.0
+107.7	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N		7.0	X	C123S mutant enzyme, pH 7.0
+123	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N		7.0	X	E36D,R105H,C123S,G211D,K234N mutant enzyme, pH 7.0
+126.8	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N		7.0	X	E36D,C123S,A134S,S208G,A229V,K234R mutant enzyme, pH 7.0
+138	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N		7.0	X	E36D,C123S,A134S,S208G,A229V,K234R mutant enzyme, pH 7.0
+0.24	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N		7.0	X	E36D,C123S,A134S,S208G,A229V,K234R mutant enzyme, pH 7.0
+1.6	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N		7.0	X	E36D,C123S mutant enzyme, pH 7.0
+2.05	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N		7.0	X	E36D,R105H,C123S,G211D,K234N mutant enzyme, pH 7.0
+63.4	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N		7.0	X	C123S mutant enzyme, pH 7.0
+71.2	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N		7.0	X	E36D,C123S mutant enzyme, pH 7.0
+86.2	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N		7.0	X	E36D,R105H,C123S,G211D,K234N mutant enzyme, pH 7.0
+98.1	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N		7.0	X	E36D,C123S,A134S,S208G,A229V,K234R mutant enzyme, pH 7.0
+120	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N		7.0	X	C123S mutant enzyme, pH 7.0
+2.67	trans-4-Carboxymethylenebut-2-en-4-olide	3614	AYFXPGXAZMFWNH-ONEGZZNKSA-N				C123S DLH
+9.17	trans-4-Carboxymethylenebut-2-en-4-olide	3614	AYFXPGXAZMFWNH-ONEGZZNKSA-N				
+15	trans-4-Carboxymethylenebut-2-en-4-olide	3614	AYFXPGXAZMFWNH-ONEGZZNKSA-N				C60S DLH
+15.4	cis-4-carboxymethylenebut-2-en-4-olide	3869	AYFXPGXAZMFWNH-ARJAWSKDSA-N				
+260	cis-4-carboxymethylenebut-2-en-4-olide	3869	AYFXPGXAZMFWNH-ARJAWSKDSA-N				
+817	cis-4-carboxymethylenebut-2-en-4-olide	3869	AYFXPGXAZMFWNH-ARJAWSKDSA-N				
+2650	trans-dienelactone	3614	AYFXPGXAZMFWNH-ONEGZZNKSA-N	25	7.5		pH 7.5, 25C
+9409	trans-dienelactone	3614	AYFXPGXAZMFWNH-ONEGZZNKSA-N	60	5.0		pH 5.0, 60C
+15100	trans-dienelactone	3614	AYFXPGXAZMFWNH-ONEGZZNKSA-N				recombinant protein
+2.08	protoanemonin	7387	RNYZJZKPGHQTJR-UHFFFAOYSA-N				
+1630	4-fluoromuconolactone	14770	JWTRAEIUKUKVDW-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+1633	4-fluoromuconolactone	14770	JWTRAEIUKUKVDW-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+0.63	E-dienelactone	3614	AYFXPGXAZMFWNH-ONEGZZNKSA-N	24	7.0	X	mutant C123S, pH 7.0, 24C
+6.08	E-dienelactone	3614	AYFXPGXAZMFWNH-ONEGZZNKSA-N	24	7.0	X	mutant C123S, pH 7.0, 24C
+14	E-dienelactone	3614	AYFXPGXAZMFWNH-ONEGZZNKSA-N	24	7.0		wild-type enzyme, pH 7.0, 24C
+30	4-carboxymethylenebut-2-en-4-olide	3869	AYFXPGXAZMFWNH-ARJAWSKDSA-N				
+0.18	Z-dienelactone	3869	AYFXPGXAZMFWNH-ARJAWSKDSA-N	24	7.0	X	mutant C123S, pH 7.0, 24C
+19	Z-dienelactone	3869	AYFXPGXAZMFWNH-ARJAWSKDSA-N	24	7.0		wild-type enzyme, pH 7.0, 24C

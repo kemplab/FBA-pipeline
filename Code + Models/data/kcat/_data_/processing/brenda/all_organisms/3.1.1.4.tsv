@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.53	1,2-dihexanoyl-sn-glycero-3-phosphocholine	3627	KGWWHBYICAIILE-UHFFFAOYSA-N	37	8.5		pH 8.5, 37C, recombinant AtsPLA2-alpha, substrate below critical micelle concentration
+0.917	1,2-dipalmitoyl-phosphatidylcholine	4959	JGGBUWXNCCADSB-YWNVXTCZSA-N				small unilamellar vesicles
+1.42	1,2-dipalmitoyl-phosphatidylcholine	4959	JGGBUWXNCCADSB-YWNVXTCZSA-N				large unilamellar vesicles
+1.71	1,2-dihexanoyl-sn-glycero-3-phosphocholine	3627	KGWWHBYICAIILE-UHFFFAOYSA-N	37	8.5		pH 8.5, 37C, recombinant AtsPLA2-alpha, substrate above critical micelle concentration or in presence of 2 M NaCl
+3.86	1,2-diheptanoyl-sn-glycero-3-phosphocholine	6341	GIOLBUGCZWAIQM-UHFFFAOYSA-N	37	8.5		pH 8.5, 37C, recombinant AtsPLA2-alpha
+4.38	1,2-dioctanoyl-sn-glycero-3-phosphocholine	64418	YHIXRNNWDBPKPW-JOCHJYFZSA-O	37	8.5		pH 8.5, 37C, recombinant AtsPLA2-alpha
+4.6	1,2-diheptanoyl-sn-glycero-3-phosphorylcholine	6341	GIOLBUGCZWAIQM-UHFFFAOYSA-N				monodispersed substrate
+26.7	phosphatidylcholine	190	VWDFPPVHQPESCX-AWEZNQCLSA-O				
+39	p-nitrophenyl propionate	1443	DCQWRDUXRZSWHI-UHFFFAOYSA-N	90	8.0		90C, pH 8.0
+43.3	1,2-diheptanoyl-sn-glycero-3-phosphorylcholine	6341	GIOLBUGCZWAIQM-UHFFFAOYSA-N				micellar substrate
+187	phosphatidylcholine	190	VWDFPPVHQPESCX-AWEZNQCLSA-O	40	8.5		at pH 8.5 and 40C

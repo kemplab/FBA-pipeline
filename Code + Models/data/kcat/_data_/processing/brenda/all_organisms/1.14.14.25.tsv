@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00117	(24S)-24-hydroxycholesterol	5108	IOWMKBFJCNLRTC-XWXSNNQWSA-N				full length enzyme
+0.0018	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N				recombinant wild-type enzyme
+0.0072	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N			X	recombinant truncation mutant enzyme
+0.0076	cholesterol 3-sulfate	4134	GIDHEQISKWNHIO-UOMBLCTASA-N				recombinant wild-type enzyme
+0.0142	(24S)-24-hydroxycholesterol	5108	IOWMKBFJCNLRTC-XWXSNNQWSA-N			X	recombinant truncation mutant enzyme
+0.0153	(24S)-24-hydroxycholesterol	5108	IOWMKBFJCNLRTC-XWXSNNQWSA-N				recombinant wild-type enzyme
+0.042	cholesterol 3-sulfate	4134	GIDHEQISKWNHIO-UOMBLCTASA-N			X	recombinant truncation mutant enzyme
+0.11	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N				

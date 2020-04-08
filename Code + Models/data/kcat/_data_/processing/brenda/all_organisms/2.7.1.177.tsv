@@ -1,0 +1,24 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0173	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.4	X	mutant D135N, pH 7.4, temperature not specified in the publication
+0.0187	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.4	X	mutant E24Q, pH 7.4, temperature not specified in the publication
+0.0205	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.4	X	mutant E132A, pH 7.4, temperature not specified in the publication
+0.0227	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.4	X	mutant S255A, pH 7.4, temperature not specified in the publication
+0.026	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.4	X	mutant S253A, pH 7.4, temperature not specified in the publication
+0.0272	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.4	X	mutant E132Q, pH 7.4, temperature not specified in the publication
+0.0313	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.4	X	mutant D103A, pH 7.4, temperature not specified in the publication
+0.0338	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.4	X	mutant D103N, pH 7.4, temperature not specified in the publication; mutant S99A, pH 7.4, temperature not specified in the publication
+0.0342	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.4	X	mutant T134A, pH 7.4, temperature not specified in the publication
+0.0355	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.4	X	mutant T101A, pH 7.4, temperature not specified in the publication
+0.408	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.4		wild-type, pH 7.4, temperature not specified in the publication
+0.016	L-threonine	220	AYFVYJQAPQTCCC-GBXIJSLDSA-N		7.4	X	mutant D135N, pH 7.4, temperature not specified in the publication
+0.0188	L-threonine	220	AYFVYJQAPQTCCC-GBXIJSLDSA-N		7.4	X	mutant E24Q, pH 7.4, temperature not specified in the publication
+0.0193	L-threonine	220	AYFVYJQAPQTCCC-GBXIJSLDSA-N		7.4	X	mutant E132A, pH 7.4, temperature not specified in the publication
+0.0238	L-threonine	220	AYFVYJQAPQTCCC-GBXIJSLDSA-N		7.4	X	mutant S255A, pH 7.4, temperature not specified in the publication
+0.0258	L-threonine	220	AYFVYJQAPQTCCC-GBXIJSLDSA-N		7.4	X	mutant E132Q, pH 7.4, temperature not specified in the publication
+0.0287	L-threonine	220	AYFVYJQAPQTCCC-GBXIJSLDSA-N		7.4	X	mutant S253A, pH 7.4, temperature not specified in the publication
+0.0322	L-threonine	220	AYFVYJQAPQTCCC-GBXIJSLDSA-N		7.4	X	mutant D103A, pH 7.4, temperature not specified in the publication
+0.0325	L-threonine	220	AYFVYJQAPQTCCC-GBXIJSLDSA-N		7.4	X	mutant S99A, pH 7.4, temperature not specified in the publication
+0.0353	L-threonine	220	AYFVYJQAPQTCCC-GBXIJSLDSA-N		7.4	X	mutant T134A, pH 7.4, temperature not specified in the publication
+0.0358	L-threonine	220	AYFVYJQAPQTCCC-GBXIJSLDSA-N		7.4	X	mutant D103N, pH 7.4, temperature not specified in the publication
+0.037	L-threonine	220	AYFVYJQAPQTCCC-GBXIJSLDSA-N		7.4	X	mutant T101A, pH 7.4, temperature not specified in the publication
+0.0427	L-threonine	220	AYFVYJQAPQTCCC-GBXIJSLDSA-N		7.4		wild-type, pH 7.4, temperature not specified in the publication

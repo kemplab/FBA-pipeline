@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+6	allophanate	5416	AVWRKZWQTYIKIY-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+16.4	allophanate	5416	AVWRKZWQTYIKIY-UHFFFAOYSA-N		9.5		pH 9.5, recombinant enzyme
+18.2	allophanate	5416	AVWRKZWQTYIKIY-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, recombinant wild-type enzyme
+0.1	malonamic acid	15907	CGJMROBVSBIBKP-UHFFFAOYSA-N		9.5		pH 9.5, recombinant enzyme

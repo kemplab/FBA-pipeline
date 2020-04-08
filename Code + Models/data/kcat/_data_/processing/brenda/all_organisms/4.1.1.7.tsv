@@ -1,0 +1,69 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.05	p-nitro-benzoylformate	27151	RREPYIWLDJQENS-UHFFFAOYSA-N	25			at 25C
+0.07	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N		7.0	X	pH 7.0, mutant enzyme H70A
+0.46	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0	X	mutant enzyme H70A, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+0.46	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N			X	pH and temperature not specified in the publication, mutant H70A
+0.81	2-ketopentanoate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	6.0	X	mutant enzyme T377L/A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+1.1	2-ketohexanoate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	6.0	X	mutant enzyme T377L, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+1.2	2-ketohexanoate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	6.0	X	mutant enzyme T377L/A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+1.4	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	6.0	X	mutant enzyme A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+1.41	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N		7.0	X	pH 7.0, mutant enzyme H281A
+1.7	benzylformate	624	WLJVXDMOQOGPHL-UHFFFAOYSA-N	30	6.0	X	mutant enzyme A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+2	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0	X	mutant enzyme H281T, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+2	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	6.0	X	mutant enzyme T377L, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+2.1	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0	X	mutant enzyme H281A, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+2.1	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N			X	pH and temperature not specified in the publication, mutant H281A
+3.3	2-ketopentanoate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	6.0	X	mutant enzyme T377L, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+3.6	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	6.0	X	mutant enzyme T377L/A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+4	2-ketobutanoate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	6.0		wild type enzyme, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+4.4	2-ketohexanoate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	6.0	X	mutant enzyme A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+4.45	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N		7.0	X	pH 7.0, mutant enzyme S26A
+4.5	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0	X	mutant enzyme H70F, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+4.5	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N			X	pH and temperature not specified in the publication, mutant H70F
+5.3	2-ketohexanoate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	6.0		wild type enzyme, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+5.6	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0	X	mutant enzyme H70S, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+5.8	2-ketobutanoate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	6.0	X	mutant enzyme T377L/A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+6	2-ketobutanoate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	6.0	X	mutant enzyme A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+6.2	2-ketopentanoate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	6.0	X	mutant enzyme A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+6.9	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0	X	mutant enzyme H281Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+6.9	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N			X	pH and temperature not specified in the publication, mutant H281Y
+7.5	2-ketobutanoate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	6.0	X	mutant enzyme T377L, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+8.6	2-oxo-4-methylhexanoic acid	6617	BJWNVXXCJVKCNL-UHFFFAOYSA-N	30	6.0		pH 6.0, 30C, wild-type enzyme
+8.6	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0	X	mutant enzyme H281Q, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+9.8	2-oxo-4-methylhexanoic acid	6617	BJWNVXXCJVKCNL-UHFFFAOYSA-N	30	6.0	X	pH 6.0, 30C, mutant enzyme A460I
+11	2-ketopentanoate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	6.0		wild type enzyme, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+11	2-oxo-4-methylpentanoic acid	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	6.0		pH 6.0, 30C, wild-type enzyme
+14	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0	X	mutant enzyme H70L, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+14	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N			X	pH and temperature not specified in the publication, mutant H70L
+15	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0	X	mutant enzyme S26A, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+15	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N			X	pH and temperature not specified in the publication, mutant S26A
+17	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0	X	mutant enzyme H281W, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+17.3	2-oxobutanoic acid	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	6.0		pH 6.0, 30C, wild-type enzyme
+18.8	2-oxobutanoic acid	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	6.0	X	pH 6.0, 30C, mutant enzyme A460I
+19	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0	X	mutant enzyme H281N in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+21	2-oxohexanoic acid	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	6.0		pH 6.0, 30C, wild-type enzyme
+21	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0	X	pH 6.0, 30C, mutant enzyme A460I/F464I
+25	benzylformate	624	WLJVXDMOQOGPHL-UHFFFAOYSA-N	30	6.0	X	mutant enzyme T377L/A460Y, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+26	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0	X	mutant enzyme S26M, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+26	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N			X	pH and temperature not specified in the publication, mutant S26M
+38	2-oxo-4-methylpentanoic acid	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	6.0	X	pH 6.0, 30C, mutant enzyme A460I
+40.6	2-Oxopentanoic acid	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	6.0	X	pH 6.0, 30C, mutant enzyme A460I
+42	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0	X	mutant enzyme H70T, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+44.3	2-Oxopentanoic acid	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	6.0		pH 6.0, 30C, wild-type enzyme
+62	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0	X	pH 6.0, 30C, mutant enzyme A460I
+65	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0	X	mutant enzyme H281F, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+65	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N			X	pH and temperature not specified in the publication, mutant H281F
+71.8	2-oxohexanoic acid	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	6.0	X	pH 6.0, 30C, mutant enzyme A460I
+94	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0	X	mutant enzyme S26T, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+110	benzylformate	624	WLJVXDMOQOGPHL-UHFFFAOYSA-N	30	6.0	X	mutant enzyme T377L, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+123	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0	X	pH 6.0, 30C, mutant enzyme F464I
+132	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0	X	mutant enzyme S26L, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+132	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N			X	pH and temperature not specified in the publication, mutant S26L
+222	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	35	6.0		wild type enzyme at pH 6.0 and 35C
+241	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N		7.0		pH 7.0, wild-type enzyme
+284	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	35	6.0		recombinant, his-tagged enzyme at pH 6.0 and 35C
+320	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0		wild type enzyme, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+320	benzylformate	624	WLJVXDMOQOGPHL-UHFFFAOYSA-N	30	6.0		wild type enzyme, in 100 mM potassium phosphate buffer (pH 6.0), at 30C
+320	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N				pH and temperature not specified in the publication, wild-type enzyme
+426	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.5		at 30C, in 50 mM potassium phosphate buffer, pH 6.5
+1349	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.0		pH 6.0, 30C, wild-type enzyme

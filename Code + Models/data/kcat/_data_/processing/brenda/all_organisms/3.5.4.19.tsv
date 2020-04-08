@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.28	1-(5-phosphoribosyl)-AMP	4525	RTQMRTSPTLIIHM-KEOHHSTQSA-N	65	8.5		pH 8.5, 65C, recombinant enzyme with bound Cd2+
+0.29	1-(5-phosphoribosyl)-AMP	4525	RTQMRTSPTLIIHM-KEOHHSTQSA-N	65	8.0		pH 8.0, 65C, recombinant enzyme with bound Cd2+
+6.4	1-(5-phosphoribosyl)-AMP	4525	RTQMRTSPTLIIHM-KEOHHSTQSA-N	65	8.0		pH 8.0, 65C, recombinant enzyme with bound Zn2+
+9.9	1-(5-phosphoribosyl)-AMP	4525	RTQMRTSPTLIIHM-KEOHHSTQSA-N	65	8.5		pH 8.5, 65C, recombinant enzyme with bound Zn2+

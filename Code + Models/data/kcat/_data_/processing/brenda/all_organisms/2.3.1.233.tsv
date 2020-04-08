@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0003	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	30	7.4	X	mutant enzyme Y224L, at pH 7.4 and 30C
+0.002	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	30	7.4	X	mutant enzyme Y224M, at pH 7.4 and 30C
+0.004	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	30	7.4	X	mutant enzyme Y224L, at pH 7.4 and 30C
+0.005	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	224	7.4	X	mutant enzyme Y224C, at pH 7.4 and 30C
+0.005	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	30	7.4		wild type enzyme, at pH 7.4 and 30C
+0.008	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	22	7.5		at pH 7.5 and 22C
+0.013	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	30	7.5		in 100 mM Tris-HCl (pH 7.5), 1 mM EDTA, 1 mM 2-mercaptoethanol, at 30C
+0.018	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	30	7.4	X	mutant enzyme Y224F, at pH 7.4 and 30C
+0.022	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	30	7.4		wild type enzyme, at pH 7.4 and 30C
+0.6	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N	30	7.5		wild type enzyme, at pH 7.5 and 30C
+0.65	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N	30	7.5	X	mutant enzyme Y224G, at pH 7.5 and 30C
+1.45	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N	30	7.5	X	mutant enzyme Y224L, at pH 7.5 and 30C
+2.07	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N	30	7.5	X	mutant enzyme A350I, at pH 7.5 and 30C
+9	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N	30	7.5	X	mutant enzyme A350S, at pH 7.5 and 30C
+45.7	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	22	7.5		wild type enzyme, in 100 mM Tris-HCl buffer (pH 7.5), at 22C
+46.5	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	22	7.5	X	mutant enzyme C171S, in 100 mM Tris-HCl buffer (pH 7.5), at 22C
+79.2	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	22	7.5	X	mutant enzyme C184S, in 100 mM Tris-HCl buffer (pH 7.5), at 22C

@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00028	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5	X	mutant enzyme R269A/N270A, at pH 7.5 and 25C
+0.00028	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5	X	mutant R269A/N270A, pH 7.5, 25C
+0.0059	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5	X	mutant enzyme R269A, at pH 7.5 and 25C
+0.0059	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5	X	mutant R269A, pH 7.5, 25C
+9	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5	X	mutant enzyme N270A, at pH 7.5 and 25C
+9	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5	X	mutant N270A, pH 7.5, 25C
+240	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5		wild type enzyme, at pH 7.5 and 25C
+240	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5		wild-type enzyme, pH 7.5, 25C

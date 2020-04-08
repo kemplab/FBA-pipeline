@@ -1,0 +1,89 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.03	alpha-(SP)-borano substituted ADP	17026	PABGEACFCMYPQE-PAHOEEHLSA-N				
+0.06	alpha-(RP)-borano substituted ADP	17027	PABGEACFCMYPQE-APIOZJFQSA-N				
+0.08	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	30	9.0	X	pH 9.0, 30C, recombinant mutant R129A
+0.08	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J	30	9.0	X	pH 9.0, 30C, recombinant mutant R129A
+0.54	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	30	9.0	X	pH 9.0, 30C, recombinant mutant R235K
+0.54	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J	30	9.0	X	pH 9.0, 30C, recombinant mutant R235K
+0.55	N-ethylglycocyamine	11806	DXMQZKIEVHKNTN-UHFFFAOYSA-N	30	9.0	X	pH 9.0, 30C, recombinant mutant I69L
+1.33	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	30	9.0	X	pH 9.0, 30C, recombinant mutant R340Q
+1.33	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J	30	9.0	X	pH 9.0, 30C, recombinant mutant R340Q
+1.5	cyclocreatine	11805	AMHZIUVRYRVYBA-UHFFFAOYSA-N	30	9.0	X	pH 9.0, 30C, recombinant mutant I69L
+2.14	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	30	9.0	X	pH 9.0, 30C, recombinant mutant R340A
+2.14	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J	30	9.0	X	pH 9.0, 30C, recombinant mutant R340A
+2.18	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	30	9.0	X	pH 9.0, 30C, recombinant mutant R291K
+2.18	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J	30	9.0	X	pH 9.0, 30C, recombinant mutant R291K
+4.2	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	30	9.0	X	pH 9.0, 30C, recombinant mutant I69A
+4.3	N-ethylglycocyamine	11806	DXMQZKIEVHKNTN-UHFFFAOYSA-N	30	9.0	X	pH 9.0, 30C, recombinant mutant V325A
+4.4	cyclocreatine	11805	AMHZIUVRYRVYBA-UHFFFAOYSA-N	30	9.0	X	pH 9.0, 30C, recombinant mutant I69V
+4.5	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25			mitochondrial isoform, 25C
+12	N-ethylglycocyamine	11806	DXMQZKIEVHKNTN-UHFFFAOYSA-N	30	9.0	X	pH 9.0, 30C, recombinant mutant I69V
+12.5	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25			cytoplasmic isoform M2, 25C
+13.1	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25			cytoplasmic isoform B, 25C
+14.5	N-ethylglycocyamine	11806	DXMQZKIEVHKNTN-UHFFFAOYSA-N	30	9.0		pH 9.0, 30C, recombinant wild-type enzyme
+14.7	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25			cytoplasmic isoform M1, 25C
+15	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25			mitochondrial isoform, 25C
+15.4	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	30	9.0	X	pH 9.0, 30C, recombinant mutant V325A
+16.3	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25			cytoplasmic isoform M, 25C
+18	cyclocreatine	11805	AMHZIUVRYRVYBA-UHFFFAOYSA-N	30	9.0	X	pH 9.0, 30C, recombinant mutant V325A
+19.9	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25			cytoplasmic isoform M2, 25C
+20.3	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25			cytoplasmic isoform B, 25C
+25.2	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25			cytoplasmic isoform M1, 25C
+27.9	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25			cytoplasmic isoform, 25C
+35.2	cyclocreatine	11805	AMHZIUVRYRVYBA-UHFFFAOYSA-N	30	9.0		pH 9.0, 30C, recombinant wild-type enzyme
+36.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				muscle-type isoform MCK
+36.4	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N				muscle-type isoform MCK
+38.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				mitochondrial isoform sMiCK
+38.4	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N				mitochondrial isoform sMiCK
+41.3	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25			mitochondrial isoform, 25C
+45	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	30	9.0	X	pH 9.0, 30C, recombinant mutant I69L
+50.1	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	30	9.0	X	pH 9.0, 30C, recombinant mutant R340K
+50.1	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J	30	9.0	X	pH 9.0, 30C, recombinant mutant R340K
+51.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8.0		pH 8.0, ubiquitous mitochondrial isozyme
+51.7	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N		8.0		pH 8.0, ubiquitous mitochondrial isozyme
+75	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8.0		pH 8.0, ubiquitous mitochondrial isozyme
+75	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N		8.0		pH 8.0, ubiquitous mitochondrial isozyme
+76	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0		isoform II isolated after expression in Escherichia coli, pH 8.0, 30C
+78.3	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.0		pH 7.0, ubiquitous mitochondrial isozyme
+78.3	phosphocreatine	1471	DRBBFCLWYRJSJZ-UHFFFAOYSA-N		7.0		pH 7.0, ubiquitous mitochondrial isozyme
+82.7	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	30	9.0	X	pH 9.0, 30C, recombinant mutant I69V
+85.3	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	30	9.0		pH 9.0, 30C, recombinant wild-type enzyme
+88	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0		isoform IV isolated after expression in Escherichia coli, pH 8.0, 30C
+90	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.0		pH 7.0, ubiquitous mitochondrial isozyme
+90	phosphocreatine	1471	DRBBFCLWYRJSJZ-UHFFFAOYSA-N		7.0		pH 7.0, ubiquitous mitochondrial isozyme
+106	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25		X	co-substrate: ATP, 25C, pH not specified in the publication, mutant Q185E
+112	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25		X	co-substrate: ATP, 25C, pH not specified in the publication, mutant A329S
+115	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0		isoform III isolated after expression in Escherichia coli, pH 8.0, 30C
+115	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25		X	co-substrate: ATP, 25C, pH not specified in the publication, mutant E46Q
+117	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25		X	co-substrate: ATP, 25C, pH not specified in the publication, mutant D189A
+119	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25		X	co-substrate: ATP, 25C, pH not specified in the publication, mutant E185Q
+122	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25		X	co-substrate: ATP, 25C, pH not specified in the publication, mutant K304T
+126	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25		X	co-substrate: ATP, 25C, pH not specified in the publication, mutant K36L
+128	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25		X	co-substrate: ATP, 25C, pH not specified in the publication, mutant T304K
+132	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25		X	co-substrate: ATP, 25C, pH not specified in the publication, mutant Q46E
+138	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N				co-substrate: ATP, wild-type hMMCK, pH and temperature not specified in the publication
+140	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25		X	co-substrate: ATP, 25C, pH not specified in the publication, mutant N146C
+142	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25		X	co-substrate: ATP, 25C, pH not specified in the publication, mutant H267A; co-substrate: ATP, 25C, pH not specified in the publication, mutant S329A
+143	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0		wild-type, pH 8.0, 30C
+148	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	30	9.0		pH 9.0, 30C, recombinant wild-type enzyme
+148	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J	30	9.0		pH 9.0, 30C, recombinant wild-type enzyme
+153.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		9.0		pH 9.0, muscle-type cytosolic isozyme
+153.5	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N		9.0		pH 9.0, muscle-type cytosolic isozyme
+155	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0		isoform I isolated after expression in Escherichia coli, pH 8.0, 30C
+159	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25			co-substrate: ATP, 25C, pH not specified in the publication, wild-type
+163	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25		X	co-substrate: ATP, 25C, pH not specified in the publication, mutant A189D
+170	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25			co-substrate: ATP, 25C, pH not specified in the publication, wild-type
+173	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25		X	co-substrate: ATP, 25C, pH not specified in the publication, mutant A205S
+173	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25		X	co-substrate: ATP, 25C, pH not specified in the publication, mutant C146N
+175	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25		X	co-substrate: ATP, 25C, pH not specified in the publication, mutant L36K
+178	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25		X	co-substrate: ATP, 25C, pH not specified in the publication, mutant S205A
+196	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N	25		X	co-substrate: ATP, 25C, pH not specified in the publication, mutant A267H
+215	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		9.0		pH 9.0, brain-type cytosolic isozyme
+215	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N		9.0		pH 9.0, brain-type cytosolic isozyme
+238	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N				co-substrate: ATP, hybrid form consisting of muscle and brain creatine kinase isoforms, pH and temperature not specified in the publication
+350	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.0		pH 7.0, brain-type cytosolic isozyme
+350	phosphocreatine	1471	DRBBFCLWYRJSJZ-UHFFFAOYSA-N		7.0		pH 7.0, brain-type cytosolic isozyme
+370	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N				
+417	Creatine	361	CVSVTCORWBXHQV-UHFFFAOYSA-N				co-substrate: ATP, wild-type hBBCK, pH and temperature not specified in the publication
+483.3	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.0		pH 7.0, muscle-type cytosolic isozyme
+483.3	phosphocreatine	1471	DRBBFCLWYRJSJZ-UHFFFAOYSA-N		7.0		pH 7.0, muscle-type cytosolic isozyme

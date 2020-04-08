@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.66	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0		in 50 mM Tris-HCl pH 8.0, at 25C
+35.1	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	37	8.0		in the presence of 5 mM Mg2+, in 50 mM potassium phosphate pH 8.0, at 37C
+37	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	37	8.0		in the absence of Mg2+ or Mn2+, in 50 mM potassium phosphate pH 8.0, at 37C
+44.7	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	37	8.0		in the presence of 5 mM Mn2+, in 50 mM potassium phosphate pH 8.0, at 37C
+60.68	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	25	8.0		cosubstrate ATP, in 50 mM Tris-HCl pH 8.0, at 25C
+311	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	55	10.5		pH 10.5, 55C, recombinant enzyme
+34.6	Mg-ATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J	37	8.0		in the presence of 5 mM Mg2+, in 50 mM potassium phosphate pH 8.0, at 37C
+35.5	Mg-ATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J	37	8.0		in the absence of free Mg2+ or Mn2+, in 50 mM potassium phosphate pH 8.0, at 37C
+44.3	Mg-ATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J	37	8.0		in the presence of 5 mM Mn2+, in 50 mM potassium phosphate pH 8.0, at 37C
+45.1	Mn-ATP2-	1396	VQCJUDCUQJNKCF-MCDZGGTQSA-J	37	8.0		in the presence of 5 mM Mn2+, in 50 mM potassium phosphate pH 8.0, at 37C
+46.3	Mn-ATP2-	1396	VQCJUDCUQJNKCF-MCDZGGTQSA-J	37	8.0		in the absence of free Mg2+ or Mn2+, in 50 mM potassium phosphate pH 8.0, at 37C

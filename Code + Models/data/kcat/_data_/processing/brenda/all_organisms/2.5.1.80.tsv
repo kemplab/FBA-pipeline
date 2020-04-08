@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.002	dia,ent-ardeemin fumiquinazoline	128078	FHOFNRAVYAGXCQ-KZULUSFZSA-N	37	7.5		pH 7.5, 37C
+0.0053	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	37	7.5		pH 7.5, 37C
+0.019	Biochanin A	1083	WUADCCWRTIWANL-UHFFFAOYSA-N	37			pH not specified in the publication, 37C
+0.023	naringenin	483	FTVWIRXFELQLPI-ZDUSSCGKSA-N	37			pH not specified in the publication, 37C
+0.026	hesperetin	1544	AIONOLUJZLIMTK-AWEZNQCLSA-N	37			pH not specified in the publication, 37C
+0.027	genistein	319	TZBJGXHYKVUXJN-UHFFFAOYSA-N	37			pH not specified in the publication, 37C
+0.036	phloretin	1316	VGEREEWJJVICBM-UHFFFAOYSA-N	37			pH not specified in the publication, 37C
+0.043	L-abrine	9572	CZCIKBSVHDNIDH-NSHDSACASA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+0.053	dia-ardeemin fumiquinazoline	128077	FHOFNRAVYAGXCQ-SGTLLEGYSA-N	37	7.5		pH 7.5, 37C
+0.059	ent-ardeemin fumiquinazoline	128076	FHOFNRAVYAGXCQ-KPZWWZAWSA-N	37	7.5		pH 7.5, 37C
+0.092	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+0.108	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+0.112	L-tryptophan methyl ester	5005	KCUNTYMNJVXYKZ-JTQLQIEISA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+0.125	5-methyl-DL-tryptophan	3028	HUNCSWANZMJLPM-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+0.23	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				pH and temperature not specified in the publication
+0.39	eriodictyol	1820	SBHXYTNGIZCORC-ZDUSSCGKSA-N	37			pH not specified in the publication, 37C

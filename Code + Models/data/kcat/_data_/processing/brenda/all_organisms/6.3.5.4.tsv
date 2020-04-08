@@ -1,0 +1,72 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.43	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0	X	mutant E348D, ammonia-dependent activity, pH 8.0, 37C; mutant E348D, synthetase activity, ammonia-dependent activity, 100 mM NH4Cl, pH 8.0, 37C
+0.51	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0	X	mutant E348D, glutamine-dependent activity, pH 8.0, 37C; mutant E348D, synthetase activity, glutamine-dependent activity, 20 mM L-Gln, pH 8.0, 37C
+0.53	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	C523A mutant
+0.78	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	C514A mutant
+0.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type
+0.87	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	C386A mutant
+0.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0		wild-type, glutamine-dependent activity, pH 8.0, 37C; wild-type, synthetase activity, glutamine-dependent activity, 20 mM L-Gln, pH 8.0, 37C
+0.96	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0		wild-type, ammonia-dependent activity, pH 8.0, 37C; wild-type, synthetase activity, ammonia-dependent activity, 100 mM NH4Cl, pH 8.0, 37C
+1.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type
+1.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				glutamine dependent asparagine synthetase activity
+1.15	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	C168A mutant
+1.17	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	C99A mutant
+1.46	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	C423A mutant
+1.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8		pH 8, reaction with NH3, C-terminally tagged recombinant enzyme
+1.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8		pH 8, reaction with glutamine, C-terminally tagged recombinant enzyme
+2.18	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+2.94	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+5.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+1.8	NH3	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N		8		pH 8, C-terminally tagged recombinant enzyme
+0.59	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N				wild-type
+0.65	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N			X	mutant N74A
+1.03	hydroxylamine	80	AVXURJPOCDRRFD-UHFFFAOYSA-N				wild-type enzyme
+1.17	hydroxylamine	80	AVXURJPOCDRRFD-UHFFFAOYSA-N			X	N74A mutant
+1.05	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N				glutamine dependent asparagine synthetase activity
+1.56	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N				
+2.94	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N				
+0.8	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				glutaminase activity in the absence of ATP
+1.01	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				glutamine dependent asparagine synthetase activity
+1.38	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				glutaminase activity in the presence of ATP
+2.73	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				glutamine-dependent synthetase activity
+3	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				glutaminase activity; glutamine-dependent synthetase activity
+3.38	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				glutaminase activity
+6.08	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				glutaminase activity in the presence of ATP; glutamine dependent asparagine synthetase activity
+5.8	L-asparagine	231	DCXYFEDJOCDNAF-REOHCLBHSA-N				
+0.3	L-Asp	91	CKLJMWTZIZZHCS-REOHCLBHSA-N	37	8.0	X	mutant E348D, ammonia-dependent activity, pH 8.0, 37C; mutant E348D, synthetase activity, ammonia-dependent activity, 100 mM NH4Cl, pH 8.0, 37C
+0.45	L-Asp	91	CKLJMWTZIZZHCS-REOHCLBHSA-N	37	8.0	X	mutant E348D, glutamine-dependent activity, pH 8.0, 37C; mutant E348D, synthetase activity, glutamine-dependent activity, 20 mM L-Gln, pH 8.0, 37C
+0.67	L-Asp	91	CKLJMWTZIZZHCS-REOHCLBHSA-N	37	8.0		wild-type, glutamine-dependent activity, pH 8.0, 37C; wild-type, synthetase activity, glutamine-dependent activity, 20 mM L-Gln, pH 8.0, 37C
+0.75	L-Asp	91	CKLJMWTZIZZHCS-REOHCLBHSA-N	37	8.0		wild-type, ammonia-dependent activity, pH 8.0, 37C; wild-type, synthetase activity, ammonia-dependent activity, 100 mM NH4Cl, pH 8.0, 37C
+0.52	Asp	91	CKLJMWTZIZZHCS-REOHCLBHSA-N			X	C523A mutant
+0.57	Asp	91	CKLJMWTZIZZHCS-REOHCLBHSA-N				wild-type
+0.77	Asp	91	CKLJMWTZIZZHCS-REOHCLBHSA-N			X	C386A mutant
+0.79	Asp	91	CKLJMWTZIZZHCS-REOHCLBHSA-N			X	C514A mutant
+1.05	Asp	91	CKLJMWTZIZZHCS-REOHCLBHSA-N				wild-type enzyme
+1.23	Asp	91	CKLJMWTZIZZHCS-REOHCLBHSA-N			X	C168A mutant
+1.35	Asp	91	CKLJMWTZIZZHCS-REOHCLBHSA-N			X	C423A mutant
+1.37	Asp	91	CKLJMWTZIZZHCS-REOHCLBHSA-N			X	C99A mutant
+0.05	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	mutant N74A
+1.01	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				wild-type enzyme
+1.01	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				wild-type enzyme
+4	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	8.0	X	mutant E348Q, glutaminase activity, pH 8.0, 37C, ATP absent
+4.1	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	8.0	X	mutant E348D, glutaminase activity, pH 8.0, 37C, ATP absent
+4.45	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	8.0	X	mutant E348Q, glutaminase activity, pH 8.0, 37C, 5 mM ATP present
+5.8	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	8.0	X	mutant E348A, glutaminase activity, pH 8.0, 37C, 5 mM ATP present
+6.2	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	8.0		wild-type, glutaminase activity, pH 8.0, 37C, ATP absent
+6.37	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	8.0	X	mutant E348A, glutaminase activity, pH 8.0, 37C, ATP absent
+6.6	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	8.0		wild-type, glutaminase activity, pH 8.0, 37C, 5 mM ATP present
+10.02	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	8.0	X	mutant E348D, glutaminase activity, pH 8.0, 37C, 5 mM ATP present
+0.4	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	C523A mutant
+0.59	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				wild-type
+0.69	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	C386 mutant
+0.73	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	C436 mutant
+0.74	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	C514A mutant, Asp, C436A mutant
+0.86	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	C168 mutant
+1.09	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	C423A mutant
+1.31	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	C99A mutant
+1.7	glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		8		pH 8, C-terminally tagged recombinant enzyme
+5.8	glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				
+1.3	L-aspartic acid	91	CKLJMWTZIZZHCS-REOHCLBHSA-N		8		pH 8, reaction with glutamine, C-terminally tagged recombinant enzyme
+1.7	L-aspartic acid	91	CKLJMWTZIZZHCS-REOHCLBHSA-N		8		pH 8, reaction with NH3, C-terminally tagged recombinant enzyme
+0.1	L-glutamic acid gamma-monohydroxamate	3556	YVGZXTQJQNXIAU-VKHMYHEASA-N			X	mutant N74A
+0.15	L-glutamic acid gamma-monohydroxamate	3556	YVGZXTQJQNXIAU-VKHMYHEASA-N				wild-type

@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.03	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N		7.5	X	mutant H329A, pH 7.5, temperature not specified in the publication
+0.74	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	25	7.6		in 41 mM 1,3-diaza-2,4-cyclopentadiene /HCl (pH 7.6), 5 mM MgCl2, at 25C
+0.74	D-glucose 1,6-diphosphate	1231	RWHOZGRAXYWRNX-GASJEMHNSA-N	25	7.6		in 41 mM 1,3-diaza-2,4-cyclopentadiene /HCl (pH 7.6), 5 mM MgCl2, at 25C
+10.77	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N		7.6		recombinant His-tagged enzyme, pH 7.6, temperature not specified in the publication
+22.5	mannose 1-phosphate	1109	HXXFSFRBOHSIMQ-QTVWNMPRSA-N				
+50	glucose 1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N				
+59	alpha-D-mannose 1-phosphate	519	HXXFSFRBOHSIMQ-RWOPYEJCSA-N	60			recombinant wild type enzyme, at 60C
+70.31	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C
+79.17	alpha-D-mannose 1-phosphate	519	HXXFSFRBOHSIMQ-RWOPYEJCSA-N	37	7.5		SP-1, in 50 mM Tris-HCl (pH 7.5), at 37C
+93	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	37	8.0		isozyme PGM-II, in 50 mM HEPES-KOH, pH 8.0, at 37C
+95	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N		7.5		wild-type enzyme, pH 7.5, temperature not specified in the publication
+126.8	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	37	7.5		SP-1, in 50 mM Tris-HCl (pH 7.5), at 37C
+135	glucose 1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N				
+190	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	60			recombinant wild type enzyme, at 60C
+398	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	37	8.0		isozyme PGM-I, in 50 mM HEPES-KOH, pH 8.0, at 37C

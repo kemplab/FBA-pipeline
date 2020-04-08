@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.817	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	37	7.0		pH 7.0, 37C
+3.6	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	32	7.0	X	mutant enzyme A69M, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C
+19	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	32	7.0	X	mutant enzyme I68M, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C; mutant enzyme K71R, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C; wild type enzyme, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C
+2.49	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	37	7.0		pH 7.0, 37C
+7.1	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	32	7.0	X	mutant enzyme A69M, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C
+24	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	32	7.0	X	mutant enzyme K71R, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C; wild type enzyme, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C
+26	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	32	7.0	X	mutant enzyme I68M, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C
+1.49	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	7.0		pH 7.0, 37C
+0.012	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C
+33	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	32	7.0	X	mutant enzyme A69M, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C
+39	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	32	7.0	X	mutant enzyme I68M, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C; mutant enzyme K71R, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C; wild type enzyme, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C
+2.92	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	37	7.0		pH 7.0, 37C
+2.75	D-xylulose 5-phosphate	524	FNZLKVNUWIIPSJ-RFZPGFLSSA-N	37	7.0		pH 7.0, 37C
+26	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	32	7.0	X	mutant enzyme A69M, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C
+32	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	32	7.0	X	mutant enzyme K71R, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C; wild type enzyme, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C
+33	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	32	7.0	X	mutant enzyme I68M, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C
+31	2-deoxy-D-glucose 6-phosphate	1578	UQJFZAAGZAYVKZ-CERMHHMHSA-N	32	7.0	X	mutant enzyme A69M, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C
+33	2-deoxy-D-glucose 6-phosphate	1578	UQJFZAAGZAYVKZ-CERMHHMHSA-N	32	7.0	X	mutant enzyme K71R, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C; wild type enzyme, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C
+34	2-deoxy-D-glucose 6-phosphate	1578	UQJFZAAGZAYVKZ-CERMHHMHSA-N	32	7.0	X	mutant enzyme I68M, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C
+4.28	D-galactose 1-phosphate	1948	HXXFSFRBOHSIMQ-SVZMEOIVSA-N	37	7.0		pH 7.0, 37C
+6.6	DL-glycerol 3-phosphate	352	AWUCVROLDVIAJX-UHFFFAOYSA-N	32	7.0	X	mutant enzyme A69M, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C
+22	DL-glycerol 3-phosphate	352	AWUCVROLDVIAJX-UHFFFAOYSA-N	32	7.0	X	mutant enzyme K71R, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C
+23	DL-glycerol 3-phosphate	352	AWUCVROLDVIAJX-UHFFFAOYSA-N	32	7.0		wild type enzyme, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C
+24	DL-glycerol 3-phosphate	352	AWUCVROLDVIAJX-UHFFFAOYSA-N	32	7.0	X	mutant enzyme I68M, in 20 mM Tris-HCl(pH 7.0), 5 mM MgCl2, at 32C

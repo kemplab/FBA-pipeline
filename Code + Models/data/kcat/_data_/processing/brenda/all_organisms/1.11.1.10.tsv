@@ -1,0 +1,28 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.64	monochlorodimedone	2751	VOBIHUAWDXUCPH-UHFFFAOYSA-N	30	2.75		in 50 mM phosphate buffer pH 2.75 at 30C, with 20 mM KCl
+2.3	(R)-limonene	4009	XMGQYMWWDOXHJM-JTQLQIEISA-N		3		pH 3, without Cl-
+3.6	Naphthalene	1362	UFWIBTONFRDIAS-UHFFFAOYSA-N				from Hill equation
+4.5	Naphthalene	1362	UFWIBTONFRDIAS-UHFFFAOYSA-N				from the dimer model
+4.9	Styrene	1474	PPBRXRYQALVLMV-UHFFFAOYSA-N				enzyme in ternary system H9
+5.9	Styrene	1474	PPBRXRYQALVLMV-UHFFFAOYSA-N				enzyme in ternary system H4
+7.2	anthracene	4516	MWPLVEDNUUSJAV-UHFFFAOYSA-N				from Hill equation
+8	anthracene	4516	MWPLVEDNUUSJAV-UHFFFAOYSA-N				from the dimer model
+11.1	(R)-limonene	4009	XMGQYMWWDOXHJM-JTQLQIEISA-N		6		pH 6, in presence of Cl-
+11.28	2,4,6-Trichlorophenol	3112	LINPIYWFGCPVIE-UHFFFAOYSA-N	25	5.0		in 0.1 M acetate buffer pH 5.0, at 25C
+11.8	(R)-limonene	4009	XMGQYMWWDOXHJM-JTQLQIEISA-N		6		pH 6, without Cl-
+12.1	Styrene	1474	PPBRXRYQALVLMV-UHFFFAOYSA-N				enzyme in ternary system H1
+16.9	Styrene	1474	PPBRXRYQALVLMV-UHFFFAOYSA-N				enzyme in ternary system P1
+18.7	(R)-limonene	4009	XMGQYMWWDOXHJM-JTQLQIEISA-N		3		pH 3, in presence of Cl-
+23.3	Styrene	1474	PPBRXRYQALVLMV-UHFFFAOYSA-N				enzyme in ternary system H3
+26.56	pyrogallol	534	WQGWDDDVZFFDIG-UHFFFAOYSA-N	30	2.75		in 50 mM phosphate buffer pH 2.75 at 30C, with 20 mM KCl
+30.9	Styrene	1474	PPBRXRYQALVLMV-UHFFFAOYSA-N				enzyme in ternary system P9
+35.95	2,3,5,6-tetrachloroaniline	25399	YTDHEFNWWHSXSU-UHFFFAOYSA-N				
+46	pyrene	4992	BBEAQIROQSPTKN-UHFFFAOYSA-N				from Hill equation
+46.97	Pentachlorophenol	821	IZUPBVBPLAPZRR-UHFFFAOYSA-N				
+56.6	pyrene	4992	BBEAQIROQSPTKN-UHFFFAOYSA-N				from the dimer model
+60.8	2,3,5,6-Tetrachlorophenol	4341	KEWNKZNZRIAIAK-UHFFFAOYSA-N				
+123	4,6-dimethyldibenzothiophene	11759	MYAQZIAVOLKEGW-UHFFFAOYSA-N				aqueous solution containing 5% acetonitrile
+209.3	4,6-dimethyldibenzothiophene	11759	MYAQZIAVOLKEGW-UHFFFAOYSA-N				aqueous solution containing 40% acetonitrile
+653.4	4,6-dimethyldibenzothiophene	11759	MYAQZIAVOLKEGW-UHFFFAOYSA-N				aqueous solution containing 20% acetonitrile
+661.1	4,6-dimethyldibenzothiophene	11759	MYAQZIAVOLKEGW-UHFFFAOYSA-N				aqueous solution containing 30% acetonitrile
+70000	Chlorite	1618	QBWCMBCROVPCKQ-UHFFFAOYSA-N				

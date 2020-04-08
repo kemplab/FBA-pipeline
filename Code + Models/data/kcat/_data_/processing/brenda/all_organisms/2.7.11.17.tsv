@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6		pH 7.6, 25C, isoenzyme CaMK IIalpha
+1.2	biotinylated Thr-Arg-Ser-Ala-Ile-Arg-Arg-Ala-Ser-Thr-Ile-Glu-Met-Pro-Gln-Gln-Ala-Arg-Gln	109199	NXXITUFNFUBPJL-KZRCLOJHSA-N	25	7.6		pH 7.6, 25C, isoenzyme CaMK IIalpha
+8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6		pH 7.6, 25C, isoenzyme CaMK IIbeta
+8	biotinylated Thr-Arg-Ser-Ala-Ile-Arg-Arg-Ala-Ser-Thr-Ile-Glu-Met-Pro-Gln-Gln-Ala-Arg-Gln	109199	NXXITUFNFUBPJL-KZRCLOJHSA-N	25	7.6		pH 7.6, 25C, isoenzyme CaMK IIbeta
+9.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6		pH 7.6, 25C, isoenzyme CaMK IIgamma
+9.8	biotinylated Thr-Arg-Ser-Ala-Ile-Arg-Arg-Ala-Ser-Thr-Ile-Glu-Met-Pro-Gln-Gln-Ala-Arg-Gln	109199	NXXITUFNFUBPJL-KZRCLOJHSA-N	25	7.6		pH 7.6, 25C, isoenzyme CaMK IIgamma
+9.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6		pH 7.6, 25C, isoenzyme CaMK IIdelta
+9.9	biotinylated Thr-Arg-Ser-Ala-Ile-Arg-Arg-Ala-Ser-Thr-Ile-Glu-Met-Pro-Gln-Gln-Ala-Arg-Gln	109199	NXXITUFNFUBPJL-KZRCLOJHSA-N	25	7.6		pH 7.6, 25C, isoenzyme CaMK IIdelta

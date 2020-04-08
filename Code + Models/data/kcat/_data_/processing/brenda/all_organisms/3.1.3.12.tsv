@@ -1,0 +1,28 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.03	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	37			in 50mM Tris /HCl buffer with 2mM MgCl2, at 37C
+0.06	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	22	7.5	X	mutant enzyme K334A, at pH 7.5 and 22C
+0.094	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	22	7.5	X	mutant enzyme D336A, at pH 7.5 and 22C
+0.22	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	22	7.5	X	mutant enzyme Q332A, at pH 7.5 and 22C
+0.28	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	22	7.5	X	mutant enzyme R337A, at pH 7.5 and 22C
+1	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	22	7.5	X	mutant enzyme Y221A, at pH 7.5 and 22C
+1.49	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	4	7.4		at pH 7.4 and 4C
+2	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	22	7.5	X	mutant enzyme DELTA59, at pH 7.5 and 22C
+2	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	22	7.5	X	mutant enzyme E386A, at pH 7.5 and 22C
+3	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	22	7.5	X	mutant enzyme E384A, at pH 7.5 and 22C
+3.9	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	20	7.4		at pH 7.4 and 20C
+3.94	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	10	7.4		at pH 7.4 and 10C
+4	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	22	7.5	X	mutant enzyme S329A, at pH 7.5 and 22C
+6	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	22	7.5	X	mutant enzyme Y225A, at pH 7.5 and 22C
+6.52	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	37			in 50mM Tris /HCl buffer with 2mM MgCl2, at 37C
+8	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	22	7.0		pH 7.0, 22C, recombinant enzyme
+10	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	50	8.0		in 50 mM Tris-HCl (pH 8.0), 5 mM dithiothreitol, and 20 mM MgCl2, at 50C
+11	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	22	7.5	X	mutant enzyme D378A, at pH 7.5 and 22C
+12.65	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	37	7.4		at pH 7.4 and 37C
+13.4	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	37			in 50 mM Tris/HCl buffer with 2 mM MgCl2, at 37C
+14.3	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	30	7.5		pH 7.5, 30C
+14.6	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	30	7.5		pH 7.5, 30C, chimeric enzyme
+14.79	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	30	7.4		at pH 7.4 and 30C
+15	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	22	7.5	X	mutant enzyme T339A, at pH 7.5 and 22C
+18	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	22	7.5	X	mutant enzyme N228A, at pH 7.5 and 22C
+19	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	22	7.5	X	mutant enzyme W280A, at pH 7.5 and 22C
+24	Trehalose 6-phosphate	1144	LABSPYBHMPDTEL-LIZSDCNHSA-N	22	7.5		wild type enzyme, at pH 7.5 and 22C

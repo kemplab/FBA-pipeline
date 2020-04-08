@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.7	L-Glu	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				
+0.165	aminopterin	769	TVZGACDUOSZQKY-LBPRGKRZSA-N				L1210 isoform
+0.22	aminopterin	769	TVZGACDUOSZQKY-LBPRGKRZSA-N				liver isoform
+1.17	aminopterin	769	TVZGACDUOSZQKY-LBPRGKRZSA-N				
+2	aminopterin	769	TVZGACDUOSZQKY-LBPRGKRZSA-N				
+0.99	5,6,7,8-tetrahydropteroyl-Glu	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N				
+0.84	7,8-dihydropteroyl-Glu	173	OZRNSSUDZOLUSN-LBPRGKRZSA-N				
+0.81	5,6,7,8-tetrahydropteroyl-Glu2	4368	ZAOGJXDWOQXFBW-KKUMJFAQSA-N				
+0.95	7,8-dihydropteroyl-Glu2	5528	WZFWQRYNXSDFMH-GJZGRUSLSA-N				
+0.65	pteroyl-Glu	1001	OVBPIULPVIDEAO-LBPRGKRZSA-N				
+0.55	pteroyl-Glu3	4091	WOLQREOUPKZMEX-BZSNNMDCSA-N				
+0.01	5,10-dideazatetrahydrofolic acid	11633	SVJSWELRJWVPQD-UHFFFAOYSA-L				L1210 isoform
+0.145	5,10-dideazatetrahydrofolic acid	11633	SVJSWELRJWVPQD-UHFFFAOYSA-L				liver isoform
+0.116	(6S)-5,6,7,8-tetrahydropteroylglutamate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N				L1210 isoform
+0.215	(6S)-5,6,7,8-tetrahydropteroylglutamate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N				liver isoform
+0.095	(6R)-10-formyl-5,6,7,8-tetrahydropteroylglutamate	2297	AUFGTPPARQZWDO-YPMHNXCESA-N				L1210 isoform
+0.212	(6R)-10-formyl-5,6,7,8-tetrahydropteroylglutamate	2297	AUFGTPPARQZWDO-YPMHNXCESA-N				liver isoform
+0.073	(6S)-5-formyl-5,6,7,8-tetrahydropteroylglutamate	1207	VVIAGPKUTFNRDU-STQMWFEESA-N				L1210 isoform
+0.115	(6S)-5-formyl-5,6,7,8-tetrahydropteroylglutamate	1207	VVIAGPKUTFNRDU-STQMWFEESA-N				liver isoform
+0.82	pteroyl-Glu2	10663	SDUHYPXROSSGGK-GJZGRUSLSA-N				
+0.01	pteroyl-Glu5	3172	NJGIFGRWHCGKGC-MRKXFKPJSA-N				
+0.11	5-methyl-5,6,7,8-tetrahydropteroylglutamate	10804	ZNOVTXRBGFNYRX-ABLWVSNPSA-L				L1210 isoform
+0.22	5-methyl-5,6,7,8-tetrahydropteroylglutamate	10804	ZNOVTXRBGFNYRX-ABLWVSNPSA-L				liver isoform
+0.34	pteroyl-Glu4	13711	YMUKRFYNHZWDBN-TUFLPTIASA-N				

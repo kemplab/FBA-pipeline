@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.008	N-acetyl-Asp-Glu-Val-Asp-p-nitroanilide	4772	GGXRLUDNGFFUKI-ORGXJRBJSA-N			X	mutant protein with thrombin cleavage sites (LVPRGS) at residues 20-25 and 195-200
+0.1	N-acetyl-Asp-Glu-Val-Asp-p-nitroanilide	4772	GGXRLUDNGFFUKI-ORGXJRBJSA-N			X	mutant protein with thrombin cleavage sites (LVPRGS) at residues 20-25 and inserted after Asp-203
+0.9467	Ac-DVAD-p-nitroanilide	15894	HXHNNIYUGQCUOV-RURTYGRKSA-N				
+1.102	Ac-LDVAD-p-nitroanilide	15895	GLADOHRFESAWAI-IWDZWKJBSA-N				
+1.26	Ac-VDVAD-p-nitroanilide	24049	SIOKOOKURWWOID-PZQVQNRFSA-N				
+1.9	N-acetyl-Asp-Glu-Val-Asp-p-nitroanilide	4772	GGXRLUDNGFFUKI-ORGXJRBJSA-N			X	mutant protein with thrombin cleavage sites (LVPRGS) at residues 20-25 and 195-200, processed with thrombin
+2.9	N-acetyl-DEVD-7-amido-4-fluoromethylcoumarin	22197	CQGCLSUVDOLWCN-RNVDEAKXSA-N	37	7.4	X	mutant enzyme K40A, in 10 mM PIPES (pH 7.4), 100 mM NaCl, 10% sucrose (w/v), 0.1% CHAPS, 1 mM EDTA and 10 mM dithiothreitol, at 37C
+3.4	N-acetyl-DEVD-7-amido-4-fluoromethylcoumarin	22197	CQGCLSUVDOLWCN-RNVDEAKXSA-N	37	7.4		wild type enzyme, in 10 mM PIPES (pH 7.4), 100 mM NaCl, 10% sucrose (w/v), 0.1% CHAPS, 1 mM EDTA and 10 mM dithiothreitol, at 37C
+3.6	N-acetyl-Asp-Glu-Val-Asp-p-nitroanilide	4772	GGXRLUDNGFFUKI-ORGXJRBJSA-N				wid-type protein
+3.9	N-acetyl-DEVD-7-amido-4-fluoromethylcoumarin	22197	CQGCLSUVDOLWCN-RNVDEAKXSA-N	37	7.4	X	mutant enzyme K39A, in 10 mM PIPES (pH 7.4), 100 mM NaCl, 10% sucrose (w/v), 0.1% CHAPS, 1 mM EDTA and 10 mM dithiothreitol, at 37C
+4.1	N-acetyl-DEVD-7-amido-4-fluoromethylcoumarin	22197	CQGCLSUVDOLWCN-RNVDEAKXSA-N	37	7.4	X	mutant enzyme K41A, in 10 mM PIPES (pH 7.4), 100 mM NaCl, 10% sucrose (w/v), 0.1% CHAPS, 1 mM EDTA and 10 mM dithiothreitol, at 37C
+4.3	N-acetyl-DEVD-7-amido-4-fluoromethylcoumarin	22197	CQGCLSUVDOLWCN-RNVDEAKXSA-N	37	7.4	X	mutant enzyme K38A, in 10 mM PIPES (pH 7.4), 100 mM NaCl, 10% sucrose (w/v), 0.1% CHAPS, 1 mM EDTA and 10 mM dithiothreitol, at 37C
+4.4	N-acetyl-Asp-Glu-Val-Asp-p-nitroanilide	4772	GGXRLUDNGFFUKI-ORGXJRBJSA-N			X	mutant protein with thrombin cleavage sites (LVPRGS) at residues 20-25 and inserted after Asp-203, processed with thrombin
+4.4	N-acetyl-DEVD-7-amido-4-fluoromethylcoumarin	22197	CQGCLSUVDOLWCN-RNVDEAKXSA-N	37	7.4	X	mutant enzyme S37A, in 10 mM PIPES (pH 7.4), 100 mM NaCl, 10% sucrose (w/v), 0.1% CHAPS, 1 mM EDTA and 10 mM dithiothreitol, at 37C
+5.5	acetyl-DEVD-7-amido-4-methylcoumarin	2512	ALZSTTDFHZHSCA-RNVDEAKXSA-N		7.0		pH 7.0
+6.08	Ac-DVAD-p-nitroanilide	15894	HXHNNIYUGQCUOV-RURTYGRKSA-N				
+6.08	Ac-LDVAD-p-nitroanilide	15895	GLADOHRFESAWAI-IWDZWKJBSA-N				
+6.3	acetyl-DEVD-7-amido-4-methylcoumarin	2512	ALZSTTDFHZHSCA-RNVDEAKXSA-N		7.5		pH 7.5
+6.9	acetyl-DEVD-7-amido-4-fluoromethylcoumarin	22197	CQGCLSUVDOLWCN-RNVDEAKXSA-N	37	7.2		pH 7.2, 37C
+9.5	N-acetyl-DEVD-7-amido-4-fluoromethylcoumarin	22197	CQGCLSUVDOLWCN-RNVDEAKXSA-N	37	7.4	X	mutant enzyme D23A, in 10 mM PIPES (pH 7.4), 100 mM NaCl, 10% sucrose (w/v), 0.1% CHAPS, 1 mM EDTA and 10 mM dithiothreitol, at 37C
+10.3	acetyl-DEVD-p-nitroanilide	8868	KHQAFJMAFHBWPU-ORGXJRBJSA-N	37	7.2		pH 7.2, 37C

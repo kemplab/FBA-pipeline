@@ -1,0 +1,83 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.5	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	24	6.0		wild type enzyme, at 24C, 0.1 M sodium phosphate buffer, pH 6.0
+1	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant F501A
+2.2	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	30	6.0		recombinant enzyme, at pH 6.0 and 30C
+19	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant L315A
+25	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant Y78A
+27	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant F501Y
+30	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	24	6.0		pH 6.0, 24C
+30	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	24	6.0		pH 6.0, 24C, wild-type enzyme
+33	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant Y92F
+3	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant F501A
+76	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant L315A
+83	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant Y78A
+86	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant F501Y
+114	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	24	6.0		pH 6.0, 24C
+114	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	24	6.0		pH 6.0, 24C, wild-type enzyme
+116	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant Y92F
+1.21	4-Nitrobenzaldehyde	612	BXRFQSNOROATLV-UHFFFAOYSA-N	24	6.0	X	mutant enzyme Y92F, wild type enzyme, at 24C, 0.1 M sodium phosphate buffer, pH 6.0
+1.633	4-Nitrobenzaldehyde	612	BXRFQSNOROATLV-UHFFFAOYSA-N	24	6.0		wild type enzyme, at 24C, 0.1 M sodium phosphate buffer, pH 6.0
+65	cinnamyl alcohol	728	OOCCDEMITAIZTP-QPJJXVBHSA-N	24	6.0		pH 6.0, 24C
+0.069	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	25	60	X	pH 60, 25C, mutant H502S
+0.069	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	25	6.0	X	pH 6.0, 25C, mutant H502S
+0.072	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	25	60	X	pH 60, 25C, mutant H502A
+0.072	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	25	6.0	X	pH 6.0, 25C, mutant H502A
+3.5	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	25	60	X	pH 60, 25C, mutant H546A
+3.5	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	25	6.0	X	pH 6.0, 25C, mutant H546A
+17	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	25	60	X	pH 60, 25C, mutant H546S
+17	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	25	6.0	X	pH 6.0, 25C, mutant H546S
+25	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	25	6.0		substrate alpha-deuterated 4-methoxybenzyl alcohol, pH 6.0, 25C
+40	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	25	6.0	X	pH 6.0, 25C, mutant F501A, overall reaction
+64	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	25	6.0	X	pH 6.0, 25C, mutant F501W, overall reaction
+87	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	25	6.0	X	pH 6.0, 25C, mutant F501Y, overall reaction
+105	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	25	6.0		pH 6.0, 25C, wild-type enzyme, overall reaction
+140.9	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	30	6.0		recombinant enzyme, at pH 6.0 and 30C
+196	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	25	6.0		substrate 4-methoxybenzyl alcohol, pH 6.0, 25C
+197	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	25	6.0		pH 6.0, 25C, wild-type enzyme
+208	4-methoxybenzyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	25	60		pH 60, 25C, wild-type enzyme
+1.05	4-Chlorobenzaldehyde	1581	AVPYQKSLYISFPO-UHFFFAOYSA-N	24	6.0		wild type enzyme, at 24C, 0.1 M sodium phosphate buffer, pH 6.0
+0.85	3-Chlorobenzaldehyde	1799	SRWILAKSARHZPR-UHFFFAOYSA-N	24	6.0		wild type enzyme, at 24C, 0.1 M sodium phosphate buffer, pH 6.0
+30	3,4-dimethoxybenzyl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N				
+64.3	3,4-dimethoxybenzyl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N				enzyme form VAO II
+82.2	3,4-dimethoxybenzyl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N				enzyme form VAO I
+105.7	3,4-dimethoxybenzyl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	30	6.0		recombinant enzyme, at pH 6.0 and 30C
+0.367	4-Fluorobenzaldehyde	2191	UOQXIWFBQSVDPP-UHFFFAOYSA-N	24	6.0		wild type enzyme, at 24C, 0.1 M sodium phosphate buffer, pH 6.0
+1	2,4-hexadien-1-ol	2417	MEIRRNXMZYDVDW-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant F501A
+56	2,4-hexadien-1-ol	2417	MEIRRNXMZYDVDW-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant L315A
+110	2,4-hexadien-1-ol	2417	MEIRRNXMZYDVDW-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant F501Y
+119	2,4-hexadien-1-ol	2417	MEIRRNXMZYDVDW-UHFFFAOYSA-N	24	6.0		pH 6.0, 24C
+119	2,4-hexadien-1-ol	2417	MEIRRNXMZYDVDW-UHFFFAOYSA-N	24	6.0		pH 6.0, 24C, wild-type enzyme
+161	2,4-hexadien-1-ol	2417	MEIRRNXMZYDVDW-UHFFFAOYSA-N	25	6.0		25C, pH 6.0, recombinant enzyme
+177	2,4-hexadien-1-ol	2417	MEIRRNXMZYDVDW-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant Y78A
+206	2,4-hexadien-1-ol	2417	MEIRRNXMZYDVDW-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant Y92F
+3	4-anisyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant F501A
+60	4-anisyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant L315A
+90	4-anisyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant Y78A
+111	4-anisyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant F501Y
+129	4-anisyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	25	6.0		25C, pH 6.0, recombinant enzyme
+139	4-anisyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant Y92F
+142	4-anisyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	24	6.0		pH 6.0, 24C
+142	4-anisyl alcohol	876	MSHFRERJPWKJFX-UHFFFAOYSA-N	24	6.0		pH 6.0, 24C, wild-type enzyme
+0.13	veratraldehyde	1922	WJUFSDZVCOTFON-UHFFFAOYSA-N	24	6.0		wild type enzyme, at 24C, 0.1 M sodium phosphate buffer, pH 6.0
+0.883	3-Fluorobenzaldehyde	2810	PIKNVEVCWAAOMJ-UHFFFAOYSA-N	24	6.0		wild type enzyme, at 24C, 0.1 M sodium phosphate buffer, pH 6.0
+1	3-anisyl alcohol	2936	IIGNZLVHOZEOPV-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant F501A
+8	3-anisyl alcohol	2936	IIGNZLVHOZEOPV-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant Y78A
+12	3-anisyl alcohol	2936	IIGNZLVHOZEOPV-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant L315A
+15	3-anisyl alcohol	2936	IIGNZLVHOZEOPV-UHFFFAOYSA-N	24	6.0		pH 6.0, 24C
+15	3-anisyl alcohol	2936	IIGNZLVHOZEOPV-UHFFFAOYSA-N	24	6.0		pH 6.0, 24C, wild-type enzyme
+17	3-anisyl alcohol	2936	IIGNZLVHOZEOPV-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant F501Y
+26	3-anisyl alcohol	2936	IIGNZLVHOZEOPV-UHFFFAOYSA-N	24	6.0	X	pH 6.0, 24C, mutant Y92F
+115.4	3-Methoxybenzyl alcohol	2936	IIGNZLVHOZEOPV-UHFFFAOYSA-N	30	6.0		recombinant enzyme, at pH 6.0 and 30C
+22	3-Chlorobenzyl alcohol	7075	ZSRDNPVYGSFUMD-UHFFFAOYSA-N	24	6.0		pH 6.0, 24C
+51	4-Chlorobenzyl alcohol	7090	PTHGDVCPCZKZKR-UHFFFAOYSA-N	24	6.0		pH 6.0, 24C
+0.33	2,4-hexadienal	7435	BATOPAZDIZEVQF-UHFFFAOYSA-N	24	6.0		wild type enzyme, wild type enzyme, at 24C, 0.1 M sodium phosphate buffer, pH 6.0
+48.5	p-anisyl alcohol	1857	NWVVVBRKAWDGAB-UHFFFAOYSA-N				
+6	3-fluorobenzyl alcohol	8686	QDHRSLFSDGCJFX-UHFFFAOYSA-N	24	6.0		pH 6.0, 24C
+0.012	4-anisaldehyde	779	ZRSNZINYAWTAHE-UHFFFAOYSA-N	24	6.0	X	mutant enzyme Y92F, wild type enzyme, at 24C, 0.1 M sodium phosphate buffer, pH 6.0
+0.05	4-anisaldehyde	779	ZRSNZINYAWTAHE-UHFFFAOYSA-N	24	6.0		wild type enzyme, at 24C, 0.1 M sodium phosphate buffer, pH 6.0
+32	4-fluorobenzyl alcohol	10997	GEZMEIHVFSWOCA-UHFFFAOYSA-N	24	6.0		pH 6.0, 24C
+8.27	m-anisyl alcohol	2936	IIGNZLVHOZEOPV-UHFFFAOYSA-N				
+0.867	3,4-difluorobenzaldehyde	11650	JPHKMYXKNKLNDF-UHFFFAOYSA-N	24	6.0		wild type enzyme, at 24C, 0.1 M sodium phosphate buffer, pH 6.0
+46	3-chloro-4-anisyl alcohol	16153	TZHJVLGDHRXGDX-UHFFFAOYSA-N	24	6.0		pH 6.0, 24C
+0.057	3-chloro-4-anisaldehyde	109316	WYVGYYIZXPXHAZ-UHFFFAOYSA-N	24	6.0		wild type enzyme, at 24C, 0.1 M sodium phosphate buffer, pH 6.0
+127	isovanillyl alcohol	24368	WHKRHBLAJFYZKF-UHFFFAOYSA-N	24	6.0		pH 6.0, 24C

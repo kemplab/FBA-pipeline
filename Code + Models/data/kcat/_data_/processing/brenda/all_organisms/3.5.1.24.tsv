@@ -1,0 +1,28 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+6.37	glycodeoxycholic acid	4857	WVULKSPCQVQLCU-BUXLTGKBSA-N	37	5.4		pH 5.4, 37C, recombinant enzyme
+8.5	taurochenodeoxycholic acid	2723	BHTRKEVKTKCXOH-BJLOMENOSA-N	37	5.4		pH 5.4, 37C, recombinant enzyme
+8.87	glycocholic acid	2702	RFDAIACWWDREDC-FRVQLJSFSA-N	37	5.4		pH 5.4, 37C, recombinant enzyme
+9.75	taurocholic acid	958	WBWWGRHZICKQGZ-HZAMXZRMSA-N	37	5.4		pH 5.4, 37C, recombinant enzyme
+13.43	taurodeoxycholic acid	1364	AWDRATDZQPNJFN-VAYUFCLWSA-N	37	5.4		pH 5.4, 37C, recombinant enzyme
+15.6	glycochenodeoxycholic acid	3154	GHCZAUBVMUEKKP-GYPHWSFCSA-M	37	5.4		pH 5.4, 37C, recombinant enzyme
+33.52	glycochenodeoxycholic acid	3154	GHCZAUBVMUEKKP-GYPHWSFCSA-M	37	6.5		pH 6.5, 37C, recombinant isozyme BSH1, in presence of DTT
+35.32	glycochenodeoxycholic acid	3154	GHCZAUBVMUEKKP-GYPHWSFCSA-M	37	6.5		pH 6.5, 37C, recombinant isozyme BSH2, in presence of DTT
+40	taurocholate	958	WBWWGRHZICKQGZ-HZAMXZRMSA-N	40	6.5	X	pH 6.5, 40C, recombinant mutant T2A
+44	glycocholate	2702	RFDAIACWWDREDC-FRVQLJSFSA-N	40	6.5	X	pH 6.5, 40C, recombinant mutant T2A
+48.76	glycodeoxycholic acid	4857	WVULKSPCQVQLCU-BUXLTGKBSA-N	37	6.5		pH 6.5, 37C, recombinant isozyme BSH1
+53.82	glycochenodeoxycholic acid	3154	GHCZAUBVMUEKKP-GYPHWSFCSA-M	37	6.5		pH 6.5, 37C, recombinant isozyme BSH1
+70.03	taurocholic acid	958	WBWWGRHZICKQGZ-HZAMXZRMSA-N	37	6.5		pH 6.5, 37C, recombinant isozyme BSH1
+70.07	glycocholic acid	2702	RFDAIACWWDREDC-FRVQLJSFSA-N	37	6.5		pH 6.5, 37C, recombinant isozyme BSH1
+76	taurocholate	958	WBWWGRHZICKQGZ-HZAMXZRMSA-N	40	6.5		pH 6.5, 40C, recombinant wild-type enzyme
+80.87	glycodeoxycholic acid	4857	WVULKSPCQVQLCU-BUXLTGKBSA-N	37	6.5		pH 6.5, 37C, recombinant isozyme BSH2
+82.59	glycocholic acid	2702	RFDAIACWWDREDC-FRVQLJSFSA-N	37	6.5		pH 6.5, 37C, recombinant isozyme BSH2
+83.15	taurodeoxycholic acid	1364	AWDRATDZQPNJFN-VAYUFCLWSA-N	37	6.5		pH 6.5, 37C, recombinant isozyme BSH1
+83.77	glycochenodeoxycholic acid	3154	GHCZAUBVMUEKKP-GYPHWSFCSA-M	37	6.5		pH 6.5, 37C, recombinant isozyme BSH2
+85	glycocholate	2702	RFDAIACWWDREDC-FRVQLJSFSA-N	40	6.5		pH 6.5, 40C, recombinant wild-type enzyme
+88.13	glycodeoxycholic acid	4857	WVULKSPCQVQLCU-BUXLTGKBSA-N	37	6.0		pH 6.0, 37C, recombinant enzyme
+91.53	taurochenodeoxycholic acid	2723	BHTRKEVKTKCXOH-BJLOMENOSA-N	37	6.5		pH 6.5, 37C, recombinant isozyme BSH1
+93.11	taurochenodeoxycholic acid	2723	BHTRKEVKTKCXOH-BJLOMENOSA-N	37	6.5		pH 6.5, 37C, recombinant isozyme BSH2
+93.14	taurocholic acid	958	WBWWGRHZICKQGZ-HZAMXZRMSA-N	37	6.5		pH 6.5, 37C, recombinant isozyme BSH2
+99.43	taurodeoxycholic acid	1364	AWDRATDZQPNJFN-VAYUFCLWSA-N	37	6.5		pH 6.5, 37C, recombinant isozyme BSH2
+632	glycodeoxycholic acid	4857	WVULKSPCQVQLCU-BUXLTGKBSA-N				apparent value, calculated from a Lineweaver-Burk plot
+632	glycodeoxycholic acid	4857	WVULKSPCQVQLCU-BUXLTGKBSA-N				pH not specified in the publication, temperature not specified in the publication

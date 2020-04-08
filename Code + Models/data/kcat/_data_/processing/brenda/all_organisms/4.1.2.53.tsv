@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+396	4-hydroxy-2-oxopentanoate	907	HFKQINMYQUXOCH-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, 25C, Ni2+-activated
+447	4-hydroxy-2-oxohexanoate	1530	ALFQPWXBAWHVDP-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, 25C, Ni2+-activated
+0.3	2-dehydro-3-deoxy-L-rhamnonate	3198	FRIWJYNKZPJVRL-IUYQGCFVSA-N	25	8.0		pH 8.0, 25C, Mg2+-activated
+0.3	2-dehydro-3-deoxy-L-rhamnonate	3198	FRIWJYNKZPJVRL-IUYQGCFVSA-N	25	8.0		pH 8.0, 25C
+0.4	2-dehydro-3-deoxy-L-rhamnonate	3198	FRIWJYNKZPJVRL-IUYQGCFVSA-N	25	8.0		pH 8.0, 25C, Mg2+-activated
+0.4	2-dehydro-3-deoxy-L-rhamnonate	3198	FRIWJYNKZPJVRL-IUYQGCFVSA-N	25	8.0		pH 8.0, 25C
+49.3	2-dehydro-3-deoxy-L-rhamnonate	3198	FRIWJYNKZPJVRL-IUYQGCFVSA-N		7.0		in 50 mM sodium phosphate (pH 7.0), 5 mM Mn2+, temperature not specified in the publication
+54.7	2-dehydro-3-deoxy-L-rhamnonate	3198	FRIWJYNKZPJVRL-IUYQGCFVSA-N		7.0		in 50 mM sodium phosphate (pH 7.0), 5 mM Mn2+, temperature not specified in the publication
+0.54	4-hydroxy-2-oxoheptane-1,7-dioate	12560	HNOAJOYERZTSNK-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, Mg2+-activated
+299	4-hydroxy-2-oxoheptane-1,7-dioate	12560	HNOAJOYERZTSNK-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, Ni2+-activated
+0.3	2-dehydro-3-deoxy-L-lyxonate	4792	UQIGQRSJIKIPKZ-GSVOUGTGSA-N	25	8.0		pH 8.0, 25C, Mg2+-activated
+0.3	2-dehydro-3-deoxy-L-lyxonate	4792	UQIGQRSJIKIPKZ-GSVOUGTGSA-N	25	8.0		pH 8.0, 25C

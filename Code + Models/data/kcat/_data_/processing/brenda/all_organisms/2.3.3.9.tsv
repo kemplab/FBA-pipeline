@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+23	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		wild type enzyme, at pH 7.5 and 25C
+26.7	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				
+27.8	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				
+60.7	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	20			at 20C
+161	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	45			at 45C
+3.19	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	37	8.0	X	mutant R338K, pH 8.0, 37C
+14	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	25			N-terminal malate synthase-active domain GCE(13-573) of glyoxylate cycle enzyme, at 25C, pH not specified in the publication
+17	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	25			wild type full-length glyoxylate cycle enzyme, at 25C, pH not specified in the publication
+23	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	25	7.5		wild type enzyme, at pH 7.5 and 25C
+42.4	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	37	8.0	X	mutant C617S, pH 8.0, 37C
+48.1	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	37	8.0		wild-type, pH 8.0, 37C

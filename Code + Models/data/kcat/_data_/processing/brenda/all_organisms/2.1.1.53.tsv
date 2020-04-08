@@ -1,0 +1,23 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.047	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N				
+0.047	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N				
+0.086	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N				isoenzyme PMT2; PMT2
+0.086	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N				isoform PMT2
+0.131	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N				
+0.16	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N				isoenzyme PMT1; PMT1
+0.16	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N				isoform PMT1
+0.19	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N				; 
+0.198	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N				
+0.198	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N				
+0.359	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N				
+0.359	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N				isoform PMT2
+0.383	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N				; PMT1
+0.383	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N				isoform PMT1
+0.388	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N				
+0.388	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N				
+0.4	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	37	8.0		PMT-SPDS chimeric enzyme consisting of 181 N-terminal amino acids of putrescine N-methyltransferase and 165 C-terminal amino acids of spermidine synthase, in 20 mM HEPES, pH 8.0, 2 mM dithiothreitol, 1 mM ascorbic acid, at 37C
+0.69	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	37	8.0		SPDS-PMT chimeric enzyme consisting of 144 N-terminal amino acids of spermidine synthase and 162 C-terminal amino acids of putrescine N-methyltransferase, in 20 mM HEPES, pH 8.0, 2 mM dithiothreitol, 1 mM ascorbic acid, at 37C
+0.78	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	37	8.0	X	mutant H108L, pH 8.0, 37C
+1.73	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N				
+1.98	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	37	8.0		wild-type, pH 8.0, 37C
+5.14	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	37	8.0		wild type enzyme, in 20 mM HEPES, pH 8.0, 2 mM dithiothreitol, 1 mM ascorbic acid, at 37C

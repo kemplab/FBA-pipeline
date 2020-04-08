@@ -1,0 +1,57 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00000783	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N				
+0.00015	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	22	7.5	X	pH 7.5, 22C, recombinant mutant Y366E
+0.0004	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.5	X	mutant K71A, pH 7.5, temperature not specified in the publication
+0.00042	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	22	7.5	X	pH 7.5, 22C, recombinant mutant Y366A
+0.000833	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N				
+0.001	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.5	X	mutant I176A, pH 7.5, temperature not specified in the publication
+0.0016	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	22	7.5	X	pH 7.5, 22C, recombinant mutant Y366H
+0.0027	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.5	X	mutant P64A, pH 7.5, temperature not specified in the publication
+0.00317	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N				
+0.00333	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N			X	below 0.2/min, R59W mutant enzyme
+0.0034	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	22	7.5		pH 7.5, 22C, recombinant wild-type enzyme
+0.0062	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant G169A
+0.0131	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.5		wild-type enzyme, pH 7.5, temperature not specified in the publication
+0.0181	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.5	X	mutant F227R, pH 7.5, temperature not specified in the publication
+0.0303	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant L166N
+0.04	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		8.2	X	recombinant mutant R59W, pH 8.2
+0.0448	Mesoporphyrinogen-IX	10609	XUHCJAPDIYIBNN-UHFFFAOYSA-N				
+0.05	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4		pH 7.4, temperature not specified in the publication, wild-type enzyme
+0.055	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant R168S
+0.073	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant F331A
+0.0867	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N				
+0.124	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N				
+0.128	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant V170T
+0.15	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		8.2	X	recombinant mutant R59I, pH 8.2
+0.151	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant F331T
+0.155	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant M368Q
+0.17	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		8.2	X	recombinant mutant R59S, pH 8.2
+0.175	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N				wild type enzyme
+0.175	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N				
+0.175	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N				
+0.236	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant M368K
+0.295	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N				
+0.53	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.8	X	recombinant mutant Y348, pH 7.8
+0.853	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant L334V
+1.02	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	168	8.2	X	recombinant mutant R168C, pH 8.2
+1.273	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant R97G
+2.57	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		8.2	X	recombinant mutant R59K, pH 8.2
+3.9	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		8.2	X	recombinant mutant G14A, pH 8.2
+5.95	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		8.2		recombinant wild-type enzyme, pH 8.2
+6	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	20			wild-type; wild type enzyme PPO2, at 20C
+6	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4		pH 7.4, temperature not specified in the publication, wild-type enzyme
+7	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	20		X	L372N; mutant enzyme L372N, at 20C
+11	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	20		X	F392E; mutant enzyme F392E, at 20C
+12	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	20		X	mutant enzyme N67W/S374D, at 20C; N67W/S374D
+12.9	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	25	7.4	X	recombinant mutant V311M, pH 7.4, 25C
+14.1	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	25	7.4		recombinant wild-type enzyme, pH 7.4, 25C
+34	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	20		X	mutant enzyme R98E, at 20C; R98E
+37	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	20		X	mutant enzyme R98K, at 20C; R98K
+38	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	20		X	L356N; mutant enzyme L356N, at 20C
+97	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	20		X	mutant enzyme N67R, at 20C; N67R
+111	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	20		X	mutant enzyme N67R/S374D, at 20C; N67R/S374D
+208	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	20		X	mutant enzyme S374D, at 20C
+300	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	20		X	L356V; mutant enzyme L356V, at 20C
+365	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	20		X	mutant enzyme R98A, at 20C; R98A
+365	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant R98A
+597	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	20		X	L372V; mutant enzyme L372V, at 20C

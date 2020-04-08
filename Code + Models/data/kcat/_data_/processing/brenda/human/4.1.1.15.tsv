@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.41	L-Glu	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				GAD65 after cleavage with protease factor Xa
+1.8	L-Glu	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				6*His-tagged GAD65; GAD65-GST fusion protein expressed in Escherichia coli
+6.2	L-Glu	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				GAD67 after cleavage with protease factor Xa
+7.7	L-Glu	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				GAD67-GST fusion protein expressed in Escherichia coli

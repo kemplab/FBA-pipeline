@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00731	N-acetyl-L-lysine	9108	VEYYWZRYIYDQJM-ZETCQYMHSA-N			X	pH and temperature not specified in the publication, mutant enzyme L301M/Y306L/C348S/A315V
+0.015	Nepsilon-cyclopentyloxycarbonyl-L-lysine	41813	ZHGGYCNHXLZKHG-JTQLQIEISA-N	37	7.2		pH 7.2, 37C
+0.0323	N-acetyl-L-lysine	9108	VEYYWZRYIYDQJM-ZETCQYMHSA-N			X	pH and temperature not specified in the publication, mutant enzyme L301M/Y306L/L309A/C348F
+0.037	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	mutant enzyme N346A/C348L, pH and temperature not specified in the publication
+0.04	2-amino-6-(cyclopentanecarboxamido)hexanoic acid	124580	FQFIGHYUHCWZRZ-UHFFFAOYSA-N	37	7.2		pH 7.2, 37C
+0.062	2-amino-6-((R)-tetrahydrofuran-2-carboxamido)hexanoic acid	124579	LJLCMMNKTZXLLX-YGPZHTELSA-N	37	7.2		pH 7.2, 37C
+0.062	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	mutant enzyme A302L/Y306M/N346S/C348L/Y384L, pH and temperature not specified in the publication
+0.075	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	mutant enzyme A302F/Y306L/N346T/C348F/Y384L, pH and temperature not specified in the publication
+0.1	L-pyrrolysine	41811	ZFOMKMMPBOQKMC-KXUCPTDWSA-N	37	7.2		wild type enzyme, at 37C in 50 mM KCl, 10 mM MgCl2, 5 mM ATP, and 5 mM dithiothreitol in 10 mM HEPES buffer, pH 7.2
+0.105	L-pyrrolysine	41811	ZFOMKMMPBOQKMC-KXUCPTDWSA-N	37	7.2		pH 7.2, 37C
+0.19	tRNAPyl	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.2		pH 7.2, 37C, wild-type tRNAPyl
+0.325	L-pyrrolysine	41811	ZFOMKMMPBOQKMC-KXUCPTDWSA-N	37	7.2		wild type enzyme, at 37C in 50 mM KCl, 10 mM MgCl2, 5 mM ATP, and 5 mM dithiothreitol in 10 mM HEPES buffer, pH 7.2
+0.325	L-pyrrolysine	41811	ZFOMKMMPBOQKMC-KXUCPTDWSA-N	37	7.2		wild type enzyme, at 37C in 50 mM KCl, 10 mM MgCl2, 5 mM ATP, and 5 mM dithiothreitol in 10 mM HEPES buffer, pH 7.2

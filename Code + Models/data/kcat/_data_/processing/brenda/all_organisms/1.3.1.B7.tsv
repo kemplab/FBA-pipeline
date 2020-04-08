@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0344	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				pH and temperature not specified in the publication, wild-type enzyme
+0.143	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	pH and temperature not specified in the publication, mutant enzyme N158A
+0.146	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	pH and temperature not specified in the publication, mutant enzyme K113A
+0.175	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	pH and temperature not specified in the publication, mutant enzyme Y117A
+0.216	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	pH and temperature not specified in the publication, mutant enzyme S155A
+0.286	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	pH and temperature not specified in the publication, mutant enzyme S250A

@@ -1,0 +1,42 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.19	thio-NADPH	2865	UOCQAQQJWFGQFW-NNYOXOHSSA-N			X	recombinant mutants C53S, C53A, C58S
+0.21	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	recombinant mutants C53S, C53A, C58S
+0.67	(E,Z)-ajoene	14163	XQGFBFPXFFWUIY-QUMALBNYSA-N				
+0.8	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N			X	mutant enzyme E436A, pH and temperature not specified in the publication
+2.9	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N				
+4.8	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N				
+5.1	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N			X	mutant E201Q
+5.3	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N			X	mutant E201D
+6.33	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				recombinant wild-type
+7.02	thio-NADPH	2865	UOCQAQQJWFGQFW-NNYOXOHSSA-N				recombinant wild-type
+9.4	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N			X	mutant E201Q
+11.4	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N	20			in the absence of 4-((1-(4-ethylphenyl)-2-methyl-5-(4-(methylthio)phenyl)-1H-pyrrol-3-yl)methyl)thiomorpholine, at 20C, pH not specified in the publication
+13.6	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N			X	mutant E201D
+16.6	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N			X	mutant enzyme W81A, pH and temperature not specified in the publication
+18	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N	20			in the presence of 0.01 mM 4-((1-(4-ethylphenyl)-2-methyl-5-(4-(methylthio)phenyl)-1H-pyrrol-3-yl)methyl)thiomorpholine, at 20C, pH not specified in the publication
+18.18	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N	25	7.8		pH 7.8, 25C, recombinant enzyme
+19	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N	20			in the presence of 0.03 mM 4-((1-(4-ethylphenyl)-2-methyl-5-(4-(methylthio)phenyl)-1H-pyrrol-3-yl)methyl)thiomorpholine, at 20C, pH not specified in the publication
+20.8	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N				recombinant glutathione-trypanothione reductase-like enzyme
+21.8	4-aminobutyryl-L-cysteinylglycyl-3-methylaminopropylamide disulfide	21743	CNSXVCCCXFISDG-BYDSUWOYSA-N				
+24.5	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N			X	mutant E201Q
+29	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N			X	mutant E201D
+30.2	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N				wild type enzyme, pH and temperature not specified in the publication
+40.8	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N			X	mutant enzyme Q439A, pH and temperature not specified in the publication
+46.8	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N		7.4		in 40 mM HEPES, pH 7.4, 1 mM EDTA
+53.2	L-cysteinylglycyl-3-methylaminopropylamide disulfide	21817	AIWQENMASANOHH-LURJTMIESA-N				
+61.3	L-beta-aspartyl-L-cysteinylglycyl-3-methylaminopropylamide disulfide	21816	JBJQDMQOKCTRPJ-YUMQZZPRSA-N				
+83.3	deazatrypanothione disulfide	14224	UJWRJIHTYVQGJA-UHFFFAOYSA-N				
+85.4	glutathionylspermidine disulfide	4423	HCMZDPYSWPSKSP-CQJMVLFOSA-N				recombinant wild-type
+101	tert-butyloxycarbonyl-L-cysteinylglycyl-3-methylaminopropylamide disulfide	21854	YTCOFOXQNZLZME-QMMMGPOBSA-N				
+108	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N				recombinant wild-type
+122	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N				
+125	5,5'-dithiobis(N-[3-(4-methylpiperazin-1-yl)propyl]-2-nitrobenzamide)	11090	GJLZXAVXVLOUEQ-UHFFFAOYSA-N				recombinant enzyme
+125	5,5'-dithiobis(N-[3-(dimethylamino)propyl]-2-nitrobenzamide)	14199	XYJZRCQIUGCSHR-UHFFFAOYSA-N				recombinant enzyme
+160	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N				
+179	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N				
+237	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N				dependent on assay conditions
+240	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N				recombinant enzyme
+242	glutathionylspermidine disulfide	4423	HCMZDPYSWPSKSP-CQJMVLFOSA-N				
+283	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N				
+517	trypanothione disulfide	1050	LZMSXDHGHZKXJD-VJANTYMQSA-N				
+818	L-gamma-glutamyl-L-cysteinylglycyl-3-methylaminopropylamide disulfide	21818	JJMBMUXHYFPUQG-IUCAKERBSA-N				

@@ -1,0 +1,45 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+26.3	neurotensin	1629	PCJGZPGTCUMMOT-ISULXFBGSA-N				
+0.5	L-pyroglutamyl-beta-naphthylamide	2323	BZEPQNMASTUAMY-ZDUSSCGKSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme F142A
+0.8	L-pyroglutamyl-beta-naphthylamide	2323	BZEPQNMASTUAMY-ZDUSSCGKSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme F142Y
+54.7	L-pyroglutamyl-beta-naphthylamide	2323	BZEPQNMASTUAMY-ZDUSSCGKSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme F10Y
+163	L-pyroglutamyl-beta-naphthylamide	2323	BZEPQNMASTUAMY-ZDUSSCGKSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme F13Y
+210	L-pyroglutamyl-beta-naphthylamide	2323	BZEPQNMASTUAMY-ZDUSSCGKSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme F142Y
+319	L-pyroglutamyl-beta-naphthylamide	2323	BZEPQNMASTUAMY-ZDUSSCGKSA-N	37	7.0		pH 7.0, 37C, wild-type enzyme
+641	L-pyroglutamyl-beta-naphthylamide	2323	BZEPQNMASTUAMY-ZDUSSCGKSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme C68S/S185C
+770	L-pyroglutamyl-beta-naphthylamide	2323	BZEPQNMASTUAMY-ZDUSSCGKSA-N	37	7.0	X	pH 7.0, 37C, mutant enzyme S185C
+785	L-pyroglutamyl-beta-naphthylamide	2323	BZEPQNMASTUAMY-ZDUSSCGKSA-N	37	7.0		pH 7.0, 37C, wild-type enzyme
+7.4	Pyroglutamyl-beta-naphthylamide	2323	BZEPQNMASTUAMY-ZDUSSCGKSA-N			X	mutant enzyme D89N
+28	Pyroglutamyl-beta-naphthylamide	2323	BZEPQNMASTUAMY-ZDUSSCGKSA-N			X	mutant enzyme E10Q
+31.4	Pyroglutamyl-beta-naphthylamide	2323	BZEPQNMASTUAMY-ZDUSSCGKSA-N				wild-type enzyme
+35.1	Pyroglutamyl-beta-naphthylamide	2323	BZEPQNMASTUAMY-ZDUSSCGKSA-N			X	mutant enzyme E22Q
+9	gonadotropin-releasing hormone	4949	PHGPTCQKBAJVCX-AQJXLSMYSA-N	37	7.4		37C, pH 7.4, native enzyme
+12	gonadotropin-releasing hormone	4949	PHGPTCQKBAJVCX-AQJXLSMYSA-N	37	7.4		37C, pH 7.4, recombinant enzyme
+52	L-pyroglutamyl-p-nitroanilide	5724	HGNBEWLBSCSJGV-VIFPVBQESA-N	37	7.4		37C, pH 7.4, native enzyme
+64	L-pyroglutamyl-p-nitroanilide	5724	HGNBEWLBSCSJGV-VIFPVBQESA-N	37	7.4		37C, pH 7.4, recombinant enzyme
+2.4	L-pyroglutamyl-L-Ala	6635	YIJVJUARZXCJJP-WHFBIAKZSA-N	37	7.4		37C, pH 7.4
+3.2	L-pyroglutamyl-L-Ala	6635	YIJVJUARZXCJJP-WHFBIAKZSA-N	37	7.4		37C, pH 7.4
+3.7	L-pyroglutamyl-L-Ala	6635	YIJVJUARZXCJJP-WHFBIAKZSA-N	37	7.4		37C, pH 7.4
+1.8	4(R)-N-(2-nitroxyethyl)-2-oxothiazolidine-4-carboxamide	7844	WSPFZJVPRYXFFX-BYPYZUCNSA-N	37	7.4		37C, pH 7.4
+2.3	4(R)-N-(2-nitroxyethyl)-2-oxothiazolidine-4-carboxamide	7844	WSPFZJVPRYXFFX-BYPYZUCNSA-N	37	7.4		37C, pH 7.4
+2.3	4(R)-N-(2-nitroxyethyl)-2-oxothiazolidine-4-carboxamide	7844	WSPFZJVPRYXFFX-BYPYZUCNSA-N	37	7.4		37C, pH 7.4
+2.3	L-2-oxothiazolidine-4-carboxyl-L-Ala	7845	CWHFFBLIRFQMMR-IMJSIDKUSA-N	37	7.4		37C, pH 7.4
+2.5	L-2-oxothiazolidine-4-carboxyl-L-Ala	7845	CWHFFBLIRFQMMR-IMJSIDKUSA-N	37	7.4		37C, pH 7.4
+3.4	L-2-oxothiazolidine-4-carboxyl-L-Ala	7845	CWHFFBLIRFQMMR-IMJSIDKUSA-N	37	7.4		37C, pH 7.4
+6.4	L-2-oxooxazolidine-4-carboxyl-L-Ala	7846	UTFBHQJLMLPWEQ-IMJSIDKUSA-N	37	7.4		37C, pH 7.4
+6.6	L-2-oxooxazolidine-4-carboxyl-L-Ala	7846	UTFBHQJLMLPWEQ-IMJSIDKUSA-N	37	7.4		37C, pH 7.4
+8.1	L-2-oxooxazolidine-4-carboxyl-L-Ala	7846	UTFBHQJLMLPWEQ-IMJSIDKUSA-N	37	7.4		37C, pH 7.4
+2.4	L-2-oxoimidazolidine-4-carboxyl-L-Ala	7847	VSVHFDOKDYONCD-IMJSIDKUSA-N	37	7.4		37C, pH 7.4
+2.7	L-2-oxoimidazolidine-4-carboxyl-L-Ala	7847	VSVHFDOKDYONCD-IMJSIDKUSA-N	37	7.4		37C, pH 7.4
+3.6	L-2-oxoimidazolidine-4-carboxyl-L-Ala	7847	VSVHFDOKDYONCD-IMJSIDKUSA-N	37	7.4		37C, pH 7.4
+47	L-pyroglutamyl-7-amido-4-methylcoumarin	12016	GMVNXBGNKSQHIT-NSHDSACASA-N	37	7.4		37C, pH 7.4, recombinant enzyme
+58	L-pyroglutamyl-7-amido-4-methylcoumarin	12016	GMVNXBGNKSQHIT-NSHDSACASA-N	37	7.4		37C, pH 7.4, native enzyme
+20	thyrotrophin-releasing hormone	3370	XNSAINXGIQZQOO-SRVKXCTJSA-N	37	7.4		37C, pH 7.4, native enzyme
+22	thyrotrophin-releasing hormone	3370	XNSAINXGIQZQOO-SRVKXCTJSA-N	37	7.4		37C, pH 7.4, recombinant enzyme
+7.2	luteinizing-hormone-releasing hormone	4438	IGACZQNUZMBGFX-AQJXLSMYSA-N				
+3.5	L-pyroglutamyl-aminoethylnitrate	23956	XVRZLEAXQBPDCI-YFKPBYRVSA-N	37	7.4		37C, pH 7.4
+7.6	L-2-oxooxazolidine-4-carboxyl-aminoethylnitrate	23957	MWVNPEVJWHMMFV-BYPYZUCNSA-N	37	7.4		37C, pH 7.4
+0.9	L-2-oxothiazolidine-4-carboxyl-ethanolamine	23958	IZSRRYSOHJAGLW-BYPYZUCNSA-N	37	7.4		37C, pH 7.4
+3.2	L-2-oxothiazolidine-4-carboxyl-L-2-aminopropylnitrate	23959	FKXIFERJNLWUMJ-WHFBIAKZSA-N	37	7.4		37C, pH 7.4
+1.5	L-2-oxothiazolidine-4-carboxyl-D-2-aminopropylnitrate	23960	FKXIFERJNLWUMJ-UHNVWZDZSA-N	37	7.4		37C, pH 7.4
+3.5	pyroglutamic acid-7-amido-4-methylcoumarin	12016	GMVNXBGNKSQHIT-NSHDSACASA-N				

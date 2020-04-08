@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.06	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				in the presence of NAD+, 20 mM Mn2+
+0.09	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				in the absence of NAD+, 20 mM Mn2+
+5	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	pH 7.4, 30C, recombinant mutant K57S/E59N/K73E/D102S with or without 5 mM fumarate
+28	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N				in the absence of NAD+, 20 mM Mn2+
+30	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N				in the presence of NAD+, 20 mM Mn2+
+43	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4		pH 7.4, 30C, recombinant wild-type enzyme
+55	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4		pH 7.4, 30C, recombinant wild-type enzyme with 5 mM fumarate
+130	L-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N				native and recombinant enzyme
+134.4	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme

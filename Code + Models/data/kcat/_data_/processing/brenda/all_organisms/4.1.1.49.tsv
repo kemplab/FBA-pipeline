@@ -1,0 +1,33 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.0	X	mutant enzyme L460A, in 100 mM MOPS buffer (pH 7.0), at 30C
+32	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.0	X	mutant enzyme E299A, in 100 mM MOPS buffer (pH 7.0), at 30C
+38	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.0		wild type enzyme, in 100 mM MOPS buffer (pH 7.0), at 30C
+13	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	30	6.6	X	mutant enzyme L460A, in 100 mM MOPS buffer (pH 6.6), at 30C
+18	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	30	6.6	X	mutant enzyme E299A, in 100 mM MOPS buffer (pH 6.6), at 30C
+62	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	30	6.6		wild type enzyme, in 100 mM MOPS buffer (pH 6.6), at 30C
+0.014	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	30	6.6	X	mutant enzyme K212R, in 100 mM MOPS buffer (pH 6.6), at 30C
+0.07	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	30	6.6	X	mutant enzyme E284Q, in 100 mM MOPS buffer (pH 6.6), at 30C
+0.13	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	30	6.6	X	mutant enzyme K212M, in 100 mM MOPS buffer (pH 6.6), at 30C
+0.2	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N			X	for the pyruvate kinase-like activity of S252A mutant
+0.5	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N			X	S252A mutant, apparent kinetic parameters for S252A mutant in the phosphoenolpyruvate carboxylation direction
+0.67	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37	7.0		at pH 7.0 and 37C
+0.8	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				for the pyruvate kinase-like activity of wild-type
+3	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				for wild-type
+5.1	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	30	6.6	X	mutant enzyme K213Q, in 100 mM MOPS buffer (pH 6.6), at 30C
+9.67	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				
+13	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N			X	for R457M mutant
+19	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	30	6.6	X	mutant enzyme E272Q, in 100 mM MOPS buffer (pH 6.6), at 30C
+22	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				
+53	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				
+62	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				wild-type, apparent kinetic parameters for wild-type in the phosphoenolpyruvate carboxylation direction
+63	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	30	6.6		wild type enzyme, in 100 mM MOPS buffer (pH 6.6), at 30C
+0.08	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	6.6	X	Km above 2.0 mM, mutant enzyme E284Q, in 100 mM MOPS buffer (pH 6.6), at 30C; mutant enzyme E272Q, in 100 mM MOPS buffer (pH 6.6), at 30C
+0.11	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	6.6	X	mutant enzyme K212R, in 100 mM MOPS buffer (pH 6.6), at 30C
+0.28	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	6.6		wild type enzyme, in 100 mM MOPS buffer (pH 6.6), at 30C
+0.58	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	6.6	X	mutant enzyme K213Q, in 100 mM MOPS buffer (pH 6.6), at 30C
+0.85	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	6.6	X	mutant enzyme K212M, in 100 mM MOPS buffer (pH 6.6), at 30C
+0.32	oxalacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N				for the oxaloacetate decarboxylase activity of wild-type
+1	oxalacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N			X	for the oxaloacetate decarboxylase activity of S252A mutant
+65	oxalacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N				wild-type, apparent kinetic parameters for wild-type in the phosphoenolpyruvate formation direction
+0.33	(Z)-3-fluorophosphoenolpyruvate	2350	XIWAVTKCZSZISQ-OWOJBTEDSA-N				
+1.1	(Z)-3-fluorophosphoenolpyruvate	2350	XIWAVTKCZSZISQ-OWOJBTEDSA-N				

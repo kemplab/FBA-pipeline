@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.33	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant R881M
+1.35	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant E308V
+18.3	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C, recombinant wild-type enzyme
+30	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C, recombinant wild-type enzyme

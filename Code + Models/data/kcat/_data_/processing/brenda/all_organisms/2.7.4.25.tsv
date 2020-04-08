@@ -1,0 +1,46 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0083	2',3'-dideoxy-CMP	14987	RAJMXAZJKUGYGW-POYBYMJQSA-N	30	7.4	X	mutant enzyme D185A, at 30C and pH 7.4
+0.013	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N	30	7.4	X	mutant enzyme D132H, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+0.04	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N	30	7.4	X	mutant enzyme R188M, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+0.047	2',3'-dideoxy-CMP	14987	RAJMXAZJKUGYGW-POYBYMJQSA-N	30	7.4		wild type enzyme, at 30C and pH 7.4
+0.05	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N	30	7.4	X	mutant enzyme R110M, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+0.054	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N	30	7.4	X	mutant enzyme R110M, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+0.06	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N	30	7.4	X	mutant enzyme D132H, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+0.069	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N	30	7.4	X	mutant enzyme D132H, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+0.071	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N	30	7.4	X	mutant enzyme D185A, at 30C and pH 7.4
+0.08	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N	30	7.4	X	mutant enzyme S101A, at 30C and pH 7.4
+0.085	ara-CMP	3219	IERHLVCPSMICTF-CCXZUQQUSA-N	30	7.4	X	mutant enzyme D185A, at 30C and pH 7.4
+0.12	2',3'-dideoxy-CMP	14987	RAJMXAZJKUGYGW-POYBYMJQSA-N	30	7.4	X	mutant enzyme R181M, at 30C and pH 7.4
+0.12	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N	30	7.4	X	mutant enzyme R188M, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+0.15	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N	30	7.4	X	mutant enzyme D132N, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+0.19	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N	30	7.4	X	mutant enzyme S101A, at 30C and pH 7.4
+0.23	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N	30	7.4	X	mutant enzyme R110M, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+0.26	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N	30	7.4	X	mutant enzyme D185A, at 30C and pH 7.4
+0.45	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N	30	7.4	X	mutant enzyme R181M, at 30C and pH 7.4
+0.45	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N	30	7.4	X	mutant enzyme D132N, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+0.47	ara-CMP	3219	IERHLVCPSMICTF-CCXZUQQUSA-N	30	7.4	X	mutant enzyme S101A, at 30C and pH 7.4
+0.57	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N	30	7.4	X	mutant enzyme S36A, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+0.65	2',3'-dideoxy-CMP	14987	RAJMXAZJKUGYGW-POYBYMJQSA-N	30	7.4	X	mutant enzyme S101A, at 30C and pH 7.4
+0.73	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N	30	7.4	X	mutant enzyme D132A, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+0.82	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N				wild-type enzyme
+0.82	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N	30	7.4		wild type enzyme, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+1.36	ara-CMP	3219	IERHLVCPSMICTF-CCXZUQQUSA-N	30	7.4	X	mutant enzyme R181M, at 30C and pH 7.4
+1.38	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N	30	7.4	X	mutant enzyme R181M, at 30C and pH 7.4
+1.4	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N	30	7.4	X	mutant enzyme D132N, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+4.1	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N	30	7.4	X	mutant enzyme D132A, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+8.3	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N	30	7.4	X	mutant enzyme D132S, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+9.9	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N	30	7.4	X	mutant enzyme D132A, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+12.2	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N				pH and temperature not specified in the publication
+14.5	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N	30	7.4	X	mutant enzyme S36A, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+21.1	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N	30	7.4	X	mutant enzyme D132S, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+22.4	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N	30	7.4	X	mutant enzyme D132S, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+30	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N				pH and temperature not specified in the publication
+52	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N				pH and temperature not specified in the publication
+56	ara-CMP	3219	IERHLVCPSMICTF-CCXZUQQUSA-N	30	7.4		wild type enzyme, at 30C and pH 7.4
+63	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N	30	7.4	X	mutant enzyme S36A, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+103	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N				wild-type enzyme
+103	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N	30	7.4		wild type enzyme, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+103	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N	30	7.4		wild type enzyme, at 30C and pH 7.4
+108	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N				wild-type enzyme
+108	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N	30	7.4		wild type enzyme, in 50 mM Tris-HCl (pH 7.4), 50 mM KCl, 2 mM MgCl2, 1 mM phosphoenolpyruvate, 0.2 mM NADH, at 30C
+109	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N	30	7.4		wild type enzyme, at 30C and pH 7.4

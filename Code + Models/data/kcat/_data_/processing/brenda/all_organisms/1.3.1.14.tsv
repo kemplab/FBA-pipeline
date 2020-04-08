@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.021	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant enzyme K48Q
+25.7	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				wild-type enzyme
+0.021	Orotate	373	PXQPEWDEAKTCGB-UHFFFAOYSA-N			X	mutant enzyme K48Q
+3.97	Orotate	373	PXQPEWDEAKTCGB-UHFFFAOYSA-N		8		formation of L-dihydroorotate, in absence of NAD+ or NADH, pH 8, 10 mM cysteine
+25.7	Orotate	373	PXQPEWDEAKTCGB-UHFFFAOYSA-N				wild-type enzyme
+22	L-dihydroorotate	697	UFIVEPVSAGBUSI-REOHCLBHSA-N		8		formation of orotate, in absence of NAD+ or NADH, pH 8, 10 mM cysteine
+45	L-dihydroorotate	697	UFIVEPVSAGBUSI-REOHCLBHSA-N				in presence of NAD+
+0.11	(S)-dihydroorotate	697	UFIVEPVSAGBUSI-REOHCLBHSA-N			X	mutant enzyme K48Q
+0.12	(S)-dihydroorotate	697	UFIVEPVSAGBUSI-REOHCLBHSA-N			X	mutant enzyme K48A
+0.42	(S)-dihydroorotate	697	UFIVEPVSAGBUSI-REOHCLBHSA-N			X	mutant enzyme K48R
+0.73	(S)-dihydroorotate	697	UFIVEPVSAGBUSI-REOHCLBHSA-N			X	mutant enzyme K48E
+49.3	(S)-dihydroorotate	697	UFIVEPVSAGBUSI-REOHCLBHSA-N				wild-type enzyme

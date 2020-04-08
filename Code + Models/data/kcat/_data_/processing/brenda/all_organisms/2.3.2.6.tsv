@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.002	L-leucyl-tRNALeu	2990	POFLURSHANAIOB-ATFXEFICSA-N	37	9.0		apparent value, at pH 9.0 and 37C
+0.00183	REPGLCTWQSLR	4758	UENWBASEKSNSPQ-MUDODTLUSA-N				amino acid residue on the aminoacyl-tRNA(Phe) transferred to the peptide substrate, 4-azido phenylalanine, Kcat apparent
+0.00283	REPGLCTWQSLR	4758	UENWBASEKSNSPQ-MUDODTLUSA-N				amino acid residue on the aminoacyl-tRNA(Phe) transferred to the peptide substrate, 4-acetyl-N-(tert-butoxycarbonyl)-L-phenylalanine, Kcat apparent
+0.00333	REPGLCTWQSLR	4758	UENWBASEKSNSPQ-MUDODTLUSA-N				amino acid residue on the aminoacyl-tRNA(Phe) transferred to the peptide substrate, 4-bromo phenylalanine, Kcat apparent
+0.00367	REPGLCTWQSLR	4758	UENWBASEKSNSPQ-MUDODTLUSA-N				amino acid residue on the aminoacyl-tRNA(Phe) transferred to the peptide substrate, phenylalanine, Kcat apparent
+0.00052	L-phenylalanyl-tRNAPhe	5472	VORARMZVOSSNHH-GHXLQSQOSA-N	37	9.0		apparent value, at pH 9.0 and 37C

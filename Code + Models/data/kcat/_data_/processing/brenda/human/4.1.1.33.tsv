@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0022	5-diphosphomevalonate	1105	DKXZSGIZFNWMLJ-ZCFIWIBFSA-N	30		X	mutant enzyme R161Q, at 30C
+0.2	5-diphosphomevalonate	1105	DKXZSGIZFNWMLJ-ZCFIWIBFSA-N	30		X	mutant enzyme N17A, at 30C
+2.1	5-diphosphomevalonate	1105	DKXZSGIZFNWMLJ-ZCFIWIBFSA-N	30		X	mutant enzyme S162A, at 30C
+4.5	5-diphosphomevalonate	1105	DKXZSGIZFNWMLJ-ZCFIWIBFSA-N	30			wild type enzyme, at 30C

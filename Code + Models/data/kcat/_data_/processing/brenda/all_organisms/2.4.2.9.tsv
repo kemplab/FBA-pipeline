@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0015	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N				reverse reaction
+0.36	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N				unactivated enzyme
+0.36	Uracil	287	ISAKRJDGNUQOIC-UHFFFAOYSA-N				unactivated enzyme
+0.65	Uracil	287	ISAKRJDGNUQOIC-UHFFFAOYSA-N	25	7.5		at pH 7.5 and 25C
+5.1	Uracil	287	ISAKRJDGNUQOIC-UHFFFAOYSA-N				forward reaction
+6.1	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N				activated by 1 mM GTP
+6.1	Uracil	287	ISAKRJDGNUQOIC-UHFFFAOYSA-N				activated by 1 mM GTP

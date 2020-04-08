@@ -1,0 +1,39 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+33.6	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.0		wild type enzyme, using methyl red as cosubstrate, in 20 mM Tris&acirc;HCl pH 8.0, temperature not specified in the publication
+35.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.0	X	mutant enzyme Y131F, using methyl red as cosubstrate, in 20 mM Tris&acirc;HCl pH 8.0, temperature not specified in the publication
+10	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0		; pH 7.0, 25C
+10	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0		wild type enzyme, using methyl red as cosubstrate, in 20 mM Tris&acirc;HCl pH 8.0, temperature not specified in the publication
+25.2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant enzyme Y131F, using methyl red as cosubstrate, in 20 mM Tris&acirc;HCl pH 8.0, temperature not specified in the publication
+1	Methyl red	760	CEQFOVLGLXCDCX-UHFFFAOYSA-N		8.0		isoform AzoR2, pH 8.0, temperature not specified in the publication
+1.2	Methyl red	760	CEQFOVLGLXCDCX-UHFFFAOYSA-N	22	7.0	X	mutant N106A, pH 7.0, 22C
+3.17	Methyl red	760	CEQFOVLGLXCDCX-UHFFFAOYSA-N	22	7.0	X	mutant R18G, pH 7.0, 22C
+4.8	Methyl red	760	CEQFOVLGLXCDCX-UHFFFAOYSA-N		8.0		isoform AzoR1, pH 8.0, temperature not specified in the publication
+6.61	Methyl red	760	CEQFOVLGLXCDCX-UHFFFAOYSA-N	22	7.0	X	mutant L59G, pH 7.0, 22C
+11.6	Methyl red	760	CEQFOVLGLXCDCX-UHFFFAOYSA-N		8.0		isoform AzoR3, pH 8.0, temperature not specified in the publication
+12.7	Methyl red	760	CEQFOVLGLXCDCX-UHFFFAOYSA-N		8.0		wild type enzyme, using NADPH as cosubstrate, in 20 mM Tris&acirc;HCl pH 8.0, temperature not specified in the publication
+17	Methyl red	760	CEQFOVLGLXCDCX-UHFFFAOYSA-N	25	7.0		; pH 7.0, 25C
+17.5	Methyl red	760	CEQFOVLGLXCDCX-UHFFFAOYSA-N	22	7.0	X	mutant V122Y, pH 7.0, 22C
+19.1	Methyl red	760	CEQFOVLGLXCDCX-UHFFFAOYSA-N		8.0	X	mutant enzyme Y131F, using NADPH as cosubstrate, in 20 mM Tris&acirc;HCl pH 8.0, temperature not specified in the publication
+20.8	Methyl red	760	CEQFOVLGLXCDCX-UHFFFAOYSA-N	22	7.0	X	mutant E16G, pH 7.0, 22C
+21.1	Methyl red	760	CEQFOVLGLXCDCX-UHFFFAOYSA-N	22	7.0	X	mutant W62A, pH 7.0, 22C
+59.1	Methyl red	760	CEQFOVLGLXCDCX-UHFFFAOYSA-N	22	7.0		wild-type, pH 7.0, 22C
+77.3	Methyl red	760	CEQFOVLGLXCDCX-UHFFFAOYSA-N	22	7.0	X	mutant R66A, pH 7.0, 22C
+111	Methyl red	760	CEQFOVLGLXCDCX-UHFFFAOYSA-N	22	7.0	X	mutant N121A, pH 7.0, 22C
+140	Methyl red	760	CEQFOVLGLXCDCX-UHFFFAOYSA-N	22	7.0	X	mutant R21G, pH 7.0, 22C
+245	Methyl red	760	CEQFOVLGLXCDCX-UHFFFAOYSA-N	22	7.0	X	mutant A123F, pH 7.0, 22C
+3278	2-methyl-1,4-naphthoquinone	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N				
+5.8	2-Hydroxy-1,4-naphthoquinone	1855	CSFWPUWCSPOLJW-UHFFFAOYSA-N				
+345	2-Hydroxy-1,4-naphthoquinone	1855	CSFWPUWCSPOLJW-UHFFFAOYSA-N				
+72	2-methyl-1,4-benzoquinone	2605	VTWDKFNVVLAELH-UHFFFAOYSA-N				
+0.5	sulfasalazine	2917	OQANPHBRHBJGNZ-FYJGNVAPSA-N		8.0		isoform AzoR3, pH 8.0, temperature not specified in the publication
+0.8	sulfasalazine	2917	OQANPHBRHBJGNZ-FYJGNVAPSA-N		8.0		isoform AzoR2, pH 8.0, temperature not specified in the publication
+2.6	sulfasalazine	2917	OQANPHBRHBJGNZ-FYJGNVAPSA-N		8.0		isoform AzoR1, pH 8.0, temperature not specified in the publication
+218.4	anthraquinone-2-sulfonate	4389	MMNWSHJJPDXKCH-UHFFFAOYSA-N				
+0.2	balsalzide	111767	IPOKCKJONYRRHP-FMQUCBEESA-N		8.0		isoform AzoR3, pH 8.0, temperature not specified in the publication
+0.7	balsalzide	111767	IPOKCKJONYRRHP-FMQUCBEESA-N		8.0		isoform AzoR2, pH 8.0, temperature not specified in the publication
+20	balsalzide	111767	IPOKCKJONYRRHP-FMQUCBEESA-N		8.0		isoform AzoR1, pH 8.0, temperature not specified in the publication
+211.2	anthraquinone-2,6-disulfonate	3713	MSSUFHMGCXOVBZ-UHFFFAOYSA-N				
+24.1	balsalazide	111844	KONZVQJABTUMFX-NDENLUEZSA-N		8.0	X	mutant enzyme Y131F, using NADPH as cosubstrate, in 20 mM Tris&acirc;HCl pH 8.0, temperature not specified in the publication
+36.8	balsalazide	111844	KONZVQJABTUMFX-NDENLUEZSA-N		8.0		wild type enzyme, using NADPH as cosubstrate, in 20 mM Tris&acirc;HCl pH 8.0, temperature not specified in the publication
+1.1	9,10-dioxo-9,10-dihydroanthracene-2-sulfonic acid	4389	MMNWSHJJPDXKCH-UHFFFAOYSA-N				
+2.6	9,10-dioxo-9,10-dihydroanthracene-2,6-disulfonic acid	3713	MSSUFHMGCXOVBZ-UHFFFAOYSA-N				

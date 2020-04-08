@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.093	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30			apparent value, at 30C
+0.49	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	45			apparent value, at 45C
+2.6	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30			apparent value, at 30C
+8.1	2,3-dihydrodipicolinate	3192	UWOCFOFVIBZJGH-UHFFFAOYSA-N	30			apparent value, at 30C
+17	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	45			apparent value, at 45C
+19	2,3-dihydrodipicolinate	3192	UWOCFOFVIBZJGH-UHFFFAOYSA-N	45			apparent value, at 45C
+20	(2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate	4325	DVTPRYHENFBCII-IMJSIDKUSA-N	30	8.0		native enzyme, at pH 8.0 and 30C
+20	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	8.0		native enzyme, at pH 8.0 and 30C
+21	(2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate	4325	DVTPRYHENFBCII-IMJSIDKUSA-N	30	8.0		recombinant enzyme, at pH 8.0 and 30C
+21	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	8.0		recombinant enzyme, at pH 8.0 and 30C

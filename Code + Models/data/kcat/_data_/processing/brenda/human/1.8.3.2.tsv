@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.83	dithiothreitol	42	VHJLVAABSRFDPM-QWWZWVQMSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant C74A/C85A
+0.87	dithiothreitol	42	VHJLVAABSRFDPM-QWWZWVQMSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant C15A
+0.9	dithiothreitol	42	VHJLVAABSRFDPM-QWWZWVQMSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant C124A
+0.95	dithiothreitol	42	VHJLVAABSRFDPM-QWWZWVQMSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant C15A/C124A
+1.1	dithiothreitol	42	VHJLVAABSRFDPM-QWWZWVQMSA-N	25	7.5		pH 7.5, 25C, recombinant wild-type enzyme
+1.25	dithiothreitol	42	VHJLVAABSRFDPM-QWWZWVQMSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant C15A/C74A/C85A/C124A

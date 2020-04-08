@@ -1,0 +1,169 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00217	2,3-dihydroxybenzoyl-CoA	3095	UQUXBMNUOFUYAJ-HDRQGHTBSA-N			X	mutant H54A, at room temperature
+0.0032	4-chlorobenzoyl-CoA	906	DEPSOKCZMQPCBI-TYHXJLICSA-N	25			wild-type protein, pH7.5, 25C
+0.00333	2,3-dihydroxybenzoyl-CoA	3095	UQUXBMNUOFUYAJ-HDRQGHTBSA-N	67		X	mutant S67C, at room temperature
+0.0044	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N	25			wild-type protein, pH7.5, 25C
+0.0047	n-Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N	25			wild-type protein, pH7.5, 25C
+0.0062	4-hydroxybenzoyl-CoA	1082	LTVXPVBFJBTNIJ-TYHXJLICSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+0.0066	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N				in the presence of StarD2 protein in a molar ratio StarD2/Them2 of 1.0
+0.007	3-hydroxy-3-methylglutaryl-CoA	964	CABVTRNMFUVUDM-SJBCKIPMSA-N				
+0.007	3-hydroxyphenylacetyl-CoA	2348	WOPRCGRQVLJGCX-FFJUWABQSA-N	25		X	N50A mutant protein, pH7.5, 25C
+0.0076	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N	25			wild-type protein, pH7.5, 25C
+0.011	3-hydroxybenzoyl-CoA	2678	JTBCMZVWWNFUFR-TYHXJLICSA-N	25			wild-type protein, pH7.5, 25C
+0.011	oleoyl-CoA	244	XDUHQPOXLUAVEE-BPMMELMSSA-N	25			wild-type protein, pH7.5, 25C
+0.011	stearoyl-CoA	438	SIARJEKBADXQJG-LFZQUHGESA-N	25			wild-type protein, pH7.5, 25C
+0.0112	2,3-dihydroxybenzoyl-CoA	3095	UQUXBMNUOFUYAJ-HDRQGHTBSA-N			X	mutant S67A, at room temperature
+0.014	2-butenoyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N	25			wild-type protein, pH7.5, 25C
+0.014	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N				
+0.0155	2,3-dihydroxybenzoyl-CoA	3095	UQUXBMNUOFUYAJ-HDRQGHTBSA-N			X	mutant Q48N, at room temperature
+0.016	n-decanoyl-CoA	448	CNKJPHSEFDPYDB-HSJNEKGZSA-N	25			wild-type protein, pH7.5, 25C
+0.017	linoleoyl-CoA	828	RJECHNNFRHZQKU-RMUVNZEASA-N	25			wild-type protein, pH7.5, 25C
+0.017	palmitoleoyl-CoA	990	QBYOCCWNZAOZTL-MDMKAECGSA-N	25			wild-type protein, pH7.5, 25C
+0.019	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N	25			wild-type protein, pH7.5, 25C
+0.019	salicylyl-CoA	2754	YTKKDFTVSNSVEE-TYHXJLICSA-N			X	mutant H54A, at room temperature
+0.02	myristoyl-CoA	382	DUAFKXOFBZQTQE-QSGBVPJFSA-N	25			wild-type protein, pH7.5, 25C
+0.02	tiglyl-CoA	2866	PMWATMXOQQZNBX-DKBZLLMOSA-N	25			wild-type protein, pH7.5, 25C
+0.022	Arachidonoyl-CoA	756	JDEPVTUUCBFJIW-YQVDHACTSA-N	25			wild-type protein, pH7.5, 25C
+0.022	n-Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N	25			wild-type protein, pH7.5, 25C
+0.023	beta-methylcrotonyl-CoA	1802	BXIPALATIYNHJN-ZMHDXICWSA-N	25			wild-type protein, pH7.5, 25C
+0.03	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N				
+0.031	myristoyl-CoA	382	DUAFKXOFBZQTQE-QSGBVPJFSA-N	25			at 25C
+0.033	myristoyl-CoA	382	DUAFKXOFBZQTQE-QSGBVPJFSA-N	37			at 37C, in the presence of small unilamellar vesicles composed of phosphatidylcholine at 4 mM total phospholipid concentration
+0.0342	2,4-dihydroxybenzoyl-CoA	12681	CCHHKYBWDAAVHX-TYHXJLICSA-N				wild-type, at room temperature
+0.036	n-propionyl-CoA	297	QAQREVBBADEHPA-IEXPHMLFSA-N	25			wild-type protein, pH7.5, 25C
+0.038	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N				
+0.038	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N				
+0.046	3-hydroxybutyryl-CoA	1615	QHHKKMYHDBRONY-RMNRSTNRSA-N				
+0.047	myristoyl-CoA	382	DUAFKXOFBZQTQE-QSGBVPJFSA-N	37			at 37C
+0.047	n-Butyryl-CoA	235	CRFNGMNYKDXRTN-CITAKDKDSA-N	25			wild-type protein, pH7.5, 25C
+0.05	glutaryl-CoA	532	SYKWLIJQEHRDNH-CKRMAKSASA-N	25			wild-type protein, pH7.5, 25C
+0.0507	salicylyl-CoA	2754	YTKKDFTVSNSVEE-TYHXJLICSA-N			X	mutant S67A, at room temperature
+0.051	salicylyl-CoA	2754	YTKKDFTVSNSVEE-TYHXJLICSA-N	67		X	mutant S67C, at room temperature
+0.054	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25			wild-type protein, pH7.5, 25C
+0.055	decanoyl-CoA	448	CNKJPHSEFDPYDB-HSJNEKGZSA-N				
+0.057	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N				in the presence of StarD2 protein in a molar ratio StarD2/Them2 of 0.5
+0.061	oleoyl-CoA	244	XDUHQPOXLUAVEE-BPMMELMSSA-N				
+0.062	myristoyl-CoA	382	DUAFKXOFBZQTQE-QSGBVPJFSA-N	50			at 50C
+0.066	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	25			wild-type protein, pH7.5, 25C
+0.0678	salicylyl-CoA	2754	YTKKDFTVSNSVEE-TYHXJLICSA-N			X	mutant Q48N, at room temperature
+0.069	myristoyl-CoA	382	DUAFKXOFBZQTQE-QSGBVPJFSA-N	37			at 37C, in the presence of StarD2 protein in a molar ratio StarD2/Them2 of 0.5
+0.07	myristoyl-CoA	382	DUAFKXOFBZQTQE-QSGBVPJFSA-N	37			wild-type protein, pH7.5, 37C
+0.0778	salicylyl-CoA	2754	YTKKDFTVSNSVEE-TYHXJLICSA-N			X	mutant M68A, at room temperature
+0.078	4-hydroxybenzoyl-CoA	1082	LTVXPVBFJBTNIJ-TYHXJLICSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+0.079	3-hydroxy-3-methylglutaryl-CoA	964	CABVTRNMFUVUDM-SJBCKIPMSA-N	25			wild-type protein, pH7.5, 25C
+0.08	butyrylpanthetheine phosphate	57476	PZIQDUSGQUZEBS-UHFFFAOYSA-N				wild-type protein
+0.082	n-butyrylpantethiene phosphate	9636	PZIQDUSGQUZEBS-ZDUSSCGKSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+0.083	methylmalonyl-CoA	635	MZFOKIKEPGUZEN-FBMOWMAESA-N	25			wild-type protein, pH7.5, 25C
+0.084	phenylacetyl-CoA	870	ZIGIFDRJFZYEEQ-CECATXLMSA-N	25			wild-type protein, pH7.5, 25C
+0.086	myristoyl-CoA	382	DUAFKXOFBZQTQE-QSGBVPJFSA-N	37			at 37C, in the presence of StarD2 protein in a molar ratio StarD2/Them2 of 1.0
+0.1	beta-methylcrotonyl-CoA	1802	BXIPALATIYNHJN-ZMHDXICWSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+0.12	phenylacetyl-CoA	870	ZIGIFDRJFZYEEQ-CECATXLMSA-N				
+0.138	2,3-dihydroxybenzoyl-CoA	3095	UQUXBMNUOFUYAJ-HDRQGHTBSA-N			X	mutant T64S, at room temperature
+0.14	4-hydroxyphenylacetyl-CoA	7549	GPCAQTOAAYEBGJ-FFJUWABQSA-N	25			wild-type protein, pH7.5, 25C
+0.15	3-hydroxyphenylacetyl-CoA	2348	WOPRCGRQVLJGCX-FFJUWABQSA-N	25		X	S83A mutant protein, pH7.5, 25C
+0.154	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N				wild-type, at room temperature
+0.16	3-hydroxyphenylacetyl-CoA	2348	WOPRCGRQVLJGCX-FFJUWABQSA-N	25		X	D65E mutant protein, pH7.5, 25C; H134A mutant protein, pH7.5, 25C
+0.18	beta-hydroxybutyryl-CoA	1615	QHHKKMYHDBRONY-RMNRSTNRSA-N	25			wild-type protein, pH7.5, 25C
+0.19	3,4-dihydroxyphenylacetyl-CoA	27375	BWFUCVJSCADRJW-CECATXLMSA-N	25			wild-type protein, pH7.5, 25C
+0.19	3,5-dihydroxyphenylacetyl-CoA	27376	MAFTTXQJASXWBB-CECATXLMSA-N	25			wild-type protein, pH7.5, 25C
+0.2	stearoyl-CoA	438	SIARJEKBADXQJG-LFZQUHGESA-N	37	7.5	X	pH 7.5, 37C, mutant D167A
+0.207	4-hydroxybenzoyl-CoA	1082	LTVXPVBFJBTNIJ-TYHXJLICSA-N				wild-type, at room temperature
+0.23	3,4-dihydroxybenzoyl-CoA	26409	DBFZTJWNUVVQPZ-TYHXJLICSA-N				wild-type, at room temperature
+0.27	arachidoyl-CoA	2031	JYLSVNBJLYCSSW-IBYUJNRCSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+0.32	3-hydroxyphenylacetyl-CoA	2348	WOPRCGRQVLJGCX-FFJUWABQSA-N	25		X	K136A mutant protein, pH7.5, 25C
+0.36	3-hydroxyphenylacetyl-CoA	2348	WOPRCGRQVLJGCX-FFJUWABQSA-N	25		X	D65N mutant protein, pH7.5, 25C
+0.372	2,3-dihydroxybenzoyl-CoA	3095	UQUXBMNUOFUYAJ-HDRQGHTBSA-N				wild-type, at room temperature
+0.5	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N	37	7.5	X	pH 7.5, 37C, mutant D167A
+0.533	2,3-dihydroxybenzoyl-CoA	3095	UQUXBMNUOFUYAJ-HDRQGHTBSA-N			X	mutant M68A, at room temperature
+0.54	beta-methylcrotonyl-CoA	1802	BXIPALATIYNHJN-ZMHDXICWSA-N				absorbance of 5-thio-2-nitrobenzoate formed by reaction of 5,5'-dithiobis(2-nitrobenzoic acid) is measured
+0.55	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+0.62	3-hydroxyphenylacetyl-CoA	2348	WOPRCGRQVLJGCX-FFJUWABQSA-N	25		X	H56A mutant protein, pH7.5, 25C
+0.66	3-hydroxyphenylacetyl-CoA	2348	WOPRCGRQVLJGCX-FFJUWABQSA-N	25		X	T69A mutant protein, pH7.5, 25C
+0.77	stearoyl-CoA	438	SIARJEKBADXQJG-LFZQUHGESA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+0.8	linoleoyl-CoA	828	RJECHNNFRHZQKU-RMUVNZEASA-N	37	7.5	X	pH 7.5, 37C, mutant D167A
+0.8	n-butyrylpantethiene phosphate	9636	PZIQDUSGQUZEBS-ZDUSSCGKSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+0.83	3-hydroxyphenylacetyl-CoA	2348	WOPRCGRQVLJGCX-FFJUWABQSA-N	25		X	H137A mutant protein, pH7.5, 25C
+0.9	N-acetylcysteamine propionate	12562	MFKIRTMXXYSKLE-UHFFFAOYSA-N	30	7.5		at pH 7.5, 30C
+0.92	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N				absorbance of 5-thio-2-nitrobenzoate formed by reaction of 5,5'-dithiobis(2-nitrobenzoic acid) is measured
+1.1	methylmalonyl-CoA	635	MZFOKIKEPGUZEN-FBMOWMAESA-N				absorbance of 5-thio-2-nitrobenzoate formed by reaction of 5,5'-dithiobis(2-nitrobenzoic acid) is measured
+1.193	acetyl-S-N-acetylcysteamine	26407	UZLRPNHVKXCOHS-UHFFFAOYSA-N	30	7.4		at pH 7.4, 30C
+1.2	Arachidonoyl-CoA	756	JDEPVTUUCBFJIW-YQVDHACTSA-N	37	7.5		pH 7.5, 37C
+1.2	stearoyl-CoA	438	SIARJEKBADXQJG-LFZQUHGESA-N	37	7.5		pH 7.5, 37C, wild-type
+1.3	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+1.38	salicylyl-CoA	2754	YTKKDFTVSNSVEE-TYHXJLICSA-N			X	mutant T64S, at room temperature
+1.4	3-hydroxyphenylacetyl-CoA	2348	WOPRCGRQVLJGCX-FFJUWABQSA-N	25			wild-type protein, pH7.5, 25C
+1.4	Arachidonoyl-CoA	756	JDEPVTUUCBFJIW-YQVDHACTSA-N	37	7.5		pH 7.5, 37C, wild-type
+1.6	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N				
+1.7	oleoyl-CoA	244	XDUHQPOXLUAVEE-BPMMELMSSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+1.8	Vaccenoyl-CoA	20640	HEJOXXLSCAQQGQ-LFZQUHGESA-N	37	7.5		pH 7.5, 37C, wild-type
+1.817	N-acetylcysteamine butyrate	20248	YHZLJUUTBUHPND-UHFFFAOYSA-N	30	7.5		at pH 7.5, 30C
+1.82	propionyl-S-n-acetylcysteamine	12562	MFKIRTMXXYSKLE-UHFFFAOYSA-N	30	7.4		at pH 7.4, 30C
+2	3,5-cis-tetradecadienoyl-CoA	15414	QADUDNMSWUFMGZ-BOXQCPGISA-N				
+2	linoleoyl-CoA	828	RJECHNNFRHZQKU-RMUVNZEASA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+2.3	stearoyl-CoA	438	SIARJEKBADXQJG-LFZQUHGESA-N	37	7.5		pH 7.5, 37C
+2.34	isobutyryl-CoA	668	AEWHYWSPVRZHCT-NDZSKPAWSA-N			X	N29A mutant protein
+2.57	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N			X	N29A mutant protein
+2.6	tiglyl-CoA	2866	PMWATMXOQQZNBX-DKBZLLMOSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+2.7	linoleoyl-CoA	828	RJECHNNFRHZQKU-RMUVNZEASA-N	37	7.5		pH 7.5, 37C
+2.7	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+3.2	oleoyl-CoA	244	XDUHQPOXLUAVEE-BPMMELMSSA-N	37	7.5		pH 7.5, 37C
+3.2	phenylacetyl-CoA	870	ZIGIFDRJFZYEEQ-CECATXLMSA-N	37	7.5		pH 7.5, 37C
+3.3	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+3.7	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+4.6	n-Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+4.63	salicylyl-CoA	2754	YTKKDFTVSNSVEE-TYHXJLICSA-N				wild-type, at room temperature
+4.7	myristoyl-CoA	382	DUAFKXOFBZQTQE-QSGBVPJFSA-N	37	7.5		pH 7.5, 37C
+4.7	palmitoleoyl-CoA	990	QBYOCCWNZAOZTL-MDMKAECGSA-N	37	7.5		pH 7.5, 37C
+5.3	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N	37	7.5		pH 7.5, 37C
+5.7	palmitoleoyl-CoA	990	QBYOCCWNZAOZTL-MDMKAECGSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+5.7	stearoyl-CoA	438	SIARJEKBADXQJG-LFZQUHGESA-N		8		pH 8, temperature not specified in the publication
+6.2	myristoyl-CoA	382	DUAFKXOFBZQTQE-QSGBVPJFSA-N				
+6.7	butyryl-CoA	235	CRFNGMNYKDXRTN-CITAKDKDSA-N				wild-type protein
+6.7	n-Butyryl-CoA	235	CRFNGMNYKDXRTN-CITAKDKDSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+6.9	myristoyl-CoA	382	DUAFKXOFBZQTQE-QSGBVPJFSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+7.45	3,5-dihydroxybenzoyl-CoA	26408	NGNUZNJQNJOURZ-TYHXJLICSA-N				wild-type, at room temperature
+7.5	N-acetylcysteamine acetate	26407	UZLRPNHVKXCOHS-UHFFFAOYSA-N	30	7.5		at pH 7.5, 30C
+8.3	DL-3-hydroxybutyryl-CoA	1615	QHHKKMYHDBRONY-RMNRSTNRSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+8.5	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N	37	7.5		pH 7.5, 37C
+8.9	DL-3-hydroxy-3-methylglutaryl-CoA	964	CABVTRNMFUVUDM-SJBCKIPMSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+9.2	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+9.2	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N				wild-type protein
+9.4	phenylacetyl-CoA	870	ZIGIFDRJFZYEEQ-CECATXLMSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+9.5	isobutyryl-CoA	668	AEWHYWSPVRZHCT-NDZSKPAWSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+9.6	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+9.6	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	37	7.5		pH 7.5, 37C
+10.2	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N				
+10.3	3-hydroxybenzoyl-CoA	2678	JTBCMZVWWNFUFR-TYHXJLICSA-N				wild-type, at room temperature
+10.7	3-hydroxytetradecanoyl-CoA	27378	OXBHKMHNDGRDCZ-JIFARLPCSA-N				
+11	2-butenoyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N	37	7.5		pH 7.5, 37C
+11.5	palmitoleoyl-CoA	990	QBYOCCWNZAOZTL-MDMKAECGSA-N	37	7.5		pH 7.5, 37C, wild-type
+12	DL-3-hydroxy-3-methylglutaryl-CoA	964	CABVTRNMFUVUDM-SJBCKIPMSA-N	37	7.5		pH 7.5, 37C
+12.2	linoleoyl-CoA	828	RJECHNNFRHZQKU-RMUVNZEASA-N	37	7.5		pH 7.5, 37C, wild-type
+13	DL-3-hydroxybutyryl-CoA	1615	QHHKKMYHDBRONY-RMNRSTNRSA-N	37	7.5		pH 7.5, 37C
+13	n-decanoyl-CoA	448	CNKJPHSEFDPYDB-HSJNEKGZSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+13	oleoyl-CoA	244	XDUHQPOXLUAVEE-BPMMELMSSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+13.3	Linolenoyl-CoA	3339	OMKFKBGZHNJNEX-LFZQUHGESA-N	37	7.5		pH 7.5, 37C, wild-type
+13.9	benzoyl-CoA	329	VEVJTUNLALKRNO-TYHXJLICSA-N				wild-type, at room temperature
+15	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+16.6	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N	37	7.5		pH 7.5, 37C, wild-type
+17	n-decanoyl-CoA	448	CNKJPHSEFDPYDB-HSJNEKGZSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+19.7	myristoyl-CoA	382	DUAFKXOFBZQTQE-QSGBVPJFSA-N	37	7.5		pH 7.5, 37C, wild-type
+21.6	3,5-cis-dodecadienoyl-CoA	27377	ARQUZFJQPYWSSL-NKZMEAHYSA-N				
+22	n-Butyryl-CoA	235	CRFNGMNYKDXRTN-CITAKDKDSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+24	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	7.5		pH 7.5, 37C
+25	propionyl-CoA	297	QAQREVBBADEHPA-IEXPHMLFSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+30	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+35	acetoacetyl-CoA	167	OJFDKHTZOUZBOS-CITAKDKDSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+75	4-hydroxyphenylacetyl-CoA	7549	GPCAQTOAAYEBGJ-FFJUWABQSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+100	glutaryl-CoA	532	SYKWLIJQEHRDNH-CKRMAKSASA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+106	palmitoleoyl-CoA	990	QBYOCCWNZAOZTL-MDMKAECGSA-N	25	7.4		pH 7.4, 25C
+121	stearoyl-CoA	438	SIARJEKBADXQJG-LFZQUHGESA-N	25	7.4		pH 7.4, 25C
+130	phenylacetyl-CoA	870	ZIGIFDRJFZYEEQ-CECATXLMSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+136	decanoyl-CoA	448	CNKJPHSEFDPYDB-HSJNEKGZSA-N	25	7.4		pH 7.4, 25C
+138	isobutyryl-CoA	668	AEWHYWSPVRZHCT-NDZSKPAWSA-N				wild-type protein
+140	3-hydroxyphenylacetyl-CoA	2348	WOPRCGRQVLJGCX-FFJUWABQSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+140	isobutyryl-CoA	668	AEWHYWSPVRZHCT-NDZSKPAWSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay
+153	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N	25	7.4		pH 7.4, 25C
+159	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N	25	7.4		pH 7.4, 25C
+183	myristoyl-CoA	382	DUAFKXOFBZQTQE-QSGBVPJFSA-N	25	7.4		pH 7.4, 25C
+190	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	7.5		pH 7.5, 25C, determined using the 5,5'-dithiobis(2-nitrobenzoic acid) spectrophotometric assay

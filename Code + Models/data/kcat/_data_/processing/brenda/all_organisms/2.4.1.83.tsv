@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000023	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	37	7.0		37C, pH 7.0, wild-type enzyme, without dolichyl phosphate, wild-type enzyme
+0.0000029	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	37	7.0		37C, pH 7.0, wild-type enzyme, in presence of dolichyl phosphate, wild-type enzyme
+0.0000049	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	37	7.0	X	37C, pH 7.0, wild-type enzyme, with or without dolichyl phosphate, enzyme from cAMP-dependent protein kinase-deficient mutant 10215
+0.0000063	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	37	7.0	X	37C, pH 7.0, wild-type enzyme, in presence of dolichyl phosphate, enzyme from cAMP-dependent protein kinase-deficient mutant 10260
+0.0000069	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	37	7.0	X	37C, pH 7.0, wild-type enzyme, without dolichyl phosphate, enzyme from cAMP-dependent protein kinase-deficient mutant 10260
+0.0000089	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	37	7.0	X	37C, pH 7.0, wild-type enzyme, without dolichyl phosphate, enzyme from cAMP-dependent protein kinase-deficient mutant 10248
+0.0000095	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	37	7.0	X	37C, pH 7.0, wild-type enzyme, in presence of dolichyl phosphate, enzyme from cAMP-dependent protein kinase-deficient mutant 10248
+12.1	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	37	7.0		non-phosphorylated enzyme, 37C, pH 7.0
+70.9	GDP-mannose	312	MVMSCBBUIHUTGJ-GDJBGNAASA-N	37	7.0		phosphorylated enzyme, 37C, pH 7.0

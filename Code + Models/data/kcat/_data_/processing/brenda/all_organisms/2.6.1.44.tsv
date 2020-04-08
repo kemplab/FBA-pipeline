@@ -1,0 +1,43 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.36	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme; wild-type, 25C
+0.33	glycine	68	DHMQDGOQFOQNFH-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme; wild-type, 25C
+0.22	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N		7.4		pH 7.4
+0.068	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	25	7.4	X	mutant G82E, 25C; pH 7.4, 25C, mutant enzyme G82E
+0.068	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N				G82E, pH not specified in the publication, temperature not specified in the publication
+11.1	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N				P11L/I340M/G41R, pH not specified in the publication, temperature not specified in the publication
+16	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	50	7.0		pH 7.0, 50C, L-alanine as amino donor
+18.3	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N				G41V, pH not specified in the publication, temperature not specified in the publication
+20.5	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N				G41R, pH not specified in the publication, temperature not specified in the publication
+22.6	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N			X	major allele wild mutant enzyme F152A
+37	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N				minor allele wild type enzyme
+37	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N				P11L/I340M minor allele, pH not specified in the publication, temperature not specified in the publication
+39	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N			X	major allele wild mutant enzyme F152I
+39	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N				F152I, pH not specified in the publication, temperature not specified in the publication
+40	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N			X	minor allele mutant enzyme F152I
+40	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N				P11L/I340M/F152I, pH not specified in the publication, temperature not specified in the publication
+45	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme; wild-type, 25C
+45	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N				major allele wild type enzyme
+45	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N				major allele (P11, I340), pH not specified in the publication, temperature not specified in the publication
+113	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	50	7.0		pH 7.0, 50C, L-alanine as amino donor
+0.07	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	25	7.4	X	mutant G82E, 25C; pH 7.4, 25C, mutant enzyme G82E
+0.07	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N				G82E, pH not specified in the publication, temperature not specified in the publication
+0.147	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	25	7.4		pH 7.4, 25C
+10.6	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N				P11L/I340M/G41R, pH not specified in the publication, temperature not specified in the publication
+17.1	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N				G41V, pH not specified in the publication, temperature not specified in the publication
+19.8	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N				G41R, pH not specified in the publication, temperature not specified in the publication
+20	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	50	7.0		pH 7.0, 50C, glyoxylate as amino acceptor
+21.2	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N			X	major allele mutant enzyme F152A
+33	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N				minor allele wild type enzyme
+33	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N				P11L/I340M minor allele, pH not specified in the publication, temperature not specified in the publication
+33.6	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N			X	minor allele mutant enzyme F152I
+33.6	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N				P11L/I340M/F152I, pH not specified in the publication, temperature not specified in the publication
+34.2	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	45	7.5		in 100 mM potassium phosphate buffer (pH 7.5) for 5 min at 45C
+35	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N			X	major allele mutant enzyme F152I
+35	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N				F152I, pH not specified in the publication, temperature not specified in the publication
+45	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme; wild-type, 25C
+45	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N				major allele wild type enzyme
+45	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N				major allele (P11, I340), pH not specified in the publication, temperature not specified in the publication
+117	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	45	7.5		in 100 mM potassium phosphate buffer (pH 7.5) for 5 min at 45C
+131	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	50	7.0		pH 7.0, 50C, glyoxylate as amino acceptor
+12	kynurenine	342	YGPSJZOEDVAXAB-QMMMGPOBSA-N	45	7.5		in 100 mM potassium phosphate buffer (pH 7.5) for 5 min at 45C
+20	3-hydroxykynurenine	1801	BAGAXPRZERJRHS-UHFFFAOYSA-N	45	7.5		in 100 mM potassium phosphate buffer (pH 7.5) for 5 min at 45C

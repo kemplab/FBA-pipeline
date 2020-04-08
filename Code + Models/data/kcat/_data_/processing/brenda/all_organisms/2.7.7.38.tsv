@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+9.5	3-deoxy-D-manno-octulosonate	1965	NNLZBVFSCVTSLA-HXUQBWEZSA-N	50	9.0		pH 9.0, 50C
+12.5	3-deoxy-D-manno-octulosonate	1965	NNLZBVFSCVTSLA-HXUQBWEZSA-N	37	9.3		in the presence of 10 mM Mg2+, at pH 9.3 and 37C
+21.9	3-deoxy-D-manno-octulosonate	1965	NNLZBVFSCVTSLA-HXUQBWEZSA-N	37	10.0		in the presence of 5 mM Mg2+, at pH 10.0 and 37C

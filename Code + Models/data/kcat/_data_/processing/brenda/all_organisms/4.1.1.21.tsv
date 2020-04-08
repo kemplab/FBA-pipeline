@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+77	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	30	8.0		50 mM Tris-HCl (pH 8.0), at 30C
+40	1-(5-phosphoribosyl)-5-aminoimidazole	3629	PDACUKOKVHBVHJ-XVFCMESISA-N				
+16	4-carboxy-5-aminoimidazole ribonucleotide	1892	XFVULMDJZXYMSG-ZIYNGMLESA-N	10	8.0		50 mM Tris-HCl (pH 8.0), at 10C
+65	4-carboxy-5-aminoimidazole ribonucleotide	1892	XFVULMDJZXYMSG-ZIYNGMLESA-N	30	8.0		50 mM Tris-HCl (pH 8.0), at 30C

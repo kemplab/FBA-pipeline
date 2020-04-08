@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.06	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	7.2		in 50 mM Tris-HCl (pH 7.2), at 25C
+0.08	L-galactonate	3194	RGHNJXZEOKUKBD-RSJOWCBRSA-N	22	7.2		with NAD+ as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22C
+0.13	D-glucuronate	290	IAJILQKETJEXLJ-QTBDOELSSA-N	22	7.2		with NADH as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22C
+0.16	L-galactonate	3194	RGHNJXZEOKUKBD-RSJOWCBRSA-N	22	7.2		with NADP+ as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22C
+0.19	D-galacturonate	1309	AEMOLEFTQBMNLQ-YMDCURPLSA-N	25	7.2		in 50 mM Tris-HCl (pH 7.2), at 25C
+0.19	D-glucuronate	290	IAJILQKETJEXLJ-QTBDOELSSA-N	25	7.2		in 50 mM Tris-HCl (pH 7.2), at 25C
+3.11	D-glucuronate	290	IAJILQKETJEXLJ-QTBDOELSSA-N	22	7.2		with NADPH as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22C
+4.98	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	22	7.2		with D-galacturonate as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22C
+5.45	D-galacturonate	1309	AEMOLEFTQBMNLQ-YMDCURPLSA-N	22	7.2		with NADH as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22C
+6.88	D-galacturonate	1309	AEMOLEFTQBMNLQ-YMDCURPLSA-N	22	7.2		with NADPH as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22C
+7.11	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	22	7.2		with D-galacturonate as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22C

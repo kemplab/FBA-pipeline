@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.8	ethylenediaminetetraacetate	223	KCXVZYZYPLLWCC-UHFFFAOYSA-N	35	7.8		no addition of divalent ions, pH 7.8, 35C
+3.6	ethylenediaminetetraacetate	223	KCXVZYZYPLLWCC-UHFFFAOYSA-N	35	7.8		presence of Mg2+, pH 7.8, 35C
+4.5	ethylenediaminetetraacetate	223	KCXVZYZYPLLWCC-UHFFFAOYSA-N		7.6	X	mutant W11A, presence of Mg2+, pH 7.6, temperature not specified in the publication
+8.8	ethylenediaminetetraacetate	223	KCXVZYZYPLLWCC-UHFFFAOYSA-N		7.6	X	mutant Q58A, presence of Mg2+, pH 7.6, temperature not specified in the publication
+12.8	ethylenediaminetetraacetate	223	KCXVZYZYPLLWCC-UHFFFAOYSA-N		7.6	X	mutant P291A, presence of Mg2+, pH 7.6, temperature not specified in the publication
+13.2	ethylenediaminetetraacetate	223	KCXVZYZYPLLWCC-UHFFFAOYSA-N		7.6		wild-type, presence of Mg2+ and flavin reductase from Escherichia coli, pH 7.6, temperature not specified in the publication
+14.7	ethylenediaminetetraacetate	223	KCXVZYZYPLLWCC-UHFFFAOYSA-N		7.6	X	mutant Q294A, presence of Mg2+, pH 7.6, temperature not specified in the publication; mutant R68A, presence of Mg2+, pH 7.6, temperature not specified in the publication
+17.2	ethylenediaminetetraacetate	223	KCXVZYZYPLLWCC-UHFFFAOYSA-N		7.6		wild-type, presence of Mg2+, pH 7.6, temperature not specified in the publication
+47.1	ethylenediaminetetraacetate	223	KCXVZYZYPLLWCC-UHFFFAOYSA-N		7.6		wild-type, presence of Mg2+ and oxidoreductase EmoB, pH 7.6, temperature not specified in the publication

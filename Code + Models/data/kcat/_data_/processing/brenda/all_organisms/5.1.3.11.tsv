@@ -1,0 +1,34 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.27	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	75	7.5		in 50 mM PIPES buffer (pH 7.5), at 75C
+4.64	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	F114A mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30C
+5.16	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	M378T mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30C
+14.4	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	M270T mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30C
+26.6	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	R377A mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30C
+29.7	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	M106T mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30C
+30.3	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	M62T mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30C
+31.5	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	M212T mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30C
+32.5	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	35	7.5		pH 7.5, 35C
+33.3	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	M95T mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30C
+36.9	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	M179T mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30C
+40	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	M380T mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30C
+43.8	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	M96T mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30C
+46.4	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	W303F mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30C
+63.3	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5		wild type enzyme, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30C
+63.8	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5		pH 7.5, 30C
+63.8	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5		recombinant enzyme, 100 mM sodium phosphate, 20 mM cellobiose, pH 7.5, 30C
+67.6	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5		recombinant enzyme, 100 mM sodium phosphate, 20 mM cellobiose, pH 7.5, 30C
+80.8	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	60	6.3		pH 6.3, 60C, recombinnat enzyme
+169.1	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	70	7.0		purified recombinant His-tagged enzyme, pH 7.0, 70C
+215	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	W55F mutant, 100 mM sodium phosphate, pH 7.5, 20 mM cellobiose, 30C
+1.79	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	7.5	X	F114A mutant, 100 mM sodium phosphate, pH 7.5, 20 mM lactose, 30C
+4.04	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	7.5	X	W303F mutant, 100 mM sodium phosphate, pH 7.5, 20 mM lactose, 30C
+20.9	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	7.5	X	R377A mutant, 100 mM sodium phosphate, pH 7.5, 20 mM lactose, 30C
+28.5	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	35	7.5		pH 7.5, 35C
+52.1	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	7.5		pH 7.5, 30C
+52.1	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	7.5		recombinant enzyme, 100 mM sodium phosphate, 20 mM lactose, pH 7.5, 30C
+52.1	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	7.5		wild type, 100 mM sodium phosphate, pH 7.5, 20 mM lactose, 30C
+78.3	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	7.5	X	W55F mutant, 100 mM sodium phosphate, pH 7.5, 20 mM lactose, 30C
+79.5	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	7.5		recombinant enzyme, 100 mM sodium phosphate, 20 mM lactose, pH 7.5, 30C
+89.4	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	70	7.0		purified recombinant His-tagged enzyme, pH 7.0, 70C
+111	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	60	6.3		pH 6.3, 60C, recombinnat enzyme
+0.74	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	75	7.5		in 50 mM PIPES buffer (pH 7.5), at 75C

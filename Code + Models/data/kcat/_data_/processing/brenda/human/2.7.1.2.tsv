@@ -1,0 +1,71 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.61	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37		X	mutant L146R, 37C, pH not specified in the puclication
+0.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37			wild-type, 37C, pH not specified in the puclication. Kinetic constants at high and low concentrations of the fixed substrate: 0.5 mM D-glucose
+68.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37			wild-type, 37C, pH not specified in the puclication; wild-type, 37C, pH not specified in the puclication. Kinetic constants at high and low concentrations of the fixed substrate: 60 mM D-glucose
+0.007	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37		X	mutant T228M, 37C, pH not specified in the puclication
+0.026	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.6	X	deletion mutant lacking residues 68-71, pH 7.6, 25 C
+0.037	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.6	X	deletion mutant lacking residues 66-71, pH 7.6, 25 C
+0.042	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.6	X	deletion mutant lacking residues 67-71, pH 7.6, 25 C
+0.77	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37		X	mutant L146R, 37C, pH not specified in the puclication
+2.46	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant S336L
+4.92	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	recombinant mutant V62E
+6.42	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	recombinant mutant V62K
+14.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	recombinant mutant V62Q
+17.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant M197E
+19.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant K414E
+22.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant T65I
+23.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant Y214A/V452A
+25.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	recombinant mutant V62T
+29	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.6	X	deletion mutant lacking residues 70-71, pH 7.6, 25 C
+29.3	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant C252Y
+29.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant G72R
+33	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.6	X	deletion mutant lacking residue 71, pH 7.6, 25 C
+33.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	recombinant mutant V62F
+37.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant M298K
+40	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant K140E
+40.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.6		wild-type, pH 7.6, 25 C
+43.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	recombinant mutant V62A
+43.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant G68K
+44.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant S263P
+44.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant Y215A
+47.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant V62M
+48.3	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant P417R
+50	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant C213R
+50.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant M197I/A379T
+52.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant 454-Ala
+52.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant E442K
+53.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	recombinant mutant V62M
+56	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.6	X	mutant S64R/E67D/S69T, K0.5 value, Hill coefficient 1.7, pH 7.6, 25 C
+58.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant M197I
+59.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	recombinant mutant V62L
+60.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant V91L
+61.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant A379T
+61.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant V455M
+62.3	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				recombinant wild-type enzyme
+62.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant M197L
+62.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant G68V
+62.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1		pH 7.1, temperature not specified in the publication, co-substrate: ATP, wild-type
+65.3	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	214	7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant Y214C
+65.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant A456V
+67.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant V389L
+67.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37			wild-type, 37C, pH not specified in the puclication
+83.3	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant S64P
+114	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant S64Y
+117	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant Y214A
+122	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.1	X	pH 7.1, temperature not specified in the publication, co-substrate: ATP, mutant V452L
+5.9	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	co-substrate: ATP, mutant W99R/W167F in the presence of 20-30% glycerol and in the presence of 20 microM glucokinase activator drug (GKA), pH and temperature not specified in the publication
+6.1	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	co-substrate: ATP, mutant W167F/W257F in the presence of 20-30% glycerol, pH and temperature not specified in the publication
+6.37	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	co-substrate: ATP, mutant W99R/W167F in the presence of 20-30% glycerol, pH and temperature not specified in the publication
+8.47	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	co-substrate: ATP, mutant W167F/W257F, pH and temperature not specified in the publication
+9.43	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	co-substrate: ATP, mutant W167F/W257F in the presence of 20-30% glycerol and in the presence of 20 microM glucokinase activator drug (GKA), pH and temperature not specified in the publication
+11.1	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	co-substrate: ATP, mutant W99R/W167F in the presence of 20 microM glucokinase activator drug (GKA), pH and temperature not specified in the publication
+12.4	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	co-substrate: ATP, mutant W99R/W167F, pH and temperature not specified in the publication
+12.7	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	co-substrate: ATP, mutant W167F/W257F in the presence of 20 microM glucokinase activator drug (GKA), pH and temperature not specified in the publication
+26.2	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	co-substrate: ATP, mutant W99R/W257F in the presence of 20-30% glycerol, pH and temperature not specified in the publication
+37.7	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N				co-substrate: ATP, wild-type in the presence of 20-30% glycerol, pH and temperature not specified in the publication
+38.9	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	co-substrate: ATP, mutant W99R/W257F in the presence of 20-30% glycerol and in the presence of 20 microM glucokinase activator drug (GKA), pH and temperature not specified in the publication
+60.5	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N				co-substrate: ATP, wild-type in the presence of 20-30% glycerol and in the presence of 20 microM glucokinase activator drug (GKA), pH and temperature not specified in the publication
+69.9	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	co-substrate: ATP, mutant W99R/W257F, pH and temperature not specified in the publication
+83.7	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N				co-substrate: ATP, wild-type, pH and temperature not specified in the publication
+91.3	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N			X	co-substrate: ATP, mutant W99R/W257F in the presence of 20 microM glucokinase activator drug (GKA), pH and temperature not specified in the publication
+166	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N				co-substrate: ATP, wild-type in the presence of 20 microM glucokinase activator drug (GKA), pH and temperature not specified in the publication

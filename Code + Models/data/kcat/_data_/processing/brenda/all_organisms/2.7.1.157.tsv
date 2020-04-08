@@ -1,0 +1,27 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.053	N-acetyl-alpha-D-mannosamine	68480	OVRNDRQMDRJTHS-UOLFYFMNSA-N	37	7.5	X	mutant F444H, 37C, pH 7.5
+0.063	N-acetyl-alpha-D-glucosamine	1160	OVRNDRQMDRJTHS-PVFLNQBWSA-N	37	7.5	X	mutant F444S, 37C, pH 7.5
+0.066	N-acetyl-alpha-D-mannosamine	68480	OVRNDRQMDRJTHS-UOLFYFMNSA-N	444	7.5	X	mutant F444C, 37C, pH 7.5
+0.071	N-acetyl-alpha-D-glucosamine	1160	OVRNDRQMDRJTHS-PVFLNQBWSA-N	37	7.5	X	mutant F444R, 37C, pH 7.5
+0.072	N-acetyl-alpha-D-glucosamine	1160	OVRNDRQMDRJTHS-PVFLNQBWSA-N	37	7.5	X	mutant F444H, 37C, pH 7.5
+0.087	N-acetyl-alpha-D-glucosamine	1160	OVRNDRQMDRJTHS-PVFLNQBWSA-N	444	7.5	X	mutant F444C, 37C, pH 7.5
+0.11	N-acetyl-alpha-D-glucosamine	1160	OVRNDRQMDRJTHS-PVFLNQBWSA-N	37	7.5	X	mutant F444A, 37C, pH 7.5
+0.16	N-acetyl-alpha-D-glucosamine	1160	OVRNDRQMDRJTHS-PVFLNQBWSA-N	37	7.5		wild-type, 37C, pH 7.5
+0.18	N-acetyl-alpha-D-glucosamine	1160	OVRNDRQMDRJTHS-PVFLNQBWSA-N	37	7.5	X	mutant F444K, 37C, pH 7.5
+0.19	N-acetyl-alpha-D-mannosamine	68480	OVRNDRQMDRJTHS-UOLFYFMNSA-N	37	7.5	X	mutant F444R, 37C, pH 7.5; wild-type, 37C, pH 7.5
+0.23	N-acetyl-alpha-D-mannosamine	68480	OVRNDRQMDRJTHS-UOLFYFMNSA-N	37	7.5	X	mutant F444A, 37C, pH 7.5
+0.25	N-acetyl-alpha-D-mannosamine	68480	OVRNDRQMDRJTHS-UOLFYFMNSA-N	37	7.5	X	mutant F444K, 37C, pH 7.5
+0.4	N-acetyl-alpha-D-mannosamine	68480	OVRNDRQMDRJTHS-UOLFYFMNSA-N	37	7.5	X	mutant F444S, 37C, pH 7.5
+0.62	N-acetyl-alpha-D-galactosamine	1525	OVRNDRQMDRJTHS-CBQIKETKSA-N	37	7.5	X	mutant F444W, 37C, pH 7.5
+0.72	N-acetyl-alpha-D-galactosamine	1525	OVRNDRQMDRJTHS-CBQIKETKSA-N	37	7.5	X	mutant F444R, 37C, pH 7.5
+1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				recombinant enzyme
+1	N-acetyl-alpha-D-galactosamine	1525	OVRNDRQMDRJTHS-CBQIKETKSA-N	37	8.0		pH 8.0, 37C
+1	N-acetyl-alpha-D-galactosamine	1525	OVRNDRQMDRJTHS-CBQIKETKSA-N	37	7.5	X	mutant F444K, 37C, pH 7.5
+1	N-acetyl-D-galactosamine	820	OVRNDRQMDRJTHS-KEWYIRBNSA-N				recombinant enzyme
+1.2	N-acetyl-alpha-D-galactosamine	1525	OVRNDRQMDRJTHS-CBQIKETKSA-N	37	7.5		wild-type, 37C, pH 7.5
+1.6	N-acetyl-alpha-D-galactosamine	1525	OVRNDRQMDRJTHS-CBQIKETKSA-N	37	7.5	X	mutant F444H, 37C, pH 7.5
+1.9	N-acetyl-alpha-D-galactosamine	1525	OVRNDRQMDRJTHS-CBQIKETKSA-N	37	7.5	X	mutant F444A, 37C, pH 7.5
+2.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.0		pH 7.0, 25C
+2.5	N-acetyl-D-galactosamine	820	OVRNDRQMDRJTHS-KEWYIRBNSA-N	25	7.0		pH 7.0, 25C
+2.6	N-acetyl-alpha-D-galactosamine	1525	OVRNDRQMDRJTHS-CBQIKETKSA-N	444	7.5	X	mutant F444C, 37C, pH 7.5
+3.2	N-acetyl-alpha-D-galactosamine	1525	OVRNDRQMDRJTHS-CBQIKETKSA-N	37	7.5	X	mutant F444S, 37C, pH 7.5

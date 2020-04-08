@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+93	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.4	X	mutant enzyme R492G/E493G, at pH 7.4, temperature not specified in the publication
+109	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.4	X	mutant enzyme E493G, at pH 7.4, temperature not specified in the publication
+238	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.4		wild type enzyme, at pH 7.4, temperature not specified in the publication
+570	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.4	X	mutant enzyme R492G, at pH 7.4, temperature not specified in the publication

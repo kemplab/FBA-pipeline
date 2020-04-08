@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.3	RAARVVGG	26434	VXFXEDFAOWPROL-IGJOJHROSA-N				
+0.3	RLARVVGG	26435	MCLOWMLLKUKQBC-JJAANBCZSA-N				
+0.3	RQARAVGG	12687	DHBAMWCTFQQVNG-KCKIOEHISA-N				
+0.3	RRARVVGG	12686	LPDINYYHFKFPGD-BNCSLUSBSA-N				
+0.5	RQLRVVGG	26437	XFEDSCGTFAYUBE-IRGTZXILSA-N				
+0.6	RYARVVGG	26436	QSYVYLGOGGSFMI-YMPWGIFLSA-N				
+0.7	RQYRVVGG	26439	IJMQMQNUZMOKHL-CIISATOMSA-N				
+0.8	RQARQVGG	26440	CFQGPURZODZRIH-PFZXUFBWSA-N				
+0.9	RRARVVGG	12686	LPDINYYHFKFPGD-BNCSLUSBSA-N				
+1	RQARVVGG	12685	ISYKXVBJRKWYQO-PAASFTFBSA-N				
+1.5	methylsulfonyl-D-cyclohexyltyrosylglycyl-arginine-p-nitroanilide	5971	GHKCSYFQFPGNRT-IZZNHLLZSA-N			X	construct consisting of the catalytic domain of matriptase bearing a N772Q mutation fused to Myc-epitope-hexahistidine tag at its carboxyl-terminus treated with recombinant enterokinase
+1.5	RQARVVGG	12685	ISYKXVBJRKWYQO-PAASFTFBSA-N				
+2	RQARYVGG	26441	JHYWQQYKPRNHCG-QELWWTEUSA-N				
+2.24	ABZ-Ile-Arg-Ala-Arg-Ser-Ala-Ala-Tyr(3-NO2)-NH2	125336	TXJJAUBXSYCSSN-VZKSTJSQSA-N				pH and temperature not specified in the publication
+2.66	ABZ-Ile-Arg-Ala-Arg-Ser-Ala-Ser-Tyr(3-NO2)-NH2	125337	XYFZNDVVKBJRBU-RQZMHAFOSA-N				pH and temperature not specified in the publication
+3.79	ABZ-Ile-Arg-Ala-Arg-Ser-Ala-Gly-Tyr(3-NO2)-NH2	125335	UCSDFEHFXANRKD-TXZIMRIFSA-N				pH and temperature not specified in the publication
+5.5	RQARAVGG	12687	DHBAMWCTFQQVNG-KCKIOEHISA-N				
+13.1	t-butyloxycarbonyl-L-Gln-L-Ala-L-Arg-4-methyl-coumaryl-7-amide	12688	LQSLBVXESNRILG-VDGAXYAQSA-N				extracellular domains, Tyr81 - Val855, after treatment with enteropeptidase
+13.7	t-butyloxycarbonyl-L-Gln-L-Ala-L-Arg-4-methyl-coumaryl-7-amide	12688	LQSLBVXESNRILG-VDGAXYAQSA-N				catalytic domain, Asp603 - Val855, after treatment with enteropeptidase
+26	RQRRVVGG	26438	AUABKRZSXDAJJQ-APJCQQALSA-N				
+59	methylsulfonyl-D-cyclohexyltyrosylglycyl-arginine-p-nitroanilide	5971	GHKCSYFQFPGNRT-IZZNHLLZSA-N				full-length rat matriptase with Myc-epitope-hexahistidine tag at its carboxyl-terminus
+59	methylsulfonyl-D-cyclohexyltyrosyl-glycyl-arginine-p-nitroanilide	5971	GHKCSYFQFPGNRT-IZZNHLLZSA-N				engineered L-matriptase (secreted variant of matriptase activated by recombinant enterokinase); pseudozymogen His6t-S-CD consisting of a spacer and the catalytical domain with an N-terminal His6-tag and a cleavage site for activation by enterokinase is used
+91	methylsulfonyl-D-cyclohexyltyrosylglycyl-arginine-p-nitroanilide	5971	GHKCSYFQFPGNRT-IZZNHLLZSA-N				construct consisting of the catalytic domain of matriptase fused to Myc-epitope-hexahistidine tag at its carboxyl-terminus treated with recombinant enterokinase
+103	methylsulfonyl-D-cyclohexyltyrosylglycyl-arginine-p-nitroanilide	5971	GHKCSYFQFPGNRT-IZZNHLLZSA-N				construct consisting of the catalytic domain of matriptase fused to Myc-epitope-hexahistidine tag at its carboxyl-terminus treated with recombinant enterokinase and glycopeptidase F

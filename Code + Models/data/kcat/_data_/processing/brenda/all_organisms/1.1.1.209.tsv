@@ -1,0 +1,59 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000367	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N				
+0.0009	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N				
+0.00167	5alpha-androstan-3beta,17beta-diol	2194	CBMYJHIOYJEBSB-YSZCXEEOSA-N	25	7.0	X	mutant Y224D, pH 7.0, 25C
+0.00217	5alpha-androstan-3beta,17beta-diol	2194	CBMYJHIOYJEBSB-YSZCXEEOSA-N	25	7.0	X	mutant Y224F, pH 7.0, 25C
+0.0025	5alpha-androstan-17beta-ol-3-one	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	25	7.0	X	mutant Y224D, pH 7.0, 25C
+0.0027	5alpha-androstan-17beta-ol-3-one	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	25	7.0	X	mutant Y224F, pH 7.0, 25C
+0.003	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N				
+0.00367	5beta-pregnane-3alpha,20alpha-diol	2241	YWYQTGBBEZQBGO-BERLURQNSA-N	25	7.0	X	mutant Y224D, pH 7.0, 25C
+0.00617	(2Z)-2-(5-hydroxy-4,6-dimethyl-2-oxo-1,2-dihydro-3H-indol-3-ylidene)-N,N-di(prop-2-en-1-yl)hydrazinecarbothioamide	109514	SDQLXVZKRIGEKD-UHFFFAOYSA-N				
+0.0073	lithocholic acid	1004	SMEROWZSTRWXGI-HVATVPOCSA-N	25	7.0	X	mutant Y224D, pH 7.0, 25C
+0.0217	4-androstene-3,17-dione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	25	7.0	X	mutant Y224D, pH 7.0, 25C
+0.0217	5alpha-Androstan-3alpha-ol-17-one	1754	QGXBDMJGAMFCBF-XKUVWOMQSA-N	25	7.0	X	mutant Y224D, pH 7.0, 25C
+0.0367	5alpha-androstan-17beta-ol-3-one	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	25	7.0	X	mutant Q222N, pH 7.0, 25C
+0.04	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N			X	mutant G225P/G226P
+0.047	lithocholic acid	1004	SMEROWZSTRWXGI-HVATVPOCSA-N	25	7.0		wild-type, pH 7.0, 25C
+0.055	5beta-androstan-17alpha-ol-3-one	1523	NVKAWKQGWWIWPM-MISPCMORSA-N			X	mutant G225P/G226P
+0.065	5alpha-androstan-3beta,17beta-diol	2194	CBMYJHIOYJEBSB-YSZCXEEOSA-N	25	7.0	X	mutant Q222N, pH 7.0, 25C
+0.073	5alpha-Androstan-3alpha-ol-17-one	1754	QGXBDMJGAMFCBF-XKUVWOMQSA-N				wild-type
+0.073	5alpha-Androstan-3alpha-ol-17-one	1754	QGXBDMJGAMFCBF-XKUVWOMQSA-N	25	7.0		wild-type, pH 7.0, 25C
+0.081	lithocholic acid	1004	SMEROWZSTRWXGI-HVATVPOCSA-N	25	7.0	X	mutant Y224F, pH 7.0, 25C
+0.105	5alpha-pregnane-3alpha,20alpha-diol	5742	YWYQTGBBEZQBGO-CGVINKDUSA-N				wild-type
+0.105	lithocholic acid	1004	SMEROWZSTRWXGI-HVATVPOCSA-N	25	7.0	X	mutant Q222N, pH 7.0, 25C
+0.127	5alpha-Androstan-3alpha-ol-17-one	1754	QGXBDMJGAMFCBF-XKUVWOMQSA-N	25	7.0	X	mutant Y224F, pH 7.0, 25C
+0.1367	4-androstene-3,17-dione	897	AEMFNILZOJDQLW-QAGGRKNESA-N			X	mutant G225P/G226P
+0.14	5beta-androstan-17alpha-ol-3-one	1523	NVKAWKQGWWIWPM-MISPCMORSA-N				wild-type
+0.145	5alpha-Androstan-17alpha-ol-3-one	3535	NVKAWKQGWWIWPM-NFKFCESXSA-N			X	mutant G225P/G226P
+0.15	5alpha-pregnane-3alpha,20alpha-diol	5742	YWYQTGBBEZQBGO-CGVINKDUSA-N			X	mutant G225P/G226P
+0.167	4-androstene-3,17-dione	897	AEMFNILZOJDQLW-QAGGRKNESA-N				wild-type
+0.167	4-androstene-3,17-dione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	25	7.0		wild-type, pH 7.0, 25C
+0.167	5alpha-Androstan-17alpha-ol-3-one	3535	NVKAWKQGWWIWPM-NFKFCESXSA-N				wild-type
+0.167	5alpha-Androstan-17alpha-ol-3-one	3535	NVKAWKQGWWIWPM-NFKFCESXSA-N	25	7.0		wild-type, pH 7.0, 25C
+0.167	5alpha-androstan-17beta-ol-3-one	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	25	7.0		wild-type, pH 7.0, 25C
+0.167	5alpha-androstan-3beta,17beta-diol	2194	CBMYJHIOYJEBSB-YSZCXEEOSA-N	25	7.0		wild-type, pH 7.0, 25C
+0.183	5beta-pregnane-3alpha,20alpha-diol	2241	YWYQTGBBEZQBGO-BERLURQNSA-N			X	mutant G225P/G226P
+0.2167	5alpha-Androstan-3alpha-ol-17-one	1754	QGXBDMJGAMFCBF-XKUVWOMQSA-N			X	mutant G225P/G226P
+0.2167	5beta-pregnane-3alpha,20alpha-diol	2241	YWYQTGBBEZQBGO-BERLURQNSA-N				wild-type
+0.217	5beta-pregnane-3alpha,20alpha-diol	2241	YWYQTGBBEZQBGO-BERLURQNSA-N	25	7.0		wild-type, pH 7.0, 25C
+0.23	Epitestosterone	1587	MUMGGOZAMZWBJJ-KZYORJDKSA-N	25	7.0	X	mutant Q222N, pH 7.0, 25C
+0.233	5alpha-Androstan-3alpha-ol-17-one	1754	QGXBDMJGAMFCBF-XKUVWOMQSA-N	25	7.0	X	mutant Q222N, pH 7.0, 25C
+0.25	5beta-pregnane-3alpha,20alpha-diol	2241	YWYQTGBBEZQBGO-BERLURQNSA-N	25	7.0	X	mutant Q222N, pH 7.0, 25C
+0.25	Epitestosterone	1587	MUMGGOZAMZWBJJ-KZYORJDKSA-N			X	mutant G225P/G226P
+0.283	5alpha-Androstan-17alpha-ol-3-one	3535	NVKAWKQGWWIWPM-NFKFCESXSA-N	25	7.0	X	mutant Q222N, pH 7.0, 25C
+0.3	Epitestosterone	1587	MUMGGOZAMZWBJJ-KZYORJDKSA-N				wild-type
+0.3	Epitestosterone	1587	MUMGGOZAMZWBJJ-KZYORJDKSA-N	25	7.0		wild-type, pH 7.0, 25C
+0.317	4-androstene-3,17-dione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	25	7.0	X	mutant Y224F, pH 7.0, 25C
+0.35	5beta-pregnane-3,20-dione	1539	XMRPGKVKISIQBV-XWOJZHJZSA-N	25	7.0	X	mutant Y224D, pH 7.0, 25C
+0.383	5alpha-androstan-17beta-ol-3-one	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N			X	mutant G225P/G226P
+0.383	5beta-pregnane-20alpha-ol-3-one	4265	DYVGYXXLXQESJE-AIPJNIIQSA-N	25	7.0		wild-type, pH 7.0, 25C
+0.4	5beta-pregnane-3,20-dione	1539	XMRPGKVKISIQBV-XWOJZHJZSA-N	25	7.0		wild-type, pH 7.0, 25C
+0.4	5beta-pregnane-3alpha,20alpha-diol	2241	YWYQTGBBEZQBGO-BERLURQNSA-N	25	7.0	X	mutant Y224F, pH 7.0, 25C
+0.57	Epitestosterone	1587	MUMGGOZAMZWBJJ-KZYORJDKSA-N	25	7.0	X	mutant Y224F, pH 7.0, 25C
+0.617	4-androstene-3,17-dione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	25	7.0	X	mutant Q222N, pH 7.0, 25C
+0.867	5alpha-Androstan-17alpha-ol-3-one	3535	NVKAWKQGWWIWPM-NFKFCESXSA-N	25	7.0	X	mutant Y224F, pH 7.0, 25C
+1.25	5beta-pregnane-20alpha-ol-3-one	4265	DYVGYXXLXQESJE-AIPJNIIQSA-N	25	7.0	X	mutant Y224D, pH 7.0, 25C
+2.83	5beta-pregnane-20alpha-ol-3-one	4265	DYVGYXXLXQESJE-AIPJNIIQSA-N	25	7.0	X	mutant Q222N, pH 7.0, 25C
+4	5beta-pregnane-3,20-dione	1539	XMRPGKVKISIQBV-XWOJZHJZSA-N	25	7.0	X	mutant Y224F, pH 7.0, 25C
+4.83	5beta-pregnane-20alpha-ol-3-one	4265	DYVGYXXLXQESJE-AIPJNIIQSA-N	25	7.0	X	mutant Y224F, pH 7.0, 25C
+4.83	5beta-pregnane-3,20-dione	1539	XMRPGKVKISIQBV-XWOJZHJZSA-N	25	7.0	X	mutant Q222N, pH 7.0, 25C

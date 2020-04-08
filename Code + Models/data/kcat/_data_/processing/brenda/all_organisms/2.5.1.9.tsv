@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.2	6,7-dimethyl-8-(1'-D-ribityl)lumazine	3391	SXDXRJZUAJBNFL-XKSSXDPKSA-N				heavy enzyme, Bacillus subtilis H94
+2	6,7-dimethyl-8-(1'-D-ribityl)lumazine	3391	SXDXRJZUAJBNFL-XKSSXDPKSA-N				light enzyme, Bacillus subtilis H94
+0.001	6,7-dimethyl-8-(1-D-ribityl)lumazine	3391	SXDXRJZUAJBNFL-XKSSXDPKSA-N	25	6.9	X	pH 6.9, 25C, recombinant mutant H102Q, steady-state conditions
+0.027	6,7-dimethyl-8-(1-D-ribityl)lumazine	3391	SXDXRJZUAJBNFL-XKSSXDPKSA-N	25			25C, recombinant enzyme
+0.267	6,7-dimethyl-8-(1-D-ribityl)lumazine	3391	SXDXRJZUAJBNFL-XKSSXDPKSA-N	25	6.9		pH 6.9, 25C, recombinant wild-type enzyme, steady-state conditions
+0.00833	6,7-dimethyl-8-ribityllumazine	3391	SXDXRJZUAJBNFL-XKSSXDPKSA-N				per subunit
+0.019	6,7-dimethyl-8-ribityllumazine	3391	SXDXRJZUAJBNFL-XKSSXDPKSA-N	37	7.0		pH 7.0, 37C

@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.08	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N			X	mutant enzyme Y256R/A289R, pH and temperature not specified in the publication
+0.11	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N			X	mutant enzyme K210L/Y256R, pH and temperature not specified in the publication
+0.12	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N				wild type enzyme, pH and temperature not specified in the publication
+0.13	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N			X	mutant enzyme A289R, pH and temperature not specified in the publication
+0.17	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N				pH and temperature not specified in the publication
+0.2	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N			X	mutant enzyme Y256R, pH and temperature not specified in the publication
+0.21	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N			X	mutant enzyme K210L, pH and temperature not specified in the publication
+0.4	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	37	7.5		at pH 7.5 and 37C

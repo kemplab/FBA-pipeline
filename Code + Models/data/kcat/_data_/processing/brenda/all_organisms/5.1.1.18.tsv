@@ -1,0 +1,30 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.004	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	37	7.4		wild-type, pH 7.4, 37C
+0.015	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	37	7.4	X	mutant Q155D, racemization, pH 7.4, 37C
+0.02	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	7.4		wild-type, racemization, pH 7.4, 37C
+0.028	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	37	7.4		wild-type, racemization, presence of ATP, pH 7.4, 37C
+0.042	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	7.4		wild-type, racemization, presence of ATP, pH 7.4, 37C
+0.045	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	7.4	X	mutant Q155D, racemization, pH 7.4, 37C
+0.048	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	8.0		in absence of ATP, pH 8.0, 37C
+0.11	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	37	7.4	X	mutant Q155D, racemization, presence of ATP, pH 7.4, 37C
+0.12	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N			X	mutant enzyme E219A/D225A, in the absence of Mg2+, pH and temperature not specified in the publication
+0.14	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N			X	mutant enzyme E219A/D225A, in the presence of 1 mM Mg2+, pH and temperature not specified in the publication
+0.17	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	8.0		in presence of ATP, pH 8.0, 37C
+0.2	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N				wild type enzyme, in the presence of 1 mM Mg2+, pH and temperature not specified in the publication
+0.23	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	7.4	X	mutant Q155D, presence of ATP, pH 7.4, 37C
+0.26	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant enzyme E219A/D225A, in the presence of 1 mM Mg2+, pH and temperature not specified in the publication
+0.31	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N				wild type enzyme, in the absence of Mg2+, pH and temperature not specified in the publication
+0.31	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				wild type enzyme, in the presence of 1 mM Mg2+, pH and temperature not specified in the publication
+0.36	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				wild type enzyme, in the absence of Mg2+, pH and temperature not specified in the publication
+0.42	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant enzyme E219A/D225A, in the absence of Mg2+, pH and temperature not specified in the publication
+0.49	L-serine O-sulfate	3159	LFZGUGJDVUUGLK-REOHCLBHSA-N	37	8.0		pH 8.0, 37C, presence of 1 mM ATP, elimination reaction
+0.69	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N		8.0		pH 8.0
+0.78	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N		8.0		pH 8.0
+1.41	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N		8.0		pH 8.0
+1.88	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N		8.0		pH 8.0
+3.2	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	37	8.0		pH 8.0, 37C, presence of 1 mM ATP, elimination reaction
+3.8	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	8.0		pH 8.0, 37C, presence of 1 mM ATP, racemization reaction
+4	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	8.0		pH 8.0, 37C, presence of 1 mM ATP, elimination reaction
+5.22	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	95	8.2		pH 8.2, 95C
+14.5	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	37	8.0		pH 8.0, 37C, presence of 1 mM ATP, racemization reaction
+14.8	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	95	8.2		pH 8.2, 95C

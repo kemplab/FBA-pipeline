@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.2	UDP-D-xylose	291	DQQDLYVHOTZLOR-OCIMBMBZSA-N				recombinant Arabidopsis thaliana enzyme
+0.4	UDP-D-xylose	291	DQQDLYVHOTZLOR-OCIMBMBZSA-N				recombinant Arabidopsis thaliana enzyme
+0.5	UDP-D-xylose	291	DQQDLYVHOTZLOR-OCIMBMBZSA-N				recombinant Arabidopsis thaliana enzyme
+13	UDP-D-xylose	291	DQQDLYVHOTZLOR-OCIMBMBZSA-N				recominant Arabidopsis thaliana enzyme UGE3
+19	UDP-D-xylose	291	DQQDLYVHOTZLOR-OCIMBMBZSA-N				recombinant Arabidopsis thaliana enzyme UGE1
+1.5	UDP-beta-L-arabinopyranose	3456	DQQDLYVHOTZLOR-LGNYTLETSA-N	25	7.0		pH 7.0, at 25C
+1.5	UDP-alpha-D-xylopyranose	291	DQQDLYVHOTZLOR-OCIMBMBZSA-N	25	7.0		pH 7.0, at 25C
+13	UDP-alpha-D-xylopyranose	291	DQQDLYVHOTZLOR-OCIMBMBZSA-N	37	7.6		apparent value, at 37C, in 50 mM sodium phosphate, pH 7.6
+13	UDP-D-xylopyranose	291	DQQDLYVHOTZLOR-OCIMBMBZSA-N	37	7.6		apparent value, at 37C, in 50 mM sodium phosphate, pH 7.6

@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				phosphorylated LysU, kinetic constants derived from 1H-NMR 5,5-P1,P4-tetraphosphate synthesis
+2.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				unphosphorylated LysU, kinetic constants derived from 1H-NMR 5,5-P1,P4-tetraphosphate synthesis
+12.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				phosphorylated LysU, kinetic constants derived from lysyl-adenylate, enzyme-coupled assay
+16	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				unphosphorylated LysU, kinetic constants derived from lysyl-adenylate, enzyme-coupled assay

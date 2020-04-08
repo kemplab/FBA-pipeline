@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+10.3	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				recombinant His-tagged wild-type full-length enzyme, amino acid activation step
+18.1	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N			X	recombinant His-tagged deletion mutant, amino acid activation step
+0.2	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	recombinant His-tagged deletion mutant, amino acid activation step
+2.3	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				recombinant His-tagged wild-type full-length enzyme, amino acid activation step

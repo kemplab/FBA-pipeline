@@ -1,0 +1,67 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000007	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	23	7.2	X	pH 7.2, 23C, mutant enzyme C155S
+0.00023	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N			X	below, D96A mutant
+0.0005	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1	X	mutant V155D, pH 7.1, 25C
+0.01	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1	X	mutant I96S, pH 7.1, 25C; mutant V155S, pH 7.1, 25C
+0.024	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1	X	mutant D70N, pH 7.1, 25C
+0.24	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1	X	mutant T159V/V182A/Y206F, pH 7.1, 25C
+0.34	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N			X	K59A mutant
+0.36	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1	X	mutant L123S, pH 7.1, 25C
+0.5	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	71	7.2	X	mutant D71C, pH 7.2, 25C
+0.52	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N			X	K59A mutant
+0.56	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1	X	mutant T159V/V182A, pH 7.1, 25C
+0.64	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1	X	mutant L123N, pH 7.1, 25C
+0.69	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1	X	mutant I96T, pH 7.1, 25C
+0.7	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	76	7.2	X	mutant D76C, pH 7.2, 25C
+0.75	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N				
+0.9	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.2	X	pH 7.2, 25C, D37A mutant
+1	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1	X	mutant R160A/V182A, pH 7.1, 25C
+1	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1	X	mutant R235A, pH 7.1, 25C, presence of 0.1 M NCl
+1.1	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1	X	mutant R160A/Y206F, pH 7.1, 25C; mutant T159V/Y206F, pH 7.1, 25C
+1.4	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1	X	mutant Q185A, pH 7.1, 25C
+1.5	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1	X	mutant R203A, pH 7.1, 25C; mutant V182A/Y206F, pH 7.1, 25C
+2	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N		7		pH 7, constant above pH 7, declines below pH 7
+2	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1	X	mutant R160A, pH 7.1, 25C
+2.3	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1	X	mutant T159V, pH 7.1, 25C
+3	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1	X	mutant V182A, pH 7.1, 25C
+3.2	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.2	X	mutant T80S, pH 7.2, 25C
+4	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1		wild-type, pH 7.1, 25C
+4.1	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1	X	mutant Y206F, pH 7.1, 25C
+5.3	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1		wild-type, pH 7.1, 25C
+6.7	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N				
+7.2	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.2	X	pH 7.2, 25C, T100A mutant
+7.5	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N				monofunctional enzyme expressed in Escherichia coli
+8.1	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N				
+13	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	22			22C, native ODCase expressed in yeast
+13.7	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.2	X	mutant Q201H, pH 7.2, 25C
+14	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.2		pH 7.2, 25C, not affected by NaCl concentration
+14.4	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.2	X	mutant D22G, pH 7.2, 25C
+15	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.1		wild-type, pH 7.1, 25C, presence of 0.1 M NaCl
+15.6	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	37	8.0		pH 8.0, 37C
+19	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N				
+19	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.2		22-25C, pH 7.2, recombinant ODCase expressed in Escherichia coli
+20.7	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N				
+21	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	55	7.5		pH 7.5, 55C
+22	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N				wild type enzyme
+24.6	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N				multienzyme complex of orotate phosphoribosyltransferase and orotidine 5'-monophosphate decarboxylase
+27	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.2	X	mutant L130M, pH 7.2, 25C
+29.7	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.2	X	mutant V167N, pH 7.2, 25C
+41	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N			X	Q215A mutant
+42	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.2		wild-type, pH 7.2, 25C
+44	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N	25	7.2		pH 7.2, 25C, wild-type enzyme
+44	orotidine 5'-phosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N				wild-type enzyme
+22	Orotidine	2998	FKCRAVPPBFWEJD-XVFCMESISA-N	23	7.2	X	pH 7.2, 23C, mutant enzyme C155S
+0.042	orotidine 5'-monophosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N			X	S154/Q215A mutant
+0.082	orotidine 5'-monophosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N			X	S154 mutant
+15	orotidine 5'-monophosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N				wild type enzyme
+21	orotidine 5'-monophosphate	599	KYOBSHFOBAOFBF-XVFCMESISA-N			X	Q215A mutant
+29	5-Fluoroorotidine 5'-phosphate	6102	XQTQLWCEIQZAIX-BDVCGLKZSA-N			X	K59A mutant
+92	5-Fluoroorotidine 5'-phosphate	6102	XQTQLWCEIQZAIX-BDVCGLKZSA-N	25	7.1	X	mutant R235A, pH 7.1, 25C, presence of 0.1 M NaCl
+95	5-Fluoroorotidine 5'-phosphate	6102	XQTQLWCEIQZAIX-BDVCGLKZSA-N	25	7.1		wild-type, pH 7.1, 25C, presence of 0.1 M NaCl
+242	5-Fluoroorotidine 5'-phosphate	6102	XQTQLWCEIQZAIX-BDVCGLKZSA-N				wild type enzyme
+570	5-Fluoroorotidine 5'-phosphate	6102	XQTQLWCEIQZAIX-BDVCGLKZSA-N				
+0.0017	2'-deoxyorotidine 5'-phosphate	6520	IKHIBMQDLXHBTM-GKROBHDKSA-N	25	7.2	X	pH 7.2, 25C, D37A mutant
+0.15	2'-deoxyorotidine 5'-phosphate	6520	IKHIBMQDLXHBTM-GKROBHDKSA-N	25	7.2		pH 7.2, 25C, wild-type enzyme
+0.16	2'-deoxyorotidine 5'-phosphate	6520	IKHIBMQDLXHBTM-GKROBHDKSA-N	25	7.2	X	pH 7.2, 25C, T100A mutant
+9	4-Thioorotidine 5'-phosphate	20708	ZIHVXWVTAKBGBA-XVFCMESISA-N				
+5	5-Azaorotidine 5'-phosphate	20713	JLINKAMGQKJJSM-ZGEUXELVSA-N				

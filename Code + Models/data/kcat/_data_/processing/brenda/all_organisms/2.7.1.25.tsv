@@ -1,0 +1,24 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.09	adenosine 5'-O-(3-thiotriphosphate)	1380	NLTUCYMLOPLUHL-KQYNXXCUSA-N		8.0		pH 8.0
+0.17	adenylyl sulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N			X	mutant R40A
+0.2	adenylyl sulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N			X	deletion mutant lacking the first 50 amino acids of the N-terminus, delta50N
+0.207	adenylyl sulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N			X	mutant R37A
+0.315	adenylyl sulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N			X	deletion mutant lacking the first 34 amino acids of the N-terminus, delta34N
+0.364	adenylyl sulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N				wildtype adenylyl sulfate
+1.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0		pH 8.0, 37C, PAPSS 1
+2.17	adenosine-5'-phosphosulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N	25	8.0	X	mutant enzyme C36A/C69A, at pH 8.0 and 25C
+2.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0		pH 8.0, 37C, PAPSS 2a
+4.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0		pH 8.0, 37C, PAPSS 2b
+5	adenosine-5'-phosphosulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N	25	8.0		wild type enzyme, at pH 8.0 and 25C
+14.1	adenosine 5'-phosphosulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N	17	7.5		oxidized wild type enzyme, at pH 7.5 and 17C
+14.1	adenosine 5'-phosphosulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N	25	7.5		oxidized wild type enzyme, at pH 7.5 and 25C
+29	adenosine 5'-phosphosulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N	17	7.5	X	mutant enzyme D136A, at pH 7.5 and 17C
+45	adenosine 5'-phosphosulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N	17	7.5	X	mutant enzyme D136N, at pH 7.5 and 17C
+50	adenosine 5-phosphosulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N	30	8.0		pH 8.0, 30C
+82.3	adenosine 5'-phosphosulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N	17	7.5		N-terminal truncation variant APSKDELTA96, at pH 7.5 and 17C
+136	adenosine 5'-phosphosulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N	17	7.5	X	mutant enzyme R93A, at pH 7.5 and 17C
+203	adenosine 5'-phosphosulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N	25	7.5	X	oxidized mutant enzyme C86A/C119A, at pH 7.5 and 25C
+239	adenosine 5'-phosphosulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N	25	7.5	X	reduced mutant enzyme C86A/C119A, at pH 7.5 and 25C
+272	adenosine 5'-phosphosulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N	17	7.5		wild type enzyme, at pH 7.5 and 17C
+272	adenosine 5'-phosphosulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N	17	7.5		reduced wild type enzyme, at pH 7.5 and 17C
+272	adenosine 5'-phosphosulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N	25	7.5		reduced wild type enzyme, at pH 7.5 and 25C

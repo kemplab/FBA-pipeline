@@ -1,0 +1,38 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+82	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	55	7.5		isoform TKTc, at pH 7.5 and 55C
+112	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	55	7.7		isoform TKTp, at pH 7.7 and 55C
+48	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	55	7.7		isoform TKTp, at pH 7.7 and 55C
+99	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	55	7.5		isoform TKTc, at pH 7.5 and 55C
+0.0148	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N				
+0.8	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N				D477A
+13	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	55	7.5		isoform TKTc, at pH 7.5 and 55C
+21	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	55	7.7		isoform TKTp, at pH 7.7 and 55C
+46	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N				wild-type
+56.7	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N				
+0.002	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	25	7.6	X	mutant E418A, cofactor N1&acirc;-methyl-thiamine diphosphate, 25C, pH 7.6
+0.005	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	25	7.6		wild-type, cofactor N1&acirc;-methyl-thiamine diphosphate, 25C, pH 7.6
+2.5	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	25	7.6		wild-type, cofactor 4&acirc;-methylamino-thiamine diphosphate, 25C, pH 7.6
+44.5	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	25	7.6		wild-type, cofactor thiamine diphosphate, 25C, pH 7.6
+1.4	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N				D477A
+69	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N				wild-type
+0.05	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N				D477A
+0.4	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N				wild-type
+0.05	D-xylulose 5-phosphate	524	FNZLKVNUWIIPSJ-RFZPGFLSSA-N	25	7.6	X	mutant E418A, cofactor thiamine diphosphate, 25C, pH 7.6
+0.63	D-xylulose 5-phosphate	524	FNZLKVNUWIIPSJ-RFZPGFLSSA-N	25	7.6		wild-type, cofactor 4&acirc;-methylamino-thiamine diphosphate, 25C, pH 7.6
+1.8	D-xylulose 5-phosphate	524	FNZLKVNUWIIPSJ-RFZPGFLSSA-N	25	7.6	X	mutant E418A, cofactor N1&acirc;-methyl-thiamine diphosphate, 25C, pH 7.6
+3.1	D-xylulose 5-phosphate	524	FNZLKVNUWIIPSJ-RFZPGFLSSA-N	30	7.6		His-tagged recombinant enzyme, pH 7.6, 30C
+5	D-xylulose 5-phosphate	524	FNZLKVNUWIIPSJ-RFZPGFLSSA-N	25	7.6		wild-type, cofactor N1&acirc;-methyl-thiamine diphosphate, 25C, pH 7.6
+6.3	D-xylulose 5-phosphate	524	FNZLKVNUWIIPSJ-RFZPGFLSSA-N	30	7.6		recombinant enzyme, pH 7.6, 30C
+40	D-xylulose 5-phosphate	524	FNZLKVNUWIIPSJ-RFZPGFLSSA-N	55	7.5		isoform TKTc, at pH 7.5 and 55C
+45	D-xylulose 5-phosphate	524	FNZLKVNUWIIPSJ-RFZPGFLSSA-N	25	7.6		wild-type, cofactor thiamine diphosphate, 25C, pH 7.6
+54	D-xylulose 5-phosphate	524	FNZLKVNUWIIPSJ-RFZPGFLSSA-N	55	7.7		isoform TKTp, at pH 7.7 and 55C
+0.3	2-deoxy-D-ribose 5-phosphate	887	KKZFLSZAWCYPOC-PYHARJCCSA-N				wild-type
+0.4	2-deoxy-D-ribose 5-phosphate	887	KKZFLSZAWCYPOC-PYHARJCCSA-N				D477A
+8.4	D-ribose-5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N		7.5		pH 7.5
+0.0187	Xylulose 5-phosphate	524	FNZLKVNUWIIPSJ-RFZPGFLSSA-N				
+56.7	Xylulose 5-phosphate	524	FNZLKVNUWIIPSJ-RFZPGFLSSA-N				
+1.3	2-deoxy-D-erythrose 4-phosphate	11118	LQIRHIGPILJQHV-BYPYZUCNSA-N				D477A
+4.9	2-deoxy-D-erythrose 4-phosphate	11118	LQIRHIGPILJQHV-BYPYZUCNSA-N				wild-type
+410000	lithium beta-hydroxypyruvate	18047	ODTOYBROCWIQFM-UHFFFAOYSA-M	25	7.0		pH 7.0, 25C
+0.07	D-threose 4-phosphate	21936	NGHMDNPXVRFFGS-QWWZWVQMSA-N				D477A
+0.3	D-threose 4-phosphate	21936	NGHMDNPXVRFFGS-QWWZWVQMSA-N				wild-type

@@ -1,0 +1,31 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.004	5'-phospho-pyridoxyl-p-aminophenol	32270	JFXKKZSYKJJEOT-UHFFFAOYSA-N				
+0.008	pyridoxine 5'-phosphate	795	WHOMFKWHIQZTHY-UHFFFAOYSA-N			X	R197M mutant enzyme
+0.009	pyridoxamine 5'-phosphate	539	ZMJGSOSNSPKHNH-UHFFFAOYSA-L				
+0.01	5'-phospho-pyridoxyl-aniline	21753	GABQLNFKHYFLJB-UHFFFAOYSA-N				
+0.01	pyridoxine 5'-phosphate	795	WHOMFKWHIQZTHY-UHFFFAOYSA-N	25	7.8		in 25 mM potassium phosphate, pH 7.8 and 25C
+0.03	pyridoxine 5'-phosphate	795	WHOMFKWHIQZTHY-UHFFFAOYSA-N			X	H199N mutant enzyme; R197M mutant enzyme
+0.035	5'-phospho-pyridoxyl-5-aminovalerate	21752	BYWSSPMHFPKNTR-UHFFFAOYSA-N				
+0.04	5'-phospho-pyridoxyl-3-alanine	32264	NFYNVPNHPWQMCZ-UHFFFAOYSA-N				
+0.04	5'-phospho-pyridoxyl-4-aminobutyrate	32267	GRNVPUGVNMSEMH-UHFFFAOYSA-N				
+0.06	pyridoxine 5'-phosphate	795	WHOMFKWHIQZTHY-UHFFFAOYSA-N			X	D49A mutant enzyme
+0.09	pyridoxine 5'-phosphate	795	WHOMFKWHIQZTHY-UHFFFAOYSA-N				
+0.1	5'-phospho-pyridoxyl-m-aminobenzoate	32268	WIKJODNXDVULDL-UHFFFAOYSA-N				
+0.1	5'-phospho-pyridoxyl-p-aminonitrobenzene	32269	OWHXDCKFRCTORM-UHFFFAOYSA-N				
+0.103	pyridoxamine 5'-phosphate	539	ZMJGSOSNSPKHNH-UHFFFAOYSA-L				
+0.103	pyridoxamine 5'-phosphate	539	ZMJGSOSNSPKHNH-UHFFFAOYSA-L				
+0.13	pyridoxine 5'-phosphate	795	WHOMFKWHIQZTHY-UHFFFAOYSA-N				
+0.13	pyridoxine 5'-phosphate	795	WHOMFKWHIQZTHY-UHFFFAOYSA-N	37	8.5		pH 8.5, 37C
+0.14	pyridoxine 5'-phosphate	795	WHOMFKWHIQZTHY-UHFFFAOYSA-N			X	H199A mutant enzyme; R14M mutant enzyme
+0.16	pyridoxine 5'-phosphate	795	WHOMFKWHIQZTHY-UHFFFAOYSA-N			X	R14E mutant enzyme
+0.19	pyridoxine 5'-phosphate	795	WHOMFKWHIQZTHY-UHFFFAOYSA-N	37	7.6		pH 7.6, 37C
+0.2	pyridoxamine 5'-phosphate	539	ZMJGSOSNSPKHNH-UHFFFAOYSA-L	37	7.6		pH 7.6, 37C
+0.2	pyridoxine 5'-phosphate	795	WHOMFKWHIQZTHY-UHFFFAOYSA-N		7.6		recombinant enzyme, in phosphate and HEPES buffer at pH 7.6
+0.3	pyridoxine 5'-phosphate	795	WHOMFKWHIQZTHY-UHFFFAOYSA-N		7.6		recombinant enzyme, in Tris buffer at pH 7.6
+0.6	pyridoxine 5'-phosphate	795	WHOMFKWHIQZTHY-UHFFFAOYSA-N			X	Y17F mutant enzyme
+0.7	pyridoxine 5'-phosphate	795	WHOMFKWHIQZTHY-UHFFFAOYSA-N				
+0.7	pyridoxine 5'-phosphate	795	WHOMFKWHIQZTHY-UHFFFAOYSA-N				
+0.76	pyridoxine 5'-phosphate	795	WHOMFKWHIQZTHY-UHFFFAOYSA-N				recombinant enzyme
+1.72	pyridoxamine 5'-phosphate	539	ZMJGSOSNSPKHNH-UHFFFAOYSA-L				recombinant enzyme
+28	pyridoxamine 5'-phosphate	539	ZMJGSOSNSPKHNH-UHFFFAOYSA-L				recombinant enzyme after cleavage from fusion protein
+33	pyridoxal 5'-phosphate	30	NGVDGCNFYWLIFO-UHFFFAOYSA-N				recombinant enzyme after cleavage from fusion protein

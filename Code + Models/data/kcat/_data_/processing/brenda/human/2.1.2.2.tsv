@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0019	10-formyl-5,8-dideazafolate	1373	QHUBQNFYSLRYQG-KRWDZBQOSA-N				chimeric enzyme GPX-M1 (hGART1-100/PurN101-212)
+0.0034	beta-glycinamide ribonucleotide	1224	OBQMLSFOUZUIOB-SHUUEZRQSA-N				wild-type enzyme
+0.0059	10-formyl-5,8-dideazafolate	1373	QHUBQNFYSLRYQG-KRWDZBQOSA-N				wild-type enzyme
+0.018	10-formyl-5,8-dideazafolate	1373	QHUBQNFYSLRYQG-KRWDZBQOSA-N				chimeric enzyme GPX-M24 (hGART1-54/PurN55-212)
+0.0262	beta-glycinamide ribonucleotide	1224	OBQMLSFOUZUIOB-SHUUEZRQSA-N				chimeric enzyme PGX-B12 (PurN1-101/hGART102-202)
+0.031	10-formyl-5,8-dideazafolate	1373	QHUBQNFYSLRYQG-KRWDZBQOSA-N				chimeric enzyme GPX-M55 (hGART1-56/PurN58-212)
+0.043	10-formyl-5,8-dideazafolate	1373	QHUBQNFYSLRYQG-KRWDZBQOSA-N				chimeric enzyme GPG-N11 (hGART1-56/PurN57-131/hGART132-202)
+0.0662	beta-glycinamide ribonucleotide	1224	OBQMLSFOUZUIOB-SHUUEZRQSA-N				chimeric enzyme GPX-M1 (hGART1-100/PurN101-212)
+0.102	10-formyl-5,8-dideazafolate	1373	QHUBQNFYSLRYQG-KRWDZBQOSA-N				chimeric enzyme PGX-B12 (PurN1-101/hGART102-202)
+0.262	beta-glycinamide ribonucleotide	1224	OBQMLSFOUZUIOB-SHUUEZRQSA-N				chimeric enzyme GPX-M24 (hGART1-54/PurN55-212)
+0.293	beta-glycinamide ribonucleotide	1224	OBQMLSFOUZUIOB-SHUUEZRQSA-N				chimeric enzyme GPG-N11 (hGART1-56/PurN57-131/hGART132-202)
+0.63	beta-glycinamide ribonucleotide	1224	OBQMLSFOUZUIOB-SHUUEZRQSA-N				chimeric enzyme GPX-M55 (hGART1-56/PurN58-212)
+7.5	beta-glycinamide ribonucleotide	1224	OBQMLSFOUZUIOB-SHUUEZRQSA-N				wild type enzyme
+7.7	beta-glycinamide ribonucleotide	1224	OBQMLSFOUZUIOB-SHUUEZRQSA-N			X	mutant K170R
+14	beta-glycinamide ribonucleotide	1224	OBQMLSFOUZUIOB-SHUUEZRQSA-N			X	mutant N106Q

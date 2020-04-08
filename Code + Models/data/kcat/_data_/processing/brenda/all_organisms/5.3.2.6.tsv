@@ -1,0 +1,45 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.05	(2Z,4E)-2-hydroxyhexa-2,4-dienedioate	3502	JBEBGTMCZIGUTK-TZFCGSKZSA-N	23	7.3		pH 7.3, 23C, conversion to compound 5
+0.1	2-hydroxy-2,4-pentadienoate	109205	VHTQQDXPNUTMNB-ONEGZZNKSA-N	23	7.3		pH 7.3, 23C
+0.2	2-hydroxymuconate	3006	JBEBGTMCZIGUTK-HSFFGMMNSA-N	22	7.3	X	mutant enzyme R39A, in 10 mM potassium phosphate buffer, pH 7.3, at 22C
+0.2	(2Z,4E)-2-hydroxyhexa-2,4-dienedioate	3502	JBEBGTMCZIGUTK-TZFCGSKZSA-N	23	7.3		pH 7.3, 23C, conversion to (3E)-2-oxohex-3-enedioate
+0.2	phenylenolpyruvate	109181	DEDGUGJNLNLJSR-SOFGYWHQSA-N	24	7.3	X	pH 7.3, 24C, recombinant hh4-OT mutant betaP1A
+0.3	2-hydroxymuconate	3006	JBEBGTMCZIGUTK-HSFFGMMNSA-N	23	7.3	X	mutant 4-OT L8R/I52E, pH 7.3, 23C
+0.4	2-hydroxy-2,4-hexadienedioate	3502	JBEBGTMCZIGUTK-TZFCGSKZSA-N	23	7.3	X	below, pH 7.3, 23C, mutant R11A/R39A
+0.4	2-hydroxy-2,4-pentadienoate	109205	VHTQQDXPNUTMNB-ONEGZZNKSA-N	23	7.3		pH 7.3, 23C, wild-type enzyme
+0.6	(2Z,4E)-2-hydroxyhexa-2,4-dienedioate	3502	JBEBGTMCZIGUTK-TZFCGSKZSA-N	23	7.3		pH 7.3, 23C, conversion to (3E)-2-oxohex-3-enedioate; pH 7.3, 23C, conversion to compound 5
+0.6	phenylenolpyruvate	109181	DEDGUGJNLNLJSR-SOFGYWHQSA-N	24	7.3	X	pH 7.3, 24C, recombinant hh4-OT mutant alphaR12A
+1	2-hydroxy-2,4-pentadienoate	109205	VHTQQDXPNUTMNB-ONEGZZNKSA-N	23	7.3	X	pH 7.3, 23C, mutant R11A
+1.5	2-hydroxymuconate	3006	JBEBGTMCZIGUTK-HSFFGMMNSA-N	22	7.3	X	mutant enzyme P1A, in 10 mM potassium phosphate buffer, pH 7.3, at 22C
+2	2-hydroxy-2,4-hexadienedioate	3502	JBEBGTMCZIGUTK-TZFCGSKZSA-N	23	7.3	X	pH 7.3, 23C, mutant R39A
+2.4	phenylenolpyruvate	109181	DEDGUGJNLNLJSR-SOFGYWHQSA-N	23	7.3		pH 7.3, 23C
+2.5	2-hydroxy-2,4-pentadienoate	109205	VHTQQDXPNUTMNB-ONEGZZNKSA-N	23	7.3		pH 7.3, 23C
+2.6	phenylenolpyruvate	109181	DEDGUGJNLNLJSR-SOFGYWHQSA-N	23	7.3		pH 7.3, 23C
+3	2-hydroxy-2,4-hexadienedioate	3502	JBEBGTMCZIGUTK-TZFCGSKZSA-N	24	7.3	X	pH 7.3, 24C, recombinant hh4-OT mutant betaP1A
+3.4	5-(methyl)-2-hydroxymuconate	124578	PQXOJASKFLIATD-HZDAAVBUSA-N	24	7.3		isoform 4-oxalocrotonate tautomerase II, in 10 mM potassium phosphate buffer, pH 7.3, at 24C
+9	2-hydroxy-2,4-hexadienedioate	3502	JBEBGTMCZIGUTK-TZFCGSKZSA-N	23	7.3	X	pH 7.3, 23C, mutant R39Q
+11	phenylenolpyruvate	109181	DEDGUGJNLNLJSR-SOFGYWHQSA-N	24	7.3	X	pH 7.3, 24C, recombinant hh4-OT mutant betaR39A
+13	phenylenolpyruvate	109181	DEDGUGJNLNLJSR-SOFGYWHQSA-N	24	7.3		pH 7.3, 24C, recombinant wild-type hh4-OT
+14	2-hydroxymuconate	3006	JBEBGTMCZIGUTK-HSFFGMMNSA-N	22	7.3	X	mutant enzyme R11A, in 10 mM potassium phosphate buffer, pH 7.3, at 22C
+16	(2E)-2-hydroxy-3-phenylprop-2-enoate	109181	DEDGUGJNLNLJSR-SOFGYWHQSA-N	22	7.3		wild type enzyme, in 10 mM potassium phosphate buffer, pH 7.3, at 22C
+17	phenylenolpyruvate	109181	DEDGUGJNLNLJSR-SOFGYWHQSA-N	24	7.3	X	pH 7.3, 24C, recombinant hh4-OT mutant betaR11A
+18.5	2-hydroxymuconate	3006	JBEBGTMCZIGUTK-HSFFGMMNSA-N	24	7.3		isoform 4-oxalocrotonate tautomerase II, in 10 mM potassium phosphate buffer, pH 7.3, at 24C
+32	2-hydroxymuconate	3006	JBEBGTMCZIGUTK-HSFFGMMNSA-N	23	7.3	X	mutant 4-OT I52E, pH 7.3, 23C
+40	2-hydroxy-2,4-hexadienedioate	3502	JBEBGTMCZIGUTK-TZFCGSKZSA-N	23	7.3	X	pH 7.3, 23C, mutant R11A
+43	2-hydroxy-2,4-hexadienedioate	3502	JBEBGTMCZIGUTK-TZFCGSKZSA-N	24	7.3	X	pH 7.3, 24C, recombinant hh4-OT mutant alphaR12A
+44	phenylenolpyruvate	109181	DEDGUGJNLNLJSR-SOFGYWHQSA-N	24	7.3	X	pH 7.3, 24C, recombinant hh4-OT mutant alphaR40A
+61	2-hydroxymuconate	3006	JBEBGTMCZIGUTK-HSFFGMMNSA-N	23	7.3	X	mutant 4-OT L8R, pH 7.3, 23C
+65	2-hydroxy-2,4-hexadienedioate	3502	JBEBGTMCZIGUTK-TZFCGSKZSA-N	24	7.3	X	pH 7.3, 24C, recombinant hh4-OT mutant alphaR40A
+107	5-(methyl)-2-hydroxymuconate	124578	PQXOJASKFLIATD-HZDAAVBUSA-N	24	7.3		isoform 4-oxalocrotonate tautomerase I, in 10 mM potassium phosphate buffer, pH 7.3, at 24C
+360	2-hydroxymuconate	3006	JBEBGTMCZIGUTK-HSFFGMMNSA-N	22	7.3	X	mutant enzyme R61A, in 10 mM potassium phosphate buffer, pH 7.3, at 22C
+733	2-hydroxy-2,4-hexadienedioate	3502	JBEBGTMCZIGUTK-TZFCGSKZSA-N	24	7.3	X	pH 7.3, 24C, recombinant hh4-OT mutant betaR39A
+1850	2-hydroxymuconate	3006	JBEBGTMCZIGUTK-HSFFGMMNSA-N	22	7.3		wild type enzyme, in 10 mM potassium phosphate buffer, pH 7.3, at 22C
+2890	2-oxo-4(E)-hexenedioate	102745	OOEDHTCVMHDXRH-HNQUOIGGSA-N	30	7.3		D-4OT enantiomer, pH 7.3, 30C
+2940	2-oxo-4(E)-hexenedioate	102745	OOEDHTCVMHDXRH-HNQUOIGGSA-N	30	7.3		L-4OT enantiomer, pH 7.3, 30C
+3000	2-hydroxy-2,4-hexadienedioate	3502	JBEBGTMCZIGUTK-TZFCGSKZSA-N	24	7.3		pH 7.3, 24C, recombinant wild-type hh4-OT
+3500	2-hydroxy-2,4-hexadienedioate	3502	JBEBGTMCZIGUTK-TZFCGSKZSA-N	23	7.3		pH 7.3, 23C, wild-type enzyme
+3500	2-hydroxy-2,4-hexadienedioate	3502	JBEBGTMCZIGUTK-TZFCGSKZSA-N	24	7.3	X	pH 7.3, 24C, recombinant hh4-OT mutant betaR11A
+3500	2-hydroxymuconate	3006	JBEBGTMCZIGUTK-HSFFGMMNSA-N	23	7.3		wild-type 4-OT, pH 7.3, 23C
+4600	2-hydroxymuconate	3006	JBEBGTMCZIGUTK-HSFFGMMNSA-N	24	7.3		isoform 4-oxalocrotonate tautomerase I, in 10 mM potassium phosphate buffer, pH 7.3, at 24C
+139000	2-hydroxymuconate	3006	JBEBGTMCZIGUTK-HSFFGMMNSA-N	30	7.3		pH 7.3, 30C
+288000	2-oxo-3-hexenedioate	5722	QTHJXLFFFTVYJC-OWOJBTEDSA-N	30	7.3		pH 7.3, 30C

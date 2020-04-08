@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0005	N-acetylmuramate 6-phosphate	4322	NMEMTQKUEVNSPV-MDMHTWEWSA-N	30	8.0	X	mutant enzyme E83A, at 30C in 60 mM Trien-HCl buffer (pH 8.0)
+0.0028	N-acetylmuramate 6-phosphate	4322	NMEMTQKUEVNSPV-MDMHTWEWSA-N	30	8.0	X	mutant enzyme E114Q, at 30C in 60 mM Trien-HCl buffer (pH 8.0)
+0.79	N-acetylmuramate 6-phosphate	4322	NMEMTQKUEVNSPV-MDMHTWEWSA-N	30	8.0	X	mutant enzyme D115N, at 30C in 60 mM Trien-HCl buffer (pH 8.0)
+5.7	N-acetylmuramate 6-phosphate	4322	NMEMTQKUEVNSPV-MDMHTWEWSA-N	30	8.0		wild type enzyme, at 30C in 60 mM Trien-HCl buffer (pH 8.0)

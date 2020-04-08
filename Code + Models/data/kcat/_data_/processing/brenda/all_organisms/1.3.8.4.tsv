@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.133	butyryl-CoA	235	CRFNGMNYKDXRTN-CITAKDKDSA-N				using recombinant enzyme, electron acceptor: electron-transferring flavoprotein
+0.533	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N				using recombinant enzyme, electron acceptor: electron-transferring flavoprotein
+0.17	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N	37	7.4	X	mutant IVD G375E, pH 7.4, 37C
+0.283	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N			X	purified V342A mutant, electron acceptor: dichlorophenol indophenol
+0.32	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N	37	7.4		mutabt IVD E254G/G375E, pH 7.4, 37C
+0.733	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N			X	purified R382L mutant, electron acceptor: dichlorophenol indophenol
+0.817	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N			X	purified V342A mutant, electron acceptor: electron-transferring flavoprotein
+0.98	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N	32			per tetramer, recombinant enzyme, 32C
+1.5	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N	37	7.4		wild-type enzyme, pH 7.4, 37C
+2	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N			X	purified R382L mutant, electron acceptor: electron-transferring flavoprotein
+2.2	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N			X	purified A282V mutant, electron acceptor: electron-transferring flavoprotein
+2.37	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N				using recombinant enzyme, electron acceptor: electron-transferring flavoprotein
+2.82	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N			X	purified A282V mutant, electron acceptor: dichlorophenol indophenol
+8.8	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N				purified wild-type enzyme, electron acceptor: electron-transferring flavoprotein
+10	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N				purified wild-type enzyme, electron acceptor: dichlorophenol indophenol
+0.267	valeryl-CoA	1555	RXUATCUKICAIOA-ZMHDXICWSA-N				using recombinant enzyme, electron acceptor: electron-transferring flavoprotein
+0.3	(S)-2-methylbutyryl-CoA	3405	LYNVNYDEQMMNMZ-CFAFLRSWSA-N	37	7.4	X	wild-type enzyme and mutant IVD G375E, pH 7.4, 37C

@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.03	4-methylumbelliferyl alpha-D-mannopyranoside	2310	YUDPTGPSBJVHCN-VMMWWAARSA-N	37	6.8		pH 6.8, 37C, recombinant enzyme
+0.0025	4-nitrophenyl alpha-D-mannopyranoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	37	7.0		pH 7.0, 37C, Bt3991
+4.67	3-O-alpha-D-mannopyranosyl-alpha-D-mannopyranose	115560	QIGJYVCQYDKYDW-LBGGPIGOSA-N	37	7.0		pH 7.0, 37C, Bt3991
+6.4	3-O-alpha-D-mannopyranosyl-alpha-D-mannopyranose	115560	QIGJYVCQYDKYDW-LBGGPIGOSA-N	37	6.8		pH 6.8, 37C, recombinant enzyme
+0.0051	5-fluoro-beta-L-gulosyl fluoride	5683	NZFSWPCRLKVZSQ-BYIBVSMXSA-N	37	5.6		pH 5.6, 37C, wild-type GMII
+0.048	2,4-dinitrophenyl alpha-D-mannoside	6450	XAJUPNGKLHFUED-GCHJQGSQSA-N	37	5.6	X	pH 5.6, 37C, D341N mutant GMII
+8.6	2,4-dinitrophenyl alpha-D-mannoside	6450	XAJUPNGKLHFUED-GCHJQGSQSA-N	37	5.6		pH 5.6, 37C, wild-type GMII

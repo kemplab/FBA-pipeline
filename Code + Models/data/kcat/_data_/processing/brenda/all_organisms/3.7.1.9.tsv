@@ -1,0 +1,46 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.002	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate	1533	RDRDHXDYMGUCKE-KXBBGWRGSA-N			X	mutant A129/V227I
+0.01	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate	1533	RDRDHXDYMGUCKE-KXBBGWRGSA-N			X	mutant A129/I199V; mutant A129V
+0.02	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate	1533	RDRDHXDYMGUCKE-KXBBGWRGSA-N			X	mutant I199V; mutant V227I
+0.03	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate	1533	RDRDHXDYMGUCKE-KXBBGWRGSA-N				
+0.037	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate	1533	RDRDHXDYMGUCKE-KXBBGWRGSA-N				wild-type
+0.3	2-hydroxy-6-oxohepta-2,4-dienoate	1921	HVZGWILTESYJSP-ZPYFUIHZSA-N			X	mutant S34A
+1.5	2-hydroxy-6-oxohepta-2,4-dienoate	1921	HVZGWILTESYJSP-ZPYFUIHZSA-N			X	mutant S34G
+6.5	2-hydroxy-6-oxohepta-2,4-dienoate	1921	HVZGWILTESYJSP-ZPYFUIHZSA-N			X	mutant F104M
+18	2-hydroxy-6-oxohepta-2,4-dienoate	1921	HVZGWILTESYJSP-ZPYFUIHZSA-N				
+19	2-hydroxy-6-oxohepta-2,4-dienoate	1921	HVZGWILTESYJSP-ZPYFUIHZSA-N			X	mutant A129/I199V
+19.5	2-hydroxy-6-oxohepta-2,4-dienoate	1921	HVZGWILTESYJSP-ZPYFUIHZSA-N				wild-type
+29	2-hydroxy-6-oxohepta-2,4-dienoate	1921	HVZGWILTESYJSP-ZPYFUIHZSA-N			X	mutant A129/V227I
+35	2-hydroxy-6-oxohepta-2,4-dienoate	1921	HVZGWILTESYJSP-ZPYFUIHZSA-N				
+36.53	2-hydroxy-6-oxohepta-2,4-dienoate	1921	HVZGWILTESYJSP-ZPYFUIHZSA-N	25	7.5		recombinant enzyme, pH 7.5, 25C
+38	2-hydroxy-6-oxohepta-2,4-dienoate	1921	HVZGWILTESYJSP-ZPYFUIHZSA-N			X	mutant I199V
+52	2-hydroxy-6-oxohepta-2,4-dienoate	1921	HVZGWILTESYJSP-ZPYFUIHZSA-N			X	mutant V227I
+57	2-hydroxy-6-oxohepta-2,4-dienoate	1921	HVZGWILTESYJSP-ZPYFUIHZSA-N				
+81	2-hydroxy-6-oxohepta-2,4-dienoate	1921	HVZGWILTESYJSP-ZPYFUIHZSA-N			X	mutant A129V
+1.3	2-hydroxy-6-oxoocta-2,4-dienoate	2245	UYUFTVIQTSWWST-BZDQXIRASA-N			X	mutant S34A
+8.4	2-hydroxy-6-oxoocta-2,4-dienoate	2245	UYUFTVIQTSWWST-BZDQXIRASA-N			X	mutant S34G
+14	2-hydroxy-6-oxoocta-2,4-dienoate	2245	UYUFTVIQTSWWST-BZDQXIRASA-N				
+15.4	2-hydroxy-6-oxoocta-2,4-dienoate	2245	UYUFTVIQTSWWST-BZDQXIRASA-N			X	mutant F104M
+24	2-hydroxy-6-oxoocta-2,4-dienoate	2245	UYUFTVIQTSWWST-BZDQXIRASA-N			X	mutant A129/V227I
+35	2-hydroxy-6-oxoocta-2,4-dienoate	2245	UYUFTVIQTSWWST-BZDQXIRASA-N			X	mutant A129/I199V
+37	2-hydroxy-6-oxoocta-2,4-dienoate	2245	UYUFTVIQTSWWST-BZDQXIRASA-N			X	mutant I199V
+41	2-hydroxy-6-oxoocta-2,4-dienoate	2245	UYUFTVIQTSWWST-BZDQXIRASA-N				
+42.4	2-hydroxy-6-oxoocta-2,4-dienoate	2245	UYUFTVIQTSWWST-BZDQXIRASA-N				wild-type
+75	2-hydroxy-6-oxoocta-2,4-dienoate	2245	UYUFTVIQTSWWST-BZDQXIRASA-N			X	mutant A129V
+78	2-hydroxy-6-oxoocta-2,4-dienoate	2245	UYUFTVIQTSWWST-BZDQXIRASA-N			X	mutant V227I
+0.41	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	2259	OEUMAONYVQQDBW-LHOHZTISSA-N				
+0.73	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	2259	OEUMAONYVQQDBW-LHOHZTISSA-N			X	mutant A129/V227I
+3.3	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	2259	OEUMAONYVQQDBW-LHOHZTISSA-N			X	mutant A129/I199V
+4.55	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	2259	OEUMAONYVQQDBW-LHOHZTISSA-N			X	mutant A129/I199V
+6.4	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	2259	OEUMAONYVQQDBW-LHOHZTISSA-N			X	mutant F104M
+6.7	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	2259	OEUMAONYVQQDBW-LHOHZTISSA-N			X	mutant S34A
+8.1	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	2259	OEUMAONYVQQDBW-LHOHZTISSA-N			X	mutant S34G
+20	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	2259	OEUMAONYVQQDBW-LHOHZTISSA-N			X	mutant V227I
+21	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	2259	OEUMAONYVQQDBW-LHOHZTISSA-N	25	7.5		150 mM phosphate, 25C, pH 7.5
+23.1	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	2259	OEUMAONYVQQDBW-LHOHZTISSA-N				wild-type
+25	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	2259	OEUMAONYVQQDBW-LHOHZTISSA-N			X	mutant A129V
+29	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate	2259	OEUMAONYVQQDBW-LHOHZTISSA-N			X	mutant I199V
+18.2	2-hydroxymuconate-6-semialdehyde	3605	KGLCZTRXNNGESL-REDYYMJGSA-N	25	7.5		recombinant enzyme, pH 7.5, 25C
+42	2-hydroxymuconic semialdehyde	3605	KGLCZTRXNNGESL-REDYYMJGSA-N				
+16	2-hydroxy-5-methylmuconic semialdehyde	10983	ADNFTGVUUFRKSK-JGJYBARTSA-N				
+1.15	2-hydroxy-5-methylmuconate-6-semialdehyde	127254	RCQVZEIXOOIRRL-MQQKCMAXSA-N	25	7.5		recombinant enzyme, pH 7.5, 25C

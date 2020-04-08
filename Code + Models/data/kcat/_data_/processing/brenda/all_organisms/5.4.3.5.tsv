@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.032	D-ornithine	1863	AHLPHDHHMVZTML-SCSAIBSYSA-N	30	7.5	X	recombinant His-tagged mutant E338D, pH 7.5, 30C; recombinant His-tagged mutant E338D, pH 7.5, 30C
+0.3	D-ornithine	1863	AHLPHDHHMVZTML-SCSAIBSYSA-N	25	8.5	X	recombinant mutant H225A, pH 8.5, 25C; recombinant mutant H225A, pH 8.5, 25C
+1	D-ornithine	1863	AHLPHDHHMVZTML-SCSAIBSYSA-N	25	8.5	X	recombinant mutant H225Q, pH 8.5, 25C; recombinant mutant H225Q, pH 8.5, 25C
+2.9	D-ornithine	1863	AHLPHDHHMVZTML-SCSAIBSYSA-N	30	7.5		recombinant His-tagged wild-type enzyme, pH 7.5, 30C; recombinant His-tagged wild-type enzyme, pH 7.5, 30C
+2.9	D-ornithine	1863	AHLPHDHHMVZTML-SCSAIBSYSA-N	25	8.5		recombinant wild-type, pH 8.5, 25C; recombinant wild-type, pH 8.5, 25C
+4.3	D-ornithine	1863	AHLPHDHHMVZTML-SCSAIBSYSA-N	30	7.5	X	recombinant His-tagged mutant E338Q, pH 7.5, 30C; recombinant His-tagged mutant E338Q, pH 7.5, 30C
+6.3	D-ornithine	1863	AHLPHDHHMVZTML-SCSAIBSYSA-N				
+7.6	D-ornithine	1863	AHLPHDHHMVZTML-SCSAIBSYSA-N	30	7.5	X	recombinant His-tagged mutant E338A, pH 7.5, 30C; recombinant His-tagged mutant E338A, pH 7.5, 30C

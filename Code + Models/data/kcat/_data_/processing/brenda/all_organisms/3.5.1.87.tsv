@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.26	N-acetyl-L-methionine	881	XUYPXLNMDZIRQH-LURJTMIESA-N	65	7.5		pH 7.5, 65C, preincubation with CoCl2
+0.08	N-acetyl-L-tyrosine	1368	CAHKINHBCWCHCF-JTQLQIEISA-N	65	7.5		pH 7.5, 65C, preincubation with CoCl2
+0.01	N-acetyl-L-phenylalanine	2051	CBQJSKKFNMDLON-JTQLQIEISA-N	65	7.5		pH 7.5, 65C, preincubation with CoCl2
+27.86	N-acetyl-L-alanine	2128	KTHDTJVBEPMMGL-VKHMYHEASA-N	65	7.5		pH 7.5, 65C, preincubation with CoCl2
+0.9	N-carbamoyl-L-methionine	2892	DEWDMTSMCKXBNP-BYPYZUCNSA-N				
+3.54	N-carbamoyl-L-methionine	2892	DEWDMTSMCKXBNP-BYPYZUCNSA-N	50	9.0		pH 9.0, 50C
+5.32	N-carbamoyl-L-methionine	2892	DEWDMTSMCKXBNP-BYPYZUCNSA-N	65	7.5		pH 7.5, 65C, preincubation with CoCl2
+839.1	N-formyl-L-methionine	3347	PYUSHNKNPOHWEZ-YFKPBYRVSA-N	65	7.5		pH 7.5, 65C, preincubation with CoCl2
+0.08	N-acetyl-L-valine	4881	IHYJTAOFMMMOPX-LURJTMIESA-N	65	7.5		pH 7.5, 65C, preincubation with CoCl2
+6.11	N-carbamoyl-L-alanine	5635	LUSWEUMSEVLFEQ-REOHCLBHSA-N	50	9.0		pH 9.0, 50C
+48.96	N-carbamoyl-L-alanine	5635	LUSWEUMSEVLFEQ-REOHCLBHSA-N	65	7.5		pH 7.5, 65C, preincubation with CoCl2
+0.16	N-carbamoyl-L-phenylalanine	6393	IPWQOZCSQLTKOI-QMMMGPOBSA-N	65	7.5		pH 7.5, 65C, preincubation with CoCl2
+1.46	N-Formyl-L-tyrosine	7220	ROUWPHMRHBMAFE-VIFPVBQESA-N	65	7.5		pH 7.5, 65C, preincubation with CoCl2
+7.56	N-Carbamoyl-glycine	7219	KZVRXPPUJQRGFN-UHFFFAOYSA-N	50	9.0		pH 9.0, 50C
+0.18	N-carbamoyl-L-tyrosine	11040	PNLKYZVGQWCHBH-UHFFFAOYSA-N	65	7.5		pH 7.5, 65C, preincubation with CoCl2
+6.5	N-carbamoyl-L-tyrosine	11040	PNLKYZVGQWCHBH-UHFFFAOYSA-N				
+0.84	N-carbamoyl-L-valine	11041	JDXMIYHOSFNZKO-BYPYZUCNSA-N	65	7.5		pH 7.5, 65C, preincubation with CoCl2
+5.1	N-carbamoyl-L-tryptophan	14103	NWLXJVDJMARXSP-UHFFFAOYSA-N				
+293.5	N-formyl-L-alanine	15611	SRBATDDRZARFDZ-VKHMYHEASA-N	65	7.5		pH 7.5, 65C, preincubation with CoCl2
+12.12	N-formyl-L-phenylalanine	15612	NSTPXGARCQOSAU-VIFPVBQESA-N	65	7.5		pH 7.5, 65C, preincubation with CoCl2
+27.26	N-formyl-L-valine	15613	QBYYLBWFBPAOKU-YFKPBYRVSA-N	65	7.5		pH 7.5, 65C, preincubation with CoCl2
+16.5	N-carbamoyl-L-cysteine	24421	APFSAMXTZRYBKF-REOHCLBHSA-N	50	9.0		pH 9.0, 50C
+16.1	N-carbamoyl-L-thienylalanine	31929	YTSLUCPZKVDDQI-LURJTMIESA-N				
+5	N-formyl-DL-tryptophan	31935	RNEMLJPSSOJRHX-UHFFFAOYSA-N				

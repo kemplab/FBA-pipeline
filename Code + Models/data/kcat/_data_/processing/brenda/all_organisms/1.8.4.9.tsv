@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+8.4	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	30	8.5		30C, pH 8.5
+10.1	dithiothreitol	42	VHJLVAABSRFDPM-QWWZWVQMSA-N	30	8.5		30C, pH 8.5
+0.176	adenosine 5'-phosphosulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N				
+0.00075	3'-phosphoadenosine 5'-phosphosulfate	106	GACDQMDRPRGCTN-KQYNXXCUSA-N				
+0.153	5'-adenylylsulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N	25	8.0		assay conditions: APS reductase (0.00021 mM), PK (8.4 units/ml), LDH (18.0 units/ml), adenylate kinase (10 units/ml), thioredoxin (0.0373 mM), MgCl2 (3.0 mM), DTT (2.0 mM), ATP (1.0 mM), PEP (1.0 mM), EDTA (1.0 mM), GSH (5.0 mM), NADH (0.030 mM), and Hepes (50 mM, pH 8.0), at 25C
+2.1	5'-adenylylsulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N				with glutathione as reductant
+3.4	5'-adenylylsulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N				with DTT as reductant
+56	5'-adenylylsulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N				
+0.012	3'-phosphoadenosine-5'-phosphosulfate	106	GACDQMDRPRGCTN-KQYNXXCUSA-N	25	8.0		assay conditions: APS reductase (0.0009 mM), EST (0.10 unit/ml), thioredoxin (0.037 mM), MgCl2 (3.0 mM), DTT (2.0 mM), pNPS (10 mM), GSH (5.0 mM), and Hepes (50 mM, pH 8.0), at 25C
+8.4	5'-adenylyl sulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N	30	8.5		30C, pH 8.5, cosubstrate: dithiothreitol
+11.3	5'-adenylyl sulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N	30	8.5		30C, pH 8.5, cosubstrate: glutathione

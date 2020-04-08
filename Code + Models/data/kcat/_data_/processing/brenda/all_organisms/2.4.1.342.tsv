@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+39	alpha-D-glucose-1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	37	7.0		with 0.1 mM ADP-alpha-D-glucose, at pH 7.0 and 37C
+80.6	alpha-D-glucose-1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	37	7.0		with 4.0 mM ADP-alpha-D-glucose, at pH 7.0 and 37C
+97.9	alpha-D-glucose-1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	37	7.0		with 0.5 mM ADP-alpha-D-glucose, at pH 7.0 and 37C
+15.4	ADP-alpha-D-glucose	493	WFPZSXYXPSUOPY-ROYWQJLOSA-N	37	7.0		with 4.0 mM alpha-D-glucose-1-phosphate, at pH 7.0 and 37C
+19.8	ADP-alpha-D-glucose	493	WFPZSXYXPSUOPY-ROYWQJLOSA-N	37	7.0		with 2.5 mM alpha-D-glucose-1-phosphate, at pH 7.0 and 37C
+20	ADP-alpha-D-glucose	493	WFPZSXYXPSUOPY-ROYWQJLOSA-N	37	7.0		with 0.25 mM alpha-D-glucose-1-phosphate, at pH 7.0 and 37C
+29.2	ADP-alpha-D-glucose	493	WFPZSXYXPSUOPY-ROYWQJLOSA-N	37	7.0		with 1.0 mM alpha-D-glucose-1-phosphate, at pH 7.0 and 37C

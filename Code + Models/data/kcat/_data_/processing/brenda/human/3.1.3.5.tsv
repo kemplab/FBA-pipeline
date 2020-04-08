@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+19	Inosine	154	UGQMRVRMYYASKQ-KQYNXXCUSA-N		7.4		presence of 0.4 mM 2,3-bisphosphoglycerate, Tris-buffer, pH 7.4
+22	Inosine	154	UGQMRVRMYYASKQ-KQYNXXCUSA-N		7.4		presence of 2 mM ATP, Tris-buffer, pH 7.4
+187	5'-AMP	9	UDMBCSSLTHHNCD-KQYNXXCUSA-N	37			37C, pH not specified in the publication
+289	5'-UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N	37			37C, pH not specified in the publication
+132	5'-GMP	150	RQFCJASXJCIDSX-UUOKFMHZSA-N	37			37C, pH not specified in the publication
+104	5'-IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	37			37C, pH not specified in the publication
+0.023	ribavirin	991	IWUCXVSUMQZMFG-AFCXAGJDSA-N		7.4		presence of 2 mM ATP, phosphate-buffered saline, pH 7.4
+0.027	ribavirin	991	IWUCXVSUMQZMFG-AFCXAGJDSA-N		7.4		presence of 0.4 mM 2,3-bisphosphoglycerate, Tris-buffer, pH 7.4
+0.067	ribavirin	991	IWUCXVSUMQZMFG-AFCXAGJDSA-N		7.4		presence of 0.4 mM 2,3-bisphosphoglycerate, PBS-buffer, pH 7.4
+0.15	ribavirin	991	IWUCXVSUMQZMFG-AFCXAGJDSA-N		7.4		presence of 2 mM ATP, Tris-buffer, pH 7.4
+202	5'-CMP	94	IERHLVCPSMICTF-XVFCMESISA-N	37			37C, pH not specified in the publication
+174	5'-dAMP	575	KHWCHTKSEGGWEX-RRKCRQDMSA-N	37			37C, pH not specified in the publication
+40	5'-TMP	518	GYOZYWVXFNDGLU-XLPZGREQSA-N	37			37C, pH not specified in the publication

@@ -1,0 +1,1242 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.01	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	120	7.0	X	below, mutant D120C, pH 7.0, 25C; below, mutant D120S, pH 7.0, 25C
+0.32	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	166	7.0	X	mutant E166C, carrying 6-bromoacetyl-2-dimethylaminonaphthalene label, pH 7.0, 22C
+0.4	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				wild-type enzyme
+0.61	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme D170N
+0.75	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme K232N
+0.8	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	pH and temperature not specified in the publication, mutant enzyme N166A/N170G
+2	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+2.1	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	166	7.0	X	mutant E166C, pH 7.0, 22C
+9.33	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N		6.4		in 100 mM MES (pH 6.4)
+12.3	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25		X	mutant R61H/E64H/43H, 25C, pH not specified in the publication
+23	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme P51L
+23	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+23	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+24.8	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25		X	mutant M182T/T195S/A224V, 25C, pH not specified in the publication
+26	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				wild-type enzyme
+27	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		pH 7.0, 30C
+31	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				pH and temperature not specified in the publication
+33	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme K104E
+34	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N		6.8		at 40?C in 50 mM HEPES buffer (pH 6.8)
+45	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.0	X	mutant D120N, pH 7.0, 25C
+45	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	pH and temperature not specified in the publication, mutant enzyme N170A
+46	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				beta-lactamase D
+64	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	pH and temperature not specified in the publication, mutant enzyme N170G
+110	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+118	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.0		lactamase CoCo-L1, 25C, pH 7.0
+129	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25			wild-type, 25C, pH not specified in the publication
+156	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				beta-lactamase B
+171	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				beta-lactamase A
+200	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme S164R
+210	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				beta-lactamase C
+280	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+410	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+418	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				; VIM-1
+430	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0	X	pH 7.0, 30C, mutant R234K
+600	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.0		wild-type enzyme, pH 7.0, 25C
+628	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.0		pH 7.0, 25C
+692	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.0		lactamase ZnCo-L1, 25C, pH 7.0
+757	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				; VIM-13
+761	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.0		lactamase ZnZn-L1, 25C, pH 7.0
+890	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		pH 7.0, 30C, wild-type enzyme
+950	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				pH and temperature not specified in the publication, wild-type enzyme
+1570	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+2612	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	22	7.0		wild-type, pH 7.0, 22C
+0.01	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	120	7.0	X	below, mutant D120C, pH 7.0, 25C; below, mutant D120S, pH 7.0, 25C
+0.0126	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7	X	mutant enzyme W154G, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+0.06	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.0		30C, pH 7.0
+0.06	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.0		30C, pH 7.0; 30C, pH 7.0; in 20 mM phosphate buffer, (pH 7.0) at 30C; in 20 mM phosphate buffer, (pH 7.0) at 30C; in 20 mM phosphate buffer, (pH 7.0) at 30C
+0.065	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.0		30C, pH 7.0
+0.07	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7	X	mutant enzyme W154A, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+0.132	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7	X	mutant enzyme W154G, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+0.133	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+0.17	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+0.43	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	37	7.0		37C, pH 7.0
+0.46	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.0		at 30C in 50 mM sodium phosphate buffer (pH 7.0)
+0.53	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+0.54	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				wild-type enzyme
+0.55	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC2e, beta-lactamase MIR-1; 30C, pH 7.0, plasmid-encoded, pBC3e, beta-lactamase CMY-1; 30C, pH 7.0, plasmid-encoded, pBC4e, beta-lactamase CMY-2
+0.63	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.0		pH 7.0, 30C
+0.65	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+0.9	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N			X	pH and temperature not specified in the publication, mutant enzyme N166A/N170G
+1	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC1e, beta-lactamase ACT-1
+1	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+1	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30			30C, pH not specified in the publication
+1.1	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+1.4	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7	X	mutant enzyme W154A, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+1.42	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N			X	mutant enzyme K232N
+2.12	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N			X	mutant enzyme D170N
+2.4	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7.0	X	TEM-149 mutant T182M, pH 7.0, 25C
+2.4	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7	X	mutant enzyme W154F, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+3	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7	X	mutant enzyme W154H, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+3.2	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N			X	mutant enzyme P51L
+3.3	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7.0		25C, pH 7.0
+3.3	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7.2		pH 7.2, 25C
+5	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+5	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.0		pH 7.0, 30C
+5.3	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N		7.4		His6-tagged wild type OXA-1, pH 7.4, room temperature
+5.4	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7.0		TEM-149 wild-type, pH 7.0, 25C
+5.9	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				beta-lactamases CTX-M-25
+6	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+6.6	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7.0		at 25C in 100 mM sodium phosphate (pH 7.0)
+6.7	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N		7.4		wild type OXA-1, pH 7.4, room temperature
+7	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7.0		in 0.01 M phosphate buffer (pH 7.0), at 25C
+8	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.0		30C, pH 7.0
+9.5	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7.0		pH 7.0, 25C
+10.3	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N		6.5		in 30 mM sodium cacodylate buffer (pH 6.5) plus 0.05 mM ZnSO4
+10.6	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N		7.4	X	D66Y mutant, pH 7.4, room temperature
+11	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N		6.4		in 100 mM MES (pH 6.4)
+12	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				beta-lactamases CTX-M-26
+13	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N		7.4	X	D66A mutant, pH 7.4, room temperature
+14	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+18	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				wild-type enzyme
+18	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+18	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7	X	mutant enzyme W154H, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+18.5	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30			; at 30C
+19	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+22	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N			X	pH and temperature not specified in the publication, mutant enzyme N170A
+32	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				enzyme 2, BRO-2
+33	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				enzyme 1, BRO-1
+36.9	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	37	7.0		37C, pH 7.0
+43	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N		7.4	X	D66M mutant, pH 7.4, room temperature
+45	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30			30C; at 30C
+56	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N		7.4	X	D66W mutant, pH 7.4, room temperature
+65	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.5		pH 7.5, 30C
+67	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				; VIM-13
+70	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.0		30C, pH 7.0
+75	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+77	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7.0	X	mutant D120N, pH 7.0, 25C
+77	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+82	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	37	7.5		pH 7.5, 37C
+133	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				beta-lactamase D
+146	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N			X	mutant enzyme S164R
+155	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7.0		at 25C in 50 mM sodium phosphate (pH 7.0)
+160	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7		wild-type, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+190	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+190	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+190	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30			pH not specified in the publication, 30C, recombinant enzyme
+210	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7.0		pH 7.0, 25C
+220	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7		wild-type, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+273	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+307	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				; VIM-1
+308	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				beta-lactamase A
+355	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				beta-lactamase C
+357	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				pH and temperature not specified in the publication
+357	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				pH and temperature not specified in the publication, OXA-1 beta-lactamase
+408	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+412	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				beta-lactamase B
+447	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+467	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N			X	pH and temperature not specified in the publication, mutant enzyme N170G
+477	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+480	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.5		30C, pH 7.5
+480	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N		7.4	X	D66N mutant, pH 7.4, room temperature
+520	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7.0		wild-type enzyme, pH 7.0, 25C
+520	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N		7.4		wild type, pH 7.4, room temperature
+550	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+560	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				; enzyme diluted in HEPES buffer containing 50 microM ZnCl2 supplemented with bovine serum albumin
+580	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+724	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+840	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.0	X	pH 7.0, 30C, mutant R234K
+900	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+955	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.0		pH 7.0, 30C
+989	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	22	7.4		pH 7.4, 22C, wild-type enzyme SHV-1
+1040	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+1085	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				pH and temperature not specified in the publication, wild-type enzyme
+1090	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+1170	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.0		pH 7.0, 30C, wild-type enzyme
+1375	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+2240	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+3100	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	22	7.4		pH 7.4, 22C, wild-type enzyme SHV-1
+5400	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+0.0002	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	6.5	X	D120T mutant, 30C, pH 6.5
+0.0024	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	6.5	X	D120A mutant, 30C, pH 6.5
+0.003	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	6.5	X	H263A mutant, 30C, pH 6.5
+0.004	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	6.5	X	V67D mutant, 30C, pH 6.5; V67I mutant, 30C, pH 6.5
+0.005	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	6.5	X	H118A mutant, 30C, pH 6.5; V67A mutant, 30C, pH 6.5
+0.006	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	6.5	X	above, V67LFKHV mutant, 30C, pH 6.5; H196A mutant, 30C, pH 6.5
+0.007	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	6.5	X	K224Q mutant, 30C, pH 6.5
+0.008	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	6.5		wild-type, 30C, pH 6.5
+0.01	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	6.5	X	K226Q mutant, 30C, pH 6.5
+0.015	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	6.5	X	T157A mutant, 30C, pH 6.5
+0.028	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.0	X	mutant D120S, pH 7.0, 25C
+0.06	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.0		pH 7.0, 25C
+0.0667	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				
+0.18	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	120	7.0	X	mutant D120C, pH 7.0, 25C
+0.2	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	6.5	X	N116H/N220G/K224Q mutant, 30C, pH 6.5
+0.27	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N			X	mutant enzyme D120A
+0.4	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	7.0		30C, pH 7.0
+0.55	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N			X	mutant enzyme D120E
+0.6	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7	X	mutant enzyme W154A, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+0.7	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	6.5	X	N116H/N220G mutant, 30C, pH 6.5
+1	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7	X	mutant enzyme W154H, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+2	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7	X	mutant enzyme W154F, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+2.5	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7	X	mutant enzyme W154H, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+2.54	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.0	X	mutant D120N, pH 7.0, 25C
+2.6	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				lactamase 1Fe-L1, 0.9 Co(2+), 0.20 Zn(2+)
+3	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.0		lactamase NiZn-L1, 25C, pH 7.0
+4	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7	X	mutant enzyme W154G, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+4.17	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N			X	mutant enzyme D120E, 1 mM Zn(NO3)2 added
+4.4	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N		6.5		in 30 mM sodium cacodylate buffer (pH 6.5) plus 0.05 mM ZnSO4
+5	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				wild-type enzyme
+5.8	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.0		25C, pH 7.0
+6	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7	X	mutant enzyme W154A, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+6.3	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	37	7.2		pH 7.2, 37C, recombinant enzyme
+7.4	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.0		TEM-149 wild-type, pH 7.0, 25C
+7.5	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N			X	mutant enzyme D120A, 1 mM Zn(NO3)2 added
+8	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N			X	mutant enzyme P51L
+8	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7	X	mutant enzyme W154G, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+11	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	1			lactamase 1Co-L1, 0.9 Co(2+), 0.10 Zn(2+)
+13.7	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				beta-lactamase C
+15	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+16.5	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				beta-lactamase B
+17	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				
+20	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				lactamase ZnFe-L1, 1.0 Zn(2+), 1.0 Fe(3+)
+23.2	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				beta-lactamase A
+24	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	8.0		30C, pH 8.0
+24	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.0		lactamase Ni-L1, 25C, pH 7.0
+24	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				lactamase ZnFe-L1, 1.2 Zn(2+), 0.9 Fe(3+)
+25.6	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				beta-lactamase D
+26	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.0	X	TEM-149 mutant T182M, pH 7.0, 25C
+26	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				lactamase ZnCo-L1, 1.0 Zn(2+), 1.0 Co(2+)
+29	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.0		in 0.01 M phosphate buffer (pH 7.0), at 25C
+29.7	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N			X	mutant enzyme K232N
+30	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				lactamase 1Zn-L1, 1.0 Zn(2+)
+30	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+31	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				
+33	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+34	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				
+38	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+39	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				lactamase ZnZn-L1, 2.0 Zn(2+) added
+41	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.0		wild-type enzyme, pH 7.0, 25C
+44	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+49	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+50	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	22	7.4	X	pH 7.4, 22C, T237S mutant enzyme
+52	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	22	7.4		pH 7.4, 22C, wild-type enzyme
+55	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	7.5		pH 7.5, 30C
+63	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				wild-type enzyme
+63	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				lactamase CoCo-L1, 1.80 Co(2+)
+65	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+72	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	7.0		pH 7.0, 30C
+79.5	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N			X	mutant enzyme D170N
+93	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	7.0		30C, pH 7.0
+96	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.0		lactamase Cu-L1, 25C, pH 7.0
+96	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				pH and temperature not specified in the publication
+96	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				pH and temperature not specified in the publication, OXA-1 beta-lactamase
+100	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	7.0		30C, pH 7.0
+107	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				
+111.3	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N		6.4		in 100 mM MES (pH 6.4)
+115	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				
+129	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				
+135	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.5		pH 7.5, 25C
+137	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	22	7.4		pH 7.4, 22C, wild-type enzyme SHV-1
+151	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				enzyme 1, BRO-1
+176	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N			X	mutant enzyme K104E
+191	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	22	7.4	X	pH 7.4, 22C, T237A mutant enzyme
+200	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				
+225	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				
+233	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				enzyme 2, BRO-2
+237	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	22	7.4		pH 7.4, 22C, wild-type enzyme SHV-1
+252	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	37	7.0		37C, pH 7.0
+330	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				; enzyme diluted in HEPES buffer containing 50 microM ZnCl2 supplemented with bovine serum albumin
+360	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	7.0		in 50 mM phosphate buffer (pH 7.0), at 30C
+400	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC1e, beta-lactamase ACT-1
+466.7	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				wild-type enzyme
+535	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				wild-type enzyme
+550	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+570	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				
+600	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N			X	mutant enzyme S164R
+690	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7.0		pH 7.0, 25C
+765	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC2e, beta-lactamase MIR-1; 30C, pH 7.0, plasmid-encoded, pBC4e, beta-lactamase CMY-2
+780	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+940	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	7.0		pH 7.0, 30C
+1090	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				
+1240	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	7.0		at 30C in 50 mM sodium phosphate buffer (pH 7.0)
+1300	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7		wild-type, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+1407	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+1410	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				
+1500	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N				
+1700	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	25	7		wild-type, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+2220	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC3e, beta-lactamase CMY-1
+0.004	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	6.5	X	K226Q mutant, 30C, pH 6.5; V67A mutant, 30C, pH 6.5
+0.007	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	6.5	X	H118A mutant, 30C, pH 6.5
+0.0074	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		30C, pH 7.0
+0.03	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	6.5	X	above, K224Q mutant, 30C, pH 6.5; above, V67D mutant, 30C, pH 6.5; wild-type, 30C, pH 6.5
+0.04	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7	X	mutant enzyme W154G, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+0.08	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	6.5	X	V67I mutant, 30C, pH 6.5
+0.08	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7	X	mutant enzyme W154A, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+0.1	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		in 100 mM Tris-H2SO4, 300 mM K2SO4 (pH 7.0), at 30C
+0.1	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	6.5	X	above, H196A mutant, 30C, pH 6.5
+0.13	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	6.5	X	N116H/N220G/K224Q mutant, 30C, pH 6.5
+0.13	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7	X	mutant enzyme W154G, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+0.17	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme D120A, 1 mM Zn(NO3)2 added
+0.2	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		30C, pH 7.0
+0.53	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme D120A
+0.533	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+0.7	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7	X	mutant enzyme W154A, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+1	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	6.5	X	T157A mutant, 30C, pH 6.5
+1.2	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+1.5	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7	X	mutant enzyme W154H, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+2.5	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7	X	mutant enzyme W154F, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+3	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		30C, pH 7.0
+3.3	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	6.5	X	N116H/N220G mutant, 30C, pH 6.5
+3.5	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.0		TEM-149 wild-type, pH 7.0, 25C
+4	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		30C, pH 7.0
+4	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7	X	mutant enzyme W154H, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+4.9	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.0		at 25C in 100 mM sodium phosphate (pH 7.0)
+10	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.0		in 0.01 M phosphate buffer (pH 7.0), at 25C
+10.5	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.0	X	TEM-149 mutant T182M, pH 7.0, 25C
+10.92	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N		6.5		in 30 mM sodium cacodylate buffer (pH 6.5) plus 0.05 mM ZnSO4
+11	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30			30C, pH not specified in the publication
+13	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC3e, beta-lactamase CMY-1
+14	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC2e, beta-lactamase MIR-1; 30C, pH 7.0, plasmid-encoded, pBC4e, beta-lactamase CMY-2
+18	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+20	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+20	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+33	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				beta-lactamases CTX-M-25
+34.3	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+40	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				enzyme 1, BRO-1
+41	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				enzyme 2, BRO-2
+45	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		at 30C in 100 mM sodium phosphate (pH 7.0)
+45	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		30C, pH 7.0
+48	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		in 50 mM phosphate buffer (pH 7.0), at 30C
+54	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.5		pH 7.5, 30C
+55	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC1e, beta-lactamase ACT-1
+75	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		at 30C in 50 mM sodium phosphate buffer (pH 7.0)
+85	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7		wild-type, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+97	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7		at 30C in 100 mM sodium phosphate (pH 7)
+110	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		30C, pH 7.0
+113	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+120	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7		wild-type, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+130	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		30C, pH 7.0
+135	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+260	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+317	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		at 30C in 100 mM sodium phosphate buffer, pH 7.0
+345	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+420	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				beta-lactamases CTX-M-26
+430	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+473	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+650	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				wild-type enzyme
+650	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.0		pH 7.0, 25C
+770	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+782	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+830	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30			30C
+1010	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+1160	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	22	7.0		pH 7.0, 22C, wild-type enzyme
+1350	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+1400	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		pH 7.0, 30C
+2000	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	22	7.0	X	pH 7.0, 22C, mutant enzyme G240H
+2200	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+2650	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+0.0023	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7	X	mutant enzyme W154G, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+0.003	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7	X	mutant enzyme W154A, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate; mutant enzyme W154G, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+0.004	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		30C, pH 7.0
+0.00667	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				beta-lactamase D
+0.012	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7	X	mutant enzyme W154A, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+0.0167	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				beta-lactamase A
+0.1	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				beta-lactamase B; beta-lactamase C
+0.1	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7	X	mutant enzyme W154H, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+0.15	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N		7.4	X	D66W mutant, pH 7.4, room temperature
+0.15	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7	X	mutant enzyme W154H, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+0.2	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30			30C, pH not specified in the publication
+0.27	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N		7.4	X	D66A mutant, pH 7.4, room temperature
+0.28	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				wild-type enzyme
+0.28	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N		7.4	X	D66Y mutant, pH 7.4, room temperature
+0.31	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	120	7.0	X	mutant D120C, pH 7.0, 25C
+0.37	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7.0	X	mutant D120S, pH 7.0, 25C
+0.38	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N		7.4	X	D66M mutant, pH 7.4, room temperature
+0.5	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		in 100 mM Tris-H2SO4, 300 mM K2SO4 (pH 7.0), at 30C
+0.6	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		30C, pH 7.0
+0.65	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N			X	mutant enzyme K232N
+0.86	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N			X	mutant enzyme D170N
+1.6	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N		7.4	X	D66N mutant, pH 7.4, room temperature
+2	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7		wild-type, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+2.5	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7		wild-type, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+2.7	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N		7.4		wild type, pH 7.4, room temperature
+4.1	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30			30C; at 30C
+4.6	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				enzyme 2, BRO-2
+4.9	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				enzyme 1, BRO-1
+6	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		30C, pH 7.0; in 20 mM phosphate buffer, (pH 7.0) at 30C
+8	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7	X	mutant enzyme W154F, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+8.1	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7.0	X	mutant D120N, pH 7.0, 25C
+10	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N			X	mutant AmpC-B2-S287N
+10	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	22	7.4		pH 7.4, 22C, wild-type enzyme SHV-1
+11	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				GC1 beta-lactamase
+12.1	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30			; at 30C
+14	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		30C, pH 7.0; in 20 mM phosphate buffer, (pH 7.0) at 30C
+14	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	22	7.4		pH 7.4, 22C, wild-type enzyme SHV-1
+16	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7.0		25C, pH 7.0
+19	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				
+22	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7		at 30C in 100 mM sodium phosphate (pH 7)
+26	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	22	7.4	X	pH 7.4, 22C, T237A mutant enzyme
+31	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N			X	pH and temperature not specified in the publication, mutant enzyme N170G
+38	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				
+41	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				
+44	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	22	7.4		pH 7.4, 22C, wild-type enzyme
+44	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		pH 7.0, 30C
+49.7	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		at 30C in 100 mM sodium phosphate buffer, pH 7.0
+56	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7.0		in 0.01 M phosphate buffer (pH 7.0), at 25C
+60	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30			pH not specified in the publication, 30C, recombinant enzyme
+63	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	22	7.0	X	pH 7.0, 22C, mutant enzyme G240H
+65	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				
+65	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N			X	mutant AmpC-A-S287N
+65	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	22	7.4	X	pH 7.4, 22C, T237S mutant enzyme
+74.8	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7.5		pH 7.5, 25C, strain GCI
+77	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	22	7.0		pH 7.0, 22C, wild-type enzyme
+81	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				
+82	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7.0		wild-type enzyme, pH 7.0, 25C
+118	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				
+140	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		30C, pH 7.0; in 20 mM phosphate buffer, (pH 7.0) at 30C
+146	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				pH and temperature not specified in the publication, wild-type enzyme
+150	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		30C, pH 7.0
+160	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC2e, beta-lactamase MIR-1; 30C, pH 7.0, plasmid-encoded, pBC4e, beta-lactamase CMY-2
+180	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				
+185	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	37	7.0		37C, pH 7.0
+230	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				beta-lactamases CTX-M-25
+240	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				
+280	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7.0		at 25C in 50 mM sodium phosphate (pH 7.0)
+300	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		30C, pH 7.0
+400	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		at 30C in 100 mM sodium phosphate (pH 7.0)
+400	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		30C, pH 7.0
+449	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				; VIM-1
+460	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC1e, beta-lactamase ACT-1
+470	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		pH 7.0, 30C
+480	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC3e, beta-lactamase CMY-1
+500	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				wild-type AmpC-A
+530	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				beta-lactamases CTX-M-26
+540	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				wild-type AmpC-B2
+543	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				pH and temperature not specified in the publication
+656	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				; VIM-13
+690	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7.5		P99 beta-lactamase; pH 7.5, 25C, strain P99
+2820	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				
+7150	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				
+0.00024	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.0		in 0.01 M phosphate buffer (pH 7.0), at 25C
+0.002	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC3e, beta-lactamase CMY-1
+0.003	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	7.0		in 50 mM phosphate buffer (pH 7.0), at 30C
+0.011	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC1e, beta-lactamase ACT-1
+0.012	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC2e, beta-lactamase MIR-1
+0.02	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	6.5	X	H263A mutant, 30C, pH 6.5
+0.024	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	6.5	X	D120A mutant, 30C, pH 6.5
+0.025	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	6.5	X	D120T mutant, 30C, pH 6.5
+0.028	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N		6.8		at 40?C in 50 mM HEPES buffer (pH 6.8)
+0.033	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC4e, beta-lactamase CMY-2
+0.06	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	7		at 30C in 100 mM sodium phosphate (pH 7)
+0.06	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N			X	mutant AmpC-A-S287N; mutant AmpC-B2-S287N
+0.07	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	7.0		30C, pH 7.0; 30C, pH 7.0; in 20 mM phosphate buffer, (pH 7.0) at 30C; in 20 mM phosphate buffer, (pH 7.0) at 30C
+0.09	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N				wild-type AmpC-B2
+0.09	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30			30C, pH not specified in the publication
+0.1	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	7.0		30C, pH 7.0
+0.1	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	7.0		30C, pH 7.0
+0.1	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	7.0		30C, pH 7.0
+0.1	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N				wild-type AmpC-A
+0.1	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	7.0		30C, pH 7.0
+0.11	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	7.0		30C, pH 7.0; in 20 mM phosphate buffer, (pH 7.0) at 30C
+0.167	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N		6.4		in 100 mM MES (pH 6.4)
+0.36	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	120	7.0	X	mutant D120C, pH 7.0, 25C
+0.63	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.0	X	mutant D120S, pH 7.0, 25C
+0.9	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	6.5	X	N116H/N220G/K224Q mutant, 30C, pH 6.5
+1.2	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	7.0		at 30C in 100 mM sodium phosphate buffer, pH 7.0
+1.7	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.2		pH 7.2, 25C
+2.03	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N			X	mutant enzyme D120A
+2.4	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	6.5	X	H118A mutant, 30C, pH 6.5
+3.17	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N			X	mutant enzyme D120A, 1 mM Zn(NO3)2 added
+3.4	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N				; VIM-1
+3.5	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N				
+3.7	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N			X	mutant enzyme D120E
+4.8	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	7.0		pH 7.0, 30C
+6.8	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	22	7.4	X	pH 7.4, 22C, T237A mutant enzyme
+7.28	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N		6.5		in 30 mM sodium cacodylate buffer (pH 6.5) plus 0.05 mM ZnSO4
+8	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	37	7.2		pH 7.2, 37C, recombinant enzyme
+12	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.0		lactamase ZnCo-L1, 25C, pH 7.0
+13	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.0		lactamase ZnZn-L1, 25C, pH 7.0
+15	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.0	X	mutant D120N, pH 7.0, 25C
+15	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N				
+16	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	6.5	X	H196A mutant, 30C, pH 6.5; N116H/N220G mutant, 30C, pH 6.5
+17	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	7.5		pH 7.5, 30C
+19	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	22	7.4		pH 7.4, 22C, wild-type enzyme
+20	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N				
+21	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	22	7.4	X	pH 7.4, 22C, T237S mutant enzyme
+27	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.0		25C, pH 7.0
+30	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	6.5	X	above, V67LFKHV mutant, 30C, pH 6.5
+43	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.0		lactamase CoCo-L1, 25C, pH 7.0
+45	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N				
+49	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N		9.0		wild type enzyme, at pH 9.0
+51	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.0		pH 7.0, 25C
+54	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.0		at 25C in 50 mM sodium phosphate (pH 7.0)
+54	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N				; VIM-13
+54	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+59	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.0		lactamase ZnFe-L1, 25C, pH 7.0
+70	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.0		pH 7.0, 25C
+71	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N				
+100	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N				
+100	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N				
+120	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	7.5		30C, pH 7.5
+120	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	37	7.5		pH 7.5, 37C
+123.3	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N				wild-type enzyme
+127	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+140	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N		8.0		wild type enzyme, at pH 8.0
+160	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N				
+166	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.0		lactamase ZnNi-L1, 25C, pH 7.0
+205	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.0		lactamase Cu-L1, 25C, pH 7.0
+210	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N		7.0		wild type enzyme, at pH 7.0
+214	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N				; enzyme diluted in HEPES buffer containing 50 microM ZnCl2 supplemented with bovine serum albumin
+240	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N				
+252	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+292	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	152	7.0	X	E152C mutant, pH 7.0, 25C
+295	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.0		spin-labeled enzyme, pH 7.0, 25C
+312	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30			pH not specified in the publication, 30C, recombinant enzyme
+332	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+350	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N				
+355	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+370	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.0		wild-type enzyme, pH 7.0, 25C
+390	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	6.5	X	30C, pH 6.5, mutant enzyme N220G
+490	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	6.5	X	above, K224Q mutant, 30C, pH 6.5
+600	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+757	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+1000	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	6.5	X	K226Q mutant, 30C, pH 6.5; V67A mutant, 30C, pH 6.5
+1040	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N				
+1200	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	6.5		30C, pH 6.5, wild-type enzyme
+1200	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	6.5		wild-type, 30C, pH 6.5
+1280	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	6.5	X	V67D mutant, 30C, pH 6.5
+1680	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	6.5	X	T157A mutant, 30C, pH 6.5
+1770	Imipenem	323	RIYMHVQUYUJEFP-NGDGXVTOSA-N	30	6.5	X	V67I mutant, 30C, pH 6.5
+0.0002	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	6.5		above, wild-type, 30C, pH 6.5
+0.0006	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	6.5	X	K226Q mutant, 30C, pH 6.5
+0.001	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	6.5	X	K224Q mutant, 30C, pH 6.5
+0.004	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC4e, beta-lactamase CMY-2
+0.01	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC3e, beta-lactamase CMY-1
+0.015	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	6.5	X	N116H/N220G/K224Q mutant, 30C, pH 6.5
+0.015	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	7.0		pH 7.0, 30C
+0.023	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	6.5	X	T157A mutant, 30C, pH 6.5
+0.032	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	7.0		30C, pH 7.0; in 20 mM phosphate buffer, (pH 7.0) at 30C
+0.045	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N			X	mutant AmpC-B2-S287N
+0.05	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC1e, beta-lactamase ACT-1
+0.07	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	7.0		in 20 mM phosphate buffer, (pH 7.0) at 30C
+0.07	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	25	7.0		TEM-149 wild-type, pH 7.0, 25C
+0.08	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N			X	mutant AmpC-A-S287N
+0.09	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	7.0		in 20 mM phosphate buffer, (pH 7.0) at 30C
+0.1	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				wild-type AmpC-B2
+0.183	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				
+0.2	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				wild-type AmpC-A
+0.3	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	7.0		at 30C in 100 mM sodium phosphate (pH 7.0)
+0.3	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	7.0		30C, pH 7.0
+0.3	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	6.5	X	N116H/N220G mutant, 30C, pH 6.5
+0.31	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N		7.4	X	D66M mutant, pH 7.4, room temperature
+0.37	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	37	7.0		37C, pH 7.0
+0.37	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N		7.4	X	D66A mutant, pH 7.4, room temperature
+0.41	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	25	7.5		P99 beta-lactamase; pH 7.5, 25C, strain P99
+0.41	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	25	7.0	X	TEM-149 mutant T182M, pH 7.0, 25C
+0.45	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N			X	mutant enzyme S164R
+0.7	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	7.5		pH 7.5, 30C
+0.71	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N		7.4	X	D66Y mutant, pH 7.4, room temperature
+0.74	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	22	7.0		pH 7.0, 22C, wild-type enzyme
+1.1	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	25	7.0		25C, pH 7.0
+1.5	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				wild-type enzyme
+1.53	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N		6.5		in 30 mM sodium cacodylate buffer (pH 6.5) plus 0.05 mM ZnSO4
+2.7	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC2e, beta-lactamase MIR-1
+2.7	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	22	7.0	X	pH 7.0, 22C, mutant enzyme G240H
+2.9	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	7.0		at 30C in 100 mM sodium phosphate buffer, pH 7.0
+3	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	7.0		pH 7.0, 30C
+3.3	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	25	7.0		in 0.01 M phosphate buffer (pH 7.0), at 25C
+3.5	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N		7.4	X	D66N mutant, pH 7.4, room temperature
+5.3	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N		7.4		wild type, pH 7.4, room temperature
+8.3	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	25	7.0		at 25C in 50 mM sodium phosphate (pH 7.0)
+9.2	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				
+20	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	7.0		30C, pH 7.0
+21	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	25		X	R276G mutant, 25C
+22	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	7		at 30C in 100 mM sodium phosphate (pH 7)
+24	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				
+25	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				
+30	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	7.0		30C, pH 7.0
+33	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	37	7.5		pH 7.5, 37C
+39	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				
+41.3	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				
+43	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	22	7.4	X	pH 7.4, 22C, T237S mutant enzyme
+44	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	25		X	R276S mutant, 25C
+52	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				
+56	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				
+56	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				
+56	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30			pH not specified in the publication, 30C, recombinant enzyme
+62	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	25	7.5		GC1 beta-lactamase; pH 7.5, 25C, strain GCI
+80	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	7.5		30C, pH 7.5
+91	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	276		X	R276C mutant, 25C
+92	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	25		X	R276W mutant, 25C
+101	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				beta-lactamases CTX-M-25
+107	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	25		X	R276N mutant, 25C
+120	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				beta-lactamases CTX-M-26
+120	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	25		X	R276H mutant, 25C
+140	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				
+140	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	25			CTX-M-1 wild type, 25C
+142	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	22	7.4		pH 7.4, 22C, wild-type enzyme
+197	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	37	7.0		37C, pH 7.0
+204	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				; VIM-1
+250	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				
+286	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				
+398	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				; enzyme diluted in HEPES buffer containing 50 microM ZnCl2 supplemented with bovine serum albumin
+440	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N		7.4		wild type OXA-1, pH 7.4, room temperature
+452	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				pH and temperature not specified in the publication
+520	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N		7.4		His6-tagged wild type OXA-1, pH 7.4, room temperature
+612	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				; VIM-13
+920	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				
+1400	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N	30	7.0		in 50 mM phosphate buffer (pH 7.0), at 30C
+2181	cefotaxime	349	GPRBEKHLDVQUJE-VINNURBNSA-N				
+0.2	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N				
+4.7	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N				enzyme 2, BRO-2
+5	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N				enzyme 1, BRO-1
+17.83	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N		6.4		in 100 mM MES (pH 6.4)
+33	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N				
+280	cephalosporin C	398	HOKIDJSKDBPKTQ-GLXFQSAKSA-N				
+0.002	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	25	7	X	mutant enzyme W154G, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+0.0035	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N			X	mutant enzyme D120A, 1 mM Zn(NO3)2 added
+0.0036	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	25	7	X	mutant enzyme W154G, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+0.004	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	25	7	X	mutant enzyme W154A, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+0.006	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	30	6.5	X	below, wild-type, 30C, pH 6.5; K226Q mutant, 30C, pH 6.5
+0.01	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	30	6.5	X	above, H118A mutant, 30C, pH 6.5
+0.015	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	25	7	X	mutant enzyme W154A, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+0.022	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N			X	mutant enzyme D120E, 1 mM Zn(NO3)2 added
+0.024	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	30	6.5	X	K224Q mutant, 30C, pH 6.5
+0.03	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	30	6.5	X	N116H/N220G/K224Q mutant, 30C, pH 6.5
+0.05	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	30	7.0		30C, pH 7.0
+0.11	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	30	6.5	X	above, H196A mutant, 30C, pH 6.5
+0.22	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N			X	mutant enzyme D120E
+0.23	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N			X	mutant enzyme D120A
+0.9	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	30	6.5	X	N116H/N220G mutant, 30C, pH 6.5
+1.25	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				beta-lactamase D
+1.3	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	25	7	X	mutant enzyme W154F, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+1.95	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				beta-lactamase A
+4.8	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				enzyme 1, BRO-1
+5.6	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				enzyme 2, BRO-2
+5.6	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				beta-lactamase C
+6.65	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				beta-lactamase B
+10	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	30	7.0		30C, pH 7.0
+13	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				wild-type enzyme
+14	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				
+15	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				wild-type enzyme
+16	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				pH and temperature not specified in the publication
+16	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				pH and temperature not specified in the publication, OXA-1 beta-lactamase
+20	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				
+22	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N			X	mutant enzyme P51L
+30	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	30	7.0		30C, pH 7.0
+35	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	25	7		wild-type, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+50	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N			X	mutant AmpC-A-S287N
+64	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	37	7.0		37C, pH 7.0
+67	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				
+70	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	25	7		wild-type, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+90	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				wild-type enzyme
+112	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N			X	mutant AmpC-B2-S287N
+115	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	30	7		at 30C in 100 mM sodium phosphate (pH 7)
+127	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N			X	mutant enzyme K104E
+155	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC3e, beta-lactamase CMY-1
+180	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				
+190	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	30	7.0		at 30C in 100 mM sodium phosphate buffer, pH 7.0
+215	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC2e, beta-lactamase MIR-1; 30C, pH 7.0, plasmid-encoded, pBC4e, beta-lactamase CMY-2
+230	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				wild-type AmpC-A
+240	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				wild-type AmpC-B2
+334	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				
+364	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				
+570	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				
+590	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N			X	mutant enzyme S164R
+686	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				
+780	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				
+2530	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				
+0.00833	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				
+0.01	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N			X	mutant AmpC-B2-S287N
+0.015	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				beta-lactamases CTX-M-26
+0.033	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N		6.4		in 100 mM MES (pH 6.4)
+0.04	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	30	7.0		30C, pH 7.0
+0.07	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	25	7.2		pH 7.2, 25C
+0.084	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	37	7.0		37C, pH 7.0
+0.09	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	37	7.2		pH 7.2, 37C, recombinant enzyme
+0.11	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	30	7.0		pH 7.0, 30C
+0.2	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				
+0.2	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	30			; at 30C
+0.2	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N			X	mutant AmpC-A-S287N
+0.3	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				wild-type AmpC-B2
+0.5	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				wild-type AmpC-A
+1	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	30	7.0		at 30C in 100 mM sodium phosphate (pH 7.0)
+1	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	30	7.0		30C, pH 7.0
+1	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	30	7.5		pH 7.5, 30C
+1.3	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				pH and temperature not specified in the publication
+1.4	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				
+1.5	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	30	7.0		30C, pH 7.0
+2	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+2	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	30	7.0		30C, pH 7.0
+2.1	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	25	7.0		at 25C in 50 mM sodium phosphate (pH 7.0)
+3	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				
+3.3	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	30	7		kcat above than 3.3/sec at 30C in 100 mM sodium phosphate (pH 7)
+4.67	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				
+5	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+6.7	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				
+8.3	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	25	7.0	X	TEM-149 mutant T182M, pH 7.0, 25C; TEM-149 wild-type, pH 7.0, 25C
+9	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				
+9	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	37	7.5		pH 7.5, 37C
+10	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				; VIM-13
+12	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				wild-type enzyme
+12	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				; enzyme diluted in HEPES buffer containing 50 microM ZnCl2 supplemented with bovine serum albumin
+14	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				
+15	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	30	7.0		pH 7.0, 30C
+15	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+16	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+18	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	25	7.0		25C, pH 7.0
+20	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	30	7.5		30C, pH 7.5
+23	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+24	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+29	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+30	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				
+33	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				beta-lactamases CTX-M-25
+42	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				; VIM-1
+60	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N			X	mutant enzyme P51L
+118	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				
+140	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				
+160	ceftazidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N				above
+0.2	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	30	7.0		30C, pH 7.0
+0.5	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	30	7.0		in 100 mM Tris-H2SO4, 300 mM K2SO4 (pH 7.0), at 30C
+0.54	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	30	7.0		pH 7.0, 30C
+1.5	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	30	7.0		30C, pH 7.0
+2	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	30	7.0		30C, pH 7.0
+2.1	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	25	7.0		at 25C in 100 mM sodium phosphate (pH 7.0)
+2.11	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N				wild-type enzyme
+2.2	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	30			30C, pH not specified in the publication
+2.7	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	25	7.0		TEM-149 wild-type, pH 7.0, 25C
+3	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	30	7.0		30C, pH 7.0
+3.3	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	25	7.2		pH 7.2, 25C
+4	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	30	7.0		at 30C in 100 mM sodium phosphate buffer, pH 7.0
+4.31	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N			X	mutant enzyme K232N
+5	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	25	7.0		in 0.01 M phosphate buffer (pH 7.0), at 25C
+5	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	25	7.0	X	TEM-149 mutant T182M, pH 7.0, 25C
+5	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	30	7.0		30C, pH 7.0
+5.7	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N			X	mutant enzyme D170N
+6.9	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	25	7.0		25C, pH 7.0
+8	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N				pH and temperature not specified in the publication
+9	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N				
+9	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	30			pH not specified in the publication, 30C, recombinant enzyme
+11	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	30	7.0		pH 7.0, 30C
+11.5	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N		6.4		in 100 mM MES (pH 6.4)
+14.61	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N		6.5		in 30 mM sodium cacodylate buffer (pH 6.5) plus 0.05 mM ZnSO4
+27	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N				
+38	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	30	7		at 30C in 100 mM sodium phosphate (pH 7)
+39	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	30	7.0		in 50 mM phosphate buffer (pH 7.0), at 30C
+42	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	22	7.4	X	pH 7.4, 22C, T237A mutant enzyme; pH 7.4, 22C, T237S mutant enzyme
+44.7	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	25	7.0		at 25C in 50 mM sodium phosphate (pH 7.0)
+47	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N				enzyme 1, BRO-1
+47	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N				
+51	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N				enzyme 2, BRO-2
+51	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	22	7.4		pH 7.4, 22C, wild-type enzyme
+100	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N				
+100	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	30	7.5		30C, pH 7.5
+140	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N				
+255	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N				
+280	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	37	7.5		pH 7.5, 37C
+328	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N				; enzyme diluted in HEPES buffer containing 50 microM ZnCl2 supplemented with bovine serum albumin
+362	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N				; VIM-13
+374	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N				; VIM-1
+420	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N				
+770	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N				
+898	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	22	7.4		pH 7.4, 22C, wild-type enzyme SHV-1
+940	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N				
+976	piperacillin	617	IVBHGBMCVLDMKU-GXNBUGAJSA-N	22	7.4		pH 7.4, 22C, wild-type enzyme SHV-1
+0.00833	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N				beta-lactamase A
+0.017	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC4e, beta-lactamase CMY-2
+0.02	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC3e, beta-lactamase CMY-1
+0.02	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	22	7.0		wild-type, pH 7.0, 22C
+0.042	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	30	7.0		pH 7.0, 30C
+0.1	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	25	7.2		pH 7.2, 25C
+0.12	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC1e, beta-lactamase ACT-1
+0.28	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	25	7.5		P99 beta-lactamase; pH 7.5, 25C, strain P99
+0.9	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	30	7.5		pH 7.5, 30C
+1	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N				
+1	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	30	7.0		at 30C in 100 mM sodium phosphate (pH 7.0)
+1	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	30	7.0		30C, pH 7.0
+2	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	30	7.0		pH 7.0, 30C
+2.5	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	25	7.0		in 0.01 M phosphate buffer (pH 7.0), at 25C
+3.4	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC2e, beta-lactamase MIR-1
+4.1	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N				enzyme 1, BRO-1
+4.8	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N				enzyme 2, BRO-2
+5.9	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	25	7.0		25C, pH 7.0
+7	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N				
+8.17	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N		6.4		in 100 mM MES (pH 6.4)
+10	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	30	7.0		30C, pH 7.0
+11	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	37	7.2		pH 7.2, 37C, recombinant enzyme
+15	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	30	7		at 30C in 100 mM sodium phosphate (pH 7)
+16	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N				
+21	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N				beta-lactamases CTX-M-26
+23	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	37	7.5		pH 7.5, 37C
+27	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N				
+53	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N				
+61	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N				
+74.8	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N				GC1 beta-lactamase
+120	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	25	7.0		pH 7.0, 25C
+140	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	30	7.5		30C, pH 7.5
+170	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N	30	7.0		30C, pH 7.0
+190	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N				beta-lactamases CTX-M-25
+239	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N				; VIM-1
+283	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N				; VIM-13
+286	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N				pH and temperature not specified in the publication
+400	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N				
+540	cefuroxime	655	JFPVXVDWJQMJEE-SWWZKJRFSA-N				
+0.00043	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	25	7.0		in 0.01 M phosphate buffer (pH 7.0), at 25C
+0.01	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	30	7		kcat less than 0.01/sec at 30C in 100 mM sodium phosphate (pH 7)
+0.032	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	25	7.0		pH 7.0, 25C
+0.038	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	30	7.0		30C, pH 7.0
+0.043	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	37	7.0		37C, pH 7.0
+0.05	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC3e, beta-lactamase CMY-1
+0.08	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N			X	mutant AmpC-B2-S287N
+0.1	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N			X	mutant AmpC-A-S287N
+0.23	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC4e, beta-lactamase CMY-2
+0.27	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	37	7.2		pH 7.2, 37C, recombinant enzyme
+0.3	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	30	7.0		at 30C in 100 mM sodium phosphate (pH 7.0)
+0.3	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	30	7.0		30C, pH 7.0
+0.3	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N				wild-type AmpC-A
+0.3	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	25	7.2		pH 7.2, 25C
+0.34	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	25	7.0	X	mutant D120S, pH 7.0, 25C
+0.37	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC1e, beta-lactamase ACT-1
+0.4	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N				wild-type AmpC-B2
+0.56	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	120	7.0	X	mutant D120C, pH 7.0, 25C
+0.64	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC2e, beta-lactamase MIR-1
+0.8	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N		6.4		in 100 mM MES (pH 6.4)
+0.88	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	30	7.0		pH 7.0, 30C
+1.1	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	30			; at 30C
+1.53	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	25	7.0	X	mutant D120N, pH 7.0, 25C
+1.9	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	25	7.0		wild-type enzyme, pH 7.0, 25C
+2	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	30	7.5		pH 7.5, 30C
+2.2	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N				
+3	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+4	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme; pH 7.2, 25C, recombinant enzyme
+4.2	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	25	7.0		at 25C in 50 mM sodium phosphate (pH 7.0)
+5	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N				
+6	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N				
+6	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+6.4	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N				
+7	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N				; enzyme diluted in HEPES buffer containing 50 microM ZnCl2 supplemented with bovine serum albumin
+7	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N				above
+8.3	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	25	7.0		25C, pH 7.0
+9.6	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	30	7.0		at 30C in 100 mM sodium phosphate buffer, pH 7.0
+10	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N				
+10	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+14	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+18	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+35	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	37	7.5		pH 7.5, 37C
+150	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N				
+1178	cefoxitin	693	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N				
+0.0013	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N		6.4		in 100 mM MES (pH 6.4)
+0.0013	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	22	6.5		pH 6.5, 22C, recombinant enzyme
+0.007	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	30	7.0		in 50 mM phosphate buffer (pH 7.0), at 30C
+0.01	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	30			30C, pH not specified in the publication
+0.05	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	30	7.0		30C, pH 7.0
+0.05	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	30	7.5		pH 7.5, 30C
+0.06	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	30	7.0		30C, pH 7.0
+0.07	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	30	7.0		pH 7.0, 30C
+0.29	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	120	7.0	X	mutant D120C, pH 7.0, 25C
+0.4	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N				
+0.75	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	25	7.0	X	mutant D120S, pH 7.0, 25C
+0.9	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	30			; at 30C
+1	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N				above
+1	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	30	7.0		30C, pH 7.0
+1.4	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	37	7.5		pH 7.5, 37C
+1.4	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	25	7.2		pH 7.2, 25C
+2.4	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N				
+2.7	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	25	7.0		25C, pH 7.0
+3.2	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N				
+4.13	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N		6.5		in 30 mM sodium cacodylate buffer (pH 6.5) plus 0.05 mM ZnSO4
+6	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N				
+6.5	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	25	7.0		at 25C in 50 mM sodium phosphate (pH 7.0)
+7	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	25	7.0		pH 7.0, 25C
+9	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N				; VIM-13
+9.5	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N				
+10.6	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	25	7.0	X	mutant D120N, pH 7.0, 25C
+12	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N				
+13	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	37	7.2		pH 7.2, 37C, recombinant enzyme
+20	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N				; VIM-1
+40	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N				; enzyme diluted in HEPES buffer containing 50 microM ZnCl2 supplemented with bovine serum albumin
+42	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N				
+109	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	25	7.0		pH 7.0, 25C
+142	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+157	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	25	7.0		wild-type enzyme, pH 7.0, 25C
+194	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+200	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	30	7.5		30C, pH 7.5
+220	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N				
+220	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	30			pH not specified in the publication, 30C, recombinant enzyme
+238	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+301	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+362	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+413	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+583	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+1100	meropenem	714	DMJNNHOOLUXYBV-PQTSNVLCSA-N				
+0.008	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N	30	7.0		30C, pH 7.0
+0.008	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N		7.4	X	D66W mutant, pH 7.4, room temperature
+0.0094	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N	30	7.0		pH 7.0, 30C
+0.1	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N				
+0.25	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N			X	mutant AmpC-B2-S287N
+0.333	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N				
+0.35	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N	30	7.5		pH 7.5, 30C
+0.43	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N	25	7.0	X	TEM-149 mutant T182M, pH 7.0, 25C
+0.43	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N		7.4	X	D66M mutant, pH 7.4, room temperature
+0.55	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N		7.4	X	D66A mutant, pH 7.4, room temperature
+0.58	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N	37	7.2		pH 7.2, 37C, recombinant enzyme
+0.6	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N				
+0.64	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N	25	7.0		pH 7.0, 25C
+0.8	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N	30	7.0		kcat above 0.8/sec, at 30C in 100 mM sodium phosphate (pH 7.0)
+1	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N	37	7.0		37C, pH 7.0
+1	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N	30	7.0		30C, pH 7.0
+1.35	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N			X	mutant AmpC-A-S287N
+2.4	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N	25	7.0		TEM-149 wild-type, pH 7.0, 25C
+3	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N	30	7.0		pH 7.0, 30C
+3.8	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N		7.4	X	D66Y mutant, pH 7.4, room temperature
+5.3	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N				
+8	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N				more than
+10	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N	30	7.0		30C, pH 7.0
+12	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N	37	7.5		pH 7.5, 37C
+15	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N				
+17	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N	25	7.0		25C, pH 7.0
+27	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N		7.4	X	D66N mutant, pH 7.4, room temperature
+30	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N				
+34	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N		7.4		wild type, pH 7.4, room temperature
+40	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N	30	7		kcat above 40/sec at 30C in 100 mM sodium phosphate (pH 7)
+61	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N				; VIM-13
+67.7	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N	37	7.0		37C, pH 7.0
+100	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N				
+119	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N				; VIM-1
+225	cefepime	739	HVFLCNVBZFFHBT-ZKDACBOMSA-N				
+11	clavulanic acid	770	HZZVJAQRINQKSD-PBFISZAISA-N				
+1	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N			X	pH and temperature not specified in the publication, mutant enzyme N170A
+4.83	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N	25	7.0		pH 7.0, 25C
+13	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N				pH and temperature not specified in the publication, wild-type enzyme
+16	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N			X	pH and temperature not specified in the publication, mutant enzyme N170G
+26	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N				
+26	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+31	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+55	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC2e, beta-lactamase MIR-1; 30C, pH 7.0, plasmid-encoded, pBC4e, beta-lactamase CMY-2
+72	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+80	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N	30	7.0		at 30C in 50 mM sodium phosphate buffer (pH 7.0)
+85	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC1e, beta-lactamase ACT-1
+115	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC3e, beta-lactamase CMY-1
+160	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N	30	7.0		pH 7.0, 30C
+0.008	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+0.009	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC3e, beta-lactamase CMY-1
+0.015	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC4e, beta-lactamase CMY-2
+0.022	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	30	7.0		30C, pH 7.0
+0.044	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC1e, beta-lactamase ACT-1
+0.18	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC2e, beta-lactamase MIR-1
+0.2	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	30	7.0		30C, pH 7.0
+0.21	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+0.25	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	25	7	X	mutant enzyme W154A, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+1.23	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N				wild-type enzyme
+2	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	25	7	X	mutant enzyme W154F, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+2.37	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N			X	mutant enzyme D170N
+3.07	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N			X	mutant enzyme K232N
+3.5	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	25	7	X	mutant enzyme W154G, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+4	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	25	7	X	mutant enzyme W154G, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+4.2	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	30			30C, pH not specified in the publication
+4.5	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	25	7	X	mutant enzyme W154A, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+5	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	30	7.0		30C, pH 7.0
+8	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N				
+35	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	25	7	X	mutant enzyme W154H, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+90	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	25	7	X	mutant enzyme W154H, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+105	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N				
+113	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	25	7.0		at 25C in 100 mM sodium phosphate (pH 7.0)
+130	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	30	7.0		pH 7.0, 30C
+261	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N				
+300	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	25	7		wild-type, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+577	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N				pH and temperature not specified in the publication
+577	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N				pH and temperature not specified in the publication, OXA-1 beta-lactamase
+600	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	25	7		wild-type, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+780	Oxacillin	788	UWYHMGVUTGAWSP-JKIFEVAISA-N	30			30C; at 30C
+8.2	tazobactam	929	LPQZKKCYTLCDGQ-WEDXCCLWSA-N				; enzyme diluted in HEPES buffer containing 50 microM ZnCl2 supplemented with bovine serum albumin
+3.3	Sulbactam	1073	FKENQMMABCRJMK-RITPCOANSA-N		6.5		in 30 mM sodium cacodylate buffer (pH 6.5) plus 0.05 mM ZnSO4
+4	Sulbactam	1073	FKENQMMABCRJMK-RITPCOANSA-N				
+20	Sulbactam	1073	FKENQMMABCRJMK-RITPCOANSA-N	30	7.0		in 50 mM phosphate buffer (pH 7.0), at 30C
+0.004	carbenicillin	1084	FPPNZSSZRUTDAP-UWFZAAFLSA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+0.433	carbenicillin	1084	FPPNZSSZRUTDAP-UWFZAAFLSA-N				
+0.5	carbenicillin	1084	FPPNZSSZRUTDAP-UWFZAAFLSA-N				
+0.52	carbenicillin	1084	FPPNZSSZRUTDAP-UWFZAAFLSA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+1	carbenicillin	1084	FPPNZSSZRUTDAP-UWFZAAFLSA-N	25	7.0		in 0.01 M phosphate buffer (pH 7.0), at 25C
+1.1	carbenicillin	1084	FPPNZSSZRUTDAP-UWFZAAFLSA-N	25	7.0		at 25C in 100 mM sodium phosphate (pH 7.0)
+3.7	carbenicillin	1084	FPPNZSSZRUTDAP-UWFZAAFLSA-N				
+4.1	carbenicillin	1084	FPPNZSSZRUTDAP-UWFZAAFLSA-N	25	7.0		25C, pH 7.0
+9.15	carbenicillin	1084	FPPNZSSZRUTDAP-UWFZAAFLSA-N	25	7.0		pH 7.0, 25C
+16.96	carbenicillin	1084	FPPNZSSZRUTDAP-UWFZAAFLSA-N		6.5		in 30 mM sodium cacodylate buffer (pH 6.5) plus 0.05 mM ZnSO4
+32	carbenicillin	1084	FPPNZSSZRUTDAP-UWFZAAFLSA-N				
+57	carbenicillin	1084	FPPNZSSZRUTDAP-UWFZAAFLSA-N	30	7.0	X	pH 7.0, 30C, mutant R234K
+100	carbenicillin	1084	FPPNZSSZRUTDAP-UWFZAAFLSA-N				
+100	carbenicillin	1084	FPPNZSSZRUTDAP-UWFZAAFLSA-N	25	7.0		pH 7.0, 25C
+260	carbenicillin	1084	FPPNZSSZRUTDAP-UWFZAAFLSA-N				
+1200	carbenicillin	1084	FPPNZSSZRUTDAP-UWFZAAFLSA-N	30	7.0		pH 7.0, 30C, wild-type enzyme
+1200	carbenicillin	1084	FPPNZSSZRUTDAP-UWFZAAFLSA-N				
+0.004	Cloxacillin	1088	LQOLIRLGBULYKD-JKIFEVAISA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+0.2	Cloxacillin	1088	LQOLIRLGBULYKD-JKIFEVAISA-N	25	7	X	mutant enzyme W154A, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+0.42	Cloxacillin	1088	LQOLIRLGBULYKD-JKIFEVAISA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+0.5	Cloxacillin	1088	LQOLIRLGBULYKD-JKIFEVAISA-N	30	7.0		30C, pH 7.0
+0.51	Cloxacillin	1088	LQOLIRLGBULYKD-JKIFEVAISA-N				wild-type enzyme
+1.04	Cloxacillin	1088	LQOLIRLGBULYKD-JKIFEVAISA-N			X	mutant enzyme K232N
+1.12	Cloxacillin	1088	LQOLIRLGBULYKD-JKIFEVAISA-N			X	mutant enzyme D170N
+1.8	Cloxacillin	1088	LQOLIRLGBULYKD-JKIFEVAISA-N	25	7	X	mutant enzyme W154F, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+2.5	Cloxacillin	1088	LQOLIRLGBULYKD-JKIFEVAISA-N	25	7	X	mutant enzyme W154G, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+3.5	Cloxacillin	1088	LQOLIRLGBULYKD-JKIFEVAISA-N	25	7	X	mutant enzyme W154G, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+4	Cloxacillin	1088	LQOLIRLGBULYKD-JKIFEVAISA-N	25	7	X	mutant enzyme W154A, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+5	Cloxacillin	1088	LQOLIRLGBULYKD-JKIFEVAISA-N				enzyme 1, BRO-1
+8.6	Cloxacillin	1088	LQOLIRLGBULYKD-JKIFEVAISA-N				enzyme 2, BRO-2
+90	Cloxacillin	1088	LQOLIRLGBULYKD-JKIFEVAISA-N				
+120	Cloxacillin	1088	LQOLIRLGBULYKD-JKIFEVAISA-N	25	7		wild-type, 25C, pH 7, in presence of 50 mM sodium bicarbonate
+500	Cloxacillin	1088	LQOLIRLGBULYKD-JKIFEVAISA-N	25	7		wild-type, 25C, pH 7, in presence of 1.1 mM sodium bicarbonate
+2500	Cloxacillin	1088	LQOLIRLGBULYKD-JKIFEVAISA-N				
+0.01	aztreonam	1126	WZPBZJONDBGPKJ-VEHQQRBSSA-N	25	7.2		or below, pH 7.2, 25C
+0.1	aztreonam	1126	WZPBZJONDBGPKJ-VEHQQRBSSA-N				above
+0.24	aztreonam	1126	WZPBZJONDBGPKJ-VEHQQRBSSA-N	25	7.0		in 0.01 M phosphate buffer (pH 7.0), at 25C
+0.3	aztreonam	1126	WZPBZJONDBGPKJ-VEHQQRBSSA-N	30	7		kcat less than 0.3/sec at 30C in 100 mM sodium phosphate (pH 7)
+0.4	aztreonam	1126	WZPBZJONDBGPKJ-VEHQQRBSSA-N				
+1.5	aztreonam	1126	WZPBZJONDBGPKJ-VEHQQRBSSA-N				pH and temperature not specified in the publication
+2	aztreonam	1126	WZPBZJONDBGPKJ-VEHQQRBSSA-N	30	7.0		pH 7.0, 30C
+3.6	aztreonam	1126	WZPBZJONDBGPKJ-VEHQQRBSSA-N	25	7.0	X	TEM-149 mutant T182M, pH 7.0, 25C
+4.7	aztreonam	1126	WZPBZJONDBGPKJ-VEHQQRBSSA-N	25	7.0		TEM-149 wild-type, pH 7.0, 25C
+9	aztreonam	1126	WZPBZJONDBGPKJ-VEHQQRBSSA-N				wild-type enzyme
+10	aztreonam	1126	WZPBZJONDBGPKJ-VEHQQRBSSA-N	30	7.0		30C, pH 7.0
+17	aztreonam	1126	WZPBZJONDBGPKJ-VEHQQRBSSA-N			X	mutant enzyme P51L
+30	aztreonam	1126	WZPBZJONDBGPKJ-VEHQQRBSSA-N	30	7.0		30C, pH 7.0
+38	aztreonam	1126	WZPBZJONDBGPKJ-VEHQQRBSSA-N				
+84	aztreonam	1126	WZPBZJONDBGPKJ-VEHQQRBSSA-N				beta-lactamases CTX-M-25
+100	aztreonam	1126	WZPBZJONDBGPKJ-VEHQQRBSSA-N				beta-lactamases CTX-M-26
+150	aztreonam	1126	WZPBZJONDBGPKJ-VEHQQRBSSA-N			X	mutant enzyme S164R
+162	aztreonam	1126	WZPBZJONDBGPKJ-VEHQQRBSSA-N	25	7.0		at 25C in 50 mM sodium phosphate (pH 7.0)
+707	aztreonam	1126	WZPBZJONDBGPKJ-VEHQQRBSSA-N				
+0.25	cefazolin	1127	MLYYVTUWGNIJIB-BXKDBHETSA-N	30	7.0		pH 7.0, 30C
+0.46	cefazolin	1127	MLYYVTUWGNIJIB-BXKDBHETSA-N		6.5		in 30 mM sodium cacodylate buffer (pH 6.5) plus 0.05 mM ZnSO4
+0.55	cefazolin	1127	MLYYVTUWGNIJIB-BXKDBHETSA-N	30	7.0		pH 7.0, 30C
+0.56	cefazolin	1127	MLYYVTUWGNIJIB-BXKDBHETSA-N	25	7.0	X	TEM-149 mutant T182M, pH 7.0, 25C
+1	cefazolin	1127	MLYYVTUWGNIJIB-BXKDBHETSA-N				beta-lactamase A
+1.92	cefazolin	1127	MLYYVTUWGNIJIB-BXKDBHETSA-N				beta-lactamase D
+2.2	cefazolin	1127	MLYYVTUWGNIJIB-BXKDBHETSA-N	25	7.0		TEM-149 wild-type, pH 7.0, 25C
+3.95	cefazolin	1127	MLYYVTUWGNIJIB-BXKDBHETSA-N				beta-lactamase C
+4.67	cefazolin	1127	MLYYVTUWGNIJIB-BXKDBHETSA-N				beta-lactamase B
+61	cefazolin	1127	MLYYVTUWGNIJIB-BXKDBHETSA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+69	cefazolin	1127	MLYYVTUWGNIJIB-BXKDBHETSA-N	22	7.0		pH 7.0, 22C, wild-type enzyme
+118	cefazolin	1127	MLYYVTUWGNIJIB-BXKDBHETSA-N	22	7.0	X	pH 7.0, 22C, mutant enzyme G240H
+325	cefazolin	1127	MLYYVTUWGNIJIB-BXKDBHETSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC3e, beta-lactamase CMY-1
+476	cefazolin	1127	MLYYVTUWGNIJIB-BXKDBHETSA-N				
+476	cefazolin	1127	MLYYVTUWGNIJIB-BXKDBHETSA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+560	cefazolin	1127	MLYYVTUWGNIJIB-BXKDBHETSA-N	30	7.0		30C, pH 7.0, plasmid-encoded, pBC1e, beta-lactamase ACT-1
+1300	cefazolin	1127	MLYYVTUWGNIJIB-BXKDBHETSA-N	30	7.0		at 30C in 50 mM sodium phosphate buffer (pH 7.0)
+3000	cefazolin	1127	MLYYVTUWGNIJIB-BXKDBHETSA-N	30	7.0		at 30C in 50mM sodium phosphate buffer (pH 7.0)
+0.0015	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N	30	6.5	X	D120A mutant, 30C, pH 6.5
+0.005	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N	30	6.5	X	above, H263A mutant, 30C, pH 6.5
+0.1	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N	30	6.5	X	H118A mutant, 30C, pH 6.5
+0.26	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N	30	6.5	X	N116H/N220G/K224Q mutant, 30C, pH 6.5
+0.3	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N	120	7.0	X	mutant D120C, pH 7.0, 25C
+0.5	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N	25	7.0	X	mutant D120S, pH 7.0, 25C
+1.5	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N				
+2.4	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N	30	6.5	X	above, V67LFKHV mutant, 30C, pH 6.5
+3.6	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N	25	7.0	X	mutant D120N, pH 7.0, 25C
+5	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N	30	6.5	X	N116H/N220G mutant, 30C, pH 6.5
+15	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N	25	7.0		pH 7.0, 25C
+50	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N	30	6.5	X	above, V67I mutant, 30C, pH 6.5
+60	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N	30	6.5	X	above, K224Q mutant, 30C, pH 6.5
+64	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N				
+100	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N	30	6.5	X	above, V67D mutant, 30C, pH 6.5; V67A mutant, 30C, pH 6.5
+130	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N	30	6.5	X	above, T157A mutant, 30C, pH 6.5
+134	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N	25	7.0		wild-type enzyme, pH 7.0, 25C
+160	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N	30	6.5	X	30C, pH 6.5, mutant enzyme N220G
+300	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N	30	6.5		30C, pH 6.5, wild-type enzyme
+300	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N	30	6.5		wild-type, 30C, pH 6.5
+1000	biapenem	1272	MRMBZHPJVKCOMA-YJFSRANCSA-N	30	6.5	X	K226Q mutant, 30C, pH 6.5
+659	6-aminopenicillanic acid	1279	NGHVIOIJCVXTGV-ALEPSDHESA-N				
+5.67	amoxicillin	1323	LSQZJLSUYDQPKJ-NJBDSQKTSA-N		6.4		in 100 mM MES (pH 6.4)
+10	amoxicillin	1323	LSQZJLSUYDQPKJ-NJBDSQKTSA-N	30	7.0		30C, pH 7.0
+15.2	amoxicillin	1323	LSQZJLSUYDQPKJ-NJBDSQKTSA-N	30			30C, pH not specified in the publication
+21	amoxicillin	1323	LSQZJLSUYDQPKJ-NJBDSQKTSA-N				pH and temperature not specified in the publication
+23	amoxicillin	1323	LSQZJLSUYDQPKJ-NJBDSQKTSA-N				
+30	amoxicillin	1323	LSQZJLSUYDQPKJ-NJBDSQKTSA-N	30	7.0		kcat above 30/sec, at 30C in 100 mM sodium phosphate (pH 7.0)
+85	amoxicillin	1323	LSQZJLSUYDQPKJ-NJBDSQKTSA-N	30	7		at 30C in 100 mM sodium phosphate (pH 7)
+816	amoxicillin	1323	LSQZJLSUYDQPKJ-NJBDSQKTSA-N				
+0.1	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N	30	7.0		in 100 mM Tris-H2SO4, 300 mM K2SO4 (pH 7.0), at 30C
+0.3	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N	30	7.0		30C, pH 7.0
+1	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N	30	7.0		30C, pH 7.0
+1.7	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N	30			30C, pH not specified in the publication
+2.3	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N	25	7.0		25C, pH 7.0
+5	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N	30	7		at 30C in 100 mM sodium phosphate (pH 7)
+5	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N				pH and temperature not specified in the publication
+6	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N	30	7.0		30C, pH 7.0
+6.9	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N				
+8	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N				
+8.2	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N				beta-lactamases CTX-M-25
+9	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N				
+15	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N	30	7.0		30C, pH 7.0
+30	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N	30	7.5		pH 7.5, 30C
+81	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N				
+84	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N				beta-lactamases CTX-M-26
+115	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N				
+121	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N				
+190	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N	30			pH not specified in the publication, 30C, recombinant enzyme
+220	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N	37	7.5		pH 7.5, 37C
+440	ticarcillin	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N				
+145	Methicillin	1770	RJQXTJLFIWVMTO-TYNCELHUSA-N				
+168	Methicillin	1770	RJQXTJLFIWVMTO-TYNCELHUSA-N				enzyme 1, BRO-1
+190	Methicillin	1770	RJQXTJLFIWVMTO-TYNCELHUSA-N				enzyme 2, BRO-2
+350	Methicillin	1770	RJQXTJLFIWVMTO-TYNCELHUSA-N				
+0.28	cefaclor	1897	QYIYFLOTGYLRGG-GPCCPHFNSA-N	25	7.0	X	mutant D120S, pH 7.0, 25C
+0.3	cefaclor	1897	QYIYFLOTGYLRGG-GPCCPHFNSA-N	120	7.0	X	mutant D120C, pH 7.0, 25C
+6.3	cefaclor	1897	QYIYFLOTGYLRGG-GPCCPHFNSA-N	25	7.0	X	mutant D120N, pH 7.0, 25C
+14	cefaclor	1897	QYIYFLOTGYLRGG-GPCCPHFNSA-N	25	7.0		lactamase CoCo-L1, 25C, pH 7.0
+16	cefaclor	1897	QYIYFLOTGYLRGG-GPCCPHFNSA-N	25	7.0		lactamase ZnFe-L1, 25C, pH 7.0
+26	cefaclor	1897	QYIYFLOTGYLRGG-GPCCPHFNSA-N	25	7.0		lactamase ZnCo-L1, 25C, pH 7.0
+27	cefaclor	1897	QYIYFLOTGYLRGG-GPCCPHFNSA-N	25	7.0		lactamase ZnNi-L1, 25C, pH 7.0
+29	cefaclor	1897	QYIYFLOTGYLRGG-GPCCPHFNSA-N	25	7.0		lactamase Cu-L1, 25C, pH 7.0
+38	cefaclor	1897	QYIYFLOTGYLRGG-GPCCPHFNSA-N	25	7.0		lactamase ZnZn-L1, 25C, pH 7.0
+42	cefaclor	1897	QYIYFLOTGYLRGG-GPCCPHFNSA-N	25	7.0		wild-type enzyme, pH 7.0, 25C
+60	cefaclor	1897	QYIYFLOTGYLRGG-GPCCPHFNSA-N				
+65	cefaclor	1897	QYIYFLOTGYLRGG-GPCCPHFNSA-N				enzyme 1, BRO-1
+69	cefaclor	1897	QYIYFLOTGYLRGG-GPCCPHFNSA-N				enzyme 2, BRO-2
+6.6	penicillin	1940	FCPVYOBCFFNJFS-LQDWTQKMSA-M	25	7.0		25C, pH 7.0
+29	penicillin	1940	FCPVYOBCFFNJFS-LQDWTQKMSA-M				
+35	Penicillin V	1992	BPLBGHOLXOTWMN-MBNYWOFBSA-N		6.4		in 100 mM MES (pH 6.4)
+0.2	cephalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		30C, pH 7.0
+0.4	cephalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.5		pH 7.5, 30C
+1	cephalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		pH 7.0, 30C
+8.17	cephalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N		6.4		in 100 mM MES (pH 6.4)
+25	cephalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	37	7.5		pH 7.5, 37C
+125	cephalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		pH 7.0, 30C
+153	cephalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N				
+500	cephalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7.0		pH 7.0, 25C
+0.042	ceftriaxone	2504	VAAUVRVFOQPIGI-SPQHTLEESA-N	30	7.0		pH 7.0, 30C
+0.82	ceftriaxone	2504	VAAUVRVFOQPIGI-SPQHTLEESA-N		6.4		in 100 mM MES (pH 6.4)
+13	ceftriaxone	2504	VAAUVRVFOQPIGI-SPQHTLEESA-N				
+25	ceftriaxone	2504	VAAUVRVFOQPIGI-SPQHTLEESA-N	30	7.0		30C, pH 7.0
+30	ceftriaxone	2504	VAAUVRVFOQPIGI-SPQHTLEESA-N	30	7		at 30C in 100 mM sodium phosphate (pH 7)
+0.01	moxalactam	2506	JWCSIUVGFCSJCK-CAVRMKNVSA-N	30	7		kcat less than 0.01/sec at 30C in 100 mM sodium phosphate (pH 7)
+0.017	moxalactam	2506	JWCSIUVGFCSJCK-CAVRMKNVSA-N	25	7.0		pH 7.0, 25C
+0.15	moxalactam	2506	JWCSIUVGFCSJCK-CAVRMKNVSA-N				
+8.6	moxalactam	2506	JWCSIUVGFCSJCK-CAVRMKNVSA-N				
+14	moxalactam	2506	JWCSIUVGFCSJCK-CAVRMKNVSA-N	25	7.0		25C, pH 7.0
+230	moxalactam	2506	JWCSIUVGFCSJCK-CAVRMKNVSA-N				
+2794	moxalactam	2506	JWCSIUVGFCSJCK-CAVRMKNVSA-N				
+0.00033	ertapenem	2665	JUZNIMUFDBIJCM-ANEDZVCMSA-N	22	6.5		pH 6.5, 22C, recombinant enzyme
+0.03	ertapenem	2665	JUZNIMUFDBIJCM-ANEDZVCMSA-N	30	7.5		pH 7.5, 30C
+0.13	ertapenem	2665	JUZNIMUFDBIJCM-ANEDZVCMSA-N	30	7.0		pH 7.0, 30C
+0.4	ertapenem	2665	JUZNIMUFDBIJCM-ANEDZVCMSA-N	25	7.2		pH 7.2, 25C
+1.8	ertapenem	2665	JUZNIMUFDBIJCM-ANEDZVCMSA-N	37	7.5		pH 7.5, 37C
+4	ertapenem	2665	JUZNIMUFDBIJCM-ANEDZVCMSA-N	37	7.2		pH 7.2, 37C, recombinant enzyme
+4.3	ertapenem	2665	JUZNIMUFDBIJCM-ANEDZVCMSA-N	37	7.2		pH 7.2, 37C, recombinant enzyme, in presence of NaCl
+8	ertapenem	2665	JUZNIMUFDBIJCM-ANEDZVCMSA-N				
+25	ertapenem	2665	JUZNIMUFDBIJCM-ANEDZVCMSA-N				more than
+69	ertapenem	2665	JUZNIMUFDBIJCM-ANEDZVCMSA-N	30			pH not specified in the publication, 30C, recombinant enzyme
+4.22	cefalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N				
+9	cefalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+18	cefalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+25	cefalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+45	cefalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+53	cefalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+63	cefalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+75	cefalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+630	cefalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25		X	R276H mutant, 25C
+680	cefalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25		X	R276G mutant, 25C
+700	cefalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	276		X	R276C mutant, 25C
+1180	cefalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25		X	R276W mutant, 25C
+1190	cefalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25			CTX-M-1 wild type, 25C
+1290	cefalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25		X	R276N mutant, 25C
+1800	cefalotin	301	XIURVHNZVLADCM-IUODEOHRSA-N	25		X	R276S mutant, 25C
+0.1	cefpirome	3221	DKOQGJHPHLTOJR-XECLGWKCSA-N	30	7.0		30C, pH 7.0
+0.8	cefpirome	3221	DKOQGJHPHLTOJR-XECLGWKCSA-N	30	7.0		kcat above 0.8/sec, at 30C in 100 mM sodium phosphate (pH 7.0)
+1.5	cefpirome	3221	DKOQGJHPHLTOJR-XECLGWKCSA-N	37	7.0		37C, pH 7.0
+23	cefpirome	3221	DKOQGJHPHLTOJR-XECLGWKCSA-N	30	7.0		pH 7.0, 30C
+95	cefpirome	3221	DKOQGJHPHLTOJR-XECLGWKCSA-N	30	7		at 30C in 100 mM sodium phosphate (pH 7)
+102	cefpirome	3221	DKOQGJHPHLTOJR-XECLGWKCSA-N				
+745	cefpirome	3221	DKOQGJHPHLTOJR-XECLGWKCSA-N				
+0.25	cephapirin	3401	UQLLWWBDSUHNEB-CZUORRHYSA-N				beta-lactamase D
+0.367	cephapirin	3401	UQLLWWBDSUHNEB-CZUORRHYSA-N				beta-lactamase A
+1.18	cephapirin	3401	UQLLWWBDSUHNEB-CZUORRHYSA-N				beta-lactamase C
+1.82	cephapirin	3401	UQLLWWBDSUHNEB-CZUORRHYSA-N				beta-lactamase B
+0.05	cefamandole	3644	OLVCFLKTBJRLHI-AXAPSJFSSA-N				beta-lactamase A; beta-lactamase D
+0.3	cefamandole	3644	OLVCFLKTBJRLHI-AXAPSJFSSA-N				beta-lactamase C
+0.35	cefamandole	3644	OLVCFLKTBJRLHI-AXAPSJFSSA-N				beta-lactamase B
+58.3	cefamandole	3644	OLVCFLKTBJRLHI-AXAPSJFSSA-N		6.4		in 100 mM MES (pH 6.4)
+6110	cefamandole	3644	OLVCFLKTBJRLHI-AXAPSJFSSA-N				
+0.08	(6R,7S)-3-[(3-carboxy-4-nitro-phenyl)sulfanylmethyl]-8-oxo-7-[(2-thiophen-2-ylacetyl)amino]-5-thia-1-azabicyclo-[4.2.0]-oct-2-ene-2-carboxylic acid	3991	PFVWVVUSAORMBB-QFBILLFUSA-N		7.4	X	D66W mutant, pH 7.4, room temperature
+0.17	(6R,7S)-3-[(3-carboxy-4-nitro-phenyl)sulfanylmethyl]-8-oxo-7-[(2-thiophen-2-ylacetyl)amino]-5-thia-1-azabicyclo-[4.2.0]-oct-2-ene-2-carboxylic acid	3991	PFVWVVUSAORMBB-QFBILLFUSA-N		7.4	X	D66M mutant, pH 7.4, room temperature
+0.19	(6R,7S)-3-[(3-carboxy-4-nitro-phenyl)sulfanylmethyl]-8-oxo-7-[(2-thiophen-2-ylacetyl)amino]-5-thia-1-azabicyclo-[4.2.0]-oct-2-ene-2-carboxylic acid	3991	PFVWVVUSAORMBB-QFBILLFUSA-N		7.4	X	D66A mutant, pH 7.4, room temperature
+0.25	(6R,7S)-3-[(3-carboxy-4-nitro-phenyl)sulfanylmethyl]-8-oxo-7-[(2-thiophen-2-ylacetyl)amino]-5-thia-1-azabicyclo-[4.2.0]-oct-2-ene-2-carboxylic acid	3991	PFVWVVUSAORMBB-QFBILLFUSA-N		7.4	X	D66Y mutant, pH 7.4, room temperature
+1.2	(6R,7S)-3-[(3-carboxy-4-nitro-phenyl)sulfanylmethyl]-8-oxo-7-[(2-thiophen-2-ylacetyl)amino]-5-thia-1-azabicyclo-[4.2.0]-oct-2-ene-2-carboxylic acid	3991	PFVWVVUSAORMBB-QFBILLFUSA-N		7.4	X	D66N mutant, pH 7.4, room temperature
+1.6	(6R,7S)-3-[(3-carboxy-4-nitro-phenyl)sulfanylmethyl]-8-oxo-7-[(2-thiophen-2-ylacetyl)amino]-5-thia-1-azabicyclo-[4.2.0]-oct-2-ene-2-carboxylic acid	3991	PFVWVVUSAORMBB-QFBILLFUSA-N		7.4		wild type, pH 7.4, room temperature
+23	cefadroxil	4150	BOEGTKLJZSQCCD-UEKVPHQBSA-N				
+440	cefalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				; enzyme diluted in HEPES buffer containing 50 microM ZnCl2 supplemented with bovine serum albumin
+510	cefalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	30	7.0		in 50 mM phosphate buffer (pH 7.0), at 30C
+0.22	cefoperazone	6383	GCFBRXLSHGKWDP-XCGNWRKASA-N	25	7.0		in 0.01 M phosphate buffer (pH 7.0), at 25C
+70	cefoperazone	6383	GCFBRXLSHGKWDP-XCGNWRKASA-N				
+8.2	(2S,5R,6R)-6-[[(2R)-2-carboxy-2-thiophen-3-ylacetyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N				beta-lactamases CTX-M-25
+84	(2S,5R,6R)-6-[[(2R)-2-carboxy-2-thiophen-3-ylacetyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid	1344	OHKOGUYZJXTSFX-KZFFXBSXSA-N				beta-lactamases CTX-M-26
+1020	cefaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				
+1300	cefaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	30	7.0		in 50 mM phosphate buffer (pH 7.0), at 30C
+0.00033	doripenem	8013	AVAACINZEOAHHE-VFZPANTDSA-N	22	6.5		pH 6.5, 22C, recombinant enzyme
+0.04	doripenem	8013	AVAACINZEOAHHE-VFZPANTDSA-N	30	7.0		in 50 mM phosphate buffer (pH 7.0), at 30C
+51	doripenem	8013	AVAACINZEOAHHE-VFZPANTDSA-N	30			pH not specified in the publication, 30C, recombinant enzyme
+75	doripenem	8013	AVAACINZEOAHHE-VFZPANTDSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+170	doripenem	8013	AVAACINZEOAHHE-VFZPANTDSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+226	doripenem	8013	AVAACINZEOAHHE-VFZPANTDSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+267	doripenem	8013	AVAACINZEOAHHE-VFZPANTDSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+348	doripenem	8013	AVAACINZEOAHHE-VFZPANTDSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+743	doripenem	8013	AVAACINZEOAHHE-VFZPANTDSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+1032	doripenem	8013	AVAACINZEOAHHE-VFZPANTDSA-N	25	7.2		pH 7.2, 25C, recombinant enzyme
+79	Loracarbef	8536	JAPHQRWPEGVNBT-UTUOFQBUSA-N				enzyme 1, BRO-1
+95	Loracarbef	8536	JAPHQRWPEGVNBT-UTUOFQBUSA-N				enzyme 2, BRO-2
+460	amoxycillin	1323	LSQZJLSUYDQPKJ-NJBDSQKTSA-N				
+910	amoxycillin	1323	LSQZJLSUYDQPKJ-NJBDSQKTSA-N				
+4.7	cefmetazole	8706	SNBUBQHDYVFSQF-HIFRSBDPSA-N				
+0.45	(6R,7R)-3-[(acetyloxy)methyl]-7-[[(2E)-2-(2-amino-1,3-thiazol-4-yl)-2-(methoxyimino)acetyl]amino]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid	349	GPRBEKHLDVQUJE-VINNURBNSA-N			X	mutant enzyme S164R
+1.5	(6R,7R)-3-[(acetyloxy)methyl]-7-[[(2E)-2-(2-amino-1,3-thiazol-4-yl)-2-(methoxyimino)acetyl]amino]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid	349	GPRBEKHLDVQUJE-VINNURBNSA-N				wild-type enzyme
+0.038	faropenem	9866	HGGAKXAHAYOLDJ-FHZUQPTBSA-N	30	7.0		pH 7.0, 30C
+5	faropenem	9866	HGGAKXAHAYOLDJ-FHZUQPTBSA-N				
+2550	phenoxymethylpenicillin	1992	BPLBGHOLXOTWMN-MBNYWOFBSA-N				
+37	azlocillin	11015	JTWOMNBEOCYFNV-RSUWNVLCSA-N				
+78	azlocillin	11015	JTWOMNBEOCYFNV-RSUWNVLCSA-N				
+945	cefotiam	11019	QYQDKDWGWDOFFU-IUODEOHRSA-N				
+29	mecillinam	11036	BWWVAEOLVKTZFQ-NTZNESFSSA-N				enzyme 2, BRO-2
+31	mecillinam	11036	BWWVAEOLVKTZFQ-NTZNESFSSA-N				enzyme 1, BRO-1
+11	3-[2-(2-aminothiazol-4-yl)2-(Z)-methoxyiminoacetylglycyl]oxybenzoic acid	11690	HUEDRYULMJTMDO-XDHOZWIPSA-N	25	7.5		pH 7.5, 25C, strain GCI
+19	3-[2-(2-aminothiazol-4-yl)2-(Z)-methoxyiminoacetylglycyl]oxybenzoic acid	11690	HUEDRYULMJTMDO-XDHOZWIPSA-N	25	7.5		pH 7.5, 25C, strain P99
+25	3-([N-(phenylacetyl)glycyl]oxy)benzoic acid	11691	YVDBYFABAPNOIJ-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, strain GCI
+125	3-([N-(phenylacetyl)glycyl]oxy)benzoic acid	11691	YVDBYFABAPNOIJ-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, strain P99
+11	3-([N-[(2Z)-2-(2-amino-1,3-thiazol-4-yl)-2-(methoxyimino)acetyl]glycyl]oxy)benzoic acid	11829	HUEDRYULMJTMDO-UNOMPAQXSA-N				GC1 beta-lactamase
+19	3-([N-[(2Z)-2-(2-amino-1,3-thiazol-4-yl)-2-(methoxyimino)acetyl]glycyl]oxy)benzoic acid	11829	HUEDRYULMJTMDO-UNOMPAQXSA-N				P99 beta-lactamase
+120	cephaloridin	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	30	7.0		at 30C in 100 mM sodium phosphate (pH 7.0)
+120	cephaloridin	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	30	7.0		30C, pH 7.0
+0.42	CENTA	12473	PFVWVVUSAORMBB-VQIMIIECSA-N	30			at 30C
+29.5	CENTA	12473	PFVWVVUSAORMBB-VQIMIIECSA-N		6.4		in 100 mM MES (pH 6.4)
+0.121	(6R,7R)-3-[(acetyloxy)methyl]-7-[hydroxy(phenylacetyl)amino]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate	109278	QIPMQKKKTROWHY-NVXWUHKLSA-N				pH and temperature not specified in the publication
+0.49	(6R,7R)-3-[(acetyloxy)methyl]-7-[hydroxy(phenylacetyl)amino]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate	109278	QIPMQKKKTROWHY-NVXWUHKLSA-N				pH and temperature not specified in the publication
+1.02	(6R,7R)-3-[(acetyloxy)methyl]-7-(formylamino)-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate	109279	WQTHHXUGFMYHEV-GMSGAONNSA-N				pH and temperature not specified in the publication
+1180	(6R,7R)-3-[(acetyloxy)methyl]-7-(formylamino)-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate	109279	WQTHHXUGFMYHEV-GMSGAONNSA-N				pH and temperature not specified in the publication
+1.81	(6R,7R)-3-[(acetyloxy)methyl]-8-oxo-7-[(thiophen-2-ylacetyl)amino]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate	301	XIURVHNZVLADCM-IUODEOHRSA-N				pH and temperature not specified in the publication
+690	(6R,7R)-3-[(acetyloxy)methyl]-8-oxo-7-[(thiophen-2-ylacetyl)amino]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate	301	XIURVHNZVLADCM-IUODEOHRSA-N				pH and temperature not specified in the publication
+15	cefprozil	14051	WDLWHQDACQUCJR-AGGBKSKLSA-N				
+2.7	ceftizoxime	14052	NNULBSISHYWZJU-LLKWHZGFSA-N				
+620	ceftriazone	2504	VAAUVRVFOQPIGI-SPQHTLEESA-N				
+16	cephradine	14053	RDLPVSKMFDYCOR-UEKVPHQBSA-N				
+667	7-(thienyl-2-acetamido)-3-[2-(4-,N,N-dimethylaminophenylazo)pyridinium-methyl]-3-cephem-4-carboxylic acid	21393	FCHBECOAGZMTFE-ZEQKJWHPSA-N				
+300	6-beta-iodopenicillanate	21492	XWDSFLSFDJZQTM-ALEPSDHESA-M				
+50	7-(thienyl-2-acetamido)-3-[2-(4-N,N-dimethylaminophenylazo)pyridinium-methyl]-3-cephem-4-carboxylic acid	21393	FCHBECOAGZMTFE-ZEQKJWHPSA-N				
+5	cefotetan	21521	SRZNHPXWXCNNDU-IXOPCIAXSA-N				
+0.0833	cefsulodin	21522	SYLKGLMBLAAGSC-IKZMBGHXSA-N				
+255	mezlocillin	21595	YPBATNHYBCGSSN-VWPFQQQWSA-N				
+25	cefsulodine	21522	SYLKGLMBLAAGSC-IKZMBGHXSA-N	30	7.0		30C, pH 7.0
+0.3	ceftaxidime	600	ORFOPKXBNMVMKC-DWVKKRMSSA-N	30	7.0		at 30C in 100 mM sodium phosphate buffer, pH 7.0
+83	cefdinir	25455	RTXOFQZKPXMALH-GHXIOONMSA-N	30	7.0		in 50 mM phosphate buffer (pH 7.0), at 30C
+110	cefcapene	25456	HJJRIJDTIPFROI-NVKITGPLSA-N	30	7.0		in 50 mM phosphate buffer (pH 7.0), at 30C
+0.3	temocillin	27855	BVCKFLJARNKCSS-DWPRYXJFSA-N	30	7.0		pH 7.0, 30C
+1.4	panipenem	27856	TYMABNNERDVXID-DLYFRVTGSA-N	30	7.0		pH 7.0, 30C
+500	panipenem	27856	TYMABNNERDVXID-DLYFRVTGSA-N	30			pH not specified in the publication, 30C, recombinant enzyme
+2.56	(6R,7Z)-3-[(acetyloxy)methyl]-7-(hydroxyimino)-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate	109441	LGBVFRCIYFGIKI-VKRGWIQLSA-N				pH and temperature not specified in the publication
+0.32	(6R,7R)-3-[(acetyloxy)methyl]-7-[formyl(hydroxy)amino]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate	109442	ZJJJLXDZIYJHNN-PSASIEDQSA-N				pH and temperature not specified in the publication
+1.6	(6R,7R)-3-[(acetyloxy)methyl]-7-(hydroxyamino)-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate	109443	LINVPQUOFLSWBV-HZGVNTEJSA-N				pH and temperature not specified in the publication
+0.54	(6R,7Z)-7-(hydroxyimino)-3-methyl-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate 5,5-dioxide	109444	SVQYGKLEWOMSAH-CPLNQPMESA-N				pH and temperature not specified in the publication
+0.46	(6R,7R)-3-[(acetyloxy)methyl]-7-amino-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate	1280	HSHGZXNAXBPPDL-HZGVNTEJSA-N				pH and temperature not specified in the publication
+1.5	benzyl [[(2S)-2-hydroxy-4-phenylbutanoyl]oxy]carbamate	28210	CGZYHJIBGOMZAB-INIZCTEOSA-N				pH not specified in the publication, temperature not specified in the publication
+1.5	benzyl [[(2S)-2-hydroxypropanoyl]oxy]carbamate	28211	YVXNNVNKVZBAQC-QMMMGPOBSA-N				pH not specified in the publication, temperature not specified in the publication
+8.7	benzyl [[(2S)-2-hydroxy-3-phenylpropanoyl]oxy]carbamate	28212	INDIARWCCHBBAC-HNNXBMFYSA-N				pH not specified in the publication, temperature not specified in the publication
+0.25	3-([3-dibenzylamino-3-oxopropanoyl]oxy)benzoic acid	28213	LWFKUQBWEFJNHB-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+3.5	benzyl [[(2S)-2-hydroxy-2-phenylacetyl]oxy]carbamate	28214	OBBLBECZCUYTJJ-AWEZNQCLSA-N				pH not specified in the publication, temperature not specified in the publication
+0.33	3-([3-[benzyl(methyl)amino]-3-oxopropanoyl]oxy)benzoic acid	28215	DZDLJYFCVMNKJX-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+10.9	3-nitrophenyl (2S)-2-hydroxy-3-phenylpropanoate	28216	CDTIWMCQFUPKRT-AWEZNQCLSA-N				pH not specified in the publication, temperature not specified in the publication
+6.9	3-[[(2S)-2-hydroxy-3-phenylpropanoyl]oxy]benzoic acid	28217	UUQMKIZRINZJKF-AWEZNQCLSA-N				pH not specified in the publication, temperature not specified in the publication
+1.17	3-([[(2R)-3-(benzylamino)-2-methyl-3-oxopropanoyl]oxy]methyl)benzoic acid	28218	NZPJMZYLOPDIOX-CYBMUJFWSA-N	25	7.5		pH 7.5, 25C
+6.6	3-([[(2S)-3-(benzylamino)-2-methyl-3-oxopropanoyl]oxy]methyl)benzoic acid	28219	NZPJMZYLOPDIOX-ZDUSSCGKSA-N	25	7.5		pH 7.5, 25C
+0.05	3-([[2-benzyl-3-oxo-3-(benzylamino)propanoyl]oxy]methyl)benzoic acid	28220	YYTFNHBLEOZWTA-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+5.9	benzyl [[(2R)-2-hydroxy-3-phenylpropanoyl]oxy]carbamate	28221	INDIARWCCHBBAC-OAHLLOKOSA-N				pH not specified in the publication, temperature not specified in the publication
+2.9	3-([[(2R)-3-(benzylamino)-2-methoxy-3-oxopropanoyl]oxy]methyl)benzoic acid	60740	XQGVXFLULRNRIH-MRXNPFEDSA-N	25	7.5		pH 7.5, 25C
+7.4	3-([[(2S)-3-(benzylamino)-2-methoxy-3-oxopropanoyl]oxy]methyl)benzoic acid	60754	XQGVXFLULRNRIH-INIZCTEOSA-N	25	7.5		pH 7.5, 25C
+0.0005	tebipenem	127113	GXXLUDOKHXEFBQ-JZSSXWJLSA-N	22	6.5		pH 6.5, 22C, recombinant enzyme

@@ -1,0 +1,74 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+10.6	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	58	7.2	X	mutant D58C, pH 7.2, 25C
+10.9	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	7.2	X	mutant H54N, pH 7.2, 25C
+16	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				enzyme obtained from minimal medium supplemented with Fe2+
+16	S-D-lactoyltrypanothione	7807	XJRACVDNUZSKLX-KKTDSRKXSA-N				wild type protein, no activity observed with S-D-lactoylglutathione, pH not specified in the publication, temperature not specified in the publication
+25.8	S-D-mandeloylglutathione	2747	YUKXYNWSJMQEBV-SLEUVZQESA-N				recombinant enzyme from mitochondria
+25.8	S-D-mandeloylglutathione	2747	YUKXYNWSJMQEBV-SLEUVZQESA-N				pH not specified in the publication, temperature not specified in the publication
+26.7	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				enzyme obtained from minimal medium supplemented with Zn2+
+35.1	S-D-mandeloylglutathione	2747	YUKXYNWSJMQEBV-SLEUVZQESA-N				recombinant enzyme from cytosol
+35.1	S-D-mandeloylglutathione	2747	YUKXYNWSJMQEBV-SLEUVZQESA-N				pH not specified in the publication, temperature not specified in the publication
+38.1	S-D-mandeloylglutathione	2747	YUKXYNWSJMQEBV-SLEUVZQESA-N				wild-type enzyme from mitochondria
+60	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	6.8	X	mutant R257D, at 25C, in 100 mM MOPS/NaOH, pH 6.8
+64.3	S-Lactoylglutathione	1117	VDYDCVUWILIYQF-RRQHEKLDSA-N	25			25C
+67	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	7.4	X	mutant R257Q, at 25C, in 100 mM MOPS/NaOH, pH 7.4
+68	S-succinylglutathione	3366	CEWPGJBJGGBRQM-YUMQZZPRSA-N				
+70	S-Lactoylglutathione	1117	VDYDCVUWILIYQF-RRQHEKLDSA-N	25			25C
+74	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	6.8	X	mutant K260D, at 25C, in 100 mM MOPS/NaOH, pH 6.8
+74	S-D-mandeloylglutathione	2747	YUKXYNWSJMQEBV-SLEUVZQESA-N				
+82	S-Acetoacetylglutathione	4505	VOZHNDXALTUOQQ-IUCAKERBSA-N				
+119.6	S-Lactoylglutathione	1117	VDYDCVUWILIYQF-RRQHEKLDSA-N	25			25C
+129	S-Lactoylglutathione	1117	VDYDCVUWILIYQF-RRQHEKLDSA-N				
+136	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	7.2		recombinant cytosolic isozyme, medium with Fe added, pH 7.2, 25C
+136	S-Lactoylglutathione	1117	VDYDCVUWILIYQF-RRQHEKLDSA-N	25	7.2		pH 7.2, 25C, growth on minimal medium in presence of iron
+142	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				
+149.9	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				enzyme obtained from minimal medium supplemented with Fe2+
+168	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	7.2		recombinant enzyme grown in medium supplemented with Mn2+, pH 7.2, 25C
+168.8	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				enzyme otained from LB medium
+170	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N		7.2		in 10 mM MOPS buffer at pH 7.2, at 25 C
+171	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	6.8	X	mutant K260Q, at 25C, in 100 mM MOPS/NaOH, pH 6.8
+183	S-D-mandeloylglutathione	2747	YUKXYNWSJMQEBV-SLEUVZQESA-N				
+188	S-mandeloylglutathione	3884	YUKXYNWSJMQEBV-GYZKLXCISA-N				enzyme from erythrocytes
+201	S-mandeloylglutathione	3884	YUKXYNWSJMQEBV-GYZKLXCISA-N				recombinant enzyme
+209.9	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				enzyme obtained from minimal medium supplemented with Zn2+
+222	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	6.8	X	mutant R154M, at 25C, in 100 mM MOPS/NaOH, pH 6.8
+240	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	7.2		recombinant cytosolic isozyme, medium with Zn added, pH 7.2, 25C
+240	S-Lactoylglutathione	1117	VDYDCVUWILIYQF-RRQHEKLDSA-N	25	7.2		pH 7.2, 25C, growth on minimal medium without in presence of zinc
+241	S-D-lactoyltrypanothione	7807	XJRACVDNUZSKLX-KKTDSRKXSA-N			X	Y291R/C294K mutant protein, pH not specified in the publication, temperature not specified in the publication
+280	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				
+285	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	6.8	X	mutant R154K, at 25C, in 100 mM MOPS/NaOH, pH 6.8
+301	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				
+322	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	7.2	X	recombinant mutant L9A, pH 7.2, 25C
+359	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	7.2		recombinant enzyme grown in medium supplemented with Fe2+, pH 7.2, 25C
+370	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	7.2		recombinant wild-type enzyme, pH 7.2, 25C
+375	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	6.8		wild-type, at 25C, in 100 mM MOPS/NaOH, pH 6.8
+386	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	7.2	X	recombinant mutant K65A, pH 7.2, 25C
+394.9	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				enzyme obtained from minimal medium supplemented with Mn2+
+408	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	7.2		recombinant enzyme grown in medium not supplemented with metal ions, pH 7.2, 25C
+421	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	7.2	X	recombinant mutant W57N, pH 7.2, 25C
+426	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	7.2	X	recombinant mutant W57D, pH 7.2, 25C
+450	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				
+466	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				
+470	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	7.2		recombinant cytosolic isozyme, minimal medium, pH 7.2, 25C
+470	S-Lactoylglutathione	1117	VDYDCVUWILIYQF-RRQHEKLDSA-N	25	7.2		pH 7.2, 25C, growth on minimal medium without added metal ion
+484	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				
+484	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	7.2	X	mutant R248W, pH 7.2, 25C
+508	S-Lactoylglutathione	1117	VDYDCVUWILIYQF-RRQHEKLDSA-N				pH and temperature not specified in the publication
+510	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	37	7.1	X	recombinant mutant Y175F, pH 7.1, 37C
+600	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	7.2	X	mutant R225A, pH 7.2, 25C
+605	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				wild-type enzyme from mitochondria
+723	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				recombinat enzyme from mitochondria
+723	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				pH not specified in the publication, temperature not specified in the publication
+727	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				
+755	S-mandeloylglutathione	3884	YUKXYNWSJMQEBV-GYZKLXCISA-N				enzyme from erythrocytes
+780	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	37	7.1		recombinant wild-type enzyme, pH 7.1, 37C
+780	S-Lactoylglutathione	1117	VDYDCVUWILIYQF-RRQHEKLDSA-N				recombinant enzyme
+918	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N			X	Y291R/C294K mutant protein, pH not specified in the publication, temperature not specified in the publication
+979	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				recombinat enzyme from cytosol
+979	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				pH not specified in the publication, temperature not specified in the publication
+1190	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	7.2	X	mutant N178A, pH 7.2, 25C
+1490	S-L-glyceroylglutathione	13932	RFNLCUNHFJMGFM-FXQIFTODSA-N				
+1740	S-glycoloylglutathione	6352	ZKTSKYBPCSYSSR-BQBZGAKWSA-N				
+1760	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	7.2	X	mutant K142A, pH 7.2, 25C
+3930	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	7.2		wild-type enzyme, pH 7.2, 25C
+6780	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	25	7.2	X	mutant C140A, pH 7.2, 25C

@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0002	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	hydrolysis of NAD+, mutant enzyme Q187A/189A
+0.0005	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	hydrolysis of NAD+, mutant enzyme E189I
+0.002	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	hydrolysis of NAD+, mutant enzyme E189A; hydrolysis of NAD+, mutant enzyme E189S
+0.005	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	22	7.9	X	mutant enzyme Q158A/E160A, at pH 7.9 and 22C
+0.04	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				
+0.05	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25		X	mutant E215A, co-substrate: (ADP-D-ribosyl)n-actin, 25C, pH not specified in the publication
+0.11	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25		X	mutant E213A, co-substrate: (ADP-D-ribosyl)n-actin, 25C, pH not specified in the publication
+0.65	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25		X	mutant Y82A, co-substrate: (ADP-D-ribosyl)n-actin, 25C, pH not specified in the publication
+1.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25		X	mutant Y77A, co-substrate: (ADP-D-ribosyl)n-actin, 25C, pH not specified in the publication
+1.38	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25		X	mutant S178, co-substrate: (ADP-D-ribosyl)n-actin, 25C, pH not specified in the publication
+1.57	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	22	7.9		wild type enzyme, at pH 7.9 and 22C
+9.35	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25		X	mutant N86A, co-substrate: (ADP-D-ribosyl)n-actin, 25C, pH not specified in the publication
+12	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				hydrolysis of NAD+, wild-type enzyme
+22	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25			wild-type, co-substrate: (ADP-D-ribosyl)n-actin, 25C, pH not specified in the publication
+0.05	(ADP-D-ribosyl)n-actin	113782	CVBAJBKFUNBGLU-PXLIOIHNSA-N	25		X	mutant E215A, co-substrate: NAD+, 25C, pH not specified in the publication
+0.11	(ADP-D-ribosyl)n-actin	113782	CVBAJBKFUNBGLU-PXLIOIHNSA-N	25		X	mutant E213A, co-substrate: NAD+, 25C, pH not specified in the publication
+0.65	(ADP-D-ribosyl)n-actin	113782	CVBAJBKFUNBGLU-PXLIOIHNSA-N	25		X	mutant Y82A, co-substrate: NAD+, 25C, pH not specified in the publication
+1.3	(ADP-D-ribosyl)n-actin	113782	CVBAJBKFUNBGLU-PXLIOIHNSA-N	25		X	mutant Y77A, co-substrate: NAD+, 25C, pH not specified in the publication
+1.38	(ADP-D-ribosyl)n-actin	113782	CVBAJBKFUNBGLU-PXLIOIHNSA-N	25		X	mutant S178A, co-substrate: NAD+, 25C, pH not specified in the publication
+9.35	(ADP-D-ribosyl)n-actin	113782	CVBAJBKFUNBGLU-PXLIOIHNSA-N	25		X	mutant N86A, co-substrate: NAD+, 25C, pH not specified in the publication
+22	(ADP-D-ribosyl)n-actin	113782	CVBAJBKFUNBGLU-PXLIOIHNSA-N	25			wild-type, co-substrate: NAD+, 25C, pH not specified in the publication

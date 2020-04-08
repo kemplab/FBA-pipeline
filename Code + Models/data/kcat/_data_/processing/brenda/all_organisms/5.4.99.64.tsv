@@ -1,0 +1,36 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.001	isobutanoyl-CoA	668	AEWHYWSPVRZHCT-NDZSKPAWSA-N	30	6.6		pH 6.6, 30C, wild-type enzyme
+0.002	(S)-3-hydroxybutanoyl-CoA	3016	QHHKKMYHDBRONY-VKBDFPRVSA-N	30	6.6	X	mutant I90A, pH 6.6, 30C; pH 6.6, 30C, mutant enzyme I90A (mutation in subunit HcmA)
+0.003	(R)-3-hydroxybutanoyl-CoA	9272	QHHKKMYHDBRONY-WZZMXTMRSA-N	30	6.6		wild-type, pH 6.6, 30C
+0.003	(S)-3-hydroxybutanoyl-CoA	3016	QHHKKMYHDBRONY-VKBDFPRVSA-N	30	6.6	X	mutant I90L, pH 6.6, 30C
+0.0033	Butanoyl-CoA	235	CRFNGMNYKDXRTN-CITAKDKDSA-N	30	6.6		pH 6.6, 30C, wild-type enzyme
+0.0033	(R)-3-hydroxybutanoyl-CoA	9272	QHHKKMYHDBRONY-WZZMXTMRSA-N	30	6.6		pH 6.6, 30C, wild-type enzyme
+0.0033	(R)-3-hydroxybutanoyl-CoA	9272	QHHKKMYHDBRONY-WZZMXTMRSA-N	30	6.6		pH 6.6, 30C, wild-type enzyme
+0.0035	(R)-3-hydroxybutanoyl-CoA	9272	QHHKKMYHDBRONY-WZZMXTMRSA-N	30	6.6	X	pH 6.6, 30C, mutant enzyme I90A (mutation in subunit HcmA)
+0.0035	(S)-3-hydroxybutanoyl-CoA	3016	QHHKKMYHDBRONY-VKBDFPRVSA-N	30	6.6	X	pH 6.6, 30C, mutant enzyme I90L (mutation in subunit HcmA)
+0.004	(R)-3-hydroxybutanoyl-CoA	9272	QHHKKMYHDBRONY-WZZMXTMRSA-N	30	6.6	X	mutant I90A, pH 6.6, 30C
+0.0067	2-hydroxy-2-methylpropanoyl-CoA	126426	FFVUICCDNWZCRC-ZSJPKINUSA-N	30	6.6	X	pH 6.6, 30C, mutant enzyme I90L (mutation in subunit HcmA)
+0.007	2-hydroxy-2-methylpropanoyl-CoA	126426	FFVUICCDNWZCRC-ZSJPKINUSA-N	30	6.6	X	mutant I90L, pH 6.6, 30C
+0.009	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N	30	6.6	X	pH 6.6, 30C, mutant enzyme I90A (mutation in subunit HcmA)
+0.0093	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N	30	6.6	X	pH 6.6, 30C, mutant enzyme I90V (mutation in subunit HcmA)
+0.011	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N	30	6.6		pH 6.6, 30C, wild-type enzyme
+0.02	2-hydroxy-2-methylpropanoyl-CoA	126426	FFVUICCDNWZCRC-ZSJPKINUSA-N	30	6.6	X	pH 6.6, 30C, mutant enzyme I90V
+0.02	2-hydroxy-2-methylpropanoyl-CoA	126426	FFVUICCDNWZCRC-ZSJPKINUSA-N	30	6.6	X	mutant I90V, pH 6.6, 30C; pH 6.6, 30C, mutant enzyme I90V (mutation in subunit HcmA)
+0.0245	2-hydroxy-2-methylpropanoyl-CoA	126426	FFVUICCDNWZCRC-ZSJPKINUSA-N	30	6.6	X	pH 6.6, 30C, mutant enzyme I90A (mutation in subunit HcmA)
+0.025	2-hydroxy-2-methylpropanoyl-CoA	126426	FFVUICCDNWZCRC-ZSJPKINUSA-N	30	6.6	X	mutant I90A, pH 6.6, 30C
+0.0255	(S)-3-hydroxybutanoyl-CoA	3016	QHHKKMYHDBRONY-VKBDFPRVSA-N	30	6.6	X	pH 6.6, 30C, mutant enzyme D117A (mutation in subunit HcmA)
+0.026	(S)-3-hydroxybutanoyl-CoA	3016	QHHKKMYHDBRONY-VKBDFPRVSA-N	30	6.6	X	mutant D117A, pH 6.6, 30C
+0.027	(R)-3-hydroxybutanoyl-CoA	9272	QHHKKMYHDBRONY-WZZMXTMRSA-N	30	6.6	X	mutant D117A, pH 6.6, 30C; pH 6.6, 30C, mutant enzyme D117A (mutation in subunit HcmA)
+0.033	(S)-3-hydroxybutanoyl-CoA	3016	QHHKKMYHDBRONY-VKBDFPRVSA-N	30	6.6	X	pH 6.6, 30C, mutant enzyme I90V
+0.033	(S)-3-hydroxybutanoyl-CoA	3016	QHHKKMYHDBRONY-VKBDFPRVSA-N	30	6.6	X	mutant I90V, pH 6.6, 30C; pH 6.6, 30C, mutant enzyme I90V (mutation in subunit HcmA)
+0.044	2-hydroxy-2-methylpropanoyl-CoA	126426	FFVUICCDNWZCRC-ZSJPKINUSA-N	30	6.6	X	mutant D117A, pH 6.6, 30C; pH 6.6, 30C, mutant enzyme D117A (mutation in subunit HcmA)
+0.045	2-hydroxy-2-methylpropanoyl-CoA	126426	FFVUICCDNWZCRC-ZSJPKINUSA-N	30	6.6	X	mutant D117V, pH 6.6, 30C; pH 6.6, 30C, mutant enzyme D117V (mutation in subunit HcmA)
+0.05	2-hydroxy-2-methylpropanoyl-CoA	126426	FFVUICCDNWZCRC-ZSJPKINUSA-N	30	6.6		pH 6.6, 30C, wild-type enzyme
+0.05	2-hydroxy-2-methylpropanoyl-CoA	126426	FFVUICCDNWZCRC-ZSJPKINUSA-N	30	6.6		pH 6.6, 30C, wild-type enzyme; wild-type, pH 6.6, 30C
+0.062	(S)-3-hydroxybutanoyl-CoA	3016	QHHKKMYHDBRONY-VKBDFPRVSA-N	30	6.6	X	mutant D117V, pH 6.6, 30C; pH 6.6, 30C, mutant enzyme D117V (mutation in subunit HcmA)
+0.17	(R)-3-hydroxybutanoyl-CoA	9272	QHHKKMYHDBRONY-WZZMXTMRSA-N	30	6.6	X	pH 6.6, 30C, mutant enzyme D117V (mutation in subunit HcmA)
+0.173	(R)-3-hydroxybutanoyl-CoA	9272	QHHKKMYHDBRONY-WZZMXTMRSA-N	30	6.6	X	mutant D117V, pH 6.6, 30C
+0.2	(S)-3-hydroxybutanoyl-CoA	3016	QHHKKMYHDBRONY-VKBDFPRVSA-N	30	6.6		pH 6.6, 30C, wild-type enzyme
+0.2	(S)-3-hydroxybutanoyl-CoA	3016	QHHKKMYHDBRONY-VKBDFPRVSA-N	30	6.6		pH 6.6, 30C, wild-type enzyme; wild-type, pH 6.6, 30C
+1.6	(S)-3-hydroxybutanoyl-CoA	3016	QHHKKMYHDBRONY-VKBDFPRVSA-N	55	7.8		pH 7.8, 55C
+4.9	(R)-3-hydroxybutanoyl-CoA	9272	QHHKKMYHDBRONY-WZZMXTMRSA-N	55	7.8		pH 7.8, 55C

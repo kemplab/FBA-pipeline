@@ -1,0 +1,32 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+53.2	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	22	8.0		wild type enzyme, at pH 8.0 and 22C
+58.6	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	22	8.0	X	mutant enzyme T265S, at pH 8.0 and 22C
+73.9	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	22	8.0	X	mutant enzyme R313H/T265S, at pH 8.0 and 22C
+75.4	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	22	8.0	X	mutant enzyme R313H, at pH 8.0 and 22C
+82.1	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	22	8.0	X	mutant enzyme R313N/T265S, at pH 8.0 and 22C
+89.7	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	22	8.0	X	mutant enzyme R313N, at pH 8.0 and 22C
+0.078	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	8.0		in Tris-HCl buffer (200 mM, pH 8.0), at 37C
+0.088	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	8.0		in Tris-HCl buffer (200 mM, pH 8.0), at 37C
+0.12	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	7.5		at 37C in Tris-HCl (200 mM, pH 7.5)
+3	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	22	8.0	X	mutant enzyme R313N/T265S, at pH 8.0 and 22C
+3	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	25	8.0	X	mutant enzyme T116S, at pH 8.0 and 25C
+12.6	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	22	8.0		wild type enzyme, at pH 8.0 and 22C
+16	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	25	8.0		wild type enzyme, at pH 8.0 and 25C
+19	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	8.5	X	mutant enzyme R313Y, in Tris-HCl buffer (100 mM, pH 8.5), at 37C
+22.2	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	22	8.0	X	mutant enzyme T265S, at pH 8.0 and 22C
+23	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	8.5	X	mutant enzyme E271F/R313Y, in Tris-HCl buffer (100 mM, pH 8.5), at 37C
+23.3	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	22	8.0	X	mutant enzyme R313N, at pH 8.0 and 22C
+26	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	8.5	X	mutant enzyme E271F, in Tris-HCl buffer (100 mM, pH 8.5), at 37C
+26.6	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	22	8.0	X	mutant enzyme R313H, at pH 8.0 and 22C
+32	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	8.5		wild type enzyme, in Tris-HCl buffer (100 mM, pH 8.5), at 37C
+44.6	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	22	8.0	X	mutant enzyme R313H/T265S, at pH 8.0 and 22C
+2	4-methylumbelliferyl 4-O-beta-D-galactosyl-beta-D-glucoside	2340	PRTGXBPFDYMIJH-KSFLKEQHSA-N	37	8.5	X	mutant enzyme E271F, in Tris-HCl buffer (100 mM, pH 8.5), at 37C
+17	4-methylumbelliferyl 4-O-beta-D-galactosyl-beta-D-glucoside	2340	PRTGXBPFDYMIJH-KSFLKEQHSA-N	37	8.5	X	mutant enzyme E271F/R313Y, in Tris-HCl buffer (100 mM, pH 8.5), at 37C
+19	4-methylumbelliferyl 4-O-beta-D-galactosyl-beta-D-glucoside	2340	PRTGXBPFDYMIJH-KSFLKEQHSA-N	37	8.5	X	mutant enzyme R313Y, in Tris-HCl buffer (100 mM, pH 8.5), at 37C
+47	4-methylumbelliferyl 4-O-beta-D-galactosyl-beta-D-glucoside	2340	PRTGXBPFDYMIJH-KSFLKEQHSA-N	37	8.5		wild type enzyme, in Tris-HCl buffer (100 mM, pH 8.5), at 37C
+0.132	methyl 2-([4-[(3-[[4-O-(beta-D-galactopyranosyl)-beta-D-glucopyranosyl]oxy]propyl)amino]-4-oxobutanoyl]amino)benzoate	13053	QUDICYQTRUZUGY-JLTNTNERSA-N	37	8.0		in Tris-HCl buffer (200 mM, pH 8.0), at 37C
+0.75	methyl 2-([4-[(3-[[4-O-(beta-D-galactopyranosyl)-beta-D-glucopyranosyl]oxy]propyl)amino]-4-oxobutanoyl]amino)benzoate	13053	QUDICYQTRUZUGY-JLTNTNERSA-N	37	7.5		at 37C in Tris-HCl (200 mM, pH 7.5)
+0.53	4-methyl-2-oxo-2H-chromen-7-yl 4-O-beta-D-galactopyranosyl-beta-D-glucopyranoside	2340	PRTGXBPFDYMIJH-KSFLKEQHSA-N	37	8.0		in Tris-HCl buffer (200 mM, pH 8.0), at 37C
+0.55	4-methylumbelliferyl-Lewisx	8219	PVUZBLNDARHJPS-FIVSWNKTSA-N	37	8.0		in Tris-HCl buffer (200 mM, pH 8.0), at 37C
+0.2	3-(4-tetradecyl-1H-1,2,3-triazol-1-yl)propyl 4-O-beta-D-galactopyranosyl-beta-D-glucopyranoside	28302	RAUXPXUJOJUCGK-VXDBCSEDSA-N	37	8.0		in Tris-HCl buffer (200 mM, pH 8.0), at 37C
+0.25	methyl 2-([4-[(3-[[3-O-(beta-D-galactopyranosyl)-beta-D-glucopyranosyl]oxy]propyl)amino]-4-oxobutanoyl]amino)benzoate	28303	QMIIKWQJVNKDRA-YTLNFXESSA-N	37	7.5		at 37C in Tris-HCl (200 mM, pH 7.5)

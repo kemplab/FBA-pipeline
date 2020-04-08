@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0061	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	7.8		pH 7.8, 37C, recombinant wild-type enzyme
+0.013	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	7.8		pH 7.8, 37C, recombinant wild-type N-terminal domain
+0.25	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				recombinant enzyme
+0.13	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N				recombinant enzyme
+1.85	geranylgeranyl phosphate	5118	VHUBNUSXPIJYSG-QIRCYJPOSA-N				recombinant enzyme
+0.51	geranyl phosphate	6586	FFOWJDCTFSWUMJ-JXMROGBWSA-N				recombinant enzyme
+0.71	farnesyl phosphate	7415	ALEWCKXBHSDCCT-YFVJMOTDSA-L				recombinant enzyme

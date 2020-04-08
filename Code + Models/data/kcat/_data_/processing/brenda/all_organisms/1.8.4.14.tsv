@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.003	L-methionine (R)-S-oxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme C60S
+0.0033	L-methionine (R)-S-oxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme C60S
+0.268	L-methionine (R)-S-oxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+0.29	L-methionine (R)-S-oxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme C15S
+0.29	L-methionine (R)-S-oxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme C15S
+1	L-methionine (R)-S-oxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N	25	8.0	X	mutant C84A/C94A/C136A, 25C, pH 8.0; mutant C94A , 25C, pH 8.0
+2.6	L-methionine (R)-S-oxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N	25	8.0	X	mutant C84A/C136A, 25C, pH 8.0
+2.8	L-methionine (R)-S-oxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+6.9	L-methionine (R)-S-oxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N				
+8.5	L-methionine (R)-S-oxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N	25	8.0	X	mutant C136A, 25C, pH 8.0
+13	L-methionine (R)-S-oxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N	25	8.0	X	mutant C94A/C136A, 25C, pH 8.0
+14	L-methionine (R)-S-oxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N	25	8.0		wild-type, 25C, pH 8.0
+18	L-methionine (R)-S-oxide	2780	QEFRNWWLZKMPFJ-ZXPFJRLXSA-N	25	8.0	X	mutant C84A, 25C, pH 8.0

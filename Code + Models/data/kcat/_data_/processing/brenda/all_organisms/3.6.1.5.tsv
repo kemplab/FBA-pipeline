@@ -1,0 +1,48 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+280	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.4		wild type enzyme, at pH 7.4, temperature not specified in the publication
+860	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.6		pH 7.6, 37C
+1230	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.4	X	mutant enzyme R492G, at pH 7.4, temperature not specified in the publication
+1410	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.4	X	mutant enzyme E493G, at pH 7.4, temperature not specified in the publication
+2200	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.4	X	mutant enzyme R492G/E493G, at pH 7.4, temperature not specified in the publication
+31.1	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	25	7.4	X	recombinant mutant EDC Y409F, pH 7.4, 25C
+50.4	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	25	7.4	X	recombinant mutant EDC K257M, pH 7.4, 25C
+77.3	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	25	7.4		recombinant wild-type enzyme, pH 7.4, 25C
+86.1	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	25	7.4	X	recombinant mutant EDC Y314F, pH 7.4, 25C
+86.9	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	25	7.4	X	recombinant mutant EDC DELTA MIL, pH 7.4, 25C
+80.9	UDP	24	XCCTYIAWTASOJW-XVFCMESISA-N	25	7.4		recombinant wild-type enzyme, pH 7.4, 25C
+93	UDP	24	XCCTYIAWTASOJW-XVFCMESISA-N	25	7.4	X	recombinant mutant EDC DELTA MIL, pH 7.4, 25C
+80.9	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	25	7.4		recombinant wild-type enzyme, pH 7.4, 25C
+82.6	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N	25	7.4		in presence of 0.1 mM AMP, recombinant wild-type enzyme, pH 7.4, 25C
+83.2	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N	25	7.4		in presence of 0.1 mM UMP, recombinant wild-type enzyme, pH 7.4, 25C; recombinant wild-type enzyme, pH 7.4, 25C
+103.7	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N	25	7.4		in presence of 0.1 mM AHM, recombinant wild-type enzyme, pH 7.4, 25C
+103.4	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	25	7.4		recombinant wild-type enzyme, pH 7.4, 25C
+121.2	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	25	7.4	X	recombinant mutant EDC DELTA MIL, pH 7.4, 25C
+1.5	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	8.5		pH 8.5, 37C
+636	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	30	6.0		30C, pH 6.0, presence of Ca2+
+2222	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	30	6.0		30C, pH 6.0, presence of Ca2+
+455	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	30	6.0		30C, pH 6.0, presence of Ca2+
+2841	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	30	6.0		30C, pH 6.0, presence of Ca2+
+490	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	30	6.0		30C, pH 6.0, presence of Ca2+
+2174	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	30	6.0		30C, pH 6.0, presence of Ca2+
+0.74	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	8.5		pH 8.5, 37C
+573	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	30	6.0		30C, pH 6.0, presence of Ca2+
+3019	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	30	6.0		30C, pH 6.0, presence of Ca2+
+105.3	ITP	203	HAEJPQIATWHALX-KQYNXXCUSA-N	25	7.4		recombinant wild-type enzyme, pH 7.4, 25C
+79.9	IDP	372	JPXZQMKKFWMMGK-KQYNXXCUSA-N	25	7.4		recombinant wild-type enzyme, pH 7.4, 25C
+80.2	TDP	449	UJLXYODCHAELLY-XLPZGREQSA-N	25	7.4		recombinant wild-type enzyme, pH 7.4, 25C
+0.96	8-oxo-dGTP	1687	BUZOGVVQWCXXDP-UOWFLXDJSA-N	37	8.5		pH 8.5, 37C
+682	1,N6-Etheno-ATP	8238	BKQZGVPRPNNNDW-WOUKDFQISA-N	30	6.0		30C, pH 6.0, presence of Ca2+
+1642	1,N6-Etheno-ATP	8238	BKQZGVPRPNNNDW-WOUKDFQISA-N	30	6.0		30C, pH 6.0, presence of Ca2+
+86	1,N6-etheno-ADP	8825	OWCTWNCXGDVJGX-WOUKDFQISA-N	30	6.0		30C, pH 6.0, presence of Ca2+
+1384	1,N6-etheno-ADP	8825	OWCTWNCXGDVJGX-WOUKDFQISA-N	30	6.0		30C, pH 6.0, presence of Ca2+
+191	2'(3')-O-(2,4,6-trinitrophenyl)adenosine 5'-triphosphate	11919	OAXUBMUTFMRPFW-UIVNEZHESA-J	30	6.0		30C, pH 6.0, presence of Ca2+
+982	2'(3')-O-(2,4,6-trinitrophenyl)adenosine 5'-triphosphate	11919	OAXUBMUTFMRPFW-UIVNEZHESA-J	30	6.0		30C, pH 6.0, presence of Ca2+
+70	2'(3')-O-(2,4,6-trinitrophenyl)adenosine 5'-diphosphate	11920	QCCVUZJMPDVECV-UIVNEZHESA-K	30	6.0		30C, pH 6.0, presence of Ca2+
+328	2'(3')-O-(2,4,6-trinitrophenyl)adenosine 5'-diphosphate	11920	QCCVUZJMPDVECV-UIVNEZHESA-K	30	6.0		30C, pH 6.0, presence of Ca2+
+800	3'(2')-O-(methylanthranoyl)adenosine 5'-triphosphate	11921	YKXDVOAEIPOQMJ-LRBMDJJVSA-J	30	6.0		30C, pH 6.0, presence of Ca2+
+965	3'(2')-O-(methylanthranoyl)adenosine 5'-triphosphate	11921	YKXDVOAEIPOQMJ-LRBMDJJVSA-J	30	6.0		30C, pH 6.0, presence of Ca2+
+23	3'(2')-O-(methylanthranoyl)adenosine 5'-diphosphate	11922	JVGIDOWJFPYNRI-LRBMDJJVSA-K	30	6.0		30C, pH 6.0, presence of Ca2+
+828	3'(2')-O-(methylanthranoyl)adenosine 5'-diphosphate	11922	JVGIDOWJFPYNRI-LRBMDJJVSA-K	30	6.0		30C, pH 6.0, presence of Ca2+
+595	thio-dATP	12059	CCPIKNHZOWQALM-UHFFFAOYSA-N	30	6.0		30C, pH 6.0, presence of Ca2+
+1101	thio-dATP	12059	CCPIKNHZOWQALM-UHFFFAOYSA-N	30	6.0		30C, pH 6.0, presence of Ca2+
+40.5	AMPCPP	4820	CAWZRIXWFRFUQB-IOSLPCCCSA-N	25	7.4		recombinant wild-type enzyme, pH 7.4, 25C

@@ -1,0 +1,46 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.02	L-Val-4-nitroanilide	4596	IFIZCLBWDPSXDM-JTQLQIEISA-N	65	8.5		pH 8.5, 65C
+0.043	L-Ala-Ala-Pro-Leu-4-nitroanilide	3952	JJYSJBMKKZTIOY-LNMJFAINSA-N	1	7.2		pH 7.2, -1C
+0.08	Pro-4-nitroanilide	2484	JWXPYNYNEUYKOW-JTQLQIEISA-N	21	7.5		pH 7.5, 21C, recombinant enzyme
+0.1	Val-4-nitroanilide	4596	IFIZCLBWDPSXDM-JTQLQIEISA-N	21	7.5		pH 7.5, 21C, recombinant enzyme
+0.13	Glu-4-nitroanilide	109172	JXQXNQKTUGNZLD-VIFPVBQESA-N	21	7.5		pH 7.5, 21C, recombinant enzyme
+0.13	L-Ala-Ala-Pro-Leu-4-nitroanilide	3952	JJYSJBMKKZTIOY-LNMJFAINSA-N	9	7.2		pH 7.2, 9C
+0.18	Ile-4-nitroanilide	22631	NCCAUSZFESISCS-LYNSQETBSA-N	21	7.5		pH 7.5, 21C, recombinant enzyme
+0.36	L-Ala-Ala-Pro-Leu-4-nitroanilide	3952	JJYSJBMKKZTIOY-LNMJFAINSA-N	19	7.2		pH 7.2, 19C
+0.52	Ala-beta-naphthylamide	3781	RQHPADKWNYTHOH-VIFPVBQESA-N	21	7.5		pH 7.5, 21C, native enzyme
+0.68	Ala-4-nitroanilide	2879	PXFUDSMGEYRNNC-LURJTMIESA-N	21	7.5		pH 7.5, 21C, recombinant enzyme
+0.72	Glu-Ala-Pro-Tyr-Lys-amide	22955	ZRNLQPVLNNJTBP-XSXWSVAESA-N	21	7.5		pH 7.5, 21C, recombinant enzyme
+0.88	Gly-Ala-Pro-Tyr-Lys-amide	22954	HHNCNLLFBHRMSN-KNTRFNDTSA-N	21	7.5		pH 7.5, 21C, recombinant enzyme
+0.95	L-Phe-4-nitroanilide	4867	GJHIOWXZFDVUKQ-AWEZNQCLSA-N	65	8.5		pH 8.5, 65C
+1.43	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	65	8.5		pH 8.5, 65C
+1.8	Lys-4-nitroanilide	2640	VUUNELJIFNFWJC-NSHDSACASA-N	21	7.5		pH 7.5, 21C, recombinant enzyme
+3	L-leucine 4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with Cd2+ and Zn2+ bound
+3.13	Ala-Ala-Pro-Tyr-Lys-amide	22952	FQQYMPJYWRWZRZ-NHUSPQTBSA-N	21	7.5		pH 7.5, 21C, recombinant enzyme
+3.13	Leu-Ala-Pro-Tyr-Lys-amide	22953	FHQWRBRHMKLUKF-NHKCCNDQSA-N	21	7.5		pH 7.5, 21C, recombinant enzyme
+3.5	Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	21	7.5		pH 7.5, 21C, recombinant enzyme
+3.67	Leu-Ala-Pro-Tyr-Lys-amide	22953	FHQWRBRHMKLUKF-NHKCCNDQSA-N	21	7.5		pH 7.5, 21C, recombinant enzyme
+3.8	L-leucine-4-anisidide	3933	QMIKKORQMMCAGR-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C, enzyme with Zn2+ and Cd2+ bound
+4.34	Ala-Ala-Pro-Tyr-Lys-amide	22952	FQQYMPJYWRWZRZ-NHUSPQTBSA-N	21	7.5		pH 7.5, 21C, recombinant enzyme
+5.3	L-leucine 4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with Zn2+ and Cd2+ bound
+6.08	Ala-4-nitroanilide	2879	PXFUDSMGEYRNNC-LURJTMIESA-N	21	7.5		pH 7.5, 21C, recombinant enzyme
+6.08	Glu-Ala-Pro-Tyr-Lys-amide	22955	ZRNLQPVLNNJTBP-XSXWSVAESA-N	21	7.5		pH 7.5, 21C, recombinant enzyme
+6.08	Gly-Ala-Pro-Tyr-Lys-amide	22954	HHNCNLLFBHRMSN-KNTRFNDTSA-N	21	7.5		pH 7.5, 21C, recombinant enzyme
+6.17	Pro-Ala-Pro-Tyr-Lys-amide	22951	AREVEHDUPMEPEU-RSYUGDCRSA-N	21	7.5		pH 7.5, 21C, recombinant enzyme
+6.3	L-leucine-anilide	6492	VGQPFIFWYHHVLD-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with Zn2+ and Cd2+ bound
+7.5	thionoleucine-4-anisidide	3045	SMOYJIVTEGSAMM-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C, enzyme with Cd2+ and Zn2+ bound
+7.7	thionoleucine-S-anilide	2633	RTBSZPJMKDVKPJ-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with Cd2+ and Zn2+ bound
+7.9	thionoleucine-4-anisidide	3045	SMOYJIVTEGSAMM-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C, enzyme with 2 Cd2+ bound
+9.3	L-leucine-4-anisidide	3933	QMIKKORQMMCAGR-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C, enzyme with Cd2+ and Zn2+ bound
+9.5	L-leucine-4-anisidide	3933	QMIKKORQMMCAGR-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C, enzyme with 2 Zn2+ bound
+10.6	thionoleucine-S-anilide	2633	RTBSZPJMKDVKPJ-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with 2 Cd2+ bound
+11.1	thionoleucine-4-anisidide	3045	SMOYJIVTEGSAMM-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C, enzyme with 2 Zn2+ bound
+11.5	thionoleucine-S-anilide	2633	RTBSZPJMKDVKPJ-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with 2 Zn2+ bound
+12.2	thionoleucine-4-anisidide	3045	SMOYJIVTEGSAMM-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C, enzyme with Zn2+ and Cd2+ bound
+15.1	L-leucine-anilide	6492	VGQPFIFWYHHVLD-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with Cd2+ and Zn2+ bound
+16	L-leucine-anilide	6492	VGQPFIFWYHHVLD-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with 2 Zn2+ bound
+16.9	thionoleucine-S-anilide	2633	RTBSZPJMKDVKPJ-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with Zn2+ and Cd2+ bound
+23.3	thionoleucine-S-anilide	2633	RTBSZPJMKDVKPJ-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with Zn2+ and Cd2+ bound
+60	L-leucine 4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with 2 Zn2+ bound
+126.7	Ala-4-nitroanilide	2879	PXFUDSMGEYRNNC-LURJTMIESA-N	21	7.5		pH 7.5, 21C, native enzyme
+138	Ala-4-nitroanilide	2879	PXFUDSMGEYRNNC-LURJTMIESA-N	21	7.5		pH 7.5, 21C, native enzyme
+33300	Ala-Thr-Ala	13602	OEVCHROQUIVQFZ-YTLHQDLWSA-N				

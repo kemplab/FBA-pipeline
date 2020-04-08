@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.13	5-diphospho-1D-myo-inositol 1,2,3,4,6-pentakisphosphate	2158	UPHPWXPNZIOZJL-KXXVROSKSA-N	37	7.2		isoform PPIP5K2, in 20 mM HEPES-NaOH pH 7.2, 50 mM KCl, at 37C
+4	1D-myo-inositol 5-diphosphate pentakisphosphate	2158	UPHPWXPNZIOZJL-KXXVROSKSA-N	37	6.2		pH 6.2, 37C, VIP1
+38	1D-myo-inositol 5-diphosphate pentakisphosphate	2158	UPHPWXPNZIOZJL-KXXVROSKSA-N	37	6.2		pH 6.2, 37C, VIP2
+0.002	1-diphospho-1D-myo-inositol 2,3,4,5,6-pentakisphosphate	13074	UPHPWXPNZIOZJL-UOTPTPDRSA-N	37	7.2		isoform PPIP5K2, in 20 mM HEPES-NaOH pH 7.2, 50 m MKCl, at 37C
+0.19	1,5-bis-diphospho-1D-myo-inositol 2,3,4,6-tetrakisphosphate	19699	HHQOOERQSFJGEP-SLWYWOEDSA-N	37	7.2		isoform PPIP5K2, in 20 mM HEPES-NaOH pH 7.2, 50 mM KCl, at 37C

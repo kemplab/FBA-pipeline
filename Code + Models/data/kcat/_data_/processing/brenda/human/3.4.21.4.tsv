@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.25	benzoyl-DL-Arg-7-amido-4-methylcoumarin	26443	HYJIKHYBLDRPMG-UHFFFAOYSA-N	37	7.4		in 10 mM Tris, 20 mM CaCl2, pH 7.4, at 37C
+1.33	benzoyl-DL-Arg-p-nitroanilide	4118	SWPMUPPZKIJZNK-UHFFFAOYSA-N	37	7.4		in 10 mM Tris, 20 mM CaCl2, pH 7.4, at 37C
+1.41	tert-butoxycarbonyl-L-Gln-L-Ala-L-Arg-7-amido-4-methylcoumarin	12688	LQSLBVXESNRILG-VDGAXYAQSA-N	37	7.4		in 10 mM Tris, 20 mM CaCl2, pH 7.4, at 37C
+3.86	Z-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0	X	mutant enzyme R193G/G142A, in 20 mM Tricine,10 mM CaCl2, at pH 8.0 and 20C
+20	Z-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0		wild type enzyme, in 20 mM Tricine,10 mM CaCl2, at pH 8.0 and 20C
+29.2	Z-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0	X	mutant enzyme R193G/G184A, in 20 mM Tricine,10 mM CaCl2, at pH 8.0 and 20C
+51.5	Z-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0	X	mutant enzyme R193G/G19A, in 20 mM Tricine,10 mM CaCl2, at pH 8.0 and 20C
+54.1	Z-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0	X	mutant enzyme R193G, in 20 mM Tricine,10 mM CaCl2, at pH 8.0 and 20C
+83.6	Z-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0	X	mutant enzyme R193A, in 20 mM Tricine,10 mM CaCl2, at pH 8.0 and 20C
+88.2	Z-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0		wild type enzyme, in 20 mM Tricine,10 mM CaCl2, at pH 8.0 and 20C
+110	N-carbobenzyloxy-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0	X	mutant enzyme R193G, in 50 mM Tricine, 10 mM CaCl2, pH 8.0 at 20C
+124	N-carbobenzyloxy-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0	X	mutant enzyme R193A, in 50 mM Tricine, 10 mM CaCl2, pH 8.0 at 20C
+133	N-carbobenzyloxy-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0	X	mutant enzyme R193Y, in 50 mM Tricine, 10 mM CaCl2, pH 8.0 at 20C
+158	N-carbobenzyloxy-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0		wild type enzyme, in 50 mM Tricine, 10 mM CaCl2, pH 8.0 at 20C
+162	N-carbobenzyloxy-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0	X	mutant enzyme R193F, in 50 mM Tricine, 10 mM CaCl2, pH 8.0 at 20C

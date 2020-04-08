@@ -1,0 +1,23 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.18	L-2,3-diaminopropanoate	6178	PECYZEOJVXMISF-REOHCLBHSA-N			X	mutant D189N, pH and temperature not specified in the publication
+0.35	D-2,3-diaminopropanoate	30124	PECYZEOJVXMISF-UWTATZPHSA-N			X	mutant D189N, pH and temperature not specified in the publication
+2	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	30	7.4	X	pH 7.4, 30C, mutant T385D sDAPL
+2.67	L-2,3-diaminopropanoate	6178	PECYZEOJVXMISF-REOHCLBHSA-N	30	7.4	X	pH 7.4, 30C, mutant D194S sDAPL
+3.05	L-2,3-diaminopropanoate	6178	PECYZEOJVXMISF-REOHCLBHSA-N			X	mutant D120N, pH and temperature not specified in the publication
+5.17	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	30	7.4		pH 7.4, 30C, sDAPL
+7.83	D-2,3-diaminopropanoate	30124	PECYZEOJVXMISF-UWTATZPHSA-N	30	7.4	X	pH 7.4, 30C, mutant D125S sDAPL
+10.5	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	30	7.4	X	pH 7.4, 30C, mutant T385S sDAPL
+20.83	L-2,3-diaminopropanoate	6178	PECYZEOJVXMISF-REOHCLBHSA-N	30	7.4	X	pH 7.4, 30C, mutant D125E sDAPL
+24.6	L-2,3-diaminopropanoate	6178	PECYZEOJVXMISF-REOHCLBHSA-N				wild-type, pH and temperature not specified in the publication
+26	D-2,3-diaminopropanoate	30124	PECYZEOJVXMISF-UWTATZPHSA-N	30	7.4	X	pH 7.4, 30C, mutant D194S sDAPL
+34	DL-2,3-diaminopropanoate	8502	PECYZEOJVXMISF-UHFFFAOYSA-M	30	7.4	X	pH 7.4, 30C, mutant C271V sDAPL
+34.17	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	30	7.4	X	pH 7.4, 30C, mutant T385D sDAPL
+37.33	L-2,3-diaminopropanoate	6178	PECYZEOJVXMISF-REOHCLBHSA-N	30	7.4	X	pH 7.4, 30C, mutant D125S sDAPL
+42	DL-2,3-diaminopropanoate	8502	PECYZEOJVXMISF-UHFFFAOYSA-M	30	7.4	X	pH 7.4, 30C, mutant T385D sDAPL
+42.83	L-2,3-diaminopropanoate	6178	PECYZEOJVXMISF-REOHCLBHSA-N	30	7.4		pH 7.4, 30C, sDAPL
+44.58	D-2,3-diaminopropanoate	30124	PECYZEOJVXMISF-UWTATZPHSA-N				wild-type, pH and temperature not specified in the publication
+51.67	DL-2,3-diaminopropanoate	8502	PECYZEOJVXMISF-UHFFFAOYSA-M	30	7.4	X	pH 7.4, 30C, mutant T385S sDAPL
+57	DL-2,3-diaminopropanoate	8502	PECYZEOJVXMISF-UHFFFAOYSA-M	30	7.4	X	pH 7.4, 30C, mutant C299V sDAPL
+60.17	DL-2,3-diaminopropanoate	8502	PECYZEOJVXMISF-UHFFFAOYSA-M	30	7.4		pH 7.4, 30C, sDAPL
+69.17	DL-2,3-diaminopropanoate	8502	PECYZEOJVXMISF-UHFFFAOYSA-M	30	7.4		pH 7.4, 30C, untagged sDAPL
+375.8	D-2,3-diaminopropanoate	30124	PECYZEOJVXMISF-UWTATZPHSA-N	30	7.4		pH 7.4, 30C, sDAPL

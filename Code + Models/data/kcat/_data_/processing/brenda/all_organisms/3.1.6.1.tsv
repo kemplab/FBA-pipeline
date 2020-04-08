@@ -1,0 +1,19 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000095	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	mutant enzyme C51S, in 100 mM Tris, pH 8.0, 25C
+0.000061	4-nitrophenyl sulfate	481	JBGHTSSFSSUKLR-UHFFFAOYSA-N	25	8.0	X	mutant enzyme C51A, in 100 mM Tris, pH 8.0, 25C
+0.0054	4-nitrophenyl sulfate	481	JBGHTSSFSSUKLR-UHFFFAOYSA-N	25	8.0	X	mutant enzyme C51S, in 100 mM Tris, pH 8.0, 25C
+0.023	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0		wild type enzyme, in 100 mM Tris, pH 8.0, 25C
+14.2	4-nitrophenyl sulfate	481	JBGHTSSFSSUKLR-UHFFFAOYSA-N	25	8.0		wild type enzyme, in 100 mM Tris, pH 8.0, 25C
+40.5	4-nitrophenyl sulfate	481	JBGHTSSFSSUKLR-UHFFFAOYSA-N	29.85	7.4		pH 7.4, 29.85C, pressure: 120 MPa
+41.83	4-nitrophenyl sulfate	481	JBGHTSSFSSUKLR-UHFFFAOYSA-N	17.35	7.4		pH 7.4, 17.35C, pressure: 0.1 MPa
+42.5	4-nitrophenyl sulfate	481	JBGHTSSFSSUKLR-UHFFFAOYSA-N	29.85	7.4		pH 7.4, 29.85C, pressure: 160 MPa
+42.83	4-nitrophenyl sulfate	481	JBGHTSSFSSUKLR-UHFFFAOYSA-N	14.85	7.4		pH 7.4, 14.85C, pressure: 0.1 MPa
+46.16	4-nitrophenyl sulfate	481	JBGHTSSFSSUKLR-UHFFFAOYSA-N	19.85	7.4		pH 7.4, 19.85C, pressure: 0.1 MPa
+46.5	4-nitrophenyl sulfate	481	JBGHTSSFSSUKLR-UHFFFAOYSA-N	29.85	7.4		pH 7.4, 29.85C, pressure: 40 MPa
+48.33	4-nitrophenyl sulfate	481	JBGHTSSFSSUKLR-UHFFFAOYSA-N	29.85	7.4		pH 7.4, 29.85C, pressure: 5 MPa
+51.33	4-nitrophenyl sulfate	481	JBGHTSSFSSUKLR-UHFFFAOYSA-N	29.85	7.4		pH 7.4, 29.85C, pressure: 80 MPa
+56.33	4-nitrophenyl sulfate	481	JBGHTSSFSSUKLR-UHFFFAOYSA-N	24.85	7.4		pH 7.4, 24.85C, pressure: 0.1 MPa
+58	4-nitrophenyl sulfate	481	JBGHTSSFSSUKLR-UHFFFAOYSA-N	22.35	7.4		pH 7.4, 22.35C, pressure: 0.1 MPa
+74.5	4-nitrophenyl sulfate	481	JBGHTSSFSSUKLR-UHFFFAOYSA-N	29.85	7.4		pH 7.4, 29.85C, pressure: 0.1 MPa
+90.83	4-nitrophenyl sulfate	481	JBGHTSSFSSUKLR-UHFFFAOYSA-N	34.85	7.4		pH 7.4, 34.85C, pressure: 0.1 MPa
+1000	p-Nitrophenyl sulfate	481	JBGHTSSFSSUKLR-UHFFFAOYSA-N	45	7.0		6.5 nM purified arylsulfatase, at 45C and pH 7.0

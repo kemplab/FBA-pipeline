@@ -1,0 +1,49 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00024	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N			X	mutant enzyme E56Q
+0.00031	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme E59Q, fusion protein containing and N-terminal extension Gly-Pro-Leu-Gly-Ser-Pro-Asn-Cys
+0.005	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme E55Q fusion protein containing and N-terminal extension of Gly-Pro-Leu-Gly-Ser
+0.0052	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N			X	mutant enzyme E52Q
+0.011	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme E59D, fusion protein containing and N-terminal extension Gly-Pro-Leu-Gly-Ser-Pro-Asn-Cys
+0.013	5',5''-diadenosine tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N	22	7.5	X	mutant P133F, pH 7.5, 22C
+0.035	P1,P5-bis(5'-adenosyl)pentaphosphate	1594	OIMACDRJUANHTJ-XPWFQUROSA-N	50	8.0		pH 8.0, 50C, presence of 1 mM Mn2+
+0.042	5',5''-diadenosine tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N	22	7.5		wild-type, pH 7.5, 22C
+0.055	P1,P4-bis(5'-adenosyl)tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N	50	8.0		pH 8.0, 50C, presence of 1 mM Mn2+
+0.08	5',5''-diadenosine tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N	22	7.5	X	mutant P133A, pH 7.5, 22C
+0.16	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N			X	mutant enzyme K79M
+0.2	P1,P6-bis(5'-adenosyl) hexaphosphate	1906	PZCFFCOJNXGTIM-URSPPAIUSA-N	25	7.6		in 50 mM Tris-HCl, 100 mM KCl, 5 mM MgCl2, pH 7.6, at 25C
+0.29	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme E125Q, fusion protein containing and N-terminal extension Gly-Pro-Leu-Gly-Ser
+0.37	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), 5 mM MgCl2, 20 mM NaCl, 1 mM dithiothreitol, 0.2 mg/ml bovine serum albumin, at 37C
+0.51	2-oxo-dATP	2019	UOACBPRDWRDEHJ-KVQBGUIXSA-N	37	8.0		in 5 0mM Tris-HCl (pH 8.0), 5 mM MgCl2, 20 mM NaCl, 1 mM dithiothreitol, 0.2 mg/ml bovine serum albumin, at 37C
+0.53	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), 5 mM MgCl2, 20 mM NaCl, 1 mM dithiothreitol, 0.2 mg/ml bovine serum albumin, at 37C
+0.58	8-oxo-dGTP	1687	BUZOGVVQWCXXDP-UOWFLXDJSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), 5 mM MgCl2, 20 mM NaCl, 1 mM dithiothreitol, 0.2 mg/ml bovine serum albumin, at 37C
+0.6	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N			X	mutant enzyme K83M
+0.68	diadenosine 5',5''-P1,P4-tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N	22	7.5		presence of 5.0 mM MnCl2, pH 7.5, 22C
+0.75	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N			X	mutant enzyme E103Q
+1.1	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N			X	mutant enzyme Y76A/Y121A
+1.4	P1,P5-bis(5'-adenosyl) pentaphosphate	1594	OIMACDRJUANHTJ-XPWFQUROSA-N	25	7.6		in 50 mM Tris-HCl, 100 mM KCl, 5 mM MgCl2, pH 7.6, at 25C
+1.51	diadenosine 5',5''-P1,P4-tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N	22	7.5		presence of 3.0 mM MnCl2, pH 7.5, 22C
+1.6	diadenosine 5',5''-P1,P4-tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N	22	7.5		presence of 1.5 mM MnCl2, pH 7.5, 22C
+1.78	diadenosine 5',5''-P1,P4-tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N	22	7.5		presence of 1.5 mM MgCl2, pH 7.5, 22C
+2	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N			X	mutant enzyme Y76A
+2.1	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N			X	mutant enzyme K36M
+2.24	diadenosine 5',5''-P1,P4-tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N	22	7.5		presence of 3.0 mM MgCl2, pH 7.5, 22C
+2.5	P1,P4-bis(5'-adenosyl) tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N	25	7.6		in 50 mM Tris-HCl, 100 mM KCl, 5 mM MgCl2, pH 7.6, at 25C
+3.25	diadenosine 5',5''-P1,P4-tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N	22	7.5		presence of 5.0 mM MgCl2, pH 7.5, 22C
+3.6	P1,P4-bis(5'-adenosyl) tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N				
+3.7	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme E58D fusion protein containing and N-terminal extension Gly-Pro-Leu-Gly-Ser-Pro-Asn-Cys
+4	5',5'-diadenosine hexaphosphate	1906	PZCFFCOJNXGTIM-URSPPAIUSA-N		7.5		pH 7.5, 20 mM Mg2+
+4.2	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme R54Q fusion protein containing and N-terminal extension Gly-Pro-Leu-Gly-Ser-Pro-Asn-Cys
+12	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N			X	mutant enzyme H31A
+13	5',5'-diadenosine tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N		7.5		pH 7.5, 20 mM Mg2+
+14	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N			X	mutant enzyme H31V; mutant enzyme Y121A
+17.9	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme E58Q, fusion protein containing and N-terminal extension Gly-Pro-Leu-Gly-Ser-Pro-Asn-Cys
+20.4	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N	25	8.0	X	pH 8.0, 25C, mutant enzyme E122Q, fusion protein containing and N-terminal extension Gly-Pro-Leu-Gly-Ser-Pro-Asn-Cys
+23	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N				wild-type enzyme
+26	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N			X	mutant enzyme Y27A
+27	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N	25	7.8		pH 7.8, 25C
+27	diadenosine 5',5''''-P1,P4-tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), 5 mM MgCl2, 20 mM NaCl, 1 mM dithiothreitol, 0.2 mg/ml bovine serum albumin, at 37C
+29	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N			X	mutant enzyme Y27D
+30	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N			X	mutant enzyme K81M
+31	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N			X	mutant enzyme H38G; mutant enzyme H38K
+40.8	Ap4A	889	KGYJPCNKTNSZSN-XPWFQUROSA-N	25	8.0		pH 8.0, 25C, wild-type enzyme
+43	5',5'-diadenosine tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N		6.5		pH 6.5, 1 mM Zn2+

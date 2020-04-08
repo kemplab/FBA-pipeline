@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+12.9	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	50	7.0		50C, pH 7.0, wild-type enzyme
+3.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	50	7.0	X	50C, pH 7.0, mutant enzyme E487Q
+49.4	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	50	7.0		50C, pH 7.0, wild-type enzyme
+12.3	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	6.5		pH 6.5, 30C
+17.3	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	50	7.0		50C, pH 7.0, wild-type enzyme
+3.5	beta-D-glucose 1-phosphate	583	HXXFSFRBOHSIMQ-DVKNGEFBSA-N	50	7.0	X	50C, pH 7.0, mutant enzyme E487Q
+43.5	beta-D-glucose 1-phosphate	583	HXXFSFRBOHSIMQ-DVKNGEFBSA-N	50	7.0		50C, pH 7.0, wild-type enzyme
+40	kojibiose	1111	HIWPGCMGAMJNRG-CQUJWQHSSA-N	30	6.5		pH 6.5, 30C, reverse phosphorolysis
+6.6	sophorose	1775	HIWPGCMGAMJNRG-RTPHMHGBSA-N	30	6.5		pH 6.5, 30C, reverse phosphorolysis

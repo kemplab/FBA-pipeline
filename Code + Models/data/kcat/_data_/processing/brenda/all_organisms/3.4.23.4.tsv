@@ -1,0 +1,39 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.02	Abz-A-A-F-F-A-N-(2,4-dinitrophenyl)-ethylenediamine	7854	GWGJFRYISNZTNR-BGLSIBDQSA-N				hydrolysis by transgenic chymosin
+0.06	Abz-A-F-F-A-A-N-(2,4-dinitrophenyl)-ethylenediamine	9266	DONLTVASWYJBPN-BGLSIBDQSA-N				hydrolysis by transgenic chymosin or recombinat chymosin
+0.11	Abz-A-A-F-F-A-N-(2,4-dinitrophenyl)-ethylenediamine	7854	GWGJFRYISNZTNR-BGLSIBDQSA-N				hydrolysis by recombinant chymosin
+0.12	Abz-A-A-F-F-A-A-N-(2,4-dinitrophenyl)-ethylenediamine	7853	KTMREBJFNZQLAZ-IETPHBLCSA-N				hydrolysis by recombinant chymosin
+0.14	Abz-A-F-F-A-A-N-(2,4-dinitrophenyl)-ethylenediamine	9266	DONLTVASWYJBPN-BGLSIBDQSA-N				hydrolysis by calf chymosin
+0.16	Abz-A-A-F-F-A-A-N-(2,4-dinitrophenyl)-ethylenediamine	7853	KTMREBJFNZQLAZ-IETPHBLCSA-N				hydrolysis by transgenic chymosin
+0.27	Abz-A-A-F-F-N-(2,4-dinitrophenyl)-ethylenediamine	24066	JFHOECGUYRYPMO-HXBJNPKNSA-N				hydrolysis by calf chymosin
+0.48	Abz-A-A-F-F-p-nitroanilide	15898	HNQIOLNJOTUGSX-UDRQUUIHSA-N				hydrolysis by calf chymosin
+0.8	Abz-A-A-F-F-A-N-(2,4-dinitrophenyl)-ethylenediamine	7854	GWGJFRYISNZTNR-BGLSIBDQSA-N				hydrolysis by calf chymosin
+1.4	Abz-A-A-F-F-A-A-p-nitroanilide	24065	OVLRIKNJZXMGGM-HXLHMMTQSA-N				hydrolysis by calf chymosin
+1.6	Abz-A-A-F-F-A-A-N-(2,4-dinitrophenyl)-ethylenediamine	7853	KTMREBJFNZQLAZ-IETPHBLCSA-N				hydrolysis by calf chymosin
+2	NT/NMN 142-151	1702	NDOKUZCPOUCRJI-ZGKCUTDASA-N				hydrolysis of the Phe148 variant (cleavage L147-F148) by wild type chymosin
+12	NT/NMN 142-151	1702	NDOKUZCPOUCRJI-ZGKCUTDASA-N			X	hydrolysis of the Phe148 variant (cleavage L147-F148) by Gln298Leu mutant chymosin
+12	POm C165-174	3071	MSADMZHPJZOABL-KWWDQKRUSA-N			X	hydrolysis of the Glu171 variant by D289M/Q298L mutant chymosin
+14	POm C165-174	3071	MSADMZHPJZOABL-KWWDQKRUSA-N			X	hydrolysis of the Glu171 variant by Asp289Met mutant chymosin
+16	NT/NMN 142-151	1702	NDOKUZCPOUCRJI-ZGKCUTDASA-N			X	hydrolysis of the Phe148 variant (cleavage L147-F148) by D289M/Q298L mutant chymosin
+17	NT/NMN 142-151	1702	NDOKUZCPOUCRJI-ZGKCUTDASA-N			X	hydrolysis of the Glu148 variant by Gln298Leu mutant chymosin; hydrolysis of the Phe148 variant (cleavage F147-R148) by D289M/Q298L mutant chymosin
+22	NT/NMN 142-151	1702	NDOKUZCPOUCRJI-ZGKCUTDASA-N			X	hydrolysis of the Glu148 variant by D289M/Q298L mutant chymosin
+27	NT/NMN 142-151	1702	NDOKUZCPOUCRJI-ZGKCUTDASA-N			X	hydrolysis of the parent peptide by D289M/Q298L mutant chymosin
+29	AFPLEFKREL	3071	MSADMZHPJZOABL-KWWDQKRUSA-N	37	4.0		pH 4.0, 37C
+30	NT/NMN 142-151	1702	NDOKUZCPOUCRJI-ZGKCUTDASA-N			X	hydrolysis of the parent peptide by Gln298Leu mutant chymosin
+32	NT/NMN 142-151	1702	NDOKUZCPOUCRJI-ZGKCUTDASA-N			X	hydrolysis of the Glu148 variant by Asp289Met mutant chymosin
+35	NT/NMN 142-151	1702	NDOKUZCPOUCRJI-ZGKCUTDASA-N			X	hydrolysis of the parent peptide by Asp289Met mutant chymosin
+39	NT/NMN 142-151	1702	NDOKUZCPOUCRJI-ZGKCUTDASA-N			X	hydrolysis of the Phe148 variant (cleavage L147-F148) by Asp289Met mutant chymosin
+41	NT/NMN 142-151	1702	NDOKUZCPOUCRJI-ZGKCUTDASA-N				hydrolysis of the parent peptide by wild type chymosin
+42	NT/NMN 142-151	1702	NDOKUZCPOUCRJI-ZGKCUTDASA-N			X	hydrolysis of the Phe148 variant (cleavage F147-R148) by Asp289Met mutant chymosin
+43	POm C165-174	3071	MSADMZHPJZOABL-KWWDQKRUSA-N			X	hydrolysis of the parent peptide by D289M/Q298L mutant chymosin
+46	NT/NMN 142-151	1702	NDOKUZCPOUCRJI-ZGKCUTDASA-N				hydrolysis of the Glu148 variant by wild type chymosin
+49	NT/NMN 142-151	1702	NDOKUZCPOUCRJI-ZGKCUTDASA-N			X	hydrolysis of the Phe148 variant (cleavage F147-R148) by Gln298Leu mutant chymosin
+52	POm C165-174	3071	MSADMZHPJZOABL-KWWDQKRUSA-N			X	hydrolysis of the Glu171 variant by Gln298Leu mutant chymosin
+63	POm C165-174	3071	MSADMZHPJZOABL-KWWDQKRUSA-N				hydrolysis of the Glu171 variant by wild type chymosin
+90	POm C165-174	3071	MSADMZHPJZOABL-KWWDQKRUSA-N			X	hydrolysis of the parent peptide by Gln298Leu mutant chymosin
+101	POm C165-174	3071	MSADMZHPJZOABL-KWWDQKRUSA-N			X	hydrolysis of the parent peptide by Asp289Met mutant chymosin
+191	NT/NMN 142-151	1702	NDOKUZCPOUCRJI-ZGKCUTDASA-N				hydrolysis of the Phe148 variant (cleavage F147-R148) by wild type chymosin
+219	POm C165-174	3071	MSADMZHPJZOABL-KWWDQKRUSA-N				hydrolysis of the parent peptide by wild type chymosin
+290	AFPLEFFREL	8173	WGCOIJPNDNTBDD-DDVVHHRCSA-N	37	4.0		pH 4.0, 37C
+427	AFPLEFIREL	8172	VSAVYBWIVKNTCK-XKDISUKVSA-N	37	4.0		pH 4.0, 37C
+2600	AFPLEFEREL	8171	XOSCTKQXMALCEQ-DBNWJRPISA-N	37	4.0		pH 4.0, 37C

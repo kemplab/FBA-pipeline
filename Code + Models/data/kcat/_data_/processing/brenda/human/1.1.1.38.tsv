@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+5	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	pH 7.4, 30C, recombinant mutant K57S/E59N/K73E/D102S with or without 5 mM fumarate
+43	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4		pH 7.4, 30C, recombinant wild-type enzyme
+55	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4		pH 7.4, 30C, recombinant wild-type enzyme with 5 mM fumarate

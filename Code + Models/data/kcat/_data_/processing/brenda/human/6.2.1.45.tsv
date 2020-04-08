@@ -1,0 +1,33 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000075	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				chimeric Ub1, pH not specified in the publication, temperature not specified in the publication
+0.00013	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant DELTA946, pH not specified in the publication, temperature not specified in the publication
+0.005	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme D576E
+0.011	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme D576N; intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme K528A
+0.015	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme K528A
+0.022	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme D576N
+0.024	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme D576A
+0.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme D576E
+0.12	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme D576A
+3.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant DELTA348, pH not specified in the publication, temperature not specified in the publication
+3.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, wild-type enzyme
+3.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+3.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, wild-type enzyme
+0.005	ubiquitin	197	XZPGMIMDVUCDGH-BYPYZUCNSA-N			X	above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme D576E
+0.011	ubiquitin	197	XZPGMIMDVUCDGH-BYPYZUCNSA-N			X	above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme D576N; intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme K528A
+0.015	ubiquitin	197	XZPGMIMDVUCDGH-BYPYZUCNSA-N			X	above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme K528A
+0.022	ubiquitin	197	XZPGMIMDVUCDGH-BYPYZUCNSA-N			X	intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme D576N
+0.024	ubiquitin	197	XZPGMIMDVUCDGH-BYPYZUCNSA-N			X	above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme D576A
+0.1	ubiquitin	197	XZPGMIMDVUCDGH-BYPYZUCNSA-N			X	intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme D576E
+0.12	ubiquitin	197	XZPGMIMDVUCDGH-BYPYZUCNSA-N			X	intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme D576A
+3.4	ubiquitin	197	XZPGMIMDVUCDGH-BYPYZUCNSA-N				intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, wild-type enzyme
+6	ubiquitin	197	XZPGMIMDVUCDGH-BYPYZUCNSA-N				above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, wild-type enzyme
+0.005	ubiquitin carrier protein E2	3197	QRAMHJBBMFNBFF-UHFFFAOYSA-N			X	above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme D576E
+0.011	ubiquitin carrier protein E2	3197	QRAMHJBBMFNBFF-UHFFFAOYSA-N			X	above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme D576N; intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme K528A
+0.015	ubiquitin carrier protein E2	3197	QRAMHJBBMFNBFF-UHFFFAOYSA-N			X	above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme K528A
+0.022	ubiquitin carrier protein E2	3197	QRAMHJBBMFNBFF-UHFFFAOYSA-N			X	intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme D576N
+0.024	ubiquitin carrier protein E2	3197	QRAMHJBBMFNBFF-UHFFFAOYSA-N			X	above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, mutant enzyme D576A
+0.1	ubiquitin carrier protein E2	3197	QRAMHJBBMFNBFF-UHFFFAOYSA-N			X	intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme D576E
+0.12	ubiquitin carrier protein E2	3197	QRAMHJBBMFNBFF-UHFFFAOYSA-N			X	intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, mutant enzyme D576A
+3.4	ubiquitin carrier protein E2	3197	QRAMHJBBMFNBFF-UHFFFAOYSA-N				intrinsic kcat for transthiolation of ubiquitin carrier protein E2 corrected for saturating ATP, 125I-ubiquitin, and ubiquitin carrier protein E2, wild-type enzyme
+6	ubiquitin carrier protein E2	3197	QRAMHJBBMFNBFF-UHFFFAOYSA-N				above, intrinsic kcat for ubiquitin adenylate formation corrected for saturating ATP and 125I-ubiquitin, wild-type enzyme

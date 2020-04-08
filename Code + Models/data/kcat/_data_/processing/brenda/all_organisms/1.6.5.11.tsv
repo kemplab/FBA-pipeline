@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+4.95	oxidized 2,6-dichloroindophenol	740	CCBICDLNWJRFPO-UHFFFAOYSA-N		7.4		cosubstrate: NADH, pH 7.4, temperature not specified in the publication
+6	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N		7.4		cosubstrate: NADPH, pH 7.4, temperature not specified in the publication
+6.86	Ubiquinone-10	3850	ACTIUHUUMQJHFO-AMJCLVIFSA-N		7.4		cosubstrate: NADH, pH 7.4, temperature not specified in the publication
+9.74	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N		7.4		cosubstrate: NADH, pH 7.4, temperature not specified in the publication
+11.2	ferrocenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N		7.4		cosubstrate: NADH, pH 7.4, temperature not specified in the publication
+14.3	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N		7.4		cosubstrate: NADH, pH 7.4, temperature not specified in the publication
+14.6	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		7.4		cosubstrate: NADPH, pH 7.4, temperature not specified in the publication
+15.6	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		7.4		cosubstrate: NADH, pH 7.4, temperature not specified in the publication
+240	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	37	7.5		isoform NdhF, pH 7.5, 37C
+1000	2,6-dimethoxy-1,4-benzoquinone	10979	OLBNOBQOQZRLMP-UHFFFAOYSA-N		6.0		pH 6.0, room temperature
+1100	2,5-dimethoxy-1,4-benzoquinone	11078	RMMPZDDLWLALLJ-UHFFFAOYSA-N				
+1100	4,5-dimethoxy-1,2-benzoquinone	21742	DCNHYWSNHGOKHN-UHFFFAOYSA-N				
+1100	2,5-dimethoxy-1,4-benzoquinone	11078	RMMPZDDLWLALLJ-UHFFFAOYSA-N		6.0		pH 6.0, room temperature
+1200	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		6.0		pH 6.0, room temperature
+1500	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	37	7.5		isoform NdhC, pH 7.5, 37C
+2200	2,6-dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N		6.0		pH 6.0, room temperature
+2600	Fe(CN)63-	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N		6.0		pH 6.0, room temperature
+4000	benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N		6.0		pH 6.0, room temperature
+5300	2,3-dimethoxy-5-methyl-1,4-benzoquinone	1753	UIXPTCZPFCVOQF-UHFFFAOYSA-N		6.0		pH 6.0, room temperature

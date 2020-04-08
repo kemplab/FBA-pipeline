@@ -1,0 +1,3 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.1	sulfur	687	NINIDFKCEFEMDL-UHFFFAOYSA-N	65	7.2		pH 7.2, 65C, reductase reaction (formation of sulfite plus thiosulfate)
+2.2	sulfur	687	NINIDFKCEFEMDL-UHFFFAOYSA-N	65	7.2		pH 7.2, 65C, oxygenase reaction (formation of hydrogen sulfide)

@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+430	glycerol	129	PEDCQBHIVMGVHV-UHFFFAOYSA-N	37	6.0		wild type enzyme, at pH 6.0 and 37C
+460	glycerol	129	PEDCQBHIVMGVHV-UHFFFAOYSA-N	37	6.0	X	mutant enzyme KpG60, at pH 6.0 and 37C
+860	glycerol	129	PEDCQBHIVMGVHV-UHFFFAOYSA-N	37			37C, recombinant enzyme, purification method 2
+890	glycerol	129	PEDCQBHIVMGVHV-UHFFFAOYSA-N	37	6.0	X	mutant enzyme KpG525, at pH 6.0 and 37C
+392	Propane-1,2-diol	679	DNIAPMSPPWPWGF-UHFFFAOYSA-N	37			37C, recombinant enzyme, purification method 2
+200	pentane-1,2-diol	4159	WCVRQHFDJLLWFE-UHFFFAOYSA-N	37	6.0		wild type enzyme, at pH 6.0 and 37C
+250	pentane-1,2-diol	4159	WCVRQHFDJLLWFE-UHFFFAOYSA-N	37	6.0	X	mutant enzyme KpG60, at pH 6.0 and 37C
+310	pentane-1,2-diol	4159	WCVRQHFDJLLWFE-UHFFFAOYSA-N	37	6.0	X	mutant enzyme KpG525, at pH 6.0 and 37C

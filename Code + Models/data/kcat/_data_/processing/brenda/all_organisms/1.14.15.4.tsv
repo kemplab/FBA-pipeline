@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0378	corticosterone	839	OMFXVFTZEKFJBZ-HJTSIMOOSA-N				+/-0.2268, calculatetd from Kcat/Km
+0.133	11-deoxycorticosterone	1227	ZESRJSPZRDMNHY-YFWFAHHUSA-N				dipalmitoyl phosphatidylcholine vesicles + diphosphatidyl glycerol
+0.167	11-deoxycortisol	2076	WHBHBVVOGNECLV-OBQKJFGGSA-N		7.4		pH 7.4, recombinant enzyme
+0.3	11-deoxycorticosterone	1227	ZESRJSPZRDMNHY-YFWFAHHUSA-N				18-hydroxylation
+0.583	11-deoxycorticosterone	1227	ZESRJSPZRDMNHY-YFWFAHHUSA-N				dipalmitoyl phosphatidylcholine vesicles
+0.66	11-deoxycorticosterone	1227	ZESRJSPZRDMNHY-YFWFAHHUSA-N				+/-2.112, calculatetd from Kcat/Km
+0.85	11-deoxycorticosterone	1227	ZESRJSPZRDMNHY-YFWFAHHUSA-N		7.4		pH 7.4, recombinant enzyme
+1.83	11-deoxycorticosterone	1227	ZESRJSPZRDMNHY-YFWFAHHUSA-N				11beta-hydroxylation
+3.45	11-deoxycortisol	2076	WHBHBVVOGNECLV-OBQKJFGGSA-N				11beta-hydroxylation

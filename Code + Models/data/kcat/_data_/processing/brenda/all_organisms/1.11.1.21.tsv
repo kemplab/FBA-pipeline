@@ -1,0 +1,179 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0061	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0	X	catalase activity, mutant enzyme H106Y, at pH 7.0 and 37C
+0.057	Isoniazid	674	QRXWMOHMRWLFEY-UHFFFAOYSA-N	37	7.5		wild type enzyme, in 50 mM sodium phosphate buffer (pH 7.5), at 37C
+0.081	Isoniazid	674	QRXWMOHMRWLFEY-UHFFFAOYSA-N	37	7.5	X	mutant enzyme S315T, in 50 mM sodium phosphate buffer (pH 7.5), at 37C
+0.089	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	106	7.0	X	catalase activity, mutant enzyme H106C, at pH 7.0 and 37C
+0.22	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	4.5	X	mutant enzyme R108A/W111F, peroxidase activity, at pH 4.5 and 25C
+0.29	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	4.5	X	mutant enzyme R108A/W111F/D141A, peroxidase activity, at pH 4.5 and 25C
+0.34	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	6.0	X	peroxidatic activity, mutant enzyme H108L, in 10 mM KH2PO4/K2HPO4, pH 6.0, at 25C
+0.37	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	6.0	X	peroxidatic activity, mutant enzyme W321F, in 10 mM KH2PO4/K2HPO4, pH 6.0, at 25C
+0.72	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	6.0		peroxidatic activity, wild type enzyme, in 10 mM KH2PO4/K2HPO4, pH 6.0, at 25C
+0.86	2-dianisidine	1236	JRBJSXQPQWSCCF-UHFFFAOYSA-N	23		X	recombinant mutant S315N, 23C
+0.99	2-dianisidine	1236	JRBJSXQPQWSCCF-UHFFFAOYSA-N	23		X	recombinant mutants L634F and D735A, 23C
+1.06	2-dianisidine	1236	JRBJSXQPQWSCCF-UHFFFAOYSA-N	23		X	recombinant mutant L619P, 23C
+1.1	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	6.0	X	peroxidase activity, mutant enzyme H106Y, at pH 6.0 and 25C
+1.1	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0	X	catalase activity, mutant enzyme W105F, at pH 7.0 and 37C
+1.2	o-Dianisidine	1236	JRBJSXQPQWSCCF-UHFFFAOYSA-N	37	7.5	X	mutant enzyme S315T, peroxidase activity, in 50 mM sodium phosphate buffer (pH 7.5), at 37C
+1.6	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	106	6.0	X	peroxidase activity, mutant enzyme H106C, at pH 6.0 and 25C
+1.69	2-dianisidine	1236	JRBJSXQPQWSCCF-UHFFFAOYSA-N	23		X	recombinant mutant A139P, 23C
+2	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23	7.0	X	catalase activity, mutant enzyme H123E, in 100 mM phosphate buffer, pH 7.0, at 23C
+2	o-Dianisidine	1236	JRBJSXQPQWSCCF-UHFFFAOYSA-N	37	7.5		wild type enzyme, peroxidase activity, in 50 mM sodium phosphate buffer (pH 7.5), at 37C
+2.1	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0	X	catalase activity, mutant enzyme R102K, at pH 7.0 and 37C
+2.4	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	6.0	X	peroxidatic activity, mutant enzyme W107F, in 10 mM KH2PO4/K2HPO4, pH 6.0, at 25C
+2.6	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0	X	catalase activity, mutant enzyme H267Y, at pH 7.0 and 37C
+3	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.0	X	mutant H290Q, pH 7.0, 30C
+3.48	2-dianisidine	1236	JRBJSXQPQWSCCF-UHFFFAOYSA-N	23			recombinant wild-type enzyme, 23C
+3.8	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	4.5	X	mutant enzyme R108K, peroxidase activity, at pH 4.5 and 25C
+4.5	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	7.5		peroxidatic activity, using tert-butyl hydroperoxide as cosubstrate, in 10 mM K2HPO4/KH2PO4 (pH 7.5), at 25C
+4.8	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	6.0	X	catalatic activity, mutant enzyme W107F, in 10 mM KH2PO4/K2HPO4, pH 6.0, at 25C
+4.85	2-dianisidine	1236	JRBJSXQPQWSCCF-UHFFFAOYSA-N	23		X	recombinant mutant A110V, 23C
+5.4	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	6.0	X	peroxidatic activity, mutant enzyme W107F/W321F, in 10 mM KH2PO4/K2HPO4, pH 6.0, at 25C
+5.9	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	4.5	X	mutant enzyme R108A/D141A, peroxidase activity, at pH 4.5 and 25C
+6	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23	7.0	X	catalase activity, mutant enzyme Y249F, in 100 mM phosphate buffer, pH 7.0, at 23C
+7.3	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	4.5	X	mutant enzyme D141E, peroxidase activity, at pH 4.5 and 25C
+7.7	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	5.0		peroxidase reaction, at pH 5.0 and 25C
+7.7	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	6.0	X	catalatic activity, mutant enzyme W107F/W321F, in 10 mM KH2PO4/K2HPO4, pH 6.0, at 25C
+7.9	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	4.5		peroxidase reaction, at pH 4.5 and 25C
+8.2	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	4.5	X	mutant enzyme D141A, peroxidase activity, at pH 4.5 and 25C; mutant enzyme R108A, peroxidase activity, at pH 4.5 and 25C
+9.8	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	4.5	X	mutant enzyme D141N, peroxidase activity, at pH 4.5 and 25C
+11	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	6.0		pH 6.0, 23C
+11	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	4.0		peroxidase reaction, at pH 4.0 and 25C
+12	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	6.0	X	catalatic activity, mutant enzyme H108L, in 10 mM KH2PO4/K2HPO4, pH 6.0, at 25C
+13	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	4.3		peroxidase reaction, at pH 4.3 and 25C
+14.4	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	4.5		wild type enzyme, peroxidase activity, at pH 4.5 and 25C
+16	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.0	X	mutant W341A, pH 7.0, 30C
+17	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	4.5		peroxidase reaction, at pH 4.5 and 25C
+17	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.0	X	mutant D402N, pH 7.0, 30C
+19	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	4.8		peroxidase reaction, at pH 4.8 and 25C
+20	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	5.5		pH 5.5, 23C
+20	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.0	X	mutant D152W, pH 7.0, 30C
+20	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.0	X	mutant D152W, pH 7.0, 30C
+21	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.0	X	mutant D402E, pH 7.0, 30C
+22.4	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23	5.0	X	mutant enzyme Y111A, peroxidase activity, in 50 mM acetate buffer, pH 5.0, 23C
+23	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0	X	catalase activity, mutant enzyme W105L, at pH 7.0 and 37C
+24	o-Dianisidine	1236	JRBJSXQPQWSCCF-UHFFFAOYSA-N	23	4.0		pH 4.0, 23C
+25	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	4.3		peroxidase reaction, at pH 4.3 and 25C
+26	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	5.0	X	peroxidase activity, mutant enzyme KatGDELTAFG, in 50 mM acetate buffer pH 5.0, at 23C
+26	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23	7.0	X	catalase activity, mutant enzyme KatGDELTAFG, 100 mM phosphate buffer pH 7.0, at 23C; peroxidase activity, mutant enzyme KatGDELTAFG, in 50 mM acetate buffer pH 5.0, at 23C
+27	pyrogallol	534	WQGWDDDVZFFDIG-UHFFFAOYSA-N	23	4.0		pH 4.0, 23C
+32	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0	X	mutant enzyme R108A/W111F/D141A, catalase activity, at pH 7.0 and 37C
+33.3	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	5.0	X	mutant enzyme Y111A, peroxidase activity, in 50 mM acetate buffer, pH 5.0, 23C
+34	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0	X	mutant enzyme R108A/W111F, catalase activity, at pH 7.0 and 37C
+37	o-Dianisidine	1236	JRBJSXQPQWSCCF-UHFFFAOYSA-N	23	4.5		pH 4.5, 23C
+44	pyrogallol	534	WQGWDDDVZFFDIG-UHFFFAOYSA-N	23	4.5		pH 4.5, 23C
+50.2	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	5.0	X	mutant DELTA200-214, pH 5.0, 23C
+52	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	5.0		peroxidase activity, wild type enzyme, in 50 mM acetate buffer pH 5.0, at 23C
+53.5	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	102	7.0	X	catalase activity, mutant enzyme R102C, at pH 7.0 and 37C
+55	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	5.0		pH 5.0, 23C
+55.2	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	5.0		wild type enzyme, peroxidase activity, in 50 mM acetate buffer, pH 5.0, 23C
+56	pyrogallol	534	WQGWDDDVZFFDIG-UHFFFAOYSA-N	23	5.0		pH 5.0, 23C
+58	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23	5.0		peroxidase activity, wild type enzyme, in 50 mM acetate buffer pH 5.0, at 23C
+58	o-Dianisidine	1236	JRBJSXQPQWSCCF-UHFFFAOYSA-N	23	5.0		pH 5.0, 23C
+64	pyrogallol	534	WQGWDDDVZFFDIG-UHFFFAOYSA-N	23	5.5		pH 5.5, 23C
+65	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23	5.0		wild type enzyme, peroxidase activity, in 50 mM acetate buffer, pH 5.0, 23C
+69	o-Dianisidine	1236	JRBJSXQPQWSCCF-UHFFFAOYSA-N	23	5.5		pH 5.5, 23C
+69	pyrogallol	534	WQGWDDDVZFFDIG-UHFFFAOYSA-N	23	6.0		pH 6.0, 23C
+71	o-Dianisidine	1236	JRBJSXQPQWSCCF-UHFFFAOYSA-N	23	6.0		pH 6.0, 23C
+77	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	5.0		in 50 mM acetate buffer, pH 5.0, at 23C
+83	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	5.0		wild-type, pH 5.0, 23C
+92	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	4.5		pH 4.5, 23C
+95	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.0	X	mutant D152N, pH 7.0, 30C
+95	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.0	X	mutant D152N, pH 7.0, 30C
+97	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	5.0	X	mutant Y22F, pH 5.0, 23C
+151	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	4.0		pH 4.0, 23C
+160	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	7.0	X	mutant L690A/R691A/E695A/Y697A, pH 7.0, 23C
+170	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23	7.0	X	catalase activity, mutant enzyme R439A, in 100 mM phosphate buffer, pH 7.0, at 23C
+200	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.0	X	mutant D152S, pH 7.0, 30C
+200	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.0	X	mutant D152S, pH 7.0, 30C
+200	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N			X	mutant enzyme D152S, catalase activity, pH and temperature not specified in the publication
+200	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.0	X	catalase activity, mutant enzyme N153A, in 50 mM phosphate buffer, pH 7.0, and 30C
+200	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23	7.0	X	catalase activity, mutant enzyme D152S, in 100 mM phosphate buffer, pH 7.0, at 23C
+265	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0	X	mutant enzyme D141A, catalase activity, at pH 7.0 and 37C
+520	ascorbate	88	CIWBSHSKHKDKBQ-JLAZNSOCSA-N	23	5.0		pH 5.0, 23C
+570	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23	5.0		no electron donor present, pH 5.0, 23C
+580	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.0	X	catalase activity, mutant enzyme N153D, in 50 mM phosphate buffer, pH 7.0, and 30C
+630	pyrogallol	534	WQGWDDDVZFFDIG-UHFFFAOYSA-N	23	5.0		pH 5.0, 23C
+660	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	6.0	X	peroxidase activity, mutant enzyme R102L, at pH 6.0 and 25C
+710	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	102	6.0	X	peroxidase activity, mutant enzyme R102C, at pH 6.0 and 25C
+740	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	5.0	X	mutant DELTAL193-N228, pH 5.0, 23C
+890	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N			X	mutant enzyme E243Q, catalase activity, pH and temperature not specified in the publication
+900	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0	X	catalase activity, mutant enzyme R102L, at pH 7.0 and 37C
+1020	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	7.0	X	mutant E695A/Y697A, pH 7.0, 23C
+1050	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	7.0	X	mutant Y697A, N- and C-terminal domain separately expressed, pH 7.0, 23C
+1100	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	5.0	X	mutant DELTA209-228, pH 5.0, 23C
+1190	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0	X	mutant enzyme D141N, catalase activity, at pH 7.0 and 37C
+1460	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.0	X	mutant W341F, pH 7.0, 30C
+1950	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0	X	mutant enzyme R108A, catalase activity, at pH 7.0 and 37C
+2100	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.5	X	mutant enzyme S315T, catalase activity, in 50 mM sodium phosphate buffer (pH 7.5), at 37C
+2110	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0	X	mutant enzyme R108K, catalase activity, at pH 7.0 and 37C
+2140	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23	7.0	X	mutant enzyme Y111A, catalase activity, in 100 mM phosphate buffer, pH 7.0, 23C
+2200	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	7.0	X	mutant E695A, N- and C-terminal domain separately expressed, pH 7.0, 23C
+2300	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	6.0	X	catalatic activity, mutant enzyme W321F, in 10 mM KH2PO4/K2HPO4, pH 6.0, at 25C
+2300	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	7.5		catalatic activity, in 10 mM K2HPO4/KH2PO4 (pH 7.5), at 25C
+2500	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.0	X	mutant P151A, pH 7.0, 30C
+2500	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.0	X	mutant P151A, pH 7.0, 30C
+2700	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	7.0	X	mutant L690A/R691A, N- and C-terminal domain separately expressed, pH 7.0, 23C
+2750	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23		X	recombinant mutant D735A, 23C
+2950	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0		catalase reaction, at pH 7.0 and 37C
+2990	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23		X	recombinant mutant S315N, 23C
+3180	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23		X	recombinant mutant L619P, 23C
+3270	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23			recombinant wild-type enzyme, 23C
+3300	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	5.0		pH 5.0, 23C
+3330	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23		X	recombinant mutant A139P, 23C
+3450	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23		X	recombinant mutant L634F, 23C
+3500	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	7.0	X	mutant R691A, N- and C-terminal domain separately expressed, pH 7.0, 23C
+3500	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.0		wild-type enzyme, pH 7.0, 30C
+3500	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.0		wild-type enzyme, pH 7.0, 30C
+3500	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N				wild type enzyme, catalase activity, pH and temperature not specified in the publication
+3500	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.0		catalase activity, in 67 mM phosphate buffer, pH 7.0, at 30C
+3500	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	7.0		catalase activity, wild type enzyme, in 50 mM phosphate buffer, pH 7.0, and 30C
+3500	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23	7.0		catalase activity, wild type enzyme, in 100 mM phosphate buffer, pH 7.0, at 23C
+3700	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	6.0	X	peroxidase activity, mutant enzyme R102K, at pH 6.0 and 25C
+4000	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	7.0		wild-type, N- and C-terminal domain separately expressed, pH 7.0, 23C
+4300	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0		catalase reaction, at pH 7.0 and 37C
+4350	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0		catalase reaction, at pH 7.0 and 37C
+4620	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0	X	mutant enzyme R108A/D141A, catalase activity, at pH 7.0 and 37C
+4800	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	7.0	X	mutant L690A/R691A, pH 7.0, 23C
+4970	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	5.5		catalase reaction, at pH 5.5-6.0 and 37C
+5220	3,3',5,5'-tetramethylbenzidine	3255	UAIUNKRWKOVEES-UHFFFAOYSA-N	23	5.0		pH 5.0, 23C
+5230	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23		X	recombinant mutant A110V, 23C
+5300	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0		catalase activity, wild type enzyme, at pH 7.0 and 37C
+5600	o-Dianisidine	1236	JRBJSXQPQWSCCF-UHFFFAOYSA-N	23	5.0		pH 5.0, 23C
+5680	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0		catalase reaction, at pH 7.0 and 37C
+5680	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0		wild type enzyme, catalase activity, at pH 7.0 and 37C
+5800	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.5		wild type enzyme, catalase activity, in 50 mM sodium phosphate buffer (pH 7.5), at 37C
+6000	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23	7.0		catalase activity, wild type enzyme, in 100 mM phosphate buffer, pH 7.0, at 23C
+6140	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0	X	mutant enzyme D141E, catalase activity, at pH 7.0 and 37C
+6446	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+6640	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0		catalase reaction, at pH 7.0 and 37C
+6729	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N			X	mutant C55A/C74A, pH not specified in the publication, temperature not specified in the publication
+6745	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N			X	mutant C55A, pH not specified in the publication, temperature not specified in the publication
+6800	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	7.0	X	mutant R691A, pH 7.0, 23C
+6800	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	6.0		catalatic activity, wild type enzyme, in 10 mM KH2PO4/K2HPO4, pH 6.0, at 25C
+7010	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	6.0		at pH 6.0 and 25C; at pH 6.0 and 25C
+7012	N,N,N',N'-tetramethyl-p-phenylenediamine	1590	CJAOGUFAAWZWNI-UHFFFAOYSA-N	23	5.0		pH 5.0, 23C
+7113	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N			X	mutant C26A/C74A, pH not specified in the publication, temperature not specified in the publication
+7200	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	7.0		catalase activity, in 67 mM phosphate buffer (pH 7.0), at 25C
+7565	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N			X	mutant C74A, pH not specified in the publication, temperature not specified in the publication
+7600	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	5.5		catalase reaction, at pH 5.5-6.0 and 37C
+7630	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0		catalase reaction, at pH 7.0 and 37C
+7770	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	7.0		catalase reaction, at pH 7.0 and 37C
+7940	chlorpromazine	585	ZPEIMTDSQAKGNT-UHFFFAOYSA-N	23	5.0		pH 5.0, 23C
+8000	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	5.5		catalase reaction, at pH 5.5-6.0 and 37C
+8300	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	7.0	X	mutant Y697A, pH 7.0, 23C
+8900	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	7.0	X	mutant E695A, pH 7.0, 23C
+9600	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23	7.0	X	mutant DELTA200-214, catalase activity, pH 7.0, 23C
+10100	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	7.0		wild type enzyme, catalase activity, in 50 mM Na2HPO4, pH 7.0, 25C
+10200	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	5.5		catalase reaction, at pH 5.5-6.0 and 37C
+11000	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23	7.0		wild type enzyme, catalase activity, in 100 mM phosphate buffer, pH 7.0, 23C
+11000	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23	7.0		wild-type, catalase activity, pH 7.0, 23C
+11400	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	7.0	X	mutant enzyme R463L, catalase activity, in 50 mM Na2HPO4, pH 7.0, 25C
+11500	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	23	7.0		wild-type, pH 7.0, 23C
+12000	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23	7.0		catalase activity, wild type enzyme, 100 mM phosphate buffer pH 7.0, at 23C
+14100	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	5.5		catalase reaction, at pH 5.5-6.0 and 37C
+15680	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	5.5		catalase reaction, at pH 5.5-6.0 and 37C
+15900	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	5.5		catalase reaction, at pH 5.5-6.0 and 37C
+17000	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	6.0		peroxidase activity, wild type enzyme, at pH 6.0 and 25C
+18000	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	23	7.0		in 100 mM phosphate buffer, pH 7.0, at 23C
+140000	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	6.0	X	peroxidase activity, mutant enzyme W105L, at pH 6.0 and 25C
+210000	2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	25	6.0	X	peroxidase activity, mutant enzyme W105F, at pH 6.0 and 25C

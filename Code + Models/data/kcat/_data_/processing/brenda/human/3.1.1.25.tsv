@@ -1,0 +1,36 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.5	delta-valerolactone	2202	OZJPLYNZGCXSJM-UHFFFAOYSA-N	25	8.3	X	mutant H115W, pH 8.3, 25C
+0.9	delta-valerolactone	2202	OZJPLYNZGCXSJM-UHFFFAOYSA-N	25	8.3	X	mutant H115W/R192K, pH 8.3, 25C
+29.8	delta-valerolactone	2202	OZJPLYNZGCXSJM-UHFFFAOYSA-N	25	8.3		wild-type, pH 8.3, 25C
+40	delta-valerolactone	2202	OZJPLYNZGCXSJM-UHFFFAOYSA-N		8.0	X	pH 8.0, mutant enzyme H134Q
+69.4	delta-valerolactone	2202	OZJPLYNZGCXSJM-UHFFFAOYSA-N		8.0	X	pH 8.0, mutant enzyme H115Q
+94	delta-valerolactone	2202	OZJPLYNZGCXSJM-UHFFFAOYSA-N		8.3		pH 8.3, activity buffer
+156	delta-valerolactone	2202	OZJPLYNZGCXSJM-UHFFFAOYSA-N		8.3		pH 8.3, activity buffer with 0.1% tergitol
+210	delta-valerolactone	2202	OZJPLYNZGCXSJM-UHFFFAOYSA-N		8.0		pH 8.0
+210	delta-valerolactone	2202	OZJPLYNZGCXSJM-UHFFFAOYSA-N		8.0		pH 8.0, wild-type enzyme
+210	delta-valerolactone	2202	OZJPLYNZGCXSJM-UHFFFAOYSA-N				recombinant enzyme
+632	delta-valerolactone	2202	OZJPLYNZGCXSJM-UHFFFAOYSA-N		8.3		pH 8.3, activity buffer with 0.01 mM apolipoprotein apoA-I rHDL
+0.38	gamma-nonalactone	2432	OALYTRUKMRCXNH-UHFFFAOYSA-N		8.0	X	pH 8.0, mutant enzyme H115Q
+5.57	gamma-nonalactone	2432	OALYTRUKMRCXNH-UHFFFAOYSA-N		8.0	X	pH 8.0, mutant enzyme H134Q
+31	gamma-nonalactone	2432	OALYTRUKMRCXNH-UHFFFAOYSA-N		8.0		pH 8.0, wild-type enzyme
+152	dihydrocoumarin	2576	VMUXSMXIQBNMGZ-UHFFFAOYSA-N		8.0		pH 8.0
+111	gamma-butyrolactone	2837	YEJRWHAVMIAJKC-UHFFFAOYSA-N		8.0		pH 8.0
+111	gamma-butyrolactone	2837	YEJRWHAVMIAJKC-UHFFFAOYSA-N				recombinant enzyme
+48	delta-nonalactone	3261	PXRBWNLUQYZAAX-UHFFFAOYSA-N		8.0		pH 8.0
+2.27	Gamma-caprolactone	3805	JBFHTYHTHYHCDJ-UHFFFAOYSA-N		8.0	X	pH 8.0, mutant enzyme H115Q
+25	Gamma-caprolactone	3805	JBFHTYHTHYHCDJ-UHFFFAOYSA-N		8.0	X	pH 8.0, mutant enzyme H134Q
+44	Gamma-caprolactone	3805	JBFHTYHTHYHCDJ-UHFFFAOYSA-N		8.0		pH 8.0
+44	Gamma-caprolactone	3805	JBFHTYHTHYHCDJ-UHFFFAOYSA-N		8.0		pH 8.0, wild-type enzyme
+1.74	5-(thiobutyl)butyrolactone	5886	UCCKBHBGUHMFDV-UHFFFAOYSA-N		8.0	X	pH 8.0, mutant enzyme H115Q/H134Q
+7.5	5-(thiobutyl)butyrolactone	5886	UCCKBHBGUHMFDV-UHFFFAOYSA-N		8.0	X	pH 8.0, mutant enzyme H115Q
+19.4	5-(thiobutyl)butyrolactone	5886	UCCKBHBGUHMFDV-UHFFFAOYSA-N		8.0	X	pH 8.0, mutant enzyme H134Q
+116	5-(thiobutyl)butyrolactone	5886	UCCKBHBGUHMFDV-UHFFFAOYSA-N		8.0		pH 8.0, wild-type enzyme
+34	gamma-heptanolide	9153	VLSVVMPLPMNWBH-UHFFFAOYSA-N		8.0		pH 8.0
+34	gamma-dodecanoic lactone	9200	WGPCZPLRVAWXPW-UHFFFAOYSA-N		8.3		pH 8.3, activity buffer with 0.1% tergitol
+101	gamma-dodecanoic lactone	9200	WGPCZPLRVAWXPW-UHFFFAOYSA-N		8.3		pH 8.3, activity buffer with 0.01 mM apolipoprotein apoA-I rHDL
+39	4-methoxy phenyl acetate	11886	YAPCNXGBNRDBIW-UHFFFAOYSA-N		8.0		pH 8.0
+11.9	pantoyl lactone	3507	SERHXTVXHNVDKA-BYPYZUCNSA-N		8.0		pH 8.0
+62	gamma-undecanoiclactone	2927	PHXATPHONSXBIL-UHFFFAOYSA-N				recombinant enzyme
+31	gamma-nonanoic acid lactone	2432	OALYTRUKMRCXNH-UHFFFAOYSA-N		8.0		pH 8.0
+62	gamma-undecanoic acid lactone	2927	PHXATPHONSXBIL-UHFFFAOYSA-N		8.0		pH 8.0
+26.4	gamma-dodecanoic acid lactone	9200	WGPCZPLRVAWXPW-UHFFFAOYSA-N		8.0		pH 8.0

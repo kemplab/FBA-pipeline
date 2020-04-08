@@ -1,0 +1,43 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.12	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	25	6.5		wild type protein, donor lauroyl-ACP, 0.01 mM lauroyl-ACP, pH 6.5, 25C
+0.35	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	25	8.5		donor palmitoyl-ACP, 0.012 mM palmitoyl-ACP, pH 8.5, 25C
+0.08	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N	25	8.5		acceptor malonyl-ACP, 0.01 mM malonyl-ACP, pH 8.5, 25C
+0.073	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N	25	6.5		wild type protein, acceptor malonyl-ACP, 0.01 mM malonyl-ACP, pH 6.5, 25C
+0.0233	malonyl-[acyl-carrier protein]	650	UXBIETNMFOABOO-UHFFFAOYSA-N				isozyme KasB
+0.08	malonyl-[acyl-carrier protein]	650	UXBIETNMFOABOO-UHFFFAOYSA-N				isozyme KasA
+0.0267	palmitoyl-[acyl-carrier protein]	1200	RDRNUNFOLAVSAX-UHFFFAOYSA-N				isozyme KasB
+0.0883	palmitoyl-[acyl-carrier protein]	1200	RDRNUNFOLAVSAX-UHFFFAOYSA-N				isozyme KasA
+1.63	octanoyl-[acyl-carrier protein]	2056	ACKGJZWONAUNOE-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+66	octanoyl-[acyl-carrier protein]	2056	ACKGJZWONAUNOE-UHFFFAOYSA-N	37	6.8		pH 6.8, 37C
+3.07	decanoyl-[acyl-carrier protein]	2119	XMHMUWMENGYYJG-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+551	decanoyl-[acyl-carrier protein]	2119	XMHMUWMENGYYJG-UHFFFAOYSA-N	37	6.8		pH 6.8, 37C
+1.28	tetradecanoyl-[acyl-carrier protein]	2231	CUAFCZZIFLHIAE-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+0.69	dodecanoyl-[acyl-carrier protein]	2731	FBAMBKQBXSXHLC-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+303	dodecanoyl-[acyl-carrier protein]	2731	FBAMBKQBXSXHLC-UHFFFAOYSA-N	37	6.8		pH 6.8, 37C
+0.025	lauroyl-ACP	2731	FBAMBKQBXSXHLC-UHFFFAOYSA-N	25	6.5	X	K151Q mutant protein, acceptor malonyl-CoA, 0.2 mM malonyl-CoA, pH 6.5, 25C
+0.033	lauroyl-ACP	2731	FBAMBKQBXSXHLC-UHFFFAOYSA-N	25	6.5		wild type protein, acceptor malonyl-CoA, 0.2 mM malonyl-CoA, pH 6.5, 25C
+0.053	lauroyl-ACP	2731	FBAMBKQBXSXHLC-UHFFFAOYSA-N	25	6.5	X	R66Q mutant protein, acceptor malonyl-CoA, 0.2 mM malonyl-CoA, pH 6.5, 25C
+0.057	lauroyl-ACP	2731	FBAMBKQBXSXHLC-UHFFFAOYSA-N	25	6.5		wild type protein, acceptor malonyl-ACP, 0.01 mM malonyl-ACP, pH 6.5, 25C
+0.077	lauroyl-ACP	2731	FBAMBKQBXSXHLC-UHFFFAOYSA-N	25	6.5	X	R62Q mutant protein, acceptor malonyl-CoA, 0.2 mM malonyl-CoA, pH 6.5, 25C
+0.083	lauroyl-ACP	2731	FBAMBKQBXSXHLC-UHFFFAOYSA-N	25	6.5	X	K63Q mutant protein, acceptor malonyl-CoA, 0.2 mM malonyl-CoA, pH 6.5, 25C
+0.96	hexanoyl-[acyl-carrier protein]	2840	WUIHPTUZDLEPFU-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+353	hexanoyl-[acyl-carrier protein]	2840	WUIHPTUZDLEPFU-UHFFFAOYSA-N	37	6.8		pH 6.8, 37C
+6	myristoyl-[acyl-carrier protein]	2231	CUAFCZZIFLHIAE-UHFFFAOYSA-N	37	6.8		pH 6.8, 37C
+0.011	malonyl-ACP	650	UXBIETNMFOABOO-UHFFFAOYSA-N	25	6.5		wild type protein, donor lauroyl-ACP, 0.01 mM lauroyl-ACP, pH 6.5, 25C
+0.47	malonyl-ACP	650	UXBIETNMFOABOO-UHFFFAOYSA-N	25	8.5		donor palmitoyl-ACP, 0.012 mM palmitoyl-ACP, pH 8.5, 25C
+1.32	butyryl-[acyl-carrier protein]	3793	MUAFWWHSZQOMAM-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+0.018	malonyl-phosphopantetheine-8-mer	118569	FTIQPSLTKCXGHE-NNNIVVLVSA-N	25	6.5		wild type protein, donor lauroyl-ACP, 0.01 mM lauroyl-ACP, pH 6.5, 25C
+0.35	malonyl-phosphopantetheine-8-mer	118569	FTIQPSLTKCXGHE-NNNIVVLVSA-N	25	8.5		donor palmitoyl-ACP, 0.012 mM palmitoyl-ACP, pH 8.5, 25C
+0.04	malonyl-phosphopantetheine-14-mer	118570	GYQFPXDMPSGEIW-WYNFSKBZSA-N	25	6.5		wild type protein, donor lauroyl-ACP, 0.01 mM lauroyl-ACP, pH 6.5, 25C
+0.38	malonyl-phosphopantetheine-14-mer	118570	GYQFPXDMPSGEIW-WYNFSKBZSA-N	25	8.5		donor palmitoyl-ACP, 0.012 mM palmitoyl-ACP, pH 8.5, 25C
+0.11	malonyl-phosphopantetheine-16-mer	118571	HKRMYVQJOROTKR-BMAYWNADSA-N	25	6.5		wild type protein, donor lauroyl-ACP, 0.01 mM lauroyl-ACP, pH 6.5, 25C
+0.3	malonyl-phosphopantetheine-16-mer	118571	HKRMYVQJOROTKR-BMAYWNADSA-N	25	8.5		donor palmitoyl-ACP, 0.012 mM palmitoyl-ACP, pH 8.5, 25C
+91.2	butanoyl-[acyl-carrier protein]	3793	MUAFWWHSZQOMAM-UHFFFAOYSA-N	37	6.8		pH 6.8, 37C
+0.01	eicosanoyl-[acyl-carrier protein]	11130	QCZCEZLCVYOPSO-UHFFFAOYSA-N				isozyme KasB
+0.075	eicosanoyl-[acyl-carrier protein]	11130	QCZCEZLCVYOPSO-UHFFFAOYSA-N				isozyme KasA
+0.96	C6-[acyl-carrier protein]	2840	WUIHPTUZDLEPFU-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+1.63	C8-[acyl-carrier protein]	2056	ACKGJZWONAUNOE-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+3.07	C10-[acyl-carrier protein]	2119	XMHMUWMENGYYJG-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+0.69	C12-[acyl-carrier protein]	2731	FBAMBKQBXSXHLC-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+1.28	C14-[acyl-carrier protein]	2231	CUAFCZZIFLHIAE-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+1.32	C4-[acyl-carrier protein]	3793	MUAFWWHSZQOMAM-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme

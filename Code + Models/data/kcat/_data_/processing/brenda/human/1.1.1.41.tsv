@@ -1,0 +1,19 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.27	D-isocitrate	1444	ODBLHEXUDAPZAU-ZAFYKAAXSA-N	234		X	D234C, alpha-subunit mutant, in 20 mM isocitrate and 1 mM MnSO4
+0.27	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	25	7.2	X	25C, pH 7.2, alpha-subunit mutant enzyme D234C
+0.27	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.2	X	25C, pH 7.2, alpha-subunit mutant enzyme D234C
+2.49	D-isocitrate	1444	ODBLHEXUDAPZAU-ZAFYKAAXSA-N	230		X	D230C, alpha-subunit mutant, in 20 mM isocitrate and 1 mM MnSO4
+2.49	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	25	7.2	X	25C, pH 7.2, alpha-subunit mutant enzyme D230C
+2.49	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.2	X	25C, pH 7.2, alpha-subunit mutant enzyme D230C
+11.8	D-isocitrate	1444	ODBLHEXUDAPZAU-ZAFYKAAXSA-N			X	D215N, gamma-subunit mutant, in 20 mM isocitrate and 1 mM MnSO4
+11.8	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	25	7.2	X	25C, pH 7.2, gamma-subunit mutant enzyme D215N
+11.8	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.2	X	25C, pH 7.2, gamma-subunit mutant enzyme D215N
+19.6	D-isocitrate	1444	ODBLHEXUDAPZAU-ZAFYKAAXSA-N			X	D217N, beta-subunit mutant, in 20 mM isocitrate and 1 mM MnSO4
+19.6	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	25	7.2	X	25C, pH 7.2, beta-subunit mutant enzyme D217N
+19.6	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.2	X	25C, pH 7.2, beta-subunit mutant enzyme D217N
+30	D-isocitrate	1444	ODBLHEXUDAPZAU-ZAFYKAAXSA-N				wild type enzyme in 20 mM isocitrate and 1 mM MnSO4
+30	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	25	7.2		25C, pH 7.2, wild-type enzyme
+30	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.2		25C, pH 7.2, wild-type enzyme
+36.8	D-isocitrate	1444	ODBLHEXUDAPZAU-ZAFYKAAXSA-N			X	D206N, alpha-subunit mutant, in 20 mM isocitrate and 1 mM MnSO4
+36.8	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	25	7.2	X	25C, pH 7.2, alpha-subunit mutant enzyme D206N
+36.8	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.2	X	25C, pH 7.2, alpha-subunit mutant enzyme D206N

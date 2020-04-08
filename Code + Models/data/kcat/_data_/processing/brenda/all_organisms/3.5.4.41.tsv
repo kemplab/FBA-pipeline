@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.12	5'-deoxyadenosine	734	XGYIMTFOTBMPFP-KQYNXXCUSA-N			X	pH and temperature not specified in the publication, mutant enzyme Y136R/E150R
+21	5'-deoxyadenosine	734	XGYIMTFOTBMPFP-KQYNXXCUSA-N			X	pH and temperature not specified in the publication, mutant enzyme E150R
+330	5'-deoxyadenosine	734	XGYIMTFOTBMPFP-KQYNXXCUSA-N			X	pH and temperature not specified in the publication, mutant enzyme Y136R
+120000	5'-deoxyadenosine	734	XGYIMTFOTBMPFP-KQYNXXCUSA-N				pH and temperature not specified in the publication, wild-type enzyme

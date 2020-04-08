@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.12	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K		8.0		isoform ArsC2, pH 8.0, presence of sulfate
+0.17	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K		8.0		isoform ArsC2, pH 8.0, presence of phosphate
+0.23	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K		8.0		isoform ArsC1, pH 8.0, presence of sulfate
+0.28	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K		8.0		isoform ArsC2, pH 8.0
+0.28	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K				isoform ArsC2, pH and temperature not specified in the publication
+0.53	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K		8.0		isoform ArsC1, pH 8.0
+0.53	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K				isoform ArsC1, pH and temperature not specified in the publication
+0.6	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K		8.0		isoform ArsC1, pH 8.0, presence of phosphate

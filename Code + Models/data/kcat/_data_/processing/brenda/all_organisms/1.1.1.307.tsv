@@ -1,0 +1,88 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.002	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	7.0	X	mutant K80A, pH 7.0, 25C
+0.02	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	7.0	X	mutant H113A, pH 7.0, 25C
+0.027	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	25	7.0	X	mutant K80A, pH 7.0, 25C
+0.043	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	25	7.0	X	mutant H113A, pH 7.0, 25C
+0.2	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	25	7.0	X	mutant Y51A, pH 7.0, 25C
+0.82	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7		pH 7, 25C
+0.87	xylitol	348	HEBKCHPVOIAQTA-SCDXWVJYSA-N	25	7		pH 7, 25C
+0.89	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7		pH 7, 25C
+0.92	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.0		pH 7.0, 25C
+0.92	xylitol	348	HEBKCHPVOIAQTA-SCDXWVJYSA-N	25	7.0		pH 7.0, 25C
+1.4	2-deoxy-D-ribose	2023	PDWIQYODPROSQH-PYHARJCCSA-N	25	7.0		pH 7.0, 25C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+2.6	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N		6.0	X	pH 6.0, cofactor: NADPH, mutant enzyme K270S/N272P/S271G/R276F
+2.6	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		6.0	X	pH 6.0, mutant enzyme K270S/N272P/S271G/R276F
+3	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	7.0	X	pH 7.0, 25C, mutant K274M, with NADPH
+3.5	2-deoxy-D-galactose	1486	PMMURAAUARKVCB-KVTDHHQDSA-N	25	7.0		pH 7.0, 25C, dual specific xylose reductase, cofactor: NADH
+4.6	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, dual specific xylose reductase, cofactor: NADH
+4.7	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	35	6.5	X	mutant K21A, pH 6.5, 35C
+4.9	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N	25	7.0		pH 7.0, 25C, dual specific xylose reductase, cofactor: NADH
+5.4	Butanal	415	ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, dual specific xylose reductase, cofactor: NADH
+5.6	L-idose	5633	WQZGKKKJIJFFOK-ZNVMLXAYSA-N	25	7.0		pH 7.0, 25C, dual specific xylose reductase, cofactor: NADH
+5.9	pentanal	628	HGBOYTHUEUWSSQ-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, dual specific xylose reductase, cofactor: NADH
+6.6	L-Lyxose	1235	PYMYPHUHKUWMLA-YUPRTTJUSA-N	25	7.0		pH 7.0, 25C, dual specific xylose reductase, cofactor: NADH
+6.8	2-deoxy-D-glucose	443	PMMURAAUARKVCB-KAZBKCHUSA-N	25	7.0		pH 7.0, 25C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+6.9	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+8.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	7.0		pH 7.0, 25C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+8.4	2-deoxy-D-galactose	1486	PMMURAAUARKVCB-KVTDHHQDSA-N	25	7.0		pH 7.0, 25C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+9.4	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0		pH 7.0, 25C, dual specific xylose reductase, cofactor: NADH
+10	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	7.0		wild-type, pH 7.0, 25C
+10.2	D-fucose	954	SHZGCJCMOBCMKK-SVZMEOIVSA-N	25	7.0		pH 7.0, 25C, dual specific xylose reductase, cofactor: NADH
+11	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	7.0		pH 7.0, 25C, wild-type enzyme, with NADH
+12	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	25	7.0		wild-type, pH 7.0, 25C
+12	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N		6.0	X	pH 6.0, cofactor: NADH, mutant enzyme K270S/N272P/S271G/R276F
+12	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	7.0	X	pH 7.0, 25C, mutant K274M/N276D, with NADH
+12	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		6.0	X	pH 6.0, mutant enzyme K270S/N272P/S271G/R276F
+12.2	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N	25	7.0		pH 7.0, 25C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+12.7	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	35	6.5	X	mutant K21A/N272D, pH 6.5, 35C
+13	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	7.0		pH 7.0, 25C, wild-type enzyme, with NADPH
+13.1	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	22	7.0		pH 7.0, 22C, wild-type enzyme
+13.1	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	35	6.5		wild-type, pH 6.5, 35C
+13.5	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	25	7.0		pH 7.0, 25C, dual specific xylose reductase, cofactor: NADH
+14	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	7.0	X	pH 7.0, 25C, mutant N276D, with NADH
+14.1	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, dual specific xylose reductase, cofactor: NADH
+14.2	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	7.0		pH 7.0, 25C
+14.2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0		pH 7.0, 25C
+15.2	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0		pH 7.0, 25C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+15.4	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N		6.0		pH 6.0, cofactor: NADH, wild-type enzyme
+15.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		6.0		pH 6.0, wild-type enzyme, wild-type enzyme
+16.9	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	7.0		pH 7.0, 25C, dual specific xylose reductase, cofactor: NADH
+18.1	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7		pH 7, 25C
+18.11	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	6.0		pH 6.0, 25C, cosubstrate: NADH
+18.2	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	7		pH 7, 25C, cosubstrate: NADH
+18.4	L-Lyxose	1235	PYMYPHUHKUWMLA-YUPRTTJUSA-N	25	7.0		pH 7.0, 25C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+19	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	7.0	X	pH 7.0, 25C, mutant K274M, with NADH
+20.7	D-fucose	954	SHZGCJCMOBCMKK-SVZMEOIVSA-N	25	7.0		pH 7.0, 25C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+20.7	pentanal	628	HGBOYTHUEUWSSQ-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+21.2	Butanal	415	ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+21.3	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	7.0		pH 7.0, 30C
+21.5	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	7		pH 7, 25C, cosubstrate: NADPH
+21.9	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7		pH 7, 25C
+23.5	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	7.0		pH 7.0, 25C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+24.3	D-erythrose	1089	YTBSYETUWUMLBZ-IUYQGCFVSA-N	25	7.0		pH 7.0, 25C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+24.3	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+24.5	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	25	7.0		pH 7.0, 25C, NADPH-dependent monospecific xylose reductase, cofactor: NADPH
+27.5	D-erythrose	1089	YTBSYETUWUMLBZ-IUYQGCFVSA-N	25	7.0		pH 7.0, 25C, dual specific xylose reductase, cofactor: NADH
+27.5	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N		6.0		pH 6.0, cofactor: NADPH, wild-type enzyme
+27.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		6.0		pH 6.0, wild-type enzyme, wild-type enzyme
+30	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	7.0	X	pH 7.0, 25C, mutant K274M/N276D, with NADPH
+37	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	7.0	X	pH 7.0, 25C, mutant N276D, with NADPH
+40.27	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	35	6.5		wild-type, pH 6.5, 35C
+240	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N				
+310	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	6.3		pH 6.3, 25C, cosubstrate: NADH
+310	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	6.3		pH 6.3, 25C
+1320	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	6.3		pH 6.3, 25C
+1800	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	6.3		pH 6.3, 25C
+1800	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	25	6.3		pH 6.3, 25C
+3120	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N	25	6.3		pH 6.3, 25C
+3600	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	6.3		pH 6.3, 25C, cosubstrate: NADPH
+3600	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	6.3		pH 6.3, 25C
+4638	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	6.3		pH 6.3, 25C
+15750	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	37	6.5		pH 6.5, 37C, cosubstrate: NADH, wild-type enzyme
+15750	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	37	6.5		wild-type, pH 6.5, 37C
+25110	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	37	6.5	X	pH 6.5, 37C, cosubstrate: NADH, mutant enzyme K271R/N273D
+25110	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	37	6.5	X	mutant K271R/N273, pH 6.5, 37C
+100900	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	37	6.5	X	pH 6.5, 37C, cosubstrate: NADPH, mutant enzyme K271R/N273D
+100900	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	6.5	X	mutant K271R/N273, pH 6.5, 37C
+324000	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	37	6.5		pH 6.5, 37C, cosubstrate: NADPH, wild-type enzyme
+324000	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	6.5		wild-type, pH 6.5, 37C

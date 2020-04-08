@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.3	O-ethyl S-(2-diisopropylamino)ethyl methylphosphonothioate	4652	JJIUCEJQJXNMHV-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication
+5	O-pinacolyl methylphosphonofluoridate	1832	GRXKLBBBQUKJJZ-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication
+6.11	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication
+56	O-isopropylmethylphosphonofluoridate	1942	DYAHQFWOVKZOOW-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication
+67	fensulfothion	9423	XDNBJTQLKCIJBV-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication
+151	O-pinacolyl methylphosphonofluoridate	1832	GRXKLBBBQUKJJZ-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication
+176	diazinon	4988	IWPMKBOOIRASDF-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication
+189	methyl parathion	3672	RLBIQVVOMOPOHC-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication
+208	diisopropyl fluorophosphate	216	MUCZHBLJLSDCSD-UHFFFAOYSA-N	35	8		pH 8, 35C, effects of pH, temperature and ionic strength on kcat are studied
+211	diisopropyl fluorophosphate	216	MUCZHBLJLSDCSD-UHFFFAOYSA-N				wild type enzyme
+230	diisopropyl fluorophosphate	216	MUCZHBLJLSDCSD-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication
+291	diisopropyl fluorophosphate	216	MUCZHBLJLSDCSD-UHFFFAOYSA-N			X	mutant enzyme E37A/Y144A/R146A/T195M
+376	diisopropyl fluorophosphate	216	MUCZHBLJLSDCSD-UHFFFAOYSA-N			X	mutant enzyme E37D/Y144A/R16A/T195M
+442	O-isopropylmethylphosphonofluoridate	1942	DYAHQFWOVKZOOW-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication
+465	diisopropyl fluorophosphate	216	MUCZHBLJLSDCSD-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication
+583	diisopropyl fluorophosphate	216	MUCZHBLJLSDCSD-UHFFFAOYSA-N	22	7.5		pH 7.5, 22C
+610	Coumaphos	8360	BXNANOICGRISHX-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication
+630	parathion	2057	LCCNCVORNKJIRZ-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication
+652	O-cyclohexyl methylphosphonofluoridate	19412	SNTRKUOVAPUGAY-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication
+917	diisopropyl fluorophosphate	216	MUCZHBLJLSDCSD-UHFFFAOYSA-N				value above
+2091	diisopropyl fluorophosphate	216	MUCZHBLJLSDCSD-UHFFFAOYSA-N	25	7.5		wild-type, presence of 3 mM O,O-dicyclopentylphosphoroamidate, pH 7.5, 25C, in nitrogen atmosphere
+2107	diisopropyl fluorophosphate	216	MUCZHBLJLSDCSD-UHFFFAOYSA-N	25	7.5		wild-type, pH 7.5, 25C, in nitrogen atmosphere
+2111	diisopropyl fluorophosphate	216	MUCZHBLJLSDCSD-UHFFFAOYSA-N	25	7.5		wild-type, presence of 1 mM O,O-dicyclopentylphosphoroamidate, pH 7.5, 25C, in nitrogen atmosphere
+3170	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication

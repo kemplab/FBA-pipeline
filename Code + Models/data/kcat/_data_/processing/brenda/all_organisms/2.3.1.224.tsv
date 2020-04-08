@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.55	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	30	7.0		native enzyme, at pH 7.0 and 30C
+0.76	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	30	7.0		recombinant enzyme, at pH 7.0 and 30C
+0.55	monodemalonylsalvianin	9054	HWGACSBPJIKSNP-KMKFZPLVSA-O	30	7.0		native enzyme, at pH 7.0 and 30C
+0.76	monodemalonylsalvianin	9054	HWGACSBPJIKSNP-KMKFZPLVSA-O	30	7.0		recombinant enzyme, at pH 7.0 and 30C

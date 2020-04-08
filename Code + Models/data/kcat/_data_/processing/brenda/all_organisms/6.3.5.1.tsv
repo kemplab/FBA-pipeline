@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0032	deamido-NMN	1045	JOUIQRNQJGXQDC-ZYUZMQFOSA-O	30	7.5		pH 7.5, 30C
+0.0045	NH3	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N			X	mutant D656A, ammonia-dependent reaction
+0.012	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	mutant D656A, glutamine-dependent reaction
+0.12	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37		X	mutant enzyme Y532A/Y601A, at 37C
+0.15	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.3		pH 8.3, 37C
+0.16	deamido-NAD+	988	SENPVEZBRZQVST-HISDBWNOSA-O	37	8.3		pH 8.3, 37C
+0.16	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37		X	mutant enzyme Y601A, at 37C
+0.24	NH3	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	37	8.3		pH 8.3, 37C
+0.288	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	8.3		pH 8.3, 37C
+0.5	deamido-NAD+	988	SENPVEZBRZQVST-HISDBWNOSA-O				wild-type, glutamine-dependent reaction
+0.55	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				wild-type, glutamine-dependent reaction
+0.57	deamido-NAD+	988	SENPVEZBRZQVST-HISDBWNOSA-O	30	7.5		pH 7.5, 30C; pH 7.5, 30C
+0.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type, glutamine-dependent reaction
+2.6	deamido-NAD+	988	SENPVEZBRZQVST-HISDBWNOSA-O				wild-type, ammonia-dependent reaction
+2.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type, ammonia-dependent reaction
+3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant C176A, ammonia-dependent reaction
+3	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				wild-type, ammonia-dependent reaction
+3.3	NH3	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N			X	mutant C176A, ammonia-dependent reaction
+3.7	deamido-NAD+	988	SENPVEZBRZQVST-HISDBWNOSA-O			X	mutant C176A, ammonia-dependent reaction
+6.4	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37			wild type enzyme, at 37C

@@ -1,0 +1,81 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0031	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	37	8.3		wild type enzyme, in 2.5 mM Bicine buffer, pH 8.3, at 37C
+0.17	N-hexanoyl-L-homoserine lactone	1659	ZJFKKPDLNLCPNP-QMMMGPOBSA-N	37	8.3		pH 8.3, 37C, recombinant wild-type enzyme; wild type enzyme, in 2.5 mM Bicine buffer, pH 8.3, at 37C
+0.2	N-hexanoyl-L-homoserine lactone	1659	ZJFKKPDLNLCPNP-QMMMGPOBSA-N	230	8.3	X	mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37C; pH 8.3, 37C, recombinant mutant E101G/R230C
+0.25	N-hexanoyl-L-homoserine lactone	1659	ZJFKKPDLNLCPNP-QMMMGPOBSA-N	37	8.3	X	mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37C; pH 8.3, 37C, recombinant mutant E101N/R230I
+0.257	N-hexanoyl-L-homoserine lactone	1659	ZJFKKPDLNLCPNP-QMMMGPOBSA-N		7.5	X	pH 7.5, temperature not specified in the publication, mutant F107W
+0.31	N-hexanoyl-L-homoserine lactone	1659	ZJFKKPDLNLCPNP-QMMMGPOBSA-N			X	mutant Y194F with Zn2+
+1.4	N-hexanoyl-L-homoserine lactone	1659	ZJFKKPDLNLCPNP-QMMMGPOBSA-N			X	mutant D108N with Zn2+
+3	N-hexanoyl-L-homoserine lactone	1659	ZJFKKPDLNLCPNP-QMMMGPOBSA-N		7.5		pH 7.5, temperature not specified in the publication, wild-type
+3.5	N-hexanoyl-L-homoserine lactone	1659	ZJFKKPDLNLCPNP-QMMMGPOBSA-N			X	mutant D108N with Co2+
+16.6	N-hexanoyl-L-homoserine lactone	1659	ZJFKKPDLNLCPNP-QMMMGPOBSA-N			X	mutant Y194F with Co2+
+35.7	N-hexanoyl-L-homoserine lactone	1659	ZJFKKPDLNLCPNP-QMMMGPOBSA-N	22	7.4		pH 7.4, 22C, recombinant wild-type enzyme
+91	N-hexanoyl-L-homoserine lactone	1659	ZJFKKPDLNLCPNP-QMMMGPOBSA-N	28	7.4		Zn2+-form of AHL lactonase, at pH 7.4 and at 28C
+330	N-hexanoyl-L-homoserine lactone	1659	ZJFKKPDLNLCPNP-QMMMGPOBSA-N	28	7.4		Mn2+-form of AHL lactonase, at pH 7.4 and at 28C
+480	N-hexanoyl-L-homoserine lactone	1659	ZJFKKPDLNLCPNP-QMMMGPOBSA-N	28	7.4		Cd2+-form of AHL lactonase, at pH 7.4 and at 28C
+510	N-hexanoyl-L-homoserine lactone	1659	ZJFKKPDLNLCPNP-QMMMGPOBSA-N	28	7.4		Co2+-form of AHL lactonase, at pH 7.4 and at 28C
+2	gamma-nonalactone	2432	OALYTRUKMRCXNH-UHFFFAOYSA-N	37	8.3	X	mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37C; pH 8.3, 37C, recombinant mutant E101N/R230I
+2.9	gamma-nonalactone	2432	OALYTRUKMRCXNH-UHFFFAOYSA-N	37	8.3		pH 8.3, 37C, recombinant wild-type enzyme; wild type enzyme, in 2.5 mM Bicine buffer, pH 8.3, at 37C
+22	gamma-nonalactone	2432	OALYTRUKMRCXNH-UHFFFAOYSA-N	230	8.3	X	mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37C
+4.69	L-homoserine lactone	2639	QJPWUUJVYOJNMH-VKHMYHEASA-N	25	8.2		pH 8.2, 25C
+0.3	N-octanoyl-L-homoserine lactone	2645	JKEJEOJPJVRHMQ-JTQLQIEISA-N	230	8.3	X	mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37C; pH 8.3, 37C, recombinant mutant E101G/R230C
+0.46	N-octanoyl-L-homoserine lactone	2645	JKEJEOJPJVRHMQ-JTQLQIEISA-N		7.5	X	pH 7.5, temperature not specified in the publication, mutant F107W
+0.52	N-octanoyl-L-homoserine lactone	2645	JKEJEOJPJVRHMQ-JTQLQIEISA-N	37	8.3		pH 8.3, 37C, recombinant wild-type enzyme; wild type enzyme, in 2.5 mM Bicine buffer, pH 8.3, at 37C
+0.83	N-octanoyl-L-homoserine lactone	2645	JKEJEOJPJVRHMQ-JTQLQIEISA-N	64	7.5	X	pH 7.5, temperature not specified in the publication, mutant F64C/F68C, absence of DTT
+1.4	N-octanoyl-L-homoserine lactone	2645	JKEJEOJPJVRHMQ-JTQLQIEISA-N	37	8.3	X	mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37C; pH 8.3, 37C, recombinant mutant E101N/R230I
+8.2	N-octanoyl-L-homoserine lactone	2645	JKEJEOJPJVRHMQ-JTQLQIEISA-N	64	7.5	X	pH 7.5, temperature not specified in the publication, mutant F64C/F68C, presence of DTT
+27.5	N-octanoyl-L-homoserine lactone	2645	JKEJEOJPJVRHMQ-JTQLQIEISA-N	22	7.4		pH 7.4, 22C, recombinant wild-type enzyme
+34	N-octanoyl-L-homoserine lactone	2645	JKEJEOJPJVRHMQ-JTQLQIEISA-N		7.5		pH 7.5, temperature not specified in the publication, wild-type
+57	N-octanoyl-L-homoserine lactone	2645	JKEJEOJPJVRHMQ-JTQLQIEISA-N		7.5		pH 7.5, temperature not specified in the publication, wild-type, presence of DTT
+0.95	N-(3-oxododecanoyl)-L-homoserine lactone	2664	PHSRRHGYXQCRPU-AWEZNQCLSA-N	25	8.0		pH 8.0, 25C
+2	N-(3-oxododecanoyl)-L-homoserine lactone	2664	PHSRRHGYXQCRPU-AWEZNQCLSA-N	230	8.3	X	mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37C
+6.9	N-(3-oxododecanoyl)-L-homoserine lactone	2664	PHSRRHGYXQCRPU-AWEZNQCLSA-N	37	8.3	X	mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37C
+1.6	delta-nonalactone	3261	PXRBWNLUQYZAAX-UHFFFAOYSA-N	37	8.3	X	mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37C; pH 8.3, 37C, recombinant mutant E101N/R230I
+29	delta-nonalactone	3261	PXRBWNLUQYZAAX-UHFFFAOYSA-N	37	8.3		pH 8.3, 37C, recombinant wild-type enzyme; wild type enzyme, in 2.5 mM Bicine buffer, pH 8.3, at 37C
+0.29	N-(3-oxooctanoyl)-L-homoserine lactone	3280	FXCMGCFNLNFLSH-JTQLQIEISA-N	37	8.3		wild type enzyme, in 2.5 mM Bicine buffer, pH 8.3, at 37C
+0.4	N-(3-oxooctanoyl)-L-homoserine lactone	3280	FXCMGCFNLNFLSH-JTQLQIEISA-N	37	8.3	X	mutant enzyme E101N/R230, in 2.5 mM Bicine buffer, pH 8.3, at 37C
+1	N-(3-oxooctanoyl)-L-homoserine lactone	3280	FXCMGCFNLNFLSH-JTQLQIEISA-N	25	8.0		pH 8.0, 25C
+1.1	N-(3-oxooctanoyl)-L-homoserine lactone	3280	FXCMGCFNLNFLSH-JTQLQIEISA-N	230	8.3	X	mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37C
+1.8	N-(3-oxooctanoyl)-L-homoserine lactone	3280	FXCMGCFNLNFLSH-JTQLQIEISA-N	37	8.3	X	mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37C
+1.5	N-(3-oxodecanoyl)-L-homoserine lactone	3484	KYGIKEQVUKTKRR-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C
+0.4	N-(3-oxohexanoyl)-L-homoserine lactone	3723	YRYOXRMDHALAFL-QMMMGPOBSA-N	37	8.3	X	mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37C
+0.52	N-(3-oxohexanoyl)-L-homoserine lactone	3723	YRYOXRMDHALAFL-QMMMGPOBSA-N	25	8.0		pH 8.0, 25C
+0.91	N-(3-oxohexanoyl)-L-homoserine lactone	3723	YRYOXRMDHALAFL-QMMMGPOBSA-N	230	8.3	X	mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37C
+1.8	N-(3-oxohexanoyl)-L-homoserine lactone	3723	YRYOXRMDHALAFL-QMMMGPOBSA-N	37	8.3	X	mutant enzyme E101N/R230, in 2.5 mM Bicine buffer, pH 8.3, at 37C
+0.32	N-decanoyl-L-homoserine lactone	4223	TZWZKDULKILUPV-LBPRGKRZSA-N		7.5	X	pH 7.5, temperature not specified in the publication, mutant F107W
+0.43	N-decanoyl-L-homoserine lactone	4223	TZWZKDULKILUPV-LBPRGKRZSA-N	230	8.3	X	mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37C; pH 8.3, 37C, recombinant mutant E101G/R230C
+1.7	N-decanoyl-L-homoserine lactone	4223	TZWZKDULKILUPV-LBPRGKRZSA-N	37	8.3	X	mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37C; pH 8.3, 37C, recombinant mutant E101N/R230I
+54	N-decanoyl-L-homoserine lactone	4223	TZWZKDULKILUPV-LBPRGKRZSA-N		7.5		pH 7.5, temperature not specified in the publication, wild-type
+0.29	N-3-oxo-octanoyl-L-homoserine lactone	3280	FXCMGCFNLNFLSH-JTQLQIEISA-N	37	8.3		pH 8.3, 37C, recombinant wild-type enzyme
+1.1	N-3-oxo-octanoyl-L-homoserine lactone	3280	FXCMGCFNLNFLSH-JTQLQIEISA-N	37	8.3	X	pH 8.3, 37C, recombinant mutant E101G/R230C
+1.8	N-3-oxo-octanoyl-L-homoserine lactone	3280	FXCMGCFNLNFLSH-JTQLQIEISA-N	37	8.3	X	pH 8.3, 37C, recombinant mutant E101N/R230I
+37.6	N-butanoyl-L-homoserine lactone	9190	VFFNZZXXTGXBOG-LURJTMIESA-N	22	7.4		pH 7.4, 22C, recombinant wild-type enzyme
+0.0446	N-octanoyl-DL-homoserine lactone	9872	JKEJEOJPJVRHMQ-UHFFFAOYSA-N	32	7.4		pH 7.4, 32C
+0.009	N-butyryl-L-homoserine lactone	9190	VFFNZZXXTGXBOG-LURJTMIESA-N	230	8.3	X	kcat below 0.009 s-1, mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37C; pH 8.3, 37C, recombinant mutant E101G/R230C
+0.011	N-butyryl-L-homoserine lactone	9190	VFFNZZXXTGXBOG-LURJTMIESA-N	37	8.3	X	kcat below 0.011 s-1, mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37C
+1.11	N-hexanoyl-L-homoserine thiolactone	12554	SVRCTEGNIYMXSN-QMMMGPOBSA-N			X	mutant D108N
+5.4	N-hexanoyl-L-homoserine thiolactone	12554	SVRCTEGNIYMXSN-QMMMGPOBSA-N			X	mutant Y194F
+0.4	N-3-oxo-hexanoyl-L-homoserine lactone	3723	YRYOXRMDHALAFL-QMMMGPOBSA-N	37	8.3	X	pH 8.3, 37C, recombinant mutant E101N/R230I
+0.91	N-3-oxo-hexanoyl-L-homoserine lactone	3723	YRYOXRMDHALAFL-QMMMGPOBSA-N	37	8.3	X	pH 8.3, 37C, recombinant mutant E101G/R230C
+2	N-3-oxo-dodecanoyl-L-homoserine lactone	2664	PHSRRHGYXQCRPU-AWEZNQCLSA-N	37	8.3	X	pH 8.3, 37C, recombinant mutant E101G/R230C
+6.9	N-3-oxo-dodecanoyl-L-homoserine lactone	2664	PHSRRHGYXQCRPU-AWEZNQCLSA-N	37	8.3	X	pH 8.3, 37C, recombinant mutant E101N/R230I
+22.7	N-3-oxohexanoyl-L-homoserine lactone	3723	YRYOXRMDHALAFL-QMMMGPOBSA-N	22	7.4		pH 7.4, 22C, recombinant wild-type enzyme
+20.2	N-3-oxodecanoyl-L-homoserine lactone	3484	KYGIKEQVUKTKRR-LBPRGKRZSA-N	22	7.4		pH 7.4, 22C, recombinant wild-type enzyme
+28.6	N-3-oxobutanoyl-L-homoserine lactone	23688	FIHPLICEAUNEFV-LURJTMIESA-N	22	7.4		pH 7.4, 22C, recombinant wild-type enzyme
+22.2	N-3-oxooctanoyl-L-homoserine lactone	3280	FXCMGCFNLNFLSH-JTQLQIEISA-N	22	7.4		pH 7.4, 22C, recombinant wild-type enzyme
+29.3	N-3-hydroxybutanoyl-L-homoserine lactone	23689	FIXDIFPJOFIIEC-GDVGLLTNSA-N	22	7.4		pH 7.4, 22C, recombinant wild-type enzyme
+0.3	N-heptanoyl-L-homoserine lactone	49804	FTMZLSDESAOPSZ-VIFPVBQESA-N		7.5	X	pH 7.5, temperature not specified in the publication, mutant F107W
+34	N-heptanoyl-L-homoserine lactone	49804	FTMZLSDESAOPSZ-VIFPVBQESA-N		7.5		pH 7.5, temperature not specified in the publication, wild-type
+0.0102	N-hexanoyl-DL-homoserine lactone	28449	ZJFKKPDLNLCPNP-UHFFFAOYSA-N	32	7.4		pH 7.4, 32C
+0.0235	N-heptanoyl-DL-homoserine lactone	83626	FTMZLSDESAOPSZ-UHFFFAOYSA-N	32	7.4		pH 7.4, 32C
+0.00549	N-butanoyl-DL-homoserine lactone	122317	VFFNZZXXTGXBOG-UHFFFAOYSA-N	32	7.4		pH 7.4, 32C
+2.62	N-butyryl-DL-homoserine lactone	122317	VFFNZZXXTGXBOG-UHFFFAOYSA-N	25	8.2		pH 8.2, 25C
+3.17	N-hexyl-L-homoserine lactone	128582	NGEZHASXAXOXAG-VIFPVBQESA-N	25	8.2		pH 8.2, 25C
+4.66	N-(3-oxooctyl)-L-homoserine lactone	3280	FXCMGCFNLNFLSH-JTQLQIEISA-N	25	8.2		pH 8.2, 25C
+2.67	N-(3-oxodecyl)-L-homoserine lactone	3484	KYGIKEQVUKTKRR-LBPRGKRZSA-N	25	8.2		pH 8.2, 25C
+1.83	N-(3-oxododecyl)-L-homoserine lactone	2664	PHSRRHGYXQCRPU-AWEZNQCLSA-N	25	8.2		pH 8.2, 25C
+0.08	N-pentanoyl-L-homoserine lactone	128693	BFIMURGDHGARTN-ZETCQYMHSA-N		7.5	X	pH 7.5, temperature not specified in the publication, mutant F107W
+3	N-pentanoyl-L-homoserine lactone	128693	BFIMURGDHGARTN-ZETCQYMHSA-N	64	7.5	X	pH 7.5, temperature not specified in the publication, mutant F64C/F68C, absence of DTT
+6.1	N-pentanoyl-L-homoserine lactone	128693	BFIMURGDHGARTN-ZETCQYMHSA-N	64	7.5	X	pH 7.5, temperature not specified in the publication, mutant F64C/F68C, presence of DTT
+43	N-pentanoyl-L-homoserine lactone	128693	BFIMURGDHGARTN-ZETCQYMHSA-N		7.5		pH 7.5, temperature not specified in the publication, wild-type
+45	N-pentanoyl-L-homoserine lactone	128693	BFIMURGDHGARTN-ZETCQYMHSA-N		7.5		pH 7.5, temperature not specified in the publication, wild-type, presence of DTT

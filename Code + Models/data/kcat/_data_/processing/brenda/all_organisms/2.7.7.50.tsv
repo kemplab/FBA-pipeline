@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0233	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37	8.0		pH 8.0, 37C, guanylyltransferase activity, holoenzyme capping enzyme
+0.0267	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37	8.0		pH 8.0, 37C, guanylyltransferase activity, D1R domain, residues 1-545
+0.0147	RNA	439	SMFIZLOMDPDKTP-VHXIBLMRSA-N	37	8.0		pH 8.0, 37C, guanylyltransferase activity, D1R domain, residues 1-545
+0.0187	RNA	439	SMFIZLOMDPDKTP-VHXIBLMRSA-N	37	8.0		pH 8.0, 37C, guanylyltransferase activity, holoenzyme capping enzyme

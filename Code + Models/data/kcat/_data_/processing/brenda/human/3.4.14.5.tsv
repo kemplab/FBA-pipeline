@@ -1,0 +1,66 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.05	Gly-Pro-p-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N			X	monomeric mutant enzyme Y735A
+0.2	Gly-Pro-p-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N			X	monomeric mutant enzymeF730A
+0.3	Gly-Pro-p-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N			X	monomeric mutant enzyme W734A
+0.4	L-Lys-L-Pro-p-nitroanilide	9864	UIMHQLCBLTTYDX-GJZGRUSLSA-N		8.0	X	mutant enzyme F842A, in PBS, pH 8.0
+0.5	Gly-Pro-p-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N			X	monomeric mutant enzyme V724A
+0.6	L-Ala-L-Pro-p-nitroanilide	2311	WUOZBACYMYYTOQ-CABZTGNLSA-N		8.0	X	mutant enzyme F842A, in PBS, pH 8.0
+1.8	Gly-Pro-p-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N			X	monomeric mutant enzyme F713A
+1.9	L-Leu-L-Pro-p-nitroanilide	7946	NRWJPDWEPNEFIL-GJZGRUSLSA-N		8.0	X	mutant enzyme F842A, in PBS, pH 8.0
+2	Gly-Pro-p-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N			X	dimeric mutant enzyme F730A
+3	Ala-Pro-7-amido-4-methylcoumarin	1902	BPNBMSQSMRBYOV-WFASDCNBSA-N		7.4	X	pH 7.4, mutant N520A, expressed in Hi5 cells
+5	L-Lys-L-Pro-p-nitroanilide	9864	UIMHQLCBLTTYDX-GJZGRUSLSA-N		8.0		wild type enzyme, in PBS, pH 8.0
+6.3	L-Leu-L-Pro-p-nitroanilide	7946	NRWJPDWEPNEFIL-GJZGRUSLSA-N		8.0		wild type enzyme, in PBS, pH 8.0
+7	L-Glu-L-Pro-p-nitroanilide	20803	ZKNRTBRSOSUGHX-STQMWFEESA-N		8.0		wild type enzyme, in PBS, pH 8.0
+7.7	L-Arg-L-Pro-p-nitroanilide	5419	IUMFVSMNETWFNX-KBPBESRZSA-N		8.0		wild type enzyme, in PBS, pH 8.0
+8.7	L-Met-L-Pro-p-nitroanilide	9260	HQRJJHXKCFABSI-KBPBESRZSA-N		8.0		wild type enzyme, in PBS, pH 8.0
+9	Ala-Pro-7-amido-4-methylcoumarin	1902	BPNBMSQSMRBYOV-WFASDCNBSA-N		7.4	X	pH 7.4, mutant N321A, expressed in Sf9 cells
+9	Ala-Pro-7-amido-4-trifluoromethylcoumarin	1908	AOUAKFCUUCRDQS-HZMBPMFUSA-N		7.4	X	pH 7.4, mutant enzyme N321A expressed in Sf9 cells
+10	Gly-Pro-4-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N		7.4	X	pH 7.4, mutant N321A, expressed in Sf9 cells
+11	L-Asn-L-Pro-p-nitroanilide	15885	WVTZCLDFNFVJLN-RYUDHWBXSA-N		8.0		wild type enzyme, in PBS, pH 8.0
+12	Ala-Pro-7-amido-4-methylcoumarin	1902	BPNBMSQSMRBYOV-WFASDCNBSA-N		7.4	X	pH 7.4, mutant N229A, expressed in Sf9 cells
+12	Ala-Pro-7-amido-4-trifluoromethylcoumarin	1908	AOUAKFCUUCRDQS-HZMBPMFUSA-N		7.4	X	pH 7.4, mutant enzyme N229A expressed in Sf9 cells
+13	Ala-Pro-7-amido-4-methylcoumarin	1902	BPNBMSQSMRBYOV-WFASDCNBSA-N		7.4	X	pH 7.4, mutant N520A, expressed in Sf9 cells
+13	Ala-Pro-7-amido-4-trifluoromethylcoumarin	1908	AOUAKFCUUCRDQS-HZMBPMFUSA-N		7.4	X	pH 7.4, mutant enzyme N520A expressed in Sf9 cells
+13	Gly-Pro-4-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N		7.4	X	pH 7.4, mutant N229A, expressed in Sf9 cells
+14	Gly-Pro-4-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N		7.4	X	pH 7.4, mutant N520A, expressed in Sf9 cells
+15	Ala-Pro-7-amido-4-methylcoumarin	1902	BPNBMSQSMRBYOV-WFASDCNBSA-N		7.4	X	pH 7.4, mutant N281A, expressed in Sf9 cells
+15	Ala-Pro-7-amido-4-trifluoromethylcoumarin	1908	AOUAKFCUUCRDQS-HZMBPMFUSA-N		7.4	X	pH 7.4, mutant enzyme N281A expressed in Sf9 cells
+16	Ala-Pro-7-amido-4-methylcoumarin	1902	BPNBMSQSMRBYOV-WFASDCNBSA-N		7.4	X	pH 7.4, mutant N85A, expressed in Sf9 cells
+16	Ala-Pro-7-amido-4-trifluoromethylcoumarin	1908	AOUAKFCUUCRDQS-HZMBPMFUSA-N		7.4	X	pH 7.4, mutant enzyme N85A expressed in Sf9 cells
+16	Gly-Pro-4-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N		7.4	X	pH 7.4, mutant N85A, expressed in Sf9 cells
+17	Gly-Pro-4-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N		7.4	X	pH 7.4, mutant N281A, expressed in Sf9 cells
+18	Ala-Pro-7-amido-4-methylcoumarin	1902	BPNBMSQSMRBYOV-WFASDCNBSA-N		7.4	X	pH 7.4, wild-type soluble enzyme, mutant N150A, N219A, and N92A, expressed in Sf9 cells
+18	Ala-Pro-7-amido-4-trifluoromethylcoumarin	1908	AOUAKFCUUCRDQS-HZMBPMFUSA-N		7.4	X	pH 7.4, mutant enzyme N150A expressed in Sf9 cells; pH 7.4, mutant enzyme N219A expressed in Sf9 cells; pH 7.4, mutant enzyme N92A expressed in Sf9 cells; pH 7.4, wild-type enzyme expressed in Sf9 cells
+18	L-Ser-L-Pro-p-nitroanilide	26419	OQKIUDMQNPMZAC-RYUDHWBXSA-N		8.0		wild type enzyme, in PBS, pH 8.0
+19	Ala-Pro-7-amido-4-methylcoumarin	1902	BPNBMSQSMRBYOV-WFASDCNBSA-N		7.4	X	pH 7.4, mutant N685A, expressed in Sf9 cells
+19	Ala-Pro-7-amido-4-trifluoromethylcoumarin	1908	AOUAKFCUUCRDQS-HZMBPMFUSA-N		7.4	X	pH 7.4, mutant enzyme N685A expressed in Sf9 cells
+19	Gly-Pro-4-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N		7.4	X	pH 7.4, mutant N92A, N150A, and N219A, expressed in Sf9 cells
+20	Gly-Pro-4-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N		7.4		pH 7.4, wild-type soluble enzyme, expressed in Sf9 cells
+20.3	Gly-L-Pro-p-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N		8.0		wild type enzyme, in PBS, pH 8.0
+21	Gly-Pro-4-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N		7.4	X	pH 7.4, mutant N685A, expressed in Sf9 cells
+23	Ala-Pro-7-amido-4-methylcoumarin	1902	BPNBMSQSMRBYOV-WFASDCNBSA-N		7.4		pH 7.4, wild-type soluble enzyme, expressed in Hi5 cells
+24	Gly-Pro-4-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N		7.4		pH 7.4, wild-type soluble enzyme, expressed in Hi5 cells
+27	Ala-Pro-7-amido-4-methylcoumarin	1902	BPNBMSQSMRBYOV-WFASDCNBSA-N		7.4	X	pH 7.4, mutant N85A, expressed in Hi5 cells
+30	Ala-Pro-7-amido-4-methylcoumarin	1902	BPNBMSQSMRBYOV-WFASDCNBSA-N		7.4	X	pH 7.4, mutant N685A, expressed in Hi5 cells
+30	Gly-Pro-4-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N		7.4	X	pH 7.4, mutant N85A, expressed in Hi5 cells
+31	Ala-Pro-7-amido-4-methylcoumarin	1902	BPNBMSQSMRBYOV-WFASDCNBSA-N		7.4	X	pH 7.4, mutant N92A, expressed in Hi5 cells
+32	Gly-Pro-4-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N		7.4	X	pH 7.4, mutant N685A, expressed in Hi5 cells
+33	L-Ala-L-Pro-p-nitroanilide	2311	WUOZBACYMYYTOQ-CABZTGNLSA-N		8.0		wild type enzyme, in PBS, pH 8.0
+34	Ala-Pro-7-amido-4-methylcoumarin	1902	BPNBMSQSMRBYOV-WFASDCNBSA-N		7.4	X	pH 7.4, mutant N321A, expressed in Hi5 cells
+34	Gly-Pro-4-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N		7.4	X	pH 7.4, mutant N92A, expressed in Hi5 cells
+35	Gly-Pro-4-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N		7.4	X	pH 7.4, mutant N321A and N520A, expressed in Hi5 cells
+37	Ala-Pro-7-amido-4-methylcoumarin	1902	BPNBMSQSMRBYOV-WFASDCNBSA-N		7.4	X	pH 7.4, mutant N150A, expressed in Hi5 cells
+37.3	Ala-Pro-7-amido-4-trifluoromethyl coumarin	1908	AOUAKFCUUCRDQS-HZMBPMFUSA-N	25	7.8		pH 7.8, 25C, glycosylated recombinant soluble enzyme ectodomain
+39.6	Ala-Pro-7-amido-4-trifluoromethyl coumarin	1908	AOUAKFCUUCRDQS-HZMBPMFUSA-N	25	7.8		pH 7.8, 25C, deglycosylated recombinant soluble enzyme ectodomain bound to adenosine deaminase
+40	Ala-Pro-7-amido-4-methylcoumarin	1902	BPNBMSQSMRBYOV-WFASDCNBSA-N		7.4	X	pH 7.4, mutant N229A and N281A, expressed in Hi5 cells
+40	Gly-Pro-4-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N		7.4	X	pH 7.4, mutant N150A, expressed in Hi5 cells
+42	Ala-Pro-7-amido-4-methylcoumarin	1902	BPNBMSQSMRBYOV-WFASDCNBSA-N		7.4	X	pH 7.4, mutant N219A, expressed in Hi5 cells
+43	Gly-Pro-4-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N		7.4	X	pH 7.4, mutant N229A and N281A, expressed in Hi5 cells
+43.1	Ala-Pro-7-amido-4-trifluoromethyl coumarin	1908	AOUAKFCUUCRDQS-HZMBPMFUSA-N	25	7.8		pH 7.8, 25C, deglycosylated recombinant soluble enzyme ectodomain
+45	Gly-Pro-4-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N		7.4	X	pH 7.4, mutant N219A, expressed in Hi5 cells
+48	Gly-Pro-p-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N			X	dimeric mutant enzyme C724A
+87	Gly-Pro-p-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N				dimeric rDPP-IV
+810	Gly-Pro-3,5-dibromo-4-hydroxyanilide	21154	BYMPQYVPAQUOKP-JTQLQIEISA-N				
+5560	Gly-Pro-4-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N		7.4	X	pH 7.4, mutant enzymeY547F
+279000	Gly-Pro-4-nitroanilide	845	NCOCKEVUJUIWRX-NSHDSACASA-N		7.4		pH 7.4, wild-type enzyme

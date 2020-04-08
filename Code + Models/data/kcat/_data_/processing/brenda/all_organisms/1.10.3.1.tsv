@@ -1,0 +1,71 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000000912	L-noradrenaline	4940	SFLSHLFXELFNJZ-QMMMGPOBSA-N	20	7.2		pH 7.2, 20C
+0.00000148	L-adrenaline	3814	UCTWMZQNUQWSLP-VIFPVBQESA-N	20	7.2		pH 7.2, 20C
+0.000338	D-Dopa	1143	WTDRDQBEARUVNC-ZCFIWIBFSA-N	20	7.2		pH 7.2, 20C
+0.000459	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N	20	7.2		pH 7.2, 20C
+1.7	4-hydroxyphenylpropionic acid	3766	NMHMNPHRMNGLLB-UHFFFAOYSA-N	10	6.8		pH 6.8, 10C, in methanol-glycerol cryosolvent
+1.9	tyramine	243	DZGWFCGJZKJUFP-UHFFFAOYSA-N	10	6.8		pH 6.8, 10C, in methanol-glycerol cryosolvent
+2.24	methyl 3-hydroxy-L-tyrosinate	4238	PFDUUKDQEHURQC-ZETCQYMHSA-N	10	6.8		pH 6.8, 10C, in methanol-glycerol cryosolvent
+3.05	2,3,4-trihydroxybenzoic acid	4340	BRRSNXCXLSVPFC-UHFFFAOYSA-M				
+3.4	methyl 3-hydroxy-L-tyrosinate	4238	PFDUUKDQEHURQC-ZETCQYMHSA-N	25	6.8		pH 6.8, 25C, in aqueous buffer
+4.9	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N				
+5.7	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N				at substrate concentrations above 4 mM, substrate inhibition is observed and the data are fitted to a simple model for substrate inhibition. KM, kcat and KI are obtained for the inhibitory binding site
+6	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N				substrate range 0.3-4 mM
+7.4	tyramine	243	DZGWFCGJZKJUFP-UHFFFAOYSA-N	25	6.8		pH 6.8, 25C, in methanol-glycerol cryosolvent
+7.48	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N				
+8.9	methyl 3-hydroxy-L-tyrosinate	4238	PFDUUKDQEHURQC-ZETCQYMHSA-N	25	6.8		pH 6.8, 25C, in methanol-glycerol cryosolvent
+11.48	3,4-dihydroxyphenylacetic acid	665	CFFZDZCDUFSOFZ-UHFFFAOYSA-N				
+22.7	Luteolin-7-glycoside	2587	PEFNSGRTCBGNAN-QNDFHXLGSA-N				
+25.9	tyramine	243	DZGWFCGJZKJUFP-UHFFFAOYSA-N	25	6.8		pH 6.8, 25C, in aqueous buffer
+26.66	4-Methylcatechol	318	ZBCATMYQYDCTIZ-UHFFFAOYSA-N				
+29.4	L-isoproterenol	1261	JWZZKOKVBUJMES-UHFFFAOYSA-N				
+29.8	D-isoproterenol	16143	JWZZKOKVBUJMES-NSHDSACASA-N				
+29.9	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N	10	6.8		pH 6.8, 10C, in methanol-glycerol cryosolvent
+35.5	L-3,4-dihydroxyphenylalanine methyl ester	16146	XBBDACCLCFWBSI-ZETCQYMHSA-N				
+42	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N	10	6.8		pH 6.8, 10C, in methanol-glycerol cryosolvent
+43	4-hydroxyphenylpropionic acid	3766	NMHMNPHRMNGLLB-UHFFFAOYSA-N	25	6.8		pH 6.8, 25C, in methanol-glycerol cryosolvent
+44.3	D-2-methyl-3,4-dihydroxyphenylalanine	16145	KTCHODFRFVSYCC-SSDOTTSWSA-N				
+44.3	L-2-methyl-3,4-dihydroxyphenylalanine	16144	KTCHODFRFVSYCC-ZETCQYMHSA-N				
+48.05	4-tert-butylcatechol	2420	XESZUVZBAMCAEJ-UHFFFAOYSA-N				
+66.7	4-hydroxyphenylpropionic acid	3766	NMHMNPHRMNGLLB-UHFFFAOYSA-N	25	6.8		pH 6.8, 25C, in aqueous buffer
+106	caffeic acid	355	QAIPRVGONGVQAS-DUXPYHPUSA-N				
+107.4	D-Dopa	1143	WTDRDQBEARUVNC-ZCFIWIBFSA-N				
+107.4	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N	25	6.8		pH 6.8, 25C, in aqueous buffer
+107.4	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N				
+109	rosmarinic acid	1511	DOUMFZQKYFQNTF-WUTVXBCWSA-N				
+113	dihydrocaffeic acid	113783	DZAUWHJDUNRCTF-UHFFFAOYSA-M				
+121	chlorogenic acid	488	CWVRJTMFETXNAD-JUHZACGLSA-N		4.5		pH 4.5, dependent on the assay method
+133.2	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N	25	6.8		pH 6.8, 25C, in methanol-glycerol cryosolvent
+141.1	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N	25	6.8		pH 6.8, 25C, in methanol-glycerol cryosolvent
+142	3,4-Dihydroxyphenyl acetic acid	665	CFFZDZCDUFSOFZ-UHFFFAOYSA-N				
+150	verbascosid	21861	FBSKJMQYURKNSU-JTQAKGQCSA-N				
+156	chlorogenic acid	488	CWVRJTMFETXNAD-JUHZACGLSA-N				
+160	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N				
+176	chlorogenic acid	488	CWVRJTMFETXNAD-JUHZACGLSA-N		7.0		pH 7.0
+184	D-Dopa	1143	WTDRDQBEARUVNC-ZCFIWIBFSA-N				
+193	quercetin	131	REFJWTPEDVJJIY-UHFFFAOYSA-N				
+213	myricetin	403	IKMDFBPHZNJCSN-UHFFFAOYSA-N				
+282	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+340	D-Dopa	1143	WTDRDQBEARUVNC-ZCFIWIBFSA-N				
+395	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N				
+439	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N	25	6.8		pH 6.8, 25C, in aqueous buffer
+439	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N		7.0		pH 7.0
+439	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N				
+533	3,4-Dihydroxyphenyl acetic acid	665	CFFZDZCDUFSOFZ-UHFFFAOYSA-N				
+553.5	3,4-dihydroxyphenyl propionic acid	113783	DZAUWHJDUNRCTF-UHFFFAOYSA-M				
+631.6	3,4-Dihydroxyphenyl acetic acid	665	CFFZDZCDUFSOFZ-UHFFFAOYSA-N				
+641	1-tert-butyl-catechol	24357	CEGFADRHLIZQIP-UHFFFAOYSA-N		7.0		pH 7.0
+641.8	tert-butylcatechol	2420	XESZUVZBAMCAEJ-UHFFFAOYSA-N				
+785	chlorogenic acid	488	CWVRJTMFETXNAD-JUHZACGLSA-N				
+841.6	4-Methylcatechol	318	ZBCATMYQYDCTIZ-UHFFFAOYSA-N				
+842	4-Methylcatechol	318	ZBCATMYQYDCTIZ-UHFFFAOYSA-N		7.0		pH 7.0
+850	3,4-Dihydroxyphenyl acetic acid	665	CFFZDZCDUFSOFZ-UHFFFAOYSA-N				
+875	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N				
+877.6	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N				
+878	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N		7.0		pH 7.0
+1070	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N				
+1350	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N				
+1445	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N				
+1830	3,4-dihydroxyphenyl propionic acid	113783	DZAUWHJDUNRCTF-UHFFFAOYSA-M				
+2340	4-Methylcatechol	318	ZBCATMYQYDCTIZ-UHFFFAOYSA-N				
+3320	tert-butylcatechol	2420	XESZUVZBAMCAEJ-UHFFFAOYSA-N				

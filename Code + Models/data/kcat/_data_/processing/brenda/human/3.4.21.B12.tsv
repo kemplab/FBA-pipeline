@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0078	VLK-7-amido-4-methylcoumarin	23983	NMAUGTNXBOFHCJ-HFMPRLQTSA-N	37	8.0		pH 8.0, 37C
+0.033	VPR-7-amido-4-methylcoumarin	6465	CCOBFOPWDBZKQO-IPJJNNNSSA-N	37	8.0		pH 8.0, 37C
+1.8	benzyl-FVR-p-nitroanilide	25449	LOVIXFXDQFBJNU-AWCRTANDSA-N				thermolysin activated recombinant KLK4
+3.64	Z-FVR-p-nitroanilide	15275	WIANJQKJPHTSBO-AWCRTANDSA-N	25	7.0		in 50 mM HEPES (pH 7.0), 150 mM NaCl, 10 mM CaCl2 buffer, at 25C
+3.64	Z-Phe-Val-Arg-p-nitroanilide	15275	WIANJQKJPHTSBO-AWCRTANDSA-N				monomeric K4
+7.9	(Abz)-SKGR-SLIGK(N-[2,4-dintrophenyl]ethylenediamine)-Asp-OH	25450	GLRKTIJKZMPZKI-VHZBQUTFSA-N				

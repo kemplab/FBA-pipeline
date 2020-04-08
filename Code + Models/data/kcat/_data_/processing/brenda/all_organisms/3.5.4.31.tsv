@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.3	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N				pH and temperature not specified in the publication
+17.1	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	25	7.4		at pH 7.4 and 25C
+110	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	60	9.0	X	mutant enzyme E150R, at pH 9.0 and 60C; wild type enzyme, at pH 9.0 and 60C
+140	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	60	9.0	X	mutant enzyme Y136R, at pH 9.0 and 60C
+1.39	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	60	9.0	X	mutant enzyme Y136R/E150R, at pH 9.0 and 60C; pH and temperature not specified in the publication, mutant enzyme Y136R/E150R
+7.2	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N				pH and temperature not specified in the publication
+24.6	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.4		at pH 7.4 and 25C
+160	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	60	9.0		pH and temperature not specified in the publication, wild-type enzyme; wild type enzyme, at pH 9.0 and 60C
+200	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	60	9.0	X	mutant enzyme E150R, at pH 9.0 and 60C; pH and temperature not specified in the publication, mutant enzyme E150R
+220	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	60	9.0	X	mutant enzyme Y136R, at pH 9.0 and 60C; pH and temperature not specified in the publication, mutant enzyme Y136R

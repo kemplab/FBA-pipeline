@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+41.7	G4-beta-cyclodextrin	27133	YVDDHKIGRGHRMC-FLCYYJKHSA-N	37			in 50 mM sodium phosphate buffer (pH7.0) at 37C
+38	G3-beta-cyclodextrin	27134	PRFVXWINBANLAO-MYWUTMGMSA-N	37			in 50 mM sodium phosphate buffer (pH7.0) at 37C
+38	beta-cyclodextrin-alpha-1,6-linked maltotriose	27134	PRFVXWINBANLAO-MYWUTMGMSA-N	37	7		pH 7, 37C
+41.7	beta-cyclodextrin-alpha-1,6-linked maltotetraose	27133	YVDDHKIGRGHRMC-FLCYYJKHSA-N	37	7		pH 7, 37C

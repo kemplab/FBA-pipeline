@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+110	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N			X	mutant enzyme D201N
+130	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N			X	mutant enzyme D201A
+1520	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N				wild-type enzyme
+0.5	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N			X	mutant enzyme D201A
+0.9	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N			X	mutant enzyme D201N
+1.4	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	50	10.0		pH 10.0, 50C, with cofactor NADP+, recombinant enzyme
+2.6	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	50	10.0		pH 10.0, 50C, with cofactor NAD+, recombinant enzyme
+233	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N				wild-type enzyme D201A
+0.16	(2S,3R)-tartrate	956	FEWJPZIEWOKRBE-XIXRPRMCSA-N	50	10.0		pH 10.0, 50C, with cofactor NAD+, recombinant enzyme
+0.2	(2S,3R)-tartrate	956	FEWJPZIEWOKRBE-XIXRPRMCSA-N	50	10.0		pH 10.0, 50C, with cofactor NADP+, recombinant enzyme
+0.37	(2S,3S)-tartrate	3375	FEWJPZIEWOKRBE-LWMBPPNESA-N	50	10.0		pH 10.0, 50C, with cofactor NAD+, recombinant enzyme
+4.1	(2S,3S)-tartrate	3375	FEWJPZIEWOKRBE-LWMBPPNESA-N	50	10.0		pH 10.0, 50C, with cofactor NADP+, recombinant enzyme

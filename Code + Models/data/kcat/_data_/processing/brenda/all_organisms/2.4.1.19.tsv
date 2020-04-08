@@ -1,0 +1,83 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000086	L-ascorbic acid	88	CIWBSHSKHKDKBQ-JLAZNSOCSA-N	37	5.5	X	mutant enzyme Y195S, at pH 5.5 and 37C
+0.000097	L-ascorbic acid	88	CIWBSHSKHKDKBQ-JLAZNSOCSA-N	37	5.5		wild type enzyme, at pH 5.5 and 37C
+0.0001	L-ascorbic acid	88	CIWBSHSKHKDKBQ-JLAZNSOCSA-N	37	5.5	X	mutant enzyme Q265K, at pH 5.5 and 37C
+0.000105	L-ascorbic acid	88	CIWBSHSKHKDKBQ-JLAZNSOCSA-N	37	5.5	X	mutant enzyme Y260R, at pH 5.5 and 37C
+0.000106	L-ascorbic acid	88	CIWBSHSKHKDKBQ-JLAZNSOCSA-N	37	5.5	X	mutant enzyme Q265K/Y195S, at pH 5.5 and 37C
+0.00011	L-ascorbic acid	88	CIWBSHSKHKDKBQ-JLAZNSOCSA-N	37	5.5	X	mutant enzyme Y260R/Q265K, at pH 5.5 and 37C
+0.000114	L-ascorbic acid	88	CIWBSHSKHKDKBQ-JLAZNSOCSA-N	37	5.5	X	mutant enzyme Y260R/Q265K/Y195S, at pH 5.5 and 37C
+0.000133	L-ascorbic acid	88	CIWBSHSKHKDKBQ-JLAZNSOCSA-N	37	5.5	X	mutant enzyme Y260R/Y195S, at pH 5.5 and 37C
+0.00183	alpha-cyclodextrin	380	HFHDHCJBZVLPGP-RWMJIURBSA-N			X	hydrolyzing activity, mutant Y195L
+0.00267	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N			X	strain 1011, beta-cyclodextrin-forming activity, mutant F183L/F259L
+0.00383	alpha-cyclodextrin	380	HFHDHCJBZVLPGP-RWMJIURBSA-N			X	hydrolyzing activity, mutant F283L
+0.004	maltodextrin	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	37	5.5	X	mutant K47W, pH 5.5, 37C, average molecular weight of 2150.68 Da for maltodextrin; wild-type, pH 5.5, 37C, average molecular weight of 2150.68 Da for maltodextrin
+0.005	maltodextrin	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	37	5.5	X	mutant K47F, pH 5.5, 37C, average molecular weight of 2150.68 Da for maltodextrin; mutant K47V, pH 5.5, 37C, average molecular weight of 2150.68 Da for maltodextrin
+0.0059	maltodextrin	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	37	5.5		wild type enzyme, at pH 5.5 and 37C
+0.006	maltodextrin	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	37	5.5	X	mutant K47L, pH 5.5, 37C, average molecular weight of 2150.68 Da for maltodextrin
+0.0067	maltodextrin	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	37	5.5	X	mutant enzyme Y195S, at pH 5.5 and 37C
+0.0084	maltodextrin	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	37	5.5	X	mutant enzyme Q265K, at pH 5.5 and 37C
+0.009	maltodextrin	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	37	5.5	X	mutant enzyme Y260R, at pH 5.5 and 37C
+0.0095	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N				hydrolyzing activity, wild-type
+0.0096	maltodextrin	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	37	5.5	X	mutant enzyme Q265K/Y195S, at pH 5.5 and 37C
+0.0098	maltodextrin	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	37	5.5	X	mutant enzyme Y260R/Y195S, at pH 5.5 and 37C
+0.0104	maltodextrin	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	37	5.5	X	mutant enzyme Y260R/Q265K, at pH 5.5 and 37C
+0.012	alpha-cyclodextrin	380	HFHDHCJBZVLPGP-RWMJIURBSA-N			X	hydrolyzing activity, mutant F259L
+0.0124	maltodextrin	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	37	5.5	X	mutant enzyme Y260R/Q265K/Y195S, at pH 5.5 and 37C
+0.014	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N			X	hydrolyzing activity, mutant Y195L
+0.0183	alpha-cyclodextrin	380	HFHDHCJBZVLPGP-RWMJIURBSA-N			X	hydrolyzing activity, mutant F183L
+0.0255	alpha-cyclodextrin	380	HFHDHCJBZVLPGP-RWMJIURBSA-N			X	hydrolyzing activity, mutant Y195F
+0.035	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N			X	coupling activity, mutant F283L
+0.0442	alpha-cyclodextrin	380	HFHDHCJBZVLPGP-RWMJIURBSA-N				hydrolyzing activity, wild-type
+0.122	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	1951	XOPIENHSVNOKRX-RZXBMSGGSA-N			X	mutant strain F283L, acceptor glucose, wild-type
+0.122	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N			X	strain 1011, beta-cyclodextrin-forming activity, mutant F183L
+0.137	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	1951	XOPIENHSVNOKRX-RZXBMSGGSA-N			X	strain 1011, acceptor maltose, mutant F283L
+0.137	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N			X	strain 1011, beta-cyclodextrin-forming activity, mutant Y195L
+0.148	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N			X	strain 1011, beta-cyclodextrin-forming activity, mutant F259L
+0.178	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N			X	coupling activity, mutant F259L
+0.2	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N			X	strain 1011, beta-cyclodextrin-forming activity, mutant F283L
+0.315	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N			X	coupling activity, mutant Y195L
+0.345	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	1951	XOPIENHSVNOKRX-RZXBMSGGSA-N			X	mutant strain F259L, acceptor glucose, wild-type
+0.423	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	1951	XOPIENHSVNOKRX-RZXBMSGGSA-N			X	strain 1011, acceptor maltose, mutant F259L
+0.442	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N				wild-type
+0.482	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N			X	strain 1011, beta-cyclodextrin-forming activity, mutant Y195F
+0.487	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N			X	coupling activity, mutant Y195F
+0.508	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N				strain 1011, beta-cyclodextrin-forming activity, wild-type
+0.818	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N			X	coupling activity, mutant F183L
+0.833	p-nitrophenyl-(alpha-1,4-glucopyranosyl)3-D-glucose	15166	NPSLEEASXYBLOE-RVXWVMNCSA-N				E 192
+1	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N				unheated CGTase
+1.13	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N				coupling activity, wild-type
+1.33	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N				heated CGTase
+1.51	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N			X	mutant E344D
+1.66	p-nitrophenyl-(alpha-1,4-glucopyranosyl)2-D-glucose	12819	IAYJZWFYUSNIPN-LTHBGAKLSA-N				E 192
+1.66	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N				authentic CGTase
+1.97	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	1951	XOPIENHSVNOKRX-RZXBMSGGSA-N			X	mutant strain Y195L, acceptor glucose, wild-type
+2.2	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	1951	XOPIENHSVNOKRX-RZXBMSGGSA-N			X	strain 1011, acceptor maltose, mutant Y195L
+2.32	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	1951	XOPIENHSVNOKRX-RZXBMSGGSA-N			X	mutant strain Y195F, acceptor glucose, wild-type
+2.42	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N				
+2.63	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	1951	XOPIENHSVNOKRX-RZXBMSGGSA-N			X	strain 1011, acceptor maltose, mutant F183L/F259L
+3.2	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	1951	XOPIENHSVNOKRX-RZXBMSGGSA-N			X	strain 1011, acceptor maltose, mutant Y195F
+3.38	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	1951	XOPIENHSVNOKRX-RZXBMSGGSA-N				strain 1011, acceptor maltose, wild-type
+3.8	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	1951	XOPIENHSVNOKRX-RZXBMSGGSA-N			X	mutant strain F183L/F259L, acceptor glucose, wild-type
+4.07	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	1951	XOPIENHSVNOKRX-RZXBMSGGSA-N				strain 1011, acceptor glucose, wild-type
+5.55	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	1951	XOPIENHSVNOKRX-RZXBMSGGSA-N			X	strain 1011, acceptor maltose, mutant F183L
+9	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	60	6.0	X	pH 6.0, 60C, beta-cyclization activity, mutant A230V
+15.5	3-ketobutylidene-beta-2-chloro-4-nitrophenylmaltopentaoside	1951	XOPIENHSVNOKRX-RZXBMSGGSA-N			X	mutant strain F183L, acceptor glucose, wild-type
+26	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	60	6.0	X	pH 6.0, 60C, beta-cyclization activity, mutant K232E
+35	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	60	6.0	X	pH 6.0, 60C, beta-cyclization activity, mutant F283L
+48	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	60	6.0	X	pH 6.0, 60C, beta-cyclization activity, mutant A230V/H140Q
+79	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	60	6.0	X	pH 6.0, 60C, beta-cyclization activity, mutant H140Q
+329	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	60	6.0		pH 6.0, 60C, beta-cyclization activity, wild-type enzyme
+371	maltodextrin	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	50	6.5	X	mutant enzyme D577G, at pH 6.5 and 50C
+403	maltodextrin	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	50	6.5		wild type enzyme, at pH 6.5 and 50C
+406	maltodextrin	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	50	6.5	X	mutant enzyme D577A, at pH 6.5 and 50C
+467	maltodextrin	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	50	6.5	X	mutant enzyme D577V, at pH 6.5 and 50C
+513	maltodextrin	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	50	6.5	X	mutant enzyme D577I, at pH 6.5 and 50C
+558	4,6-O-ethylidene-4-nitrophenyl alpha-D-maltoheptaoside	5871	AKGXEJKTUZQXCS-KOEUDHNCSA-N	60	6.0	X	pH 6.0, 60C, mutant S77P
+558	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	60	6.0	X	pH 6.0, 60C, mutant S77P
+583	maltodextrin	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	50	6.5	X	mutant enzyme D577L, at pH 6.5 and 50C
+644	4,6-O-ethylidene-4-nitrophenyl alpha-D-maltoheptaoside	5871	AKGXEJKTUZQXCS-KOEUDHNCSA-N	60	6.0	X	pH 6.0, 60C, mutant W239R
+644	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	60	6.0	X	pH 6.0, 60C, mutant W239R
+1082	4,6-O-ethylidene-4-nitrophenyl alpha-D-maltoheptaoside	5871	AKGXEJKTUZQXCS-KOEUDHNCSA-N	60	6.0	X	pH 6.0, 60C, mutant W239L
+1082	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	60	6.0	X	pH 6.0, 60C, mutant W239L
+1244	4,6-O-ethylidene-4-nitrophenyl alpha-D-maltoheptaoside	5871	AKGXEJKTUZQXCS-KOEUDHNCSA-N	60	6.0		pH 6.0, 60C, wild-type enzyme
+1244	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	60	6.0		pH 6.0, 60C, wild-type enzyme

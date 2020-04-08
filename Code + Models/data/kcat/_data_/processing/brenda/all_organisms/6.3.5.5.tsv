@@ -1,0 +1,126 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.005	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.6	X	pH 7.6, mutant alphaP360A/alphaH361A/betaR265A
+0.006	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant I18W/A23F/C24F, Gln-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+0.01	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.6	X	mutant M911E, value below 0.01, ATP-synthesis, pH 7.6, temperature not specified in the publication
+0.01	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant I18W/A23F/C24F, value below 0.01, CP-synthesis (co-substrate: L-Gln, HCO3-), pH 7.6, temperature not specified in the publication; mutant L648E,value below 0.01, CP-synthesis (co-substrate: L-Gln, HCO3-), pH 7.6, temperature not specified in the publication; mutant L720E, value below 0.01, CP-synthesis (co-substrate: L-Gln, HCO3-), pH 7.6, temperature not specified in the publication; mutant M174E/M378E, value below 0.01, CP-synthesis (co-substrate: L-Gln, HCO3-), pH 7.6, temperature not specified in the publication
+0.012	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant M378E, CP-synthesis (co-substrate: L-Gln, HCO3-), pH 7.6, temperature not specified in the publication
+0.013	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant M378E, HCO3-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+0.015	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant M911E, value below 0.01, CP-synthesis (co-substrate: L-Gln, HCO3-), pH 7.6, temperature not specified in the publication
+0.024	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.6	X	mutant L648E, ATP-synthesis, pH 7.6, temperature not specified in the publication
+0.028	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant M174E/M378E, HCO3-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+0.031	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.6	X	mutant L720E, ATP-synthesis, pH 7.6, temperature not specified in the publication
+0.033	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant A23F, CP-synthesis (co-substrate: L-Gln, HCO3-), pH 7.6, temperature not specified in the publication
+0.035	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant M378E, Gln-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+0.039	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant I18W/A23F/C24F, HCO3-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+0.043	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant M174E/M378E, Gln-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+0.053	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant M174E, HCO3-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+0.058	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.6	X	mutant G575F, ATP-synthesis, pH 7.6, temperature not specified in the publication
+0.06	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, HCO3(-)-dependent ATPase, mutant D207N
+0.07	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, HCO3(-)-dependent ATPase, mutant F755A
+0.072	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant G575F, CP-synthesis (co-substrate: L-Gln, HCO3-), pH 7.6, temperature not specified in the publication
+0.086	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.6	X	mutant I18W/A23F/C24F, ATP-synthesis, pH 7.6, temperature not specified in the publication
+0.09	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, HCO3(-)-dependent ATPase, mutant P690Q; pH 7.6, 25C, HCO3(-)-dependent ATPase, wild-type enzyme
+0.097	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant A23F, HCO3-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+0.097	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	4		X	mutant enzyme E25Q/E383Q/E604Q, NH4Cl-dependent ATP hydrolysis
+0.1	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.6	X	mutant M174E, ATP-synthesis, pH 7.6, temperature not specified in the publication
+0.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, HCO3(-)-dependent ATPase, mutant A144Q
+0.1	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	mutant enzyme E306A, Gln-dependent ATP hydrolysis
+0.1	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.6	X	mutant M174E/M378E, glutaminase activity pH 7.6, temperature not specified in the publication
+0.11	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, HCO3(-)-dependent ATPase, mutant D207A
+0.11	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant M174E, Gln-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+0.12	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, HCO3(-)-dependent ATPase, mutant A144Q/D207A
+0.12	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	4		X	mutant enzyme E577Q, NH4Cl-dependent ATP hydrolysis
+0.13	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.6		wild-type, ATP-synthesis, pH 7.6, temperature not specified in the publication
+0.13	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, HCO3(-)-dependent ATPase, mutant D753N
+0.13	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.6	X	mutant I18W/A23F/C24F, glutaminase activity pH 7.6, temperature not specified in the publication; mutant M378E, glutaminase activity pH 7.6, temperature not specified in the publication
+0.14	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, HCO3(-)-dependent ATPase, mutant D753A
+0.14	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.6	X	mutant M911E, glutaminase activity pH 7.6, temperature not specified in the publication
+0.15	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.6	X	mutant G575K, ATP-synthesis, pH 7.6, temperature not specified in the publication
+0.15	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	mutant enzyme E25Q/E383Q/E604Q, Gln-dependent ATP hydrolysis
+0.15	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.6	X	mutant M174E, glutaminase activity pH 7.6, temperature not specified in the publication
+0.16	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant A23K, CP-synthesis (co-substrate: L-Gln, HCO3-), pH 7.6, temperature not specified in the publication
+0.17	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant A23K, HCO3-dependent ATPase activity, pH 7.6, temperature not specified in the publication; wild-type, HCO3-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+0.17	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	mutant enzyme E577Q, Gln-dependent ATP hydrolysis
+0.18	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant G575K, HCO3-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+0.19	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant G575F, HCO3-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+0.2	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.6	X	mutant M378E, ATP-synthesis, pH 7.6, temperature not specified in the publication
+0.21	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.6	X	mutant A23K, glutaminase activity pH 7.6, temperature not specified in the publication
+0.22	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.6	X	mutant M174E/M378E, ATP-synthesis, pH 7.6, temperature not specified in the publication
+0.23	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.6	X	mutant A23F, ATP-synthesis, pH 7.6, temperature not specified in the publication
+0.28	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant A23K, Gln-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+0.29	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, HCO3(-)-dependent ATPase, mutant I211S
+0.32	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.6	X	mutant A23K, ATP-synthesis, pH 7.6, temperature not specified in the publication
+0.32	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	mutant enzyme E25Q/E383Q, Gln-dependent ATP hydrolysis
+0.33	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant M911E, HCO3-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+0.35	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, HCO3(-)-dependent ATPase, mutant S209A
+0.39	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant L720E, HCO3-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+0.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant M911E, Gln-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+0.51	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	4		X	mutant enzyme E25Q/E383Q, NH4Cl-dependent ATP hydrolysis
+0.53	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	25	7.6	X	pH 7.6, 25C, mutant Q351A, L-glutamine hydrolysis
+0.59	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant L648E, HCO3-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+0.78	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+0.84	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.6	X	mutant L720E, glutaminase activity pH 7.6, temperature not specified in the publication
+0.88	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.6	X	pH 7.6, mutant betaQ262A/betaR265A/betaN266A
+0.95	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	mutant enzyme R848A, Gln-dependent ATP hydrolysis
+1	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.6	X	pH 7.6, mutant betaQ262A/betaR265A
+1.05	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	25	7.6	X	pH 7.6, 25C, mutant N311A, L-glutamine hydrolysis
+1.08	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.6	X	mutant A23F, glutaminase activity pH 7.6, temperature not specified in the publication
+1.1	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.6	X	pH 7.6, mutant betaR265A
+1.17	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	25	7.6	X	pH 7.6, 25C, mutant D334A, L-glutamine hydrolysis
+1.2	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.6	X	pH 7.6, mutant alphaD362A/betaR265A
+1.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant A23F, Gln-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+1.3	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.6	X	mutant L648E, glutaminase activity pH 7.6, temperature not specified in the publication
+1.3	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	4		X	mutant enzyme E604Q, NH4Cl-depebndent ATP hydrolysis; mutant enzyme E916Q, NH4Cl-dependent ATP hydrolysis
+1.33	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, mutant D334A, L-glutamine hydrolysis
+1.4	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.6		pH 7.6, wild-type enzyme
+1.5	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	mutant enzyme E604Q, Gln-dependent ATP hydrolysis
+1.51	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, Gln-dependent ATPase, mutant D207A
+1.6	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	25	7.6	X	pH 7.6, 25C, mutant Q310A, L-glutamine hydrolysis
+1.65	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, Gln-dependent ATPase, mutant D207N
+1.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, Gln-dependent ATPase, mutant A144Q/D207A
+1.7	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	4		X	mutant enzyme E383Q, NH4Cl-dependent ATP hydrolysis
+1.71	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, Gln-dependent ATPase, mutant D753A
+1.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant G575K, CP-synthesis (co-substrate: L-Gln, HCO3-), pH 7.6, temperature not specified in the publication; mutant M174E, CP-synthesis (co-substrate: L-Gln, HCO3-), pH 7.6, temperature not specified in the publication; wild-type, CP-synthesis (co-substrate: L-Gln, HCO3-), pH 7.6, temperature not specified in the publication
+1.9	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N		7.6		pH 7.6, wild-type enzyme
+2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant L720E, Gln-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+2	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N		7.6	X	pH 7.6, mutant alphaP360A/alphaH361A
+2.13	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, mutant N311A, L-glutamine hydrolysis
+2.13	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	25	7.6		pH 7.6, 25C, wild-type enzyme, L-glutamine hydrolysis
+2.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				ammonia-dependent ADP formation
+2.2	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.6		wild-type, glutaminase activity pH 7.6, temperature not specified in the publication
+2.3	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.6	X	pH 7.6, mutant alphaP360A/alphaH361A
+2.4	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.6	X	pH 7.6, mutant alphaD362A
+2.43	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, Gln-dependent ATPase, mutant S209A
+2.5	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N		7.6	X	pH 7.6, mutant alphaP360A/alphaH361A/betaR265A; pH 7.6, mutant betaR265A
+3	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.6	X	mutant G575F, glutaminase activity pH 7.6, temperature not specified in the publication
+3.1	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		7.6	X	mutant G575K, glutaminase activity pH 7.6, temperature not specified in the publication
+3.19	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, mutant Q351A, L-glutamine hydrolysis
+3.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant L648E, Gln-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+3.2	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	mutant enzyme E383Q,Gln-dependent ATP hydrolysis
+3.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6	X	mutant G575F, Gln-dependent ATPase activity, pH 7.6, temperature not specified in the publication; mutant G575K, Gln-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+3.35	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				chimeric enzyme, in comparison to effect of phosphorylation and presence of effectors
+3.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.6		wild-type, Gln-dependent ATPase activity, pH 7.6, temperature not specified in the publication
+3.6	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N		7.6	X	pH 7.6, mutant betaQ262A/betaR265A
+3.8	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N		7.6	X	pH 7.6, mutant alphaD362A
+3.9	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	4			wild-type enzyme, NH4Cl-dependent ATP hydrolysis
+3.94	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, Gln-dependent ATPase, mutant A144Q
+4	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	mutant enzyme E383QE916Q, Gln-dependent ATP hydrolysis; wild-type enzyme, Gln-dependent ATP hydrolysis
+4.04	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6		pH 7.6, 25C, Gln-dependent ATPase, wild-type enzyme
+4.2	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	mutant enzyme E916Q, Gln-dependent ATP hydrolysis
+4.77	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, Gln-dependent ATPase, mutant I211S
+4.79	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6		pH 7.6, 25C, wild-type enzyme, L-glutamine hydrolysis
+5.1	ammonia	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N				
+5.18	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, Gln-dependent ATPase, mutant F755A
+5.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	deletion mutant, in comparison to the presence of effectors
+5.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, Gln-dependent ATPase, mutant D753N
+5.75	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, mutant Q310A, L-glutamine hydrolysis
+5.8	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N		7.6	X	pH 7.6, mutant alphaD362A/betaR265A
+6.08	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+6.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				glutamine-dependent ADP formation
+8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+9.01	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.6	X	pH 7.6, 25C, Gln-dependent ATPase, mutant P690Q
+9.4	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				
+164	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.4	X	pH 7.4, 37C, mutant hybrid enzyme
+193	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.4	X	pH 7.4, 37C, mutant hybrid enzyme
+2500	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.4		pH 7.4, 37C, wild-type hybrid enzyme
+2660	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.4		pH 7.4, 37C, wild-type hybrid enzyme

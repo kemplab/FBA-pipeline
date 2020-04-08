@@ -1,0 +1,37 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00278	crotonyl CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N				
+0.016	trans-but-2-enoyl-[acyl-carrier protein]	4203	ODQWVFVYZCRFJG-SNAWJCMRSA-N	30	6.5		30C, pH 6.5, in the absence of 100 mM NH4+
+0.022	(2E)-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	25	7.9	X	mutant K244R, pH 7.9, 25C
+0.08	(2E)-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	25	7.9	X	mutant Y235A, pH 7.9, 25C
+0.08	trans-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	30	8.0	X	mutant enzyme T267Y, at pH 8.0 and 30C
+0.1	(2E)-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	25	7.9	X	mutant Y235S, pH 7.9, 25C
+0.18	(2E)-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	25	7.9	X	mutant K244A, pH 7.9, 25C
+0.25	trans-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	30	8.0	X	mutant enzyme T267V, at pH 8.0 and 30C
+0.27	trans-2-octenoyl-CoA	3117	CPSDNAXXKWVYIY-NTLMCJQISA-N	30	8.0		wild type enzyme, at pH 8.0 and 30C
+0.3	(2E)-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	25	7.9	X	mutant K245M, pH 7.9, 25C
+0.45	trans-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	25	8.0	X	25C, pH 8.0, M159T mutant
+0.48	trans-but-2-enoyl-[acyl-carrier protein]	4203	ODQWVFVYZCRFJG-SNAWJCMRSA-N	30	6.5	X	30C, pH 6.5, G95S mutant
+0.65	trans-but-2-enoyl-[acyl-carrier protein]	4203	ODQWVFVYZCRFJG-SNAWJCMRSA-N	30	6.5		30C, pH 6.5
+1	trans-but-2-enoyl-[acyl-carrier protein]	4203	ODQWVFVYZCRFJG-SNAWJCMRSA-N	30	6.5	X	30C, pH 6.5, P155Q mutant
+1.62	trans-but-2-enoyl-[acyl-carrier protein]	4203	ODQWVFVYZCRFJG-SNAWJCMRSA-N	25	7.4		25C, pH 7.4
+1.75	trans-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	25	8.0	X	25C, pH 8.0, Y156F mutant
+2.2	trans-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	30	8.0	X	mutant enzyme T267A, at pH 8.0 and 30C
+3.6	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N	25	6.8		pH 6.8, 25C
+4	crotonyl-[acyl-carrier-protein]	2730	WFSFWDFCBNAVCF-SNAWJCMRSA-N	25	6.8		pH 6.8, 25C
+5	trans-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	25	8.0	X	25C, pH 8.0, G93V mutant
+5.3	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N	30	7.5		at pH 7.5 and 30C
+5.53	trans-2-decenoyl-CoA	1683	MGNBGCRQQFMNBM-YJHHLLFWSA-N	30	8.0		wild type enzyme, at pH 8.0 and 30C
+5.6	trans-2-decenoyl-CoA	1683	MGNBGCRQQFMNBM-YJHHLLFWSA-N	25	6.8		pH 6.8, 25C
+6	trans-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	30	8.0	X	mutant enzyme T267G, at pH 8.0 and 30C
+6.2	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N	25	7.5		pH 7.5, 25C
+8.15	trans-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	25	8.0	X	25C, pH 8.0, A197M mutant
+8.4	trans-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	25	6.8		pH 6.8, 25C
+10.6	trans-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	25	8.0	X	25C, pH 8.0, F203L mutant
+11.9	trans-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	25	8.0		25C, pH 8.0
+22.25	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N	25	7.5		pH 7.5, 25C
+28.3	trans-2-octenoyl-CoA	3117	CPSDNAXXKWVYIY-NTLMCJQISA-N	25	6.8		pH 6.8, 25C
+28.8	(2E)-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	25	7.9		wild-type, pH 7.9, 25C
+64.4	trans-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	30	8.0	X	mutant enzyme T267W, at pH 8.0 and 30C
+70	trans-but-2-enoyl-[acyl-carrier protein]	4203	ODQWVFVYZCRFJG-SNAWJCMRSA-N	30	6.5		30C, pH 6.5, in the presence of 100 mM NH4+
+83.9	trans-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	30	8.0	X	mutant enzyme T267S, at pH 8.0 and 30C
+91.13	trans-2-dodecenoyl-CoA	1944	IRFYVBULXZMEDE-DEEZISNZSA-N	30	8.0		wild type enzyme, at pH 8.0 and 30C

@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.034	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+0.61	L-Vinylglycine	1625	RQVLGLPAZTUBKX-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+0.8	O-phospho-L-homoserine	2593	FXDNYOANAXWZHG-VKHMYHEASA-N	25	8.0		pH 8.0, 25C
+4	O-phospho-L-homoserine	2593	FXDNYOANAXWZHG-VKHMYHEASA-N	25	8.0		pH 8.0, 25C
+7.3	O-phospho-L-homoserine	2593	FXDNYOANAXWZHG-VKHMYHEASA-N				
+4080	O-phospho-L-homoserine	2593	FXDNYOANAXWZHG-VKHMYHEASA-N				
+0.0333	O-phosphohomoserine	2593	FXDNYOANAXWZHG-VKHMYHEASA-N				without S-adenosylmethionine
+0.4	O-phosphohomoserine	2593	FXDNYOANAXWZHG-VKHMYHEASA-N				without S-adenosylmethionine
+0.86	O-phosphohomoserine	2593	FXDNYOANAXWZHG-VKHMYHEASA-N				in presence of S-adenosylmethionine
+3.5	O-phosphohomoserine	2593	FXDNYOANAXWZHG-VKHMYHEASA-N				at 0.06 mM S-adenosylmethionine
+7.33	O-phosphohomoserine	2593	FXDNYOANAXWZHG-VKHMYHEASA-N				

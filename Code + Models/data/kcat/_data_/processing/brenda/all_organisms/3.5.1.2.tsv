@@ -1,0 +1,43 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.222	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	35	7.5		at pH 7.5 and 35C
+0.87	2-oxo-succinamate	1664	ONGPAWNLFDCRJE-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C
+0.96	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	mutant enzyme E160D
+1.15	2-oxo-succinamate	1664	ONGPAWNLFDCRJE-UHFFFAOYSA-N	30	7.2		pH 7.2, 30C
+1.4	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	mutant enzyme Y191T
+2	succinamate	2485	JDVPQXZIJDEHAN-UHFFFAOYSA-N	30	7.2		pH 7.2, 30C
+2.5	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		8.5		pH 8.5, temperature not specified in the publication, isozyme GLS2
+2.8	succinamate	2485	JDVPQXZIJDEHAN-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C
+4.1	Glutaramate	2382	GTFMAONWNTUZEW-UHFFFAOYSA-M	30	7.2		pH 7.2, 30C
+8	gamma-glutamyl methylamide	13466	ONXPDKGXOOORHB-BYPYZUCNSA-N				
+8.8	Glutaramate	2382	GTFMAONWNTUZEW-UHFFFAOYSA-M	30	8.5		pH 8.5, 30C
+10	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		8.5		pH 8.5, temperature not specified in the publication, isozyme GLS1
+14	gamma-glutamyl hydrazide	11030	MOFBPUBBBREDCE-VKHMYHEASA-N				
+17.5	2-oxo-glutaramate	694	COJBGNAUUSNXHX-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C
+20	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		8.5	X	pH 8.5, temperature not specified in the publication, GAC mutant Y394L
+22	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		8.5		pH 8.5, temperature not specified in the publication, wild-type GAC
+36	gamma-ethyl glutamate	14085	JPMICTZIAZZHCD-AKGZTFGVSA-N				
+38.6	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				
+40	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		8.5	X	pH 8.5, temperature not specified in the publication, GAC mutant F322S/F318Y
+49.9	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	mutant Q161A
+57	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	mutant enzyme Y191F
+67.7	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				
+79.9	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	mutant Q162A
+91.4	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				
+101	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				
+128	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	7.5		pH 7.5, 30C, full-length enzyme, in presence of 2.6 M NaCl
+134.5	5-methoxy-2,5-dioxopentanoic acid	33120	SEMQYOVMBDIELH-UHFFFAOYSA-N	30	7.2		pH 7.2, 30C
+212	gamma-glutamyl-hydroxamate	3556	YVGZXTQJQNXIAU-VKHMYHEASA-N				
+296	gamma-glutamyl methoxyamide	31867	PDYNNRHBVQXPHP-BYPYZUCNSA-N				
+300	gamma-thioethyl glutamate	14086	QDIUUEOZHBZPIV-UHFFFAOYSA-N				
+403.3	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	7.5		pH 7.5, 30C, full-length enzyme, in presence of 2.6 M NaCl
+645	gamma-methyl glutamate	13959	KRKRAOXTGDJWNI-BKLSDQPFSA-N				
+821.7	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	7.5		pH 7.5, 30C, protease-cleaved large enzyme fragment, in presence of 2.6 M NaCl
+873.3	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	7.5		pH 7.5, 30C, protease-cleaved large enzyme fragment, in absence of NaCl
+1260	gamma-thiomethyl glutamate	14087	LBNSWLUTRJJRJP-UHFFFAOYSA-N				
+1270	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				
+1373	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	7.5		pH 7.5, 30C, full-length enzyme, in absence of NaCl
+1400	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				wild-type enzyme
+1606	L-asparagine	231	DCXYFEDJOCDNAF-REOHCLBHSA-N	50	9.0		at pH 9.0 and 50C
+4790	Gly-Gln	8716	PNMUAGGSDZXTHX-BYPYZUCNSA-N	50	9.0		at pH 9.0 and 50C
+5080	Glu	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				
+6249	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	50	9.0		at pH 9.0 and 50C

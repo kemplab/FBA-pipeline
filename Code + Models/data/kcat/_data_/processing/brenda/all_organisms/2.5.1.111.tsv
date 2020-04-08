@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.083	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+0.253	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, wild-type
+0.083	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+0.151	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, C215 mutant enzyme
+0.159	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme

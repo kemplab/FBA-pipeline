@@ -1,0 +1,45 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.197	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				
+0.12	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	5.8		pH 5.8, 25C
+0.14	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	8.9		pH 8.9, 25C
+0.153	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8		pH 7.8, 25C
+0.08	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	30		X	pH not specified in the publication, 30C, mutant H398A
+0.083	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	30	8	X	pH 8, 30C, mutant Y203E
+0.097	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	30	8	X	pH 8, 30C, mutant Y203D
+0.098	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	30		X	pH not specified in the publication, 30C, mutant K57A
+0.5	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	30	8	X	pH 8, 30C, mutant Y203R
+0.811	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N				
+1.67	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N				EDTA-treated
+2.3	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	30	8	X	pH 8, 30C, mutant Y203A; pH 8, 30C, mutant Y203S
+4.3	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	30	8	X	pH 8, 30C, mutant Y203F
+6.08	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N				
+12.5	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N				EDTA-treated + 2.5 microM ZnCl2
+13.1	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N				untreated
+13.1	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N				pH and temperature not specified in the publication
+15.7	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N				
+17	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	30			pH not specified in the publication, 30C, wild-type
+17	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	30	8		pH 8, 30C, wild-type
+17.2	L-Thr	220	AYFVYJQAPQTCCC-GBXIJSLDSA-N	25	8.9		pH 8.9, 25C
+19.6	L-Thr	220	AYFVYJQAPQTCCC-GBXIJSLDSA-N	25	7.8		pH 7.8, 25C
+9.4	D-Ser	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	25	5.7		pH 5.7, 25C
+30	D-Ser	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	5	7.8		pH 7.8, 5C
+48	D-Ser	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	25	8.9		pH 8.9, 25C
+118	D-Ser	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	25	7.8		pH 7.8, 25C
+0.0512	D-threonine	1285	AYFVYJQAPQTCCC-PWNYCUMCSA-N				
+0.34	D-threonine	1285	AYFVYJQAPQTCCC-PWNYCUMCSA-N				EDTA-treated + 2.5 microM ZnCl2
+0.39	D-threonine	1285	AYFVYJQAPQTCCC-PWNYCUMCSA-N	30			pH not specified in the publication, 30C, wild-type
+0.43	D-threonine	1285	AYFVYJQAPQTCCC-PWNYCUMCSA-N				untreated
+0.95	D-Thr	1285	AYFVYJQAPQTCCC-PWNYCUMCSA-N	25	5.8		pH 5.8, 25C
+0.19	beta-Chloro-D-alanine	1964	ASBJGPTTYPEMLP-UWTATZPHSA-N	30			pH not specified in the publication, 30C, wild-type
+0.22	beta-Chloro-D-alanine	1964	ASBJGPTTYPEMLP-UWTATZPHSA-N				untreated
+0.24	beta-Chloro-D-alanine	1964	ASBJGPTTYPEMLP-UWTATZPHSA-N				EDTA-treated + 2.5 microM ZnCl2
+0.32	beta-Chloro-D-alanine	1964	ASBJGPTTYPEMLP-UWTATZPHSA-N	30			pH not specified in the publication, 30C, wild-type Zn2+-depleted enzyme
+0.39	beta-Chloro-D-alanine	1964	ASBJGPTTYPEMLP-UWTATZPHSA-N	30		X	pH not specified in the publication, 30C, Zn2+-depleted mutant H398A
+0.48	beta-Chloro-D-alanine	1964	ASBJGPTTYPEMLP-UWTATZPHSA-N				EDTA-treated
+0.69	beta-Chloro-D-alanine	1964	ASBJGPTTYPEMLP-UWTATZPHSA-N	30		X	pH not specified in the publication, 30C, Zn2+-depleted mutant C400A
+0.79	beta-Chloro-D-alanine	1964	ASBJGPTTYPEMLP-UWTATZPHSA-N	30		X	pH not specified in the publication, 30C, native mutant H398A
+0.96	beta-Chloro-D-alanine	1964	ASBJGPTTYPEMLP-UWTATZPHSA-N	30		X	pH not specified in the publication, 30C, native mutant C400A
+1.8	L-allothreonine	2124	AYFVYJQAPQTCCC-HRFVKAFMSA-N	25	7.8		pH 7.8, 25C
+0.112	D-allothreonine	1285	AYFVYJQAPQTCCC-PWNYCUMCSA-N	25	5.7		pH 5.7, 25C
+0.92	D-allothreonine	1285	AYFVYJQAPQTCCC-PWNYCUMCSA-N	25	8.9		pH 8.9, 25C
+0.13	D-allo-threonine	1285	AYFVYJQAPQTCCC-PWNYCUMCSA-N	30			pH not specified in the publication, 30C, wild-type

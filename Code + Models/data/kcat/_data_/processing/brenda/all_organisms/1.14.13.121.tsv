@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.2	5-epiaristolochene	2095	YONHOSLUBQJXPR-UMVBOHGHSA-N	30	7.5		wild type enzyme, product is 2beta-hydroxy-epiaristolochene, in 100 mM Tris-HCl, pH 7.5, at 30C
+0.7	5-epiaristolochene	2095	YONHOSLUBQJXPR-UMVBOHGHSA-N	30	7.5	X	mutant enzyme V480I/A484I, product is 2beta-hydroxy-epiaristolochene, in 100 mM Tris-HCl, pH 7.5, at 30C
+1.4	5-epiaristolochene	2095	YONHOSLUBQJXPR-UMVBOHGHSA-N	30	7.5	X	mutant enzyme V482I, product is 2beta-hydroxy-epiaristolochene, in 100 mM Tris-HCl, pH 7.5, at 30C
+2.8	5-epiaristolochene	2095	YONHOSLUBQJXPR-UMVBOHGHSA-N	30	7.5	X	mutant enzyme V482I/A484I, product is 2beta-hydroxy-epiaristolochene, in 100 mM Tris-HCl, pH 7.5, at 30C
+2.1	(-)-vetispiradiene	5331	WEZDOYDDKIHCLM-QLFBSQMISA-N	30	7.5		wild type enzyme, in 100 mM Tris-HCl, pH 7.5, at 30C
+3.8	(-)-vetispiradiene	5331	WEZDOYDDKIHCLM-QLFBSQMISA-N	30	7.5	X	mutant enzyme V482I, in 100 mM Tris-HCl, pH 7.5, at 30C
+12.7	(-)-vetispiradiene	5331	WEZDOYDDKIHCLM-QLFBSQMISA-N	30	7.5	X	mutant enzyme V480I/A484I, in 100 mM Tris-HCl, pH 7.5, at 30C
+20.7	(-)-vetispiradiene	5331	WEZDOYDDKIHCLM-QLFBSQMISA-N	30	7.5	X	mutant enzyme V482I/A484I, in 100 mM Tris-HCl, pH 7.5, at 30C
+1.9	valencene	27558	QEBNYNLSCGVZOH-NFAWXSAZSA-N	30	7.5		wild type enzyme, product is beta-nootkatol, in 100 mM Tris-HCl, pH 7.5, at 30C
+5.1	valencene	27558	QEBNYNLSCGVZOH-NFAWXSAZSA-N	30	7.5	X	mutant enzyme V482I, product is beta-nootkatol, in 100 mM Tris-HCl, pH 7.5, at 30C
+5.7	valencene	27558	QEBNYNLSCGVZOH-NFAWXSAZSA-N	30	7.5	X	mutant enzyme V480I/A484I, product is beta-nootkatol, in 100 mM Tris-HCl, pH 7.5, at 30C
+15.9	valencene	27558	QEBNYNLSCGVZOH-NFAWXSAZSA-N	30	7.5	X	mutant enzyme V482I/A484I, product is beta-nootkatol, in 100 mM Tris-HCl, pH 7.5, at 30C

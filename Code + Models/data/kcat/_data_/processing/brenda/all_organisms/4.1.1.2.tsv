@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.012	oxalate	166	MUBZPKHOEPUJKR-UHFFFAOYSA-N	22	4.2	X	mutant enzyme E101Q/E280Q, in 50 mM NaOAc (pH 4.2), 0.2% (v/v) Triton X-100, 0.5 mM o-phenylenediamine, at 22C
+0.019	oxalate	166	MUBZPKHOEPUJKR-UHFFFAOYSA-N	22	4.2	X	mutant enzyme E280A , in 50 mM NaOAc (pH 4.2), 0.2% (v/v) Triton X-100, 0.5 mM o-phenylenediamine, at 22C
+0.046	oxalate	166	MUBZPKHOEPUJKR-UHFFFAOYSA-N	22	4.2	X	mutant enzyme E101A , in 50 mM NaOAc (pH 4.2), 0.2% (v/v) Triton X-100, 0.5 mM o-phenylenediamine, at 22C
+0.14	oxalate	166	MUBZPKHOEPUJKR-UHFFFAOYSA-N	22	4.2	X	mutant enzyme E280D, in 50 mM NaOAc (pH 4.2), 0.2% (v/v) Triton X-100, 0.5 mM o-phenylenediamine, at 22C
+0.3	oxalate	166	MUBZPKHOEPUJKR-UHFFFAOYSA-N	23	4.2	X	pH 4.2, 23C, mutant E162Q
+0.49	oxalate	166	MUBZPKHOEPUJKR-UHFFFAOYSA-N	22	4.2	X	mutant enzyme E101D, in 50 mM NaOAc (pH 4.2), 0.2% (v/v) Triton X-100, 0.5 mM o-phenylenediamine, at 22C
+0.62	oxalate	166	MUBZPKHOEPUJKR-UHFFFAOYSA-N	22	4.2	X	mutant enzyme E101Q, in 50 mM NaOAc (pH 4.2), 0.2% (v/v) Triton X-100, 0.5 mM o-phenylenediamine, at 22C; mutant enzyme E280Q, in 50 mM NaOAc (pH 4.2), 0.2% (v/v) Triton X-100, 0.5 mM o-phenylenediamine, at 22C
+0.9	oxalate	166	MUBZPKHOEPUJKR-UHFFFAOYSA-N	23	4.2	X	pH 4.2, 23C, mutant R92K
+2	oxalate	166	MUBZPKHOEPUJKR-UHFFFAOYSA-N	25	4.2		per manganese atom, at pH 4.2, 25C
+29	oxalate	166	MUBZPKHOEPUJKR-UHFFFAOYSA-N	23	4.2	X	pH 4.2, 23C, mutant E162D
+53	oxalate	166	MUBZPKHOEPUJKR-UHFFFAOYSA-N	22	4.2		wild type enzyme, in 50 mM NaOAc (pH 4.2), 0.2% (v/v) Triton X-100, 0.5 mM o-phenylenediamine, at 22C
+54	oxalate	166	MUBZPKHOEPUJKR-UHFFFAOYSA-N				
+54	oxalate	166	MUBZPKHOEPUJKR-UHFFFAOYSA-N	26	5		pH 5, 26C, recombinant YvrK
+57	oxalate	166	MUBZPKHOEPUJKR-UHFFFAOYSA-N	23	4.2		pH 4.2, 23C, wild-type enzyme

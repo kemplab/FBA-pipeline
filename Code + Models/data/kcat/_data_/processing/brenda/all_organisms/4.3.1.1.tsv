@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.1	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N				recombinant enzyme
+0.12	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N			X	mutant L363V
+0.13	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N			X	mutant Y146D
+0.3	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N			X	T141A mutant protein
+0.7	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N			X	H188A mutant protein
+17	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N	25	8.5	X	mutant S319A, pH 8.5, 25C
+21	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N	25	8.5	X	mutant P322A, pH 8.5, 25C
+31	hydroxylamine	80	AVXURJPOCDRRFD-UHFFFAOYSA-N	22	8		reverse reaction, 400 mM hydroxylamine at pH 8, 22C in 50 mM phosphate
+40	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N	25	8.5		his-tagged protein, pH 8.5, 25C, in 50 mM NaHPO4 buffer
+40	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N				wild-type protein
+40	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N	25	8.5		wild-type, pH 8.5, 25C
+59	NH3	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	22	8		reverse reaction, 200 mM NH3, at pH 8, 22C in 50 mM phosphate
+86	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N			X	double mutant L363V/Y146D
+87	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N				
+89	NH3	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	22	8		reverse reaction, 20 mM fumarate, at pH 8, 22C in 50 mM phosphate
+90	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N				reverse reaction
+92	hydrazine	552	OAKJQQAXSVQMHS-UHFFFAOYSA-N	22	8		reverse reaction, 750 mM hydrazine, at pH 8, 22C in 50 mM phosphate
+94	hydrazine	552	OAKJQQAXSVQMHS-UHFFFAOYSA-N	22	8		reverse reaction, 20 mM fumarate, at pH 8, 22C in 50 mM phosphate
+99	hydroxylamine	80	AVXURJPOCDRRFD-UHFFFAOYSA-N	22	8		reverse reaction, 20 mM fumarate, at pH 8, 22C in 50 mM phosphate
+163	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N			X	monomeric mutant enzyme maspase 1
+165	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N			X	dimeric mutant enzyme maspase 2
+170	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N			X	tetrameric mutant enzyme maspase 3
+180	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N				native enzyme
+190	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N			X	T187S mutant protein

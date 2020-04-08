@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.167	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N				initial sucrose concentration lower than 20 mM, polymerization
+0.333	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N				initial sucrose concentration lower than 20 mM, sucrose hydrolysis
+0.55	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N				initial sucrose concentration higher than 20 mM, sucrose hydrolysis; initial sucrose concentration lower than 20 mM, sucrose consumption
+1.28	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N				initial sucrose concentration higher than 20 mM, sucrose consumption
+1.88	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N				initial sucrose concentration higher than 20 mM, polymerization
+3.1	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0		with maltobiose, pH 7.0, 30C, recombinant wild-type enzyme
+4.8	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	30	7.0		pH 7.0, 30C, recombinant wild-type enzyme
+4.8	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0		with maltotriose, pH 7.0, 30C, recombinant wild-type enzyme
+7.5	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	30	7.0		pH 7.0, 30C, recombinant wild-type enzyme
+7.5	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0		with maltotetraose, pH 7.0, 30C, recombinant wild-type enzyme
+14	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0	X	with maltobiose, pH 7.0, 30C, recombinant mutant R226N
+33	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	30	7.0	X	pH 7.0, 30C, recombinant mutant R226N
+33	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0	X	with maltotriose, pH 7.0, 30C, recombinant mutant R226N
+47	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	30	7.0		pH 7.0, 30C, recombinant wild-type enzyme
+47	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0		with maltopentaose, pH 7.0, 30C, recombinant wild-type enzyme
+67	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	30	7.0	X	pH 7.0, 30C, recombinant mutant R226N
+67	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0	X	with maltotetraose, pH 7.0, 30C, recombinant mutant R226N
+173	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	30	7.0	X	pH 7.0, 30C, recombinant mutant R226N
+173	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	7.0	X	with maltopentaose, pH 7.0, 30C, recombinant mutant R226N

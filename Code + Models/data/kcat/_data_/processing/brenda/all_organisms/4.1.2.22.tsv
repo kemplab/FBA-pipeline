@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+25.7	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	22	6.5		in 40 mM potassium phosphate pH 6.5, 25 mM MES buffer pH 6.5, 0.02 mM ThDP and 0.1 mM MgCl2, at 22C
+0.2	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N			X	mutant enzyme H142A, pH and temperature not specified in the publication
+0.65	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N			X	mutant enzyme H142N, pH and temperature not specified in the publication
+0.99	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N			X	mutant enzyme Q321A, pH and temperature not specified in the publication
+1.67	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N			X	mutant enzyme H548A, pH and temperature not specified in the publication
+3.28	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N			X	mutant enzyme Y501F, pH and temperature not specified in the publication
+5.83	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N			X	mutant enzyme S440A, pH and temperature not specified in the publication
+25.67	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N				wild type enzyme, pH and temperature not specified in the publication
+25.7	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	22	6.5		in 40 mM potassium phosphate pH 6.5, 25 mM MES buffer pH 6.5, 0.02 mM ThDP and 0.1 mM MgCl2, at 22C

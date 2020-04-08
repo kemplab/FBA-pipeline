@@ -1,0 +1,42 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.6	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant S278L
+15	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant L339P
+19	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant L487F
+42	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant R347H
+75	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant T375R
+76	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant I525T
+93	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant R75G
+100	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant A300P
+150	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant R347C
+160	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant V101M
+190	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant R472H; pH 7.5, 30C, recombinant mutant R83W
+300	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant T195I
+420	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant E495K
+650	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	30	7.5		pH 7.5, 30C, recombinant wild-type enzyme
+0.04	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	21	7.5	X	kcat below 0.04 s-1mutant enzyme H389L, at 21C in 20 mM HEPES buffer (pH 7.5); kcat below 0.04 s-1,mutant enzyme K362A, at 21C in 20 mM HEPES buffer (pH 7.5)
+0.3	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant S278L
+0.6	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	21	7.5	X	mutant enzyme H100L, at 21C in 20 mM HEPES buffer (pH 7.5)
+1.3	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	21	7.5	X	mutant enzyme D511N, at 21C in 20 mM HEPES buffer (pH 7.5)
+1.6	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	21	7.5	X	mutant enzyme E495Q, at 21C in 20 mM HEPES buffer (pH 7.5)
+4	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	21	7.5	X	mutant enzyme Q388A, at 21C in 20 mM HEPES buffer (pH 7.5)
+17	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant L487F
+21	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	21	7.5	X	mutant enzyme H396L, at 21C in 20 mM HEPES buffer (pH 7.5)
+31	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant L339P
+61	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant A300P
+63	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant R347H
+80	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant T375R
+110	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant I525T
+120	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant R83W
+130	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant R75G
+140	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant V101M
+240	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	21	7.5	X	mutant enzyme Y274F, at 21C in 20 mM HEPES buffer (pH 7.5)
+260	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant R472H
+340	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	21	7.5	X	mutant enzyme Y341F, at 21C in 20 mM HEPES buffer (pH 7.5)
+350	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant R347C
+360	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	21	7.5	X	mutant enzyme S185A, at 21C in 20 mM HEPES buffer (pH 7.5)
+380	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant T195I
+470	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	21	7.5	X	mutant enzyme N154Q, at 21C in 20 mM HEPES buffer (pH 7.5); mutant enzyme N386A, at 21C in 20 mM HEPES buffer (pH 7.5)
+500	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	21	7.5		wild type enzyme, at 21C in 20 mM HEPES buffer (pH 7.5)
+750	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant E495K
+1000	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	7.5		pH 7.5, 30C, recombinant wild-type enzyme
+3330	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N				isomerase a

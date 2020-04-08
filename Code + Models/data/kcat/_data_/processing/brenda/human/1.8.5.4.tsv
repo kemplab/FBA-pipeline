@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+65	Sulfide	273	RWSOTUBLDIXVET-UHFFFAOYSA-N	25	7.0		cosubstrates sulfide, ubiquinone-1, pH 7.0, 25C
+74	Sulfide	273	RWSOTUBLDIXVET-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+92	homocysteine	260	FFFHZYDWPBMWHY-VKHMYHEASA-N	25	7.4		pH 7.4, 25C
+94	cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	25	7.4		pH 7.4, 25C
+113	reduced glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	7.4		pH 7.4, 25C
+330	cyanide	112	LELOWRISYMNNSU-UHFFFAOYSA-N	25	8.5		cosubstrates sulfide, ubiquinone-1, pH 8.5, 25C
+343	Sulfide	273	RWSOTUBLDIXVET-UHFFFAOYSA-N	25	8.5		cosubstrates cyanide, ubiquinone-1, pH 8.5, 25C
+360	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	25	8.5		cosubstrates cyanide, sulfide, pH 8.5, 25C
+364	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	25	7.5		cosubstrates sulfite, sulfide, pH 7.5, 25C
+368	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	7.5		cosubstrates sulfide, ubiquinone-1, pH 7.5, 25C
+379	Sulfide	273	RWSOTUBLDIXVET-UHFFFAOYSA-N	25	7.5		cosubstrates sulfite, ubiquinone-1, pH 7.5, 25C

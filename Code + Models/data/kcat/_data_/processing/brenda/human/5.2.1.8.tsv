@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1480	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				
+14600	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				
+3.7	N-succinyl-Ala-Glu-(trans)-Pro-Phe-4-nitroanilide	4252	NXIHRDNJQWUSLK-KMAVCZJNSA-N	0	7.5	X	mutant C113S, 0C, pH 7.5
+11	N-succinyl-Ala-Glu-(trans)-Pro-Phe-4-nitroanilide	4252	NXIHRDNJQWUSLK-KMAVCZJNSA-N	0	7.5	X	mutant K63A, 0C, pH 7.5
+18	N-succinyl-Ala-Glu-(trans)-Pro-Phe-4-nitroanilide	4252	NXIHRDNJQWUSLK-KMAVCZJNSA-N	0	7.5	X	mutant R68A/R69A, 0C, pH 7.5
+29	N-succinyl-Ala-Glu-(trans)-Pro-Phe-4-nitroanilide	4252	NXIHRDNJQWUSLK-KMAVCZJNSA-N	0	7.5	X	mutant C113D, 0C, pH 7.5
+140	N-succinyl-Ala-Glu-(trans)-Pro-Phe-4-nitroanilide	4252	NXIHRDNJQWUSLK-KMAVCZJNSA-N	0	7.5		wild-type, 0C, pH 7.5

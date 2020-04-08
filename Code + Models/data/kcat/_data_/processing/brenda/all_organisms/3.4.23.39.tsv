@@ -1,0 +1,98 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+10	Leu-Glu-Arg-Ile-Phe-Phe(NO2)-Ser-Phe	3426	VZRIBEDKQGRPOX-JWKPTNMHSA-N	37	4.4		pH 4.4, 37C, naturally occuring enzyme
+13	Leu-Glu-Arg-Ile-Phe-Phe(NO2)-Ser-Phe	3426	VZRIBEDKQGRPOX-JWKPTNMHSA-N	37	4.4		pH 4.4, 37C, recombinant enzyme
+15	Leu-Glu-Arg-Ile-Phe-Phe(NO2)-Ser-Phe	3426	VZRIBEDKQGRPOX-JWKPTNMHSA-N		4.4		pH 4.4
+0.431	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-ERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	3454	ZBENOXJOKAVDSL-GVIKKNGMSA-N			X	F244E mutant enzyme expressed by a system that bypasses the need for autoactivation
+0.596	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-ERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	3454	ZBENOXJOKAVDSL-GVIKKNGMSA-N			X	delF241 mutant enzyme expressed by a system that bypasses the need for autoactivation
+0.845	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-ERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	3454	ZBENOXJOKAVDSL-GVIKKNGMSA-N			X	F244K mutant enzyme expressed by a system that bypasses the need for autoactivation
+0.875	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-ERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	3454	ZBENOXJOKAVDSL-GVIKKNGMSA-N				mature enzyme expressed by a system that bypasses the need for autoactivation
+1.1	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-ERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	3454	ZBENOXJOKAVDSL-GVIKKNGMSA-N				autoactivated enzyme
+1.11	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-ERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	3454	ZBENOXJOKAVDSL-GVIKKNGMSA-N			X	F244A mutant enzyme expressed by a system that bypasses the need for autoactivation
+6.08	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-ERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	3454	ZBENOXJOKAVDSL-GVIKKNGMSA-N			X	delF241 mutant enzyme expressed by a system that bypasses the need for autoactivation; F244K mutant enzyme expressed by a system that bypasses the need for autoactivation
+0.952	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-CO-ALERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	3705	LDAHURJIVIVTMX-HHWJILDBSA-N			X	F244E mutant enzyme expressed by a system that bypasses the need for autoactivation
+1.05	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-CO-ALERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	3705	LDAHURJIVIVTMX-HHWJILDBSA-N			X	delF241 mutant enzyme expressed by a system that bypasses the need for autoactivation
+1.51	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-CO-ALERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	3705	LDAHURJIVIVTMX-HHWJILDBSA-N			X	F244K mutant enzyme expressed by a system that bypasses the need for autoactivation
+2.33	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-CO-ALERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	3705	LDAHURJIVIVTMX-HHWJILDBSA-N				mature enzyme expressed by a system that bypasses the need for autoactivation
+2.51	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-CO-ALERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	3705	LDAHURJIVIVTMX-HHWJILDBSA-N			X	F244A mutant enzyme expressed by a system that bypasses the need for autoactivation
+2.52	4-(4-dimethylaminophenylazo)benzoyl-CH2-CH2-CO-CO-ALERMFLSFP-diaminopimelate-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	3705	LDAHURJIVIVTMX-HHWJILDBSA-N				autoactivated enzyme
+1.7	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	4582	GRDFBLGSDPGMFE-IQZOZZQVSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme I287E
+2	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	4582	GRDFBLGSDPGMFE-IQZOZZQVSA-N	37	4.4	X	pH 4.4, 37C; pH 4.4, 37C, mutant enzyme M13E; pH 4.4, 37C, mutant enzyme S77D
+3.5	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	4582	GRDFBLGSDPGMFE-IQZOZZQVSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E/I287E
+0.03	Lys-Pro-Ile-Lys-Phe-Phe(NO2)-Arg-Leu	4583	IHFWHKGUYXYHIK-CMIKULOJSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E/I287E
+0.04	Lys-Pro-Ile-Lys-Phe-Phe(NO2)-Arg-Leu	4583	IHFWHKGUYXYHIK-CMIKULOJSA-N	37	4.7		pH 4.7, 37C
+0.04	Lys-Pro-Ile-Lys-Phe-Phe(NO2)-Arg-Leu	4583	IHFWHKGUYXYHIK-CMIKULOJSA-N	37	4.7		pH 4.7, 37C
+0.06	Lys-Pro-Ile-Lys-Phe-Phe(NO2)-Arg-Leu	4583	IHFWHKGUYXYHIK-CMIKULOJSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme I287E
+0.08	Lys-Pro-Ile-Lys-Phe-Phe(NO2)-Arg-Leu	4583	IHFWHKGUYXYHIK-CMIKULOJSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme S77D
+3.1	Lys-Pro-Ile-Nle-Phe-Phe(NO2)-Arg-Leu	4584	WPOHBLAGZVURLT-CMIKULOJSA-N	37	4.4		pH 4.4, 37C
+2.1	Ala-Leu-Glu-Arg-Nle-Phe-Phe(NO2)-Ser-Phe-Pro	5033	XCVNVVGBRRZZKV-IRHMZKOUSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme I287E
+2.7	Ala-Leu-Glu-Arg-Nle-Phe-Phe(NO2)-Ser-Phe-Pro	5033	XCVNVVGBRRZZKV-IRHMZKOUSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme S77D
+5.8	Ala-Leu-Glu-Arg-Nle-Phe-Phe(NO2)-Ser-Phe-Pro	5033	XCVNVVGBRRZZKV-IRHMZKOUSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E
+7.4	Ala-Leu-Glu-Arg-Nle-Phe-Phe(NO2)-Ser-Phe-Pro	5033	XCVNVVGBRRZZKV-IRHMZKOUSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E/I287E
+9.05	Lys-Glu-Phe-Val-Phe-Phe(NO2)-Ala-Leu-Lys	5040	QKGIEZRVVJZFIH-WNQPPVFJSA-N	37	4.4		pH 4.4, 37C
+17	Lys-Glu-Phe-Val-Phe-Phe(NO2)-Ala-Leu-Lys	5040	QKGIEZRVVJZFIH-WNQPPVFJSA-N	37	4.4		pH 4.4, 37C, recombinant enzyme
+19	Lys-Glu-Phe-Val-Phe-Phe(NO2)-Ala-Leu-Lys	5040	QKGIEZRVVJZFIH-WNQPPVFJSA-N	37	4.4		pH 4.4, 37C, naturally occuring enzyme
+9	Leu-Glu-Arg-Val-Phe-Phe(NO2)-Ser-Phe	5690	BJDRKZOGTIROSJ-NVHWWMOMSA-N	37	4.4		pH 4.4, 37C
+0.25	Lys-Pro-Ile-Asp-Phe-Phe(NO2)-Arg-Leu	5894	UUVDJDKJJDUSLS-BJRTVKDCSA-N	37	4.4		pH 4.4, 37C
+0.44	Lys-Pro-Ile-Asp-Phe-Phe(NO2)-Arg-Leu	5894	UUVDJDKJJDUSLS-BJRTVKDCSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E/I287E
+0.86	Lys-Pro-Ile-Asp-Phe-Phe(NO2)-Arg-Leu	5894	UUVDJDKJJDUSLS-BJRTVKDCSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme I287E
+2.31	4-[[4'-(dimethylamino)phenyl]azo]-benzoyl-Glu-Arg-Met-Phe-Leu-Ser-Phe-Pro-(gamma-aminobutyryl)-5-[(2'-aminoethyl)-amino]naphthalenesulfonic acid	7548	CUGNZHGCJPSPMI-KZRVTWJNSA-N	37	5.0		pH 5.0, 37C
+0.8	Lys-Ala-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	7575	LUWJNLCDHMHWBR-LMRFTOELSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme I287E
+0.9	Lys-Ala-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	7575	LUWJNLCDHMHWBR-LMRFTOELSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E/I287E
+2	Lys-Ala-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	7575	LUWJNLCDHMHWBR-LMRFTOELSA-N	37	4.4		pH 4.4, 37C
+0.6	Lys-Asp-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	7576	XHXZIGCMQCLPSD-UDZSMLTASA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme I287E
+0.9	Lys-Asp-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	7576	XHXZIGCMQCLPSD-UDZSMLTASA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E/I287E
+1.1	Lys-Asp-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	7576	XHXZIGCMQCLPSD-UDZSMLTASA-N	37	4.4		pH 4.4, 37C
+1.5	Lys-Glu-Leu-Val-Phe-Phe(NO2)-Ala-Leu-Lys	7577	JPGJDWCACGFMJS-OSBHKZQLSA-N	37	4.4		pH 4.4, 37C, recombinant enzyme
+6	Lys-Glu-Leu-Val-Phe-Phe(NO2)-Ala-Leu-Lys	7577	JPGJDWCACGFMJS-OSBHKZQLSA-N	37	4.4		pH 4.4, 37C, naturally occuring enzyme
+11	Lys-Glu-Phe-Val-Phe-Phe(NO2)-Arg-Leu-Lys	7578	XTRXTHVPMBSQBT-RHHGIUFFSA-N	37	4.4		pH 4.4, 37C, recombinant enzyme
+0.17	Lys-Lys-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	7579	MKISNYVCXAESQG-AMKBAOGFSA-N	37	4.4		pH 4.4, 37C
+0.19	Lys-Lys-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	7579	MKISNYVCXAESQG-AMKBAOGFSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme I287E
+0.4	Lys-Lys-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	7579	MKISNYVCXAESQG-AMKBAOGFSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E/I287E
+1	Lys-Phe-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	7580	YUHPPTIUEIIUMA-TYEKQSMASA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme I287E
+1.1	Lys-Phe-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	7580	YUHPPTIUEIIUMA-TYEKQSMASA-N	37	4.4		pH 4.4, 37C
+2.6	Lys-Phe-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	7580	YUHPPTIUEIIUMA-TYEKQSMASA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E/I287E
+0.5	Lys-Pro-Ala-Glu-Phe-Phe(NO2)-Arg-Leu	5889	VCLIWHBKTUGAJW-ZAMDTIOZSA-N	37	4.4	X	pH 4.4, 37C; pH 4.4, 37C, mutant enzyme M13E/I287E
+0.53	Lys-Pro-Ala-Glu-Phe-Phe(NO2)-Arg-Leu	5889	VCLIWHBKTUGAJW-ZAMDTIOZSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E
+0.3	Lys-Pro-Asp-Glu-Phe-Phe(NO2)-Arg-Leu	5891	DMXWXGFWYTUNQI-FDISYFBBSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E/I287E
+0.32	Lys-Pro-Asp-Glu-Phe-Phe(NO2)-Arg-Leu	5891	DMXWXGFWYTUNQI-FDISYFBBSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E
+0.4	Lys-Pro-Asp-Glu-Phe-Phe(NO2)-Arg-Leu	5891	DMXWXGFWYTUNQI-FDISYFBBSA-N	37	4.4		pH 4.4, 37C
+0.73	Lys-Pro-Ile-Ala-Phe-Phe(NO2)-Arg-Leu	7581	LGFSBWVWPPMFDU-HGTXJSFHSA-N	37	4.4		pH 4.4, 37C
+0.89	Lys-Pro-Ile-Ala-Phe-Phe(NO2)-Arg-Leu	7581	LGFSBWVWPPMFDU-HGTXJSFHSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme I287E
+1.8	Lys-Pro-Ile-Ala-Phe-Phe(NO2)-Arg-Leu	7581	LGFSBWVWPPMFDU-HGTXJSFHSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E/I287E
+0.73	Lys-Pro-Ile-Ser-Phe-Phe(NO2)-Arg-Leu	7582	RVZNFHHJDRUVRQ-SXMXEBDWSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme I287E
+0.91	Lys-Pro-Ile-Ser-Phe-Phe(NO2)-Arg-Leu	7582	RVZNFHHJDRUVRQ-SXMXEBDWSA-N	37	4.4		pH 4.4, 37C
+1.1	Lys-Pro-Ile-Ser-Phe-Phe(NO2)-Arg-Leu	7582	RVZNFHHJDRUVRQ-SXMXEBDWSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E/I287E
+0.05	Lys-Pro-Lys-Glu-Phe-Phe(NO2)-Arg-Leu	7583	UKLICMCJNZSXID-BXXNOCLASA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E/I287E
+0.08	Lys-Pro-Lys-Glu-Phe-Phe(NO2)-Arg-Leu	7583	UKLICMCJNZSXID-BXXNOCLASA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E
+0.1	Lys-Pro-Lys-Glu-Phe-Phe(NO2)-Arg-Leu	7583	UKLICMCJNZSXID-BXXNOCLASA-N	37	4.4		pH 4.4, 37C
+2.4	Lys-Pro-Phe-Glu-Phe-Phe(NO2)-Arg-Leu	7584	MZZOPJMLUJNICN-FKRLEHQTSA-N	37	4.4		pH 4.4, 37C
+2.9	Lys-Pro-Phe-Glu-Phe-Phe(NO2)-Arg-Leu	7584	MZZOPJMLUJNICN-FKRLEHQTSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E/I287E
+3.1	Lys-Pro-Phe-Glu-Phe-Phe(NO2)-Arg-Leu	7584	MZZOPJMLUJNICN-FKRLEHQTSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E
+0.2	Lys-Pro-Ser-Glu-Phe-Phe(NO2)-Arg-Leu	7585	DSPXNYMRIXCGFE-FDISYFBBSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E/I287E
+0.27	Lys-Pro-Ser-Glu-Phe-Phe(NO2)-Arg-Leu	7585	DSPXNYMRIXCGFE-FDISYFBBSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E
+0.32	Lys-Pro-Ser-Glu-Phe-Phe(NO2)-Arg-Leu	7585	DSPXNYMRIXCGFE-FDISYFBBSA-N	37	4.4		pH 4.4, 37C
+1	Lys-Ser-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	7586	YLKWHUIMBNIFAP-UTHJPNLOSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme I287E
+1.1	Lys-Ser-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	7586	YLKWHUIMBNIFAP-UTHJPNLOSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme M13E/I287E
+1.3	Lys-Ser-Ile-Glu-Phe-Phe(NO2)-Arg-Leu	7586	YLKWHUIMBNIFAP-UTHJPNLOSA-N	37	4.4		pH 4.4, 37C
+0.103	EDANS-CO-CH2-CH2-CO-Ala-Leu-Glu-Arg-Met-Phe-Leu-Ser-Phe-Pro-Dap-(DABCYL)-OH	7972	FFWIGSQGIAMEJP-AQWXGZKZSA-N		5		PMII without prosegment, pH 5, temperature not specified in the publication
+1.11	EDANS-CO-CH2-CH2-CO-Ala-Leu-Glu-Arg-Met-Phe-Leu-Ser-Phe-Pro-Dap-(DABCYL)-OH	7972	FFWIGSQGIAMEJP-AQWXGZKZSA-N		5		chimeric PMII (porcine pepsinogen prosegment fused to the mature region of PMII), pH 5, temperature not specified in the publication
+2.1	EDANS-CO-CH2-CH2-CO-Ala-Leu-Glu-Arg-Met-Phe-Leu-Ser-Phe-Pro-Dap-(DABCYL)-OH	7972	FFWIGSQGIAMEJP-AQWXGZKZSA-N		5		wild-type PMII, pH 5, temperature not specified in the publication
+7	Lys-Glu-Phe-Asn-Phe-Phe(NO2)-Ala-Leu-Lys	8883	RLPDDGQMWUHWCN-GFLRBQQKSA-N	37	4.4		pH 4.4, 37C, recombinant enzyme
+3.8	Ala-Leu-Glu-Arg-Thr-Phe-Phe(NO2)-Ser-Phe-Pro-Thr	11221	IBDMJYAYERAEID-MXPARIRSSA-N		4.7		pH 4.7
+6	Ala-Leu-Glu-Arg-Thr-Phe-Phe(NO2)-Ser-Phe-Pro-Thr	11221	IBDMJYAYERAEID-MXPARIRSSA-N	37	4.7		pH 4.7, 37C
+1.6	Lys-Pro-Ile-Val-Phe-Phe(NO2)-Arg-Leu	11256	OEBPOXRXQCZIRR-PXIIGYSRSA-N		4.7		pH 4.7
+3.6	Lys-Pro-Ile-Val-Phe-Phe(NO2)-Arg-Leu	11256	OEBPOXRXQCZIRR-PXIIGYSRSA-N	37	4.7		pH 4.7, 37C
+10.4	Leu-Ser-Phe(NO2)-Nle-Ala-Leu-Ome	10606	BTBSGNCHEDEIJB-NICUNNCGSA-N	37	4.4		pH 4.4, 37C
+15.2	Lys-Glu-Phe-Ile-Phe-Phe(NO2)-Ala-Leu-Lys	14490	JLXAWOACVBNDAR-QCTMDHSXSA-N	37	4.4		pH 4.4, 37C
+0.84	Lys-Glu-Phe-Val-Lys-Phe(NO2)-Ala-Leu-Lys	14491	MILLWTRYFJZUEV-QXNLLLFYSA-N	37	4.4	X	pH 4.4, 37C, mutant enzyme S77D
+5.7	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Ala-Leu	5897	ZKZRNSBXJAEVHA-LMRFTOELSA-N	37	4.4		pH 4.4, 37C
+0.53	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Arg-Arg	5905	UELLSVVCLRYJFC-BJRTVKDCSA-N	37	4.4		pH 4.4, 37C
+1.2	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Arg-Asp	22289	GNKJAGDMGBOIDN-MWPYQJJSSA-N	37	4.4		pH 4.4, 37C
+0.9	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Arg-Ile	22290	YIHAFAOAZJIJMG-SMXWIPMTSA-N	37	4.4		pH 4.4, 37C
+0.44	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Arg-Ser	22291	RFOBDMDVQVKWKM-UKJXDBSJSA-N	37	4.4		pH 4.4, 37C
+0.7	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Arg-Val	22292	WBCILZIGUPUVJC-KDWUJUPASA-N	37	4.4		pH 4.4, 37C
+6.3	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Glu-Leu	22293	LNOFONCXRGUWRP-AEBHPDITSA-N	37	4.4		pH 4.4, 37C
+1.6	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Lys-Leu	22294	GPTXFRWAQHHDHD-AMKBAOGFSA-N	37	4.4		pH 4.4, 37C
+1.7	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Ser-Leu	22295	KBAISMVSLOUFTR-UTHJPNLOSA-N	37	4.4		pH 4.4, 37C
+2.6	Lys-Pro-Ile-Glu-Phe-Phe(NO2)-Val-Leu	22296	QZZSCZORILXJSO-OAYHYJSISA-N	37	4.4		pH 4.4, 37C
+1.7	Lys-Pro-Ile-Leu-Phe-Phe(NO2)-Arg-Leu	22297	BRFXFKHXJPKIKJ-CMIKULOJSA-N	37	4.4		pH 4.4, 37C

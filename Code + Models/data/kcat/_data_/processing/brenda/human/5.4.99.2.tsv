@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.012	(R)-methylmalonyl-CoA	2870	MZFOKIKEPGUZEN-AGCMQPJKSA-N	25	8.5	X	recombinant His-tagged mutant E392D, pH 8.5, 25C
+0.25	(R)-methylmalonyl-CoA	2870	MZFOKIKEPGUZEN-AGCMQPJKSA-N	25	8.5	X	recombinant His-tagged mutant E392Q, pH 8.5, 25C
+0.32	(R)-methylmalonyl-CoA	2870	MZFOKIKEPGUZEN-AGCMQPJKSA-N	25	8.5	X	recombinant His-tagged mutant E392A, pH 8.5, 25C
+3.95	(R)-methylmalonyl-CoA	2870	MZFOKIKEPGUZEN-AGCMQPJKSA-N	25	8.5		recombinant His-tagged wild-type enzyme, pH 8.5, 25C
+150	(R/S)-2-methyl-3-oxopropanoyl-CoA	8497	PPQOFITXUZOJDA-MIZDRFBCSA-N	30			30C
+283	(R/S)-2-methyl-3-oxopropanoyl-CoA	8497	PPQOFITXUZOJDA-MIZDRFBCSA-N	37			37C

@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.037	5-epiaristolochene	2095	YONHOSLUBQJXPR-UMVBOHGHSA-N	30	7.5	X	mutant enzyme S368T, the reaction product is capsidiol, in 100 mM Tris-HCl (pH 7.5), at 30C
+0.154	5-epiaristolochene	2095	YONHOSLUBQJXPR-UMVBOHGHSA-N	30	7.5	X	mutant enzyme S368A, the reaction product is capsidiol, in 100 mM Tris-HCl (pH 7.5), at 30C
+0.278	5-epiaristolochene	2095	YONHOSLUBQJXPR-UMVBOHGHSA-N	386	7.5	X	mutant enzyme S386C, the reaction product is 1beta-hydroxy-5-epiaristolochene, in 100 mM Tris-HCl (pH 7.5), at 30C
+0.293	5-epiaristolochene	2095	YONHOSLUBQJXPR-UMVBOHGHSA-N	30	7.5	X	mutant enzyme I486A, the reaction product is 1beta-hydroxy-5-epiaristolochene, in 100 mM Tris-HCl (pH 7.5), at 30C
+0.493	5-epiaristolochene	2095	YONHOSLUBQJXPR-UMVBOHGHSA-N	30	7.5		wild type enzyme, the reaction product is capsidiol, in 100 mM Tris-HCl (pH 7.5), at 30C
+0.553	5-epiaristolochene	2095	YONHOSLUBQJXPR-UMVBOHGHSA-N	30	7.5	X	mutant enzyme S386V, the reaction product is 1beta-hydroxy-5-epiaristolochene, in 100 mM Tris-HCl (pH 7.5), at 30C
+0.132	1beta-hydroxy-5-epiaristolochene	109218	NJWPLFBOSCSZFA-QHSBEEBCSA-N	30	7.5	X	mutant enzyme I486A, the reaction product is capsidiol, in 100 mM Tris-HCl (pH 7.5), at 30C
+0.482	1beta-hydroxy-5-epiaristolochene	109218	NJWPLFBOSCSZFA-QHSBEEBCSA-N	30	7.5	X	mutant enzyme S368T, the reaction product is capsidiol, in 100 mM Tris-HCl (pH 7.5), at 30C
+0.581	1beta-hydroxy-5-epiaristolochene	109218	NJWPLFBOSCSZFA-QHSBEEBCSA-N	30	7.5	X	mutant enzyme S368A, the reaction product is capsidiol, in 100 mM Tris-HCl (pH 7.5), at 30C
+0.582	1beta-hydroxy-5-epiaristolochene	109218	NJWPLFBOSCSZFA-QHSBEEBCSA-N	30	7.5		wild type enzyme, the reaction product is capsidiol, in 100 mM Tris-HCl (pH 7.5), at 30C

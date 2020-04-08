@@ -1,0 +1,31 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.16	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	45	6.0		pH 6.0, 45C, in presence of Mg2+
+0.2	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	45	6.0		pH 6.0, 45C, in presence of Mn2+
+40.06	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	50			50C, pH not specified in the publication
+47.6	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	37	8.5		PykII, in 100 mM Tris-HCl,pH 8.5, at 37C
+52.85	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	65			65C, pH not specified in the publication
+58.78	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	70			70C, pH not specified in the publication
+80.29	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	80			80C, pH not specified in the publication
+0.38	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	45	6.0		pH 6.0, 45C, in presence of Mg2+
+1	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	45	6.0		pH 6.0, 45C, in presence of Mn2+
+1.97	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N			X	mutant enzyme T298A, activated be Tl+ and Mn2+
+3.2	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	6.0		wild type enzyme, in the absence of K+, in 50 mM Mes-Tris, pH 6.0, at 25C
+12.1	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	298	6.2	X	pH 6.2, mutant enzyme T298C, Mn2+-activated
+12.2	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	298		X	mutant enzyme T298C, activated be Tl+ and Mn2+
+13.9	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	298	6.2	X	pH 6.2, mutant enzyme T298C, Mn2+- and fructose 1,6-bisphosphate activated
+21.5	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N			X	mutant enzyme T298S, activated be Tl+ and Mn2+
+39.67	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	50			50C, pH not specified in the publication
+41.3	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	298	6.2	X	pH 6.2, mutant enzyme T298C, Mg2+- and fructose 1,6-bisphosphate activated
+50.12	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	65			65C, pH not specified in the publication
+58.4	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		6.2		pH 6.2, wild-type enzyme, Mn2+-activated
+58.4	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	70			70C, pH not specified in the publication
+66	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		6.2		pH 6.2, wild-type enzyme, Mn2+- and fructose 1,6-bisphosphate activated
+73.04	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	80			80C, pH not specified in the publication
+161	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	6.0	X	mutant enzyme E117K, in the absence of K+, in 50 mM Mes-Tris, pH 6.0, at 25C
+226	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		6.2		pH 6.2, wild-type enzyme, Mg2+ and fructose 1,6-bisphosphate activated
+232	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		6.2		pH 6.2, wild-type enzyme, Mg2+-activated
+1182	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	6.0		wild type enzyme, in the presence of K+, in 50 mM Mes-Tris, pH 6.0, at 25C
+1736	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	30	7.2	X	mutant enzyme C9S/C268S, in the presence of 0.1 mM ribose 5'-phosphate, in 50 mM imidazole-HCl buffer, pH 7.2, 50 mM KCl, 7 mM MgCl2, 0.12 mM NADH, 0.02 mg/ml lactate dehydrogenase, 2 mM PEP, and 4 mM ADP, at 30C
+3204	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	30	7.2		wild type enzyme, in the presence of 0.1 mM ribose 5'-phosphate, in 50 mM imidazole-HCl buffer, pH 7.2, 50 mM KCl, 7 mM MgCl2, 0.12 mM NADH, 0.02 mg/ml lactate dehydrogenase, 2 mM PEP, and 4 mM ADP, at 30C
+110	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N	37	8.5		PykII, in 100 mM Tris-HCl,pH 8.5, at 37C
+131	IDP	372	JPXZQMKKFWMMGK-KQYNXXCUSA-N	37	8.5		PykII, in 100 mM Tris-HCl,pH 8.5, at 37C

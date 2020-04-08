@@ -1,0 +1,24 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.9	p-nitrophenyl-beta-D-glucopyranoside 6-phosphate	2745	ULWWOIRVCLMNOB-RMPHRYRLSA-N		7.5		pH 7.5
+1.9	p-nitrophenyl-beta-D-glucopyranoside 6-phosphate	2745	ULWWOIRVCLMNOB-RMPHRYRLSA-N	50	7.5		pH 7.5, 50C
+138	cellobiose 6-phosphate	10456	ITPHOIFCAFNCLL-QRZGKKJRSA-N	37	7.5	X	pH 7.5, 37C, recombinant His-tagged mutant Y126F
+145	cellobiose 6-phosphate	10456	ITPHOIFCAFNCLL-QRZGKKJRSA-N	37	7.5	X	pH 7.5, 37C, recombinant His-tagged mutant M423A
+170	cellobiose 6-phosphate	10456	ITPHOIFCAFNCLL-QRZGKKJRSA-N	37	7.5		pH 7.5, 37C, recombinant His-tagged wild-type enzyme
+0.79	4-cyanophenyl 6-phospho-beta-D-glucoside	12295	HXRYFXRVJSCRCT-UJPOAAIJSA-N	50	7.5		pH 7.5, 50C
+1.01	4-cyanophenyl 6-phospho-beta-D-glucoside	12295	HXRYFXRVJSCRCT-UJPOAAIJSA-N	50	7.5		pH 7.5, 50C
+0.99	4-nitrophenyl 6-phospho-beta-D-glucoside	2745	ULWWOIRVCLMNOB-RMPHRYRLSA-N	50	7.5		pH 7.5, 50C
+1.6	p-nitrophenyl 6-phospho-beta-D-thioglucoside	23714	LFQVBGIYBUHDTF-ZIQFBCGOSA-N	50	7.5		pH 7.5, 50C
+2.29	2,4-dinitrophenyl 6-phospho-beta-D-glucoside	24854	CKYMTEBJOYWMKI-RMPHRYRLSA-N	50	7.5		pH 7.5, 50C
+1.95	2,5-dinitrophenyl 6-phospho-beta-D-glucoside	24855	JKZNTAXHWNJJCZ-RMPHRYRLSA-N	50	7.5		pH 7.5, 50C
+1.15	3,4-dinitrophenyl 6-phospho-beta-D-glucoside	24856	JNUUKVBBGBPKBE-RMPHRYRLSA-N	50	7.5		pH 7.5, 50C
+1.69	4-chloro-2-nitrophenyl 6-phospho-beta-D-glucoside	24857	JTOJJNIJSRWFAQ-RMPHRYRLSA-N	50	7.5		pH 7.5, 50C
+1.21	2-nitrophenyl 6-phospho-beta-D-glucoside	24858	BZVDGXNREJHQSK-RMPHRYRLSA-N	50	7.5		pH 7.5, 50C
+2.33	3,5-dichlorophenyl 6-phospho-beta-D-glucoside	24859	VNWLXARSNGMMBV-RMPHRYRLSA-N	50	7.5		pH 7.5, 50C
+4.69	3-nitrophenyl 6-phospho-beta-D-glucoside	24860	IWZOCHSWSVYTKE-RMPHRYRLSA-N	50	7.5		pH 7.5, 50C
+1.21	4-tert-butylphenyl 6-phospho-beta-D-glucoside	24861	DHJCOLQUVKNOJD-UXXRCYHCSA-N	50	7.5		pH 7.5, 50C
+2	2-nitrophenyl-beta-D-glucopyranoside 6-phosphate	24858	BZVDGXNREJHQSK-RMPHRYRLSA-N	40	7.0		pH 7.0, 40C
+41	2-nitrophenyl-beta-D-glucopyranoside 6-phosphate	24858	BZVDGXNREJHQSK-RMPHRYRLSA-N	50	6.0		pH 6.0, 50C
+0.243	4-nitrophenyl-beta-D-glucopyranoside 6-phosphate	2745	ULWWOIRVCLMNOB-RMPHRYRLSA-N	37	6.0		pH 6.0, 37C
+146	4-nitrophenyl-beta-D-glucopyranoside 6-phosphate	2745	ULWWOIRVCLMNOB-RMPHRYRLSA-N	37	7.5	X	pH 7.5, 37C, recombinant His-tagged mutant Y126F
+168	4-nitrophenyl-beta-D-glucopyranoside 6-phosphate	2745	ULWWOIRVCLMNOB-RMPHRYRLSA-N	37	7.5	X	pH 7.5, 37C, recombinant His-tagged mutant M423A
+195	4-nitrophenyl-beta-D-glucopyranoside 6-phosphate	2745	ULWWOIRVCLMNOB-RMPHRYRLSA-N	37	7.5		pH 7.5, 37C, recombinant His-tagged wild-type enzyme

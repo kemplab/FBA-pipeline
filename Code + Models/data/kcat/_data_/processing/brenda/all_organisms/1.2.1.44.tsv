@@ -1,0 +1,47 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0372	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N				recombinant fusion protein GST-AtCCR2
+0.038	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N				recombinant fusion protein GST-AtCCR1
+0.063	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N		6.3		100 mM sodium/potassium phosphate buffer pH 6.3, 250 mM NADPH
+1.6	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N				CCR2
+1.9	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N				
+2.01	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N		6.3		100 mM sodium/potassium phosphate buffer pH 6.3, 250 mM NADPH
+7.8	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N				
+14.2	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N				CCR1
+24	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N			X	mutant enzyme S212G, pH and temperature not specified in the publication
+44	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N			X	mutant enzyme H215L, pH and temperature not specified in the publication
+84	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N			X	mutant enzyme R51G/D77G, pH and temperature not specified in the publication
+100	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N			X	mutant enzyme R51G, pH and temperature not specified in the publication
+108	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N			X	mutant enzyme D77G, pH and temperature not specified in the publication
+122	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N			X	mutant enzyme V200E, pH and temperature not specified in the publication
+137	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N			X	mutant enzyme F30V, pH and temperature not specified in the publication
+142	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N			X	mutant enzyme RF30V/I31N, pH and temperature not specified in the publication
+144	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N			X	mutant enzyme S99G, pH and temperature not specified in the publication
+155	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N			X	mutant enzyme I31N, pH and temperature not specified in the publication
+160	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N			X	mutant enzyme L64W, pH and temperature not specified in the publication
+162	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N				wild type enzyme, pH and temperature not specified in the publication
+164	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N	30	6.5		in 100 mM phosphate buffer pH 6.5, at 30C
+0.188	4-Coumaroyl-CoA	374	DMZOKBALNZWDKI-AZKRPDILSA-N		6.3		100 mM sodium/potassium phosphate buffer pH 6.3, 250 mM NADPH
+0.32	4-Coumaroyl-CoA	374	DMZOKBALNZWDKI-AZKRPDILSA-N		6.3		100 mM sodium/potassium phosphate buffer pH 6.3, 250 mM NADPH
+0.0145	caffeoyl-CoA	446	QHRGJMIMHCLHRG-ZSELIEHESA-N				recombinant fusion protein GST-AtCCR2
+0.0363	caffeoyl-CoA	446	QHRGJMIMHCLHRG-ZSELIEHESA-N				recombinant fusion protein GST-AtCCR1
+0.162	caffeoyl-CoA	446	QHRGJMIMHCLHRG-ZSELIEHESA-N		6.3		100 mM sodium/potassium phosphate buffer pH 6.3, 250 mM NADPH
+0.23	caffeoyl-CoA	446	QHRGJMIMHCLHRG-ZSELIEHESA-N		6.3		100 mM sodium/potassium phosphate buffer pH 6.3, 250 mM NADPH
+0.33	caffeoyl-CoA	446	QHRGJMIMHCLHRG-ZSELIEHESA-N				CCR1
+0.7	caffeoyl-CoA	446	QHRGJMIMHCLHRG-ZSELIEHESA-N				
+113	caffeoyl-CoA	446	QHRGJMIMHCLHRG-ZSELIEHESA-N	30	6.5		in 100 mM phosphate buffer pH 6.5, at 30C
+0.013	Sinapoyl-CoA	1009	RBFUWESMWRUGFY-GSNIOFLCSA-N		6.3		100 mM sodium/potassium phosphate buffer pH 6.3, 250 mM NADPH
+0.0583	Sinapoyl-CoA	1009	RBFUWESMWRUGFY-GSNIOFLCSA-N				recombinant fusion protein GST-AtCCR2
+0.0612	Sinapoyl-CoA	1009	RBFUWESMWRUGFY-GSNIOFLCSA-N				recombinant fusion protein GST-AtCCR1
+0.2	Sinapoyl-CoA	1009	RBFUWESMWRUGFY-GSNIOFLCSA-N		6.3		100 mM sodium/potassium phosphate buffer pH 6.3, 250 mM NADPH
+0.96	Sinapoyl-CoA	1009	RBFUWESMWRUGFY-GSNIOFLCSA-N				CCR1
+1.67	Sinapoyl-CoA	1009	RBFUWESMWRUGFY-GSNIOFLCSA-N				
+5.3	Sinapoyl-CoA	1009	RBFUWESMWRUGFY-GSNIOFLCSA-N				
+131	Sinapoyl-CoA	1009	RBFUWESMWRUGFY-GSNIOFLCSA-N	30	6.5		in 100 mM phosphate buffer pH 6.5, at 30C
+1.63	p-Coumaroyl-CoA	374	DMZOKBALNZWDKI-AZKRPDILSA-N				
+94	coniferaldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	30	6.5		in 100 mM phosphate buffer pH 6.5, at 30C
+236	coniferaldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	30	7.8		in 100 mM phosphate buffer pH 7.8, at 30C
+4.9	5-Hydroxyferuloyl-CoA	3131	ILSPFIPSQSFPCN-PVMJKYSESA-N				
+81	sinapaldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N	30	6.5		in 100 mM phosphate buffer pH 6.5, at 30C
+210	sinapaldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N	30	7.8		in 100 mM phosphate buffer pH 7.8, at 30C
+0.43	coumaroyl-CoA	374	DMZOKBALNZWDKI-AZKRPDILSA-N				CCR1
+105	coumaroyl-CoA	374	DMZOKBALNZWDKI-AZKRPDILSA-N	30	6.5		in 100 mM phosphate buffer pH 6.5, at 30C

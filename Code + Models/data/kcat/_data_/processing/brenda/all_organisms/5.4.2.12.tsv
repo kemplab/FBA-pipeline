@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.51	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N	65			65C, pH not specified in the publication
+2.18	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N	70			70C, pH not specified in the publication
+3.01	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N	80			80C, pH not specified in the publication
+19.6	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N	37	7.4		recombinant enzyme, pH 7.4, 37C
+45	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N	37	7.0		pH 7.0, 37C
+57	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N	37	6.0		pH 6.0, 37C
+102	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N	30	7.5		in 30 mM Tris-HCl, 5 mM MgSO4, 20 mM KCl, pH 7.5, at 30C
+102	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N	30	7.5		recombinant His-tagged enzyme, pH 7.5, 30C
+132	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N	30	7.5		in 30 mM Tris-HCl, 5 mM MgSO4, 20 mM KCl, pH 7.5, at 30C; recombinant His-tagged enzyme, pH 7.5, 30C
+434	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N	25	7.6		pH 7.6, 25C
+2.04	2-phospho-D-glycerate	783	GXIURPTVHJPJLF-UWTATZPHSA-N	65			65C, pH not specified in the publication
+2.31	2-phospho-D-glycerate	783	GXIURPTVHJPJLF-UWTATZPHSA-N	70			70C, pH not specified in the publication
+4.01	2-phospho-D-glycerate	783	GXIURPTVHJPJLF-UWTATZPHSA-N	80			80C, pH not specified in the publication
+6.4	2-phospho-D-glycerate	783	GXIURPTVHJPJLF-UWTATZPHSA-N	37	6.0		pH 6.0, 37C
+14	2-phospho-D-glycerate	783	GXIURPTVHJPJLF-UWTATZPHSA-N	37	7.0		pH 7.0, 37C
+199	2-phospho-D-glycerate	783	GXIURPTVHJPJLF-UWTATZPHSA-N	25	7.6		pH 7.6, 25C

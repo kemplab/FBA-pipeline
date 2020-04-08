@@ -1,0 +1,32 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00001	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N			X	mutant Y44F, smaller than 0.00001 s-1
+0.081	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	25	7.5	X	mutant C124S; mutant enzyme C124S, at pH 7.5 and 25C
+0.082	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	25	7.5	X	mutant enzyme P240T, at pH 7.5 and 25C; mutant P240T
+0.125	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	25	7.5	X	mutant C124A; mutant enzyme C124A, at pH 7.5 and 25C
+0.357	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	25	7.5	X	mutant enzyme P240S, at pH 7.5 and 25C; mutant P240S
+0.48	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	25	7.5		direct optical method, K+-Hepes as buffer; wild type; wild type enzyme, at pH 7.5 and 25C
+0.505	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N				direct optical method, imidazole as buffer
+0.00001	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N				smaller than 0.00001 s-1
+0.00001	(2R,3S)-dimethylmalate	1226	WTIIULQJLZEHGZ-AWFVSMACSA-N	25	7.5	X	mutant enzyme Y44F, in 50 mM K+-HEPES (pH 7.5 and 25C); mutant Y44F, smaller than 0.00001 s-1
+0.000121	(2R,3S)-dimethylmalate	1226	WTIIULQJLZEHGZ-AWFVSMACSA-N	25	7.5	X	mutant C124S; mutant enzyme C124S, at pH 7.5 and 25C; mutant enzyme C124S, in 50 mM K+-HEPES (pH 7.5 and 25C)
+0.00014	(2R,3S)-dimethylmalate	1226	WTIIULQJLZEHGZ-AWFVSMACSA-N	25	7.5	X	mutant D59S; mutant enzyme D59S, at pH 7.5 and 25C; mutant enzyme D59S, in 50 mM K+-HEPES (pH 7.5 and 25C)
+0.000178	(2R,3S)-dimethylmalate	1226	WTIIULQJLZEHGZ-AWFVSMACSA-N	25	7.5	X	mutant C124A; mutant enzyme C124A, at pH 7.5 and 25C; mutant enzyme C124A, in 50 mM K+-HEPES (pH 7.5 and 25C)
+0.000427	(2R,3S)-dimethylmalate	1226	WTIIULQJLZEHGZ-AWFVSMACSA-N	25	7.5	X	mutant D59A; mutant enzyme D59A, at pH 7.5 and 25C; mutant enzyme D59A, in 50 mM K+-HEPES (pH 7.5 and 25C)
+2.8	(2R,3S)-dimethylmalate	1226	WTIIULQJLZEHGZ-AWFVSMACSA-N	25	7.5	X	mutant enzyme P240T, at pH 7.5 and 25C; mutant enzyme P240T, in 50 mM K+-HEPES (pH 7.5 and 25C); mutant P240T
+11.7	(2R,3S)-dimethylmalate	1226	WTIIULQJLZEHGZ-AWFVSMACSA-N	25	7.5	X	mutant enzyme P240S, at pH 7.5 and 25C; mutant enzyme P240S, in 50 mM K+-HEPES (pH 7.5 and 25C); mutant P240S
+19.2	(2R,3S)-dimethylmalate	1226	WTIIULQJLZEHGZ-AWFVSMACSA-N	25	7.5		; wild type; wild type enzyme, at pH 7.5 and 25C; wild type enzyme, in 50 mM K+-HEPES (pH 7.5 and 25C)
+0.00001	Phosphonopyruvate	1518	CHDDAVCOAOFSLD-UHFFFAOYSA-M				smaller than 0.00001 s-1
+0.00001	(R)-malate	862	BJEPYKJPYRNKOW-UWTATZPHSA-N				smaller than 0.00001 s-1
+0.00001	(2R,3S)-isocitrate	1444	ODBLHEXUDAPZAU-ZAFYKAAXSA-N				smaller than 0.00001 s-1
+0.00001	carboxyphosphoenolpyruvate	4100	KMNAUSZAPXSXLU-OWOJBTEDSA-N				smaller than 0.00001 s-1
+0.00001	3,3-difluoroxaloacetate	4689	PMDMAUJXXISVQM-UHFFFAOYSA-L				smaller than 0.00001 s-1
+0.13	(2R,3S)-2-methylisocitrate	2442	HHKPKXCSHMJWCF-WVBDSBKLSA-N	25	7.5		wild type enzyme, at pH 7.5 and 25C; wild type enzyme, in 50 mM K+-HEPES (pH 7.5 and 25C)
+2.64	(2R)-methylmalate	7808	XFTRTWQBIOMVPK-RXMQYKEDSA-N	25	7.5		; wild type enzyme, at pH 7.5 and 25C; wild type enzyme, in 50 mM K+-HEPES (pH 7.5 and 25C)
+4.4	(2R)-ethylmalate	8043	YVYGHRNLPUMVBU-ZCFIWIBFSA-N	25	7.5		; wild type enzyme, at pH 7.5 and 25C; wild type enzyme, in 50 mM K+-HEPES (pH 7.5 and 25C)
+63	(2R)-ethyl-(3S)-methylmalate	6798	HKEITEHXIPIELZ-CLZZGJSISA-N	25	7.5		; wild type enzyme, at pH 7.5 and 25C; wild type enzyme, in 50 mM K+-HEPES (pH 7.5 and 25C)
+0.79	(2R)-propyl-(3S)-methylmalate	8044	WWDHZHGFJDPMDR-SVGQVSJJSA-N	25	7.5		; wild type enzyme, at pH 7.5 and 25C; wild type enzyme, in 50 mM K+-HEPES (pH 7.5 and 25C)
+0.13	(2S,3R)-2-methylisocitrate	2442	HHKPKXCSHMJWCF-WVBDSBKLSA-N	25	7.5		; wild type enzyme, at pH 7.5 and 25C; wild type enzyme, in 50 mM K+-HEPES (pH 7.5 and 25C)
+0.00001	3-butylmalate	15249	MQVBPERQKIUJRM-UHFFFAOYSA-N				smaller than 0.00001 s-1
+0.13	(2R,3S)-methylisocitrate	2442	HHKPKXCSHMJWCF-WVBDSBKLSA-N				
+0.00001	(2S)-methylmalate	10351	XFTRTWQBIOMVPK-YFKPBYRVSA-L				smaller than 0.00001 s-1
+0.00001	(3S)-isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L				smaller than 0.00001 s-1

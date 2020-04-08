@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0053	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	14			glucosylated protein, 14C-glucose incorporation assay
+0.0083	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	14			glucosylated protein, 4-10 interval, mass sprectrometry assay; non-glucosylated protein, 14C-glucose incorporation assay
+0.0183	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N				non-glucosylated protein, mass sprectrometry assay

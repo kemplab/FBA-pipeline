@@ -1,0 +1,42 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.003	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N				recombinant PfODC domain
+0.006	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N				recombinant Pf-Hinge-ODC
+0.015	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	37	7.5	X	mutant enzyme D364E, at pH 7.5 and 37C
+0.02	alpha-Methylornithine	10476	LNDPCYHWPSQBCA-UHFFFAOYSA-N	25	5.8		25C, pH 5.8
+0.05	L-2,4-diaminobutanoate	1868	OGNSCSPNOLGXSM-VKHMYHEASA-N	30	5.5		30C, pH 5.5
+0.09	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	30	5.5		30C, pH 5.5
+0.14	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	30	7.5		30C, pH 7.5
+0.18	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	22	8.0		pH 8.0, 22C
+0.24	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N				
+0.25	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	5.5		pH 5.5, 37C
+0.35	L-2,4-diaminobutanoate	1868	OGNSCSPNOLGXSM-VKHMYHEASA-N	30	7.5		30C, pH 7.5
+0.45	L-2,4-diaminobutanoate	1868	OGNSCSPNOLGXSM-VKHMYHEASA-N	30	5.5		30C, pH 5.5
+0.5	L-2,4-diaminobutanoate	1868	OGNSCSPNOLGXSM-VKHMYHEASA-N	30	7.5		30C, pH 7.5
+0.57	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	30	5.5		30C, pH 5.5
+3	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N				
+3.3	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	25	7.8		CO2 assay, pH 7.8, 25C
+3.4	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N		7.0		wild-type, pH 7.0, temperature not specified in the publication
+3.5	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	37	8.0	X	mutant K294A, pH 8.0, 37C
+3.6	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N		7.0	X	mutant I163A, pH 7.0, temperature not specified in the publication
+4.2	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	25	7.8		circular dichroism assay, pH 7.8, 25C
+4.2	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N		7.0	X	mutant I163G, pH 7.0, temperature not specified in the publication
+4.4	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N		7.0	X	mutant I163V, pH 7.0, temperature not specified in the publication
+4.8	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	30	5.5		30C, pH 5.5
+4.8	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N		7.0	X	mutant E165A, pH 7.0, temperature not specified in the publication
+5.6	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N		7.0	X	mutant E165G, pH 7.0, temperature not specified in the publication
+6.9	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	30	5.5		30C, pH 5.5
+7	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	37	7.5		wild type enzyme, at pH 7.5 and 37C
+7.4	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N		7.0	X	mutant I163S, pH 7.0, temperature not specified in the publication
+9.4	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N				
+9.4	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N				
+9.77	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	37	5.5		pH 5.5, 37C
+10	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	37	7.5	X	mutant enzyme S396A, at pH 7.5 and 37C
+10.1	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N		7.0	X	mutant E165S, pH 7.0, temperature not specified in the publication; mutant I163T, pH 7.0, temperature not specified in the publication
+10.9	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N		7.0	X	mutant E165V, pH 7.0, temperature not specified in the publication
+15	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N				
+15	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N				
+15.4	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	37	8.0		wild-type, pH 8.0, 37C
+24.8	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N		7.0	X	mutant E165T, pH 7.0, temperature not specified in the publication
+25.7	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N		7.0	X	mutant I163V/E165V, pH 7.0, temperature not specified in the publication
+38.5	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N		7.0	X	mutant I163T/E165T, pH 7.0, temperature not specified in the publication
+77.8	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N				

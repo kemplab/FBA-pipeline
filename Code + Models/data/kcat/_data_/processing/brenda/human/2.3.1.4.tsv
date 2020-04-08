@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+9	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N				wild-type
+9.7	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N			X	mutant E156A
+19.3	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N			X	mutant E156D
+22.1	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N				wild-type

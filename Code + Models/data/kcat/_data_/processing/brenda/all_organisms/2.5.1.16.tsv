@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.012	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	80	7.5	X	pH 7.5, 80C, recombinant mutant D101I
+0.012	S-adenosylmethioninamine	1079	ZUNBITIXDCPNSD-LSRJEVITSA-N	80	7.5	X	pH 7.5, 80C, recombinant mutant D101I
+0.014	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	80	7.5	X	pH 7.5, 80C, recombinant mutant D170A
+0.014	S-adenosylmethioninamine	1079	ZUNBITIXDCPNSD-LSRJEVITSA-N	80	7.5	X	pH 7.5, 80C, recombinant mutant D170A
+0.128	S-adenosylmethioninamine	1079	ZUNBITIXDCPNSD-LSRJEVITSA-N	37	7.5	X	pH 7.5, 37C, recombinant SPS mutant C159A
+0.135	S-adenosylmethioninamine	1079	ZUNBITIXDCPNSD-LSRJEVITSA-N	37	7.5	X	pH 7.5, 37C, recombinant SPS mutant T160A
+0.138	S-adenosylmethioninamine	1079	ZUNBITIXDCPNSD-LSRJEVITSA-N	37	7.5	X	pH 7.5, 37C, recombinant SPS mutant I163A
+0.14	S-adenosylmethioninamine	1079	ZUNBITIXDCPNSD-LSRJEVITSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme
+0.145	S-adenosylmethioninamine	1079	ZUNBITIXDCPNSD-LSRJEVITSA-N	37	7.5	X	pH 7.5, 37C, recombinant SPS mutant C159S
+0.15	S-adenosylmethioninamine	1079	ZUNBITIXDCPNSD-LSRJEVITSA-N	37	7.5	X	pH 7.5, 37C, recombinant SPS mutant P165A
+0.156	S-adenosylmethioninamine	1079	ZUNBITIXDCPNSD-LSRJEVITSA-N	37	7.5	X	pH 7.5, 37C, recombinant SPS mutant P162A
+0.77	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme
+0.77	S-adenosylmethioninamine	1079	ZUNBITIXDCPNSD-LSRJEVITSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme
+1.5	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	80	7.5	X	pH 7.5, 80C, recombinant mutant D173A
+1.5	S-adenosylmethioninamine	1079	ZUNBITIXDCPNSD-LSRJEVITSA-N	80	7.5	X	pH 7.5, 80C, recombinant mutant D173A
+1.9	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+1.9	S-adenosylmethioninamine	1079	ZUNBITIXDCPNSD-LSRJEVITSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+8.1	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	80	7.5	X	pH 7.5, 80C, recombinant mutant Y76F
+8.1	S-adenosylmethioninamine	1079	ZUNBITIXDCPNSD-LSRJEVITSA-N	80	7.5	X	pH 7.5, 80C, recombinant mutant Y76F
+22.7	putrescine	144	KIDHWZJUCRJVML-UHFFFAOYSA-N	80	7.5		pH 7.5, 80C, recombinant wild-type enzyme
+22.7	S-adenosylmethioninamine	1079	ZUNBITIXDCPNSD-LSRJEVITSA-N	80	7.5		pH 7.5, 80C, recombinant wild-type enzyme

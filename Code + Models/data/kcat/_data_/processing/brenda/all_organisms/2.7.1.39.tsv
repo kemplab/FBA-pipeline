@@ -1,0 +1,27 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.007	L-homoserine butyl ester	22113	SIOGIFNUZZLGSH-ZETCQYMHSA-N			X	mutant R234L
+0.0111	L-homoserine propyl ester	14376	WUYHUPVZHRVUJL-LURJTMIESA-N			X	mutant R234L
+0.018	L-homoserine methyl ester	11179	QDMZCBABQCORRW-BYPYZUCNSA-N			X	mutant R234L
+0.021	L-homoserine ethyl ester	8849	PLYRSCSECTZOCD-YFKPBYRVSA-N			X	mutant R234L
+0.2	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N			X	mutant R234L
+0.75	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N				method: isothermal titration calometry
+2	L-2-amino-1,4-butanediol	22111	PYBVXNWDSBYQSA-BYPYZUCNSA-N				wild-type enzyme
+2.1	L-aspartate beta-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N				wild-type enzyme
+2.5	L-2-amino-5-hydroxyvalerate	22112	CZWARROQQFCFJB-BYPYZUCNSA-N				wild-type enzyme
+2.5	L-homoserine butyl ester	22113	SIOGIFNUZZLGSH-ZETCQYMHSA-N			X	mutant H202L
+2.7	L-homoserine propyl ester	14376	WUYHUPVZHRVUJL-LURJTMIESA-N			X	mutant H202L
+3.3	D-homoserine	3380	UKAUYVFTDYCKQA-GSVOUGTGSA-N				wild-type enzyme
+4.1	L-homoserine ethyl ester	8849	PLYRSCSECTZOCD-YFKPBYRVSA-N			X	mutant H202L
+5.4	L-homoserine methyl ester	11179	QDMZCBABQCORRW-BYPYZUCNSA-N			X	mutant H202L
+9.1	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N			X	mutant H202L
+11.2	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N	37	7.5		in 50 mM HEPES, pH 7.5, 40 mM KCl, 10 mM MgCl2, at 37C
+13.6	L-homoserine ethyl ester	8849	PLYRSCSECTZOCD-YFKPBYRVSA-N				wild-type enzyme
+13.6	L-homoserine isopropyl ester	14375	PGFSSAWLTPMQGR-LURJTMIESA-N				wild-type enzyme
+14	L-homoserine n-propyl ester	14376	WUYHUPVZHRVUJL-LURJTMIESA-N				wild-type enzyme
+14.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		in 50 mM HEPES, pH 7.5, 40 mM KCl, 10 mM MgCl2, at 37C
+14.7	L-homoserine methyl ester	11179	QDMZCBABQCORRW-BYPYZUCNSA-N				wild-type enzyme
+16.4	L-homoserine isobutyl ester	14374	PMOGVWFZLQBGGY-ZETCQYMHSA-N				wild-type enzyme
+18.3	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N				wild-type enzyme
+29.1	L-homoserine n-butyl ester	22113	SIOGIFNUZZLGSH-ZETCQYMHSA-N				wild-type enzyme
+40.2	L-homoserine	294	UKAUYVFTDYCKQA-VKHMYHEASA-N	30	7.5		pH 7.5, 30C
+40.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5		pH 7.5, 30C

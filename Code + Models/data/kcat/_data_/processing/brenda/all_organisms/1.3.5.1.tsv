@@ -1,0 +1,63 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.1	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	30	7.9	X	mutant K228R, cosubstrate ubiquinone, pH 7.9, 30C
+0.142	L-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N				
+0.2	naphthoquinol	4999	PCILLCXFKWDRMK-UHFFFAOYSA-N			X	mutant enzyme
+0.283	D-malate	862	BJEPYKJPYRNKOW-UWTATZPHSA-N				
+0.3	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	30	7.9	X	mutant K228L, cosubstrate ubiquinone, pH 7.9, 30C
+1.67	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	30	7.6		with 2,6-dichlorophenolindophenol, pH 7.6, 30C
+1.7	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N	30	7.8		succinate oxidation, pH 7.8, 30C
+1.83	2,6-dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	7.6		pH 7.6, 30C
+2	naphthoquinol	4999	PCILLCXFKWDRMK-UHFFFAOYSA-N				wild-type enzyme
+2.167	duroquinone	946	WAMKWBHYPYBEJY-UHFFFAOYSA-N	30	7.6		with 2,6-dichlorophenolindophenol, pH 7.6, 30C
+3.6	2,3-Dimethoxy-5-methyl-6-decyl-1,4-benzoquinone	744	VMEGFMNVSYVVOM-UHFFFAOYSA-N	22			22C
+3.67	1,4-Naphthoquinone	823	FRASJONUBLZVQX-UHFFFAOYSA-N	30	7.6		with 2,6-dichlorophenolindophenol, pH 7.6, 30C
+7.7	reduced plumbagin	2529	HLGWOMQEFHMMBP-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, recombinant subunit SDHC mutant E101L
+8.33	phenazine methosulfate	250	RXGJTUSBYWCRBK-UHFFFAOYSA-M	30	7.6		with 2,6-dichlorophenolindophenol, pH 7.6, 30C
+8.6	reduced plumbagin	2529	HLGWOMQEFHMMBP-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, recombinant subunit SDHC mutant D95L
+9.1	reduced plumbagin	2529	HLGWOMQEFHMMBP-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, recombinant subunit SDHB mutant G227L
+9.3	reduced plumbagin	2529	HLGWOMQEFHMMBP-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, recombinant subunit SDHD mutant Q78L
+9.4	2-(4,5-dimethyl-2-thiazolyl)-3,5-diphenyl-2H-tetrazolium bromide	5187	AZKSAVLVSZKNRD-UHFFFAOYSA-M	25	7.0	X	pH 7.0, 25C, recombinant subunit SDHB/C mutant G227L/D95L
+10	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N			X	mutant enzyme
+10.4	reduced plumbagin	2529	HLGWOMQEFHMMBP-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, recombinant subunit SDHC mutant E101D
+11.6	ubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, recombinant subunit SDHB mutant G227L
+12.6	2-(4,5-dimethyl-2-thiazolyl)-3,5-diphenyl-2H-tetrazolium bromide	5187	AZKSAVLVSZKNRD-UHFFFAOYSA-M	25	8.0	X	pH 8.0, 25C, recombinant subunit SDHC mutant E101L
+12.7	reduced plumbagin	2529	HLGWOMQEFHMMBP-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, recombinant subunit SDHC mutant D95E
+15.6	ubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, recombinant subunit SDHC mutant E101L
+15.9	2-(4,5-dimethyl-2-thiazolyl)-3,5-diphenyl-2H-tetrazolium bromide	5187	AZKSAVLVSZKNRD-UHFFFAOYSA-M	25	8.0	X	pH 8.0, 25C, recombinant subunit SDHB mutant G227L
+15.9	reduced plumbagin	2529	HLGWOMQEFHMMBP-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, recombinant wild-type enzyme
+16.2	ubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, recombinant subunit SDHC mutant D95L
+17.4	2-(4,5-dimethyl-2-thiazolyl)-3,5-diphenyl-2H-tetrazolium bromide	5187	AZKSAVLVSZKNRD-UHFFFAOYSA-M	25	8.0	X	pH 8.0, 25C, recombinant subunit SDHC mutant D95L
+17.4	ubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, recombinant subunit SDHD mutant Q78L
+18	2-(4,5-dimethyl-2-thiazolyl)-3,5-diphenyl-2H-tetrazolium bromide	5187	AZKSAVLVSZKNRD-UHFFFAOYSA-M	25	8.0	X	pH 8.0, 25C, recombinant subunit SDHC mutant E101D
+18.6	ubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant subunit SDHB/C mutant G227L/D95E
+19.9	2-(4,5-dimethyl-2-thiazolyl)-3,5-diphenyl-2H-tetrazolium bromide	5187	AZKSAVLVSZKNRD-UHFFFAOYSA-M	25	7.0	X	pH 7.0, 25C, recombinant subunit SDHB/C mutant G227L/D95E
+20.4	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	30	7.9	X	mutant E49F, cosubstrate ubiquinone, pH 7.9, 30C
+20.8	2-(4,5-dimethyl-2-thiazolyl)-3,5-diphenyl-2H-tetrazolium bromide	5187	AZKSAVLVSZKNRD-UHFFFAOYSA-M	25	8.0	X	pH 8.0, 25C, recombinant subunit SDHD mutant Q78L
+20.9	2-(4,5-dimethyl-2-thiazolyl)-3,5-diphenyl-2H-tetrazolium bromide	5187	AZKSAVLVSZKNRD-UHFFFAOYSA-M	25	8.0		pH 8.0, 25C, recombinant wild-type enzyme
+20.9	ubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, recombinant subunit SDHC mutant E101D
+21.5	reduced plumbagin	2529	HLGWOMQEFHMMBP-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant subunit SDHB/C mutant G227L/D95L
+22.3	ubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, recombinant subunit SDHC mutant D95E
+23	reduced plumbagin	2529	HLGWOMQEFHMMBP-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant subunit SDHB/C mutant G227L/D95E
+23	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	30	7.9	X	mutant E49L, cosubstrate ubiquinone, pH 7.9, 30C
+24	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	30	7.9		wild-type, cosubstrate ubiquinone, pH 7.9, 30C
+24.8	ubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant subunit SDHB/C mutant G227L/D95L
+28.3	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N				
+29.6	2-(4,5-dimethyl-2-thiazolyl)-3,5-diphenyl-2H-tetrazolium bromide	5187	AZKSAVLVSZKNRD-UHFFFAOYSA-M	25	8.0	X	pH 8.0, 25C, recombinant subunit SDHC mutant D95E
+35	2,3-dimethoxy-5-methyl-1,4-benzoquinone	1753	UIXPTCZPFCVOQF-UHFFFAOYSA-N				isolated complex
+37.9	ubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, recombinant wild-type enzyme
+60	2,3-Dimethoxy-5-methyl-6-decyl-1,4-benzoquinone	744	VMEGFMNVSYVVOM-UHFFFAOYSA-N	22			22C
+66.7	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N				
+78	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	30	7.8		30C, pH 7.8
+79.6	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N	65	6.5		65C, pH 6.5
+82	succinate-phenazine ethosulfate	36768	HGYFTLOAQVFMOG-UHFFFAOYSA-N	30	7.8		30C, pH 7.8
+83.3	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N				based on FAD content, dependency on assay temperature
+85	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	30	7.8		fumarate reduction, pH 7.8, 30C
+90	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N				
+167	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N				
+167	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N				
+167	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N				
+167	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N				
+167	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N				
+167	ubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N				
+182	2,3-dimethoxy-5-methyl-1,4-benzoquinone	1753	UIXPTCZPFCVOQF-UHFFFAOYSA-N				membrane preparation
+260	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N				wild-type enzyme

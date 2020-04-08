@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+18.67	(R)-3-hydroxybutyryl-CoA	2339	QHHKKMYHDBRONY-JYMPOPDUSA-N	30			30C, second phase of reaction
+65.33	(R)-3-hydroxybutyryl-CoA	2339	QHHKKMYHDBRONY-JYMPOPDUSA-N	30			30C, first phase of reaction
+320	(R)-3-hydroxybutyryl-CoA	2339	QHHKKMYHDBRONY-JYMPOPDUSA-N				based on the assumption that 2 PhaC and 2 PhaE subunits comprise one catalytic site; based on the assumption that 2 PhaC and 2 PhaE subunits comprise one catalytic site
+122	(R)-3-hydroxyvaleryl-CoA	6794	YYGYPCRWZMLSGK-MXYRDGFCSA-N				based on the assumption that 2 PhaC and 2 PhaE subunits comprise one catalytic site; based on the assumption that 2 PhaC and 2 PhaE subunits comprise one catalytic site
+1.43	(R)-3-hydroxypentanoyl-CoA	6794	YYGYPCRWZMLSGK-MXYRDGFCSA-N	30			30C, second phase of reaction
+2	(R)-3-hydroxypentanoyl-CoA	6794	YYGYPCRWZMLSGK-MXYRDGFCSA-N	30			30C, first phase of reaction
+297	4-hydroxybutyryl-CoA	5398	BAMBWCGEVIAQBF-CITAKDKDSA-N				based on the assumption that 2 PhaC and 2 PhaE subunits comprise one catalytic site; based on the assumption that 2 PhaC and 2 PhaE subunits comprise one catalytic site

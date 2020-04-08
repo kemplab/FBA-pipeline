@@ -1,0 +1,36 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+19.8	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	37	8.5		pH 8.5, 37C
+20.3	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	37	8.5		pH 8.5, 37C, presence of 0.5 mM phosphate
+105.7	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N				+/- 2.8, with 1 mM Ni2+
+125.9	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N				+/- 8.1, with 20 mM PO43- and 1 mM Ni2+
+130.2	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N				+/- 8.6, with 50 mM PO43- and 1 mM Ni2+
+0.0088	p-Nitrophenyl phenylphosphonate	1631	NRGZTHQFAQCJCQ-UHFFFAOYSA-N	30	7.5	X	mutant enzyme C57A, at 30C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+1	p-Nitrophenyl phenylphosphonate	1631	NRGZTHQFAQCJCQ-UHFFFAOYSA-N	30	7.5	X	mutant enzyme H218A, at 30C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+1.5	p-Nitrophenyl phenylphosphonate	1631	NRGZTHQFAQCJCQ-UHFFFAOYSA-N	30	7.5	X	mutant enzyme N78A, at 30C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+2.4	p-Nitrophenyl phenylphosphonate	1631	NRGZTHQFAQCJCQ-UHFFFAOYSA-N	30	7.5	X	mutant enzyme T107A, at 30C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+2.7	p-Nitrophenyl phenylphosphonate	1631	NRGZTHQFAQCJCQ-UHFFFAOYSA-N	30	7.5	X	mutant enzyme Y105A, at 30C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+3.3	p-Nitrophenyl phenylphosphonate	1631	NRGZTHQFAQCJCQ-UHFFFAOYSA-N	30	7.5	X	mutant enzyme C57S, at 30C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+12	p-Nitrophenyl phenylphosphonate	1631	NRGZTHQFAQCJCQ-UHFFFAOYSA-N	30	7.5	X	mutant enzyme K337A, at 30C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+16	p-Nitrophenyl phenylphosphonate	1631	NRGZTHQFAQCJCQ-UHFFFAOYSA-N	30	7.5		wild type enzyme, at 30C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+26	p-Nitrophenyl phenylphosphonate	1631	NRGZTHQFAQCJCQ-UHFFFAOYSA-N	30	7.5	X	mutant enzyme Q13A, at 30C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+0.8	bis(4-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	37	7.4	X	mutant G62V, pH 7.4, 37C
+1.8	bis(4-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	37	7.4	X	mutant P178A, pH 7.4, 37C
+2.3	bis(4-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	37	7.4	X	mutant F51L, pH 7.4, 37C
+3.1	bis(4-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	37	7.4	X	mutant C40G, pH 7.4, 37C
+3.9	bis(4-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	37	7.4	X	mutant C25G, pH 7.4, 37C
+4	bis(4-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	37	7.4	X	mutant E208A, pH 7.4, 37C
+4.6	bis(4-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	37	7.4	X	mutant P64A, pH 7.4, 37C
+7.4	bis(4-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	37	7.4		wild-type, pH 7.4, 37C
+68.5	bis(4-nitrophenyl)phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	37	7.4	X	mutant R252G, pH 7.4, 37C
+0.0047	p-nitrophenyl ethyl phosphate	2797	YTFMVJUJFNLWIE-UHFFFAOYSA-N	30	7.5	X	mutant enzyme C57A, at 30C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+0.17	p-nitrophenyl ethyl phosphate	2797	YTFMVJUJFNLWIE-UHFFFAOYSA-N	30	7.5	X	kcat below 0.17 sec-1, mutant enzyme Y105A, at 30C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+0.3	p-nitrophenyl ethyl phosphate	2797	YTFMVJUJFNLWIE-UHFFFAOYSA-N	30	7.5	X	mutant enzyme H218A, at 30C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+0.57	p-nitrophenyl ethyl phosphate	2797	YTFMVJUJFNLWIE-UHFFFAOYSA-N	30	7.5	X	mutant enzyme T107A, at 30C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+1.1	p-nitrophenyl ethyl phosphate	2797	YTFMVJUJFNLWIE-UHFFFAOYSA-N	30	7.5	X	mutant enzyme N78A, at 30C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+1.6	p-nitrophenyl ethyl phosphate	2797	YTFMVJUJFNLWIE-UHFFFAOYSA-N	30	7.5	X	mutant enzyme C57S, at 30C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+2.9	p-nitrophenyl ethyl phosphate	2797	YTFMVJUJFNLWIE-UHFFFAOYSA-N	30	7.5	X	mutant enzyme K337A, at 30C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+9.5	p-nitrophenyl ethyl phosphate	2797	YTFMVJUJFNLWIE-UHFFFAOYSA-N	30	7.5		wild type enzyme, at 30C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+18	p-nitrophenyl ethyl phosphate	2797	YTFMVJUJFNLWIE-UHFFFAOYSA-N	30	7.5	X	mutant enzyme Q13A, at 30C, in 44 mM succinic acid, 33 mM imidazole, 33 mM diethanolamine, pH 7.5
+8.6	p-Nitrophenylphosphorylcholine	3167	NAIXASFEPQPICN-UHFFFAOYSA-N				+/- 0.5, with 1 mM Ni2+
+52.9	p-Nitrophenylphosphorylcholine	3167	NAIXASFEPQPICN-UHFFFAOYSA-N				+/- 1.0, with 20 mM Mn2+
+3.26	p-nitrophenyl 5'-thymidine monophosphate	3356	RWOAVOYBVRQNIZ-BFHYXJOUSA-N				+/- 0.006, with 1mM Ni2+

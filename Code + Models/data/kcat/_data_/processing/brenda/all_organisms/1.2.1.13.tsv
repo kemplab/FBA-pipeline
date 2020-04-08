@@ -1,0 +1,35 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+32	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme S188A
+42	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme T33A/S188A
+52	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme T33A
+61	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				native enzyme A3-GAPDH
+161	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme K128E
+196	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme R82A, pH and temperature not specified in the publication
+203	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme R82D, pH and temperature not specified in the publication
+210	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme S195A, pH and temperature not specified in the publication
+220	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme K128A; mutant enzyme R197E
+251	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	7.7		pH 7.7, 30C, native A4 glyceraldehyde 3-phosphate dehydrogenase
+392	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant enzyme R197A
+430	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	7.7		pH 7.7, 30C, recombinant A4 glyceraldehyde 3-phosphate dehydrogenase
+430	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				wild-type enzyme
+430	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				wild type enzyme, pH and temperature not specified in the publication
+8.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant enzyme R190A, pH and temperature not specified in the publication
+32	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant enzyme S188A
+37	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant enzyme T33A
+40	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant enzyme K128A
+41	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	7.7		pH 7.7, 30C, native A4 glyceraldehyde 3-phosphate dehydrogenase
+41	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				native enzyme A3-GAPDH
+48	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant enzyme T33A/S188A
+56	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant enzyme K128E
+71	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant enzyme R82A, pH and temperature not specified in the publication
+104	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	7.7		pH 7.7, 30C, recombinant A4 glyceraldehyde 3-phosphate dehydrogenase
+104	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				wild-type enzyme
+104	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				wild type enzyme, pH and temperature not specified in the publication
+108	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant enzyme R197A
+119	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant enzyme S195A, pH and temperature not specified in the publication
+135	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant enzyme R82D, pH and temperature not specified in the publication
+137	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant enzyme R197E
+40	3-phospho-D-glyceroyl phosphate	462	LJQLQCAXBUHEAZ-UWTATZPHSA-N	30	7.7		pH 7.7, 30C, native A4 glyceraldehyde 3-phosphate dehydrogenase, reaction with NADH
+88	3-phospho-D-glyceroyl phosphate	462	LJQLQCAXBUHEAZ-UWTATZPHSA-N	30	7.7		pH 7.7, 30C, recombinant A4 glyceraldehyde 3-phosphate dehydrogenase, reaction with NADH
+223	3-phospho-D-glyceroyl phosphate	462	LJQLQCAXBUHEAZ-UWTATZPHSA-N	30	7.7		pH 7.7, 30C, native A4 glyceraldehyde 3-phosphate dehydrogenase, reaction with NADPH
+419	3-phospho-D-glyceroyl phosphate	462	LJQLQCAXBUHEAZ-UWTATZPHSA-N	30	7.7		pH 7.7, 30C, recombinant A4 glyceraldehyde 3-phosphate dehydrogenase, reaction with NADPH

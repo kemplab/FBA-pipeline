@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.25	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N				wild type enzyme
+0.3	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N			X	mutant enzyme I249A
+3.8	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				wild type enzyme
+69	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				wild type enzyme
+1	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N				wild type enzyme
+1.2	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N			X	mutant enzyme I249A
+83	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N				wild type enzyme
+1.2	p-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N				wild type enzyme

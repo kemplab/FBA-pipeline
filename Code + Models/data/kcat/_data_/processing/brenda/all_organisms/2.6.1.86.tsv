@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.01	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	25	7.0		pH 7.0, 25C
+0.16	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	25	7.0		ammonium sulfate as ammonia source, pH 7.0, 25C
+2.2	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	25	7.0		L-glutamine as ammonia source, pH 7.0, 25C

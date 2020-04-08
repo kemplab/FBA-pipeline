@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+22	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	9.0		at pH 9.0 and 25C
+24.8	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	25	9.0		at pH 9.0 and 25C
+24.9	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	25	9.0		in the presence of ethylamine, at pH 9.0 and 25C
+30.8	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N		6.5		using 2,6-dichlorophenolindophenol as cosubstrate, pH 6.5, temperature not specified in the publication
+31.1	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	25	9.0		at pH 9.0 and 25C
+32.6	1-propanol	536	BDERNNFJNOPAEC-UHFFFAOYSA-N	25	9.0		at pH 9.0 and 25C
+32.6	1-propanol	536	BDERNNFJNOPAEC-UHFFFAOYSA-N	25	9.0		in the presence of ethylamine, at pH 9.0 and 25C
+52.3	n-butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N		6.5		using 2,6-dichlorophenolindophenol as cosubstrate, pH 6.5, temperature not specified in the publication
+56.6	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	25	9.0		in the presence of pentylamine, at pH 9.0 and 25C
+67.5	allylic alcohol	2564	XXROGKLTLUQVRX-UHFFFAOYSA-N		6.5		using 2,6-dichlorophenolindophenol as cosubstrate, pH 6.5, temperature not specified in the publication
+71	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N		6.5		using 2,6-dichlorophenolindophenol as cosubstrate, pH 6.5, temperature not specified in the publication
+73.1	1-propanol	536	BDERNNFJNOPAEC-UHFFFAOYSA-N	25	9.0		in the presence of pentylamine, at pH 9.0 and 25C
+76.3	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N				using ethanol as cosubstrate, pH and temperature not specified in the publication

@@ -1,0 +1,23 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.17	2-hydroxy-dATP	2019	UOACBPRDWRDEHJ-KVQBGUIXSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.45	2-hydroxy-dATP	2019	UOACBPRDWRDEHJ-KVQBGUIXSA-N			X	mutant D118E, pH not specified in the publication, temperature not specified in the publication
+0.89	8-hydroxy-dGTP	97369	BUZOGVVQWCXXDP-VPENINKCSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+1.4	2-hydroxy-dATP	2019	UOACBPRDWRDEHJ-KVQBGUIXSA-N			X	mutant R72A, pH not specified in the publication, temperature not specified in the publication
+1.42	2-hydroxy-dATP	2019	UOACBPRDWRDEHJ-KVQBGUIXSA-N			X	mutant E33A, pH not specified in the publication, temperature not specified in the publication
+2.1	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N			X	mutant D118E, pH not specified in the publication, temperature not specified in the publication
+2.7	2-hydroxy-dATP	2019	UOACBPRDWRDEHJ-KVQBGUIXSA-N			X	mutant D118A, pH not specified in the publication, temperature not specified in the publication
+2.7	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N			X	mutant D118N, pH not specified in the publication, temperature not specified in the publication
+2.8	5-Methyl-dCTP	2193	NGYHUCPPLJOZIX-XLPZGREQSA-N			X	mutant E33A, pH not specified in the publication, temperature not specified in the publication
+6.3	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+6.5	5-Methyl-dCTP	2193	NGYHUCPPLJOZIX-XLPZGREQSA-N			X	mutant D118E, pH not specified in the publication, temperature not specified in the publication
+7.7	5-Methyl-dCTP	2193	NGYHUCPPLJOZIX-XLPZGREQSA-N			X	mutant D118N, pH not specified in the publication, temperature not specified in the publication
+8.8	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N			X	mutant R72A, pH not specified in the publication, temperature not specified in the publication
+9.1	5-Methyl-dCTP	2193	NGYHUCPPLJOZIX-XLPZGREQSA-N			X	mutant D118A, pH not specified in the publication, temperature not specified in the publication
+9.28	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	30	8.5		pH 8.5, 30C
+11	5-Methyl-dCTP	2193	NGYHUCPPLJOZIX-XLPZGREQSA-N			X	mutant R72A, pH not specified in the publication, temperature not specified in the publication
+14.3	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	9.0		pH 9.0, 37C
+17.4	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	30	8.5		pH 8.5, 30C
+25.8	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	37	9.0		pH 9.0, 37C
+35	5-Methyl-dCTP	2193	NGYHUCPPLJOZIX-XLPZGREQSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+35.1	5-hydroxy-CTP	118795	MHOCUERRDSIHJZ-GFKUXRSRSA-N	30	8.5		pH 8.5, 30C
+51.7	5-Methyl-dCTP	2193	NGYHUCPPLJOZIX-XLPZGREQSA-N	37	9.0		pH 9.0, 37C

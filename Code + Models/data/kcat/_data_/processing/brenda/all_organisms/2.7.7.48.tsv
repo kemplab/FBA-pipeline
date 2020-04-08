@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000105	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	23	7.5		pH 7.5, 23C, reaction with heteropolymeric template T500, C-terminally truncated enzyme form NS5B(DELTA21)
+0.000617	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.0		pH 7.0, 30C, sshRNA as template
+0.000383	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	23	7.5		pH 7.5, 23C, reaction with heteropolymeric template T500, C-terminally truncated enzyme form NS5B(DELTA21)
+0.0005	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	23	7.5		pH 7.5, 23C, full-length enzyme, poly(C)-oligo(G)18 as template
+0.00108	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	23	7.5	X	pH 7.5, 23C, deletion mutant DELTAC21, poly(C)-oligo(G)18 as template
+0.00375	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	30	7.0		pH 7.0, 30C, sshRNA as template
+0.005	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N				poly(C)-oligo(G) as template
+0.0211	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	30	7.0		pH 7.0, 30C, poly(C) as template
+0.345	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	30	7.5		pH 7.5, 30C, recombinant nontagged enzyme
+0.000133	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	23	7.5		pH 7.5, 23C, reaction with heteropolymeric template T500, C-terminally truncated enzyme form NS5B(DELTA21)
+0.000505	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	30	7.0		pH 7.0, 30C, sshRNA as template
+16	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	30	7.5		pH 7.5, 30C
+0.000167	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	23	7.5		pH 7.5, 23C, reaction with heteropolymeric template T500, C-terminally truncated enzyme form NS5B(DELTA21)
+0.00167	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	23	7.5		pH 7.5, 23C, full-length enzyme, reaction with dT16/poly(rA)
+0.00373	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	23	7.5		pH 7.5, 23C, full-length enzyme, poly(A)-oligo(U)18 as template
+0.00478	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	30	7.0		pH 7.0, 30C, sshRNA as template
+0.00583	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	23	7.5	X	pH 7.5, 23C, deletion mutant DELTAC21, poly(A)-oligo(U)18 as template
+0.0272	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	23	7.5		pH 7.5, 23C, C-terminally truncated enzyme form NS5B(DELTA21), reaction with dT16/poly(rA)
+0.23	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	30	7.0		pH 7.0, 30C, poly(A) as template

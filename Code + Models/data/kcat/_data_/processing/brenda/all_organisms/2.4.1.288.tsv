@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.004	beta-D-Galf-(1-&gt;5)-beta-D-Galf-(1-&gt;6)-beta-D-Galf-O(CH2)7CH3	4941	NDJPCUUKOQPQEQ-DGWHQJJCSA-N	37	7.6	X	mutant enzyme H413S, in 50 mM MOPS, pH 7.6, 50 mM KCl, 20 mM MgCl2, at 37C
+0.004	UDP-alpha-D-galactofuranose	1704	ZQLQOXLUCGXKHS-SIAUPFDVSA-N	37	7.6	X	mutant enzyme H413S, in 50 mM MOPS, pH 7.6, 50 mM KCl, 20 mM MgCl2, at 37C
+0.005	beta-D-Galf-(1-&gt;5)-beta-D-Galf-(1-&gt;6)-beta-D-Galf-O(CH2)7CH3	4941	NDJPCUUKOQPQEQ-DGWHQJJCSA-N	37	7.6	X	mutant enzyme E300S, in 50 mM MOPS, pH 7.6, 50 mM KCl, 20 mM MgCl2, at 37C
+0.005	UDP-alpha-D-galactofuranose	1704	ZQLQOXLUCGXKHS-SIAUPFDVSA-N	37	7.6	X	mutant enzyme E300S, in 50 mM MOPS, pH 7.6, 50 mM KCl, 20 mM MgCl2, at 37C
+0.006	beta-D-Galf-(1-&gt;5)-beta-D-Galf-(1-&gt;6)-beta-D-Galf-O(CH2)7CH3	4941	NDJPCUUKOQPQEQ-DGWHQJJCSA-N	37	7.6	X	mutant enzyme W399S, in 50 mM MOPS, pH 7.6, 50 mM KCl, 20 mM MgCl2, at 37C
+0.006	UDP-alpha-D-galactofuranose	1704	ZQLQOXLUCGXKHS-SIAUPFDVSA-N	37	7.6	X	mutant enzyme W399S, in 50 mM MOPS, pH 7.6, 50 mM KCl, 20 mM MgCl2, at 37C
+0.02	UDP-3-deoxy-alpha-D-threo-hexofuranose	20997	JOZDQZYWIULGEB-MRIMRVJBSA-N	37	7.6		using beta-Galf-(1-&gt;5)-beta-Galf-(1-&gt;6)-beta-Galf-octyl as cosubstrate, in 50 mM MOPS pH 7.6 with 20 mM MgCl2, 5 mM 2-mercaptoethanol, at 37C
+0.17	UDP-5-deoxy-alpha-D-galactofuranose	117767	VYNFAFMUBLVLGA-RTXATJJPSA-N	37	7.6		using beta-Galf-(1-&gt;5)-beta-Galf-(1-&gt;6)-beta-Galf-octyl as cosubstrate, in 50 mM MOPS pH 7.6 with 20 mM MgCl2, 5 mM 2-mercaptoethanol, at 37C
+0.25	UDP-alpha-D-arabinofuranose	117768	QGNZSCRNMXQWNR-BUMGBYEUSA-N	37	7.6		using beta-Galf-(1-&gt;5)-beta-Galf-(1-&gt;6)-beta-Galf-octyl as cosubstrate, in 50 mM MOPS pH 7.6 with 20 mM MgCl2, 5 mM 2-mercaptoethanol, at 37C
+0.33	UDP-alpha-D-galactofuranose	1704	ZQLQOXLUCGXKHS-SIAUPFDVSA-N	37	7.6		using beta-Galf-(1-&gt;6)-beta-Galf-(1-&gt;5)-beta-Galf-octyl as cosubstrate, in 50 mM MOPS pH 7.6 with 20 mM MgCl2, 5 mM 2-mercaptoethanol, at 37C
+1.32	UDP-6-deoxy-alpha-D-galactofuranose	118624	RYQDVONYCXFOMC-SIAUPFDVSA-N	37	7.6		using beta-Galf-(1-&gt;5)-beta-Galf-(1-&gt;6)-beta-Galf-octyl as cosubstrate, in 50 mM MOPS pH 7.6 with 20 mM MgCl2, 5 mM 2-mercaptoethanol, at 37C
+1.62	dTDP-alpha-D-galactofuranose	118722	DXLDZMBFOSXEGU-KSUHBWJWSA-N	37	7.6		using beta-Galf-(1-&gt;5)-beta-Galf-(1-&gt;6)-beta-Galf-octyl as cosubstrate, in 50 mM MOPS pH 7.6 with 20 mM MgCl2, 5 mM 2-mercaptoethanol, at 37C
+2.18	UDP-alpha-D-galactofuranose	1704	ZQLQOXLUCGXKHS-SIAUPFDVSA-N	37	7.6		using beta-Galf-(1-&gt;5)-beta-Galf-(1-&gt;6)-beta-Galf-octyl as cosubstrate, in 50 mM MOPS pH 7.6 with 20 mM MgCl2, 5 mM 2-mercaptoethanol, at 37C
+7.2	beta-D-Galf-(1-&gt;5)-beta-D-Galf-(1-&gt;6)-beta-D-Galf-O(CH2)7CH3	4941	NDJPCUUKOQPQEQ-DGWHQJJCSA-N	37	7.6		wild type enzyme, in 50 mM MOPS, pH 7.6, 50 mM KCl, 20 mM MgCl2, at 37C
+7.2	UDP-alpha-D-galactofuranose	1704	ZQLQOXLUCGXKHS-SIAUPFDVSA-N	37	7.9		spectrophotometric assay, in 50 mM MOPS, pH 7.9, 50 mM KCl, 20 mM MgCl2, at 37C
+7.2	UDP-alpha-D-galactofuranose	1704	ZQLQOXLUCGXKHS-SIAUPFDVSA-N	37	7.6		wild type enzyme, in 50 mM MOPS, pH 7.6, 50 mM KCl, 20 mM MgCl2, at 37C

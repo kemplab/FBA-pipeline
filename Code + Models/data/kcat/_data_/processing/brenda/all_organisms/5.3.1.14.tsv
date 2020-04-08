@@ -1,0 +1,66 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.024	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				
+33	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N				
+0.1	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N	60	9.0		in 50 mM glycine-NaOH, pH 9.0, 1 mM MnCl2, at 60C
+1.7	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N	35	9.0	X	mutant enzyme S329F, in 50 mM glycine-NaOH buffer (pH 9.0), 1 mM MnCl2, at 35C
+1.8	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N	35	9.0	X	mutant enzyme S329K, in 50 mM glycine-NaOH buffer (pH 9.0), 1 mM MnCl2, at 35C
+3.3	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N	35	9.0	X	mutant enzyme S329L, in 50 mM glycine-NaOH buffer (pH 9.0), 1 mM MnCl2, at 35C
+8.9	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N	35	9.0	X	mutant enzyme S329A, in 50 mM glycine-NaOH buffer (pH 9.0), 1 mM MnCl2, at 35C
+11.4	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N	35	9.0		wild type enzyme, in 50 mM glycine-NaOH buffer (pH 9.0), 1 mM MnCl2, at 35C
+21.5	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N	65	7.0		at 65C in 50 mM potassium phosphate buffer and 1 mM Co2+ at pH 7.0
+34.5	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N	65	7.0		pH 7.0, 65C, recombinant enzyme
+49	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N	75	8.0		at pH 8.0 and 75C
+118	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N	65	7.0		in 50 mM potassium phosphate buffer (pH 7.0) and 1 mM Co2+, at 65C
+3150	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N				
+0.17	D-arabinose	465	HMFHBZSHGGEWLO-ZRMNMSDTSA-N				
+5.1	L-rhamnose	567	SHZGCJCMOBCMKK-JFNONXLTSA-N	35	9.0	X	mutant enzyme S329K, in 50 mM glycine-NaOH buffer (pH 9.0), 1 mM MnCl2, at 35C
+13.3	L-rhamnose	567	SHZGCJCMOBCMKK-JFNONXLTSA-N	35	9.0	X	mutant enzyme S329F, in 50 mM glycine-NaOH buffer (pH 9.0), 1 mM MnCl2, at 35C
+50.5	L-rhamnose	567	SHZGCJCMOBCMKK-JFNONXLTSA-N	60	9.0		in 50 mM glycine-NaOH, pH 9.0, 1 mM MnCl2, at 60C
+53.6	L-rhamnose	567	SHZGCJCMOBCMKK-JFNONXLTSA-N	35	9.0	X	mutant enzyme S329L, in 50 mM glycine-NaOH buffer (pH 9.0), 1 mM MnCl2, at 35C
+68	L-rhamnose	567	SHZGCJCMOBCMKK-JFNONXLTSA-N	65	7.0		pH 7.0, 65C, recombinant enzyme
+99.9	L-rhamnose	567	SHZGCJCMOBCMKK-JFNONXLTSA-N	65	7.0		in 50 mM potassium phosphate buffer (pH 7.0) and 1 mM Co2+, at 65C
+142	L-rhamnose	567	SHZGCJCMOBCMKK-JFNONXLTSA-N	35	9.0	X	mutant enzyme S329A, in 50 mM glycine-NaOH buffer (pH 9.0), 1 mM MnCl2, at 35C
+146	L-rhamnose	567	SHZGCJCMOBCMKK-JFNONXLTSA-N	85	8.0		purified enzyme, at 85C for 10 min in 50 mM EPPS buffer (pH 8.0)
+149.5	L-rhamnose	567	SHZGCJCMOBCMKK-JFNONXLTSA-N	70	7.0		in 50 mM malate buffer, at pH 7.0 and 70C
+180	L-rhamnose	567	SHZGCJCMOBCMKK-JFNONXLTSA-N	65	7.0		at 65C in 50 mM potassium phosphate buffer and 1 mM Co2+ at pH 7.0
+192	L-rhamnose	567	SHZGCJCMOBCMKK-JFNONXLTSA-N			X	mutant enzyme H101N, pH and temperature not specified in the publication
+195	L-rhamnose	567	SHZGCJCMOBCMKK-JFNONXLTSA-N	75	8.0		at pH 8.0 and 75C
+224	L-rhamnose	567	SHZGCJCMOBCMKK-JFNONXLTSA-N	35	9.0		wild type enzyme, in 50 mM glycine-NaOH buffer (pH 9.0), 1 mM MnCl2, at 35C
+374	L-rhamnose	567	SHZGCJCMOBCMKK-JFNONXLTSA-N				wild type enzyme, pH and temperature not specified in the publication
+1.3	D-Allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N	60	9.0		in 50 mM glycine-NaOH, pH 9.0, 1 mM MnCl2, at 60C
+2.7	D-Allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N	35	9.0	X	mutant enzyme S329K, in 50 mM glycine-NaOH buffer (pH 9.0), 1 mM MnCl2, at 35C
+3.8	D-Allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N	35	9.0	X	mutant enzyme S329F, in 50 mM glycine-NaOH buffer (pH 9.0), 1 mM MnCl2, at 35C
+7.4	D-Allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N	35	9.0	X	mutant enzyme S329A, in 50 mM glycine-NaOH buffer (pH 9.0), 1 mM MnCl2, at 35C
+9.8	D-Allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N	35	9.0	X	mutant enzyme S329L, in 50 mM glycine-NaOH buffer (pH 9.0), 1 mM MnCl2, at 35C
+14.2	D-Allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N	65	7.0		pH 7.0, 65C, recombinant enzyme
+16.8	D-Allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N				wild type enzyme, pH and temperature not specified in the publication
+21.2	D-Allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N	35	9.0		wild type enzyme, in 50 mM glycine-NaOH buffer (pH 9.0), 1 mM MnCl2, at 35C
+24.5	D-Allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N			X	mutant enzyme H101N, pH and temperature not specified in the publication
+33.9	D-Allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N	65	7.0		at 65C in 50 mM potassium phosphate buffer and 1 mM Co2+ at pH 7.0
+68.1	D-Allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N	65	7.0		in 50 mM potassium phosphate buffer (pH 7.0) and 1 mM Co2+, at 65C
+81	D-Allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N	75	8.0		at pH 8.0 and 75C
+2500	D-Allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N				
+130	L-xylulose	940	LQXVFWRQNMEDEE-PYHARJCCSA-N	75	8.0		at pH 8.0 and 75C
+281	L-xylulose	940	LQXVFWRQNMEDEE-PYHARJCCSA-N	85	8.0		purified enzyme, at 85C for 10 min in 50 mM EPPS buffer (pH 8.0)
+73.8	L-Lyxose	1235	PYMYPHUHKUWMLA-YUPRTTJUSA-N	60	9.0		in 50 mM glycine-NaOH, pH 9.0, 1 mM MnCl2, at 60C
+76.8	L-Lyxose	1235	PYMYPHUHKUWMLA-YUPRTTJUSA-N	65	7.0		pH 7.0, 65C, recombinant enzyme
+186	L-Lyxose	1235	PYMYPHUHKUWMLA-YUPRTTJUSA-N	65	7.0		in 50 mM potassium phosphate buffer (pH 7.0) and 1 mM Co2+, at 65C
+200	L-Lyxose	1235	PYMYPHUHKUWMLA-YUPRTTJUSA-N	75	8.0		at pH 8.0 and 75C
+216	L-Lyxose	1235	PYMYPHUHKUWMLA-YUPRTTJUSA-N	70	7.0		in 50 mM malate buffer, at pH 7.0 and 70C
+240	L-Lyxose	1235	PYMYPHUHKUWMLA-YUPRTTJUSA-N	65	7.0		at 65C in 50 mM potassium phosphate buffer and 1 mM Co2+ at pH 7.0
+462	L-Lyxose	1235	PYMYPHUHKUWMLA-YUPRTTJUSA-N	85	8.0		purified enzyme, at 85C for 10 min in 50 mM EPPS buffer (pH 8.0)
+900	L-Lyxose	1235	PYMYPHUHKUWMLA-YUPRTTJUSA-N				
+0.017	L-Xylose	1432	HMFHBZSHGGEWLO-CZBDKTQLSA-N				
+10	L-Mannose	1561	WQZGKKKJIJFFOK-JFNONXLTSA-N	60	9.0		in 50 mM glycine-NaOH, pH 9.0, 1 mM MnCl2, at 60C
+30	L-Mannose	1561	WQZGKKKJIJFFOK-JFNONXLTSA-N	65	7.0		at 65C in 50 mM potassium phosphate buffer and 1 mM Co2+ at pH 7.0
+31	L-Mannose	1561	WQZGKKKJIJFFOK-JFNONXLTSA-N	65	7.0		pH 7.0, 65C, recombinant enzyme
+78.7	L-Mannose	1561	WQZGKKKJIJFFOK-JFNONXLTSA-N	65	7.0		in 50 mM potassium phosphate buffer (pH 7.0) and 1 mM Co2+, at 65C
+88.88	L-Mannose	1561	WQZGKKKJIJFFOK-JFNONXLTSA-N	70	7.0		in 50 mM malate buffer, at pH 7.0 and 70C
+155	L-Mannose	1561	WQZGKKKJIJFFOK-JFNONXLTSA-N	75	8.0		at pH 8.0 and 75C
+442	L-Mannose	1561	WQZGKKKJIJFFOK-JFNONXLTSA-N	85	8.0		purified enzyme, at 85C for 10 min in 50 mM EPPS buffer (pH 8.0)
+1000	L-Mannose	1561	WQZGKKKJIJFFOK-JFNONXLTSA-N				
+0.05	D-Altrose	1929	GZCGUPFRVQAUEE-ARQDHWQXSA-N				
+116	L-Fructose	3563	RFSUNEUAIZKAJO-UHFFFAOYSA-N	75	8.0		at pH 8.0 and 75C
+274	L-Fructose	3563	RFSUNEUAIZKAJO-UHFFFAOYSA-N	85	8.0		purified enzyme, at 85C for 10 min in 50 mM EPPS buffer (pH 8.0)
+7	L-talose	4647	WQZGKKKJIJFFOK-CGDLOXFJSA-N	60	9.0		in 50 mM glycine-NaOH, pH 9.0, 1 mM MnCl2, at 60C
+1717	L-rhamnulose	4869	CJJCPDZKQKUXSS-AZGQCCRYSA-N				

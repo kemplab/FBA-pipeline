@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.283	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N			X	purified V342A mutant, electron acceptor: dichlorophenol indophenol
+0.733	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N			X	purified R382L mutant, electron acceptor: dichlorophenol indophenol
+0.817	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N			X	purified V342A mutant, electron acceptor: electron-transferring flavoprotein
+2	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N			X	purified R382L mutant, electron acceptor: electron-transferring flavoprotein
+2.2	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N			X	purified A282V mutant, electron acceptor: electron-transferring flavoprotein
+2.82	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N			X	purified A282V mutant, electron acceptor: dichlorophenol indophenol
+8.8	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N				purified wild-type enzyme, electron acceptor: electron-transferring flavoprotein
+10	isovaleryl-CoA	630	UYVZIWWBJMYRCD-ZMHDXICWSA-N				purified wild-type enzyme, electron acceptor: dichlorophenol indophenol

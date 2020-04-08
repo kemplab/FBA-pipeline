@@ -1,0 +1,82 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+185	FAD	14	VWWQXMAJTJZDQX-UYBVJOGSSA-N	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant A67Q
+190	FAD	14	VWWQXMAJTJZDQX-UYBVJOGSSA-N	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant L65A
+196	FAD	14	VWWQXMAJTJZDQX-UYBVJOGSSA-N	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant F39A
+207	FAD	14	VWWQXMAJTJZDQX-UYBVJOGSSA-N	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant P64Q
+208	FAD	14	VWWQXMAJTJZDQX-UYBVJOGSSA-N	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant A67L
+209	FAD	14	VWWQXMAJTJZDQX-UYBVJOGSSA-N	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant F39A
+211	FAD	14	VWWQXMAJTJZDQX-UYBVJOGSSA-N	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant P44A
+212	FAD	14	VWWQXMAJTJZDQX-UYBVJOGSSA-N	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant P64R
+214	FAD	14	VWWQXMAJTJZDQX-UYBVJOGSSA-N	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant D72A; pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, wild-type enzyme
+218	FAD	14	VWWQXMAJTJZDQX-UYBVJOGSSA-N	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant E63K; pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant N69K
+223	FAD	14	VWWQXMAJTJZDQX-UYBVJOGSSA-N	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant K73A
+225	FAD	14	VWWQXMAJTJZDQX-UYBVJOGSSA-N	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant V70M
+6	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant A67Q
+39	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant F39A
+62	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant F39A
+63	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant L65A
+87	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant P44A
+108	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant A67L
+139	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant E63K
+143	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant P64R
+155	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	7.0		pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, wild-type enzyme
+164	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant D72A
+165	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant K73A
+168	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant P64Q
+171	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant V70M
+184	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	30	7.0	X	pH 7.0, 30C, flavin turnover in pre-steady-state flavin reduction, mutant N69K
+0.011	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.5	X	pH 7.5, 25C, Tris-HCl buffer, mutant Y143F
+0.02	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.5		pH 7.5, 25C, recombinantly expressed flavocytochrome b2 flavin-binding domain
+0.103	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.5		pH 7.5, 25C, Tris-HCl buffer, wild-type enzyme
+20	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	5	7.0	X	pH 7.0, 5C, phosphate buffer, mutant Y143F
+61	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	30	7.0	X	pH 7.0, 30C, phosphate buffer, mutant Y143F; pH 7.0, 5C, phosphate buffer, wild-type enzyme
+155	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	30	7.0		pH 7.0, 30C, phosphate buffer, wild-type enzyme
+207	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+0.031	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N			X	mutant H373Q, intact protein
+0.057	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N			X	mutant H373Q, using flavin domain only
+0.39	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N			X	Y254L mutant enzyme
+0.42	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N			X	Y254L mutant
+6.1	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N			X	Y254F mutant enzyme
+7.5	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N			X	Y254F mutant
+7.8	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	5	7	X	influence of anions (400 mM KBr) on mutant R289K steady-state kinetic. Reaction conditions: 100 mM phosphate buffer, 1 mM EDTA, pH 7, 5C, 2 mM ferricyanide and variable L-lactate concentration
+8.6	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	5	7	X	mutant R289K steady-state kinetic. Reaction conditions: 100 mM phosphate buffer, 1 mM EDTA, pH 7, 5C, 2 mM ferricyanide and variable L-lactate concentration
+8.8	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	5	7	X	influence of anions (400 mM potassium acetate) on mutant R289K steady-state kinetic. Reaction conditions: 100 mM phosphate buffer, 1 mM EDTA, pH 7, 5C, 2 mM ferricyanide and variable L-lactate concentration
+9.2	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	5	7	X	influence of anions (200 mM phsophate) on mutant R289K steady-state kinetic. Reaction conditions: 100 mM phosphate buffer, 1 mM EDTA, pH 7, 5C, 2 mM ferricyanide and variable L-lactate concentration; influence of anions (400 mM KCl) on mutant R289K steady-state kinetic. Reaction conditions: 100 mM phosphate buffer, 1 mM EDTA, pH 7, 5C, 2 mM ferricyanide and variable L-lactate concentration
+11	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N			X	Y143F mutant with cytochrome c as electron acceptor
+30	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N			X	L230A mutant enzyme
+41	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N			X	A198G/L230A mutant enzyme
+41	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N			X	A198G/L230G mutant enzyme with ferricyanide as electron acceptor
+45	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	5	7		influence of anions (400 mM KBr) on the FDH domain steady-state kinetic. Reaction conditions: 100 mM phosphate buffer, 1 mM EDTA, pH 7, 5C, constant 10 mM ferricyanide and variable L-lactate concentration
+60	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N			X	Y143F mutant enzyme
+60	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	5	7		influence of anions (400 mM KCl) on the FDH domain steady-state kinetic. Reaction conditions: 100 mM phosphate buffer, 1 mM EDTA, pH 7, 5C, constant 10 mM ferricyanide and variable L-lactate concentration
+61	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	5	7		influence of anions (400 mM KBr) on the wild-type steady-state kinetic. Reaction conditions: 100 mM phosphate buffer, 1 mM EDTA, pH 7, 5C, 1.5 mM ferricyanide and variable L-lactate concentration
+71	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	5	7		influence of anions (200 mM phsophate) on the wild-type steady-state kinetic. Reaction conditions: 100 mM phosphate buffer, 1 mM EDTA, pH 7, 5C, 1.5 mM ferricyanide and variable L-lactate concentration
+75	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	5	7		influence of anions (400 mM KCl) on the wild-type steady-state kinetic. Reaction conditions: 100 mM phosphate buffer, 1 mM EDTA, pH 7, 5C, 1.5 mM ferricyanide and variable L-lactate concentration
+86	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	5	7		influence of anions (400 mM potassium acetate) on the FDH domain steady-state kinetic. Reaction conditions: 100 mM phosphate buffer, 1 mM EDTA, pH 7, 5C, constant 10 mM ferricyanide and variable L-lactate concentration
+101	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	5	7		influence of anions (300 mM phsophate) on the FDH domain steady-state kinetic. Reaction conditions: 100 mM phosphate buffer, 1 mM EDTA, pH 7, 5C, constant 10 mM ferricyanide and variable L-lactate concentration
+103	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N				native enzyme with cytochrome c as electron acceptor
+113	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	5	7		influence of anions (400 mM potassium acetate) on the wild-type steady-state kinetic. Reaction conditions: 100 mM phosphate buffer, 1 mM EDTA, pH 7, 5C, 1.5 mM ferricyanide and variable L-lactate concentration
+117	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	5	7		holo-enzyme, reaction conditions: 1 or 2 mM ferricyanide, 100 mM phosphate buffer, 1mM EDTA, pH 7, 5C
+133	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	5	7		FDH domain, reaction conditions: 13 mM ferricyanide, 100 mM phosphate buffer, 1 mM EDTA, pH 7, 5C
+144	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	5	7		stopped-flow kinetic parameters for flavin reduction by L-lactate using holo-enzyme, reaction conditions: 100 mM phosphate buffer, 1 mM EDTA, pH 7, 5C, in the absence of ferrocyanide
+149	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	5	7		stopped-flow kinetic parameters for flavin reduction by L-lactate using FDH domain, reaction conditions: 100 mM phosphate buffer, 1 mM EDTA, pH 7, 5C, in the absence of ferrocyanide
+155	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N				wild type enzyme
+185	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N			X	A198G mutant enzyme
+200	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N				wild-type, using flavin domain only
+214	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	25	7.5		FDH domain, reaction conditions: 13 mM ferricyanide, 10 mM Tris/HCl buffer, 0.1 M NaCl, pH 7.5, 25C
+240	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	25	7.5		FDH domain, reaction conditions: 13 mM ferricyanide, 100 mM phosphate buffer, 1 mM EDTA, pH 7.5, 25C
+259	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	30	7		FDH domain, reaction conditions: 13 mM ferricyanide, 100 mM phosphate buffer, 1 mM EDTA, pH 7, 30C
+270	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N				wild type enzyme
+372	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N				wild-type, intact protein
+400	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N				wild type enzyme
+400	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N			X	native enzyme and Y143F mutant with ferricyanide as electron acceptor
+400	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N				wild type enzyme
+473	L-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N				wild type enzyme
+13.2	(S)-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	25	7.0	X	pH 7.0, 25C, mutant Y254F
+372	(S)-lactate	338	JVTAAEKCZFNVCJ-REOHCLBHSA-N	25	7.0		pH 7.0, 25C, wild type
+0.02	L-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N				wild type enzyme with ferricyanide as electron acceptor
+8.5	L-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N			X	A198G/L230G mutant enzyme with ferricyanide as electron acceptor
+0.29	Phenyllactate	2859	VOXXWSYKYCBWHO-UHFFFAOYSA-N			X	Y254F mutant enzyme
+16.5	Phenyllactate	2859	VOXXWSYKYCBWHO-UHFFFAOYSA-N				wild type enzyme
+0.2	Fluoropyruvate	2448	CXABZTLXNODUTD-UHFFFAOYSA-M			X	Y254F mutant enzyme
+2.8	Fluoropyruvate	2448	CXABZTLXNODUTD-UHFFFAOYSA-M				wild type enzyme

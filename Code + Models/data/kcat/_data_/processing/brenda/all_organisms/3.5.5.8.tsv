@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2	Methacrylonitrile	1873	GYCMBHHDWRMZGG-UHFFFAOYSA-N	27	7.5	X	mutant enzyme R136W, at pH 7.5 and 27C
+2.1	Methacrylonitrile	1873	GYCMBHHDWRMZGG-UHFFFAOYSA-N	27	7.5	X	mutant enzyme R90F, at pH 7.5 and 27C
+57	Methacrylonitrile	1873	GYCMBHHDWRMZGG-UHFFFAOYSA-N	27	7.5		wild type enzyme, at pH 7.5 and 27C

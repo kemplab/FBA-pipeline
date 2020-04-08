@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.04	2-(acetylamino)-2-deoxy-1-O-[hydroxy[(hydroxy[[(2Z,6Z,10Z)-3,7,11,15-tetramethylhexadeca-2,6,10,14-tetraen-1-yl]oxy]phosphoryl)oxy]phosphoryl]-alpha-D-glucopyranose	12074	MCKZOQNLWLVDRX-ADLZVGHSSA-N				apparent Kcat at 600 microM UDP-ManNAc
+0.04	2-(acetylamino)-2-deoxy-1-O-(hydroxy[[hydroxy(tridecyloxy)phosphoryl]oxy]phosphoryl)-alpha-D-glucopyranose	12071	IEAPJLATANWURM-PFAUGDHASA-N				apparent Kcat at 600 microM UDP-ManNAc
+0.52	2-(acetylamino)-2-deoxy-1-O-[hydroxy[(hydroxy[[(2Z,6Z)-3,7,11-trimethyldodeca-2,6,10-trien-1-yl]oxy]phosphoryl)oxy]phosphoryl]-alpha-D-glucopyranose	12073	VEVNGBSTLKKRMK-FLPBYJHQSA-N				apparent Kcat at 600 microM UDP-ManNAc
+0.866	2-(acetylamino)-2-deoxy-1-O-[[[[[(2Z)-3,7-dimethylocta-2,6-dien-1-yl]oxy](hydroxy)phosphoryl]oxy](hydroxy)phosphoryl]-alpha-D-glucopyranose	12072	VDSGDGNIYWZXSO-PFJBDVOYSA-N				apparent Kcat at 600 microM UDP-ManNAc
+6.08	2-(acetylamino)-2-deoxy-1-O-[[[[[(2Z)-3,7-dimethylocta-2,6-dien-1-yl]oxy](hydroxy)phosphoryl]oxy](hydroxy)phosphoryl]-alpha-D-glucopyranose	12072	VDSGDGNIYWZXSO-PFJBDVOYSA-N				apparent Kcat at 600 microM UDP-ManNAc
+8.617	2-(acetylamino)-2-deoxy-1-O-[hydroxy[(hydroxy[[(2Z,6Z,10Z)-3,7,11,15-tetramethylhexadeca-2,6,10,14-tetraen-1-yl]oxy]phosphoryl)oxy]phosphoryl]-alpha-D-glucopyranose	12074	MCKZOQNLWLVDRX-ADLZVGHSSA-N				apparent Kcat at 600 microM UDP-ManNAc
+9.183	2-(acetylamino)-2-deoxy-1-O-(hydroxy[[hydroxy(tridecyloxy)phosphoryl]oxy]phosphoryl)-alpha-D-glucopyranose	12071	IEAPJLATANWURM-PFAUGDHASA-N				apparent Kcat at 600 microM UDP-ManNAc
+10.25	2-(acetylamino)-2-deoxy-1-O-[hydroxy[(hydroxy[[(2E,6E,10E)-3,7,11,15-tetramethylhexadeca-2,6,10,14-tetraen-1-yl]oxy]phosphoryl)oxy]phosphoryl]-alpha-D-glucopyranose	15963	MCKZOQNLWLVDRX-WYBUPIOUSA-N				apparent Kcat at 600 microM UDP-ManNAc
+13.92	2-(acetylamino)-2-deoxy-1-O-[hydroxy[(hydroxy[[(2Z,6Z)-3,7,11-trimethyldodeca-2,6,10-trien-1-yl]oxy]phosphoryl)oxy]phosphoryl]-alpha-D-glucopyranose	12073	VEVNGBSTLKKRMK-FLPBYJHQSA-N				apparent Kcat at 600 microM UDP-ManNAc

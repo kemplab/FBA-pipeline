@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.38	(2E)-butenoyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N	22	7.5		pH 7.5, 22C, recombinant full-length enzyme
+1.3	(2E)-2-decenoyl-CoA	1683	MGNBGCRQQFMNBM-YJHHLLFWSA-N		5	X	mutant enzyme E366A, pH 5
+2.3	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N				
+17.9	(2E)-2-decenoyl-CoA	1683	MGNBGCRQQFMNBM-YJHHLLFWSA-N		8	X	mutant enzyme E366A, pH 8
+22.8	(2E)-hexenoyl-CoA	1142	OINXHIBNZUUIMR-IXUYQXAASA-N				
+26	(2E)-decenoyl-CoA	1683	MGNBGCRQQFMNBM-YJHHLLFWSA-N				
+105	(2E)-2-decenoyl-CoA	1683	MGNBGCRQQFMNBM-YJHHLLFWSA-N		5		wild type enzyme, pH 5
+196	(2E)-2-decenoyl-CoA	1683	MGNBGCRQQFMNBM-YJHHLLFWSA-N		8		wild type enzyme, pH 8
+210	(2E)-hexenoyl-CoA	1142	OINXHIBNZUUIMR-IXUYQXAASA-N	22	7.5		pH 7.5, 22C, recombinant full-length enzyme
+388	(2E)-2-decenoyl-CoA	1683	MGNBGCRQQFMNBM-YJHHLLFWSA-N				recombinant enzyme CtMfe2p(dha+bdelta)
+1100	(2E)-decenoyl-CoA	1683	MGNBGCRQQFMNBM-YJHHLLFWSA-N	22	7.5		pH 7.5, 22C, recombinant full-length enzyme

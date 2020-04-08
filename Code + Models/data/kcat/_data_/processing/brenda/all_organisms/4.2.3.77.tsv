@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.017	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.5		pH 7.5, 30C, presence of Mg2+
+0.02	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25			25C, pH not specified in the publication
+0.04	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	12	7.8		pH 7.8, 12C

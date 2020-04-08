@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0014	P1-5'-O-adenosine-P3-5'-O-adenosine triphosphate	12058	QCICUPZZLIQAPA-UHFFFAOYSA-N		8.9	X	mutant H96G, pH 8.9
+0.02	P1,P3-bis(5'-adenosyl)triphosphate	3168	QCICUPZZLIQAPA-XPWFQUROSA-N	37	6.8		diphosphorylated recombinant enzyme, pH 6.8, 37C
+0.38	P1,P3-bis(5'-adenosyl)triphosphate	3168	QCICUPZZLIQAPA-XPWFQUROSA-N	37	6.8		monophosphorylated recombinant enzyme, pH 6.8, 37C
+0.62	adenosine-5'-phospho-N-methylimidazolide	12057	UVZANRYMUDAXRA-UHFFFAOYSA-O		6.6	X	mutant H96G, pH 6.6
+0.91	adenosine-5'-phosphoimidazolide	7745	ZZVDSVGETAFWNA-ZIUXOXTBSA-N		5.8	X	mutant H96G, pH 5.8
+1.26	adenosine 5'-phosphoramidate	4040	LDEMREUBLBGZBO-KQYNXXCUSA-N	30	6.8		pH 6.8, 30C
+2.74	P1,P3-bis(5'-adenosyl)triphosphate	3168	QCICUPZZLIQAPA-XPWFQUROSA-N	37	6.8		nonphosphorylated recombinant enzyme, pH 6.8, 37C
+3	P1,P3-bis(5'-adenosyl)triphosphate	3168	QCICUPZZLIQAPA-XPWFQUROSA-N	37	6.8		nonphosphorylated recombinant enzyme, pH 6.8, 37C
+3.5	P1-5'-O-adenosine-P3-5'-O-adenosine triphosphate	12058	QCICUPZZLIQAPA-UHFFFAOYSA-N		7.3		wild-type enzyme, pH 7.3
+4.2	adenosine-5'-phospho-N-methylimidazolide	12057	UVZANRYMUDAXRA-UHFFFAOYSA-O		6.6		wild-type enzyme, pH 6.6
+4.4	adenosine-5'-phosphoimidazolide	7745	ZZVDSVGETAFWNA-ZIUXOXTBSA-N		5.8		wild-type enzyme, pH 5.8

@@ -1,0 +1,58 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0004	2'-deoxy-2-fluoro-5'-deoxy-5'-methylthioadenosine	23241	VBZWFEMCJOZUPI-HUKYDQBMSA-N				
+0.004	3'-deoxy-5'-deoxy-5'-methylthioadenosine	23240	KLTQZXHABWFANM-MVKOHCKWSA-N				
+0.04	2'-deoxy-2'-azido-5'-deoxy-5'-methylthioadenosine	23241	VBZWFEMCJOZUPI-HUKYDQBMSA-N				
+0.23	5'-deoxy-5'-pyridin-2-yl-sulfanyladenosine	23247	LYDGCMAAUJUZIN-PMXXHBEXSA-N				
+0.26	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N				pH and temperature not specified in the publication, co-substrate: 0.2 mM 5'-methylthioadenosine
+0.28	2'-deoxy-5'-deoxy-5'-methylthioadenosine	23239	HYLJGASTSTUVMR-XLPZGREQSA-N				
+0.3	5'-deoxy-5'-(4-methylphenyl)-thioadenosine	23257	UYVYUNPSTIWZDD-LSCFUAHRSA-N				
+0.4	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N				pH and temperature not specified in the publication, co-substrate: 50 mM phosphate
+0.51	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.0	X	mutant enzyme M144A, at pH 7.0 and 25C
+0.58	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.0	X	mutant enzyme S167A, at pH 7.0 and 25C; mutant enzyme W179F, at pH 7.0 and 25C
+0.67	5'-deoxy-5'-ethylthioadenosine	3126	HMXHURAGFHWODC-WOUKDFQISA-N				
+0.69	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.0	X	mutant enzyme W179A, at pH 7.0 and 25C
+0.71	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.0	X	mutant enzyme Y134F, at pH 7.0 and 25C
+0.78	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.0	X	mutant enzyme Y134A, at pH 7.0 and 25C
+0.8	5'-deoxy-5'-[4-(trifluoromethyl)phenyl]-thioadenosine	23256	LYTIDKQIRXAXFG-XNIJJKJLSA-N				
+0.85	5'-deoxy-5'-isopentylthioadenosine	23245	CUXKVTIHEHVUNU-SDBHATRESA-N				
+1.01	5'-deoxy-5'-cyclohexyl-thioadenosine	23253	YCKCXPMZAPQBPA-XNIJJKJLSA-N				
+1.3	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.0	X	mutant enzyme R85H, at pH 7.0 and 25C
+1.4	5'-deoxy-5'-(3-methylphenyl)-thioadenosine	23257	UYVYUNPSTIWZDD-LSCFUAHRSA-N				
+1.4	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.0	X	mutant enzyme R85A, at pH 7.0 and 25C
+1.46	5'-deoxy-5'-tert-butylthioadenosine	23244	QUZCYTPZYQVRBV-QYVSTXNMSA-N				
+1.5	5'-deoxy-5'-(4-methoxyphenyl)-thioadenosine	23255	YPBFMIZDPCDUOG-LSCFUAHRSA-N				
+1.5	5'-deoxy-5'-imidazol-2-yl-sulfanyladenosine	23249	RAVZCFVYBJGXAY-WOUKDFQISA-N				
+1.57	5'-deoxy-5'-cyclopentyl-thioadenosine	23254	ZZJZQYJDHAIMJM-SDBHATRESA-N				
+1.8	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.0	X	mutant enzyme A15M, at pH 7.0 and 25C
+2	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N				
+2.13	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	37	7.4		at pH 7.4 and 37C
+2.14	5'-deoxy-5'-(2-(pyridin-2-yl)ethyl)-thioadenosine	23252	SZXHSSHDQHZYAO-LSCFUAHRSA-N				
+2.3	5'-deoxy-5'-butylthioadenosine	23242	YIZBUJZFFMODRY-IDTAVKCVSA-N				
+2.4	5'-deoxy-5'-(2-methylphenyl)-thioadenosine	23258	WMPUQTSDVJBPLH-IWCJZZDYSA-N				
+2.49	5'-deoxy-5'-(phenylmethyl)-thioadenosine	23250	FEUWMZLAKGHCOJ-LSCFUAHRSA-N				
+2.5	5'-deoxy-5'-(phenylethyl)-thioadenosine	23251	FAXRUSMAJVYOCY-SCFUHWHPSA-N				
+2.5	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.0	X	mutant enzyme V34I, at pH 7.0 and 25C
+2.7	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.0	X	mutant enzyme V34A, at pH 7.0 and 25C
+2.9	5'-deoxy-5'-isobutylthioadenosine	7098	JDDUQGRUPLKDNT-IDTAVKCVSA-N				
+3.16	5'-deoxy-5'-phenyl-thioadenosine	13893	QVFVRQNGWNWFTF-XNIJJKJLSA-N				
+3.44	5'-deoxy-5'-(quinolin-2-yl)-sulfanyladenosine	23248	SGSWFEQDPUFITR-BGIGGGFGSA-N				
+3.8	5'-deoxy-5'-(1,3-thiazol)-2-yl-sulfanyladenosine	23335	KTLQJVHQZSXYOD-YEFCAQKCSA-N				
+4.2	5'-deoxy-5'-pyridin-4-yl-sulfanyladenosine	23334	FGCXULVIORNKMS-HGOJYGERSA-N				
+4.6	5'-deoxy-5'-methyl-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N				
+4.8	5'-deoxy-adenosine	734	XGYIMTFOTBMPFP-KQYNXXCUSA-N				
+5.5	5'-deoxy-5'-(2-methylbutyl)-thioadenosine	23246	JKPIENNMIYUJJP-YXYADJKSSA-N				
+5.9	5'-deoxy-5'-hydroxyethylthioadenosine	23243	XECCOMIMOJOGCO-WOUKDFQISA-N				
+6.4	2'-chloro-2'-deoxyadenosine	65889	ADXUXRNLBYKGOA-QYYRPYCUSA-N	37	7.4		at pH 7.4 and 37C
+7.31	guanosine	256	NYHBQMYGNKIUIF-UUOKFMHZSA-N				
+8	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.0	X	mutant enzyme R164A, at pH 7.0 and 25C
+8.4	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	37	7.4		at pH 7.4 and 37C
+8.8	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.0		wild type enzyme, at pH 7.0 and 25C
+9.38	Inosine	154	UGQMRVRMYYASKQ-KQYNXXCUSA-N				
+9.6	deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	37	7.4		at pH 7.4 and 37C
+18.7	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N				
+21.4	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	70	7.4		pH 7.4, 70C
+22.8	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N				
+24.5	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N				
+29.6	guanosine	256	NYHBQMYGNKIUIF-UUOKFMHZSA-N	70	7.4		pH 7.4, 70C
+43.6	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	70	7.4		pH 7.4, 70C
+132	Inosine	154	UGQMRVRMYYASKQ-KQYNXXCUSA-N	70	7.4		pH 7.4, 70C

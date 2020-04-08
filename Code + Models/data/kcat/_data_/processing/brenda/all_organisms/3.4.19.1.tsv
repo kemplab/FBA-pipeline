@@ -1,0 +1,67 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000917	2-aminobenzoyl-Ala-Leu-Phe-Gln-Gly-Pro-Phe(NO2)-Ala	124569	WLMOHTDZTAHVRJ-ZQQZCYKUSA-N	70	7.0	X	pH 7.0, 70C, mutant enzyme D524A
+0.00525	2-aminobenzoyl-Ala-Leu-Phe-Gln-Gly-Pro-Phe(NO2)-Ala	124569	WLMOHTDZTAHVRJ-ZQQZCYKUSA-N	70	7.0	X	pH 7.0, 70C, mutant enzyme D524N
+0.014	acetyl-Ala-4-nitroanilide	11489	ABYZSYDGJGVCHS-ZETCQYMHSA-N	50	8		50C, pH 8
+0.03	acetyl-Met-7-amido-4-methylcoumarin	122509	LCRSOUHHRUJURD-AWEZNQCLSA-N	50	8		50C, pH 8
+0.09	acetyl-Leu-4-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N	15	8		15C, pH 8
+0.49	Ac-Leu-p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N			X	mutant E88A
+0.5	N-acetyl-Leu-p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N	80		X	80C, mutant enzyme R526E
+0.98	puromycin	533	RXWNCPJZOCPEPQ-NVWDDTSBSA-N				
+1.61	Pro-beta-naphthylamide	2316	IEZATIIUZVDELT-AWEZNQCLSA-N				
+1.69	Phe-beta-naphthylamide	5553	QUOLUWPVABJBKU-SFHVURJKSA-N				
+1.7	acetyl-Ala-4-nitroanilide	11489	ABYZSYDGJGVCHS-ZETCQYMHSA-N	15	8		15C, pH 8
+1.85	Tyr-beta-naphthylamide	11902	BZBYYTSHGRKCJJ-SFHVURJKSA-N				
+2	N-acetyl-L-Phe-4-nitroanilide	91253	TZLBBSYDVWOTKB-INIZCTEOSA-N	90	7.5		in 25 mM Tris-HCl buffer pH 7.5, at 90C
+2.04	Ac-Leu-p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N				wild-type
+2.1	Ac-Leu-p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N			X	mutant R18A
+2.14	Ac-Leu-p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N			X	mutant D15A/R18A
+2.21	Ac-Leu-p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N			X	mutant D15A
+2.64	Ac-Leu-p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N			X	mutant DELTAN21
+4.07	Leu-beta-naphthylamide	2293	JWHURRLUBVMKOT-HNNXBMFYSA-N				
+4.28	N-acetyl-Phe-2-naphthylamide	17028	BESVGXGBSFNXCH-FQEVSTJZSA-N	70	7.0		pH 7.0, 70C, wild-type enzyme
+5	N-acetyl-L-alanyl 4-nitroanilide	11489	ABYZSYDGJGVCHS-ZETCQYMHSA-N	80	7.5		pH 7.5, 80C
+5	N-acetyl-L-leucyl 4-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N	80	7.5		pH 7.5, 80C
+5.17	formylmethionine-Leu	13454	QTAUYVXANXTPNC-UWVGGRQHSA-N				
+5.45	N-acetyl-Met-Leu	20158	JTTNTYOGIGHWBA-QWRGUYRKSA-N				
+5.94	formylmethionine-Val	7221	DWZMYBRYTYGZDG-IUCAKERBSA-N				
+6.6	p-nitrophenyl caprylate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	80			80C, wild-type enzyme
+7.74	acetyl-Met-7-amido-4-methylcoumarin	122509	LCRSOUHHRUJURD-AWEZNQCLSA-N	50	8		50C, pH 8
+8	N-acetyl-L-phenylalanyl 4-nitroanilide	91253	TZLBBSYDVWOTKB-INIZCTEOSA-N	90	7.5		pH 7.5, 90C
+8.1	p-nitrophenyl caprylate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	80		X	80C, mutant enzyme R526E
+8.2	2-aminobenzoyl-Ala-Leu-Phe-Gln-Gly-Pro-Phe(NO2)-Ala	124569	WLMOHTDZTAHVRJ-ZQQZCYKUSA-N	70	7.0		pH 7.0, 70C, wild-type enzyme
+8.75	Ac-Leu-p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N			X	mutant E88A/R526V
+8.79	Ala-beta-naphthylamide	3781	RQHPADKWNYTHOH-VIFPVBQESA-N				
+9.2	N-acetyl-Leu-p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N	80		X	80C, mutant enzyme R526I
+9.3	N-acetyl-Leu-p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N	80			80C, wild-type enzyme
+9.4	p-nitrophenyl caprylate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	80		X	80C, mutant enzyme R526K
+9.6	N-acetyl-Leu-p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N	80		X	80C, mutant enzyme R526L
+9.6	p-nitrophenyl caprylate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	80		X	80C, mutant enzyme R526A
+9.7	N-acetyl-Leu-p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N	80		X	80C, mutant enzyme R526V
+10.5	Ac-Leu-p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N			X	mutant R526V, in the presence of 1 M sodium chloride
+10.6	Ac-Leu-p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N				wild-type
+10.9	Ac-Leu-p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N			X	mutant E88A/R526V, in the presence of 1 M sodium chloride
+12.3	formylmethionine-Leu-Phe	5489	PRQROPMIIGLWRP-BZSNNMDCSA-N				
+12.6	N-acetyl-Leu-p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N	80		X	80C, mutant enzyme R526A
+13.4	N-acetyl-Met-Ala	7382	OZKDOJHYOCOSLS-XPUUQOCRSA-N			X	mutant enzyme D562N
+14	N-acetyl-L-alanyl 4-nitroanilide	11489	ABYZSYDGJGVCHS-ZETCQYMHSA-N	90	7.5		pH 7.5, 90C
+15.5	formylmethionine-Leu-Tyr	20490	YWWPFLBIDPYGOS-BZSNNMDCSA-N				
+17.3	N-acetyl-Ala p-nitroanilide	11489	ABYZSYDGJGVCHS-ZETCQYMHSA-N				
+17.5	N-acetyl-L-Ala-4-nitroanilide	11489	ABYZSYDGJGVCHS-ZETCQYMHSA-N	90	7.5		in 25 mM Tris-HCl buffer pH 7.5, at 90C
+18	N-acetyl-L-Leu-4-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N	90	7.5		in 25 mM Tris-HCl buffer pH 7.5, at 90C
+18	N-acetyl-L-leucyl 4-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N	90	7.5		pH 7.5, 90C
+20.8	p-nitrophenyl caprylate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	80		X	80C, mutant enzyme R526I
+26.9	N-acetyl-Leu-p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N	80		X	80C, mutant enzyme R526K
+27.1	N-acetyl-Met-Leu-Phe	20159	XQNLSLSJPSWWEH-FHWLQOOXSA-N				
+28.5	p-nitrophenyl caprylate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	80		X	80C, mutant enzyme R526L
+29	N-acetyl-Met-Ala	7382	OZKDOJHYOCOSLS-XPUUQOCRSA-N				recombinant wild-type enzyme
+30.9	p-nitrophenyl caprylate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	80		X	80C, mutant enzyme R526V
+31.3	formylmethionine-Trp	20492	AAIWVNZNCMTTQF-GJZGRUSLSA-N				
+32.4	Ac-Leu-p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N			X	mutant E88A, in the presence of 1 M sodium chloride
+33	N-acetyl-Met-Ala	7382	OZKDOJHYOCOSLS-XPUUQOCRSA-N				wild-type enzyme
+36.4	Ac-Leu-p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N				wild-type, in the presence of 1 M sodium chloride
+70.2	formylmethionine-Phe	20491	VZQJQFGSAAGNSI-STQMWFEESA-N				
+76.4	formylmethionine-beta-naphthylamide	10621	SJCDRWNGPZQCPN-HNNXBMFYSA-N				
+281	N-acetyl-Ala-Ala-Ala-Ala	8609	YYZJRQOAVRANIE-JBDRJPRFSA-N				
+330	N-acetyl-Leu p-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N				
+461	N-acetyl-Ala-p-nitroanilide	11489	ABYZSYDGJGVCHS-ZETCQYMHSA-N		7.5		pH 7.5
+790	N-acetyl-Ala-Ala	13848	MJZMSEWWBGCBFM-WHFBIAKZSA-N				

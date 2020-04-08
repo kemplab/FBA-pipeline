@@ -1,0 +1,162 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.06	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.6	X	monomeric mutant A178L, pH 7.6, 25C
+0.25	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.6	X	monomeric mutant A178L, pH 7.6, 25C
+0.25	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	30	7.6	X	30C, pH 7.6, mutant enzyme V167G/W168G/K174G/T175G/A176G
+0.6	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.5	X	mutant enzyme K12G, in 30 mM TEA at pH 7.5, at 25C
+0.69	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	mutant K17L/Y46F/D48F/Q82F/D85L, pH 7.4, 25C
+0.8	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.6		monomeric wild-type, pH 7.6, 25C
+1	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.6	X	mutant enzyme E97Q, in TEA buffer (pH 7.6, 100 mM), at 25C
+1.04	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	mutant K17L/Y46F/D48Y/Q82A/D85A, pH 7.4, 25C
+1.7	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	30	7.6	X	30C, pH 7.6, mutant enzyme V167G/W168G/K174G/T175G/A176G
+1.9	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme C14F
+2.2	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.6		monomeric wild-type, pH 7.6, 25C
+4.2	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.6	X	mutant enzyme E165A, in TEA buffer (pH 7.6, 100 mM), at 25C
+4.7	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5	X	mutant enzyme L232A, at pH 7.5 (30 mM triethanolamine), 25C
+6.5	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5	X	mutant enzyme L7RM, in 30 mM triethanolamine buffer at pH 7.5 and 25C
+8	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5	X	mutant enzyme L7RM, in 30 mM triethanolamine buffer at pH 7.5 and 25C
+11	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	mutant E168D, pH 7.4, 25C
+16	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.5	X	mutant enzyme L7RM, in 30 mM triethanolamine buffer at pH 7.5 and 25C
+19	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.6	X	mutant P168A, 25C, pH 7.6
+24	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.5	X	mutant enzyme L7RM, in 30 mM triethanolamine buffer at pH 7.5 and 25C
+50	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	30	7.6	X	30C, pH 7.6, mutant enzyme V167G/W168G
+54	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	30	7.6	X	30C, pH 7.6, mutant enzyme K174G/T175G/A176G
+60	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.6	X	mutant P168A, 25C, pH 7.6
+60	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.4	X	25C, pH 7.4, mutant enzyme C126S
+63	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N			X	mutant enzyme R191A
+67	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N		7.6	X	pH 7.6, mutant enzyme Y74G
+160	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	23	7.6	X	mutant enzyme C126V, in 100 mM triethanolamine-HCl (pH 7.6), at 23C
+180	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N			X	mutant enzyme D227A
+185	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N		7.6	X	pH 7.6, mutant F96H
+190	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	23	7.6	X	mutant enzyme C126M, in 100 mM triethanolamine-HCl (pH 7.6), at 23C
+200	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N			X	mutant enzyme D227N
+220	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.5	X	mutant enzyme L232A, at pH 7.5 (30 mM triethanolamine), 25C
+240	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	30	7.6	X	30C, pH 7.6, mutant enzyme V167G/W168G
+240	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N			X	mutant enzyme R191S
+261	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	30	7.6	X	30C, pH 7.6, mutant enzyme K174G/T175G/A176G
+267	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.4		25C, pH 7.4, dimeric enzyme form
+300	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 100 mM TEA (pH 7.5), at 25C
+300	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 30 mM triethanolamine buffer at pH 7.5 and 25C
+300	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5		wild type enzyme, at pH 7.5 (30 mM triethanolamine), 25C
+327	dihydroxyacetone 3-phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	37	7.5		at pH 7.5 and 37C
+330	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	23	7.6	X	mutant enzyme C126T, in 100 mM triethanolamine-HCl (pH 7.6), at 23C
+340	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 30 mM triethanolamine buffer at pH 7.5 and 25C
+367	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N				
+430	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	30	7.6		30C, pH 7.6, wild-type enzyme
+483	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	73	7.4	X	mutant C14S/A73C, 25C, pH 7.4
+500	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.4		25C, pH 7.4, wild-type enzyme
+500	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.6	X	mutant A178L, pH 7.6, 25C
+600	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N		7.6	X	mutant enzyme C13D, in 100 mM triethanolamine-HCl (pH 7.6), temperature not specified in the publication
+620	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N		7.6	X	pH 7.6, mutant F96S
+645	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.6		wild-type, 25C, pH 7.6
+730	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.8		in 100 mM Tris pH 7.8, at 25C
+750	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	mutant E168D in complex with mutant C15A of Trypanosoma cruzi, pH 7.4, 25C
+750	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	mutant C15A in complex with mutant E168D of Trypanosoma brucei, pH 7.4, 25C
+750	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	23	7.6	X	mutant enzyme C126S, in 100 mM triethanolamine-HCl (pH 7.6), at 23C
+770	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	23	7.6	X	mutant enzyme C126A, in 100 mM triethanolamine-HCl (pH 7.6), at 23C
+800	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.6		wild-type, pH 7.6, 25C
+833	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	in complex with mutant C15A of Trypanosoma cruzi enzyme, after modification by methylmethane thiosulfonate, pH 7.4, 25C
+833	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	mutant C15A in complex with intact monomer from Trypanosoma brucei enzyme, after modification by methylmethane thiosulfonate, pH 7.4, 25C
+1000	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N				recombinant enzyme
+1000	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N				wild-type enzyme
+1080	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N				
+1080	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N				
+1100	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	25C, pH 7.4, mutant enzyme C126S
+1367	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N		7.6	X	mutant enzyme C13E, in 100 mM triethanolamine-HCl (pH 7.6), temperature not specified in the publication
+1470	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.5		wild-type, pH 7.5, 25C
+1570	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.5	X	mutant D213A, pH 7.5, 25C
+1600	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N			X	mutant enzyme S227N
+1666	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N				presence of 2-carboxyethyl methanethiosulfonate
+1830	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.5	X	mutant D213Q, pH 7.5, 25C
+2000	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.5	X	mutant K183S, pH 7.5, 25C
+2100	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.5		wild type enzyme, in 100 mM TEA (pH 7.5), at 25C
+2100	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.5		wild type enzyme, in 30 mM triethanolamine buffer at pH 7.5 and 25C
+2100	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.5		wild type enzyme, at pH 7.5 (30 mM triethanolamine), 25C
+2170	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	in complex with mutant C15A of Trypanosoma cruzi enzyme, pH 7.4, 25C
+2170	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	mutant C15A in complex with intact monomer from Trypanosoma brucei enzyme, pH 7.4, 25C
+2330	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.5	X	mutant K183A, pH 7.5, 25C
+2417	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	74	7.6	X	pH 7.6, mutant enzyme Y74C
+2420	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	74	7.6	X	pH 7.6, mutant enzyme Y74C
+2450	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4		25C, pH 7.4, tetrameric enzyme form
+2466	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N		7.6	X	pH 7.6, mutant F96W
+2500	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N			X	mutant enzymeR191A
+2600	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N			X	mutant enzyme S227A
+2600	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	69	7.4	X	mutant C14S/A69C, 25C, pH 7.4
+2670	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	mutant C15A, pH 7.4, 25C
+2967	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	79	7.4	X	mutant C14S/S79C, 25C, pH 7.4
+3100	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	25C, pH 7.4, mutant enzyme C126A
+3166	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N			X	mutant W162F/W173F/W196F
+3166	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N				presence of methyl methanethiosulfonate
+3200	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	71	7.4	X	mutant C14S/S71C, 25C, pH 7.4
+3200	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.5		wild type enzyme, in 30 mM triethanolamine buffer at pH 7.5 and 25C
+3333	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N			X	mutant W162F
+3372	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4		in 100 mM triethanolamine (pH 7.4), at 25C
+3570	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.6		wild-type, 25C, pH 7.6
+3666	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N			X	mutant W75F/W162F/W173F
+3667	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme C14P
+3670	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme C14P
+3830	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme C14T
+3833	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme C14T
+4000	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N				
+4000	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme C14V
+4000	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N			X	mutant enzyme R191S
+4160	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	mutant K17P/Y46A/D48L/Q82T/D85A, pH 7.4, 25C
+4166	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N			X	mutant W196F
+4170	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N				recombinant enzyme
+4183	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4		wild-type, 25C, pH 7.4
+4300	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	30	7.6		30C, pH 7.6, wild-type enzyme
+4300	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.0		pH 7.0, 25C
+4300	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.6		wild type enzyme, in TEA buffer (pH 7.6, 100 mM), at 25C
+4300	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	23	7.6		wild type enzyme, in 100 mM triethanolamine-HCl (pH 7.6), at 23C
+4330	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+4333	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+4333	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N			X	mutant W75F/W173F/W196F
+4400	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.6		wild-type, pH 7.6, 25C
+4467	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N		7.6		pH 7.6, wild-type enzyme
+4467	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N		7.6		wild type enzyme, in 100 mM triethanolamine-HCl (pH 7.6), temperature not specified in the publication
+4470	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N		7.6		pH 7.6, wild-type enzyme
+4500	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4		wild-type, pH 7.4, 25C
+4500	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4		in 100 mM TEA, 10 mM EDTA, pH 7.4, at 25C
+4600	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	mutant D225Q, pH 7.4, 25C
+4667	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N		7.6	X	pH 7.6, mutant enzyme A238S
+4670	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N		7.6	X	mutant A238S; pH 7.6, mutant enzyme A238S
+4700	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.		25C, pH 7., wild-type enzyme
+4833	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4		25C, pH 7.4, dimeric enzyme form
+5000	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme C14S
+5000	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4		in complex with monomer from Trypanosoma cruzi, pH 7.4, 25C
+5000	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4		in complex with monomer from Trypanosoma brucei, pH 7.4, 25C
+5133	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	mutant C14S, 25C, pH 7.4
+5167	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme C14A
+5167	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4		in 100 mM TEA, 10 mM EDTA, pH 7.4, at 25C
+5170	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme C14A
+5170	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4		wild-type, pH 7.4, 25C
+5300	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.6	X	mutant A178L, pH 7.6, 25C
+5500	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N			X	mutant F12W
+6000	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N				recombinant enzyme
+6000	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N				wild-type enzyme
+6166	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N			X	mutant W173F
+6170	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N				
+6170	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N				
+6400	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4		wild-type, pH 7.4, 25C
+6900	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4		wild-type, pH 7.4, 25C
+7000	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N		7.6		pH 7.6, wild-type enzyme; wild type enzyme
+7020	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.4	X	mutant K17A/Y46A/D48F/Q82A/D85S , pH 7.4, 25C
+7166	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N			X	mutant W75F/W162F/W196F
+7300	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.5		wild type enzyme, in 30 mM TEA at pH 7.5, at 25C
+7666	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N				wildtype
+7666	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N				
+8000	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N			X	mutant W75F
+8670	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N				
+8700	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	37	7.5		at pH 7.5 and 37C
+9000	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N		7.6		pH 7.6, wild-type enzyme
+14670	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.5		wild-type, pH 7.5, 25C
+15670	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.5	X	mutant D213A, pH 7.5, 25C
+16700	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N				
+18330	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.5	X	mutant D213Q, pH 7.5, 25C
+20000	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.5	X	mutant K183S, pH 7.5, 25C
+23330	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	7.5	X	mutant K183A, pH 7.5, 25C
+42330	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N		7.6		pH 7.6, wild-type enzyme
+68330	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	22	7.6		22C, pH 7.6
+1430000	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.0		pH 8.0, 25C
+1548000	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.0		pH 8.0, 25C
+25000000	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	90	8.0		pH 8.0, 90C
+57500000	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	90	8.0		pH 8.0, 90C

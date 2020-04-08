@@ -1,0 +1,3 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.007	GDP-L-fucose	245	LQEBEXMHBLQMDB-JGQUBWHWSA-N	37	7.2		wild type isoform FUT1, in 50 mM Tris-HCl (pH 7.2), at 37C
+0.011	phenyl-beta-D-galactoside	2877	NEZJDVYDSZTRFS-YBXAARCKSA-N	37	7.2	X	isoform FUT1 mutant C35T, in 50 mM Tris-HCl (pH 7.2), at 37C; wild type isoform FUT1, in 50 mM Tris-HCl (pH 7.2), at 37C

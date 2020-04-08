@@ -1,0 +1,23 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+5.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	22	7.0	X	mutant enzyme N134A, in 20 mM N-tris[hydroxymethyl]methyl-3-aminopropanesulfonic acid buffer, pH 7.0, at 22C
+9.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	22	7.0	X	mutant enzyme R133A, in 20 mM N-tris[hydroxymethyl]methyl-3-aminopropanesulfonic acid buffer, pH 7.0, at 22C
+19.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	22	7.0	X	mutant enzyme R225A, in 20 mM N-tris[hydroxymethyl]methyl-3-aminopropanesulfonic acid buffer, pH 7.0, at 22C
+23.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	22	7.0		wild type enzyme, in 20 mM N-tris[hydroxymethyl]methyl-3-aminopropanesulfonic acid buffer, pH 7.0, at 22C
+53.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				flavin reductase P R203A
+62	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				
+69.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				native flavin reductase P
+70	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	7.5		pH 7.5, 37C
+0.3	FAD	14	VWWQXMAJTJZDQX-UYBVJOGSSA-N	25	7.5		pH 7.5, 25C
+51	FAD	14	VWWQXMAJTJZDQX-UYBVJOGSSA-N				
+0.099	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N	25	7.5		pH 7.5, 25C
+1.7	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N	25			25C, enzyme in complex with monooxygenase SsuD, presence of octanesulfonate
+1.9	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N	25			25C, single-enzyme assay
+11.7	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N	23	7.0		enzyme fused to luciferase, at 23C in 50 mM phosphate buffer, pH 7.0
+36	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N				
+37.5	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N	23	7.0		native enzyme, at 23C in 50 mM phosphate buffer, pH 7.0
+45	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N				
+54.38	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N				in the presence of NADPH
+60	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N	37	7.5		pH 7.5, 37C
+6.7	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N				
+0.7	Cibacron Marine	861	IPEOMTUHSPAYSI-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+0.3	oxidized riboflavin	113247	AUNGANRZJHBGPY-MBNYWOFBSA-N	25	7.5		pH 7.5, 25C

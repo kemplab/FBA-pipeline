@@ -1,0 +1,28 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.02	hippuric acid	913	QIAFMBKCNZACKA-UHFFFAOYSA-N	37	5.0		pH 5.0, 37C, recombinant enzyme
+13.6	hippuric acid	913	QIAFMBKCNZACKA-UHFFFAOYSA-N	37	6.0	X	pH 6.0, 37C, [2H2]-hippuric acid, mutant Y318F
+25	hippuric acid	913	QIAFMBKCNZACKA-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C, [2H2]-hippuric acid, wild-type enzyme
+27.6	hippuric acid	913	QIAFMBKCNZACKA-UHFFFAOYSA-N	37	6.0	X	pH 6.0, 37C, [1H2]-hippuric acid, mutant Y318F
+39.1	hippuric acid	913	QIAFMBKCNZACKA-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C, [1H2]-hippuric acid, wild-type enzyme
+0.0035	N-acetyl-Tyr-Val-Gly	3948	INDIDWZWSBZPLL-HOCLYGCPSA-N		7.0	X	purified recombinant mutant Y79W, pH 7.0
+0.09	N-acetyl-Tyr-Val-Gly	3948	INDIDWZWSBZPLL-HOCLYGCPSA-N		5.5	X	purified recombinant mutant Y79W, pH 5.5
+0.53	N-acetyl-Tyr-Val-Gly	3948	INDIDWZWSBZPLL-HOCLYGCPSA-N		7.0		purified recombinant wild-type enzyme, pH 7.0
+0.62	N-acetyl-Tyr-Val-Gly	3948	INDIDWZWSBZPLL-HOCLYGCPSA-N		7.0	X	purified recombinant mutant Q170A, pH 7.0
+14	N-acetyl-Tyr-Val-Gly	3948	INDIDWZWSBZPLL-HOCLYGCPSA-N		5.5	X	purified recombinant mutant Q170A, pH 5.5
+15	N-acetyl-Tyr-Val-Gly	3948	INDIDWZWSBZPLL-HOCLYGCPSA-N		5.5		purified recombinant wild-type enzyme, pH 5.5
+3	N-benzoylglycine	913	QIAFMBKCNZACKA-UHFFFAOYSA-N	15			15C
+14.5	N-benzoylglycine	913	QIAFMBKCNZACKA-UHFFFAOYSA-N	37			37C
+0.13	D-Tyr-Val-Gly	5447	NWEGIYMHTZXVBP-OCCSQVGLSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+0.143	dansyl-Tyr-Val-Gly	6269	VVDJIPURODAIDY-NVQXNPDNSA-N				
+0.983	dansyl-Tyr-Val-Gly	6269	VVDJIPURODAIDY-NVQXNPDNSA-N				
+0.02	acetyl-Tyr-Phe-Gly	8514	KZRQATHIXPBGKD-OALUTQOASA-N				
+0.35	N-dansyl-Tyr-Val-Gly	6269	VVDJIPURODAIDY-NVQXNPDNSA-N	37	6.5		pH 6.5, 37C
+5	N-dansyl-Tyr-Val-Gly	6269	VVDJIPURODAIDY-NVQXNPDNSA-N				
+51	alpha-hydroxyhippuric acid	14217	GCWCVCCEIQXUQU-UHFFFAOYSA-N		6.0		0.4 mM ferrocyanide, 100 mM MES pH 6.0, 30 mM KCl, 1 microM CuSO4
+1.4	N-trinitrophenyl-D-Tyr-Val-Gly	13723	WIHLYNPLPOZMMA-BEFAXECRSA-N	37	6.0		pH 6.0, 37C, recombinant enzyme
+37	HOOC-NH-CH2-COOH	37353	UCWMWNHWCYYDTD-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C, recombinant enzyme
+17	dansyl-Gly-Gly-Ser-CO-NH-CH2-COOH	37354	ZDXDZBJTBPZOPV-HNNXBMFYSA-N	37	6.0		pH 6.0, 37C, recombinant enzyme
+0.08	dansyl-L-Tyr-L-Val-Gly	6269	VVDJIPURODAIDY-NVQXNPDNSA-N	37	5.5	X	mutant enzyme H107A, in100 mM MES pH 5.5, at 37C
+0.11	dansyl-L-Tyr-L-Val-Gly	6269	VVDJIPURODAIDY-NVQXNPDNSA-N	37	5.5	X	mutant enzyme H108A, in100 mM MES pH 5.5, at 37C
+4.6	dansyl-L-Tyr-L-Val-Gly	6269	VVDJIPURODAIDY-NVQXNPDNSA-N	37	5.5	X	mutant enzyme M109I, in100 mM MES pH 5.5, at 37C
+13.8	dansyl-L-Tyr-L-Val-Gly	6269	VVDJIPURODAIDY-NVQXNPDNSA-N	37	5.5		wild type enzyme, in100 mM MES pH 5.5, at 37C

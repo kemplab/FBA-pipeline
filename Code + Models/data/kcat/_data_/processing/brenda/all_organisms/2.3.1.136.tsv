@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.09	propionyl-CoA	297	QAQREVBBADEHPA-IEXPHMLFSA-N			X	mutant NeuO + 36 hepta-nucleotide repeats
+0.51	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				wild-type NeuO
+0.56	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant NeuO + 12 hepta-nucleotide repeats
+1.07	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant NeuO + 24 hepta-nucleotide repeats
+1.16	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant NeuO + 36 hepta-nucleotide repeats
+1.3	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				
+1.85	colominic acid	2880	UDZMRZNTGWTHSB-MTYHGVEASA-N			X	mutant NeuO + 12 hepta-nucleotide repeats
+1.99	colominic acid	2880	UDZMRZNTGWTHSB-MTYHGVEASA-N				wild-type NeuO
+2.1	([Glc-(alpha1-4)-Sia]n)	27093	AVEKSNDXBWRKPZ-AHAZSJHISA-N				
+2.57	colominic acid	2880	UDZMRZNTGWTHSB-MTYHGVEASA-N			X	mutant NeuO + 24 hepta-nucleotide repeats
+3.84	colominic acid	2880	UDZMRZNTGWTHSB-MTYHGVEASA-N			X	mutant NeuO + 36 hepta-nucleotide repeats

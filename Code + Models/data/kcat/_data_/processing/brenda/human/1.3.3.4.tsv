@@ -1,0 +1,24 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00333	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N			X	below 0.2/min, R59W mutant enzyme
+0.04	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		8.2	X	recombinant mutant R59W, pH 8.2
+0.15	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		8.2	X	recombinant mutant R59I, pH 8.2
+0.17	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		8.2	X	recombinant mutant R59S, pH 8.2
+0.175	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N				wild type enzyme
+0.175	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N				
+0.175	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N				
+0.53	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.8	X	recombinant mutant Y348, pH 7.8
+1.02	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N	168	8.2	X	recombinant mutant R168C, pH 8.2
+2.57	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		8.2	X	recombinant mutant R59K, pH 8.2
+3.9	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		8.2	X	recombinant mutant G14A, pH 8.2
+5.95	protoporphyrinogen-IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		8.2		recombinant wild-type enzyme, pH 8.2
+0.0062	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant G169A
+0.0303	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant L166N
+0.05	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4		pH 7.4, temperature not specified in the publication, wild-type enzyme
+0.055	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant R168S
+0.073	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant F331A
+0.128	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant V170T
+0.151	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant F331T
+0.155	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant M368Q
+0.236	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant M368K
+0.853	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant L334V
+1.273	protoporphyrinogen IX	545	UHSGPDMIQQYNAX-UHFFFAOYSA-N		7.4	X	pH 7.4, temperature not specified in the publication, mutant R97G

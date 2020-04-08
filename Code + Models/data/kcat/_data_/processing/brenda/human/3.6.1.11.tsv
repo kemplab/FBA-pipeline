@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.57	(phosphate)3	596	UNXRWKVEANCORM-UHFFFAOYSA-N		7.2	X	H107N mutant, 2 mM Mg2+ as cofactor, 0.1 M Tris-HCl, pH 7.2, 0.05 mM EGTA
+3.4	(phosphate)4	2402	YDHWWBZFRZWVHO-UHFFFAOYSA-H		7.2		2 mM Mg2+ as cofactor, 0.1 M Tris-HCl, pH 7.2, 0.05 mM EGTA
+4.2	(phosphate)3	596	UNXRWKVEANCORM-UHFFFAOYSA-N		7.2	X	H108N mutant, 2 mM Mg2+ as cofactor, 0.1 M Tris-HCl, pH 7.2, 0.05 mM EGTA
+4.6	(phosphate)3	596	UNXRWKVEANCORM-UHFFFAOYSA-N		7.2	X	D106A mutant, 2 mM Mg2+ as cofactor, 0.1 M Tris-HCl, pH 7.2, 0.05 mM EGTA
+7.1	(phosphate)4	2402	YDHWWBZFRZWVHO-UHFFFAOYSA-H		7.2		2 mM Co2+ as cofactor, 0.1 M Tris-HCl, pH 7.2, 0.05 mM EGTA
+13	(phosphate)3	596	UNXRWKVEANCORM-UHFFFAOYSA-N		7.2		2 mM Mg2+ as cofactor, 0.1 M Tris-HCl, pH 7.2, 0.05 mM EGTA
+19	(phosphate)3	596	UNXRWKVEANCORM-UHFFFAOYSA-N		7.2	X	R128H mutant, 2 mM Mg2+ as cofactor, 0.1 M Tris-HCl, pH 7.2, 0.05 mM EGTA
+24	guanosine 5'-tetraphosphate	1332	KDFXXNGTULMGMF-UUOKFMHZSA-N		7.2		2 mM Co2+ as cofactor, 0.1 M Tris-HCl, pH 7.2, 0.05 mM EGTA
+27	guanosine 5'-tetraphosphate	1332	KDFXXNGTULMGMF-UUOKFMHZSA-N		7.2		2 mM Mg2+ as cofactor, 0.1 M Tris-HCl, pH 7.2, 0.05 mM EGTA
+31	adenosine 5'-tetraphosphate	1169	WWMWAMFHUSTZTA-KQYNXXCUSA-N		7.2		2 mM Co2+ as cofactor, 0.1 M Tris-HCl, pH 7.2, 0.05 mM EGTA
+35	(phosphate)3	596	UNXRWKVEANCORM-UHFFFAOYSA-N		7.2		2 mM Co2+ as cofactor, 0.1 M Tris-HCl, pH 7.2, 0.05 mM EGTA
+39	adenosine 5'-tetraphosphate	1169	WWMWAMFHUSTZTA-KQYNXXCUSA-N		7.2		2 mM Mg2+ as cofactor, 0.1 M Tris-HCl, pH 7.2, 0.05 mM EGTA

@@ -1,0 +1,36 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.5		with hydroxypyruvate as substrate, pH 7.5
+2.4	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.5		with glyoxylate as substrate, pH 7.5
+9.09	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.8	X	pH 7.8, temperature not specified in the publication, value determined with the use of a microplate reader, recombinant mutant N174A
+9.56	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.8	X	pH 7.8, temperature not specified in the publication, value determined with the use of a microplate reader, recombinant mutant F231A
+10.7	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	7.6		recombinant enzyme, using succinic semialdehyde as fixed substrate, in 50 mM HEPES (pH 7.6), at 30C; with succinic semialdehyde as substrate, pH 7.6, 30C
+12	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	7.6		recombinant enzyme, using glyoxylate as fixed substrate, in 50 mM HEPES (pH 7.6), at 30C; with glyoxylate as substrate, pH 7.6, 30C
+25.4	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.8	X	pH 7.8, temperature not specified in the publication, value determined with the use of a microplate reader, recombinant mutant D239A
+51.1	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.8	X	pH 7.8, temperature not specified in the publication, value determined with the use of a microplate reader, recombinant mutant T95A
+84.1	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.8		pH 7.8, temperature not specified in the publication, value determined with the use of a microplate reader, recombinant wild-type enzyme
+93.7	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.8	X	pH 7.8, temperature not specified in the publication, value determined with the use of a microplate reader, recombinant mutant S121A
+30000	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	45	6.7		pH 6.7, 45C, substrate glyoxylate, purified recombinant enzyme
+300000	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	45	6.7		with glyoxylate as substrate, pH 6.7, 45C
+4.1	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.5		with hydroxypyruvate as substrate, pH 7.5
+11	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.5		with glyoxylate as substrate, pH 7.5
+22000	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	45	6.7		pH 6.7, 45C, substrate glyoxylate, purified recombinant enzyme
+220000	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	45	6.7		with glyoxylate as substrate, pH 6.7, 45C
+0.0052	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N		7.8	X	pH 7.8, temperature not specified in the publication, value determined with the use of a microplate reader, recombinant mutant K170E
+0.051	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N		7.8	X	pH 7.8, temperature not specified in the publication, value determined with the use of a microplate reader, recombinant mutant K170R
+6.06	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N		7.8	X	pH 7.8, temperature not specified in the publication, value determined with the use of a microplate reader, recombinant mutant N174A
+11	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N		7.8	X	pH 7.8, temperature not specified in the publication, value determined with the use of a microplate reader, recombinant mutant F231A
+22	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N		7.8	X	pH 7.8, temperature not specified in the publication, value determined with the use of a microplate reader, recombinant mutant D239A
+22.5	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	30	7.6		recombinant enzyme, in 50 mM HEPES (pH 7.6), at 30C; with as NADPH as cofactor, pH 7.6, 30C
+27	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	37	7.5		37C, cofactor: NADPH; pH 7.5, 37C, recombinant enzyme, with NADPH
+54.6	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N		7.8		pH 7.8, temperature not specified in the publication, value determined with the use of a microplate reader, recombinant wild-type enzyme
+67	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	37	7.5		37C, cofactor: NADH; pH 7.5, 37C, recombinant enzyme, with NADH
+67.8	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N		7.8	X	pH 7.8, temperature not specified in the publication, value determined with the use of a microplate reader, recombinant mutant T95A
+86.4	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N		7.8	X	pH 7.8, temperature not specified in the publication, value determined with the use of a microplate reader, recombinant mutant S121A
+3407	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N		7.8		pH 7.8, temperature not specified in the publication, value determined with the use of a microplate reader, recombinant wild-type enyzme
+65000	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	45	6.7		pH 6.7, 45C, cofactor NADPH, purified recombinant enzyme
+76000	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	45	6.7		pH 6.7, 45C, cofactor NADH, purified recombinant enzyme
+650000	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	45	6.7		with as NADPH as cofactor, pH 6.7, 45C
+760000	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	45	6.7		with as NADH as cofactor, pH 6.7, 45C
+38	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	37	7.5		37C, cofactor: NAPDH; pH 7.5, 37C, recombinant enzyme, with NADPH
+65	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N	37	7.5		37C, cofactor: NADH; pH 7.5, 37C, recombinant enzyme, with NADH
+17	Succinic semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	30	7.6		recombinant enzyme, in 50 mM HEPES (pH 7.6), at 30C; with as NADPH as cofactor, pH 7.6, 30C

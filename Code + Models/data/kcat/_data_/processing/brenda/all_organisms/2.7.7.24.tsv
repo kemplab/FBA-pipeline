@@ -1,0 +1,26 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.01	[[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl]methyl]phosphonic acid	126605	XRMRHVWWWWFMKR-OVHBTUCOSA-N		7.5		cosubstrate UTP, pH 7.5, temperature not specified in the publication
+0.016	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N		7.5		cosubstrate UTP, pH 7.5, temperature not specified in the publication
+0.06	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0		apparent value, wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37C; wild type enzyme, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37C
+0.098	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	37	8.0		apparent value, wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37C
+0.1	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	37	8.0		wild type enzyme, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37C
+0.14	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37	8.0		apparent value, wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37C; wild type enzyme, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37C
+0.21	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37	8.0	X	apparent value, mutant enzyme Q83D, in 100 mM Tris-HCl, pH 8.0, at 37C; mutant enzyme Q83D, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37C
+0.48	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0	X	apparent value, mutant enzyme Q83S, in 100 mM Tris-HCl, pH 8.0, at 37C; mutant enzyme Q83S, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37C
+0.55	[[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl]methyl]phosphonic acid	126605	XRMRHVWWWWFMKR-OVHBTUCOSA-N		7.5		cosubstrate dTTP, pH 7.5, temperature not specified in the publication
+0.56	dTDP-glucose	705	YSYKRGRSMLTJNL-URARBOGNSA-N				UgpG protein
+1.22	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	37	8.0		apparent value, wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37C; wild type enzyme, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37C
+1.35	dTDP-glucose	705	YSYKRGRSMLTJNL-URARBOGNSA-N				RmlA protein
+1.88	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	8.0		apparent value, wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37C; wild type enzyme, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37C
+2.12	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	8.0		apparent value, wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37C; wild type enzyme, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37C
+2.9	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N				
+3.13	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	8.0	X	mutant enzyme Q83D, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37C
+3.62	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	8.0	X	apparent value, mutant enzyme Q83D, in 100 mM Tris-HCl, pH 8.0, at 37C
+5	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	8.0	X	apparent value, mutant enzyme Q83D, in 100 mM Tris-HCl, pH 8.0, at 37C; mutant enzyme Q83D, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37C
+5.33	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	37	8.0	X	apparent value, mutant enzyme Q83S, in 100 mM Tris-HCl, pH 8.0, at 37C; mutant enzyme Q83S, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37C
+6.33	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	8.0	X	apparent value, mutant enzyme Q83S, in 100 mM Tris-HCl, pH 8.0, at 37C; mutant enzyme Q83S, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37C
+15	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	8.0		wild type enzyme, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37C
+24	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N		7.5		cosubstrate dTTP, pH 7.5, temperature not specified in the publication
+24	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N				wild type enzyme
+30.83	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	8.0		apparent value, wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37C
+41	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	37	8.0		apparent value, wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37C; wild type enzyme, apparent value, with 10 mM glucose-1-phosphate, 5 mM MgCl2, 10 units/ml inorganic pyrophosphatase, in 100 mM Tris-HCl, pH 8.0, at 37C

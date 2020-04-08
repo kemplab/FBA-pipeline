@@ -1,0 +1,67 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+448.9	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0		wild-type, pH 8.0, temperature not specified in the publication
+487.7	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant D397K, pH 8.0, temperature not specified in the publication, presence of 100 mM Na+
+495.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	397	8.0	X	mutant D397C, presence of 2-mercaptoethanol, pH 8.0, temperature not specified in the publication
+501.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	397	8.0	X	mutant D397C, pH 8.0, temperature not specified in the publication
+511.7	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant D397S, pH 8.0, temperature not specified in the publication
+521.9	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant D397K, pH 8.0, temperature not specified in the publication, presence of 100 mM Li+
+544.7	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant D397E, pH 8.0, temperature not specified in the publication
+560.8	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant D397N, pH 8.0, temperature not specified in the publication
+580.2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant D397A, pH 8.0, temperature not specified in the publication, presence of 100 mM Na+
+587.2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0		wild-type, pH 8.0, temperature not specified in the publication, presence of 100 mM Li+
+600.1	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0		wild-type, pH 8.0, temperature not specified in the publication, presence of 100 mM Na+
+603.2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant D397S, pH 8.0, temperature not specified in the publication, presence of 100 mM Li+
+622.2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant D397A, pH 8.0, temperature not specified in the publication
+629.8	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant D397A, pH 8.0, temperature not specified in the publication, presence of 100 mM Li+
+656.6	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	397	8.0	X	mutant D397C, pH 8.0, temperature not specified in the publication, presence of 100 mM Na+
+660.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant D397N, pH 8.0, temperature not specified in the publication, presence of 100 mM Li+
+662.9	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant D397S, pH 8.0, temperature not specified in the publication, presence of 100 mM Na+
+673.7	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant D397E, pH 8.0, temperature not specified in the publication, presence of 100 mM Na+
+681.6	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant D397N, pH 8.0, temperature not specified in the publication, presence of 100 mM Na+
+690.9	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	397	8.0	X	mutant D397C, pH 8.0, temperature not specified in the publication, presence of 100 mM Li+
+694.6	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	397	8.0	X	mutant D397C, presence of 2-mercaptoethanol, pH 8.0, temperature not specified in the publication, presence of 100 mM Na+
+695.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant D397E, pH 8.0, temperature not specified in the publication, presence of 100 mM Li+
+696.7	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	397	8.0	X	mutant D397C, presence of 2-mercaptoethanol, pH 8.0, temperature not specified in the publication, presence of 100 mM Li+
+5199	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant D397K, pH 8.0, temperature not specified in the publication
+200	ubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant G140A, pH 8.0, temperature not specified in the publication
+388	ubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant G141V, pH 8.0, temperature not specified in the publication
+425	ubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant G141A, pH 8.0, temperature not specified in the publication
+463	ubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant G141L, pH 8.0, temperature not specified in the publication
+525	ubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0		wild-type enzyme, pH 8.0, temperature not specified in the publication
+57.7	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant D397S, pH 8.0, temperature not specified in the publication
+58.8	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant D397K, pH 8.0, temperature not specified in the publication, presence of 100 mM Na+
+59.7	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant D397N, pH 8.0, temperature not specified in the publication
+59.8	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant D397K, pH 8.0, temperature not specified in the publication, presence of 100 mM Li+
+61.3	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant D397K, pH 8.0, temperature not specified in the publication
+61.9	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	397	8.0	X	mutant D397C, presence of 2-mercaptoethanol, pH 8.0, temperature not specified in the publication
+65.7	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	397	8.0	X	mutant D397C, pH 8.0, temperature not specified in the publication
+66	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant D397E, pH 8.0, temperature not specified in the publication
+66.3	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0		wild-type, pH 8.0, temperature not specified in the publication
+70.6	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant D397A, pH 8.0, temperature not specified in the publication, presence of 100 mM Na+
+72.3	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant D397A, pH 8.0, temperature not specified in the publication; mutant D397A, pH 8.0, temperature not specified in the publication, presence of 100 mM Li+
+80.7	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant D397S, pH 8.0, temperature not specified in the publication, presence of 100 mM Li+
+95.5	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant D397N, pH 8.0, temperature not specified in the publication, presence of 100 mM Li+
+96.4	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant D397E, pH 8.0, temperature not specified in the publication, presence of 100 mM Li+
+101.3	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant D397S, pH 8.0, temperature not specified in the publication, presence of 100 mM Na+
+102.9	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	397	8.0	X	mutant D397C, pH 8.0, temperature not specified in the publication, presence of 100 mM Li+
+110.6	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	397	8.0	X	mutant D397C, presence of 2-mercaptoethanol, pH 8.0, temperature not specified in the publication, presence of 100 mM Li+
+122.9	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant D397N, pH 8.0, temperature not specified in the publication, presence of 100 mM Na+
+129.6	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant D397E, pH 8.0, temperature not specified in the publication, presence of 100 mM Na+
+152.9	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	397	8.0	X	mutant D397C, pH 8.0, temperature not specified in the publication, presence of 100 mM Na+
+162.2	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	397	8.0	X	mutant D397C, presence of 2-mercaptoethanol, pH 8.0, temperature not specified in the publication, presence of 100 mM Na+
+200	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant G140A, pH 8.0, temperature not specified in the publication; mutant G140L, pH 8.0, temperature not specified in the publication
+205.5	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0		wild-type, pH 8.0, temperature not specified in the publication, presence of 100 mM Li+
+388	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant G141V, pH 8.0, temperature not specified in the publication
+425	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant G141A, pH 8.0, temperature not specified in the publication
+463	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0	X	mutant G141L, pH 8.0, temperature not specified in the publication
+525	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0		wild-type, pH 8.0, temperature not specified in the publication
+528.5	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N		8.0		wild-type, pH 8.0, temperature not specified in the publication, presence of 100 mM Na+
+100	n Li+/in	142	HBBGRARXTFLTSG-UHFFFAOYSA-N		8.0	X	mutant D397N, pH 8.0, temperature not specified in the publication
+110	n Li+/in	142	HBBGRARXTFLTSG-UHFFFAOYSA-N		8.0	X	mutant D397E, pH 8.0, temperature not specified in the publication
+115	n Li+/in	142	HBBGRARXTFLTSG-UHFFFAOYSA-N	397	8.0	X	mutant D397C, presence of 2-mercaptoethanol, pH 8.0, temperature not specified in the publication
+124	n Li+/in	142	HBBGRARXTFLTSG-UHFFFAOYSA-N		8.0	X	mutant D397S, pH 8.0, temperature not specified in the publication
+180	n Li+/in	142	HBBGRARXTFLTSG-UHFFFAOYSA-N		8.0		wild-type, pH 8.0, temperature not specified in the publication
+115	n Na+/in	55	FKNQFGJONOIPTF-UHFFFAOYSA-N		8.0	X	mutant D397S, pH 8.0, temperature not specified in the publication
+127	n Na+/in	55	FKNQFGJONOIPTF-UHFFFAOYSA-N		8.0	X	mutant D397E, pH 8.0, temperature not specified in the publication; mutant D397N, pH 8.0, temperature not specified in the publication
+170	n Na+/in	55	FKNQFGJONOIPTF-UHFFFAOYSA-N	397	8.0	X	mutant D397C, pH 8.0, temperature not specified in the publication; mutant D397C, presence of 2-mercaptoethanol, pH 8.0, temperature not specified in the publication
+500	n Na+/in	55	FKNQFGJONOIPTF-UHFFFAOYSA-N		8.0		wild-type, pH 8.0, temperature not specified in the publication

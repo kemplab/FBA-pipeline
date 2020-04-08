@@ -1,0 +1,29 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.38	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	50	9.0	X	pH 9.0, 50C, recombinant His-tagged mutant T391Y/S394Y
+10.17	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	50	9.0	X	pH 9.0, 50C, recombinant His-tagged mutant T391Y
+10.83	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	50	9.0		pH 9.0, 50C, recombinant His-tagged wild-type enzyme
+10.83	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	50	8.0		pH 8.0, 50C, recombinant wild-type enzyme
+16.2	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	50	8.0	X	pH 8.0, 50C, recombinant mutant S394C
+17.45	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	50	8.0	X	pH 8.0, 50C, recombinant mutant S394T
+18.75	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	50	8.0	X	pH 8.0, 50C, recombinant mutant S394N
+19.67	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	50	8.0	X	pH 8.0, 50C, recombinant mutant S394Y
+0.16	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant T224I/W355Y
+0.32	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant T224I
+1.03	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant W355Y
+2.57	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	50	9.0	X	pH 9.0, 50C, recombinant His-tagged mutant T391Y/S394Y
+3.5	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+5.1	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	30	8.0		in 50 mM Tris-HCl (pH 8.0), 2 mM cobalt chloride at 30C
+14.93	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	50	8.0	X	pH 8.0, 50C, recombinant mutant S394Y
+23.07	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	50	9.0	X	pH 9.0, 50C, recombinant His-tagged mutant T391Y
+31.25	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	50	8.0	X	pH 8.0, 50C, recombinant mutant S394N
+50.68	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	50	8.0	X	pH 8.0, 50C, recombinant mutant S394C
+55.43	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	50	9.0		pH 9.0, 50C, recombinant His-tagged wild-type enzyme
+55.43	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	50	8.0		pH 8.0, 50C, recombinant wild-type enzyme
+62.5	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	50	8.0	X	pH 8.0, 50C, recombinant mutant S394T
+1.83	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+0.15	D-Lysine	1155	KDXKERNSBIXSRK-RXMQYKEDSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant T224I/W355Y
+0.28	D-Lysine	1155	KDXKERNSBIXSRK-RXMQYKEDSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant T224I
+0.88	D-Lysine	1155	KDXKERNSBIXSRK-RXMQYKEDSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant W355Y
+2.16	D-Lysine	1155	KDXKERNSBIXSRK-RXMQYKEDSA-N	30	8.0		in 50 mM Tris-HCl (pH 8.0), 2 mM cobalt chloride at 30C
+2.83	D-Lysine	1155	KDXKERNSBIXSRK-RXMQYKEDSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+1.83	D-ornithine	1863	AHLPHDHHMVZTML-SCSAIBSYSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme

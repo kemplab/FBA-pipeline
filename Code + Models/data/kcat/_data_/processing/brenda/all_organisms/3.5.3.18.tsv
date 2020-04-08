@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0097	S-methyl-L-thiocitrulline	3252	NGVMVBQRKZPFLB-YFKPBYRVSA-N		7.3	X	mutant L271G, pH 7.3, temperature not specified in the publication
+0.03	S-methyl-L-thiocitrulline	3252	NGVMVBQRKZPFLB-YFKPBYRVSA-N		7.3	X	mutant E78AA, pH 7.3, temperature not specified in the publication
+0.042	S-methyl-L-thiocitrulline	3252	NGVMVBQRKZPFLB-YFKPBYRVSA-N		7.3	X	mutant L30A, pH 7.3, temperature not specified in the publication; wild-type, pH 7.3, temperature not specified in the publication
+0.84	S-methyl-L-thiocitrulline	3252	NGVMVBQRKZPFLB-YFKPBYRVSA-N				
+1.3	S-methyl-L-thiocitrulline	3252	NGVMVBQRKZPFLB-YFKPBYRVSA-N		8.0		at pH 8.0
+0.27	NG,NG-dimethyl-L-arginine	4084	YDGMGEXADBMOMJ-LURJTMIESA-N				
+0.56	NG,NG-dimethyl-L-arginine	4084	YDGMGEXADBMOMJ-LURJTMIESA-N				
+1.27	NG,NG-dimethyl-L-arginine	4084	YDGMGEXADBMOMJ-LURJTMIESA-N		8.0		at pH 8.0
+0.0015	Nomega,Nomega-dimethyl-L-arginine	4084	YDGMGEXADBMOMJ-LURJTMIESA-N		7.3	X	mutant E78A, pH 7.3, temperature not specified in the publication
+0.0087	Nomega,Nomega-dimethyl-L-arginine	4084	YDGMGEXADBMOMJ-LURJTMIESA-N		7.3	X	mutant L271G, pH 7.3, temperature not specified in the publication
+0.014	Nomega,Nomega-dimethyl-L-arginine	4084	YDGMGEXADBMOMJ-LURJTMIESA-N		7.3		wild-type, pH 7.3, temperature not specified in the publication
+0.0163	Nomega,Nomega-dimethyl-L-arginine	4084	YDGMGEXADBMOMJ-LURJTMIESA-N		7.3	X	mutant L30A, pH 7.3, temperature not specified in the publication
+0.31	NG-methyl-L-arginine	1693	NTNWOCRCBQPEKQ-YFKPBYRVSA-N				
+0.59	NG-methyl-L-arginine	1693	NTNWOCRCBQPEKQ-YFKPBYRVSA-N		8.0		at pH 8.0
+0.094	NG-monomethyl-L-arginine	1693	NTNWOCRCBQPEKQ-YFKPBYRVSA-N				
+0.34	NG-monomethyl-L-arginine	1693	NTNWOCRCBQPEKQ-YFKPBYRVSA-N				
+0.009	NG,NG-Dimethyl-L-homoarginine	20513	WAQBUEUASOTHPQ-ZETCQYMHSA-N				
+0.12	NG-Amino-L-arginine	7731	NCHSYZVVWKVWFQ-BYPYZUCNSA-N				
+0.33	NG-Hydroxy-L-arginine	1844	FQWRAVYMZULPNK-BYPYZUCNSA-N				

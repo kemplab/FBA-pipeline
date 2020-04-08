@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.02	[4,5-dihydroxy-10-oxo-3-(3-oxobutanoyl)-9,10-dihydroanthracen-2-yl]acetate	108375	YUGKGSBEHZYJDB-UHFFFAOYSA-N	22	7.0	X	pH 7.0, 22C, mutant enzyme N63A; pH 7.0, 22C, mutant enzyme W67F
+0.03	[4,5-dihydroxy-10-oxo-3-(3-oxobutanoyl)-9,10-dihydroanthracen-2-yl]acetate	108375	YUGKGSBEHZYJDB-UHFFFAOYSA-N	22	7.0	X	pH 7.0, 22C, mutant enzyme N18A
+0.3	[4,5-dihydroxy-10-oxo-3-(3-oxobutanoyl)-9,10-dihydroanthracen-2-yl]acetate	108375	YUGKGSBEHZYJDB-UHFFFAOYSA-N	22	7.0	X	pH 7.0, 22C, mutant enzyme H49A; pH 7.0, 22C, mutant enzyme R90E
+1.4	[4,5-dihydroxy-10-oxo-3-(3-oxobutanoyl)-9,10-dihydroanthracen-2-yl]acetate	108375	YUGKGSBEHZYJDB-UHFFFAOYSA-N	22	7.0		pH 7.0, 22C, wild-type enzyme, recombinant enzyme with N-terminal polyhistidine tag
+1.5	[4,5-dihydroxy-10-oxo-3-(3-oxobutanoyl)-9,10-dihydroanthracen-2-yl]acetate	108375	YUGKGSBEHZYJDB-UHFFFAOYSA-N	22	7.0		pH 7.0, 22C, wild-type enzyme, recombinant enzyme construct with a His tag at the C-terminus

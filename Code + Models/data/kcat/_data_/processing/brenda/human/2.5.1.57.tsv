@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.008	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	37		X	mutant enzyme M42L, at 37C
+0.011	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	37			wild type enzyme, at 37C
+0.013	N-acetyl-D-mannosamine 6-phosphate	2852	BRGMHAYQAZFZDJ-OZRXBMAMSA-N	37		X	mutant enzyme M42T, at 37C
+0.016	N-acetyl-D-mannosamine 6-phosphate	2852	BRGMHAYQAZFZDJ-OZRXBMAMSA-N	37		X	mutant enzyme M42L, at 37C
+0.022	N-acetyl-D-mannosamine 6-phosphate	2852	BRGMHAYQAZFZDJ-OZRXBMAMSA-N	37			wild type enzyme, at 37C
+0.67	D-mannose 6-phosphate	564	NBSCHQHZLSJFNQ-QTVWNMPRSA-N	37	7.5		in 50 mM bicine pH 7.5 at 37C
+1.31	N-acetyl-D-mannosamine 6-phosphate	2852	BRGMHAYQAZFZDJ-OZRXBMAMSA-N	37	7.5		in 50 mM bicine pH 7.5 at 37C

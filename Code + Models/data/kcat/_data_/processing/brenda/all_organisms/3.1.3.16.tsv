@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0015	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	8.0	X	mutant enzyme D136Y, with 0.05 mM Mn2+, in 50 mM Tris-HCl (pH 8.0), at 37C
+0.0038	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	8.0	X	mutant enzyme S120R, with 0.05 mM Mn2+, in 50 mM Tris-HCl (pH 8.0), at 37C
+0.014	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	8.0	X	mutant enzyme T101R, with 2 mM Mn2+, in 50 mM Tris-HCl (pH 8.0), at 37C
+0.2	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	8.0		wild type enzyme, with 0.05 mM Mn2+, in 50 mM Tris-HCl (pH 8.0), at 37C
+0.47	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	8.0	X	mutant enzyme S120R, with 2 mM Mn2+, in 50 mM Tris-HCl (pH 8.0), at 37C
+2.33	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	8.0	X	mutant enzyme D136Y, with 2 mM Mn2+, in 50 mM Tris-HCl (pH 8.0), at 37C
+7.4	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		9.5		pH 9.5, recombinant His-tagged enzyme
+13.8	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N				
+20	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	8.0		wild type enzyme, with 2 mM Mn2+, in 50 mM Tris-HCl (pH 8.0), at 37C
+0.1	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		7.8		pH 7.8, H186N
+0.12	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	30	7.8		full-length Ppt1, in 300 mM Tris pH 7.8, 150 mM potassium chloride, 25 mM magnesium chloride, 5 mM dithiothreitol, at 30C
+0.78	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	30	7.8		purified, catalytically active 40 kDa-subunit, in 300 mM Tris pH 7.8, 150 mM potassium chloride, 25 mM magnesium chloride, 5 mM dithiothreitol, at 30C
+3.1	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		7.8		pH 7.8, N75H
+5	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		7.8		pH 7.8, H22N
+490	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		7.8		pH 7.8, H92N
+500	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		7.8		pH 7.8, wild-type Prep 2
+660	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		7.8		pH 7.8, H117N
+1100	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		7.8		pH 7.8, wild-type Prep 1
+2	RRApTVA	7738	SFVAADUTXFBCPT-JUKXBMAYSA-N	30	7.5		30C, pH 7.5, D88N
+170	RRApTVA	7738	SFVAADUTXFBCPT-JUKXBMAYSA-N	30	7.5		30C, pH 7.5, wild-type

@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.14	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	8.0		in 50 mM K2HPO4/NaH2PO4, pH 8.0, at 25C
+0.19	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	8.0		in 50 mM K2HPO4/NaH2PO4, pH 8.0, at 25C
+0.26	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	8.0	X	mutant enzyme R204Q, in 0.1 M potassium phosphate buffer (pH 8.0), at 25C
+8.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	8.0	X	mutant enzyme Y216F, in 0.1 M potassium phosphate buffer (pH 8.0), at 25C
+42	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	8.0		wild type enzyme, in 0.1 M potassium phosphate buffer (pH 8.0), at 25C
+0.26	Urate	570	LEHOTFFKMJEONL-UHFFFAOYSA-N	25	8.0	X	mutant enzyme R204Q, in 0.1 M potassium phosphate buffer (pH 8.0), at 25C; mutant R204Q, pH 8.0, 25C
+1.06	Urate	570	LEHOTFFKMJEONL-UHFFFAOYSA-N	25	8.0		in 50 mM K2HPO4/NaH2PO4, pH 8.0, at 25C
+8.4	Urate	570	LEHOTFFKMJEONL-UHFFFAOYSA-N	25	8.0	X	mutant enzyme Y216F, in 0.1 M potassium phosphate buffer (pH 8.0), at 25C; mutant Y216F, pH 8.0, 25C
+42	Urate	570	LEHOTFFKMJEONL-UHFFFAOYSA-N		8.0		pH 8.0, 1.5 mM NADH as cosubstrate
+42	Urate	570	LEHOTFFKMJEONL-UHFFFAOYSA-N	25	8.0		wild type enzyme, in 0.1 M potassium phosphate buffer (pH 8.0), at 25C; wild-type, pH 8.0, 25C

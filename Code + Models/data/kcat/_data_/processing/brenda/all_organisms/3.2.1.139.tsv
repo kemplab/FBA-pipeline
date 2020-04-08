@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0018	p-nitrophenyl-alpha-D-glucuronopyranoside	23704	RKLPSNNMMFGPOF-SVNGYHJRSA-N				
+0.014	4-nitrophenyl-2-O-(4-O-methyl-alpha-D-glucuronosyl)-beta-D-xylopyranoside	3448	BHTJOQAKCYDASV-PKNYWOILSA-N	37	7.0	X	37C, pH 7.0, mutant enzyme K288A
+0.09	4-nitrophenyl-2-O-(4-O-methyl-alpha-D-glucuronosyl)-beta-D-xylopyranoside	3448	BHTJOQAKCYDASV-PKNYWOILSA-N	37	7.0	X	37C, pH 7.0, mutant enzyme W160A
+0.2	4-nitrophenyl-2-O-(4-O-methyl-alpha-D-glucuronosyl)-beta-D-xylopyranoside	3448	BHTJOQAKCYDASV-PKNYWOILSA-N	37	7.0	X	37C, pH 7.0, mutant enzyme K360A
+0.28	p-nitrophenyl alpha-D-glucuronopyranoside	23704	RKLPSNNMMFGPOF-SVNGYHJRSA-N				
+0.38	4-nitrophenyl-2-O-(4-O-methyl-alpha-D-glucuronosyl)-beta-D-xylopyranoside	3448	BHTJOQAKCYDASV-PKNYWOILSA-N	37	7.0	X	37C, pH 7.0, mutant enzyme W543A
+54.9	aldotetraouronic acid	3670	VFGVDXAJNNRINB-YQRZCQHFSA-N	55			55C
+69.2	aldobiouronic acid	7552	XZGRJCXNJVJWKJ-PBWNGFRESA-N				
+96	aldotriouronic acid	7553	DWUMRQPTCMDVJD-YSZCXDGRSA-N				
+102.5	aldotetraouronic acid	3670	VFGVDXAJNNRINB-YQRZCQHFSA-N				
+127	4-nitrophenyl-2-O-(4-O-methyl-alpha-D-glucuronosyl)-beta-D-xylopyranoside	3448	BHTJOQAKCYDASV-PKNYWOILSA-N	37	7.0	X	37C, pH 7.0, mutant enzyme V210G
+131.9	aldopentaouronic acid	5686	GSDONNJGVQPCJO-CLRLOGFJSA-N				
+143	4-nitrophenyl-2-O-(4-O-methyl-alpha-D-glucuronosyl)-beta-D-xylopyranoside	3448	BHTJOQAKCYDASV-PKNYWOILSA-N	37	7.0		37C, pH 7.0, wild-type enzyme
+220	4-nitrophenyl-2-O-(4-O-methyl-alpha-D-glucuronosyl)-beta-D-xylopyranoside	3448	BHTJOQAKCYDASV-PKNYWOILSA-N	37	7.0	X	37C, pH 7.0, mutant enzyme V210A
+1082	4-O-methyl-beta-D-glucopyranuetaronosyl-(1-&gt;2)-b-D-xylopyranosyl-(1-&gt;4)-beta-D-xylopyranosyl-(1-&gt;4)-beta-D-xylopyranose	7553	DWUMRQPTCMDVJD-YSZCXDGRSA-N	40	6.0		pH 6.0, 40C

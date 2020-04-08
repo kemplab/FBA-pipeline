@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.064	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-4H-1-benzopyran-4-one	131	REFJWTPEDVJJIY-UHFFFAOYSA-N	37	7.5	X	i.e. quercetin, pH 7.5, 37C, mutant enzyme N257G
+0.064	3,4',5,7-tetrahydroxyflavanone	1866	PADQINQHPQKXNL-UHFFFAOYSA-N	37	7.5		i.e. kaempferol, pH 7.5, 37C, wild-type enzyme
+0.064	kaempferol	341	IYRMWMYZSQPJKC-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, recombinant mutant POMT7-M1
+0.064	quercetin	131	REFJWTPEDVJJIY-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type POMT7
+0.07	3,4',5,7-tetrahydroxyflavanone	1866	PADQINQHPQKXNL-UHFFFAOYSA-N	37	7.5	X	i.e. kaempferol, pH 7.5, 37C, mutant enzyme N257G
+0.07	quercetin	131	REFJWTPEDVJJIY-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, recombinant mutant POMT7-M1
+0.071	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-4H-1-benzopyran-4-one	131	REFJWTPEDVJJIY-UHFFFAOYSA-N	37	7.5		i.e. quercetin, pH 7.5, 37C, wild-type enzyme
+0.071	kaempferol	341	IYRMWMYZSQPJKC-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type POMT7

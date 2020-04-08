@@ -1,0 +1,59 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000016	3alpha-hydroxytibolone	5160	YLEUWNOTNJZCBN-CZTKNSHGSA-N	1	7.0		below, pH 7.0, 37, isozymes AKR1C1 and AKR1C3
+0.000016	3beta-hydroxytibolone	4625	YLEUWNOTNJZCBN-XAAPQAIWSA-N	1	7.0		below, pH 7.0, 37, isozyme AKR1C3
+0.00017	allopregnanolone	2821	AURFZBICLPNKBZ-SYBPFIFISA-N	25	7.0		pH 7.0, 25C
+0.00017	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.0		pH 7.0, 25C
+0.0005	3beta-hydroxytibolone	4625	YLEUWNOTNJZCBN-XAAPQAIWSA-N	1	7.0		pH 7.0, 37, isozyme AKR1C1
+0.0018	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	25	7.4		pH 7.4, 25C, recombinant isozyme AKR1C4
+0.0023	4-pregnen-3alpha,20beta-diol	4626	IBMZAHKIAAJREF-MZQZJKNOSA-N	25	7.0		pH 7.0, 25C, isozyme AKR1C3
+0.0025	4-pregnen-3alpha,20beta-diol	4626	IBMZAHKIAAJREF-MZQZJKNOSA-N	25	7.0		pH 7.0, 25C, isozyme AKR1C1
+0.003	5alpha-dihydroprogesterone	1755	XMRPGKVKISIQBV-BJMCWZGWSA-N	25	7.0		pH 7.0, 25C
+0.003	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.0		pH 7.0, 25C
+0.0035	pregn-4-en-3,20-dione	249	RJKFOVLPORLFTN-LEKSSAKUSA-N	37	7.4		pH 7.4, 37C, recombinant wild-type enzyme
+0.0038	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	37	7.0		pH 7.0, 37C, with NAD(P)H
+0.004	(2Z)-2-(5-hydroxy-4,6-dimethyl-2-oxo-1,2-dihydro-3H-indol-3-ylidene)-N,N-di(prop-2-en-1-yl)hydrazinecarbothioamide	109514	SDQLXVZKRIGEKD-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C with NADP+
+0.004	3beta-hydroxytibolone	4625	YLEUWNOTNJZCBN-XAAPQAIWSA-N	1	7.0		pH 7.0, 37, isozyme AKR1C4
+0.004	5alpha-dihydroprogesterone	1755	XMRPGKVKISIQBV-BJMCWZGWSA-N	1			isozyme AKR1C3
+0.007	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	25	7.4		pH 7.4, 25C, recombinant isozyme AKR1C2
+0.00783	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N				
+0.008	3alpha-androstanediol	1491	CBMYJHIOYJEBSB-KHOSGYARSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme
+0.008	5alpha-dihydroprogesterone	1755	XMRPGKVKISIQBV-BJMCWZGWSA-N	25	7.0		pH 7.0, 25C, isozyme AKR1C2
+0.012	3alpha-hydroxytibolone	5160	YLEUWNOTNJZCBN-CZTKNSHGSA-N	1	7.0		pH 7.0, 37, isozyme AKR1C4
+0.015	benzenedihydrodiol	3607	YDRSQRPHLBEPTP-OLQVQODUSA-N	25	7.4		pH 7.4, 25C, recombinant isozyme AKR1C3
+0.016	3beta-hydroxytibolone	4625	YLEUWNOTNJZCBN-XAAPQAIWSA-N	1	7.0		pH 7.0, 37, isozyme AKR1C1
+0.0167	(2Z)-2-(5-hydroxy-4,6-dimethyl-2-oxo-1,2-dihydro-3H-indol-3-ylidene)-N,N-di(prop-2-en-1-yl)hydrazinecarbothioamide	109514	SDQLXVZKRIGEKD-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C with NAD+
+0.0167	5beta-dihydroprogesterone	1539	XMRPGKVKISIQBV-XWOJZHJZSA-N	37	7.0		pH 7.0, 37C
+0.0167	stanolone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N				
+0.018	5beta-dihydroprogesterone	1539	XMRPGKVKISIQBV-XWOJZHJZSA-N	25	7.0		pH 7.0, 25C, isozyme AKR1C2
+0.02	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	1			isozyme AKR1C2
+0.02	benzenedihydrodiol	3607	YDRSQRPHLBEPTP-OLQVQODUSA-N	25	7.4		pH 7.4, 25C, recombinant isozyme AKR1C2
+0.03	benzenedihydrodiol	3607	YDRSQRPHLBEPTP-OLQVQODUSA-N	25	7.4		pH 7.4, 25C, recombinant isozyme AKR1C4
+0.033	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme
+0.0392	pregn-4-en-3,20-dione	249	RJKFOVLPORLFTN-LEKSSAKUSA-N	37	7.4	X	pH 7.4, 37C, recombinant mutant V54L
+0.0398	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N				detection fluorometrically
+0.04	5alpha-dihydroprogesterone	1755	XMRPGKVKISIQBV-BJMCWZGWSA-N	25	7.0		pH 7.0, 25C, isozyme AKR1C1
+0.046	4-pregnen-3alpha,20beta-diol	4626	IBMZAHKIAAJREF-MZQZJKNOSA-N	25	7.0		pH 7.0, 25C, isozyme AKR1C2
+0.05	5beta-dihydroprogesterone	1539	XMRPGKVKISIQBV-XWOJZHJZSA-N	25	7.0		pH 7.0, 25C, isozyme AKR1C1
+0.05	benzenedihydrodiol	3607	YDRSQRPHLBEPTP-OLQVQODUSA-N	25	7.4		pH 7.4, 25C, recombinant isozyme AKR1C1
+0.0612	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	37	7.4		pH 7.4, 37C, recombinant wild-type enzyme
+0.0735	4-pregnen-3alpha,20beta-diol	4626	IBMZAHKIAAJREF-MZQZJKNOSA-N	25	7.0		pH 7.0, 25C, isozyme AKR1C4
+0.0757	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N				
+0.09	1-Indanol	2270	YIAPLDFPUUJILH-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, recombinant isozyme AKR1C3
+0.0965	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N				detection spectrophotometrically
+0.114	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N				detection radiometrically
+0.1153	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	37	7.4	X	pH 7.4, 37C, recombinant mutant V54L
+0.13	1-Acenaphthenol	1961	MXUCIEHYJYRTLT-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, recombinant isozyme AKR1C4
+0.133	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N				
+0.14	oxidized 8-acetyl-2,3,5,6-tetrahydro-1H,4H-11-oxa-3a-azabenzo[de]anthracen-10-one	23122	XQARIKRDYJHYTM-UHFFFAOYSA-N	1			isozyme AKR1C3
+0.158	1-Indanol	2270	YIAPLDFPUUJILH-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, recombinant isozyme AKR1C4
+0.163	1-Indanol	2270	YIAPLDFPUUJILH-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, recombinant isozyme AKR1C2
+0.203	(2Z)-2-(5-hydroxy-4,6-dimethyl-2-oxo-1,2-dihydro-3H-indol-3-ylidene)-N,N-di(prop-2-en-1-yl)hydrazinecarbothioamide	109514	SDQLXVZKRIGEKD-UHFFFAOYSA-N				detection spectrophotometrically
+0.21	1-Indanol	2270	YIAPLDFPUUJILH-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, recombinant isozyme AKR1C1
+0.32	(2Z)-2-(5-hydroxy-4,6-dimethyl-2-oxo-1,2-dihydro-3H-indol-3-ylidene)-N,N-di(prop-2-en-1-yl)hydrazinecarbothioamide	109514	SDQLXVZKRIGEKD-UHFFFAOYSA-N				detection radiometrically
+0.42	1-Acenaphthenol	1961	MXUCIEHYJYRTLT-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, recombinant isozyme AKR1C3
+0.49	1-Acenaphthenol	1961	MXUCIEHYJYRTLT-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, recombinant isozyme AKR1C1
+0.507	(2Z)-2-(5-hydroxy-4,6-dimethyl-2-oxo-1,2-dihydro-3H-indol-3-ylidene)-N,N-di(prop-2-en-1-yl)hydrazinecarbothioamide	109514	SDQLXVZKRIGEKD-UHFFFAOYSA-N				detection fluorometrically
+0.59	1-Acenaphthenol	1961	MXUCIEHYJYRTLT-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, recombinant isozyme AKR1C2
+1.08	4-Nitrobenzaldehyde	612	BXRFQSNOROATLV-UHFFFAOYSA-N				
+1.9	androstanedione	3896	RAJWOBJTTGJROA-RNQTWYFASA-N				detection spectrophotometrically
+18.9	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N				

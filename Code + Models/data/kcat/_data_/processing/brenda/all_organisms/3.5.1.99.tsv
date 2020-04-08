@@ -1,0 +1,40 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00026	oleamide	1890	FATBGEAMYMYZAF-KTKRTIGZSA-N		9.0	X	pH 9.0, mutant enzyme K142A
+0.00064	oleamide	1890	FATBGEAMYMYZAF-KTKRTIGZSA-N		9.0	X	pH 9.0, mutant enzyme K142E
+0.0022	oleamide	1890	FATBGEAMYMYZAF-KTKRTIGZSA-N		9.0	X	pH 9.0, mutant enzyme S217A, FAAH protein lacking its N-terminal 39 amino acids is used. This modification removes the predicted N-terminal transmembrane domain of FAAH, the deletion of which is previously found to leave catalytic properties of FAAH unaltered, while at the same time facilitating the purification
+0.055	oleamide	1890	FATBGEAMYMYZAF-KTKRTIGZSA-N		9.0	X	pH 9.0, mutant enzyme S218A, FAAH protein lacking its N-terminal 39 amino acids is used. This modification removes the predicted N-terminal transmembrane domain of FAAH, the deletion of which is previously found to leave catalytic properties of FAAH unaltered, while at the same time facilitating the purification
+3.3	oleamide	1890	FATBGEAMYMYZAF-KTKRTIGZSA-N		9.0		pH 9.0, recombinantly expressed FAAH protein lacking the N-terminal transmembrane domain
+4.4	oleamide	1890	FATBGEAMYMYZAF-KTKRTIGZSA-N		9.0	X	pH 9.0, mutant enzyme H358A, FAAH protein lacking its N-terminal 39 amino acids is used. This modification removes the predicted N-terminal transmembrane domain of FAAH, the deletion of which is previously found to leave catalytic properties of FAAH unaltered, while at the same time facilitating the purification
+5.2	oleamide	1890	FATBGEAMYMYZAF-KTKRTIGZSA-N		9.0		pH 9.0, wild-type enzyme, FAAH protein lacking its N-terminal 39 amino acids is used. This modification removes the predicted N-terminal transmembrane domain of FAAH, the deletion of which is previously found to leave catalytic properties of FAAH unaltered, while at the same time facilitating the purification
+7.1	oleamide	1890	FATBGEAMYMYZAF-KTKRTIGZSA-N		9.0		pH 9.0, recombinantly expressed wild-type enzyme
+7.7	oleamide	1890	FATBGEAMYMYZAF-KTKRTIGZSA-N		9.0	X	pH 9.0, mutant enzyme H449A, FAAH protein lacking its N-terminal 39 amino acids is used. This modification removes the predicted N-terminal transmembrane domain of FAAH, the deletion of which is previously found to leave catalytic properties of FAAH unaltered, while at the same time facilitating the purification
+9	oleamide	1890	FATBGEAMYMYZAF-KTKRTIGZSA-N		9.0		pH 9.0, wild-type enzyme
+20	oleamide	1890	FATBGEAMYMYZAF-KTKRTIGZSA-N		9.0	X	pH 9.0, mutant enzyme H184Q, FAAH protein lacking its N-terminal 39 amino acids is used. This modification removes the predicted N-terminal transmembrane domain of FAAH, the deletion of which is previously found to leave catalytic properties of FAAH unaltered, while at the same time facilitating the purification
+0.00052	oleoyl p-nitroanilide	3091	OOSIQKKJJPMJSR-KTKRTIGZSA-N		9.0	X	pH 9.0, mutant enzyme K142E
+0.15	oleoyl p-nitroanilide	3091	OOSIQKKJJPMJSR-KTKRTIGZSA-N		9.0	X	pH 9.0, mutant enzyme K142A
+0.21	oleoyl p-nitroanilide	3091	OOSIQKKJJPMJSR-KTKRTIGZSA-N		9.0	X	pH 9.0, mutant enzyme A487V; pH 9.0, mutant enzyme T488A
+0.22	oleoyl p-nitroanilide	3091	OOSIQKKJJPMJSR-KTKRTIGZSA-N		9.0	X	pH 9.0, mutant enzyme I491A
+0.25	oleoyl p-nitroanilide	3091	OOSIQKKJJPMJSR-KTKRTIGZSA-N		9.0	X	pH 9.0, mutant enzyme G489A
+0.27	oleoyl p-nitroanilide	3091	OOSIQKKJJPMJSR-KTKRTIGZSA-N		9.0		pH 9.0, wild-type enzyme
+2.8	oleoyl p-nitroanilide	3091	OOSIQKKJJPMJSR-KTKRTIGZSA-N		9.0		pH 9.0, wild-type enzyme
+0.2	nonanoyl p-nitroanilide	4727	CUBPKHZZKBCUMJ-UHFFFAOYSA-N		9.0	X	pH 9.0, mutant enzyme G489A
+0.51	nonanoyl p-nitroanilide	4727	CUBPKHZZKBCUMJ-UHFFFAOYSA-N		9.0	X	pH 9.0, mutant enzyme T488A
+0.58	nonanoyl p-nitroanilide	4727	CUBPKHZZKBCUMJ-UHFFFAOYSA-N		9.0	X	pH 9.0, mutant enzyme I491A
+0.6	nonanoyl p-nitroanilide	4727	CUBPKHZZKBCUMJ-UHFFFAOYSA-N		9.0	X	pH 9.0, mutant enzyme A487V; pH 9.0, wild-type enzyme
+0.13	myristoyl p-nitroanilide	4728	LATCBUVVQWJXSM-UHFFFAOYSA-N		9.0	X	pH 9.0, mutant enzyme A487V
+0.14	myristoyl p-nitroanilide	4728	LATCBUVVQWJXSM-UHFFFAOYSA-N		9.0	X	pH 9.0, mutant enzyme G489A
+0.19	myristoyl p-nitroanilide	4728	LATCBUVVQWJXSM-UHFFFAOYSA-N		9.0	X	pH 9.0, mutant enzyme T488A
+0.21	myristoyl p-nitroanilide	4728	LATCBUVVQWJXSM-UHFFFAOYSA-N		9.0	X	pH 9.0, mutant enzyme I491A
+0.29	myristoyl p-nitroanilide	4728	LATCBUVVQWJXSM-UHFFFAOYSA-N		9.0		pH 9.0, wild-type enzyme
+0.0002	oleoyl methyl ester	6833	QYDYPVFESGNLHU-KHPPLWFESA-N		9.0	X	pH 9.0, mutant enzyme K142E
+0.012	oleoyl methyl ester	6833	QYDYPVFESGNLHU-KHPPLWFESA-N		9.0	X	pH 9.0, mutant enzyme K142A
+0.17	oleoyl methyl ester	6833	QYDYPVFESGNLHU-KHPPLWFESA-N		9.0		pH 9.0, wild-type enzyme
+0.0001	oleoyl methyl amide	9638	NJNFUPWMCKHLRE-KHPPLWFESA-N		9.0	X	pH 9.0, mutant enzyme K142A
+0.00031	oleoyl methyl amide	9638	NJNFUPWMCKHLRE-KHPPLWFESA-N		9.0	X	pH 9.0, mutant enzyme K142E
+1.9	oleoyl methyl amide	9638	NJNFUPWMCKHLRE-KHPPLWFESA-N		9.0		pH 9.0, wild-type enzyme
+0.46	heptanoyl p-nitroanilide	25869	FFZPWEDIBTVITD-UHFFFAOYSA-N		9.0		pH 9.0, wild-type enzyme
+0.73	octanoyl p-nitroanilide	25870	FBNGMQQIKKKFHC-UHFFFAOYSA-N		9.0		pH 9.0, wild-type enzyme
+0.56	decanoyl p-nitroanilide	25871	OYQMGBPTCMSMAD-UHFFFAOYSA-N		9.0		pH 9.0, wild-type enzyme
+0.46	lauroyl p-nitroanilide	25872	YSEDMNPEWLNVGY-UHFFFAOYSA-N		9.0		pH 9.0, wild-type enzyme
+0.27	palmitoyl p-nitroanilide	25873	OHXRDBCKXJJRSR-UHFFFAOYSA-N		9.0		pH 9.0, wild-type enzyme
+0.48	arachidonoyl p-nitroanilide	25874	PBMVYDNBOIVHBO-DOFZRALJSA-N		9.0		pH 9.0, wild-type enzyme

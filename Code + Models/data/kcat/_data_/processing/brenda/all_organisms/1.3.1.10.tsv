@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+130.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.8		wild type enzyme, at 25C, in 100 mM Na2HPO4 buffer (pH 7.8)
+0.038	crotonyl-[acyl-carrier protein]	2730	WFSFWDFCBNAVCF-SNAWJCMRSA-N			X	mutant enzyme Y147F, pH and temperature not specified in the publication; mutant enzyme Y147H, pH and temperature not specified in the publication
+0.51	crotonyl-[acyl-carrier protein]	2730	WFSFWDFCBNAVCF-SNAWJCMRSA-N				wild type enzyme, pH and temperature not specified in the publication
+1.5	Crotonyl-N-acetyl-cysteamine	7153	NPCILKSVBCGAGM-ONEGZZNKSA-N	25	7.8		wild type enzyme, at 25C, in 100 mM Na2HPO4 buffer (pH 7.8)
+18.4	dodecenoyl-[Staphylococcus aureus acyl carrier protein]	8001	WGJLJERKNKLSNV-OUKQBFOZSA-N	25	7.8	X	mutant enzyme A95V, at 25C, in 100 mM Na2HPO4 buffer (pH 7.8)
+130.2	dodecenoyl-[Staphylococcus aureus acyl carrier protein]	8001	WGJLJERKNKLSNV-OUKQBFOZSA-N	25	7.8		wild type enzyme, at 25C, in 100 mM Na2HPO4 buffer (pH 7.8)
+157.3	dodecenoyl-[Staphylococcus aureus acyl carrier protein]	8001	WGJLJERKNKLSNV-OUKQBFOZSA-N	25	7.8	X	mutant enzyme F204S, at 25C, in 100 mM Na2HPO4 buffer (pH 7.8)
+18	dodec-2-enoyl-CoA	9274	IRFYVBULXZMEDE-DTXHLIIXSA-L	25	7.8		wild type enzyme, at 25C, in 100 mM Na2HPO4 buffer (pH 7.8)
+11.6	crotonyl-[Staphylococcus aureus acyl carrier protein]	4203	ODQWVFVYZCRFJG-SNAWJCMRSA-N	25	7.8		wild type enzyme, at 25C, in 100 mM Na2HPO4 buffer (pH 7.8)
+30.4	dodecenoyl-N-acetyl-cysteamine	25417	XYELRDJHYIBKBA-VAWYXSNFSA-N	25	7.8		wild type enzyme, at 25C, in 100 mM Na2HPO4 buffer (pH 7.8)

@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.009	Galbeta(1,3)GlcNAc-(CH2)3-NHCO-(CH2)5-NH-biotin	11176	FLUMFXWMGPMKRG-CWYDIIEISA-N				enzyme expressed in Sf9 cells
+0.1	Gal-beta-1,3GlcNAcO(CH2)3NHCO(CH2)5NH-biotin	5772	IOGFYVKKXYYAPL-YTVNPTHBSA-N		7.0		at pH 7.0 and absence of Mn2+
+0.2	Gal-beta-1,3GlcNAcO(CH2)3NHCO(CH2)5NH-biotin	5772	IOGFYVKKXYYAPL-YTVNPTHBSA-N		4.7		at pH 4.7 and presence of Mn2+; at pH 7.0 and presence of Mn2+
+0.3	Gal-beta-1,3GlcNAcO(CH2)3NHCO(CH2)5NH-biotin	5772	IOGFYVKKXYYAPL-YTVNPTHBSA-N		4.7		at pH 4.7 and absence of Mn2+
+0.4	Galbeta(1,3)GlcNAc-(CH2)3-NHCO-(CH2)5-NH-biotin	11176	FLUMFXWMGPMKRG-CWYDIIEISA-N				enzyme expressed in Trichoplusia ni
+3.02	Fucalpha(1,2)Galbeta(1,3)GlcNAc	6445	MGSDFCKWGHNUSM-QVPNGJTFSA-N			X	fucosyltransferase III mutant enzyme D336A
+8.02	Fucalpha(1,2)Galbeta(1,3)GlcNAc	6445	MGSDFCKWGHNUSM-QVPNGJTFSA-N				fucosyltransferase III

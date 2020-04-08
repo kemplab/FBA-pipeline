@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+9.6	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				electron acceptor: O2
+15.5	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	6.0	X	pH 6.0, 25C, mutant V265A
+16	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				electron acceptor: O2
+17.9	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				electron acceptor: 2,6-dichlorophenolindophenol
+26	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				electron acceptor: 2,6-dichlorophenolindophenol

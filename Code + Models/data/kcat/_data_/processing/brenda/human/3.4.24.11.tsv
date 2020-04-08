@@ -1,0 +1,23 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0551	angiotensin I	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N	37	7.4		37C, pH 7.4
+0.68	endothelin-1	5084	ZUBDGKVDJUIMQQ-UHFFFAOYSA-N				wild-type enzyme, pH and temperature not specified in the publication
+0.767	gastrin G-17	4606	ONBHLCUYURAANP-CHLXADDNSA-N				sulfated
+1.07	gastrin G-17	4606	ONBHLCUYURAANP-CHLXADDNSA-N				unsulfated
+2.8	Arg-vasopressin	16726	KBZOIRJILGZLEJ-LGYYRGKSSA-N				wild-type enzyme, pH and temperature not specified in the publication
+4.5	glucagon	1056	XXIRCCLYZCEEOA-DJYOUOFASA-N				wild-type enzyme, pH and temperature not specified in the publication
+4.8	gamma-endorphin	30907	GASYAMBJHBRTOE-UHFFFAOYSA-N				wild-type enzyme, pH and temperature not specified in the publication
+8.2	angiotensin	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N				wild-type enzyme, pH and temperature not specified in the publication
+8.9	alpha-endorphin	68273	NXSIJWJXMWBCBX-NWKQFZAZSA-N				wild-type enzyme, pH and temperature not specified in the publication
+9.1	somatostatin 28	7256	GGYTXJNZMFRSLX-DFTNLTQTSA-N				wild-type enzyme, pH and temperature not specified in the publication
+11	nociceptin	127212	PULGYDLMFSFVBL-UHFFFAOYSA-N				wild-type enzyme, pH and temperature not specified in the publication
+13	neurotensin	1629	PCJGZPGTCUMMOT-ISULXFBGSA-N				wild-type enzyme, pH and temperature not specified in the publication
+16	bradykinin	387	QXZGBUJJYSLZLT-FDISYFBBSA-N				wild-type enzyme, pH and temperature not specified in the publication
+17	Neurokinin A	6207	HEAUFJZALFKPBA-UHFFFAOYSA-N				wild-type enzyme, pH and temperature not specified in the publication
+18	Substance P	957	XHWDVRRNQHMAPE-CUZNLEPHSA-N				wild-type enzyme, pH and temperature not specified in the publication
+20	neurokinin B	3875	NHXYSAFTNPANFK-HDMCBQFHSA-N				wild-type enzyme, pH and temperature not specified in the publication
+24.6	unsulfated cholecystokinin octapeptide	2494	PUZFEBZBSNCBNS-YRVFCXMDSA-N				
+26	gastri-releasing peptide	127213	BNEIPTFKHBHJBM-XKNFJVFFSA-N				wild-type enzyme, pH and temperature not specified in the publication
+31.1	sulfated cholecystokinin octapeptide	13869	OIXQINQYMGNCII-YRVFCXMDSA-N				
+32	somatostatin 14	4904	NHXLMOGPVYXJNR-UHFFFAOYSA-N				wild-type enzyme, pH and temperature not specified in the publication
+40	angiotensin II	537	CZGUSIXMZVURDU-JZXHSEFVSA-N	37	7.4		37C, pH 7.4
+41.8	angiotensin(1-9)	112018	LJXGOQOPNPFXFT-JWRYNVNRSA-N	37	7.4		37C, pH 7.4

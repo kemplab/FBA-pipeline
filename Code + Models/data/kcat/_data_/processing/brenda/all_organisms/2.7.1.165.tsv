@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	22	7.5		pH 7.5, 22C
+3.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+28.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0		in 100 mM HEPES/KOH, pH 7.0, at 37C; pH 6.5, 80C, Michaelis&acirc;Menten equation
+35.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	80	6.5		pH 6.5, 80C, substrate-inhibition model
+500.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+3.6	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N				
+24.5	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	37	7.0		in 100 mM HEPES/KOH, pH 7.0, at 37C; pH 6.5, 80C, Hill equation
+533.3	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	80	6.5		pH 6.5, 80C, kinetic model
+489.2	glycerate	1287	RBNPOMFGQQGHHO-UHFFFAOYSA-N				
+2.5	(R)-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	22	7.5		pH 7.5, 22C
+360	(R)-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	45	7.0		the reaction mixture contains 1 mM (R)-glycerate, 1 mM ATP, 10 mM MgCl2, 0.3 mM NADH, 1 mM phosphoenolpyruvate, 10 nM purified glycerate kinase, 3.5 units pyruvate kinase and 5 units lactate dehydrogenase in 50 mM potassium phosphate (pH 7.0), at 45C

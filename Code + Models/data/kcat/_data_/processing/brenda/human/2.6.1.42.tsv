@@ -1,0 +1,57 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+250	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N			X	mutant enzyme C315A
+270	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N			X	mutant enzyme C315A/C318A
+340	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N				wild type enzyme
+360	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N			X	mutant enzyme C318A
+50.1	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N			X	mutant enzyme C315A/C318A
+52	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N			X	mutant enzyme C315A
+141	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	7.8	X	mutant enzyme C335S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+208	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	7.8	X	mutant enzyme C335S/C338S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+265	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N			X	mutant enzyme C318A
+290	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				wild type enzyme
+403	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	7.8	X	mutant enzyme C221S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+517	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	7.8	X	mutant enzyme C242S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+741	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	7.8	X	mutant enzyme C338S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+1035	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	7.8	X	mutant enzyme C293S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+1075	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	7.8		wild type enzyme, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+1157	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	7.8	X	mutant enzyme C235S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+16	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	25	7.4		TAT-peptide fusion protein, pH 7.4, 25C
+42	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	25	7.4		wild-type, pH 7.4, 25C
+17	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	25	7.4		TAT-peptide fusion protein, pH 7.4, 25C
+50	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	25	7.4		wild-type, pH 7.4, 25C
+60.8	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N			X	mutant enzyme C315A/C318A
+65	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N			X	mutant enzyme C315A
+213	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.8	X	mutant enzyme C335S/C338S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+253	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.8	X	mutant enzyme C335S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+286	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.8	X	mutant enzyme C221S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+310	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N			X	mutant enzyme C318A
+337	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N				wild type enzyme
+430	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.8	X	mutant enzyme C338S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+651	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.8	X	mutant enzyme C242S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+756	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.8	X	mutant enzyme C235S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+803	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.8	X	mutant enzyme C293S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+898	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	37	7.8		wild type enzyme, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+170	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.8	X	mutant enzyme C335S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+188	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N			X	mutant enzyme C315A
+197	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N			X	mutant enzyme C315A/C318A
+230	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N			X	mutant enzyme C318A
+277	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N				wild type enzyme
+292	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.8	X	mutant enzyme C335S/C338S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+443	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.8	X	mutant enzyme C221S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+597	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.8	X	mutant enzyme C338S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+688	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.8	X	mutant enzyme C242S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+838	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.8	X	mutant enzyme C235S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+1111	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.8	X	mutant enzyme C293S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+1236	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.8		wild type enzyme, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+70.5	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N			X	mutant enzyme C315A/C318A
+72	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N			X	mutant enzyme C315A
+319	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N			X	mutant enzyme C318A
+341	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	37	7.8	X	mutant enzyme C335S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+371	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N				wild type enzyme
+419	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	37	7.8	X	mutant enzyme C335S/C338S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+503	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	37	7.8	X	mutant enzyme C221S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+529	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	37	7.8	X	mutant enzyme C338S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+779	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	37	7.8	X	mutant enzyme C235S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+843	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	37	7.8	X	mutant enzyme C293S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+870	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	37	7.8	X	mutant enzyme C242S, in 25 mM potassium phosphate buffer at pH 7.8, at 37C
+1075	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	37	7.8		wild type enzyme, in 25 mM potassium phosphate buffer at pH 7.8, at 37C

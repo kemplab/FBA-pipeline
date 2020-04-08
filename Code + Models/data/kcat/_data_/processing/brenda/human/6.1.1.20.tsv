@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.3		ATP-diphosphate exchange reaction, mitochondrial isozyme, pH 7.3, 37C
+0.075	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	30	8.0		mitochondrial enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30C
+0.87	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	30	8.0		cytoplasmic enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30C
+1.1	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	37	7.3		ATP-diphosphate exchange reaction, recombinant mitochondrial isozyme, pH 7.3, 37C
+0.033	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30	8.0		mitochondrial enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30C
+0.11	tRNAPhe	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5		aminoacylation reaction, recombinant mitochondrial isozyme, pH 7.5, 37C
+0.057	3,4-dihydroxy-L-phenylalanine	275	WTDRDQBEARUVNC-LURJTMIESA-N	30	8.0		mitochondrial enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30C
+0.23	3,4-dihydroxy-L-phenylalanine	275	WTDRDQBEARUVNC-LURJTMIESA-N	30	8.0		cytoplasmic enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30C
+0.052	DL-m-tyrosine	13654	JZKXXXDKRQWDET-UHFFFAOYSA-N	30	8.0		mitochondrial enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30C
+0.65	DL-m-tyrosine	13654	JZKXXXDKRQWDET-UHFFFAOYSA-N	30	8.0		cytoplasmic enzyme, in 50 mM Tris-HCl, pH 8.0, 30 mM MgCl2, 20 mM KCl, 5 mM dithiothreitol, at 30C

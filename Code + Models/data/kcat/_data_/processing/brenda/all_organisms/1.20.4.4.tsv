@@ -1,0 +1,23 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.9	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N				
+0.061	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K	37	7.5	X	C15A ArsC mutant, at 2 microM AsO43-; pH 7.5, 37C, mutant enzyme C15A, at 0.002 mM arsenate
+0.075	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K	37	7.5		pH 7.5, 37C, wild-type enzyme, at 0.002 mM arsenate; wild-type ArsC, at 2 microM AsO43-
+0.08	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K	37	7.5	X	C15A ArsC mutant, at 10 mM AsO43-; pH 7.5, 37C, mutant enzyme C15A, at 10 mM arsenate
+0.09	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K	37	8.0		wild-type, pH 8.0, 37C
+0.165	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K	37	7.5		pH 7.5, 37C, wild-type enzyme, at 10 mM arsenate; wild-type ArsC, at 10 mM AsO43-
+0.5	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K	37	8.0	X	N-terminally truncated mutant, pH 8.0, 37C
+0.58	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K				wild-type Staphylococcus aureus, condition: 150 mM NaCl, study about the impact of potassium and the tetrahedral oxyanion sulfate on the steady-state kinetic parameters
+0.7	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K			X	H62Q mutant Staphylococcus aureus, condition: 150 mM KCl, study about the impact of potassium and the tetrahedral oxyanion sulfate on the steady-state kinetic parameters
+0.75	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K			X	H62Q mutant Staphylococcus aureus, condition: 150 mM NaCl, study about the impact of potassium and the tetrahedral oxyanion sulfate on the steady-state kinetic parameters
+0.75	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K	60	7.0		pH 7.0, 60C
+0.9	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K				wild-type Staphylococcus aureus, condition: 150 mM KCl, study about the impact of potassium and the tetrahedral oxyanion sulfate on the steady-state kinetic parameters
+1.3	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K				wild-type Bacillus subtilis, condition: 150 mM NaCl, study about the impact of potassium and the tetrahedral oxyanion sulfate on the steady-state kinetic parameters
+1.6	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K				wild-type Bacillus subtilis, condition: 150 mM KCl, study about the impact of potassium and the tetrahedral oxyanion sulfate on the steady-state kinetic parameters; wild-type Bacillus subtilis, condition: 50 mM K2SO4, study about the impact of potassium and the tetrahedral oxyanion sulfate on the steady-state kinetic parameters
+1.98	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K			X	H62Q mutant Staphylococcus aureus, condition: 50 mM Na2SO4, study about the impact of potassium and the tetrahedral oxyanion sulfate on the steady-state kinetic parameters
+2	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K				wild-type Bacillus subtilis, condition: 50 mM Na2SO4, study about the impact of potassium and the tetrahedral oxyanion sulfate on the steady-state kinetic parameters
+2.1	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K	37	7.6		pH 7.6, 37C, presence of 150 mM NaCl
+2.9	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K				wild-type Staphylococcus aureus, condition: 50 mM Na2SO4, study about the impact of potassium and the tetrahedral oxyanion sulfate on the steady-state kinetic parameters
+2.9	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K	37	7.6		pH 7.6, 37C, presence of 50 mM K2SO4
+3.03	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K			X	H62Q mutant Staphylococcus aureus, condition: 50 mM K2SO4, study about the impact of potassium and the tetrahedral oxyanion sulfate on the steady-state kinetic parameters
+3.2	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K	37	7.6		pH 7.6, 37C, presence of 150 mM KCl
+3.65	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K				wild-type Staphylococcus aureus, condition: 50 mM K2SO4, study about the impact of potassium and the tetrahedral oxyanion sulfate on the steady-state kinetic parameters

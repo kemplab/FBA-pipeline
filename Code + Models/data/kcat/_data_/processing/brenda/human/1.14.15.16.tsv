@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00025	2-methylene-19-nor-(20S)-1,25-dihydroxyvitamin D3	113245	UHMPCVGLSKFXHR-PSFHIAGESA-N	37	7.5		in 20 mM Tris (pH 7.5), at 37C
+0.0017	2-methylene-19-nor-(20R)-1,25-dihydroxyvitamin D3	113246	UHMPCVGLSKFXHR-HAAMZTQKSA-N	37	7.5		in 20 mM Tris (pH 7.5), at 37C
+0.002	1alpha,25-dihydroxyvitamin D3	1449	GMRQFYUYWCNGIN-NKMMMXOESA-N	37	7.5		in 20 mM Tris (pH 7.5), at 37C
+0.002	25-hydroxyvitamin D3	3061	JWUBBDSIWDLEOM-DTOXIADCSA-N	37	7.5		in 20 mM Tris (pH 7.5), at 37C
+0.007	1alpha,25-dihydroxyvitamin D3	1449	GMRQFYUYWCNGIN-NKMMMXOESA-N		7.4		wild type enzyme, in 100 mM Tris-HCl, pH 7.4, temperature not specified in the publication

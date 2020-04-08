@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.039	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	25	7.5		pH 7.5, 25C
+0.55	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				
+0.34	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	1914	LMTGTTLGDUACSJ-QQABCQGCSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme C109A
+0.63	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	1914	LMTGTTLGDUACSJ-QQABCQGCSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme C107A; pH 7.5, 25C, mutant enzyme C92A
+2	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	1914	LMTGTTLGDUACSJ-QQABCQGCSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme K137A
+3	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	1914	LMTGTTLGDUACSJ-QQABCQGCSA-N		8.0		pH 8.0, wild-type enzyme
+6.2	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	1914	LMTGTTLGDUACSJ-QQABCQGCSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme R110A
+17	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	1914	LMTGTTLGDUACSJ-QQABCQGCSA-N		8.0	X	pH 8.0, mutant enzyme C107A
+18	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	1914	LMTGTTLGDUACSJ-QQABCQGCSA-N	25	7.5		pH 7.5, 25C
+22	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	1914	LMTGTTLGDUACSJ-QQABCQGCSA-N	25	7.5		pH 7.5, 25C
+35.7	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	1914	LMTGTTLGDUACSJ-QQABCQGCSA-N	25	7.5		pH 7.5, 25C
+35.7	D-glycero-beta-D-manno-heptose 1,7-bisphosphate	1914	LMTGTTLGDUACSJ-QQABCQGCSA-N	25	7.5		pH 7.5, 25C, wild-type
+0.0017	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate	2668	LMTGTTLGDUACSJ-ZUHYCWGWSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme C92A
+0.042	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate	2668	LMTGTTLGDUACSJ-ZUHYCWGWSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme C107A
+0.057	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate	2668	LMTGTTLGDUACSJ-ZUHYCWGWSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme C109A
+4.4	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate	2668	LMTGTTLGDUACSJ-ZUHYCWGWSA-N	25	7.5		pH 7.5, 25C
+4.6	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate	2668	LMTGTTLGDUACSJ-ZUHYCWGWSA-N	25	7.5		pH 7.5, 25C
+4.6	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate	2668	LMTGTTLGDUACSJ-ZUHYCWGWSA-N	25	7.5		pH 7.5, 25C, wild-type
+5.9	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate	2668	LMTGTTLGDUACSJ-ZUHYCWGWSA-N	25	7.5		pH 7.5, 25C
+0.51	D-sedoheptulose 1,7-bisphosphate	686	OKHXOUGRECCASI-SHUUEZRQSA-N	25	7.5		pH 7.5, 25C

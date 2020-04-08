@@ -1,0 +1,33 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0283	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+1.6	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+2	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+4.7	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+7	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	30	5.5		pH 5.5, 30C
+12.4	benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin	10496	VCOVUYXJMHMVNV-FMYROPPKSA-N		5.0		pH 5.0, room temperature
+14.4	benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin	10496	VCOVUYXJMHMVNV-FMYROPPKSA-N	25	6.5		pH 6.5, 25C
+15.1	benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin	10496	VCOVUYXJMHMVNV-FMYROPPKSA-N		5.0		pH 5.0, room temperature
+20.3	benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin	10496	VCOVUYXJMHMVNV-FMYROPPKSA-N		5.0		pH 5.0, room temperature
+20.3	benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin	10496	VCOVUYXJMHMVNV-FMYROPPKSA-N		5.0		pH 5.0, room temperature
+21	benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin	10496	VCOVUYXJMHMVNV-FMYROPPKSA-N				
+33.1	benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin	10496	VCOVUYXJMHMVNV-FMYROPPKSA-N		5.0		pH 5.0, room temperature
+40.5	benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin	10496	VCOVUYXJMHMVNV-FMYROPPKSA-N	25	6.5		pH 6.5, 25C
+0.000000548	Collagen	2284	PZUOUYPWNMDULD-IALKXCRXSA-N				alpha-chain
+0.02	benzoyl-Phe-Val-Arg-7-amido-4-methylcoumarin	4827	QBDRNGBZKAOZHF-OLWNVYNHSA-N				
+13	benzoyl-Phe-Val-Arg-7-amido-4-methylcoumarin	4827	QBDRNGBZKAOZHF-OLWNVYNHSA-N	25	6.5		pH 6.5, 25C
+0.45	(7-[[(2S)-2-(4-[(1S)-1,2-dimethyl-1-[(phenylcarbonyl)amino]propyl]-1H-1,2,3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-2H-chromen-3-yl)acetic acid	16298	PFEBMEGRFVLGJL-UKJJDJLKSA-N				
+1.1	benzyloxycarbonyl-Leu-Leu-Arg-7-amido-4-methylcoumarin	22239	HEFLULMFMJTEOQ-XOYGGWQXSA-N	25	6.5		pH 6.5, 25C
+30	butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	22243	WZKZMMKLOYYPHQ-NSVAZKTRSA-N				
+65	butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	22243	WZKZMMKLOYYPHQ-NSVAZKTRSA-N				
+6.1	tert-butyloxycarbonyl-Phe-Leu-Arg-7-amido-4-methylcoumarin	22384	NMUHUCPEIYWJEF-LAZXVZGVSA-N	25	6.5		pH 6.5, 25C
+8.6	tert-butyloxycarbonyl-Phe-Phe-Arg-7-amido-4-methylcoumarin	22385	ZAYIRRRMNGHOGS-GVNCIKBTSA-N	25	6.5		pH 6.5, 25C
+0.46	(4-methyl-7-[[(2S)-2-(4-[(1S)-1-(4-methylcyclohexyl)-1-[(thiophen-3-ylcarbonyl)amino]ethyl]-1H-1,2,3-triazol-1-yl)hexanoyl]amino]-2-oxo-2H-chromen-3-yl)acetic acid	24594	JBHKFKOTLMXOEA-XJFMKCTKSA-N				
+0.77	(7-[[(2S)-2-(4-[(1S)-1,2-dimethyl-1-[(thiophen-3-ylcarbonyl)amino]propyl]-1H-1,2,3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-2H-chromen-3-yl)acetic acid	24595	SGDPFKMGWVEIQU-JHOBJCJYSA-N				
+0.2	(7-[[(2S)-2-(4-[(1S)-1-cyclohexyl-1-[(phenylcarbonyl)amino]ethyl]-1H-1,2,3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-2H-chromen-3-yl)acetic acid	24596	OBAKLFISKPTOFJ-WJVKJDHCSA-N				
+0.22	(7-[[(2S)-2-(4-[(1S)-1-cyclohexyl-1-[(thiophen-3-ylcarbonyl)amino]ethyl]-1H-1,2,3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-2H-chromen-3-yl)acetic acid	24597	KPCMBZIEVTUEFL-UBOZLPQGSA-N				
+44	GRWHKLSVRWE	24924	RYIFAFTYARGYPA-OACJGSBVSA-N	37	5.5		in 0.1 M citrate buffer, pH 5.5 containing 4 mM dithiothreitol, at 37C
+11	GRWHKFSVRWE	24925	UVXYIBQDHAXSPE-MBGVKWQDSA-N	37	5.5		in 0.1 M citrate buffer, pH 5.5 containing 4 mM dithiothreitol, at 37C
+3	GRWHKISVRWE	24926	VMAPKZYZBHLWGR-DRNAKAFTSA-N	37	5.5		in 0.1 M citrate buffer, pH 5.5 containing 4 mM dithiothreitol, at 37C
+5.666	(7-methoxycoumarin-4-yl)-acetyl-GRWPPMGLPWEK(2,4-dinitrophenyl)-D-Arg-NH2	26458	MVNJSKDAVVKTCA-IQGXPTIISA-N				
+2.5	o-aminobenzoic acid-Leu-Glu-Gln-(N-[2,4-dinitrophenyl]ethylenediamine)	27456	WWGHMILZRSNVKO-HJOGWXRNSA-P				
+3.3	butyloxycarbonyl-Phe-Phe-Arg-7-amido-4-methylcoumarin	33885	TYVJVHBMPWELHH-ZDCRTTOTSA-N	25	6.5		pH 6.5, 25C

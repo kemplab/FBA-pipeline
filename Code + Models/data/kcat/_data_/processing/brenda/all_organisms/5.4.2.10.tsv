@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0055	D-glucose 1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N				
+0.0138	D-glucose 1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N			X	single-mutation S100T
+0.1	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N				
+0.52	alpha-D-glucosamine 1-phosphate	113780	YMJBYRVFGYXULK-QZABAPFNSA-N				
+2.42	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N				6 x His-tagged recombinant enzyme
+7.9	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N				

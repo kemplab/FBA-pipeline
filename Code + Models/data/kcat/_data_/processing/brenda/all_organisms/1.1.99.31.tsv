@@ -1,0 +1,122 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.03	2-Hydroxyisovalerate	4795	NGEWQZIDQIYUNV-UHFFFAOYSA-M	20	7.5	X	pH 7.5, 20C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+0.03	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with 205 residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+0.03	(R,S)-p-chloromandelate	12009	BWSFWXSSALIZAU-UHFFFAOYSA-M			X	mutant enzyme H274G, in presence of 20 mM imidazole
+0.04	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme R165G/R277K
+0.05	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme G81D
+0.05	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme G81V
+0.07	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme G81V
+0.09	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N			X	mutant enzyme H274G, in presence of 20 mM imidazole
+0.1	2-Hydroxybutyrate	2470	AFENDNXGAFYKQO-UHFFFAOYSA-M	20	7.5	X	pH 7.5, 20C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+0.1	2-Hydroxybutyrate	2470	AFENDNXGAFYKQO-UHFFFAOYSA-M	20	7.5		pH 7.5, 20C, wild-type enzyme
+0.11	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme G81D
+0.15	3-Phenyllactate	2859	VOXXWSYKYCBWHO-UHFFFAOYSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme G81A
+0.19	2-hydroxyhexanoate	6061	NYHNVHGFPZAZGA-UHFFFAOYSA-M	20	7.5	X	pH 7.5, 20C, mutant enzyme G81A
+0.22	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme, G81A/MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach and a G81A mutation in MDH
+0.23	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme R277G
+0.23	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	mutant enzyme R277G, at 20C, in 0.1 M potassium phosphate, pH 7.5
+0.26	2-Hydroxyoctanoate	2675	JKRDADVRIYVCCY-UHFFFAOYSA-M	20	7.5	X	pH 7.5, 20C, mutant enzyme G81A
+0.27	2-hydroxyvalerate	4160	JRHWHSJDIILJAT-UHFFFAOYSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme G81A
+0.27	3-indolelactate	2811	XGILAAMKEQUXLS-UHFFFAOYSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme G81A
+0.27	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme R277L
+0.3	2-Hydroxyoctanoate	2675	JKRDADVRIYVCCY-UHFFFAOYSA-M			X	mutant G81A
+0.3	3-indolelactate	2811	XGILAAMKEQUXLS-UHFFFAOYSA-N			X	mutant G81A
+0.3	ethyl-(S)-mandelate	7940	SAXHIDRUJXPDOD-VIFPVBQESA-N	20	7.5	X	mutant enzyme R277G, at 20C, in 0.1 M potassium phosphate, pH 7.5
+0.34	2-hydroxyhexanoate	6061	NYHNVHGFPZAZGA-UHFFFAOYSA-M	20	7.5		pH 7.5, 20C, wild-type enzyme
+0.36	2-hydroxyvalerate	4160	JRHWHSJDIILJAT-UHFFFAOYSA-N	20	7.5		pH 7.5, 20C, wild-type enzyme
+0.37	2-Hydroxybutyrate	2470	AFENDNXGAFYKQO-UHFFFAOYSA-M	20	7.5	X	pH 7.5, 20C, mutant enzyme G81A
+0.42	2-Hydroxyoctanoate	2675	JKRDADVRIYVCCY-UHFFFAOYSA-M			X	mutant G81A of chimera MDH-GOX2
+0.48	2-hydroxyhexanoate	6061	NYHNVHGFPZAZGA-UHFFFAOYSA-M	20	7.5	X	pH 7.5, 20C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+0.48	2-hydroxyisocaproate	5802	LVRFTAZAXQPQHI-UHFFFAOYSA-M	20	7.5	X	pH 7.5, 20C, mutant enzyme G81A
+0.5	2-Hydroxy-3-butenoate	13173	VBWPSWWDYVWZKA-UHFFFAOYSA-M	20	7.5	X	pH 7.5, 20C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+0.5	2-Hydroxyoctanoate	2675	JKRDADVRIYVCCY-UHFFFAOYSA-M	20	7.5		pH 7.5, 20C, wild-type enzyme
+0.5	2-Hydroxyoctanoate	2675	JKRDADVRIYVCCY-UHFFFAOYSA-M				wild-type enzyme
+0.5	2-hydroxyvalerate	4160	JRHWHSJDIILJAT-UHFFFAOYSA-N	20	7.5	X	pH 7.5, 20C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+0.52	3-Phenyllactate	2859	VOXXWSYKYCBWHO-UHFFFAOYSA-N	20	7.5		pH 7.5, 20C, wild-type enzyme
+0.61	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme G81S
+0.64	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme R277G
+0.8	2-hydroxyisocaproate	5802	LVRFTAZAXQPQHI-UHFFFAOYSA-M	20	7.5		pH 7.5, 20C, wild-type enzyme
+0.87	3-Phenyllactate	2859	VOXXWSYKYCBWHO-UHFFFAOYSA-N	20	7.5	X	pH 7.5, 20C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+0.96	2-Hydroxyoctanoate	2675	JKRDADVRIYVCCY-UHFFFAOYSA-M	20	7.5	X	pH 7.5, 20C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+1	2-Hydroxyoctanoate	2675	JKRDADVRIYVCCY-UHFFFAOYSA-M				chimera MDH-GOX2
+1	3-indolelactate	2811	XGILAAMKEQUXLS-UHFFFAOYSA-N	20	7.5		pH 7.5, 20C, wild-type enzyme
+1	3-indolelactate	2811	XGILAAMKEQUXLS-UHFFFAOYSA-N				wild-type enzyme
+1.1	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme R165K/R277K
+1.2	indoleglycolate	5632	QWODYJJYRKWTHA-UHFFFAOYSA-M	20	7.5	X	pH 7.5, 20C, mutant enzyme G81A
+1.2	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	20	7.5		pH 7.5, 20C, wild-type enzyme
+1.28	2-hydroxyisocaproate	5802	LVRFTAZAXQPQHI-UHFFFAOYSA-M	20	7.5	X	pH 7.5, 20C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+1.4	3-indolelactate	2811	XGILAAMKEQUXLS-UHFFFAOYSA-N			X	mutant G81A of chimera MDH-GOX2
+1.52	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme R277H
+1.6	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N		7.5	X	pH 7.5, chimeric mutant of (S)-mandelate dehydrogenase with membrane anchoring loop replaced by a portion of glycolate oxidase from spinach
+2.3	Mandelate	2127	IWYDHOAUDWTVEP-UHFFFAOYSA-N			X	mutant G81A of chimera MDH-GOX2
+2.3	methyl-(S)-mandelate	7939	ITATYELQCJRCCK-QMMMGPOBSA-N	20	7.5	X	mutant enzyme R277K, at 20C, in 0.1 M potassium phosphate, pH 7.5
+2.3	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme, G81A/MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach and a G81A mutation in MDH
+2.5	methyl-(S)-mandelate	7939	ITATYELQCJRCCK-QMMMGPOBSA-N	20	7.5	X	mutant enzyme R277G, at 20C, in 0.1 M potassium phosphate, pH 7.5
+2.6	ethyl-(S)-mandelate	7940	SAXHIDRUJXPDOD-VIFPVBQESA-N	20	7.5	X	mutant enzyme R277K, at 20C, in 0.1 M potassium phosphate, pH 7.5
+2.8	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme G81S
+3	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5		pH 7.5, 25C, electron acceptor: 2,6-dichloroindophenol
+3.13	3-indolelactate	2811	XGILAAMKEQUXLS-UHFFFAOYSA-N	20	7.5	X	pH 7.5, 20C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+3.4	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme G81A
+3.85	3-indolelactate	2811	XGILAAMKEQUXLS-UHFFFAOYSA-N	20	7.5	X	pH 7.5, 20C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+3.9	2-Hydroxy-3-butynoate	4348	LWNHDEQKHFRYMD-UHFFFAOYSA-M	20	7.5		pH 7.5, 20C, wild-type enzyme
+3.9	3-indolelactate	2811	XGILAAMKEQUXLS-UHFFFAOYSA-N				chimera MDH-GOX2
+4.4	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme R165E
+6.6	2-Hydroxy-3-butynoate	4348	LWNHDEQKHFRYMD-UHFFFAOYSA-M	20	7.5	X	pH 7.5, 20C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+9	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N		7.5		pH 7.5, (S)-mandelate dehydrogenase with residues 2-4 deleted
+9.3	4-chloromandelate	12009	BWSFWXSSALIZAU-UHFFFAOYSA-M	20	7.5	X	pH 7.5, 20C, mutant enzyme G81A
+13.2	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme R165G
+14.8	2-Hydroxy-3-butynoate	4348	LWNHDEQKHFRYMD-UHFFFAOYSA-M	20	7.5	X	pH 7.5, 20C, mutant enzyme G81A
+15.2	Mandelate	2127	IWYDHOAUDWTVEP-UHFFFAOYSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme G81A
+15.2	Mandelate	2127	IWYDHOAUDWTVEP-UHFFFAOYSA-N			X	mutant G81A
+18.4	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme R165M
+19.2	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme G81A
+24	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N		7.5		pH 7.5, (S)-mandelate dehydrogenase with 17 residues deleted at the carboxy terminus
+38.5	indoleglycolate	5632	QWODYJJYRKWTHA-UHFFFAOYSA-M	20	7.5	X	pH 7.5, 20C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+49	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5		pH 7.5, 25C, electron acceptor: cytochrome c
+66	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme R277K
+66	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	mutant enzyme R277K, at 20C, in 0.1 M potassium phosphate, pH 7.5
+68	3-methoxy-DL-mandelate	40316	YTRUJRPALUALSN-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, cosubstrate: ferricyanide
+68	4-chloro-DL-mandelate	12009	BWSFWXSSALIZAU-UHFFFAOYSA-M	25	7.5		pH 7.5, 25C, cosubstrate: ferricyanide
+73	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme R277K
+80	4-methyl-DL-mandelate	40315	SFGURAWGCAPHON-UHFFFAOYSA-M	25	7.5		pH 7.5, 25C, cosubstrate: ferricyanide
+88	DL-[2-2H]-mandelate	2127	IWYDHOAUDWTVEP-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, cosubstrate ferricyanide, LMDH holoenzyme
+92	DL-[2-2H]-mandelate	2127	IWYDHOAUDWTVEP-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, cosubstrate cytochrome, LMDH holoenzyme
+93	DL-[2-2H]-mandelate	2127	IWYDHOAUDWTVEP-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, cosubstrate: ferricyanide
+94	D,L-Mandelate	2127	IWYDHOAUDWTVEP-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, cosubstrate: ferricyanid
+98	4-fluoro-DL-mandelate	40314	RWCMOQXHIDWDDJ-UHFFFAOYSA-M	25	7.5		pH 7.5, 25C, cosubstrate: ferricyanide
+99	DL-[2-2H]-mandelate	2127	IWYDHOAUDWTVEP-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, cosubstrate ferricyanide, L-MDH flavin domain
+106	4-methoxy-DL-mandelate	40317	ITECRQOOEQWFPE-UHFFFAOYSA-M	25	7.5		pH 7.5, 25C, cosubstrate: ferricyanide
+108	3-hydroxy-DL-mandelate	40318	OLSDAJRAVOVKLG-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, cosubstrate: ferricyanide
+108	4-bromo-DL-mandelate	40313	BHZBRPQOYFDTAB-UHFFFAOYSA-M	25	7.5		pH 7.5, 25C, cosubstrate: ferricyanide
+109	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5		pH 7.5, 25C, electron acceptor: ferricyanide
+114	L-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	25	7.5		pH 7.5, 25C, cosubstrate: ferricyanide
+116	4-chloro-DL-mandelate	12009	BWSFWXSSALIZAU-UHFFFAOYSA-M	25	7.5		pH 7.5, 25C, cosubstrate: ferricyanide
+120	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme R165K
+122	indoleglycolate	5632	QWODYJJYRKWTHA-UHFFFAOYSA-M	20	7.5		pH 7.5, 20C, wild-type enzyme
+134	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	4	7.5		pH 7.5, 4C
+146	4-hydroxy-DL-mandelate	13891	YHXHKYRQLYQUIH-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, cosubstrate: ferricyanide
+151	methyl-(S)-mandelate	7939	ITATYELQCJRCCK-QMMMGPOBSA-N	20	7.5		wild type enzyme, at 20C, in 0.1 M potassium phosphate, pH 7.5
+155	DL-[2-1H]-mandelate	2127	IWYDHOAUDWTVEP-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, cosubstrate cytochrome c, LMDH holoenzyme
+174	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N		7.5		pH 7.5, wild-type enzyme
+195	Mandelate	2127	IWYDHOAUDWTVEP-UHFFFAOYSA-N	20	7.5	X	pH 7.5, 20C, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+201	(S)-3-phenyllactate	3384	VOXXWSYKYCBWHO-QMMMGPOBSA-M	20	7.5	X	pH 7.5, 20C, mutant enzyme R277G
+204	ethyl-(S)-mandelate	7940	SAXHIDRUJXPDOD-VIFPVBQESA-N	20	7.5		wild type enzyme, at 20C, in 0.1 M potassium phosphate, pH 7.5
+205	Mandelate	2127	IWYDHOAUDWTVEP-UHFFFAOYSA-N				chimera MDH-GOX2
+205	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	pH 7.5, 20C, cosubstrate: 2,6-dichloroindophenol, MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+205	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5	X	pH 7.5, 20C, mutant enzyme MDH-GOX2, a chimeric mutant of (S)-mandelate dehydrogenase with 205 residues 177-215 replaced by residues 176-195 of glycolate oxidase from spinach
+225	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	25	7.5		pH 7.5, 25C
+270	(S)-3-phenyllactate	3384	VOXXWSYKYCBWHO-QMMMGPOBSA-M	20	7.5		pH 7.5, 20C, wild-type enzyme
+270	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5		pH 7.5, 20C, wild-type enzyme
+290	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5		pH 7.5, 20C, cosubstrate: 2,6-dichloroindophenol, wild-type enzyme
+300	DL-[2-1H]-mandelate	2127	IWYDHOAUDWTVEP-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, cosubstrate ferricyanide, LMDH holoenzyme
+313	2-oxo-2-phenylacetate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N				
+316	DL-[2-1H]-mandelate	2127	IWYDHOAUDWTVEP-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, cosubstrate ferricyanide, L-MDH flavin domain
+334	4-chloromandelate	12009	BWSFWXSSALIZAU-UHFFFAOYSA-M	20	7.5		pH 7.5, 20C, wild-type enzyme
+350	Mandelate	2127	IWYDHOAUDWTVEP-UHFFFAOYSA-N	20	7.5		pH 7.5, 20C, wild-type enzyme
+350	Mandelate	2127	IWYDHOAUDWTVEP-UHFFFAOYSA-N				wild-type enzyme
+360	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5		pH 7.5, 20C, wild-type enzyme
+360	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5		pH 7.5, 20C
+360	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5		pH 7.5, 20C, wild-type enzyme
+360	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N	20	7.5		wild type enzyme, at 20C, in 0.1 M potassium phosphate, pH 7.5
+402	(S)-Mandelate	359	IWYDHOAUDWTVEP-ZETCQYMHSA-N				
+550	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C

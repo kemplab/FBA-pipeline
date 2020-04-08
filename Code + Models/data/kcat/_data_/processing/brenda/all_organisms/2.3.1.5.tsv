@@ -1,0 +1,134 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+14.3	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5	X	mutant enzyme E123D, apparent value, with 4-aminosalicylic acid as cosubstrate, at pH 7.5 and 25C
+19.3	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		wild type enzyme, apparent value, with 4-aminosalicylic acid as cosubstrate, at pH 7.5 and 25C
+0.25	4-nitroaniline	93	TYMLOMAKGOJONV-UHFFFAOYSA-N	25	7.0	X	mutant Y190A, pH 7.0, 25C
+0.31	4-nitroaniline	93	TYMLOMAKGOJONV-UHFFFAOYSA-N	25	7.0	X	mutant Y190F, pH 7.0, 25C
+0.6	4-nitroaniline	93	TYMLOMAKGOJONV-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, with cofactor acetyl-CoA, recombinant wild-type enzyme
+0.6	4-nitroaniline	93	TYMLOMAKGOJONV-UHFFFAOYSA-N	25	7.0		wild-type, pH 7.0, 25C
+0.89	4-nitroaniline	93	TYMLOMAKGOJONV-UHFFFAOYSA-N	25	7.0	X	mutant Y190I, pH 7.0, 25C
+15	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.0	X	mutant Y190A, pH 7.0, 25C
+57	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.0	X	mutant Y190I, pH 7.0, 25C
+279	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.0	X	mutant Y190F, pH 7.0, 25C
+620	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R64W, with 4-aminobenzoic acid; pH 7.0, 25C, recombinant mutant R64W, with 4-aminobenzoic acid; pH 7.0, 25C, recombinant wild-type enzyme, with 4-aminobenzoic acid; pH 7.0, 25C, recombinant wild-type enzyme, with 4-aminobenzoic acid
+1301	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.0		wild-type, pH 7.0, 25C
+0.28	aniline	547	PAYRUJLWNCNPSJ-UHFFFAOYSA-N				
+281	aniline	547	PAYRUJLWNCNPSJ-UHFFFAOYSA-N				
+711	aniline	547	PAYRUJLWNCNPSJ-UHFFFAOYSA-N				
+0.1	Isoniazid	674	QRXWMOHMRWLFEY-UHFFFAOYSA-N	28	8.0		chimeric enzyme, replacement of the third domain of Mycobacterium tuberculosis enzyme with that from Mycobacterium marinum, pH 8.0, 28C
+0.1	Isoniazid	674	QRXWMOHMRWLFEY-UHFFFAOYSA-N	28	8.0		chimeric enzyme, replacement of the third domain of Mycobacterium tuberculosis enzyme with that from Mycobacterium marinum, pH 8.0, 28C
+0.3	Isoniazid	674	QRXWMOHMRWLFEY-UHFFFAOYSA-N	28	8.0		chimeric enzyme, replacement of the third domain of Mycobacterium marinum enzyme with that from Mycobacterium tuberculosis, pH 8.0, 28C
+0.3	Isoniazid	674	QRXWMOHMRWLFEY-UHFFFAOYSA-N	28	8.0		chimeric enzyme, replacement of the third domain of Mycobacterium marinum enzyme with that from Mycobacterium tuberculosis, pH 8.0, 28C
+1.7	Isoniazid	674	QRXWMOHMRWLFEY-UHFFFAOYSA-N	28	8.0		wild-type, pH 8.0, 28C
+4.9	Isoniazid	674	QRXWMOHMRWLFEY-UHFFFAOYSA-N				
+9	Isoniazid	674	QRXWMOHMRWLFEY-UHFFFAOYSA-N	37	7.5		apparent value, at pH 7.5 and 37C
+167.1	Isoniazid	674	QRXWMOHMRWLFEY-UHFFFAOYSA-N	25	7.5	X	mutant enzyme E123D, apparent value, at pH 7.5 and 25C
+289.3	Isoniazid	674	QRXWMOHMRWLFEY-UHFFFAOYSA-N	25	7.5		wild type enzyme, apparent value, at pH 7.5 and 25C
+8	4-Aminobenzoic acid	905	ALYNCZNDIQEVRV-UHFFFAOYSA-N	25	7.0	X	cosubstrate acetyl-CoA, mutant Y190A, pH 7.0, 25C
+21	4-Aminobenzoic acid	905	ALYNCZNDIQEVRV-UHFFFAOYSA-N	23	7.0		pH 7.0, 23C, isozyme NAT2, with 4-nitrophenyl acetate
+38	4-Aminobenzoic acid	905	ALYNCZNDIQEVRV-UHFFFAOYSA-N	25	7.0	X	cosubstrate 4-nitrophenyl acetate, mutant Y190A, pH 7.0, 25C
+58	4-Aminobenzoic acid	905	ALYNCZNDIQEVRV-UHFFFAOYSA-N	25	7.0	X	cosubstrate acetyl-CoA, mutant Y190I, pH 7.0, 25C
+60	4-Aminobenzoic acid	905	ALYNCZNDIQEVRV-UHFFFAOYSA-N	25	7.0	X	cosubstrate 4-nitrophenyl acetate, mutant Y190I, pH 7.0, 25C
+127	4-Aminobenzoic acid	905	ALYNCZNDIQEVRV-UHFFFAOYSA-N	23	7.0		pH 7.0, 23C, isozyme NAT1, with 4-nitrophenyl acetate
+189	4-Aminobenzoic acid	905	ALYNCZNDIQEVRV-UHFFFAOYSA-N	25	7.0	X	cosubstrate acetyl-CoA, mutant Y190F, pH 7.0, 25C
+200	4-Aminobenzoic acid	905	ALYNCZNDIQEVRV-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, with cofactor acetyl-CoA, recombinant wild-type enzyme
+200	4-Aminobenzoic acid	905	ALYNCZNDIQEVRV-UHFFFAOYSA-N	25	7.0		cosubstrate acetyl-CoA, wild-type, pH 7.0, 25C
+230	4-Aminobenzoic acid	905	ALYNCZNDIQEVRV-UHFFFAOYSA-N	23	7.0		pH 7.0, 23C, isozyme NAT2, with 4-nitrophenyl acetate
+265	4-Aminobenzoic acid	905	ALYNCZNDIQEVRV-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R64W, with 4-nitrophenyl acetate; pH 7.0, 25C, recombinant mutant R64W, with 4-nitrophenyl acetate; pH 7.0, 25C, recombinant wild-type enzyme, with 4-nitrophenyl acetate; pH 7.0, 25C, recombinant wild-type enzyme, with 4-nitrophenyl acetate
+393	4-Aminobenzoic acid	905	ALYNCZNDIQEVRV-UHFFFAOYSA-N	25	7.0	X	cosubstrate 4-nitrophenyl acetate, mutant Y190F, pH 7.0, 25C
+620	4-Aminobenzoic acid	905	ALYNCZNDIQEVRV-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, with cofactor 4-nitrophenyl acetate, recombinant wild-type enzyme
+620	4-Aminobenzoic acid	905	ALYNCZNDIQEVRV-UHFFFAOYSA-N	25	7.0		cosubstrate 4-nitrophenyl acetate, wild-type, pH 7.0, 25C
+44.1	2-Aminofluorene	985	CFRFHWQYWJMEJN-UHFFFAOYSA-N	25	7.5	X	mutant enzyme E123D, apparent value, at pH 7.5 and 25C
+67.4	2-Aminofluorene	985	CFRFHWQYWJMEJN-UHFFFAOYSA-N	25	7.5		wild type enzyme, apparent value, at pH 7.5 and 25C
+199	2-Aminofluorene	985	CFRFHWQYWJMEJN-UHFFFAOYSA-N	37	7.5		apparent value, at pH 7.5 and 37C
+449	2-Aminofluorene	985	CFRFHWQYWJMEJN-UHFFFAOYSA-N				
+759	2-Aminofluorene	985	CFRFHWQYWJMEJN-UHFFFAOYSA-N				
+0.7	p-Aminobenzoic acid	905	ALYNCZNDIQEVRV-UHFFFAOYSA-N				
+38	p-Aminobenzoic acid	905	ALYNCZNDIQEVRV-UHFFFAOYSA-N				
+298	p-Aminobenzoic acid	905	ALYNCZNDIQEVRV-UHFFFAOYSA-N				
+0.0017	5-aminosalicylic acid	1352	KBOPZPXVLCULAV-UHFFFAOYSA-N	28	8.0		wild-type, pH 8.0, 28C
+1.8	5-aminosalicylic acid	1352	KBOPZPXVLCULAV-UHFFFAOYSA-N	28	8.0		chimeric enzyme, replacement of the third domain of Mycobacterium marinum enzyme with that from Mycobacterium tuberculosis, pH 8.0, 28C; chimeric enzyme, replacement of the third domain of Mycobacterium tuberculosis enzyme with that from Mycobacterium marinum, pH 8.0, 28C
+1.8	5-aminosalicylic acid	1352	KBOPZPXVLCULAV-UHFFFAOYSA-N	28	8.0		chimeric enzyme, replacement of the third domain of Mycobacterium marinum enzyme with that from Mycobacterium tuberculosis, pH 8.0, 28C; chimeric enzyme, replacement of the third domain of Mycobacterium tuberculosis enzyme with that from Mycobacterium marinum, pH 8.0, 28C
+5.2	5-aminosalicylic acid	1352	KBOPZPXVLCULAV-UHFFFAOYSA-N	28	8.0		wild-type, pH 8.0, 28C
+434	5-aminosalicylic acid	1352	KBOPZPXVLCULAV-UHFFFAOYSA-N				
+0.41	2-Aminophenol	1418	CDAWCLOXVUBKRW-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+51	2-Aminophenol	1418	CDAWCLOXVUBKRW-UHFFFAOYSA-N				
+0.063	hydralazine	2042	RPTUSVTUFVMDQK-UHFFFAOYSA-N				
+44	hydralazine	2042	RPTUSVTUFVMDQK-UHFFFAOYSA-N				
+168	hydralazine	2042	RPTUSVTUFVMDQK-UHFFFAOYSA-N	37	7.5		apparent value, at pH 7.5 and 37C
+243	4-aminobiphenyl	2421	DMVOXQPQNTYEKQ-UHFFFAOYSA-N				
+256	4-aminobiphenyl	2421	DMVOXQPQNTYEKQ-UHFFFAOYSA-N				
+0.0069	4-chloroaniline	2557	QSNSCYSYFYORTR-UHFFFAOYSA-N				
+0.2	4-chloroaniline	2557	QSNSCYSYFYORTR-UHFFFAOYSA-N				
+0.044	5-Aminosalicylate	1352	KBOPZPXVLCULAV-UHFFFAOYSA-N				
+47	5-Aminosalicylate	1352	KBOPZPXVLCULAV-UHFFFAOYSA-N	37	7.5		apparent value, at pH 7.5 and 37C
+387	sulfamethazine	2722	ASWVTGNCAZCNNR-UHFFFAOYSA-N				
+0.03	4-anisidine	2757	BHAAPTBBJKJZER-UHFFFAOYSA-N				
+0.3	4-anisidine	2757	BHAAPTBBJKJZER-UHFFFAOYSA-N	28	8.0		chimeric enzyme, replacement of the third domain of Mycobacterium marinum enzyme with that from Mycobacterium tuberculosis, pH 8.0, 28C
+0.3	4-anisidine	2757	BHAAPTBBJKJZER-UHFFFAOYSA-N	28	8.0		chimeric enzyme, replacement of the third domain of Mycobacterium marinum enzyme with that from Mycobacterium tuberculosis, pH 8.0, 28C
+0.6	4-anisidine	2757	BHAAPTBBJKJZER-UHFFFAOYSA-N	28	8.0		chimeric enzyme, replacement of the third domain of Mycobacterium tuberculosis enzyme with that from Mycobacterium marinum, pH 8.0, 28C
+0.6	4-anisidine	2757	BHAAPTBBJKJZER-UHFFFAOYSA-N	28	8.0		chimeric enzyme, replacement of the third domain of Mycobacterium tuberculosis enzyme with that from Mycobacterium marinum, pH 8.0, 28C
+5.2	4-anisidine	2757	BHAAPTBBJKJZER-UHFFFAOYSA-N	28	8.0		wild-type, pH 8.0, 28C
+8	3,4-dichloroaniline	2958	SDYWXFYBZPNOFX-UHFFFAOYSA-N	37	7.5		apparent value, at pH 7.5 and 37C
+4.8	2-toluidine	3525	RNVCVTLRINQCPJ-UHFFFAOYSA-N	23	7.0		pH 7.0, 23C, isozyme NAT2, with 4-nitrophenyl acetate
+6.3	2-toluidine	3525	RNVCVTLRINQCPJ-UHFFFAOYSA-N	23	7.0		pH 7.0, 23C, isozyme NAT1, with 4-nitrophenyl acetate
+72	2-toluidine	3525	RNVCVTLRINQCPJ-UHFFFAOYSA-N	23	7.0		pH 7.0, 23C, isozyme NAT2, with 4-nitrophenyl acetate
+43.9	4-aminosalicylic acid	3530	WUBBRNOQWQTFEX-UHFFFAOYSA-N	25	7.5	X	mutant enzyme E123D, apparent value, at pH 7.5 and 25C
+56.6	4-aminosalicylic acid	3530	WUBBRNOQWQTFEX-UHFFFAOYSA-N	25	7.5		wild type enzyme, apparent value, at pH 7.5 and 25C
+27	p-Aminosalicylic acid	3530	WUBBRNOQWQTFEX-UHFFFAOYSA-N				
+591	p-Aminosalicylic acid	3530	WUBBRNOQWQTFEX-UHFFFAOYSA-N				
+2	anisidine	2757	BHAAPTBBJKJZER-UHFFFAOYSA-N	25	7.0	X	mutant Y190A, pH 7.0, 25C
+2.9	anisidine	2757	BHAAPTBBJKJZER-UHFFFAOYSA-N				
+85	anisidine	2757	BHAAPTBBJKJZER-UHFFFAOYSA-N	25	7.0	X	mutant Y190I, pH 7.0, 25C
+260	anisidine	2757	BHAAPTBBJKJZER-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, with cofactor 4-nitrophenyl acetate, recombinant wild-type enzyme
+260	anisidine	2757	BHAAPTBBJKJZER-UHFFFAOYSA-N	25	7.0		wild-type, pH 7.0, 25C
+288	anisidine	2757	BHAAPTBBJKJZER-UHFFFAOYSA-N	25	7.0	X	mutant Y190F, pH 7.0, 25C
+1.3	3-Amino-4-hydroxybenzoic acid	4354	MRBKRZAPGUCWOS-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+94	3-Amino-4-hydroxybenzoic acid	4354	MRBKRZAPGUCWOS-UHFFFAOYSA-N				
+1.3	2-amino-4-methylphenol	2520	ZMXYNJXDULEQCK-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+70	2-amino-4-methylphenol	2520	ZMXYNJXDULEQCK-UHFFFAOYSA-N				
+1	4-Aminosalicylate	3530	WUBBRNOQWQTFEX-UHFFFAOYSA-N	37	7.5		apparent value, at pH 7.5 and 37C
+25	4-ethylaniline	6088	HRXZRAXKKNUKRF-UHFFFAOYSA-N				
+430	4-ethylaniline	6088	HRXZRAXKKNUKRF-UHFFFAOYSA-N				
+700	4-ethylaniline	6088	HRXZRAXKKNUKRF-UHFFFAOYSA-N				
+0.8	4-methylaniline	6091	RZXMPPFPUUCRFN-UHFFFAOYSA-N				
+303	4-methylaniline	6091	RZXMPPFPUUCRFN-UHFFFAOYSA-N				
+1600	4-methylaniline	6091	RZXMPPFPUUCRFN-UHFFFAOYSA-N				
+0.6	nicotinic acid hydrazide	6394	KFUSANSHCADHNJ-UHFFFAOYSA-N				
+0.27	2-amino-4-chlorophenol	6707	SWFNPENEBHAHEB-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+21	2-amino-4-chlorophenol	6707	SWFNPENEBHAHEB-UHFFFAOYSA-N				
+0.0086	4-bromoaniline	7087	WDFQBORIUYODSI-UHFFFAOYSA-N				
+0.29	3-amino-4-hydroxybenzaldehyde	7894	LMGGPKYAWHDOLR-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme
+1.3	4-amino-3-methylbenzoic acid	7899	NHFKECPTBZZFBC-UHFFFAOYSA-N	23	7.0		pH 7.0, 23C, isozyme NAT1, with 4-nitrophenyl acetate
+14.2	4-amino-3-methylbenzoic acid	7899	NHFKECPTBZZFBC-UHFFFAOYSA-N	23	7.0		pH 7.0, 23C, isozyme NAT2, with 4-nitrophenyl acetate
+16.6	4-amino-3-methylbenzoic acid	7899	NHFKECPTBZZFBC-UHFFFAOYSA-N	23	7.0		pH 7.0, 23C, isozyme NAT2, with 4-nitrophenyl acetate
+16	4-aminobenzoyl glutamic acid	7909	GADGMZDHLQLZRI-VIFPVBQESA-N	25	7.0	X	mutant Y190A, pH 7.0, 25C
+76	4-aminobenzoyl glutamic acid	7909	GADGMZDHLQLZRI-VIFPVBQESA-N	25	7.0		pH 7.0, 25C, with cofactor acetyl-CoA, recombinant wild-type enzyme
+77	4-aminobenzoyl glutamic acid	7909	GADGMZDHLQLZRI-VIFPVBQESA-N	25	7.0	X	mutant Y190I, pH 7.0, 25C
+86	4-aminobenzoyl glutamic acid	7909	GADGMZDHLQLZRI-VIFPVBQESA-N	25	7.0	X	mutant Y190F, pH 7.0, 25C
+120	4-aminobenzoyl glutamic acid	7909	GADGMZDHLQLZRI-VIFPVBQESA-N	25	7.0		pH 7.0, 25C, with cofactor 4-nitrophenyl acetate, recombinant wild-type enzyme
+120	4-aminobenzoyl glutamic acid	7909	GADGMZDHLQLZRI-VIFPVBQESA-N	25	7.0		wild-type, pH 7.0, 25C
+66	4-amino-3-hydroxybenzoic acid	7915	NFPYJDZQOKCYIE-UHFFFAOYSA-N				
+0.0098	4-iodoaniline	8793	VLVCDUSVTXIWGW-UHFFFAOYSA-N				
+71	4-iodoaniline	8793	VLVCDUSVTXIWGW-UHFFFAOYSA-N	37	7.5		apparent value, at pH 7.5 and 37C
+0.036	4-ethoxyaniline	9101	IMPPGHMHELILKG-UHFFFAOYSA-N				
+12	2-methylaniline	3525	RNVCVTLRINQCPJ-UHFFFAOYSA-N				
+111	2-methylaniline	3525	RNVCVTLRINQCPJ-UHFFFAOYSA-N				
+61	2-ethylaniline	9302	MLPVBIWIRCKMJV-UHFFFAOYSA-N				
+0.039	4-butoxyaniline	11741	UBRIHZOFEJHMIT-UHFFFAOYSA-N				
+112	4-butoxyaniline	11741	UBRIHZOFEJHMIT-UHFFFAOYSA-N	37	7.5		apparent value, at pH 7.5 and 37C
+308	3,5-dimethylaniline	12163	MKARNSWMMBGSHX-UHFFFAOYSA-N				
+1220	3,5-dimethylaniline	12163	MKARNSWMMBGSHX-UHFFFAOYSA-N				
+310	3-ethylaniline	12164	AMKPQMFZCBTTAT-UHFFFAOYSA-N				
+1960	3-ethylaniline	12164	AMKPQMFZCBTTAT-UHFFFAOYSA-N				
+461	3,4-dimethylaniline	12464	DOLQYFPDPKPQSS-UHFFFAOYSA-N				
+800	3,4-dimethylaniline	12464	DOLQYFPDPKPQSS-UHFFFAOYSA-N				
+27	2,3-dimethylaniline	12465	VVAKEQGKZNKUSU-UHFFFAOYSA-N				
+256	2,3-dimethylaniline	12465	VVAKEQGKZNKUSU-UHFFFAOYSA-N				
+67	2,4-dimethylaniline	4924	CZZZABOKJQXEBO-UHFFFAOYSA-N				
+661	2,4-dimethylaniline	4924	CZZZABOKJQXEBO-UHFFFAOYSA-N				
+5.7	2,5-dimethylaniline	12466	VOWZNBNDMFLQGM-UHFFFAOYSA-N				
+313	2,5-dimethylaniline	12466	VOWZNBNDMFLQGM-UHFFFAOYSA-N				
+0.9	4-fluoroaniline	16897	KRZCOLNOCZKSDF-UHFFFAOYSA-N				
+10.9	4-hydroxybenzhydrazide	16898	ZMZGIVVRBMFZSG-UHFFFAOYSA-N				
+1.9	benzoic acid hydrazide	16899	WARCRYXKINZHGQ-UHFFFAOYSA-N				
+1.1	3-amino-4-hydroxybenzenesulfonic acid	24225	ULUIMLJNTCECJU-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, recombinant enzyme

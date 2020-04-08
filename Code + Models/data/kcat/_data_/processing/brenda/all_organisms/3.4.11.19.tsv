@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0008	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	8.0	X	mutant lacking residues 476-486 plus mutation N275R, pH 8.0, 30C
+0.0016	nitrocefin	281	LHNIIDJCEODSHA-OQRUQETBSA-N	30	8.0	X	mutant lacking residues 476-486, pH 8.0, 30C
+0.2	Nalpha-Ac-L-Lys-D-Ala-D-Ala	8444	GMSXMADYKTYBCP-KKZNHRDASA-N	37	8.0	X	mutant lacking residues 476-486 plus mutation N275R, pH 8.0, 37C
+0.62	Nalpha, Nalpha-Ac2-L-Lys-D-Ala-D-Ala	40322	UBMZILHAGWPZAX-BREBYQMCSA-N	37	8.0	X	mutant lacking residues 476-486 plus mutation N275R, pH 8.0, 37C
+33	D-Ala-4-nitroanilide	3958	PXFUDSMGEYRNNC-ZCFIWIBFSA-N	30	8.0	X	mutant lacking residues 476-486 plus domains DAP-BC, pH 8.0, 30C
+210	D-Ala-4-nitroanilide	3958	PXFUDSMGEYRNNC-ZCFIWIBFSA-N	30	8.0		complex of domain DAP-A plus domains DAP-BC, pH 8.0, 30C
+580	D-Ala-4-nitroanilide	3958	PXFUDSMGEYRNNC-ZCFIWIBFSA-N	30	8.0		wild-type, pH 8.0, 30C
+2100	L-Ala 4-nitroanilide	1401	HMNPAESPRLNEBP-LURJTMIESA-N	30	9.0		pH 9.0, 30C
+2550	D-Ala 4-nitroanilide	3958	PXFUDSMGEYRNNC-ZCFIWIBFSA-N	30	9.0		pH 9.0, 30C
+2783	Gly 4-nitroanilide	6528	VZZMNSJSZXVCCW-UHFFFAOYSA-N	30	9.0		pH 9.0, 30C

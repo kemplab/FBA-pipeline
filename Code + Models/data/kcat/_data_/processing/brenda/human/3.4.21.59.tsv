@@ -1,0 +1,85 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3	D-Ile-Pro-Arg-p-nitroanilide	108746	XHTORJWGZKCDGL-UDTPNQRGSA-N	25	6.0		pH 6.0, 25C, 200 ng protamine
+5	D-Ile-Pro-Arg-p-nitroanilide	108746	XHTORJWGZKCDGL-UDTPNQRGSA-N	25	6.0		pH 6.0, 25C, 150 ng polybrene
+8	D-Ile-Pro-Arg-p-nitroanilide	108746	XHTORJWGZKCDGL-UDTPNQRGSA-N	25	6.0		pH 6.0, 25C, 100 ng polybrene
+9.9	D-Ile-Pro-Arg-p-nitroanilide	108746	XHTORJWGZKCDGL-UDTPNQRGSA-N	25	6.0		pH 6.0, 25C, 80 ng polybrene
+14	D-Ile-Pro-Arg-p-nitroanilide	108746	XHTORJWGZKCDGL-UDTPNQRGSA-N	25	6.0		pH 6.0, 25C
+16	D-Ile-Pro-Arg-p-nitroanilide	108746	XHTORJWGZKCDGL-UDTPNQRGSA-N	25	6.0		pH 6.0, 25C, 100 ng protamine
+17	D-Ile-Pro-Arg-p-nitroanilide	108746	XHTORJWGZKCDGL-UDTPNQRGSA-N	25	6.0		pH 6.0, 25C, 60 ng polybrene
+26	D-Ile-Pro-Arg-p-nitroanilide	108746	XHTORJWGZKCDGL-UDTPNQRGSA-N	25	6.0		pH 6.0, 25C, 800 ng protamine
+40	D-Ile-Pro-Arg-p-nitroanilide	108746	XHTORJWGZKCDGL-UDTPNQRGSA-N	25	6.0		pH 6.0, 25C, 400 ng protamine
+490	N-p-tosyl-Gly-Pro-Lys-p-nitroanilide	2331	PEHDMKYTTRTXSH-GOTSBHOMSA-N	22	8.2		pH 8.2, 22C, recombinant tryptase
+540	N-p-tosyl-Gly-Pro-Lys-p-nitroanilide	2331	PEHDMKYTTRTXSH-GOTSBHOMSA-N	22	8.2		pH 8.2, 22C, HMC-1 tryptase
+0.833	D-Val-Leu-Arg-p-nitroanilide	3396	ZNKZJCICBFSACN-GBESFXJTSA-N	20	7.6		pH 7.6, 20C, isoform S2
+7.1	D-Val-Leu-Arg-p-nitroanilide	3396	ZNKZJCICBFSACN-GBESFXJTSA-N	20	7.6		pH 7.6, 20C, isoform L2
+16.3	D-Val-Leu-Arg-p-nitroanilide	3396	ZNKZJCICBFSACN-GBESFXJTSA-N	20	7.6		pH 7.6, 20C, isoform S2
+21.1	D-Val-Leu-Arg-p-nitroanilide	3396	ZNKZJCICBFSACN-GBESFXJTSA-N	20	7.6		pH 7.6, 20C, isoform L1
+31	D-Val-Leu-Arg-p-nitroanilide	3396	ZNKZJCICBFSACN-GBESFXJTSA-N	20	7.6		pH 7.6, 20C, isoform S1
+97	D-Ile-Pro-Arg-4-nitroanilide	3423	XHTORJWGZKCDGL-FZDIXFNVSA-N	25	6.8		pH 6.8, 25C, active enzyme tetramer, in presence of heparin and Na+
+170	D-Ile-Pro-Arg-4-nitroanilide	3423	XHTORJWGZKCDGL-FZDIXFNVSA-N	25	8.0		pH 8.0, 25C, active enzyme tetramer, in presence of heparin and Na+
+27.9	tosyl-Gly-Pro-Lys-p-nitroanilide	3624	PZISISNJNWOBHV-SRBWTXITSA-N	20	7.6		pH 7.6, 20C, isoform L2
+40	tosyl-Gly-Pro-Lys-p-nitroanilide	3624	PZISISNJNWOBHV-SRBWTXITSA-N	20	7.6		pH 7.6, 20C, isoform L1
+45.9	tosyl-Gly-Pro-Lys-p-nitroanilide	3624	PZISISNJNWOBHV-SRBWTXITSA-N	20	7.6		pH 7.6, 20C, isoform S2
+75.5	tosyl-Gly-Pro-Lys-p-nitroanilide	3624	PZISISNJNWOBHV-SRBWTXITSA-N	20	7.6		pH 7.6, 20C, isoform S1
+0.03	Bz-Arg-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	20	7.6		pH 7.6, 20C, isoform S2
+1.66	Bz-Arg-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	20	7.6		pH 7.6, 20C, isoform L1
+2.51	Bz-Arg-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	20	7.6		pH 7.6, 20C, isoform L2
+2.94	Bz-Arg-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	20	7.6		pH 7.6, 20C, isoform L1
+3	Bz-Arg-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	20	7.6		pH 7.6, 20C, isoform L2
+6.51	Bz-Arg-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	20	7.6		pH 7.6, 20C, isoform S2
+8.9	Bz-Arg-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	20	7.6		pH 7.6, 20C, isoform S1
+2.8	D-Pro-Phe-Arg-p-nitroanilide	4407	KOXMDCXAOGQNDD-FSSWDIPSSA-N	20	7.6		pH 7.6, 20C, isoform L2
+5	D-Pro-Phe-Arg-p-nitroanilide	4407	KOXMDCXAOGQNDD-FSSWDIPSSA-N	20	7.6		pH 7.6, 20C, isoform L1
+5.2	D-Pro-Phe-Arg-p-nitroanilide	4407	KOXMDCXAOGQNDD-FSSWDIPSSA-N	20	7.6		pH 7.6, 20C, isoform S2
+5.3	D-Pro-Phe-Arg-p-nitroanilide	4407	KOXMDCXAOGQNDD-FSSWDIPSSA-N	20	7.6		pH 7.6, 20C, isoform S1
+1.5	Glu-Pro-Arg-p-nitroanilide	5067	DGPYFYSXNOBGJA-ULQDDVLXSA-N	20	7.6		pH 7.6, 20C, isoform L1
+1.7	Glu-Pro-Arg-p-nitroanilide	5067	DGPYFYSXNOBGJA-ULQDDVLXSA-N	20	7.6		pH 7.6, 20C, isoform S2
+2.6	Glu-Pro-Arg-p-nitroanilide	5067	DGPYFYSXNOBGJA-ULQDDVLXSA-N	20	7.6		pH 7.6, 20C, isoform L2
+56.4	Glu-Pro-Arg-p-nitroanilide	5067	DGPYFYSXNOBGJA-ULQDDVLXSA-N	20	7.6		pH 7.6, 20C, isoform L1
+56.9	Glu-Pro-Arg-p-nitroanilide	5067	DGPYFYSXNOBGJA-ULQDDVLXSA-N	20	7.6		pH 7.6, 20C, isoform L2
+15.2	MeOCO-Nle-Gly-Arg-p-nitroanilide	5068	XEXULFKIPLAHKX-IRXDYDNUSA-N	20	7.6		pH 7.6, 20C, isoform L2
+22.9	MeOCO-Nle-Gly-Arg-p-nitroanilide	5068	XEXULFKIPLAHKX-IRXDYDNUSA-N	20	7.6		pH 7.6, 20C, isoform L1
+30.5	MeOCO-Nle-Gly-Arg-p-nitroanilide	5068	XEXULFKIPLAHKX-IRXDYDNUSA-N	20	7.6		pH 7.6, 20C, isoform S2
+2628	MeOCO-Nle-Gly-Arg-p-nitroanilide	5068	XEXULFKIPLAHKX-IRXDYDNUSA-N	20	7.6		pH 7.6, 20C, isoform S1
+2630	MeOCO-Nle-Gly-Arg-p-nitroanilide	5068	XEXULFKIPLAHKX-IRXDYDNUSA-N	20	7.6		pH 7.6, 20C, isoform S1
+1.9	Z-D-Arg-Gly-Arg-p-nitroanilide	5706	RURQVPPGNRUUJQ-YADHBBJMSA-N	20	7.6		pH 7.6, 20C, isoform L1
+3	Z-D-Arg-Gly-Arg-p-nitroanilide	5706	RURQVPPGNRUUJQ-YADHBBJMSA-N	20	7.6		pH 7.6, 20C, isoform L2
+5.4	Z-D-Arg-Gly-Arg-p-nitroanilide	5706	RURQVPPGNRUUJQ-YADHBBJMSA-N	20	7.6		pH 7.6, 20C, isoform S2
+10.3	Z-D-Arg-Gly-Arg-p-nitroanilide	5706	RURQVPPGNRUUJQ-YADHBBJMSA-N	20	7.6		pH 7.6, 20C, isoform S1
+24.1	D-Phe-Pip-Arg-p-nitroanilide	6503	ZSBPHDYKXZDSIB-VJBWXMMDSA-N	20	7.6		pH 7.6, 20C, isoform L2
+27.1	D-Phe-Pip-Arg-p-nitroanilide	6503	ZSBPHDYKXZDSIB-VJBWXMMDSA-N	20	7.6		pH 7.6, 20C, isoform S2
+51	D-Phe-Pip-Arg-p-nitroanilide	6503	ZSBPHDYKXZDSIB-VJBWXMMDSA-N	20	7.6		pH 7.6, 20C, isoform L1
+59.5	D-Phe-Pip-Arg-p-nitroanilide	6503	ZSBPHDYKXZDSIB-VJBWXMMDSA-N	20	7.6		pH 7.6, 20C, isoform S1
+9	Glu-Gly-Arg-p-nitroanilide	6504	CAHPNBROIJUPKS-KBPBESRZSA-N	20	7.6		pH 7.6, 20C, isoform L1
+60.6	Glu-Gly-Arg-p-nitroanilide	6504	CAHPNBROIJUPKS-KBPBESRZSA-N	20	7.6		pH 7.6, 20C, isoform L1
+183	Glu-Gly-Arg-p-nitroanilide	6504	CAHPNBROIJUPKS-KBPBESRZSA-N	20	7.6		pH 7.6, 20C, isoform S1
+3.8	Ac-PRNR-AAC	7645	STILDCYGNQCTCY-WMBWNXPESA-N	30	7.5		pH 7.5, 30C, betaI tryptase
+21.75	Ac-PRNR-AAC	7645	STILDCYGNQCTCY-WMBWNXPESA-N	30	7.5		pH 7.5, 30C, betaII tryptase
+21.8	Ac-PRNR-AAC	7645	STILDCYGNQCTCY-WMBWNXPESA-N	30	7.5		pH 7.5, 30C, betaII tryptase
+0.97	Ac-PRNK-AAC	8956	XYGHIWQLICRVCI-CQETUWSJSA-N	30	7.5		pH 7.5, 30C, betaII tryptase
+0.99	Ac-PRNK-AAC	8956	XYGHIWQLICRVCI-CQETUWSJSA-N	30	7.5		pH 7.5, 30C, betaI tryptase
+0.99	Ac-PRTK-AAC	8957	QZTJLFYMNWYKRD-DOHHORDPSA-N	30	7.5		pH 7.5, 30C, betaI tryptase
+1.1	Ac-PRTK-AAC	8957	QZTJLFYMNWYKRD-DOHHORDPSA-N	30	7.5		pH 7.5, 30C, betaII tryptase
+1.1	Ac-PANK-AAC	8958	TYPQWPWJLCWOBH-BULBTXNYSA-N	30	7.5		pH 7.5, 30C, betaI tryptase
+3.5	Ac-PANK-AAC	8958	TYPQWPWJLCWOBH-BULBTXNYSA-N	30	7.5		pH 7.5, 30C, betaII tryptase
+1.9	N-p-tosyl-Gly-Pro-Arg-p-nitroanilide	8959	HPABFCQYFSWXIO-VXKWHMMOSA-N	37	7.4	X	pH 7.4, 37C, D215G mutant
+21	N-p-tosyl-Gly-Pro-Arg-p-nitroanilide	8959	HPABFCQYFSWXIO-VXKWHMMOSA-N	37	7.4		pH 7.4, 37C, tryptase beta/II
+1870	benzyloxycarbonyl-L-Ala-L-Leu-L-Lys 4-methylcoumarin 7-amide	13617	KREKWGFJASFREZ-CAVYSCNFSA-N				
+5.35	benzyloxycarbonyl-Arg 4-nitroanilide	20219	NRTJWZHOAFLRIR-KRWDZBQOSA-N				skin enzyme
+5.52	benzyloxycarbonyl-Arg 4-nitroanilide	20219	NRTJWZHOAFLRIR-KRWDZBQOSA-N				lung enzyme
+104	Benzyloxycarbonyl-Gly-Arg 4-trifluoromethylcoumarin 7-amide	20222	NIABVHFJJIKYSC-IBGZPJMESA-N				skin enzyme
+107	Benzyloxycarbonyl-Gly-Arg 4-trifluoromethylcoumarin 7-amide	20222	NIABVHFJJIKYSC-IBGZPJMESA-N				lung enzyme
+551	Benzyloxycarbonyl-Gly-Pro-Arg 4-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N				skin enzyme
+553	Benzyloxycarbonyl-Gly-Pro-Arg 4-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N				lung enzyme
+2040	Benzyloxycarbonyl-L-Ala-L-Arg-L-Arg 4-methylcoumarin 7-amide	20215	RACPARIFVUIBCA-OPXMRZJTSA-N				
+3290	Benzyloxycarbonyl-L-Ala-L-Lys-L-Arg 4-methylcoumarin 7-amide	20227	WIBFAXIURSAKDG-MZBJOSPHSA-N				
+1520	Benzyloxycarbonyl-L-Ala-L-Lys-L-Lys 4-methylcoumarin 7-amide	20228	NROAMPWMTUQJDJ-CAVYSCNFSA-N				
+187	Ala-Ala-Pro-Ile-Arg-Asn-Lys-5-amino-2-nitrobenzoylamide	25075	GKZWOWMHNGERLN-CAXVJRSRSA-N				
+233	Ala-Pro-Ile-Arg-Asn-Lys-5-amino-2-nitrobenzoylamide	25076	BEIMNCVJDQIXQV-CXVGLUDESA-N				
+378	Ac-Pro-Ile-Arg-Asn-Lys-5-amino-2-nitrobenzoylamide	25077	YQZQUYLAVZQUOU-ZTVREQDFSA-N				
+435	Pro-Ile-Arg-Asn-Lys-5-amino-2-nitrobenzoylamide	25078	UZIOHGOHBCERLB-AVWTVUIISA-N				
+367	Ac-Ile-Arg-Asn-Lys-5-amino-2-nitrobenzoylamide	25079	PDOGUEHPGDTFTJ-LMESLEFPSA-N				
+199	Ile-Arg-Asn-Lys-5-amino-2-nitrobenzoylamide	25080	QUSAVWXTBAPHPC-ZZERCLMESA-N				
+141	Ac-Arg-Asn-Lys-5-amino-2-nitrobenzoylamide	25081	ZSZSULQXRFJMQY-BZSNNMDCSA-N				
+159	Arg-Asn-Lys-5-amino-2-nitrobenzoylamide	25082	HBBLFIIXAADAFQ-JYJNAYRXSA-N				
+45.7	Benzyloxycarbonyl-Lys-Arg 4-trifluoromethylcoumarin 7-amide	29181	LWDRDPHHKLGEFZ-GOTSBHOMSA-N				skin and lung enzyme

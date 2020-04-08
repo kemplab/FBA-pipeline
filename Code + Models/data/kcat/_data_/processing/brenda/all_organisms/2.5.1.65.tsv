@@ -1,0 +1,19 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.6	O-acetyl-L-serine	549	VZXPDPZARILFQX-BYPYZUCNSA-N	80	7.5	X	pH 7.5, 80C, mutant F225A
+38	O-acetyl-L-serine	549	VZXPDPZARILFQX-BYPYZUCNSA-N	80	7.5		pH 7.5, 80C, wild-type enzyme
+156	O-acetyl-L-serine	549	VZXPDPZARILFQX-BYPYZUCNSA-N	60	7.6		60C; pH 7.6, 60C
+202	O-acetyl-L-serine	549	VZXPDPZARILFQX-BYPYZUCNSA-N		6.7		pH 6.7
+0.025	O3-acetyl-L-serine	549	VZXPDPZARILFQX-BYPYZUCNSA-N				formation of the aminoacrylate intermediate
+33	hydrogen sulfide	273	RWSOTUBLDIXVET-UHFFFAOYSA-N	80	7.5		pH 7.5, 80C, wild-type enzyme, with O-acetyl-L-serine
+130	hydrogen sulfide	273	RWSOTUBLDIXVET-UHFFFAOYSA-N	80	7.5	X	pH 7.5, 80C, mutant F225A, with O-phospho-L-serine
+730	hydrogen sulfide	273	RWSOTUBLDIXVET-UHFFFAOYSA-N	80	7.5		pH 7.5, 80C, wild-type enzyme, with O-phospho-L-serine
+0.0067	O-phospho-L-serine	899	BZQFBWGGLXLEPQ-REOHCLBHSA-N	22	7.0	X	dephosphorylation, pH 7.0, 22C, recombinant mutant R243A enzyme
+0.1	O-phospho-L-serine	899	BZQFBWGGLXLEPQ-REOHCLBHSA-N	37			37C
+0.2	O-phospho-L-serine	899	BZQFBWGGLXLEPQ-REOHCLBHSA-N	22	7.0		dephosphorylation, pH 7.0, 22C, recombinant wild-type enzyme
+0.457	O-phospho-L-serine	899	BZQFBWGGLXLEPQ-REOHCLBHSA-N	22	7.0	X	pH 7.0, 22C, recombinant mutant R243A enzyme
+0.913	O-phospho-L-serine	899	BZQFBWGGLXLEPQ-REOHCLBHSA-N	22	7.0		pH 7.0, 22C, recombinant wild-type enzyme
+150	O-phospho-L-serine	899	BZQFBWGGLXLEPQ-REOHCLBHSA-N	80	7.5	X	pH 7.5, 80C, mutant F225A
+630	O-phospho-L-serine	899	BZQFBWGGLXLEPQ-REOHCLBHSA-N	80	7.5		pH 7.5, 80C, wild-type enzyme
+3050	O-phospho-L-serine	899	BZQFBWGGLXLEPQ-REOHCLBHSA-N	60	7.6		60C; pH 7.6, 60C
+14000	O-phospho-L-serine	899	BZQFBWGGLXLEPQ-REOHCLBHSA-N	85	7.6		85C; pH 7.6, 85C
+17	O3-phospho-L-serine	899	BZQFBWGGLXLEPQ-REOHCLBHSA-N				formation of the aminoacrylate intermediate

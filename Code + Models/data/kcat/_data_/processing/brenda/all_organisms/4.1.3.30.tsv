@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+38	Mg2+	25	JLVVSXFLKOJNIY-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+0.1	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	2442	HHKPKXCSHMJWCF-WVBDSBKLSA-N	37	7.5	X	pH 7.5, 37C, K121A mutant
+0.14	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	2442	HHKPKXCSHMJWCF-WVBDSBKLSA-N	37	7.5	X	pH 7.5, 37C, H125A mutant
+12.3	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	2442	HHKPKXCSHMJWCF-WVBDSBKLSA-N		7		pH 7
+19	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	2442	HHKPKXCSHMJWCF-WVBDSBKLSA-N				
+55	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	2442	HHKPKXCSHMJWCF-WVBDSBKLSA-N	37	7.5	X	pH 7.5, 37C, R122K mutant
+100	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	2442	HHKPKXCSHMJWCF-WVBDSBKLSA-N		7		pH 7
+105	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	2442	HHKPKXCSHMJWCF-WVBDSBKLSA-N	37	7.5		pH 7.5, 37C, wild-type

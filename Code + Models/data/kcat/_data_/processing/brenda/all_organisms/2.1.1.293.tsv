@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	15	6.8		wild type enzyme, at pH 6.8 and 15C
+6.9	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	15	6.8	X	mutant enzyme R202L, at pH 6.8 and 15C
+8.2	6-hydroxytryprostatin B	7021	CBQDILZSSFDSDL-OALUTQOASA-N	15	6.8	X	mutant enzyme R202L, at pH 6.8 and 15C
+27	6-hydroxytryprostatin B	7021	CBQDILZSSFDSDL-OALUTQOASA-N	15	6.8		wild type enzyme, at pH 6.8 and 15C

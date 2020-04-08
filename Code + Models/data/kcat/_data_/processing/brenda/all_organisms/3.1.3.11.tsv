@@ -1,0 +1,114 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0004	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		8.5	X	mutant enzyme D74A, pH 8.5
+0.0014	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant DELTA6; mutant DELTA8
+0.0015	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant DELTA5
+0.0019	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant DELTA10
+0.002	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant DELTA3
+0.0021	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant DELTA4; mutant DELTA7
+0.01	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		8.5	X	mutant enzyme D74N, pH 8.5
+0.026	beta-D-glucose 1,6-bisphosphate	3049	RWHOZGRAXYWRNX-DVKNGEFBSA-N	25	7.0	X	mutant enzyme H20A, in 50 mM K+HEPES pH 7.0 at 25C; mutant enzyme T16P, in 50 mM K+HEPES pH 7.0 at 25C
+0.26	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	48	7.8	X	pH 7.8, 48C, mutant enzyme Y348F
+0.3	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	50	8.0		pH 8.0, 50C
+0.3	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5	X	pH 7.5, 30C, mutant S65A
+0.5	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5	X	pH 7.5, 30C, mutant H178A
+0.55	2-[5-Amino-2-(4-fluoro-phenyl)-6-oxo-6H-pyrimidin-1-yl]-N-(1-benzyl-2-oxo-2-thiazol-2-yl-ethyl)-acetamide	2087	ISCYRTVYNLJNLW-UHFFFAOYSA-N		7.5		pH 7.5, lung
+0.62	beta-D-glucose 1,6-bisphosphate	3049	RWHOZGRAXYWRNX-DVKNGEFBSA-N	25	7.0	X	mutant enzyme H20N, in 50 mM K+HEPES pH 7.0 at 25C
+0.62	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	48	7.8		pH 7.8, 48C, wild-type enzyme
+0.63	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	28	8.0	X	mutant D200A, Hill coefficient 1.4, pH 8.0, 28C
+0.66	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	48	7.8	X	pH 7.8, 48C, mutant enzyme Y229F
+0.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5	X	pH 7.5, 30C, mutant Y24A
+0.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	28	8.0	X	mutant R176A, Hill coefficient 1.2, pH 8.0, 28C; mutant T102A, Hill coefficient 2.5, pH 8.0, 28C
+0.84	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	28	8.0	X	mutant D198H, Hill coefficient 1.9, pH 8.0, 28C
+1.1	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	9.0	X	pH 9.0, 37C, mutant E59A
+1.2	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	9.0	X	pH 9.0, 37C, mutant D186A
+1.2	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	28	8.0	X	mutant H215A, Hill coefficient 1.4, pH 8.0, 28C; mutant Y131A, Hill coefficient 1.6, pH 8.0, 28C
+1.2	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.7		pH 7.7, 50
+1.2	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		8.5	X	mutant enzyme D74E, pH 8.5
+1.56	beta-D-glucose 1,6-bisphosphate	3049	RWHOZGRAXYWRNX-DVKNGEFBSA-N	25	7.0	X	mutant enzyme K76A, in 50 mM K+HEPES pH 7.0 at 25C
+1.6	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5	X	pH 7.5, 30C, mutant R181A
+1.8	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5	X	pH 7.5, 30C, mutant R69A
+1.8	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	28	8.0	X	mutant K134A, Hill coefficient 2.2, pH 8.0, 28C
+1.9	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5	X	pH 7.5, 30C, mutant W131A
+2.3	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	28	8.0	X	mutant R164A, Hill coefficient 2.1, pH 8.0, 28C
+2.3	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant enzyme G191A
+2.5	fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				wild-type
+2.6	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	28	8.0	X	mutant R314A, Hill coefficient 1.8, pH 8.0, 28C
+2.8	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5	X	pH 7.5, 30C, mutant H244A
+2.9	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5	X	pH 7.5, 30C, mutant S19A
+3.2	D-fructose-1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.7		pH 7.7, 30C
+3.9	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5	X	mutant D118A, E-tagged, pH 7.5
+3.9	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.7		pH 7.7, 50
+4.6	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5	X	pH 7.5, 30C, mutant H268A
+4.9	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme
+5.2	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	28	8.0	X	mutant F309A, Hill coefficient 1.8, pH 8.0, 28C; mutant N213A, Hill coefficient 1.8, pH 8.0, 28C; mutant R307A, Hill coefficient 1.6, pH 8.0, 28C
+5.3	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5	X	mutant E97A, E-tagged, pH 7.5
+5.4	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	9.0	X	pH 9.0, 37C, mutant R235A
+5.4	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		8.5	X	mutant enzyme N64E, pH 8.5
+5.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	9.0		pH 9.0, 37C, wild-type
+5.8	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5	X	mutant D121A, E-tagged, pH 7.5
+6.4	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5	X	mutant enzyme D68E, pH 7.5
+6.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5	X	pH 7.5, mutant K50P
+7.1	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	28	8.0	X	mutant R178A, Hill coefficient 1.1, pH 8.0, 28C
+7.1	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		8.5	X	mutant enzyme N64A, pH 8.5
+7.5	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	9.0	X	pH 9.0, 37C, mutant K239A
+8	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	7.5		22C, pH 7.5, the enzyme is incubated for 1 h in assay mixture. The reaction is initiated by the addition of Mg2+
+8.57	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	60	7.5		pH 7.5, 60C, purified recombinant enzyme
+9.1	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		8.5		wild type enzyme, pH 8.5
+9.2	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5	X	pH 7.5, mutant K50P/Y57W
+10.5	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	28	8.0		wild-type, Hill coefficient 1.9, pH 8.0, 28C
+11.3	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	7.5	X	mutant L54A, 22C, pH 7.5
+12.4	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5	X	pH 7.5, mutant A51P
+14	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	9.0	X	pH 9.0, 37C, mutant K29A
+14.2	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5	X	30C, pH 7.5, mutant enzyme F232W
+14.6	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5		pH 7.5, 30C
+15	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5	X	pH 7.5, mutant enzyme G20D
+16	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5	X	mutant enzyme K71A, pH 7.5
+16.1	2-[5-Amino-2-(4-fluoro-phenyl)-6-oxo-6H-pyrimidin-1-yl]-N-(1-benzyl-2-oxo-2-thiazol-2-yl-ethyl)-acetamide	2087	ISCYRTVYNLJNLW-UHFFFAOYSA-N		7.5		pH 7.5, lung
+16.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				wild-type liver isoenzyme enzyme
+17	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	95			95C
+17.6	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	179	7.5	X	muscle enzyme mutant K20E/T177M/Q179C, pH 7.5, 37C
+18	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	8.0		pH 8.0, 22C
+18	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				wild type enzyme
+18	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				wild type enzyme
+18.1	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5	X	30C, pH 7.5, mutant enzyme F16W
+18.3	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant enzyme K42T
+18.4	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	7.5	X	liver enzyme mutant M177T/C179Q, pH 7.5, 37C
+18.6	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	7.5	X	liver enzyme mutant E20K, pH 7.5, 37C
+18.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5	X	30C, pH 7.5, mutant enzyme F219W
+19.2	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5	X	30C, pH 7.5, mutant enzyme F89W
+19.3	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant enzyme K42E
+19.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5		30C, pH 7.5, recombinant wild-type enzyme
+19.9	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	179	7.5	X	muscle enzyme mutant T177M/Q179C, pH 7.5, 37C
+20	beta-D-glucose 1,6-bisphosphate	3049	RWHOZGRAXYWRNX-DVKNGEFBSA-N	25	7.0		wild type enzyme, in 50 mM K+HEPES pH 7.0 at 25C
+20	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	7.5		wild-type, 22C, pH 7.5
+20.1	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant enzyme R49D
+20.4	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5	X	pH 7.5, mutant enzyme T23I
+20.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5		30C, pH 7.5, nonrecombinant enzyme
+20.8	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	7.5		wild-type liver enzyme, pH 7.5, 37C
+21	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5		pH 7.5, 30C
+21	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5		wild type enzyme, pH 7.5
+21.1	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	7.5	X	muscle enzyme mutant K20E, pH 7.5, 37C
+21.1	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant enzyme I190T
+21.3	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	28	8.0	X	mutant K29A, Hill coefficient 2.0, pH 8.0, 28C
+21.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	7.5	X	liver enzyme mutant E20K/M177T/C179Q, pH 7.5, 37C
+21.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	7.0		wild-type, pH 7.0, 37C
+21.9	beta-D-glucose 1,6-bisphosphate	3049	RWHOZGRAXYWRNX-DVKNGEFBSA-N	25	7.0	X	mutant enzyme H20Q, in 50 mM K+HEPES pH 7.0 at 25C
+22	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5		pH 7.5, wild-type enzyme
+22	D-fructose-1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	7.5		pH 7.5, 22C, wild-type enzyme
+22	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5		pH 7.5
+22	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5		wild-type, pH 7.5
+22.4	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant enzyme K50M
+22.9	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	25	8.8		pH 8.8, 25C, recombinant enzyme
+23	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5		wild-type, E-tagged, pH 7.5
+23.4	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	7.5		wild-type muscle enzyme, pH 7.5, 37C
+23.5	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				wild-type muscle isoenzyme enzyme
+23.6	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	49		X	mutant enzyme R49L and R49C
+24	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	7.5		22C, pH 7.5, assay is initiated by the addition of enzyme
+24.3	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5		pH 7.5, wild-type enzyme
+24.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	7.0	X	mutant Y57W, pH 7.0, 37C
+26	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	7.5		22C, pH 7.5, assay mixtures contains 1 mM phosphoenolpyruvate. Enzyme was incubated for 1 h in assay mixture. The reaction was initiated by the addition of Mg2+
+26.8	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5	X	pH 7.5, mutant enzyme T19I
+32.1	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant enzyme Q32L
+34	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.5	X	mutant enzyme K71M/K72M, pH 7.5
+58.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	80	7.5		pH 7.5, 80C, purified recombinant enzyme
+175	beta-D-glucose 1,6-bisphosphate	3049	RWHOZGRAXYWRNX-DVKNGEFBSA-N	25	7.0		wild type enzyme, in 50 mM K+HEPES pH 7.0 at 25C

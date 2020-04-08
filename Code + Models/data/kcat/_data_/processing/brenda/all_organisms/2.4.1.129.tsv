@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0063	undecaprenyl-diphosphoryl-MurNAc-(L-Ala-gamma-D-Glu-meso-(diaminopimelic acid)-D-Ala-D-Ala)-GlcNAc	5161	IGADJGIOJKWEIE-OYEQGVSPSA-N		6.0		pH 6.0, 10 mM Mn2+
+0.0076	undecaprenyl-diphosphoryl-MurNAc-(L-Ala-gamma-D-Glu-meso-(diaminopimelic acid)-D-Ala-D-Ala)-GlcNAc	5161	IGADJGIOJKWEIE-OYEQGVSPSA-N		7.5		pH 7.5, 50 mM Mg2+
+0.008	undecaprenyl-diphosphoryl-MurNAc-(L-Ala-gamma-D-Glu-meso-(diaminopimelic acid)-D-Ala-D-Ala)-GlcNAc	5161	IGADJGIOJKWEIE-OYEQGVSPSA-N		7.5		pH 7.5, 10 mM Mg2+
+0.013	undecaprenyl-diphosphoryl-MurNAc-(L-Ala-gamma-D-Glu-meso-(diaminopimelic acid)-D-Ala-D-Ala)-GlcNAc	5161	IGADJGIOJKWEIE-OYEQGVSPSA-N		7.5		pH 7.5, 10 mM Mn2+
+1.44	[GlcNAc-(1-4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-(L)-meso-diaminopimelic acid-(L)-D-Ala-D-Ala)]n-diphosphoundecaprenol	2798	KRWFGUOEFZYDNU-NBWQQYGOSA-N			X	mutant enzyme E290Q
+2.9	[GlcNAc-(1-4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-(L)-meso-diaminopimelic acid-(L)-D-Ala-D-Ala)]n-diphosphoundecaprenol	2798	KRWFGUOEFZYDNU-NBWQQYGOSA-N			X	mutant enzyme G242A
+3.14	[GlcNAc-(1-4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)]n-diphosphoundecaprenol	14268	CMWDBZXUKUHYGW-JWDDCDSVSA-N				purified wild type enzyme
+5.2	[GlcNAc-(1-4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-(L)-meso-diaminopimelic acid-(L)-D-Ala-D-Ala)]n-diphosphoundecaprenol	2798	KRWFGUOEFZYDNU-NBWQQYGOSA-N			X	mutant enzyme H240Q
+7.6	[GlcNAc-(1-4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-(L)-meso-diaminopimelic acid-(L)-D-Ala-D-Ala)]n-diphosphoundecaprenol	2798	KRWFGUOEFZYDNU-NBWQQYGOSA-N			X	mutant enzyme S266A
+9.4	[GlcNAc-(1-4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-(L)-meso-diaminopimelic acid-(L)-D-Ala-D-Ala)]n-diphosphoundecaprenol	2798	KRWFGUOEFZYDNU-NBWQQYGOSA-N			X	mutant enzyme D234N
+11	[GlcNAc-(1-4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-(L)-meso-diaminopimelic acid-(L)-D-Ala-D-Ala)]n-diphosphoundecaprenol	2798	KRWFGUOEFZYDNU-NBWQQYGOSA-N			X	mutant enzyme N312A
+13.4	[GlcNAc-(1-4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-(L)-meso-diaminopimelic acid-(L)-D-Ala-D-Ala)]n-diphosphoundecaprenol	2798	KRWFGUOEFZYDNU-NBWQQYGOSA-N			X	mutant enzyme R372A
+44	[GlcNAc-(1-4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-(L)-meso-diaminopimelic acid-(L)-D-Ala-D-Ala)]n-diphosphoundecaprenol	2798	KRWFGUOEFZYDNU-NBWQQYGOSA-N			X	mutant enzyme K287A
+70	[GlcNAc-(1-4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-(L)-meso-diaminopimelic acid-(L)-D-Ala-D-Ala)]n-diphosphoundecaprenol	2798	KRWFGUOEFZYDNU-NBWQQYGOSA-N				wild type enzyme PBP1b

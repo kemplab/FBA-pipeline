@@ -1,0 +1,123 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.017	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	25	8.0	X	apparent value, mutant enzyme D99M, in 10 mM Tricine buffer, pH 8.0, at 25C
+0.033	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N		8.0	X	pH 8.0, recombinant mutant E151H
+0.035	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	60	8.0	X	mutant enzyme D380E, in 25 mM Tris-HCl buffer, pH 8.0, at 60C
+0.048	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	60	8.0	X	mutant enzyme D380V, in 25 mM Tris-HCl buffer, pH 8.0, at 60C
+0.113	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	60	8.0	X	mutant enzyme Y352L, in 25 mM Tris-HCl buffer, pH 8.0, at 60C
+0.135	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	60	8.0	X	mutant enzyme D380N, in 25 mM Tris-HCl buffer, pH 8.0, at 60C
+0.153	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	60	8.0	X	mutant enzyme Y352D, in 25 mM Tris-HCl buffer, pH 8.0, at 60C
+0.29	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	60			60C, recombinant wild-type enzyme
+0.303	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	60	8.0		wild type enzyme, in 25 mM Tris-HCl buffer, pH 8.0, at 60C
+0.46	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	60		X	60C, recombinant mutant H191L
+0.7	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	25	8.0	X	mutant enzyme M180A, in 50 mM Tricine buffer, 1.0 mM ZnSO4, and 200 mM KCl, at pH 8.0 and 25C
+0.86	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	60		X	60C, recombinant mutant H227L
+1.6	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	25	8.0		pH 8.0, 25C, mature wild-type enzyme
+6.31	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	55	8.0		pH 8.0, 55C, recombinant wild-type enzyme
+7	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	25	8.0	X	mutant enzyme S228A, in 50 mM Tricine buffer, 1.0 mM ZnSO4, and 200 mM KCl, at pH 8.0 and 25C
+55	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	30	8.0		pH 8.0, 30C
+60	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	25	8.0	X	mutant enzyme D118N, in 50 mM Tricine buffer, 1.0 mM ZnSO4, and 200 mM KCl, at pH 8.0 and 25C
+65	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	25	8.0		wild type enzyme, in 50 mM Tricine buffer, 1.0 mM ZnSO4, and 200 mM KCl, at pH 8.0 and 25C
+71.33	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	25	8.0		pH 8.0, 25C, mature wild-type enzyme
+73	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N		8.0		pH 8.0, recombinant wild-type enzyme
+10180	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	60	7.6		pH 7.6-7.8, 60C
+67	peptide	1007	BCCBKYFORGJWHC-ADNNCPOWSA-N				
+0.37	L-Ala-4-nitroanilide	1401	HMNPAESPRLNEBP-LURJTMIESA-N	30	8.0		pH 8.0, 30C
+43.3	Cys-Gly	1785	ZUKPVRWZDMRIEO-VKHMYHEASA-N		8.0		recombinant enzyme, at pH 8.0
+46.7	Cys-Gly	1785	ZUKPVRWZDMRIEO-VKHMYHEASA-N		7.3		native enzyme, at pH 7.3
+60	Cys-Gly	1785	ZUKPVRWZDMRIEO-VKHMYHEASA-N		7.3		recombinant enzyme, at pH 7.3
+8.3	Leu-Leu	2047	LCPYQJIKPJDLLB-UWVGGRQHSA-N				
+8.3	Leu-Leu	2047	LCPYQJIKPJDLLB-UWVGGRQHSA-N				
+41	Leu-Phe	2388	KFKWRHQBZQICHA-STQMWFEESA-N				
+72	Leu-Phe	2388	KFKWRHQBZQICHA-STQMWFEESA-N				
+72	Leu-Phe	2388	KFKWRHQBZQICHA-STQMWFEESA-N				
+17	L-Leu-7-amido-4-methylcoumarin	2515	GTAAIHRZANUVJS-ZDUSSCGKSA-N	37	8.0		pH 8.0, 37C
+246000	L-Leu-7-amido-4-methylcoumarin	2515	GTAAIHRZANUVJS-ZDUSSCGKSA-N	37	8.5		recombinant enzyme, in 0.1 M glycine buffer, pH 8.5 containing 1mM MnCl2, at 37C
+7.7	thionoleucine-S-anilide	2633	RTBSZPJMKDVKPJ-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with Cd2+ and Zn2+ bound
+10.6	thionoleucine-S-anilide	2633	RTBSZPJMKDVKPJ-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with 2 Cd2+ bound
+11.5	thionoleucine-S-anilide	2633	RTBSZPJMKDVKPJ-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with 2 Zn2+ bound
+16.9	thionoleucine-S-anilide	2633	RTBSZPJMKDVKPJ-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with Zn2+ and Cd2+ bound
+23.3	thionoleucine-S-anilide	2633	RTBSZPJMKDVKPJ-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with Zn2+ and Cd2+ bound
+10	L-Lys-4-nitroanilide	2640	VUUNELJIFNFWJC-NSHDSACASA-N	30	8.0		pH 8.0, 30C
+17.7	L-Lys-4-nitroanilide	2640	VUUNELJIFNFWJC-NSHDSACASA-N	37	8.0		pH 8.0, 37C
+15	Leu-Ala	2704	HSQGMTRYSIHDAC-BQBZGAKWSA-N				
+15	Leu-Ala	2704	HSQGMTRYSIHDAC-BQBZGAKWSA-N				
+20	L-Met-7-amido-4-methylcoumarin	2768	FOQJZUMVLRTZQB-ZDUSSCGKSA-N	37	8.0		pH 8.0, 37C
+283200	L-Met-7-amido-4-methylcoumarin	2768	FOQJZUMVLRTZQB-ZDUSSCGKSA-N	37	8.5		recombinant enzyme, in 0.1 M glycine buffer, pH 8.5 containing 1mM MnCl2, at 37C
+85	Leu-Tyr	2849	LHSGPCFBGJHPCY-STQMWFEESA-N				
+85	Leu-Tyr	2849	LHSGPCFBGJHPCY-STQMWFEESA-N				
+1.1	L-leucine 4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				
+1.1	L-leucine 4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				photoinactivated enzyme
+3	L-leucine 4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with Cd2+ and Zn2+ bound
+4	L-leucine 4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				azo-enzyme
+5.3	L-leucine 4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with Zn2+ and Cd2+ bound
+14.3	L-leucine 4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				nitro-enzyme
+42	L-leucine 4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				1-ethyl-3(3-dimethylaminopropyl)-carbodiimide treated enzyme
+50	L-leucine 4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				native enzyme, buffer dependent
+55.5	L-leucine 4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				diethylpyrocarbonate-treated enzyme
+60	L-leucine 4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with 2 Zn2+ bound
+64	L-leucine 4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				
+67	L-leucine 4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				
+67.3	L-leucine 4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				native enzyme
+4320	L-leucine 4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	25	8.0		pH 8.0, 25C
+7.5	thionoleucine-4-anisidide	3045	SMOYJIVTEGSAMM-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C, enzyme with Cd2+ and Zn2+ bound
+7.9	thionoleucine-4-anisidide	3045	SMOYJIVTEGSAMM-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C, enzyme with 2 Cd2+ bound
+11.1	thionoleucine-4-anisidide	3045	SMOYJIVTEGSAMM-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C, enzyme with 2 Zn2+ bound
+12.2	thionoleucine-4-anisidide	3045	SMOYJIVTEGSAMM-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C, enzyme with Zn2+ and Cd2+ bound
+192000	L-Ala-7-amido-4-methylcoumarin	3430	YSEVYVBZTLMRHW-VIFPVBQESA-N	37	8.5		recombinant enzyme, in 0.1 M glycine buffer, pH 8.5 containing 1mM MnCl2, at 37C
+58	Leu-Trp	3819	BQVUABVGYYSDCJ-ZFWWWQNUSA-N				
+58	Leu-Trp	3819	BQVUABVGYYSDCJ-ZFWWWQNUSA-N				
+3.8	L-leucine-4-anisidide	3933	QMIKKORQMMCAGR-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C, enzyme with Zn2+ and Cd2+ bound
+9.3	L-leucine-4-anisidide	3933	QMIKKORQMMCAGR-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C, enzyme with Cd2+ and Zn2+ bound
+9.5	L-leucine-4-anisidide	3933	QMIKKORQMMCAGR-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C, enzyme with 2 Zn2+ bound
+288100	L-Cys-7-amido-4-methylcoumarin	4191	RNJPXDVSTGTHAG-NSHDSACASA-N	37	8.5		recombinant enzyme, in 0.1 M glycine buffer, pH 8.5 containing 1mM MnCl2, at 37C
+0.43	L-Val-4-nitroanilide	4596	IFIZCLBWDPSXDM-JTQLQIEISA-N	30	8.0		pH 8.0, 30C
+30	L-Leu-p-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N		7.3		recombinant enzyme, at pH 7.3
+41.3	L-Leu-p-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C
+41.7	L-Leu-p-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N		8.0		recombinant enzyme, at pH 8.0
+128	L-Leu-p-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	8.0	X	mutant enzyme D198F/F221I, at pH 8.0 and 37C
+22	Met-Phe	4950	HGCNKOLVKRAVHD-RYUDHWBXSA-N				
+1.26	L-Arg-p-nitroanilide	5470	TWYRZWVFWYSNBU-JTQLQIEISA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C
+82	L-Arg-p-nitroanilide	5470	TWYRZWVFWYSNBU-JTQLQIEISA-N	37	8.0	X	mutant enzyme D198P/F221E, at pH 8.0 and 37C
+29.6	Leu-beta-naphthylamide	2293	JWHURRLUBVMKOT-HNNXBMFYSA-N				
+29.6	Leu-beta-naphthylamide	2293	JWHURRLUBVMKOT-HNNXBMFYSA-N				
+38	Leu-beta-naphthylamide	2293	JWHURRLUBVMKOT-HNNXBMFYSA-N				
+158	Phe-Phe	5580	GKZIWHRNKRBEOH-HOTGVXAUSA-N				
+34	L-Arg-4-nitroanilide	5470	TWYRZWVFWYSNBU-JTQLQIEISA-N	30	8.0		pH 8.0, 30C
+11	Gly-7-amido-4-methylcoumarin	5924	KYIPWSXYZXKCST-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+53	Leu-Met	6276	NTISAKGPIGTIJJ-IUCAKERBSA-N				
+53	Leu-Met	6276	NTISAKGPIGTIJJ-IUCAKERBSA-N				
+6	Arg-Phe	6316	PQBHGSGQZSOLIR-RYUDHWBXSA-N				
+39	Leu-Arg	6327	SENJXOPIZNYLHU-IUCAKERBSA-N				
+39	Leu-Arg	6327	SENJXOPIZNYLHU-IUCAKERBSA-N				
+1.3	Val-Phe	6337	GJNDXQBALKCYSZ-RYUDHWBXSA-N				
+6.3	L-leucine anilide	6492	VGQPFIFWYHHVLD-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with Zn2+ and Cd2+ bound
+15.1	L-leucine anilide	6492	VGQPFIFWYHHVLD-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with Cd2+ and Zn2+ bound
+16	L-leucine anilide	6492	VGQPFIFWYHHVLD-NSHDSACASA-N	25	8.0		pH 8.0, 25C, enzyme with 2 Zn2+ bound
+10	L-Ala-L-Ala-L-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	8.0		pH 8.0, 37C
+49540	L-Leu-Gly-Gly	2848	VWHGTYCRDRBSFI-ZETCQYMHSA-N	60	7.6		pH 7.6-7.8, 60C
+15	Leu-Val	8533	MDSUKZSLOATHMH-IUCAKERBSA-N				
+15	Leu-Val	8533	MDSUKZSLOATHMH-IUCAKERBSA-N				
+6.3	Phe-beta-naphthylamide	5553	QUOLUWPVABJBKU-SFHVURJKSA-N				
+220	Leu-amide	3567	FORGMRSGVSYZQR-YFKPBYRVSA-N				
+220	Leu-amide	3567	FORGMRSGVSYZQR-YFKPBYRVSA-N				
+16	Leu-Ile	10856	AZLASBBHHSLQDB-GUBZILKMSA-N				
+16	Leu-Ile	10856	AZLASBBHHSLQDB-GUBZILKMSA-N				
+60	norleucinamide	10866	YTIHIRCOUAPRCS-UHFFFAOYSA-N				
+60	norleucinamide	10866	YTIHIRCOUAPRCS-UHFFFAOYSA-N				
+59900	L-Arg-7-amido-4-methylcoumarin	11901	ZSQPDAOJXSYJNP-GFCCVEGCSA-N	37	8.5		recombinant enzyme, in 0.1 M glycine buffer, pH 8.5 containing 1mM MnCl2, at 37C
+33800	L-Phe-7-amido-4-methylcoumarin	4500	UNWTXWNBQNGDDS-INIZCTEOSA-N	37	8.5		recombinant enzyme, in 0.1 M glycine buffer, pH 8.5 containing 1mM MnCl2, at 37C
+3.71	L-cystinyl-p-nitroanilide	12299	IREUBXFNRHMSNK-QMMMGPOBSA-N	37	8.0		wild type enzyme, at pH 8.0 and 37C
+46.7	L-cystinyl-p-nitroanilide	12299	IREUBXFNRHMSNK-QMMMGPOBSA-N	37	8.0	X	mutant enzyme D198I/F221W, at pH 8.0 and 37C
+67	norvalinamide	13855	UZRUKLJLGXLGDM-UHFFFAOYSA-N				
+6.5	Val-amide	13877	WDNNFFBCRARBGM-BYPYZUCNSA-N				
+16200	L-Thr-7-amido-4-methylcoumarin	18055	OIZVQDJSQAAKEU-RLROJCQXSA-N	37	8.5		recombinant enzyme, in 0.1 M glycine buffer, pH 8.5 containing 1mM MnCl2, at 37C
+6.2	Phe-amide	3021	OBSIQMZKFXFYLV-QMMMGPOBSA-N				
+42	Phe-methyl ester	2532	VSDUZFOSJDMAFZ-VIFPVBQESA-N				
+6.2	Ile-amide	21172	JDAMFKGXSUOWBV-AKGZTFGVSA-N				
+10	Ile-Phe	21174	WMDZARSFSMZOQO-OLPBLLBXSA-N				
+96	L-leucine ethyl ester	18815	QIGLJVBIRIXQRN-ZETCQYMHSA-N				
+145	Leu-methyl ester	9189	QVDXUKJJGUSGLS-LURJTMIESA-N				
+32	Met-amide	5691	GSYTVXOARWSQSV-BYPYZUCNSA-N				
+8.2	Met-beta-naphthylamide	6348	CHWHUPKCZKLQIM-AWEZNQCLSA-N				
+0.26	Val-beta-naphthylamide	10912	OBGGZBHESVNMSA-AWEZNQCLSA-N				
+0.001	Glu-Phe	30909	XMBSYZWANAQXEV-QWRGUYRKSA-N				

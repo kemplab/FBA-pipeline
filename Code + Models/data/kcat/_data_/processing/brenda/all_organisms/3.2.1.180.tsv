@@ -1,0 +1,34 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.3	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc6S	2094	FOPPHVQTSNWQQW-MUODBDBBSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme
+3.85	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc6S	2094	FOPPHVQTSNWQQW-MUODBDBBSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme S365H
+3.96	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc6S	2094	FOPPHVQTSNWQQW-MUODBDBBSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme T235A
+4	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc6S	2094	FOPPHVQTSNWQQW-MUODBDBBSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme
+10.2	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc6S	2094	FOPPHVQTSNWQQW-MUODBDBBSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme
+24	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc6S	2094	FOPPHVQTSNWQQW-MUODBDBBSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme
+24.8	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc6S	2094	FOPPHVQTSNWQQW-MUODBDBBSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme S368G
+41.6	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc6S	2094	FOPPHVQTSNWQQW-MUODBDBBSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme K370I
+1.69	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc	2941	DLGJWSVWTWEWBJ-NUNKILRFSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme S365H
+2.69	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc	2941	DLGJWSVWTWEWBJ-NUNKILRFSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme
+3.97	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc	2941	DLGJWSVWTWEWBJ-NUNKILRFSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme K370I
+10.8	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc	2941	DLGJWSVWTWEWBJ-NUNKILRFSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme S368G
+0.14	2,4-dinitrophenyl 4-deoxy-alpha-L-threo-hex-4-enopyranosiduronic acid	116402	ICVYTZGWBBKBED-HNBZJPLGSA-N	37	6.6		pH 6.6, 37C
+0.64	2,5-dinitrophenyl 4-deoxy-alpha-L-threo-hex-4-enopyranosiduronic acid	116403	UKZLZXNGYOLOQK-HNBZJPLGSA-N	37	6.6		pH 6.6, 37C
+0.312	2,4,6-trichlorophenyl 4-deoxy-alpha-L-threo-hex-4-enopyranosiduronic acid	116404	DKYYDJKJBVVPMY-VMAXQDLPSA-N	37	6.6		pH 6.6, 37C
+2.05	4-nitrophenyl 4-deoxy-alpha-L-threo-hex-4-enopyranosiduronic acid	116405	QOFLFSIACWCTBJ-MKPLZMMCSA-N	37	6.6		pH 6.6, 37C
+14.7	3-nitrophenyl 4-deoxy-alpha-L-threo-hex-4-enopyranosiduronic acid	116406	KYENNHLIHFAAAZ-MKPLZMMCSA-N	37	6.6		pH 6.6, 37C
+3.9	4-chlorophenyl 4-deoxy-alpha-L-threo-hex-4-enopyranosiduronic acid	116407	NAMFORRGUQZJJK-MKPLZMMCSA-N	37	6.6		pH 6.6, 37C
+4.3	phenyl 4-deoxy-alpha-L-threo-hex-4-enopyranosiduronic acid	116408	RQONKYXAQLOCAL-MKPLZMMCSA-N	37	6.6		pH 6.6, 37C
+3.27	4-tert-butylphenyl 4-deoxy-alpha-L-threo-hex-4-enopyranosiduronic acid	116409	OBIQRGJBFLTDTD-NJZAAPMLSA-N	37	6.6		pH 6.6, 37C
+18.6	benzyl 4-deoxy-alpha-L-threo-hex-4-enopyranosiduronic acid	116410	HWAGKPRMHPHCBN-UFGOTCBOSA-N	37	6.6		pH 6.6, 37C
+112	2-(acetylamino)-2-deoxy-3-O-(4-deoxy-alpha-L-threo-hex-4-enopyranuronosyl)-6-O-sulfo-D-galactopyranose	116411	BUJZTFINDCQRGP-ZTVLJYEESA-N	37	6.6		pH 6.6, 37C
+14	2-deoxy-4-O-(4-deoxy-alpha-L-threo-hex-4-enopyranuronosyl)-2-(sulfoamino)-D-glucopyranose	116412	BWLVBDNSYNAYLV-NODFLXBDSA-N	37	6.6		pH 6.6, 37C
+8.5	2-(acetylamino)-2-deoxy-3-O-(4-deoxy-alpha-L-threo-hex-4-enopyranuronosyl)-D-galactopyranose	116413	DLGJWSVWTWEWBJ-ZTVLJYEESA-N	37	6.6		pH 6.6, 37C
+0.09	2-(acetylamino)-2-deoxy-3-O-(4-deoxy-alpha-L-threo-hex-4-enopyranuronosyl)-4-O-sulfo-D-galactopyranose	116415	BWBRFVRXCBBDEH-ZTVLJYEESA-N	37	6.6		pH 6.6, 37C
+0.075	DELTAGlcUA-beta-(1-&gt;4)-GlcN2S	116412	BWLVBDNSYNAYLV-NODFLXBDSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant S370A
+0.76	DELTAGlcUA-beta-(1-&gt;4)-GlcN2S	116412	BWLVBDNSYNAYLV-NODFLXBDSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant S365G
+1.9	DELTAGlcUA-beta-(1-&gt;4)-GlcN2S	116412	BWLVBDNSYNAYLV-NODFLXBDSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant S365A
+2.8	DELTAGlcUA-beta-(1-&gt;4)-GlcN2S	116412	BWLVBDNSYNAYLV-NODFLXBDSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant S368G
+3.8	DELTAGlcUA-beta-(1-&gt;4)-GlcN2S	116412	BWLVBDNSYNAYLV-NODFLXBDSA-N	30	7.5		pH 7.5, 30C, recombinant wild-type enzyme
+6	DELTAGlcUA-beta-(1-&gt;4)-GlcN2S	116412	BWLVBDNSYNAYLV-NODFLXBDSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant S368A
+16	DELTAGlcUA-beta-(1-&gt;4)-GlcNAc	125722	URUDPLVSVSVLMS-ZDLRKIOHSA-N	30	7.5		pH 7.5, 30C, recombinant wild-type enzyme
+22	DELTAGlcUA-beta-(1-&gt;4)-GlcNAc	125722	URUDPLVSVSVLMS-ZDLRKIOHSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant F164A

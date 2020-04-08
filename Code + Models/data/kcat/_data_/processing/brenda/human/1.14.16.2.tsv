@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.017	tetrahydrobiopterin	221	FNKQXYHWGSIFBK-RPDRRWSUSA-N	30	7.2		wild type protein, in the presence of 0.01 mM dopamine, pH 7.2, 30C
+0.047	tetrahydrobiopterin	221	FNKQXYHWGSIFBK-RPDRRWSUSA-N	30	7.2	X	E332D phosphorylated mutant protein, pH 7.2, 30C
+0.06	tetrahydrobiopterin	221	FNKQXYHWGSIFBK-RPDRRWSUSA-N	30	7.2	X	E332D mutant protein, pH 7.2, 30C
+0.068	tetrahydrobiopterin	221	FNKQXYHWGSIFBK-RPDRRWSUSA-N	30	7.2	X	L294Y phosphorylated mutant protein, pH 7.2, 30C
+0.088	tetrahydrobiopterin	221	FNKQXYHWGSIFBK-RPDRRWSUSA-N	30	7.2	X	F300A mutant protein, pH 7.2, 30C
+0.11	tetrahydrobiopterin	221	FNKQXYHWGSIFBK-RPDRRWSUSA-N	30	7.2	X	F300A phosphorylated mutant protein, pH 7.2, 30C
+0.12	tetrahydrobiopterin	221	FNKQXYHWGSIFBK-RPDRRWSUSA-N	30	7.2	X	L294Y mutant protein, pH 7.2, 30C
+0.14	tetrahydrobiopterin	221	FNKQXYHWGSIFBK-RPDRRWSUSA-N	30	7.2	X	L294A phosphorylated mutant protein, pH 7.2, 30C
+0.18	tetrahydrobiopterin	221	FNKQXYHWGSIFBK-RPDRRWSUSA-N	30	7.2	X	L294A mutant protein, pH 7.2, 30C
+0.2	tetrahydrobiopterin	221	FNKQXYHWGSIFBK-RPDRRWSUSA-N	30	7.2	X	Y371F mutant protein, pH 7.2, 30C
+0.22	tetrahydrobiopterin	221	FNKQXYHWGSIFBK-RPDRRWSUSA-N	30	7.2	X	A297L phosphorylated mutant protein, pH 7.2, 30C
+0.27	tetrahydrobiopterin	221	FNKQXYHWGSIFBK-RPDRRWSUSA-N	30	7.2	X	A297L mutant protein, pH 7.2, 30C; F300Y phosphorylated mutant protein, pH 7.2, 30C
+0.3	tetrahydrobiopterin	221	FNKQXYHWGSIFBK-RPDRRWSUSA-N	30	7.2	X	F300Y mutant protein, pH 7.2, 30C; Y371F phosphorylated mutant protein, pH 7.2, 30C
+0.47	tetrahydrobiopterin	221	FNKQXYHWGSIFBK-RPDRRWSUSA-N	30	7.2		wild type, phosphorylated protein, pH 7.2, 30C
+0.58	tetrahydrobiopterin	221	FNKQXYHWGSIFBK-RPDRRWSUSA-N	30	7.2		wild type protein, pH 7.2, 30C
+0.8	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme T283M
+3.03	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	7.0		0.1 mM L-tyrosine, 0.1 mg/ml catalase, 50 mM HEPES pH 7.0, 0.01 mM ferrous ammonium sulfate, 1 mM dithiothreitol, 25C
+3.33	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30	7.0		pH 7.0, 30C, wild-type enzyme
+3.68	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme R306H
+3.87	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme T463M
+5.35	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme T245P

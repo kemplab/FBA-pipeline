@@ -1,0 +1,29 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.12	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				
+1.83	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.2		synthesis direction, cellulose binding module fusion protein (binding module derived from Clostridium thermocellum CbhA (UniProt: A3DCH2)), pH 7.2, 30C
+2.07	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.2		synthesis direction, cellulose binding module fusion protein (binding module derived from Rhodothermus marinus Xyn10A (UniProt: Q7WTN6)), pH 7.2, 30C
+2.08	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.2		synthesis direction, cellulose binding module fusion protein (binding module derived from Cellvibrio mixtus Cel5B (UniProt: O07653)), pH 7.2, 30C
+2.55	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.2		synthesis direction, cellulose binding module fusion protein (binding module derived from Thermotoga maritima Xyn10A (UniProt: Q60037)), pH 7.2, 30C
+2.67	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.2		synthesis direction, wild type protein, pH 7.2, 30C
+18.1	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	45	6.5		pH 6.5, 45C
+27.4	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	45	6.5		pH 6.5, 45C
+27.4	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	45	6.5		pH 6.5, 45C
+2.5	alpha-D-galactose 1-phosphate	410	HXXFSFRBOHSIMQ-FPRJBGLDSA-N	45	6.5		pH 6.5, 45C
+2.7	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N				
+4	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N				
+3.2	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N				
+6.9	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N				
+19.6	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	45	6.5		pH 6.5, 45C
+6.6	Cellopentaose	618	FTNIPWXXIGNQQF-FFFJRYSISA-N				
+6.1	cellohexaose	1209	OCIBBXPLUVYKCH-FYTDUCIRSA-N				
+1.08	celloheptaose	2152	BNABBHGYYMZMOA-IIXPINMKSA-N	30	7.2		synthesis direction, cellulose binding module fusion protein (binding module derived from Clostridium thermocellum CbhA (UniProt: A3DCH2)), pH 7.2, 30C
+1.37	celloheptaose	2152	BNABBHGYYMZMOA-IIXPINMKSA-N	30	7.2		degradation direction, cellulose binding module fusion protein (binding module derived from Cellvibrio mixtus Cel5B (UniProt: O07653)), pH 7.2, 30C
+2.16	celloheptaose	2152	BNABBHGYYMZMOA-IIXPINMKSA-N	30	7.2		synthesis direction, cellulose binding module fusion protein (binding module derived from Cellvibrio mixtus Cel5B (UniProt: O07653)), pH 7.2, 30C
+2.25	celloheptaose	2152	BNABBHGYYMZMOA-IIXPINMKSA-N	30	7.2		synthesis direction, cellulose binding module fusion protein (binding module derived from Rhodothermus marinus Xyn10A (UniProt: Q7WTN6)), pH 7.2, 30C
+2.7	celloheptaose	2152	BNABBHGYYMZMOA-IIXPINMKSA-N	30	7.2		degradation direction, cellulose binding module fusion protein (binding module derived from Clostridium thermocellum CbhA (UniProt: A3DCH2)), pH 7.2, 30C
+2.98	celloheptaose	2152	BNABBHGYYMZMOA-IIXPINMKSA-N	30	7.2		synthesis direction, cellulose binding module fusion protein (binding module derived from Thermotoga maritima Xyn10A (UniProt: Q60037)), pH 7.2, 30C
+3.11	celloheptaose	2152	BNABBHGYYMZMOA-IIXPINMKSA-N	30	7.2		synthesis direction, wild type protein, pH 7.2, 30C
+3.77	celloheptaose	2152	BNABBHGYYMZMOA-IIXPINMKSA-N	30	7.2		degradation direction, cellulose binding module fusion protein (binding module derived from Thermotoga maritima Xyn10A (UniProt: Q60037)), pH 7.2, 30C
+4.14	celloheptaose	2152	BNABBHGYYMZMOA-IIXPINMKSA-N	30	7.2		degradation direction, wild type protein, pH 7.2, 30C
+4.53	celloheptaose	2152	BNABBHGYYMZMOA-IIXPINMKSA-N	30	7.2		degradation direction, cellulose binding module fusion protein (binding module derived from Rhodothermus marinus Xyn10A (UniProt: Q7WTN6)), pH 7.2, 30C
+14.2	octyl beta-D-glucoside	1726	HEGSGKPQLMEBJL-RKQHYHRCSA-N	45	6.5		pH 6.5, 45C

@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000054	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	20	7.5		pH 7.5, 20C
+0.007	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	30	7.5	X	mutant enzyme N570A, in 50 mM Tris-HCl (pH 7.5), 5 mM dithiothreitol, at 30C
+0.016	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	30	7.5	X	mutant enzyme K607A, in 50 mM Tris-HCl (pH 7.5), 5 mM dithiothreitol, at 30C
+0.022	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	30	7.5		wild type enzyme, in 50 mM Tris-HCl (pH 7.5), 5 mM dithiothreitol, at 30C
+0.0001947	G(5')pppR-RNA	1834	ZIUWMCMWQNRWBT-OGYVETKCSA-O	20	7.5		pH 7.5, 20C
+0.0018	G(5')pppR-RNA	1834	ZIUWMCMWQNRWBT-OGYVETKCSA-O	30	7.5	X	mutant enzyme K607R, in 50 mM Tris-HCl (pH 7.5), 5 mM dithiothreitol, at 30C
+0.0022	G(5')pppR-RNA	1834	ZIUWMCMWQNRWBT-OGYVETKCSA-O	30	7.5	X	mutant enzyme E763A, in 50 mM Tris-HCl (pH 7.5), 5 mM dithiothreitol, at 30C
+0.003	G(5')pppR-RNA	1834	ZIUWMCMWQNRWBT-OGYVETKCSA-O	30	7.5	X	mutant enzyme F679H, in 50 mM Tris-HCl (pH 7.5), 5 mM dithiothreitol, at 30C; mutant enzyme N570D, in 50 mM Tris-HCl (pH 7.5), 5 mM dithiothreitol, at 30C
+0.0035	G(5')pppR-RNA	1834	ZIUWMCMWQNRWBT-OGYVETKCSA-O	30	7.5	X	mutant enzyme F679N, in 50 mM Tris-HCl (pH 7.5), 5 mM dithiothreitol, at 30C
+0.004	G(5')pppR-RNA	1834	ZIUWMCMWQNRWBT-OGYVETKCSA-O	30	7.5	X	mutant enzyme F679I, in 50 mM Tris-HCl (pH 7.5), 5 mM dithiothreitol, at 30C; mutant enzyme F679V, in 50 mM Tris-HCl (pH 7.5), 5 mM dithiothreitol, at 30C
+0.0057	G(5')pppR-RNA	1834	ZIUWMCMWQNRWBT-OGYVETKCSA-O	30	7.5	X	mutant enzyme N570A, in 50 mM Tris-HCl (pH 7.5), 5 mM dithiothreitol, at 30C
+0.0073	G(5')pppR-RNA	1834	ZIUWMCMWQNRWBT-OGYVETKCSA-O	30	7.5	X	mutant enzyme R632Q, in 50 mM Tris-HCl (pH 7.5), 5 mM dithiothreitol, at 30C
+0.0095	G(5')pppR-RNA	1834	ZIUWMCMWQNRWBT-OGYVETKCSA-O	30	7.5	X	mutant enzyme F679L, in 50 mM Tris-HCl (pH 7.5), 5 mM dithiothreitol, at 30C
+0.018	G(5')pppR-RNA	1834	ZIUWMCMWQNRWBT-OGYVETKCSA-O	30	7.5	X	mutant enzyme K607Q, in 50 mM Tris-HCl (pH 7.5), 5 mM dithiothreitol, at 30C
+0.02	G(5')pppR-RNA	1834	ZIUWMCMWQNRWBT-OGYVETKCSA-O	30	7.5	X	mutant enzyme K607A, in 50 mM Tris-HCl (pH 7.5), 5 mM dithiothreitol, at 30C
+0.022	G(5')pppR-RNA	1834	ZIUWMCMWQNRWBT-OGYVETKCSA-O	30	7.5	X	mutant enzyme E763A, in 50 mM Tris-HCl (pH 7.5), 5 mM dithiothreitol, at 30C; wild type enzyme, in 50 mM Tris-HCl (pH 7.5), 5 mM dithiothreitol, at 30C
+0.0983	GpppA	12130	PMJUJCUPNRCBNP-BILJAGFLSA-N				

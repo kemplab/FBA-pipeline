@@ -1,0 +1,53 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0005	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	25	7.5	X	kcat below 0.0005 s-1, mutant enzyme C167A, in 50 mM sodium phosphate (pH 7.5), at 25C
+0.0006	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	25	7.5	X	mutant enzyme D8E, in 50 mM sodium phosphate (pH 7.5), at 25C
+0.0009	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	25	7.5	X	mutant enzyme D8A, in 50 mM sodium phosphate (pH 7.5), at 25C; mutant enzyme D8N, in 50 mM sodium phosphate (pH 7.5), at 25C; mutant enzyme K122R, in 50 mM sodium phosphate (pH 7.5), at 25C
+0.003	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	25	7.3		wild type enzyme, in 100 mM phosphate buffer, pH 7.3 at 25C
+0.007	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	25	7.5	X	mutant enzyme D51A, in 50 mM sodium phosphate (pH 7.5), at 25C
+0.014	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	25	7.5	X	mutant enzyme H53A, in 50 mM sodium phosphate (pH 7.5), at 25C
+0.02	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	25	7.5	X	mutant enzyme H94A, in 50 mM sodium phosphate (pH 7.5), at 25C
+0.044	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	25	7.5	X	mutant enzyme K122A, in 50 mM sodium phosphate (pH 7.5), at 25C
+0.064	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	25	7.5	X	mutant enzyme D51N, in 50 mM sodium phosphate (pH 7.5), at 25C
+0.28	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	25	7.3		wild type enzyme isoform PNC2, in 100 mM phosphate buffer, pH 7.3 at 25C
+0.3	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	25	7.3		wild type enzyme, in 100 mM phosphate buffer, pH 7.3 at 25C
+0.5	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	25	8.0	X	mutant enzyme H57D, in 100 mM HEPES at pH 8.0 and 25C
+0.69	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 50 mM sodium phosphate (pH 7.5), at 25C
+0.93	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N				
+2.1	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	25	7.3		wild type enzyme, in 100 mM phosphate buffer, pH 7.3 at 25C
+2.37	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	37	7.3	X	recombinant mutant Q96K, pH 7.3, 37C
+3.1	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	25	7.3		wild type enzyme isoform PNC1, in 100 mM phosphate buffer, pH 7.3 at 25C
+3.1	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	25	8.0		wild type enzyme, in 100 mM HEPES at pH 8.0 and 25C
+3.8	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	25	7.3		wild type enzyme, in 100 mM phosphate buffer, pH 7.3 at 25C
+5.63	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	37	7.3	X	recombinant mutant E65H, pH 7.3, 37C
+8.79	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	37	7.3	X	recombinant mutant F68W, pH 7.3, 37C
+9.82	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	37	7.3	X	recombinant mutant F68W/C133A, pH 7.3, 37C
+11.65	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	37	7.3		recombinant wild-type enzyme, pH 7.3, 37C
+13.6	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	37	7.3	X	recombinant mutant C133A, pH 7.3, 37C
+16.05	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	37	7.3	X	recombinant mutant Q96A, pH 7.3, 37C
+76.9	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N				pH and temperature not specified in the publication
+76.9	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	60	7.5		pH 7.5, 60C
+0.0088	Benzamide	1062	KXDAEFPNCMNJSK-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 50 mM sodium phosphate (pH 7.5), at 25C
+0.1	Pyrazinamide	2597	IPEHBUMCGVEMRF-UHFFFAOYSA-N	25	8.0	X	mutant enzyme H57D, in 100 mM HEPES at pH 8.0 and 25C
+0.43	Pyrazinamide	2597	IPEHBUMCGVEMRF-UHFFFAOYSA-N	37	7.3	X	recombinant mutant E65H, pH 7.3, 37C
+0.45	Pyrazinamide	2597	IPEHBUMCGVEMRF-UHFFFAOYSA-N	37	7.3	X	recombinant mutant Q96K, pH 7.3, 37C
+1.61	Pyrazinamide	2597	IPEHBUMCGVEMRF-UHFFFAOYSA-N	37	7.3	X	recombinant mutant Q96A, pH 7.3, 37C
+2.56	Pyrazinamide	2597	IPEHBUMCGVEMRF-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 50 mM sodium phosphate (pH 7.5), at 25C
+2.6	Pyrazinamide	2597	IPEHBUMCGVEMRF-UHFFFAOYSA-N	37	7.3		recombinant wild-type enzyme, pH 7.3, 37C
+3.31	Pyrazinamide	2597	IPEHBUMCGVEMRF-UHFFFAOYSA-N	37	7.3	X	recombinant mutant C133A, pH 7.3, 37C
+3.8	Pyrazinamide	2597	IPEHBUMCGVEMRF-UHFFFAOYSA-N	25	8.0		wild type enzyme, in 100 mM HEPES at pH 8.0 and 25C
+3.94	Pyrazinamide	2597	IPEHBUMCGVEMRF-UHFFFAOYSA-N	37	7.3	X	recombinant mutant F68W, pH 7.3, 37C
+5.21	Pyrazinamide	2597	IPEHBUMCGVEMRF-UHFFFAOYSA-N	37	7.3	X	recombinant mutant F68W/C133A, pH 7.3, 37C
+135.7	Pyrazinamide	2597	IPEHBUMCGVEMRF-UHFFFAOYSA-N	60	7.5		pH 7.5, 60C
+1.75	5-Methylnicotinamide	4812	BCCUXBGEPLKSEX-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 50 mM sodium phosphate (pH 7.5), at 25C
+2.16	5-methyl nicotinamide	4812	BCCUXBGEPLKSEX-UHFFFAOYSA-N	37	7.3	X	recombinant mutant Q96K, pH 7.3, 37C
+5.1	5-methyl nicotinamide	4812	BCCUXBGEPLKSEX-UHFFFAOYSA-N	37	7.3		recombinant wild-type enzyme, pH 7.3, 37C
+7.09	5-methyl nicotinamide	4812	BCCUXBGEPLKSEX-UHFFFAOYSA-N	37	7.3	X	recombinant mutant C133A, pH 7.3, 37C
+15.9	5-methyl nicotinamide	4812	BCCUXBGEPLKSEX-UHFFFAOYSA-N	37	7.3	X	recombinant mutant Q96A, pH 7.3, 37C
+0.17	methyl nicotinate	65170	YNBADRVTZLEFNH-UHFFFAOYSA-N	37	7.3	X	recombinant mutant Q96K, pH 7.3, 37C
+0.32	methyl nicotinate	65170	YNBADRVTZLEFNH-UHFFFAOYSA-N	37	7.3		recombinant wild-type enzyme, pH 7.3, 37C
+0.6	methyl nicotinate	65170	YNBADRVTZLEFNH-UHFFFAOYSA-N	37	7.3	X	recombinant mutant Q96A, pH 7.3, 37C
+1.02	methyl nicotinate	65170	YNBADRVTZLEFNH-UHFFFAOYSA-N	37	7.3	X	recombinant mutant C133A, pH 7.3, 37C
+0.05	ethyl nicotinate	119555	XBLVHTDFJBKJLG-UHFFFAOYSA-N	37	7.3	X	recombinant mutant Q96K, pH 7.3, 37C
+0.1	ethyl nicotinate	119555	XBLVHTDFJBKJLG-UHFFFAOYSA-N	37	7.3		recombinant wild-type enzyme, pH 7.3, 37C
+0.14	ethyl nicotinate	119555	XBLVHTDFJBKJLG-UHFFFAOYSA-N	37	7.3	X	recombinant mutant C133A, pH 7.3, 37C
+0.19	ethyl nicotinate	119555	XBLVHTDFJBKJLG-UHFFFAOYSA-N	37	7.3	X	recombinant mutant Q96A, pH 7.3, 37C

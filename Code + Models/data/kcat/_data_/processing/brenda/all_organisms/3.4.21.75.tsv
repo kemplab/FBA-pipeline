@@ -1,0 +1,62 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00088	Acetyl-Orn-Ser-Lys-Arg-4-methylcoumarin 7-amide	14821	GOMHIRRHPLUXHX-QORCZRPOSA-N				
+0.000934	Acetyl-Arg-Glu-Lys-Arg-4-methylcoumarin 7-amide	20150	PYAJRPOAKXPDGH-CQJMVLFOSA-N				
+0.00111	Acetyl-Arg-Pro-Lys-Arg-4-methylcoumarin 7-amide	20153	RBCCPHKKMQHJMJ-FWEHEUNISA-N				
+0.00135	acetyl-Tyr-Glu-Lys-Glu-Arg-Ser-Lys-4-methylcoumarin 7-amide	30016	XNLVMYWRAHIYST-OAKHNGAUSA-N				
+0.00159	Acetyl-Lys-Ser-Lys-Arg-4-methylcoumarin 7-amide	20157	YKZGAYOFLCUHBN-CQJMVLFOSA-N				
+0.003	Boc-RVRR-7-amido-4-methylcoumarin	9196	YWISVGSSAYEYKH-VZTVMPNDSA-N				
+0.008	pERKTR-7-amido-4-methylcoumarin	24880	XCPXPHUNKHDHLB-FERVJVIXSA-N				
+0.02	Acetyl-Arg-Lys-Lys-Arg-4-methylcoumarin 7-amide	20151	WEHVWXWWMWQGHI-LJWNLINESA-N				
+0.0403	Acetyl-Arg-Ser-Lys-Arg-4-methylcoumarin 7-amide	20154	LOCIBXKCBOHUGV-QORCZRPOSA-N				
+0.0507	Acetyl-Arg-Phe-Ala-Arg-4-methylcoumarin 7-amide	20152	WJIJRVKEVFZHMT-FYYOVZQQSA-N				
+0.192	tert-butoxycarbonyl-Arg-Val-Arg-Arg-4-methylcoumarin 7-amide	9196	YWISVGSSAYEYKH-VZTVMPNDSA-N				
+0.21	Abz-SRRHKRFAGVQ-N-(2,4-dinitrophenyl)ethylenediamine	114552	APLROOFQZMYKOO-UVMOHDBISA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+0.6	Abz-KIRRRRDVVDQ-N-(2,4-dinitrophenyl)ethylenediamine	114549	SVACWLNBTWXFGM-QOPXAMPLSA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+0.61	Abz-LKRRRRDTQQQ-N-(2,4-dinitrophenyl)ethylenediamine	114551	LKGXAIZJXULCBW-GZSBHFTPSA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+0.7	acetyl-RVRR-4-methylcoumarin 7-amide	27434	KGGQDSCYXINWDZ-MGDCHWCSSA-N	37	7.0		pH 7.0, 37C
+1	Abz-RRRKKRSLFGQ-N-(2,4-dinitrophenyl)ethylenediamine	113800	RBTSWYGNPPAXBI-CSXZFWIZSA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+2	Abz-NLRRRRDLVDQ-N-(2,4-dinitrophenyl)ethylenediamine	114550	HEPJSMASZAXRQU-UVIYYSGRSA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+2.4	Abz-RRRKKRGLSGQ-N-(2,4-dinitrophenyl)ethylenediamine	114558	STGJOLDHBMVTDR-ZTNWZYIDSA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+2.4	Abz-SRRHKRFAGVQ-N-(2,4-dinitrophenyl)ethylenediamine	114552	APLROOFQZMYKOO-UVMOHDBISA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+2.6	Abz-RERRRKKRGLFGQ-N-(2,4-dinitrophenyl)ethylenediamine	114559	QCWILZVAUUXYJG-XZNVYLCOSA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+3.1	Abz-KIRRRRDVVDQ-N-(2,4-dinitrophenyl)ethylenediamine	114549	SVACWLNBTWXFGM-QOPXAMPLSA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+3.5	Abz-NLRRRRDLVDQ-N-(2,4-dinitrophenyl)ethylenediamine	114550	HEPJSMASZAXRQU-UVIYYSGRSA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+3.6	Abz-GRRTRREAIVQ-N-(2,4-dinitrophenyl)ethylenediamine	114542	JTDNCWZARNJDES-TZBLHJEPSA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+4.2	Abz-GRRTRREAIVQ-N-(2,4-dinitrophenyl)ethylenediamine	114542	JTDNCWZARNJDES-TZBLHJEPSA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+5	Abz-RRRKKRGLFGQ-N-(2,4-dinitrophenyl)ethylenediamine	114572	AGWXJEMDEYWKIH-WIVDLTSQSA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+5.3	Abz-RRRAKRSPKHQ-N-(2,4-dinitrophenyl)ethylenediamine	114554	GDRQFQFSQBZHIQ-JWXOTALOSA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+5.6	Abz-SSRHRRALDTQ-N-(2,4-dinitrophenyl)ethylenediamine	114555	FCMKPZRPMNYCQA-GMSIUIHLSA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+6.3	Abz-HKREKRQAKHQ-N-(2,4-dinitrophenyl)ethylenediamine	114557	UKJXDXXABTVWNL-GUBPWTFESA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+6.7	Abz-LKRRRRDTQQQ-N-(2,4-dinitrophenyl)ethylenediamine	114551	LKGXAIZJXULCBW-GZSBHFTPSA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+6.7	Abz-RRRKKRGLSGQ-N-(2,4-dinitrophenyl)ethylenediamine	114558	STGJOLDHBMVTDR-ZTNWZYIDSA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+6.9	Abz-HKREKRQAKHQ-N-(2,4-dinitrophenyl)ethylenediamine	114557	UKJXDXXABTVWNL-GUBPWTFESA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+7.1	Abz-SSRHRRALDTQ-N-(2,4-dinitrophenyl)ethylenediamine	114555	FCMKPZRPMNYCQA-GMSIUIHLSA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+7.6	Abz-HRREKRSVALQ-N-(2,4-dinitrophenyl)ethylenediamine	24888	MSWPEGQDNQRCSE-YZQJTKEUSA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+7.6	Abz-RRRKKRSLFGQ-N-(2,4-dinitrophenyl)ethylenediamine	113800	RBTSWYGNPPAXBI-CSXZFWIZSA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+8.4	Abz-RKRSRRQVNTQ-N-(2,4-dinitrophenyl)ethylenediamine	114541	CZGIZVIMAZPZFL-TWPCAAJCSA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+8.7	Abz-RRRAKRSPKHQ-N-(2,4-dinitrophenyl)ethylenediamine	114554	GDRQFQFSQBZHIQ-JWXOTALOSA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+9.2	Abz-HRRQKRSVALQ-N-(2,4-dinitrophenyl)ethylenediamine	114545	CPQYALFFLZOSAR-YZQJTKEUSA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+9.2	Abz-SRRKRRDVTPQ-N-(2,4-dinitrophenyl)ethylenediamine	114543	JZUHBJQVJMFIET-FCMIOAFQSA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+9.9	Abz-SRRKRRDVTPQ-N-(2,4-dinitrophenyl)ethylenediamine	114543	JZUHBJQVJMFIET-FCMIOAFQSA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+10	Abz-SRRKRRSASTQ-N-(2,4-dinitrophenyl)ethylenediamine	114548	WULXUAUALZFAPR-KUEAMZPKSA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+10.5	Abz-SKRSRRSVSVQ-N-(2,4-dinitrophenyl)ethylenediamine	99641	LBXLUPFKNAJMJG-QGRMMBMDSA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+11.1	Abz-SRRKRRSASTQ-N-(2,4-dinitrophenyl)ethylenediamine	114548	WULXUAUALZFAPR-KUEAMZPKSA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+11.3	Abz-RKRSRRQVNTQ-N-(2,4-dinitrophenyl)ethylenediamine	114541	CZGIZVIMAZPZFL-TWPCAAJCSA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+12.2	Abz-HRREKRSVALQ-N-(2,4-dinitrophenyl)ethylenediamine	24888	MSWPEGQDNQRCSE-YZQJTKEUSA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+12.2	Abz-RRRDKRSVALQ-N-(2,4-dinitrophenyl)ethylenediamine	114546	GIGMNDMQKDPJED-RUQMXQSSSA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+12.3	Abz-RERRRKKRGLFGQ-N-(2,4-dinitrophenyl)ethylenediamine	114559	QCWILZVAUUXYJG-XZNVYLCOSA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+14.6	Abz-RRRDKRSVALQ-N-(2,4-dinitrophenyl)ethylenediamine	114546	GIGMNDMQKDPJED-RUQMXQSSSA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+14.9	Abz-HRRQKRSVALQ-N-(2,4-dinitrophenyl)ethylenediamine	114545	CPQYALFFLZOSAR-YZQJTKEUSA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+16.4	Abz-TRRFRRSITEQ-N-(2,4-dinitrophenyl)ethylenediamine	114553	RYJMHSBQQLAAQN-HKYFVUSESA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+18.3	Abz-SKRSRRSVSVQ-N-(2,4-dinitrophenyl)ethylenediamine	99641	LBXLUPFKNAJMJG-QGRMMBMDSA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+19.8	Abz-TRRFRRSITEQ-N-(2,4-dinitrophenyl)ethylenediamine	114553	RYJMHSBQQLAAQN-HKYFVUSESA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+21	Boc-RVRR-4-methylcoumarin-7-amide	9196	YWISVGSSAYEYKH-VZTVMPNDSA-N	37	7.0		pH 7.0, 37C
+28.9	Abz-HHRQRRSVSIQ-N-(2,4-dinitrophenyl)ethylenediamine	114556	FWEHFTBQHUVXJZ-WBCWVJNRSA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+29.3	2-Aminobenzoyl-Arg-Val-Lys-Arg-Gly-Leu-Ala-Tyr(NO2)-Asp-OH	19942	CAFFKEBMWRRZGF-GYWMVPMNSA-N				
+29.6	Abz-GIRRKRSVSHQ-N-(2,4-dinitrophenyl)ethylenediamine	114547	MKMFZFSPHHUKDC-PVNCIQAVSA-N	37	7.0		pH 7.0, 37C, presence of Mg2+
+30.3	Abz-GIRRKRSVSHQ-N-(2,4-dinitrophenyl)ethylenediamine	114547	MKMFZFSPHHUKDC-PVNCIQAVSA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+39.5	Abz-HHRQRRSVSIQ-N-(2,4-dinitrophenyl)ethylenediamine	114556	FWEHFTBQHUVXJZ-WBCWVJNRSA-N	37	7.0		pH 7.0, 37C, absence of Mg2+
+50	Ac-norleucineYKR-4-methylcoumarin-7-amide	14815	KROFIVLNLQZMKA-BBACVFHCSA-N	37	7.0		pH 7.0, 37C
+193	AcRYKR-4-methylcoumarin-7-amide	14813	UIQDTLXGCADWBS-ORYMTKCHSA-N	37	7.0		pH 7.0, 37C
+200	AcRYRFKR-4-methylcoumarin-7-amide	14812	JDGGLRZEWHDRDK-KHVQSSSXSA-N	37	7.0		pH 7.0, 37C
+250	AcRARYKR-4-methylcoumarin-7-amide	14814	GOUOALBXTYYYAV-QJSKOQLASA-N	37	7.0		pH 7.0, 37C

@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00065	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.9	X	pH 7.9, 37C, mutant enzyme R425A
+0.0013	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.9	X	pH 7.9, 37C, mutant enzyme R423A
+0.005	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.9	X	pH 7.9, 37C, mutant enzyme D421A
+0.0135	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.9	X	pH 7.9, 37C, mutant enzyme R425K
+0.1	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	8.0	X	pH 8.0, 37C, initiating nucleotide in dGrA synthesis, mutant enzyme Y639F/S641A
+0.22	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	8.0		pH 8.0, 37C, initiating nucleotide in dGrA synthesis, wild-type enzyme
+0.25	rGTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37	8.0	X	pH 8.0, 37C, initiating nucleotide in rGrA synthesis, mutant enzyme Y639F/S641A
+0.253	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.9	X	pH 7.9, 37C, mutant enzyme Y427A
+0.26	rGTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37	8.0		pH 8.0, 37C, initiating nucleotide in rGrA synthesis, wild-type enzyme
+0.28	rGTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37	8.0	X	pH 8.0, 37C, initiating nucleotide in rGrA synthesis, mutant enzyme Y639F
+0.32	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	8.0	X	pH 8.0, 37C, initiating nucleotide in dGrA synthesis, mutant enzyme S641A
+0.34	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	37	8.0	X	pH 8.0, 37C, initiating nucleotide in dGrA synthesis, mutant enzyme Y639F
+0.35	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.9	X	pH 7.9, 37C, mutant enzyme W422A
+0.38	rGTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37	8.0	X	pH 8.0, 37C, initiating nucleotide in rGrA synthesis, mutant enzyme S641A
+0.482	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.9		pH 7.9, 37C, wild-type enzyme

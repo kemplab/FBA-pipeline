@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.007	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	25	7.7		pH 7.7, 25C, recombinant enzyme, with pimeloyl-CoA
+0.028	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	7.5		5-aminolevulinate synthase-fusion protein (single chain chimeric dimer), pH 7.5, 30C
+0.06	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N				wild type protein, pH not specified in the publication, temperature not specified in the publication
+0.11	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	7.5		pH 7.5, 30C, recombinant enzyme
+0.0036	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	7.7		pH 7.7, 25C, recombinant enzyme, with pimeloyl-CoA
+0.000833	pimeloyl-CoA	1946	LYCRXMTYUZDUGA-UYRKPTJQSA-N				
+0.001	pimeloyl-CoA	1946	LYCRXMTYUZDUGA-UYRKPTJQSA-N				
+0.004	pimeloyl-CoA	1946	LYCRXMTYUZDUGA-UYRKPTJQSA-N	25	7.7		pH 7.7, 25C, recombinant enzyme
+0.005	pimeloyl-CoA	1946	LYCRXMTYUZDUGA-UYRKPTJQSA-N				
+0.1	pimeloyl-CoA	1946	LYCRXMTYUZDUGA-UYRKPTJQSA-N	30	7.5		pH 7.5, 30C, recombinant enzyme
+0.5	pimeloyl-CoA	1946	LYCRXMTYUZDUGA-UYRKPTJQSA-N				

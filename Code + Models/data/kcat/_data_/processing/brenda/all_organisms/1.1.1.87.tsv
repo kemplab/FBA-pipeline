@@ -1,0 +1,41 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.38	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	7.8		recombinant His-tagged enzyme, pH 7.8, 20C
+0.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	20	7.8		native enzyme, pH 7.8, 20C
+10.9	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	25	7.8	X	pH 7.8, 25C, recombinant mutant A80del
+14.8	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	70	7.8		pH 7.8, 70C, recombinant enzyme
+42.8	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	25	7.8		pH 7.8, 25C, recombinant wild-type enzyme
+43	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	28	7.8		pH 7.8, 28C, recombinant enzyme
+211	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	60	7.5	X	pH 7.5, 60C, recombinant mutant V135M
+438	isocitrate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	60	7.5		pH 7.5, 60C, recombinant wild-type enzyme
+0.37	isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	28	7.8		pH 7.8, 28C, recombinant enzyme
+0.371	3-isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	25	7.8		pH 7.8, 25C, recombinant wild-type enzyme
+5.46	homoisocitrate	1388	OEJZZCGRGVFWHK-WVZVXSGGSA-N	25	7.8	X	pH 7.8, 25C, recombinant mutant A80del
+13.7	homoisocitrate	1388	OEJZZCGRGVFWHK-WVZVXSGGSA-N	70	7.8		pH 7.8, 70C, recombinant enzyme
+17	homoisocitrate	1388	OEJZZCGRGVFWHK-WVZVXSGGSA-N	36	7.8		pH 7.8, 36C, recombinant enzyme
+17	homoisocitrate	1388	OEJZZCGRGVFWHK-WVZVXSGGSA-N				
+20.8	homoisocitrate	1388	OEJZZCGRGVFWHK-WVZVXSGGSA-N	25	7.8	X	pH 7.8, 25C, recombinant mutant R87V
+27.8	homoisocitrate	1388	OEJZZCGRGVFWHK-WVZVXSGGSA-N	25	7.8	X	pH 7.8, 25C, recombinant mutant R87T
+46	homoisocitrate	1388	OEJZZCGRGVFWHK-WVZVXSGGSA-N	28	7.8		pH 7.8, 28C, recombinant enzyme
+46.2	homoisocitrate	1388	OEJZZCGRGVFWHK-WVZVXSGGSA-N	25	7.8		pH 7.8, 25C, recombinant wild-type enzyme
+0.38	(1R,2S)-1-hydroxybutane-1,2,4-tricarboxylate	1388	OEJZZCGRGVFWHK-WVZVXSGGSA-N	20	7.8		recombinant His-tagged enzyme, pH 7.8, 20C
+0.4	(1R,2S)-1-hydroxybutane-1,2,4-tricarboxylate	1388	OEJZZCGRGVFWHK-WVZVXSGGSA-N	20	7.8		native enzyme, pH 7.8, 20C
+0.61	ethylmalate	6388	FHHFKGGCXNOIAY-UHFFFAOYSA-N	36	7.8		pH 7.8, 36C, recombinant enzyme
+43	ethylmalate	6388	FHHFKGGCXNOIAY-UHFFFAOYSA-N	28	7.8		pH 7.8, 28C, recombinant enzyme
+0.5	3-vinylmalate	7821	CCYHZXJMZCTPIG-SRBOSORUSA-N	36	7.8		pH 7.8, 36C, recombinant enzyme
+0.77	3-vinylmalate	7821	CCYHZXJMZCTPIG-SRBOSORUSA-N	28	7.8		pH 7.8, 28C, recombinant enzyme
+0.78	(2R,3S)-3-(2-hydroxyethyl)malate	12002	IBSXAXGEWZOBHE-IUYQGCFVSA-L	36	7.8		pH 7.8, 36C, recombinant enzyme
+25	(2R,3S)-3-(2-hydroxyethyl)malate	12002	IBSXAXGEWZOBHE-IUYQGCFVSA-L	28	7.8		pH 7.8, 28C, recombinant enzyme
+4.8	(2R,3S)-3-(3-hydroxypropyl)malate	12003	KECVEWRVUJTIHH-CRCLSJGQSA-L	36	7.8		pH 7.8, 36C, recombinant enzyme
+29	(2R,3S)-3-(3-hydroxypropyl)malate	12003	KECVEWRVUJTIHH-CRCLSJGQSA-L	28	7.8		pH 7.8, 28C, recombinant enzyme
+2	(2R,3S)-3-(4-hydroxybutyl)malate	12004	RFXSBIXRJRNIIC-NTSWFWBYSA-L	28	7.8		pH 7.8, 28C, recombinant enzyme
+2.1	(2R,3S)-3-(4-hydroxybutyl)malate	12004	RFXSBIXRJRNIIC-NTSWFWBYSA-L	36	7.8		pH 7.8, 36C, recombinant enzyme
+0.7	(2R,3S)-3-propylmalic acid	12005	LOLHYFQEDPGSHZ-CRCLSJGQSA-N	36	7.8		pH 7.8, 36C, recombinant enzyme
+53	(2R,3S)-3-propylmalic acid	12005	LOLHYFQEDPGSHZ-CRCLSJGQSA-N	28	7.8		pH 7.8, 28C, recombinant enzyme
+0.34	(2R,3S)-3-allylmalic acid	12006	DRCAYRSHVJTTSP-CRCLSJGQSA-N	36	7.8		pH 7.8, 36C, recombinant enzyme
+37	(2R,3S)-3-allylmalic acid	12006	DRCAYRSHVJTTSP-CRCLSJGQSA-N	28	7.8		pH 7.8, 28C, recombinant enzyme
+0.14	(2R,3S)-3-(4-pentenyl)malic acid	12007	HAAMULIEFZJXEA-NKWVEPMBSA-N	36	7.8		pH 7.8, 36C, recombinant enzyme
+3	(2R,3S)-3-(4-pentenyl)malic acid	12007	HAAMULIEFZJXEA-NKWVEPMBSA-N	28	7.8		pH 7.8, 28C, recombinant enzyme
+0.59	trisodium (2S,3R)-2-(carboxylatomethoxy)-3-hydroxybutanedioate	12386	MSGGTFRFDCEHIM-MGFVMINGSA-K				
+2	trisodium (2S,3R)-2-[(carboxylatomethyl)amino]-3-hydroxybutanedioate	16821	HKCSWQONXMHQOW-HRACXRGFSA-K				
+171	1-hydroxy-1,2,4-butanetricarboxylate	1388	OEJZZCGRGVFWHK-WVZVXSGGSA-N	60	8.0		purified enzyme, pH 8.0, 60C
+171	1-hydroxy-1,2,3-propanetricarboxylate	242	ODBLHEXUDAPZAU-UHFFFAOYSA-N	60	8.0		purified enzyme, pH 8.0, 60C

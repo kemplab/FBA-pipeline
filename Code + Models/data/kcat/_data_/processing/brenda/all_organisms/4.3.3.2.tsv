@@ -1,0 +1,42 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.002	tryptamine	310	APJYDQYYACXCRM-UHFFFAOYSA-N				
+0.015	tryptamine	310	APJYDQYYACXCRM-UHFFFAOYSA-N				HPLC, neutral pH, micromolar to low millimolar substrate concentrations
+0.057	tryptamine	310	APJYDQYYACXCRM-UHFFFAOYSA-N				wild-type enzyme
+0.64	tryptamine	310	APJYDQYYACXCRM-UHFFFAOYSA-N			X	mutant V208A
+1.3	tryptamine	310	APJYDQYYACXCRM-UHFFFAOYSA-N				wild-type strictosidine synthase expressed in yeast
+10.65	tryptamine	310	APJYDQYYACXCRM-UHFFFAOYSA-N				wild-type enzyme
+10.65	tryptamine	310	APJYDQYYACXCRM-UHFFFAOYSA-N				wild-type enzyme
+11.31	tryptamine	310	APJYDQYYACXCRM-UHFFFAOYSA-N			X	mutant V208A
+54.09	tryptamine	310	APJYDQYYACXCRM-UHFFFAOYSA-N			X	mutant V208A
+11.13	serotonin	365	QZAYGJVTTNCVMB-UHFFFAOYSA-N				wild-type enzyme
+4.5	secologanin	892	CSKKDSFETGLMSB-NRZPKYKESA-N				in reaction with tryptamine
+0.0016	3-(2-aminoethyl)-1H-indol-5-ol	365	QZAYGJVTTNCVMB-UHFFFAOYSA-N				HPLC, neutral pH, micromolar to low millimolar substrate concentrations
+3.4	5-fluoro-tryptamine	4937	ZKIORVIXEWIOGB-UHFFFAOYSA-N				wild-type enzyme
+3.8	5-fluoro-tryptamine	4937	ZKIORVIXEWIOGB-UHFFFAOYSA-N			X	mutant V208A
+21.24	5-fluoro-tryptamine	4937	ZKIORVIXEWIOGB-UHFFFAOYSA-N			X	mutant V208A
+37.46	5-fluoro-tryptamine	4937	ZKIORVIXEWIOGB-UHFFFAOYSA-N				wild-type enzyme
+0.52	6-fluoro-tryptamine	7971	BQTOKMYKZPCPRW-UHFFFAOYSA-N			X	mutant V208A
+13.63	6-fluoro-tryptamine	7971	BQTOKMYKZPCPRW-UHFFFAOYSA-N			X	mutant V208A
+16.9	6-fluoro-tryptamine	7971	BQTOKMYKZPCPRW-UHFFFAOYSA-N				wild-type enzyme
+23.37	6-fluoro-tryptamine	7971	BQTOKMYKZPCPRW-UHFFFAOYSA-N				wild-type enzyme
+0.025	5-hydroxy-tryptamine	365	QZAYGJVTTNCVMB-UHFFFAOYSA-N				wild-type enzyme
+0.99	5-hydroxy-tryptamine	365	QZAYGJVTTNCVMB-UHFFFAOYSA-N			X	mutant V208A
+18.12	5-hydroxy-tryptamine	365	QZAYGJVTTNCVMB-UHFFFAOYSA-N			X	mutant V208A
+562.1	5-hydroxy-tryptamine	365	QZAYGJVTTNCVMB-UHFFFAOYSA-N				wild-type enzyme
+0.057	6-methyl-tryptamine	9466	GEVXFHYJXGYXJP-UHFFFAOYSA-N			X	mutant V208A
+2.32	6-methyl-tryptamine	9466	GEVXFHYJXGYXJP-UHFFFAOYSA-N				wild-type enzyme
+10.95	6-methyl-tryptamine	9466	GEVXFHYJXGYXJP-UHFFFAOYSA-N			X	mutant V208A
+0.97	6-methoxy-tryptamine	9467	VOCGEKMEZOPDFP-UHFFFAOYSA-N			X	mutant V208A
+5.32	6-methoxy-tryptamine	9467	VOCGEKMEZOPDFP-UHFFFAOYSA-N				wild-type enzyme
+16.66	6-methoxy-tryptamine	9467	VOCGEKMEZOPDFP-UHFFFAOYSA-N			X	mutant V208A
+0.0093	2-(6-fluoro-1H-indol-3-yl)ethanamine	7971	BQTOKMYKZPCPRW-UHFFFAOYSA-N				HPLC, neutral pH, micromolar to low millimolar substrate concentrations
+0.03	5-methyl-tryptamine	16700	PYOUAIQXJALPKW-UHFFFAOYSA-N			X	mutant V208A
+6.56	5-methyl-tryptamine	16700	PYOUAIQXJALPKW-UHFFFAOYSA-N			X	mutant V208A
+0.21	5-methoxy-tryptamine	5404	JTEJPPKMYBDEMY-UHFFFAOYSA-N			X	mutant V208A
+79.66	5-methoxy-tryptamine	5404	JTEJPPKMYBDEMY-UHFFFAOYSA-N			X	mutant V208A
+0.0038	2-benzofuran-3-yl-ethylamine	23450	NEHYFMQXSNIAMZ-UHFFFAOYSA-N				HPLC, neutral pH, micromolar to low millimolar substrate concentrations
+0.058	2-(4-fluoro-1H-indol-3-yl)ethanamine	23451	QTNVDKAISCZLHR-UHFFFAOYSA-N				HPLC, neutral pH, micromolar to low millimolar substrate concentrations
+0.0072	2-(5-fluoro-1H-indol-3-yl)ethanamine	4937	ZKIORVIXEWIOGB-UHFFFAOYSA-N				HPLC, neutral pH, micromolar to low millimolar substrate concentrations
+0.0018	2-(7-fluoro-1H-indol-3-yl)ethanamine	23452	QRAWNNQNLQPNIZ-UHFFFAOYSA-N				HPLC, neutral pH, micromolar to low millimolar substrate concentrations
+0.0031	2-(4-methyl-1H-indol-3-yl)ethanamine	23016	QCUCAQZMPVIYAJ-UHFFFAOYSA-N				HPLC, neutral pH, micromolar to low millimolar substrate concentrations
+0.0048	2-(7-methyl-1H-indol-3-yl)ethanamine	23453	SGGBZKQTWMKXHD-UHFFFAOYSA-N				HPLC, neutral pH, micromolar to low millimolar substrate concentrations

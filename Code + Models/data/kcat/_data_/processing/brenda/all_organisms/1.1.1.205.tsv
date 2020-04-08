@@ -1,0 +1,68 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0217	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				type II enzyme
+0.025	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				type I enzyme
+0.0433	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				
+0.27	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0		absence of K+, pH 8.0, 25C
+0.39	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0		pH 8.0, 25C
+0.53	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	22	8.0		recombinant wild-type enzyme, pH 8.0, 22C
+0.57	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	22	8.0	X	recombinant MtbIMPDH2DELTACBS mutant enzyme, pH 8.0, 22C
+0.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	8.0	X	pH 8.0, 37C, recombinant mutant D226N
+0.8	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	8.0	X	pH 8.0, 37C, recombinant mutant V268I
+0.8	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0		presence of 1 mM K+, pH 8.0, 25C
+0.9	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	8.0	X	pH 8.0, 37C, recombinant mutant A285T
+0.98	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	8.0		pH 8.0, 37C, recombinant enzyme
+1.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	8.0		pH 8.0, 37C, recombinant wild-type enzyme
+1.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	8.0	X	pH 8.0, 37C, recombinant mutant R224P
+1.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0		pH 8.0, 25C, recombinant alphabeta core domain, in presence of 100 mM KCl
+1.9	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0		pH 8.0, 25C, recombinant full-length enzyme, in presence of 100 mM KCl
+2.6	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				
+2.6	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.0		presence of 1 mM K+, pH 8.0, 25C
+3.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	8.5		recombinant enzyme, pH 8.5, 37C
+4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	8.0	X	pH 8.0, 40C, recombinant wild-type enzyme and mutant K481E
+15	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	8.0	X	pH 8.0, 40C, recombinant wild-type enzyme and mutant P166S
+16	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	8.0	X	pH 8.0, 40C, recombinant mutant enzyme IMPDHDELTACBS
+0.0233	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N				type II
+0.03	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N				type I
+0.4	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N				
+0.53	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	22	8.0		recombinant wild-type enzyme, pH 8.0, 22C
+0.57	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	22	8.0	X	recombinant MtbIMPDH2DELTACBS mutant enzyme, pH 8.0, 22C
+1.8	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0	X	pH 8.0, 25C, recombinant short enzyme CBS-deletion mutant ClpIMPDHDELTAL
+1.9	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0	X	pH 8.0, 25C, recombinant short enzyme CBS-deletion mutant CjIMPDHDELTAS
+2.1	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0		pH 8.0, 25C, recombinant wild-type enzyme
+2.2	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0		pH 8.0, 25C, recombinant wild-type enzyme
+2.46	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	28	8.0		recombinant wild-type enzyme, pH 8.0, 28C
+2.9	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0		pH 8.0, 25C, recombinant wild-type enzyme
+3.06	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	28	8.0	X	recombinant AgIMPDH-DELTABateman mutant enzyme, pH 8.0, 28C
+4.5	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0	X	pH 8.0, 25C, recombinant long enzyme CBS-deletion mutant BaIMPDHDELTAL
+5	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	40	8.0	X	pH 8.0, 40C, recombinant mutant enzymes, P166S, K481E, and IMPDHDELTACBS
+5.1	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	40	8.0		pH 8.0, 40C, recombinant wild-type enzyme
+5.2	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0	X	pH 8.0, 25C, recombinant short enzyme CBS-deletion mutant VcIMPDHDELTAL
+5.3	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0		pH 8.0, 25C, recombinant wild-type enzyme
+6.1	IMP	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0	X	pH 8.0, 25C, recombinant short enzyme CBS-deletion mutant BaIMPDHDELTAS
+0.16	3-acetylpyridine adenine dinucleotide	706	KPVQNXLUPNWQHM-RBEMOOQDSA-O	25	8.0		absence of K+, pH 8.0, 25C
+3	3-acetylpyridine adenine dinucleotide	706	KPVQNXLUPNWQHM-RBEMOOQDSA-O	25	8.0		presence of 100 mM K+, pH 8.0, 25C
+0.009	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0	X	mutant R322E, pH 8.0, 25C
+0.17	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	37	8.0	X	mutant L263F, 37C, pH 8.0
+0.18	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0		isoform IMPDH1(595), pH 8.0, 25C
+0.22	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0	X	isoform IMPDH1(546), pH 8.0, 25C; mutant D226N of isoform IMPDH1(595), pH 8.0, 25C
+0.24	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0	X	mutant D226N of isoform IMPDH1(546), pH 8.0, 25C
+0.31	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0		isoform IMPDH1(514), pH 8.0, 25C
+0.36	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0	X	mutant R322A, pH 8.0, 25C
+0.43	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0	X	mutant Q324A, pH 8.0, 25C
+0.53	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0		pH 8.0, 25C
+0.98	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme
+1.1	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0	X	mutant E323A, pH 8.0, 25C
+1.4	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0		pH 8.0, 25C, recombinant alphabeta core domain, in presence of 100 mM KCl
+1.4	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N				type 2 isozyme, in the presence of 0.39 mM K+
+1.47	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	37	8.0		wild-type, 37C, pH 8.0
+1.8	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N				type 1 isozyme, in the presence of 0.65 mM K+
+1.9	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0		pH 8.0, 25C, recombinant full-length enzyme, in presence of 100 mM KCl
+1.9	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N				in the presence of 12 mM K+
+1.9	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N	25	8.0		wild-type, pH 8.0, 25C
+2.6	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N				in the presence of 25 mM K+
+3.3	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N				
+13	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N				in the presence of 2.8 mM K+
+24	inosine 5'-phosphate	206	GRSZFWQUAKGDAV-KQYNXXCUSA-N				
+3	acetylpyridine adenine dinucleotide	706	KPVQNXLUPNWQHM-RBEMOOQDSA-O				
+0.28	Inosine 5'-diphosphate	372	JPXZQMKKFWMMGK-KQYNXXCUSA-N	25	8.0		pH 8.0, 25C
+1.4	Inosine 5'-diphosphate	372	JPXZQMKKFWMMGK-KQYNXXCUSA-N	22	8.0		pH 8.0, 22C

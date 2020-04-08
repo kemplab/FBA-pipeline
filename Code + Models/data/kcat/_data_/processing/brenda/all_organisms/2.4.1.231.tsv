@@ -1,0 +1,30 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+13.3	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30	6.6		30C, pH 6.6, natural enzyme
+14	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30	6.6		30C, pH 6.6
+16.4	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30	6.6		30C, pH 6.6, recombinant enzyme
+17.6	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30	6.8		; 30C, pH 6.8
+16.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				
+9.5	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	6.6		30C, pH 6.6
+9.5	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	6.6		30C, pH 6.6, natural enzyme
+10	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	6.6		30C, pH 6.6
+14.1	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	6.6		30C, pH 6.6, recombinant enzyme
+16	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	6.8		; 30C, pH 6.8
+0.42	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N				
+1.15	arsenate	222	DJHGAFSJWGLOIV-UHFFFAOYSA-K				
+9.5	alpha-D-glucose	248	WQZGKKKJIJFFOK-DVKNGEFBSA-N	30	6.6		30C, pH 6.6, natural enzyme
+10	alpha-D-glucose	248	WQZGKKKJIJFFOK-DVKNGEFBSA-N	30	6.6		30C, pH 6.6
+10.3	alpha-D-glucose	248	WQZGKKKJIJFFOK-DVKNGEFBSA-N	30	6.6		30C, pH 6.6
+14.1	alpha-D-glucose	248	WQZGKKKJIJFFOK-DVKNGEFBSA-N	30	6.6		30C, pH 6.6, recombinant enzyme
+16.8	alpha-D-glucose	248	WQZGKKKJIJFFOK-DVKNGEFBSA-N	30	6.8		30C, pH 6.8
+0.27	2-deoxy-D-glucose	443	PMMURAAUARKVCB-KAZBKCHUSA-N				
+0.33	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	45	6.2		loop 3 variant TP2, in 40 mM phosphate-citrate pH 6.2 at 45C
+2.7	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	45	6.2		loop 3 variant TP3, in 40 mM phosphate-citrate pH 6.2 at 45C
+13.3	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	30	6.6		30C, pH 6.6
+13.3	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	30	6.6		30C, pH 6.6, natural enzyme
+14.1	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	30	6.6		30C, pH 6.6
+15	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	30	6.6		30C, pH 6.6
+16.4	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	30	6.6		30C, pH 6.6, recombinant enzyme
+18.3	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	30	6.8		; 30C, pH 6.8
+4.5	2-dehydro-D-glucose	4018	FYWIDDXZIOQEQU-SVXWRWBYSA-N				
+0.89	2-fluoro-D-glucose	5677	ZCXUVYAZINUVJD-WVQXMEFOSA-N				
+0.11	alpha-D-glucose 1-fluoride	2279	ATMYEINZLWEOQU-DVKNGEFBSA-N	30	6.6		30C, pH 6.6

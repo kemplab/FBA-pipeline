@@ -1,0 +1,28 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.19	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant D67A/H136A
+0.2	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant E112Q/H136A/R139V
+0.21	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant E112A/H136A/R139V
+0.23	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant E112Q/H136A
+0.26	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant K64A/E112A/H136A/R139V
+0.3	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant E112A
+0.45	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant E112A/H136A
+0.75	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant K64A/H136A
+1.1	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant D67N
+1.2	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant K64A/R139V
+1.3	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant D67N/H136A
+1.4	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant H136Q
+2.4	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutants D67A and H136A
+2.4	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant E112D/R139V/T169A
+2.9	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant K64A/E112Q/H136A
+4	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant E112Q
+4.2	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant K64R/H136A
+4.3	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant H136N
+8.3	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant K64A
+8.9	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant R139V
+9.2	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant H136A/R139V
+15	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5		pH 7.5, 25C, recombinant enzyme
+17	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant K64R
+51	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5		pH 7.5, 25C, recombinant wild-type enzyme
+51	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5		pH 7.5, 25C, recombinant wild-type enzyme
+51	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5		SgaH, pH 7.5, 25C
+64	3-dehydro-L-gulonate 6-phosphate	1103	BDUIIKXSXFDPEC-LWKDLAHASA-N	25	7.5		SgbH, pH 7.5, 25C

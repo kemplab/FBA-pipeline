@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0146	tetracenomycin F2	111101	DLTRPMJPASSXOO-UHFFFAOYSA-N	30	7.5	X	mutant enzyme R40G, at 30C in 0.1 M Tris-HCl, pH 7.5
+0.0192	tetracenomycin F2	111101	DLTRPMJPASSXOO-UHFFFAOYSA-N	30	7.5	X	mutant enzyme H26A, at 30C in 0.1 M Tris-HCl, pH 7.5
+0.0198	tetracenomycin F2	111101	DLTRPMJPASSXOO-UHFFFAOYSA-N	30	7.5	X	mutant enzymeD27N, at 30C in 0.1 M Tris-HCl, pH 7.5
+0.0219	tetracenomycin F2	111101	DLTRPMJPASSXOO-UHFFFAOYSA-N	30	7.5	X	mutant enzyme H51A, at 30C in 0.1 M Tris-HCl, pH 7.5
+0.025	tetracenomycin F2	111101	DLTRPMJPASSXOO-UHFFFAOYSA-N	30	7.5	X	mutant enzyme R40K, at 30C in 0.1 M Tris-HCl, pH 7.5
+0.131	tetracenomycin F2	111101	DLTRPMJPASSXOO-UHFFFAOYSA-N	30	7.5	X	mutant enzyme H26Q, at 30C in 0.1 M Tris-HCl, pH 7.5
+0.136	tetracenomycin F2	111101	DLTRPMJPASSXOO-UHFFFAOYSA-N	30	7.5	X	mutant enzyme H51Q, at 30C in 0.1 M Tris-HCl, pH 7.5
+0.142	tetracenomycin F2	111101	DLTRPMJPASSXOO-UHFFFAOYSA-N	30	7.5		wild type enzyme, at 30C in 0.1 M Tris-HCl, pH 7.5

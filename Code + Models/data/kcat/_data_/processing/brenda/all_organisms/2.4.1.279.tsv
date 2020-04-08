@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+67	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, cosubstrate 3-O-alpha-D-glucopyranosyl-D-glucopyranose
+52	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.0		pH 7.0, 30C, reverse phosphorolysis, donor beta-D-glucopyranose 1-phosphate
+110	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.0		pH 7.0, 30C, reverse phosphorolysis reaction, cosubstrate beta-D-glucose 1-phosphate
+25	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	7.0		pH 7.0, 30C, reverse phosphorolysis, donor beta-D-glucopyranose 1-phosphate
+69	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	7.0		pH 7.0, 30C, reverse phosphorolysis reaction, cosubstrate beta-D-glucose 1-phosphate
+40	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	7.0		pH 7.0, 30C, reverse phosphorolysis, donor beta-D-glucopyranose 1-phosphate
+118	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	7.0		pH 7.0, 30C, reverse phosphorolysis reaction, cosubstrate beta-D-glucose 1-phosphate
+30	1,5-anhydro-D-glucitol	2098	MPCAJMNYNOGXPB-SLPGGIOYSA-N	30	7.0		pH 7.0, 30C, reverse phosphorolysis, donor beta-D-glucopyranose 1-phosphate
+120	1,5-anhydro-D-glucitol	2098	MPCAJMNYNOGXPB-SLPGGIOYSA-N	30	7.0		pH 7.0, 30C, reverse phosphorolysis reaction, cosubstrate beta-D-glucose 1-phosphate
+8.3	methyl alpha-D-glucopyranoside	2390	HOVAGTYPODGVJG-ZFYZTMLRSA-N	30	7.0		pH 7.0, 30C, reverse phosphorolysis, donor beta-D-glucopyranose 1-phosphate
+31	3-O-alpha-D-glucopyranosyl-D-glucopyranose	1176	QIGJYVCQYDKYDW-NSYYTRPSSA-N	30	7.0		pH 7.0, 30C
+58	beta-D-glucopyranose 1-phosphate	583	HXXFSFRBOHSIMQ-DVKNGEFBSA-N	30	7.0		pH 7.0, 30C, reverse phosphorolysis, acceptor D-glucose

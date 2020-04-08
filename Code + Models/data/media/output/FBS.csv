@@ -1,0 +1,18 @@
+METABOLITE,REACTION,CONCENTRATION [M]
+bilirub[e],EX_bilirub[e],6.84E-06
+ca2[e],EX_ca2[e],0.00339321
+chsterol[e],EX_chsterol[e],0.000801759
+cl[e],EX_cl[e],0.103
+crtn[e],EX_crtn[e],0.000274045
+crtsl[e],EX_crtsl[e],1.38E-08
+glc_D[e],EX_glc_D[e],0.00693828
+k[e],EX_k[e],0.0112
+na1[e],EX_na1[e],0.137
+pi[e],EX_pi[e],0.0010319
+prgstrn[e],EX_prgstrn[e],2.54E-10
+prostge1[e],EX_prostge1[e],8.36E-09
+proste2[e],EX_prostge2[e],8.36E-09
+retinol[e],EX_retinol[e],3.14E-07
+tststerone[e],EX_tststerone[e],1.39E-09
+urate[e],EX_urate[e],0.000172506
+yvite[e],EX_yvite[e],2.55E-06

@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.042	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N				
+0.09	methotrexate-alpha-(1-naphthyl)alanine	12013	NLJYMCHKYWSXAZ-DQEYMECFSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.24	neurotensin	1629	PCJGZPGTCUMMOT-ISULXFBGSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+1.45	Met-enkephalin-L-Arg-L-Phe	27142	KTQKWSPZOZKAEE-LJADHVKFSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+1.9	methotrexate-alpha-phenylalanine	12012	LCXCABJHCAMORO-LBAQZLPGSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+2.33	Leu-enkephalin	2214	URLZCHNOLZSCCA-VABKMULXSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+3.43	Met-enkephalin	1872	YFGBQHOOROIVKG-FKBYEOEOSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+4.3	hippuryl-L-phenylalanine	5569	CCLJGZGVIQBNDH-HNNXBMFYSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+8.23	angiotensin I	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+11.7	benzoyl-Gly-L-Phe	5569	CCLJGZGVIQBNDH-HNNXBMFYSA-N				at 0.1-0.4 mM substrate
+12.4	3-(2-furyl)acryloyl-L-Phe-L-Ile	27140	SHXQCNAHTBAAMT-KDHVSHQXSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+13.3	benzoyl-Gly-Gly-L-Phe	30821	AULZEWXDQALHSZ-INIZCTEOSA-N				
+13.4	3-(2-furyl)acryloyl-L-Phe-L-Leu	14472	LFGVVNZHOSLHJR-MIMFYIINSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+19.4	3-(2-furyl)acryloyl-L-Phe-L-Val	22258	AQWSWFXLHMHNPN-UKMAJIJPSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+23.9	3-(2-furyl)acryloyl-L-Phe-L-Met	27141	ZUBMCRJZWDZYHC-VCVRMXLYSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+24.3	3-(2-furyl)acryloyl-L-Phe-L-Ala	14471	NOTCFISCFHKOHX-AULVFQMTSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+44.3	3-(2-furyl)acryloyl-L-Phe-L-Phe	6499	JAPJOLBDXOXSKE-WQICJITCSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+48.3	carbobenzoxy-Gly-L-Phe	2568	FLGYJBNDDWLTQR-INIZCTEOSA-N				at 1-4 mM substrate
+57.3	3-(2-furyl)acryloyl-L-Phe-L-Trp	27139	HXJYLPIYSIXEAK-UZEKWKPYSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+66.7	benzoyl-Gly-L-Phe	5569	CCLJGZGVIQBNDH-HNNXBMFYSA-N				at 1-10 mM substrate
+112	carbobenzoxy-Gly-L-Phe	2568	FLGYJBNDDWLTQR-INIZCTEOSA-N				at 4-40 mM substrate

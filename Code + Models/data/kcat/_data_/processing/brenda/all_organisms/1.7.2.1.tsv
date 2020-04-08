@@ -1,0 +1,63 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.08	hydroxylamine	80	AVXURJPOCDRRFD-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, electron donor cytochrome c550
+0.08	NH2OH	80	AVXURJPOCDRRFD-UHFFFAOYSA-N				initially oxidized enzyme, electron donor cytochrome c550
+0.08	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	25	6.2	X	pH 6.2, 25C, mutant enzyme H327A; pH 6.2, 25C, mutant enzyme H369A
+0.08	NO2-	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M			X	recombinant H327A and H369a mutant enzymes
+0.11	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, electron donor horse heart cytochrome c; initially oxidized enzyme, electron donor horse heart cytochrome c
+0.17	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, electron donor cytochrome c550; initially oxidized enzyme, electron donor cytochrome c550
+0.2	hydroxylamine	80	AVXURJPOCDRRFD-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, electron donor horse heart cytochrome c
+0.2	NH2OH	80	AVXURJPOCDRRFD-UHFFFAOYSA-N				initially oxidized enzyme, electron donor horse heart cytochrome c
+0.62	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M		7.0		pH 7.0, electron donor azurin
+1	azurin	113172	PCVHAMRZCMVBAB-VEDZVOBFSA-N	27	6.2	X	recombinant Y10F mutant enzyme, at pH 6.2 and 27C
+1.12	azurin	113172	PCVHAMRZCMVBAB-VEDZVOBFSA-N	27	6.2		recombinant wild-type enzyme, at pH 6.2 and 27C
+1.33	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				succinylated monomeric enzyme
+1.48	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N				
+2.1	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	25	7.0		25C, pH 7.0, electron donor cytochrome c550
+2.1	NO2-	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M				initially oxidized enzyme, electron donor cytochrome c550
+2.4	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	25	7.0		25C, pH 7.0, electron donor horse heart cytochrome c
+2.4	NO2-	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M				initially oxidized enzyme, electron donor horse heart cytochrome c
+2.58	NH2OH	80	AVXURJPOCDRRFD-UHFFFAOYSA-N				
+2.7	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	25	7.0		25C, pH 7.0, wild-type, without pre-reduction with dithionite
+2.8	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, pre-reduced cytochrome cd1, electron donor horse heart cytochrome c; pre-reduced enzyme, electron donor horse heart cytochrome c
+3	hydroxylamine	80	AVXURJPOCDRRFD-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, pre-reduced cytochrome cd1, electron donor horse heart cytochrome c
+3	NH2OH	80	AVXURJPOCDRRFD-UHFFFAOYSA-N				pre-reduced enzyme, electron donor horse heart cytochrome c
+3	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, pre-reduced cytochrome cd1, electron donor cytochrome c550; pre-reduced enzyme, electron donor cytochrome c550
+3.2	azurin	113172	PCVHAMRZCMVBAB-VEDZVOBFSA-N				
+3.2	hydroxylamine	80	AVXURJPOCDRRFD-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, wild-type, pre-reduction with dithionite
+3.2	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, wild-type, pre-reduction with dithionite
+3.5	hydroxylamine	80	AVXURJPOCDRRFD-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, pre-reduced cytochrome cd1, electron donor cytochrome c550
+3.5	NH2OH	80	AVXURJPOCDRRFD-UHFFFAOYSA-N				pre-reduced enzyme, electron donor cytochrome c550
+5	ferrocytochrome c2	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N				
+5.3	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	25	7.0		25C, pH 7.0, electron donor pseudoazurin
+5.3	NO2-	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M				initially oxidized enzyme, electron donor pseudoazurin
+6.2	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.0	X	25C, pH 7.0, Y25S mutant enzyme
+6.4	hydroxylamine	80	AVXURJPOCDRRFD-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, pre-reduced cytochrome cd1, electron donor pseudoazurin
+6.4	NH2OH	80	AVXURJPOCDRRFD-UHFFFAOYSA-N				pre-reduced enzyme, electron donor pseudoazurin
+6.4	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, pre-reduced cytochrome cd1, electron donor pseudoazurin; pre-reduced enzyme, electron donor pseudoazurin
+7.7	hydroxylamine	80	AVXURJPOCDRRFD-UHFFFAOYSA-N	25	7.0	X	25C, pH 7.0, Y25S mutant enzyme
+8	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	25	6.2		pH 6.2, 25C, wild-type enzyme
+8	NO2-	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M				recombinant wild-type enzyme
+9.68	NO2-	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M				
+38	NO	240	MWUXSHHQAYIFBG-UHFFFAOYSA-N	25	6.5		25C, pH 6.5
+41	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	25	7.0		25C, pH 7.0, pre-reduced cytochrome cd1, electron donor horse heart cytochrome c
+41	NO2-	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M				pre-reduced enzyme, electron donor horse heart cytochrome c
+64	NO	240	MWUXSHHQAYIFBG-UHFFFAOYSA-N	25	7.0		25C, pH 7.0
+67	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	25	7.0	X	25C, pH 7.0, Y25S mutant enzyme
+68	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	25	7.0		25C, pH 7.0, wild-type, pre-reduction with dithionite
+71	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	25	8.0		25C, pH 8.0
+74	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	25	7.0		25C, pH 7.0, pre-reduced cytochrome cd1, electron donor cytochrome c550
+74	NO2-	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M				pre-reduced enzyme, electron donor cytochrome c550
+80	NO2-	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M				electron donor: reduced tetramethyl-4-phenylenediamine
+80	NO2-	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M				
+106	NO2-	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M				all-ferric nitrite-bound complex, electron donor pseudoazurin
+109	NO	240	MWUXSHHQAYIFBG-UHFFFAOYSA-N	25	7.5		25C, pH 7.5
+125	NO	240	MWUXSHHQAYIFBG-UHFFFAOYSA-N	25	8.0		25C, pH 8.0
+144	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	25	7.0		25C, pH 7.0, pre-reduced cytochrome cd1, electron donor pseudoazurin
+144	NO2-	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M				pre-reduced enzyme, electron donor pseudoazurin
+172	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	25			25C
+219	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	25	7.5		25C, pH 7.5
+243	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M		7.0		pH 7.0, electron donor benzyl viologen
+320	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	25	5.5		25C, pH 5.5
+392	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	25	7.0		25C, pH 7.0
+1046	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	25	6.5		25C, pH 6.5
+1478	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	25	6.0		25C, pH 6.0

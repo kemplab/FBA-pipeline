@@ -1,0 +1,65 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0002	stearoyl-[acyl-carrier protein]	3188	KLYFZEHJWNQHAC-UHFFFAOYSA-N	20	8	X	pH 8, 20C, mutant M206W
+0.0005	palmitoyl-[acyl-carrier protein]	1200	RDRNUNFOLAVSAX-UHFFFAOYSA-N	20	8	X	pH 8, 20C, mutant M206W
+0.0016	palmitoleoyl-[acyl-carrier protein]	2228	SKOBIEUFVOYEMM-KTKRTIGZSA-N	20	8	X	pH 8, 20C, mutant M206W
+0.002	palmitoyl-[acyl-carrier protein]	1200	RDRNUNFOLAVSAX-UHFFFAOYSA-N	20	8	X	pH 8, 20C, mutant T182W
+0.0024	palmitoyl-[acyl-carrier protein]	1200	RDRNUNFOLAVSAX-UHFFFAOYSA-N	20	8	X	pH 8, 20C, mutant Q215W
+0.003	stearoyl-[acyl-carrier protein]	3188	KLYFZEHJWNQHAC-UHFFFAOYSA-N	20	8	X	pH 8, 20C, mutant T182W
+0.004	myristoleoyl-[acyl-carrier protein]	8935	OGLZWVBZJMCTFW-FPLPWBNLSA-N	22	8.0		isozyme FatA, pH 8.0, 22C
+0.0041	stearoyl-[acyl-carrier protein]	3188	KLYFZEHJWNQHAC-UHFFFAOYSA-N	20	8	X	pH 8, 20C, mutant Q215W
+0.0062	palmitoleoyl-[acyl-carrier protein]	2228	SKOBIEUFVOYEMM-KTKRTIGZSA-N	20	8	X	pH 8, 20C, mutant Q215W
+0.008	myristoyl-[acyl-carrier protein]	2231	CUAFCZZIFLHIAE-UHFFFAOYSA-N	22	8.0		isozyme FatA, pH 8.0, 22C
+0.016	palmitoleoyl-[acyl-carrier protein]	2228	SKOBIEUFVOYEMM-KTKRTIGZSA-N	20	8	X	pH 8, 20C, mutant T182W
+0.02	myristoyl-[acyl-carrier protein]	2231	CUAFCZZIFLHIAE-UHFFFAOYSA-N	22	8.0		isozyme FatB, pH 8.0, 22C
+0.03	palmitoyl-[acyl-carrier protein]	1200	RDRNUNFOLAVSAX-UHFFFAOYSA-N	22	8.0		pH 8.0, 22C
+0.032	oleoyl-[acyl-carrier-protein]	1436	NPGHKDQUCCCKBW-QXMHVHEDSA-N	20	8	X	pH 8, 20C, mutant T182W
+0.04	palmitoyl-[acyl-carrier protein]	1200	RDRNUNFOLAVSAX-UHFFFAOYSA-N	22	8.0		isozyme FatA, pH 8.0, 22C
+0.06	palmitoleoyl-[acyl-carrier protein]	2228	SKOBIEUFVOYEMM-KTKRTIGZSA-N	20	8		pH 8, 20C
+0.0854	oleoyl-[acyl-carrier-protein]	1436	NPGHKDQUCCCKBW-QXMHVHEDSA-N	20	8	X	pH 8, 20C, mutant Q215W
+0.1	palmitoleoyl-[acyl-carrier protein]	2228	SKOBIEUFVOYEMM-KTKRTIGZSA-N	20	8		pH 8, 20C
+0.12	palmitoleoyl-[acyl-carrier protein]	2228	SKOBIEUFVOYEMM-KTKRTIGZSA-N	22	8.0		isozyme FatA, pH 8.0, 22C
+0.1258	oleoyl-[acyl-carrier-protein]	1436	NPGHKDQUCCCKBW-QXMHVHEDSA-N	20	8	X	pH 8, 20C, mutant M206W
+0.15	palmitoleoyl-[acyl-carrier protein]	2228	SKOBIEUFVOYEMM-KTKRTIGZSA-N	22	8.0		pH 8.0, 22C
+0.15	stearoyl-[acyl-carrier protein]	3188	KLYFZEHJWNQHAC-UHFFFAOYSA-N	22	8.0		isozyme FatA, pH 8.0, 22C
+0.18	stearoyl-[acyl-carrier protein]	3188	KLYFZEHJWNQHAC-UHFFFAOYSA-N	22	8.0		pH 8.0, 22C
+0.2	palmitoyl-[acyl-carrier protein]	1200	RDRNUNFOLAVSAX-UHFFFAOYSA-N	20	8	X	pH 8, 20C, mutant L118W
+0.2	stearoyl-[acyl-carrier protein]	3188	KLYFZEHJWNQHAC-UHFFFAOYSA-N	20	8	X	pH 8, 20C, mutant L118W
+0.22	myristoleoyl-[acyl-carrier protein]	8935	OGLZWVBZJMCTFW-FPLPWBNLSA-N	22	8.0		isozyme FatB, pH 8.0, 22C
+0.22	palmitoleoyl-[acyl-carrier protein]	2228	SKOBIEUFVOYEMM-KTKRTIGZSA-N	22	8.0		in 50 mM Tris-HCl buffer, pH 8.0, 5 mM DTT, at 22C
+0.25	oleoyl-[acyl-carrier protein]	1436	NPGHKDQUCCCKBW-QXMHVHEDSA-N	22	8.0		pH 8.0, 22C
+0.3	palmitoyl-[acyl-carrier protein]	1200	RDRNUNFOLAVSAX-UHFFFAOYSA-N	20	8		pH 8, 20C
+0.38	stearoyl-[acyl-carrier protein]	3188	KLYFZEHJWNQHAC-UHFFFAOYSA-N	22	8.0		in 50 mM Tris-HCl buffer, pH 8.0, 5 mM DTT, at 22C
+0.4	stearoyl-[acyl-carrier protein]	3188	KLYFZEHJWNQHAC-UHFFFAOYSA-N	22	8.0		pH 8.0, 22C, recombinant His-tagged enzyme
+0.4	stearoyl-[acyl-carrier protein]	3188	KLYFZEHJWNQHAC-UHFFFAOYSA-N	20	8		pH 8, 20C
+0.41	palmitoyl-[acyl-carrier protein]	1200	RDRNUNFOLAVSAX-UHFFFAOYSA-N	22	8.0		in 50 mM Tris-HCl buffer, pH 8.0, 5 mM DTT, at 22C
+0.44	palmitoyl-[acyl-carrier protein]	1200	RDRNUNFOLAVSAX-UHFFFAOYSA-N	22	8.0		pH 8.0, 22C
+0.45	palmitoleoyl-[acyl-carrier protein]	2228	SKOBIEUFVOYEMM-KTKRTIGZSA-N	22	8.0		pH 8.0, 22C
+0.46	palmitoyl-[acyl-carrier protein]	1200	RDRNUNFOLAVSAX-UHFFFAOYSA-N	22	8.0		in 50 mM Tris-HCl buffer, pH 8.0, 5 mM DTT, at 22C
+0.5	palmitoyl-[acyl-carrier protein]	1200	RDRNUNFOLAVSAX-UHFFFAOYSA-N	22	8.0		pH 8.0, 22C, recombinant His-tagged enzyme
+0.56	stearoyl-[acyl-carrier protein]	3188	KLYFZEHJWNQHAC-UHFFFAOYSA-N	22	8.0		in 50 mM Tris-HCl buffer, pH 8.0, 5 mM DTT, at 22C
+0.6	palmitoleoyl-[acyl-carrier protein]	2228	SKOBIEUFVOYEMM-KTKRTIGZSA-N	20	8	X	pH 8, 20C, mutant L118W
+0.6	stearoyl-[acyl-carrier protein]	3188	KLYFZEHJWNQHAC-UHFFFAOYSA-N	20	8		pH 8, 20C
+0.67	oleoyl-[acyl-carrier protein]	1436	NPGHKDQUCCCKBW-QXMHVHEDSA-N	22	8.0		in 50 mM Tris-HCl buffer, pH 8.0, 5 mM DTT, at 22C
+0.74	palmitoleoyl-[acyl-carrier protein]	2228	SKOBIEUFVOYEMM-KTKRTIGZSA-N	22	8.0		isozyme FatB, pH 8.0, 22C
+0.8	stearoyl-[acyl-carrier protein]	3188	KLYFZEHJWNQHAC-UHFFFAOYSA-N	20	8		pH 8, 20C, wild-type
+0.88	stearoyl-[acyl-carrier protein]	3188	KLYFZEHJWNQHAC-UHFFFAOYSA-N	22	8.0		pH 8.0, 22C
+0.9	(9Z)-hexadec-9-enoyl-[acyl-carrier protein]	2228	SKOBIEUFVOYEMM-KTKRTIGZSA-N	22	8.0		pH 8.0, 22C, recombinant His-tagged enzyme
+0.91	stearoyl-[acyl-carrier protein]	3188	KLYFZEHJWNQHAC-UHFFFAOYSA-N	22	8.0		isozyme FatB, pH 8.0, 22C
+0.98	oleoyl-[acyl-carrier protein]	1436	NPGHKDQUCCCKBW-QXMHVHEDSA-N	22	8.0		pH 8.0, 22C
+1	oleoyl-[acyl-carrier-protein]	1436	NPGHKDQUCCCKBW-QXMHVHEDSA-N	20	8		pH 8, 20C
+1.1	palmitoyl-[acyl-carrier protein]	1200	RDRNUNFOLAVSAX-UHFFFAOYSA-N	20	8		pH 8, 20C, wild-type
+1.23	oleoyl-[acyl-carrier protein]	1436	NPGHKDQUCCCKBW-QXMHVHEDSA-N	22	8.0		isozyme FatB, pH 8.0, 22C
+1.62	palmitoleoyl-[acyl-carrier protein]	2228	SKOBIEUFVOYEMM-KTKRTIGZSA-N	22	8.0		in 50 mM Tris-HCl buffer, pH 8.0, 5 mM DTT, at 22C
+1.94	oleoyl-[acyl-carrier protein]	1436	NPGHKDQUCCCKBW-QXMHVHEDSA-N	22	8.0		isozyme FatA, pH 8.0, 22C
+2.2	oleoyl-[acyl-carrier-protein]	1436	NPGHKDQUCCCKBW-QXMHVHEDSA-N	20	8	X	pH 8, 20C, mutant L118W
+2.4	palmitoyl-[acyl-carrier protein]	1200	RDRNUNFOLAVSAX-UHFFFAOYSA-N	22	8.0		isozyme FatB, pH 8.0, 22C
+2.94	oleoyl-[acyl-carrier protein]	1436	NPGHKDQUCCCKBW-QXMHVHEDSA-N	22	8.0		isozyme FatA, pH 8.0, 22C
+4.4	palmitoyl-[acyl-carrier protein]	1200	RDRNUNFOLAVSAX-UHFFFAOYSA-N	20	8		pH 8, 20C
+6.08	oleoyl-[acyl-carrier protein]	1436	NPGHKDQUCCCKBW-QXMHVHEDSA-N	22	8.0		isozyme FatB, pH 8.0, 22C
+6.08	palmitoleoyl-[acyl-carrier protein]	2228	SKOBIEUFVOYEMM-KTKRTIGZSA-N	22	8.0		isozyme FatB, pH 8.0, 22C
+6.08	stearoyl-[acyl-carrier protein]	3188	KLYFZEHJWNQHAC-UHFFFAOYSA-N	22	8.0		isozyme FatB, pH 8.0, 22C
+7	oleoyl-[acyl-carrier-protein]	1436	NPGHKDQUCCCKBW-QXMHVHEDSA-N	20	8		pH 8, 20C
+7.99	oleoyl-[acyl-carrier protein]	1436	NPGHKDQUCCCKBW-QXMHVHEDSA-N	22	8.0		in 50 mM Tris-HCl buffer, pH 8.0, 5 mM DTT, at 22C
+8	palmitoleoyl-[acyl-carrier protein]	2228	SKOBIEUFVOYEMM-KTKRTIGZSA-N	20	8		pH 8, 20C, wild-type
+11.4	oleoyl-[acyl-carrier protein]	1436	NPGHKDQUCCCKBW-QXMHVHEDSA-N	22	8.0		pH 8.0, 22C, recombinant His-tagged enzyme
+35.6	oleoyl-[acyl-carrier-protein]	1436	NPGHKDQUCCCKBW-QXMHVHEDSA-N	20	8		pH 8, 20C, wild-type

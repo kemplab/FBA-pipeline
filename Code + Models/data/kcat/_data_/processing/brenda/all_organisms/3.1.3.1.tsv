@@ -1,0 +1,113 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+244	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N	37	7.5		allozyme D, pH 7.5, 37C, in presence of Mg2+ and Zn2+
+92	pyridoxal 5'-phosphate	30	NGVDGCNFYWLIFO-UHFFFAOYSA-N	37	7.5		allozyme D, pH 7.5, 37C, in presence of Mg2+ and Zn2+
+14.1	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				
+0.00021	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant T59R
+0.016	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	mutant E322K, pH 8.0, 25C, in absence of a phosphoryl group acceptor
+0.027	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	mutant E322K, pH 8.0, 25C, in presence of a phosphoryl group acceptor
+0.037	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	7		37C, enzyme with amino-group modification in the dark, pH 7, with 12.5 mM 3,3',4,4'-benzophenone tetracarboxylic dianhydride
+0.042	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	mutant E341K, pH 8.0, 25C, in absence of a phosphoryl group acceptor
+0.052	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	mutant T155M, pH 8.0, 25C, in absence of a phosphoryl group acceptor
+0.059	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	mutant H412Y, pH 8.0, 25C, in presence of a phosphoryl group acceptor
+0.067	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	mutant H412Y, pH 8.0, 25C, in absence of a phosphoryl group acceptor
+0.1	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	mutant E341K, pH 8.0, 25C, in presence of a phosphoryl group acceptor
+0.3	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, mutant R166A
+0.32	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	mutant T155M, pH 8.0, 25C, in presence of a phosphoryl group acceptor
+0.39	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	mutant D369N, pH 8.0, 25C, in absence of a phosphoryl group acceptor
+0.5	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, mutant R166S
+0.55	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	10			10C, enzyme with aliphatic-group modification by 3,3',4,4'-tetracarboxylic acid in a photo-assisted reaction
+0.65	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, mutant R166K
+1.5	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant T59A
+2.3	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, recombinant wild-type enzyme
+2.4	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	mutant D369N, pH 8.0, 25C, in presence of a phosphoryl group acceptor
+3.4	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8	X	25C, pH 8, mutant enzyme T81A
+3.8	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	mutant S105L, pH 8.0, 25C, in absence of a phosphoryl group acceptor
+5.8	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	mutant S105L, pH 8.0, 25C, in presence of a phosphoryl group acceptor
+12	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, wild-type
+14.67	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	10			10C, enzyme with aliphatic-group modification by 3,3',4,4'-tetracarboxylic acid in a photo-assisted reaction
+16	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+18	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	10.5	X	25C, pH 10.5, mutant enzyme T81A
+20	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	57	8		57C, enzyme with amino-group modification in the dark, pH 8, with 6.25 mM 3,3',4,4'-benzophenone tetracarboxylic dianhydride
+24.39	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	10.5	X	25C, pH 10.5, mutant enzyme T81A
+26	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25			25C, pH10.5, wild-type enzyme
+29.9	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8		pH 8, 25C, in the presence of phosphate acceptor (1 M Tris-HCl buffer)
+30	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	15	10.0	X	pH 10.0, 15C, mutant S86A/G87A
+34	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8		25C, pH 8, wild-type enzyme
+34	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		10.5	X	pH 10.5, mutant V406A
+36.98	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8	X	25C, pH 8, mutant enzyme T81A
+42.55	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	9.5		37C, pH 9.5, glycine-NaOH buffer
+44.4	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0		wild-type enzyme, pH 8.0, 25C, in absence of a phosphoryl group acceptor
+56.3	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant T59A
+61.84	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8		25C, pH 8, wild-type enzyme
+65	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37			37C, native enzyme
+65.6	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	mutant D434E, pH 8.0, 25C, in absence of a phosphoryl group acceptor
+70	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	15	10.0	X	pH 10.0, 15C, mutant S42G/H135E
+71	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	15	10.0	X	pH 10.0, 15C, mutant S42G/S338T
+74.7	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, recombinant wild-type enzyme
+76	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	70	9.5		pH 9.5, 70C, wild-type enzyme
+77.4	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	8		37C, native enzyme, enzyme with amino-group modification in the dark, pH 8, with 6.25 mM 3,3',4,4'-benzophenone tetracarboxylic dianhydride
+78.83	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	7		37C, enzyme with amino-group modification in the dark, pH 7, with 12.5 mM 3,3',4,4'-benzophenone tetracarboxylic dianhydride
+80.5	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0		wild-type enzyme, pH 8.0, 25C, in presence of a phosphoryl group acceptor
+82.98	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	11		37C, pH 11, Tris-HCl buffer
+87.83	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	57	8		57C, enzyme with amino-group modification in the dark, pH 8, with 6.25 mM 3,3',4,4'-benzophenone tetracarboxylic dianhydride
+100	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	65	8.0		pH 8.0, 65C
+100	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	15	10.0	X	pH 10.0, 15C, mutant G87A
+113.6	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N				single-chain Fv antibody fusion protein
+114	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	15	10.0	X	pH 10.0, 15C, mutant S338T
+115.9	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37			37C, native enzyme
+117	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	15	10.0	X	pH 10.0, 15C, mutant G149D
+132	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	25C, pH 8.0, mutant enzyme G51C
+133	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	15	10.0	X	pH 10.0, 15C, mutant S42G
+140	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	20	9.8		pH 9.8, 20C, 0.05 M methylamine
+150	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	20	9.8		pH 9.8, 20C, 0.02 M dimethylamine
+153.9	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37			37C, enzyme with aliphatic-group modification by 3,3',4,4'-tetracarboxylic acid in a photo-assisted reaction
+155.7	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	10			10C, native enzyme
+183.3	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	57			57C, native enzyme
+190	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	20	9.8		pH 9.8, 20C, 0.05 M diethanolamine
+203	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	15	10.0	X	pH 10.0, 15C, mutant S86A
+204	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	25C, pH 8.0, mutant enzyme S52C
+217	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	25C, pH 8.0, mutant enzyme S53C
+236	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	15	10.0		pH 10.0, 15C, wild-type
+285	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N				conjugate between enzyme and ZZ protein, pH not specified in the publication, temperature not specified in the publication
+300	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	20	9.8		pH 9.8, 20C, 1 M ethanolamine
+303	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	15	10.0	X	pH 10.0, 15C, mutant H135E
+330	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	20	9.8		pH 9.8, 20C, 1 M methylamine
+350	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	10.0		pH 10.0, 25C
+350	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0	X	25C, pH 8.0, mutant enzyme I50C
+361	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	15	10.0	X	pH 10.0, 15C, mutant H135E/G149D
+370	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	20	9.8		pH 9.8, 20C, 1 M dimethylamine
+370	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N				fusion protein with ZZ protein, pH not specified in the publication, temperature not specified in the publication
+378	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N				native enzyme, pH not specified in the publication, temperature not specified in the publication
+379	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		9.8		allozyme D, pH 9.8, in presence of Mg2+ and Zn2+
+400	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	20	9.8		pH 9.8, 20C, 1 M ethylamine
+450	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	20	9.8		pH 9.8, 20C, 0.02 M ethylamine
+500	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	20	9.8		pH 9.8, 20C, 0.2 M N-methylethanolamine
+610	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	20	9.8		pH 9.8, 20C, 0.05 M ethanolamine
+812.3	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37			37C, native enzyme
+840	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	20	9.8		pH 9.8, 20C, 0.1 M triethanolamine
+971	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		10.5		pH 10.5, wild-type
+1130	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	70	9.5		pH 9.5, 70C, Co2+-combined enzyme
+1240	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	20	9.8		pH 9.8, 20C, 1 M diethanolamine
+1443	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	7		37C, enzyme with amino-group modification in the dark, pH 7, with 12.5 mM 3,3',4,4'-benzophenone tetracarboxylic dianhydride
+1450	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	20	9.8		pH 9.8, 20C, 1 M triethanolamine
+1500	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	18.0		25C, pH 18.0, Tris-HCl buffer
+2086	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0		25C, pH 8.0, wild-type enzyme
+2250	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	20	9.8		pH 9.8, 20C, 1 M N-methylethanolamine
+3710	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	10.3		25C, pH 10.3, Tris-HCl buffer
+16230	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	8		37C, native enzyme, enzyme with amino-group modification in the dark, pH 8, with 6.25 mM 3,3',4,4'-benzophenone tetracarboxylic dianhydride
+24000	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	18.0		25C, pH 18.0, diethanolamine buffer
+28300	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	10.3		25C, pH 10.3, diethanolamine buffer
+0.01	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N			X	mutant enzyme D369A, in absence of a phosphate acceptor
+0.4	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N			X	mutant enzyme D369N, in absence of a phosphate acceptor
+38	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	8.0		25C, pH 8.0, wild-type enzyme
+44.5	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N				wild type enzyme
+80.5	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N				wild type enzyme, in presence of a phosphate acceptor
+147.9	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N				
+220	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	9.8	X	25C, pH 9.8, mutant enzyme W274K
+230	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N			X	mutant enzyme D369N, in presence of a phosphate acceptor
+830	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	9.8	X	25C, pH 9.8, mutant enzyme H116D
+930	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	9.8	X	25C, pH 9.8, mutant enzyme H116D/W274K
+1580	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	9.8		25C, pH 9.8, wild-type enzyme
+48.3	O-phosphoserine	899	BZQFBWGGLXLEPQ-REOHCLBHSA-N				
+138.1	O-Phosphotyrosine	10931	DCWXELXMIBXGTH-UHFFFAOYSA-L				
+33	2'-[2-benzthiazole]-6'-hydroxybenzthiazole phosphate	35925	BTKMJKKKZATLBU-UHFFFAOYSA-N				

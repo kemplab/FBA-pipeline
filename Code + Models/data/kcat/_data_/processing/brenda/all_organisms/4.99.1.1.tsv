@@ -1,0 +1,63 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.01167	porphyrin	3838	RKCAIXNGYQCCAL-CEVVSZFKSA-N			X	mutant E343D
+0.0125	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N	30	8.0		wild type enzyme, with Ni2+ as cosubstrate, 0.1 M Tris-acetate, pH 8.0, 0.5 M NaCl, 0.1% (v/v) Tween 80, at 30C
+0.013	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N	37	7.5		pH 7.5, 37C
+0.0135	porphyrin	3838	RKCAIXNGYQCCAL-CEVVSZFKSA-N			X	mutant F337A
+0.016	Co2+	21	XLJKHNWPARRRJB-UHFFFAOYSA-N	21	7.4		pH 7.4, 21C, wild-type enzyme; wild type enzyme, in 100 mM tris(hydroxymethyl)aminomethane-HCl, pH 7.4, temperature not specified in the publication
+0.016	porphyrin	3838	RKCAIXNGYQCCAL-CEVVSZFKSA-N			X	mutant N75A
+0.018	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N				wild-type
+0.02	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N	30	7.6		R31G, pH 7.6, 30C, unaerobic conditions
+0.023	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N	30	7.6		wild-type, pH 7.6, 30C, unaerobic conditions
+0.03	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N			X	mutant C219S
+0.032	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N	30	7.6	X	mutant T302A, pH 7.6, 30C, unaerobic conditions
+0.033	Co2+	21	XLJKHNWPARRRJB-UHFFFAOYSA-N	21	7.4	X	mutant enzyme Y13M, in 100 mM tris(hydroxymethyl)aminomethane-HCl, pH 7.4, temperature not specified in the publication; pH 7.4, 21C, mutant enzyme Y13M
+0.033	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N	30	7.6	X	mutant D76G/K102T, pH 7.6, 30C, unaerobic conditions
+0.034	Zn2+	19	PTFCDOFLOPIGGS-UHFFFAOYSA-N	30	8.0		wild type enzyme, at pH 8.0 and 30C
+0.038	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N	30	7.6		M11V/G104A, pH 7.6, 30C, unaerobic conditions
+0.04	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N	30	7.6	X	mutant E61K, pH 7.6, 30C, unaerobic conditions
+0.049	Zn2+	19	PTFCDOFLOPIGGS-UHFFFAOYSA-N	30	8.0	X	mutant enzyme FeChDELTA347, at pH 8.0 and 30C
+0.05	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N	30	8.1	X	mutant K250M/V251L/W256Y, pH 8.1, 30C
+0.05	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N	30	8.1	X	mutant K250M/V251L/W256Y, pH 8.1, 30C
+0.051	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N			X	mutant K250M/V251L/W256Y, under strictly anaerobic conditions
+0.052	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N	30	8.0		wild type enzyme, with Zn2+ as cosubstrate, at pH 8.0 and 30C
+0.053	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N			X	mutant F110A; mutant R115L
+0.055	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N	30	7.6		E61K/L185Q/G212D, pH 7.6, 30C, unaerobic conditions
+0.0573	porphyrin	3838	RKCAIXNGYQCCAL-CEVVSZFKSA-N				wild-type
+0.063	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N			X	mutant C341S
+0.065	Cu2+	28	JPVYNHNXODAKFH-UHFFFAOYSA-N	21	7.4		pH 7.4, 21C, wild-type enzyme; wild type enzyme, in 100 mM tris(hydroxymethyl)aminomethane-HCl, pH 7.4, temperature not specified in the publication
+0.068	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N	30	8.1		wild-type, pH 8.1, 30C
+0.068	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N				wild-type, under strictly anaerobic conditions
+0.068	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N	30	8.1		wild-type, pH 8.1, 30C
+0.0683	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N				wild-type
+0.073	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N				
+0.073	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N	30	8.0	X	mutant enzyme FeChDELTA347, with Zn2+ as cosubstrate, at pH 8.0 and 30C
+0.08167	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N				wild-type
+0.098	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N			X	mutant P255G, under strictly anaerobic conditions
+0.0983	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N			X	mutant P255G
+0.1	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N				
+0.13	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N	30	8.1	X	mutant P255R, pH 8.1, 30C
+0.13	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N			X	mutant P255R, under strictly anaerobic conditions
+0.13	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N	30	8.1	X	mutant P255R, pH 8.1, 30C
+0.138	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N	30	8.1	X	mutant V251L, pH 8.1, 30C
+0.138	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N	30	8.1	X	mutant V251L, pH 8.1, 30C
+0.142	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N	30	8.0		wild type enzyme, with Fe2+ as cosubstrate, 0.1 M Tris-acetate, pH 8.0, 0.5 M NaCl, 0.1% (v/v) Tween 80, at 30C
+0.195	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N				
+0.212	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N	30	8.0	X	mutant enzyme F323L, with Ni2+ as cosubstrate, 0.1 M Tris-acetate, pH 8.0, 0.5 M NaCl, 0.1% (v/v) Tween 80, at 30C
+0.234	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N			X	mutant Q248P/S249G/K250P/G252W, under strictly anaerobic conditions
+0.235	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N	30	8.1	X	mutant Q248P/S249G/K250P/G252W, pH 8.1, 30C
+0.235	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N	30	8.1	X	mutant Q248P/S249G/K250P/G252W, pH 8.1, 30C
+0.267	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N				wild-type
+0.3	protoporphyrin	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N				
+0.3	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N	251	8.1	X	mutant S249A/K250Q/V251C, pH 8.1, 30C
+0.3	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N	251		X	mutant S249A/K250Q/V251C, under strictly anaerobic conditions
+0.3	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N	251	8.1	X	mutant S249A/K250Q/V251C, pH 8.1, 30C
+0.44	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N	30	8.0	X	mutant enzyme S143T/F323L, with Ni2+ as cosubstrate, 0.1 M Tris-acetate, pH 8.0, 0.5 M NaCl, 0.1% (v/v) Tween 80, at 30C
+0.52	Hemin	45	KABFMIBPWCXCRK-RGGAHWMASA-L	45	5.5		pH 5.5, 45C
+0.59	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N	30	8.0	X	mutant enzyme S143T, with Ni2+ as cosubstrate, 0.1 M Tris-acetate, pH 8.0, 0.5 M NaCl, 0.1% (v/v) Tween 80, at 30C
+1.21	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N	30	8.0	X	mutant enzyme S143T, with Fe2+ as cosubstrate, 0.1 M Tris-acetate, pH 8.0, 0.5 M NaCl, 0.1% (v/v) Tween 80, at 30C
+1.6	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N	30	8.0	X	mutant enzyme F323L, with Fe2+ as cosubstrate, 0.1 M Tris-acetate, pH 8.0, 0.5 M NaCl, 0.1% (v/v) Tween 80, at 30C
+1.9	protoporphyrin IX	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N	30	8.0	X	mutant enzyme S143T/F323L, with Fe2+ as cosubstrate, 0.1 M Tris-acetate, pH 8.0, 0.5 M NaCl, 0.1% (v/v) Tween 80, at 30C
+3.2	Zn2+	19	PTFCDOFLOPIGGS-UHFFFAOYSA-N				no added cholate, for the human ferrochelatase (R115L)-catalyzed insertion of zinc into deuteroporphyrin
+3.5	Zn2+	19	PTFCDOFLOPIGGS-UHFFFAOYSA-N				0.5% cholate, for the human ferrochelatase (R115L)-catalyzed insertion of zinc into deuteroporphyrin
+6.7	mesoporphyrin IX	1598	NCAJWYASAWUEBY-UJJXFSCMSA-N	37	8.0		pH 8.0, 37C
+6.7	Zn2+	19	PTFCDOFLOPIGGS-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C

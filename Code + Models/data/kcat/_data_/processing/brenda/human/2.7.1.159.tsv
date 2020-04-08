@@ -1,0 +1,3 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+5	1D-myo-inositol-1,3,4-trisphosphate	3810	MMWCIQZXVOZEGG-NCGNNJKGSA-N	37	7.6		pH 7.6, 37C, in absence of CSN1, first order rate constant
+20	1D-myo-inositol-1,3,4-trisphosphate	3810	MMWCIQZXVOZEGG-NCGNNJKGSA-N	37	7.6		pH 7.6, 37C, in presence of CSN1, first order rate constant

@@ -1,0 +1,24 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.84	p-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N				acetyl donor: acetyl-CoA
+0.006	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	25		X	25C, mutant Y83L
+0.022	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	25		X	25C, mutant Y83V
+4.9	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	25		X	25C, mutant Y83F
+11.1	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	25			25C, wild-type enzyme
+0.006	p-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N			X	hexahistidine-tagged Y83L mutant
+0.0082	p-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N				H155A variant
+0.022	p-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N			X	hexahistidine-tagged Y83V mutant
+0.054	p-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N				acetyl donor: butyryl-CoA
+4.9	p-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N			X	hexahistidine-tagged Y83F mutant
+5.8	p-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N				acetyl donor: propionyl-CoA
+11.1	p-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N				hexahistidine-tagged wild type enzyme
+14.7	p-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N				acetyl donor: acetyl-CoA
+14.7	p-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N				wild type enzyme
+1.42	p-nitrophenyl-alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N				acetyl donor: acetyl-CoA
+0.175	isopropyl-thio-beta-D-galactopyranoside	3077	BPHPUYQFMNQIOC-NXRLNHOXSA-N			X	hexahistidine-tagged Y83V mutant
+0.31	isopropyl-thio-beta-D-galactopyranoside	3077	BPHPUYQFMNQIOC-NXRLNHOXSA-N			X	hexahistidine-tagged Y83L mutant
+122	isopropyl-thio-beta-D-galactopyranoside	3077	BPHPUYQFMNQIOC-NXRLNHOXSA-N				hexahistidine-tagged wild type enzyme
+133	isopropyl-thio-beta-D-galactopyranoside	3077	BPHPUYQFMNQIOC-NXRLNHOXSA-N				wild type enzyme
+168	isopropyl-thio-beta-D-galactopyranoside	3077	BPHPUYQFMNQIOC-NXRLNHOXSA-N			X	hexahistidine-tagged Y83F mutant
+13	phenyl-beta-D-galactopyranoside	2877	NEZJDVYDSZTRFS-YBXAARCKSA-N				acetyl donor: acetyl-CoA
+8.9	o-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N				acetyl donor: acetyl-CoA
+1.84	p-nitrophenyl-beta-D-lactopyranoside	21969	IAYJZWFYUSNIPN-MUKCROHVSA-N				acetyl donor: acetyl-CoA

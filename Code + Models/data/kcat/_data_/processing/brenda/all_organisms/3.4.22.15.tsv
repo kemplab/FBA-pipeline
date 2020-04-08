@@ -1,0 +1,113 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.7	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N		7.3		wild type enzyme FehCL2, in PBS, pH 7.3, and 100 mM sodium acetate buffer, pH 5.5, each containing 2.5 mM dithiothreitol and 2.5 mM EDTA
+2	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+5.4	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				wild type enzyme
+6.2	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+9	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N			X	mutant enzyme T223V/M274L/D275N/G277A/V278M
+18	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N			X	mutant enzyme T223V/DELTAE286-E289
+20.5	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N			X	mutant enzyme L67Y/A205L
+30	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N			X	mutant enzyme T223V/DELTAE286-N293
+46	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				wild type enzyme
+5.53	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+9.5	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+10	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+15.8	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+17	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+20	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+20	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+25.8	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+26	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+26	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+30	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+30	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+39	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				recombinant enzyme expressed Escherichia coli
+50	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				recombinant enzyme expressed in mouse myeloma clls
+1.17	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	1570	KTYVDPYPXDRLTE-HFKGTQBBSA-N		7.3		wild type enzyme FehCL2, in PBS, pH 7.3, and 100 mM sodium acetate buffer, pH 5.5, each containing 2.5 mM dithiothreitol and 2.5 mM EDTA
+33.9	leucine enkephalin	2214	URLZCHNOLZSCCA-VABKMULXSA-N				
+1.62	benzyloxycarbonyl-Leu-Arg-7-amido-4-methylcoumarin	2905	XDHCDHWCFOQOCP-ZEQRLZLVSA-N		7.3		wild type enzyme FehCL2, in PBS, pH 7.3, and 100 mM sodium acetate buffer, pH 5.5, each containing 2.5 mM dithiothreitol and 2.5 mM EDTA
+17.6	benzyloxycarbonyl-Leu-Arg-7-amido-4-methylcoumarin	2905	XDHCDHWCFOQOCP-ZEQRLZLVSA-N				wild type enzyme
+27.2	benzyloxycarbonyl-Leu-Arg-7-amido-4-methylcoumarin	2905	XDHCDHWCFOQOCP-ZEQRLZLVSA-N			X	mutant enzyme L67Y/A205L
+19.8	benzyloxycarbonyl-Lys-p-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N				
+1.52	Pro-Phe-Arg-4-methylcoumarin 7-amide	3191	LATXIQYQVGEJJC-HJOGWXRNSA-N				
+0.39	L-Phe-L-Arg-7-amido-4-methylcoumarin	89497	XJKFUNCUVMZLFE-PMACEKPBSA-N	25	6.5		in the presence of 0.01 mg/ml heparin sulfate, in 50 mM Na2HPO4, pH 6.5, 100 mM NaCl, 5 mM EDTA, 2.5 mM dithiothreitol, at 25C
+0.43	L-Phe-L-Arg-7-amido-4-methylcoumarin	89497	XJKFUNCUVMZLFE-PMACEKPBSA-N	25	6.5		in the presence of 0.02 mg/ml heparin sulfate, in 50 mM Na2HPO4, pH 6.5, 100 mM NaCl, 5 mM EDTA, 2.5 mM dithiothreitol, at 25C
+0.45	L-Phe-L-Arg-7-amido-4-methylcoumarin	89497	XJKFUNCUVMZLFE-PMACEKPBSA-N	25	6.5		in the presence of 0.005 mg/ml heparin sulfate, in 50 mM Na2HPO4, pH 6.5, 100 mM NaCl, 5 mM EDTA, 2.5 mM dithiothreitol, at 25C
+0.52	L-Phe-L-Arg-7-amido-4-methylcoumarin	89497	XJKFUNCUVMZLFE-PMACEKPBSA-N	25	6.5		in 50 mM Na2HPO4, pH 6.5, 100 mM NaCl, 5 mM EDTA, 2.5 mM dithiothreitol, at 25C; in the presence of 0.001 mg/ml heparin sulfate, in 50 mM Na2HPO4, pH 6.5, 100 mM NaCl, 5 mM EDTA, 2.5 mM dithiothreitol, at 25C
+1.01	L-Phe-L-Arg-7-amido-4-methylcoumarin	89497	XJKFUNCUVMZLFE-PMACEKPBSA-N	37	6.5		in 50 mM Na2HPO4, pH 6.5, 100 mM NaCl, 5 mM EDTA, 2.5 mM dithiothreitol, at 37C
+2.64	benzyloxycarbonyl-Pro-Arg-7-amido-4-methylcoumarin	4698	MRWFGPIAYNMAKZ-GOTSBHOMSA-N		7.3		wild type enzyme FehCL2, in PBS, pH 7.3, and 100 mM sodium acetate buffer, pH 5.5, each containing 2.5 mM dithiothreitol and 2.5 mM EDTA
+2.48	tert-butyloxycarbonyl-Ala-Gly-Pro-Arg-7-amido-4-methylcoumarin	6638	FSHIRCDNFQJWRI-NYVOZVTQSA-N		7.3		wild type enzyme FehCL2, in PBS, pH 7.3, and 100 mM sodium acetate buffer, pH 5.5, each containing 2.5 mM dithiothreitol and 2.5 mM EDTA
+26.6	Leu-Trp-Met-Arg-Phe-Ala	8420	HMDCCIDELXBHNH-KSEFBTEXSA-N				
+0.01	benzyloxycarbonyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	3967	NFIKTSWJXJTUBZ-ZEQRLZLVSA-N				wild type enzyme
+0.5	benzyloxycarbonyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	3967	NFIKTSWJXJTUBZ-ZEQRLZLVSA-N			X	mutant enzyme L67Y/A205L
+0.89	L-Val-L-Leu-L-Arg-7-amido-4-methylcoumarin	114560	XGIJXFDFJRZNBB-JTAQYXEDSA-N	25	6.5		in 50 mM Na2HPO4, pH 6.5, 100 mM NaCl, 5 mM EDTA, 2.5 mM dithiothreitol, at 25C
+1.07	L-Val-L-Leu-L-Arg-7-amido-4-methylcoumarin	114560	XGIJXFDFJRZNBB-JTAQYXEDSA-N	37	6.5		in 50 mM Na2HPO4, pH 6.5, 100 mM NaCl, 5 mM EDTA, 2.5 mM dithiothreitol, at 37C
+1.1	2-aminobenzoyl-Lys-Leu-Ala-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	15892	PIMBIDUFULGESE-YNEYNXGLSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+1.67	tert-butyloxycarbonyl-Val-Leu-Lys-4-methylcoumarin 7-amide	7588	KVLPXRKIIFWZLM-DPZBCOQUSA-N				
+0.5	2-aminobenzoyl-Lys-Leu-Val-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	23985	UKRIIDLDGZRSMN-ZILKHDDDSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+0.4	2-aminobenzoyl-Lys-Leu-Ile-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	23986	GREXKRJIPOBVOV-JODOLYDKSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+0.4	2-aminobenzoyl-Lys-Leu-Gly-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	23987	XMDYYDJBTFFOTO-NGTAMTFRSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+0.4	2-aminobenzoyl-Lys-Leu-Met-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	23988	KYQPZQYBIQWPSC-ZTYVOHGWSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+0.1	2-aminobenzoyl-Lys-Leu-Pro-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	23989	NJCANRQSTNBOJG-ZTYVOHGWSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+1.1	2-aminobenzoyl-Lys-Leu-Asn-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	23990	IQFNNDWNILJVBZ-PEAOEFARSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+0.9	2-aminobenzoyl-Lys-Leu-Gln-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	18056	DAINAMOOUQUSHO-CXWHUAPYSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+1.5	2-aminobenzoyl-Lys-Leu-Ser-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	23992	UUPAMQQUMKFTRJ-PEAOEFARSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+1.3	2-aminobenzoyl-Lys-Leu-Thr-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	23993	FDKJHAXELZHAKC-ISPQQLJRSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+0.2	2-aminobenzoyl-Lys-Leu-Asp-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	23994	AHHSGKFOVFZKAW-PEAOEFARSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+2.6	2-aminobenzoyl-Lys-Leu-Glu-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	23995	PSGDYGJMEYFGGD-CXWHUAPYSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+3.1	2-aminobenzoyl-Lys-Leu-Lys-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	114581	RFKDLYWSSCMYNH-OAKHNGAUSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+4.6	2-aminobenzoyl-Lys-Leu-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	5920	KTMALTRUHFJRQH-ZTYVOHGWSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+1.3	2-aminobenzoyl-Lys-Leu-His-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	23997	MESBUZBHUXFRLL-OAKHNGAUSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+13.5	2-aminobenzoyl-Lys-Phe-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	23998	MRHZQOKMMSDOMD-FVMQRRFMSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+7.8	2-aminobenzoyl-Lys-Tyr-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	23999	SHGNBCCJXYTTFG-FVMQRRFMSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+1.9	2-aminobenzoyl-Lys-Trp-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24000	OAZDQOUYTSUPJA-VLOLPVCOSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+6.4	2-aminobenzoyl-Lys-Val-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24001	OYYSUHDNQHGEAB-ROOPJIIGSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+2.3	2-aminobenzoyl-Lys-Ile-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24002	DEDJEYDTHVEZMZ-CFFYGWOLSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+0.5	2-aminobenzoyl-Lys-Gly-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24003	SRDLQERWCAQRFR-LBBUGJAGSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+4	2-aminobenzoyl-Lys-Met-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24004	LLCPQBZVMMVXAD-CXWHUAPYSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+1.2	2-aminobenzoyl-Lys-Pro-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24005	QTZZGBJVDTUXSD-CXWHUAPYSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+0.4	2-aminobenzoyl-Lys-Asn-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24006	BYCONIMNHAHWTM-QJCLFNHPSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+1.7	2-aminobenzoyl-Lys-Gln-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24007	LADLCHMQFFLRKJ-PEAOEFARSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+1.9	2-aminobenzoyl-Lys-Ser-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24008	QBVBNJXCELOJCZ-QJCLFNHPSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+0.4	2-aminobenzoyl-Lys-Thr-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24009	IAPZIPFDRUKGNL-WDDZZJICSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+0.4	2-aminobenzoyl-Lys-Asp-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24010	HLKHWZXIGSEJGA-QJCLFNHPSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+0.4	2-aminobenzoyl-Lys-Glu-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24011	OHBOAXUAFWFDSY-PEAOEFARSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+3.2	2-aminobenzoyl-Lys-Arg-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24012	ZOKOCSHGISZGSS-CXWHUAPYSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+1.3	2-aminobenzoyl-Lys-His-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24013	ANAUROFNISFRPT-ZTYVOHGWSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+5.3	2-aminobenzoyl-Ala-Leu-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24014	DQESRJMQEUVWIF-YRJXDFQMSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+2.1	2-aminobenzoyl-Val-Leu-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24015	PLPDFJTWSSKRCH-ROOPJIIGSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+2.3	2-aminobenzoyl-Ile-Leu-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24016	NZNPQBPQDIBJGW-CFFYGWOLSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+0.1	2-aminobenzoyl-Gly-Leu-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24017	TXHYEBYASBFBKQ-LBBUGJAGSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+3.5	2-aminobenzoyl-Asn-Leu-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24018	RKLJQFCAIDDXQP-QJCLFNHPSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+3.8	2-aminobenzoyl-Gln-Leu-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24019	DDVRAGGWPQHNMU-PEAOEFARSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+4	2-aminobenzoyl-Glu-Leu-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24020	ZHOZAMVRDUNIQN-PEAOEFARSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+3.8	2-aminobenzoyl-Arg-Leu-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24021	UDYZNXFYUYLDJC-CXWHUAPYSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+5.9	2-aminobenzoyl-His-Leu-Arg-Ser-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24022	KEINYSQGMDSXFU-ZTYVOHGWSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+5.5	2-aminobenzoyl-Lys-Leu-Arg-Val-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	15893	QCTLZVXGCFQDIU-GSCWUVFKSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+3.9	2-aminobenzoyl-Lys-Leu-Arg-Ile-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24023	UWANQDRXLXSSIN-CLFUYDHDSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+3.4	2-aminobenzoyl-Lys-Leu-Arg-Gly-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24024	CVOWDBJUYBWTIV-JPRYDEJLSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+6.3	2-aminobenzoyl-Lys-Leu-Arg-Asn-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	15905	NRAAJVHVBMVYOQ-ZTYVOHGWSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+5.8	2-aminobenzoyl-Lys-Leu-Arg-Gln-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24025	MCMRULNVOINZHX-OAKHNGAUSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+4.9	2-aminobenzoyl-Lys-Leu-Arg-Glu-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24026	JHVUHALMJVCOGE-OAKHNGAUSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+3.7	2-aminobenzoyl-Lys-Leu-Arg-Arg-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	22350	NVIWKDIRZDNBLQ-IFLLZMBLSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+7.3	2-aminobenzoyl-Lys-Leu-Arg-His-Ser-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24027	LABGXJDWNAUILM-FVMQRRFMSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+4.1	2-aminobenzoyl-Lys-Leu-Arg-Ser-Ala-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24028	IMZUPMDGTZHXJR-ICJZXESVSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+3.2	2-aminobenzoyl-Lys-Leu-Arg-Ser-Val-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24029	IWIYTLCAXCABGB-GSCWUVFKSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+2.4	2-aminobenzoyl-Lys-Leu-Arg-Ser-Ile-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24030	RKMAOLUUHLRWTB-CLFUYDHDSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+4.8	2-aminobenzoyl-Lys-Leu-Arg-Ser-Gly-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24031	CHUJKNFFUNCNMF-JPRYDEJLSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+6	2-aminobenzoyl-Lys-Leu-Arg-Ser-Pro-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24032	OVVIUFPZBYMCJQ-IFLLZMBLSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+2.3	2-aminobenzoyl-Lys-Leu-Arg-Ser-Asn-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24033	RQXXROGSCDHFDE-ZTYVOHGWSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+4.2	2-aminobenzoyl-Lys-Leu-Arg-Ser-Gln-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24034	BPSGFUVNGNEPPW-OAKHNGAUSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+4.1	2-aminobenzoyl-Lys-Leu-Arg-Ser-Glu-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24035	PYGVNFQPOVMSKQ-OAKHNGAUSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+3.6	2-aminobenzoyl-Lys-Leu-Arg-Ser-Arg-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24036	YNCZHOKGEBCOAG-IFLLZMBLSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+3.7	2-aminobenzoyl-Lys-Leu-Arg-Ser-His-Lys-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24037	DKCXAKNEODVQOO-FVMQRRFMSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+1.2	2-aminobenzoyl-Glu-Leu-Lys-Leu-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24038	WGXHXRCTTOLVCI-LJADHVKFSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+0.4	2-aminobenzoyl-Glu-Glu-epsilon-amino-caproic acid-Glu-Leu-Lys-Leu-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24039	FKMSGTUXFLWYJB-FXRUNAACSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+1.9	2-aminobenzoyl-Lys-Lys-epsilon-amino-caproic acid-Glu-Leu-Lys-Leu-Gln-N-(2,4-dinitrophenyl)ethylenediamine	24040	DXLOMFQDMLEUIJ-BHBHXYCSSA-N	37	5.5		50 mM Na-acetate, 100 mM NaCl, 2.5 mM EDTA, pH 5.5, 37C
+12.8	N-carbobenzoxy-L-phenylalanine-L-arginine 7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N	37	5.5		pH 5.5, 37C
+0.46	Abz-PRKQLATKAARKSAK-Dnp	114633	FBDUREGAAJHSLW-HOPZPATDSA-N				pH and temperature not specified in the publication
+0.49	Abz-PR-acetyl-K-QLATKAARKSAK-Dnp	114634	LBOVZMUYAUIFQC-YOEYNNPQSA-N				pH and temperature not specified in the publication
+0.37	Abz-PRKQLAT-acetyl-K-AARKSAK-Dnp	114635	GMTRMQAHHXFACU-YOEYNNPQSA-N				pH and temperature not specified in the publication
+0.51	Abz-PRKQLATKAAR-dimethyl-K-SAK-Dnp	114636	FKURJKOMRZYZLB-KCTTZAEQSA-N				pH and temperature not specified in the publication
+27	Abz-3-biphenyl-L-Ala-Arg-Ala-Gln-Tyr(3-NO2)-NH2	125418	YWWGMVKMADTWKZ-RWLDMDKJSA-N	37	6.0		in 50 mM Mes buffer (pH 6.0) containing 5 mM dithiothreitol, at 37C
+17.4	Abz-3-biphenyl-L-Ala-Arg-Ala-Ala-Tyr(3-NO2)-NH2	125419	CXYRVBKAQBESRU-ZWUJIHBUSA-N	37	6.0		in 50 mM Mes buffer (pH 6.0) containing 5 mM dithiothreitol, at 37C
+5.01	Abz-3-biphenyl-L-Ala-Arg-Ala-Ser-Tyr(3-NO2)-NH2	125420	XEMZARQXTYNNEB-YIBKTFNBSA-N	37	6.0		in 50 mM Mes buffer (pH 6.0) containing 5 mM dithiothreitol, at 37C

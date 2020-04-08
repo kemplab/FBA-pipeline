@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.077	(2Z,6E)-farnesyl diphosphate	1347	VWFJDQUYCIWHTN-PVMFERMNSA-N	22	7.5	X	pH 7.5, 22C, promiscuous mutant enzyme M4
+0.095	(2Z,6E)-farnesyl diphosphate	1347	VWFJDQUYCIWHTN-PVMFERMNSA-N	22	7.5		pH 7.5, 22C, wild-type enzyme
+0.095	(2Z,6E)-farnesyl diphosphate	1347	VWFJDQUYCIWHTN-PVMFERMNSA-N	22	7.5		pH 7.5, 22C

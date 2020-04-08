@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1600	N2-Acetyl-L-ornithine	1874	JRLGPAXAGHMNOL-LURJTMIESA-N				in the presence of Zn2+
+3800	N2-Acetyl-L-ornithine	1874	JRLGPAXAGHMNOL-LURJTMIESA-N				in the presence of Co2+
+1600	N-acetyl-L-ornithine	1874	JRLGPAXAGHMNOL-LURJTMIESA-N	25	7.5		in the presence of one equivalent of Zn(II), pH 7.5, 25C
+3800	N-acetyl-L-ornithine	1874	JRLGPAXAGHMNOL-LURJTMIESA-N	25	7.5		in the presence of one equivalent of Co(II), pH 7.5, 25C
+550	N-alpha-acetyl-L-ornithine	1874	JRLGPAXAGHMNOL-LURJTMIESA-N	25	7.5		in 50 mM Chelex-100 treated sodium phosphate buffer, pH 7.5, at 25C, in the presence of Mn2+
+1600	N-alpha-acetyl-L-ornithine	1874	JRLGPAXAGHMNOL-LURJTMIESA-N	25	7.5		in 50 mM Chelex-100 treated sodium phosphate buffer, pH 7.5, at 25C, in the presence of Zn2+
+3800	N-alpha-acetyl-L-ornithine	1874	JRLGPAXAGHMNOL-LURJTMIESA-N	25	7.5		in 50 mM Chelex-100 treated sodium phosphate buffer, pH 7.5, at 25C, in the presence of Co2+

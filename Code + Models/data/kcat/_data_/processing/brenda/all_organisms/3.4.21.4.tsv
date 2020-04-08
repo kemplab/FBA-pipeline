@@ -1,0 +1,342 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.24	benzoyl-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N				gamma-trypsin
+0.3	benzoyl-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C, isoenzyme aT-II
+26.6	benzoyl-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N				alpha-trypsin
+42.9	benzoyl-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C, isoenzyme aT-I
+16.5	Nalpha-benzoyl-L-arginine ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N	37	8.0		pH 8.0, 37C
+1.7	tosyl-Arg methyl ester	1557	FKMJXALNHKIDOD-LBPRGKRZSA-N				gamma-trypsin
+76	tosyl-Arg methyl ester	1557	FKMJXALNHKIDOD-LBPRGKRZSA-N				alpha-trypsin
+0.52	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	1570	KTYVDPYPXDRLTE-HFKGTQBBSA-N		7.6		pH 7.6, wild-type enzyme
+2.7	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	1570	KTYVDPYPXDRLTE-HFKGTQBBSA-N		7.6		pH 7.6, recombinant enzyme
+8	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	1570	KTYVDPYPXDRLTE-HFKGTQBBSA-N		7.6	X	pH 7.6, mutant enzyme T190P
+38.33	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	1570	KTYVDPYPXDRLTE-HFKGTQBBSA-N		7.6	X	pH 7.6, mutant enzyme T190V
+82.5	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	1570	KTYVDPYPXDRLTE-HFKGTQBBSA-N		7.6	X	pH 7.6, mutant enzyme T190A
+0.3	benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	5			at 5C
+0.64	benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	5			isozyme ST-3, at 5C
+0.76	benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	15			at 15C
+0.83	benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	5			isozyme ST-2, at 5C
+0.94	benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	25			at 25C
+1.06	benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	5			isozyme ST-1, at 5C
+1.27	benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	15			isozyme ST-3, at 15C
+2	benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	25			isozyme ST-3, at 25C
+2.43	benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	35			at 35C
+2.72	benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	15			isozyme ST-2, at 15C
+2.74	benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	15			isozyme ST-1, at 15C
+3	benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	15			isozyme ST-1, at 15C
+3.13	benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	25			isozyme ST-1, at 25C
+3.86	benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	35			isozyme ST-3, at 35C
+4.06	benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	25			isozyme ST-1, at 25C
+5.54	benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	25			isozyme ST-2, at 25C
+6.74	benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	35			isozyme ST-2, at 35C
+7.7	benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	35			isozyme ST-1, at 35C
+41.3	Tos-L-Arg-OMe	1703	KFNRNFXZFIRNEO-NSHDSACASA-N	5			isozyme ST-1, at 5C
+46.2	Tos-L-Arg-OMe	1703	KFNRNFXZFIRNEO-NSHDSACASA-N	5			at 5C
+61.7	Tos-L-Arg-OMe	1703	KFNRNFXZFIRNEO-NSHDSACASA-N	5			isozyme ST-2, at 5C
+64.5	Tos-L-Arg-OMe	1703	KFNRNFXZFIRNEO-NSHDSACASA-N	15			isozyme ST-1, at 15C
+68.4	Tos-L-Arg-OMe	1703	KFNRNFXZFIRNEO-NSHDSACASA-N	5			isozyme ST-3, at 5C
+69.2	Tos-L-Arg-OMe	1703	KFNRNFXZFIRNEO-NSHDSACASA-N	15			at 15C
+94.3	Tos-L-Arg-OMe	1703	KFNRNFXZFIRNEO-NSHDSACASA-N	25			isozyme ST-1, at 25C; isozyme ST-1, at 35C
+105	Tos-L-Arg-OMe	1703	KFNRNFXZFIRNEO-NSHDSACASA-N	15			isozyme ST-2, at 15C
+109	Tos-L-Arg-OMe	1703	KFNRNFXZFIRNEO-NSHDSACASA-N	25			at 25C
+139	Tos-L-Arg-OMe	1703	KFNRNFXZFIRNEO-NSHDSACASA-N	35			at 35C
+154	Tos-L-Arg-OMe	1703	KFNRNFXZFIRNEO-NSHDSACASA-N	15			isozyme ST-3, at 15C
+159	Tos-L-Arg-OMe	1703	KFNRNFXZFIRNEO-NSHDSACASA-N	25			isozyme ST-3, at 25C
+189	Tos-L-Arg-OMe	1703	KFNRNFXZFIRNEO-NSHDSACASA-N	35			isozyme ST-3, at 35C
+200	Tos-L-Arg-OMe	1703	KFNRNFXZFIRNEO-NSHDSACASA-N	35			isozyme ST-2, at 35C
+234	Tos-L-Arg-OMe	1703	KFNRNFXZFIRNEO-NSHDSACASA-N	25			isozyme ST-2, at 25C
+12.3	Benzyloxycarbonyl-Lys-thiobenzyl ester	2115	FIWAQJRIROPAEC-IBGZPJMESA-N			X	mutant D189H
+0.84	N-alpha-benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	37	8.0		isozyme TLE I, at 37C, pH 8.0
+0.98	N-alpha-benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	37	8.0		isozyme TLE II, at 37C, pH 8.0
+0.013	Nalpha-benzyloxycarbonyl-Lys-p-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N				without addition of methanol
+0.043	Nalpha-benzyloxycarbonyl-Lys-p-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N				in presence of 10% methanol
+0.052	Nalpha-benzyloxycarbonyl-Lys-p-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N				in presence of 20% methanol
+0.07	Nalpha-benzyloxycarbonyl-Lys-p-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N				in presence of 30% methanol
+0.13	Nalpha-benzyloxycarbonyl-Lys-p-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N				in presence of 50% methanol
+3.86	Z-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0	X	mutant enzyme R193G/G142A, in 20 mM Tricine,10 mM CaCl2, at pH 8.0 and 20C
+20	Z-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0		wild type enzyme, in 20 mM Tricine,10 mM CaCl2, at pH 8.0 and 20C
+29.2	Z-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0	X	mutant enzyme R193G/G184A, in 20 mM Tricine,10 mM CaCl2, at pH 8.0 and 20C
+51.5	Z-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0	X	mutant enzyme R193G/G19A, in 20 mM Tricine,10 mM CaCl2, at pH 8.0 and 20C
+54.1	Z-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0	X	mutant enzyme R193G, in 20 mM Tricine,10 mM CaCl2, at pH 8.0 and 20C
+83.6	Z-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0	X	mutant enzyme R193A, in 20 mM Tricine,10 mM CaCl2, at pH 8.0 and 20C
+88.2	Z-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0		wild type enzyme, in 20 mM Tricine,10 mM CaCl2, at pH 8.0 and 20C
+28	tosyl-Gly-Pro-Arg-4-nitroanilide	3392	VYLJFJGMPYBPMN-VXKWHMMOSA-N		8.3		pH 8.3
+30.4	tosyl-Gly-Pro-Arg-4-nitroanilide	3392	VYLJFJGMPYBPMN-VXKWHMMOSA-N		8.3		pH 8.3
+88	tosyl-Gly-Pro-Arg-4-nitroanilide	3392	VYLJFJGMPYBPMN-VXKWHMMOSA-N		8.3		pH 8.3
+1.94	benzoyl-Arg 4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, isoenzyme aT-I
+2.94	benzoyl-Arg 4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, isoenzyme aT-I
+3.7	benzoyl-Arg 4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, isoenzyme aT-II
+1.33	benzoyl-DL-Arg-p-nitroanilide	4118	SWPMUPPZKIJZNK-UHFFFAOYSA-N	37	7.4		in 10 mM Tris, 20 mM CaCl2, pH 7.4, at 37C
+1.21	Nalpha-benzoyl-DL-arginine-4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	9.0		isozyme trypsin B, pH 9.0, 25C
+2.24	Nalpha-benzoyl-DL-arginine-4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	9.0		isozyme trypsin A, pH 9.0, 25C
+5.76	Nalpha-benzoyl-DL-arginine-4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	9.0		isozyme trypsin C, pH 9.0, 25C
+0.04	tosyl-Gly-Pro-Lys-7-amido-4-methylcoumarin	4587	NGMQPNCYPQQQSS-AMWOSJAMSA-N		7.6	X	pH 7.6, mutant enzyme T190P
+0.5	tosyl-Gly-Pro-Lys-7-amido-4-methylcoumarin	4587	NGMQPNCYPQQQSS-AMWOSJAMSA-N		7.6	X	pH 7.6, mutant enzyme T190V
+3.2	tosyl-Gly-Pro-Lys-7-amido-4-methylcoumarin	4587	NGMQPNCYPQQQSS-AMWOSJAMSA-N		7.6	X	pH 7.6, mutant enzyme T190A
+8.78	tosyl-Gly-Pro-Lys-7-amido-4-methylcoumarin	4587	NGMQPNCYPQQQSS-AMWOSJAMSA-N		7.6	X	pH 7.6, mutant enzyme T190P
+1.34	N-benzoyl-DL-arginine 4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+1.56	N-benzoyl-DL-arginine 4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	9.0		pH 9.0, 25C
+2.32	N-benzoyl-DL-arginine 4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+2.62	N-benzoyl-DL-arginine 4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C
+4.71	N-benzoyl-DL-arginine 4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	60	8.5		pH 8.5, 60C
+0.00022	o-aminobenzoyl-AGYRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	4693	ICVWRQRKSDDFAA-HQNMPOTQSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.3	o-aminobenzoyl-AGYRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	4693	ICVWRQRKSDDFAA-HQNMPOTQSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+11	o-aminobenzoyl-AGYRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	4693	ICVWRQRKSDDFAA-HQNMPOTQSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00015	o-aminobenzoyl-AGMRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	4694	WTHZBPGWYOWAJZ-RMRAHUOJSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.34	o-aminobenzoyl-AGMRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	4694	WTHZBPGWYOWAJZ-RMRAHUOJSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+17	o-aminobenzoyl-AGMRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	4694	WTHZBPGWYOWAJZ-RMRAHUOJSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00017	o-aminobenzoyl-AGLRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	4695	DUUVYLGZYBSTIA-ICVHOTGXSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.26	o-aminobenzoyl-AGLRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	4695	DUUVYLGZYBSTIA-ICVHOTGXSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+19	o-aminobenzoyl-AGLRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	4695	DUUVYLGZYBSTIA-ICVHOTGXSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00017	o-aminobenzoyl-AGNRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	4696	VIPRGCRKBWHJFX-PWPLQYRGSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.08	o-aminobenzoyl-AGNRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	4696	VIPRGCRKBWHJFX-PWPLQYRGSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+140	o-aminobenzoyl-AGNRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	4696	VIPRGCRKBWHJFX-PWPLQYRGSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00027	o-aminobenzoyl-AGHRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	4697	KGPGUOBWRXCATB-RUDWLACJSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.08	o-aminobenzoyl-AGHRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	4697	KGPGUOBWRXCATB-RUDWLACJSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+14	o-aminobenzoyl-AGHRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	4697	KGPGUOBWRXCATB-RUDWLACJSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+110	N-carbobenzyloxy-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0	X	mutant enzyme R193G, in 50 mM Tricine, 10 mM CaCl2, pH 8.0 at 20C
+124	N-carbobenzyloxy-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0	X	mutant enzyme R193A, in 50 mM Tricine, 10 mM CaCl2, pH 8.0 at 20C
+133	N-carbobenzyloxy-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0	X	mutant enzyme R193Y, in 50 mM Tricine, 10 mM CaCl2, pH 8.0 at 20C
+158	N-carbobenzyloxy-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0		wild type enzyme, in 50 mM Tricine, 10 mM CaCl2, pH 8.0 at 20C
+162	N-carbobenzyloxy-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	20	8.0	X	mutant enzyme R193F, in 50 mM Tricine, 10 mM CaCl2, pH 8.0 at 20C
+33	benzyloxycarbonylglycyl-L-prolyl-L-arginine-4-methylcoumaryl-7-amide	3967	NFIKTSWJXJTUBZ-ZEQRLZLVSA-N	37	8.0		wild-type enzyme, pH 8.0, 37C
+51.3	benzyloxycarbonylglycyl-L-prolyl-L-arginine-4-methylcoumaryl-7-amide	3967	NFIKTSWJXJTUBZ-ZEQRLZLVSA-N	37	8.0	X	mutant L71Y, pH 8.0, 37C
+57.3	benzyloxycarbonylglycyl-L-prolyl-L-arginine-4-methylcoumaryl-7-amide	3967	NFIKTSWJXJTUBZ-ZEQRLZLVSA-N	37	8.0	X	mutant L71Y/Q72R, pH 8.0, 37C
+93	benzyloxycarbonylglycyl-L-prolyl-L-arginine-4-methylcoumaryl-7-amide	3967	NFIKTSWJXJTUBZ-ZEQRLZLVSA-N	37	8.0	X	mutant Y71L, pH 8.0, 37C
+279.5	benzyloxycarbonylglycyl-L-prolyl-L-arginine-4-methylcoumaryl-7-amide	3967	NFIKTSWJXJTUBZ-ZEQRLZLVSA-N	37	8.0		wild-type enzyme, pH 8.0, 37C
+0.355	Nalpha-benzoyl-DL-Arg-p-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N				anionic trypsin
+0.473	Nalpha-benzoyl-DL-Arg-p-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N				cationic trypsin 1
+1	Nalpha-benzoyl-DL-Arg-p-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N				cationic trypsin 2
+44.5	benzyloxycarbonyl-Gly-Pro-Arg-4-methylcoumarin 7-amide	3967	NFIKTSWJXJTUBZ-ZEQRLZLVSA-N			X	mutant enzyme N143H
+49.3	benzyloxycarbonyl-Gly-Pro-Arg-4-methylcoumarin 7-amide	3967	NFIKTSWJXJTUBZ-ZEQRLZLVSA-N			X	mutant enzyme E151Q
+58.3	benzyloxycarbonyl-Gly-Pro-Arg-4-methylcoumarin 7-amide	3967	NFIKTSWJXJTUBZ-ZEQRLZLVSA-N				wild-type enzyme
+69.3	benzyloxycarbonyl-Gly-Pro-Arg-4-methylcoumarin 7-amide	3967	NFIKTSWJXJTUBZ-ZEQRLZLVSA-N			X	mutant enzyme E151H
+95	succinyl-Ala-Ala-Pro-Arg-p-nitroanilide	5581	URJVOSNJJZVACX-VVWQDTPRSA-N		7		wild-type enzyme, pH 7
+144	succinyl-Ala-Ala-Pro-Arg-p-nitroanilide	5581	URJVOSNJJZVACX-VVWQDTPRSA-N		9		wild-type enzyme, pH 9
+145	succinyl-Ala-Ala-Pro-Arg-p-nitroanilide	5581	URJVOSNJJZVACX-VVWQDTPRSA-N		10		wild-type enzyme, pH 10
+163	succinyl-Ala-Ala-Pro-Arg-p-nitroanilide	5581	URJVOSNJJZVACX-VVWQDTPRSA-N		8		wild-type enzyme, pH 8
+40	succinyl-Ala-Ala-Pro-Lys-p-nitroanilide	5582	NWYQCCVFGQJPGW-YAJHFMINSA-N		7		wild-type enzyme, pH 7
+59	succinyl-Ala-Ala-Pro-Lys-p-nitroanilide	5582	NWYQCCVFGQJPGW-YAJHFMINSA-N		9		wild-type enzyme, pH 9
+64	succinyl-Ala-Ala-Pro-Lys-p-nitroanilide	5582	NWYQCCVFGQJPGW-YAJHFMINSA-N		10		wild-type enzyme, pH 10
+74	succinyl-Ala-Ala-Pro-Lys-p-nitroanilide	5582	NWYQCCVFGQJPGW-YAJHFMINSA-N		8		wild-type enzyme, pH 8
+0.00011	o-aminobenzoyl-AGGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	5845	LTYCMKVHSJJMFF-MPPVQRIUSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.9	o-aminobenzoyl-AGGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	5845	LTYCMKVHSJJMFF-MPPVQRIUSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+2.7	o-aminobenzoyl-AGGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	5845	LTYCMKVHSJJMFF-MPPVQRIUSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+820	o-aminobenzoyl-AGGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	5845	LTYCMKVHSJJMFF-MPPVQRIUSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00004	o-aminobenzoyl-AGGKGAGQ-(2,4-dinitrophenyl-ethylene diamine)	5846	KHYBYESUZBXIAZ-ZVBGZEEKSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+1.4	o-aminobenzoyl-AGGKGAGQ-(2,4-dinitrophenyl-ethylene diamine)	5846	KHYBYESUZBXIAZ-ZVBGZEEKSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+1.7	o-aminobenzoyl-AGGKGAGQ-(2,4-dinitrophenyl-ethylene diamine)	5846	KHYBYESUZBXIAZ-ZVBGZEEKSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+630	o-aminobenzoyl-AGGKGAGQ-(2,4-dinitrophenyl-ethylene diamine)	5846	KHYBYESUZBXIAZ-ZVBGZEEKSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+18.3	N-benzyloxycarbonyl-Gly-Pro-Arg 4-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	25	6.0		pH 6.0, 25C
+48.9	N-benzyloxycarbonyl-Gly-Pro-Arg 4-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	25	9.0		pH 9.0, 25C
+53.1	N-benzyloxycarbonyl-Gly-Pro-Arg 4-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	25	8.0		pH 8.0, 25C
+54.5	N-benzyloxycarbonyl-Gly-Pro-Arg 4-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	25	7.1		pH 7.1, 25C
+23	benzyloxycarbonyl-Lys p-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N				gamma-trypsin
+82	benzyloxycarbonyl-Lys p-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N				alpha-trypsin
+0.004	succinyl-Ala-Ala-Pro-Phe-7-amido-4-methylcoumarin	6501	FMVUZZZUYBXQGR-KCXKOMAXSA-N	37	8.0	X	pH 8.0, 37C, mutant enzyme D189S/DELTA223
+0.0063	succinyl-Ala-Ala-Pro-Phe-7-amido-4-methylcoumarin	6501	FMVUZZZUYBXQGR-KCXKOMAXSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+0.00072	o-aminobenzoyl-AGKRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	6766	NFFGKZGMZGNHGI-ICVHOTGXSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.4	o-aminobenzoyl-AGKRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	6766	NFFGKZGMZGNHGI-ICVHOTGXSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+41	o-aminobenzoyl-AGKRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	6766	NFFGKZGMZGNHGI-ICVHOTGXSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.56	N-alpha-benzoyl-L-Lys-4-nitroanilide	6893	VPUXQKZOFJQNLL-KRWDZBQOSA-N	25	8.0		recombinant enzyme, in 100 mM Tris-HCl, pH 8.0 at 25C
+1.04	N-alpha-benzoyl-L-Lys-4-nitroanilide	6893	VPUXQKZOFJQNLL-KRWDZBQOSA-N	25	8.0		recombinant enzyme, in 100 mM Tris-HCl, pH 8.0 at 25C
+2.46	N-alpha-benzoyl-L-Arg-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	25	8.0		recombinant enzyme, in 100 mM Tris-HCl, pH 8.0 at 25C
+5.73	N-alpha-benzoyl-L-Arg-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	25	8.0		recombinant enzyme, in 100 mM Tris-HCl, pH 8.0 at 25C
+10.5	N-alpha-benzoyl-L-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N	25	8.0		enzyme with O-carboxymethyl-poly-beta-cyclodextrin attached to surface, pH 8.0, 25C
+12.3	N-alpha-benzoyl-L-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N	25	8.0		wild-type, pH 8.0, 25C
+14.7	tert-butyloxycarbonyl-Phe-Ser-Arg-7-amido-4-methylcoumarin	7590	IAHNTKXAMDUIKN-SESNRCPMSA-N	30	8.0		pH 8.0, 30C
+0.00067	succinyl-Ala-Ala-Pro-Tyr-7-amido-4-methylcoumarin	7640	CPTYKGKFXMAFEG-HKDRDPIHSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+0.08	succinyl-Ala-Ala-Pro-Tyr-7-amido-4-methylcoumarin	7640	CPTYKGKFXMAFEG-HKDRDPIHSA-N	37	8.0	X	pH 8.0, 37C, mutant enzyme D189S/DELTA223
+66.7	N-alpha-p-tosyl-L-arginine methyl ester	1557	FKMJXALNHKIDOD-LBPRGKRZSA-N	30	8.0		trypsin B, at pH 8.0 and 30C
+80	N-alpha-p-tosyl-L-arginine methyl ester	1557	FKMJXALNHKIDOD-LBPRGKRZSA-N	30	8.0		trypsin A, at pH 8.0 and 30C
+0.0067	o-aminobenzoyl-AAGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7948	HUYGOARSAKCMDD-UVYRCIQESA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.54	o-aminobenzoyl-AAGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7948	HUYGOARSAKCMDD-UVYRCIQESA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+1.2	o-aminobenzoyl-AAGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7948	HUYGOARSAKCMDD-UVYRCIQESA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.0048	o-aminobenzoyl-AIGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7949	UKDKZVLQPSNQSX-DQRKAPSHSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.26	o-aminobenzoyl-AIGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7949	UKDKZVLQPSNQSX-DQRKAPSHSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.37	o-aminobenzoyl-AIGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7949	UKDKZVLQPSNQSX-DQRKAPSHSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.0045	o-aminobenzoyl-AEGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7950	GOFWTDRAJGNDAR-WMRHRIHMSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.064	o-aminobenzoyl-AEGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7950	GOFWTDRAJGNDAR-WMRHRIHMSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.08	o-aminobenzoyl-AEGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7950	GOFWTDRAJGNDAR-WMRHRIHMSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.0047	o-aminobenzoyl-AVGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7951	GJGFSYIXOQDOBX-IIBNBWKISA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.57	o-aminobenzoyl-AVGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7951	GJGFSYIXOQDOBX-IIBNBWKISA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.9	o-aminobenzoyl-AVGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7951	GJGFSYIXOQDOBX-IIBNBWKISA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.0068	o-aminobenzoyl-AQGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7952	ZFMWNAUJLUXLGI-WMRHRIHMSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.19	o-aminobenzoyl-AQGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7952	ZFMWNAUJLUXLGI-WMRHRIHMSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+1.4	o-aminobenzoyl-AQGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7952	ZFMWNAUJLUXLGI-WMRHRIHMSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.005	o-aminobenzoyl-AMGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7953	CASNYCYYOPWGEA-MVJARCRISA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.22	o-aminobenzoyl-AMGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7953	CASNYCYYOPWGEA-MVJARCRISA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+1.9	o-aminobenzoyl-AMGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7953	CASNYCYYOPWGEA-MVJARCRISA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.0052	o-aminobenzoyl-ALGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7954	ZMPJVJCLMDFUGU-UMFZKMAVSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.12	o-aminobenzoyl-ALGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7954	ZMPJVJCLMDFUGU-UMFZKMAVSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.95	o-aminobenzoyl-ALGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7954	ZMPJVJCLMDFUGU-UMFZKMAVSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00022	o-aminobenzoyl-AGARGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7955	NYYUPIURIVEBFF-ZYISVJEGSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.74	o-aminobenzoyl-AGARGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7955	NYYUPIURIVEBFF-ZYISVJEGSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+52	o-aminobenzoyl-AGARGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7955	NYYUPIURIVEBFF-ZYISVJEGSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00022	o-aminobenzoyl-AGIRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7956	XXTONIFALZVSKP-CCOQLLTJSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.38	o-aminobenzoyl-AGIRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7956	XXTONIFALZVSKP-CCOQLLTJSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+12	o-aminobenzoyl-AGIRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7956	XXTONIFALZVSKP-CCOQLLTJSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00022	o-aminobenzoyl-AGFRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7957	RMVIQLKDAVNBMK-WGTWPTQCSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.43	o-aminobenzoyl-AGFRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7957	RMVIQLKDAVNBMK-WGTWPTQCSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+26	o-aminobenzoyl-AGFRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7957	RMVIQLKDAVNBMK-WGTWPTQCSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00004	o-aminobenzoyl-AGERGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7958	AIGFZNHTKHMHNI-YMGWWJNLSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.09	o-aminobenzoyl-AGERGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7958	AIGFZNHTKHMHNI-YMGWWJNLSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+1.4	o-aminobenzoyl-AGERGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7958	AIGFZNHTKHMHNI-YMGWWJNLSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00015	o-aminobenzoyl-AGVRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7959	CZLGZADKBSEXKI-GWOALQLUSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.4	o-aminobenzoyl-AGVRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7959	CZLGZADKBSEXKI-GWOALQLUSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+26	o-aminobenzoyl-AGVRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7959	CZLGZADKBSEXKI-GWOALQLUSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00014	o-aminobenzoyl-AGQRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7960	KWCRBLMTQWNOBS-YMGWWJNLSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.27	o-aminobenzoyl-AGQRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7960	KWCRBLMTQWNOBS-YMGWWJNLSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+30	o-aminobenzoyl-AGQRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7960	KWCRBLMTQWNOBS-YMGWWJNLSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00011	o-aminobenzoyl-AGSRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7961	DJAFYUWMTRGVGG-PWPLQYRGSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.16	o-aminobenzoyl-AGSRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7961	DJAFYUWMTRGVGG-PWPLQYRGSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+14	o-aminobenzoyl-AGSRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7961	DJAFYUWMTRGVGG-PWPLQYRGSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00004	o-aminobenzoyl-AGDRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7962	RBYMPBAGBADVPW-PWPLQYRGSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.03	o-aminobenzoyl-AGDRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7962	RBYMPBAGBADVPW-PWPLQYRGSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+5.9	o-aminobenzoyl-AGDRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7962	RBYMPBAGBADVPW-PWPLQYRGSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00011	o-aminobenzoyl-AGTRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7963	OJQXECHCHFWLQM-UWUDLAMESA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.13	o-aminobenzoyl-AGTRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7963	OJQXECHCHFWLQM-UWUDLAMESA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.71	Benzyloxycarbonyl-Lys methyl ester	8340	CZWJWNQZTSMVAZ-ZDUSSCGKSA-N				gamma-trypsin
+80	Benzyloxycarbonyl-Lys methyl ester	8340	CZWJWNQZTSMVAZ-ZDUSSCGKSA-N				alpha-trypsin
+1.13	benzoyl-Arg-p-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25			at 25C
+3.44	benzoyl-Arg-p-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25			at 25C
+0.004	succinyl-Ala-Ala-Pro-Lys-7-amido-4-methylcoumarin	8955	MFZRBSRUBSHUQR-TZYAJKAJSA-N	37	8.0	X	pH 8.0, 37C, mutant enzyme D189S/DELTA223
+73	succinyl-Ala-Ala-Pro-Lys-7-amido-4-methylcoumarin	8955	MFZRBSRUBSHUQR-TZYAJKAJSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+121.2	succinyl-Ala-Ala-Pro-Lys-7-amido-4-methylcoumarin	8955	MFZRBSRUBSHUQR-TZYAJKAJSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+0.0055	o-aminobenzoyl-AKGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	9459	KHOPNNJMYRLLSP-DOZDASBISA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.17	o-aminobenzoyl-AKGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	9459	KHOPNNJMYRLLSP-DOZDASBISA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+2.1	o-aminobenzoyl-AKGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	9459	KHOPNNJMYRLLSP-DOZDASBISA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+200	Nalpha-p-tosyl-L-Arg methyl ester	1557	FKMJXALNHKIDOD-LBPRGKRZSA-N	30	8.0		pH 8.0, 30C
+0.000167	succinyl-Ala-Ala-Pro-Leu-7-amido-4-methylcoumarin	11506	KHTBSFINIXLXNU-TZYAJKAJSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+0.00217	succinyl-Ala-Ala-Pro-Leu-7-amido-4-methylcoumarin	11506	KHTBSFINIXLXNU-TZYAJKAJSA-N	37	8.0	X	pH 8.0, 37C, mutant enzyme D189S/DELTA223
+0.00167	succinyl-Ala-Ala-Pro-Arg-7-amido-4-methylcoumarin	11507	CIIGCPMAOJJVNW-ZZTDLJEGSA-N	37	8.0	X	pH 8.0, 37C, mutant enzyme D189S/DELTA223
+91	succinyl-Ala-Ala-Pro-Arg-7-amido-4-methylcoumarin	11507	CIIGCPMAOJJVNW-ZZTDLJEGSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+2.12	Nalpha-benzoyl-L-Arg-4-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	25	8.0		pH 8.0, 25C
+0.01	benzyloxycarbonyl-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	25			at 25C
+172.8	benzyloxycarbonyl-Gly-Pro-Arg-p-nitroanilide	3271	ZPQZRIJTQNWNLG-VXKWHMMOSA-N	25			at 25C
+0.0072	o-aminobenzoyl-AFGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	12300	DFHYPKXGRSEQGS-SWWFCWPPSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+1.2	o-aminobenzoyl-AFGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	12300	DFHYPKXGRSEQGS-SWWFCWPPSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.005	o-aminobenzoyl-ASGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	11542	OTMDDGNGALURIN-PWPLQYRGSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.013	o-aminobenzoyl-ASGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	11542	OTMDDGNGALURIN-PWPLQYRGSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.005	o-aminobenzoyl-AYGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	11536	WKOVSQUSIATECS-HQNMPOTQSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.013	o-aminobenzoyl-AYGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	11536	WKOVSQUSIATECS-HQNMPOTQSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.0043	o-aminobenzoyl-ANGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	12301	QLVNDKFAIYJEAY-PWPLQYRGSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.83	o-aminobenzoyl-ANGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	12301	QLVNDKFAIYJEAY-PWPLQYRGSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+59.15	Nalpha-4-tosyl-L-arginine methyl ester	12866	FKMJXALNHKIDOD-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C
+210	Nalpha-4-tosyl-L-arginine methyl ester	12866	FKMJXALNHKIDOD-UHFFFAOYSA-N	45	8.5		pH 8.5, 45C
+67.79	benzyloxycarbonyl-L-phenylalaninyl-L-seryl-L-arginine-4-methylcoumaryl-7-amide	64113	LIRCMIAXXZYDNV-AWCRTANDSA-N	37	8.0		pH 8.0, 37C, trypsin B
+72.08	benzyloxycarbonyl-L-phenylalaninyl-L-seryl-L-arginine-4-methylcoumaryl-7-amide	64113	LIRCMIAXXZYDNV-AWCRTANDSA-N	37	8.0		pH 8.0, 37C, trypsin A
+41.14	benzyloxycarbonyl-L-glutaminyl-L-arginyl-L-arginine-4-methylcoumaryl-7-amide	75299	DRVAVTFBKPKZRO-GSDHBNRESA-N	37	8.0		pH 8.0, 37C, trypsin B
+42.99	benzyloxycarbonyl-L-glutaminyl-L-arginyl-L-arginine-4-methylcoumaryl-7-amide	75299	DRVAVTFBKPKZRO-GSDHBNRESA-N	37	8.0		pH 8.0, 37C, trypsin A
+4.65	benzyloxycarbonyl-L-leucyl-L-arginyl-L-arginine-4-methylcoumaryl-7-amide	114539	ZPUNWGDRJLHAQE-KCHLEUMXSA-N	37	8.0		pH 8.0, 37C, trypsin A
+14.85	benzyloxycarbonyl-L-leucyl-L-arginyl-L-arginine-4-methylcoumaryl-7-amide	114539	ZPUNWGDRJLHAQE-KCHLEUMXSA-N	37	8.0		pH 8.0, 37C, trypsin B
+5.42	benzyloxycarbonyl-L-leucyl-L-lysyl-L-arginine-4-methylcoumaryl-7-amide	75312	YUGOXPWIFQGEDF-AWCRTANDSA-N	37	8.0		pH 8.0, 37C, trypsin A
+12.19	benzyloxycarbonyl-L-leucyl-L-lysyl-L-arginine-4-methylcoumaryl-7-amide	75312	YUGOXPWIFQGEDF-AWCRTANDSA-N	37	8.0		pH 8.0, 37C, trypsin B
+3.2	benzyloxycarbonyl-L-valyl-L-leucyl-L-lysine-4-methylcoumaryl-7-amide	25868	HNDKWDLJSRXDLF-QYDYLWNGSA-N	37	8.0		pH 8.0, 37C, trypsin A
+8.07	benzyloxycarbonyl-L-valyl-L-leucyl-L-lysine-4-methylcoumaryl-7-amide	25868	HNDKWDLJSRXDLF-QYDYLWNGSA-N	37	8.0		pH 8.0, 37C, trypsin B
+5.51	benzyloxycarbonyl-L-valyl-L-prolyl-L-arginine-4-methylcoumaryl-7-amide	85112	SCMKZEFNNBOPRI-ZEZDXWPOSA-N	37	8.0		pH 8.0, 37C, trypsin A
+25.75	benzyloxycarbonyl-L-valyl-L-prolyl-L-arginine-4-methylcoumaryl-7-amide	85112	SCMKZEFNNBOPRI-ZEZDXWPOSA-N	37	8.0		pH 8.0, 37C, trypsin B
+23	acetyl-Ala-Val-(L-alpha-aminobutyryl)-Pro-Arg-4-nitroanilide	14805	GLDZZGPJSOFZDW-SAIQOLANSA-N				
+0.8	N-benzoyl-DL-Arg-4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N				
+0.0014	o-aminobenzoyl-ADGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	16686	VXGBUKFEXGOFBG-PWPLQYRGSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.013	o-aminobenzoyl-ADGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	16686	VXGBUKFEXGOFBG-PWPLQYRGSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00078	o-aminobenzoyl-AGGRGVGQ-(2,4-dinitrophenyl-ethylene diamine)	11562	CVGLROIXNZHJKU-RZZIVJHCSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00029	o-aminobenzoyl-AGGRGGGQ-(2,4-dinitrophenyl-ethylene diamine)	16687	LBMMKQVBFHTVPJ-PUUVEUEGSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00043	o-aminobenzoyl-AGGRGKGQ-(2,4-dinitrophenyl-ethylene diamine)	16688	PJFCJZIQKBLOIL-XTPLGNKUSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00145	o-aminobenzoyl-AGGRGYGQ-(2,4-dinitrophenyl-ethylene diamine)	11551	BPSWHUZWRFIHOU-MFFRHLKCSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00068	o-aminobenzoyl-AGGRGLGQ-(2,4-dinitrophenyl-ethylene diamine)	11553	CIFOTLSZDLJXQL-XTPLGNKUSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+2.76	Nalpha-benzoyl-DL-arginine 4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	10.5		pH 10.5, 25C
+19	acetyl-Ala-Val-(L-alpha-aminobutyryl)-Pro-Lys-4-nitroanilide	22688	FBQNNRRLEMIKEX-BXIYIOIOSA-N				
+1.4	acetyl-Ala-Val-(L-alpha-aminobutyryl)-Pro-Arg(NO2)-4-nitroanilide	22689	FSGHPAJQIBCIKS-SAIQOLANSA-N				
+5.1	acetyl-Ala-Val-(L-alpha-aminobutyryl)-Pro-Phe(p-NH2)-4-nitroanilide	22690	KFHUVDKQDYKIPQ-YLUXPSQMSA-N				
+0.7	acetyl-Ala-Val-(L-alpha-aminobutyryl)-Pro-Phe(p-CN)-4-nitroanilide	22691	IISKSRFMTHPSEB-YMSVTYLOSA-N				
+33000	2-aminobenzoyl-AAGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	22692	HUYGOARSAKCMDD-ZYISVJEGSA-N	30	8.5		pH 8.5, 30C
+20000	2-aminobenzoyl-AIGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	11540	UKDKZVLQPSNQSX-CCOQLLTJSA-N	30	8.5		pH 8.5, 30C
+30000	2-aminobenzoyl-AFGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	11546	DFHYPKXGRSEQGS-WGTWPTQCSA-N	30	8.5		pH 8.5, 30C
+13300	2-aminobenzoyl-AEGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	11538	GOFWTDRAJGNDAR-YMGWWJNLSA-N	30	8.5		pH 8.5, 30C
+21700	2-aminobenzoyl-AVGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	11544	GJGFSYIXOQDOBX-GWOALQLUSA-N	30	8.5		pH 8.5, 30C
+31700	2-aminobenzoyl-ASGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	11542	OTMDDGNGALURIN-PWPLQYRGSA-N	30	8.5		pH 8.5, 30C
+50000	2-aminobenzoyl-AQGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	22698	ZFMWNAUJLUXLGI-YMGWWJNLSA-N	30	8.5		pH 8.5, 30C
+41000	2-aminobenzoyl-AKGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	22699	KHOPNNJMYRLLSP-ICVHOTGXSA-N	30	8.5		pH 8.5, 30C
+3800	2-aminobenzoyl-ADGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	16686	VXGBUKFEXGOFBG-PWPLQYRGSA-N	30	8.5		pH 8.5, 30C
+31700	2-aminobenzoyl-AYGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	11536	WKOVSQUSIATECS-HQNMPOTQSA-N	30	8.5		pH 8.5, 30C
+41000	2-aminobenzoyl-AMGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	22702	CASNYCYYOPWGEA-RMRAHUOJSA-N	30	8.5		pH 8.5, 30C
+33000	2-aminobenzoyl-ALGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	11533	ZMPJVJCLMDFUGU-ICVHOTGXSA-N	30	8.5		pH 8.5, 30C
+16300	2-aminobenzoyl-ANGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	12301	QLVNDKFAIYJEAY-PWPLQYRGSA-N	30	8.5		pH 8.5, 30C
+26700	2-aminobenzoyl-AHGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	22705	XZGWSNFVMZCTIX-RUDWLACJSA-N	30	8.5		pH 8.5, 30C
+16500	2-aminobenzoyl-ATGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	11537	NNZIBUFIUOOSFJ-OCDHBNCISA-N	30	8.5		pH 8.5, 30C
+330000	2-aminobenzoyl-AGERGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7958	AIGFZNHTKHMHNI-YMGWWJNLSA-N	30	8.5		pH 8.5, 30C
+910000	2-aminobenzoyl-AGSRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	7961	DJAFYUWMTRGVGG-PWPLQYRGSA-N	30	8.5		pH 8.5, 30C
+117000	2-aminobenzoyl-AGKRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	6766	NFFGKZGMZGNHGI-ICVHOTGXSA-N	30	8.5		pH 8.5, 30C
+130000	2-aminobenzoyl-AGLRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	4695	DUUVYLGZYBSTIA-ICVHOTGXSA-N	30	8.5		pH 8.5, 30C
+400000	2-aminobenzoyl-AGNRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	4696	VIPRGCRKBWHJFX-PWPLQYRGSA-N	30	8.5		pH 8.5, 30C
+630000	2-aminobenzoyl-AGHRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	4697	KGPGUOBWRXCATB-RUDWLACJSA-N	30	8.5		pH 8.5, 30C
+410000	2-aminobenzoyl-AGTRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	11539	OJQXECHCHFWLQM-OCDHBNCISA-N	30	8.5		pH 8.5, 30C
+240000	2-aminobenzoyl-AGGRAAGQ-(2,4-dinitrophenyl-ethylene diamine)	22722	ITFPJKNUJQNNLP-ZYISVJEGSA-N	30	8.5		pH 8.5, 30C
+133000	2-aminobenzoyl-AGGRIAGQ-(2,4-dinitrophenyl-ethylene diamine)	22723	JCCZLLBPBNGRLX-CCOQLLTJSA-N	30	8.5		pH 8.5, 30C
+217000	2-aminobenzoyl-AGGRFAGQ-(2,4-dinitrophenyl-ethylene diamine)	11519	SCIPGOGWWOZOHC-WGTWPTQCSA-N	30	8.5		pH 8.5, 30C
+133000	2-aminobenzoyl-AGGREAGQ-(2,4-dinitrophenyl-ethylene diamine)	11534	KJNYGRMKNWUZID-YMGWWJNLSA-N	30	8.5		pH 8.5, 30C
+133000	2-aminobenzoyl-AGGRVAGQ-(2,4-dinitrophenyl-ethylene diamine)	11518	XQNUTPIKMRCOBC-GWOALQLUSA-N	30	8.5		pH 8.5, 30C
+200000	2-aminobenzoyl-AGGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	5845	LTYCMKVHSJJMFF-MPPVQRIUSA-N	30	8.5		pH 8.5, 30C
+230000	2-aminobenzoyl-AGGRQAGQ-(2,4-dinitrophenyl-ethylene diamine)	22727	GJXLRBKZDQTUGR-YMGWWJNLSA-N	30	8.5		pH 8.5, 30C
+400000	2-aminobenzoyl-AGGRSAGQ-(2,4-dinitrophenyl-ethylene diamine)	22728	BUCMIDFZZCXKKC-PWPLQYRGSA-N	30	8.5		pH 8.5, 30C
+230000	2-aminobenzoyl-AGGRKAGQ-(2,4-dinitrophenyl-ethylene diamine)	22729	LWTTUIJZLCABOJ-ICVHOTGXSA-N	30	8.5		pH 8.5, 30C
+123000	2-aminobenzoyl-AGGRDAGQ-(2,4-dinitrophenyl-ethylene diamine)	11535	ICZVDTACVQQZER-PWPLQYRGSA-N	30	8.5		pH 8.5, 30C
+167000	2-aminobenzoyl-AGGRYAGQ-(2,4-dinitrophenyl-ethylene diamine)	22731	XUHYAWJQHWGYJK-HQNMPOTQSA-N	30	8.5		pH 8.5, 30C
+200000	2-aminobenzoyl-AGGRMAGQ-(2,4-dinitrophenyl-ethylene diamine)	22732	YRPVWBNFSMGABL-RMRAHUOJSA-N	30	8.5		pH 8.5, 30C
+138000	2-aminobenzoyl-AGGRLAGQ-(2,4-dinitrophenyl-ethylene diamine)	11527	KGDLXEZNMORSAB-ICVHOTGXSA-N	30	8.5		pH 8.5, 30C
+300000	2-aminobenzoyl-AGGRNAGQ-(2,4-dinitrophenyl-ethylene diamine)	22734	KODQNDSEBDDWGS-PWPLQYRGSA-N	30	8.5		pH 8.5, 30C
+183000	2-aminobenzoyl-AGGRHAGQ-(2,4-dinitrophenyl-ethylene diamine)	22735	BHBXQZZJWIDIBX-RUDWLACJSA-N	30	8.5		pH 8.5, 30C
+200000	2-aminobenzoyl-AGGRTAGQ-(2,4-dinitrophenyl-ethylene diamine)	22731	XUHYAWJQHWGYJK-HQNMPOTQSA-N	30	8.5		pH 8.5, 30C
+0.000167	succinyl-Ala-Ala-Pro-Trp-7-amido-4-methylcoumarin	22736	IJHPTZAHXUSOOL-VXBCSTRESA-N	37	8.0	X	pH 8.0, 37C, mutant enzyme D189S/DELTA223
+27.4	L-Phe-L-Val-L-Pro-N-(3-carbamoyl-4-nitrophenyl)-L-Arg-amide	23782	YOFKDDJPZQKUCU-LCGRTSHQSA-N				
+4.4	L-Phe-L-Val-L-Ile-N-(3-carbamoyl-4-nitrophenyl)-L-Arg-amide	23966	ISSWPLJIQBUKIP-BQSOMWDHSA-N				
+4	L-Phe-L-Val-L-Pro-N-(3-carbamoyl-4-nitrophenyl)-L-Lys-amide	23967	CLEDFCMUHIOWDM-DROSFRCNSA-N				
+6.1	N-benzoyl-L-arginine-p-nitroanilide	1611	RKDYKIHMFYAPMZ-INIZCTEOSA-N	25	7.6		in 67 mM sodium phosphate buffer, pH 7.6, at 25C
+0.004	o-aminobenzoyl-AHGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	22705	XZGWSNFVMZCTIX-RUDWLACJSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.006	o-aminobenzoyl-ATGRGAGQ-(2,4-dinitrophenyl-ethylene diamine)	11537	NNZIBUFIUOOSFJ-OCDHBNCISA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.0007	o-aminobenzoyl-AGGRGIGQ-(2,4-dinitrophenyl-ethylene diamine)	24876	HABDEUFNDJGZKG-KFMWYKRASA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.0034	o-aminobenzoyl-AGGRGFGQ-(2,4-dinitrophenyl-ethylene diamine)	11541	URIIMVZBKRSDOY-OPPLUPLLSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00013	o-aminobenzoyl-AGGRGEGQ-(2,4-dinitrophenyl-ethylene diamine)	11560	ZRMCKWJMEBRIBV-OCDVNBFTSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00015	o-aminobenzoyl-AGGRGQGQ-(2,4-dinitrophenyl-ethylene diamine)	11543	LQJPTDJPGPGAQT-OCDVNBFTSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00034	o-aminobenzoyl-AGGRGSGQ-(2,4-dinitrophenyl-ethylene diamine)	24877	HVNOQVDUQGDGFT-FYYOVZQQSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00014	o-aminobenzoyl-AGGRGDGQ-(2,4-dinitrophenyl-ethylene diamine)	11557	ARQSYEYRXIYHHP-FYYOVZQQSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00063	o-aminobenzoyl-AGGRGMGQ-(2,4-dinitrophenyl-ethylene diamine)	11545	DJSZUCCMVSHBCE-SUFMYBPMSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00027	o-aminobenzoyl-AGGRGNGQ-(2,4-dinitrophenyl-ethylene diamine)	11552	YEVIMLUFLCZGEH-FYYOVZQQSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.00063	o-aminobenzoyl-AGGRGHGQ-(2,4-dinitrophenyl-ethylene diamine)	24878	TWSBVMQJTHYMDE-IAURBROLSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+0.0007	o-aminobenzoyl-AGGRGTGQ-(2,4-dinitrophenyl-ethylene diamine)	24879	CIFQAQPUFFZAGD-JUGXWCPYSA-N	30	8.5		at 30C in 100 mM Tris-HCl buffer pH 8.5
+1.41	tert-butoxycarbonyl-L-Gln-L-Ala-L-Arg-7-amido-4-methylcoumarin	12688	LQSLBVXESNRILG-VDGAXYAQSA-N	37	7.4		in 10 mM Tris, 20 mM CaCl2, pH 7.4, at 37C
+0.25	benzoyl-DL-Arg-7-amido-4-methylcoumarin	26443	HYJIKHYBLDRPMG-UHFFFAOYSA-N	37	7.4		in 10 mM Tris, 20 mM CaCl2, pH 7.4, at 37C
+9.15	Abz-RGFK-EDDnp	27407	IRAAQUWYAQXEQC-CHQNGUEUSA-P	25	8.0		pH 8.0, 25C
+4.59	Abz-RVFK-EDDnp	27408	VHDSQWZQBSDRDC-TUCRWICHSA-P	25	8.0		pH 8.0, 25C
+0.1	Abz-RPFK-EDDnp	27409	ONDWCMPQXINEDZ-CUPIEXAXSA-P	25	8.0		pH 8.0, 25C
+16.63	Abz-RSFK-EDDnp	27410	RTSWUKFZWDMETG-YDPTYEFTSA-P	25	8.0		pH 8.0, 25C
+10.65	Abz-RYFK-EDDnp	27411	BRHIKRKROWIDTG-ZQWQDMLBSA-P	25	8.0		pH 8.0, 25C
+16.63	Abz-RNFK-EDDnp	27412	WJEFOHXZMLYBJN-YDPTYEFTSA-P	25	8.0		pH 8.0, 25C
+13.31	Abz-RQFK-EDDnp	27413	RYPFSHRCBLCBHS-YRCZKMHPSA-P	25	8.0		pH 8.0, 25C
+2.33	Abz-RDFK-EDDnp	27414	NYXVBJQCIAZMMU-YDPTYEFTSA-P	25	8.0		pH 8.0, 25C
+7.49	Abz-REFK-EDDnp	27415	WOVJNUQKODWODJ-YRCZKMHPSA-P	25	8.0		pH 8.0, 25C
+26.61	Abz-RRFK-EDDnp	27416	MAAPBYHUEBTXCJ-CUPIEXAXSA-P	25	8.0		pH 8.0, 25C
+8.32	Abz-RHFK-EDDnp	27417	MHYZKWXTFRNDOQ-BBACVFHCSA-P	25	8.0		pH 8.0, 25C
+18.3	Abz-RTFK-EDDnp	27418	ANKUSOBIMTZCES-UUYGMFAGSA-P	25	8.0		pH 8.0, 25C
+31.94	Abz-GRFK-EDDnp	27419	ZDZOWITXTWRHRT-CHQNGUEUSA-P	25	8.0		pH 8.0, 25C
+46.57	Abz-VRFK-EDDnp	27420	HUJJLSNRJRDREM-TUCRWICHSA-P	25	8.0		pH 8.0, 25C
+8.87	Abz-FRFK-EDDnp	27421	QSGNVGVXWLYIDX-ZQWQDMLBSA-P	25	8.0		pH 8.0, 25C
+53.23	Abz-LRFK-EDDnp	27422	PAPAUISDKIYILT-BBACVFHCSA-N	25	8.0		pH 8.0, 25C
+27.72	Abz-YRFK-EDDnp	27423	KHMKNAWUWFPUSQ-ZQWQDMLBSA-P	25	8.0		pH 8.0, 25C
+30.61	Abz-NRFK-EDDnp	27424	KBVWKBLKZSXKGG-YDPTYEFTSA-P	25	8.0		pH 8.0, 25C
+12.64	Abz-QRFK-EDDnp	27425	DIEJTONRYWWDHU-YRCZKMHPSA-P	25	8.0		pH 8.0, 25C
+6.32	Abz-WRFK-EDDnp	27426	LULNBMXBSVFLLY-YKKXUYLKSA-P	25	8.0		pH 8.0, 25C
+17.3	Abz-ERFK-EDDnp	27427	PPWAHMOAFWDQBM-YRCZKMHPSA-P	25	8.0		pH 8.0, 25C
+53.23	Abz-KRFK-EDDnp	27428	QRSIAUYSKHDBEY-BBACVFHCSA-P	25	8.0		pH 8.0, 25C
+21.07	Abz-HRFK-EDDnp	27429	WVBCTCKRGWUWOB-BBACVFHCSA-P	25	8.0		pH 8.0, 25C
+24.9	MeOSuc-Ala-Arg 4-nitroanilide	27430	NXUFIVNCFFNHFB-WFASDCNBSA-N	25	8.0		pH 8.0, 25C
+33.6	MeOSuc-Ala-Ala-Arg 4-nitroanilide	27431	PSOHLSXJULXDHT-ZQIUZPCESA-N	25	8.0		pH 8.0, 25C
+30.5	MeOSuc-Ala-Ala-Ala-Arg 4-nitroanilide	27432	BWVOGOPKZRRNLC-FPXQBCRKSA-N	25	8.0		pH 8.0, 25C
+112	alpha-N-p-tosyl-L-arginine methyl ester	1557	FKMJXALNHKIDOD-LBPRGKRZSA-N	60	8.5		pH 8.5, 60C
+3.2	acetyl-Ala-Val-(L-alpha-aminobutyryl)-Pro-N-omega-hydroxy-L-arginine-4-nitroanilide	35927	PZCRSCHBSJNQRK-WCJQXVFBSA-N				
+3.2	L-Phe-L-Val-L-Ile-(3-carbamoyl-4-nitrophenyl)-L-Arg-amide	40344	ISSWPLJIQBUKIP-UHFFFAOYSA-N				
+3.8	N-benzoyl-DL-arginine-4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N				
+1.46	benzoyl-DL-Arg-4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+6.17	benzoyl-DL-Arg-4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	25	7.6		pH 7.6, 25C
+23.8	benzoyl-DL-Arg-4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N	50	8.0		pH 8.0, 50C
+148	benzyloxycarbonyl-Phe-Ser-Arg-7-amido-4-methylcoumarin	64113	LIRCMIAXXZYDNV-AWCRTANDSA-N	37	8.0		pH 8.0, 37C

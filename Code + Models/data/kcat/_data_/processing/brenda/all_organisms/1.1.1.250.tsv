@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+165.6	D-ribulose	719	ZAQJHHRNXZUBTE-NQXXGFSBSA-N	85	7.5		pH 7.5, 85C, recombinant Strep-tagged enzyme
+193.2	D-ribulose	719	ZAQJHHRNXZUBTE-NQXXGFSBSA-N	85	7.5		pH 7.5, 85C, recombinant detagged enzyme
+11.2	D-xylitol	348	HEBKCHPVOIAQTA-SCDXWVJYSA-N	85	8.5		pH 8.5, 85C, recombinant Strep-tagged enzyme
+16.6	D-xylitol	348	HEBKCHPVOIAQTA-SCDXWVJYSA-N	85	8.5		pH 8.5, 85C, recombinant detagged enzyme
+11	D-arabinitol	1329	HEBKCHPVOIAQTA-QWWZWVQMSA-N	85	8.5		pH 8.5, 85C, recombinant Strep-tagged enzyme
+18.7	D-arabinitol	1329	HEBKCHPVOIAQTA-QWWZWVQMSA-N	85	8.5		pH 8.5, 85C, recombinant detagged enzyme

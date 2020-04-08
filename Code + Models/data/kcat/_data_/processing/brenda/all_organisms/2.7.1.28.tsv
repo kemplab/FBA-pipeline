@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.15	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant enzyme S446A, with dihydroxyacetone as cosubstrate, at pH 7.5 and 37C
+0.16	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant enzyme T112A, with D-glyceraldehyde as cosubstrate, at pH 7.5 and 37C
+0.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant enzyme T112A, with dihydroxyacetone as cosubstrate, at pH 7.5 and 37C
+0.66	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant enzyme S446A, with D-glyceraldehyde as cosubstrate, at pH 7.5 and 37C
+1.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant enzyme K204A, with D-glyceraldehyde as cosubstrate, at pH 7.5 and 37C
+2.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant enzyme C404A, with D-glyceraldehyde as cosubstrate,at pH 7.5 and 37C
+2.17	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant enzyme C404A, with dihydroxyacetone as cosubstrate, at pH 7.5 and 37C
+2.34	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant enzyme K204A, with dihydroxyacetone as cosubstrate, at pH 7.5 and 37C
+3.94	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		wild type enzyme, with D-glyceraldehyde as cosubstrate, at pH 7.5 and 37C
+4.59	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		wild type enzyme, with dihydroxyacetone as cosubstrate, at pH 7.5 and 37C
+0.13	dihydroxyacetone	509	RXKJFZQQPQGTFL-UHFFFAOYSA-N	37	7.5	X	mutant enzyme S446A, at pH 7.5 and 37C
+0.51	dihydroxyacetone	509	RXKJFZQQPQGTFL-UHFFFAOYSA-N	37	7.5	X	mutant enzyme T112A, at pH 7.5 and 37C
+2.26	dihydroxyacetone	509	RXKJFZQQPQGTFL-UHFFFAOYSA-N	37	7.5	X	mutant enzyme C404A, at pH 7.5 and 37C
+2.79	dihydroxyacetone	509	RXKJFZQQPQGTFL-UHFFFAOYSA-N	37	7.5	X	mutant enzyme K204A, at pH 7.5 and 37C
+5	dihydroxyacetone	509	RXKJFZQQPQGTFL-UHFFFAOYSA-N	37	7.5		wild type enzyme, at pH 7.5 and 37C
+0.16	D-glyceraldehyde	520	MNQZXJOMYWMBOU-VKHMYHEASA-N	37	7.5	X	mutant enzyme T112A, at pH 7.5 and 37C
+0.74	D-glyceraldehyde	520	MNQZXJOMYWMBOU-VKHMYHEASA-N	37	7.5	X	mutant enzyme S446A, at pH 7.5 and 37C
+2.09	D-glyceraldehyde	520	MNQZXJOMYWMBOU-VKHMYHEASA-N	37	7.5	X	mutant enzyme K204A, at pH 7.5 and 37C
+2.27	D-glyceraldehyde	520	MNQZXJOMYWMBOU-VKHMYHEASA-N	37	7.5	X	mutant enzyme C404A, at pH 7.5 and 37C
+4.83	D-glyceraldehyde	520	MNQZXJOMYWMBOU-VKHMYHEASA-N	37	7.5		wild type enzyme, at pH 7.5 and 37C

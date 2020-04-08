@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0095	(S)-naproxenoyl-CoA	113852	SAHWFIOQEWXFSQ-TZQJYCFMSA-N				pH and temperature not specified in the publication
+0.015	(S)-ketoprofenoyl-CoA	113851	KHEIXDLMIXBLRR-WAJDXPIUSA-N				pH and temperature not specified in the publication
+0.031	(2S)-2-methyldecanoyl-CoA	10037	IERLRQNOXCBECM-RQOYCFECSA-N				pH and temperature not specified in the publication
+0.07	(S)-2-methyldecanoyl-CoA	10037	IERLRQNOXCBECM-RQOYCFECSA-N				pH and temperature not specified in the publication
+53.8	(R)-2-methyldecanoyl-CoA	18463	IERLRQNOXCBECM-MCIGHZANSA-N		7.2		recombinant enzyme, 50 mM NaH2PO4-NaOH, pH 7.2
+60.9	(S)-2-methyldecanoyl-CoA	10037	IERLRQNOXCBECM-RQOYCFECSA-N		7.2		recombinant enzyme, 50 mM NaH2PO4-NaOH, pH 7.2

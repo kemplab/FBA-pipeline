@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.023	Abz-FRLKGGAPIKGV-N-(2,4-dinitrophenyl)-ethylenediamine	2931	PPAQQZYIIJBYCV-CYLJLFKGSA-N		5.25		at pH 5.25
+0.025	FRLKGGAPIKGV	24052	AICPLMGWATWDNI-OTNVSZFYSA-N				
+0.1	Abz-FRLKGGAPIKGV-N-(2,4-dinitrophenyl)-ethylenediamine	2931	PPAQQZYIIJBYCV-CYLJLFKGSA-N		9.8		at pH 9.8
+0.198	Abz-FRLKGGAPIKGV-N-(2,4-dinitrophenyl)-ethylenediamine	2931	PPAQQZYIIJBYCV-CYLJLFKGSA-N		6.05		at pH 6.05
+0.23	N-benzoyl-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	60	5.0		wild type enzyme, in 50 mM Na-acetate buffer pH 5.0, at 60C
+0.233	Abz-FRLKGGAPIKGV-N-(2,4-dinitrophenyl)-ethylenediamine	2931	PPAQQZYIIJBYCV-CYLJLFKGSA-N		9.2		at pH 9.2
+0.33	Abz-FRLKGGAPIKGV-N-(2,4-dinitrophenyl)-ethylenediamine	2931	PPAQQZYIIJBYCV-CYLJLFKGSA-N		7.42		at pH 7.42
+0.343	Abz-FRLKGGAPIKGV-N-(2,4-dinitrophenyl)-ethylenediamine	2931	PPAQQZYIIJBYCV-CYLJLFKGSA-N		6.82		at pH 6.82
+0.363	Abz-FRLKGGAPIKGV-N-(2,4-dinitrophenyl)-ethylenediamine	2931	PPAQQZYIIJBYCV-CYLJLFKGSA-N		8.01		at pH 8.01
+0.366	Abz-FRLKGGAPIKGV-N-(2,4-dinitrophenyl)-ethylenediamine	2931	PPAQQZYIIJBYCV-CYLJLFKGSA-N		8.65		at pH 8.65
+1.43	N-benzoyl-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	60	5.0	X	mutant enzyme S32T/A67Y, in 50 mM Na-acetate buffer pH 5.0, at 60C
+2.23	N-benzoyl-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	60	5.0	X	mutant enzyme S32T, in 50 mM Na-acetate buffer pH 5.0, at 60C
+2.65	N-benzoyl-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	60	5.0	X	mutant enzyme A67Y, in 50 mM Na-acetate buffer pH 5.0, at 60C

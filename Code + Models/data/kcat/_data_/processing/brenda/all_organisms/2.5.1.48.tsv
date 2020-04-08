@@ -1,0 +1,36 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+117	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	25	7.8		pH 7.8, 25C, replacement reaction, ordered mechanism
+121	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	25	7.8		pH 7.8, 25C, replacement reaction, modified ping-pong mechanism
+5.6	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	7.8	X	mutant D45F, 25C, pH 7.8
+11.1	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	7.8	X	mutant E325Y 25C, pH 7.8
+121	L-cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	7.8		wild-type, 25C, pH 7.8
+0.15	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8	X	mutant R48K, pH 7.8, 25C
+0.297	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	9.0		25C, pH 9.0
+0.31	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8	X	mutant S326A, pH 7.8, 25C
+0.5	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8	X	mutant R361K, pH 7.8, 25C
+1.23	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8	X	mutant D45F/E325Y, gamma-elimination, 25C, pH 7.8
+1.39	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8	X	mutant E325Y, gamma-elimination, 25C, pH 7.8
+1.4	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8	X	mutant D45F, gamma-elimination, 25C, pH 7.8
+1.4	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8	X	mutant R106A, pH 7.8, 25C
+1.8	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8		pH 7.8, 25C, elimination reaction, modified ping-pong mechanism
+1.8	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8		wild-type, gamma-elimination, 25C, pH 7.8
+4	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	30	7.3		gamma-elimination reaction, pH 7.3, 30C
+5.3	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8	X	mutant R106K, pH 7.8, 25C
+5.6	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8	X	mutant R49A, pH 7.8, 25C
+6	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8	X	mutant Y46F, pH 7.8, 25C
+9.6	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8	X	mutant Y101F, pH 7.8, 25C
+12.7	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	37	8.2		gamma-elimination reaction , pH 8.2, 37C
+33	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8	X	mutant N227A, pH 7.8, 25C
+57	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8	X	mutant E325Q, pH 7.8, 25C
+59	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8	X	mutant E325A, pH 7.8, 25C
+63.3	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	37	8.2		gamma-replacement reaction, pH 8.2, 37C
+79	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8	X	mutant D45A, pH 7.8, 25C
+100	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8	X	mutant D45N, pH 7.8, 25C
+112	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8		wild-type, pH 7.8, 25C
+117	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8		pH 7.8, 25C, replacement reaction, ordered mechanism
+121	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8		pH 7.8, 25C, replacement reaction, modified ping-pong mechanism
+130	O-succinyl-L-homoserine	722	GNISQJGXJIDKDJ-YFKPBYRVSA-N	25	7.8	X	mutant R49K, pH 7.8, 25C
+7.67	cystathionine	482	ILRYLPWNYFXEMH-WHFBIAKZSA-N	25	8.2		pH 8.2, 25C, 460 mol product formed per mol of subunit
+0.133	O-Succinyl-L-serine	4085	ZAHSBRLHJRVFAU-BYPYZUCNSA-N	37	8.2		gamma-replacement reaction, pH 8.2, 37C
+1.5	O-Succinyl-L-serine	4085	ZAHSBRLHJRVFAU-BYPYZUCNSA-N	30	7.3		gamma-elimination reaction, final, inhibited reaction phase, pH 7.3, 30C
+3.83	O-Succinyl-L-serine	4085	ZAHSBRLHJRVFAU-BYPYZUCNSA-N	30	7.3		gamma-elimination reaction, initial reaction phase, pH 7.3, 30C

@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.1	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	24	7.0		in 0.1 M KPB (pH 7.0), at 24C; pH 7.0, 24C
+0.001	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N	24	7.0		in 0.1 M KPB (pH 7.0), at 24C
+0.25	prostaglandin H2	504	YIBNHAJFJUQSRA-YNNPMVKQSA-N	24	7.0		in 0.1 M KPB (pH 7.0), at 24C
+0.09	tert-butyl hydroperoxide	511	CIHOLLKRGTVIJN-UHFFFAOYSA-N	24	7.0		pH 7.0, 24C
+0.1	cumene hydroperoxide	653	YQHLDYVWEZKEOX-UHFFFAOYSA-N	24	7.0		in 0.1 M KPB (pH 7.0), at 24C; pH 7.0, 24C
+0.09	t-butyl hydroperoxide	511	CIHOLLKRGTVIJN-UHFFFAOYSA-N	24	7.0		in 0.1 M KPB (pH 7.0), at 24C
+0.09	prostamide H2	5186	GOUQZQORWGWEFM-XMHDMCHPSA-N	24	7.0		in 0.1 M KPB (pH 7.0), at 24C
+0.25	(5Z,9alpha,11alpha,13E,15S)-9,11-epidioxy-15-hydroxy-prosta-5,13-dienoate	504	YIBNHAJFJUQSRA-YNNPMVKQSA-N	24	7.0		pH 7.0, 24C, i.e. prostaglandin H2
+0.09	(5Z)-N-(2-hydroxyethyl)-7-[(1R,4S,5R,6R)-6-[(1E,3S)-3-hydroxyoct-1-en-1-yl]-2,3-dioxabicyclo[2.2.1]hept-5-yl]hept-5-enamide	5186	GOUQZQORWGWEFM-XMHDMCHPSA-N	24	7.0		pH 7.0, 24C, i.e. prostamide H2

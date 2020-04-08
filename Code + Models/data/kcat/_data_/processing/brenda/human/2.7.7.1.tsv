@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.42	tiazofurin riboside 5'-monophosphate	2264	XDDGVTBJYGSVPM-DBRKOABJSA-N	37	7.5		pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3
+0.55	tiazofurin riboside 5'-monophosphate	2264	XDDGVTBJYGSVPM-DBRKOABJSA-N	37	7.5		pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2
+2.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3
+2.5	NMN	623	DAYLJWODMCOQEW-TURQNECASA-O	37	7.5		pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3
+3.3	NMNH	1552	XQHMUSRSLNRVGA-TURQNECASA-N	37	7.5		pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2
+3.8	nicotinic acid mononucleotide	1045	JOUIQRNQJGXQDC-ZYUZMQFOSA-O	37	7.5		pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3
+6.9	nicotinic acid mononucleotide	1045	JOUIQRNQJGXQDC-ZYUZMQFOSA-O	37	7.5		pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2
+7.2	NMNH	1552	XQHMUSRSLNRVGA-TURQNECASA-N	37	7.5		pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3; pH 7.5, 37C, isozyme NMNAT3
+8.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2
+8.8	NMN	623	DAYLJWODMCOQEW-TURQNECASA-O	37	7.5		pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2; pH 7.5, 37C, isozyme NMNAT2
+14.9	tiazofurin riboside 5'-monophosphate	2264	XDDGVTBJYGSVPM-DBRKOABJSA-N	37	7.5		pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1
+18.6	NMNH	1552	XQHMUSRSLNRVGA-TURQNECASA-N	37	7.5		pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1
+42.9	nicotinic acid mononucleotide	1045	JOUIQRNQJGXQDC-ZYUZMQFOSA-O	37	7.5		pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1
+53.8	NMN	623	DAYLJWODMCOQEW-TURQNECASA-O	37	7.5		pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1
+53.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1; pH 7.5, 37C, isozyme NMNAT1

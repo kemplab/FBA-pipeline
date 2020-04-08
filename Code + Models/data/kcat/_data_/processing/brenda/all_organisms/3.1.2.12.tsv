@@ -1,0 +1,65 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0055	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant enzyme L58H/W197I, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+0.028	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant enzyme M162H/C60S/W197I, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+0.048	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant W197I/H160I, pH 7.4, 22C
+0.1	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant enzyme M162H, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+0.26	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, recombinant wild-type YeiG
+0.3	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, recombinant FrmB
+0.32	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant enzyme C60R/W197I, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+0.48	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant H160S, pH 7.4, 22C
+0.525	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant enzyme C60Q/W197I, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+0.6	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant Y278F, pH 7.4, 22C
+0.76	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant enzyme C60S/W197I, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+0.76	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant W197I/C60S, pH 7.4, 22C
+0.85	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant H160I, pH 7.4, 22C
+0.97	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant enzyme C60K/W197I, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+0.98	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant C60A, pH 7.4, 22C
+1.05	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant enzyme W197I, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+1.05	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant W197I, pH 7.4, 22C
+1.1	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant N64A, pH 7.4, 22C
+1.5	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant enzyme C60H/W197I, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+1.5	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant C60S, pH 7.4, 22C
+1.53	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant enzyme C60S, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+1.8	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4		Km above 1.25 mM, wild type enzyme, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+1.8	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4		wild-type, pH 7.4, 22C
+1.95	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N		8.0		in Tris-HCl buffer, pH 8.0
+2.8	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant H160I oxidized form with catalase, pH 7.4, 22C
+3.1	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	22	7.4	X	mutant H160I oxidized form, pH 7.4, 22C
+0.003	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	22	7.4	X	mutant enzyme M162H, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+0.0165	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	22	7.4	X	kcat less than 0.0165 s-1, mutant enzyme L58H/W197I, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+0.04	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	22	7.4	X	mutant enzyme M162H/C60S/W197I, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+0.078	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	22	7.4	X	mutant enzyme C60S, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+0.2	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	22	7.4		wild type enzyme, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+0.36	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, recombinant wild-type YeiG
+0.43	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	22	7.4	X	mutant enzyme C60R/W197I, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+1.23	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	22	7.4	X	mutant enzyme C60K/W197I, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+1.65	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	22	7.4	X	mutant enzyme C60Q/W197I, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+1.92	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	22	7.4	X	mutant enzyme W197I, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+1.97	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	22	7.4	X	mutant enzyme C60S/W197I, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+3.63	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	22	7.4	X	mutant enzyme C60H/W197I, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+4.48	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N		8.0		in Tris-HCl buffer, pH 8.0
+2.17	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N	37	8.0	X	pH 8.0, 37C, recombinant YeiG mutant D80A
+2.23	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N	37	8.0	X	pH 8.0, 37C, recombinant YeiG mutant D255A
+2.96	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N	37	8.0	X	pH 8.0, 37C, recombinant YeiG mutant D199A
+3.13	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N	37	8.0	X	pH 8.0, 37C, recombinant YeiG mutant D218A
+3.3	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, recombinant wild-type YeiG
+3.81	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N	37	8.0	X	pH 8.0, 37C, recombinant YeiG mutant D218A
+5.09	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, recombinant wild-type YeiG
+5.1	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N	37	8.0	X	pH 8.0, 37C, recombinant YeiG mutant C54A
+5.12	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N	37	8.0	X	pH 8.0, 37C, recombinant YeiG mutant C26A
+0.05	S-Lactoylglutathione	1117	VDYDCVUWILIYQF-RRQHEKLDSA-N	37	8.0		pH 8.0, 37C, recombinant FrmB
+0.118	S-Lactoylglutathione	1117	VDYDCVUWILIYQF-RRQHEKLDSA-N	22	7.4	X	mutant W197I/H160I, pH 7.4, 22C
+1.02	S-Lactoylglutathione	1117	VDYDCVUWILIYQF-RRQHEKLDSA-N	37	8.0		pH 8.0, 37C, recombinant wild-type YeiG
+50	S-Lactoylglutathione	1117	VDYDCVUWILIYQF-RRQHEKLDSA-N	22	7.4	X	mutant enzyme C60S/W197I, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+50	S-Lactoylglutathione	1117	VDYDCVUWILIYQF-RRQHEKLDSA-N	22	7.4	X	mutant W197I/C60S, pH 7.4, 22C
+116	S-Lactoylglutathione	1117	VDYDCVUWILIYQF-RRQHEKLDSA-N	22	7.4		wild-type, pH 7.4, 22C
+116.7	S-Lactoylglutathione	1117	VDYDCVUWILIYQF-RRQHEKLDSA-N	22	7.4	X	mutant enzyme W197I, in 0.067 M Na/K phosphate, at pH 7.4 and 22C
+6.51	S-formylglutathione	1241	FHXAGOICBFGEBF-BQBZGAKWSA-N	37	8.0		pH 8.0, 37C, recombinant wild-type YeiG
+28.5	S-formylglutathione	1241	FHXAGOICBFGEBF-BQBZGAKWSA-N	37	8.0		pH 8.0, 37C, recombinant FrmB
+0.14	4-nitrophenyl propionate	1443	DCQWRDUXRZSWHI-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, recombinant FrmB
+0.37	4-nitrophenyl propionate	1443	DCQWRDUXRZSWHI-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, recombinant wild-type YeiG
+1.84	4-nitrophenyl propionate	1443	DCQWRDUXRZSWHI-UHFFFAOYSA-N		8.0		in Tris-HCl buffer, pH 8.0
+0.49	4-nitrophenyl caproate	2009	DHMLEOAJGOUDOM-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, recombinant wild-type YeiG
+0.67	4-nitrophenyl caproate	2009	DHMLEOAJGOUDOM-UHFFFAOYSA-N		8.0		in Tris-HCl buffer, pH 8.0
+1.9	alpha-naphthyl propionate	14970	FRXPDEZCWCPLIH-UHFFFAOYSA-N		8.0		in Tris-HCl buffer, pH 8.0
+1.73	naphthalen-1-yl n-butanoate	2649	XIVJNRXPRQKFRZ-UHFFFAOYSA-N		8.0		in Tris-HCl buffer, pH 8.0

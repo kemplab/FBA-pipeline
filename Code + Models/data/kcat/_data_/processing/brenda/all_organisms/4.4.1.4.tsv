@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00185	4-mercaptopyridine	125182	FHTDDANQIMVWKZ-UHFFFAOYSA-N	35	7.0		catalytic alliinase-specific variable domain of the heavy chain of a heavy-chain antibody VHH C-10, pH 7.0, 35C
+0.0028	4-mercaptopyridine	125182	FHTDDANQIMVWKZ-UHFFFAOYSA-N	35	7.0		native enzyme, pH 7.0, 35C
+0.008	(+/-)-alliin	128602	XUHLIQGRKRUKPH-UHFFFAOYSA-N	35	7.0		catalytic alliinase-specific variable domain of the heavy chain of a heavy-chain antibody VHH C-10, pH 7.0, 35C
+0.015	(+/-)-alliin	128602	XUHLIQGRKRUKPH-UHFFFAOYSA-N	35	7.0		native enzyme, pH 7.0, 35C
+1.75	(2R)-2-amino-3-(phenethylsulfinyl)propanoic acid	26753	BHYYMBDTNMRKTF-VQVVDHBBSA-N	22	8.0		pH 8.0, 22C
+1.96	propiin	7330	JZKMSAGUCSIIAH-ITZCMCNPSA-N	22	8.0		pH 8.0, 22C
+2.48	(2R)-2-amino-3-(ethylsulfinyl)propanoic acid	3388	CSZTZFUEOCFFJH-YGVKFDHGSA-N	22	8.0		pH 8.0, 22C
+2.67	(2R)-2-amino-3-(4-methylbenzylsulfinyl)propanoic acid	25742	SJGUJFMYSXAPML-VQVVDHBBSA-N	22	8.0		pH 8.0, 22C
+4.2	2-hydroxyethiin	18462	UVUXOAGEDRREKG-UHFFFAOYSA-N	22	8.0		pH 8.0, 22C
+4.47	petiveriin	27152	OBQBHBOGTLPNJM-HJULIUOESA-N	22	8.0		pH 8.0, 22C
+6.48	(2R)-2-amino-3-(phenylsulfinyl)propanoic acid	20896	YIYUCMJLQCHZLS-BVVIDWAXSA-N	22	8.0		pH 8.0, 22C
+8.18	(2R)-2-amino-3-(1-phenylethylsulfinyl)propanoic acid	25881	ZRXSDMNNCAQCNF-AOUYCFFKSA-N	22	8.0		pH 8.0, 22C
+10.65	(2R)-2-amino-3-(4-chlorobenzylsulfinyl)propanoic acid	25743	QFLBSVBDAHRZJZ-XUOZKRPMSA-N	22	8.0		pH 8.0, 22C
+14.33	(2R)-2-amino-3-(2-methylbenzylsulfinyl)propanoic acid	25882	IRGFMDSRZSIXBG-VQVVDHBBSA-N	22	8.0		pH 8.0, 22C
+15.1	methiin	9057	ZZLHPCSGGOGHFW-UHFFFAOYSA-N	22	8.0		pH 8.0, 22C
+20.67	alliin	3613	XUHLIQGRKRUKPH-DYEAUMGKSA-N	22	8.0		pH 8.0, 22C

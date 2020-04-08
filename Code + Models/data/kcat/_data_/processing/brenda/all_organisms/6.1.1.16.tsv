@@ -1,0 +1,58 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	ATP-diphosphate exchange reaction, recombinant W205Y mutant enzyme
+0.34	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8.0	X	pH 8.0, mutant enzyme DELTA328-461, ATP-diphosphate exchange
+0.48	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.0	X	30C, pH 7.0, mutant enzyme V27E
+2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8.0	X	pH 8.0, mutant enzyme DELTA288-461, ATP-diphosphate exchange
+4.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.0		30C, pH 7.0, wild-type enzyme
+22.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8.0		pH 8.0, wild-type enzyme, ATP-diphosphate exchange
+57	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				ATP-diphosphate exchange reaction, recombinant His-tagged Co2+-wild-type enzyme
+91	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				ATP-diphosphate exchange reaction, recombinant Zn2+-wild-type enzyme
+142	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				ATP-diphosphate exchange reaction, recombinant His-tagged Zn2+-wild-type enzyme
+0.001	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N			X	mutant enzyme H40A/R42A, pH and temperature not specified in the publication
+0.0093	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N			X	mutant enzyme H40A, pH and temperature not specified in the publication
+0.02	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N			X	mutant enzyme M294A/R427A, pH and temperature not specified in the publication
+0.027	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N			X	mutant enzyme R427A, pH and temperature not specified in the publication
+0.082	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N			X	mutant enzyme E354Q, pH and temperature not specified in the publication
+0.088	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N			X	mutant enzyme M294A/H297A, pH and temperature not specified in the publication
+0.14	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N			X	mutant enzyme M294A, pH and temperature not specified in the publication
+0.16	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N			X	mutant enzyme H297A, pH and temperature not specified in the publication
+0.28	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N			X	ATP-diphosphate exchange reaction, recombinant W205Y mutant enzyme
+0.49	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N			X	mutant enzyme E354Q/R427A, pH and temperature not specified in the publication
+0.86	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	30	7.0	X	30C, pH 7.0, mutant enzyme V27E
+1.1	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N			X	mutant enzyme R42A, pH and temperature not specified in the publication
+1.2	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				wild type enzyme, pH and temperature not specified in the publication
+2.2	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	7.0		recombinant wild-type enzyme, pH 7.0, 37C
+2.5	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				steady-state
+4.8	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	30	7.0		30C, pH 7.0, wild-type enzyme
+10.3	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				recombinant His-tagged wild-type full-length enzyme, amino acid activation step
+18.1	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N			X	recombinant His-tagged deletion mutant, amino acid activation step
+35	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				ATP-diphosphate exchange reaction, recombinant His-tagged Co2+-wild-type enzyme
+79	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				ATP-diphosphate exchange reaction, recombinant Zn2+-wild-type enzyme
+100	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				ATP-diphosphate exchange reaction, recombinant His-tagged Zn2+-wild-type enzyme
+0.005	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	aminoacylation reaction, recombinant C28S/C209S mutant enzyme
+0.007	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	aminoacylation reaction, recombinant W205Y mutant enzyme
+0.014	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	40	7.5	X	pH 7.5, 40C, recombinant mutant D417A/E420A
+0.03	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant enzyme N351D, mutant tRNACys(G15-C48)
+0.03	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	40	7.5	X	pH 7.5, 40C, recombinant mutant D435A/D436A
+0.036	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant enzyme E354A, mutant tRNACys(G15-C48)
+0.06	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	40	7.5	X	pH 7.5, 40C, recombinant mutant D239A/D240A
+0.074	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant enzyme E354Q, mutant tRNACys(G15-C48)
+0.094	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant enzyme N351D, wild-type tRNACys(G15-G48)
+0.1	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant enzyme E354A, wild-type tRNACys(G15-G48)
+0.11	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	40	7.5		pH 7.5, 40C, recombinant wild-type enzyme
+0.14	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant enzyme E354Q, wild-type tRNACys(G15-G48)
+0.2	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	recombinant His-tagged deletion mutant, amino acid activation step
+0.39	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant enzyme N351A, mutant tRNACys(G15-C48)
+0.45	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	wild-type enzyme, mutant tRNACys(G15-C48)
+0.5	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				aminoacylation reaction, recombinant His-tagged Co2+-wild-type enzyme
+0.59	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant enzyme N351A, wild-type tRNACys(G15-G48)
+0.68	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	30	7.0	X	30C, pH 7.0, mutant enzyme V27E
+0.9	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				aminoacylation reaction, recombinant Zn2+-wild-type enzyme
+2.3	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				recombinant His-tagged wild-type full-length enzyme, amino acid activation step
+2.46	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37			37C, wild-type enzyme
+2.46	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				wild-type enzyme, wild-type tRNACys(G15-G48)
+2.5	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				aminoacylation reaction, recombinant His-tagged Zn2+-wild-type enzyme
+2.9	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	30	7.0		30C, pH 7.0, wild-type enzyme
+2.9	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				steady-state
+3	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.0		pH 7.0, 37C
+3.47	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.0		pH 7.0, 37C

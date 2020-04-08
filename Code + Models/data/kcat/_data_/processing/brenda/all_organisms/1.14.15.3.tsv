@@ -1,0 +1,32 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00133	PGA1	2222	BGKHCLZFGPIKKU-LDDQNKHRSA-N				omega-hydroxylation
+0.0025	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N				(omega-1)-hydroxylation
+0.0085	lauric acid	711	POULHZVOKOAJMA-UHFFFAOYSA-N				(omega-1)-hydroxylation
+0.00917	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N				omega-hydroxylation
+0.0105	palmitic acid	431	IPCSVZSSVZVIGE-UHFFFAOYSA-N				(omega-1)-hydroxylation
+0.013	palmitate	431	IPCSVZSSVZVIGE-UHFFFAOYSA-N				omega-hydroxylation
+0.0267	laurate	711	POULHZVOKOAJMA-UHFFFAOYSA-N			X	CYP4A7, R90W mutant, omega-hydroxylation
+0.0367	palmitic acid	431	IPCSVZSSVZVIGE-UHFFFAOYSA-N				omega-hydroxylation
+0.117	laurate	711	POULHZVOKOAJMA-UHFFFAOYSA-N				CYP4A4wt, omega-hydroxylation
+0.163	lauric acid	711	POULHZVOKOAJMA-UHFFFAOYSA-N				omega-hydroxylation
+0.167	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N			X	CYP4A7, R90W mutant, omega-hydroxylation
+0.183	prostaglandin E1	1240	GMVPRGQOIOIIMI-DWKJAMRDSA-N				CYP4A7wt, omega-hydroxylation
+0.2	laurate	711	POULHZVOKOAJMA-UHFFFAOYSA-N			X	CYP4A7, R90W/W93S mutant, omega-hydroxylation
+0.217	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N			X	CYP4A7, R90W/W93S mutant, omega-hydroxylation
+0.245	laurate	711	POULHZVOKOAJMA-UHFFFAOYSA-N				omega-hydroxylation
+0.25	prostaglandin E1	1240	GMVPRGQOIOIIMI-DWKJAMRDSA-N			X	CYP4A7, R90W/W93S mutant, omega-hydroxylation
+0.283	prostaglandin E1	1240	GMVPRGQOIOIIMI-DWKJAMRDSA-N			X	CYP4A7, R90W mutant, omega-hydroxylation
+0.3	prostaglandin E1	1240	GMVPRGQOIOIIMI-DWKJAMRDSA-N			X	CYP4A7, H206Y/S255F mutant, omega-hydroxylation; CYP4A7, S255F mutant, omega-hydroxylation; CYP4A7, W93S mutant, omega-hydroxylation
+0.383	prostaglandin E1	1240	GMVPRGQOIOIIMI-DWKJAMRDSA-N				CYP4A4wt, omega-hydroxylation
+0.417	prostaglandin E1	1240	GMVPRGQOIOIIMI-DWKJAMRDSA-N			X	CYP4A7, H206Y mutant, omega-hydroxylation
+0.45	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N			X	CYP4A7, W93S mutant, omega-hydroxylation
+0.5	laurate	711	POULHZVOKOAJMA-UHFFFAOYSA-N			X	CYP4A7, W93S mutant, omega-hydroxylation
+0.717	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N				CYP4A7wt, omega-hydroxylation
+0.767	laurate	711	POULHZVOKOAJMA-UHFFFAOYSA-N				CYP4A7wt, omega-hydroxylation
+0.783	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N				CYP4A4wt, omega-hydroxylation
+2.15	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N			X	CYP4A7, S255F mutant, omega-hydroxylation
+2.17	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N			X	CYP4A7, H206Y/S255F mutant, omega-hydroxylation
+2.23	laurate	711	POULHZVOKOAJMA-UHFFFAOYSA-N			X	CYP4A7, H206Y mutant, omega-hydroxylation
+2.33	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N			X	CYP4A7, H206Y mutant, omega-hydroxylation
+2.45	laurate	711	POULHZVOKOAJMA-UHFFFAOYSA-N			X	CYP4A7, H206Y/S255F mutant, omega-hydroxylation
+2.67	laurate	711	POULHZVOKOAJMA-UHFFFAOYSA-N			X	CYP4A7, S255F mutant, omega-hydroxylation

@@ -1,0 +1,44 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00003	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant G56S, Hill coefficient 2.8, presence of 1.5 mM phosphate, pH 6.5, 60C
+0.00005	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant G56S, Hill coefficient 2.3, pH 6.5, 60C
+0.0001	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant G56A, Hill coefficient 1.6, presence of 1.5 mM phosphate, pH 6.5, 60C
+0.00013	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant G56A, Hill coefficient 2, pH 6.5, 60C
+0.00025	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant DELTAR97, Hill coefficient 5.2, presence of 1 mM phosphate, pH 6.5, 60C; mutant R97E, Hill coefficient 3.7, presence of 1 mM phosphate, pH 6.5, 60C
+0.0004	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant R97E, Hill coefficient 3.4, pH 6.5, 60C
+0.001	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant DELTAR97, Hill coefficient 3.3, pH 6.5, 60C
+0.09	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.0	X	mutant carrying C-terminal extension YQRYLADRLK C-terminal extension YQRYLADRLK plus mutation D10N, pH 6.0, 60C, Hill coefficient 1.5
+0.37	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant V101I, Hill coefficient 1.4, presence of 1.5 mM phosphate, pH 6.5, 60C
+0.41	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.0	X	mutant D10N, pH 6.0, 60C, Hill coefficient 1.5
+0.5	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant R97K, Hill coefficient 1.5, presence of 1 mM phosphate, pH 6.5, 60C
+0.55	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant S55K, Hill coefficient 1.3, presence of 1.5 mM phosphate, pH 6.5, 60C
+0.62	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant R97K, Hill coefficient 1.55, presence of 1.5 mM phosphate, pH 6.5, 60C
+0.7	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant R97K, Hill coefficient 1.5, pH 6.5, 60C
+0.75	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant R97K, Hill coefficient 1.55, pH 6.5, 60C; mutant V101I, Hill coefficient 1.44, pH 6.5, 60C
+0.96	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7	X	pH 7, 25C, H98Q mutant, absence of phosphoglycolate
+1	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant S55K, Hill coefficient 1.3, pH 6.5, 60C
+1.1	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant V101S, Hill coefficient 1.22, presence of 1.5 mM phosphate, pH 6.5, 60C
+1.4	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant V101S, Hill coefficient 1.3, pH 6.5, 60C
+2.1	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	7.0	X	mutant lacking ten amino acids from C-terminal tail, Hill coefficient 1.3, pH 7.0, 60C
+4.4	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7	X	pH 7, 25C, H98N mutant
+6.08	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7	X	pH 7, 25C, H98Q mutant, absence of phosphoglycolate
+17	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7	X	pH 7, 25C, H98Q mutant, presence of phosphoglycolate
+23.1	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	7.0		wild-type, Hill coefficient 1, pH 7.0, 60C
+76	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant mutant carrying C-terminus of Escherichia coli enzyme, Hill coefficient 1.99, presence of 1.5 mM phosphate, pH 6.5, 60C
+100	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant carrying C-terminus of Escherichia coli enzyme, Hill coefficient 0.87, pH 6.5, 60C
+103	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.0	X	mutant carrying C-terminal extension YQRYLADRLK, pH 6.0, 60C, Hill coefficient 1.5
+138	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.2		carrying two additional His residues between residues Arg22 and His23, Hill coefficient 2.12, pH 6.2, 60C
+153	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.2		carrying one additional His residue between residues Arg22 and His23, Hill coefficient 1.58, pH 6.2, 60C
+179	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	6		pH 6, 25C, wild-type
+220	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N				wild-type enzyme
+220	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7		pH 7, 25C, wild-type
+220	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5		wild-type, Hill coefficient 1.5, presence of 1.5 mM phosphate, pH 6.5, 60C
+230	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.2		wild-type, Hill coefficient 2.2, pH 6.2, 60C
+233	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5		wild-type, Hill coefficient 1.2, presence of 1 mM phosphate, pH 6.5, 60C
+240	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant V101A, Hill coefficient 1.45, presence of 1.5 mM phosphate, pH 6.5, 60C
+260	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant S55D, Hill coefficient 1.2, presence of 1.5 mM phosphate, pH 6.5, 60C
+300	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant S55D, Hill coefficient 1, pH 6.5, 60C
+325	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N				
+326	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.0		wild-type, pH 6.0, 60C, Hill coefficient 1.5
+326	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5		wild-type, Hill coefficient 1, pH 6.5, 60C
+327	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5		wild-type, Hill coefficient 1, pH 6.5, 60C
+338	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	60	6.5	X	mutant V101A, Hill coefficient 1, pH 6.5, 60C

@@ -1,0 +1,36 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.08	(16(R),5Z,8Z,11Z,14Z)-16-hydroxyeicosa-5,8,11,14-tetraenoic acid	15239	JEKNPVYFNMZRJG-STHMYGMFSA-N		7.4	X	pH 7.4, mutant enzyme F353L
+0.18	(17(R),5Z,8Z,11Z,14Z)-17-hydroxyeicosa-5,8,11,14-tetraenoic acid	11734	OPPIPPRXLIDJKN-DWUYYRGZSA-N		7.4		pH 7.4, wild-type enzyme
+0.2	(16(S),5Z,8Z,11Z,14Z)-16-hydroxyeicosa-5,8,11,14-tetraenoic acid	9092	JEKNPVYFNMZRJG-IFOZKBMWSA-N		7.4	X	pH 7.4, mutant enzyme F353L
+0.2	(17(R),5Z,8Z,11Z,14Z)-17-hydroxyeicosa-5,8,11,14-tetraenoic acid	11734	OPPIPPRXLIDJKN-DWUYYRGZSA-N		7.4	X	pH 7.4, mutant enzyme L353L
+0.24	(17(S),5Z,8Z,11Z,14Z)-17-hydroxyeicosa-5,8,11,14-tetraenoic acid	11733	OPPIPPRXLIDJKN-LNRPRRCASA-N		7.4	X	pH 7.4, mutant enzyme L353L
+0.3	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N		7.4	X	pH 7.4, mutant L367K, with substrate linoleic acid
+0.51	(16(S),5Z,8Z,11Z,14Z)-16-hydroxyeicosa-5,8,11,14-tetraenoic acid	9092	JEKNPVYFNMZRJG-IFOZKBMWSA-N		7.4		pH 7.4, wild-type enzyme
+0.57	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	15			at 15C, normalized to iron content
+0.62	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N		7		at pH 7
+0.74	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N		8		at pH 8
+0.75	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	22	7.5		at 22C, normalized to iron content; at pH 7.5
+1	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	25	7.5		10,10,13,13-tetradeuterated arachidonic acid, pH 7.5, 25C, recombinant isozyme 15-hLO-1
+1.04	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	30			at 30C, normalized to iron content
+1.24	(17(S),5Z,8Z,11Z,14Z)-17-hydroxyeicosa-5,8,11,14-tetraenoic acid	11733	OPPIPPRXLIDJKN-LNRPRRCASA-N		7.4		pH 7.4, wild-type enzyme
+1.38	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	37			at 37C, normalized to iron content
+2.2	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N		7.4	X	pH 7.4, mutant L367E, with substrate linoleic acid
+2.49	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	25	7.5		13,13-dideuterated arachidonic acid, pH 7.5, 25C, recombinant isozyme 15-hLO-1
+3	arachidonate	253	YZXBAPSDXZZRGB-DOFZRALJSA-N			X	mutant enzyme A416G
+4	linoleic acid	357	OYHQOLUKZRVURQ-HZJYTTRNSA-N				recombinant enzyme
+4.4	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N		7.4	X	pH 7.4, mutant L367W, with substrate linoleic acid
+5.1	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.5		with arachidonic acid as substrate, in 25 mM Hepes buffer, pH 7.5, 25C, in the presence of 12(S)-hydroperoxyeicosatetraenoic acid
+5.2	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N				
+5.6	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N		7.4	X	pH 7.4, mutant L367F, with substrate linoleic acid
+5.6	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.5		with arachidonic acid as substrate, in 25 mM Hepes buffer, pH 7.5, 25C
+6.02	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N		7.4	X	pH 7.4, mutant enzyme F353L
+7	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.5		with linoleic acid as substrate, in 25 mM Hepes buffer, pH 7.5, 25C, in the presence of 12(S)-hydroperoxyeicosatetraenoic acid
+7.6	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.5		with linoleic acid as substrate, in 25 mM Hepes buffer, pH 7.5, 25C
+8.16	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N		7.4		pH 7.4, wild-type enzyme
+9.26	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	25	7.5		10,10-dideuterated arachidonic acid, pH 7.5, 25C, recombinant isozyme 15-hLO-1
+9.93	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N	25	7.5		unlabeled substrate, pH 7.5, 25C, recombinant isozyme 15-hLO-1
+10.2	linoleic acid	357	OYHQOLUKZRVURQ-HZJYTTRNSA-N	20	7.5		pH 7.5, 20C
+13.7	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N		7.4		pH 7.4, wild-type enzyme, with substrate linoleic acid
+14	arachidonate	253	YZXBAPSDXZZRGB-DOFZRALJSA-N				wild-type enzyme
+17.8	linoleic acid	357	OYHQOLUKZRVURQ-HZJYTTRNSA-N	30	7.5		pH 7.5, 30C
+97	arachidonic acid	253	YZXBAPSDXZZRGB-DOFZRALJSA-N				

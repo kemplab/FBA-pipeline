@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.174	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				DELTAC4, deletion of the last 4 c-terminal amino acids
+6.1	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				without 5 mM glucose 6-phosphate
+7.2	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				G961V
+9.5	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				DELTAC1, deletion of the last c-terminal amino acid
+16	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				+ 5 mM glucose 6-phosphate
+17.4	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				G961A
+33	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				+ 5 mM D-glucose 6-phosphate; without 5 mM D-glucose 6-phosphate
+38	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				+ 5 mM D-glucose 6-phosphate; without 5 mM D-glucose 6-phosphate
+43	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				with Mn2+ as activator
+66	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				
+69	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				with Mg2+ as activator
+540	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				wild-type enzyme

@@ -1,0 +1,36 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.42	N-methoxysuccinyl-Ala-Ala-Pro-Val-4-nitroanilide	2014	VLVGCNNWNUERRZ-OSAZLGQLSA-N	37	8	X	mutant enzyme F215A, in 500 mM NaCl and 200 mM Tris-HCl, pH 8, at 37C
+5.48	N-methoxysuccinyl-Ala-Ala-Pro-Val-4-nitroanilide	2014	VLVGCNNWNUERRZ-OSAZLGQLSA-N	37	8	X	mutant enzyme F215Y, in 500 mM NaCl and 200 mM Tris-HCl, pH 8, at 37C
+6.71	N-methoxysuccinyl-Ala-Ala-Pro-Val-4-nitroanilide	2014	VLVGCNNWNUERRZ-OSAZLGQLSA-N	37	8		wild type enzyme, in 500 mM NaCl and 200 mM Tris-HCl, pH 8, at 37C
+8.05	N-methoxysuccinyl-Ala-Ala-Pro-Val-4-nitroanilide	2014	VLVGCNNWNUERRZ-OSAZLGQLSA-N	37	8	X	mutant enzyme A213V, in 500 mM NaCl and 200 mM Tris-HCl, pH 8, at 37C
+10.7	N-methoxysuccinyl-Ala-Ala-Pro-Val-4-nitroanilide	2014	VLVGCNNWNUERRZ-OSAZLGQLSA-N	37	8	X	mutant enzyme F192A, in 500 mM NaCl and 200 mM Tris-HCl, pH 8, at 37C
+11.63	N-methoxysuccinyl-Ala-Ala-Pro-Val-4-nitroanilide	2014	VLVGCNNWNUERRZ-OSAZLGQLSA-N	37	8	X	mutant enzyme F192K, in 500 mM NaCl and 200 mM Tris-HCl, pH 8, at 37C
+63.11	N-methoxysuccinyl-Ala-Ala-Pro-Val-4-nitroanilide	2014	VLVGCNNWNUERRZ-OSAZLGQLSA-N	37	8	X	mutant enzyme N98T, in 500 mM NaCl and 200 mM Tris-HCl, pH 8, at 37C
+10	methoxysuccinyl-Ala-Ala-Pro-Val-4-nitroanilide	2014	VLVGCNNWNUERRZ-OSAZLGQLSA-N	25	7.4		pH 7.4, 25C
+10.8	methoxysuccinyl-Ala-Ala-Pro-Val-4-nitroanilide	2014	VLVGCNNWNUERRZ-OSAZLGQLSA-N	25	7.5		pH 7.5, 25C
+17	methoxysuccinyl-Ala-Ala-Pro-Val-4-nitroanilide	2014	VLVGCNNWNUERRZ-OSAZLGQLSA-N	37	7.4		pH 7.4, 37C
+23	methoxysuccinyl-Ala-Ala-Pro-Val-4-nitroanilide	2014	VLVGCNNWNUERRZ-OSAZLGQLSA-N	37	7.4		pH 7.4, 37C
+96	tosyl-Ala-3-hydroxy-5-phenylpyrrole	4187	VZALJYJCTCKOHO-HNNXBMFYSA-N		9.0		pH 9.0
+110	tosyl-Ala-3-hydroxy-5-phenylpyrrole	4187	VZALJYJCTCKOHO-HNNXBMFYSA-N		8.0		pH 8.0
+140	tosyl-Ala-3-hydroxy-5-phenylpyrrole	4187	VZALJYJCTCKOHO-HNNXBMFYSA-N		7.0		pH 7.0
+4200	tosyl-Ala-3-hydroxy-5-phenylpyrrole	4187	VZALJYJCTCKOHO-HNNXBMFYSA-N		9.0		pH 9.0, in presence of 0.35 mM decanol
+4500	tosyl-Ala-3-hydroxy-5-phenylpyrrole	4187	VZALJYJCTCKOHO-HNNXBMFYSA-N		7.0		pH 7.0, in presence of 0.35 mM decanol
+4800	tosyl-Ala-3-hydroxy-5-phenylpyrrole	4187	VZALJYJCTCKOHO-HNNXBMFYSA-N		8.0		pH 8.0, in presence of 0.35 mM decanol
+0.7	N-succinyl-Ala-Ala-Ala 4-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N	25	7.5		pH 7.5, 25C
+2.1	N-succinyl-Ala-Ala-Ala 4-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N	37	7.4		pH 7.4, 37C
+16	benzyloxycarbonyl-Ala-3-hydroxy-5-phenylpyrrole	7555	IDHZCXVCGLDODF-HNNXBMFYSA-N		7.0		pH 7.0
+18	benzyloxycarbonyl-Ala-3-hydroxy-5-phenylpyrrole	7555	IDHZCXVCGLDODF-HNNXBMFYSA-N		9.0		pH 9.0
+20	benzyloxycarbonyl-Ala-3-hydroxy-5-phenylpyrrole	7555	IDHZCXVCGLDODF-HNNXBMFYSA-N		8.0		pH 8.0
+28	benzyloxycarbonyl-Ala-4-nitrophenol	7556	WPIQDTXUQRHAQN-LBPRGKRZSA-O		7.0		pH 7.0
+36	benzyloxycarbonyl-Ala-4-nitrophenol	7556	WPIQDTXUQRHAQN-LBPRGKRZSA-O		9.0		pH 9.0
+46	benzyloxycarbonyl-Ala-4-nitrophenol	7556	WPIQDTXUQRHAQN-LBPRGKRZSA-O		8.0		pH 8.0
+0.72	methoxysuccinyl-Ala-Ala-Pro-Met-4-nitroanilide	10613	LUUQUDLEABXXQL-USNOLKROSA-N	37	7.4		pH 7.4, 37C
+0.72	methoxysuccinyl-Ala-Ala-Pro-Met-4-nitroanilide	10613	LUUQUDLEABXXQL-USNOLKROSA-N	25	7.5		pH 7.5, 25C
+3.1	N-succinyl-Ala-Ala-Val 4-nitroanilide	11258	IFAOJWCXOQHSQT-LXIYXOSZSA-N	25	7.5		pH 7.5, 25C, proteinase 2A
+8.1	acetyl-Ala-Ala-Pro-Val-4-nitroanilide	14453	UHQFLENYMUMMBY-SLUIBLPYSA-N	37	7.4		pH 7.4, 37C
+120	tosyl-Ala-4-nitrophenol	14519	UQHZYMZJXUUGTJ-LBPRGKRZSA-N		7.0		pH 7.0 and pH 8.0
+22	methoxysuccinyl-Ala-Ala-Pro-Ala-4-nitroanilide	22305	YQBJJXBFUSJKIA-UOHJUNOISA-N	25	7.4		pH 7.4, 25C
+52	methoxysuccinyl-Ala-Ala-Pro-Ala-thiobenzyl ester	22306	LMYYXFQCHJVBET-WYDHKZDJSA-N	25	7.4		pH 7.4, 25C
+13	methoxysuccinyl-Ala-Ala-Pro-Val-thiobenzyl ester	22309	MSZITWFHIQIOCV-ICLQQIHXSA-N	25	7.4		pH 7.4, 25C
+7	methoxysuccinyl-Ala-Pro-Ala-4-nitroanilide	22310	YSCCWVNJQJBZAO-ZQIUZPCESA-N	25	7.4		pH 7.4, 25C
+21	methoxysuccinyl-Ala-Ala-Pro-alpha-aminobutyryl-4-nitroanilide	34008	UNLWXVIRGYEPIE-AIAJOXCWSA-N	25	7.4		pH 7.4, 25C

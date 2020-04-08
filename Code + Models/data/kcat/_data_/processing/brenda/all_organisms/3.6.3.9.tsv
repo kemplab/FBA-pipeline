@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2	K+	37	NPYPAHLBTDXSSS-UHFFFAOYSA-N				predicted, in the presence of 5.6 mM external K+
+3	K+	37	NPYPAHLBTDXSSS-UHFFFAOYSA-N				predicted, in the presence of 15 mM external K+
+20.1	Na+/in	55	FKNQFGJONOIPTF-UHFFFAOYSA-N	22			maximum turnover rate per pump, pH not specified in the publication, 22C
+25.5	Na+/in	55	FKNQFGJONOIPTF-UHFFFAOYSA-N	22			maximum turnover rate per pump, pH not specified in the publication, 22C

@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0004	1alpha-hydroxyvitamin D	12123	OFHCOWSQAMBJIW-FYUZAJCDSA-N	37	7.4	X	pH 7.4, 37C, recombinant mutant S408V
+0.0008	25-hydroxyvitamin D	3061	JWUBBDSIWDLEOM-DTOXIADCSA-N	37	7.4	X	pH 7.4, 37C, recombinant mutant S408I
+0.006	25-hydroxyvitamin D	3061	JWUBBDSIWDLEOM-DTOXIADCSA-N	37	7.4	X	pH 7.4, 37C, recombinant mutant S408A
+0.01	1alpha-hydroxyvitamin D	12123	OFHCOWSQAMBJIW-FYUZAJCDSA-N	37	7.4		pH 7.4, 37C, recombinant wild-type enzyme
+0.013	25-hydroxyvitamin D	3061	JWUBBDSIWDLEOM-DTOXIADCSA-N	37	7.4	X	pH 7.4, 37C, recombinant mutant S408V
+0.0733	25-hydroxycholecalciferol	3854	JWUBBDSIWDLEOM-ZZAPQYFZSA-N				
+0.098	25-hydroxyvitamin D	3061	JWUBBDSIWDLEOM-DTOXIADCSA-N	37	7.4	X	pH 7.4, 37C, recombinant mutant S408T
+0.14	20-hydroxyvitamin D3	6911	IQEQEOBGZMEDBQ-LBRHRNEPSA-N	37	7.4		pH 7.4, 37C, parameters using a kinetic model with substrate binding at two inhibitory sites
+0.385	25-hydroxyvitamin D	3061	JWUBBDSIWDLEOM-DTOXIADCSA-N	37	7.4		pH 7.4, 37C, recombinant wild-type enzyme
+0.68	25-hydroxyvitamin D3	3061	JWUBBDSIWDLEOM-DTOXIADCSA-N	37	7.4		pH 7.4, 37C, Michaelis-Menten kinetic parameters
+0.8	25-hydroxyvitamin D2	8188	KJKIIUAXZGLUND-ICCVIKJNSA-N	37	7.4		pH 7.4, 37C, Michaelis-Menten kinetic parameters
+0.82	25-hydroxyvitamin D2	8188	KJKIIUAXZGLUND-ICCVIKJNSA-N	37	7.4		pH 7.4, 37C, parameters using a kinetic model with substrate binding at two inhibitory sites
+0.9	(24R),25-dihydroxyvitamin D3	27564	FCKJYANJHNLEEP-XRWYNYHCSA-N	37	7.4		pH 7.4, 37C, Michaelis-Menten kinetic parameters
+0.92	25-hydroxyvitamin D3	3061	JWUBBDSIWDLEOM-DTOXIADCSA-N	37	7.4		pH 7.4, 37C, parameters using a kinetic model with substrate binding at two inhibitory sites

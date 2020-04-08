@@ -1,0 +1,30 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.01	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	23	7.8	X	mutant R106A, pH 7.8, 23C
+0.02	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	23	7.8	X	mutant F490A, pH 7.8, 23C
+0.05	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	23	7.8	X	mutant R409A, pH 7.8, 23C
+0.06	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	23	7.8	X	mutant R428A, pH 7.8, 23C
+0.075	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	22	7.8		pH 7.8, 22C
+0.08	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	23	7.8	X	mutant R32A, pH 7.8, 23C
+0.1	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N		7.4	X	mutant R413K, pH 7.4, temperature not specified in the publication
+0.1	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	23	7.8	X	mutant I489A, pH 7.8, 23C
+0.13	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N		7.4	X	mutant R395K, pH 7.4, temperature not specified in the publication
+0.145	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	25	7.4	X	mutant R395K, pH 7.4, 25C
+0.17	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N		7.4	X	mutant R107K, pH 7.4, temperature not specified in the publication
+0.17	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	23	7.8	X	mutant L493A, pH 7.8, 23C
+0.2	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N		7.4	X	mutant K292Q, pH 7.4, temperature not specified in the publication
+0.22	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N		7.4	X	mutant I418L, pH 7.4, temperature not specified in the publication
+0.23	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N		7.4	X	mutant S32A, pH 7.4, temperature not specified in the publication
+0.23	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	23	7.8		wild-type, pH 7.8, 23C
+0.28	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N		7.4		wild-type, pH 7.4, temperature not specified in the publication
+0.28	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	25	7.4		wild-type, pH 7.4, 25C
+0.3	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N		7.4	X	mutant R293K, pH 7.4, temperature not specified in the publication; mutant S391A, pH 7.4, temperature not specified in the publication
+0.3	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	25	7.4	X	mutant S391A, pH 7.4, 25C
+0.37	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	23	7.8	X	mutant K299A, pH 7.8, 23C
+0.05	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	22	7.8		pH 7.8, 22C
+0.12	(+)-5-(carboxymethoxy)-6-hydroxycyclohexa-2,4-diene-1-carboxylic acid	108686	QHPKXYLPYIYCRY-XPUUQOCRSA-N		7.4	X	mutant R107K, pH 7.4, temperature not specified in the publication
+0.18	(+)-5-(carboxymethoxy)-6-hydroxycyclohexa-2,4-diene-1-carboxylic acid	108686	QHPKXYLPYIYCRY-XPUUQOCRSA-N		7.4	X	mutant R395K, pH 7.4, temperature not specified in the publication
+0.22	(+)-5-(carboxymethoxy)-6-hydroxycyclohexa-2,4-diene-1-carboxylic acid	108686	QHPKXYLPYIYCRY-XPUUQOCRSA-N		7.4	X	mutant S391A, pH 7.4, temperature not specified in the publication
+0.25	(+)-5-(carboxymethoxy)-6-hydroxycyclohexa-2,4-diene-1-carboxylic acid	108686	QHPKXYLPYIYCRY-XPUUQOCRSA-N		7.4	X	mutant S32A, pH 7.4, temperature not specified in the publication
+0.28	(+)-5-(carboxymethoxy)-6-hydroxycyclohexa-2,4-diene-1-carboxylic acid	108686	QHPKXYLPYIYCRY-XPUUQOCRSA-N		7.4	X	mutant K292Q, pH 7.4, temperature not specified in the publication
+0.38	(+)-5-(carboxymethoxy)-6-hydroxycyclohexa-2,4-diene-1-carboxylic acid	108686	QHPKXYLPYIYCRY-XPUUQOCRSA-N		7.4	X	mutant I418L, pH 7.4, temperature not specified in the publication
+0.4	(+)-5-(carboxymethoxy)-6-hydroxycyclohexa-2,4-diene-1-carboxylic acid	108686	QHPKXYLPYIYCRY-XPUUQOCRSA-N		7.4	X	mutant R293K, pH 7.4, temperature not specified in the publication; wild-type, pH 7.4, temperature not specified in the publication

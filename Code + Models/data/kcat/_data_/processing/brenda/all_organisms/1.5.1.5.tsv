@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+136	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				
+3.8	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O				substrate constant: methylenetetrahydrofolate, deuterated, NADP+-dependent bifunctional dehydrogenase-cyclohydrolase domain of the cytoplasmic trifunctional enzyme
+10	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O				NADP+-dependent bifunctional dehydrogenase-cyclohydrolase domain of the cytoplasmic trifunctional enzyme
+10	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	27	7.3		25 mM MOPS pH 7.3, 2.5 mM formaldehyde, 30 mM 2-mercaptoethanol, 27C; recombinant DHCH1, 1 mM NADP+
+113	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O				
+3.2	methylenetetrahydrofolate	727	QYNUQALWYRSVHF-ABLWVSNPSA-N				deuterated, NADP+-dependent bifunctional dehydrogenase-cyclohydrolase domain of the cytoplasmic trifunctional enzyme
+9.4	methylenetetrahydrofolate	727	QYNUQALWYRSVHF-ABLWVSNPSA-N				NADP+-dependent bifunctional dehydrogenase-cyclohydrolase domain of the cytoplasmic trifunctional enzyme
+14	5,10-methylene tetrahydrofolate	336	QYNUQALWYRSVHF-OLZOCXBDSA-N				recombinant DHCH1, 0.25 mM substrate
+14	5,10-methylene-tetrahydrofolate	336	QYNUQALWYRSVHF-OLZOCXBDSA-N	27	7.3		25 mM MOPS pH 7.3, 2.5 mM formaldehyde, 1 mM NADP+, 30 mM 2-mercaptoethanol, 27C

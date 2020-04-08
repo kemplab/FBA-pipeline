@@ -1,0 +1,46 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.4	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L		8.0	X	mutant enzyme Y236F, in 20 mM Tris-acetate buffer pH 8.0
+0.8	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L		6.0	X	mutant enzyme Y236F, in 20 mM bis-Tris-acetate buffer pH 6.0
+2	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	10.0		25C, 20 mM Tris acetate buffer, pH 10.0, wild-type enzyme
+10.6	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.0	X	tether deletion mutant enzyme DELTAKVATV, in 20 mM Tris acetate, pH 8.0, at 25C
+26.9	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.0		wild type enzyme, in 20 mM Tris acetate, pH 8.0, at 25C
+33.51	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L		6.0		wild type enzyme, in 20 mM bis-Tris-acetate buffer pH 6.0
+35	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.0	X	tether deletion mutant enzyme DELTAKVAT, in 20 mM Tris acetate, pH 8.0, at 25C
+36.19	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L		6.0	X	mutant enzyme Y236F, in 20 mM bis-Tris-acetate buffer pH 6.0
+36.8	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	6.0	X	25C, 20 mM Tris acetate buffer, pH 6.0, mutant Y236F
+39	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.0	X	mutant enzyme P105A, in 20 mM Tris acetate, pH 8.0, at 25C
+40	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.0	X	tether deletion mutant enzyme DELTAKVA, in 20 mM Tris acetate, pH 8.0, at 25C
+41.6	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	6.5	X	25C, 20 mM Tris acetate buffer, pH 6.5, mutant Y236F
+46	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.0	X	mutant enzyme P105A/P111A, in 20 mM Tris acetate, pH 8.0, at 25C
+48.3	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	7.5	X	25C, 20 mM Tris acetate buffer, pH 7.5, mutant Y236F
+50	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.0	X	mutant enzyme P111A, in 20 mM Tris acetate, pH 8.0, at 25C
+51.8	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	7.0	X	25C, 20 mM Tris acetate buffer, pH 7.0, mutant Y236F
+52.51	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L		8.0	X	mutant enzyme Y236F, in 20 mM Tris-acetate buffer pH 8.0
+52.7	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	9.5	X	25C, 20 mM Tris acetate buffer, pH 9.5, mutant Y236F
+53.4	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.0	X	25C, 20 mM Tris acetate buffer, pH 8.0, mutant Y236F
+58.3	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.5	X	25C, 20 mM Tris acetate buffer, pH 8.5, mutant Y236F
+63.5	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	6.0		25C, 20 mM Tris acetate buffer, pH 6.0, wild-type enzyme
+64	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	6.2	X	25C, 20 mM Tris acetate buffer, pH 6.2, mutant R55M; 25C, 20 mM Tris acetate buffer, pH 6.6, mutant R55M; 25C, 20 mM Tris acetate buffer, pH 9.0, mutant Y236F
+66.3	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	7.0	X	25C, 20 mM Tris acetate buffer, pH 7.0, mutant R55M
+68.3	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	7.5	X	25C, 20 mM Tris acetate buffer, pH 7.5, mutant R55M
+70.5	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	5.8	X	25C, 20 mM Tris acetate buffer, pH 5.8, mutant R55M
+73.4	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	7.9	X	25C, 20 mM Tris acetate buffer, pH 7.9, mutant R55M
+86.2	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	6.5		25C, 20 mM Tris acetate buffer, pH 6.5, wild-type enzyme
+88.8	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	10.0	X	25C, 20 mM Tris acetate buffer, pH 10.0, mutant Y236F
+148.4	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	9.5	X	25C, 20 mM Tris acetate buffer, pH 9.5, mutant H57A
+158.8	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	7.0		25C, 20 mM Tris acetate buffer, pH 7.0, wild-type enzyme
+192.5	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	9.0	X	25C, 20 mM Tris acetate buffer, pH 9.0, mutant H57A
+214.5	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	7.0	X	25C, 20 mM Tris acetate buffer, pH 7.0, mutant H57A
+214.6	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.0	X	25C, 20 mM Tris acetate buffer, pH 8.0, mutant H57A
+220.5	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	7.5	X	25C, 20 mM Tris acetate buffer, pH 7.5, mutant H57A
+222.4	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.5	X	25C, 20 mM Tris acetate buffer, pH 8.5, mutant H57A
+226.5	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	6.5	X	25C, 20 mM Tris acetate buffer, pH 6.5, mutant H57A
+238.8	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	6.0	X	25C, 20 mM Tris acetate buffer, pH 6.0, mutant H57A
+293.4	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	7.5		25C, 20 mM Tris acetate buffer, pH 7.5, wild-type enzyme
+333.7	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L		8.0		wild type enzyme, in 20 mM Tris-acetate buffer pH 8.0
+345.3	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.0		25C, 20 mM Tris acetate buffer, pH 8.0, wild-type enzyme
+410	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	8.5		25C, 20 mM Tris acetate buffer, pH 8.5, wild-type enzyme
+431	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	9.5		25C, 20 mM Tris acetate buffer, pH 9.5, wild-type enzyme
+519	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	25	9.0		25C, 20 mM Tris acetate buffer, pH 9.0, wild-type enzyme
+10880	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				recombinant enzyme
+10880	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L				recombinant enzyme

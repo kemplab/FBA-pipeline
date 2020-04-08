@@ -1,0 +1,70 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.017	cAMP	233	IVOMOUWHDPKRLL-KQYNXXCUSA-N				
+0.04	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme R237A, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C; wild type enzyme, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+0.16	3'-TMP	7070	XXYIANZGUOSQHY-XLPZGREQSA-N				
+0.26	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme H264Q, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM MnCl2
+0.42	3'-phospho-5'-hydroxy-DNA	88652	XJIFRESUOQNZHS-IOANFHGOSA-N	37	7.5		at pH 7.5 and 37C
+0.52	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme D392N, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM MnCl2
+0.58	dTMP	518	GYOZYWVXFNDGLU-XLPZGREQSA-N				
+0.63	dTMP	518	GYOZYWVXFNDGLU-XLPZGREQSA-N				
+0.833	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme D392E, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+0.92	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme H264Q, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM NiCl2
+0.97	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme H189E, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+1.1	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme D392N, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+1.1	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme R237A, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM NiCl2
+1.23	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme H264A, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM MnCl2
+1.45	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme H189A, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+1.67	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme D392A, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+1.7	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0		wild type enzyme, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM NiCl2
+1.88	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	45	7.5	X	mutant enzyme D236E, at 45C, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2
+2.13	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme H376D, at 45C, in 50 mM Tris-HCl (pH 8.0) 0.5 mM MnCl2
+2.5	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	45	7.5	X	mutant enzyme R237K, at 45C, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2
+2.53	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme D236A, at 45C, in 50 mM Tris-HCl (pH 8.0) 0.5 mM NiCl2
+3	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme H189D, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM MnCl2
+3.13	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme H376N, at 45C, in 50 mM Tris-HCl (pH 8.0),0.5 mM MnCl2
+3.2	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme H376D, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+3.25	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme D233E, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+3.33	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme H189Q, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM MnCl2
+3.42	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	45	7.5	X	mutant enzyme D392E, at 45C, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2
+3.5	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme R237Q, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+3.63	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme R237K, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM NiCl2
+3.72	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme H189A, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM MnCl2
+4.05	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme H376N, at 45C, in 50 mM Tris-HCl (pH 8.0),0.5 mM MnCl2
+4.53	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme D236A, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+5.13	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme H376N, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+5.25	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	45	7.5	X	mutant enzyme H376N, at 45C, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2
+5.77	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme D236N, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+6.03	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme D236E, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+6.08	dTMP	518	GYOZYWVXFNDGLU-XLPZGREQSA-N				
+6.08	dTMP	518	GYOZYWVXFNDGLU-XLPZGREQSA-N				
+6.5	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme H323Q, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+8.1	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme R237K, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+8.55	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme R237A, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+8.8	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme D392E, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM MnCl2
+8.93	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5		wild type enzyme, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+9.1	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme H323A, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+9.33	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme D236N, at 45C, in 50 mM Tris-HCl (pH 8.0) 0.5 mM NiCl2
+9.58	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	45	7.5	X	mutant enzyme D236A, at 45C, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2
+12	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme H264N, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM NiCl2
+13.77	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme D392N, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM MnCl2
+15	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	45	7.5		wild type enzyme, at 45C, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2
+15.97	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme D392E, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+16.9	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0		wild type enzyme, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM MnCl2
+17.17	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme H189E, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+18	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme H264A, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM NiCl2
+18.67	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme D392N, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+19.33	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme R237A, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM NiCl2
+20.17	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme R237Q, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+23.17	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0		wild type enzyme, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM MnCl2
+26.17	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme R237K, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+27.83	p-Nitrophenyl phenylphosphonate	1631	NRGZTHQFAQCJCQ-UHFFFAOYSA-N	45	7.5		wild type enzyme, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+30.83	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	45	7.5		wild type enzyme, at 45C, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2
+33	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme R237Q, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM NiCl2
+34.33	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N	45	7.5	X	mutant enzyme H189D, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2, at 45C
+38.33	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	45	7.5	X	mutant enzyme D236N, at 45C, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2
+43.5	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme D236A, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM MnCl2
+52.33	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme H264Q, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM MnCl2
+65.83	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme D236N, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM MnCl2
+117.5	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme H189E, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM MnCl2
+146.7	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	45	7.5	X	mutant enzyme H264N, at 45C, in 50 mM Tris-HCl (pH 7.5), 0.5 mM MnCl2
+253.3	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N	45	8.0	X	mutant enzyme H264A, at 45C, in 50 mM Tris-HCl (pH 8.0), 0.5 mM MnCl2

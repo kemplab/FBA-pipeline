@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.003	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	31	8.5	X	mutant L104A, pH 8.5, 31C
+0.053	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	31	8.5		wild-type, pH 8.5, 31C
+0.022	3'-methyl-alpha-phenylalanine	118612	JZRBSTONIYRNRI-VIFPVBQESA-N	31	8.5		wild-type, pH 8.5, 31C
+0.028	3'-methyl-alpha-phenylalanine	118612	JZRBSTONIYRNRI-VIFPVBQESA-N	31	8.5	X	mutant L104A, pH 8.5, 31C
+0.02	4'-methyl-alpha-phenylalanine	8760	DQLHSFUMICQIMB-VIFPVBQESA-N	31	8.5	X	mutant L104A, pH 8.5, 31C
+0.03	4'-methyl-alpha-phenylalanine	8760	DQLHSFUMICQIMB-VIFPVBQESA-N	31	8.5		wild-type, pH 8.5, 31C
+0.0002	styryl-alpha-alanine	118613	MCGSKGBMVBECNS-QBBOHKLWSA-N	31	8.5		wild-type, pH 8.5, 31C
+0.003	styryl-alpha-alanine	118613	MCGSKGBMVBECNS-QBBOHKLWSA-N	31	8.5	X	mutant L104A, pH 8.5, 31C

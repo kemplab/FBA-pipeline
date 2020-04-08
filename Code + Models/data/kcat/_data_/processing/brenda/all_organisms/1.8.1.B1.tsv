@@ -1,0 +1,37 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.17	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	25	7.8		pH 7.8, 25C
+0.19	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N				
+0.3	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	25	7.8		at pH 7.8 and 25C
+0.47	thioredoxin disulfide	396	MXIPACWNDCRLEN-XKNYDFJKSA-N	25	7.8		at pH 7.8 and 25C
+0.6	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	25	7.4	X	mutant enzyme C28A/C31A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C
+0.7	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	25	7.4	X	mutant enzyme C28A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C
+0.84	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	25	7.8		at pH 7.8 and 25C
+1.2	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L				
+3.5	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	25	7.4	X	mutant enzyme C31A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C
+3.5	thioredoxin disulfide	396	MXIPACWNDCRLEN-XKNYDFJKSA-N	597	7.4	X	mutant enzyme U597C, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C
+4	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	597	7.4	X	mutant enzyme U597C, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C
+4	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	597	7.4	X	mutant enzyme U597C, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C
+4.78	thioredoxin disulfide	396	MXIPACWNDCRLEN-XKNYDFJKSA-N	25	7.4		at 25C in 0.1 M potassium phosphate (pH 7.4)
+4.87	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.4		with GSSG as cosubstrate, at 25C in 0.1 M potassium phosphate (pH 7.4)
+5	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	25	7.4	X	mutant enzyme C520A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C
+5	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	25	7.4	X	mutant enzyme C520A/C574A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C; mutant enzyme C520A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C
+5.1	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	25	7.8		pH 7.8, 25C
+5.35	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	25	7.4		at 25C in 0.1 M potassium phosphate (pH 7.4)
+6	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	25	7.4	X	mutant enzyme C28A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C; mutant enzyme C31A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C; mutant enzyme C520A/C574A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C; mutant enzyme C574A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C
+7	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	25	7.4	X	mutant enzyme C574A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C
+8	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	25	7.4	X	mutant enzyme C28A/C31A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C
+8	thioredoxin disulfide	396	MXIPACWNDCRLEN-XKNYDFJKSA-N	25	7.4	X	mutant enzyme C520A/C574A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C; mutant enzyme C574A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C
+8.16	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	25	7.4		at 25C in 0.1 M potassium phosphate (pH 7.4)
+8.65	2-hydroxyethyl disulfide	4349	KYNFOMQIXZUKRK-UHFFFAOYSA-N	25	7.4		at 25C in 0.1 M potassium phosphate (pH 7.4)
+9	thioredoxin disulfide	396	MXIPACWNDCRLEN-XKNYDFJKSA-N	25	7.4	X	mutant enzyme C520A, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C
+10.92	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.4		with 5,5'-dithiobis(2-nitrobenzoic acid) as cosubstrate, at 25C in 0.1 M potassium phosphate (pH 7.4)
+14.93	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.4		with glutaredoxin as cosubstrate, at 25C in 0.1 M potassium phosphate (pH 7.4)
+15.78	GSH	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	25	7.4		at 25C in 0.1 M potassium phosphate (pH 7.4)
+16	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	25	7.4		pH 7.4, 25C
+16	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	25	7.4	X	mutant enzyme C31S, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C; wild type enzyme, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C
+19.2	thioredoxin	115	ACFIFAYJTCAMRW-XKNYDFJKSA-N	25	7.8		pH 7.8, 25C
+19.4	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	25	7.4		wild type enzyme, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C
+20.1	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.4		pH 7.4, 25C
+21.7	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	25	7.4		pH 7.4, 25C
+25	GSSG	283	YPZRWBKMTBYPTK-BJDJZHNGSA-N	25	7.4	X	mutant enzyme C31S, in 0.1 M potassium phosphate buffer and 10 mM EDTA (pH 7.4) at 25C
+118	5,5'-dithiobis(2-nitrobenzoic acid)	196	KIUMMUBSPKGMOY-UHFFFAOYSA-L	25	7.0		pH 7.0, 25C, wild-type enzyme

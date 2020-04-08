@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+5.83	Hydroxymethylbilane	2043	WDFJYRZCZIUBPR-UHFFFAOYSA-N				
+10	Hydroxymethylbilane	2043	WDFJYRZCZIUBPR-UHFFFAOYSA-N			X	Km above 10 mM, mutant enzyme C73R, pH and temperature not specified in the publication
+30	Hydroxymethylbilane	2043	WDFJYRZCZIUBPR-UHFFFAOYSA-N				
+170	Hydroxymethylbilane	2043	WDFJYRZCZIUBPR-UHFFFAOYSA-N			X	mutant enzyme C73R/A69E, pH and temperature not specified in the publication
+890	Hydroxymethylbilane	2043	WDFJYRZCZIUBPR-UHFFFAOYSA-N				wild type enzyme, pH and temperature not specified in the publication
+1200	Hydroxymethylbilane	2043	WDFJYRZCZIUBPR-UHFFFAOYSA-N			X	mutant enzyme C73R/L43D, pH and temperature not specified in the publication

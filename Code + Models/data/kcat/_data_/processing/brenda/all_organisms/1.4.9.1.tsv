@@ -1,0 +1,61 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.14	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme betaD32N, acceptor phenazine ethosulfate/2,6-dichlorophenolindophenol
+0.19	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N	30	8.5	X	pH 8.5, 30C, mutant enzyme betaD32N, acceptor phenazine ethosulfate/2,6-dichlorophenolindophenol
+0.47	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme betaD32N, acceptor amicyanin
+1.2	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N	30	8.5	X	pH 8.5, 30C, mutant enzyme betaD32N, acceptor amicyanin
+2	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme alphaF55I
+13.6	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N				with phenylazine as electron acceptor
+14	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N				
+18	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, wild-type enzyme, acceptor phenazine ethosulfate/2,6-dichlorophenolindophenol
+20	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme betaI107V
+23	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme, acceptor amicyanin
+26	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, wild-type enzyme, acceptor amicyanin
+30	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N		7		with amicyanin as electron acceptor at pH 7
+30	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme
+34	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme betaI107N
+35	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme, acceptor phenazine ethosulfate/2,6-dichlorophenolindophenol
+48.5	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N				with amicyanin as electron acceptor
+55	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N		10		with amicyanin as electron acceptor at pH 10
+77	methylamine	279	BAVYZALUXZFZLV-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme alphaF55A
+3.8	benzylamine	441	WGQKYBSKWIADBV-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+22	benzylamine	441	WGQKYBSKWIADBV-UHFFFAOYSA-N				
+1.5	2,6-dichloroindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N				
+4.5	ethylamine	565	QUSNBJAOOMFDIB-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme betaI107N
+6.2	ethylamine	565	QUSNBJAOOMFDIB-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme betaI107V
+13	ethylamine	565	QUSNBJAOOMFDIB-UHFFFAOYSA-N				
+15	ethylamine	565	QUSNBJAOOMFDIB-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme alphaF55I
+23	ethylamine	565	QUSNBJAOOMFDIB-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme alphaF55A
+24	ethylamine	565	QUSNBJAOOMFDIB-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme
+3.1	2-Phenylethylamine	675	BHHGXPLMPWCGHP-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+15	K3Fe(CN)6	1058	QMTKJUMXUDIUAQ-UHFFFAOYSA-N				
+3.1	Propylamine	1072	WGYKZJWCGVVSQN-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme betaI107V
+4.1	Propylamine	1072	WGYKZJWCGVVSQN-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme betaI107N
+5.2	Propylamine	1072	WGYKZJWCGVVSQN-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme alphaF55I
+24	Propylamine	1072	WGYKZJWCGVVSQN-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme alphaF55A
+27	Propylamine	1072	WGYKZJWCGVVSQN-UHFFFAOYSA-N				
+27	Propylamine	1072	WGYKZJWCGVVSQN-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme
+4.2	Butylamine	1044	HQABUPZFAYXKJW-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme betaI107N
+5.4	Butylamine	1044	HQABUPZFAYXKJW-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme alphaF55I
+5.8	Butylamine	1044	HQABUPZFAYXKJW-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+14	Butylamine	1044	HQABUPZFAYXKJW-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme betaI107V
+22	Butylamine	1044	HQABUPZFAYXKJW-UHFFFAOYSA-N				
+22	Butylamine	1044	HQABUPZFAYXKJW-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme
+34	Butylamine	1044	HQABUPZFAYXKJW-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme alphaF55A
+3.4	1,6-diaminohexane	1148	NAQMVNRVTILPCV-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme alphaF55I
+16	1,6-diaminohexane	1148	NAQMVNRVTILPCV-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme betaI107N
+17	1,6-diaminohexane	1148	NAQMVNRVTILPCV-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme
+26	1,6-diaminohexane	1148	NAQMVNRVTILPCV-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme betaI107V
+43	1,6-diaminohexane	1148	NAQMVNRVTILPCV-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme alphaF55A
+3.4	1,7-Diaminoheptane	1455	PWSKHLMYTZNYKO-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme alphaF55I
+15	1,7-Diaminoheptane	1455	PWSKHLMYTZNYKO-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme betaI107N
+19	1,7-Diaminoheptane	1455	PWSKHLMYTZNYKO-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme betaI107V
+27	1,7-Diaminoheptane	1455	PWSKHLMYTZNYKO-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme
+32	1,7-Diaminoheptane	1455	PWSKHLMYTZNYKO-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme alphaF55A
+7.1	phenazine ethosulfate	2135	VDJKJPMLWJWQIH-UHFFFAOYSA-M				
+3.4	1-aminopentane	2914	DPBLXKKOBLCELK-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme betaI107V
+4.2	1-aminopentane	2914	DPBLXKKOBLCELK-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme betaI107N
+5.4	1-aminopentane	2914	DPBLXKKOBLCELK-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme alphaF55I
+17	1-aminopentane	2914	DPBLXKKOBLCELK-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme
+20	1-aminopentane	2914	DPBLXKKOBLCELK-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme alphaF55A
+26	phenethylamine	675	BHHGXPLMPWCGHP-UHFFFAOYSA-N				
+2.3	cytochrome c-550	66	VTLYFUHAOXGGBS-UHFFFAOYSA-N				

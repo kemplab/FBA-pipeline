@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0003	stearoyl-[acyl-carrier protein]	3188	KLYFZEHJWNQHAC-UHFFFAOYSA-N	37	7.6		pH 7.6, 37C
+0.0028	stearoyl-[acyl-carrier protein]	3188	KLYFZEHJWNQHAC-UHFFFAOYSA-N	37	7.6		presence of potassium ions, pH 7.6, 37C
+0.077	hexacosanoyl-CoA	16196	FHLYYFPJDVYWQH-CPIGOPAHSA-N		7.2		pH 7.2, temperature not specified in the publication

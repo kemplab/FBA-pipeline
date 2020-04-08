@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.01	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.2		wild-type protein with C-terminal His-tag, pH 7.2, 25C
+8.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.2		wild-type protein, FLAG-tag, pH 7.2, 25C
+23	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.2		N-terminally trucated protein, FLAG-tag, pH 7.2, 25C
+0.032	1,2-dioleoyl-sn-glycerol	1575	AFSHUZFNMVJNKX-LLWMBOQKSA-N	25	7.2		wild-type protein with C-terminal His-tag, pH 7.2, 25C
+1.2	1,2-dioleoyl-sn-glycerol	1575	AFSHUZFNMVJNKX-LLWMBOQKSA-N	25	7.2		wild-type protein, FLAG-tag, pH 7.2, 25C
+2.43	1,2-dioleoyl-sn-glycerol	1575	AFSHUZFNMVJNKX-LLWMBOQKSA-N	25	7.2		N-terminally trucated protein, FLAG-tag, pH 7.2, 25C
+0.162	1-stearoyl-2-arachidonoyl-sn-glycerol	5367	NSXLMTYRMFVYNT-XDPLQJFFSA-N	25	7.2		wild-type protein with C-terminal His-tag, pH 7.2, 25C
+1.7	1-stearoyl-2-arachidonoyl-sn-glycerol	5367	NSXLMTYRMFVYNT-XDPLQJFFSA-N	25	7.2		wild-type protein, FLAG-tag, pH 7.2, 25C
+5.7	1-stearoyl-2-arachidonoyl-sn-glycerol	5367	NSXLMTYRMFVYNT-XDPLQJFFSA-N	25	7.2		N-terminally trucated protein, FLAG-tag, pH 7.2, 25C
+0.53	1-stearoyl-2-oleoyl-sn-glycerol	8501	SAEPUUXWQQNLGN-QNGWXLTQSA-N			X	mutant P32A
+2.35	1-stearoyl-2-oleoyl-sn-glycerol	8501	SAEPUUXWQQNLGN-QNGWXLTQSA-N				wild-type
+0.087	1-stearoyl-2-linoleoyl-sn-glycerol	16197	AJMZUFBKADIAKC-SKTOPKGQSA-N	25	7.2		wild-type protein with C-terminal His-tag, pH 7.2, 25C
+1.23	1-stearoyl-2-linoleoyl-sn-glycerol	16197	AJMZUFBKADIAKC-SKTOPKGQSA-N	25	7.2		wild-type protein, FLAG-tag, pH 7.2, 25C
+2.8	1-stearoyl-2-linoleoyl-sn-glycerol	16197	AJMZUFBKADIAKC-SKTOPKGQSA-N	25	7.2		N-terminally trucated protein, FLAG-tag, pH 7.2, 25C

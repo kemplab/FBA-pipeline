@@ -1,0 +1,92 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.89	raffinose	360	MUPFEKGTMRGPLJ-ZQSKZDJDSA-N	40	5.0		pH 5.0, 40C
+4.12	raffinose	360	MUPFEKGTMRGPLJ-ZQSKZDJDSA-N	55	5.0		pH 5.0, 55C, intracellular enzyme
+5.2	raffinose	360	MUPFEKGTMRGPLJ-ZQSKZDJDSA-N	25	6.5	X	mutant enzyme W336S of isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25C
+10.3	raffinose	360	MUPFEKGTMRGPLJ-ZQSKZDJDSA-N	25	6.5	X	mutant enzyme W336N of isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25C
+32.4	raffinose	360	MUPFEKGTMRGPLJ-ZQSKZDJDSA-N	50	4.5		50C, pH 4.5
+46.8	raffinose	360	MUPFEKGTMRGPLJ-ZQSKZDJDSA-N	30	7.4		wild-type, pH 7.4, 30C
+48.1	raffinose	360	MUPFEKGTMRGPLJ-ZQSKZDJDSA-N	25	6.5	X	mutant enzyme W336A of isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25C
+91	raffinose	360	MUPFEKGTMRGPLJ-ZQSKZDJDSA-N	30	7.4	X	mutant A41Y, pH 7.4, 30C
+109	raffinose	360	MUPFEKGTMRGPLJ-ZQSKZDJDSA-N	75	5		pH 5, 75C
+157.3	raffinose	360	MUPFEKGTMRGPLJ-ZQSKZDJDSA-N	98	7		pH 7, 98C
+180	raffinose	360	MUPFEKGTMRGPLJ-ZQSKZDJDSA-N	25	6.5		wild type enzyme isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25C
+586	raffinose	360	MUPFEKGTMRGPLJ-ZQSKZDJDSA-N	37	5		pH 5, 37C
+832	raffinose	360	MUPFEKGTMRGPLJ-ZQSKZDJDSA-N	25	6.5	X	mutant enzyme W336F of isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25C
+1100	raffinose	360	MUPFEKGTMRGPLJ-ZQSKZDJDSA-N	40	5.0		pH 5.0, 40C
+1205	raffinose	360	MUPFEKGTMRGPLJ-ZQSKZDJDSA-N	25	6.5		wild type enzyme isoform AgaB, in 100 mM potassium phosphate buffer, pH 6.5, at 25C
+6946	raffinose	360	MUPFEKGTMRGPLJ-ZQSKZDJDSA-N	55	4.2		at 55C, in 50 mM citrate buffer (pH 4.2)
+0.03	melibiose	499	DLRVVLDZNNYCBX-ABXHMFFYSA-N	55	5.0		pH 5.0, 55C, intracellular enzyme
+2.3	melibiose	499	DLRVVLDZNNYCBX-ABXHMFFYSA-N	50	4.5		50C, pH 4.5
+2.33	melibiose	499	DLRVVLDZNNYCBX-ABXHMFFYSA-N	45	5.5		pH 5.5, 45C
+113	melibiose	499	DLRVVLDZNNYCBX-ABXHMFFYSA-N	30	7.4	X	mutant Q251A, pH 7.4, 30C
+131	melibiose	499	DLRVVLDZNNYCBX-ABXHMFFYSA-N	30	7.4	X	mutant A41Y, pH 7.4, 30C
+193	melibiose	499	DLRVVLDZNNYCBX-ABXHMFFYSA-N	30	7.4		wild-type, pH 7.4, 30C
+234.2	melibiose	499	DLRVVLDZNNYCBX-ABXHMFFYSA-N	98	7		pH 7, 98C
+448	melibiose	499	DLRVVLDZNNYCBX-ABXHMFFYSA-N	60	5.0		at pH 5.0 and 60C
+1067	melibiose	499	DLRVVLDZNNYCBX-ABXHMFFYSA-N	37	5		pH 5, 37C
+0.57	stachyose	781	UQZIYBXSHAGNOE-XNSRJBNMSA-N	40	5.0		pH 5.0, 40C
+6.05	stachyose	781	UQZIYBXSHAGNOE-XNSRJBNMSA-N	55	5.0		pH 5.0, 55C, intracellular enzyme
+42.04	stachyose	781	UQZIYBXSHAGNOE-XNSRJBNMSA-N	45	5.5		pH 5.5, 45C
+1250	stachyose	781	UQZIYBXSHAGNOE-XNSRJBNMSA-N	40	5.0		pH 5.0, 40C
+7659	stachyose	781	UQZIYBXSHAGNOE-XNSRJBNMSA-N	55	4.2		at 55C, in 50 mM citrate buffer (pH 4.2)
+176	p-nitrophenyl alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	75	5		pH 5, 75C
+302.9	p-nitrophenyl alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	98	7		pH 7, 98C
+3914	p-nitrophenyl alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	55	4.2		at 55C, in 50 mM citrate buffer (pH 4.2)
+0.12	4-nitrophenyl-alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	37	4.5		pH 4.5, 37C
+0.23	4-nitrophenyl-alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	37	9.0		pH 9.0, 37C
+0.3	4-nitrophenyl-alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	37	6.7		pH 6.7, 37C
+0.62	4-nitrophenyl-alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	37	8.7		pH 8.7, 37C
+1.05	4-nitrophenyl-alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	37	7.1		pH 7.1, 37C
+1.37	4-nitrophenyl-alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	37	8.4		pH 8.4, 37C
+1.68	4-nitrophenyl-alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	37	7.5		pH 7.5, 37C
+1.75	4-nitrophenyl-alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	37	8.0		pH 8.0, 37C
+2.07	4-nitrophenyl-alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	37	7.8		pH 7.8, 37C
+3.29	4-nitrophenyl-alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	55	5.0		pH 5.0, 55C, intracellular enzyme
+16	4-nitrophenyl-alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	30	7.4	X	mutant Q251W, pH 7.4, 30C
+90	4-nitrophenyl-alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	30	7.4	X	mutant A41Y, pH 7.4, 30C
+170	4-nitrophenyl-alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	30	7.4	X	mutant Q251A, pH 7.4, 30C
+286	4-nitrophenyl-alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	30	7.4		wild-type, pH 7.4, 30C
+654.6	4-nitrophenyl-alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	45	5.5		pH 5.5, 45C
+1278	4-nitrophenyl-alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	37	5		pH 5, 37C
+0.027	phenyl alpha-D-galactoside	1784	NEZJDVYDSZTRFS-IIRVCBMXSA-N	37	5.0	X	mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+5.71	phenyl alpha-D-galactoside	1784	NEZJDVYDSZTRFS-IIRVCBMXSA-N	37	5.0		wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+3.61	p-nitrophenyl-alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N				
+0.00218	4-nitrophenyl alpha-D-galactoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	35	6.0	X	mutant enzyme D415N, in 40 mM sodium phosphate buffer, pH 6.0, at 35C
+0.03	4-nitrophenyl alpha-D-galactoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	37	5.0	X	mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+0.0684	4-nitrophenyl alpha-D-galactoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	35	6.0	X	mutant enzyme E470Q, in 40 mM sodium phosphate buffer, pH 6.0, at 35C
+8.58	4-nitrophenyl alpha-D-galactoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	37	5.0		wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+244	4-nitrophenyl alpha-D-galactoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	35	6.0		wild type enzyme, in 40 mM sodium phosphate buffer, pH 6.0, at 35C
+3279	4-nitrophenyl alpha-D-galactoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N				
+49.8	4-methylumbelliferyl alpha-D-galactoside	7402	YUDPTGPSBJVHCN-CHUNWDLHSA-N	50	4.5		50C, pH 4.5
+0.97	4-nitrophenyl alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	25	6.5	X	mutant enzyme W336D of isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25C
+7	4-nitrophenyl alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	40	5.0		pH 5.0, 40C
+7.9	4-nitrophenyl alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	25	6.5	X	mutant enzyme W336A of isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25C
+38.2	4-nitrophenyl alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	25	6.5	X	mutant enzyme W336N of isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25C
+48	4-nitrophenyl alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	25	6.5	X	mutant enzyme W336S of isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25C
+105.6	4-nitrophenyl alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	25	6.5		wild type enzyme isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25C
+375	4-nitrophenyl alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	25	6.5	X	mutant enzyme W336F of isoform AgaA, in 100 mM potassium phosphate buffer, pH 6.5, at 25C
+512	4-nitrophenyl alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	60	5.0		at pH 5.0 and 60C
+1800	4-nitrophenyl alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	40	5.0		pH 5.0, 40C
+2382	4-nitrophenyl alpha-D-galactopyranoside	1185	IFBHRQDFSNCLOZ-IIRVCBMXSA-N	25	6.5		wild type enzyme isoform AgaB, in 100 mM potassium phosphate buffer, pH 6.5, at 25C
+0.035	2-nitrophenyl alpha-D-galactoside	7943	KUWPCJHYPSUOFW-SCWFEDMQSA-N	37	5.0	X	mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+0.52	2-nitrophenyl alpha-D-galactoside	7943	KUWPCJHYPSUOFW-SCWFEDMQSA-N	37	5.0		wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+13.67	2-nitrophenyl alpha-D-galactoside	7943	KUWPCJHYPSUOFW-SCWFEDMQSA-N	37	5.0		wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+0.01	4-O-methylphenyl alpha-D-galactoside	7944	SIXFVXJMCGPTRB-SJHCENCUSA-N	37	5.0	X	mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+0.03	4-O-methylphenyl alpha-D-galactoside	7944	SIXFVXJMCGPTRB-SJHCENCUSA-N	37	5.0		wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+6.69	4-O-methylphenyl alpha-D-galactoside	7944	SIXFVXJMCGPTRB-SJHCENCUSA-N	37	5.0		wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+0.822	m-nitrophenyl-alpha-D-galactopyranoside	8652	AXUVWHUBQKOSFM-YBXAARCKSA-N				
+0.238	o-nitrophenyl-alpha-D-galactopyranoside	6281	KUWPCJHYPSUOFW-IIRVCBMXSA-N				
+0.085	2,4-dinitrophenyl alpha-D-galactoside	9452	XAJUPNGKLHFUED-IIRVCBMXSA-N	37	5.0	X	mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+0.41	2,4-dinitrophenyl alpha-D-galactoside	9452	XAJUPNGKLHFUED-IIRVCBMXSA-N	37	5.0		wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+12.23	2,4-dinitrophenyl alpha-D-galactoside	9452	XAJUPNGKLHFUED-IIRVCBMXSA-N	37	5.0		wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+0.01	3,4-dimethylphenyl alpha-D-galactoside	9453	QUNVURUBSSMPMA-HTOAHKCRSA-N	37	5.0	X	mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+0.052	3,4-dimethylphenyl alpha-D-galactoside	9453	QUNVURUBSSMPMA-HTOAHKCRSA-N	37	5.0		wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+10.39	3,4-dimethylphenyl alpha-D-galactoside	9453	QUNVURUBSSMPMA-HTOAHKCRSA-N	37	5.0		wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+0.042	2,5-dinitrophenyl alpha-D-galactoside	12289	AIYHWRFDHPMHOF-IIRVCBMXSA-N	37	5.0	X	mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+11.2	2,5-dinitrophenyl alpha-D-galactoside	12289	AIYHWRFDHPMHOF-IIRVCBMXSA-N	37	5.0		wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+0.042	3-nitrophenyl alpha-D-galactoside	10760	VCCMGHVCRFMITI-IIRVCBMXSA-N	37	5.0	X	mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+10.5	3-nitrophenyl alpha-D-galactoside	10760	VCCMGHVCRFMITI-IIRVCBMXSA-N	37	5.0		wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+0.016	4-bromophenyl alpha-D-galactoside	12290	XKNTYHQVRMHDHY-IIRVCBMXSA-N	37	5.0	X	mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+12.58	4-bromophenyl alpha-D-galactoside	12290	XKNTYHQVRMHDHY-IIRVCBMXSA-N	37	5.0		wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+0.021	beta-naphthyl alpha-D-galactoside	12291	MWHKPYATGMFFPI-CWVYHPPDSA-N	37	5.0	X	mutant enzyme D327G, in 200 mM sodium citrate buffer (pH 5.0), at 37C
+6.26	beta-naphthyl alpha-D-galactoside	12291	MWHKPYATGMFFPI-CWVYHPPDSA-N	37	5.0		wild type enzyme, in 200 mM sodium citrate buffer (pH 5.0), at 37C

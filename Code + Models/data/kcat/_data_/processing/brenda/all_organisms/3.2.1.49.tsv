@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+16.3	4-nitrophenyl alpha-D-N-acetylgalactosaminide	2410	OMRLTNCLYHKQCK-RGDJUOJXSA-N				recombinant wild-type enzyme
+17.1	4-nitrophenyl alpha-D-N-acetylgalactosaminide	2410	OMRLTNCLYHKQCK-RGDJUOJXSA-N			X	recombinant mutant N201Q
+19.7	4-nitrophenyl N-acetyl-alpha-D-galactosamine	2410	OMRLTNCLYHKQCK-RGDJUOJXSA-N	37	7.5		recombinant enzyme, pH 7.5, 37C

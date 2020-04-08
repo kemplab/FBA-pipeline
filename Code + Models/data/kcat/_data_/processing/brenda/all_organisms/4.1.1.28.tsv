@@ -1,0 +1,24 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.7	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N		7.9		at pH 7.9
+0.7	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N	25	7.5	X	mutant enzyme K303A, in 50 mM HEPES, pH 7.5, at 25C
+2.48	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 50 mM HEPES, pH 7.5, at 25C
+0.07	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N	25	7.5		wild type enzyme, in 50 mM HEPES, pH 7.5, at 25C
+0.11	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N	25	7.5	X	aldehyde formation, mutant enzyme K303A, in 50 mM HEPES, pH 7.5, at 25C
+0.188	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N	25	7.5	X	dopamine formation, mutant enzyme K303A, in 50 mM HEPES, pH 7.5, at 25C
+1.8	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N	30	8.		pH 8., 30C
+2.57	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N	25	7.5		pH 7.5, 25C, anaerobiosis
+3	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N	25	7.5		pH 7.5, 25C, anaerobiosis
+3.13	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N	25	7.5		pH 7.5, 25C, aerobiosis
+4.26	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N	25	7.5		pH 7.5, 25C, aerobiosis
+4.5	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N	25	7.5	X	Y332F DDC mutant, reaction in 50 mM Hepes, pH 7.5, at 25C causes the production of ammonia and 3,4-dihydroxyphenylacetaldehyde along with the consumption of molecular oxygen in a 1:2 molar ratio
+8.8	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N				wild-type enzyme
+9.1	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N	25	6.8		pH 6.8, 25C
+0.67	5-hydroxy-L-tryptophan	1035	LDCYZAJDBXYCGN-VIFPVBQESA-N				wild-type enzyme
+0.99	L-5-hydroxytryptophan	1035	LDCYZAJDBXYCGN-VIFPVBQESA-N	25	7.5		pH 7.5, 25C, anaerobiosis
+1.99	L-5-hydroxytryptophan	1035	LDCYZAJDBXYCGN-VIFPVBQESA-N	25	7.5		pH 7.5, 25C, aerobiosis
+2.94	L-5-hydroxytryptophan	1035	LDCYZAJDBXYCGN-VIFPVBQESA-N	25	7.5		pH 7.5, 25C, aerobiosis
+6.08	L-5-hydroxytryptophan	1035	LDCYZAJDBXYCGN-VIFPVBQESA-N	25	7.5		pH 7.5, 25C, anaerobiosis
+3	5-fluoro-DOPA	11620	PTEGRBINLSGCNO-UHFFFAOYSA-N	25	6.8		pH 6.8, 25C
+3.47	5-fluoro-DOPA	11620	PTEGRBINLSGCNO-UHFFFAOYSA-N	25	6.8		pH 6.8, 25C
+8.2	6-fluoro-DOPA	14916	PAXWQORCRCBOCU-LURJTMIESA-N	25	6.8		pH 6.8, 25C
+5.2	2-fluoro-DOPA	14917	AIDLBEYXQMVQQH-YFKPBYRVSA-N	25	6.8		pH 6.8, 25C

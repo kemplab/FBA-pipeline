@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.145	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N	25	5.5		pH 5.5, 25C, wild-type enzyme
+1.05	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	25	5.5	X	pH 5.5, 25C, mutant enzyme G234E
+1.09	CBZ-Phe-Arg-7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N				
+1.09	Nalpha-benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N				
+3	CBZ-Arg-Arg-7-amido-4-methylcoumarin	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N				
+3.49	N2-benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N				
+6.6	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	25	5.5	X	pH 5.5, 25C, mutant enzyme G234E
+7.6	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	25	5.5		pH 5.5, 25C, wild-type enzyme

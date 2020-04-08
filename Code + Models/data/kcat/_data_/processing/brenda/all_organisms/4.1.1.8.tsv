@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.1	oxalyl-CoA	1161	QVXMZFTWJVBUHP-DRCCLKDXSA-N		6.5	X	mutant enzyme E121A, in 25 mM sodium phosphate buffer, pH 6.5, containing 300 mM NaCl
+0.26	oxalyl-CoA	1161	QVXMZFTWJVBUHP-DRCCLKDXSA-N		6.5	X	mutant enzyme Y120A, in 25 mM sodium phosphate buffer, pH 6.5, containing 300 mM NaCl
+1.4	oxalyl-CoA	1161	QVXMZFTWJVBUHP-DRCCLKDXSA-N		6.5	X	mutant enzyme Y483A, in 25 mM sodium phosphate buffer, pH 6.5, containing 300 mM NaCl
+1.7	oxalyl-CoA	1161	QVXMZFTWJVBUHP-DRCCLKDXSA-N		6.5	X	mutant enzyme Y483F, in 25 mM sodium phosphate buffer, pH 6.5, containing 300 mM NaCl
+3.3	oxalyl-CoA	1161	QVXMZFTWJVBUHP-DRCCLKDXSA-N		6.5	X	mutant enzyme E121Q, in 25 mM sodium phosphate buffer, pH 6.5, containing 300 mM NaCl
+7.2	oxalyl-CoA	1161	QVXMZFTWJVBUHP-DRCCLKDXSA-N		6.5	X	mutant enzyme Y120F, in 25 mM sodium phosphate buffer, pH 6.5, containing 300 mM NaCl
+13	oxalyl-CoA	1161	QVXMZFTWJVBUHP-DRCCLKDXSA-N		6.5	X	mutant enzyme S553A, in 25 mM sodium phosphate buffer, pH 6.5, containing 300 mM NaCl
+60.7	oxalyl-CoA	1161	QVXMZFTWJVBUHP-DRCCLKDXSA-N	30	6.5		at pH 6.5 and 30C
+85	oxalyl-CoA	1161	QVXMZFTWJVBUHP-DRCCLKDXSA-N		6.5	X	mutant enzyme R555A, in 25 mM sodium phosphate buffer, pH 6.5, containing 300 mM NaCl
+88	oxalyl-CoA	1161	QVXMZFTWJVBUHP-DRCCLKDXSA-N	30	6.7		pH 6.7, 30C
+88	oxalyl-CoA	1161	QVXMZFTWJVBUHP-DRCCLKDXSA-N		6.5		wild type enzyme, in 25 mM sodium phosphate buffer, pH 6.5, containing 300 mM NaCl

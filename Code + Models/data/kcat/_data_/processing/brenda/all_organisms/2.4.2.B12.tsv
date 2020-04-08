@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000067	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	ADP-ribosyltransferase activity, mutant enzyme F349A, cosubstrate: non-muscle actin from human platelets
+0.00012	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	ADP-ribosyltransferase activity, mutant enzyme F349A, cosubstrate: rabbit muscle actin
+0.00015	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	ADP-ribosyltransferase activity, mutant enzyme Y246A, cosubstrate: rabbit muscle actin
+0.00133	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	ADP-ribosyltransferase activity, mutant enzyme Y246A, cosubstrate: non-muscle actin from human platelets; ADP-ribosyltransferase activity, mutant enzyme Y251A, cosubstrate: non-muscle actin from human platelets
+0.00183	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	ADP-ribosyltransferase activity, mutant enzyme N255A, cosubstrate: non-muscle actin from human platelets
+0.0062	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				ADP-ribosyltransferase activity, wild-type enzyme, cosubstrate: non-muscle actin from human platelets
+0.01	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				ADP-ribosyltransferase activity, wild-type enzyme, cosubstrate: rabbit muscle actin
+0.014	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	ADP-ribosyltransferase activity, mutant enzyme N255A, cosubstrate: rabbit muscle actin

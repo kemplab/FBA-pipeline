@@ -1,0 +1,99 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00017	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8	X	overall-reaction, pH 7.8, 25C, mutant T183V enzyme
+0.0155	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	30	8.2		recombinant isozyme AtTSBtype2, pH 8.2, 30C
+0.0223	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	30	8.2		recombinant isozyme TSB type 2, pH 8.2, 30C
+0.15	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37			37C, beta-elimination, enzyme encapsulated in tetramethylorthosilicate-derived wet silica gels
+0.16	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37			37C, beta-replacement, enzyme encapsulated in tetramethylorthosilicate-derived wet silica gels
+0.24	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	6.5		without monovalent cations, at pH 6.5 and 25C
+0.26	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37			37C, beta-elimination, enzyme in solution
+0.39	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	85	7.5		subunit TrpB2, at pH 7.5 and 85C; subunit TrpB2 plus subunit TrpA, at pH 7.5 and 85C
+0.4	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8	X	overall-reaction, mutant D305A enzyme, pH 7.8, 25C, in presence of Na+
+0.8	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8	X	overall-reaction, mutant D305A enzyme, pH 7.8, 25C, in presence of K+
+0.88	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8	X	beta-reaction and overall-reaction, mutant D305A enzyme, pH 7.8, 25C
+0.91	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8		without monovalent cations, at pH 7.8 and 25C
+1.04	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	85	7.5		subunit TrpB1, at pH 7.5 and 85C
+1.37	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	8.5		without monovalent cations, at pH 8.5 and 25C
+1.6	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8		beta-reaction, wild-type enzyme, pH 7.8, 25C
+1.9	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	6.5		in the presence of 250 mM NaCl, at pH 6.5 and 25C; in the presence of 250 mM NaCl, at pH 8.5 and 25C
+1.987	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant H100A
+2	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8		overall-reaction, wild-type enzyme, pH 7.8, 25C
+2.08	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	6.5		in the presence of 100 mM KCl, at pH 6.5 and 25C
+2.61	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8		overall-reaction, pH 7.8, 25C, wild-type enzyme
+2.8	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8		in the presence of 250 mM NaCl, at pH 7.8 and 25C
+3	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8		overall-reaction, pH 7.8, 25C, wild-type enzyme
+3.3	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8	X	beta-reaction, pH 7.8, 25C, mutant T183V enzyme; beta-reaction, pH 7.8, 25C, wild-type enzyme
+3.46	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	85	7.5		subunit TrpB1 plus subunit TrpA, at pH 7.5 and 85C
+3.462	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant Q364A
+3.8	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	80	7.5		pH 7.5, 80C, recombinant TrpB1, beta-reaction
+4	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	8.5		in the presence of 100 mM KCl, at pH 8.5 and 25C
+4.51	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8		beta-reaction, pH 7.8, 25C, wild-type enzyme
+4.8	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8		in the presence of 100 mM KCl, at pH 7.8 and 25C
+5	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8	X	overall-reaction, mutant D305A enzyme, pH 7.8, 25C, in presence of NH4+
+5.24	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8	X	beta-reaction, pH 7.8, 25C, mutant T183V enzyme
+6	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	6.5		in the presence of 100 mM CsCl, at pH 6.5 and 25C
+6.08	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8	X	beta-reaction and overall-reaction, mutant D305A enzyme, pH 7.8, 25C
+6.15	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	8.5		in the presence of 100 mM CsCl, at pH 8.5 and 25C
+7.106	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant N250A
+7.8	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8	X	overall-reaction, mutant D305A enzyme, pH 7.8, 25C, in presence of Cs+
+8	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8		overall-reaction, wild-type enzyme, pH 7.8, 25C, in presence of Na+
+8	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	80	7.5		pH 7.5, 80C, recombinant (TrpA-TrpB1)2 tetrameric complex, beta-reaction
+8.2	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37			37C, beta-replacement, enzyme in solution
+8.7	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8		in the presence of 100 mM CsCl, at pH 7.8 and 25C
+10.3	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8		overall-reaction, wild-type enzyme, pH 7.8, 25C, in presence of NH4+
+10.69	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant S249A
+12	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8		overall-reaction, wild-type enzyme, pH 7.8, 25C, in presence of K+
+13.22	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant S99A
+14	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.8		overall-reaction, wild-type enzyme, pH 7.8, 25C, in presence of Cs+
+16.35	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant T204A
+20.48	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant S390A
+21.47	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant Q128A
+48.21	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				
+5.4	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				cosubstrate indole
+0.007	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	30	8.2		recombinant isozyme AtTSBtype2, pH 8.2, 30C
+0.0102	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	30	8.2		recombinant isozyme TSB type 2, pH 8.2, 30C
+0.033	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	25	7.8	X	beta-reaction, mutant R141A, pH 7.8, 25C
+0.39	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	85	7.5		pH 7.5, 85C, reaction catalyzed by TrpB2; pH 7.5, 85C, reaction catalyzed by TrpB2 in presence of subunit TrpA
+0.88	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	25	7.8	X	beta-reaction, mutant D305A, pH 7.8, 25C
+1.04	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	85	7.5		pH 7.5, 85C, reaction catalyzed by TrpB1
+1.6	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	25	7.8		beta-reaction, wild-type, pH 7.8, 25C
+2.531	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N			X	mutant H100A
+2.64	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N				cosubstrate L-Ser
+3.3	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	25	7.8	X	beta-reaction, pH 7.8, 25C, mutant T183V enzyme; beta-reaction, pH 7.8, 25C, wild-type enzyme
+3.3	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	37			37C, beta-replacement, enzyme encapsulated in tetramethylorthosilicate-derived wet silica gels
+3.41	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N				cosubstrate L-Ser, presence of 20 mM Na+
+3.46	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	85	7.5		pH 7.5, 85C, reaction catalyzed by TrpB1 in presence of subunit TrpA
+4.2	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	80	7.5		pH 7.5, 80C, recombinant TrpB1, beta-reaction
+4.27	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N				cosubstrate L-Ser, presence of 20 mM Li+
+4.51	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	25	7.8		beta-reaction, pH 7.8, 25C, wild-type enzyme
+4.85	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N				cosubstrate L-Ser, presence of 20 mM K+
+5.24	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	25	7.8	X	beta-reaction, pH 7.8, 25C, mutant T183V enzyme
+5.4	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N				cosubstrate L-Ser
+5.44	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N				cosubstrate L-Ser, presence of 20 mM Cs+
+6.08	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	25	7.8	X	beta-reaction, mutant D305A, pH 7.8, 25C
+6.427	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N			X	mutant Q364A
+10	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	80	7.5		pH 7.5, 80C, recombinant (TrpA-TrpB1)2 tetrameric complex, beta-reaction
+10.1	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N	37			37C, beta-replacement, enzyme in solution
+21.14	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N			X	mutant S99A
+26.84	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N			X	mutant S249A
+34.73	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N			X	mutant S390A
+40.18	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N			X	mutant N250A
+50.65	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N			X	mutant T204A
+68.43	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N			X	mutant Q128A
+70.29	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N				
+0.06	serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				serine deaminase reaction
+0.00017	1-(indol-3-yl)glycerol 3-phosphate	2069	NQEQTYPJSIEPHW-WDEREUQCSA-N	25	7.8	X	overall-reaction, pH 7.8, 25C, mutant T183V enzyme
+0.00059	1-(indol-3-yl)glycerol 3-phosphate	2069	NQEQTYPJSIEPHW-WDEREUQCSA-N	25	7.8	X	alpha-reaction, pH 7.8, 25C, mutant T183V enzyme
+0.063	1-(indol-3-yl)glycerol 3-phosphate	2069	NQEQTYPJSIEPHW-WDEREUQCSA-N	25	7.8		alpha-reaction, pH 7.8, 25C, wild-type enzyme
+0.16	1-(indol-3-yl)glycerol 3-phosphate	2069	NQEQTYPJSIEPHW-WDEREUQCSA-N	25	7.8	X	overall-reaction, mutant R141A, pH 7.8, 25C
+0.174	1-(indol-3-yl)glycerol 3-phosphate	2069	NQEQTYPJSIEPHW-WDEREUQCSA-N	80	7.5		pH 7.5, 80C, recombinant TrpA, alpha-reaction
+0.28	1-(indol-3-yl)glycerol 3-phosphate	2069	NQEQTYPJSIEPHW-WDEREUQCSA-N				reaction of alpha subunit
+0.3	1-(indol-3-yl)glycerol 3-phosphate	2069	NQEQTYPJSIEPHW-WDEREUQCSA-N	25	7.8		alpha-reaction, wild-type enzyme, pH 7.8, 25C
+0.3	1-(indol-3-yl)glycerol 3-phosphate	2069	NQEQTYPJSIEPHW-WDEREUQCSA-N	25	7.8	X	alpha-reaction, wild-type, and overall-reaction, wild-type and mutant D305A, pH 7.8, 25C
+0.36	1-(indol-3-yl)glycerol 3-phosphate	2069	NQEQTYPJSIEPHW-WDEREUQCSA-N	25	7.8	X	alpha-reaction, mutant R141A, pH 7.8, 25C
+0.44	1-(indol-3-yl)glycerol 3-phosphate	2069	NQEQTYPJSIEPHW-WDEREUQCSA-N	25	7.8	X	alpha-reaction, mutant D305A enzyme, pH 7.8, 25C
+0.44	1-(indol-3-yl)glycerol 3-phosphate	2069	NQEQTYPJSIEPHW-WDEREUQCSA-N	25	7.8	X	alpha-reaction, mutant D305A, pH 7.8, 25C
+2.61	1-(indol-3-yl)glycerol 3-phosphate	2069	NQEQTYPJSIEPHW-WDEREUQCSA-N	25	7.8		overall-reaction, pH 7.8, 25C, wild-type enzyme
+3	1-(indol-3-yl)glycerol 3-phosphate	2069	NQEQTYPJSIEPHW-WDEREUQCSA-N	25	7.8		overall-reaction, pH 7.8, 25C, wild-type enzyme
+3.7	1-(indol-3-yl)glycerol 3-phosphate	2069	NQEQTYPJSIEPHW-WDEREUQCSA-N				reaction of alpha2beta2 complex
+5.6	1-(indol-3-yl)glycerol 3-phosphate	2069	NQEQTYPJSIEPHW-WDEREUQCSA-N	80	7.5		pH 7.5, 80C, recombinant (TrpA-TrpB1)2 tetrameric complex, alpha-reaction
+1.4	indoline	11636	LPAGFVYQRIESJQ-UHFFFAOYSA-N	25	7.8	X	overall-reaction, mutant D305A enzyme, pH 7.8, 25C, in presence of 100 mM Cs+

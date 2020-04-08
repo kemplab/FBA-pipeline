@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.27	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.4		pH 7.4, reaction with 4-dionetestosterone
+0.33	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.4		pH 7.4, reaction with estronel
+0.78	20alpha-dihydroprogesterone	1781	RWBRUCCWZPSBFC-SJOKZOANSA-N		7.4		pH 7.4, with NAD+ as cofactor
+1.3	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.4		pH 7.4, reaction with estradiol
+2.4	dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N		7.4		pH 7.4, with NAD+ as cofactor
+2.9	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4		pH 7.4, reaction with testosterone
+3.4	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N		7.4		pH 7.4, with NAD+ as cofactor
+3.9	estradiol	602	VOXZDWNPVJITMN-ZBRFXRBCSA-N		7.4		pH 7.4, with NAD+ as cofactor
+4.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4		pH 7.4, reaction with estradiol

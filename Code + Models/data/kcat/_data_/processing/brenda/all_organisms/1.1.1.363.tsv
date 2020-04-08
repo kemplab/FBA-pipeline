@@ -1,0 +1,91 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.02	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.6	X	25C, pH 7.6, mutant enzyme H240N
+2.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme P149V
+4.85	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.6	X	25C, pH 7.6, mutant enzyme D177N
+14.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.6	X	25C, pH 7.6, mutant enzyme H1787N
+17.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme P149G
+208	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme D374Q
+255	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme K182Q
+277	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	8.0		at pH 8.0 and 30C
+317	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme Y415F
+365	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.6	X	25C, pH 7.6, mutant enzyme K21R
+475	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme Y179F
+577	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme Q47A
+583	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme T14S
+658	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme R46E
+750	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme K343R
+808	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme Q47E; 25C, pH 7.8, mutant enzyme T14A
+850	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme K343Q
+1068	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme K182R
+1125	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.6		25C, pH 7.6, wild-type enzyme
+1423	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.6	X	25C, pH 7.6, mutant enzyme K21Q
+0.007	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.6	X	25C, pH 7.6, mutant enzyme H240N
+0.6	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme P149V
+1.1	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.6	X	25C, pH 7.6, mutant enzyme D177N
+8.5	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme P149G
+13.8	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.6	X	25C, pH 7.6, mutant enzyme H1787N
+75.2	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme D374Q
+100	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.6	X	25C, pH 7.6, mutant enzyme K21Q
+102	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	8.0		at pH 8.0 and 30C
+183	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme Y415F
+235	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme Q47A
+263	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme Y179F
+308	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme K182Q
+378	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme T14S
+403	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme K343R
+522	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.6		25C, pH 7.6, wild-type enzyme
+552	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme Q47E
+582	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.6	X	25C, pH 7.6, mutant enzyme K21R
+585	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme K182R
+632	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme T14A
+633	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme R46E
+712	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.8	X	25C, pH 7.8, mutant enzyme K343Q
+825	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.6	X	25C, pH 7.6, mutant enzyme R46Q
+887	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.6	X	25C, pH 7.6, mutant enzyme R46Q
+1535	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.6	X	25C, pH 7.6, mutant enzyme R46A
+1800	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.6	X	25C, pH 7.6, mutant enzyme R46A
+0.007	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.6	X	25C, pH 7.6, cosubstrate: NADP+, mutant enzyme H240N
+0.02	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.6	X	25C, pH 7.6, cosubstrate: NAD+, mutant enzyme H240N
+0.6	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NADP+, mutant enzyme P149V
+1.1	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.6	X	25C, pH 7.6, cosubstrate: NADP+, mutant enzyme D177N
+2.7	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NAD+, mutant enzyme P149V
+4.85	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.6	X	25C, pH 7.6, cosubstrate: NAD+, mutant enzyme D177N
+8.5	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NADP+, mutant enzyme P149G
+13.8	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.6	X	25C, pH 7.6, cosubstrate: NADP+, mutant enzyme H1787N
+14.2	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.6	X	25C, pH 7.6, cosubstrate: NAD+, mutant enzyme H1787N
+17.5	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NAD+, mutant enzyme P149G
+75.2	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NADP+, mutant enzyme D374Q
+100	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.6	X	25C, pH 7.6, cosubstrate: NADP+, mutant enzyme K21Q
+183	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NADP+, mutant enzyme Y415F
+208	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NAD+, mutant enzyme D374Q
+235	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NADP+, mutant enzyme Q47A
+255	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NAD+, mutant enzyme K182Q
+263	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NADP+, mutant enzyme Y179F
+308	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NADP+, mutant enzyme K182Q
+317	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NAD+, mutant enzyme Y415F
+365	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.6	X	25C, pH 7.6, cosubstrate: NAD+, mutant enzyme K21R
+378	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NADP+, mutant enzyme T14S
+403	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NADP+, mutant enzyme K343R
+475	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NAD+, mutant enzyme Y179F
+522	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.6		wild type enzyme, with NADP+ as cosubstrate, in 33 mM Tris-HCl, pH 7.6, at 25C
+522	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.6		25C, pH 7.6, cosubstrate: NADP+, wild-type enzyme
+552	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NADP+, mutant enzyme Q47E
+577	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NAD+, mutant enzyme Q47A
+582	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.6	X	25C, pH 7.6, cosubstrate: NADP+, mutant enzyme K21R
+583	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NAD+, mutant enzyme T14S
+585	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NADP+, mutant enzyme K182R
+632	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NADP+, mutant enzyme T14A
+633	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NADP+, mutant enzyme R46E
+658	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NAD+, mutant enzyme R46E
+712	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NADP+, mutant enzyme K343Q
+750	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NAD+, mutant enzyme K343R
+808	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NAD+, mutant enzyme Q47E; 25C, pH 7.8, cosubstrate: NAD+, mutant enzyme T14A
+825	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.6	X	25C, pH 7.6, mutant enzyme R46Q; mutant enzyme R46Q, with NAD+ as cosubstrate, in 33 mM Tris-HCl, pH 7.6, at 25C
+850	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NAD+, mutant enzyme K343Q
+887	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.6	X	25C, pH 7.6, mutant enzyme R46Q; mutant enzyme R46Q, with NADP+ as cosubstrate, in 33 mM Tris-HCl, pH 7.6, at 25C
+1068	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.8	X	25C, pH 7.8, cosubstrate: NAD+, mutant enzyme K182R
+1125	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.6		wild type enzyme, with NAD+ as cosubstrate, in 33 mM Tris-HCl, pH 7.6, at 25C
+1125	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.6		25C, pH 7.6, cosubstrate: NAD+, wild-type enzyme
+1423	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.6	X	25C, pH 7.6, cosubstrate: NAD+, mutant enzyme K21Q
+1535	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.6	X	25C, pH 7.6, mutant enzyme R46A; mutant enzyme R46A, with NAD+ as cosubstrate, in 33 mM Tris-HCl, pH 7.6, at 25C
+1800	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	7.6	X	25C, pH 7.6, mutant enzyme R46A; mutant enzyme R46A, with NADP+ as cosubstrate, in 33 mM Tris-HCl, pH 7.6, at 25C

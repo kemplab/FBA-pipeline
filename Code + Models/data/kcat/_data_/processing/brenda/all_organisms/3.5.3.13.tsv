@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.005	N-formimino-L-glutamate	1676	NRXIKWMTVXPVEF-BYPYZUCNSA-N	30	8.0	X	mutant enzyme E235D, at pH 8.0 and 30C
+0.01	N-formimino-L-methionine	38865	UYBULUTVXWWUPR-YFKPBYRVSA-N	30	8.0		pH 8.0, 30C
+0.019	N-formimino-L-isoleucine	38864	PHPGDDISHVJLPV-WDSKDSINSA-N	30	8.0		pH 8.0, 30C
+0.05	N-formimino-D-glutamate	38863	NRXIKWMTVXPVEF-SCSAIBSYSA-N	30	8.0		pH 8.0, 30C
+0.1	N-formimino-L-glutamate	1676	NRXIKWMTVXPVEF-BYPYZUCNSA-N	30	8.0	X	mutant enzyme E235A, at pH 8.0 and 30C
+0.12	N-formimino-L-glutamate	1676	NRXIKWMTVXPVEF-BYPYZUCNSA-N	30	8.0	X	mutant enzyme E235Q, at pH 8.0 and 30C
+8.5	N-formimino-L-glutamate	1676	NRXIKWMTVXPVEF-BYPYZUCNSA-N	30	8.0		Zn2+ has been reconstituted with Cu2+, pH 8.0, 30C
+8.5	N-formimino-L-glutamate	1676	NRXIKWMTVXPVEF-BYPYZUCNSA-N	30	8.0		Cu2+-reconstituted wild type enzyme, at pH 8.0 and 30C
+13.2	N-formimino-L-glutamate	1676	NRXIKWMTVXPVEF-BYPYZUCNSA-N	30	8.0		pH 8.0, 30C
+13.2	N-formimino-L-glutamate	1676	NRXIKWMTVXPVEF-BYPYZUCNSA-N	30	8.0		Zn2+-reconstituted wild type enzyme, at pH 8.0 and 30C
+21.3	N-formimino-L-glutamate	1676	NRXIKWMTVXPVEF-BYPYZUCNSA-N	30	8.0		Zn2+ has been reconstituted with Ni2+, pH 8.0, 30C
+21.3	N-formimino-L-glutamate	1676	NRXIKWMTVXPVEF-BYPYZUCNSA-N	30	8.0		Ni2+-reconstituted wild type enzyme, at pH 8.0 and 30C
+31	N-formimino-L-glutamate	1676	NRXIKWMTVXPVEF-BYPYZUCNSA-N	30	8.0		Zn2+ has been reconstituted with Cd2+, pH 8.0, 30C
+31	N-formimino-L-glutamate	1676	NRXIKWMTVXPVEF-BYPYZUCNSA-N	30	8.0		Cd2+-reconstituted wild type enzyme, at pH 8.0 and 30C

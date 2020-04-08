@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.82	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30	7.9		in reconstitution experiments using Sorghum bicolor; purified recombinant enzyme, in 50 mM Tricine, pH 7.9, a 30C
+3.33	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	7.9		presence of 0.15 mM NaCl, pH 7.9, 25C
+3.83	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	7.9		pH 7.9, 25C
+5.83	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30	7.9		in E. coli membranes; unpurified recombinant enzyme in Escherichia coli membranes, in 50 mM Tricine, pH 7.9, a 30C

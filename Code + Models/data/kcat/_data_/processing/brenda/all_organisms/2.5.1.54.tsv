@@ -1,0 +1,55 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0035	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	30	6.5		recombinant wild-type, 30C, pH 6.5
+0.032	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+0.35	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	30	7.5		isozyme NCgl0950 DAHP synthase, in 50 mM Tris-HCl buffer, pH 7.5, at 30C
+1	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	60	7.0		pH 7.0, 60C
+1.12	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	60	6.8		pH 6.8, 60C, cosubstrate D-arabinose 5-phosphate
+1.4	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	60	6.8		pH 6.8, 60C, cosubstrate D-erythrose 4-phosphate
+1.5	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	60	6.8		60C, pH 6.8
+1.65	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	30	7.5		isozyme NCgl2098 DAHP synthase, in 50 mM Tris-HCl buffer, pH 7.5, at 30C
+1.7	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	60	6.8		pH 6.8, 60C, cosubstrate 2-deoxy-D-ribose 5-phosphate
+2.3	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	50	7.5		pH 7.5, 50C
+2.5	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	60	6.8		pH 6.8, 60C, cosubstrate D-ribose 5-phosphate
+3	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	60	6.8		pH 6.8, 60C, cosubstrate 2-deoxy-D-erythrose 4-phosphate
+3.3	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+4.2	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	6.4	X	N-terminal deletion mutant, 25C, pH 6.4
+4.6	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+5	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	60	7.5		pH 7.5, 60C
+5.5	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	60	7.5		pH 7.5, 60C, wild-type enzyme
+7.6	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+11.7	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		7.3		pH 7.3, temperature not specified in the publication, wild-type enzyme
+12.6	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	6.8	X	pH 6.8, 25C, mutant R126S
+14.1	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		7.3	X	pH 7.3, temperature not specified in the publication, mutant H29S/S31H
+14.3	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		7.3	X	pH 7.3, temperature not specified in the publication, mutant H29A
+14.9	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	60	7.5	X	pH 7.5, 60C, mutant enzyme I181D
+17.5	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		7.3	X	pH 7.3, temperature not specified in the publication, mutant S31G
+21	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	7.0		Trp-sensitive isozyme, pH 7.0, 25C
+25	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	30	6.8	X	pH 6.8, 30C, mutant S213G; pH 6.8, 30C, wild-type enzyme
+27.1	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	6.8		pH 6.8, 25C, wild-type enzyme
+29.5	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				
+32	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	6.8		Phe-sensitive isozyme, pH 6.8, 25C
+32	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		7.5		pH 7.5
+56.7	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	6.4	X	mutant N5K, 25C, pH 6.4
+58.2	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	6.4	X	mutant I10A, 25C, pH 6.4
+62.3	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	6.4		wild-type, 25C, pH 6.4
+71	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	6.8		Phe-sensitive isozyme, pH 6.8, 25C
+122	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C, MW 79000 assumed
+0.03	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N	30	7.5		pH 7.5, 30C
+0.3	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N	30	7.5		isozyme NCgl0950 DAHP synthase, in 50 mM Tris-HCl buffer, pH 7.5, at 30C
+1.14	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N	30	7.5		isozyme NCgl2098 DAHP synthase, in 50 mM Tris-HCl buffer, pH 7.5, at 30C
+1.183	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N		6.8		pH 6.8
+5.5	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N	60	7.5		pH 7.5, 60C, wild-type enzyme
+6.08	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N		6.8		pH 6.8
+11.7	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N		7.3		pH 7.3, temperature not specified in the publication, wild-type enzyme
+12.6	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N	25	6.8	X	pH 6.8, 25C, mutant R126S
+14.1	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N		7.3	X	pH 7.3, temperature not specified in the publication, mutant H29S/S31H
+14.3	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N		7.3	X	pH 7.3, temperature not specified in the publication, mutant S31G
+14.8	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N	30	6.8	X	pH 6.8, 30C, mutant R126S; pH 6.8, 30C, wild-type enzyme
+14.9	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N	60	7.5	X	pH 7.5, 60C, mutant enzyme I181D
+17.5	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N		7.3	X	pH 7.3, temperature not specified in the publication, mutant H29A
+21	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N	25	7.0		Trp-sensitive isozyme, pH 7.0, 25C
+27.1	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N	25	6.8		pH 6.8, 25C, wild-type enzyme
+32	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N	25	6.8		Phe-sensitive isozyme, pH 6.8, 25C
+71	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N	25	6.8		Phe-sensitive isozyme, pH 6.8, 25C
+122	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N	37	7.0		pH 7.0, 37C, MW 79000 assumed
+0.233	(3S)-2-deoxyerythrose 4-phosphate	11118	LQIRHIGPILJQHV-BYPYZUCNSA-N		6.8		pH 6.8

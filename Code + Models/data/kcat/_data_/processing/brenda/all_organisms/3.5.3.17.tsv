@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2	4-Guanidinobutyrate	2452	TUHVEAJXIMEOSA-UHFFFAOYSA-M	30	7.9	X	pH 7.9, 30C, mutant Y157M unmethylated GpuA
+57.6	4-Guanidinobutyrate	2452	TUHVEAJXIMEOSA-UHFFFAOYSA-M	30	7.9		pH 7.9, 30C, wild-type unmethylated GpuA
+48.8	3-guanidinopropionate	4802	KMXXSJLYVJEBHI-UHFFFAOYSA-M	30	7.9	X	pH 7.9, 30C, mutant Y157M unmethylated GpuA
+106	3-guanidinopropionate	4802	KMXXSJLYVJEBHI-UHFFFAOYSA-M	30	7.9		pH 7.9, 30C, wild-type unmethylated GpuA

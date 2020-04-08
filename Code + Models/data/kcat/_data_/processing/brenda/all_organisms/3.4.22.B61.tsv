@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1387	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				FhCatL5
+2145	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				FhCatL5-L69Y
+0.19	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	1570	KTYVDPYPXDRLTE-HFKGTQBBSA-N	69	5.5	X	mutant enzyme L69C, at pH 5.5 and 37C
+0.27	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	1570	KTYVDPYPXDRLTE-HFKGTQBBSA-N	37	5.5	X	mutant enzyme L69S, at pH 5.5 and 37C
+0.84	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	1570	KTYVDPYPXDRLTE-HFKGTQBBSA-N	37	5.5		wild type enzyme, at pH 5.5 and 37C
+1.78	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	1570	KTYVDPYPXDRLTE-HFKGTQBBSA-N	37	5.5	X	mutant enzyme L69Y, at pH 5.5 and 37C
+2.54	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	1570	KTYVDPYPXDRLTE-HFKGTQBBSA-N	37	5.5	X	mutant enzyme L69Y, at pH 5.5 and 37C
+3.7	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	1570	KTYVDPYPXDRLTE-HFKGTQBBSA-N				FhCatL5
+32.9	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	1570	KTYVDPYPXDRLTE-HFKGTQBBSA-N				FhCatL5-L69Y
+0.84	tosyl-Gly-L-Pro-L-Arg-7-amido-4-methylcoumarin	3725	DWTAHKFEIVWFGQ-ZEQRLZLVSA-N	37	5.5		wild type enzyme, at pH 5.5 and 37C
+1.34	tosyl-Gly-L-Pro-L-Arg-7-amido-4-methylcoumarin	3725	DWTAHKFEIVWFGQ-ZEQRLZLVSA-N	37	5.5	X	mutant enzyme L69W, at pH 5.5 and 37C
+11.05	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N	37	5.5	X	mutant enzyme L69W, at pH 5.5 and 37C
+17.89	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N	37	5.5		wild type enzyme, at pH 5.5 and 37C
+582	tosyl-Gly-Phe-Arg-7-amido-4-methylcoumarin	8042	SZXXNQVOYOTRJJ-NSOVKSMOSA-N				FhCatL5
+2493	tosyl-Gly-Phe-Arg-7-amido-4-methylcoumarin	8042	SZXXNQVOYOTRJJ-NSOVKSMOSA-N				FhCatL5-L69Y
+1.73	Z-Phe-Arg-7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N	37	5.5	X	mutant enzyme L69S, at pH 5.5 and 37C
+1.92	Z-Phe-Arg-7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N	69	5.5	X	mutant enzyme L69C, at pH 5.5 and 37C
+17.89	Z-Phe-Arg-7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N	37	5.5		wild type enzyme, at pH 5.5 and 37C
+17.93	Z-Phe-Arg-7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N	37	5.5	X	mutant enzyme L69F, at pH 5.5 and 37C
+21.52	Z-Phe-Arg-7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N	37	5.5	X	mutant enzyme L69Y, at pH 5.5 and 37C

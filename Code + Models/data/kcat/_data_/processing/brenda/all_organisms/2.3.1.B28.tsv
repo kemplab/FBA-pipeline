@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+12.6	alpha-D-galactosamine 1-phosphate	117770	YMJBYRVFGYXULK-VFUOTHLCSA-N	80	7.5	X	pH 7.5, 80C, mutant enzyme DC011 with a deletion of the C-terminal 11 residues of the ST0452 protein
+17.9	alpha-D-galactosamine 1-phosphate	117770	YMJBYRVFGYXULK-VFUOTHLCSA-N	80	7.5	X	pH 7.5, 80C, mutant enzyme DC005 with a deletion of the C-terminal 5 residues of the ST0452 protein
+69.7	alpha-D-galactosamine 1-phosphate	117770	YMJBYRVFGYXULK-VFUOTHLCSA-N	80	7.5		pH 7.5, 80C
+69.7	alpha-D-galactosamine 1-phosphate	117770	YMJBYRVFGYXULK-VFUOTHLCSA-N	80	7.5		pH 7.5, 80C, wild-type enzyme

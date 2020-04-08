@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00033	D-ribulose 5-phosphate	371	FNZLKVNUWIIPSJ-UHNVWZDZSA-N			X	mutant enzyme D186A
+0.13	D-ribulose 5-phosphate	371	FNZLKVNUWIIPSJ-UHNVWZDZSA-N			X	mutant enzyme D186N
+0.138	D-ribulose 5-phosphate	371	FNZLKVNUWIIPSJ-UHNVWZDZSA-N				
+1.1	D-ribulose 5-phosphate	371	FNZLKVNUWIIPSJ-UHNVWZDZSA-N			X	mutant enzyme D186E
+100	D-ribulose 5-phosphate	371	FNZLKVNUWIIPSJ-UHNVWZDZSA-N				RPE metal-free, stoichiometry of Zn2+: 0.1 ion per polypeptide, substrate 10 mM D-ribulose 5-phosphate
+200	D-ribulose 5-phosphate	371	FNZLKVNUWIIPSJ-UHNVWZDZSA-N			X	mutant H34A, + 10 micromol/l ZnCl2
+270	D-ribulose 5-phosphate	371	FNZLKVNUWIIPSJ-UHNVWZDZSA-N			X	mutant H67A, + 10 micromol/l ZnCl2
+480	D-ribulose 5-phosphate	371	FNZLKVNUWIIPSJ-UHNVWZDZSA-N				RPE as isolated, stoichiometry of Zn2+: 0.3 ion per polypeptide, substrate 10 mM D-ribulose 5-phosphate
+840	D-ribulose 5-phosphate	371	FNZLKVNUWIIPSJ-UHNVWZDZSA-N				RPE as isolated + 0.5 mM ZnCl2 present in assay, stoichiometry of Zn2+: 0.9 ion per polypeptide, substrate 10 mM D-ribulose 5-phosphate
+870	D-ribulose 5-phosphate	371	FNZLKVNUWIIPSJ-UHNVWZDZSA-N				RPE metal-free + 0.5 mM ZnCl2 present in assay, stoichiometry of Zn2+: 0.9 ion per polypeptide, substrate 10 mM D-ribulose 5-phosphate
+1300	D-ribulose 5-phosphate	371	FNZLKVNUWIIPSJ-UHNVWZDZSA-N				
+1300	D-xylulose 5-phosphate	524	FNZLKVNUWIIPSJ-RFZPGFLSSA-N				
+7100	D-ribulose 5-phosphate	371	FNZLKVNUWIIPSJ-UHNVWZDZSA-N				wild-type enzyme

@@ -1,0 +1,40 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000026	4-[[4'-(dimethylamino)phenyl]azo]-benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-5-[(2'-aminoethyl)-amino]naphthalenesulfonic acid	6508	IGKNTXXSVIVSJQ-KYHQSPCQSA-N	30	7.2	X	pH 7.2, 30C, mutant enzyme A143Q/D227N
+0.000027	4-[[4'-(dimethylamino)phenyl]azo]-benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-5-[(2'-aminoethyl)-amino]naphthalenesulfonic acid	6508	IGKNTXXSVIVSJQ-KYHQSPCQSA-N	30	7.2	X	pH 7.2, 30C, mutant enzyme A143Q/L229R
+0.000034	4-[[4'-(dimethylamino)phenyl]azo]-benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-5-[(2'-aminoethyl)-amino]naphthalenesulfonic acid	6508	IGKNTXXSVIVSJQ-KYHQSPCQSA-N	30	7.2	X	pH 7.2, 30C, mutant enzyme A143Q/S225Y/L229R
+0.00061	4-(4'-dimethylaminophenylazo)benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-(2'-aminoethyl)amino-naphthalene-1-sulfonic acid	3046	AJDKLTODLUQZKG-VKWMYMIESA-N	30	7.2	X	pH 7.2, 30C, mutant enzyme S134A/A143Q
+0.00069	4-(4'-dimethylaminophenylazo)benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-(2'-aminoethyl)amino-naphthalene-1-sulfonic acid	3046	AJDKLTODLUQZKG-VKWMYMIESA-N	30	7.2	X	pH 7.2, 30C, mutant enzyme S134A/A143Q/H157A
+0.00092	4-[[4'-(dimethylamino)phenyl]azo]-benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-5-[(2'-aminoethyl)-amino]naphthalenesulfonic acid	6508	IGKNTXXSVIVSJQ-KYHQSPCQSA-N	30	7.2	X	pH 7.2, 30C, mutant enzyme A143Q/S225Y
+0.0024	4-[[4'-(dimethylamino)phenyl]azo]-benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-5-[(2'-aminoethyl)-amino]naphthalenesulfonic acid	6508	IGKNTXXSVIVSJQ-KYHQSPCQSA-N	30	7.2	X	pH 7.2, 30C, mutant enzyme A143Q/D217N
+0.0033	4-(4'-dimethylaminophenylazo)benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-(2'-aminoethyl)amino-naphthalene-1-sulfonic acid	3046	AJDKLTODLUQZKG-VKWMYMIESA-N	30	7.2	X	pH 7.2, 30C, mutant enzyme A143Q/H157A
+0.00348	4-[[4'-(dimethylamino)phenyl]azo]-benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-5-[(2'-aminoethyl)-amino]naphthalenesulfonic acid	6508	IGKNTXXSVIVSJQ-KYHQSPCQSA-N	30	7.2	X	pH 7.2, 30C, mutant enzyme A143Q/R232H
+0.0036	4-(4'-dimethylaminophenylazo)benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-(2'-aminoethyl)amino-naphthalene-1-sulfonic acid	3046	AJDKLTODLUQZKG-VKWMYMIESA-N	30	7.2	X	pH 7.2, 30C, mutant enzyme A143Q/H157Q
+0.0041	4-(4'-dimethylaminophenylazo)benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-(2'-aminoethyl)amino-naphthalene-1-sulfonic acid	3046	AJDKLTODLUQZKG-VKWMYMIESA-N	30	7.2	X	pH 7.2, 30C, mutant enzyme A143Q/H157E
+0.00833	4-(4'-dimethylaminophenazo)benzoic acid-RGVVNAS-2-aminobutanoyl-RLN-5-[(2'-aminoethyl)-amino]-naphthalene-1-sulfonic acid	115575	UUXLFDSDJDWHMK-LTJYQENTSA-N				
+0.0133	4-(4'-dimethylaminophenazo)benzoic acid-RGVVNAS-2-aminobutanoyl-RLN-5-[(2'-aminoethyl)-amino]-naphthalene-1-sulfonic acid	115575	UUXLFDSDJDWHMK-LTJYQENTSA-N				
+0.0167	succinyl-SYVKASVS-NH2	7393	FPPNMUZBXDTHLV-LBSYOUHISA-N				
+0.033	4-(4'-dimethylaminophenylazo)benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-(2'-aminoethyl)amino-naphthalene-1-sulfonic acid	3046	AJDKLTODLUQZKG-VKWMYMIESA-N	30	7.2	X	pH 7.2, 30C, wild-typelike mutant enzyme A143Q
+0.0333	succinyl-RRYIKASEPPV-NH2	7392	YSXSVPGFJQJXNI-NWPFRALFSA-N				
+0.0333	succinyl-YVKASEPLA-NH2	7397	LPBATEAHVQTZLQ-YYIXHMHSSA-N				
+0.035	4-(4'-dimethylaminophenylazo)benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-(2'-aminoethyl)amino-naphthalene-1-sulfonic acid	3046	AJDKLTODLUQZKG-VKWMYMIESA-N		7.4		pH 7.4, enzyme in solution
+0.046	4-(4'-dimethylaminophenylazo)benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-(2'-aminoethyl)amino-naphthalene-1-sulfonic acid	3046	AJDKLTODLUQZKG-VKWMYMIESA-N		7.4		pH 7.4, immobilized enzyme
+0.046	4-[[4'-(dimethylamino)phenyl]azo]-benzoyl-Arg-Gly-Val-Val-Asn-Ala-Ser-Ser-Arg-Leu-Ala-5-[(2'-aminoethyl)-amino]naphthalenesulfonic acid	6508	IGKNTXXSVIVSJQ-KYHQSPCQSA-N	30	7.2	X	pH 7.2, 30C, mutant enzyme A143Q
+0.05	succinyl-VVNAS-2-aminobutyryl-R-NH2	115576	QQNOGGQLYIPDNV-UMWWKMARSA-N				
+0.06	SYVKASVSPE	10887	ZCOXFBBVCHXSNF-ATJNYVDCSA-N				soluble enzyme
+0.075	SYVKASVSPE	10887	ZCOXFBBVCHXSNF-ATJNYVDCSA-N				inclusion bodies
+0.0833	succinyl-LVNAS-2-aminobutyryl-EPT-NH2	7389	UPWWFTSDAYJMHM-GILNZPMPSA-N				
+0.0833	succinyl-RRYIKASEPPV-NH2	7392	YSXSVPGFJQJXNI-NWPFRALFSA-N				
+0.1	acetyl-Cys-tert-butylglycine-tert-butylglycine-Asn(Me)2-Ala-7-amido-4-methylcoumarin	22808	SCTIBTQJLCYCOK-OPXMRZJTSA-N	24			24C
+0.1	succinyl-RRILNASLAPE-NH2	7391	JOZBZYYHAPTUSP-PKHNCEFESA-N				
+0.133	succinyl-VVNAS-2-aminobutyryl-R-NH2	115576	QQNOGGQLYIPDNV-UMWWKMARSA-N				
+0.167	succinyl-YVKASEPLA-NH2	7397	LPBATEAHVQTZLQ-YYIXHMHSSA-N				
+0.182	GVVNASCRLA	3622	WYFQCOKURKTOCO-ZFKBFIRQSA-N			X	mutant A143S
+0.206	GVVNASCRLA	3622	WYFQCOKURKTOCO-ZFKBFIRQSA-N				wild-type enzyme
+0.217	succinyl-RRILNASLAPE-NH2	7391	JOZBZYYHAPTUSP-PKHNCEFESA-N				
+0.217	succinyl-SYVKASVS-NH2	7393	FPPNMUZBXDTHLV-LBSYOUHISA-N				
+0.22	GVVNASCRLA	3622	WYFQCOKURKTOCO-ZFKBFIRQSA-N			X	mutant V141G/V207G, soluble
+0.236	GVVNASCRLA	3622	WYFQCOKURKTOCO-ZFKBFIRQSA-N			X	mutant V141G
+0.242	GVVNASCRLA	3622	WYFQCOKURKTOCO-ZFKBFIRQSA-N			X	mutant V141G/V207G, refolded
+0.367	Abz-GVVNASSRLAY(NO2)G	10825	NSVBHXNXZKDLQG-MPVOLHPYSA-N				presence of 50% glycerol, enzyme HCMV A134Q
+0.583	Abz-GVVNASSRLAY(NO2)G	10825	NSVBHXNXZKDLQG-MPVOLHPYSA-N				presence of 25% glycerol, enzyme HCMV A134Q
+0.7	succinyl-LVNAS-2-aminobutyryl-EPT-NH2	7389	UPWWFTSDAYJMHM-GILNZPMPSA-N				

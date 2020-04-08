@@ -1,0 +1,79 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1990	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	mutant Q240R, isoform 1, 27C, pH 7.4
+2064	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	mutant R240Q, isoform 2, 27C, pH 7.4
+2088	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	mutant Q105M, isoform 1, 27C, pH 7.4
+3012	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4		wild-type, isoform 1, 27C, pH 7.4
+4002	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	mutant Q105M, isoform 2, 27C, pH 7.4
+4890	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4		wild-type, isoform 2, 27C, pH 7.4
+0.052	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme Y14F/Y30F/Y55F/D99L
+0.295	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	27	7.4	X	27C, pH 7.4, mutant enzyme D265N
+0.48	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	27	7.4	X	27C, pH 7.4, mutant enzyme D241N
+0.557	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	27	7.4		27C, pH 7.4, wild-type enzyme
+0.67	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	pH 7.0, 25C, mutant enzyme Y14F/D99L
+0.7	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	pH 7.0, 25C, mutant enzyme Y14F/D99N
+0.71	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	pH 7.0, 25C, mutant enzyme Y14F/D99N
+0.83	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	27	7.4		wild-type, 27C, pH 7.4
+1.1	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme Y14F/Y30F/Y55F/D99N
+1.46	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	27	7.4	X	mutant M187T, 27C, pH 7.4
+1.56	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	27	7.4	X	mutant S124T, 27C, pH 7.4
+3	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	pH 7.0, 25C, mutant enzyme Y14F/D99E
+6.08	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	pH 7.0, 25C, mutant enzyme Y14F/D99L
+6.08	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	27	7.4		27C, pH 7.4, wild-type enzyme
+11.5	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	pH 7.0, 25C, mutant enzyme Y14F
+13.6	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	27	7.4		27C, pH 7.4
+53	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N		7.0	X	mutant D38E, pH 7.0, 5.4 C
+71	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N		7.0	X	mutant D38E, pH 7.0, 10.3 C
+101	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N		7.0	X	mutant D38E, pH 7.0, 15.3 C
+145	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N		7.0	X	mutant D38E, pH 7.0, 20.1 C
+180	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N		7.0	X	mutant D38E, pH 7.0, 25.0 C
+220	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	pH 7.0, 25C, mutant enzyme D99L
+230	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	6.5	X	25C, pH 6.5, solvent D2O, mutant enzyme D38A
+250	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N		7.0	X	mutant D38E, pH 7.0, 29.9 C
+260	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	8.5	X	25C, pH 8.5, solvent D2O, mutant enzyme D38A
+279	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	6.5	X	25C, pH 6.5, solvent H2O, mutant enzyme D38A
+302	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme Y14F/Y30F
+311	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme W116A
+340	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	6.5	X	25C, pH 6.5, solvent H2O, mutant enzyme D38A
+360	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme Y14F/Y55F
+412	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.5	X	25C, pH 7.5 or 8.5, solvent H2O, mutant enzyme D38A
+539	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme F82A
+587	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme Y14F/Y30F/Y55F
+1180	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	pH 7.0, 25C, mutant enzyme E118A/N120A
+2540	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme F82L
+3630	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme F54A
+3710	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	pH 7.0, 25C, mutant enzyme N120A
+4420	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme W116Y
+4760	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme W116F
+4870	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	pH 7.0, 25C, mutant enzyme R72A
+6920	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	pH 7.0, 25C, mutant enzyme E118A
+7155	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme F116W
+7160	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme F116W
+8900	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme F54L
+12000	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	mutant W92A/L125A/V127A, 25C, pH 7.0
+12700	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	mutant W92A, 25C, pH 7.0
+12900	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	mutant L125A/V127A, 25C, pH 7.0
+17600	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	mutant L125F/V127F, 25C, pH 7.0
+19000	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0	X	pH 7.0, 25C, mutant enzyme D99E
+21200	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0		25C, pH 7.0, wild-type enzyme
+21200	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0		pH 7.0, 25C, wild-type enzyme
+21200	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0		wild-type, 25C, pH 7.0
+21230	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0		25C, pH 7.0, wild-type enzyme
+27900	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0		pH 7.0, 25C, wild-type enzyme
+27900	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0		25C, pH 7.0, wild-type enzyme
+31680	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0		25C, pH 7.0, wild-type enzyme
+31700	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	25	7.0		25C, pH 7.0, wild-type enzyme
+288000	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N				
+1.2	androstene-3,17-dione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme Y55F/D99L
+40.7	androstene-3,17-dione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme Y30F/D99L
+220	androstene-3,17-dione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme D99L
+3510	androstene-3,17-dione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme Y55F
+10680	androstene-3,17-dione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme Y30F/Y55F
+10700	androstene-3,17-dione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme Y30F/Y55F
+17800	androstene-3,17-dione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	25	7.0	X	25C, pH 7.0, mutant enzyme Y30F
+0.25	5(10)-estrene-3,17-dione	4609	RORYLAUXKSWMQL-CBZIJGRNSA-N	25	7.0	X	25C, pH 7.0, mutant enzyme F82A
+1.7	5(10)-estrene-3,17-dione	4609	RORYLAUXKSWMQL-CBZIJGRNSA-N	25	7.0	X	25C, pH 7.0, mutant enzyme F54A
+4.3	5(10)-estrene-3,17-dione	4609	RORYLAUXKSWMQL-CBZIJGRNSA-N	25	7.0	X	25C, pH 7.0, mutant enzyme F54L
+7.5	5(10)-estrene-3,17-dione	4609	RORYLAUXKSWMQL-CBZIJGRNSA-N	25	7.0	X	25C, pH 7.0, mutant enzyme F82L
+11.1	5(10)-estrene-3,17-dione	4609	RORYLAUXKSWMQL-CBZIJGRNSA-N	25	7.0		25C, pH 7.0, wild-type enzyme
+70.8	17beta-Hydroxy-5(10)-estren-3-one	19915	BAZGVDKAIHZPOH-ZBRFXRBCSA-N				
+0.303	DELTA5-pregnen-3,20-dione	22947	MNRHZPCIEGLWGK-UHFFFAOYSA-N	25	7.5		25C, pH 7.5

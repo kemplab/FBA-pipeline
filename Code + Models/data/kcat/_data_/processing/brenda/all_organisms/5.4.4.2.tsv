@@ -1,0 +1,23 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.031	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	37	7.5	X	mutant L255A, pH 7.5, 37C
+0.0455	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	25	7.5	X	pH 7.5, 25C, mutant K221A
+0.05	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N		7.0	X	mutant enzyme F327Y/I346L, in 100 mM phosphate pH 7.0, 10 mM MgCl2
+0.067	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N		7.0	X	mutant enzyme A303T, in 100 mM phosphate pH 7.0, 10 mM MgCl2
+0.108	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	25	7.5	X	pH 7.5, 25C, mutant E313A
+0.13	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N		7.0	X	mutant enzyme F327Y, in 100 mM phosphate pH 7.0, 10 mM MgCl2
+0.18	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N		7.0	X	mutant enzyme F359Q/I346L, in 100 mM phosphate pH 7.0, 10 mM MgCl2
+0.35	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	37	7.5		wild-type, pH 7.5, 37C
+0.43	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N		7.0	X	mutant enzyme F327Y/F359Q, in 100 mM phosphate pH 7.0, 10 mM MgCl2
+0.55	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N		7.0	X	mutant enzyme I346L, in 100 mM phosphate pH 7.0, 10 mM MgCl2
+0.6	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N		7.0	X	mutant enzyme F359Q, in 100 mM phosphate pH 7.0, 10 mM MgCl2
+0.645	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	30	7.0		pH 7.0, 30C
+0.67	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N		7.0		wild type enzyme, in 100 mM phosphate pH 7.0, 10 mM MgCl2
+0.72	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N				
+0.75	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	25	7.5	X	pH 7.5, 25C, mutant E313Q
+1.33	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N				in absence of 2-mercaptoethanol
+2.88	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N				
+2.93	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N				in presence of 2-mercaptoethanol
+6.08	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N				
+6.08	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	30	7.0		pH 7.0, 30C
+50.4	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+1.8	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N				

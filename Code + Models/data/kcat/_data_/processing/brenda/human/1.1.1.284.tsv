@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.217	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				reaction with 12-hydroxydodecanoic acid
+0.92	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.5	X	mutant E67L, pH 7.5
+1.04	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				
+2.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.5		wild type enzyme, pH 7.5
+16.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.5	X	mutant R368L, pH 7.5
+34.5	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.5		wild type enzyme, pH 7.5
+230	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7.5	X	mutant R368L, pH 7.5
+7.5	S-nitrosoglutathione	753	HYHSBSXUHZOYLX-WDSKDSINSA-N				
+15.3	S-nitrosoglutathione	753	HYHSBSXUHZOYLX-WDSKDSINSA-N	25	7.5	X	mutant R368L, pH 7.5, 25C
+20	S-nitrosoglutathione	753	HYHSBSXUHZOYLX-WDSKDSINSA-N	25	7.5		in 0.1 M potassium phosphate (pH 7.5), at 25C
+20	S-nitrosoglutathione	753	HYHSBSXUHZOYLX-WDSKDSINSA-N				
+29.3	S-nitrosoglutathione	753	HYHSBSXUHZOYLX-WDSKDSINSA-N	25	7.5		wild type enzyme, pH 7.5, 25C
+203.3	S-nitrosoglutathione	753	HYHSBSXUHZOYLX-WDSKDSINSA-N	25	7.5	X	mutant R368L, pH 7.5, 25C
+72000	S-nitrosoglutathione	753	HYHSBSXUHZOYLX-WDSKDSINSA-N				
+1.4	S-hydroxymethylglutathione	2224	PIUSLWSYOYFRFR-BQBZGAKWSA-N	30	7.5	X	mutant E67L, pH 7.5, 30C
+2.5	S-hydroxymethylglutathione	2224	PIUSLWSYOYFRFR-BQBZGAKWSA-N	30	7.5		wild type enzyme, pH 7.5, 30C
+2.5	S-hydroxymethylglutathione	2224	PIUSLWSYOYFRFR-BQBZGAKWSA-N	25	7.5		in 0.1 M potassium phosphate (pH 7.5), at 25C
+20	S-hydroxymethylglutathione	2224	PIUSLWSYOYFRFR-BQBZGAKWSA-N	30	7.5	X	mutant R368L, pH 7.5, 30C
+0.217	12-Hydroxydodecanoic acid	2155	ZDHCZVWCTKTBRY-UHFFFAOYSA-N				
+1.04	S-hydroxymethyl glutathione	2224	PIUSLWSYOYFRFR-BQBZGAKWSA-N				
+3.33	S-hydroxymethyl glutathione	2224	PIUSLWSYOYFRFR-BQBZGAKWSA-N				

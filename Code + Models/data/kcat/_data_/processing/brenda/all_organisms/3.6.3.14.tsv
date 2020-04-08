@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0093	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25		X	mutant enzyme E190Q, at 25C, pH not specified in the publication
+0.028	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25		X	mutant enzyme K164A, at 25C, pH not specified in the publication
+0.13	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25		X	mutant enzyme E190A, at 25C, pH not specified in the publication
+0.41	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25		X	mutant enzyme R364A, at 25C, pH not specified in the publication
+5.34	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	23	7.0		pH 7.0, 23C
+217	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+285	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.5		recombinant wild-type F1Fo, pH 7.5-8.8, temperature not specified in the publication
+390	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25			wild type enzyme, at 25C, pH not specified in the publication
+539	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.5	X	recombinant subunit epsilon mutant EF1Fo, pH 7.5-8.8, temperature not specified in the publication
+16	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.5		recombinant wild-type F1Fo, pH 7.5-8.8, temperature not specified in the publication
+17	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	30			pH not specified in the publication, 30C
+55	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.5	X	recombinant subunit epsilon mutant EF1Fo, pH 7.5-8.8, temperature not specified in the publication
+16	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30			pH not specified in the publication, 30C
+20	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N		7.5		recombinant wild-type F1Fo, pH 7.5-8.8, temperature not specified in the publication
+66	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N		7.5	X	recombinant subunit epsilon mutant EF1Fo, pH 7.5-8.8, temperature not specified in the publication

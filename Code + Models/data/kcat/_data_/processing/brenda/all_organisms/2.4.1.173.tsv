@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0023	diosgenin	3710	WQLVFSAGQJTQCK-VKROHFNGSA-N				for the cytosolic enzyme
+0.0037	beta-sitosterol	1220	KZJWDPNRJALLNS-VJSFXXLFSA-N				for the cytosolic enzyme
+0.0047	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N				for the cytosolic enzyme
+0.0072	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N				for the cytosolic enzyme
+0.0087	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N				for the cytosolic enzyme
+0.0088	stigmasterol	1885	HCXVJBMSMIARIN-PHZDYDNGSA-N				for the cytosolic enzyme
+0.0093	3-beta-hydroxy-pregna-5,16-dien-20-one	12132	YLFRRPUBVUAHSR-RRPFGEQOSA-N				for the cytosolic enzyme
+0.38	24-methylene cholesterol	24390	INDVLXYUCBVVKW-PXBBAZSNSA-N				for the cytosolic enzyme
+351.9	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N	30	7.8		pH 7.8, 30C
+475	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	30	7.8		pH 7.8, 30C
+650.6	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N	30	7.8		pH 7.8, 30C

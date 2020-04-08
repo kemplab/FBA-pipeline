@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0046	3-Hydroxyanthranilate	1034	WJXSWCUQABXPFS-UHFFFAOYSA-N		7.2	X	pH 7.2, mutant enzyme R99A
+0.012	3-Hydroxyanthranilate	1034	WJXSWCUQABXPFS-UHFFFAOYSA-N		7.2	X	pH 7.2, mutant enzyme E110A
+0.022	3-Hydroxyanthranilate	1034	WJXSWCUQABXPFS-UHFFFAOYSA-N		7.2	X	pH 7.2, mutant enzyme R47A
+25	3-Hydroxyanthranilate	1034	WJXSWCUQABXPFS-UHFFFAOYSA-N		7.2		pH 7.2, wild-type enzyme

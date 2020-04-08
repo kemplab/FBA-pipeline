@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.5	lysophosphatidylcholine	560	HBNNSPFQPMAETL-NSHDSACASA-O	37	8.0		soluble isozyme, pH 8.0, 37C
+1	sn-glycero-3-phosphocholine	1428	SUHOQUVVVLNYQR-MRVPVSSYSA-O	37	8.0		soluble isozyme, pH 8.0, 37C
+65	lysosphingomyelin	5511	JLVSPVFPBBFMBE-HXSWCURESA-O	37	8.0		soluble isozyme, pH 8.0, 37C
+2	4-nitrophenyl phosphocholine	3167	NAIXASFEPQPICN-UHFFFAOYSA-N	37	8.0		soluble isozyme, pH 8.0, 37C
+29	sn-glycerol-3-phosphocholine	1428	SUHOQUVVVLNYQR-MRVPVSSYSA-O	37	7.2		pH 7.2, 37C

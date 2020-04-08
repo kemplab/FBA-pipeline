@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0016	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		7.2	X	pH 7.2, temperature not specified in the publication, mutant L12T/G14A/P79L/A81T/G82S
+0.0041	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		7.2	X	pH 7.2, temperature not specified in the publication, mutant P79L/A81T/G82S
+0.0048	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		7.2		pH 7.2, temperature not specified in the publication, wild-type
+0.0053	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		7.2	X	pH 7.2, temperature not specified in the publication, mutant L12T/G14A

@@ -1,0 +1,45 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.025	2-aminobenzoyl-LGMISLMKRPQ-N-(2,4-dinitrophenyl)ethylenediamine	8832	WYEQVKSJSOAEJX-YFZRNEGUSA-N				
+0.0433	benzoyl-FR-aminomethyl coumarin	5679	VOSSYAPIMWFVML-UIOOFZCWSA-N				
+0.055	benzoyl-FR-aminomethyl coumarin	5679	VOSSYAPIMWFVML-UIOOFZCWSA-N				recombinant form without C-terminal extension
+0.0583	2-aminobenzoyl-LGMISLMKRPQ-N-(2,4-dinitrophenyl)ethylenediamine	8832	WYEQVKSJSOAEJX-YFZRNEGUSA-N				with 0.06 mM heparan sulfate
+0.0683	2-aminobenzoic acid-KLRFSKQ-N-(2,4-dinitrophenyl)ethylenediamine	11151	AYRSLKCTEUFABD-VLOLPVCOSA-N				recombinant form without C-terminal extension
+0.0783	benzoyl-RR-aminomethyl coumarin	12690	WENUQTRHVRCPFX-VXKWHMMOSA-N				
+0.08	2-aminobenzoic acid-KLRFSKQ-N-(2,4-dinitrophenyl)ethylenediamine	11151	AYRSLKCTEUFABD-VLOLPVCOSA-N				
+0.0805	N-carbobenzoxy-Arg-Arg-2-(4-methoxy)-naphthylamide	22123	UGENMPCCAUJPMX-DQEYMECFSA-N				
+0.1	2-aminobenzoyl-ARF-(2,4-dinitrophenyl)-epsilon-NH2-lysine-OH	24046	XPILZQUPWUMMMZ-BJPINVTDSA-N	37	5.5		37C, pH 5.5
+0.13	2-aminobenzoyl-RRF-(2,4-dinitrophenyl)-epsilon-NH2-lysine-OH	24045	LSUUEBCXBNEKHG-YDPTYEFTSA-N	37	5.5		37C, pH 5.5
+0.13	N-alpha-benzyloxycarbonyl-L-tyrosyl-L-alanine-(7-amido-4-methylcoumarin)	24044	ZKEABYXVHYIUBW-DFBJGRDBSA-N	37	6.5		37C, pH 6.5
+0.14	N-alpha-benzyloxy-carbonyl-L-phenylalanyl-L-alanine-(7-amido-4-methylcoumarin)	24043	WEABPARIZMGTCK-CPJSRVTESA-N	37	6.5		37C, pH 6.5
+0.15	N-alpha-benzyloxycarbonyl-L-arginyl-L-alanine-(7-amido-4-methylcoumarin)	24042	AYGYBCWCXCPCJU-UWJYYQICSA-N	37	6.5		37C, pH 6.5
+0.158	benzyloxycarbonyl-FR-aminomethyl coumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+0.172	benzoyl-HR-aminomethyl coumarin	14358	CZAGGHUAPSASQQ-GOTSBHOMSA-N				
+0.193	benzoyl-FR-aminomethyl coumarin	5679	VOSSYAPIMWFVML-UIOOFZCWSA-N				
+0.5	o-aminobenzoyl-KPRFSKQ-N-(2,4-dinitrophenyl)-ethylenediamine	22351	HVPVHHLOOQIEDR-VLOLPVCOSA-N				
+1.3	o-aminobenzoyl-KARFSKQ-N-(2,4-dinitrophenyl)-ethylenediamine	22338	BVQSHRFFEUVCEH-XKDADYKASA-N				
+1.4	2-aminobenzoyl-Phe-Arg-(2,4-dinitrophenyl)-epsilon-NH2-lysine-Pro-OH	7632	ZEWJTBVOMMZVAU-YDPTYEFTSA-N	37	5.5		37C, pH 5.5
+1.9	o-aminobenzoyl-KFRFSKQ-N-(2,4-dinitrophenyl)-ethylenediamine	22339	JZAQGSYRGQQFEY-GEUARITBSA-N				
+1.9	o-aminobenzoyl-KLRRSKQ-N-(2,4-dinitrophenyl)-ethylenediamine	22350	NVIWKDIRZDNBLQ-IFLLZMBLSA-N				
+2.16	benzyloxycarbonyl-Phe-Arg-aminomethyl coumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				truncated enzyme
+2.5	o-aminobenzoyl-KLFFSKQ-N-(2,4-dinitrophenyl)-ethylenediamine	24930	FIMWQMYBIFCVFF-BHBHXYCSSA-N				
+2.8	o-aminobenzoyl-KLRFPKQ-N-(2,4-dinitrophenyl)-ethylenediamine	22344	SHYOSYWZRRTICI-DRODSASKSA-P				
+2.9	2-aminobenzoyl-FRF-(2,4-dinitrophenyl)-epsilon-NH2-lysine-OH	12036	OSLGRKSWUAZVLK-ZYADHFCISA-N	37	5.5		37C, pH 5.5
+3.4	2-aminobenzoyl-Phe-Arg-(2,4-dinitrophenyl)-epsilon-NH2-lysine-Trp-OH	24047	PEQSRQDELDXUPU-ZQWQDMLBSA-N	37	5.5		37C, pH 5.5
+4.2	2-aminobenzoyl-FRA-(2,4-dinitrophenyl)-epsilon-NH2-lysine-NH2	12039	WREJJKPMPRBMJM-BJPINVTDSA-N	37	5.5		37C, pH 5.5
+4.3	o-aminobenzoyl-KLRFSKQ-N-(2,4-dinitrophenyl)-ethylenediamine	12043	WUQGSMRSDZTKSI-FXRUNAACSA-N				
+4.49	benzyloxycarbonyl-Phe-Arg-aminomethyl coumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+4.5	o-aminobenzoyl-ALRFSKQ-N-(2,4-dinitrophenyl)-ethylenediamine	22331	IGEXZZNTCZHKRL-XKDADYKASA-N				
+5.5	2-aminobenzoyl-FRA-(2,4-dinitrophenyl)-epsilon-NH2-lysine-OH	12038	QBPFAUJGDLNDKI-BJPINVTDSA-N	37	5.5		37C, pH 5.5
+5.6	o-aminobenzoyl-HLRFSKQ-N-(2,4-dinitrophenyl)-ethylenediamine	22337	HWIILZVJGLWZDY-RTCAVSPGSA-N				
+5.6	o-aminobenzoyl-KLGFSKQ-N-(2,4-dinitrophenyl)-ethylenediamine	24932	BSDVRRJPQYPHSB-UJKKYYSESA-N				
+6.7	o-aminobenzoyl-LLRFSKQ-N-(2,4-dinitrophenyl)-ethylenediamine	22353	MUUNLSIIZWAUDI-HOBGKJOMSA-N				
+6.9	o-aminobenzoyl-KLRFSKQ-N-(2,4-dinitrophenyl)-ethylenediamine	12043	WUQGSMRSDZTKSI-FXRUNAACSA-N				
+7.7	o-aminobenzoyl-KRRFSKQ-N-(2,4-dinitrophenyl)-ethylenediamine	22352	FAWPGLWJZXYMFS-VLOLPVCOSA-N				
+8.2	o-aminobenzoyl-KLRFAKQ-N-(2,4-dinitrophenyl)-ethylenediamine	12321	ITNYEJSQBNDKDF-GPSQPPCLSA-N				
+9.1	o-aminobenzoyl-KLRLSKQ-N-(2,4-dinitrophenyl)-ethylenediamine	22349	PLOFGILMPMATIN-FVMQRRFMSA-N				
+9.7	o-aminobenzoyl-KLRFFKQ-N-(2,4-dinitrophenyl)-ethylenediamine	22343	AQKNSXIYPJEOJM-WFFGTWMSSA-P				
+10.8	epsilon-NH2(capryl)-L-(SBzl)C-7-amido-4-methylcoumarin	24929	FMUDGCWYUQIYPK-TUXUZCGSSA-N				
+12.5	o-aminobenzoyl-KLRFSRQ-N-(2,4-dinitrophenyl)-ethylenediamine	22348	NNULEEOPGHSWSZ-VLOLPVCOSA-P				
+13.9	o-aminobenzoyl-KLRFSPQ-N-(2,4-dinitrophenyl)-ethylenediamine	22347	FFLWULDITQEWQO-VLOLPVCOSA-N				
+14.2	o-aminobenzoyl-KLKFSKQ-N-(2,4-dinitrophenyl)-ethylenediamine	24931	MFYLQOJURQGUHD-BEGKBBJWSA-N				
+15.2	o-aminobenzoyl-KLRFAKQ-N-(2,4-dinitrophenyl)-ethylenediamine	12321	ITNYEJSQBNDKDF-GPSQPPCLSA-N				

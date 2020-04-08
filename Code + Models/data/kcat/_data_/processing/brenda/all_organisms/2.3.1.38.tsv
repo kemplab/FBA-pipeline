@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0225	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				recombinant wild-type, crude Streptomyces glaucescens [acyl-carrier-protein]
+0.0508	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				native wild-type, crude E. coli [acyl-carrier-protein]
+1.9	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				recombinant purified wild-type enzyme
+3.4	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	recombinant purified mutant R606K
+4.2	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	recombinant purified mutant R606A

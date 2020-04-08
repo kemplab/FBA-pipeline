@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.03	benzoyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	3453	PCXAXSWNQSBBDE-CQUCHYGKSA-N	37	7.2		wild-type, pH 7.2, 37C
+0.06	benzoyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	3453	PCXAXSWNQSBBDE-CQUCHYGKSA-N	37	4.75	X	mutant DELTA176-181, pH 4.75, 37C
+0.08	acetyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	2512	ALZSTTDFHZHSCA-RNVDEAKXSA-N	37	4.75	X	mutant DELTA176-181, pH 4.75, 37C
+0.16	benzoyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	3453	PCXAXSWNQSBBDE-CQUCHYGKSA-N	37	4.75		wild-type, pH 4.75, 37C
+0.33	acetyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	2512	ALZSTTDFHZHSCA-RNVDEAKXSA-N	37	4.75		wild-type, pH 4.75, 37C
+0.8	acetyl-L-Val-L-Asp-L-Val-L-Ala-L-Asp-4-nitroanilide	24049	SIOKOOKURWWOID-PZQVQNRFSA-N	22	7.5		pH 7.5, 22C
+0.84	acetyl-L-Leu-L-Asp-L-Val-L-Ala-L-Asp-4-nitroanilide	15895	GLADOHRFESAWAI-IWDZWKJBSA-N	22	7.5		pH 7.5, 22C
+0.88	acetyl-L-Asp-L-Glu-L-Val-L-Asp-4-nitroanilide	4772	GGXRLUDNGFFUKI-ORGXJRBJSA-N	22	7.5		pH 7.5, 22C
+0.9	acetyl-L-Asp-L-Val-L-Ala-L-Asp-4-nitroanilide	15894	HXHNNIYUGQCUOV-RURTYGRKSA-N	22	7.5		pH 7.5, 22C
+1.1	benzoyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	3453	PCXAXSWNQSBBDE-CQUCHYGKSA-N	37	4.75	X	mutant D179A, pH 4.75, 37C; mutant D179A, pH 7.2, 37C
+1.37	acetyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	2512	ALZSTTDFHZHSCA-RNVDEAKXSA-N	37	4.75	X	mutant D179A, pH 4.75, 37C
+1.43	benzoyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	3453	PCXAXSWNQSBBDE-CQUCHYGKSA-N	37	7.2	X	mutant DELTA176-181, pH 7.2, 37C
+1.54	acetyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	2512	ALZSTTDFHZHSCA-RNVDEAKXSA-N	37	7.2	X	mutant DELTA176-181, pH 7.2, 37C
+3.5	acetyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	2512	ALZSTTDFHZHSCA-RNVDEAKXSA-N	37	7.2	X	mutant D179A, pH 7.2, 37C
+3.5	acetyl-L-Asp-L-Met-L-Gln-L-Asp-4-nitroanilide	24048	LHKPPRWOHBASDX-VJANTYMQSA-N	22	7.5		pH 7.5, 22C
+6.01	acetyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	2512	ALZSTTDFHZHSCA-RNVDEAKXSA-N	37	7.2		wild-type, pH 7.2, 37C
+7.08	benzoyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	3453	PCXAXSWNQSBBDE-CQUCHYGKSA-N	37	7.2		wild-type, pH 7.2, 37C
+9.1	acetyl-DEVD-7-amido-4-methylcoumarin	2512	ALZSTTDFHZHSCA-RNVDEAKXSA-N		7.0		pH 7.0
+14	acetyl-DEVD-7-amido-4-methylcoumarin	2512	ALZSTTDFHZHSCA-RNVDEAKXSA-N		7.5		pH 7.5
+19.04	benzoyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	3453	PCXAXSWNQSBBDE-CQUCHYGKSA-N	37	7.2	X	mutant D179A, pH 7.2, 37C
+19.56	acetyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin	2512	ALZSTTDFHZHSCA-RNVDEAKXSA-N	37	7.2	X	mutant D179A, pH 7.2, 37C

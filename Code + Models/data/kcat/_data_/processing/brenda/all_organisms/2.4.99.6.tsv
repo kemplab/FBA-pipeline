@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.025	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	8.5	X	mutant enzyme D141A, in Tris-HCl buffer (200 mM, pH 8.5), at 37C
+0.55	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	8.5		wild type enzyme, using Lex-betamethylumbelliferyl as cosubstrate, in Tris-HCl buffer (200 mM, pH 8.5), at 37C
+0.59	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	8.5	X	mutant enzyme M144D, using Lex-betamethylumbelliferyl as cosubstrate, in Tris-HCl buffer (200 mM, pH 8.5), at 37C
+0.93	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	8.5	X	mutant enzyme M144H, using Lex-betamethylumbelliferyl as cosubstrate, in Tris-HCl buffer (200 mM, pH 8.5), at 37C
+1.9	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	8.5	X	mutant enzyme M144D, using 4-methylumbelliferyl beta-lactoside as cosubstrate, in Tris-HCl buffer (200 mM, pH 8.5), at 37C
+2.1	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	8.5	X	mutant enzyme H311A, in Tris-HCl buffer (200 mM, pH 8.5), at 37C
+6.5	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	8.5	X	mutant enzyme M144D, in Tris-HCl buffer (200 mM, pH 8.5), at 37C
+21	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	8.5	X	mutant enzyme M144H, using 4-methylumbelliferyl beta-lactoside as cosubstrate, in Tris-HCl buffer (200 mM, pH 8.5), at 37C
+27	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	8.5		wild type enzyme, in Tris-HCl buffer (200 mM, pH 8.5), at 37C
+32	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	8.5		wild type enzyme, using 4-methylumbelliferyl beta-lactoside as cosubstrate, in Tris-HCl buffer (200 mM, pH 8.5), at 37C
+71	CMP-N-acetylneuraminate	162	TXCIAUNLDRJGJZ-BILDWYJOSA-N	37	8.5	X	mutant enzyme M144H, in Tris-HCl buffer (200 mM, pH 8.5), at 37C
+21	4-methylumbelliferyl beta-lactoside	2340	PRTGXBPFDYMIJH-KSFLKEQHSA-N	37	8.5	X	mutant enzyme M144H, in Tris-HCl buffer (200 mM, pH 8.5), at 37C
+22	4-methylumbelliferyl beta-lactoside	2340	PRTGXBPFDYMIJH-KSFLKEQHSA-N	37	8.5	X	mutant enzyme M144D, in Tris-HCl buffer (200 mM, pH 8.5), at 37C
+47	4-methylumbelliferyl beta-lactoside	2340	PRTGXBPFDYMIJH-KSFLKEQHSA-N	37	8.5		wild type enzyme, in Tris-HCl buffer (200 mM, pH 8.5), at 37C
+4	4-methylumbelliferyl Lewisx	8219	PVUZBLNDARHJPS-FIVSWNKTSA-N	37	8.5	X	mutant enzyme M144D, in Tris-HCl buffer (200 mM, pH 8.5), at 37C
+6.7	4-methylumbelliferyl Lewisx	8219	PVUZBLNDARHJPS-FIVSWNKTSA-N	37	8.5		wild type enzyme, in Tris-HCl buffer (200 mM, pH 8.5), at 37C
+8.4	4-methylumbelliferyl Lewisx	8219	PVUZBLNDARHJPS-FIVSWNKTSA-N	37	8.5	X	mutant enzyme M144H, in Tris-HCl buffer (200 mM, pH 8.5), at 37C

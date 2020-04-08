@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.015	pyridoxine	807	LXNHXLLTXMVWPM-UHFFFAOYSA-N			X	mutant C110A, pH not specified in the publication, temperature not specified in the publication
+0.016	pyridoxine	807	LXNHXLLTXMVWPM-UHFFFAOYSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.044	4-Amino-5-hydroxymethyl-2-methylpyrimidine	4361	VUTBELPREDJDDH-UHFFFAOYSA-N			X	mutant C110A, pH not specified in the publication, temperature not specified in the publication
+0.045	4-Amino-5-hydroxymethyl-2-methylpyrimidine	4361	VUTBELPREDJDDH-UHFFFAOYSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.07	2-methyl-4-amino-5-hydroxymethylpyrimidine	4361	VUTBELPREDJDDH-UHFFFAOYSA-N		7.5		apparent value, in 100 mM triethanolamine or 50 mM potassium phosphate buffer, pH 7.5, 1 mM MgCl2, 500 mM ATP and 100 mM substrate
+0.165	pyridoxal	501	RADKZDMFGJYCBB-UHFFFAOYSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.328	pyridoxal	501	RADKZDMFGJYCBB-UHFFFAOYSA-N			X	mutant C214D, pH not specified in the publication, temperature not specified in the publication
+0.36	pyridoxine	807	LXNHXLLTXMVWPM-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+0.43	2-methyl-4-amino-5-hydroxymethylpyrimidine	4361	VUTBELPREDJDDH-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+0.43	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0		pH 8.0, 25C

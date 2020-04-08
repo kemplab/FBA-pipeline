@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.41	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N				pH and temperature not specified in the publication
+35.9	uridine	227	DRTQHJPVMGBUCF-XVFCMESISA-N				pH and temperature not specified in the publication
+150	uridine	227	DRTQHJPVMGBUCF-XVFCMESISA-N	90	7.0		pH 7.0, 90C
+56	5-methyluridine	2277	DWRXFEITVBNRMK-JXOAFFINSA-N	90	7.0		pH 7.0, 90C

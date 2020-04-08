@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.01	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N	30	7.6	X	pH 7.6, 30C, mutant zFPS-M2
+0.022	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N	30	7.6	X	pH 7.6, 30C, mutant zFPS-M10
+0.055	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N	30	7.6		pH 7.6, 30C, wild-type enzyme
+0.066	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	30	7.6	X	pH 7.6, 30C, mutant zFPS-M10
+0.069	neryl diphosphate	1098	GVVPGTZRZFNKDS-YFHOEESVSA-N	30	7.6		pH 7.6, 30C, wild-type enzyme
+0.15	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	30	7.6	X	pH 7.6, 30C, mutant zFPS-M2
+0.19	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	30	7.6		pH 7.6, 30C, wild-type enzyme

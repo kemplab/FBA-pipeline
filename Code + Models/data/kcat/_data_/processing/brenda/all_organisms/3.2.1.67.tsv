@@ -1,0 +1,24 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+690	polygalacturonic acid	918	BCFIGQJSZBOATJ-KMURLURQSA-N	55	6.0		pH 6.0, 55C
+936	(1,4-alpha-D-galacturonide)n	4485	UKVJWEQAPCHYTJ-VCRXPGPASA-N	80	6.5		30 mM phosphate buffer pH 6.5, 80C
+0.44	(1,4-alpha-D-galacturonide)3	4957	FYGDTMLNYKFZSV-PVIMMAAVSA-N	30	3.8		0.1 M acetate buffer pH 3.8, 30C
+685	(1,4-alpha-D-galacturonide)3	4957	FYGDTMLNYKFZSV-PVIMMAAVSA-N	80	6.5		30 mM phosphate buffer pH 6.5, 80C
+0.57	(1,4-alpha-D-galacturonide)5	5598	FTNIPWXXIGNQQF-PWJOWYNHSA-N	30	3.8		0.1 M acetate buffer pH 3.8, 30C
+934	(1,4-alpha-D-galacturonide)5	5598	FTNIPWXXIGNQQF-PWJOWYNHSA-N	80	6.5		30 mM phosphate buffer pH 6.5, 80C
+0.17	(1,4-alpha-D-galacturonide)2	6340	GUBGYTABKSRVRQ-TZNAKTALSA-N	30	3.8		0.1 M acetate buffer pH 3.8, 30C
+182	(1,4-alpha-D-galacturonide)2	6340	GUBGYTABKSRVRQ-TZNAKTALSA-N	80	6.5		30 mM phosphate buffer pH 6.5, 80C
+0.52	(1,4-alpha-D-galacturonide)4	7404	PHIICDOUVNNADA-YGBXECDLSA-N	30	3.8		0.1 M acetate buffer pH 3.8, 30C
+829	(1,4-alpha-D-galacturonide)4	7404	PHIICDOUVNNADA-YGBXECDLSA-N	80	6.5		30 mM phosphate buffer pH 6.5, 80C
+0.59	(1,4-alpha-D-galacturonide)6	7405	OCIBBXPLUVYKCH-TVWNPXRKSA-N	30	3.8		0.1 M acetate buffer pH 3.8, 30C
+821	(1,4-alpha-D-galacturonide)6	7405	OCIBBXPLUVYKCH-TVWNPXRKSA-N	80	6.5		30 mM phosphate buffer pH 6.5, 80C
+0.33	(1,4-alpha-D-galacturonide)7	7406	BNABBHGYYMZMOA-XYHQNWLRSA-N	30	3.8		0.1 M acetate buffer pH 3.8, 30C
+860	(1,4-alpha-D-galacturonide)7	7406	BNABBHGYYMZMOA-XYHQNWLRSA-N	80	6.5		30 mM phosphate buffer pH 6.5, 80C
+0.31	(1,4-alpha-D-galacturonide)8	7407	RUJILUJOOCOSRO-MJDUCORASA-N	30	3.8		0.1 M acetate buffer pH 3.8, 30C
+843	(1,4-alpha-D-galacturonide)8	7407	RUJILUJOOCOSRO-MJDUCORASA-N	80	6.5		30 mM phosphate buffer pH 6.5, 80C
+393.3	[(1-&gt;4)-alpha-D-galacturonide]n	4485	UKVJWEQAPCHYTJ-VCRXPGPASA-N	50	4.0		pH 4.0, 50C
+2022	[(1-&gt;4)-alpha-D-galacturonide]n	4485	UKVJWEQAPCHYTJ-VCRXPGPASA-N	50	5.0		pH 5.0, 50C, recombinant catalytic polygalacturonase domain
+2230	[(1-&gt;4)-alpha-D-galacturonide]n	4485	UKVJWEQAPCHYTJ-VCRXPGPASA-N	50	5.0		pH 5.0, 50C
+4068	[(1-&gt;4)-alpha-D-galacturonide]n	4485	UKVJWEQAPCHYTJ-VCRXPGPASA-N	50	5.0		pH 5.0, 50C, recombinant wild-type full-length enzyme
+3.9	[(1-&gt;4)-alpha-D-galacturonide]2	3331	IGSYEZFZPOZFNC-MMGXBETBSA-N	30	4.0		isozyme RPG16, pH 4.0, 30C
+10.3	[(1-&gt;4)-alpha-D-galacturonide]2	3331	IGSYEZFZPOZFNC-MMGXBETBSA-N	30	4.0		isozyme RPG15, pH 4.0, 30C
+10.7	[(1-&gt;4)-alpha-D-galacturonide]3	3182	LCLHHZYHLXDRQG-MKJFYJHKSA-N	30	4.0		isozyme RPG15, pH 4.0, 30C

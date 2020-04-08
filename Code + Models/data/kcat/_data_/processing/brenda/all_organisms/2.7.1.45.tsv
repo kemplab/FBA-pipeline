@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+8.26	2-dehydro-3-deoxy-D-gluconate	886	WPAMZTWLKIDIOP-WVZVXSGGSA-N	50	8.5		in 50 mM Tris/HCl (pH 8.5) at 50C; pH 8.5, 50C
+11	2-dehydro-3-deoxy-D-gluconate	886	WPAMZTWLKIDIOP-WVZVXSGGSA-N	35	7.4		pH 7.4, 35C, in presence of 5 mM MgCl2 and 0.1 M KCl
+2.2	2-keto-D-gluconate	2101	VBUYCZFBVCCYFD-JJYYJPOSSA-N	35	7.4		pH 7.4, 35C, in presence of 5 mM MgCl2 and 0.1 M KCl
+26.3	2-keto-D-gluconate	2101	VBUYCZFBVCCYFD-JJYYJPOSSA-N	50	8.5		in 50 mM Tris/HCl (pH 8.5) at 50C; pH 8.5, 50C

@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+6.6	methyl beta-D-galactoside	5019	HOVAGTYPODGVJG-VOQCIKJUSA-N	80	7.5		relase, of methanol, pH 7.5, 80C
+9.01	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	90	5.5		pH 5.5, 90C
+14.6	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	90	5.5		pH 5.5, 90C
+16.7	2-nitrophenyl beta-D-glucopyranoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	90	5.5		pH 5.5, 90C
+18.6	4-nitrophenyl beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	90	5.5		pH 5.5, 90C
+24	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	30	7.4		pH 7.4, 30C, absence of 1-butanol
+26.4	2-nitrophenyl beta-D-fucopyranoside	11861	SWRPIVXPHLYETN-BVWHHUJWSA-N	90	5.5		pH 5.5, 90C
+31.5	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	90	5.5		pH 5.5, 90C
+55	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	30	7.4		pH 7.4, 30C, presence of 80 mM 1-butanol
+1300	2-nitrophenyl beta-D-galactoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	80	7.5		release of 2-nitrophenol, pH 7.5, 80C
+1320	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	75	7.4		pH 7.4, 75C, absence of 1-butanol
+1450	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	75	7.4		pH 7.4, 75C, presence of 80 mM 1-butanol
+1500	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	80	7.5		release of D-glucose, pH 7.5, 80C

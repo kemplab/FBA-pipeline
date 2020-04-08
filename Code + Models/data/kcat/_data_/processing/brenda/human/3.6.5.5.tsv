@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0003	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37		X	37C, T65D and T65H mutant dynamin, basal GTPase activity
+0.0013	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37		X	37C, T65A mutant dynamin, basal GTPase activity
+0.0025	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37		X	37C, T141D mutant dynamin, basal GTPase activity
+0.0032	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	22			22C, wild-type dynamin, basal GTPase activity
+0.0072	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37		X	37C, S61D mutant dynamin, basal GTPase activity
+0.016	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37		X	37C, T65D and T65H mutant dynamin, lipid tubule stimulated GTPase activity
+0.02	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37		X	37C, T65A mutant dynamin, lipid tubule stimulated GTPase activity
+0.025	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37		X	37C, T141D mutant dynamin, lipid tubule stimulated GTPase activity
+0.032	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37		X	37C, S61A mutant dynamin, basal GTPase activity
+0.043	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37			37C, wild-type dynamin, basal GTPase activity
+0.112	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37		X	37C, T141A mutant dynamin, basal GTPase activity
+0.13	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	22			22C, wild-type dynamin, lipid tubule stimulated GTPase activity
+0.44	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37		X	37C, S61D mutant dynamin, lipid tubule stimulated GTPase activity
+1.43	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37		X	37C, S61A mutant dynamin, lipid tubule stimulated GTPase activity
+1.75	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37			37C, wild-type dynamin, lipid tubule stimulated GTPase activity
+3.08	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37		X	37C, T141A mutant dynamin, lipid tubule stimulated GTPase activity

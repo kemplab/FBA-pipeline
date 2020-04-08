@@ -1,0 +1,23 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.037	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	30		X	mutant E224A, at 30C
+3.4	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	30	8.0	X	mutant Y196K, at 30C; mutant Y196R, at 30C; pH 8.0, 30C, recombinant mutant Y196K/C69S; pH 8.0, 30C, recombinant mutant Y196R/C69S
+6.4	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	30	8.0	X	mutant Y196A, at 30C; pH 8.0, 30C, recombinant mutant Y196A/C69S
+14.8	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	30	8.0	X	mutant H102Q, at 30C; pH 8.0, 30C, recombinant mutant H102Q/C69S
+18.3	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	30	8.0	X	mutant S220N, at 30C; pH 8.0, 30C, recombinant mutant S220N/C69S
+21	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	30		X	mutant F219Y, at 30C
+38.8	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	30	8.0	X	mutant S101A, at 30C; pH 8.0, 30C, recombinant mutant S101A/C69S
+42	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	30			wild type enzyme, at 30C
+79.1	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	30	8.0	X	mutant E224A, at 30C; pH 8.0, 30C, recombinant mutant E224A/C69S
+110.9	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	30	8.0	X	mutant F219Y, at 30C; pH 8.0, 30C, recombinant mutant F219Y/C69S
+113.7	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant C69S; wild type enzyme, at 30C
+0.7	1H-3-Hydroxy-4-oxoquinaldine	1017	FSCXZVPPDJYLDD-UHFFFAOYSA-N	30	8.0	X	mutant Y196K, at 30C; pH 8.0, 30C, recombinant mutant Y196K/C69S
+1	1H-3-Hydroxy-4-oxoquinaldine	1017	FSCXZVPPDJYLDD-UHFFFAOYSA-N	30	8.0	X	mutant Y196R, at 30C; pH 8.0, 30C, recombinant mutant Y196R/C69S
+1.3	1H-3-Hydroxy-4-oxoquinaldine	1017	FSCXZVPPDJYLDD-UHFFFAOYSA-N	30	8.0	X	mutant Y196A, at 30C; pH 8.0, 30C, recombinant mutant Y196A/C69S
+2.3	1H-3-Hydroxy-4-oxoquinaldine	1017	FSCXZVPPDJYLDD-UHFFFAOYSA-N	30	8.0	X	mutant S101A, at 30C; pH 8.0, 30C, recombinant mutant S101A/C69S
+10	1H-3-Hydroxy-4-oxoquinaldine	1017	FSCXZVPPDJYLDD-UHFFFAOYSA-N	30	8.0	X	mutant H102Q, at 30C; pH 8.0, 30C, recombinant mutant H102Q/C69S
+12.2	1H-3-Hydroxy-4-oxoquinaldine	1017	FSCXZVPPDJYLDD-UHFFFAOYSA-N	30	8.0	X	mutant S220N, at 30C; pH 8.0, 30C, recombinant mutant S220N/C69S
+22.8	1H-3-Hydroxy-4-oxoquinaldine	1017	FSCXZVPPDJYLDD-UHFFFAOYSA-N	30	8.0	X	mutant F219Y, at 30C; pH 8.0, 30C, recombinant mutant F219Y/C69S
+22.9	1H-3-Hydroxy-4-oxoquinaldine	1017	FSCXZVPPDJYLDD-UHFFFAOYSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant C69S; wild type enzyme, at 30C
+28.2	1H-3-Hydroxy-4-oxoquinaldine	1017	FSCXZVPPDJYLDD-UHFFFAOYSA-N	30	8.0	X	mutant E224A, at 30C; pH 8.0, 30C, recombinant mutant E224A/C69S
+35	3-hydroxy-2-methyl-1H-quinolin-4-one	1017	FSCXZVPPDJYLDD-UHFFFAOYSA-N	30	8.0		30C, pH 8.0, at 0.12 mM O2
+145	3-hydroxy-2-methyl-1H-quinolin-4-one	1017	FSCXZVPPDJYLDD-UHFFFAOYSA-N	30	8.0		30C, pH 8.0, at 0.96 mM O2

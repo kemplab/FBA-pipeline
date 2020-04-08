@@ -1,0 +1,46 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.6	N-benzyloxycarbonyl-Ala-Ala-Leu	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N			X	mutant CPT D260G/T262K
+4.1	N-benzyloxycarbonyl-Ala-Ala-Leu	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N			X	mutant CPT D260G
+5.2	N-benzyloxycarbonyl-Ala-Ala-Leu	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N			X	mutant CPT D260G/T261I
+5.6	N-benzyloxycarbonyl-Ala-Ala-Leu	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N			X	mutant L254N
+5.6	N-benzyloxycarbonyl-Ala-Ala-Leu	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N			X	mutant CPT D260G/T262R
+7.1	N-benzyloxycarbonyl-Ala-Ala-Leu	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N			X	mutant CPT6
+8.4	N-benzyloxycarbonyl-Ala-Ala-Leu	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N			X	mutant H68N
+10	N-benzyloxycarbonyl-Ala-Ala-Leu	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N				wild-type enzyme
+10.3	N-benzyloxycarbonyl-Ala-Ala-Leu	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N				CPT wild-type
+22.8	N-benzyloxycarbonyl-Ala-Ala-Leu	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N			X	mutant CPT5
+2	benzyloxycarbonyl-alanyl-alanyl-leucine	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N			X	mutant D253G/T255D
+6.7	benzyloxycarbonyl-alanyl-alanyl-leucine	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N			X	mutant A243G
+6.8	benzyloxycarbonyl-alanyl-alanyl-leucine	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N			X	mutant G207S/A243G/D253G/T255D
+11.1	benzyloxycarbonyl-alanyl-alanyl-leucine	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N			X	mutant A243G/D253G/T255D
+22.8	benzyloxycarbonyl-alanyl-alanyl-leucine	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N			X	mutant G207S/A243G/T250A/D253G/T255D
+2	2,4-dinitrophenyl-alanyl-alanyl-arginine	5873	RJHLPYMMCJUXHE-KWBADKCTSA-N			X	mutant A243G
+4.3	2,4-dinitrophenyl-alanyl-alanyl-arginine	5873	RJHLPYMMCJUXHE-KWBADKCTSA-N			X	mutant D253G/T255D
+0.04	N-2,4-dinitrophenyl-Ala-Ala-Arg	5873	RJHLPYMMCJUXHE-KWBADKCTSA-N			X	mutant CPT D260G
+14	N-2,4-dinitrophenyl-Ala-Ala-Arg	5873	RJHLPYMMCJUXHE-KWBADKCTSA-N			X	mutant L254N
+14.6	N-2,4-dinitrophenyl-Ala-Ala-Arg	5873	RJHLPYMMCJUXHE-KWBADKCTSA-N				CPT wild-type
+15	N-2,4-dinitrophenyl-Ala-Ala-Arg	5873	RJHLPYMMCJUXHE-KWBADKCTSA-N				wild-type enzyme
+18	N-2,4-dinitrophenyl-Ala-Ala-Arg	5873	RJHLPYMMCJUXHE-KWBADKCTSA-N			X	mutant H68N
+7.2	N-benzyloxycarbonyl-Ala-Ala-Glu	5919	TZGJYJBFDGBQHT-OBJOEFQTSA-N			X	mutant CPT D260G
+8.5	N-benzyloxycarbonyl-Ala-Ala-Glu	5919	TZGJYJBFDGBQHT-OBJOEFQTSA-N			X	mutant CPT D260G/T262I
+11.5	N-benzyloxycarbonyl-Ala-Ala-Glu	5919	TZGJYJBFDGBQHT-OBJOEFQTSA-N			X	mutant CPT D260G/T262K
+23.6	N-benzyloxycarbonyl-Ala-Ala-Glu	5919	TZGJYJBFDGBQHT-OBJOEFQTSA-N			X	mutant CPT D260G/T262R
+2.6	N-carbobenzoxy-Ala-Ala-Phe	13693	IZJYUDDCEZMORI-BXWFABGCSA-N				
+57	N-Carbobenzoxy-Ala-Ala-Arg	20486	FJHXUUVTVKBIAD-YDHLFZDLSA-N				
+12.5	N-Carbobenzoxy-Ala-Ala-Leu	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N				
+5	N-Carbobenzoxy-Ala-Ala-Lys	20487	BWANLYWJLSVUPE-DZKIICNBSA-N				
+0.06	N-Carbobenzoxy-Ala-Ala-Trp	20488	IRFJVUZGTPEYAZ-QYWGDWMGSA-N				
+1.1	benzyloxycarbonyl-Ala-Ala-Leu	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N	25	7.5	X	mutant D260N, pH 7.5, 25C
+4.6	benzyloxycarbonyl-Ala-Ala-Leu	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N	25	7.5	X	mutant L211Q, pH 7.5, 25C
+4.7	benzyloxycarbonyl-Ala-Ala-Leu	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N	25	7.5		wild-type, pH 7.5, 25C
+5	benzyloxycarbonyl-Ala-Ala-Leu	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N	25	7.5	X	mutant T257D, pH 7.5, 25C
+6.6	benzyloxycarbonyl-Ala-Ala-Leu	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N	25	7.5	X	mutant L254S, pH 7.5, 25C
+9.7	benzyloxycarbonyl-Ala-Ala-Leu	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N	25	7.5	X	mutant D263N, pH 7.5, 25C
+9.9	benzyloxycarbonyl-Ala-Ala-Leu	2538	WOSHWSFNAYMPEX-DZKIICNBSA-N	25	7.5	X	mutant T262G, pH 7.5, 25C
+0.6	benzyloxycarbonyl-Ala-Ala-Arg	20486	FJHXUUVTVKBIAD-YDHLFZDLSA-N	25	7.5	X	mutant D260N, pH 7.5, 25C
+1.1	benzyloxycarbonyl-Ala-Ala-Arg	20486	FJHXUUVTVKBIAD-YDHLFZDLSA-N	25	7.5	X	mutant D263N, pH 7.5, 25C
+3.6	benzyloxycarbonyl-Ala-Ala-Arg	20486	FJHXUUVTVKBIAD-YDHLFZDLSA-N	25	7.5		wild-type, pH 7.5, 25C
+4.6	benzyloxycarbonyl-Ala-Ala-Arg	20486	FJHXUUVTVKBIAD-YDHLFZDLSA-N	25	7.5	X	mutant L254S, pH 7.5, 25C
+9.5	benzyloxycarbonyl-Ala-Ala-Arg	20486	FJHXUUVTVKBIAD-YDHLFZDLSA-N	25	7.5	X	mutant T257D, pH 7.5, 25C
+12.8	benzyloxycarbonyl-Ala-Ala-Arg	20486	FJHXUUVTVKBIAD-YDHLFZDLSA-N	25	7.5	X	mutant T262G, pH 7.5, 25C
+19	benzyloxycarbonyl-Ala-Ala-Arg	20486	FJHXUUVTVKBIAD-YDHLFZDLSA-N	25	7.5	X	mutant L211Q, pH 7.5, 25C

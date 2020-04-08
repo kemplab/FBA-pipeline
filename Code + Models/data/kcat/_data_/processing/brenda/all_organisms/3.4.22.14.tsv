@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+20.74	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N	20	8.5		pH 8.5, 20C, immobilized actinidin
+29.2	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N	20	8.5		pH 8.5, 20C, free actinidin
+4.5	benzoyl-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N				
+2.6	benzoyl-L-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N	25	5.6		pH 5.6, 25C, in 0.3 M KCl
+29	benzyloxycarbonyl-Lys p-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N				
+33	Nalpha-benzyloxycarbonyl-L-Lys p-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N				
+6	Benzyloxycarbonyl-Lys methyl ester	8340	CZWJWNQZTSMVAZ-ZDUSSCGKSA-N				
+0.029	benzoyl-Arg p-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N				
+0.7	acetyl-Lys methyl ester	21062	HHOLXTXLQMKUGJ-QMMMGPOBSA-N				
+5.8	benzoyl-Gly p-nitrophenyl ester	4946	ZPOAJFPTNSFEDJ-UHFFFAOYSA-N				
+3.4	benzyloxycarbonyl p-nitrophenyl ester	30832	WVKATIHKVUQHSL-UHFFFAOYSA-N				
+42.8	N-alpha-benzyloxycarbonyl-L-lysine 4-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N	27	6.5		pH 6.5, 27C

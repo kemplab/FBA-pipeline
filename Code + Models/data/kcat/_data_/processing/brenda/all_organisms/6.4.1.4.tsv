@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.43	3-methylcrotonoyl-CoA	1802	BXIPALATIYNHJN-ZMHDXICWSA-N			X	beta-subunit beta-subunit mutant R51A, pH and temperature not specified in the publication
+0.66	3-methylcrotonoyl-CoA	1802	BXIPALATIYNHJN-ZMHDXICWSA-N			X	beta-subunit mutant G423A, pH and temperature not specified in the publication
+0.96	3-methylcrotonoyl-CoA	1802	BXIPALATIYNHJN-ZMHDXICWSA-N				wild-type, pH and temperature not specified in the publication
+1.45	3-methylcrotonoyl-CoA	1802	BXIPALATIYNHJN-ZMHDXICWSA-N			X	beta-subunit mutant F417Y/G423A, pH and temperature not specified in the publication
+2.76	3-methylcrotonoyl-CoA	1802	BXIPALATIYNHJN-ZMHDXICWSA-N			X	beta-subunit mutant F417Y, pH and temperature not specified in the publication
+4	3-methylcrotonyl-CoA	1802	BXIPALATIYNHJN-ZMHDXICWSA-N	37	8.0		37C, pH 8.0, recombinant enzyme
+4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0		37C, pH 8.0, recombinant enzyme

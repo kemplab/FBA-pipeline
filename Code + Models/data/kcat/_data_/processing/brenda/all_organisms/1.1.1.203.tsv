@@ -1,0 +1,58 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.24	D-galacturonate	1309	AEMOLEFTQBMNLQ-YMDCURPLSA-N				
+0.3	D-galacturonate	1309	AEMOLEFTQBMNLQ-YMDCURPLSA-N				
+0.55	D-glucuronate	290	IAJILQKETJEXLJ-QTBDOELSSA-N				
+0.74	D-glucuronate	290	IAJILQKETJEXLJ-QTBDOELSSA-N				
+0.92	D-galacturonate	1309	AEMOLEFTQBMNLQ-YMDCURPLSA-N				
+1.9	D-glucuronate	290	IAJILQKETJEXLJ-QTBDOELSSA-N				
+3	beta-D-galacturonate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer
+3.4	D-Mannuronate	8661	AEMOLEFTQBMNLQ-VANFPWTGSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, Tris buffer
+4	beta-D-galacturonate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, Tris buffer
+4	D-Mannuronate	8661	AEMOLEFTQBMNLQ-VANFPWTGSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer
+6	beta-D-glucuronate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer
+6.4	D-Mannuronate	8661	AEMOLEFTQBMNLQ-VANFPWTGSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, Tris buffer
+7	beta-D-glucuronate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, Tris buffer
+7	D-Mannuronate	8661	AEMOLEFTQBMNLQ-VANFPWTGSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer
+7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer
+8	D-Mannuronate	8661	AEMOLEFTQBMNLQ-VANFPWTGSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, Tris buffer
+9	D-Mannuronate	8661	AEMOLEFTQBMNLQ-VANFPWTGSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer
+10	beta-D-galacturonate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, Tris buffer
+13	beta-D-galacturonate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer
+15.3	beta-D-galacturonate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N	25	8.0		pH 8.0, 25C
+17	beta-D-galacturonate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer
+17.1	beta-D-galacturonate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N	25	8.0		pH 8.0, 25C
+17.4	beta-D-galacturonate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N	25	8.0		pH 8.0, 25C, method A
+17.9	beta-D-galacturonate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N	25	8.0		pH 8.0, 25C, method B
+21	beta-D-galacturonate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, Tris buffer
+23	beta-D-galacturonate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, Tris buffer
+26.7	D-galacturonate	1309	AEMOLEFTQBMNLQ-YMDCURPLSA-N				
+27.8	beta-D-galacturonate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N	25	8.0		pH 8.0, 25C
+29	beta-D-galacturonate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer
+33.8	beta-D-galacturonate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N	25	8.0		pH 8.0, 25C, method A
+51.6	beta-D-galacturonate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N	25	8.0		pH 8.0, 25C, method B
+53	beta-D-glucuronate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, Tris buffer
+58	beta-D-glucuronate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, Tris buffer
+59	beta-D-galacturonate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer
+62	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer
+63	beta-D-glucuronate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, Tris buffer
+75	beta-D-glucuronate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer
+76	beta-D-galacturonate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, Tris buffer
+78	D-Mannuronate	8661	AEMOLEFTQBMNLQ-VANFPWTGSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, Tris buffer
+80	D-glucuronate	290	IAJILQKETJEXLJ-QTBDOELSSA-N				
+82	beta-D-glucuronate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer
+85	D-Mannuronate	8661	AEMOLEFTQBMNLQ-VANFPWTGSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer
+92	D-Mannuronate	8661	AEMOLEFTQBMNLQ-VANFPWTGSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, Tris buffer
+101	beta-D-glucuronate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N	25	8.0		pH 8.0, 25C, method B
+107	D-Mannuronate	8661	AEMOLEFTQBMNLQ-VANFPWTGSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer
+108	beta-D-glucuronate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer
+113	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer
+119	beta-D-glucuronate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N	25	8.0		pH 8.0, 25C
+144	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer
+152	beta-D-glucuronate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N	25	8.0		pH 8.0, 25C
+159	beta-D-glucuronate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N	25	8.0		pH 8.0, 25C, method A
+171	beta-D-glucuronate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, Tris buffer
+212	beta-D-glucuronate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N	25	8.0		pH 8.0, 25C, method B
+215	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer
+217	beta-D-glucuronate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N	25	8.0		pH 8.0, 25C
+274	beta-D-glucuronate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N	25	8.0		pH 8.0, 25C, method A
+333	beta-D-glucuronate	113181	AEMOLEFTQBMNLQ-DTEWXJGMSA-N				recombinant His-tagged enzyme, pH and temperature not specified in the publication, potassium phosphate buffer

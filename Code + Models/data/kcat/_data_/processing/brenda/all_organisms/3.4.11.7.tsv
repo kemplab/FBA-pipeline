@@ -1,0 +1,69 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.011	Glu-7-amido-4-methylcoumarin	1851	USALUSONPMPEKY-NSHDSACASA-N				in the absence of cobalt
+0.031	cholecystokinin-8	2494	PUZFEBZBSNCBNS-YRVFCXMDSA-N			X	mutant D221N, in the absence of CaCl2; wild-type, in the presence of 1.0 mM CaCl2
+0.05	Asp-7-amido-4-methylcoumarin	5843	AAGPGZSFBVEQMU-JTQLQIEISA-N				in the absence of cobalt
+0.052	cholecystokinin-8	2494	PUZFEBZBSNCBNS-YRVFCXMDSA-N			X	mutant D221N, in the presence of 1.0 mM CaCl2
+0.052	neurokinin B	3875	NHXYSAFTNPANFK-HDMCBQFHSA-N			X	mutant D221N, in the absence of CaCl2
+0.33	Glu-7-amido-4-methylcoumarin	1851	USALUSONPMPEKY-NSHDSACASA-N				in the presence of 1 mM cobalt
+0.354	Asp-7-amido-4-methylcoumarin	5843	AAGPGZSFBVEQMU-JTQLQIEISA-N				in the presence of 1 mM cobalt
+0.58	Glu-7-amido-4-methylcoumarin	1851	USALUSONPMPEKY-NSHDSACASA-N			X	mutant D221A, in the presence of 1.0 mM CaCl2
+0.7	kallidin	2610	FYSKZKQBTVLYEQ-FSLKYBNLSA-N				wild-type, in the absence of CaCl2
+0.72	Glu-7-amido-4-methylcoumarin	1851	USALUSONPMPEKY-NSHDSACASA-N			X	mutant D221A, in the absence of CaCl2
+0.79	kallidin	2610	FYSKZKQBTVLYEQ-FSLKYBNLSA-N				wild-type, in the presence of 1.0 mM CaCl2
+0.88	Glu-7-amido-4-methylcoumarin	1851	USALUSONPMPEKY-NSHDSACASA-N			X	mutant D221E, in the absence of CaCl2
+1.23	Glu-7-amido-4-methylcoumarin	1851	USALUSONPMPEKY-NSHDSACASA-N			X	mutant D221E, in the presence of 1.0 mM CaCl2
+1.33	kallidin	2610	FYSKZKQBTVLYEQ-FSLKYBNLSA-N			X	mutant D221N, in the presence of 1.0 mM CaCl2
+1.55	kallidin	2610	FYSKZKQBTVLYEQ-FSLKYBNLSA-N			X	mutant D221N, in the absence of CaCl2
+1.8	alpha-L-Glu-beta-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme H450F, in presence of 0.025 mM Ca2+
+2	L-Glu-2-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N		7.4	X	recombinant mutant enzyme T348Y, in 50 mM Tris-HCl buffer, pH 7.4, in the absence of Ca2+
+2.4	angiotensin II	537	CZGUSIXMZVURDU-JZXHSEFVSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme wild-type enzyme N353Q
+2.76	angiotensin II	537	CZGUSIXMZVURDU-JZXHSEFVSA-N				wild-type, in the absence of CaCl2
+2.78	Glu-7-amido-4-methylcoumarin	1851	USALUSONPMPEKY-NSHDSACASA-N			X	mutant D221Q, in the presence of 1.0 mM CaCl2
+2.8	Asp-4-methylcoumaryl-7-amide	5843	AAGPGZSFBVEQMU-JTQLQIEISA-N	37	7.5		recombinant enzyme, pH 7.5, 37C, in absence of Ca2+
+2.96	Glu-7-amido-4-methylcoumarin	1851	USALUSONPMPEKY-NSHDSACASA-N			X	mutant D221Q, in the absence of CaCl2
+3	angiotensin II	537	CZGUSIXMZVURDU-JZXHSEFVSA-N				wild-type, in the absence of CaCl2
+3.01	angiotensin II	537	CZGUSIXMZVURDU-JZXHSEFVSA-N				wild-type, in the presence of 1.0 mM CaCl2
+3.22	angiotensin II	537	CZGUSIXMZVURDU-JZXHSEFVSA-N			X	mutant D221N, in the presence of 1.0 mM CaCl2
+3.4	Glu-7-amido-4-methylcoumarin	1851	USALUSONPMPEKY-NSHDSACASA-N			X	mutant D221N, in the absence of CaCl2
+3.41	Glu-7-amido-4-methylcoumarin	1851	USALUSONPMPEKY-NSHDSACASA-N				wild-type, in the absence of CaCl2
+3.68	Glu-7-amido-4-methylcoumarin	1851	USALUSONPMPEKY-NSHDSACASA-N			X	mutant D221N, in the presence of 1.0 mM CaCl2
+3.88	angiotensin II	537	CZGUSIXMZVURDU-JZXHSEFVSA-N			X	mutant D221N, in the absence of CaCl2
+4.8	angiotensin II	537	CZGUSIXMZVURDU-JZXHSEFVSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme wild-type enzyme N353A
+5.25	Glu-7-amido-4-methylcoumarin	1851	USALUSONPMPEKY-NSHDSACASA-N				wild-type, in the presence of 1.0 mM CaCl2
+7.5	alpha-L-Glu-beta-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme H450F enzyme, in presence of 4 mM Ca2+
+7.71	cholecystokinin-8	2494	PUZFEBZBSNCBNS-YRVFCXMDSA-N			X	mutant D221N, in the absence of CaCl2
+7.81	neurokinin B	3875	NHXYSAFTNPANFK-HDMCBQFHSA-N				wild-type, in the absence of CaCl2
+8.22	cholecystokinin-8	2494	PUZFEBZBSNCBNS-YRVFCXMDSA-N				wild-type, in the presence of 1.0 mM CaCl2
+8.87	neurokinin B	3875	NHXYSAFTNPANFK-HDMCBQFHSA-N				wild-type, in the presence of 1.0 mM CaCl2
+9.18	cholecystokinin-8	2494	PUZFEBZBSNCBNS-YRVFCXMDSA-N				wild-type, in the absence of CaCl2
+9.5	Gln-4-methylcoumaryl-7-amide	3709	VEPDWBJBPXVCEN-NSHDSACASA-N	37	7.5		recombinant enzyme, pH 7.5, 37C, in absence of Ca2+
+9.8	neurokinin B	3875	NHXYSAFTNPANFK-HDMCBQFHSA-N			X	mutant D221N, in the presence of 1.0 mM CaCl2
+9.95	cholecystokinin-8	2494	PUZFEBZBSNCBNS-YRVFCXMDSA-N			X	mutant D221N, in the presence of 1.0 mM CaCl2
+10.47	neurokinin B	3875	NHXYSAFTNPANFK-HDMCBQFHSA-N			X	mutant D221N, in the absence of CaCl2
+12.2	Asp-4-methylcoumaryl-7-amide	5843	AAGPGZSFBVEQMU-JTQLQIEISA-N	37	7.5		recombinant enzyme, pH 7.5, 37C, in presence of 1 mM Ca2+
+13.3	Glu-4-methylcoumaryl-7-amide	1851	USALUSONPMPEKY-NSHDSACASA-N	37	7.5		recombinant enzyme, pH 7.5, 37C, in absence of Ca2+
+14	alpha-L-Asp-2-naphthylamide	7739	LMENXDIQSZMBBL-LBPRGKRZSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme wild-type enzyme N353A
+14.1	Gln-4-methylcoumaryl-7-amide	3709	VEPDWBJBPXVCEN-NSHDSACASA-N	37	7.5		recombinant enzyme, pH 7.5, 37C, in presence of 1 mM Ca2+
+19	alpha-L-Glu-beta-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme E215D
+20	angiotensin II	537	CZGUSIXMZVURDU-JZXHSEFVSA-N	37	7.4		pH 7.4, 37C, wild-type enzyme
+25	alpha-L-Asp-2-naphthylamide	7739	LMENXDIQSZMBBL-LBPRGKRZSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme wild-type enzyme N353Q
+33.3	Glu-4-methylcoumaryl-7-amide	1851	USALUSONPMPEKY-NSHDSACASA-N	37	7.5		recombinant enzyme, pH 7.5, 37C, in presence of 1 mM Ca2+
+40	L-Glu-2-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N		7.4	X	recombinant mutant enzyme T348D, in 50 mM Tris-HCl buffer, pH 7.4, in the presence of 4 mM Ca2+
+48	alpha-L-Glu-beta-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme E215A
+92	L-Glu-2-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N		7.4	X	recombinant mutant enzyme T348D, in 50 mM Tris-HCl buffer, pH 7.4, in the absence of Ca2+
+93	alpha-L-Glu-beta-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N	37	7.4		pH 7.4, 37C, wild-type enzyme, without Ca2+
+102	alpha-L-Asp-2-naphthylamide	7739	LMENXDIQSZMBBL-LBPRGKRZSA-N	37	7.4		pH 7.4, 37C, wild-type enzyme
+149	alpha-L-Glu-beta-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N	37	7.4		pH 7.4, 37C, wild-type enzyme, in presence of 0.025 mM Ca2+
+166	alpha-L-Glu-beta-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N	37	7.4		pH 7.4, 37C, wild-type enzyme, in presence of 4 mM Ca2+
+167	L-Glu-2-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N		7.4	X	recombinant mutant enzyme T348Y, in 50 mM Tris-HCl buffer, pH 7.4, in the presence of 4 mM Ca2+
+184	alpha-L-Glu-2-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme wild-type enzyme N353Q
+227	alpha-L-Glu-2-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme wild-type enzyme N353A
+256	L-Glu-2-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N		7.4		recombinant wild type enzyme, in 50 mM Tris-HCl buffer, pH 7.4, in the presence of 4 mM Ca2+
+270	alpha-L-Glu-beta-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N	37	7.4		pH 7.4, 37C, wild-type enzyme
+292	L-Glu-2-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N		7.4		recombinant wild type enzyme, in 50 mM Tris-HCl buffer, pH 7.4, in the absence of Ca2+
+295	L-Glu-p-nitroanilide	109172	JXQXNQKTUGNZLD-VIFPVBQESA-N	37	7.4		wild type enzyme, in absence of Ca2+, in 50 mM Tris/HCl buffer (pH 7.4), at 37C
+404	alpha-L-Glu-2-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N	37	7.4		pH 7.4, 37C, wild-type enzyme
+575	L-Glu-2-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N		7.4	X	recombinant mutant enzyme T348S, in 50 mM Tris-HCl buffer, pH 7.4, in the presence of 4 mM Ca2+
+640	L-Glu-2-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N		7.4	X	recombinant mutant enzyme T348S, in 50 mM Tris-HCl buffer, pH 7.4, in the absence of Ca2+
+720	L-Glu-p-nitroanilide	109172	JXQXNQKTUGNZLD-VIFPVBQESA-N	37	7.4		wild type enzyme, in absence of Ca2+, in 50 mM Tris/HCl buffer (pH 7.4), at 37C
+1800	alpha-L-Glu-beta-naphthylamide	2522	KRHKZHQADOKBFO-ZDUSSCGKSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme E215Q

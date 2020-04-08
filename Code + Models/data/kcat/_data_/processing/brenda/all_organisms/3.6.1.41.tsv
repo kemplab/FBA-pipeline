@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+250	P1,P4-bis(5'-adenosyl) tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N				
+0.055	P1,P4-bis(adenosyl)tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N	50	8.0		pH 8.0, 50C, presence of 1 mM Mn2+
+7.12	P1,P4-bis(adenosyl)tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N	50	8.0		pH 8.0, 50C, presence of 1 mM Co2+
+0.035	P1,P5-bis(adenosyl)pentaphosphate	1594	OIMACDRJUANHTJ-XPWFQUROSA-N	50	8.0		pH 8.0, 50C, presence of 1 mM Mn2+
+24	P1,P5-bis(adenosyl)pentaphosphate	1594	OIMACDRJUANHTJ-XPWFQUROSA-N	50	8.0		pH 8.0, 50C, presence of 1 mM Co2+

@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3.5	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0		using acryloyl-CoA as cosubstrate, in 50 mM Tris/HCl, pH 7.0, at 25C
+4.5	acryloyl-CoA	1616	POODSGUMUCVRTR-IEXPHMLFSA-N	25	7.0		in 50 mM Tris/HCl, pH 7.0, at 25C
+13	acryloyl-CoA	1616	POODSGUMUCVRTR-IEXPHMLFSA-N	22	7.5		apparent value, recombinant enzyme, at pH 7.5 and 22C
+13	acryloyl-CoA	1616	POODSGUMUCVRTR-IEXPHMLFSA-N	22	7.5		apparent value, recombinant enzyme, at pH 7.5 and 22C
+29	3-buten-2-one	2082	FUSUHKVFWTUUBE-UHFFFAOYSA-N	25	7.0		in 50 mM Tris/HCl, pH 7.0, at 25C

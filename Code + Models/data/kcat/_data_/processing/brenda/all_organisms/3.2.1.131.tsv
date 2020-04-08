@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+54.9	aldotetraouronic acid	3670	VFGVDXAJNNRINB-YQRZCQHFSA-N	55	5		55C, pH 5,5
+103	aldotetraouronic acid	3670	VFGVDXAJNNRINB-YQRZCQHFSA-N	37	6.5		37C, pH 6.5
+132	aldopentaouronic acid	5686	GSDONNJGVQPCJO-CLRLOGFJSA-N	37	6.5		37C, pH 6.5
+69.2	aldobiouronic acid	7552	XZGRJCXNJVJWKJ-PBWNGFRESA-N	37	6.5		37C, pH 6.5
+96	aldotriouronic acid	7553	DWUMRQPTCMDVJD-YSZCXDGRSA-N	37	6.5		37C, pH 6.5
+1082	aldouronic acid	128247	QCHFHXZDZVJVJC-KKQPKECTSA-N	40	6.0		pH 6.0, 40C
+53.9	Xyl-beta-(1-&gt;4)-[4-O-Me-GlcA-alpha-(1-&gt;2)]-Xyl-beta(1-&gt;4)-Xyl	128699	IBPXPPHZZQVGHN-NREUCUKASA-N	37	6.5		in 50 mM sodium phosphate, 12 mM citrate buffer, pH 6.5, at 37C
+18.4	4-O-Me-GlcA-alpha-(1-&gt;2)-Xyl-beta(1-&gt;4)-Xyl	128700	XZGRJCXNJVJWKJ-QPLJXEPGSA-N	37	6.5		in 50 mM sodium phosphate, 12 mM citrate buffer, pH 6.5, at 37C
+117	4-O-methyl-beta-D-glucopyranuetaronosyl-(1-&gt;2)-b-D-xylopyranosyl-(1-&gt;4)-beta-D-xylopyranosyl-(1-&gt;4)-beta-D-xylopyranose	7553	DWUMRQPTCMDVJD-YSZCXDGRSA-N	80	6.5		pH 6.5, 80C

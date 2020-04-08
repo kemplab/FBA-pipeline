@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.227	epsilon-thiocaprolactone	30180	UCUOVADUXMCWOM-UHFFFAOYSA-N				substrate inactivates enzyme after a few turnovers
+0.24	delta-thiovalerolactone	13636	CFFCKUISNHPWOW-UHFFFAOYSA-N				substrate inactivates enzyme after a few turnovers
+0.68	Cyclooctanone	4404	IIRFCWANHMSDCG-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+0.683	cis-hex-2-enyl phenyl selenide	21784	FSWQSCFPCGIJED-YWEYNIOJSA-N				
+0.683	gamma-thiobutyrolactone	8527	KMSNYNIWEORQDJ-UHFFFAOYSA-N				substrate inactivates enzyme after a few turnovers
+0.73	2-phenylcyclohexanone	3300	DRLVMOAWNVOSPE-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+0.917	trans-hex-2-enyl phenyl selenide	21858	FSWQSCFPCGIJED-XBXARRHUSA-N				
+2.38	ethylene monothiocarbonate	13364	DAJDXKBYZZGECL-UHFFFAOYSA-N				substrate inactivates enzyme after a few turnovers
+4.3	Cycloheptanone	4057	CGZZMOTZOONQIA-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+4.5	2-hydroxycyclobutanone	118843	IGFPZGGCJLBVEJ-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+5.9	Cyclopentanone	1815	BGTOWKSIORTVQH-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+6.8	Cyclobutanone	5439	SHQSVMDWKBRBGB-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+8.4	2-methylcyclohexyl boronic acid	21726	WQTAEOBPGAYKPO-UHFFFAOYSA-N				
+9.75	phenyl propargyl selenide	21840	FBSPQJOJISOOHO-UHFFFAOYSA-N				
+9.8	cyclohexanone	987	JHIVVAPYMSGYDF-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+30.3	cyclohexanone	987	JHIVVAPYMSGYDF-UHFFFAOYSA-N				

@@ -1,0 +1,41 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0004	trans-3-chloroacrylate	82593	MHMUCYJKZUZMNJ-OWOJBTEDSA-N	22	8.0		wild type enzyme CCH2, in in 50 mM Tris-SO4 buffer (pH 8.0), at 22C
+0.03	keto-(p-hydroxyphenyl)pyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	25	6.0	X	25C, pH 6.0, mutant enzyme P1(A)M2
+0.052	(4-hydroxyphenyl)pyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N				enol-form, kidney
+0.2	(4-hydroxyphenyl)enolpyruvate	63441	GQYBCIHRWMPOOF-YVMONPNESA-N	22	7.3		wild type enzyme CCH2-P1A, in 10 mM Na2HPO4 buffer, pH 7.3, at 22C
+0.2	phenylenolpyruvate	109181	DEDGUGJNLNLJSR-SOFGYWHQSA-N	22	7.3		wild type enzyme cis-CAAD, in 10 mM Na2HPO4 buffer, pH 7.3, at 22C
+0.45	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N				keto-form, kidney
+0.6	enol-phenylpyruvate	1782	DEDGUGJNLNLJSR-UHFFFAOYSA-N	23		X	23C, mutant enzyme P1G
+0.8	enol-(p-hydroxyphenyl)pyruvate	2638	GQYBCIHRWMPOOF-VMPITWQZSA-N	23		X	23C, mutant enzyme P1G
+0.8	phenylenolpyruvate	109181	DEDGUGJNLNLJSR-SOFGYWHQSA-N	22	7.3	X	mutant enzyme CCH2-P1A, in 10 mM Na2HPO4 buffer, pH 7.3, at 22C
+0.93	keto-(p-hydroxyphenyl)pyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	25	6.0	X	25C, pH 6.0, mutant enzyme P1G
+1.4	enol-phenylpyruvate	1782	DEDGUGJNLNLJSR-UHFFFAOYSA-N		9.0		wild-type, pH 9.0
+1.7	enol-phenylpyruvate	1782	DEDGUGJNLNLJSR-UHFFFAOYSA-N	23		X	23C, mutant enzyme P1A
+1.89	(4-hydroxyphenyl)pyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N				keto-form, kidney
+2.7	keto-(p-hydroxyphenyl)pyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	25	6.0		25C, pH 6.0, wild-type enzyme
+3.2	(4-hydroxyphenyl)enolpyruvate	63441	GQYBCIHRWMPOOF-YVMONPNESA-N	22	7.3		wild type enzyme CCH2, in 10 mM Na2HPO4 buffer, pH 7.3, at 22C
+4.1	enol-phenylpyruvate	1782	DEDGUGJNLNLJSR-UHFFFAOYSA-N		9.0	X	mutant E52Q, pH 9.0
+4.1	enol-(p-hydroxyphenyl)pyruvate	2638	GQYBCIHRWMPOOF-VMPITWQZSA-N	23	6.5	X	23C, pH 6.5, mutant enzyme P1A
+4.6	cis-3-chloroacrylate	113853	MHMUCYJKZUZMNJ-UPHRSURJSA-N	22	7.3		wild type enzyme cis-CAAD, in 10 mM Na2HPO4 buffer, pH 7.3, at 22C
+6.08	keto-(p-hydroxyphenyl)pyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	25	6.0	X	25C, pH 6.0, mutant enzyme P1G
+15	enol-(p-hydroxyphenyl)pyruvate	2638	GQYBCIHRWMPOOF-VMPITWQZSA-N	23	6.5	X	23C, pH 6.5, mutant enzyme K32A
+30	enol-phenylpyruvate	1782	DEDGUGJNLNLJSR-UHFFFAOYSA-N	23	6.5	X	23C, pH 6.5, mutant enzyme K32A
+33	enol-phenylpyruvate	1782	DEDGUGJNLNLJSR-UHFFFAOYSA-N		9.0		pH 9.0
+34	phenylenolpyruvate	109181	DEDGUGJNLNLJSR-SOFGYWHQSA-N	22	7.3		wild type enzyme CCH2, in 10 mM Na2HPO4 buffer, pH 7.3, at 22C
+38	enol-phenylpyruvate	1782	DEDGUGJNLNLJSR-UHFFFAOYSA-N		6.8		pH 6.8
+58	enol-(p-hydroxyphenyl)pyruvate	2638	GQYBCIHRWMPOOF-VMPITWQZSA-N	23	6.5	X	23C, pH 6.5, mutant enzyme N97A
+60	4-(hydroxyphenyl)pyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N		6.8	X	mutant E16A, pH 6.8
+109	enol-phenylpyruvate	1782	DEDGUGJNLNLJSR-UHFFFAOYSA-N	23		X	23C, mutant enzyme Y95F
+120	keto-(p-hydroxyphenyl)pyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	23	6.5		23C, pH 6.5
+126	enol-(p-hydroxyphenyl)pyruvate	2638	GQYBCIHRWMPOOF-VMPITWQZSA-N	23	6.5	X	23C, pH 6.5, mutant enzyme Y95F
+140	enol-(p-hydroxyphenyl)pyruvate	2638	GQYBCIHRWMPOOF-VMPITWQZSA-N	23	6.5		23C, pH 6.5, wild-type enzyme
+150	enol-phenylpyruvate	1782	DEDGUGJNLNLJSR-UHFFFAOYSA-N	23	6.5	X	23C, pH 6.5, mutant enzyme K32R
+160	enol-(p-hydroxyphenyl)pyruvate	2638	GQYBCIHRWMPOOF-VMPITWQZSA-N	23	6.5	X	23C, pH 6.5, mutant enzyme K32R
+160	enol-(p-hydroxyphenyl)pyruvate	2638	GQYBCIHRWMPOOF-VMPITWQZSA-N	23	6.5		23C, pH 6.5
+160	enol-(p-hydroxyphenyl)pyruvate	2638	GQYBCIHRWMPOOF-VMPITWQZSA-N	23	6.5		23C, pH 6.5, wild-type enzyme
+200	enol-phenylpyruvate	1782	DEDGUGJNLNLJSR-UHFFFAOYSA-N		6.8	X	mutant E16A, pH 6.8
+285	keto-phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	23	6.5		23C, pH 6.5
+290	enol-phenylpyruvate	1782	DEDGUGJNLNLJSR-UHFFFAOYSA-N	23	6.5		23C, pH 6.5
+320	enol-phenylpyruvate	1782	DEDGUGJNLNLJSR-UHFFFAOYSA-N	23	6.5		23C, pH 6.5, wild-type enzyme
+410	enol-phenylpyruvate	1782	DEDGUGJNLNLJSR-UHFFFAOYSA-N	23			23C, wild-type enzyme
+660	enol-phenylpyruvate	1782	DEDGUGJNLNLJSR-UHFFFAOYSA-N	23		X	23C, mutant enzyme N97A

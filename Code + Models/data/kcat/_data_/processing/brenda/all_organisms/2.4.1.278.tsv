@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.017	3-alpha-mycarosylerythronolide B	13007	WWWXDCNRNMZGEN-UPOWUTDQSA-N				pH and temperature not specified in the publication, 0.05 mM TDP-3-dimethylamino-4,6-dideoxy-alpha-D-glucopyranose
+1.7	3-alpha-mycarosylerythronolide B	13007	WWWXDCNRNMZGEN-UPOWUTDQSA-N	25	8.0		pH 8.0, 25C, in the presence og 0.001 mM EryC and 1 mM of each substrate, more than 300 turnovers are observed in 2.5 min, indicating that the kcat must be greater than 100/min. This is one of the highest turnover numbers reported for an antibiotic glycosyl transferase
+1.7	dTDP-3-dimethylamino-4,6-dideoxy-alpha-D-glucopyranose	19418	FFPCARSBUVGIOB-BKRCCOPCSA-N	25	8.0		pH 8.0, 25C, in the presence og 0.001 mM EryC and 1 mM of each substrate, more than 300 turnovers are observed in 2.5 min, indicating that the kcat must be greater than 100/min. This is one of the highest turnover numbers reported for an antibiotic glycosyl transferase

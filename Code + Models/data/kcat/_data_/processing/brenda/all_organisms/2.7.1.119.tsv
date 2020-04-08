@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	45	7.5		pH 7.5, 45C, recombinant wild-type enzyme YG
+5.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	45	7.5	X	pH 7.5, 45C, recombinant mutant enzyme HYG10
+6.4	hygromycin B	3156	GRRNUXAQVGOGFE-UKKLBUEASA-N	45	7.5		pH 7.5, 45C, recombinant wild-type enzyme YG
+8	hygromycin B	3156	GRRNUXAQVGOGFE-UKKLBUEASA-N	45	7.5	X	pH 7.5, 45C, recombinant mutant enzyme HYG10

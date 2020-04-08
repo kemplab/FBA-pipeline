@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0013	galactarate	2408	DSLZVSRJTYRBFB-DUHBMQHGSA-N		8.0	X	pH 8.0, temperature not specified in the publication, mutant enzyme H45Q
+0.0061	galactarate	2408	DSLZVSRJTYRBFB-DUHBMQHGSA-N		8.0	X	pH 8.0, temperature not specified in the publication, mutant enzyme Y90F
+6.8	galactarate	2408	DSLZVSRJTYRBFB-DUHBMQHGSA-N		8.0		pH 8.0, temperature not specified in the publication, wild-type enzyme

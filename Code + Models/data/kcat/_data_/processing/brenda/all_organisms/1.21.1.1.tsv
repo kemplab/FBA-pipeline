@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.07	3-iodo-L-tyrosine	1713	UQTZMGFTRHFAAM-ZETCQYMHSA-N				pH not specified in the publication, temperature not specified in the publication
+0.09	3-iodo-L-tyrosine	1713	UQTZMGFTRHFAAM-ZETCQYMHSA-N				pH not specified in the publication, temperature not specified in the publication
+0.11	3,5-diiodo-L-tyrosine	2553	NYPYHUZRZVSYKL-ZETCQYMHSA-N	25	7.4		cosubstrate dithionite, pH 7.4, 25C
+0.12	3,5-diiodo-L-tyrosine	2553	NYPYHUZRZVSYKL-ZETCQYMHSA-N				enzyme expressed in Pichia pastoris, pH not specified in the publication, temperature not specified in the publication
+0.12	3-iodo-L-tyrosine	1713	UQTZMGFTRHFAAM-ZETCQYMHSA-N				pH not specified in the publication, temperature not specified in the publication
+0.16	3,5-diiodo-L-tyrosine	2553	NYPYHUZRZVSYKL-ZETCQYMHSA-N				enzyme expressed in Escherichia coli and lacking the transmembrane domain, pH not specified in the publication, temperature not specified in the publication
+0.208	3-iodo-L-tyrosine	1713	UQTZMGFTRHFAAM-ZETCQYMHSA-N		7.6		pH 7.6, temperature not specified in the publication, recombinant enzyme
+0.23	3-iodo-L-tyrosine	1713	UQTZMGFTRHFAAM-ZETCQYMHSA-N				pH not specified in the publication, temperature not specified in the publication
+0.29	3-iodo-L-tyrosine	1713	UQTZMGFTRHFAAM-ZETCQYMHSA-N				pH not specified in the publication, temperature not specified in the publication
+1.08	3,5-diiodo-L-tyrosine	2553	NYPYHUZRZVSYKL-ZETCQYMHSA-N			X	mutant Y157F, expressed in Escherichia coli and lacking the transmembrane domain, pH not specified in the publication, temperature not specified in the publication
+10	3,5-diiodo-L-tyrosine	2553	NYPYHUZRZVSYKL-ZETCQYMHSA-N	38	7.4		pH 7.4, 38C
+18	3-iodo-L-tyrosine	1713	UQTZMGFTRHFAAM-ZETCQYMHSA-N	38	7.4		pH 7.4, 38C

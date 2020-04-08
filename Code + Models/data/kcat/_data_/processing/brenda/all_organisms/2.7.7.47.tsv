@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.41	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	23	7.5	X	C-terminal deletion mutant, pH 7.5, 23C
+0.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				turnover number of ANT(3'')-Ii domain
+0.61	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	23	7.5		wild-type, pH 7.5, 23C
+0.47	streptomycin	1731	UCSJYZPVAKXKNQ-HZYVHMACSA-N	23	7.5	X	C-terminal deletion mutant, pH 7.5, 23C
+0.6	streptomycin	1731	UCSJYZPVAKXKNQ-HZYVHMACSA-N				turnover number of ANT(3'')-Ii domain
+0.66	streptomycin	1731	UCSJYZPVAKXKNQ-HZYVHMACSA-N	23	7.5		wild-type, pH 7.5, 23C
+0.26	spectinomycin	10682	DCHJOVNPPSBWHK-UXXUFHFZSA-N	23	7.5	X	C-terminal deletion mutant, pH 7.5, 23C
+0.5	spectinomycin	10682	DCHJOVNPPSBWHK-UXXUFHFZSA-N				turnover number of ANT(3'')-Ii domain
+0.63	spectinomycin	10682	DCHJOVNPPSBWHK-UXXUFHFZSA-N	23	7.5		wild-type, pH 7.5, 23C

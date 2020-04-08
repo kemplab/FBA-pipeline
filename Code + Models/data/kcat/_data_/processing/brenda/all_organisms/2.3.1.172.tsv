@@ -1,0 +1,19 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00012	cyanidin 3-O-[[2-O-(2-O-sinapoyl)-beta-D-xylosyl]-6-O-(6-O-(4-coumaroyl)-beta-D-glucoside)] 5-O-beta-D-glucoside	28448	ABJDYMVXHLYTHZ-JKXZSVHKSA-O	25	7.1		pH 7.1, 25C
+0.001	shisonin	2090	YPXWWSJGANMFFQ-AQAMAIGXSA-O	30	7	X	below, pH 7, 30C, malonyl-CoA as cosubstrate, D390A mutant Ss5MaT1
+0.0013	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	25	7.1		cyanidin 3-O-[[2-O-(2-O-sinapoyl)-beta-D-xylosyl]-6-O-(6-O-(4-coumaroyl)-beta-D-glucoside)] 5-O-beta-D-glucoside as co-substrate, pH 7.1, 25C
+0.002	shisonin	2090	YPXWWSJGANMFFQ-AQAMAIGXSA-O	30	7	X	pH 7, 30C, malonyl-CoA as cosubstrate, H167A mutant Ss5MaT1
+0.02	cyanin	6017	RDFLLVCQYHQOBU-ZOTFFYTFSA-O	25	7.1		pH 7.1, 25C
+0.072	shisonin	2090	YPXWWSJGANMFFQ-AQAMAIGXSA-O	30	7	X	pH 7, 30C, malonyl-CoA as cosubstrate, D171A mutant Ss5MaT1
+0.1	shisonin	2090	YPXWWSJGANMFFQ-AQAMAIGXSA-O	30	7	X	pH 7, 30C, malonyl-CoA as cosubstrate, N315A mutant Ss5MaT1
+0.12	cyanidin 3-O-[[2-O-beta-D-xylosyl]-6-O-(6-O-(4-coumaroyl)-beta-D-glucoside)] 5-O-beta-D-glucoside	28447	JSYDBTWJIIAZPU-NEVABJEQSA-O	25	7.1		pH 7.1, 25C
+0.2	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	25	7.1		cyanidin 3-O-[[2-O-beta-D-xylosyl]-6-O-(6-O-(4-coumaroyl)-beta-D-glucoside)] 5-O-beta-D-glucoside as co-substrate, pH 7.1, 25C
+1	shisonin	2090	YPXWWSJGANMFFQ-AQAMAIGXSA-O	30	7	X	pH 7, 30C, malonyl-CoA as cosubstrate, Y45A mutant Ss5MaT1
+1.4	shisonin	2090	YPXWWSJGANMFFQ-AQAMAIGXSA-O	30	7	X	pH 7, 30C, malonyl-CoA as cosubstrate, R301A mutant Ss5MaT1
+1.79	malvin	12360	CILLXFBAACIQNS-BTXJZROQSA-O	25	7.1		pH 7.1, 25C
+4.3	shisonin	2090	YPXWWSJGANMFFQ-AQAMAIGXSA-O	30	7		pH 7, 30C, malonyl-CoA as cosubstrate, native Ss5MaT1
+5.3	shisonin	2090	YPXWWSJGANMFFQ-AQAMAIGXSA-O	30	7	X	pH 7, 30C, malonyl-CoA as cosubstrate, K258A mutant Ss5MaT1
+5.8	shisonin	2090	YPXWWSJGANMFFQ-AQAMAIGXSA-O	30	7	X	pH 7, 30C, malonyl-CoA as cosubstrate, Q150A mutant Ss5MaT1
+7.8	pelargonidin 3-O-(6-caffeoyl-beta-D-glucoside) 5-O-beta-D-glucoside	15122	MLLMLJXCGLXOIJ-AQAMAIGXSA-O	30	7		pH 7, 30C, malonyl-CoA as cosubstrate
+8.7	shisonin	2090	YPXWWSJGANMFFQ-AQAMAIGXSA-O	30	7		pH 7, 30C, malonyl-CoA as cosubstrate, wild-type Ss5MaT1
+8.7	shisonin	2090	YPXWWSJGANMFFQ-AQAMAIGXSA-O	30	7		pH 7, 30C, malonyl-CoA as cosubstrate, recombinant Ss5MaT1

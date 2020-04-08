@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1990	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	mutant Q240R, isoform 1, 27C, pH 7.4
+2064	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	mutant R240Q, isoform 2, 27C, pH 7.4
+2088	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	mutant Q105M, isoform 1, 27C, pH 7.4
+3012	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4		wild-type, isoform 1, 27C, pH 7.4
+4002	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	mutant Q105M, isoform 2, 27C, pH 7.4
+4890	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4		wild-type, isoform 2, 27C, pH 7.4
+0.295	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	27	7.4	X	27C, pH 7.4, mutant enzyme D265N
+0.48	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	27	7.4	X	27C, pH 7.4, mutant enzyme D241N
+0.557	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	27	7.4		27C, pH 7.4, wild-type enzyme
+0.83	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	27	7.4		wild-type, 27C, pH 7.4
+1.46	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	27	7.4	X	mutant M187T, 27C, pH 7.4
+1.56	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	27	7.4	X	mutant S124T, 27C, pH 7.4
+6.08	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	27	7.4		27C, pH 7.4, wild-type enzyme
+13.6	5-androstene-3,17-dione	485	SQGZFRITSMYKRH-QAGGRKNESA-N	27	7.4		27C, pH 7.4

@@ -1,0 +1,26 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.53	GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAc	2524	WZZVUHWLNMNWLW-VFCSDQTKSA-N	37	7.0		pH 7.0, 37C, fluorogenic labeling method assay
+5.4	GlcNAc-beta-(1-4)-GlcNAc-beta-(1-4)-GlcNAc-beta-(1-4)-GlcNAc-beta-(1-4)-GlcNAc-beta-(1-4)-GlcNAc	4278	GVTXKCFKWGVHBK-SDEUBOORSA-N	30	8.5		pH 8.5, 30C
+5.94	(N-acetyl-D-glucosamine)3	2886	WZZVUHWLNMNWLW-BMJOWYSKSA-N				
+6	GlcNAc-beta-(1-4)-GlcNAc-beta-(1-4)-GlcNAc	2524	WZZVUHWLNMNWLW-VFCSDQTKSA-N	30	8.5		pH 8.5, 30C
+6	GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAc	2524	WZZVUHWLNMNWLW-VFCSDQTKSA-N	30	8.5		pH 8.5, 30C, continuous spectrophotometric assay
+7	GlcNAc-beta-(1-4)-GlcNAc-beta-(1-4)-GlcNAc-beta-(1-4)-GlcNAc	3689	PFZKWTWCVGDJQC-AOMJWMKZSA-N	30	8.5		pH 8.5, 30C
+7	GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAc	3689	PFZKWTWCVGDJQC-AOMJWMKZSA-N	30	8.5		pH 8.5, 30C, continuous spectrophotometric assay
+7	GlcNAc-beta-(1-4)-GlcNAc-beta-(1-4)-GlcNAc-beta-(1-4)-GlcNAc-beta-(1-4)-GlcNAc	5923	BZBKTWJIYTYFBH-YSJWDAEMSA-N	30	8.5		pH 8.5, 30C
+8.52	(N-acetyl-D-glucosamine)2	3206	CDOJPCSDOXYJJF-VXAUGQRDSA-N				
+11	GlcNAc-beta-(1-4)-GlcNAc	7860	CDOJPCSDOXYJJF-CBTAGEKQSA-N	30	8.5		pH 8.5, 30C
+11	GlcNAcbeta(1-4)GlcNAc	7860	CDOJPCSDOXYJJF-CBTAGEKQSA-N	30	8.5		pH 8.5, 30C, continuous spectrophotometric assay
+21.5	(N-acetyl-D-glucosamine)5	2238	BZBKTWJIYTYFBH-SUOOZQQKSA-N				S12-CDAH
+22.7	GlcNGlcNAcGlcNAcGlcNAc	21333	PELBXIOURXZECK-QSUZXLAUSA-N				
+30.3	(N-acetyl-D-glucosamine)5	2238	BZBKTWJIYTYFBH-SUOOZQQKSA-N				S1-CDAH
+31	2-acetamido-2-deoxy-beta-D-glucopyranosyl-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranosyl-(1-4)-2-bromoacetamido-2-deoxy-beta-D-glucopyranosyl-(1-4)-2-acetamido-2-deoxy-D-glucose	24111	SDTBBOKSQPFFHY-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, continuous spectrophotometric assay
+47	2-acetamido-2-deoxy-beta-D-glucopyranosyl-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranosyl-(1-4)-2-chloroacetamido-2-deoxy-beta-D-glucopyranosyl-(1-4)-2-acetamido-2-deoxy-D-glucose	24112	YQJLIPPNUJVIMH-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, continuous spectrophotometric assay
+47.1	(N-acetyl-D-glucosamine)5	2238	BZBKTWJIYTYFBH-SUOOZQQKSA-N				original CDA
+51.6	(N-acetyl-D-glucosamine)5	2238	BZBKTWJIYTYFBH-SUOOZQQKSA-N				S1-CDA
+53.1	(N-acetyl-D-glucosamine)4	2746	PFZKWTWCVGDJQC-TYQJHKRBSA-N				
+53.1	(N-acetyl-D-glucosamine)5	2238	BZBKTWJIYTYFBH-SUOOZQQKSA-N				
+57.5	GlcNAcGlcNGlcNAcGlcNAc	21332	UMJSCTGTYZKZPE-QSUZXLAUSA-N				
+58.7	GlcNAcGlcNAcGlcNAcGlcN	21331	NSOSJCFPOSSWMB-QSUZXLAUSA-N				
+68	2-acetamido-2-deoxy-beta-D-glucopyranosyl-(1-4)-2-acetamido-2-deoxy-beta-D-glucopyranosyl-(1-4)-2-fluoroacetamido-2-deoxy-beta-D-glucopyranosyl-(1-4)-2-acetamido-2-deoxy-D-glucose	24123	KANURZFOEFGORT-UHFFFAOYSA-N	30	8.5		pH 8.5, 30C, continuous spectrophotometric assay
+83.8	(N-acetyl-D-glucosamine)5	2238	BZBKTWJIYTYFBH-SUOOZQQKSA-N				
+96.9	(N-acetyl-D-glucosamine)4	2746	PFZKWTWCVGDJQC-TYQJHKRBSA-N				

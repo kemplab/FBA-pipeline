@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.042	N-acetyllactosamine	846	KFEUJDWYNGMDBV-LODBTCKLSA-N	37	4.5	X	mutant enzyme N101Q, at pH 4.5 and 37C C
+0.12	N-acetyllactosamine	846	KFEUJDWYNGMDBV-LODBTCKLSA-N	37	4.5	X	mutant enzyme N62Q, at pH 4.5 and 37C C
+1.7	Fucalpha(1,2)Galbeta(1,4)GlcNAc	5680	PHTAQVMXYWFMHF-NULNOVRXSA-N				fucosyltransferase V
+3.6	Fucalpha(1,2)Galbeta(1,4)GlcNAc	5680	PHTAQVMXYWFMHF-NULNOVRXSA-N			X	fucosyltransferase V mutant enzyme A349D

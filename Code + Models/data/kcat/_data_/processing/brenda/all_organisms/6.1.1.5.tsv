@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.29	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	pH 7.5, 37C, mutant T243R/D342A, in presence of tRNA
+0.48	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	pH 7.5, 37C, mutant D342A, in presence of tRNA
+1.04	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	pH 7.5, 37C, mutant T234R, in presence of tRNA
+1.56	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		pH 7.5, 37C, wild-type IleRS, in presence of tRNA
+80.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type enzyme
+0.18	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N		7.5		pH 7.5, recombinant isozyme IleRS-R1
+0.35	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	22	7.9		tRNAIle aminoacylation reaction, pH 7.9, 22C
+2.64	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N		7.5		pH 7.5, recombinant isozyme IleRS-R2
+3	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N		7.5		pH 7.5, recombinant isozyme IleRS-R2
+3.3	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N		7.5		pH 7.5, native isozyme IleRS-R2
+4.63	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N		7.5		pH 7.5, native isozyme IleRS-R2
+18	L-isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	22	7.9		ATP-diphosphate exchange reaction, pH 7.9, 22C
+27.7	isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N				wild-type enzyme
+104	isoleucine	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N				wild-type enzyme
+3.1	tRNAIle	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				wild-type enzyme

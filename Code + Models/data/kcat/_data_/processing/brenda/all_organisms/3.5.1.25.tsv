@@ -1,0 +1,42 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.013	N-acetylglucosamine	257	OVRNDRQMDRJTHS-RTRLPJTCSA-N	10			at 10C
+0.02	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N			X	mutant D273A; mutant D273N
+0.074	N-acetylglucosamine 6-sulfate	3346	WJFVEEAIYIOATH-RTRLPJTCSA-N	30			at 30C
+0.12	N-acetylglucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N	10			at 10C
+0.34	N-acetylglucosamine 6-sulfate	3346	WJFVEEAIYIOATH-RTRLPJTCSA-N	30			at 30C
+0.43	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N			X	mutant H143N
+0.63	N-acetylglucosamine	257	OVRNDRQMDRJTHS-RTRLPJTCSA-N	30			at 30C
+0.68	N-acetylglucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N	30			at 30C
+0.7	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N			X	mutant E131Q
+0.97	N-acetylglucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N				
+0.97	N-acetylglucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N				
+1.9	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N			X	mutant E131A
+2.4	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N			X	mutant H143Q
+2.6	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N			X	mutant N61H
+6.8	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N			X	mutant H251N
+10	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N			X	mutant Q59A
+10	N-thioacetyl-D-glucosamine 6-phosphate	7969	JQHXYXGVBRYFPV-RTRLPJTCSA-N				
+11	N-thioacetyl-D-glucosamine 6-phosphate	7969	JQHXYXGVBRYFPV-RTRLPJTCSA-N				Zn in acitve site changed to Mn
+22	N-formyl-D-glucosamine 6-phosphate	24963	PVERJBHOQNJODB-YDEIVXIUSA-N				
+23	N-acetyl-D-glucosamine 6-sulfate	3346	WJFVEEAIYIOATH-RTRLPJTCSA-N				Zn in acitve site changed to Cd
+24	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N			X	mutant N61A
+25	N-acetylglucosamine	257	OVRNDRQMDRJTHS-RTRLPJTCSA-N				
+25	N-acetylglucosamine	257	OVRNDRQMDRJTHS-RTRLPJTCSA-N				
+32	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N			X	mutant Q59H
+35	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N				enzyme with 0.4 eqivalents of Zn per subunit bound
+41	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N				Zn in acitve site changed to Ni
+49	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N			X	mutant K139M
+50	N-acetylglucosamine 6-sulfate	3346	WJFVEEAIYIOATH-RTRLPJTCSA-N				
+50	N-acetylglucosamine 6-sulfate	3346	WJFVEEAIYIOATH-RTRLPJTCSA-N				
+58	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N				Zn in acitve site changed to Fe
+64	N-acetyl-D-glucosamine 6-sulfate	3346	WJFVEEAIYIOATH-RTRLPJTCSA-N				
+92	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N				Zn in acitve site changed to Mn
+96	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N				enzyme with 1 equivalent of Zn per subunit bound
+105	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N				
+110	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N				
+128	N-thioacetyl-D-glucosamine 6-phosphate	7969	JQHXYXGVBRYFPV-RTRLPJTCSA-N				Zn in acitve site changed to Cd
+154	N-Acetyl-D-galactosamine 6-phosphate	20841	BRGMHAYQAZFZDJ-KEWYIRBNSA-N				
+163	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N				Zn in acitve site changed to Cd
+167	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N			X	mutant Y223F
+177	N-acetyl-D-glucosamine 6-phosphate	830	BRGMHAYQAZFZDJ-RTRLPJTCSA-N				Zn in acitve site changed to Co
+2610	N-trifluoroacetyl-D-glucosamine 6-phosphate	24964	MZIHGZIYZLRPQL-IVMDWMLBSA-N				

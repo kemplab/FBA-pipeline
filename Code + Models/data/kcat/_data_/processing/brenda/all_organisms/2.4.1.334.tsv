@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.7	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	7.0		pH 7.0, 30C, reverse phosphorolysis reaction, donor beta-D-glucopyranose 1-phosphate
+3.5	kojibiose	1111	HIWPGCMGAMJNRG-CQUJWQHSSA-N	30	7.0		pH 7.0, 30C, reverse phosphorolysis reaction, donor beta-D-glucopyranose 1-phosphate
+5.1	beta-D-glucopyranose 1-phosphate	583	HXXFSFRBOHSIMQ-DVKNGEFBSA-N	30	7.0		pH 7.0, 30C, reverse phosphorolysis reaction, acceptor 3-O-alpha-D-glucopyranosyl-D-glucopyranose, i.e. nigerose
+8.5	3-O-alpha-D-glucopyranosyl-3-O-alpha-D-glucopyranosyl-3-O-alpha-D-glucopyranosyl-D-glucopyranose	124567	OLBQXBHLZOAVSV-UGDSAXJASA-N	30	7.0		pH 7.0, 30C, phosphorolysis reaction, release of beta-D-glucopyranose 1-phosphate
+8.7	3-O-alpha-D-glucopyranosyl-D-glucopyranose	1176	QIGJYVCQYDKYDW-NSYYTRPSSA-N	30	7.0		pH 7.0, 30C, reverse phosphorolysis reaction, donor beta-D-glucopyranose 1-phosphate
+11	3-O-alpha-D-glucopyranosyl-3-O-alpha-D-glucopyranosyl-D-glucopyranose	69002	DBTMGCOVALSLOR-VXXRBQRTSA-N	30	7.0		pH 7.0, 30C, phosphorolysis reaction, release of beta-D-glucopyranose 1-phosphate
+17	3-O-alpha-D-glucopyranosyl-3-O-alpha-D-glucopyranosyl-D-glucopyranose	69002	DBTMGCOVALSLOR-VXXRBQRTSA-N	30	7.0		pH 7.0, 30C, reverse phosphorolysis reaction, donor beta-D-glucopyranose 1-phosphate

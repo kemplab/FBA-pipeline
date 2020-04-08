@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0006	cyclic 2',3'-AMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N		8.0		in 50 mM Tris-HCl, pH 8.0
+0.55	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		8.5		wild type enzyme, in Tris-HCl buffer (pH 8.5) in the presence of 0.5 mM MnCl2
+1.24	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N				+/- 0.07
+1.97	2',3'-cGMP	3516	UASRYODFRYWBRC-UUOKFMHZSA-N				+/- 0.08
+2.51	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N				+/- 0.05
+2.8	cyclic 2',3'-AMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N		8.5		wild type enzyme, in Tris-HCl buffer (pH 8.5) in the presence of 0.5 mM MnCl2
+2.95	cyclic 2',3'-AMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N		8.5		in Tris-HCl buffer (pH 8.5) in the presence of 0.5 mM MnCl2
+3	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		8.5		in Tris-HCl buffer (pH 8.5) in the presence of 0.5 mM MnCl2
+3.09	2'-AMP	621	QDFHPFSBQFLLSW-KQYNXXCUSA-N				+/- 0.14
+3.36	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N				+/- 0.17
+3.78	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				+/- 0.12
+4.83	CDP	188	ZWIADYZPOWUWEW-XVFCMESISA-N				+/- 0.39
+7.63	2',3'-cAMP	733	KMYWVDDIPVNLME-KQYNXXCUSA-N				+/- 0.48
+10.3	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N				+/- 0.28
+12.4	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N		8.5		wild type enzyme, in Tris-HCl buffer (pH 8.5) in the presence of 0.5 mM MnCl2
+14.9	NADP	6	XJLXINKUBYWONI-NNYOXOHSSA-O				+/- 0.5
+72	bis-p-nitrophenyl phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N		8.5		in Tris-HCl buffer (pH 8.5) in the presence of 0.5 mM MnCl2

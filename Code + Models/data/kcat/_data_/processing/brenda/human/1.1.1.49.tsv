@@ -1,0 +1,26 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+207	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.0	X	25C, pH 8.0, mutant enzyme G163S
+247	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	37	8.0		at pH 8.0 and 37C
+249	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.0	X	25C, pH 8.0, mutant enzyme G163D
+251	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.0		25C, pH 8.0, wild-type enzyme
+20	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant R454C, with deamino-NADP+
+28.6	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant R454C, with NADP+
+39.9	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant R454H, with NADP+
+87.7	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant R454C, with deamino-NADP+
+192	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant R393H
+207	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	8.0	X	25C, pH 8.0, mutant enzyme G163S
+212	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N			X	clinical mutant G488V
+232	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant R393G
+247	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	37	8.0		at pH 8.0 and 37C
+249	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	8.0	X	25C, pH 8.0, mutant enzyme G163D
+251	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	8.0		25C, pH 8.0, wild-type enzyme
+254	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N			X	clinical mutant G488S
+275	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	8.0		pH 8.0, 25C, recombinant wild-type enzyme
+275	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	25	8.0		pH 8.0, 25C, recombinant wild-type enzyme, with NADP+
+275	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N				native G6PD
+279	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N				refolded G6PD
+571	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N				
+22.4	2-deoxy-D-glucose 6-phosphate	1578	UQJFZAAGZAYVKZ-CERMHHMHSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant R454C, with NADP+
+157	D-galactose 6-phosphate	1862	NBSCHQHZLSJFNQ-SVZMEOIVSA-N				
+98	deamino-NADP+	5605	WKSUSMNNBQFESD-NNYOXOHSSA-N				
+43	2-deoxyglucose 6-phosphate	1578	UQJFZAAGZAYVKZ-CERMHHMHSA-N				

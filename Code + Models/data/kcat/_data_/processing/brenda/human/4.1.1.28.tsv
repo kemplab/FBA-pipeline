@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.07	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N	25	7.5		wild type enzyme, in 50 mM HEPES, pH 7.5, at 25C
+0.11	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N	25	7.5	X	aldehyde formation, mutant enzyme K303A, in 50 mM HEPES, pH 7.5, at 25C
+0.188	L-Dopa	275	WTDRDQBEARUVNC-LURJTMIESA-N	25	7.5	X	dopamine formation, mutant enzyme K303A, in 50 mM HEPES, pH 7.5, at 25C
+0.7	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N	25	7.5	X	mutant enzyme K303A, in 50 mM HEPES, pH 7.5, at 25C
+2.48	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 50 mM HEPES, pH 7.5, at 25C

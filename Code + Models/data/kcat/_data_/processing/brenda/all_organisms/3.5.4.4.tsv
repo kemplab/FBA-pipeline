@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.005	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N				
+1.8	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N		8.0		wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+1.9	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N		8.0		wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+4.7	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N		8.0		wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+5.3	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N		8.0		wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+5.6	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N		8.0		wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+6.8	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N		8.0		wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+11.5	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	37			37C, pH not specified in the publication
+12.9	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N		8.0	X	mutant enzyme D172E, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+14	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N		8.0	X	mutant enzyme D172A, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+18.5	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	25	7.5		pH 7.5, 25C
+110	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N			X	pH and temperature not specified in the publication, mutant enzyme E150R; pH and temperature not specified in the publication, wild-type enzyme
+140	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N			X	pH and temperature not specified in the publication, mutant enzyme Y136R
+180	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	25	7.4		25C, 50 mM Tris-HCl buffer, pH 7.4, enzyme concentration 1.5 nM
+0.13	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N		8.0		wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+0.31	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N		8.0		wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+0.35	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N		8.0		wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+0.51	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N		8.0		wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication
+5.8	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N		8.0		wild type enzyme, in 100 mM Tris-HCl buffer (pH 8.0), temperature not specified in the publication

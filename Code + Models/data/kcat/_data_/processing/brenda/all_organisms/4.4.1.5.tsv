@@ -1,0 +1,45 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.53	Phenylglyoxal	258	OJUGVDODNPJEEC-UHFFFAOYSA-N				
+1.5	glutathione-methylglyoxal hemithioacetal	2635	NITDPUFIYQDBCA-UDUUBDRPSA-N				in the presence of Fe2+
+8	glutathione-methylglyoxal hemithioacetal	2635	NITDPUFIYQDBCA-UDUUBDRPSA-N				in the presence of Mn2+
+11.4	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N				
+21.4	glutathione-methylglyoxal hemithioacetal	2635	NITDPUFIYQDBCA-UDUUBDRPSA-N				in the presence of Cd2+
+55.7	glutathione-methylglyoxal hemithioacetal	2635	NITDPUFIYQDBCA-UDUUBDRPSA-N				in the presence of Fe2+
+60.2	glutathione-methylglyoxal hemithioacetal	2635	NITDPUFIYQDBCA-UDUUBDRPSA-N				in the presence of Mn2+
+66.7	glutathione-methylglyoxal hemithioacetal	2635	NITDPUFIYQDBCA-UDUUBDRPSA-N				
+69	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N		7.0		presence of Co2+, pH 7.0
+70.96	(R)-S-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N		7.2		recombinant enzyme, pH 7.2, temperature not specified in the publication
+81.7	Phenylglyoxal	258	OJUGVDODNPJEEC-UHFFFAOYSA-N				
+83	N-[3-[(4-aminobutyl)amino]propyl]-L-gamma-glutamyl-L-cysteinylglycine	2409	NEDQLXHBVHSKNV-STQMWFEESA-N				
+86	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N		7.0		presence of Co2+, pH 7.0
+104	trypanothione	1290	PHDOXVGRXXAYEB-VJANTYMQSA-N				
+105	glutathionylspermidine	2409	NEDQLXHBVHSKNV-STQMWFEESA-N				with phenylglyoxal
+106	glutathione-methylglyoxal hemithioacetal	2635	NITDPUFIYQDBCA-UDUUBDRPSA-N				in the presence of Co+
+146	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N		7.0		presence of Co2+, pH 7.0
+161	glutathionylspermidine	2409	NEDQLXHBVHSKNV-STQMWFEESA-N				with methylglyoxal
+164	glutathione ethyl ester	4699	JKRODHBGNBKZLE-YUMQZZPRSA-N				
+204	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N		7.0		presence of Ni2+, pH 7.0
+222	glutathione isopropyl ester	6768	MVNCPACIPXNJIW-IUCAKERBSA-N				
+265	trypanothione	1290	PHDOXVGRXXAYEB-VJANTYMQSA-N				with phenylglyoxal
+271	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N		7.0		presence of Ni2+, pH 7.0
+306	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N		7.0		presence of Ni2+, pH 7.0
+338	glutathione-methylglyoxal hemithioacetal	2635	NITDPUFIYQDBCA-UDUUBDRPSA-N				in the presence of Ni2+
+363	trypanothione	1290	PHDOXVGRXXAYEB-VJANTYMQSA-N				with methylglyoxal
+617	Phenylglyoxal	258	OJUGVDODNPJEEC-UHFFFAOYSA-N				
+983	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N				
+1070	Phenylglyoxal	258	OJUGVDODNPJEEC-UHFFFAOYSA-N				
+1070	Phenylglyoxal	258	OJUGVDODNPJEEC-UHFFFAOYSA-N				
+1070	trypanothione	1290	PHDOXVGRXXAYEB-VJANTYMQSA-N				
+1088	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N	25	7.3		recombinant enzyme, pH 7.3, 25C
+1100	Phenylglyoxal	258	OJUGVDODNPJEEC-UHFFFAOYSA-N				
+1100	Phenylglyoxal	258	OJUGVDODNPJEEC-UHFFFAOYSA-N				
+1130	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N				
+1130	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N				
+1170	glutathione isopropyl ester	6768	MVNCPACIPXNJIW-IUCAKERBSA-N				
+1180	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N				
+1180	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N				
+1360	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N				
+1590	N-[3-[(4-aminobutyl)amino]propyl]-L-gamma-glutamyl-L-cysteinylglycine	2409	NEDQLXHBVHSKNV-STQMWFEESA-N				
+1700	glutathione-methylglyoxal hemithioacetal	2635	NITDPUFIYQDBCA-UDUUBDRPSA-N	30	7.0		30C, pH 7.0
+1820	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N				
+6700	Phenylglyoxal	258	OJUGVDODNPJEEC-UHFFFAOYSA-N				

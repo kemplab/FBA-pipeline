@@ -1,0 +1,152 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000633	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, D26R mutant with 0.5 mM MgCl2
+0.0000766	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, D26K mutant with 0.5 mM MgCl2
+0.00013	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, S83(Ala)5 mutant
+0.00014	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, R77A mutant
+0.00022	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, DELTAV82S83 mutant
+0.00028	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, DELTAS72 mutant
+0.000366	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, D26E mutant with 0.5 mM MgCl2
+0.00076	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, DELTAS83 mutant
+0.0009	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, S83(Ala)1 mutant
+0.00125	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	mutant enzyme N77A, pH 7.5, 37C
+0.00155	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	mutant enzyme N77Q, pH 7.5, 37C
+0.0025	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant H199A/E213A
+0.0026	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant H43A and mutant E213A
+0.00272	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	mutant enzyme N77D, pH 7.5, 37C
+0.0033	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant enzyme D26A, pH 7.5, 25C
+0.0033	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant D26A
+0.004	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	R80A mutant, pH 7.5, 37C
+0.013	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5		pH 7.5, 25C, without 0.1% Triton
+0.0167	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	D29A mutant, pH 7.5, 37C
+0.022	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, N74A mutant
+0.026	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant enzyme E213A, pH 7.5, 25C
+0.0542	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	R33A mutant, pH 7.5, 37C
+0.095	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	L85A mutant, 25C, pH 7.5
+0.11	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, S71A mutant
+0.151	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	mutant enzyme W78D, pH 7.5, 37C
+0.2	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N		7.5	X	mutant C234A, pH 7.5, temperature not specified in the publication
+0.2	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant C234A, co-substrate: isopentenyl diphosphate
+0.216	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	R42G mutant, pH 7.5, 37C
+0.22	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant enzyme D218A, pH 7.5, 25C
+0.22	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N		7.5		wild type, pH 7.5, temperature not specified in the publication
+0.22	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				wild-type, co-substrate: isopentenyl diphosphate
+0.23	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	L88A mutant, 25C, pH 7.5
+0.3	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, E73A mutant
+0.3	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant enzymes E73A, pH 7.5, 25C
+0.4	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, E81A mutant
+0.434	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	mutant enzyme N78R, pH 7.5, 37C
+0.456	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	mutant enzyme W78I, pH 7.5, 37C
+0.462	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	G32R mutant, pH 7.5, 37C
+0.505	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	E76Q mutant, pH 7.5, 37C
+0.61	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	F89A mutant, 25C, pH 7.5
+0.96	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	G32R/R42G mutant, pH 7.5, 37C
+1.09	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	E84Q mutant, pH 7.5, 37C
+1.1	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, W75A mutant
+1.1	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant enzyme W31F, pH 7.5, 25C; mutant enzyme W75F, pH 7.5, 25C
+1.1	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant enzyme D150A, pH 7.5, 25C
+1.22	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5		wild-type enzyme, pH 7.5, 37C
+1.23	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5		pH 7.5, 25C, wild type with 0.05 mM MgCl2
+1.5	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant enzyme W207F, pH 7.5, 25C
+1.66	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5		wild-type, pH 7.5, 37C
+1.7	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant enzyme W149F, pH 7.5, 25C
+1.92	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5		pH 7.5, 25C, wild type with 3 mM MgCl2
+1.98	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5		pH 7.5, 25C, wild type with 1 mM MgCl2
+2.2	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant H199A
+2.5	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5		pH 7.5, 25C, in the presence of 0.1% Triton
+2.5	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5		pH 7.5, 25C, wild type
+2.5	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant enzyme W91F, pH 7.5, 25C; wild-type enzyme, pH 7.5, 25C
+2.5	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5		wild type, pH 7.5, 25C
+2.5	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5		wild type, 25C, pH 7.5
+2.5	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5		pH 7.5, 25C, recombinant wild-type enzyme
+2.5	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5		pH 7.5, 25C, wild type
+2.5	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5		pH 7.5, 25C
+3.5	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	mutant enzyme W221F, pH 7.5, 25C
+0.0002	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N				
+0.002	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant W210A
+0.0025	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant H199A/E213A
+0.0026	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant H43A and mutant E213A
+0.0027	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.5	X	mutant enzyme N77Q, pH 7.5, 37C
+0.0033	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant D26A
+0.00473	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.5	X	mutant enzyme N77D, pH 7.5, 37C
+0.01	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant F207S
+0.0164	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.5	X	mutant enzyme N77A, pH 7.5, 37C
+0.071	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant Y148F
+0.11	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant Y71S
+0.115	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant Y148F
+0.2	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N			X	mutant C234A, co-substrate: farnesyl diphosphate
+0.22	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N				wild-type, co-substrate: farnesyl diphosphate
+0.397	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.5	X	mutant enzyme W78D, pH 7.5, 37C
+0.783	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.5	X	mutant enzyme W78I, pH 7.5, 37C
+0.803	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.5	X	mutant enzyme W78R, pH 7.5, 37C
+1.55	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, recombinant wild-type enzyme
+1.85	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.5		wild-type, pH 7.5, 37C
+2.2	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant H199A
+2.5	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant wild-type enzyme
+0.00006	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, mutant D26R
+0.00008	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, mutant D26K
+0.0004	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, mutant D26E
+0.00125	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	mutant enzyme N77A, pH 7.5, 37C
+0.00155	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	mutant enzyme N77Q, pH 7.5, 37C
+0.002	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant W210A
+0.0025	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant H199A/E213A
+0.0026	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant H43A and mutant E213A
+0.00272	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	mutant enzyme N77D, pH 7.5, 37C
+0.003	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant F207S
+0.0033	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant D26A
+0.0033	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, mutant D26A
+0.015	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant Y148F
+0.0167	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	mutant enzyme D29A, pH 7.5, 37C
+0.0542	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	mutant enzyme R33A, pH 7.5, 37C
+0.071	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant Y148F
+0.095	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, mutant L85A
+0.11	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant Y71S
+0.151	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	mutant enzyme W78D, pH 7.5, 37C
+0.2	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N		7.5	X	mutant C234A, pH 7.5
+0.216	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	mutant enzyme R42G, pH 7.5, 37C
+0.22	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N		7.5		wild-type, pH 7.5
+0.23	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, mutant L88A
+0.434	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	mutant enzyme N78R, pH 7.5, 37C
+0.456	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	mutant enzyme W78I, pH 7.5, 37C
+0.462	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	mutant enzyme G32R, pH 7.5, 37C
+0.505	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	mutant enzyme E76Q, pH 7.5, 37C
+0.61	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, mutant F89A
+0.96	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	mutant enzyme G32R/R42G, pH 7.5, 37C
+1.09	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5	X	mutant enzyme E84Q, pH 7.5, 37C
+1.22	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5		wild-type enzyme, pH 7.5, 37C
+1.22	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.5		pH 7.5, 30C, recombinant wild-type enzyme
+1.66	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.5		wild-type enzyme, pH 7.5, 37C
+2.2	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant H199A
+2.5	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+2.5	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5		pH 7.5, 25C, recombinant wild-type enzyme
+2.5	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+1.7	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	25	7.5		25C, pH 7.5
+0.18	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N	25	7.5	X	L85A mutant, 25C, pH 7.5; pH 7.5, 25C, mutant L85A
+0.32	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N	25	7.5	X	L88A mutant, 25C, pH 7.5; pH 7.5, 25C, mutant L88A
+0.7	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N	25	7.5	X	F89A mutant, 25C, pH 7.5; pH 7.5, 25C, mutant F89A
+2.1	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme; wild type, 25C, pH 7.5
+0.002	(2Z,6E,10E)-geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	mutant enzyme N77A, pH 7.5, 37C
+0.00231	(2Z,6E,10E)-geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	mutant enzyme N77Q, pH 7.5, 37C
+0.00415	(2Z,6E,10E)-geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	mutant enzyme N77D, pH 7.5, 37C
+0.00579	(2Z,6E,10E)-geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	R80A mutant, pH 7.5, 37C
+0.0258	(2Z,6E,10E)-geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	D29A mutant, pH 7.5, 37C
+0.0813	(2Z,6E,10E)-geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	R33A mutant, pH 7.5, 37C
+0.3	(2Z,6E,10E)-geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	mutant enzyme W78D, pH 7.5, 37C
+0.382	(2Z,6E,10E)-geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	R42G mutant, pH 7.5, 37C
+0.604	(2Z,6E,10E)-geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	E76Q mutant, pH 7.5, 37C
+0.608	(2Z,6E,10E)-geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	G32R mutant, pH 7.5, 37C
+0.899	(2Z,6E,10E)-geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	mutant enzyme W78R, pH 7.5, 37C
+1.07	(2Z,6E,10E)-geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	E84Q mutant, pH 7.5, 37C
+1.11	(2Z,6E,10E)-geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	G32R/R42G mutant, pH 7.5, 37C
+1.37	(2Z,6E,10E)-geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	mutant enzyme W78I, pH 7.5, 37C
+1.77	(2Z,6E,10E)-geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5		wild-type enzyme, pH 7.5, 37C
+1.77	(2Z,6E,10E)-geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5		wild-type, pH 7.5, 37C
+0.002	(Z,E,E)-Geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	mutant enzyme N77A, pH 7.5, 37C
+0.00231	(Z,E,E)-Geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	mutant enzyme N77Q, pH 7.5, 37C
+0.00415	(Z,E,E)-Geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	mutant enzyme N77D, pH 7.5, 37C
+0.3	(Z,E,E)-Geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	mutant enzyme W78D, pH 7.5, 37C
+0.899	(Z,E,E)-Geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	mutant enzyme W78R, pH 7.5, 37C
+1.37	(Z,E,E)-Geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5	X	mutant enzyme W78I, pH 7.5, 37C
+1.77	(Z,E,E)-Geranylgeranyl diphosphate	1299	OINNEUNVOZHBOX-KWBDAJKESA-N	37	7.5		wild-type enzyme, pH 7.5, 37C
+0.02	7-(2,6-dimethyl-8-diphospho-2,6-octadienyloxy)-8-methyl-4-trifluoromethyl-chromen-2-one geranyl diphosphate	109273	JOEFZHWTKCEHIN-WSPXSRFVSA-N	25	7.5		alternative substrate, pH 7.5, 25C
+0.00000031	(2E,6E)-farnesyl thiodiphosphate	3950	MYMLCRQRXFRQGP-YFVJMOTDSA-N	25	7.5		much smaller than using (2E,6E)-farnesyl diphosphate, pH 7.5, 25C
+11.2	(2E,6E)-8-(N-methyl-2-aminobenzoyloxy)-3,7-dimethyl-2,6-octandien-1-diphosphate	28390	BDSRAXZACSTMCH-GGQZXFEVSA-N	25	7.5		pH 7.5, 25C

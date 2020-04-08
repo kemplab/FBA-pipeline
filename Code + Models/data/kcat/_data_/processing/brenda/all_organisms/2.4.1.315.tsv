@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.004	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	28	8.0		acceptor 1,2-diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol, pH 8.0, 28C
+0.023	1,2-diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol	10709	ZTIAEHPGJNYMJZ-LHVLRZJLSA-N	28	8.0		donor UDP-alpha-D-galactose, pH 8.0, 28C
+0.03	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	28	8.0		acceptor 1,2-diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol, pH 8.0, 28C
+0.27	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	28	8.0		acceptor 1,2-diacyl-sn-glycerol, pH 8.0, 28C
+1.1	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	28	8.0		acceptor 1,2-diacyl-sn-glycerol, pH 8.0, 28C
+1.13	1,2-diacyl-sn-glycerol	631	LEIGXIGLVRJIMR-SECBINFHSA-N	28	8.0		donor UDP-alpha-D-galactose, pH 8.0, 28C

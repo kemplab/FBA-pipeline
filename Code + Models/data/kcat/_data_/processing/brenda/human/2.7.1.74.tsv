@@ -1,0 +1,161 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.012	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		cosubstrate L-2'-deoxycytidine, wild-type, 37C, pH 7.5
+0.028	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild type enzyme with 2'-deoxycytidine as cosubstrate
+0.028	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	cosubstrate (-)-beta-2',3'-dideoxy-3'-thiacytidine, mutant C9S/C45S/C59S/C146S, 37C, pH 7.5
+0.03	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		cosubstrate (-)-beta-2',3'-dideoxy-3'-thiacytidine, wild-type, 37C, pH 7.5
+0.033	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		cosubstrate D-2'-deoxycytidine, wild-type, 37C, pH 7.5
+0.036	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	cosubstrate L-2'-deoxycytidine, mutant C9S/C45S/C59S/C146S, 37C, pH 7.5
+0.039	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	residues 65-79 deletion mutant with 2'-deoxycytidine as cosubstrate
+0.095	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		cosubstrate troxacitabine, wild-type, 37C, pH 7.5
+0.173	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	cosubstrate D-2'-deoxycytidine, mutant C9S/C45S/C59S/C146S, 37C, pH 7.5
+0.192	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	cosubstrate troxacitabine, mutant C9S/C45S/C59S/C146S, 37C, pH 7.5
+0.36	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	residues 65-79 deletion mutant with 1-beta-D-arabinofuranosylcytosine as cosubstrate
+0.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild type enzyme with 1-beta-D-arabinofuranosylcytosine as cosubstrate
+0.01	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	37	7.5		cosubstrate L-2'-deoxycytidine, wild-type, 37C, pH 7.5
+0.031	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N			X	wild type enzyme deletion mutant with 2'-deoxycytidine as cosubstrate
+0.041	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N			X	residues 65-79 deletion mutant with 2'-deoxycytidine as cosubstrate
+0.042	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	37	7.5	X	cosubstrate L-2'-deoxycytidine, mutant C9S/C45S/C59S/C146S, 37C, pH 7.5
+0.049	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	37	7.5		cosubstrate D-2'-deoxycytidine, wild-type, 37C, pH 7.5
+0.072	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	37	7.5	X	cosubstrate (-)-beta-2',3'-dideoxy-3'-thiacytidine, mutant C9S/C45S/C59S/C146S, 37C, pH 7.5
+0.075	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N			X	residues 65-79 deletion mutant with 1-beta-D-arabinofuranosylcytosine as cosubstrate
+0.093	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N			X	wild type enzyme deletion mutant with 1-beta-D-arabinofuranosylcytosine as cosubstrate
+0.102	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	37	7.5		cosubstrate (-)-beta-2',3'-dideoxy-3'-thiacytidine, wild-type, 37C, pH 7.5
+0.179	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	37	7.5		cosubstrate troxacitabine, wild-type, 37C, pH 7.5
+0.217	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	37	7.5	X	cosubstrate D-2'-deoxycytidine, mutant C9S/C45S/C59S/C146S, 37C, pH 7.5
+0.524	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	37	7.5	X	cosubstrate troxacitabine, mutant C9S/C45S/C59S/C146S, 37C, pH 7.5
+0.38	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	30	7.5		wild-type, pH 7.5, 30C; wild-type, pH 7.5, 37C
+0.68	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	30	7.5	X	mutant D47E/R104Q/D133G/N163I/F242L, pH 7.5, 30C
+1.01	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	30	7.5	X	mutant R104Q/D133G, pH 7.5, 30C
+1.49	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	37	7.5	X	mutant R104M/D133T, pH 7.5, 37C
+1.51	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	30	7.5	X	mutant R104Q/D133N, pH 7.5, 30C
+1.57	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	37	7.5	X	mutant A100V/R104M/D133T, pH 7.5, 37C
+1.88	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	37	7.5	X	mutant R104M/D133A, pH 7.5, 37C
+1.91	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	37	7.5	X	mutant A100V/R104M/D133S, pH 7.5, 37C
+2.27	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	37	7.5	X	mutant R104M/D133N, pH 7.5, 37C
+2.33	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	37	7.5	X	mutant R104M/D133S, pH 7.5, 37C
+3.29	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	37	7.5	X	mutant A100V/R104M/D133A, pH 7.5, 37C
+0.31	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N			X	residues 65-79 deletion mutant with UTP as cosubstrate
+0.33	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N				wild type enzyme with UTP as cosubstrate
+0.37	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	37	7.5		cosubstrate UTP, pH 7.5, 37C
+0.69	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	25	7.5	X	mutant S74E, pH 7.5, 25C
+0.77	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	25	7.5		wild-type, pH 7.5, 25C
+0.9	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	25	7.5	X	mutant S74Q, pH 7.5, 25C
+1	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	25	7.5	X	mutant S74D, pH 7.5, 25C
+1.08	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	30	7.5	X	mutant D47E/R104Q/D133G/N163I/F242L, pH 7.5, 30C
+1.12	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	25	7.5	X	mutant S74A, pH 7.5, 25C
+1.7	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N				wild type enzyme with ATP as cosubstrate
+1.75	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	30	7.5	X	mutant R104Q/D133G, pH 7.5, 30C
+2	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	30	7.5	X	mutant R104Q/D133N, pH 7.5, 30C
+2.1	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	37	7.5		cosubstrate ATP, pH 7.5, 37C
+2.13	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	37	7.5		wild type enzyme, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37C
+2.67	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	37	7.5	X	mutant A100V/R104M/D133T, pH 7.5, 37C
+2.71	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	37	7.5	X	mutant R104M/D133A, pH 7.5, 37C
+2.8	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N			X	residues 65-79 deletion mutant with ATP as cosubstrate
+3.1	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	30	7.5		wild-type, pH 7.5, 30C; wild-type, pH 7.5, 37C
+3.37	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	37	7.5	X	mutant A100V/R104M/D133S, pH 7.5, 37C
+3.4	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	37	7.5	X	mutant A100V/R104M/D133A, pH 7.5, 37C
+3.47	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	37	7.5	X	mutant R104M/D133N, pH 7.5, 37C
+4.14	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	37	7.5	X	mutant R104M/D133T, pH 7.5, 37C
+4.51	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	37	7.5	X	mutant enzyme R104M/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37C
+4.85	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	37	7.5	X	mutant R104M/D133S, pH 7.5, 37C
+5.72	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	37	7.5	X	mutant enzyme R104L/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37C
+0.015	deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.6		pH 7.6, 37C, wild-type enzyme, with co-substrate ATP
+0.021	deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.6		pH 7.6, 37C, wild-type enzyme, with co-substrate UTP
+0.035	deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N				wild type enzyme, pH and temperature not specified in the publication
+0.064	deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	30	7.5		wild-type, pH 7.5, 30C; wild-type, pH 7.5, 37C
+0.123	deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.6	X	pH 7.6, 37C, enzyme mutant S74E, with co-substrate UTP
+0.183	deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.6	X	pH 7.6, 37C, enzyme mutant S74E, with co-substrate ATP
+0.21	deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	30	7.5	X	mutant D47E/R104Q/D133G/N163I/F242L, pH 7.5, 30C
+0.37	deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	30	7.5	X	mutant R104Q/D133G, pH 7.5, 30C
+0.58	deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.5	X	mutant R104M/D133A, pH 7.5, 37C
+1.2	deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.5	X	mutant A100V/R104M/D133A, pH 7.5, 37C
+1.3	deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	30	7.5	X	mutant R104Q/D133N, pH 7.5, 30C
+1.7	deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.5	X	mutant R104M/D133S, pH 7.5, 37C
+2.1	deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.5	X	mutant A100V/R104M/D133S, pH 7.5, 37C
+2.23	deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.5	X	mutant R104M/D133N, pH 7.5, 37C
+2.86	deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.5	X	mutant R104M/D133T, pH 7.5, 37C
+3.54	deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.5	X	mutant A100V/R104M/D133T, pH 7.5, 37C
+0.033	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N				less than 0.001 mM, wild type enzyme with ATP as cosubstrate
+0.04	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	25	7.5	X	mutant S74A, pH 7.5, 25C; mutant S74Q, pH 7.5, 25C; wild-type, pH 7.5, 25C
+0.04	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.5		wild type enzyme, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37C
+0.044	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N				less than 0.001 mM, wild type enzyme with UTP as cosubstrate
+0.049	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N			X	residues 65-79 deletion mutant with ATP as cosubstrate
+0.088	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N			X	less than 0.001 mM, residues 65-79 deletion mutant with UTP as cosubstrate
+0.11	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.6		pH 7.6, 37C, recombinant enzyme
+0.16	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	25	7.5	X	mutant S74D, pH 7.5, 25C
+0.25	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.5	X	mutant enzyme R104L/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37C
+0.45	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	25	7.5	X	mutant S74E, pH 7.5, 25C
+1.8	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.5	X	mutant enzyme R104M/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37C
+0.31	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	37	7.5	X	mutant A100V/R104M/D133A, pH 7.5, 37C
+0.32	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N			X	residues 65-79 deletion mutant with UTP as cosubstrate
+0.33	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N				wild type enzyme with UTP as cosubstrate
+0.36	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	25	7.5	X	mutant S74E, pH 7.5, 25C
+0.53	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	37	7.5		cosubstrate UTP, pH 7.5, 37C
+0.57	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	25	7.5	X	mutant S74D, pH 7.5, 25C
+0.65	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	25	7.5	X	mutant S74Q, pH 7.5, 25C
+0.68	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	25	7.5	X	mutant S74A, pH 7.5, 25C
+0.73	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	25	7.5		wild-type, pH 7.5, 25C
+1.18	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	30	7.5	X	mutant D47E/R104Q/D133G/N163I/F242L, pH 7.5, 30C
+1.23	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	37	7.5	X	mutant R104M/D133A, pH 7.5, 37C
+1.5	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	30	7.5	X	mutant R104Q/D133G, pH 7.5, 30C
+1.72	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	37	7.5	X	mutant A100V/R104M/D133S, pH 7.5, 37C
+1.73	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	37	7.5	X	mutant enzyme R104M/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37C
+1.92	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	30	7.5	X	mutant R104Q/D133N, pH 7.5, 30C
+2.2	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N			X	residues 65-79 deletion mutant with ATP as cosubstrate
+2.29	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	37	7.5	X	mutant A100V/R104M/D133T, pH 7.5, 37C
+2.5	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	37	7.5	X	mutant R104M/D133T, pH 7.5, 37C
+2.5	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	37	7.5		cosubstrate ATP, pH 7.5, 37C
+2.6	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N				wild type enzyme with ATP as cosubstrate
+2.6	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	37	7.5		wild type enzyme, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37C
+3.26	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	30	7.5		wild-type, pH 7.5, 30C; wild-type, pH 7.5, 37C
+3.59	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	37	7.5	X	mutant R104M/D133N, pH 7.5, 37C
+3.66	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	37	7.5	X	mutant enzyme R104L/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37C
+4.38	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	37	7.5	X	mutant R104M/D133S, pH 7.5, 37C
+0.39	gemcitabine	1407	SDUQYLNIPVEERB-QPPQHZFASA-N	37	7.5		wild type enzyme, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37C
+0.57	gemcitabine	1407	SDUQYLNIPVEERB-QPPQHZFASA-N				wild type enzyme, pH and temperature not specified in the publication
+2.01	gemcitabine	1407	SDUQYLNIPVEERB-QPPQHZFASA-N	37	7.5	X	mutant enzyme R104L/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37C
+2.68	gemcitabine	1407	SDUQYLNIPVEERB-QPPQHZFASA-N	37	7.5	X	mutant enzyme R104M/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37C
+0.15	1-beta-D-arabinofuranosylcytosine	1495	UHDGCWIWMRVCDJ-CCXZUQQUSA-N			X	residues 65-79 deletion mutant with UTP as cosubstrate
+0.17	1-beta-D-arabinofuranosylcytosine	1495	UHDGCWIWMRVCDJ-CCXZUQQUSA-N				wild type enzyme with UTP as cosubstrate
+0.3	1-beta-D-arabinofuranosylcytosine	1495	UHDGCWIWMRVCDJ-CCXZUQQUSA-N				wild type enzyme with ATP as cosubstrate
+0.3	1-beta-D-arabinofuranosylcytosine	1495	UHDGCWIWMRVCDJ-CCXZUQQUSA-N	25	7.5	X	mutant S74Q, pH 7.5, 25C
+0.32	1-beta-D-arabinofuranosylcytosine	1495	UHDGCWIWMRVCDJ-CCXZUQQUSA-N	25	7.5		wild-type, pH 7.5, 25C
+0.33	1-beta-D-arabinofuranosylcytosine	1495	UHDGCWIWMRVCDJ-CCXZUQQUSA-N	25	7.5	X	mutant S74A, pH 7.5, 25C
+0.41	1-beta-D-arabinofuranosylcytosine	1495	UHDGCWIWMRVCDJ-CCXZUQQUSA-N			X	residues 65-79 deletion mutant with ATP as cosubstrate
+0.57	1-beta-D-arabinofuranosylcytosine	1495	UHDGCWIWMRVCDJ-CCXZUQQUSA-N	25	7.5	X	mutant S74D, pH 7.5, 25C
+1.06	1-beta-D-arabinofuranosylcytosine	1495	UHDGCWIWMRVCDJ-CCXZUQQUSA-N	25	7.5	X	mutant S74E, pH 7.5, 25C
+0.44	2',2'-difluorodeoxycytidine	1407	SDUQYLNIPVEERB-QPPQHZFASA-N	25	7.5		wild-type, pH 7.5, 25C
+0.45	2',2'-difluorodeoxycytidine	1407	SDUQYLNIPVEERB-QPPQHZFASA-N	25	7.5	X	mutant S74Q, pH 7.5, 25C
+0.5	2',2'-difluorodeoxycytidine	1407	SDUQYLNIPVEERB-QPPQHZFASA-N	25	7.5	X	mutant S74A, pH 7.5, 25C
+0.9	2',2'-difluorodeoxycytidine	1407	SDUQYLNIPVEERB-QPPQHZFASA-N	25	7.5	X	mutant S74D, pH 7.5, 25C
+1.21	2',2'-difluorodeoxycytidine	1407	SDUQYLNIPVEERB-QPPQHZFASA-N	25	7.5	X	mutant S74E, pH 7.5, 25C
+0.177	fludarabine	2921	HBUBKKRHXORPQB-FJFJXFQQSA-N	37	7.6		pH 7.6, 37C, wild-type enzyme, with co-substrate UTP
+0.363	fludarabine	2921	HBUBKKRHXORPQB-FJFJXFQQSA-N	37	7.6	X	pH 7.6, 37C, enzyme mutant S74E, with co-substrate UTP
+1.005	fludarabine	2921	HBUBKKRHXORPQB-FJFJXFQQSA-N	37	7.6	X	pH 7.6, 37C, enzyme mutant S74E, with co-substrate ATP
+1.334	fludarabine	2921	HBUBKKRHXORPQB-FJFJXFQQSA-N	37	7.6		pH 7.6, 37C, wild-type enzyme, with co-substrate ATP
+0.0804	cladribine	2088	PTOAARAWEBMLNO-KVQBGUIXSA-N	37	7.6		pH 7.6, 37C, wild-type enzyme, with co-substrate UTP
+0.172	cladribine	2088	PTOAARAWEBMLNO-KVQBGUIXSA-N	37	7.6		pH 7.6, 37C, wild-type enzyme, with co-substrate ATP
+0.211	cladribine	2088	PTOAARAWEBMLNO-KVQBGUIXSA-N	37	7.6	X	pH 7.6, 37C, enzyme mutant S74E, with co-substrate UTP
+1.386	cladribine	2088	PTOAARAWEBMLNO-KVQBGUIXSA-N	37	7.6	X	pH 7.6, 37C, enzyme mutant S74E, with co-substrate ATP
+0.486	clofarabine	3995	WDDPHFBMKLOVOX-AYQXTPAHSA-N	37	7.6		pH 7.6, 37C, wild-type enzyme, with co-substrate UTP
+0.88	clofarabine	3995	WDDPHFBMKLOVOX-AYQXTPAHSA-N	37	7.6	X	pH 7.6, 37C, enzyme mutant S74E, with co-substrate UTP
+1.11	clofarabine	3995	WDDPHFBMKLOVOX-AYQXTPAHSA-N	37	7.6		pH 7.6, 37C, wild-type enzyme, with co-substrate ATP
+2.45	clofarabine	3995	WDDPHFBMKLOVOX-AYQXTPAHSA-N	37	7.6	X	pH 7.6, 37C, enzyme mutant S74E, with co-substrate ATP
+0.095	troxacitabine	4674	RXRGZNYSEHTMHC-BQBZGAKWSA-N	37	7.5		wild type enzyme with ATP as phosphate donor, 37C, pH 7.5
+0.192	troxacitabine	4674	RXRGZNYSEHTMHC-BQBZGAKWSA-N	37	7.5	X	C9S/C45S/C59S/C146S mutant enzyme with ATP as phosphate donor, 37C, pH 7.5
+6.08	troxacitabine	4674	RXRGZNYSEHTMHC-BQBZGAKWSA-N	37	7.5	X	C9S/C45S/C59S/C146S mutant enzyme with UTP as phosphate donor, 37C, pH 7.5
+0.028	(-)-beta-2',3'-dideoxy-3'-thiacytidine	4676	JTEGQNOMFQHVDC-RQJHMYQMSA-N	37	7.5	X	C9S/C45S/C59S/C146S mutant enzyme with ATP as phosphate donor, 37C, pH 7.5
+0.03	(-)-beta-2',3'-dideoxy-3'-thiacytidine	4676	JTEGQNOMFQHVDC-RQJHMYQMSA-N	37	7.5		wild type enzyme with ATP as phosphate donor, 37C, pH 7.5
+0.072	(-)-beta-2',3'-dideoxy-3'-thiacytidine	4676	JTEGQNOMFQHVDC-RQJHMYQMSA-N	37	7.5	X	C9S/C45S/C59S/C146S mutant enzyme with UTP as phosphate donor, 37C, pH 7.5
+0.102	(-)-beta-2',3'-dideoxy-3'-thiacytidine	4676	JTEGQNOMFQHVDC-RQJHMYQMSA-N	37	7.5		wild type enzyme with UTP as phosphate donor, 37C, pH 7.5
+0.37	2-chlorodeoxyadenosine	2088	PTOAARAWEBMLNO-KVQBGUIXSA-N	37	7.5		cosubstrate UTP, pH 7.5, 37C
+0.6	2-chlorodeoxyadenosine	2088	PTOAARAWEBMLNO-KVQBGUIXSA-N	37	7.5		cosubstrate ATP, pH 7.5, 37C
+0.34	1-beta-D-arabinosylcytosine	5675	UHDGCWIWMRVCDJ-JDNPWWSISA-N	37	7.5		wild type enzyme, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37C
+0.79	1-beta-D-arabinosylcytosine	5675	UHDGCWIWMRVCDJ-JDNPWWSISA-N	37	7.5	X	mutant enzyme R104L/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37C
+1.43	1-beta-D-arabinosylcytosine	5675	UHDGCWIWMRVCDJ-JDNPWWSISA-N	37	7.5	X	mutant enzyme R104M/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37C
+1.33	L-thymidine	9351	DWRXFEITVBNRMK-BMLSCUAFSA-N	37	7.5	X	mutant enzyme R104L/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37C
+3.13	L-thymidine	9351	DWRXFEITVBNRMK-BMLSCUAFSA-N	37	7.5	X	mutant enzyme R104M/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37C
+1.74	D-thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	37	7.5	X	mutant enzyme R104M/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37C
+3.2	D-thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	37	7.5	X	mutant enzyme R104L/D133A, in 100 mM Tris, pH 7.5, 100 mM KCl, 10 mM MgCl2 and 1 mM ATP, at 37C
+0.02	2,5-difluoro-4-[1-(2-deoxy-beta-L-ribofuranosyl)]-aniline	23489	DZVUYWQWUYGOHE-FBKFWFMHSA-N	37	7.6		pH 7.6, 37C, recombinant enzyme
+0.38	cytarabine	1495	UHDGCWIWMRVCDJ-CCXZUQQUSA-N				wild type enzyme, pH and temperature not specified in the publication

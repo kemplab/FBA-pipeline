@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0394	succinyl-Leu-Leu-Val-Tyr-methylcoumarin	3399	UVFAEQZFLBGVRM-MSMWPWNWSA-N		7.5		pH 7.5, room temperature
+0.04	succinyl-Leu-Tyr-methylcoumarin	7539	VHNWQCSSLRZCHS-GOTSBHOMSA-N		7.5		pH 7.5, room temperature
+0.062	succinyl-Leu-Leu-Val-Tyr-7-amido-4-methylcoumarin	3399	UVFAEQZFLBGVRM-MSMWPWNWSA-N	30	7.5		endoplasmic reticulum lumen m-calpain, in 100 mM imidazole-HCl buffer (pH 7.5), 5 mM L-cysteine, 2.5 mM 2-mercaptoethanol, 5 mM CaCl2, and 4% (v/v) dimethyl sulfoxide, at 30C
+0.063	succinyl-Leu-Leu-Val-Tyr-7-amido-4-methylcoumarin	3399	UVFAEQZFLBGVRM-MSMWPWNWSA-N	30	7.5		endoplasmic reticulum membrane m-calpain, in 100 mM imidazole-HCl buffer (pH 7.5), 5 mM L-cysteine, 2.5 mM 2-mercaptoethanol, 5 mM CaCl2, and 4% (v/v) dimethyl sulfoxide, at 30C
+0.083	succinyl-Leu-Tyr-7-amido-4-methylcoumarin	7539	VHNWQCSSLRZCHS-GOTSBHOMSA-N	30	7.5		endoplasmic reticulum lumen m-calpain, in 100 mM imidazole-HCl buffer (pH 7.5), 5 mM L-cysteine, 2.5 mM 2-mercaptoethanol, 5 mM CaCl2, and 4% (v/v) dimethyl sulfoxide, at 30C
+0.084	succinyl-Leu-Tyr-7-amido-4-methylcoumarin	7539	VHNWQCSSLRZCHS-GOTSBHOMSA-N	30	7.5		endoplasmic reticulum membrane m-calpain, in 100 mM imidazole-HCl buffer (pH 7.5), 5 mM L-cysteine, 2.5 mM 2-mercaptoethanol, 5 mM CaCl2, and 4% (v/v) dimethyl sulfoxide, at 30C
+0.186	succinyl-Leu-Met-7-amido-4-methylcoumarin	8619	KCEUXBRGMKXHCY-OALUTQOASA-N	30	7.5		endoplasmic reticulum membrane m-calpain, in 100 mM imidazole-HCl buffer (pH 7.5), 5 mM L-cysteine, 2.5 mM 2-mercaptoethanol, 5 mM CaCl2, and 4% (v/v) dimethyl sulfoxide, at 30C
+0.189	succinyl-Leu-Met-7-amido-4-methylcoumarin	8619	KCEUXBRGMKXHCY-OALUTQOASA-N	30	7.5		endoplasmic reticulum lumen m-calpain, in 100 mM imidazole-HCl buffer (pH 7.5), 5 mM L-cysteine, 2.5 mM 2-mercaptoethanol, 5 mM CaCl2, and 4% (v/v) dimethyl sulfoxide, at 30C
+0.341	Boc-Val-Leu-Lys-methylcoumarin	7588	KVLPXRKIIFWZLM-DPZBCOQUSA-N		7.5		pH 7.5, room temperature
+0.546	t-Boc-Leu-Met-methylcoumarin	22140	GEDPNYSNVPBTMH-PMACEKPBSA-N				
+1.06	t-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	7588	KVLPXRKIIFWZLM-DPZBCOQUSA-N	30	7.5		endoplasmic reticulum membrane m-calpain, in 100 mM imidazole-HCl buffer (pH 7.5), 5 mM L-cysteine, 2.5 mM 2-mercaptoethanol, 5 mM CaCl2, and 4% (v/v) dimethyl sulfoxide, at 30C
+1.08	t-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	7588	KVLPXRKIIFWZLM-DPZBCOQUSA-N	30	7.5		endoplasmic reticulum lumen m-calpain, in 100 mM imidazole-HCl buffer (pH 7.5), 5 mM L-cysteine, 2.5 mM 2-mercaptoethanol, 5 mM CaCl2, and 4% (v/v) dimethyl sulfoxide, at 30C

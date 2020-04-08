@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.4	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	40	6.0		pH 6.0, 40C, reverse reaction
+1	2-deoxy-D-glucose	443	PMMURAAUARKVCB-KAZBKCHUSA-N	40	6.0		pH 6.0, 40C, reverse reaction
+6.5	laminaribiose	690	QIGJYVCQYDKYDW-LCOYTZNXSA-N	40	7.5		pH 7.5, 40C, co-substrate: phosphate
+19	laminaribiose	690	QIGJYVCQYDKYDW-LCOYTZNXSA-N	45	7.0		co-substrate: phosphate, pH 7.0, 45C

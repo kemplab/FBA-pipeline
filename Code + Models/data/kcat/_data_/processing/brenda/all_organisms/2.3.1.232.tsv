@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0035	methanol	78	OKKJLVBELUTLKV-UHFFFAOYSA-N	22	7.5		pH 7.5, 20-22C, cosubstrate: anthraniloyl-CoA, native enzyme
+0.0058	methanol	78	OKKJLVBELUTLKV-UHFFFAOYSA-N	22	7.5		pH 7.5, 20-22C, cosubstrate: anthraniloyl-CoA, recombinant enzyme
+0.01	anthraniloyl-CoA	2545	XLURBJBQJZCJHJ-TYHXJLICSA-N	22	7.5		pH 7.5, 20-22C, cosubstrate: methanol, recombinant enzyme
+0.022	anthraniloyl-CoA	2545	XLURBJBQJZCJHJ-TYHXJLICSA-N	22	7.5		pH 7.5, 20-22C, cosubstrate: methanol, native enzyme

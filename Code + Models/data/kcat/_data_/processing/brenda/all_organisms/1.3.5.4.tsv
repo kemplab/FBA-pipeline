@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.3	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N	30	7.0	X	mutant K228R, cosubstrate menaquinone, pH 7.0, 30C
+0.3	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	30	7.9	X	mutant E49L, cosubstrate menaquinone, pH 7.9, 30C
+0.4	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	30	7.9	X	mutant E49F, cosubstrate menaquinone, pH 7.9, 30C
+1	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N	30	7.0	X	mutant E49A, pH 7.0, 30C
+2.3	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N	30	7.0	X	mutant E49F, cosubstrate menaquinone, pH 7.0, 30C
+2.4	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	30	7.0	X	mutant E49A, pH 7.0, 30C
+4	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	30	7.0	X	mutant E49A, pH 7.0, 30C
+5	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N	30	7.0	X	mutant E49L, cosubstrate menaquinone, pH 7.0, 30C
+13	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N				with 2,3-dimethyl-1,4-naphthoquinone, based on FAD content of enzyme
+14	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	30	7.8		fumarate reduction, pH 7.8, 30C
+15	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	30	7.9		wild-type, cosubstrate menaquinone, pH 7.9, 30C
+20	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N				based on the content of the MW 79000 peptide, reduction of fumarate with dimethylnaphthohydroquinone
+30	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	30	7.0		wild-type, pH 7.0, 30C
+32	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N	30	7.0	X	mutant E49A, pH 7.0, 30C
+77	phenazine methosulfate	250	RXGJTUSBYWCRBK-UHFFFAOYSA-M	30	7.6		pH 7.6, 30C
+80	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N				reaction with phenazine methosulfate and 2,6-dichlorophenolindophenol
+133	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N				with 2,3-dimethyl-1,4-naphthohydroquinone, based on FAD content of enzyme
+177	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N	30	7.8		succinate oxidation, pH 7.8, 30C
+230	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N	30	7.0		wild-type, cosubstrate menaquinone, pH 7.0, 30C
+250	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N	30	7.0		wild-type, pH 7.0, 30C

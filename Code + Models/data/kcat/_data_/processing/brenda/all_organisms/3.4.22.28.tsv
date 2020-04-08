@@ -1,0 +1,37 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00025	(E)-5-chloropyridin-3-yl 3-(furan-2-yl)acrylate	12574	FEXRTHHYHCFLQP-ONEGZZNKSA-N				
+0.0003	2-(N-methylamino)benzoyl-TSAVLQSGFRK-(2,4-dinitrophenyl)-Met	125424	XOPHGDVHAHAUQM-UJSDENSJSA-N	30	7.0		in 50 mM Tris, pH 7.0, at 30C
+0.0005	2-(N-methylamino)benzoyl-DEAMEQGVSDYIK-2,4-dinitrophenyl	125426	WHFSWRVTHVYGQC-YFVNZJJHSA-N	30	7.0		in 50 mM Tris, pH 7.0, at 30C
+0.0011	5-chloropyridin-3-yl furan-2-carboxylate	9705	DWJOEJDGHVXXEB-UHFFFAOYSA-N				
+0.00119	5-bromopyridin-3-yl furan-3-carboxylate	12583	DHUVCUAKJMYMRG-UHFFFAOYSA-N				
+0.002	Dabcyl-RTATVQGPSLDFKE-Edans	125422	LBJCRSGGQUGXQC-FFOOWQOISA-N	30	7.0		in 50 mM Tris, pH 7.0, at 30C
+0.0027	2-(N-methylamino)benzoyl-IAALFQGPPK(2,4-dinitrophenyl)FR	125428	QEBWQKAZKIJYCL-IPJJPFQBSA-N	30	7.0		in 50 mM Tris, pH 7.0, at 30C
+0.0028	Dabcyl-IEALFQGPPKFRE-Edans	125427	ORCZSIKQHOSSNF-SBKWVYGQSA-N	30	7.0		in 50 mM Tris, pH 7.0, at 30C
+0.003	2-(N-methylamino)benzoyl-RQAVTQGFPTELK-2,4-dinitrophenyl	125425	USVOHBXBRMJRNW-JRKHBEJISA-N	30	7.0		in 50 mM Tris, pH 7.0, at 30C
+0.0035	2-(N-methylamino)benzoyl-RTATVQGPSLDFK-2,4-dinitrophenyl	125423	PLUCHMNUZLUYKP-HKMKGIHISA-N	30	7.0		in 50 mM Tris, pH 7.0, at 30C
+0.004	2-(N-methylamino)benzoyl-IELLFQGPPK(2,4-dinitrophenyl)FR	125429	JPTPAHALZIREPR-DGPHVGOKSA-N	30	7.0		in 50 mM Tris, pH 7.0, at 30C
+0.005	2-(N-methylamino)benzoyl-IEAAFQGPPK(2,4-dinitrophenyl)FR	125430	XCCCVPFKZPEUHI-XSBNOKTRSA-N	30	7.0		in 50 mM Tris, pH 7.0, at 30C
+0.0085	(2-(N-methylamino)benzoyl)-IEALFQGPPK-(2,4-dinitrophenyl)FR	125421	CJQAJXQQWAESTD-HDKCVTJPSA-N	30	7.0		in 50 mM Tris, pH 7.0, at 30C
+0.01	2-aminobenzoyl-AALFQGPLQ-EDDnp	12318	MEDJUIKJGLLGEF-OJZPXWHFSA-N		8.0		in 50 mM Tris-HCl, at pH 8.0, in the absence of sodium citrate
+0.01	2-aminobenzoyl-EALAQGPLQ-EDDnp	9460	CWFJKIXWIBBVIN-VXFGWAHESA-N		8.0		in 50 mM Tris-HCl, at pH 8.0, in the absence of sodium citrate
+0.03	2-aminobenzoyl-EALFQGPAQ-EDDnp	12320	DBWCGPKZTSVBEP-QXSMUVDPSA-N		8.0		in 50 mM Tris-HCl, at pH 8.0, in the absence of sodium citrate
+0.03	2-aminobenzoyl-EALFQGPLQ-EDDnp	5848	XQMZWVXWQWSDPV-YCBHXASOSA-N		8.0		in 50 mM Tris-HCl, at pH 8.0, in the absence of sodium citrate
+0.036	TENLYFQSGTRR	125432	BDEYQTHACYDMOD-WPMHVTKCSA-N	4	8.0		at pH 8.0 and 4C
+0.06	2-aminobenzoyl-EALFQGPLQ-EDDnp	5848	XQMZWVXWQWSDPV-YCBHXASOSA-N				in D2O, in the absence of sodium citrate
+0.08	2-aminobenzoyl-EAAFQGPLQ-EDDnp	12319	NHNKYOWTGAUZDL-QXSMUVDPSA-N		8.0		in 50 mM Tris-HCl, at pH 8.0, in the absence of sodium citrate
+0.08	Ac-FQLQ-4-nitroanilide	114637	PEVLJYKUUUMVCZ-FWEHEUNISA-N		8.5		pH 8.5, temperature not specified in the publication
+0.08	N-acetyl-DEFQLQ-4-nitroanilide	114639	WTGZYFRCLHVCER-JNRWAQIZSA-N				pH and temperature not specified in the publication
+0.14	Ac-EFQLQ-4-nitroanilide	114638	OUZPCROTZVUNSW-IIZANFQQSA-N		8.5		pH 8.5, temperature not specified in the publication
+0.22	TENLYFQSGTRR	125432	BDEYQTHACYDMOD-WPMHVTKCSA-N	30	8.0		at pH 8.0 and 30C
+0.28	2-aminobenzoyl-EALFQGALQ-EDDnp	24928	HIZRROWARWRUDN-AEHXRBDRSA-N		8.0		in 50 mM Tris-HCl, at pH 8.0, in the presence of 1 M sodium citrate
+0.33	Ac-DEFQLQ-4-nitroanilide	114639	WTGZYFRCLHVCER-JNRWAQIZSA-N		8.5		pH 8.5, temperature not specified in the publication
+0.34	2-aminobenzoyl-EALFQAPLQ-EDDnp	24927	UXTKHALDZVTCFQ-UTLYVZFQSA-N		8.0		in 50 mM Tris-HCl, at pH 8.0, in the presence of 1 M sodium citrate
+0.41	SLEVLFQGPVRR	125431	DHLWERBQIRRNEG-UIBNMNOOSA-N	4	8.0		at pH 8.0 and 4C
+0.66	2-aminobenzoyl-EALAQGPLQ-EDDnp	9460	CWFJKIXWIBBVIN-VXFGWAHESA-N		8.0		in 50 mM Tris-HCl, at pH 8.0, in the presence of 1 M sodium citrate
+0.87	2-aminobenzoyl-EALFQGPLQ-EDDnp	5848	XQMZWVXWQWSDPV-YCBHXASOSA-N		8.0		in 50 mM Tris-HCl, at pH 8.0, in the presence of 1 M sodium citrate
+0.96	2-aminobenzoyl-AALFQGPLQ-EDDnp	12318	MEDJUIKJGLLGEF-OJZPXWHFSA-N		8.0		in 50 mM Tris-HCl, at pH 8.0, in the presence of 1 M sodium citrate
+2.02	2-aminobenzoyl-EALFQGPLQ-EDDnp	5848	XQMZWVXWQWSDPV-YCBHXASOSA-N				in D2O, in the presence of 1 M sodium citrate
+2.38	SLEVLFQGPVRR	125431	DHLWERBQIRRNEG-UIBNMNOOSA-N	30	8.0		at pH 8.0 and 30C
+2.72	2-aminobenzoyl-EALFQGPAQ-EDDnp	12320	DBWCGPKZTSVBEP-QXSMUVDPSA-N		8.0		in 50 mM Tris-HCl, at pH 8.0, in the presence of 1 M sodium citrate
+3.34	2-aminobenzoyl-EAAFQGPLQ-EDDnp	12319	NHNKYOWTGAUZDL-QXSMUVDPSA-N		8.0		in 50 mM Tris-HCl, at pH 8.0, in the presence of 1 M sodium citrate
+27	4-(4-dimethylaminophenylazo)benzoic acid-KTSAVLQSGFRKME-5-[(2-aminoethyl)amino]naphthalene-1-sulfonic acid	26459	NJCBCUXKHVVEEI-NDAVYYAMSA-N				

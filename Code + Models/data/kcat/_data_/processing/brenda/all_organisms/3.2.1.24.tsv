@@ -1,0 +1,36 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+130	p-nitrophenyl-alpha-D-mannopyranoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N				
+0.088	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	70	5.0	X	pH 5.0, 70C, 1 mM Mn2+, mutant enzyme H533Q
+0.099	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	70	5.0	X	pH 5.0, 70C, 1 mM Co2+, mutant enzyme H533Q
+0.118	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	70	5.0	X	pH 5.0, 70C, 1 mM Zn2+, mutant enzyme H228E
+0.4	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	70	5.0	X	pH 5.0, 70C, 1 mM Cd2+, mutant enzyme H533Q
+0.6	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	70	5.0	X	pH 5.0, 70C, 1 mM Zn2+, mutant enzyme H228Q
+0.8	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	70	5.0	X	pH 5.0, 70C, 1 mM Co2+, mutant enzyme H228E
+1.18	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	70	5.0	X	pH 5.0, 70C, 1 mM Cd2+, mutant enzyme H228E
+1.42	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	70	5.0	X	pH 5.0, 70C, 1 mM Zn2+, mutant enzyme H533Q
+1.6	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	70	5.0	X	pH 5.0, 70C, 0.1 mM Zn2+, mutant enzyme H533Q; pH 5.0, 70C, 1 mM Co2+, mutant enzyme H228Q
+4.3	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	70	5.0	X	pH 5.0, 70C, 1 mM Co2+, mutant enzyme H533E
+4.8	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	70	5.0		pH 5.0, 70C, enzyme in complex with Mn2+
+4.8	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	70	5.0		pH 5.0, 70C, 1 mM Mn2+, wild-type enzyme
+6.6	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	70	5.0		pH 5.0, 70C, 1 mM Zn2+, wild-type enzyme
+10.5	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	70	5.0		pH 5.0, 70C, untreated enzyme which with no externally added metal ion in the incubation assay
+11.3	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	70	5.0		pH 5.0, 70C, 1 mM Co2+, wild-type enzyme
+12.5	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	70	5.0		pH 5.0, 70C, enzyme in complex with Co2+
+13.6	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	70	5.0		pH 5.0, 70C, enzyme in complex with Zn2+
+15.3	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	70	5.0		pH 5.0, 70C, 1 mM Cd2+, wild-type enzyme
+16.1	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	70	5.0		pH 5.0, 70C, enzyme in complex with Cd2+
+21	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	65	6.5		pH 6.5, 65C, recombinant enzyme
+158	4-nitrophenyl alpha-D-mannoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N	65	6.5		pH 6.5, 65C, native enzyme
+0.03	4-methylumbelliferyl alpha-D-mannopyranoside	2310	YUDPTGPSBJVHCN-VMMWWAARSA-N	37	6.8		pH 6.8, 37C, recombinant enzyme
+44	4-nitrophenyl alpha-D-mannopyranoside	1177	IFBHRQDFSNCLOZ-GCHJQGSQSA-N				
+6.4	3-O-alpha-D-mannopyranosyl-alpha-D-mannopyranose	115560	QIGJYVCQYDKYDW-LBGGPIGOSA-N	37	6.8		pH 6.8, 37C, recombinant enzyme
+0.0051	5-fluoro-beta-L-gulosyl fluoride	5683	NZFSWPCRLKVZSQ-BYIBVSMXSA-N				wild-type enzyme
+0.048	2,4-dinitrophenyl alpha-D-mannoside	6450	XAJUPNGKLHFUED-GCHJQGSQSA-N			X	mutant enzyme D341N
+8.6	2,4-dinitrophenyl alpha-D-mannoside	6450	XAJUPNGKLHFUED-GCHJQGSQSA-N				wild-type enzyme
+3.1	alpha-D-Man-(1-&gt;2)-D-Man	13094	HIWPGCMGAMJNRG-VXSGSMIHSA-N	70	5.0		pH 5.0, 70C, enzyme in complex with Mn2+
+5.5	alpha-D-Man-(1-&gt;2)-D-Man	13094	HIWPGCMGAMJNRG-VXSGSMIHSA-N	70	5.0		pH 5.0, 70C, enzyme in complex with Co2+
+1.9	alpha-D-Man-(1-&gt;4)-D-Man	68559	GUBGYTABKSRVRQ-VQCGNKTKSA-N	70	5.0		pH 5.0, 70C, enzyme in complex with Mn2+
+10.4	alpha-D-Man-(1-&gt;4)-D-Man	68559	GUBGYTABKSRVRQ-VQCGNKTKSA-N	70	5.0		pH 5.0, 70C, enzyme in complex with Co2+
+1.7	2,4-dinitrophenyl-alpha-D-mannopyranoside	6450	XAJUPNGKLHFUED-GCHJQGSQSA-N	50	5.0		pH 5.0, 50C
+4.9	alpha-D-Man-(1-&gt;3)-D-Man	118834	QIGJYVCQYDKYDW-VXSGSMIHSA-N	70	5.0		pH 5.0, 70C, enzyme in complex with Co2+
+2	alpha-D-Man-(1-&gt;6)-D-Man	1502	DLRVVLDZNNYCBX-FZFXURTHSA-N	70	5.0		pH 5.0, 70C, enzyme in complex with Co2+

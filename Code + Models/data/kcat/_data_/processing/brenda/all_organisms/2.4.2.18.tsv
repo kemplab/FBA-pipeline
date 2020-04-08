@@ -1,0 +1,59 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.014	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	25			25C
+0.014	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	25			25C; at 25C
+0.035	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	40			40C
+0.035	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	40			40C; at 40C
+0.046	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	37	7.2	X	mutant enzyme I36E/M47D/T77I/D83G/F149S/I169T/F193S/L320M, pH 7.2, 37C
+0.046	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	37	7.2	X	mutant enzyme I36E/M47D/T77I/D83G/F149S/I169T/F193S/L320M, pH 7.2, 37C
+0.067	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	50			50C
+0.067	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	50			50C; at 50C
+0.105	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	60			60C
+0.105	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	60			60C; at 60C
+0.24	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	37	7.2		wild-type, in the presence of 2 mM MgCl2, 50 mM Tris-HCl, pH 7.2, at 37C
+0.28	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	37	7.2	X	+/-0.06, I36E/M47D double mutant, pH 7.2, 37C, 0.01 microM subunit concentration
+0.33	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	37	7.2		wild-type, in the presence of 0.05 mM MgCl2, 50 mM Tris-HCl, pH 7.2, at 37C
+0.34	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N				cosubstrate: 5-phospho-alpha-D-ribose 1-diphosphate
+0.4	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	87			87C
+0.4	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	87			87C; at 87C
+0.41	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	37	7.2		+/-0.04, wild-type, pH 7.2, 37C, 0.01 microM subunit concentration
+0.48	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	60	7.5	X	60C, pH 7.5, 2 mM Mg2+, mutant enzyme K106Q
+0.48	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	60	7.5	X	60C, pH 7.5, 2 mM Mg2+, mutant enzyme K106Q
+0.62	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	60	7.5	X	60C, pH 7.5, 0.05 mM Mg2+, mutant enzyme R164A
+0.62	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	60	7.5	X	60C, pH 7.5, 0.05 mM Mg2+, mutant enzyme R164A
+0.73	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	60	7.5	X	60C, pH 7.5, 0.05 mM Mg2+, mutant enzyme R164A/H154A
+0.73	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	60	7.5	X	60C, pH 7.5, 0.05 mM Mg2+,mutant enzyme R164A/H154A
+0.78	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	37	7.2	X	mutant enzyme I36E/M47D/D83G/N109S/F149S, pH 7.2, 37C
+0.78	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	37	7.2	X	mutant enzyme I36E/M47D/D83G/N109S/F149S, pH 7.2, 37C
+1.1	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	60	7.5		60C, pH 7.5, 2 mM Mg2+, wild-type enzyme
+1.1	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	60	7.5		60C, pH 7.5, 2 mM Mg2+, wild-type enzyme
+1.2	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	37	7.2	X	mutant enzyme I36E/M47D/T77I/D83G/F149S/N109S/I169T/F193S/L320M, pH 7.2, 37C
+1.2	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	37	7.2	X	mutant F149S, in the presence of 0.05 mM MgCl2, 50 mM Tris-HCl, pH 7.2, at 37C
+1.2	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	37	7.2	X	mutant enzyme I36E/M47D/T77I/D83G/F149S/N109S/I169T/F193S/L320M, pH 7.2, 37C
+1.3	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	37	7.2	X	mutant enzyme I36E/M47D/T77I/D83G/F149S, pH 7.2, 37C
+1.3	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	37	7.2	X	mutant enzyme I36E/M47D/T77I/D83G/F149S, pH 7.2, 37C
+2	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	60	7.5	X	60C, pH 7.5, 0.05 mM Mg2+, mutant enzyme H107A/P178A
+2	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	60	7.5	X	60C, pH 7.5, 0.05 mM Mg2+, mutant enzyme H107A/P178A
+2	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	37	7.2	X	mutant D83G, in the presence of 2 mM MgCl2, 50 mM Tris-HCl, pH 7.2, at 37C
+2.7	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	37	7.2	X	mutant enzyme I36E/M47D/D83G/F149S/F193S, pH 7.2, 37C
+2.7	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	37	7.2	X	mutant enzyme I36E/M47D/D83G/F149S/F193S, pH 7.2, 37C
+2.9	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N				cosubstrate: 5-phospho-alpha-D-ribose 1-diphosphate
+3.4	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	37	7.2	X	mutant enzyme I36E/M47D/D83G/F149S, pH 7.2, 37C
+3.4	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	37	7.2	X	mutant enzyme I36E/M47D/D83G/F149S, pH 7.2, 37C
+3.5	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	37	7.2	X	mutant enzyme I36E/M47D/D83G/F149S/I169T, pH 7.2, 37C
+3.5	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	37	7.2	X	mutant enzyme I36E/M47D/D83G/F149S/I169T, pH 7.2, 37C
+3.9	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	37	7.2	X	mutant enzyme I36E/M47D/D83G/F149S/L320M, pH 7.2, 37C
+3.9	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	37	7.2	X	mutant enzyme I36E/M47D/D83G/F149S/L320M, pH 7.2, 37C
+4.1	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N				cosubstrate: 5-phospho-alpha-D-ribose 1-diphosphate
+4.1	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N				cosubstrate: 5-phospho-alpha-D-ribose 1-diphosphate
+4.2	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	60	7.5		60C, pH 7.5, 0.05 mM Mg2+, wild-type enzyme
+4.2	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	60	7.5		60C, pH 7.5, 0.05 mM Mg2+, wild-type enzyme
+4.4	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N				
+4.4	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N				
+4.4	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	37	7.2	X	mutant D83G/F149S, in the presence of 0.05 mM MgCl2, 50 mM Tris-HCl, pH 7.2, at 37C
+5.1	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	60	7.5	X	60C, pH 7.5, 0.05 mM Mg2+, mutant enzyme H107A
+5.1	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	60	7.5	X	60C, pH 7.5, 0.05 mM Mg2+, mutant enzyme H107A
+5.6	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	60	7.5	X	60C, pH 7.5, 2 mM Mg2+, mutant enzyme E224Q
+5.6	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	60	7.5	X	60C, pH 7.5, 2 mM Mg2+,mutant enzyme E224Q
+6	5-phospho-alpha-D-ribose 1-diphosphate	147	PQGCEDQWHSBAJP-TXICZTDVSA-N	60	7.5	X	60C, pH 7.5, 2 mM Mg2+, mutant enzyme D223N
+6	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	60	7.5	X	60C, pH 7.5, 2 mM Mg2+,mutant enzyme D223N
+13.3	anthranilate	394	RWZYAGGXGHYGMB-UHFFFAOYSA-N	37	7.2	X	mutant D83G/F149S, in the presence of 2 mM MgCl2, 50 mM Tris-HCl, pH 7.2, at 37C

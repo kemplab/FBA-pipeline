@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3	3-hydroxybenzoate	768	IJFXRHURBJZNAO-UHFFFAOYSA-N	25	8.0		wild type enzyme, at pH 8.0 and 25C
+6.49	3-hydroxybenzoate	768	IJFXRHURBJZNAO-UHFFFAOYSA-N	4	8.0		in 100 mM Tris-H2SO4 (pH 8.0), at 4C
+7	2,5-Dihydroxybenzoate	1532	WXTMDXOMEHJXQO-UHFFFAOYSA-N	25	8.0		in 50 mM Tris-SO4 (pH 8.0), at 25C
+10	2,3-Dihydroxybenzoate	1032	GLDQAMYCGOIJDV-UHFFFAOYSA-N	25	8.0		in 50 mM Tris-SO4 (pH 8.0), at 25C
+13	3,5-Dihydroxybenzoate	4022	UYEMGAFJOZZIFP-UHFFFAOYSA-M	25	8.0		in 50 mM Tris-SO4 (pH 8.0), at 25C
+35	3-hydroxybenzoate	768	IJFXRHURBJZNAO-UHFFFAOYSA-N	25	8.0		in 50 mM Tris-SO4 (pH 8.0), at 25C
+41	3-hydroxybenzoate	768	IJFXRHURBJZNAO-UHFFFAOYSA-N	25	8.0	X	mutant enzyme Y105F, at pH 8.0 and 25C

@@ -1,0 +1,72 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0072	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+0.0163	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+0.022	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+0.072	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+0.0845	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+0.25	p-nitrophenylbutanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	36		X	36C, mutant H173L; 36C, mutant S103T
+0.66	p-nitrophenylbutanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	36			36C, wild-type
+1.5	p-nitrophenylbutanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	36		X	36C, mutant S103A
+2.4	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N				pH and temperature not specified in the publication
+2.72	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N				pH and temperature not specified in the publication
+3	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R19S
+7	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant Q65E
+15	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant Q65E
+16	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, recombinant wild-type isozyme
+17	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, recombinant wild-type isozyme
+18	4-nitrophenyl palmitate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, recombinant enzyme
+25	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant L183A
+32	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant L183A
+35	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R187K
+39.5	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N				pH and temperature not specified in the publication
+49	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	70	8.0	X	pH 8.0, 70C, recombinant mutant C275A/C292A, absence of 1% PEG
+76	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R19S/R29N/A30V
+79	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R187K
+80	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R19S
+100	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R29N/A30V
+136	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R19S/R29N/A30V
+172	triolein	1184	PHYFQTYBJUILEZ-IUPFWZBJSA-N	30	7.5		pH 7.5, 30C, recombinant enzyme
+173	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R29N/A30V
+183	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant A30V
+187	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, recombinant enzyme
+191	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R29N
+191	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, recombinant enzyme
+196	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	50	8.0	X	pH 8.0, 50C, recombinant mutant C275A/C292A, absence of 1% PEG
+207	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R29N
+211.9	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N				pH and temperature not specified in the publication
+213	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	70	8.0		pH 8.0, 70C, recombinant wild-type enzyme, absence of 1% PEG
+230	p-nitrophenylacetate	2396	YBADLXQNJCMBKR-UHFFFAOYSA-N				without surfactant
+232	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme, absence of 1% PEG
+238	tributyrin	1146	UYXTWWCETRIEDR-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, recombinant enzyme
+260	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant A30V
+278	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme, presence of 1% PEG
+318	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	70	8.0		pH 8.0, 70C, recombinant wild-type enzyme, absence of 1% PEG
+327	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, recombinant isozyme
+342	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant C275A/C292A, absence of 1% PEG
+343	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	50	8.0		pH 8.0, 50C, recombinant wild-type enzyme, absence of 1% PEG
+359	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	50	8.0		pH 8.0, 50C, recombinant wild-type enzyme, presence of 1% PEG
+436	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, recombinant isozyme
+483	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C, isozyme Tfu 0882
+509	tricaprylin	5586	VLPFTAMPNXLGLX-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, recombinant enzyme
+539	p-nitrophenylbutanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N				without surfactant
+742	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C, isozyme Tfu 0883
+837	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C, recombinant cutinase FspC
+7900	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	179		X	T179C mutant, sodium dioctyl sulfosuccinate concentration = 0 mM
+9600	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	179		X	T179Cmutant, sodium dioctyl sulfosuccinate concentration = 0.5 mM
+11000	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	179		X	L153Q mutant, sodium dioctyl sulfosuccinate concentration = 0 mM; T179C mutant, sodium dioctyl sulfosuccinate concentration = 1.5 mM
+11100	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	179		X	T179C mutant, sodium dioctyl sulfosuccinate concentration = 1 mM
+11500	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	179		X	T179C mutant, sodium dioctyl sulfosuccinate concentration = 2 mM
+13800	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N				wild type, sodium dioctyl sulfosuccinate concentration = 2 mM
+14700	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N			X	S54D mutant, sodium dioctyl sulfosuccinate concentration = 0 mM
+15200	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N				wild type, sodium dioctyl sulfosuccinate concentration = 1.5 mM
+15500	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N				wild type, sodium dioctyl sulfosuccinate concentration = 0.5 mM
+15600	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N				wild type, sodium dioctyl sulfosuccinate concentration = 0 mM
+16000	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N			X	L153Q mutant, sodium dioctyl sulfosuccinate concentration = 0.5 mM
+17400	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N				wild type, sodium dioctyl sulfosuccinate concentration = 1 mM
+17900	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N			X	L153Q mutant, sodium dioctyl sulfosuccinate concentration = 1 mM
+24200	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N			X	S54D mutant, sodium dioctyl sulfosuccinate concentration = 1 mM
+24700	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N			X	S54D mutant, sodium dioctyl sulfosuccinate concentration = 0.5 mM
+25200	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N			X	S54D mutant, sodium dioctyl sulfosuccinate concentration = 1.5 mM
+25800	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N			X	L153Q mutant, sodium dioctyl sulfosuccinate concentration = 1.5 mM
+28500	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N			X	L153Q mutant, sodium dioctyl sulfosuccinate concentration = 2 mM
+32100	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N			X	S54D mutant, sodium dioctyl sulfosuccinate concentration = 2 mM

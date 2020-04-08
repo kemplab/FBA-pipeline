@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.53	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		9.0	X	substrate-binding loop chimera plus mutation D55N, pH 9.0, temperature not specified in the publication
+1.61	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		9.0		wild-type, pH 9.0, temperature not specified in the publication
+2.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		9.0		substrate-binding loop chimera, pH 9.0, temperature not specified in the publication
+1.42	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		9.0	X	substrate-binding loop chimera plus mutation D55N, pH 9.0, temperature not specified in the publication
+0.71	D-sorbitol	513	BJHIKXHVCXFQLS-PYWDMBMJSA-N		10.0		wild-type, pH 10.0
+1.19	D-sorbitol	513	BJHIKXHVCXFQLS-PYWDMBMJSA-N	154	9.0	X	mutant E154C, pH 9.0, 25C
+2	D-sorbitol	513	BJHIKXHVCXFQLS-PYWDMBMJSA-N	25	9.0		pH 9.0, 25C
+161	D-sorbitol	513	BJHIKXHVCXFQLS-PYWDMBMJSA-N	25	9.0		wild-type, pH 9.0, 25C
+506	D-sorbitol	513	BJHIKXHVCXFQLS-PYWDMBMJSA-N				
+0.63	D-xylitol	348	HEBKCHPVOIAQTA-SCDXWVJYSA-N		10.0		wild-type, pH 10.0
+354	4-fluoro-D-sorbitol	15110	HDCVZSRAPONRHD-PYWDMBMJSA-N				
+350	3-fluoro-D-sorbitol	15111	HHVKOFZGBKAVEK-SRQIZXRXSA-N				
+129	4-deoxy-D-sorbitol	15112	GQYJNBFFXHLUKS-CRCLSJGQSA-N				
+559	6-fluoro-D-sorbitol	23118	QCALMHXICBCGNJ-PYWDMBMJSA-N				
+274	6-deoxy-D-sorbitol	23119	QZNPNKJXABGCRC-PYWDMBMJSA-N				
+441	3-deoxy-D-sorbitol	23120	OXFWZSUJNURRMW-PHDIDXHHSA-N				

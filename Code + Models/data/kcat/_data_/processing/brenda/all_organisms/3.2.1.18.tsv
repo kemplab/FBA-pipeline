@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+45	4-methylumbelliferyl-alpha-D-N-acetylneuraminic acid	3098	KKDWIUJBUSOPGC-GKHMPSLRSA-N				
+157.6	colominic acid	2880	UDZMRZNTGWTHSB-MTYHGVEASA-N	37	7.0		pH 7.0 and 37C
+0.0743	4-methylumbelliferyl alpha-D-N-acetylneuraminic acid	3098	KKDWIUJBUSOPGC-GKHMPSLRSA-N	37	3.5		pH 3.5, 37C
+8	4-methylumbelliferyl alpha-D-N-acetylneuraminic acid	3098	KKDWIUJBUSOPGC-GKHMPSLRSA-N	37	5.0	X	recombinant mutant M87G, pH 5.0, 37C
+23	4-methylumbelliferyl alpha-D-N-acetylneuraminic acid	3098	KKDWIUJBUSOPGC-GKHMPSLRSA-N	37	5.0		recombinant wild-type enzyme, pH 5.0, 37C
+27	4-methylumbelliferyl alpha-D-N-acetylneuraminic acid	3098	KKDWIUJBUSOPGC-GKHMPSLRSA-N	37	5.0	X	recombinant mutants A160G and H277F, pH 5.0, 37C
+32	4-methylumbelliferyl alpha-D-N-acetylneuraminic acid	3098	KKDWIUJBUSOPGC-GKHMPSLRSA-N	37	5.0	X	recombinant mutant R48N, pH 5.0, 37C
+44	4-methylumbelliferyl alpha-D-N-acetylneuraminic acid	3098	KKDWIUJBUSOPGC-GKHMPSLRSA-N	37	5.0	X	recombinant mutant R48S, pH 5.0, 37C
+51	4-methylumbelliferyl alpha-D-N-acetylneuraminic acid	3098	KKDWIUJBUSOPGC-GKHMPSLRSA-N	37	5.0	X	recombinant mutant E51S, pH 5.0, 37C
+146.7	4-methylumbelliferyl alpha-D-N-acetylneuraminic acid	3098	KKDWIUJBUSOPGC-GKHMPSLRSA-N	37	7.0		pH 7.0 and 37C
+313.5	sialyl-alpha-2,3-lactose	4969	RUKUBERKXYXPKJ-CTMJTKPSSA-N	37	7.0		pH 7.0 and 37C
+161	sialyl-alpha-2,6-lactose	4970	OULKXIPZJVPRNX-FJKBDQQUSA-N	37	7.0		pH 7.0 and 37C
+0.031	4-nitrophenyl alpha-sialoside	6891	OICUZSPXIJAAEA-CXECBNLGSA-N	25	7.6	X	mutant D59A, hydrolysis, pH 7.6, 25C
+1.57	4-nitrophenyl alpha-sialoside	6891	OICUZSPXIJAAEA-CXECBNLGSA-N	25	7.6		wild-type, hydrolysis, pH 7.6, 25C
+13.3	phenyl beta-sialoside	16679	FLOVUNWVDMMYKY-CXECBNLGSA-N	37	5.25	X	pH 5.25, 37C, mutant enzyme Y370G
+2.9	(trifluoromethyl)umbelliferyl alpha-sialoside	18050	OLMNXSREKHGGBU-LTQWQXDYSA-N	25	7.6		wild-type, hydrolysis, pH 7.6, 25C
+0.82	phenyl alpha-sialoside	24850	FLOVUNWVDMMYKY-WTUOYXTGSA-N	37	5.25	X	pH 5.25, 37C, mutant enzyme Y370G
+0.88	4-nitrophenyl alpha-D-N-acetylneuraminic acid	27121	OICUZSPXIJAAEA-WTUOYXTGSA-N				
+82.4	4-nitrophenyl alpha-D-N-acetylneuraminic acid	27121	OICUZSPXIJAAEA-WTUOYXTGSA-N	37	7.0		pH 7.0 and 37C
+0.0004	4-methylumbelliferyl D-N-acetylneuraminyl-alpha-(2-&gt;3)-D-galactopyranoside	114618	YMKRDPUMABTRMG-UGMRPKRRSA-N	37	3.5		pH 3.5, 37C

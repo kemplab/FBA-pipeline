@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3.5	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N				
+11.2	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N		4.5		calculated value at pH 4.5, temperature not specified in the publication
+20.26	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N				
+104	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	7.3		in 100 mM Tris-HCl (pH 7.3), 10 mM MgCl2, 2.5 mM EDTA, at 30C
+250	3-methyloxaloacetate	8281	XVYNALFLLYHTLS-UHFFFAOYSA-N	25	7.5		in 0.2 mM NADH, 5 mM MgCl2 and 50 mM K+HEPES (pH 7.5), at 25C
+7500	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	25	7.5		in 0.2 mM NADH, 5 mM MgCl2 and 50 mM K+HEPES (pH 7.5), at 25C

@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.013	beta-L-arabinofuranosyl-L-hydroxyproline	118785	ABCIYWCIWZHVKW-BFZMHJHUSA-N	37	4.5		wild-type, pH 4.5, 37C
+2	beta-L-arabinofuranosyl-(1-&gt;2)-beta-L-arabinofuranose	10276	YKHKYDDELRYDNQ-KHANRBQJSA-N	37	4.5		wild-type, pH 4.5, 37C
+6.3	beta-L-arabinofuranosyl-(1-&gt;2)-beta-L-arabinofuranosyl-L-hydroxyproline	118784	HBIOCZHRIWYSFJ-FMPMMOSUSA-N	37	4.5		wild-type, pH 4.5, 37C

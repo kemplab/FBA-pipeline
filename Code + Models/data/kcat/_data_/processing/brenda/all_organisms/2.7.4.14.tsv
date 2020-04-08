@@ -1,0 +1,30 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.019	cytarabine	1495	UHDGCWIWMRVCDJ-CCXZUQQUSA-N			X	pH and temperature not specified in the publication, recombinant mutant P64T
+0.036	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N			X	pH and temperature not specified in the publication, recombinant mutant P64T
+0.09	Cidofovir	24404	VWFCHDSQECPREK-LURJTMIESA-N				pH and temperature not specified in the publication, recombinant wild-type enzyme
+0.31	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N			X	pH and temperature not specified in the publication, recombinant mutant P64T
+0.35	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N			X	pH and temperature not specified in the publication, recombinant mutant P64T
+0.65	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N	25	7.0		pH 7.0, 25C, AUA chimeric enzyme
+5.8	dUMP	496	JSRLJPSBLDHEIO-SHYZEUOFSA-N				pH and temperature not specified in the publication, recombinant wild-type enzyme
+7.64	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N		6.5		pH 6.5
+8.57	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N		6.5		pH 6.5
+10	beta-L-2',3'-dideoxy-3'-thiacytidine monophosphate	5037	WUMZLKDCOINBEA-RQJHMYQMSA-N	37	7.4		pH 7.4, 37C
+13.4	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N				pH and temperature not specified in the publication, recombinant wild-type enzyme
+13.7	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N	25	7.0		pH 7.0, 25C, UAU chimeric enzyme
+14	beta-L-2',3'-dideoxy-3'-thiacytidine monophosphate	5037	WUMZLKDCOINBEA-RQJHMYQMSA-N	37	7.4		pH 7.4, 37C, GST fusion UMP/CMP kinase
+22	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N	37	7.4		pH 7.4, 37C
+30	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N	37	7.4		pH 7.4, 37C, GST fusion UMP-CMP kinase
+36	beta-L-2',3'-dideoxy-3'-thiacytidine monophosphate	5037	WUMZLKDCOINBEA-RQJHMYQMSA-N	37	7.4		pH 7.4, 37C, His-tagged UMP-CMP kinase
+45	ara-CMP	3219	IERHLVCPSMICTF-CCXZUQQUSA-N	37	7.4		pH 7.4, 37C, GST fusion UMP-CMP kinase
+72	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N	37	7.4		pH 7.4, 37C, GST fusion UMP-CMP kinase
+73	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N	37	7.4		pH 7.4, 37C, His-tagged UMP-CMP kinase
+92	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N	37	7.4		pH 7.4, 37C, GST fusion UMP-CMP kinase
+125	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N				pH and temperature not specified in the publication, recombinant wild-type enzyme
+130	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N	37	7.4		pH 7.4, 37C, His-tagged UMP-CMP kinase
+130	cytarabine	1495	UHDGCWIWMRVCDJ-CCXZUQQUSA-N				pH and temperature not specified in the publication, recombinant wild-type enzyme
+130	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N	37	7.4		pH 7.4, 37C, His-tagged UMP-CMP kinase
+150	ara-CMP	3219	IERHLVCPSMICTF-CCXZUQQUSA-N	37	7.4		pH 7.4, 37C, His-tagged UMP-CMP kinase
+174	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N	25	7.0		pH 7.0, 25C, UMP-CMP kinase
+188	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N				pH and temperature not specified in the publication, recombinant wild-type enzyme
+217	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N	37	7.4		pH 7.4, 37C
+410	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N	37	7.4		pH 7.4, 37C

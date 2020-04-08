@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.009	beta-sitosterol	1220	KZJWDPNRJALLNS-VJSFXXLFSA-N				isoform CYP710A1, pH and temperature not specified in the publication
+0.009	beta-sitosterol	1220	KZJWDPNRJALLNS-VJSFXXLFSA-N	30	7.3		at pH 7.3 and 30C
+0.015	beta-sitosterol	1220	KZJWDPNRJALLNS-VJSFXXLFSA-N	30	7.3		isoform CAP710A14, at pH 7.3 and 30C
+0.17	beta-sitosterol	1220	KZJWDPNRJALLNS-VJSFXXLFSA-N				isoform CYP710A2, pH and temperature not specified in the publication
+0.17	beta-sitosterol	1220	KZJWDPNRJALLNS-VJSFXXLFSA-N	30	7.3		at pH 7.3 and 30C

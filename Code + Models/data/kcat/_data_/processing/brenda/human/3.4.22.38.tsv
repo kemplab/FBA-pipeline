@@ -1,0 +1,44 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+39	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	25	7.4		enzyme in the presence of 300 mM NaCl, in 50 mM HEPES, pH 7.4, containing 1 mM EDTA and 2.5 mM dithiothreitol, at 25C
+91	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	25	7.4		enzyme in the absence of NaCl, in 50 mM HEPES, pH 7.4, containing 1 mM EDTA and 2.5 mM dithiothreitol, at 25C
+0.19	benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin	10496	VCOVUYXJMHMVNV-FMYROPPKSA-N	25	7.4		enzyme in the presence of 300 mM NaCl, in 50 mM HEPES, pH 7.4, containing 1 mM EDTA and 2.5 mM dithiothreitol, at 25C
+0.37	benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin	10496	VCOVUYXJMHMVNV-FMYROPPKSA-N	25	7.4		enzyme in the absence of NaCl, in 50 mM HEPES, pH 7.4, containing 1 mM EDTA and 2.5 mM dithiothreitol, at 25C
+0.0005	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin 7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N				
+0.9	Benzyloxycarbonyl-Phe-Arg 4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+3.5	Benzyloxycarbonyl-Phe-Arg 4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+5.6	Z-Leu-Arg-7-amido-4-methylcoumarin	3455	TUDSNQMKQAXCOB-ZEQRLZLVSA-N	28	5.5	X	mutant enzyme K9E/I171E/Q172S/N190M/K191G/L195K, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28C
+5.7	Z-Leu-Arg-7-amido-4-methylcoumarin	3455	TUDSNQMKQAXCOB-ZEQRLZLVSA-N	28	5.5	X	mutant enzyme K9E, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28C
+6.2	Z-Leu-Arg-7-amido-4-methylcoumarin	3455	TUDSNQMKQAXCOB-ZEQRLZLVSA-N	28	5.5		wild type enzyme, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28C
+6.4	Z-Leu-Arg-7-amido-4-methylcoumarin	3455	TUDSNQMKQAXCOB-ZEQRLZLVSA-N	28	5.5	X	mutant enzyme K9E/I171E/Q172S, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28C
+7.6	Z-Leu-Arg-7-amido-4-methylcoumarin	3455	TUDSNQMKQAXCOB-ZEQRLZLVSA-N	28	5.5	X	mutant enzyme K9E/N190M/K191G/L195K , in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28C
+9.1	Z-Leu-Arg-7-amido-4-methylcoumarin	3455	TUDSNQMKQAXCOB-ZEQRLZLVSA-N	28	5.5	X	mutant enzyme N190M/K191G/L195K, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28C
+79	Z-Leu-Arg-7-amido-4-methylcoumarin	3455	TUDSNQMKQAXCOB-ZEQRLZLVSA-N				
+1.9	Z-Gly-Pro-Arg-7-amido-4-methylcoumarin	3967	NFIKTSWJXJTUBZ-ZEQRLZLVSA-N	28	5.5	X	mutant enzyme K9E/N190M/K191G/L195K , in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28C
+2	Z-Gly-Pro-Arg-7-amido-4-methylcoumarin	3967	NFIKTSWJXJTUBZ-ZEQRLZLVSA-N	28	5.5	X	mutant enzyme K9E, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28C
+2.1	Z-Gly-Pro-Arg-7-amido-4-methylcoumarin	3967	NFIKTSWJXJTUBZ-ZEQRLZLVSA-N	28	5.5	X	mutant enzyme K9E/I171E/Q172S, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28C
+2.9	Z-Gly-Pro-Arg-7-amido-4-methylcoumarin	3967	NFIKTSWJXJTUBZ-ZEQRLZLVSA-N	28	5.5		wild type enzyme, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28C
+3.6	Z-Gly-Pro-Arg-7-amido-4-methylcoumarin	3967	NFIKTSWJXJTUBZ-ZEQRLZLVSA-N	28	5.5	X	mutant enzyme K9E/I171E/Q172S/N190M/K191G/L195K, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28C
+3.7	Z-Gly-Pro-Arg-7-amido-4-methylcoumarin	3967	NFIKTSWJXJTUBZ-ZEQRLZLVSA-N	28	5.5	X	mutant enzyme N190M/K191G/L195K, in 100 mM sodium acetate buffer, pH 5.5, containing 2.5 mM dithiothreitol, and 2.5 mM EDTA, at 28C
+56.1	carbobenzyloxy-Leu-Arg-4-methylcoumaryl-7-amide	2905	XDHCDHWCFOQOCP-ZEQRLZLVSA-N	37	7.0		pH 7.0, 37C, recombinant enzyme
+0.39	benzoyl-Phe-Val-Arg 4-methylcoumarin 7-amide	4827	QBDRNGBZKAOZHF-OLWNVYNHSA-N				
+0.02	Benzyloxycarbonyl-Leu-Leu-Arg 4-methylcoumarin 7-amide	8339	BSZFZMKZCRGANH-AWCRTANDSA-N				
+0.078	Benzyloxycarbonyl-Leu-Leu-Arg 4-methylcoumarin 7-amide	8339	BSZFZMKZCRGANH-AWCRTANDSA-N				
+0.083	tert-butyloxycarbonyl-Val-Pro-Arg 4-methylcoumarin 7-amide	6639	DFOSAUPKTFJBLO-HWBMXIPRSA-N				
+0.98	Benzyloxycarbonyl-Leu-Arg 4-methylcoumarin 7-amide	2905	XDHCDHWCFOQOCP-ZEQRLZLVSA-N				
+3.4	Benzyloxycarbonyl-Leu-Arg 4-methylcoumarin 7-amide	2905	XDHCDHWCFOQOCP-ZEQRLZLVSA-N				
+1.06	Benzyloxycarbonyl-Val-Arg 4-methylcoumarin 7-amide	10495	PPCUYJROGHMPDG-DHLKQENFSA-N				
+2.9	Benzyloxycarbonyl-Val-Arg 4-methylcoumarin 7-amide	10495	PPCUYJROGHMPDG-DHLKQENFSA-N				
+0.01	Benzyloxycarbonyl-Val-Val-Arg 4-methylcoumarin 7-amide	10496	VCOVUYXJMHMVNV-FMYROPPKSA-N				
+0.021	Benzyloxycarbonyl-Val-Val-Arg 4-methylcoumarin 7-amide	10496	VCOVUYXJMHMVNV-FMYROPPKSA-N				
+0.008	Succinyl-Leu-Tyr 4-methylcoumarin 7-amide	3040	RIYLNECMTVNMSO-GOTSBHOMSA-N				
+23.2	N-[(1S)-2,2,2-trifluoro-1-[4'-(methylsulfonyl)biphenyl-4-yl]ethyl]-L-leucyl-L-alaninamide	12213	YQTOFIGPJMWJKX-JHVJFLLYSA-N				
+3.25	N-[(1S)-2,2,2-trifluoro-1-[4'-(methylsulfonyl)biphenyl-4-yl]ethyl]-L-leucyl-L-methioninamide	12214	WTCWDRYXEBABLL-VABKMULXSA-N				
+23.2	N-[(1S)-2,2,2-trifluoro-1-[4'-(methylsulfonyl)biphenyl-4-yl]ethyl]-L-leucylglycinamide	12215	YVDVDTCHSKTCEN-FPOVZHCZSA-N				
+0.092	benzoyl-Arg 4-methylcoumarin 7-amide	2256	HYJIKHYBLDRPMG-SFHVURJKSA-N				
+0.16	Pro-Phe-Arg 4-methylcoumarin 7-amide	3191	LATXIQYQVGEJJC-HJOGWXRNSA-N				
+0.00011	2,2'-N,N'-bis(benzyloxycarbonyl)-L-leucinylcarbohydrazide	14998	DDSYXMGUZFFABH-BJKOFHAPSA-N		5.5		pH 5.5, room temperature
+0.016	Acetyl-Phe-Arg 4-methylcoumarin 7-amide	20160	NAFSUWKRVMKNEQ-VXKWHMMOSA-N				
+0.037	Benzyloxycarbonyl-Glu-Arg 4-methylcoumarin 7-amide	20220	UAWXGYMNNCZNLU-VXKWHMMOSA-N				
+0.52	tert-butyloxycarbonyl-Val-Leu-Lys 4-methylcoumarin 7-amide	7588	KVLPXRKIIFWZLM-DPZBCOQUSA-N				
+2.2	tosyl-Gly-Pro-Arg 4-methylcoumarin 7-amide	3725	DWTAHKFEIVWFGQ-ZEQRLZLVSA-N				
+17	carbobenzoxy-Phe-Arg-7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N	37	5.5		at pH 5.5 and 37C

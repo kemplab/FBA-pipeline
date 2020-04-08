@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.05	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N				
+0.05	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N				
+0.1	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N				in the presence of 0.45% cyclodextrin
+0.248	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N				in the presence of 4.5% cyclodextrin
+0.417	cholesterol	169	HVYWMOMLDIMFJA-DPAQBDIFSA-N				by large unilamellar vesicles
+0.328	vitamin D3	1999	QYSXJUFSXHHAJI-YRZJJWOYSA-N				in the presence of 0.45% cyclodextrin
+1.6	vitamin D3	1999	QYSXJUFSXHHAJI-YRZJJWOYSA-N				in the presence of 4.5% cyclodextrin
+0.123	20-hydroxyvitamin D3	6911	IQEQEOBGZMEDBQ-LBRHRNEPSA-N				in the presence of 0.45% cyclodextrin

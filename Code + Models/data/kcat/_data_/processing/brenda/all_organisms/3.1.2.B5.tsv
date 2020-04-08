@@ -1,0 +1,29 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0065	3,4-dihydroxyphenylacetyl-CoA	27375	BWFUCVJSCADRJW-CECATXLMSA-N	25	8.1	X	pH 8.1, 25C, mutant enzyme D75A
+0.012	3,4-dihydroxyphenylacetyl-CoA	27375	BWFUCVJSCADRJW-CECATXLMSA-N	25	8.1	X	pH 8.1, 25C, mutant enzyme N60A
+0.065	3-hydroxyphenylacetyl-CoA	2348	WOPRCGRQVLJGCX-FFJUWABQSA-N	25	8.1	X	pH 8.1, 25C, mutant enzyme D16A
+0.076	3,4-dihydroxyphenylacetyl-CoA	27375	BWFUCVJSCADRJW-CECATXLMSA-N	25	8.1	X	pH 8.1, 25C, mutant enzyme N46A
+0.11	3,4-dihydroxyphenylacetyl-CoA	27375	BWFUCVJSCADRJW-CECATXLMSA-N	25	8.1	X	pH 8.1, 25C, mutant enzyme D16A
+0.17	4-hydroxyphenylacetyl-CoA	7549	GPCAQTOAAYEBGJ-FFJUWABQSA-N	25	8.1	X	pH 8.1, 25C, mutant enzyme D16A
+0.18	3,4-dihydroxyphenylacetyl-CoA	27375	BWFUCVJSCADRJW-CECATXLMSA-N	25	8.1	X	pH 8.1, 25C, mutant enzyme N60D
+0.26	4-hydroxyphenylacetyl-CoA	7549	GPCAQTOAAYEBGJ-FFJUWABQSA-N	25	8.1	X	pH 8.1, 25C, mutant enzyme H52A
+0.31	4-hydroxyphenylacetyl-CoA	7549	GPCAQTOAAYEBGJ-FFJUWABQSA-N	25	8.1	X	pH 8.1, 25C, mutant enzyme N46A
+0.41	phenylacetyl-CoA	870	ZIGIFDRJFZYEEQ-CECATXLMSA-N	25	8.1		pH 8.1, 25C, wild-type enzyme
+0.81	3-hydroxyphenylacetyl-CoA	2348	WOPRCGRQVLJGCX-FFJUWABQSA-N	25	8.1	X	pH 8.1, 25C, mutant enzyme N46A
+0.89	3-hydroxyphenylacetyl-CoA	2348	WOPRCGRQVLJGCX-FFJUWABQSA-N	25	8.1	X	pH 8.1, 25C, mutant enzyme H52A
+2.3	3,5-dihydroxyphenylacetyl-CoA	27376	MAFTTXQJASXWBB-CECATXLMSA-N	25	8.1		pH 8.1, 25C, wild-type enzyme
+2.7	3,4-dihydroxyphenylacetyl-CoA	27375	BWFUCVJSCADRJW-CECATXLMSA-N	25	8.1	X	pH 8.1, 25C, mutant enzyme H52A
+3.2	4-hydroxyphenylacetyl-CoA	7549	GPCAQTOAAYEBGJ-FFJUWABQSA-N	25	8.1	X	pH 8.1, 25C, mutant enzyme N15A
+3.7	phenylacetyl-CoA	870	ZIGIFDRJFZYEEQ-CECATXLMSA-N	25	8.1		pH 8.1, 25C, wild-type enzyme
+8.2	3-hydroxyphenylacetyl-CoA	2348	WOPRCGRQVLJGCX-FFJUWABQSA-N	25	8.1		pH 8.1, 25C, wild-type enzyme
+9	3,5-dihydroxyphenylacetyl-CoA	27376	MAFTTXQJASXWBB-CECATXLMSA-N	25	8.1		pH 8.1, 25C, wild-type enzyme
+11	4-hydroxyphenylacetyl-CoA	7549	GPCAQTOAAYEBGJ-FFJUWABQSA-N	25	8.1		pH 8.1, 25C, wild-type enzyme
+15	3-hydroxyphenylacetyl-CoA	2348	WOPRCGRQVLJGCX-FFJUWABQSA-N	25	8.1	X	pH 8.1, 25C, mutant enzyme E14A
+18	3,4-dihydroxyphenylacetyl-CoA	27375	BWFUCVJSCADRJW-CECATXLMSA-N	25	8.1		pH 8.1, 25C, wild-type enzyme
+19	4-hydroxyphenylacetyl-CoA	7549	GPCAQTOAAYEBGJ-FFJUWABQSA-N	25	8.1	X	pH 8.1, 25C, mutant enzyme E14A
+20	3,4-dihydroxyphenylacetyl-CoA	27375	BWFUCVJSCADRJW-CECATXLMSA-N	25	8.1	X	pH 8.1, 25C, mutant enzyme E14A
+26	3,4-dihydroxyphenylacetyl-CoA	27375	BWFUCVJSCADRJW-CECATXLMSA-N	25	8.1	X	pH 8.1, 25C, mutant enzyme N15A
+30	3-hydroxyphenylacetyl-CoA	2348	WOPRCGRQVLJGCX-FFJUWABQSA-N	25	8.1	X	pH 8.1, 25C, mutant enzyme N15A
+79	4-hydroxyphenylacetyl-CoA	7549	GPCAQTOAAYEBGJ-FFJUWABQSA-N	25	8.1		pH 8.1, 25C, wild-type enzyme
+86	3-hydroxyphenylacetyl-CoA	2348	WOPRCGRQVLJGCX-FFJUWABQSA-N	25	8.1		pH 8.1, 25C, wild-type enzyme
+100	3,4-dihydroxyphenylacetyl-CoA	27375	BWFUCVJSCADRJW-CECATXLMSA-N	25	8.1		pH 8.1, 25C, wild-type enzyme

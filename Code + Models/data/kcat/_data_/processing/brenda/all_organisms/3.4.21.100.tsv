@@ -1,0 +1,77 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.017	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Glu-Leu	5899	PAPOIIOSFFTZJN-AEBHPDITSA-N	37	3.5		pH 3.5, 37C
+0.031	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Leu-Leu	8948	KIBZDNBNWARAFL-AMKBAOGFSA-N	37	3.5		pH 3.5, 37C
+0.031	Lys-Pro-Thr-Glu-Phe-p-nitrophenylalanine-Arg-Leu	8942	XGYXOEWSSABMPE-UOLIYBITSA-N	37	3.5		pH 3.5, 37C
+0.04	Lys-Pro-Ile-Asn-Phe-p-nitrophenylalanine-Arg-Leu	7638	RWZDHCZLINKYHS-BJRTVKDCSA-N	37	3.5		pH 3.5, 37C
+0.052	Lys-Pro-Asp-Glu-Phe-p-nitrophenylalanine-Arg-Leu	5891	DMXWXGFWYTUNQI-FDISYFBBSA-N	37	3.5		pH 3.5, 37C
+0.052	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Arg-Tyr	8952	ADDIHDAZVAUEAY-PGTAFEFLSA-N	37	3.5		pH 3.5, 37C
+0.055	Lys-Pro-Ala-Leu-Phe-p-nitrophenylalanine-Arg-Leu	2253	JBHRIAXJXWWVEO-YOPQPAPTSA-N	37	3.5	X	pH 3.5, 37C, mutant enzyme D84A
+0.0867	Lys-Pro-Val-Ser-Tyr-(4-nitro)Phe-Arg-Leu	10759	PHPVQHKRILZYMP-TZPCGENMSA-N				
+0.5	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Asn-Leu	8949	ZIZHYQIILGANEO-UDZSMLTASA-N	37	3.5		pH 3.5, 37C
+0.55	Lys-Pro-Ile-Nle-Phe-p-nitrophenylalanine-Arg-Leu	8943	BNEKSMVSXXJYNQ-CMIKULOJSA-N	37	3.5		pH 3.5, 37C
+0.55	Lys-Pro-Ile-Ser-Phe-p-nitrophenylalanine-Arg-Leu	8945	TYCXYRJFWALNTQ-SXMXEBDWSA-N	37	3.5		pH 3.5, 37C
+0.55	Lys-Pro-Val-Glu-Phe-p-nitrophenylalanine-Arg-Leu	7636	PODGNEQVNFELFY-SOBHMVHISA-N	37	3.5		pH 3.5, 37C
+0.64	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Lys-Leu	5900	NIXHPGKEJWVFJO-AMKBAOGFSA-N	37	3.5		pH 3.5, 37C
+1.5	Lys-Pro-Lys-Glu-Phe-p-nitrophenylalanine-Arg-Leu	5892	NRLQYIIKQWNEQN-BXXNOCLASA-N	37	3.5		pH 3.5, 37C
+2.93	Lys-Pro-Ile-His-Phe-p-nitrophenylalanine-Arg-Leu	7639	MOTXGDMPAOMHHQ-AXEPVUOPSA-N	37	3.5		pH 3.5, 37C
+3	Lys-Pro-Ile-His-Phe-p-nitrophenylalanine-Arg-Leu	7639	MOTXGDMPAOMHHQ-AXEPVUOPSA-N	37	3.5		pH 3.5, 37C
+3.1	Lys-Pro-Leu-Glu-Phe-p-nitrophenylalanine-Arg-Leu	11491	BYWJNAVUYIDWNX-BXXNOCLASA-N	37	3.5		pH 3.5, 37C
+3.13	Lys-Pro-Glu-Glu-Phe-p-nitrophenylalanine-Arg-Leu	7637	YCWVHNURPHGCJE-TZPCGENMSA-N	37	3.5		pH 3.5, 37C
+3.13	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Arg-Arg	5905	UELLSVVCLRYJFC-BJRTVKDCSA-N	37	3.5		pH 3.5, 37C
+3.3	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Ile-Leu	8950	RFEROBHWSZQHGQ-MSEMKWBCSA-N	37	3.5		pH 3.5, 37C
+3.3	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Val-Leu	5896	PLLOUCZOCHCBFM-OAYHYJSISA-N	37	3.5		pH 3.5, 37C
+3.64	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Arg-Arg	5905	UELLSVVCLRYJFC-BJRTVKDCSA-N	37	3.5		pH 3.5, 37C
+3.7	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N	37	3.5		pH 3.5, 37C
+3.82	Lys-Pro-Glu-Glu-Phe-p-nitrophenylalanine-Arg-Leu	7637	YCWVHNURPHGCJE-TZPCGENMSA-N	37	3.5		pH 3.5, 37C
+5.24	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Ile-Leu	8950	RFEROBHWSZQHGQ-MSEMKWBCSA-N	37	3.5		pH 3.5, 37C
+5.38	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Val-Leu	5896	PLLOUCZOCHCBFM-OAYHYJSISA-N	37	3.5		pH 3.5, 37C
+5.5	Lys-Pro-Asn-Gln-Phe-(4-nitro)Phe-Arg-Leu	20827	KAQCKXWILVLODE-FDISYFBBSA-N				
+6	Lys-Pro-Ala-Glu-Phe-p-nitrophenylalanine-Arg-Leu	5889	VCLIWHBKTUGAJW-ZAMDTIOZSA-N	37	3.5		pH 3.5, 37C
+6.8	Lys-Pro-Ala-Asp-Phe-(4-nitro)Phe-Arg-Leu	6190	CLJJCDVGKKWLIK-KOOVRBLHSA-N				
+6.9	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N				
+7	Lys-Pro-Ala-Leu-Phe-p-nitrophenylalanine-Arg-Leu	2253	JBHRIAXJXWWVEO-YOPQPAPTSA-N	37	3.5		pH 3.5, 37C, wild-type enzyme
+7.92	Lys-Pro-Thr-Glu-Phe-p-nitrophenylalanine-Arg-Leu	8942	XGYXOEWSSABMPE-UOLIYBITSA-N	37	3.5		pH 3.5, 37C
+8.38	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Leu-Leu	8948	KIBZDNBNWARAFL-AMKBAOGFSA-N	37	3.5		pH 3.5, 37C
+8.79	Lys-Pro-Ile-Asn-Phe-p-nitrophenylalanine-Arg-Leu	7638	RWZDHCZLINKYHS-BJRTVKDCSA-N	37	3.5		pH 3.5, 37C
+9.68	Lys-Pro-Asp-Glu-Phe-p-nitrophenylalanine-Arg-Leu	5891	DMXWXGFWYTUNQI-FDISYFBBSA-N	37	3.5		pH 3.5, 37C
+9.75	Lys-Pro-Ile-Lys-Phe-p-nitrophenylalanine-Arg-Leu	5895	UJRUUABRDUTACK-CMIKULOJSA-N	37	3.5		pH 3.5, 37C
+9.87	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Arg-Tyr	8952	ADDIHDAZVAUEAY-PGTAFEFLSA-N	37	3.5		pH 3.5, 37C
+10.4	Lys-Pro-Ile-Gln-Phe-p-nitrophenylalanine-Arg-Leu	11494	BWIIJOWFPFAEFG-IQZOZZQVSA-N	37	3.5		pH 3.5, 37C
+10.7	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Arg-Phe	11495	WWCBENNVSRIXRI-DCJSUHFSSA-N	37	3.5		pH 3.5, 37C
+10.9	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Arg-Ile	5901	HGEDQSXCOVZPRW-SMXWIPMTSA-N	37	3.5		pH 3.5, 37C
+11.6	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Arg-Val	5902	JLHJDAVWYXXJFM-KDWUJUPASA-N	37	3.5		pH 3.5, 37C
+11.8	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Ser-Leu	5898	WOBIFDSHZYBOGF-UTHJPNLOSA-N	37	3.5		pH 3.5, 37C
+12.5	Lys-Pro-Ile-Arg-Phe-p-nitrophenylalanine-Arg-Leu	11493	JXAVOHRPEHDLOS-PXIIGYSRSA-N	37	3.5		pH 3.5, 37C
+12.9	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Asn-Leu	8949	ZIZHYQIILGANEO-UDZSMLTASA-N	37	3.5		pH 3.5, 37C
+14.7	Lys-Pro-Ala-Lys-Phe-(4-nitro)Phe-Arg-Leu	6192	VRZOHOYGPJSLMO-YOPQPAPTSA-N				
+14.8	Lys-Pro-Ile-Nle-Phe-p-nitrophenylalanine-Arg-Leu	8943	BNEKSMVSXXJYNQ-CMIKULOJSA-N	37	3.5		pH 3.5, 37C
+14.8	Lys-Pro-Ile-Ser-Phe-p-nitrophenylalanine-Arg-Leu	8945	TYCXYRJFWALNTQ-SXMXEBDWSA-N	37	3.5		pH 3.5, 37C
+14.8	Lys-Pro-Val-Glu-Phe-p-nitrophenylalanine-Arg-Leu	7636	PODGNEQVNFELFY-SOBHMVHISA-N	37	3.5		pH 3.5, 37C
+15.5	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Arg-Ala	8951	WEWMNXZTTIUDQR-BDHQFOJPSA-N	37	3.5		pH 3.5, 37C
+15.7	Lys-Pro-Ile-Val-Phe-p-nitrophenylalanine-Arg-Leu	8944	WUQAOVBZWYLFRL-PXIIGYSRSA-N	37	3.5		pH 3.5, 37C
+18.3	Lys-Pro-Ile-Ile-Phe-p-nitrophenylalanine-Arg-Leu	8943	BNEKSMVSXXJYNQ-CMIKULOJSA-N	37	3.5		pH 3.5, 37C
+19	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Ala-Leu	5897	ZKZRNSBXJAEVHA-LMRFTOELSA-N	37	3.5		pH 3.5, 37C
+20.4	Lys-Pro-Ser-Glu-Phe-p-nitrophenylalanine-Arg-Leu	5890	JVXVAQRDCCXBIR-FDISYFBBSA-N	37	3.5		pH 3.5, 37C
+20.9	Lys-Pro-Ile-Asp-Phe-p-nitrophenylalanine-Arg-Leu	5894	UUVDJDKJJDUSLS-BJRTVKDCSA-N	37	3.5		pH 3.5, 37C
+22.9	Lys-Pro-Ile-Thr-Phe-p-nitrophenylalanine-Arg-Leu	11492	IBCGSIZMRMCIPJ-BISRNHAESA-N	37	3.5		pH 3.5, 37C
+24.5	Lys-Pro-Gln-Glu-Phe-p-nitrophenylalanine-Arg-Leu	8941	XBGSMGGGEOSIIL-FDISYFBBSA-N	37	3.5		pH 3.5, 37C
+27.2	Lys-Pro-Ile-Leu-Phe-p-nitrophenylalanine-Arg-Leu	5893	PECXBFLHTPPEQN-CMIKULOJSA-N	37	3.5		pH 3.5, 37C
+27.7	Lys-Pro-Ile-Ala-Phe-p-nitrophenylalanine-Arg-Leu	4194	VEZYQZAPLIRVRU-HGTXJSFHSA-N	37	3.5		pH 3.5, 37C
+29.3	Lys-Pro-Ile-Pro-Phe-p-nitrophenylalanine-Arg-Leu	8946	JTDXQDUVRPDOHM-PXIIGYSRSA-N	37	3.5		pH 3.5, 37C
+32.4	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N	37	3.5		pH 3.5, 37C
+33	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Asp-Leu	8947	GYYJNBNXICEUSO-UDZSMLTASA-N	37	3.5		pH 3.5, 37C
+33.3	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Glu-Leu	5899	PAPOIIOSFFTZJN-AEBHPDITSA-N	37	3.5		pH 3.5, 37C
+35	Phe-Pro-Ala-p-nitroanilide	47407	IQYNDHOCCCUVDQ-YSSFQJQWSA-N				
+39	Lys-Pro-Ala-Leu-Phe-p-nitrophenylalanine-Arg-Leu	2253	JBHRIAXJXWWVEO-YOPQPAPTSA-N	37	3.5	X	pH 3.5, 37C, mutant enzyme D124A
+40.7	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Arg-Asp	5904	XLJJXANZYNITLX-MWPYQJJSSA-N	37	3.5		pH 3.5, 37C
+44.4	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Arg-Ser	5903	WXWCMZLXMUQKQA-UKJXDBSJSA-N	37	3.5		pH 3.5, 37C
+47.1	Lys-Pro-Asn-Glu-Phe-p-nitrophenylalanine-Arg-Leu	8941	XBGSMGGGEOSIIL-FDISYFBBSA-N	37	3.5		pH 3.5, 37C
+53.1	Lys-Pro-Arg-Glu-Phe-p-nitrophenylalanine-Arg-Leu	11490	NSAXJWWMFCBDHA-PVEGFDORSA-N	37	3.5		pH 3.5, 37C
+54.1	Lys-Pro-Ile-Glu-Phe-p-nitrophenylalanine-Lys-Leu	5900	NIXHPGKEJWVFJO-AMKBAOGFSA-N	37	3.5		pH 3.5, 37C
+56	Lys-Pro-Ala-Leu-Phe-p-nitrophenylalanine-Arg-Leu	2253	JBHRIAXJXWWVEO-YOPQPAPTSA-N	37	3.5	X	pH 3.5, 37C, mutant enzyme E217A
+56.3	Lys-Pro-Lys-Glu-Phe-p-nitrophenylalanine-Arg-Leu	5892	NRLQYIIKQWNEQN-BXXNOCLASA-N	37	3.5		pH 3.5, 37C
+57.6	Lys-Pro-Ala-Glu-Phe-p-nitrophenylalanine-Arg-Leu	5889	VCLIWHBKTUGAJW-ZAMDTIOZSA-N	37	3.5		pH 3.5, 37C
+59.3	Lys-Pro-Ala-Leu-Phe-p-nitrophenylalanine-Arg-Leu	2253	JBHRIAXJXWWVEO-YOPQPAPTSA-N	37	3.5		pH 3.5, 37C, wild-type enzyme
+59.5	Lys-Pro-Ala-Leu-Phe-p-nitrophenylalanine-Arg-Leu	2253	JBHRIAXJXWWVEO-YOPQPAPTSA-N	37	3.5	X	pH 3.5, 37C, mutant enzyme D265A
+65.2	Lys-Pro-Ala-Leu-Phe-p-nitrophenylalanine-Arg-Leu	2253	JBHRIAXJXWWVEO-YOPQPAPTSA-N	37	3.5	X	pH 3.5, 37C, mutant enzyme D225A
+73	Mca-Lys-Pro-Pro-Leu-Glu-Tyr-Arg-Leu-Gly-Lys(DNP)-Gly	22654	CDLHOBPWQCRRBW-CHSOLAMVSA-N				

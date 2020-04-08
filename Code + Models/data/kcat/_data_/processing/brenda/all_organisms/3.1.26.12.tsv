@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.121	GUUUU-containing RNA oligonucleotide	15882	BLFCAMBWVRLDHP-UHFFFAOYSA-J	30	7.5		recombinant enzyme N-terminal half, pH 7.5, 30C
+0.023	UUUUU-DN34-containing RNA oligonucleotide	15883	GQSFNCNYAWGPPU-UHFFFAOYSA-I	30	7.5		recombinant enzyme N-terminal half, pH 7.5, 30C
+0.765	GAUUU-containing RNA oligonucleotide	23927	HUPIMFBUJVADGL-UHFFFAOYSA-I	30	7.5		recombinant enzyme N-terminal half, pH 7.5, 30C
+0.15	CAUUU-containing RNA oligonucleotide	23928	HSCKMPHSHRNSIA-UHFFFAOYSA-I	30	7.5		recombinant enzyme N-terminal half, pH 7.5, 30C
+0.192	AAUUU-containing RNA oligonucleotide	23929	XVHBFWYJVRDEAS-UHFFFAOYSA-I	30	7.5		recombinant enzyme N-terminal half, pH 7.5, 30C
+0.209	UAUUU-containing RNA oligonucleotide	23930	SZYFRKHOKRRIOS-UHFFFAOYSA-I	30	7.5		recombinant enzyme N-terminal half, pH 7.5, 30C
+0.015	UUUUU-containing RNA oligonucleotide	15883	GQSFNCNYAWGPPU-UHFFFAOYSA-I	30	7.5		recombinant enzyme N-terminal half, pH 7.5, 30C
+1.4	5'-GGGACAGUAUUUG-3'	25791	VWSAAHDJTMBIPT-WKOVNFPDSA-N		8.3		in 25 mM bis-Tris-propane (pH 8.3), 15 mM MgCl2, 100 mM NaCl, 0.1% (v/v) Triton X-100, and 1 mM dithiothreitol

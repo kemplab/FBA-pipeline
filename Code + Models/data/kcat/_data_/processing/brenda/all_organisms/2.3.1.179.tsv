@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.022	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	25	6.5	X	R206G mutant protein, donor lauroyl-CoA, 0.1 mM lauroyl-CoA, pH 6.5, 25C
+0.042	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	25	6.5		wild type protein, donor lauroyl-CoA, 0.075 mM lauroyl-CoA, pH 6.5, 25C
+0.047	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N	25	6.5		wild type protein, acceptor malonyl-CoA, 0.5 mM malonyl-CoA, pH 6.5, 25C
+0.029	malonyl-ACP	650	UXBIETNMFOABOO-UHFFFAOYSA-N	25	6.5		wild type protein, donor lauroyl-ACP, 0.01 mM lauroyl-ACP, pH 6.5, 25C
+0.018	malonyl-phosphopantetheine-8-mer	118569	FTIQPSLTKCXGHE-NNNIVVLVSA-N	25	6.5		wild type protein, donor lauroyl-CoA, 0.075 mM lauroyl-CoA, pH 6.5, 25C
+0.023	malonyl-phosphopantetheine-14-mer	118570	GYQFPXDMPSGEIW-WYNFSKBZSA-N	25	6.5		wild type protein, donor lauroyl-CoA, 0.075 mM lauroyl-CoA, pH 6.5, 25C
+0.022	malonyl-phosphopantetheine-16-mer	118571	HKRMYVQJOROTKR-BMAYWNADSA-N	25	6.5		wild type protein, donor lauroyl-CoA, 0.075 mM lauroyl-CoA, pH 6.5, 25C
+0.022	malonyl-phosphopantetheine	118707	RNFWAFOKCVKQGB-LBPRGKRZSA-N	25	6.5		wild type protein, donor lauroyl-CoA, 0.075 mM lauroyl-CoA, pH 6.5, 25C

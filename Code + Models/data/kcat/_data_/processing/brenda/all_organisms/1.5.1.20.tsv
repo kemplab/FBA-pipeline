@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.007	methylenetetrahydrofolate	727	QYNUQALWYRSVHF-ABLWVSNPSA-N	4	7.2	X	recombinant mutant D120N, pH 7.2, 4C
+0.011	methylenetetrahydrofolate	727	QYNUQALWYRSVHF-ABLWVSNPSA-N	4	7.2	X	recombinant mutant D120K, pH 7.2, 4C
+0.017	methylenetetrahydrofolate	727	QYNUQALWYRSVHF-ABLWVSNPSA-N	4	7.2	X	recombinant mutant D120V, pH 7.2, 4C
+0.02	methylenetetrahydrofolate	727	QYNUQALWYRSVHF-ABLWVSNPSA-N	4	7.2	X	recombinant mutant D120S, pH 7.2, 4C
+0.022	methylenetetrahydrofolate	727	QYNUQALWYRSVHF-ABLWVSNPSA-N	4	7.2	X	recombinant mutant D120A, pH 7.2, 4C
+2.2	methylenetetrahydrofolate	727	QYNUQALWYRSVHF-ABLWVSNPSA-N	4	7.2		recombinant wild-type enzyme, pH 7.2, 4C
+10.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.2		cosubstrate 5,10-methylenetetrahydrofolate, wild-type, pH 7.2, 25C
+14	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.2	X	cosubstrate 5,10-methylenetetrahydrofolate, mutant F223L, pH 7.2, 25C
+21.9	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.2	X	cosubstrate 5,10-methylenetetrahydrofolate, mutant F223A, pH 7.2, 25C
+22	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.2	X	cosubstrate menadione, mutant F223A, pH 7.2, 25C
+23.5	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				
+26.7	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				
+31	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.2	X	cosubstrate menadione, mutant F223L, pH 7.2, 25C
+50	methylenetetrahydrofolate	727	QYNUQALWYRSVHF-ABLWVSNPSA-N				
+52	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				phosphate buffer
+55	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.2		cosubstrate menadione, wild-type, pH 7.2, 25C
+74	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				phosphate buffer
+87	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				Tris buffer
+140	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				Tris buffer
+160	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				
+160	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				

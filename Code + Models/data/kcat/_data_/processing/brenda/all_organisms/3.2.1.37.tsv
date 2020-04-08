@@ -1,0 +1,81 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000036	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	7.0	X	mutant E186A, pH 7.0, 25C
+0.0000044	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	8.0	X	mutant E186A, pH 8.0, 25C
+0.0000045	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	6.0	X	mutant E186A, pH 6.0, 25C
+0.001	4-nitrophenyl-beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	37	4.5		pH 4.5, 37C
+0.0014	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	25	6.0	X	mutant E186A, pH 6.0, 25C
+0.0016	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	25	7.0	X	mutant E186A, pH 7.0, 25C; mutant E186A, pH 8.0, 25C
+0.002	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N	40	4.0		pH 4.0, 40C
+0.002	xylohexaose	2232	FTTUBRHJNAGMKL-RJIDMKNSSA-N	40	4.0		pH 4.0, 40C
+0.0027	xylotetraose	1047	KPTPSLHFVHXOBZ-SVRBUABSSA-N	40	4.0		pH 4.0, 40C
+0.0029	xylohexaose	2232	FTTUBRHJNAGMKL-RJIDMKNSSA-N	40	4.0		pH 4.0, 40C
+0.0029	xylotriose	773	JCSJTDYCNQHPRJ-MMDFAQQLSA-N	40	4.0		pH 4.0, 40C
+0.003	xylopentaose	1778	LFFQNKFIEIYIKL-KUFDKHFESA-N	40	4.0		pH 4.0, 40C
+0.0034	xylopentaose	1778	LFFQNKFIEIYIKL-KUFDKHFESA-N	40	4.0		pH 4.0, 40C
+0.0036	xylotetraose	1047	KPTPSLHFVHXOBZ-SVRBUABSSA-N	40	4.0		pH 4.0, 40C
+0.0037	xylotriose	773	JCSJTDYCNQHPRJ-MMDFAQQLSA-N	40	4.0		pH 4.0, 40C
+0.0044	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N	40	4.0		pH 4.0, 40C
+0.014	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	40	7.0	X	pH 7.0, 40C, recombinant mutant E178G
+0.0147	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	40	4.0		pH 4.0, 40C
+0.017	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	40	4.0		pH 4.0, 40C
+0.02	xylotriose	773	JCSJTDYCNQHPRJ-MMDFAQQLSA-N	40	6.2		pH 6.2, 40C
+0.065	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N	40	6.2		pH 6.2, 40C
+0.18	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	40	6.2		pH 6.2, 40C
+0.208	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	40	6.2		pH 6.2, 40C
+0.233	4-methylumbelliferyl-alpha-L-arabinofuranoside	8694	FAGLTVBWEMHJRP-SPWCGHHHSA-N	40	6.2		pH 6.2, 40C
+0.24	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	4.5		pH 4.5, 37C
+0.32	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N	45			45C
+0.96	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	37			37C
+1.18	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	40	6.2		pH 6.2, 40C
+1.35	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	37	5.0		pH 5.0, 37C
+1.6	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	37	5.0	X	mutant Y237F, pH 5.0, 37C
+1.65	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	37	5.0		pH 5.0, 37C
+1.75	4-nitrophenyl-alpha-L-arabinopyranoside	4624	MLJYKRYCCUGBBV-MMWGEVLESA-N	37			37C
+1.8	3,4-dinitrophenyl-beta-D-xylopyranoside	5094	AYTNQEKRUAAWSI-YTWAJWBKSA-N	40	7.0	X	pH 7.0, 40C, recombinant mutant E178G
+2.36	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	25	8.0		wild-type, pH 8.0, 25C
+2.73	4-nitrophenyl alpha-L-arabinopyranoside	4624	MLJYKRYCCUGBBV-MMWGEVLESA-N	30	4.0		pH 4.0, 30C
+3.04	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	25	4.2		pH 4.2, 25C
+3.05	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	8.0		wild-type, pH 8.0, 25C
+3.13	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	6.0		wild-type, pH 6.0, 25C
+3.14	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	7.0		pH 7.0, 25C
+3.28	4-cyanophenyl-beta-D-xylopyranoside	23154	ULCSUKFNDZYBPX-KXNHARMFSA-N	25	4.2		pH 4.2, 25C
+3.28	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	7.0		wild-type, pH 7.0, 25C
+3.3	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	37	5.0	X	mutant E616A, pH 5.0, 37C
+3.34	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	25	7.0		presence of tris(hydroxymethyl)aminomethane, pH 7.0, 25C
+3.48	2-nitrophenyl-beta-D-xylopyranoside	5384	YPQCLGUTGDQYNI-DQDDRIPDSA-N	25	4.2		pH 4.2, 25C
+3.89	2,4-dinitrophenyl-beta-D-xylopyranoside	21286	HATORAGCDKAGPH-DQDDRIPDSA-N	25	4.2		pH 4.2, 25C
+3.9	4-chloro-2-nitrophenyl-beta-D-xylopyranoside	23153	MPXQWPNPHGBRCD-DQDDRIPDSA-N	25	4.2		pH 4.2, 25C
+4	p-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	37	5.5		pH 5.5, 37C
+4.7	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	37			37C
+4.72	2,5-dinitrophenyl-beta-D-xylopyranoside	3687	SSGIUHNGXGHGMM-DQDDRIPDSA-N	25	4.2		pH 4.2, 25C
+4.8	3,4-dinitrophenyl-beta-D-xylopyranoside	5094	AYTNQEKRUAAWSI-YTWAJWBKSA-N	25	4.2		pH 4.2, 25C
+4.91	xylotriose	773	JCSJTDYCNQHPRJ-MMDFAQQLSA-N	45			45C
+5.13	phenyl-beta-D-xylopyranoside	15129	RTBHKOWSOJOEPS-YTWAJWBKSA-N	25	4.2		pH 4.2, 25C
+5.22	3-nitrophenyl-beta-D-xylopyranoside	23152	JCPSSWGEQPARNC-YTWAJWBKSA-N	25	4.2		pH 4.2, 25C
+5.26	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	45			45C
+6.5	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	37	5.0		pH 5.0, 37C
+9.7	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	37	5.0		wild-type, pH 5.0, 37C
+10	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	37	5.0	X	mutant E594Q, pH 5.0, 37C
+13.5	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	40	4.0		pH 4.0, 40C
+14.4	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	25	7.0		wild-type, pH 7.0, 25C
+17	4-nitrophenyl beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	42	4.6		pH 4.6, 42C
+17.5	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	37	4.5		pH 4.5, 37C
+20	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	40	7.0		pH 7.0, 40C, recombinant wild-type enzyme
+25	2,5-dinitrophenyl-beta-D-xylopyranoside	3687	SSGIUHNGXGHGMM-DQDDRIPDSA-N	40	7.0		pH 7.0, 40C, recombinant wild-type enzyme
+29.3	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	25	6.0		wild-type, pH 6.0, 25C
+30	2,5-dinitrophenyl-beta-D-xylopyranoside	3687	SSGIUHNGXGHGMM-DQDDRIPDSA-N	40	7.0	X	pH 7.0, 40C, recombinant mutant E178G
+31.5	4-nitrophenyl-alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	37	4.5		pH 4.5, 37C
+31.5	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	25	7.0		presence of tris(hydroxymethyl)aminomethane, pH 7.0, 25C
+32.5	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	25	7.0		pH 7.0, 25C
+57	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	40	7.0		pH 7.0, 40C, recombinant wild-type enzyme
+67.8	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N	40	4.0		pH 4.0, 40C
+76	4-nitrophenyl beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	40	7.0		in 50 mM phosphate/citrate buffer pH 7.0, at 40C
+77	3,4-dinitrophenyl-beta-D-xylopyranoside	5094	AYTNQEKRUAAWSI-YTWAJWBKSA-N	40	7.0		pH 7.0, 40C, recombinant wild-type enzyme
+93.8	3,4-dinitrophenyl beta-D-xylopyranoside	5094	AYTNQEKRUAAWSI-YTWAJWBKSA-N	40	4.0		pH 4.0, 40C
+113	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	40	4.0		pH 4.0, 40C
+135	4-nitrophenyl beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	40	4.6		pH 4.6, 40C
+189.3	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	65	6.0		pH 6.0, 65C
+253.3	4-nitrophenyl alpha-D-xylopyranoside	5854	MLJYKRYCCUGBBV-LMLFDSFASA-N	30	4.0		in 50 mM sodium citrate buffer (pH 4.0), at 30C
+253.3	4-nitrophenyl beta-D-xyloside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	30	4.0		pH 4.0, 30C
+334	4-nitrophenyl beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	40	4.0		pH 4.0, 40C
+426	4-nitrophenyl xylopyranoside	80113	MLJYKRYCCUGBBV-GZBOUJLJSA-N	50	5		pH 5, 50C, xylanase I

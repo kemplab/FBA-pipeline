@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+86	Nalpha-Acetyl-Tyr-Val-alpha-hydroxyglycine	3402	UVAPJYICBMAVNZ-CBVZESEGSA-N	37	7.4		37C, pH 7.4, with endoprotease Arg-C digested PAM-3 protein
+92	Nalpha-Acetyl-Tyr-Val-alpha-hydroxyglycine	3402	UVAPJYICBMAVNZ-CBVZESEGSA-N	37	7.4		37C, pH 7.4, undigested PAM-3 protein
+220	Nalpha-Acetyl-Tyr-Val-alpha-hydroxyglycine	3402	UVAPJYICBMAVNZ-CBVZESEGSA-N	37	7		37C, pH 7
+380	Nalpha-Acetyl-Tyr-Val-alpha-hydroxyglycine	3402	UVAPJYICBMAVNZ-CBVZESEGSA-N	37	5.5		37C, pH 5.5
+3.2	N-2,4,6-trinitrophenyl-D-Tyr-L-Val-(S)-alpha-hydroxy-Gly	8887	RFRCJUIQRJTQAP-FNXXIHLHSA-N	25	6.0		pH 6.0, 25C, metal-depleted enzyme
+25.7	N-2,4,6-trinitrophenyl-D-Tyr-L-Val-(S)-alpha-hydroxy-Gly	8887	RFRCJUIQRJTQAP-FNXXIHLHSA-N	25	6.0		pH 6.0, 25C, wild-type enzyme

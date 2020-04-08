@@ -1,0 +1,77 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.05	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	4	7.5	X	mutant K215A, at 4C, in 30% methanol, 20 mM triethanolamine, pH 7.5, 0.1 M potassium acetate, and 1 mM free Mg2+
+0.067	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme T393del
+0.45	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme R38A
+0.48	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme K125A
+0.48	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	20	7.5	X	mutant K215A, at 20C, in methanol-free buffer, 20 mM triethanolamine, pH 7.5, 0.1 M potassium acetate, and 1 mM free Mg2+
+0.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme k219A
+2.48	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	4	7.5		wild-type, at 4C, in 30% methanol, 20 mM triethanolamine, pH 7.5, 0.1 M potassium acetate, and 1 mM free Mg2+
+6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme N336A
+14.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme E343A
+16.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme S392A/T393A
+58	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme T393A
+125	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme T375A
+155	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme E192A
+200	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme S398A
+270	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme F165A
+575	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme S392A
+610	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme F196A
+833	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type enzyme
+833	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type enzyme
+833	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	20	7.5		wild-type, at 20C, in methanol-free buffer, 20 mM triethanolamine, pH 7.5, 0.1 M potassium acetate, and 1 mM free Mg2+
+0.06	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	4	7.5	X	mutant K215A, at 4C, in 30% methanol, 20 mM triethanolamine, pH 7.5, 0.1 M potassium acetate, and 1 mM free Mg2+
+0.78	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant enzyme K125A
+0.78	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	20	7.5	X	mutant K215A, at 20C, in methanol-free buffer, 20 mM triethanolamine, pH 7.5, 0.1 M potassium acetate, and 1 mM free Mg2+
+5.25	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant enzyme k219A
+6	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant enzyme R38A
+23.3	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant enzyme N336A
+84	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant enzyme E343A
+200	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	4	7.5		wild-type, at 4C, in 30% methanol, 20 mM triethanolamine, pH 7.5, 0.1 M potassium acetate, and 1 mM free Mg2+
+250	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant enzyme T393A
+675	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant enzyme T375A
+1130	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant enzyme E192A
+1170	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N			X	mutant enzyme F165A
+2630	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N				wild-type enzyme
+2633	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N				wild-type enzyme
+2633	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	20	7.5		wild-type, at 20C, in methanol-free buffer, 20 mM triethanolamine, pH 7.5, 0.1 M potassium acetate, and 1 mM free Mg2+
+10	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N				
+0.067	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	mutant enzyme T393del
+0.45	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	mutant enzyme R38A
+0.48	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	mutant enzyme K125A
+0.9	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	mutant enzyme k219A
+6	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	mutant enzyme N336A
+13.5	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	co-substrate: ATP, mutant D218A/D374A, pH and temperature not specified in the publication
+14.3	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	mutant enzyme E343A
+16.4	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	mutant enzyme S392A/T393A
+58	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	mutant enzyme T393A
+100	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	co-substrate: ATP, mutant D218A, pH and temperature not specified in the publication
+125	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	mutant enzyme T375A
+155	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	mutant enzyme E192A
+200	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	mutant enzyme S398A
+208	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	co-substrate: ATP, mutant D374A, pH and temperature not specified in the publication
+220	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N				co-substrate: ATP, wild-type, pH and temperature not specified in the publication
+270	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	mutant enzyme F165A
+575	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	mutant enzyme S392A
+610	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	mutant enzyme F196A
+833	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N				wild-type enzyme
+833	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N				wild-type enzyme
+0.78	3-phospho-D-glyceroyl phosphate	462	LJQLQCAXBUHEAZ-UWTATZPHSA-N			X	mutant enzyme K125A
+5.25	3-phospho-D-glyceroyl phosphate	462	LJQLQCAXBUHEAZ-UWTATZPHSA-N			X	mutant enzyme k219A
+6	3-phospho-D-glyceroyl phosphate	462	LJQLQCAXBUHEAZ-UWTATZPHSA-N			X	mutant enzyme R38A
+23.2	3-phospho-D-glyceroyl phosphate	462	LJQLQCAXBUHEAZ-UWTATZPHSA-N			X	mutant enzyme N336A
+84	3-phospho-D-glyceroyl phosphate	462	LJQLQCAXBUHEAZ-UWTATZPHSA-N			X	mutant enzyme E343A
+250	3-phospho-D-glyceroyl phosphate	462	LJQLQCAXBUHEAZ-UWTATZPHSA-N			X	mutant enzyme T393A
+675	3-phospho-D-glyceroyl phosphate	462	LJQLQCAXBUHEAZ-UWTATZPHSA-N			X	mutant enzyme T375A
+1130	3-phospho-D-glyceroyl phosphate	462	LJQLQCAXBUHEAZ-UWTATZPHSA-N			X	mutant enzyme E192A
+1170	3-phospho-D-glyceroyl phosphate	462	LJQLQCAXBUHEAZ-UWTATZPHSA-N			X	mutant enzyme F165A
+2630	3-phospho-D-glyceroyl phosphate	462	LJQLQCAXBUHEAZ-UWTATZPHSA-N				wild-type enzyme
+2633	3-phospho-D-glyceroyl phosphate	462	LJQLQCAXBUHEAZ-UWTATZPHSA-N				wild-type enzyme
+86	L-ADP	5750	XTWYTFMLZFPYCI-VQLSQBCASA-N		7.5		pH 7.5, temperature not specified in the publication
+685	L-ADP	5750	XTWYTFMLZFPYCI-VQLSQBCASA-N				L-MgADP-
+110	2'-dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N				
+420	D-GTP	11141	HAAZLUGHYHWQIW-UHFFFAOYSA-N				
+500	D-ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+100	L-ATP	15402	ZKHQWZAMYRWXGA-SXVXDFOESA-N				
+200	D-ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N		7.5		pH 7.5, temperature not specified in the publication
+4	2'-dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N				
+120	L-GTP	23493	KITLPLLNIZOYIJ-DSKATIKOSA-N				

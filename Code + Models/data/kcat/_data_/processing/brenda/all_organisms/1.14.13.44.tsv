@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+11.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				reaction with 2,2'-dihydroxybiphenyl and O2
+18.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				reaction with 2-hydroxybiphenyl and O2
+9.8	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				reaction with 2,2'-dihydroxybiphenyl and O2
+16.2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				reaction with 2-hydroxybiphenyl and O2
+16.2	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N				reaction with 2-hydroxybiphenyl and NADH
+0.95	guaiacol	306	LHGVFZTZFXWLCP-UHFFFAOYSA-N				
+0.005	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N				wild-type enzyme
+0.09	indole	392	SIKJAQJRHWYJAI-UHFFFAOYSA-N			X	mutant enzyme HbpAind
+1.4	2-Hydroxybiphenyl	2189	LLEMOWNGBBNAJR-UHFFFAOYSA-N				turnover rate refers to the enzyme monomer and not to the tetramer
+2.3	2-Hydroxybiphenyl	2189	LLEMOWNGBBNAJR-UHFFFAOYSA-N			X	mutant enzyme HbpAind
+11.9	2-Hydroxybiphenyl	2189	LLEMOWNGBBNAJR-UHFFFAOYSA-N				wild-type enzyme
+12.8	2-Hydroxybiphenyl	2189	LLEMOWNGBBNAJR-UHFFFAOYSA-N				reaction with NADPH and O2
+14.9	2-Hydroxybiphenyl	2189	LLEMOWNGBBNAJR-UHFFFAOYSA-N				reaction with NADH and O2
+15.6	2-Hydroxybiphenyl	2189	LLEMOWNGBBNAJR-UHFFFAOYSA-N				wild-type enzyme
+9	2,2'-Dihydroxybiphenyl	4339	IMHDGJOMLMDPJN-UHFFFAOYSA-N				reaction with NADH and O2
+9.4	2,2'-Dihydroxybiphenyl	4339	IMHDGJOMLMDPJN-UHFFFAOYSA-N				reaction with NADPH and O2
+10.2	2-sec-Butylphenol	7068	NGFPWHGISWUQOI-UHFFFAOYSA-N				reaction with NADPH and O2
+14.5	2-sec-Butylphenol	7068	NGFPWHGISWUQOI-UHFFFAOYSA-N				wild-type enzyme
+15.8	2-sec-Butylphenol	7068	NGFPWHGISWUQOI-UHFFFAOYSA-N				reaction with NADH and O2

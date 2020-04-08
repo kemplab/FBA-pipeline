@@ -1,0 +1,24 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+138	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	25	7.0		wild-type, at 25C, in 100 mM phosphate buffer, pH 7.0, with 20 mM L-glutamine and 5 mM MgCl2
+152	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	25	7.0	X	mutant Q147K, at 25C, in 100 mM phosphate buffer, pH 7.0, with 20 mM L-glutamine and 5 mM MgCl2
+0.0061	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N				alpha-subunit OASA2, cosubstrate: NH4+
+0.0124	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N				alpha-subunit OASA1D (N323D, cosubstrate: NH4+)
+0.0185	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N				alpha-subunit OASA1, cosubstrate: NH4+
+0.079	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N				reconstituted enzyme OASA2-OASB1, cosubstrate: NH4+
+0.092	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	32	8.3	X	pH 8.3, 32C, Y367A mutant anthranilate synthase alpha-subunit OASA2
+0.108	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	32	8.3	X	pH 8.3, 32C, S126F mutant anthranilate synthase alpha-subunit OASA2
+0.22	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	32	8.3	X	pH 8.3, 32C, A369L mutant anthranilate synthase alpha-subunit OASA2
+0.225	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	32	8.3		pH 8.3, 32C, wild-type enzyme, anthranilate synthase alpha-subunit OASA2
+0.228	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N				reconstituted enzyme OASA1D(N323D)-OASB1, cosubstrate: NH4+
+0.24	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N				reconstituted enzyme OASA2-OASB1, cosubstrate: L-Gln
+0.25	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	60	8.0		pH 8.0, 60C, with or without 2 M KCl and 25% glycerol
+0.27	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N				reconstituted enzyme OASA1-OASB1, cosubstrate: NH4+
+0.405	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	32	8.3	X	pH 8.3, 32C, A369L/L530D mutant anthranilate synthase alpha-subunit OASA2
+0.48	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N				reconstituted enzyme OASA1D(N323D)-OASB1, cosubstrate: L-Gln
+0.49	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	32	8.3	X	pH 8.3, 32C, Y367A/L530D mutant anthranilate synthase alpha-subunit OASA2
+0.573	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	32	8.3	X	pH 8.3, 32C, S126F/L530D mutant anthranilate synthase alpha-subunit OASA2
+0.58	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N				reconstituted enzyme OASA1-OASB1, cosubstrate: L-Gln
+5.6	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	25	7.0		pH 7.0, 25C
+6.08	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	32	8.3	X	pH 8.3, 32C, S126F/L530D mutant anthranilate synthase alpha-subunit OASA2
+383	chorismate	182	WTFXTQVDAKGDEY-HTQZYQBOSA-N	37	9		at pH 9 and 37C, with NH4+ as cosubstrate
+0.25	L-Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	60	8.0		pH 8.0, 60C, with or without 2 M KCl and 25% glycerol

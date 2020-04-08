@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.003	(R)-2-methylmalonyl-CoA	2870	MZFOKIKEPGUZEN-AGCMQPJKSA-N	37		X	37C, mutant H610N
+0.012	(R)-methylmalonyl-CoA	2870	MZFOKIKEPGUZEN-AGCMQPJKSA-N	25	8.5	X	recombinant His-tagged mutant E392D, pH 8.5, 25C
+0.024	(R)-2-methylmalonyl-CoA	2870	MZFOKIKEPGUZEN-AGCMQPJKSA-N	37		X	37C, mutant H610A
+0.038	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25		X	25C, mutant H244A
+0.25	(R)-methylmalonyl-CoA	2870	MZFOKIKEPGUZEN-AGCMQPJKSA-N	25	8.5	X	recombinant His-tagged mutant E392Q, pH 8.5, 25C
+0.32	(R)-methylmalonyl-CoA	2870	MZFOKIKEPGUZEN-AGCMQPJKSA-N	25	8.5	X	recombinant His-tagged mutant E392A, pH 8.5, 25C
+0.33	(R)-2-methylmalonyl-CoA	2870	MZFOKIKEPGUZEN-AGCMQPJKSA-N	37	7.0	X	mutant Y243A, pH 7.0, 37C
+0.66	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25		X	25C, mutant H244Q
+3.95	(R)-methylmalonyl-CoA	2870	MZFOKIKEPGUZEN-AGCMQPJKSA-N	25	8.5		recombinant His-tagged wild-type enzyme, pH 8.5, 25C
+6.08	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25		X	25C, mutant H244Q
+18	(R)-2-methylmalonyl-CoA	2870	MZFOKIKEPGUZEN-AGCMQPJKSA-N	30			30C, with 5'-deoxyadenosylcobinamide GDP as cofactor
+48	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25			25C, wild-type
+73	(R)-2-methylmalonyl-CoA	2870	MZFOKIKEPGUZEN-AGCMQPJKSA-N	30			30C, with 5'-adenosylcobalamin as cofactor
+120	(R)-2-methylmalonyl-CoA	2870	MZFOKIKEPGUZEN-AGCMQPJKSA-N	37			37C, wild-type
+132	(R)-2-methylmalonyl-CoA	2870	MZFOKIKEPGUZEN-AGCMQPJKSA-N	37			37C
+150	(R/S)-2-methyl-3-oxopropanoyl-CoA	8497	PPQOFITXUZOJDA-MIZDRFBCSA-N	30			30C
+158	(R)-2-methylmalonyl-CoA	2870	MZFOKIKEPGUZEN-AGCMQPJKSA-N	37	7.0		wild-type, pH 7.0, 37C
+237	(R)-2-methylmalonyl-CoA	2870	MZFOKIKEPGUZEN-AGCMQPJKSA-N	37			presence of P-loop GTPase MeaB and GDP, 37C
+255	(R)-2-methylmalonyl-CoA	2870	MZFOKIKEPGUZEN-AGCMQPJKSA-N	37			presence of P-loop GTPase MeaB, 37C
+283	(R/S)-2-methyl-3-oxopropanoyl-CoA	8497	PPQOFITXUZOJDA-MIZDRFBCSA-N	37			37C

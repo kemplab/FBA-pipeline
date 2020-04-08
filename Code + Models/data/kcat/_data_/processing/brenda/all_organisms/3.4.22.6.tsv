@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.9	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+0.003	benzoyl-Arg-4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N		4.0		pH 4.0 and pH 7.4
+0.05	benzoyl-Arg-4-nitroanilide	2280	RKDYKIHMFYAPMZ-UHFFFAOYSA-N		9.2		pH 9.2
+246	methyl red-Abu-Ala-Pro-Val-Lys-Lys(N5-(5-carboxyfluorescein))-NH2	3732	LVEHLSLMPTXGJU-IGVDHBRESA-N		6.2		at pH 6.2, in 10 mM sodium acetate, 0.1 mM EDTA and 1 mM cysteine
+590	methyl red-Abu-Ala-Pro-Val-Lys-Lys(N5-(5-carboxyfluorescein))-NH2	3732	LVEHLSLMPTXGJU-IGVDHBRESA-N		7.4		at pH 7.4, in 100 mM phosphate-buffered saline
+133	methyl red-Abu-Ser-Ala-Pro-Val-Lys-Ala-Lys(N6-(5-carboxyfluorescein))-NH2	3990	QFHZAITWKOXZST-LYUQDQFISA-N		6.2		at pH 6.2, in 10 mM sodium acetate, 0.1 mM EDTA and 1 mM cysteine
+360	methyl red-Abu-Ser-Ala-Pro-Val-Lys-Ala-Lys(N6-(5-carboxyfluorescein))-NH2	3990	QFHZAITWKOXZST-LYUQDQFISA-N		7.4		at pH 7.4, in 100 mM phosphate-buffered saline
+14	benzyloxycarbonyl-Lys phenyl ester	10782	STGNCTUJRBIZNI-UHFFFAOYSA-N		4.9		at pH 4.9
+15.5	benzyloxycarbonyl-Lys phenyl ester	10782	STGNCTUJRBIZNI-UHFFFAOYSA-N		6.0		at pH 6.0 and at pH 6.9

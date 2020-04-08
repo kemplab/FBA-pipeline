@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				
+200	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				
+210	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				
+1400	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0		pH 7.0, 25C, functional FAD-containing domain domain plus heme-containig domain
+835	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				
+897	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				
+1300	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, functional FAD-containing domain
+1.8	nitrate	263	NHNBFGGVMKEFGY-UHFFFAOYSA-N	25	7.6		GST-tagged molybdenum domain, 25C, pH 7.6
+2.5	nitrate	263	NHNBFGGVMKEFGY-UHFFFAOYSA-N	25	7.6		His-tagged molybdenum domain, 25C, pH 7.6
+33	nitrate	263	NHNBFGGVMKEFGY-UHFFFAOYSA-N	22			22C, pH not specified in the publication
+1.5	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N	25	7.0		pH 7.0, 25C, functional FAD-containing domain plus heme-containig domain

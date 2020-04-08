@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00027	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	2518	QOUSHGMTBIIAHR-KEOHHSTQSA-N	25	7.5	X	25C, pH 7.5, mutant enzyme D127N
+0.018	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	2518	QOUSHGMTBIIAHR-KEOHHSTQSA-N	25	7.5	X	25C, pH 7.5, mutant enzyme T164A
+0.23	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	2518	QOUSHGMTBIIAHR-KEOHHSTQSA-N	25	7.5	X	25C, pH 7.5, mutant enzyme R83N
+0.29	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	2518	QOUSHGMTBIIAHR-KEOHHSTQSA-N	25	7.5	X	25C, pH 7.5, mutant enzyme D51N
+0.38	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	2518	QOUSHGMTBIIAHR-KEOHHSTQSA-N	25	7.5	X	25C, pH 7.5, mutant enzyme H48A
+0.67	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	2518	QOUSHGMTBIIAHR-KEOHHSTQSA-N	25	7.5		25C, pH 7.5, wild-type enzyme
+1.54	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	2518	QOUSHGMTBIIAHR-KEOHHSTQSA-N	37	7.5		37C, pH 7.5, wild-type enzyme
+2.94	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	2518	QOUSHGMTBIIAHR-KEOHHSTQSA-N	37	7.5		37C, pH 7.5, wild-type enzyme
+4.9	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	2518	QOUSHGMTBIIAHR-KEOHHSTQSA-N	25	7.5		25C, pH 7.5
+6.08	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	2518	QOUSHGMTBIIAHR-KEOHHSTQSA-N	25	7.5		25C, pH 7.5, wild-type enzyme
+14.3	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	2518	QOUSHGMTBIIAHR-KEOHHSTQSA-N	37	7.5		37C, pH 7.5
+32	N'-[(5'-phosphoribosyl)formimino]-5-aminoimidazole-4-carboxamide ribonucleotide	2518	QOUSHGMTBIIAHR-KEOHHSTQSA-N	80	7.5		80C, pH 7.5, wild-type enzyme

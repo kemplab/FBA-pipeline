@@ -1,0 +1,56 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0079	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.7	X	mutant enzyme V153I, at pH 7.7 and 25C
+0.00973	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N		7.0		recombinant enzyme, in 50 mM potassium phosphate, pH 7.0
+0.074	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.7	X	mutant enzyme A113P/V153I, at pH 7.7 and 25C
+0.11	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.7	X	mutant enzyme A113P/V153I/R158G, at pH 7.7 and 25C
+0.15	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	25	7.5	X	mutant enzyme M144A, in 100 mM HEPES (pH 7.5), at 25C
+0.17	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.7	X	mutant enzyme A113P, at pH 7.7 and 25C
+0.18	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.7		wild type enzyme, at pH 7.7 and 25C
+0.25	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5		pH 7.5, 25C
+0.32	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.7		wild type enzyme, at pH 7.7 and 25C
+0.35	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	25	7.5	X	mutant enzyme Y134F, in 100 mM HEPES (pH 7.5), at 25C
+0.37	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	25	7.5		pH 7.5, 25C
+0.37	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	25	7.5	X	mutant enzyme W179F, in 100 mM HEPES (pH 7.5), at 25C
+0.39	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	25	7.5	X	mutant enzyme Y134A, in 100 mM HEPES (pH 7.5), at 25C
+0.44	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	25	7.2	X	mutant enzyme F107A, at pH 7.2 and 25C
+0.49	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N		7.0		recombinant enzyme, in 50 mM potassium phosphate, pH 7.0
+0.51	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5	X	mutant enzyme M144A, in 100 mM HEPES (pH 7.5), at 25C
+0.55	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	25	7.5	X	mutant enzyme S167A, in 100 mM HEPES (pH 7.5), at 25C
+0.58	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5	X	mutant enzyme S167A, in 100 mM HEPES (pH 7.5), at 25C; mutant enzyme W179F, in 100 mM HEPES (pH 7.5), at 25C
+0.69	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5	X	mutant enzyme W179A, in 100 mM HEPES (pH 7.5), at 25C
+0.71	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5	X	mutant enzyme Y134F, in 100 mM HEPES (pH 7.5), at 25C
+0.74	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	25	7.2	X	mutant enzyme H109A, at pH 7.2 and 25C
+0.78	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5	X	mutant enzyme Y134A, in 100 mM HEPES (pH 7.5), at 25C
+0.86	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	25	7.5	X	mutant enzyme W179A, in 100 mM HEPES (pH 7.5), at 25C
+0.92	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	25	7.5	X	mutant enzyme R85H, in 100 mM HEPES (pH 7.5), at 25C
+0.93	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	25	7.5	X	mutant enzyme R85A, in 100 mM HEPES (pH 7.5), at 25C
+1	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.2	X	mutant enzyme F107A, at pH 7.2 and 25C
+1.1	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	25	7.5	X	mutant enzyme A15M, in 100 mM HEPES (pH 7.5), at 25C
+1.2	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.2	X	mutant enzyme H109A, at pH 7.2 and 25C
+1.3	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5	X	mutant enzyme R85H, in 100 mM HEPES (pH 7.5), at 25C
+1.4	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5	X	mutant enzyme R85A, in 100 mM HEPES (pH 7.5), at 25C
+1.8	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	25	7.2		wild type enzyme, at pH 7.2 and 25C
+1.8	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5	X	mutant enzyme A15M, in 100 mM HEPES (pH 7.5), at 25C
+1.8	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5		at pH 7.5 and 25C
+2	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	22			22C
+2	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5		at 25C, in 100 mM HEPES, pH 7.5, and 50 mM KCl
+2.1	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	25	7.5		pH 7.5, 25C
+2.1	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	25	7.5	X	mutant enzyme V34A, in 100 mM HEPES (pH 7.5), at 25C
+2.3	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5		pH 7.5, 25C, recombinant enzyme
+2.3	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	25	7.5	X	mutant enzyme V34I, in 100 mM HEPES (pH 7.5), at 25C
+2.3	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5		in 100 mM HEPES, 50 mM KCl (pH 7.5), at 25C
+2.5	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5	X	mutant enzyme V34I, in 100 mM HEPES (pH 7.5), at 25C
+2.7	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5	X	mutant enzyme V34A, in 100 mM HEPES (pH 7.5), at 25C
+3.8	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.2		wild type enzyme, at pH 7.2 and 25C
+4	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5		pH 7.5, 25C
+4.2	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5		pH 7.5, 25C, recombinant enzyme
+4.2	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5		in 100 mM HEPES, 50 mM KCl (pH 7.5), at 25C
+4.7	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	25	7.5	X	mutant enzyme R164A, in 100 mM HEPES (pH 7.5), at 25C
+7.1	S-adenosyl-L-homocysteine	34	ZJUKTBDSGOFHSH-WFMPWKQPSA-N	25	7.5		wild type enzyme, in 100 mM HEPES (pH 7.5), at 25C
+7.2	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	104	7.2	X	mutant enzyme F104C/C186S, at pH 7.2 and 25C
+8	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5	X	mutant enzyme R164A, in 100 mM HEPES (pH 7.5), at 25C
+8.8	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5		wild type enzyme, in 100 mM HEPES (pH 7.5), at 25C
+10.2	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.2		wild type enzyme, at pH 7.2 and 25C
+18.7	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	22	7.0		22C; in 100 mM sodium phosphate buffer, pH 7.0
+20	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5		pH 7.5, 25C, recombinant enzyme
+20	S-methyl-5'-thioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	25	7.5		in 100 mM HEPES, 50 mM KCl (pH 7.5), at 25C

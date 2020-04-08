@@ -1,0 +1,33 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.55	S-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		8.7		pH 8.7, temperature not specified in the publication, aerobic condition
+1	L-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		7.9	X	pH 7.9, mutant enzyme E315Q
+1.9	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N		8.7		pH 8.7, temperature not specified in the publication, aerobic condition
+11.2	malate	246	BJEPYKJPYRNKOW-UHFFFAOYSA-N				fumarase A
+12.9	S-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		8.7		pH 8.7, temperature not specified in the publication, anaerobic condition
+24.9	S-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		9		pH 9, temperature not specified in the publication, aerobic condition
+25.2	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	55	7.0		pH 7.0, 55C
+28.3	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N		8.7		pH 8.7, temperature not specified in the publication, anaerobic condition
+34	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		6.0		MES-NaOH buffer, pH 6.0
+48	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		6.0		phosphate buffer, pH 6.0
+48.6	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N		9		pH 9, temperature not specified in the publication, aerobic condition
+51.7	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N				fumarase A
+65	L-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	40	6.5		pH 6.5, 40C
+110	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		7.0		MES-NaOH buffer, pH 7.0
+151.4	S-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		9		pH 9, temperature not specified in the publication, anaerobic condition
+200	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		7.0		phosphate buffer, pH 7.0
+204.2	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N		9		pH 9, temperature not specified in the publication, anaerobic condition
+219	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N	55	7.0		pH 7.0, 55C
+267	L-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	40	7.3		pH 7.3, 40C
+290	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		7.0		MES-NaOH buffer, pH 7.0
+310	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N		6.0		MES-NaOH buffer, pH 6.0
+430	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N		7.0		MES-NaOH buffer, pH 7.0
+460	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		6.0		phosphate buffer, pH 6.0
+510	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N		6.0		phosphate buffer, pH 6.0
+540	malate	246	BJEPYKJPYRNKOW-UHFFFAOYSA-N				
+620	L-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	40	8		pH 8, 40C
+650	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N		7.0		MES-NaOH buffer, pH 7.0
+690	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N				
+720	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N		6.0		phosphate buffer, pH 6.0
+730	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N		7.0		phosphate buffer, pH 7.0
+1149	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N		7.9		pH 7.9, native enzyme
+1150	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N		7.9		pH 7.9, native enzyme

@@ -1,0 +1,133 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.02	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	65	5.5	X	pH 5.5, 65C, recombinant mutant L188F/S189F
+0.1	2-benzoxazolon-3-yl-acetic acid methyl ester	22929	LJBQUEFIEOBTIK-UHFFFAOYSA-N	25	6.8		pH 6.8, 25C
+0.13	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	65	5.5	X	pH 5.5, 65C, recombinant mutant L188F/L24F/I57F
+0.204	2-nitro-5-[(phenyl-acetyl)amino]benzoic acid	3959	QHVQEQRGDKOHHC-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant N241S
+0.3	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	65	5.5	X	pH 5.5, 65C, recombinant mutant L24F/I57F
+0.32	penicillin K	6796	XVASOOUVMJAZNJ-MBNYWOFBSA-N	65	5.5	X	pH 5.5, 65C, recombinant mutant L24F
+0.354	2-nitro-5-[(phenyl-acetyl)amino]benzoic acid	3959	QHVQEQRGDKOHHC-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant N241G
+0.36	penicillin K	6796	XVASOOUVMJAZNJ-MBNYWOFBSA-N	65	5.5	X	pH 5.5, 65C, recombinant mutant S189F
+0.43	penicillin K	6796	XVASOOUVMJAZNJ-MBNYWOFBSA-N	65	5.5	X	pH 5.5, 65C, recombinant mutant L188F
+0.44	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	65	5.5	X	pH 5.5, 65C, recombinant mutant I57F
+0.54	D-(-)-alpha-aminophenylacetic acid 4-nitroanilide	30123	ORNRDUAKCGGUCU-CYBMUJFWSA-N				
+0.54	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	65	5.5	X	pH 5.5, 65C, recombinant mutant L188F
+0.65	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	65	5.5	X	pH 5.5, 65C, recombinant mutant S189F
+0.75	penicillin K	6796	XVASOOUVMJAZNJ-MBNYWOFBSA-N	65	5.5	X	pH 5.5, 65C, recombinant mutant L24F/I57F
+0.85	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	65	5.5	X	pH 5.5, 65C, recombinant mutant L24F
+0.9	5-nitro-3-[(phenylacetyl)amino]benzoic acid	109248	OKHMLFPITZORMU-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, fresh immobilized cross-linked enzyme aggregates
+1	5-nitro-3-[(phenylacetyl)amino]benzoic acid	109248	OKHMLFPITZORMU-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, mature immobilized cross-linked enzyme aggregates
+1.01	(S)-N-acetylphenylglycine	22958	RRTQTOBOLIGMED-UHFFFAOYSA-N		7.5		pH 7.5
+1.2	5-nitro-3-[(phenylacetyl)amino]benzoic acid	109248	OKHMLFPITZORMU-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, native enzyme
+1.2	(R) -2-(4-hydroxyphenyl)glycine amide	32897	WQFROZWIRZWMFE-SSDOTTSWSA-N				
+1.43	penicillin K	6796	XVASOOUVMJAZNJ-MBNYWOFBSA-N	65	5.5	X	pH 5.5, 65C, recombinant mutant L188F/L24F/I57F
+1.56	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	65	5.5		pH 5.5, 65C, recombinant wild-type enzyme
+1.9	penicillin F	5876	QRLCJUNAKLMRGP-ZTWGYATJSA-N	45	8.0		pH 8.0, 45C
+1.9	phenylacetyl-2-naphthylamide	24105	BMFKHCKHXHUKPA-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, 10% dimethylsulfoxide
+2	D-4-hydroxyphenylglycine amide	9267	WQFROZWIRZWMFE-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, analysis of complex kinetic parameters alpha, beta, gamma
+2	N6-phenylacetyl-2'-deoxyadenosine	21988	OLDBMRBLKACIDG-KDAXTPCMSA-N	25	7.8		pH 7.8, 25C
+2.1	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	37	8.0		pH 8.0, 37C
+2.2	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	45	8.0		pH 8.0, 45C
+2.3	2-phenylacetamidobenzoic acid	24107	WLWHMIHDEXBKCR-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, 10% dimethylsulfoxide
+2.5	3-phenylacetamidobenzoic acid	24106	JGBFNIWZGCHZMG-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, 10% dimethylsulfoxide
+2.7	D-phenylglycine amide	2171	KIYRSYYOVDHSPG-SSDOTTSWSA-N			X	mutant alphaR145S
+3	D-phenylglycine amide	2171	KIYRSYYOVDHSPG-SSDOTTSWSA-N				wild-type enzyme
+3	4-phenylacetamidobenzoic acid	24104	VNHSSBYXYMABJC-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, 10% dimethylsulfoxide
+3.2	phenylacetyl-7-amido-4-methylcoumarin	24102	UQUMDDZAFRUNFQ-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, 10% dimethylsulfoxide
+3.4	D-phenylglycine amide	2171	KIYRSYYOVDHSPG-SSDOTTSWSA-N			X	mutant alphaR145G
+4.2	penicillin dihydroF	8012	ACAZKHULUUVWCY-JFGNBEQYSA-N	45	8.0		pH 8.0, 45C
+4.91	penicillin K	6796	XVASOOUVMJAZNJ-MBNYWOFBSA-N	65	5.5	X	pH 5.5, 65C, recombinant mutant I57F
+5.6	penicillin K	6796	XVASOOUVMJAZNJ-MBNYWOFBSA-N	65	5.5		pH 5.5, 65C, recombinant wild-type enzyme
+6.08	(S)-N-acetylphenylglycine	22958	RRTQTOBOLIGMED-UHFFFAOYSA-N		7.5		pH 7.5
+6.8	D-phenylglycine amide	2171	KIYRSYYOVDHSPG-SSDOTTSWSA-N			X	mutant alphaR145L
+7.8	N-(5-nitro-2-pyridyl)-phenylacetamide	24103	JRMDWOIJKOHOFG-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, 10% dimethylsulfoxide
+9.5	capsaicin	1446	YKPUWZUDDOIDPM-SOFGYWHQSA-N				
+11	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+12	D-2-nitro-5-[(phenylacetyl)amino]benzoic acid	3959	QHVQEQRGDKOHHC-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, analysis of complex kinetic parameters alpha, beta, gamma
+12	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+13	cefadroxil	4150	BOEGTKLJZSQCCD-UEKVPHQBSA-N	30	7.0		pH 7.0, 30C
+14	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N			X	mutant alphaR145S
+14	D-2-nitro-5-[(phenylacetyl)amino]benzoic acid	3959	QHVQEQRGDKOHHC-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, analysis of complex kinetic parameters alpha, beta, gamma
+15	2-nitro-5-[(phenyl-acetyl)amino]benzoic acid	3959	QHVQEQRGDKOHHC-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, wild-type enzyme
+15	amoxicillin	1323	LSQZJLSUYDQPKJ-NJBDSQKTSA-N	30	7.0		pH 7.0, 30C
+15.14	N-(4-nitrophenyl)-2-phenylacetamide	13703	JYDFOXZALFOSJF-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+16	6-nitro-3-[(phenylacetyl)amino]benzoic acid	3959	QHVQEQRGDKOHHC-UHFFFAOYSA-N	25	10.0		pH 10.0, 25C, ionic strength 0.12 M
+16	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.0		pH 7.0, 30C
+16	D-4-hydroxyphenylglycine amide	9267	WQFROZWIRZWMFE-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, analysis of complex kinetic parameters alpha, beta, gamma
+17	amoxicillin	1323	LSQZJLSUYDQPKJ-NJBDSQKTSA-N	30	7.0		pH 7.0, 30C
+18	2-nitro-5-[(phenylacetyl)amino]-benzoic acid	3959	QHVQEQRGDKOHHC-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, analysis of complex kinetic parameters alpha, beta, gamma
+18	N2-phenylacetyl-2'-deoxyguanosine	21989	JBTRWWDELFQRAR-XTIBMAOXSA-N	25	7.8		pH 7.8, 25C
+20	6-nitro-3-phenylacetamidobenzoic acid	3959	QHVQEQRGDKOHHC-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+20	6-nitro-3-[(phenylacetyl)amino]benzoic acid	3959	QHVQEQRGDKOHHC-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, 10% dimethylsulfoxide
+20	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N			X	mutant alphaR145L
+20	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N	30	7.0		pH 7.0, 30C
+20	phenylacetate 4-nitroanilide	13703	JYDFOXZALFOSJF-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, 10% dimethylsulfoxide
+21	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	40	7.5		pH 7.5, 40C, presence of 10 mM phenylglyoxal
+23	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N			X	mutant alphaR145G
+23	phenylacetamide	1506	LSBDFXRDZJMBSC-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, analysis of complex kinetic parameters alpha, beta, gamma
+24	6-nitro-3-[(phenylacetyl)amino]benzoic acid	3959	QHVQEQRGDKOHHC-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, analysis of complex kinetic parameters alpha, beta, gamma
+25	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.0		pH 7.0, 30C
+25	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N				
+25	D-phenylglycine amide	2171	KIYRSYYOVDHSPG-SSDOTTSWSA-N	30	7.0		pH 7.0, 30C, analysis of complex kinetic parameters alpha, beta, gamma
+25	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		pH 7.0, 30C
+26	6-nitro-3-[(phenylacetyl)amino]benzoic acid	3959	QHVQEQRGDKOHHC-UHFFFAOYSA-N	25	9.1		pH 9.1, 25C, ionic strength 0.12 M
+27	6-nitro-3-[(phenylacetyl)amino]benzoic acid	3959	QHVQEQRGDKOHHC-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, ionic strength 0.12 M
+27	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	40	7.5		pH 7.5, 40C, presence of 50 mM 2,3-butanedione
+29	4-Hydroxyphenylacetamide	4807	YBPAYPRLUDCSEY-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, analysis of complex kinetic parameters alpha, beta, gamma
+29	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N	30	7.0		pH 7.0, 30C
+29.49	N-[4-(methylsulfonyl)phenyl]-2-phenylacetamide	109428	YCVYCHIRSYTWAV-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+32	cefadroxil	4150	BOEGTKLJZSQCCD-UEKVPHQBSA-N	30	7.0		pH 7.0, 30C
+33	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N				
+33.3	penicillin K	6796	XVASOOUVMJAZNJ-MBNYWOFBSA-N	45	8.0		pH 8.0, 45C
+33.81	N-(4-methoxyphenyl)-2-phenylacetamide	109435	LZSPYXRRVCVACQ-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+33.84	N-(4-cyanophenyl)-2-phenylacetamide	109429	JNHXEOULFHSWMY-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+34.2	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+35	phenylacetylaspartame	22928	HJYFBJNBCBWJJJ-IRXDYDNUSA-N	25	7.8		pH 7.8, 25C
+35.94	N-(4-acetylphenyl)-2-phenylacetamide	109430	NSAFMUGXEWLJDJ-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+37	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				wild-type enzyme
+37.93	N-(4-methylphenyl)-2-phenylacetamide	109434	OBCQZBGQLQZHHJ-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+39	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.0		pH 7.0, 30C
+40	benzylpenicilloic acid	10799	HCYWNSXLUZRKJX-RWMBFGLXSA-N				
+40.03	2-phenyl-N-(4-sulfamoylphenyl)acetamide	5939	JWDLYKTZCRIGNW-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+41.05	ethyl 4-[(phenylacetyl)amino] benzoate	109431	PXWKJGMYJPTWJG-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+43.07	N-(4-bromophenyl)-2-phenylacetamide	109432	XFXSNNWNLVLUOY-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+46	phenylacetamide	1506	LSBDFXRDZJMBSC-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, analysis of complex kinetic parameters alpha, beta, gamma
+47	4-Hydroxyphenylacetamide	4807	YBPAYPRLUDCSEY-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, analysis of complex kinetic parameters alpha, beta, gamma
+47	phenylacetyl-Gly	6331	UTYVDVLMYQPLQB-UHFFFAOYSA-N	25	7.8		pH 7.8, 25C
+48	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+48.4	Penicillin V	1992	BPLBGHOLXOTWMN-MBNYWOFBSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+49.17	N,2-diphenylacetamide	109433	KYPIASPTMDEDQB-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+49.5	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+50	7-phenylacetamidoacetoxycephalosporanic acid	29997	GOFCPYKUMJBHBH-RHSMWYFYSA-N				
+50	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.5		pH 7.5, 25C
+50	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.5		pH 7.5, 25C
+50	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.8		pH 7.8, 25C
+50	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.0		25C, pH 7.0, 10% dimethylsulfoxide
+50	phenylacetamide	1506	LSBDFXRDZJMBSC-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, 10% dimethylsulfoxide
+54	cephalexin	786	ZAIPMKNFIOOWCQ-UEKVPHQBSA-N				
+55	phenylacetate 4-nitroanilide	13703	JYDFOXZALFOSJF-UHFFFAOYSA-N				
+56.2	amoxycillin	1323	LSQZJLSUYDQPKJ-NJBDSQKTSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+56.5	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.5		pH 7.5, 25C
+57	D-phenylglycine amide	2171	KIYRSYYOVDHSPG-SSDOTTSWSA-N	30	7.0		pH 7.0, 30C, analysis of complex kinetic parameters alpha, beta, gamma
+58.3	6-nitro-3-(phenylacetamido)-benzoic acid	3959	QHVQEQRGDKOHHC-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+63	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	40	7.5		pH 7.5, 40C
+63	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				unmodified enzyme, enzyme modified with N-bromosuccinamide or enzyme modified with 2-hydroxy 5-nitrobenzylbromide
+63.7	carbenicillin	1084	FPPNZSSZRUTDAP-UWFZAAFLSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+64.2	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+66.9	Cephaloridine	487	CZTQZXZIADLWOZ-CRAIPNDOSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+68.8	6-nitro-3-[(phenylacetyl)amino]benzoic acid	3959	QHVQEQRGDKOHHC-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+70.3	Penicillin V	1992	BPLBGHOLXOTWMN-MBNYWOFBSA-N	45	8.0		pH 8.0, 45C
+72.7	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	37	8.0		pH 8.0, 37C
+75	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.5		pH 7.5, 25C, enzyme form PA5..5
+77	6-nitro-3-phenylacetamidobenzoic acid	3959	QHVQEQRGDKOHHC-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, enzyme form PA5..5
+78.3	Cephalothin	301	XIURVHNZVLADCM-IUODEOHRSA-N	37	7.4		pH 7.4, 37C, recombinant enzyme
+80	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.5		pH 7.5, 25C, enzyme form PA5..3
+80	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+82	6-nitro-3-phenylacetamidobenzoic acid	3959	QHVQEQRGDKOHHC-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, enzyme form PA5..3
+106.4	2-nitro-5-phenoxyacetamide benzoic acid	25454	OYNOHTMIBKCONX-UHFFFAOYSA-N				
+120	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme T206G
+140	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme T206G//S213G
+170	4-nitrophenylacetate	2396	YBADLXQNJCMBKR-UHFFFAOYSA-N				
+170	ethylphenylacetate	13659	DULCUDSUACXJJC-UHFFFAOYSA-N				
+190	benzylpenicillin	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme T206G/S213G/T219G
+270.8	Penicillin V	1992	BPLBGHOLXOTWMN-MBNYWOFBSA-N				
+12000	N-phenylacetyl-Glu	35978	PTSRBZOZSRJCKX-JTQLQIEISA-N				

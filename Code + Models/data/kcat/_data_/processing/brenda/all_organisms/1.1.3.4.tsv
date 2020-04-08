@@ -1,0 +1,66 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.59	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	5.0		pH 5.0, 25C, enzyme fraction 1
+235.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	5.0		pH 5.0, 25C, enzyme fraction 1
+318.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	5.0		pH 5.0, 25C, enzyme fraction 2
+0.03	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	25	6.0	X	25C, pH 6.0, mutant enzyme H520V
+0.16	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	25	6.0	X	25C, pH 6.0, mutant enzyme H520A
+0.168	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	30	7		pH 7, 30C, 2-ethylhexylsulfosuccinate medium or polyethylene glycol p-tert octyl phenyl ether medium
+0.3	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	30	7		pH 7, 30C, aqeous medium
+5.2	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	33	9.0		pH 9.0, 33C, deglycosylated recombinant enzyme with PEG-5000 reagent
+5.5	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	33	9.0		pH 9.0, 33C, deglycosylated recombinant enzyme with PEG-350 reagent
+5.9	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	33	9.0		pH 9.0, 33C, recombinant enzyme expressed in yeast
+6.1	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	33	9.0		pH 9.0, 33C, wild-type enzyme
+6.3	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	33	9.0		pH 9.0, 33C, deglycosylated recombinant enzyme
+14	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	25	6.0	X	25C, pH 6.0, mutant enzyme F418
+22.8	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N				wild-type enzyme conjugated to gold nanoparticles, pH and temperature not specified in the publication
+23	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	25	6.0	X	25C, pH 6.0, mutant enzyme W430A
+55.3	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	447		X	mutant H447C conjugated to gold nanoparticles, pH and temperature not specified in the publication
+71	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	25	6.0	X	25C, pH 6.0, mutant enzyme R516Q
+152	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N				wild-type enzyme, pH and temperature not specified in the publication
+318	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	25	6.0	X	25C, pH 6.0, mutant enzyme F418V
+323	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N				periodate-oxidized enzyme
+337	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N				native enzyme
+425	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	447		X	mutant H447C, pH and temperature not specified in the publication
+484.3	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	35	6.0		recombinant enzyme, in 0.1 M sodium phosphate buffer, pH 6.0, at 35C
+603	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	25	6.0	X	25C, pH 6.0, mutant enzyme R516K
+639	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	25	6.0	X	25C, pH 6.0, mutant enzyme Y73F
+741	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	25	7.0		pH 7.0, 25C
+815	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	25	6.0		pH 6.0, 25C, deglycosylated enzyme
+920	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	25	6.0		pH 6.0, 25C, glycosylated enzyme
+1166	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	25	6.0	X	25C, pH 6.0, mutant enzyme N518T
+1695	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	50	6.0		recombinant enzyme yGOXpenag, using ferrocinium-methanol as cosubstrate, pH 6.0, 50C
+1808	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	50	6.0		recombinant enzyme yGOXpenag, using O2 as cosubstrate, pH 6.0, 50C
+1890	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	70	6.5		native enzyme, using O2 as cosubstrate, pH 6.5, 70C
+1938	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	70	6.5		native enzyme, using ferrocinium-methanol as cosubstrate, pH 6.5, 70C
+1950	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N				deglycosylated enzyme
+2000	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N				native enzyme; recombinant enzyme
+2003	beta-D-glucose	90	WQZGKKKJIJFFOK-VFUOTHLCSA-N	25	6.0		25C, pH 6.0, wild-type enzyme
+1.6	glycerol	129	PEDCQBHIVMGVHV-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+1.7	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	30	7.5		pH 7.5, 30C
+13	xylitol	348	HEBKCHPVOIAQTA-SCDXWVJYSA-N	30	7.5		pH 7.5, 30C
+9.2	D-mannitol	412	FBPFZTCFMRRESA-KVTDHHQDSA-N	30	7.5		pH 7.5, 30C
+17	D-sorbitol	513	BJHIKXHVCXFQLS-PYWDMBMJSA-N	30	7.5		pH 7.5, 30C
+1.13	2,6-dichloroindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N				
+0.29	1,2-Butanediol	1797	BMRWNKZVCUKKSR-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+0.74	(R)-1-phenyl-1,2-ethanediol	2753	PWMWNFMRSKOCEY-MRVPVSSYSA-N	30	7.5		pH 7.5, 30C
+0.008	(S)-1-phenyl-1,2-ethanediol	2753	PWMWNFMRSKOCEY-MRVPVSSYSA-N	30	7.5		pH 7.5, 30C
+0.36	1-phenyl-1,2-ethanediol	3488	PWMWNFMRSKOCEY-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+6.3	L-Threitol	3817	UNXHWFMMPAWVPI-IMJSIDKUSA-N	30	7.5		pH 7.5, 30C
+2	1,2-hexanediol	3889	FHKSXSQHXQEMOK-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+0.85	1,2-pentanediol	4159	WCVRQHFDJLLWFE-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+0.33	N,N,N',N'-tetramethyl-1,4-phenylenediamine	1590	CJAOGUFAAWZWNI-UHFFFAOYSA-N				
+0.34	3-butene-1,2-diol	5250	ITMIAZBRRZANGB-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+4.4	1,2,4-butanetriol	6033	ARXKVVRQIIOZGF-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+0.35	4-pentene-1,2-diol	8076	KCPNPXFJBCFNRU-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+0.1	3-butenol	8077	ZSPTYLOMNJNZNG-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+0.017	2-amino-1-pentanol	8078	ULAXUFGARZZKTK-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+15.5	4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N				
+35.4	di-(2,2'-bipyridinyl)ruthenium(III)dichloride	22968	LIPBOWSWBSCMAU-UHFFFAOYSA-L	30	7.3		pH 7.3, 30C
+13.8	[(2,2'-(4,4'dimethyl)bipyridine)2(Cl)2Ru(III)]PF6-	23038	ORUYBJQRQJQULG-UHFFFAOYSA-N	30	7.3		pH 7.3, 30C
+38.6	[(2,2'-bipyridine)2(CO32-)1/2Ru(III)]	23038	ORUYBJQRQJQULG-UHFFFAOYSA-N	30	7.3		pH 7.3, 30C
+31.4	[(2,2'-bipyridine)2(SCN-)2Ru(III)]	23040	KTXYJLBZOQRVDF-UHFFFAOYSA-L	30	7.3		pH 7.3, 30C
+10.5	[(2,2'-(4,4'dimethyl)bipyridine)2(Cl)2Ru(III)]	23041	OFRHOGBGCXHVMJ-UHFFFAOYSA-L	30	7.3		pH 7.3, 30C
+158	[(2,2'-bipyridine)3Ru(II)]PF6-	23042	YKJZROOASDCYOW-UHFFFAOYSA-N	30	7.3		pH 7.3, 30C
+8.3	[(2,2'-bipyridine)2(H2O)2Ru(III)]PF6-	23123	HRFHOWCTUVFUFJ-UHFFFAOYSA-N	30	7.3		pH 7.3, 30C
+10.5	[(1,10-phenanthroline)2(Cl)2Ru(III)]	23124	RFITXDFTLQALJU-UHFFFAOYSA-N				
+50.3	[(1,8-dimethyl-4,5-phenanthroline)3Ru(II)]PF6-	23125	FUZOEGMNOAAEAO-UHFFFAOYSA-N	30	7.3		pH 7.3, 30C

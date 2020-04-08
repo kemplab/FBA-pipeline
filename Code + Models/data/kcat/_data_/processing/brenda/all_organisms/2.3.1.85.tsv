@@ -1,0 +1,19 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0002	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N			X	R606K mutant
+0.00167	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N			X	R606A mutant
+0.02	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N				wild-type enzyme
+0.0317	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				wild-type enzyme
+0.0567	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	R606K mutant
+0.12	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				wild-type, enoylreductase activity
+0.237	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	R606A mutant
+0.3	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant enzyme K1699Q
+0.3	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N			X	mutant enzyme K1699Q
+0.32	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant enzyme K1699A
+0.32	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N			X	mutant enzyme K1699A
+1.1	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				wild-type, beta-ketoreductase activity
+1.1	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant G1886F, beta-ketoreductase activity
+2.7	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				wild-type enzyme
+2.7	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N				wild-type enzyme
+7.3	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant G1888A, beta-ketoreductase activity
+9.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				wild-type, enoylreductase activity
+73	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				wild-type, beta-ketoreductase activity

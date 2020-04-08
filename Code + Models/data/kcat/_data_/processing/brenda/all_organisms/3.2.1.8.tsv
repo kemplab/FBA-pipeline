@@ -1,0 +1,61 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.005167	p-nitrophenyl-beta-D-xylobioside	6892	LPCFVCUKBNKNBF-DDJMUGOQSA-N			X	mutant E128H
+0.013	xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	55	6.5		insoluble oat spelt xylan, pH 6.5, 55C
+0.045	xylotriose	773	JCSJTDYCNQHPRJ-MMDFAQQLSA-N	20	5.0		in 10 mM ammonium acetate buffer at pH 5.0 and 20C
+0.0523	p-nitrophenyl-beta-D-xylobioside	6892	LPCFVCUKBNKNBF-DDJMUGOQSA-N				switching enzyme with azide
+0.058	xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	55	6.5		soluble birchwood xylan, pH 6.5, 55C
+0.06	4-methylumbelliferyl-beta-xylobiose	23157	UMZIMVDKMJLGOT-WZZSYRLHSA-N	50	5.0		pH 5.0, 50C
+0.085	xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	55	6.5		insoluble birchwood xylan, pH 6.5, 55C
+0.099	xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	55	6.5		soluble oat spelt xylan, pH 6.5, 55C
+0.13	2-chloro-4-nitrophenyl beta-D-xylobioside	23159	OSRFOZXTCDKGRD-LPCDHODISA-N	50	5.0		pH 5.0, 50C
+0.162	xylotetraose	1047	KPTPSLHFVHXOBZ-SVRBUABSSA-N	20	5.0		in 10 mM ammonium acetate buffer at pH 5.0 and 20C
+0.27	4-O-methyl-D-glucurono-D-xylan	23197	GFGWTYJRSDIDBK-PMUTYXLUSA-N	40	8.0		pH 8.0, 40C
+4.67	p-nitrophenyl-beta-D-xylobioside	6892	LPCFVCUKBNKNBF-DDJMUGOQSA-N			X	mutant N127S
+6.37	beta-1,4-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	55	7.0		pH 7.0, 55C, recombinant enzyme, birchwood xylan
+18.12	beta-1,4-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	55	7.0		pH 7.0, 55C, recombinant enzyme, oat spelt xylan
+26	xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N				soluble xylan from wheat straw
+28.7	xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N				soluble xylan from oat spelts
+34	2,5-dinitrophenyl-beta-D-xylobioside	27385	WQXXIVRTRZTUSD-DPTJKYGCSA-N	22	7.2		recombinant wild-type enzyme, pH 7.2, 22C
+42.17	p-nitrophenyl-beta-D-xylobioside	6892	LPCFVCUKBNKNBF-DDJMUGOQSA-N				wild-type
+50.3	xylopentaose	1778	LFFQNKFIEIYIKL-KUFDKHFESA-N	20	5.0		in 10 mM ammonium acetate buffer at pH 5.0 and 20C
+61	1,4-beta-D-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	70	7.5		pH 7.5, 70C, thermostable xylanase variant XynAG3, calculated as D-xylose liberated from 1,4-beta-D-xylan per second
+61	4-nitrophenyl xylopyranoside	80113	MLJYKRYCCUGBBV-GZBOUJLJSA-N	50	5		pH 5, 50C, xylanase III
+65	1,4-beta-D-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	70	7.5		pH 7.5, 70C, chimeric enzyme CorA-XynAG3, calculated as D-xylose liberated from 1,4-beta-D-xylan per second
+66.58	4-methylumbelliferyl-beta-xylotriose	23158	BFQGLLLWDVSQTP-JSMNVOECSA-N	50	5.0		pH 5.0, 50C
+68	xylohexaose	2232	FTTUBRHJNAGMKL-RJIDMKNSSA-N	20	5.0		in 10 mM ammonium acetate buffer at pH 5.0 and 20C
+68.2	beta-1,4-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	56	4.0		pH 4.0, 56C, beechwood xylan
+75	1,4-beta-D-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	65	6.5		pH 6.5, 65C, chimeric enzyme CorA-XynA, calculated as D-xylose liberated from 1,4-beta-D-xylan per second
+82	1,4-beta-D-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	55	6.5		pH 6.5, 55C, xylanase XynA, calculated as D-xylose liberated from 1,4-beta-D-xylan per second
+85.5	4-nitrophenyl alpha-L-arabinofuranoside	491	DUYYBTBDYZXISX-UKKRHICBSA-N	50	5.0		pH 5.0, 50C
+86	xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N				wild-type
+89.7	xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	50	6.1		soluble from oat spelt, pH 6.1, 50C
+106.5	xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	50	6.1		from birchwood, pH 6.1, 50C
+133.3	4-nitrophenyl alpha-L-arabinopyranoside	4624	MLJYKRYCCUGBBV-MMWGEVLESA-N	50	5.0		pH 5.0, 50C
+139.6	beta-1,4-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	50	5.0		pH 5.0, 50C, beechwood xylan
+168.2	beta-1,4-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	50	6.0		recombinant enzyme, pH 6.0, 50C, birchwood xylan
+168.7	beta-1,4-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	50	5.0		pH 5.0, 50C, oat spelt xylan
+185.1	beta-1,4-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	55	8.5		pH 8.5, 55C, birchwood xylan
+193.6	beta-1,4-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	50	6.0		recombinant enzyme, pH 6.0, 50C, oat spelt xylan
+199.7	beta-1,4-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	50	5.0		pH 5.0, 50C, birchwood xylan
+205.7	beta-1,4-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	50	5.0		pH 5.0, 50C, birchwood xylan
+223.3	xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	50			50C
+225	xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N			X	mutant 2TfxA98
+339.6	beta-1,4-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	60	6.0		beechwood xylan, pH 6.0, 60C, recombinant Xyn2
+407	xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	50	6.0		xylanase II, birchwood xylan, pH 6.0, 50C
+435.7	beta-1,4-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	60	6.0		birchwood xylan, pH 6.0, 60C, recombinant Xyn2
+468	xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	50	6.0		xylanase II, oatspelt xylan, pH 6.0, 50C
+512.4	beta-1,4-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	60	6.0		oat spelt xylan, pH 6.0, 60C, recombinant Xyn2
+603.8	beta-1,4-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	45	6.5		pH 6.5, 45C
+769	4-nitrophenyl beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	50	5.0		pH 5.0, 50C
+833	4-methylumbelliferyl-xylotriose	23158	BFQGLLLWDVSQTP-JSMNVOECSA-N	50	5.0		pH 5.0, 50C
+898	4-nitrophenyl xylopyranoside	80113	MLJYKRYCCUGBBV-GZBOUJLJSA-N	50	5		pH 5, 50C, xylanase II
+1031	xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	50	6.0		xylanase I, birchwood xylan, pH 6.0, 50C
+1247	xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	25	6.5		pH 6.5, 25C
+1345	xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	50	6.0		xylanase I, oatspelt xylan, pH 6.0, 50C
+1383	beta-1,4-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	60	7.0		pH 7.0, 60C, PhX33, oat spelt xylan
+3333	4-methylumbelliferyl-xylobiose	23157	UMZIMVDKMJLGOT-WZZSYRLHSA-N	50	5.0		pH 5.0, 50C
+3333	beta-1,4-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	60	7.0		pH 7.0, 60C, PhX20, oat spelt xylan
+5000	4-nitrophenyl beta-D-cellobioside	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50	5.0		pH 5.0, 50C
+5405	xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	45	4.2		pH 4.2, 45C
+5416	beta-1,4-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	37	4.5		recombinant enzyme, pH 4.5, 37C
+6551	beta-1,4-xylan	1075	DIWCNYKWVJXSIG-SVRBUABSSA-N	50	5.0		recombinant wild-type enzyme, pH 5.0, 50C, oat spelt xylan

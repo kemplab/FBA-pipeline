@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.5	acetoacetyl-CoA	167	OJFDKHTZOUZBOS-CITAKDKDSA-N	37	7.4		pH 7.4, 37C recombinant His-tagged enzyme
+3	(3R)-hydroxyhexadecanoyl-CoA	5853	DEHLMTDDPWDRDR-PJGZIINNSA-N				A-/B-CtMFE-2(hdelta2delta)
+9	butyrylacetyl-CoA	4360	NFOYYXQAVVYWKV-HDRQGHTBSA-N				
+12	(3R)-hydroxyhexadecanoyl-CoA	5853	DEHLMTDDPWDRDR-PJGZIINNSA-N				A-/B+CtMFE-2(hdelta2deltaadelta)
+17	(3R)-3-hydroxydecanoyl-CoA	3980	HIVSMYZAMUNFKZ-PDQACDDGSA-N				A-/B+CtMFE-2(hdelta2deltaadelta)
+27	2-methylacetoacetyl-CoA	6062	NHNODHRSCRALBF-XPQQUFCKSA-N				
+29	(3R)-hydroxybutyryl-CoA	9272	QHHKKMYHDBRONY-WZZMXTMRSA-N				A-/B+CtMFE-2(hdelta2deltaadelta)
+31	(3R)-hydroxybutyryl-CoA	9272	QHHKKMYHDBRONY-WZZMXTMRSA-N				A+/B+CtMFE-2(h2delta)
+33	(3R)-3-hydroxydecanoyl-CoA	3980	HIVSMYZAMUNFKZ-PDQACDDGSA-N				A-/B-CtMFE-2(hdelta2delta)
+41	(3R)-hydroxyhexadecanoyl-CoA	5853	DEHLMTDDPWDRDR-PJGZIINNSA-N				A+/B+CtMFE-2(h2delta)
+53	(3R)-3-hydroxydecanoyl-CoA	3980	HIVSMYZAMUNFKZ-PDQACDDGSA-N				A+/B+CtMFE-2(h2delta)
+90	D-3-hydroxybutyryl-CoA	9272	QHHKKMYHDBRONY-WZZMXTMRSA-N				
+124	propionylacetyl-CoA	10721	WIOQNWTZBOQTEU-ZMHDXICWSA-N				
+267	Acetoacetyl-S-(D-pantetheine)11-pivalate	20144	APEBRPARJBELRH-INIZCTEOSA-N				
+300	acetoacetyl-CoA	167	OJFDKHTZOUZBOS-CITAKDKDSA-N				

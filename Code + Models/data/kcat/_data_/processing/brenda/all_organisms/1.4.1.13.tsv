@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.28	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	7.5		pH 7.5, 37C, pGLTY2
+6.42	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	7.5		pH 7.5, 37C, pGLTZ
+16.3	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	70	7.5		pH 7.5, 70C, pGLTZ
+18.3	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				of NADPH:acceptor oxidoreductase activity of the beta subunit of the enzyme, co-substrate: iodonitrotetrazolium, inhibitor: 2'-phosphoadenosine-5'-diphospho-5'-beta-D-ribose
+20	iodonitrotetrazolium	4141	JORABGDXCIBAFL-UHFFFAOYSA-M				of NADPH:acceptor oxidoreductase activity of the beta subunit of the enzyme, co-substrate: NADPH, inhibitor: 2'-phosphoadenosine-5'-diphospho-5'-beta-D-ribose
+25.3	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N				of NADPH:acceptor oxidoreductase acitivity of the beta subunit of the enzyme
+26.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	70	7.5		pH 7.5, 70C, pGLTY2
+30.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				of NADPH:acceptor oxidoreductase activity of the beta subunit of the enzyme, co-substrate: ferricyanide, inhibitor: 2'-phosphoadenosine-5'-diphospho-5'-beta-D-ribose
+32	iodonitrotetrazolium	4141	JORABGDXCIBAFL-UHFFFAOYSA-M				of NADPH:acceptor oxidoreductase acitivity of the beta subunit of the enzyme
+39.5	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				of NADPH:acceptor oxidoreductase activity of the beta subunit of the enzyme, co-substrate: NADPH, inhibitor: 2'-phosphoadenosine-5'-diphospho-5'beta-D-ribose
+41.9	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				of NADPH:acceptor oxidoreductase acitivity of the beta subunit of the enzyme

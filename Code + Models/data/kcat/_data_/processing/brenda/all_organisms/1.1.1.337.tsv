@@ -1,0 +1,90 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.004	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme del I81/delK82/delN87/delP88
+0.03	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme del I81/delK82
+0.1	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme F236V
+0.2	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239W
+0.23	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme del I81
+0.76	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme delK82
+0.9	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239A
+15	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme delN87
+17	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme delN87/delP88
+20	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme F236S
+46	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme delP88
+90	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, wild-type enzyme
+90	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, wild-type enzyme
+100	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239M
+340	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme G234V/G235D
+8	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme del I81
+25	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239M/T245A
+51	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme T245A
+280	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme delK82
+350	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239F
+750	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme delP88
+1200	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme del L 83
+2500	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme G234V/G235D
+2600	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme del I81/delK82
+3500	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239A
+4100	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239W
+6400	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme F236S
+7300	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, wild-type enzyme
+7300	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, wild-type enzyme
+11000	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239M
+12000	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme del I81/delK82/delN87/delP88
+15000	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme F236V
+19000	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme delN87
+89000	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme delN87/delP88
+1.7	4-methyl-2-oxopentanoate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme del I81
+25	4-methyl-2-oxopentanoate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme del I81/delK82
+39	4-methyl-2-oxopentanoate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme del I81/delK82/delN87/delP88
+490	4-methyl-2-oxopentanoate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme delP88
+920	4-methyl-2-oxopentanoate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme delK82
+2400	4-methyl-2-oxopentanoate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, wild-type enzyme
+4200	4-methyl-2-oxopentanoate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme del L 83
+15000	4-methyl-2-oxopentanoate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme delN87
+520000	4-methyl-2-oxopentanoate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme delN87/delP88
+2	2-oxoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239M/T245A
+210	2-oxoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme T245A
+420	2-oxoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239F
+920	2-oxoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme F236S
+1000	2-oxoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme F236V
+2400	2-oxoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, wild-type enzyme
+2500	2-oxoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme G234V/G235D
+3400	2-oxoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239W
+4400	2-oxoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239A
+13000	2-oxoisocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239M
+0.63	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	pH 7.0, 30C, mutant enzyme del I81
+6.58	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	pH 7.0, 30C, mutant enzyme L239M/T245A
+13	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	pH 7.0, 30C, mutant enzyme del I81/delK82/delN87/delP88
+20	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	pH 7.0, 30C, mutant enzyme del I81/delK82
+27	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	pH 7.0, 30C, mutant enzyme T245A
+40	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	pH 7.0, 30C, mutant enzyme delK82
+320	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	pH 7.0, 30C, mutant enzyme L239F
+620	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	pH 7.0, 30C, mutant enzyme delP88
+1000	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	pH 7.0, 30C, mutant enzyme del L 83
+2100	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	pH 7.0, 30C, mutant enzyme F236S
+2400	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	pH 7.0, 30C, mutant enzyme L239W
+4400	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	pH 7.0, 30C, mutant enzyme delN87
+5600	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	pH 7.0, 30C, mutant enzyme L239A
+6900	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	pH 7.0, 30C, mutant enzyme F236V
+7600	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	pH 7.0, 30C, mutant enzyme G234V/G235D
+7900	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	pH 7.0, 30C, mutant enzyme L239M
+21000	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0	X	pH 7.0, 30C, mutant enzyme delN87/delP88
+360000	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0		pH 7.0, 30C, wild-type enzyme
+360000	2-oxocaproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	7.0		pH 7.0, 30C, wild-type enzyme
+0.1	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239M/T245A
+0.2	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme F236V
+1.3	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme T245A
+9.5	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme F236S
+20	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239F
+22	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239W
+92	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme G234V/G235D
+150	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239M
+520	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239A
+18000	phenylglyoxylate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, wild-type enzyme
+0.07	oxo-tert-leucine	13073	IAWVHZJZHDSEOC-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme F236S
+0.075	oxo-tert-leucine	13073	IAWVHZJZHDSEOC-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239M/T245A
+0.2	oxo-tert-leucine	13073	IAWVHZJZHDSEOC-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme G234V/G235D
+0.3	oxo-tert-leucine	13073	IAWVHZJZHDSEOC-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239A
+0.4	oxo-tert-leucine	13073	IAWVHZJZHDSEOC-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme L239M
+32	oxo-tert-leucine	13073	IAWVHZJZHDSEOC-UHFFFAOYSA-N	30	7.0	X	pH 7.0, 30C, mutant enzyme T245A
+52	oxo-tert-leucine	13073	IAWVHZJZHDSEOC-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, wild-type enzyme

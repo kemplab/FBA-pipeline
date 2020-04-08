@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0333	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N				
+0.173	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant E121A
+0.18	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N				using O2 as electron acceptor
+0.202	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant E121Q
+0.215	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant E121D
+0.223	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant E121K
+0.23	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N		7.5	X	mutant enzyme R290A, at pH 7.5, temperature not specified in the publication
+0.267	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N	25	8.0		pH 8.0, 25C, recombinant wild-type enzyme
+1.05	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N	37	8.0		apparent value, at pH 8.0 and 37C; pH 8, 37C
+2.28	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N		7.5	X	mutant enzyme Q242A, at pH 7.5, temperature not specified in the publication
+2.6	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N				oxygen electron acceptor
+5.55	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N				fumarate electron acceptor
+7.83	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N		7.5	X	mutant enzyme S389A, at pH 7.5, temperature not specified in the publication
+10.6	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N		7.5		wild type enzyme, at pH 7.5, temperature not specified in the publication
+23.69	L-aspartate	91	CKLJMWTZIZZHCS-REOHCLBHSA-N		7.5	X	mutant enzyme H244A, at pH 7.5, temperature not specified in the publication
+0.5	fumarate	156	VZCYOOQTPOCHFL-OWOJBTEDSA-N				
+0.0035	N-acetyl-L-aspartate	1675	OTCCIMWXFLJLIA-BYPYZUCNSA-N	25	8.0		pH 8.0, 25C, recombinant wild-type enzyme
+0.0055	N-acetyl-L-aspartate	1675	OTCCIMWXFLJLIA-BYPYZUCNSA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant E121A
+0.0013	N-formyl-L-aspartate	3163	MQUUQXIFCBBFDP-VKHMYHEASA-N	25	8.0	X	pH 8.0, 25C, recombinant mutant E121A
+0.0077	N-formyl-L-aspartate	3163	MQUUQXIFCBBFDP-VKHMYHEASA-N	25	8.0		pH 8.0, 25C, recombinant wild-type enzyme
+0.173	3-hydroxy-erythro-L-aspartate	3919	YYLQUHNPNCGKJQ-NHYDCYSISA-N	25	8.0		pH 8.0, 25C, recombinant wild-type enzyme

@@ -1,0 +1,45 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+72	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N		7.0		in 100 mM cacodylate buffer, pH 7.0 containing 10 mM MnCl2 and 0.2-6 microM purified fusion-beta1,4-GalT7
+0.028	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				wild-type, pH and temperature not specified in the publication
+0.1	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	pH 7.0, 37C, mutant W224H, protein expressed in Escherichia coli
+0.46	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	pH 7.0, 37C, mutant E227D, protein expressed in Escherichia coli
+1	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N		7.0	X	DELTA1-81, mutant A186D, pH and temperature not specified in the publication; mutant enzyme A186D, in 100 mM cacodylate buffer (pH 7.0) containing 10 mM MnCl2, temperature not specified in the publication
+1.05	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	270	7.0	X	DELTA1-81, mutant R270C, pH and temperature not specified in the publication; mutant enzyme R270C, in 100 mM cacodylate buffer (pH 7.0) containing 10 mM MnCl2, temperature not specified in the publication
+1.06	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N		7.0	X	DELTA1-81, mutant L206P, pH and temperature not specified in the publication; mutant enzyme L206P, in 100 mM cacodylate buffer (pH 7.0) containing 10 mM MnCl2, temperature not specified in the publication
+1.11	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N		7.0		DELTA1-81, wild-type, pH and temperature not specified in the publication; wild type enzyme, in 100 mM cacodylate buffer (pH 7.0) containing 10 mM MnCl2, temperature not specified in the publication
+1.14	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.4		wild type enzyme, in 100 mM sodium cacodylate buffer (pH 7.4) containing 10 mM MnCl2, at 37C
+1.52	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0		pH 7.0, 37C, wild-type, protein expressed in Escherichia coli
+5086	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N		7.0		in 100 mM cacodylate buffer, pH 7.0 containing 10 mM MnCl2 and 0.2-6 microM purified fusion-beta1,4-GalT7
+5460	4-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N				recombinant maltose-binding protein-beta1,4-GalT7 fusion protein
+0.5	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant enzyme Y196F, at pH 7.0 and 37C; pH 7.0, 37C, recombinant mutant Y196F
+0.77	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant enzyme R270A, at pH 7.0 and 37C; pH 7.0, 37C, recombinant mutant R270A
+0.81	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant enzyme R270K, at pH 7.0 and 37C; pH 7.0, 37C, recombinant mutant R270K
+0.89	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant enzyme R226A, at pH 7.0 and 37C; pH 7.0, 37C, recombinant mutant R226A
+1.21	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant enzyme Y199F, at pH 7.0 and 37C; pH 7.0, 37C, recombinant mutant Y199F
+1.35	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant enzyme R226K, at pH 7.0 and 37C; pH 7.0, 37C, recombinant mutant R226K
+1.49	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant enzyme H195R, at pH 7.0 and 37C; pH 7.0, 37C, recombinant mutant H195R
+1.5	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0		pH 7.0, 37C, recombinant wild-type enzyme
+1.51	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0		wild type enzyme, at pH 7.0 and 37C
+1.62	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant enzyme H195Q, at pH 7.0 and 37C; pH 7.0, 37C, recombinant mutant H195Q
+1.93	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant enzyme H195A, at pH 7.0 and 37C; pH 7.0, 37C, recombinant mutant H195A
+3	UDP-xylose	291	DQQDLYVHOTZLOR-OCIMBMBZSA-N		7.0		in 100 mM cacodylate buffer, pH 7.0 containing 10 mM MnCl2 and 0.2-6 microM purified fusion-beta1,4-GalT7
+0.13	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0	X	pH 7.0, 37C, mutant E227D, protein expressed in Escherichia coli
+0.5	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0	X	pH 7.0, 37C, recombinant mutant Y196F
+0.77	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0	X	pH 7.0, 37C, recombinant mutant R270A
+0.81	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0	X	pH 7.0, 37C, recombinant mutant R270K
+0.89	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0	X	pH 7.0, 37C, recombinant mutant R226A
+1.21	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0	X	pH 7.0, 37C, recombinant mutant Y199F
+1.35	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0	X	pH 7.0, 37C, recombinant mutant R226K
+1.49	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0	X	pH 7.0, 37C, recombinant mutant H195R
+1.5	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0		pH 7.0, 37C, recombinant wild-type enzyme
+1.62	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0	X	pH 7.0, 37C, recombinant mutant H195Q
+1.79	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0		pH 7.0, 37C, wild-type, protein expressed in Escherichia coli
+1.93	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0	X	pH 7.0, 37C, recombinant mutant H195A
+4080	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N				recombinant maltose-binding protein-beta1,4-GalT7 fusion protein
+30.2	3-acetamido-propyl beta-D-xylopyranoside	118590	ZEEBCCXQTUFZHF-UTINFBMNSA-N	25	5.0		recombinant enzyme, in sodium acetate buffer (25 mM, pH 5.0), 20 mM MnCl2, 50 mM KCl, at 25C
+41	3-hexanamido-propyl beta-D-xylopyranoside	118591	RELSJDKHLZKYBL-YXCITZCRSA-N	25	5.0		recombinant enzyme, in sodium acetate buffer (25 mM, pH 5.0), 20 mM MnCl2, 50 mM KCl, at 25C
+64.3	N-[O-(beta-D-xylopyranosyl)-3-hydroxypropyl]succinamate	118592	FOMLTQODFYEJDC-UYZPKGHCSA-N	25	5.0		recombinant enzyme, in sodium acetate buffer (25 mM, pH 5.0), 20 mM MnCl2, 50 mM KCl, at 25C
+47.2	3-benzamido-propyl beta-D-xylopyranoside	118593	LLJFSMLRIBXBBI-QVHKTLOISA-N	25	5.0		recombinant enzyme, in sodium acetate buffer (25 mM, pH 5.0), 20 mM MnCl2, 50 mM KCl, at 25C
+78.7	N-[O-(beta-D-xylopyranosyl)-3-hydroxypropyl]phthalamate	118594	DIRGQRVQLOTRHK-OQMKEHIESA-N	25	5.0		recombinant enzyme, in sodium acetate buffer (25 mM, pH 5.0), 20 mM MnCl2, 50 mM KCl, at 25C
+106.3	O-gamma-beta-D-xylopyranosyl-N-Cbz-L-serine methyl ester	118595	JANSOGORGHJIFE-OJKRMQCYSA-N	25	5.0		recombinant enzyme, in sodium acetate buffer (25 mM, pH 5.0), 20 mM MnCl2, 50 mM KCl, at 25C
+152	2-(6-hydroxynaphthyl) beta-D-xylopyranoside	118596	UTNJKPGWOQPHGI-BARDWOONSA-N	25	5.0		recombinant enzyme, in sodium acetate buffer (25 mM, pH 5.0), 20 mM MnCl2, 50 mM KCl, at 25C

@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+20.69	4-nitrophenyl beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	80		X	80C, pH not specified in the publication, mutant enzyme D206N
+50.99	4-nitrophenyl beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	80			80C, pH not specified in the publication, wild-type enzyme
+186	4-nitrophenyl beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	80	6.5		pH 6.5, 80C
+227.6	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	80			80C, pH not specified in the publication, wild-type enzyme
+243	4-nitrophenyl beta-D-mannopyranoside	1238	IFBHRQDFSNCLOZ-LDMBFOFVSA-N	80	6.5		pH 6.5, 80C
+322.3	4-nitrophenyl beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	80			80C, pH not specified in the publication, wild-type enzyme
+323.4	4-nitrophenyl beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	80		X	80C, pH not specified in the publication, mutant enzyme D206N
+340.6	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	80		X	80C, pH not specified in the publication, mutant enzyme D206N
+1650	4-nitrophenyl beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	80	6.5		pH 6.5, 80C
+3270	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	80	6.5		pH 6.5, 80C

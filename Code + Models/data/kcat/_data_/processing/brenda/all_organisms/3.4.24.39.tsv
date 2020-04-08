@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00065	Z-Arg-Arg-4-methylcoumarin-7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N	30	9.0		pH 9.0, 30C, Co-substituted deuterolysin
+0.00082	Pyr-Arg-Thr-Lys-Arg-4-methylcoumarin-7-amide	11613	ZJRJBAKJWMHKFK-URVADDRRSA-N	30	9.0		pH 9.0, 30C, Co-substituted deuterolysin
+0.0009	Z-Arg-Arg-4-methylcoumarin-7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N	30	9.0		pH 9.0, 30C
+0.0017	N-butoxycarbonyl-Leu-Arg-Arg-4-methylcoumarin-7-amide	11615	LVRPWGAKCTZNSU-SDHOMARFSA-N	30	9.0		pH 9.0, 30C, Co-substituted deuterolysin
+0.0022	Pyr-Arg-Thr-Lys-Arg-4-methylcoumarin-7-amide	11613	ZJRJBAKJWMHKFK-URVADDRRSA-N	30	9.0		pH 9.0, 30C
+0.0035	N-butoxycarbonyl-Leu-Lys-Arg-4-methylcoumarin-7-amide	11616	MNQJQZZNDJMCDB-GSDHBNRESA-N	30	9.0		pH 9.0, 30C, Co-substituted deuterolysin
+0.0045	N-butoxycarbonyl-Leu-Arg-Arg-4-methylcoumarin-7-amide	11615	LVRPWGAKCTZNSU-SDHOMARFSA-N	30	9.0		pH 9.0, 30C
+0.009	N-butoxycarbonyl-Leu-Lys-Arg-4-methylcoumarin-7-amide	11616	MNQJQZZNDJMCDB-GSDHBNRESA-N	30	9.0		pH 9.0, 30C
+0.017	N-butoxycarbonyl-arginyl-valyl-arginyl-arginyl-4-methylcoumarin-7-amide	11614	YWISVGSSAYEYKH-NVGWLYTESA-N	30	9.0		pH 9.0, 30C, Co-substituted deuterolysin
+0.022	N-butoxycarbonyl-arginyl-valyl-arginyl-arginyl-4-methylcoumarin-7-amide	11614	YWISVGSSAYEYKH-NVGWLYTESA-N	30	9.0		pH 9.0, 30C

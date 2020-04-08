@@ -1,0 +1,29 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00133	bilirubin	494	BPYKTIZUTYGOLE-IFADSCNNSA-N				preparations of enzyme lyophilized from N-(2-hydroxyethyl)-piperazine-N'-(3-propane-sulfonic acid) buffer suspended in 50 : 50 v/v chloroform-n-heptane mixture
+0.0133	syringaldazine	656	YARKTHNUMGKMGS-LQGKIZFRSA-N		5.3		at pH 5.3
+0.115	bilirubin	494	BPYKTIZUTYGOLE-IFADSCNNSA-N			X	mutant I402G
+2.08	syringaldazine	656	YARKTHNUMGKMGS-LQGKIZFRSA-N		8.0		at about pH 8.0
+2.19	bilirubin	494	BPYKTIZUTYGOLE-IFADSCNNSA-N	25	7.5		pH 7.5, 25C
+3.93	bilirubin	494	BPYKTIZUTYGOLE-IFADSCNNSA-N				recombinant enzyme
+7.17	2,2'-azino-bis(3-ethylbenzthioline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N		5.3		at pH 5.3, about 3fold higher value at pH 2.5
+20	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N				
+29	bilirubin	494	BPYKTIZUTYGOLE-IFADSCNNSA-N		3.6		conjugated bilirubin, pH 3.6, temperature not specified in the publication
+60	p-phenylenediamine	1264	CBCKQZAAMUWICA-UHFFFAOYSA-N		6.5		pH 6.5, authentic bilirubin oxidase
+66.8	bilirubin	494	BPYKTIZUTYGOLE-IFADSCNNSA-N	37	7.2		conjugated bilirubin, pH 7.2, 37C
+67	bilirubin	494	BPYKTIZUTYGOLE-IFADSCNNSA-N		4.8		conjugated bilirubin, pH 4.8, temperature not specified in the publication
+70	bilirubin	494	BPYKTIZUTYGOLE-IFADSCNNSA-N		7.2		unconjugated bilirubin, pH 7.2, temperature not specified in the publication
+70	bilirubin	494	BPYKTIZUTYGOLE-IFADSCNNSA-N	37	7.2		unconjugated bilirubin, pH 7.2, 37C
+90	p-phenylenediamine	1264	CBCKQZAAMUWICA-UHFFFAOYSA-N		6.5		pH 6.5, recombinant enzyme from Pichia pastoris
+94.3	bilirubin	494	BPYKTIZUTYGOLE-IFADSCNNSA-N		8.0		unconjugated bilirubin, pH 8.0, temperature not specified in the publication
+94.3	ditaurobilirubin	9045	IVYBPZIDQLNIHQ-HRTPUDOWSA-L		5.5		pH 5.5, authentic bilirubin oxidase
+115	2,2'-azino-bis-(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N		6.5		pH 6.5, authentic bilirubin oxidase
+115	bilirubin	494	BPYKTIZUTYGOLE-IFADSCNNSA-N				
+117	bilirubin	494	BPYKTIZUTYGOLE-IFADSCNNSA-N		8.0		pH 8.0, authentic bilirubin oxidase
+117	bilirubin	494	BPYKTIZUTYGOLE-IFADSCNNSA-N		5.5		conjugated bilirubin, pH 5.5, temperature not specified in the publication
+164	2,2'-azino-bis-(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N		6.5		pH 6.5, recombinant enzyme from Pichia pastoris
+200	bilirubin	494	BPYKTIZUTYGOLE-IFADSCNNSA-N		8.0		pH 8.0, recombinant enzyme from Pichia pastoris
+233	ditaurobilirubin	9045	IVYBPZIDQLNIHQ-HRTPUDOWSA-L		5.5		pH 5.5, recombinant enzyme from Pichia pastoris
+374	K4[Fe(CN)6]	5544	XOGGUFAVLNCTRS-UHFFFAOYSA-N	25	7.0		wild type recombinant enzyme, at pH 7.0 and 25C
+530	bilirubin	494	BPYKTIZUTYGOLE-IFADSCNNSA-N				
+583	bilirubin	494	BPYKTIZUTYGOLE-IFADSCNNSA-N				enzyme immobilized on alginate-silicate beads
+1259	K4[Fe(CN)6]	5544	XOGGUFAVLNCTRS-UHFFFAOYSA-N	25	7.0	X	mutant enzyme M467Q, at pH 7.0 and 25C

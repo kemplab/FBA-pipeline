@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.003	17beta-hydroxy-5alpha-androstan-3-one	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	37	7.0		pH 7.0, 37C, radiometric analysis, formation of 3beta-androstanediol
+0.0493	17beta-hydroxy-5alpha-androstan-3-one	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	37	7.0		pH 7.0, 37C, radiometric analysis, formation of 3alpha-androstanediol
+0.052	17beta-hydroxy-5alpha-androstan-3-one	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	37	7.0		pH 7.0, 37C, spectrophotometric analysis, formation of 3beta-androstanediol or 3alpha-androstanediol

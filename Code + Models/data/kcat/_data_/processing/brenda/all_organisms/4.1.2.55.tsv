@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.07	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	70		X	70C, pH is not specified in the publication, mutant enzyme T157C/Y132V
+0.075	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	70		X	70C, pH is not specified in the publication, mutant enzyme T157F/Y132V
+4.6	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	70			70C, pH is not specified in the publication, wild-type enzyme
+5.5	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	50	6.0		pH 6.0, 50C, wild-type enzyme
+15	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	50	6.0	X	pH 6.0, 50C, mutant enzyme V193A
+0.06	D-glyceraldehyde	520	MNQZXJOMYWMBOU-VKHMYHEASA-N	70		X	70C, pH is not specified in the publication, mutant enzyme
+0.07	D-glyceraldehyde	520	MNQZXJOMYWMBOU-VKHMYHEASA-N	70		X	70C, pH is not specified in the publication, mutant enzyme T157C/Y132V
+4.4	D-glyceraldehyde	520	MNQZXJOMYWMBOU-VKHMYHEASA-N	50	6.0		pH 6.0, 50C, wild-type enzyme
+5.5	D-glyceraldehyde	520	MNQZXJOMYWMBOU-VKHMYHEASA-N	70			70C, pH is not specified in the publication, wild-type enzyme T157F/Y132V
+9.9	D-glyceraldehyde	520	MNQZXJOMYWMBOU-VKHMYHEASA-N	70	6		pH 6, 70C
+15.7	D-glyceraldehyde	520	MNQZXJOMYWMBOU-VKHMYHEASA-N	50	6.0	X	pH 6.0, 50C, mutant enzyme V193A
+28.2	2-dehydro-3-deoxy-D-gluconate	886	WPAMZTWLKIDIOP-WVZVXSGGSA-N	60	6.0		pH 6.0, 60C
+28.2	2-dehydro-3-deoxy-D-gluconate	886	WPAMZTWLKIDIOP-WVZVXSGGSA-N	60			60C, pH not specified in the publication
+28.2	2-dehydro-3-deoxy-D-gluconate	886	WPAMZTWLKIDIOP-WVZVXSGGSA-N	70	6.5		pH 6.5, 70C
+61.9	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	60			60C, pH not specified in the publication
+9.9	L-Glyceraldehyde	1624	MNQZXJOMYWMBOU-GSVOUGTGSA-N	70	6		pH 6, 70C
+6.8	2-dehydro-3-deoxy-D-galactonate	2808	WPAMZTWLKIDIOP-NQXXGFSBSA-N	60	6.0		pH 6.0, 60C
+6.8	2-dehydro-3-deoxy-D-galactonate	2808	WPAMZTWLKIDIOP-NQXXGFSBSA-N	60			60C, pH not specified in the publication
+6.8	2-dehydro-3-deoxy-D-galactonate	2808	WPAMZTWLKIDIOP-NQXXGFSBSA-N	70	6.5		pH 6.5, 70C
+9.3	2-dehydro-3-deoxy-L-arabinonate	4792	UQIGQRSJIKIPKZ-GSVOUGTGSA-N	50	6.5		pH 6.5, 50C
+34.8	2-dehydro-3-deoxy-D-galactonate 6-phosphate	5380	OVPRPPOVAXRCED-NQXXGFSBSA-N	60			60C, pH not specified in the publication
+15	2-dehydro-3-deoxy-D-xylonate	6055	UQIGQRSJIKIPKZ-VKHMYHEASA-N	50	6.5		pH 6.5, 50C
+0.7	D-glyceraldehyde acetonide	18453	YSGPYVWACGYQDJ-YFKPBYRVSA-N	70	6		pH 6, 70C
+5.4	D-glyceraldehyde acetonide	18453	YSGPYVWACGYQDJ-YFKPBYRVSA-N	70	6		pH 6, 70C

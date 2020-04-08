@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.13	6-Mercaptopurine	1019	GLVAUDGFNGKCSF-UHFFFAOYSA-N	25			25C
+0.33	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant R881M
+0.41	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.8	X	xanthine oxidoreductase mutant W335A/F336L, pH 7.8, 25C
+1.16	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N			X	pH not specified in the publication, temperature not specified in the publication, mutant E802Q
+1.28	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				cosubstrate cytochrome c
+1.35	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	8.5	X	pH 8.5, 25C, recombinant mutant E308V
+1.98	2-mercaptopurine	11154	HDBQZGJWHMCXIL-UHFFFAOYSA-N	25			25C
+2.57	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				cosubstrate indophenol
+2.76	6-Thioxanthine	3777	RJOXFJDOUQJOMQ-UHFFFAOYSA-N	25			25C
+3.32	2-Thioxanthine	6064	XNHFAGRBSMMFKL-UHFFFAOYSA-N	25			25C
+4.35	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N				cofactor 2,6-dichlorophenolindophenol
+4.92	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N				(+ O2)
+5.25	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N				cofactor 2,6-dichlorophenolindophenol
+9.73	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.8	X	xanthine oxidoreductase mutant W335A/F336L treated with dithiothreitol, pH 7.8, 25C
+12.47	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.8	X	xanthine oxidoreductase mutant W335A/F336L, pH 7.8, 25C
+16.2	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	23.5	8.2		pH 8.2, 23.5C
+18.3	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C, recombinant wild-type enzyme
+30	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C, recombinant wild-type enzyme
+108	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N				pH not specified in the publication, temperature not specified in the publication, wild-type enzyme

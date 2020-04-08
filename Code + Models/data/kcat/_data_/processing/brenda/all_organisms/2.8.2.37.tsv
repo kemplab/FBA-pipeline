@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.6	3'-phosphoadenylyl sulfate	106	GACDQMDRPRGCTN-KQYNXXCUSA-N	22	7.5		pH 7.5, 22C
+0.017	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	22	7.5	X	pH 7.5, 22C, mutant enzyme E36Q
+0.61	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	22	7.5	X	pH 7.5, 22C, mutant enzyme E33A
+1.6	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	22	7.5		pH 7.5, 22C, wild-type enzyme
+2.23	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	22	7.5		pH 7.5, 22C

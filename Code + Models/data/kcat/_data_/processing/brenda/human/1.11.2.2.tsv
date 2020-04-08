@@ -1,0 +1,30 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000001	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N	25	5.5		25C, pH 5.5
+0.00000016	SCN-	790	ZBKFYXZXZJPWNQ-UHFFFAOYSA-N	25	5.5		25C, pH 5.5
+0.000012	catechol	145	YCIMNLLNPGFGHC-UHFFFAOYSA-N	25	5.5		25C, pH 5.5
+0.43	1-methoxy-4-(methylsulfanyl)benzene	12947	DQNSKXYRRRCKGH-UHFFFAOYSA-N	20	5.0		in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+0.7	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	21	7.4		at 21C in 50 mM sodium phosphate buffer, pH 7.4
+1	benzothiophene	12626	FCEHBMOGCRZNNI-UHFFFAOYSA-N	20	5.0		in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+1	benzyl methyl sulfide	6121	OFQPKKGMNWASPN-UHFFFAOYSA-N	20	5.0		in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+1.6	benzothiophene	12626	FCEHBMOGCRZNNI-UHFFFAOYSA-N	20	5.0		in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+1.8	1-nitro-4-(methylsulfanyl)benzene	41925	NEZGPRYOJVPJKL-UHFFFAOYSA-N	20	5.0		in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+3	1-methyl-4-(methylsulfanyl)benzene	2505	VHILIAIEEYLJNA-UHFFFAOYSA-N	20	5.0		in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+4	thioanisole	3026	HNKJADCVZUBCPG-UHFFFAOYSA-N	20	5.0		in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+4.2	1-acetyl-4-(methylsulfanyl)benzene	100727	JECUZQLBQKNEMW-UHFFFAOYSA-N	20	5.0		in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+5	1-chloro-4-(methylsulfanyl)benzene	12948	KIQQUVJOLVCZKG-UHFFFAOYSA-N	20	5.0		in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+5.5	1-nitro-4-(methylsulfanyl)benzene	41925	NEZGPRYOJVPJKL-UHFFFAOYSA-N	20	5.0		in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+6	1-methoxy-4-(methylsulfanyl)benzene	12947	DQNSKXYRRRCKGH-UHFFFAOYSA-N	20	5.0		in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+7.3	phenyl propan-2-yl sulfide	32394	SNOAHAUUBQMVGW-UHFFFAOYSA-N	20	5.0		in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+8	benzyl methyl sulfide	6121	OFQPKKGMNWASPN-UHFFFAOYSA-N	20	5.0		in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+10	4-(methylsulfanyl)aniline	41922	YKFROQCFVXOUPW-UHFFFAOYSA-N	20	5.0		in the absence of NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+12	thioanisole	3026	HNKJADCVZUBCPG-UHFFFAOYSA-N	20	5.0		in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+13	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	20	7.2		apparent value, measured after 15 s, in 50 mM phosphate buffer, at pH 7.2 and 20C
+14	phenyl propan-2-yl sulfide	32394	SNOAHAUUBQMVGW-UHFFFAOYSA-N	20	5.0		in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+20	1-methyl-4-(methylsulfanyl)benzene	2505	VHILIAIEEYLJNA-UHFFFAOYSA-N	20	5.0		in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+25	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	20	7.2		apparent value, measured after 1 s, in 50 mM phosphate buffer, at pH 7.2 and 20C
+28.5	Cl-	134	VEXZGXHMUGYJMC-UHFFFAOYSA-M	21	7.4		at 21C in 50 mM sodium phosphate buffer, pH 7.4
+30.5	Thiocyanate	725	ZMZDMBWJUHKJPS-UHFFFAOYSA-M	21	7.4		at 21C in 50 mM sodium phosphate buffer, pH 7.4
+35	1-chloro-4-(methylsulfanyl)benzene	12948	KIQQUVJOLVCZKG-UHFFFAOYSA-N	20	5.0		in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+40	4-(methylsulfanyl)aniline	41922	YKFROQCFVXOUPW-UHFFFAOYSA-N	20	5.0		in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+56	1-acetyl-4-(methylsulfanyl)benzene	100727	JECUZQLBQKNEMW-UHFFFAOYSA-N	20	5.0		in the presence of 100 mM NaCl, in 50 mM acetate buffer, pH 5.0, at 20C
+320	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	20	7.2		apparent value, measured after 100 ms, in 50 mM phosphate buffer, at pH 7.2 and 20C

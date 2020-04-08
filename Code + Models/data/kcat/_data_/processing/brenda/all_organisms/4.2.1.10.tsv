@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.015	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N	37	7.5	X	mutant K170M, pH 7.5, 37C
+0.06	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N	25	7.0		at pH 7.0, 25C
+0.15	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N	25	7.0		at pH 7.0, 25C
+0.34	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N	25	7.5		pH 7.5, 25C
+1.4	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N	25	7.5		pH 7.5, 25C
+2	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N				
+4.6	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N	25	7.5		pH 7.5, 25C
+5.2	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N	25	7		pH 7, 25C
+6.3	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N	25	7.5		pH 7.5, 25C
+6.9	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N		8.3	X	pH 8.3, temperature not specified in the publication, mutant Q236A
+18	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N	37	7.5	X	mutant enzyme E86A, at pH 7.5 and 37C
+20	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N				
+61	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N	25	7.5		pH 7.5, 25C
+78	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N	37	7.5	X	mutant enzyme E86Q, at pH 7.5 and 37C
+84	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N	25	7.5		pH 7.5, 25C
+107	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N		8.3	X	pH 8.3, temperature not specified in the publication, mutant S232A
+124	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N	25	7		pH 7, 25C
+125	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N	37	7.5		wild-type enzyme, pH 7.5, 37C
+210	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N		8.3		pH 8.3, temperature not specified in the publication, wild-type enzyme
+210	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N	37	7.5		wild-type enzyme, pH 7.5, 37C
+310	3-dehydroquinate	700	WVMWZWGZRAXUBK-SYTVJDICSA-N	37	7.5		wild type enzyme, at pH 7.5 and 37C
+0.0006	(2R)-2-(4-methoxybenzyl)-3-dehydroquinic acid	128594	KDOXKRDIRCHNDT-FMIKSKESSA-N	25	8.0	X	mutant enzyme D88N, in Tris/acetic acid (50 mM, pH 8.0) at 25C
+0.0065	(2R)-2-(4-methoxybenzyl)-3-dehydroquinic acid	128594	KDOXKRDIRCHNDT-FMIKSKESSA-N	25	7.0	X	mutant enzyme N12S, in Tris/acetic acid (50 mM, pH 7.0) at 25C
+0.1542	(2R)-2-(4-methoxybenzyl)-3-dehydroquinic acid	128594	KDOXKRDIRCHNDT-FMIKSKESSA-N	25	7.0		wild type enzyme, in Tris/acetic acid (50 mM, pH 7.0) at 25C

@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0025	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	37	8.0	X	37C, pH 8.0, mutant enzyme H266A
+0.0142	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	37	8.0	X	37C, pH 8.0, mutant enzyme C139S
+0.042	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	37	8.0		37C, pH 8.0, wild-type enzyme
+0.067	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	37	7.4		37C, pH 7.4
+0.12	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				
+0.3	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	mutant enzyme C139S
+1.6	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	mutant enzyme C354S
+2.2	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				wild-type enzyme
+2.7	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	mutant enzyme C176S
+100	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	35	5.6		at pH 5.6 and 35C
+0.217	Se-adenosyl-L-selenomethionine	23305	GGJFWMOVUFBSIN-AIRLBKTGSA-O				
+0.06	Te-adenosyl-L-telluromethionine	23306	LVTOPQWZJQWFAW-TWBCTODHSA-O				

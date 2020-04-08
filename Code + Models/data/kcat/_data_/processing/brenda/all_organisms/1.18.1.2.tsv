@@ -1,0 +1,171 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0003	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant T155G/A160T/S223D/L263P/R264P/G265P, called AMP1PP5
+0.02	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.0	X	mutant T155G/A160T/S223D/R224Q/R233L/Y235F, pH 8.0
+0.03	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.0	X	mutant T155G/A160T/S223D/R224Q/R233L/Y235F/L263P, pH 8.0
+0.05	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.0	X	mutant S223D/R224Q/R233L/Y235F, pH 8.0
+0.06	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.0	X	mutant T155G/S223D/R224Q/R233L/Y235F, pH 8.0
+0.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.0	X	mutant T155G/R224Q/R233L/Y235F, pH 8.0
+0.24	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7.4		pH 7.4, temperature not specified in the publication, recombinant enzyme
+0.6	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.2		pH 8.2, temperature not specified in the publication, recombinant enzyme
+1	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.2	X	mutant Del267-272, substrate 2,6-dichlorophenolindophenol, pH 7.2, 25C
+1.3	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.0	X	mutant R224Q/R233L/Y235F, pH 8.0
+1.91	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				for FprB in a flavin free assay, using Fe(III)-EDTA as electron acceptor
+2.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	8.0		wild-type, 30C, pH 8.0
+3.7	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				NADPH cytochrome c reductase activity, flavodoxin
+3.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	in an assay using K3Fe(CN)6 as electron acceptor for mutant H286K
+3.82	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				for FprB in a flavin free assay, using K3Fe(CN)6 as electron acceptor
+4.51	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				for FprB in a flavin free assay, using 2,6-dichlorophenolindophenol as electron acceptor
+4.77	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				for FprA in a flavin free assay, using 2,6-dichlorophenolindophenol as electron acceptor
+5.99	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				for FprA in a flavin free assay, using K3Fe(CN)6 as electron acceptor
+6	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	in an assay using 2,6-dichlorophenolindophenol as electron acceptor for mutant H286K
+6.18	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				for FprA in a flavin free assay, using Fe(III)-EDTA as electron acceptor
+6.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				for FprA with FAD as cofactor, using Fe(III)-EDTA as electron acceptor
+7	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.2	X	mutant A266Y, substrate 2,6-dichlorophenolindophenol, pH 7.2, 25C
+7.13	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				for FprA in a flavin free assay, using Fe(III)-citrate as electron acceptor
+7.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.0		diaphorase activity, pH 8.0
+7.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	in an assay using K3Fe(CN)6 as electron acceptor for mutant H286L
+7.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				using cytochrome c as electron acceptor
+7.54	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				for FprA with FAD as cofactor, using Fe(III)-citrate as electron acceptor
+8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.2	X	mutant Del267-272, substrate ferricyanide, pH 7.2, 25C
+10.1	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	8.0	X	mutant bearing an artificial metal binding site of nine amino acids at the C-terminus, presence of Zn2+, 30C, pH 8.0
+10.28	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				for FprB with FAD as cofactor, using Fe(III)-EDTA as electron acceptor
+10.77	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				for FprB with FAD as cofactor, using Fe(III)-citrate as electron acceptor
+11.18	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				for FprA with FMN as cofactor, using Fe(III)-EDTA as electron acceptor
+11.92	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				for FprB in a flavin free assay, using Fe(III)-citrate as electron acceptor
+12	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.2	X	mutant A266Y/Del267-272, substrate ferricyanide, pH 7.2, 25C
+12.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				in presence of Cd2+
+17	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.0	X	mutant L263P, pH 8.0
+17.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	in an assay using 2,6-dichlorophenolindophenol as electron acceptor for mutant H286A
+20	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.2		wild-type, substrate 2,6-dichlorophenolindophenol, pH 7.2, 25C
+20.38	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				for FprB with FMN as cofactor, using Fe(III)-EDTA as electron acceptor
+21.71	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		6.8		pH 6.8, temperature not specified in the publication, recombinant enzyme
+21.72	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				for FprB with FMN as cofactor, using Fe(III)-citrate as electron acceptor
+22	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.0	X	mutant R233L/Y235F, pH 8.0
+22.7	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	24	7.0		2,6-dichlorophenolindophenol reduction, pH 7.0, 24C
+23.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				
+24.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	8.0	X	mutant with an insertion of the iloop of Pisum sativum enzyme, pH 8.0, 30C
+27	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				electron transfer via the enzyme to Fe(CN)63-
+35	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant T155G/A160T/L263P/R264P/G265P, called PP5
+35.4	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	24	7.0		ferredoxin reduction, pH 7.0, 24C
+37.61	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				for FprA with FMN as cofactor, using Fe(III)-citrate as electron acceptor
+38.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	8.0		wild-type, pH 8.0, 30C
+38.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	3		X	mutant T155G/A160T/L263P/Y303S, called PP3CT
+44.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	in an assay using K3Fe(CN)6 as electron acceptor for mutant H286A
+55	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				in an assay using 2,6-dichlorophenolindophenol as electron acceptor
+59	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	8.0	X	recombinant mutant E139K, diaphorase activity with 2,6-dichlorophenolindophenol, pH 8.0, 25C, ionic strength of 28 mM
+60	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.0	X	mutant L263A, pH 8.0
+65	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				using 2-(4-iodophenyl)-3-(4-nitrophenyl)-5-phenyltetrazolium chloride as electron acceptor
+68	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.2	X	mutant A266Y, substrate ferricyanide, pH 7.2, 25C
+70	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	in an assay using 2,6-dichlorophenolindophenol as electron acceptor for mutant H286Q
+72	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.0	X	mutant T155G/A160T, pH 8.0
+73.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	8.0	X	mutant bearing an artificial metal binding site of nine amino acids at the C-terminus, absence of Zn2+, 30C, pH 8.0
+74.1	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	8.0		wild-type, 30C, pH 8.0
+77	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.0	X	mutant T155G/A160T/L263P, pH 8.0
+77	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant T155G/A160T/L263P, called PP3
+81	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	8.0		recombinant wild-type enzyme, diaphorase activity with 2,6-dichlorophenolindophenol, pH 8.0, 25C, ionic strength of 28 mM
+81.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.0		wild-type enzyme, pH 8.0
+81.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				wild type enzyme of Anabaena sp.
+85	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				using K3Fe(CN)6 as electron acceptor
+88	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	8.0	X	recombinant mutant E139Q, diaphorase activity with 2,6-dichlorophenolindophenol, pH 8.0, 25C, ionic strength of 28 mM
+89	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	8.0	X	recombinant mutant E139D, diaphorase activity with 2,6-dichlorophenolindophenol, pH 8.0, 25C, ionic strength of 28 mM
+95.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	8.0	X	mutant DELTAW248, pH 8.0, 30C
+97	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.0	X	mutant T155G, pH 8.0
+99	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	8.0	X	mutant with an insertion of the iloop of Pisum sativum enzyme plus deletion of residue W248, pH 8.0, 30C
+100	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				NADPH cytochrome c reductase activity, ferredoxin
+105	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				NADPH-dichlorophenol indophenol diaphorase activity
+121.9	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		8.0		pH 8.0, temperature not specified in the publication
+125	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				in an assay using K3Fe(CN)6 as electron acceptor
+185	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	in an assay using K3Fe(CN)6 as electron acceptor for mutant H286Q
+222	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.2		wild-type, substrate ferricyanide, pH 7.2, 25C
+225	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				electron transfer via the enzyme to K3Fe(CN)6
+225	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				electron transfer via the enzyme to oxidized ferredoxin and further to cytochrome c
+233	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				NADPH-ferredoxin-cytochrome c reductase activity
+250	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				electron transfer via the enzyme to oxidized ferredoxin and further to cytochrome c
+251.1	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	8.0	X	mutant lacking the beta-hairpin, pH 8.0, 30C
+258	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	8		in 50 mM Tris-HCl, pH 8, at 30C
+267	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				diaphorase activity, FNR-flavodoxin complex
+360.5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	8.0	X	mutant with additional tryptophan residue at the C-terminus, pH 8.0, 30C
+374.3	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	8.0		wild-type, pH 8.0, 30C
+424	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	9.0	X	mutant lacking pH 9.0, 25C
+470	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				wild-type
+500	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	15	7.0		pH 7.0, 15C, wild-type leaf isozyme, diaphorase activity
+517	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				NADPH-ferricyanide diaphorase activity
+517	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				diaphorase activity
+520	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	15	7.0		pH 7.0, 15C, wild-type root isozyme, diaphorase activity
+520	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				electron transfer via the enzyme to oxidized ferredoxin and further to cytochrome c
+540	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	9.0		wild-type, pH 9.0, 25C
+550	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				electron transfer via the enzyme to K3Fe(CN)6
+560	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	15	7.0		pH 7.0, 15C, recombinant chimeric enzyme, diaphorase activity
+625	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N			X	mutant Q242R
+0.0005	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant T155G/A160T/S223D/Y235F/L263P/R264P/G265P, called AMP2PP5
+0.008	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant T155G/A160T/S223D/L263P/R264P/G265P, called AMP1PP5
+0.02	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant T155G, pH 8.0
+0.04	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant S223D/R224Q/R233L/Y235F, pH 8.0; mutant T155G/A160T/S223D/R224Q/R233L/Y235F, pH 8.0
+0.05	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant L263P, pH 8.0
+0.06	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant T155G/S223D/R224Q/R233L/Y235F, pH 8.0
+0.07	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant T155G/A160T, pH 8.0
+0.1	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant S223D/R233L/Y235F, pH 8.0
+0.13	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant L263A, pH 8.0
+0.16	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0		wild-type enzyme, pH 8.0
+0.16	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				wild type enzyme of Anabaena sp.
+0.28	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant T155G/R224Q/R233L/Y235F, pH 8.0
+0.33	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant T155G/A160T/L263P, pH 8.0
+0.33	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant T155G/A160T/L263P, called PP3
+0.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	24	7.0		ferredoxin reduction, pH 7.0, 24C
+0.65	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	mutant T155G/A160T/L263P/R264P/G265P, called PP5
+0.86	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant R233L/Y235F, pH 8.0
+1.16	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				for FprA in a flavin free assay, using K3Fe(CN)6 as electron acceptor
+1.2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant R224Q/R233L/Y235F, pH 8.0
+2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	8.0	X	mutant lacking the beta-hairpin, pH 8.0, 30C
+2.1	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0	X	mutant T155G/A160T/S223D/R224Q/R233L/Y235F/L263P, pH 8.0
+3.03	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				for FprA in a flavin free assay, using 2,6-dichlorophenolindophenol as electron acceptor
+3.09	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				for FprB in a flavin free assay, using K3Fe(CN)6 as electron acceptor
+3.11	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				for FprA in a flavin free assay, using Fe(III)-citrate as electron acceptor
+3.2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		8.0		pH 8.0, temperature not specified in the publication
+4.59	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				for FprB in a flavin free assay, using 2,6-dichlorophenolindophenol as electron acceptor
+5	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	8.0	X	mutant with additional tryptophan residue at the C-terminus, pH 8.0, 30C
+5.6	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				for FprA in a flavin free assay, using Fe(III)-EDTA as electron acceptor
+7	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	8.0		wild-type, pH 8.0, 30C
+7.71	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				for FprA with FMN as cofactor, using Fe(III)-citrate as electron acceptor
+8.21	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				for FprB in a flavin free assay, using Fe(III)-EDTA as electron acceptor
+9.18	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				for FprA with FMN as cofactor, using Fe(III)-EDTA as electron acceptor
+9.6	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	15	7.0		pH 7.0, 15C, recombinant chimeric enzyme, diaphorase activity
+10	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				for FprA with FAD as cofactor, using Fe(III)-citrate as electron acceptor
+10.18	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				for FprA with FAD as cofactor, using Fe(III)-EDTA as electron acceptor
+10.64	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				for FprB in a flavin free assay, using Fe(III)-citrate as electron acceptor
+13.2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				for FprB with FAD as cofactor, using Fe(III)-EDTA as electron acceptor
+16.44	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				for FprB with FMN as cofactor, using Fe(III)-citrate as electron acceptor
+17.47	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				for FprB with FMN as cofactor, using Fe(III)-EDTA as electron acceptor
+19.24	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				for FprB with FAD as cofactor, using Fe(III)-citrate as electron acceptor
+31	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	3		X	mutant T155G/A160T/L263P/Y303S, called PP3CT
+45.3	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	8.0	X	mutant with an insertion of the iloop of Pisum sativum enzyme plus deletion of residue W248, pH 8.0, 30C
+54.1	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	30	8.0	X	mutant DELTAW248, pH 8.0, 30C
+21	2,6-dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	25	8.2		recombinant enzyme, pH 8.2, 25C, with NADH
+25.6	2,6-dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	25	8.2		recombinant enzyme, pH 8.2, 25C, with NADPH
+35	2,6-dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	8.0		native enzyme, pH 8.0, 30C
+37	2,6-dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	8.0		recombinant enzyme, pH 8.0, 30C
+0.15	reduced ferredoxin	230	YMPNWRUDPNYLSN-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+200	reduced ferredoxin	230	YMPNWRUDPNYLSN-UHFFFAOYSA-N				above, electron transfer via the enzyme to NADP+
+600	reduced ferredoxin	230	YMPNWRUDPNYLSN-UHFFFAOYSA-N				electron transfer via the enzyme to NADP+
+0.15	oxidized ferredoxin	252	AEFKDTIAMVUIII-UHFFFAOYSA-N				with NADPH
+3.7	oxidized ferredoxin	252	AEFKDTIAMVUIII-UHFFFAOYSA-N	30	8.0	X	mutant with an insertion of the iloop of Pisum sativum enzyme plus deletion of residue W248, pH 8.0, 30C
+4.6	oxidized ferredoxin	252	AEFKDTIAMVUIII-UHFFFAOYSA-N	30	8.0	X	mutant DELTAW248, pH 8.0, 30C
+19.4	oxidized ferredoxin	252	AEFKDTIAMVUIII-UHFFFAOYSA-N	30	8.0	X	mutant with an insertion of the iloop of Pisum sativum enzyme, pH 8.0, 30C
+22.8	oxidized ferredoxin	252	AEFKDTIAMVUIII-UHFFFAOYSA-N	30	8.0		wild-type, pH 8.0, 30C
+32.7	oxidized ferredoxin	252	AEFKDTIAMVUIII-UHFFFAOYSA-N	30	8.0	X	mutant lacking the beta-hairpin, pH 8.0, 30C
+35.9	oxidized ferredoxin	252	AEFKDTIAMVUIII-UHFFFAOYSA-N	30	8.0	X	mutant with additional tryptophan residue at the C-terminus, pH 8.0, 30C
+75	oxidized ferredoxin	252	AEFKDTIAMVUIII-UHFFFAOYSA-N	30	8.0		wild-type, pH 8.0, 30C
+38.1	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N		7.5	X	mutant bearing a truncated N-terminal domain beginning after the KISKK domain, pH 7.5, temperature not specified in the publication
+45.4	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N		7.5	X	mutant bearing lysine to glutamine mutations in the second and third lysine residues of the KISKK domain, pH 7.5, temperature not specified in the publication
+65	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N		7.5	X	mutant bearing a lysine to glutamine mutation in the first lysine residue of the KISKK domain, pH 7.5, temperature not specified in the publication
+66.3	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N		7.5	X	mutant bearing a lysine to glutamine mutation in the second lysine residue of the KISKK domain, pH 7.5, temperature not specified in the publication
+104	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N		7.5		wild-type, pH 7.5, temperature not specified in the publication
+128.2	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N		7.5	X	mutant bearing an N-terminal region with the full wheat KISKK domain, pH 7.5, temperature not specified in the publication
+139.4	ferricytochrome c	268	OIIXOVMUEURLTD-PVPKHRJZSA-N		7.5	X	mutant with an extended N-terminal region to include the EAxxPA motif of maize, pH 7.5, temperature not specified in the publication
+0.25	reduced flavodoxin	1123	GQPPNUDTGJSKSD-UHFFFAOYSA-N		8.0		pH 8.0
+42	Fe(CN)63-	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	8.2		recombinant enzyme, pH 8.2, 25C, with NADH
+63	Fe(CN)63-	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	25	8.2		recombinant enzyme, pH 8.2, 25C, with NADPH
+3	Fe(III)-EDTA	3287	UOMQUZPKALKDCA-UHFFFAOYSA-J	25	7.0		in the presence of 0.15 mM Fe(III)-EDTA, in the absence of free flavin, in 50 mM sodium phosphate (pH 7.0), at 25C
+3.53	Fe(III)-EDTA	3287	UOMQUZPKALKDCA-UHFFFAOYSA-J	25	7.0		in the presence of 0.15 mM Fe(III)-EDTA, in the presence of 0.15 mM FAD, in 50 mM sodium phosphate (pH 7.0), at 25C
+12.6	dibromothymoquinone	2622	GHHZELQYJPWSMG-UHFFFAOYSA-N				in presence of Cd2+
+25	dibromothymoquinone	2622	GHHZELQYJPWSMG-UHFFFAOYSA-N				

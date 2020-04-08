@@ -1,0 +1,48 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000011	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	23	8.0	X	pH 8.0, 23C, recombinant mutant E352Q
+0.000022	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	23	8.0	X	pH 8.0, 23C, recombinant mutant E352D
+0.00015	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme
+0.0002	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+0.0006	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant enzyme E314A
+0.0015	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	23	8.0	X	pH 8.0, 23C, recombinant mutant E268Q
+0.0015	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	23	8.0	X	mutant RocR enzyme E268Q, in 100 mM Tris buffer (pH 8.0) (23C), 20 mM KCl, and 25 mM MgCl2
+0.012	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	23	8.0	X	mutant RocR enzyme D56N/D296A, in 100 mM Tris buffer (pH 8.0) (23C), 20 mM KCl, and 25 mM MgCl2
+0.02	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	23	8.0	X	mutant RocR enzyme F297A, in 100 mM Tris buffer (pH 8.0) (23C), 20 mM KCl, and 25 mM MgCl2
+0.021	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	23	8.0	X	pH 8.0, 23C, recombinant mutant D296A
+0.021	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	23	8.0	X	mutant RocR enzyme D296A, in 100 mM Tris buffer (pH 8.0) (23C), 20 mM KCl, and 25 mM MgCl2
+0.023	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	23	8.0	X	pH 8.0, 23C, recombinant mutant R179A
+0.049	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	23	8.0	X	pH 8.0, 23C, recombinant mutant T267A
+0.08	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	23	8.0	X	pH 8.0, 23C, recombinant mutants Q372A and D318A
+0.13	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	23	8.0	X	pH 8.0, 23C, recombinant mutant Q161A
+0.13	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	23	8.0	X	mutant RocR enzyme D56N, in 100 mM Tris buffer (pH 8.0) (23C), 20 mM KCl, and 25 mM MgCl2
+0.13	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	20	7.5		wild type enzyme, at pH 7.5, 20C, under dark conditions
+0.14	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	23	8.0	X	mutant RocR enzyme S302A, in 100 mM Tris buffer (pH 8.0) (23C), 20 mM KCl, and 25 mM MgCl2
+0.27	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	20	7.5	X	mutant enzyme R93S, at pH 7.5, 20C, under dark conditions
+0.39	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	23	8.0		wild type PA2567 enzyme, in 100 mM Tris buffer (pH 8.0) (23C), 50 mM KCl, and 10 mM MgCl2
+0.51	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	23	8.0	X	pH 8.0, 23C, recombinant mutant E355A
+0.54	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	20	7.5		wild type enzyme, at pH 7.5, 20C, under light conditions
+0.64	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	20	7.5		wild type enzyme, in the presence of 10 mM Mn2+, at pH 7.5, 20C, under dark conditions
+0.67	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	23	8.0		pH 8.0, 23C, recombinant wild-type RocR
+0.67	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	23	8.0		wild type RocR enzyme, in 100 mM Tris buffer (pH 8.0) (23C), 20 mM KCl, and 25 mM MgCl2
+1.1	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	23	8.0	X	mutant PA2567 enzyme E464A, in 100 mM Tris buffer (pH 8.0) (23C), 50 mM KCl, and 10 mM MgCl2
+1.17	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	20	7.5		wild type enzyme, in the presence of 10 mM Mn2+, at pH 7.5, 20C, under light conditions
+1.42	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	20	7.5	X	mutant enzyme R93S, at pH 7.5, 20C, under light conditions
+1.84	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	20	8.0		wild type enzyme, at pH 8.0, 20C, under dark conditions
+2.06	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	128	7.5	X	mutant enzyme L128C/G353C, at pH 7.5, 20C, under dark conditions
+2.54	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	20	8.0		wild type enzyme, at pH 8.0, 20C, under light conditions
+3.48	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	128	7.5	X	mutant enzyme L128C/G353C, at pH 7.5, 20C, under light conditions
+6.17	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	20	9.3		wild type enzyme, at pH 9.3, 20C, under light conditions
+6.7	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N	20	9.3		wild type enzyme, at pH 9.3, 20C, under dark conditions
+0.000011	cyclic-di-GMP	983	PKFDLKSEZWEFGL-MHARETSRSA-N		8.0	X	mutant enzyme E352Q, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+0.000022	cyclic-di-GMP	983	PKFDLKSEZWEFGL-MHARETSRSA-N		8.0	X	mutant enzyme E352D, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+0.0015	cyclic-di-GMP	983	PKFDLKSEZWEFGL-MHARETSRSA-N		8.0	X	mutant enzyme E268Q, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+0.021	cyclic-di-GMP	983	PKFDLKSEZWEFGL-MHARETSRSA-N		8.0	X	mutant enzyme D296A, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+0.023	cyclic-di-GMP	983	PKFDLKSEZWEFGL-MHARETSRSA-N		8.0	X	mutant enzyme R179A, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+0.049	cyclic-di-GMP	983	PKFDLKSEZWEFGL-MHARETSRSA-N		8.0	X	mutant enzyme T267A, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+0.08	cyclic-di-GMP	983	PKFDLKSEZWEFGL-MHARETSRSA-N		8.0	X	mutant enzyme D318A, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2; mutant enzyme Q372A, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+0.13	cyclic-di-GMP	983	PKFDLKSEZWEFGL-MHARETSRSA-N		8.0	X	mutant enzyme Q161A, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+0.51	cyclic-di-GMP	983	PKFDLKSEZWEFGL-MHARETSRSA-N		8.0	X	mutant enzyme E355A, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+0.67	cyclic-di-GMP	983	PKFDLKSEZWEFGL-MHARETSRSA-N		8.0		wild type enzyme, in 100 mM Tris buffer (pH 8.0) with 20 mM KCl and 25 mM MgCl2
+0.00012	5'-phosphoguanylyl(3'-&gt;5')guanosine	41890	ZEHOHLFQOXAZHX-MHARETSRSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme
+0.0002	5'-phosphoguanylyl(3'-&gt;5')guanosine	41890	ZEHOHLFQOXAZHX-MHARETSRSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+0.00077	5'-phosphoguanylyl(3'-&gt;5')guanosine	41890	ZEHOHLFQOXAZHX-MHARETSRSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme

@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.3	Benzyloxycarbonyl-Lys-thiobenzyl ester	2115	FIWAQJRIROPAEC-IBGZPJMESA-N				wild-type enzyme
+1.84	Benzyloxycarbonyl-Lys-thiobenzyl ester	2115	FIWAQJRIROPAEC-IBGZPJMESA-N			X	mutant enzyme T214S
+4.5	Benzyloxycarbonyl-Lys-thiobenzyl ester	2115	FIWAQJRIROPAEC-IBGZPJMESA-N			X	mutant enzyme S215W
+6.31	Benzyloxycarbonyl-Lys-thiobenzyl ester	2115	FIWAQJRIROPAEC-IBGZPJMESA-N			X	mutant enzyme S94Y/S214W
+7.06	Benzyloxycarbonyl-Lys-thiobenzyl ester	2115	FIWAQJRIROPAEC-IBGZPJMESA-N			X	mutant enzyme T214S/S215W
+7.45	Benzyloxycarbonyl-Lys-thiobenzyl ester	2115	FIWAQJRIROPAEC-IBGZPJMESA-N			X	mutant enzyme S94Y
+12	Benzyloxycarbonyl-Lys-thiobenzyl ester	2115	FIWAQJRIROPAEC-IBGZPJMESA-N			X	mutant enzyme S94Y/T214S
+21.3	Benzyloxycarbonyl-Lys-thiobenzyl ester	2115	FIWAQJRIROPAEC-IBGZPJMESA-N			X	mutant enzyme S94Y/T214S/S215W

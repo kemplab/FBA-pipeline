@@ -1,0 +1,67 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0026	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.5	X	mutant enzyme E85A, at pH 7.5 and 37C; pH 7.5, 37C, recombinant His6-tagged mutant E85A
+0.028	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.4	X	mutant DELTA598, 37C, pH 7.4
+0.038	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, recombinant His6-tagged mutant E85Q
+0.0384	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.5	X	mutant enzyme E85Q, at pH 7.5 and 37C
+0.046	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.5	X	mutant enzyme H84A, at pH 7.5 and 37C
+0.05	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, recombinant His6-tagged mutant H84A
+0.071	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, recombinant His6-tagged mutant E85D
+0.0712	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.5	X	mutant enzyme E85D, at pH 7.5 and 37C
+0.08	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	6.8	X	mutant enzyme Q112E, at pH 6.8 and 37C; mutant enzyme Q112V, at pH 6.8 and 37C; pH 7.5, 37C, recombinant mutant Q112E; pH 7.5, 37C, recombinant mutant Q112V
+0.097	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.4	X	mutant DELTA567-582, 37C, pH 7.4
+0.104	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.4	X	mutant DELTA630, 37C, pH 7.4
+0.164	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.5	X	mutant enzyme P126V, at pH 7.5 and 37C; pH 7.5, 37c, recombinant mutant P126V
+0.165	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.5	X	mutant enzyme P126A, at pH 7.5 and 37C; pH 7.5, 37c, recombinant mutant P126A
+0.166	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.5	X	mutant enzyme P126T, at pH 7.5 and 37C; pH 7.5, 37c, recombinant mutant P126T
+0.21	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, recombinant His6-tagged mutant H84T
+0.212	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.5	X	mutant enzyme H84T, at pH 7.5 and 37C
+0.22	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	6.8	X	mutant enzyme Q112N, at pH 6.8 and 37C; pH 7.5, 37C, recombinant mutant Q112N
+0.25	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.5	X	mutant enzyme Q86A, at pH 7.5 and 37C; pH 7.5, 37C, recombinant His6-tagged mutant Q86A
+0.4	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant Q110E, pH 7.6, 37C
+0.49	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	6.8	X	mutant enzyme H111F, at pH 6.8 and 37C; pH 7.5, 37C, recombinant mutant H111F
+1.6	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant E47Q, pH 7.6, 37C; mutant Q110H pH 7.6, 37C
+2	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant C83T, pH 7.6, 37C; mutant E60A, pH 7.6, 37C; mutant E60Q, pH 7.6, 37C
+2.32	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.4		wild-type, 37C, pH 7.4
+2.7	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant E47A, pH 7.6, 37C; mutant Q110A, pH 7.6, 37C
+2.88	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	6.8	X	mutant enzyme Q411E, at pH 6.8 and 37C; pH 7.5, 37C, recombinant mutant Q411E
+3.03	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant M250A with His-tag, pH 7.6, 37C
+3.19	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				catalytic subunit
+3.196	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme; wild type enzyme, at pH 7.5 and 37C
+3.196	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.5		wild type enzyme, at pH 7.5 and 37C
+3.2	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant His6-tagged wild-type enzyme
+3.27	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant R276K with His-tag, pH 7.6, 37C
+3.3	2-oxobutanoate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	37	7.6		wild-type, pH 7.6, 37C
+3.9	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant F109M, pH 7.6, 37C
+5.28	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme; wild type enzyme, at pH 6.8 and 37C
+5.3	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	6.8		at pH 6.8 and 37C
+5.4	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, recombinant mutant W573F
+5.47	Hydroxypyruvate	326	HHDDCCUIIUWNGJ-UHFFFAOYSA-N				
+5.8	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant Q110N, pH 7.6, 37C
+6	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant R289Q, pH 7.6, 37C
+8	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant V391A, pH 7.6, 37C
+9	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant V477I, pH 7.6, 37C
+9.6	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant V375A, pH 7.6, 37C
+11	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.0	X	mutant Q487G, pH 7.0, 37C; mutant Q487G, pH 7.0, 37C; mutant Q487S, pH 7.0, 37C; mutant Q487S, pH 7.0, 37C
+11.9	2-oxobutanoate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	37	7.6	X	mutant V375A, pH 7.6, 37C
+13.9	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant W464L with His-tag, pH 7.6, 37C
+15	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant Q480W, pH 7.6, 37C
+15.9	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	6.8	X	mutant enzyme Q411N, at pH 6.8 and 37C; pH 7.5, 37C, recombinant mutant Q411N
+16.1	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme
+19.8	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6		wild-type with His-tag, pH 7.6, 37C
+20	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant C83A, pH 7.6, 37C
+23	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant C83S, pH 7.6, 37C
+23.3	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6		wild-type, pH 7.6, 37C
+25	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant L476M/Q480W, pH 7.6, 37C
+26.6	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant V375I, pH 7.6, 37C
+28.6	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	6.8	X	mutant enzyme H111R, at pH 6.8 and 37C; pH 7.5, 37C, recombinant mutant H111R
+40.3	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6		wild-type, pH 7.6, 37C
+40.3	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6		wild-type, pH 7.6, 37C
+47.4	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				fusion protein containing an N-terminal oligohistidine sequence on the large subunit
+58	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.0	X	mutant Q487A, pH 7.0, 37C; mutant Q487A, pH 7.0, 37C
+62	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant M263A, pH 7.6, 37C
+65	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant L476M, pH 7.6, 37C
+66.7	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				native enzyme
+71	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6		wild-type, pH 7.6, 37C
+86	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.6	X	mutant R289K, pH 7.6, 37C
+98	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	80	7.0		at pH 7.0 and 80C; pH 7.0, 80C; pH 7.0, 85C, recombinant catalytic subunit
+121	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.0		wild-type, pH 7.0, 37C; wild-type, pH 7.0, 37C

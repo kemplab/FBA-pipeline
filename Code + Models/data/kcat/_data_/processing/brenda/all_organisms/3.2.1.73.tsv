@@ -1,0 +1,123 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0039	Laminarin	384	QRQPYXNDWFIBPU-SFTAMDAYSA-N				E63Q
+0.0097	Laminarin	384	QRQPYXNDWFIBPU-SFTAMDAYSA-N				E63D
+0.021	Laminarin	384	QRQPYXNDWFIBPU-SFTAMDAYSA-N				W192A; Y123A
+0.045	Laminarin	384	QRQPYXNDWFIBPU-SFTAMDAYSA-N				N26A
+0.056	Laminarin	384	QRQPYXNDWFIBPU-SFTAMDAYSA-N				S90A
+0.07	Laminarin	384	QRQPYXNDWFIBPU-SFTAMDAYSA-N				Y24A
+0.09	Laminarin	384	QRQPYXNDWFIBPU-SFTAMDAYSA-N				R65A
+0.095	Laminarin	384	QRQPYXNDWFIBPU-SFTAMDAYSA-N				W184Y
+0.1711	Laminarin	384	QRQPYXNDWFIBPU-SFTAMDAYSA-N				Y24F
+0.178	Laminarin	384	QRQPYXNDWFIBPU-SFTAMDAYSA-N				H99R
+0.198	Laminarin	384	QRQPYXNDWFIBPU-SFTAMDAYSA-N				H99D
+0.217	Laminarin	384	QRQPYXNDWFIBPU-SFTAMDAYSA-N				E131Q
+0.263	Laminarin	384	QRQPYXNDWFIBPU-SFTAMDAYSA-N				wild type
+0.375	Laminarin	384	QRQPYXNDWFIBPU-SFTAMDAYSA-N				A98W
+0.5	Laminarin	384	QRQPYXNDWFIBPU-SFTAMDAYSA-N				Y24W
+0.65	Laminarin	384	QRQPYXNDWFIBPU-SFTAMDAYSA-N				Y123F
+0.007	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	55	10.0		pH 10.0, 55C
+0.047	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				E131Q
+0.2	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant enzyme E107D
+0.55	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant enzyme E103D
+0.7	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant enzyme E107H
+1.7	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant enzyme W101Y
+1.707	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	50	5.5		pH 5.5, 50C
+2.9	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant enzyme W101F
+3.1	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant enzyme D105N
+3.71	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				calculated as D-glucose units released from lichenan
+5.8	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	45	5.0	X	mutant E11L, 45C, pH 5.0
+8.08	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				E63Q
+13.32	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	60	5.0		pH 5.0, 60C
+27	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				E63D
+40.4	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				Y123A
+40.5	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				W192A
+44	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant W203R, calculated as D-glucose units released from lichenan
+60	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	50	5.0		isozyme EG1, pH 5.0, 50C
+109	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant Q70I, calculated as D-glucose units released from lichenan
+112.6	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				E63D
+131	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	45		X	mutant F40I, 45C, pH not specified in the publication
+147.1	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				H99R
+154	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	40		X	mutant R137Q, 40C, pH not specified in the publication
+163.8	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				W184Y
+166.4	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				calculated as D-glucose units released from lichenan
+244	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant Q70A, calculated as D-glucose units released from lichenan
+262	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				N26A
+276	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				H99D
+302.4	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				E131Q
+322	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	45		X	mutant Y42L, 45C, pH not specified in the publication
+324	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				S90A
+325	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				Y24A
+349	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	40		X	mutant R137M, 40C, pH not specified in the publication
+371	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant Q70N, calculated as D-glucose units released from lichenan
+401	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	45		X	mutant L62G, 45C, pH not specified in the publication
+481	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				Y24F
+504	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant N72Q, calculated as D-glucose units released from lichenan
+608	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant G207-, calculated as D-glucose units released from lichenan
+627	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				Y123F
+639	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant Q70D, calculated as D-glucose units released from lichenan
+641	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant Q70E, calculated as D-glucose units released from lichenan
+699	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant D206R, calculated as D-glucose units released from lichenan
+708.3	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	50	5.0		isozyme EG1, pH 5.0, 50C
+756	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	45		X	mutant N139A, 45C, pH not specified in the publication
+785	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant E85I, calculated as D-glucose units released from lichenan
+787	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				Y24W
+811	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				R65A
+820	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant N72A, calculated as D-glucose units released from lichenan
+865	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant F205L, calculated as D-glucose units released from lichenan
+883	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant D202L, calculated as D-glucose units released from lichenan
+908	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				A98W
+911	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant K200M, calculated as D-glucose units released from lichenan
+942	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant N208G, calculated as D-glucose units released from lichenan
+992	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	45		X	mutant E47I, 45C, pH not specified in the publication
+1020	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				wild-type enzyme
+1037	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant R209M, calculated as D-glucose units released from lichenan
+1120	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	50	6.0	X	pH 6.0, 50C, mutant chimeric enzyme
+1141	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant K200F, calculated as D-glucose units released from lichenan
+1191	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				wild type
+1220	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	50	6.0		pH 6.0, 50C, wild-type enzyme
+1277	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant T204F, calculated as D-glucose units released from lichenan
+1296	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				wild-type, calculated as D-glucose units released from lichenan
+1353	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant G201S, calculated as D-glucose units released from lichenan
+1422	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant E85D, calculated as D-glucose units released from lichenan
+1435	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant Q70R, calculated as D-glucose units released from lichenan
+1788	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	50		X	mutant K64A, 50C, pH not specified in the publication
+1833	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	50		X	mutant K64M, 50C, pH not specified in the publication
+1860	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant D206N, calculated as D-glucose units released from lichenan
+1955	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant G207N, calculated as D-glucose units released from lichenan
+2060	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant D206M, calculated as D-glucose units released from lichenan
+2170	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	55		X	mutant N44L, 55C, pH not specified in the publication
+2562	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant D202N, calculated as D-glucose units released from lichenan
+2663	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant Q81N, calculated as D-glucose units released from lichenan
+2924	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	50	5.0		pH 5.0, 50C, wild-type enzyme, calculated as reducing sugar released from substrate
+3026	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	55		X	mutant N44Q, 55C, pH not specified in the publication
+3224	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	50	5.0	X	pH 5.0, 50C, mutant V18Y, calculated as reducing sugar released from substrate
+3641	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant Q81I, calculated as D-glucose units released from lichenan
+3911	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	50	5.0		wild-type, 50C, pH 5.0
+3920	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N				truncated enzyme, calculated as D-glucose units released from lichenan
+5003	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	50	5.0	X	pH 5.0, 50C, mutant W203Y, calculated as reducing sugar released from substrate
+5090	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	50	5.0	X	pH 5.0, 50C, mutant V18Y/W203Y, calculated as reducing sugar released from substrate
+5476	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N			X	mutant W203F, calculated as D-glucose units released from lichenan
+10100	lichenan	479	STMJZBCIFCCHML-FNOFINDTSA-N	45	6.0	X	pH 6.0-7.0, 45C, mutant TFsW203F
+0.016	Barley beta-glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N	55	10.0		pH 10.0, 55C
+0.074	Barley beta-glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N				
+0.091	Barley beta-glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N				
+7.5	Barley beta-glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N	50	6.0	X	mutant K48A, pH 6.0, 50C; mutant K48L, pH 6.0, 50C; wild-type, pH 6.0, 50C
+8.4	Barley beta-glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N				
+19.11	Barley beta-glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N	60	5.0		pH 5.0, 60C
+63.06	Barley beta-glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N	40	6.0		recombinant enzyme, pH 6.0, 40C
+68.19	Barley beta-glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N	40	6.0		recombinant enzyme, pH 6.0, 40C
+81.6	Barley beta-glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N				calculated as D-glucose units released from beta-glucan
+83.89	Barley beta-glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N	40	6.0		recombinant enzyme, pH 6.0, 40C
+102	Barley beta-glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+133.3	Barley beta-glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N	40	6.0		recombinant enzyme, pH 6.0, 40C
+143	Barley beta-glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N	70	5.0	X	pH 5.0, 70C, mutant D56G/D221G/C263S
+2.3	Beta-D-glucan	4422	GRWNRGDDHMOGBS-LAGHYBGXSA-N	70	6.0		native enzyme, pH 6.0, 70C
+9.2	Beta-D-glucan	4422	GRWNRGDDHMOGBS-LAGHYBGXSA-N	50	6.0		native enzyme, pH 6.0, 50C
+20.3	Beta-D-glucan	4422	GRWNRGDDHMOGBS-LAGHYBGXSA-N	70	6.0		fusion protein encoding beta-1,3-1,4-glucanase both from Bacillus amyloliquefaciens and Clostridium thermocellum, pH 6.0, 70C
+20.3	Beta-D-glucan	4422	GRWNRGDDHMOGBS-LAGHYBGXSA-N	70	6.0		fusion protein encoding beta-1,3-1,4-glucanase both from Bacillus amyloliquefaciens and Clostridium thermocellum, pH 6.0, 70C
+0.04	beta-D-Glc-(1-3)-alpha-D-Glc-fluoride	3942	OWFNMYDGQOUXRJ-UCXVSJSASA-N	35	7.0		pH 7.0, 35C
+0.91	beta-D-Glc-(1-4)-beta-D-Glc-(1-3)-alpha-D-Glc-fluoride	24220	MRJSLHVYPCTUEM-GWEGGBNMSA-N	35	7.0		pH 7.0, 35C
+1.35	beta-D-Glc-(1-4)-beta-D-Glc-(1-4)-beta-D-Glc-(1-3)-alpha-D-Glc-fluoride	24221	FPOBBZRVKREBEU-GQXKVDRBSA-N	35	7.0		pH 7.0, 35C
+0.327	4-methylumbelliferyl laminaribiose	26416	JNAWLDYZIIXRCJ-NOIJAHEGSA-N				
+1.35	4-methylumbelliferyl cellobiose	5597	PRTGXBPFDYMIJH-MKQZUAMYSA-N				
+13.5	beta-1,3-1,4-glucan	27495	WRAAPYLTBZVZNL-GBBISGONSA-N	75	4.0		pH 4.0, 75C, substrate from Hordeum vulgare

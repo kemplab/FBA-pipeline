@@ -1,0 +1,57 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.012	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N		6.6		pH 6.6, with acetyl-CoA, His-tagged enzyme expressed from vector pET28a
+0.017	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N		6.6		pH 6.6, with n-propionyl-CoA, His-tagged enzyme expressed from vector pET28a
+0.041	gentamicin	1766	CEAZRRDELHUEMR-GHFPSGLISA-N		6.6		pH 6.6, with malonyl-CoA, His-tagged enzyme expressed from vector pET22b
+0.044	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N		6.6		pH 6.6, with n-propionyl-CoA, His-tagged enzyme expressed from vector Int-pET19b-pps
+0.076	neomycin B	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N		6.6		pH 6.6, with n-propionyl-CoA, His-tagged enzyme expressed from vector pET22b
+0.089	tobramycin	731	NLVFBUXFDBBNBW-PBSUHMDJSA-N		6.6		pH 6.6, with n-propionyl-CoA, His-tagged enzyme expressed from vector pET22b
+0.121	sisomicin	2401	URWAJWIAIPFPJE-YFMIWBNJSA-N		6.6		pH 6.6, with n-propionyl-CoA, His-tagged enzyme expressed from vector pET22b
+0.123	gentamicin	1766	CEAZRRDELHUEMR-GHFPSGLISA-N		6.6		pH 6.6, with n-propionyl-CoA, His-tagged enzyme expressed from vector pET22b
+0.124	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N		6.6		pH 6.6, with n-propionyl-CoA, His-tagged enzyme expressed from vector pET22b
+0.126	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N		6.6		pH 6.6, with acetyl-CoA, His-tagged enzyme expressed from vector pET22b
+0.134	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N		6.6		pH 6.6, with n-propionyl-CoA, His-tagged enzyme expressed from vector pET22b
+0.144	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N		6.6		pH 6.6, with n-propionyl-CoA, untagged enzyme expressed from vector Int-pET19b-pps
+0.146	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N		6.6		pH 6.6, with malonyl-CoA, His-tagged enzyme expressed from vector pET22b
+0.163	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N		6.6		pH 6.6, with acetyl-CoA, His-tagged enzyme expressed from vector Int-pET19b-pps
+0.17	dibekacin	4411	JJCQSGDBDPYCEO-UHFFFAOYSA-N	37	6.0		pH 6.0, 37C; recombinant His-tagged enzyme, pH 6.0, 37C
+0.173	sisomicin	2401	URWAJWIAIPFPJE-YFMIWBNJSA-N		6.6		pH 6.6, with acetyl-CoA, His-tagged enzyme expressed from vector pET22b
+0.179	tobramycin	731	NLVFBUXFDBBNBW-PBSUHMDJSA-N		6.6		pH 6.6, with acetyl-CoA, His-tagged enzyme expressed from vector pET22b
+0.182	gentamicin	1766	CEAZRRDELHUEMR-GHFPSGLISA-N		6.6		pH 6.6, with acetyl-CoA, His-tagged enzyme expressed from vector pET22b
+0.188	neomycin B	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N		6.6		pH 6.6, with acetyl-CoA, His-tagged enzyme expressed from vector pET22b
+0.23	kanamycin B	2210	SKKLOUVUUNMCJE-FQSMHNGLSA-N	37	6.0		pH 6.0, 37C; recombinant His-tagged enzyme, pH 6.0, 37C
+0.24	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	6.0		pH 6.0, 37C; recombinant His-tagged enzyme, pH 6.0, 37C
+0.3	butyryl-CoA	235	CRFNGMNYKDXRTN-CITAKDKDSA-N	25	7.5		in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25C
+0.3	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N		6.6		pH 6.6, with acetyl-CoA, His-tagged enzyme expressed from vector pET22b
+0.5	amikacin	1053	LKCWBDHBTVXHDL-UHFFFAOYSA-N	25	7.5		in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25C
+0.559	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N		6.6		pH 6.6, with acetyl-CoA, untagged enzyme expressed from vector Int-pET19b-pps
+3.5	butirosin	7148	DYXGFUBMHQMRRO-UHFFFAOYSA-N	25	7.5		in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25C
+5.7	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	25	7.6		cosubstrate kanamycin A, pH 7.6, 25C
+9	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	25	7.5		in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25C
+9.5	neomycin B	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N	25	7.6		pH 7.6, 25C
+10	neomycin	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N	25	7.6		pH 7.6, 25C
+10.2	n-propionyl-CoA	297	QAQREVBBADEHPA-IEXPHMLFSA-N	25	7.6		cosubstrate kanamycin A, pH 7.6, 25C
+10.5	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.6		cosubstrate neomycin B, pH 7.6, 25C
+15	paromomycin	1633	UOZODPSAJZTQNH-ZEUOIICNSA-N	25	7.5		in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25C
+23.5	ribostamycin	1219	NSKGQURZWSPSBC-SSXIAAKRSA-N	25	7.6		pH 7.6, 25C
+24	ribostamycin	1219	NSKGQURZWSPSBC-SSXIAAKRSA-N	25	7.6		pH 7.6, 25C
+32	netilmicin	1899	CIDUJQMULVCIBT-MQDUPKMGSA-N	25	7.5		in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25C
+33	propionyl-CoA	297	QAQREVBBADEHPA-IEXPHMLFSA-N	25	7.5		in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25C
+33.6	paromomycin	1633	UOZODPSAJZTQNH-ZEUOIICNSA-N	25	7.6		pH 7.6, 25C
+33.8	lividomycin A	7763	DBLVDAUGBTYDFR-SWMBIRFSSA-N	25	7.6		pH 7.6, 25C
+39	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25C
+39.4	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.6		cosubstrate kanamycin A, pH 7.6, 25C
+40	gentamycin	1766	CEAZRRDELHUEMR-GHFPSGLISA-N	25	7.5		in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25C
+46	sisomycin	2401	URWAJWIAIPFPJE-YFMIWBNJSA-N	25	7.6		pH 7.6, 25C
+46.3	sisomycin	2401	URWAJWIAIPFPJE-YFMIWBNJSA-N	25	7.6		pH 7.6, 25C
+47.8	tobramycin	731	NLVFBUXFDBBNBW-PBSUHMDJSA-N	25	7.6		pH 7.6, 25C
+48	tobramycin	731	NLVFBUXFDBBNBW-PBSUHMDJSA-N	25	7.6		pH 7.6, 25C
+51	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	25	7.6		pH 7.6, 25C
+51	sisomycin	2401	URWAJWIAIPFPJE-YFMIWBNJSA-N	25	7.5		in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25C
+51.4	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	25	7.6		pH 7.6, 25C
+54.5	kanamycin B	2210	SKKLOUVUUNMCJE-FQSMHNGLSA-N	25	7.6		pH 7.6, 25C
+55	kanamycin B	2210	SKKLOUVUUNMCJE-FQSMHNGLSA-N	25	7.6		pH 7.6, 25C
+60	neomycin	1195	PGBHMTALBVVCIT-VCIWKGPPSA-N	25	7.5		in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25C
+61	apramycin	20201	XZNUGFQTQHRASN-UHFFFAOYSA-N	25	7.5		in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25C
+80	kanamycin A	634	SBUJHOSQTJFQJX-NOAMYHISSA-N	25	7.5		in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25C
+146	ribostamycin	1219	NSKGQURZWSPSBC-SSXIAAKRSA-N	25	7.5		in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25C
+162	tobramycin	731	NLVFBUXFDBBNBW-PBSUHMDJSA-N	25	7.5		in 50 mM HEPES, pH 7.5 and 0.1 mM 4,4'-dithiodipyridine, at pH 7.8 and 25C

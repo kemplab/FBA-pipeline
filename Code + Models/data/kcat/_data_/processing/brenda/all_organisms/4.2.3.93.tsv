@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000586	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.0	X	mutant enzyme Y110S/W144R/V241E/P296S/H337Y, in Tris-HCl (25 mM, pH 7.0), at 30C
+0.00125	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.0	X	mutant enzyme Y110S/V241E/P296S/H337Y, in Tris-HCl (25 mM, pH 7.0), at 30C
+0.00499	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.5		wild type enzyme, in 50 mM Tris-HCl, pH 7.5, at 30C

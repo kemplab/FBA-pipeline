@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00028	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5	X	mutant enzyme R269A/N270A, at pH 7.5 and 25C
+0.00028	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5	X	mutant R269A/N270A, pH 7.5, 25C
+0.0059	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5	X	mutant enzyme R269A, at pH 7.5 and 25C
+0.0059	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5	X	mutant R269A, pH 7.5, 25C
+9	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5	X	mutant enzyme N270A, at pH 7.5 and 25C
+9	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5	X	mutant N270A, pH 7.5, 25C
+32	L-glycerol-3-phosphate	3866	AWUCVROLDVIAJX-GSVOUGTGSA-N				per subunit of 33500 Da
+51	L-glycerol-3-phosphate	3866	AWUCVROLDVIAJX-GSVOUGTGSA-N	25	7.5		pH 7.5, 25C
+78	L-glycerol-3-phosphate	3866	AWUCVROLDVIAJX-GSVOUGTGSA-N	25	10.0		pH 10.0, 25C
+188	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N				per subunit of 33500 Da
+240	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5		wild type enzyme, at pH 7.5 and 25C
+240	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5		wild-type enzyme, pH 7.5, 25C
+345	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	20	7		reduction of synthetic dihydroxyacetone phosphate, 20C, pH 7, rabbit muscle
+390	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	20	7		reduction of synthetic dihydroxyacetone phosphate, 20C, pH 7, rabbit muscle, under conditions where competitive inhibition by fructose 1,6-diphosphate are not excluded
+19000	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C

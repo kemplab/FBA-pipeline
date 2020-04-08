@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.8	N-pentanoyl-D-mannosamine	23338	ZQNBQEUKMHHCCA-OLSRCRKSSA-N	37	8.0		pH 8.0, 37C
+0.83	N-acetyl-D-mannosamine	814	OVRNDRQMDRJTHS-ZTVVOAFPSA-N	37	7.5		the reaction mixture contains 1 mM MgCl2 in 50 mM Tris-acetate buffer, pH 7.5, at 37C
+3.5	N-butanoyl-D-mannosamine	23337	XOHMAPSXUCVOKP-HHCWIIQDSA-N	37	8.0		pH 8.0, 37C
+3.72	N-acetyl-D-mannosamine	814	OVRNDRQMDRJTHS-ZTVVOAFPSA-N	30	7.3		pH 7.3, 30C, recombinant enzyme
+3.75	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	30	7.3		pH 7.3, 30C, recombinant enzyme
+11.8	N-propanoyl-D-mannosamine	23336	VZKGVACXVPMLDD-YTAJOOCQSA-N	37	8.0		pH 8.0, 37C
+19	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+19.9	N-acetyl-D-mannosamine	814	OVRNDRQMDRJTHS-ZTVVOAFPSA-N	37	8.0		pH 8.0, 37C

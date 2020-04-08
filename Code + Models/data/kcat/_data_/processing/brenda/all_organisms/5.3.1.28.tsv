@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.02	D-sedoheptulose 7-phosphate	1242	JDTUMPKOJBQPKX-GBNDHIKLSA-N	37	8.0	X	mutant enzyme D61A, in 20 mM HEPES, pH 8.0, 10 mM MgCl2, 10 mM KCl, at 37C
+0.07	D-sedoheptulose 7-phosphate	1242	JDTUMPKOJBQPKX-GBNDHIKLSA-N	37	8.0	X	mutant enzyme H64Q, in 20 mM HEPES, pH 8.0, 10 mM MgCl2, 10 mM KCl, at 37C
+0.23	D-sedoheptulose 7-phosphate	1242	JDTUMPKOJBQPKX-GBNDHIKLSA-N		8.0	X	pH 8.0, mutant enzyme H61Q
+0.44	D-sedoheptulose 7-phosphate	1242	JDTUMPKOJBQPKX-GBNDHIKLSA-N		8.0		pH 8.0, wild-type enzyme
+0.45	D-sedoheptulose 7-phosphate	1242	JDTUMPKOJBQPKX-GBNDHIKLSA-N		8.0	X	pH 8.0, mutant enzyme R69Q
+0.5	D-sedoheptulose 7-phosphate	1242	JDTUMPKOJBQPKX-GBNDHIKLSA-N	37	8.0		wild type enzyme, in 20 mM HEPES, pH 8.0, 10 mM MgCl2, 10 mM KCl, at 37C

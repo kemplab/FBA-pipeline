@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0001	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	23	7.8	X	pH 7.8, 23C, recombinant GRK2 L271G mutant, with substrate tubulin
+0.0029	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	23	7.8		pH 7.8, 23C, recombinant wild-type GRK2, with substrate tubulin
+0.0041	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	23	7.8	X	pH 7.8, 23C, recombinant GRK2 C221V mutant, with substrate tubulin

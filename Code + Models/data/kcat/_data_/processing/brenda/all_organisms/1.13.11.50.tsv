@@ -1,0 +1,32 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00043	4,4-difluoro-1-phenyl-1,3-butanedione	16147	JTIPWONXTZMDOK-UHFFFAOYSA-N	25			apparent value at 25C
+0.0015	1,1-difluoropentane-2,4-dione	118577	XUGVULWHXORSOM-UHFFFAOYSA-N	25	7.5	X	mutant Y70F, pH 7.5, 25C
+0.0043	1,1,1-trifluoro-pentane-2,4-dione	4241	SHXHPUAKLCCLDV-UHFFFAOYSA-N	25	7.5		native enzyme, using 0.09 mM 1,1,1-trifluoro-pentane-2,4-dione in 20 mM Tris/HCl buffer at pH 7.5 and 25C
+0.0049	1,1,1-trifluoro-2,4-pentanedione	4241	SHXHPUAKLCCLDV-UHFFFAOYSA-N	25			apparent value at 25C
+0.007	1,1,1-trifluoro-pentane-2,4-dione	4241	SHXHPUAKLCCLDV-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant Y70A/R80A/E98A
+0.008	1,1-difluoropentane-2,4-dione	118577	XUGVULWHXORSOM-UHFFFAOYSA-N	25	7.5	X	mutant F59A, pH 7.5, 25C
+0.018	1,1-difluoropentane-2,4-dione	118577	XUGVULWHXORSOM-UHFFFAOYSA-N	25	7.5	X	mutant F115A, pH 7.5, 25C
+0.022	1,1-difluoropentane-2,4-dione	118577	XUGVULWHXORSOM-UHFFFAOYSA-N	25	7.5	X	mutant F119A, pH 7.5, 25C
+0.033	1,1,1-trifluoro-pentane-2,4-dione	4241	SHXHPUAKLCCLDV-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant Y70F/R80A/E98A
+0.036	1,1-difluoro-2,4-pentanedione	24361	ZPBKLXPYUKILDE-UHFFFAOYSA-N	25			apparent value at 25C
+0.036	1,1-difluoropentane-2,4-dione	118577	XUGVULWHXORSOM-UHFFFAOYSA-N	25	7.5		wild-type enzyme, pH 7.5, 25C
+0.05	1,1,1-trifluoro-pentane-2,4-dione	4241	SHXHPUAKLCCLDV-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant E98Q
+0.074	1,1,1-trifluoro-pentane-2,4-dione	4241	SHXHPUAKLCCLDV-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant E98A
+0.098	1,1,1-trifluoro-pentane-2,4-dione	4241	SHXHPUAKLCCLDV-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant R80A/E98A
+0.1	1,1,1-trifluoro-pentane-2,4-dione	4241	SHXHPUAKLCCLDV-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant T107A
+0.126	1,1,1-trifluoro-pentane-2,4-dione	4241	SHXHPUAKLCCLDV-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant R80A
+0.13	1,1,1-trifluoro-pentane-2,4-dione	4241	SHXHPUAKLCCLDV-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant Y70A
+0.7	Pentane-2,4-dione	2134	YRKCREAYFQTBPV-UHFFFAOYSA-N	25	7.5	X	mutant F59A, pH 7.5, 25C
+1.27	1,1,1-trifluoro-pentane-2,4-dione	4241	SHXHPUAKLCCLDV-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, recombinant mutant Y70F
+1.27	Pentane-2,4-dione	2134	YRKCREAYFQTBPV-UHFFFAOYSA-N	25	7.5	X	mutant Y70F, pH 7.5, 25C
+1.4	Pentane-2,4-dione	2134	YRKCREAYFQTBPV-UHFFFAOYSA-N	25	7.5	X	mutant F115A, pH 7.5, 25C
+3.2	Pentane-2,4-dione	2134	YRKCREAYFQTBPV-UHFFFAOYSA-N	25	7.5	X	mutant F119A, pH 7.5, 25C
+3.6	Pentane-2,4-dione	2134	YRKCREAYFQTBPV-UHFFFAOYSA-N	25	7.5	X	mutant enzyme E69Q, using 0.2 mM pentane-2,4-dione in 20 mM Tris/HCl buffer at pH 7.5 and 25C
+6.5	Pentane-2,4-dione	2134	YRKCREAYFQTBPV-UHFFFAOYSA-N	25			apparent value at 25C
+6.6	1,1,1-trifluoro-pentane-2,4-dione	4241	SHXHPUAKLCCLDV-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant wild-type enzyme
+6.6	Pentane-2,4-dione	2134	YRKCREAYFQTBPV-UHFFFAOYSA-N				Strep-tagged enzyme
+6.6	Pentane-2,4-dione	2134	YRKCREAYFQTBPV-UHFFFAOYSA-N	25	7.5		wild type enzyme, using 0.2 mM pentane-2,4-dione in 20 mM Tris/HCl buffer at pH 7.5 and 25C
+6.6	Pentane-2,4-dione	2134	YRKCREAYFQTBPV-UHFFFAOYSA-N	25	7.5		wild-type enzyme, pH 7.5, 25C
+7	Pentane-2,4-dione	2134	YRKCREAYFQTBPV-UHFFFAOYSA-N				recombinant enzyme
+8.5	acetylacetate	351	WDJHALXBUFZDSR-UHFFFAOYSA-N				
+8.5	Pentane-2,4-dione	2134	YRKCREAYFQTBPV-UHFFFAOYSA-N				native enzyme

@@ -1,0 +1,33 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0033	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37	8.0		full-length bifunctional enzyme ribA2, at pH 8.0 and 37C
+0.005	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37	8.0		GCHII-domain of enzyme ribA2, at pH 8.0 and 37C
+0.028	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N				recombinant enzyme
+0.035	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	30	8.5		wild type enzyme, at pH 8.5 and 30C
+0.05	2-amino-5-formylamino-6-ribosylamino-4(3H)-pyrimidinone 5'-triphosphate	104772	NDXMRXXKCCKQQV-UUOKFMHZSA-N	30	8.5		wild type enzyme, at pH 8.5 and 30C
+0.064	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	30	8.5		pH 8.5, 30C
+0.065	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	210	8.5	X	mutant enzyme Y210C/A290T/Q293R/A296T/K322R/M361I, at pH 8.5 and 30C
+0.072	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	210	8.5	X	mutant enzyme Y210C/A290T/Q293R/A296T/K322R/F339Y/M361I, at pH 8.5 and 30C
+0.09	2-amino-5-formylamino-6-ribosylamino-4(3H)-pyrimidinone 5'-triphosphate	104772	NDXMRXXKCCKQQV-UUOKFMHZSA-N	210	8.5	X	mutant enzyme Y210C/A290T/Q293R/A296T/K322R/M361I, at pH 8.5 and 30C
+0.1	2-amino-5-formylamino-6-ribosylamino-4(3H)-pyrimidinone 5'-triphosphate	104772	NDXMRXXKCCKQQV-UUOKFMHZSA-N	210	8.5	X	mutant enzyme Y210C/A290T/Q293R/A296T/K322R/F339Y/M361I, at pH 8.5 and 30C
+0.15	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N				
+0.42	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		M120D variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+1.2	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		variant Y326F, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+1.8	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		M120W variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+3.18	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		M120E variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol; SCO 2687, variant Y123F, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+4.86	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		variant Y326M, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+10.8	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		M120H variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+20.4	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		M120T variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+42	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		M120A variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+46.8	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		variant M120F, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+57	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		M120G variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+66	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	120	8		M120C variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+78	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		M120I variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol; SCO 2687, variant D127A, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+84	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		M120S variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol; variant M120Y, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+108	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		M120N variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+120	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		M120Q variant, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+150	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		wild type, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+168	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		SCO 2687, variant G209D, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+204	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		SCO 2687, wild type, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+228	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		SCO 2687, variant R123M, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+348	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		SCO 2687, variant Y123M, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol
+432	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		8		wild type, 1 mM substrate, 0.1 M Tris-HCl, pH 8, 5 mM MgCl2, 0.5 mM dithiothreitol

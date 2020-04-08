@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.015	N-acetyl-VEID-7-amido-4-methylcoumarin	27464	QMXIJZDGCJEANV-LFZGUJIPSA-N	37	7.5	X	mutant enzyme E244A/H287A, in 100 mM HEPES, pH 7.5, 10% (w/v) sucrose, 0.1% (w/v) CHAPS, 20 mM TCEP, and 120 mM NaCl, at 37C
+0.051	N-acetyl-VEID-7-amido-4-methylcoumarin	27464	QMXIJZDGCJEANV-LFZGUJIPSA-N	37	7.5	X	mutant enzyme E244A, in 100 mM HEPES, pH 7.5, 10% (w/v) sucrose, 0.1% (w/v) CHAPS, 20 mM TCEP, and 120 mM NaCl, at 37C
+0.309	N-acetyl-VEID-7-amido-4-methylcoumarin	27464	QMXIJZDGCJEANV-LFZGUJIPSA-N	37	7.5	X	mutant enzyme H287A, in 100 mM HEPES, pH 7.5, 10% (w/v) sucrose, 0.1% (w/v) CHAPS, 20 mM TCEP, and 120 mM NaCl, at 37C
+0.371	N-acetyl-VEID-7-amido-4-methylcoumarin	27464	QMXIJZDGCJEANV-LFZGUJIPSA-N	37	7.5	X	mutant enzyme K36A, in 100 mM HEPES, pH 7.5, 10% (w/v) sucrose, 0.1% (w/v) CHAPS, 20 mM TCEP, and 120 mM NaCl, at 37C
+0.7	N-acetyl-VEID-7-amido-4-methylcoumarin	27464	QMXIJZDGCJEANV-LFZGUJIPSA-N	37	7.5		wild type enzyme, in 100 mM HEPES, pH 7.5, 10% (w/v) sucrose, 0.1% (w/v) CHAPS, 20 mM TCEP, and 120 mM NaCl, at 37C
+1	N-acetyl-Ile-Val-Leu-Asp-7-amido-4-methylcoumarin	57479	XNRZXFQAGVIBIA-DZJKRMFUSA-N				
+3.2	N-acetyl-Asp-Glu-Val-Asp-7-amido-4-trifluoromethylcoumarin	27463	GZDRODOYEFEHGG-NUDCOPPTSA-N				
+3.6	N-acetyl-Val-Glu-Ile-Asp-7-amido-4-methylcoumarin	27464	QMXIJZDGCJEANV-LFZGUJIPSA-N				
+5.5	N-acetyl-Asp-Glu-Val-Asp-7-amido-4-methylcoumarin	2512	ALZSTTDFHZHSCA-RNVDEAKXSA-N				
+6	N-acetyl-Thr-Glu-Val-Asp-7-amido-4-methylcoumarin	57478	SUYSDFZXEJQBDL-NALINLHWSA-N				
+43	N-acetyl-Val-Glu-His-Asp-7-amido-4-methylcoumarin	6454	CEVGIMLYYTYIGE-AMZZYFJHSA-N				

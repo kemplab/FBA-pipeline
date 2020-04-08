@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+128	LL-2,6-Diaminoheptanedioate	2991	GMKMEZVLHJARHF-WHFBIAKZSA-N				forward reaction
+0.001	meso-diaminoheptanedioate	1057	GMKMEZVLHJARHF-SYDPRGILSA-N	30	7.5	X	mutant C87S, pH 7.5, 30C
+0.0025	meso-diaminoheptanedioate	1057	GMKMEZVLHJARHF-SYDPRGILSA-N	30	7.5	X	mutant C226S, pH 7.5, 30C
+0.1465	meso-diaminoheptanedioate	1057	GMKMEZVLHJARHF-SYDPRGILSA-N	30	7.5		wild-type, pH 7.5, 30C
+67	meso-diaminoheptanedioate	1057	GMKMEZVLHJARHF-SYDPRGILSA-N				
+67	meso-diaminoheptanedioate	1057	GMKMEZVLHJARHF-SYDPRGILSA-N				
+84	LL-diaminoheptanedioate	2991	GMKMEZVLHJARHF-WHFBIAKZSA-N				
+84	LL-diaminoheptanedioate	2991	GMKMEZVLHJARHF-WHFBIAKZSA-N				

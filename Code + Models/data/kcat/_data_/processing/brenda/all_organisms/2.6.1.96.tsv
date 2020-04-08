@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.8	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	9.0		pH 9.0, 25C
+10.6	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	9.0		forward reaction with 4-aminobutanoate, pH 9.0, 30C
+0.74	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	25	9.0		pH 9.0, 25C
+9.7	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	30	9.0		forward reaction with 4-aminobutanoate, pH 9.0, 30C
+12.1	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	30	9.0		reverse reaction with L-alanine, pH 9.0, 30C
+14.1	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	9.0		reverse reaction with glyoxylate, pH 9.0, 30C
+15.4	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	9.0		reverse reaction with succinate semialdehyde, pH 9.0, 30C
+10.8	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	30	9.0		reverse reaction with L-alanine, pH 9.0, 30C
+0.84	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	9.0		cosubstrate pyruvate, pH 9.0, 25C
+1	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	9.0		cosubstrate glyoxylate, pH 9.0, 25C
+6.9	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	30	9.0		forward reaction with glyoxylate, pH 9.0, 30C
+10.6	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	30	9.0		forward reaction with pyruvate, pH 9.0, 30C

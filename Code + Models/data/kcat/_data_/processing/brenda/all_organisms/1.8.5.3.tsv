@@ -1,0 +1,77 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3	Pyridine N-oxide	1266	ILVXOBCQQYKLDS-UHFFFAOYSA-N			X	mutant Q179I, pH not specified in the publication, temperature not specified in the publication
+7	Dimethylsulfoxide	702	IAZDPXIOMUYVGZ-UHFFFAOYSA-N			X	mutant W116F, pH not specified in the publication, temperature not specified in the publication
+8	2-carboxypyridine N-oxide	112418	FHYMLBVGNFVFBT-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+8	2-mercaptopyridine N-oxide	24274	FGVVTMRZYROCTH-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+8	Dimethylsulfide	2120	QMMFVYPAHWMCMS-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+10	Pyridine N-oxide	1266	ILVXOBCQQYKLDS-UHFFFAOYSA-N			X	mutant A178Q, pH not specified in the publication, temperature not specified in the publication
+11.3	Trimethylamine-N-oxide	1120	UYPYRKYUKCHHIB-UHFFFAOYSA-N			X	mutant W116F, pH not specified in the publication, temperature not specified in the publication
+14	reduced benzyl viologen	280	VOJNLJYCSGLUDX-UHFFFAOYSA-N			X	mutant G167N, pH not specified in the publication, temperature not specified in the publication
+17	reduced benzyl viologen	280	VOJNLJYCSGLUDX-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+17	reduced benzyl viologen	280	VOJNLJYCSGLUDX-UHFFFAOYSA-N			X	mutant W357F, pH not specified in the publication, temperature not specified in the publication
+19	reduced benzyl viologen	280	VOJNLJYCSGLUDX-UHFFFAOYSA-N			X	mutant Q179I, pH not specified in the publication, temperature not specified in the publication
+21	dimethyl sulfoxide	702	IAZDPXIOMUYVGZ-UHFFFAOYSA-N				enzyme Mo-DMSOR with molybdenum in the catalytic centre, pH not specified in the publication, temperature not specified in the publication
+23	reduced benzyl viologen	280	VOJNLJYCSGLUDX-UHFFFAOYSA-N			X	mutant A178Q, pH not specified in the publication, temperature not specified in the publication
+24	reduced benzyl viologen	280	VOJNLJYCSGLUDX-UHFFFAOYSA-N			X	mutant W357Y, pH not specified in the publication, temperature not specified in the publication
+27	reduced benzyl viologen	280	VOJNLJYCSGLUDX-UHFFFAOYSA-N			X	mutant M147I, pH not specified in the publication, temperature not specified in the publication
+27	reduced methyl viologen	321	QMHXHFQNEHCDJP-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+28.4	dithane 1-oxide	71167	ONTCBWKSXDATLL-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+30.3	4-carboxypyridine N-oxide	112417	QCWTWMJMLSKQCJ-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+33	Pyridine N-oxide	1266	ILVXOBCQQYKLDS-UHFFFAOYSA-N			X	mutant W357Y, pH not specified in the publication, temperature not specified in the publication
+39	reduced benzyl viologen	280	VOJNLJYCSGLUDX-UHFFFAOYSA-N			X	mutant M147L, pH not specified in the publication, temperature not specified in the publication
+41	Pyridine N-oxide	1266	ILVXOBCQQYKLDS-UHFFFAOYSA-N			X	mutant W357F, pH not specified in the publication, temperature not specified in the publication
+42.9	Dimethylsulfoxide	702	IAZDPXIOMUYVGZ-UHFFFAOYSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+46	reduced benzyl viologen	280	VOJNLJYCSGLUDX-UHFFFAOYSA-N	357		X	mutant W357C, pH not specified in the publication, temperature not specified in the publication
+47	reduced benzyl viologen	280	VOJNLJYCSGLUDX-UHFFFAOYSA-N			X	mutant W191G, pH not specified in the publication, temperature not specified in the publication
+50	Dimethylsulfoxide	702	IAZDPXIOMUYVGZ-UHFFFAOYSA-N		8.0		wild-type, pH 8.0, temperature not specified in the publication
+55	reduced benzyl viologen	280	VOJNLJYCSGLUDX-UHFFFAOYSA-N			X	mutant R217Q, pH not specified in the publication, temperature not specified in the publication
+58	methionine sulfoxide	3340	QEFRNWWLZKMPFJ-YGVKFDHGSA-N		8.0		wild-type, pH 8.0, temperature not specified in the publication
+60	reduced benzyl viologen	280	VOJNLJYCSGLUDX-UHFFFAOYSA-N			X	mutant G190D, pH not specified in the publication, temperature not specified in the publication
+61	reduced benzyl viologen	280	VOJNLJYCSGLUDX-UHFFFAOYSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+61.1	methionine sulfoxide	3340	QEFRNWWLZKMPFJ-YGVKFDHGSA-N	30	7.0		pH 7.0, 30C
+67	Dimethylsulfoxide	702	IAZDPXIOMUYVGZ-UHFFFAOYSA-N		8.0	X	mutant Y114A, pH 8.0, temperature not specified in the publication
+68	reduced benzyl viologen	280	VOJNLJYCSGLUDX-UHFFFAOYSA-N	149		X	mutant R149C, pH not specified in the publication, temperature not specified in the publication
+79.9	Dimethylsulfoxide	702	IAZDPXIOMUYVGZ-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+89.3	2-hydroxymethylpyridine N-oxide	112416	FNHPXOZSWXLMGI-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+92	methionine sulfoxide	3340	QEFRNWWLZKMPFJ-YGVKFDHGSA-N		8.0	X	mutant Y114A, pH 8.0, temperature not specified in the publication
+95	Pyridine N-oxide	1266	ILVXOBCQQYKLDS-UHFFFAOYSA-N	149		X	mutant R149C, pH not specified in the publication, temperature not specified in the publication
+96	Pyridine N-oxide	1266	ILVXOBCQQYKLDS-UHFFFAOYSA-N			X	mutant T148S, pH not specified in the publication, temperature not specified in the publication
+99	Pyridine N-oxide	1266	ILVXOBCQQYKLDS-UHFFFAOYSA-N			X	mutant G167N, pH not specified in the publication, temperature not specified in the publication; mutant W191G, pH not specified in the publication, temperature not specified in the publication
+99.6	DL-methyl phenyl sulfoxide	21688	JXTGICXCHWMCPM-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+100	Pyridine N-oxide	1266	ILVXOBCQQYKLDS-UHFFFAOYSA-N	357		X	mutant W357C, pH not specified in the publication, temperature not specified in the publication
+110	adenosine-1N-oxide	8193	VYSCKHGOLQAMAT-KQYNXXCUSA-N		8.0		wild-type, pH 8.0, temperature not specified in the publication
+110	Pyridine N-oxide	1266	ILVXOBCQQYKLDS-UHFFFAOYSA-N			X	mutant M147L, pH not specified in the publication, temperature not specified in the publication
+110	reduced benzyl viologen	280	VOJNLJYCSGLUDX-UHFFFAOYSA-N			X	mutant G190V, pH not specified in the publication, temperature not specified in the publication
+119	tetramethylene sulfoxide	6426	ISXOBTBCNRIIQO-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+120	Pyridine N-oxide	1266	ILVXOBCQQYKLDS-UHFFFAOYSA-N			X	mutant R217Q, pH not specified in the publication, temperature not specified in the publication
+134.5	Trimethylamine-N-oxide	1120	UYPYRKYUKCHHIB-UHFFFAOYSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+168	3-carboxypyridine N-oxide	109418	FJCFFCXMEXZEIM-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+180	Dimethylsulfoxide	702	IAZDPXIOMUYVGZ-UHFFFAOYSA-N		8.0	X	mutant Y114F, pH 8.0, temperature not specified in the publication
+180	methionine sulfoxide	3340	QEFRNWWLZKMPFJ-YGVKFDHGSA-N		8.0	X	mutant Y114F, pH 8.0, temperature not specified in the publication
+190	Pyridine N-oxide	1266	ILVXOBCQQYKLDS-UHFFFAOYSA-N			X	mutant G190D, pH not specified in the publication, temperature not specified in the publication; mutant M147I, pH not specified in the publication, temperature not specified in the publication
+200	Pyridine N-oxide	1266	ILVXOBCQQYKLDS-UHFFFAOYSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+210	reduced benzyl viologen	280	VOJNLJYCSGLUDX-UHFFFAOYSA-N			X	mutant A181T, pH not specified in the publication, temperature not specified in the publication
+212	4-chloropyridine N-oxide	7491	JBNMBLVQAQEOQP-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+214	3-hydroxymethylpyridine N-oxide	109414	LQYJAVWWKTWWKN-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+226	4-hydroxymethylpyridine N-oxide	109417	ZJGXPKKVSNSGRJ-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+229	3alpha-hydroxybenzylpyridine N-oxide	109415	MPRKOTAWRBGXBQ-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+231	3-methylpyridine N-oxide	109319	DMGGLIWGZFZLIY-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+237	3-amidopyridine N-oxide	70753	USSFUVKEHXDAPM-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+239	dimethyldodecylamine N-oxide	6200	SYELZBGXAIXKHU-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+243	Pyridine N-oxide	1266	ILVXOBCQQYKLDS-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+247	2-methylpyridine N-oxide	109413	CFZKDDTWZYUZKS-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+260	Pyridine N-oxide	1266	ILVXOBCQQYKLDS-UHFFFAOYSA-N			X	mutant G190V, pH not specified in the publication, temperature not specified in the publication
+268	4-methylpyridine N-oxide	6165	IWYYIZOHWPCALJ-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+297	4-phenylpyridine N-oxide	109416	VZOPVKZLLGMDDG-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+307	2-chloropyridine N-oxide	7483	ZYUHAFDPLADFBR-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+370	reduced benzyl viologen	280	VOJNLJYCSGLUDX-UHFFFAOYSA-N			X	mutant T148S, pH not specified in the publication, temperature not specified in the publication
+429	3-hydroxypyridine N-oxide	8757	UUOCOSWXLKRDRD-UHFFFAOYSA-O	30	7.0		pH 7.0, 30C
+470	dimethyl sulfoxide	702	IAZDPXIOMUYVGZ-UHFFFAOYSA-N				enzyme W-DMSOR with tungsten in the catalytic centre, pH not specified in the publication, temperature not specified in the publication
+573	4-methylmorpholine N-oxide	3906	LFTLOKWAGJYHHR-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+940	Pyridine N-oxide	1266	ILVXOBCQQYKLDS-UHFFFAOYSA-N			X	mutant A181T, pH not specified in the publication, temperature not specified in the publication
+1200	adenosine-1N-oxide	8193	VYSCKHGOLQAMAT-KQYNXXCUSA-N		8.0	X	mutant Y114A, pH 8.0, temperature not specified in the publication
+1203	Trimethylamine N-oxide	1120	UYPYRKYUKCHHIB-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+1900	Trimethylamine N-oxide	1120	UYPYRKYUKCHHIB-UHFFFAOYSA-N		8.0	X	mutant Y114A, pH 8.0, temperature not specified in the publication
+2200	adenosine-1N-oxide	8193	VYSCKHGOLQAMAT-KQYNXXCUSA-N		8.0	X	mutant Y114F, pH 8.0, temperature not specified in the publication
+2300	Trimethylamine N-oxide	1120	UYPYRKYUKCHHIB-UHFFFAOYSA-N		8.0		wild-type, pH 8.0, temperature not specified in the publication
+4300	Trimethylamine N-oxide	1120	UYPYRKYUKCHHIB-UHFFFAOYSA-N		8.0	X	mutant Y114F, pH 8.0, temperature not specified in the publication

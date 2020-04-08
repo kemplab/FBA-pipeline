@@ -1,0 +1,72 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+4.3	bradykinin	387	QXZGBUJJYSLZLT-FDISYFBBSA-N				
+16	bradykinin	387	QXZGBUJJYSLZLT-FDISYFBBSA-N				wild-type enzyme, pH and temperature not specified in the publication
+106	bradykinin	387	QXZGBUJJYSLZLT-FDISYFBBSA-N				
+40	angiotensin II	537	CZGUSIXMZVURDU-JZXHSEFVSA-N	37	7.4		37C, pH 7.4
+0.0551	angiotensin I	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N	37	7.4		37C, pH 7.4
+18	Substance P	957	XHWDVRRNQHMAPE-CUZNLEPHSA-N				wild-type enzyme, pH and temperature not specified in the publication
+28	Substance P	957	XHWDVRRNQHMAPE-CUZNLEPHSA-N				
+84.3	Substance P	957	XHWDVRRNQHMAPE-CUZNLEPHSA-N				
+84.4	Substance P	957	XHWDVRRNQHMAPE-CUZNLEPHSA-N				
+4.5	glucagon	1056	XXIRCCLYZCEEOA-DJYOUOFASA-N				wild-type enzyme, pH and temperature not specified in the publication
+13	neurotensin	1629	PCJGZPGTCUMMOT-ISULXFBGSA-N				wild-type enzyme, pH and temperature not specified in the publication
+7.8	Met-enkephalin	1872	YFGBQHOOROIVKG-FKBYEOEOSA-N				
+15	Leu-enkephalin	2214	URLZCHNOLZSCCA-VABKMULXSA-N				
+21.1	Tyr-Gly-Gly-Phe-Met	1872	YFGBQHOOROIVKG-FKBYEOEOSA-N				
+8.2	angiotensin	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N				wild-type enzyme, pH and temperature not specified in the publication
+26	beta-endorphin	117734	FKKMLNBKPJXIIJ-NOSLXCIXSA-N				
+19	D-Ala2-Leu5-enkephalin	3200	ZHUJMSMQIPIPTF-JMBSJVKXSA-N				enzyme from tubules
+20.7	D-Ala2-Leu5-enkephalin	3200	ZHUJMSMQIPIPTF-JMBSJVKXSA-N				enzyme from glomeruli
+232	D-Ala2-Leu5-enkephalin	3200	ZHUJMSMQIPIPTF-JMBSJVKXSA-N			X	mutant enzyme N542G
+412	D-Ala2-Leu5-enkephalin	3200	ZHUJMSMQIPIPTF-JMBSJVKXSA-N			X	mutant enzyme R102M/N542G
+1020	D-Ala2-Leu5-enkephalin	3200	ZHUJMSMQIPIPTF-JMBSJVKXSA-N				wild type enzyme
+1260	D-Ala2-Leu5-enkephalin	3200	ZHUJMSMQIPIPTF-JMBSJVKXSA-N			X	mutant enzyme R102M
+20	neurokinin B	3875	NHXYSAFTNPANFK-HDMCBQFHSA-N				wild-type enzyme, pH and temperature not specified in the publication
+14	Luteinizing hormone-releasing hormone	4438	IGACZQNUZMBGFX-AQJXLSMYSA-N				
+1.8	Vasoactive intestinal peptide	4482	HEOYHMUESMJFDC-UHFFFAOYSA-N				
+0.68	endothelin-1	5084	ZUBDGKVDJUIMQQ-UHFFFAOYSA-N				wild-type enzyme, pH and temperature not specified in the publication
+17	Neurokinin A	6207	HEAUFJZALFKPBA-UHFFFAOYSA-N				wild-type enzyme, pH and temperature not specified in the publication
+25.4	dynorphin A-17	7375	JMNJYGMAUMANNW-FIXZTSJVSA-N				
+44.6	alpha-neoendorphin	8325	KZTDMJBCZSGHOG-XJIZABAQSA-N				
+42	Tyr-D-Ala-Gly-Phe-met-NH2	8625	ANZXICRKKYOVMY-SZOBAZRNSA-N				
+46.4	benzyloxycarbonyl-Ala-Gly-Leu-Ala	10733	FKVXXSAOSJSNPU-ZOBUZTSGSA-N				
+0.767	gastrin G-17	4606	ONBHLCUYURAANP-CHLXADDNSA-N				sulfated
+1.07	gastrin G-17	4606	ONBHLCUYURAANP-CHLXADDNSA-N				unsulfated
+23.8	dynorphin A-10	13826	XPAZYWMYTUESNI-RAMXHLMLSA-N				
+18.6	dynorphin A-13	8377	OVVIBUHLQIYUEU-IWIISZHXSA-N				
+14	dynorphin A-6	3599	ILBHHEXPXBRSKB-FWEHEUNISA-N				
+19.6	dynorphin A-8	5587	WRPLGMBDXVBPEG-VGXZEHLRSA-N				
+32.2	dynorphin A-9	13827	CZWWJMLXKYUVTQ-VCZUSBFASA-N				
+43.7	glutaryl-Gly-Gly-Phe-2-naphthylamide	13832	SCRMMJVITKQLCL-QHCPKHFHSA-N				
+8.2	Leu-enkephalinamide	13846	YZXGODHVAJPXSG-VABKMULXSA-N				
+0.5	Met-enkephalinamide	10896	HBDDEVHKKBWEQT-FKBYEOEOSA-N				
+31.1	sulfated cholecystokinin octapeptide	13869	OIXQINQYMGNCII-YRVFCXMDSA-N				
+24.6	unsulfated cholecystokinin octapeptide	2494	PUZFEBZBSNCBNS-YRVFCXMDSA-N				
+15	dansyl-Gly-Trp-Gly	20779	GSUAJLHOCCJVOP-QFIPXVFZSA-N				
+19.1	dansyl-Gly-Tyr-Gly	20780	XRSKIVMSMKJBJA-FQEVSTJZSA-N				
+4.13	dansyl-Gly-Tyr-Gly-NH2	20781	BAMOJELPBCEWGL-FQEVSTJZSA-N				
+17.4	Tyr-D-Ala-Gly-Phe-Met	20917	MHNSNPIYASDSCR-SZOBAZRNSA-N				
+0.105	N-benzyoxycarbonyl-Gly-Gly-Leu 2-naphthylamide	21092	VBIDJZXPYAOJSD-DEOSSOPVSA-N				
+9.87	glutaryl-Ala-Ala-Phe-2-naphthylamide	21147	STMADPGDXALQMG-RLSLOFABSA-N				
+58.2	glutaryl-Ala-Ala-Phe-4-methoxy-2-naphthylamine	13668	QFJWKXYGBSQMDX-RLSLOFABSA-N				
+6.83	hippuryl-Arg-Arg-Ala-2-naphthylamide	21163	SPTYNKSHPZDKJM-PUUVEUEGSA-N				
+72	hippuryl-Arg-Arg-Leu-2-naphthylamide	21164	RXXTTYUJDBZUFI-DTXPUJKBSA-N				
+6.32	succinyl-Arg-Arg-Leu-2-naphthylamide	21242	XNFGGCYWRUDMTA-HJOGWXRNSA-N				
+0.147	Nalpha-benzoyl-Gly-Arg-Arg-Ala-2-naphthylamide	21355	QYMQRJDBPFXPLP-PUUVEUEGSA-N				
+4	Nalpha-benzoyl-Gly-Arg-Arg-Leu-2-naphthylamide	21356	HGSPPMASLBOIIE-DTXPUJKBSA-N				
+2	Nalpha-benzoyl-Gly-Arg-Arg-Phe-2-naphthylamide	21357	LRNYJRQPRVZRPB-ZDCRTTOTSA-N				
+0.0483	Nalpha-benzoyl-Gly-Arg-Leu-2-naphthylamide	21358	VKJBQONNKILFJB-UIOOFZCWSA-N				
+1.82	Nalpha-benzoyl-Gly-Lys-Arg-Arg-Leu-2-naphthylamide	21359	JIGQMBFAWXISOH-BBACVFHCSA-N				
+0.383	Nalpha-benzoyl-Gly-Lys-Lys-Arg-Arg-Leu-2-naphthylamide	21360	TVWXISAUEFPHNY-HECCNADXSA-N				
+41.8	angiotensin(1-9)	112018	LJXGOQOPNPFXFT-JWRYNVNRSA-N	37	7.4		37C, pH 7.4
+0.05	benzoyl-Gly-Gly-Arg-Leu-2-naphthylamide	30820	PKIILRGAYGWLHO-SVBPBHIXSA-N				
+4.8	gamma-endorphin	30907	GASYAMBJHBRTOE-UHFFFAOYSA-N				wild-type enzyme, pH and temperature not specified in the publication
+5.28	glutaryl-Ala-Ala-Phe-4-methoxy-2-naphthylamide	13668	QFJWKXYGBSQMDX-RLSLOFABSA-N				
+0.883	Gly-Trp-Gly	30923	PYFIQROSWQERAS-LBPRGKRZSA-N				
+3.63	N-acetyl-Gly-Trp-Gly	30990	NTLXXQJAUGRVCC-AWEZNQCLSA-N				
+32	somatostatin 14	4904	NHXLMOGPVYXJNR-UHFFFAOYSA-N				wild-type enzyme, pH and temperature not specified in the publication
+9.1	somatostatin 28	7256	GGYTXJNZMFRSLX-DFTNLTQTSA-N				wild-type enzyme, pH and temperature not specified in the publication
+11	nociceptin	127212	PULGYDLMFSFVBL-UHFFFAOYSA-N				wild-type enzyme, pH and temperature not specified in the publication
+8.9	alpha-endorphin	68273	NXSIJWJXMWBCBX-NWKQFZAZSA-N				wild-type enzyme, pH and temperature not specified in the publication
+2.8	Arg-vasopressin	16726	KBZOIRJILGZLEJ-LGYYRGKSSA-N				wild-type enzyme, pH and temperature not specified in the publication
+26	gastri-releasing peptide	127213	BNEIPTFKHBHJBM-XKNFJVFFSA-N				wild-type enzyme, pH and temperature not specified in the publication

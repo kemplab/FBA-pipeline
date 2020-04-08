@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00035	Maleate	474	VZCYOOQTPOCHFL-UPHRSURJSA-N		7.5	X	mutant enzyme C194S, at pH 7.5, temperature not specified in the publication
+0.0019	Maleate	474	VZCYOOQTPOCHFL-UPHRSURJSA-N		7.5	X	mutant enzyme C76S, at pH 7.5, temperature not specified in the publication
+0.32	Maleate	474	VZCYOOQTPOCHFL-UPHRSURJSA-N		7.5	X	mutant enzyme Y133F, at pH 7.5, temperature not specified in the publication
+2.8	Maleate	474	VZCYOOQTPOCHFL-UPHRSURJSA-N		7.5		wild type enzyme, at pH 7.5, temperature not specified in the publication
+30	Maleate	474	VZCYOOQTPOCHFL-UPHRSURJSA-N				
+36.7	Maleate	474	VZCYOOQTPOCHFL-UPHRSURJSA-N				
+96.7	Maleate	474	VZCYOOQTPOCHFL-UPHRSURJSA-N	40	8.0	X	pH 8.0, 40C, recombinant enzyme mutant MaiR-D48/49-304AA

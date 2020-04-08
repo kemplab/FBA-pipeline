@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.3	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	6.0	X	mutant enzyme S425A, at 30C and pH 6.0
+10	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	6.5		hydrolytic activity, measurement of beta-D-fructose, pH 6.5, 30C
+10	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	20	5.4		recombinant enzyme, hydrolytic reaction, pH 5.4, 20C
+25	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	6.5		wild-type, pH 6.5, 30C
+25.5	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	6.5		hydrolytic activity, measurement of beta-D-fructose, pH 6.5, 30C
+27	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	6.0	X	mutant enzyme R618K, at 30C and pH 6.0
+28.2	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	6.5		truncated version IslA2, pH 6.5, 30C
+43.6	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	6.5		overall activity, measurement of alpha-D-glucose, pH 6.5, 30C
+43.6	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	20	5.4		recombinant enzyme, transferase reaction, pH 5.4, 20C
+55.2	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	6.5		transferase activity, measurement of alpha-D-glucose minus beta-D-fructose, pH 6.5, 30C
+63.5	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	6.5		transferase activity, measurement of alpha-D-glucose minus beta-D-fructose, pH 6.5, 30C
+71	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	6.0		wild type enzyme, at 30C and pH 6.0
+76.7	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	6.5		overall activity, measurement of alpha-D-glucose, pH 6.5, 30C
+88.9	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	50	5.4		recombinant enzyme, hydrolytic reaction, pH 5.4, 50C
+105	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	30	6.5		truncated version IslA4, pH 6.5, 30C
+504	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	50	5.4		recombinant enzyme, transferase reaction, pH 5.4, 50C

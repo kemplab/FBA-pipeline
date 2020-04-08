@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+31.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		6.4		pH 6.4, temperature not specified in the publication, NAD-ME1
+39	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		6.5		pH 6.5, temperature not specified in the publication, NAD-MEH
+44.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		6.6		pH 6.6, temperature not specified in the publication, NAD-ME2
+46	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		6.5		isozyme NAD-ME2, pH 6.5, temperature not specified in the publication
+720	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.2		pH 7.2, 30C, with (S)-malate
+520	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.2		pH 7.2, 30C, with (S)-malate
+31.1	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4		pH 7.4, 30C, isozyme NAD-ME1
+31.1	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		6.4		pH 6.4, temperature not specified in the publication, NAD-ME1
+39	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		6.5		pH 6.5, temperature not specified in the publication, NAD-MEH
+44.1	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4		pH 7.4, 30C, isozyme NAD-ME2
+44.1	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		6.6		pH 6.6, temperature not specified in the publication, NAD-ME2
+46	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		6.5		isozyme NAD-ME2, pH 6.5, temperature not specified in the publication
+480	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.2		pH 7.2, 30C, with NADP+
+617	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N				
+770	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.2		pH 7.2, 30C, with NAD+

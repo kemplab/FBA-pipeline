@@ -1,0 +1,88 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.01	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	30	6.0	X	mutant enzyme D236A/Q314A, at 30C, in 0.15 M Bis-Tris, pH 6.0
+0.03	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	30	6.0	X	mutant enzyme D236A, at 30C, in 0.15 M Bis-Tris, pH 6.0
+0.77	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	7.0	X	mutant 416AA, PTPalpha, 25C, pH 7.0
+0.83	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	22	7.0	X	pH 7.0, 22C, mutant F183C
+0.93	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	30	6.0	X	mutant enzyme Q314A, at 30C, in 0.15 M Bis-Tris, pH 6.0
+1.25	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	7.0	X	mutant 529AA, PTPalpha, 25C, pH 7.0
+1.26	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	7.0		wild-type PTPalpha, 25C, pH 7.0
+1.7	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	22	7.0	X	pH 7.0, 22C, mutant P186C/E187C
+1.74	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	7.0	X	mutant G496V, PTPalpha, 25C, pH 7.0
+3.2	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	22	7.0	X	pH 7.0, 22C, mutant P181C/P186C
+3.5	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	22	7.0	X	pH 7.0, 22C, mutant E187C
+3.7	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	22	7.0	X	pH 7.0, 22C, mutant P186C
+3.9	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	22	7.0	X	pH 7.0, 22C, mutant V185C
+4.4	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	22	7.0	X	pH 7.0, 22C, mutant G184C
+5.1	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	22	7.0		pH 7.0, 22C, wild-type enzyme
+5.4	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	22	7.0	X	pH 7.0, 22C, mutant E187C/S188C
+6.4	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	22	7.0	X	pH 7.0, 22C, mutant P181C/E187C
+9.8	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	22	7.0	X	pH 7.0, 22C, mutant P181C
+12.55	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	30	6.0		wild type enzyme, at 30C, in 0.15 M Bis-Tris, pH 6.0
+24.4	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	5.5		pH 5.5, 25C
+27.5	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	6.9		isoform PTP1B, 37C, pH 6.9
+0.37	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	7.0	X	mutant enzyme T36E, at pH 7.0 and 25C
+0.56	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	7.0	X	mutant enzyme L29A, at pH 7.0 and 25C
+0.59	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	7.0	X	mutant enzyme S35E, at pH 7.0 and 25C
+0.61	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	7.0	X	mutant enzyme R33A, at pH 7.0 and 25C
+0.67	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	7.0	X	mutant enzyme F28A, at pH 7.0 and 25C
+0.7	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	7.0		wild type enzyme, at pH 7.0 and 25C
+0.73	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	7.0	X	mutant enzyme C129S, at pH 7.0 and 25C
+0.81	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	7.0	X	mutant enzyme K138A, at pH 7.0 and 25C
+0.89	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	7.0	X	mutant enzyme S35E/T36E, at pH 7.0 and 25C
+2.9	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	7.5		reaction catalyzed by the full-length enzyme in 50 mM Tris-HCl, pH 7.5, 50 mM NaCl, and 3 mM dithiothreitol, at 25C
+3.1	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	25	7.5		reaction catalyzed by the catalyctic domain of the enzyme in 50 mM Tris-HCl, pH 7.5, 50 mM NaCl, and 3 mM dithiothreitol, at 25C
+0.00016	6,8-difluoro-4-methylumbelliferyl phosphate	3464	DZANYXOTJVLAEE-UHFFFAOYSA-N		8.0		MKP-4, in 20 mM Tris-HCl (pH 8.0) containing 2 mM dithiothreitol
+0.0035	6,8-difluoro-4-methylumbelliferyl phosphate	3464	DZANYXOTJVLAEE-UHFFFAOYSA-N		8.0		MKP-3, in 20 mM Tris-HCl (pH 8.0) containing 2 mM dithiothreitol
+0.15	6,8-difluoro-4-methylumbelliferyl phosphate	3464	DZANYXOTJVLAEE-UHFFFAOYSA-N		8.0		MKP-5, in 20 mM Tris-HCl (pH 8.0) containing 2 mM dithiothreitol
+0.21	6,8-difluoro-4-methylumbelliferyl phosphate	3464	DZANYXOTJVLAEE-UHFFFAOYSA-N		8.0		VHR, in 20 mM Tris-HCl (pH 8.0) containing 2 mM dithiothreitol; VHR, in 20 mM Tris-HCl (pH 8.0) containing 2 mM dithiothreitol; VHR, in 20 mM Tris-HCl (pH 8.0) containing 2 mM dithiothreitol
+8.66	6,8-difluoro-4-methylumbelliferyl phosphate	3464	DZANYXOTJVLAEE-UHFFFAOYSA-N	25	7.4		at pH 7.4 and 25C
+2	4,6,8-trimethyl-2-oxo-2H-chromen-7-yl dihydrogen phosphate	3464	DZANYXOTJVLAEE-UHFFFAOYSA-N	37	6.9		isoform CD45, 37C, pH 6.9
+16.8	4,6,8-trimethyl-2-oxo-2H-chromen-7-yl dihydrogen phosphate	3464	DZANYXOTJVLAEE-UHFFFAOYSA-N	37	6.9		isoform PTP1B, 37C, pH 6.9
+71.6	4,6,8-trimethyl-2-oxo-2H-chromen-7-yl dihydrogen phosphate	3464	DZANYXOTJVLAEE-UHFFFAOYSA-N	37	6.9		isoform CD45, 37C, pH 6.9
+23	SASASpYSASA	109251	TVZCIWJBTYQYLU-PQSAYCIJSA-N		7.4		pH 7.4, temperature not specified in the publication, RPTPalpha
+26	SASASpYSASA	109251	TVZCIWJBTYQYLU-PQSAYCIJSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-1
+42	SASASpYSASA	109251	TVZCIWJBTYQYLU-PQSAYCIJSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-2
+7.7	GNGDpYMPMSPKS	12283	MAXWNGZAEFBHOQ-GQUPDNCVSA-N	25	7.5		reaction catalyzed by the full-length enzyme in 50 mM Tris-HCl, pH 7.5, 50 mM NaCl, and 3 mM dithiothreitol, at 25C
+18.4	GNGDpYMPMSPKS	12283	MAXWNGZAEFBHOQ-GQUPDNCVSA-N	25	7.5		reaction catalyzed by the catalyctic domain of the enzyme in 50 mM Tris-HCl, pH 7.5, 50 mM NaCl, and 3 mM dithiothreitol, at 25C
+3	WAGDDpYAA	111875	FQYLWHIHPDURBY-IWAQHSRJSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-2
+57	WAGDDpYAA	111875	FQYLWHIHPDURBY-IWAQHSRJSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-1
+30	FDIDIpYAA	111876	CCBCVXOUHKOYTD-CAECJAPESA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-2
+33	FDIDIpYAA	111876	CCBCVXOUHKOYTD-CAECJAPESA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-1
+26	EIFDFpYAA	111877	OJCRHAWBXFKNQB-NMVCAZCYSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-2
+32	EIFDFpYAA	111877	OJCRHAWBXFKNQB-NMVCAZCYSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-1
+50	FYDIDpYAA	111878	NFZDTCGQMSGELN-JPSVJMJTSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-2
+66	FYDIDpYAA	111878	NFZDTCGQMSGELN-JPSVJMJTSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-1
+37	WDEDFpYSASA	111879	NBDFQDMOTPGHDR-ZPBPFZLOSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-1
+50	WDEDFpYSASA	111879	NBDFQDMOTPGHDR-ZPBPFZLOSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-2
+12	SASASpYDWEF	111880	CQEZYEJQMZSAEJ-ZPBPFZLOSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-1
+35	SASASpYDWEF	111880	CQEZYEJQMZSAEJ-ZPBPFZLOSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-2
+43	WDEDFpYDWEF	111881	DSQKMBHDBXCKHJ-SADXGNQBSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-2
+75	WDEDFpYDWEF	111881	DSQKMBHDBXCKHJ-SADXGNQBSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-1
+1.3	WRKRFpYDWEF	111882	WOWOKEVOLPTHET-APOOOZDMSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-2
+1.7	WRKRFpYDWEF	111882	WOWOKEVOLPTHET-APOOOZDMSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-1
+42	WDEDFpYRWKF	111883	DPAGKGCZFFOCEA-FDVCWGGQSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-1
+73	WDEDFpYRWKF	111883	DPAGKGCZFFOCEA-FDVCWGGQSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-2
+200	GESDGGpYMDMSKD	21142	SJXLDNDDOUHDCN-ZAHNMYRBSA-N				
+177	TGFLTELpYVATRWY	21246	MNRDXRGIVJLZFH-GPUDMYDYSA-N				
+3	DNL-(3,5-difluoro)YpYWD	25793	GBQGQJVYYZYXJE-ZBZKAUHLSA-N		7.4		pH 7.4
+32	DNLYpYWD	25794	BOGCYMGWMZHDLI-YZZAGUQTSA-N		7.4		pH 7.4
+3	DDT-(3,5-difluoro)YDpYAA	25795	ALOKHYAQJFXBFC-MDLMTCGZSA-N		7.4		pH 7.4
+33	DDTYDpYAA	25796	QGMAPQCIPYWDBN-MADJWYEDSA-N		7.4		pH 7.4
+44	RE-(3,5-difluoro)YEFpYAA	25797	XCRVSAVKDFSIRS-QUNUXEEMSA-N		7.4		pH 7.4
+33	REYEFpYAA	25798	RVSHHGAKPFMZNQ-MOJBBMILSA-N		7.4		pH 7.4
+26	EADTApYAA	113255	VXKDXEQPKVZOHA-YDDUIWFMSA-N		7.4		pH 7.4, temperature not specified in the publication, RPTPalpha
+39	ARKRIpYAA	113256	MZOXJCFCHCYJFV-HNNIFRJOSA-N		7.4		pH 7.4, temperature not specified in the publication, RPTPalpha
+49	RRISTpYAA	113257	VGOOIZGSEQKZRE-RNMCRQKWSA-N		7.4		pH 7.4, temperature not specified in the publication, RPTPalpha
+30	AAAAApYRHRR	112081	QWBZCBQVASTKOX-SUUHJTBXSA-N		7.4		pH 7.4, temperature not specified in the publication, RPTPalpha
+9.7	TATEPQpYQPGEN	112082	MOYWUOVWEYICHD-LGDSDTNZSA-N		7.4		pH 7.4, temperature not specified in the publication, RPTPalpha
+8.3	LIEDNEpYTARQGA	112083	UWRMHLOHVBXPRW-KBOOWYERSA-N		7.4		pH 7.4, temperature not specified in the publication, RPTPalpha
+19	AKFEDTpYAA	112084	FISXLGQOTRLISB-OFZDTWFJSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-1
+24	AVWEFpYpYAA	112085	KNZBCIPNHNKKPG-DVWVEYPMSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-1
+17	AYTEpYTpYAA	112086	YJBVOEQIRWCSSF-JLJZLWBISA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-1
+13	AWSpYADpYAA	112087	ALXBQXPGRJTINQ-JXJGXAJCSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-1
+48	WDEDFpYAA	112088	OUSKJUHQPHCHKU-PXSJHXGCSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-2
+30	FDEDFpYAA	112089	SVLKAALZAUQYBC-OYYLWLJXSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-2
+2	ADEDFpYAA	112090	YBHZLOFEOXMOMZ-GMSCSKHASA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-2
+30	DWEDFpYAA	112091	NOWUOVRJJWTPGS-PXSJHXGCSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-2
+37	DFEDFpYAA	112092	VAEANSUIWLBNBI-OYYLWLJXSA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-2
+30	DAEDFpYAA	112093	IDCVEQWOKOGSTR-GMSCSKHASA-N		7.4		pH 7.4, temperature not specified in the publication, SHP-2

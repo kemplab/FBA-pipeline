@@ -1,0 +1,45 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000138	4-(aminomethyl)furan-3-carboxylic acid	118603	MYWMLFIKSZVYKR-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C
+0.000025	5-(aminomethyl)-1H-pyrrole-2-carboxylic acid	118599	MLKBXEMBGLQJDE-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C
+0.0000383	4-(aminomethyl)furan-2-carboxylic acid	118600	XTLFZCYHCYCMLT-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C
+0.000056	4-(aminomethyl)-1H-pyrrole-2-carboxylic acid	118602	BOKUKQQSEHNHTP-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C
+0.000086	4-(aminomethyl)thiophene-2-carboxylic acid	118601	ZUHVEDYYGGNJGL-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C
+0.00016	5-(aminomethyl)thiophene-2-carboxylic acid	118598	VHWSFLJKPUEMJW-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C
+0.00023	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	7.8	X	mutant E211S/I50H/V80D, 25C, pH 7.8
+0.0005	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	7.8	X	mutant E211S/I50G/C77R, 25C, pH 7.8
+0.00056	5-(aminomethyl)furan-2-carboxylic acid	118597	FUHVYJBSPHDDNU-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C
+0.003	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	7.8	X	mutant E211S/I50G, 25C, pH 7.8
+0.004	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	7.8	X	mutant E211S/I50Q/G295Y/V241A, 25C, pH 7.8
+0.0058	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	7.8	X	mutant E211S/I50N/V80T, 25C, pH 7.8
+0.0075	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	7.8	X	mutant E211S/I50N/V80D, 25C, pH 7.8
+0.028	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	7.8	X	mutant I50Q/G295Y, 25C, pH 7.8
+0.106	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	7.8	X	mutant E211S/I50H/V80T, 25C, pH 7.8
+0.25	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	7.8	X	mutant E211S/I50G/C77K, 25C, pH 7.8
+0.26	1H-tetrazole-5-ethanamine	23259	WZZDBXHOZYWJAN-UHFFFAOYSA-N		8.5		pH 8.5
+0.265	tetrazole-5-ethanamine	24399	MZYXHLMULHPGKX-UHFFFAOYSA-N	25	8.5		at 25C in 50 mM potassium diphosphate buffer, pH 8.5, containing 2 mM beta-mercaptoethanol
+0.477	tetrazole-5-propanamine	24398	GKWCKCHEKRDLOB-UHFFFAOYSA-N	25	8.5		at 25C in 50 mM potassium diphosphate buffer, pH 8.5, containing 2 mM beta-mercaptoethanol
+0.48	1H-tetrazole-5-propanamine	23260	SKSDEKPKDDHJBJ-UHFFFAOYSA-N		8.5		pH 8.5
+0.56	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	7.8	X	mutant E211S, 25C, pH 7.8
+0.69	1H-tetrazole-5-butanamine	23261	ALBFXZPASKDFHM-UHFFFAOYSA-N		8.5		pH 8.5
+0.693	tetrazole-5-butanamine	24400	UDJJYICKDXQQTK-UHFFFAOYSA-N	25	8.5		at 25C in 50 mM potassium diphosphate buffer, pH 8.5, containing 2 mM beta-mercaptoethanol
+0.74	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	25	9		pH 9, 25C, fixed substrate: 4-aminobutanoate
+0.8	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	9		pH 9, 25C, fixed substrate: 4-aminobutanoate
+0.81	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N		8.5		pH 8.5
+0.81	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	8.5		pH 8.5, 25C
+0.817	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	8.5		at 25C in 50 mM potassium diphosphate buffer, pH 8.5, containing 2 mM beta-mercaptoethanol
+0.84	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	9		pH 9, 25C, fixed substrate: pyruvate
+1	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	9		pH 9, 25C, fixed substrate: glyoxylate
+1.93	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	7.8	X	mutant V241A, 25C, pH 7.8
+2.6	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	9		pH 9, 25C, fixed substrate: pyruvate
+2.6	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	25	9		pH 9, 25C, fixed substrate: 4-aminobutanoate
+2.7	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	9		pH 9, 25C, fixed substrate: glyoxylate
+2.7	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	9		pH 9, 25C, fixed substrate: 4-aminobutanoate
+6.9	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	30	9		with glyoxylate as cosubstrate, in 50 mM TABS (pH 9), 1.5 mM dithiothreitol, 0.625 mM EDTA, 0.1 mM pyridoxal 5'-phosphate, 10% (v/v) glycerol, at 30C
+9.7	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N	30	9		in 50 mM TABS (pH 9), 1.5 mM dithiothreitol, 0.625 mM EDTA, 0.1 mM pyridoxal 5'-phosphate, 10% (v/v) glycerol, at 30C
+10.6	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	30	9		with pyruvate as cosubstrate, in 50 mM TABS (pH 9), 1.5 mM dithiothreitol, 0.625 mM EDTA, 0.1 mM pyridoxal 5'-phosphate, 10% (v/v) glycerol, at 30C
+10.6	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	9		in 50 mM TABS (pH 9), 1.5 mM dithiothreitol, 0.625 mM EDTA, 0.1 mM pyridoxal 5'-phosphate, 10% (v/v) glycerol, at 30C
+10.8	4-Oxobutanoate	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	30	9		with L-alanine as cosubstrate, in 50 mM TABS (pH 9), 1.5 mM dithiothreitol, 0.625 mM EDTA, 0.1 mM pyridoxal 5'-phosphate, 10% (v/v) glycerol, at 30C
+13.2	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N				
+13.5	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	7.8	X	mutant I50Q, 25C, pH 7.8
+15.4	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	9		with 4-oxobutanoate as cosubstrate, in 50 mM TABS (pH 9), 1.5 mM dithiothreitol, 0.625 mM EDTA, 0.1 mM pyridoxal 5'-phosphate, 10% (v/v) glycerol, at 30C
+47.4	4-aminobutanoate	492	BTCSSZJGUNDROE-UHFFFAOYSA-N	25	7.8		wild-type, 25C, pH 7.8

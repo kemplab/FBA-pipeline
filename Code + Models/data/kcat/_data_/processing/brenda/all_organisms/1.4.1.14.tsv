@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+70	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				
+32	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				
+70	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		6.5		independent of pH 6.5-9.5
+18	3-acetylpyridine adenine dinucleotide	706	KPVQNXLUPNWQHM-RBEMOOQDSA-O				reduced form as reductant, glutamate synthase reaction
+51	3-acetylpyridine adenine dinucleotide	706	KPVQNXLUPNWQHM-RBEMOOQDSA-O				NADH-dependent reduction of oxidized form of 3-acetylpyridine adenine dinucleotide

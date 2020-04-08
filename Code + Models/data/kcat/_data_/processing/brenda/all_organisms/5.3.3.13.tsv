@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.16	linoleic acid	357	OYHQOLUKZRVURQ-HZJYTTRNSA-N			X	mutant R88S/F193A
+0.33	linoleic acid	357	OYHQOLUKZRVURQ-HZJYTTRNSA-N			X	mutant F193A
+2.93	linoleic acid	357	OYHQOLUKZRVURQ-HZJYTTRNSA-N			X	mutant R88S
+4.37	linoleic acid	357	OYHQOLUKZRVURQ-HZJYTTRNSA-N				wild-type PAI
+11.6	(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoate	2145	JAZBEHYOTPTENJ-JLNKQSITSA-N				assuming one catalytic site per enzyme molecule
+41	(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoate	2145	JAZBEHYOTPTENJ-JLNKQSITSA-N		7.2		pH 7.2, assuming one catalytic site per enzyme molecule

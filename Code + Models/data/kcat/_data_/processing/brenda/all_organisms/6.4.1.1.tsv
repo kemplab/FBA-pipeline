@@ -1,0 +1,43 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0013	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.5	X	pH 7.5, 25C, mutant K119Q, no biotin, pyruvate carboxylation
+0.0018	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.8		pH 7.8, 30C, absence of acetyl CoA, 0.24 mM Mg2+
+0.0029	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.8		pH 7.8, 30C, absence of acetyl CoA, 10 mM Mg2+
+0.0049	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.8		pH 7.8, 30C, absence of acetyl CoA, 1 mM Mg2+
+0.013	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	25	7.5		pH 7.5, 25C, wild-type, reverse reaction
+0.014	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.8		pH 7.8, 30C, ATP cleavage in absence of acetyl-CoA
+0.037	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.8		pH 7.8, 30C, ATP cleavage in presence of acetyl-CoA
+0.04	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.5	X	pH 7.5, 25C, mutant K119Q, 10 mM biotin, pyruvate carboxylation
+0.043	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.5		pH 7.5, 25C, wild-type, no biotin, pyruvate carboxylation
+0.043	Carbamoyl phosphate	368	FFQKYPRQEYGKAF-UHFFFAOYSA-N	30	7.8	X	pH 7.8, 30C, C249A mutant, with acetyl-CoA and K+
+0.05	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.5		pH 7.5, 25C, wild-type, 10 mM biotin, pyruvate carboxylation
+0.052	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.8	X	co-substrate: HCO3-, mutant H216N, pyruvate carboxylation, pH 7.8, 30C
+0.054	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.8		pH 7.8, 30C, presence of acetyl CoA, 1 mM Mg2+
+0.056	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, 0.25 mM oxamate
+0.076	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, 0.5 mM oxamate
+0.1	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	7.8	X	co-substrate: ADP + phosphate, mutant H216N, oxaloacetate decarboxylation, pH 7.8, 30C
+0.11	Carbamoyl phosphate	368	FFQKYPRQEYGKAF-UHFFFAOYSA-N	30	7.8		pH 7.8, 30C, wild-type Pyc1, with acetyl-CoA and K+; pH 7.8, 30C, wild-type Pyc1, without acetyl-CoA and K+
+0.13	Carbamoyl phosphate	368	FFQKYPRQEYGKAF-UHFFFAOYSA-N	30	7.8	X	pH 7.8, 30C, C249A mutant, without acetyl-CoA and K+
+0.151	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, 0.75 mM oxamate
+0.2	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, 1 mM oxamate
+0.23	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.5	X	pH 7.5, 25C, mutant T882A, no biotin, pyruvate carboxylation
+0.28	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.8		pH 7.8, 30C, presence of acetyl CoA, 0.24 mM Mg2+
+0.28	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	7.8		co-substrate: ADP + phosphate, wild-type, oxaloacetate decarboxylation, pH 7.8, 30C
+0.28	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.8	X	mutant enzyme R548K, in 100 mM Tris-HCl pH 7.8, 30C
+0.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.5	X	pH 7.5, 25C, mutant T882A, 10 mM biotin, pyruvate carboxylation
+1.2	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.5	X	mutant Q870A, pH 7.5
+1.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.8	X	mutant R472K, pH 7.8, 30C
+2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.8	X	mutant R472S, pH 7.8, 30C
+2.5	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.5	X	mutant S911A, pH 7.5
+3.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.8	X	mutant R427K, pH 7.8, 30C
+4.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.8	X	mutant R427S, pH 7.8, 30C
+6.5	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.5		wild-type, pH 7.5
+6.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.5		pH 7.5, 25C, wild-type, pyruvate carboxylation
+7.33	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, wild-type, pyruvate carboxylation
+10.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.8		wild-type, pH 7.8, 30C
+11	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.8		co-substrate: HCO3-, wild-type, pyruvate carboxylation, pH 7.8, 30C
+11.6	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M	25	7.5		pH 7.5, 25C, wild-type, pyruvate carboxylation
+13.9	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.8		wild type enzyme, in 100 mM Tris-HCl pH 7.8, 30C
+15.7	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.5		wild-type, pH 7.5, presence of acetyl-CoA
+60	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.8		30C, pH 7.8; 30C, pH 7.8
+60	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M	30	7.8		30C, pH 7.8; 30C, pH 7.8
+60	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.8		30C, pH 7.8; 30C, pH 7.8

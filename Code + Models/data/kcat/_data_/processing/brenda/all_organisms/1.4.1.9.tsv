@@ -1,0 +1,36 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.18	L-norleucine	647	LRQKBLKVPFOOQJ-YFKPBYRVSA-N	25	10		in 100 mM glycine-KCl-KOH buffer (pH 10), at 25C
+0.29	L-norvaline	559	SNDPXSYFESPGGJ-BYPYZUCNSA-N			X	mutant enzyme A113A/V291L
+0.6	L-norleucine	647	LRQKBLKVPFOOQJ-YFKPBYRVSA-N			X	mutant enzyme A113A/V291L
+0.74	L-Leu	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N			X	mutant enzyme A113A/V291L
+0.8	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	mutant enzyme A113A
+1.3	L-norleucine	647	LRQKBLKVPFOOQJ-YFKPBYRVSA-N				wild-type enzyme
+1.4	L-Ile	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N			X	mutant enzyme A113A/V291L
+1.4	L-Phe	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	mutant enzyme A113A/V291L
+1.53	L-norvaline	559	SNDPXSYFESPGGJ-BYPYZUCNSA-N	25	10		in 100 mM glycine-KCl-KOH buffer (pH 10), at 25C
+2	L-Ile	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N				wild-type enzyme
+2.8	L-Leu	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N			X	mutant enzyme A113A
+3.31	L-Ile	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N	25	10		in 100 mM glycine-KCl-KOH buffer (pH 10), at 25C
+7.7	L-norvaline	559	SNDPXSYFESPGGJ-BYPYZUCNSA-N			X	mutant enzyme A113A
+9.9	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N			X	mutant enzyme A113A/V291L
+10	L-leucine	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	20	10.5		pH 10.5, 20C
+10.83	L-Leu	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N	25	10		in 100 mM glycine-KCl-KOH buffer (pH 10), at 25C
+13	L-norvaline	559	SNDPXSYFESPGGJ-BYPYZUCNSA-N				wild-type enzyme
+13	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O			X	mutant enzyme D203A/I204R and D203A/I204R/D210R
+18	L-norleucine	647	LRQKBLKVPFOOQJ-YFKPBYRVSA-N			X	mutant enzyme A113A
+22	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N			X	mutant enzyme A113A
+23	L-Ile	266	AGPKZVBTJJNPAG-WHFBIAKZSA-N			X	mutant enzyme A113A
+24	alpha-keto-caproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M			X	mutant enzyme A113A/V291L
+27.63	3-methyl-2-oxopentanoate	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N	25	10		in 100 mM glycine-KCl-KOH buffer (pH 10), at 25C
+29	alpha-keto-isocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N			X	mutant enzyme A113A/V291L
+37	alpha-keto-beta-methylvalerate	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N			X	mutant enzyme A113A/V291L
+47.69	2-Oxopentanoate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	25	10		in 100 mM glycine-KCl-KOH buffer (pH 10), at 25C
+50	L-Leu	121	ROHFNLRQFUQHCH-YFKPBYRVSA-N				wild-type enzyme
+90	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				wild-type enzyme
+94	alpha-keto-isocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N			X	mutant enzyme A113A
+99.38	4-methyl-2-oxopentanoate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N	25	10		in 100 mM glycine-KCl-KOH buffer (pH 10), at 25C
+110	alpha-keto-caproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M				wild-type enzyme
+140	alpha-keto-caproate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M			X	mutant enzyme A113A
+235	alpha-keto-beta-methylvalerate	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N			X	mutant enzyme A113A
+280	alpha-keto-beta-methylvalerate	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N				wild-type enzyme
+280	alpha-keto-isocaproate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N				wild-type enzyme

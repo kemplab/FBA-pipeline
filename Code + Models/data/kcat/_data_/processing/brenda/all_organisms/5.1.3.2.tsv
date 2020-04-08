@@ -1,0 +1,74 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00026	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	35	7.5		in McIlvaine buffer (pH 7.5), at 35C
+0.00545	D-tagatose	1621	LKDRXBCSQODPBY-OEXCPVAWSA-N	35	7.5		in McIlvaine buffer (pH 7.5), at 35C
+0.046	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	8.8	X	37C, pH 8.8, mutant enzyme G90E
+0.07	UDP-GlcNAc	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	25	8.0		25C, pH 8.0
+0.073	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N		6.2	X	pH 6.2, temperature not specified in the publication, recombinant mutant Y149F
+0.073	UDPgalactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N			X	mutant Y149F
+0.12	UDP-GalNAc	303	LFTYTUAZOPRMMI-NESSUJCYSA-N	25	8.0		25C, pH 8.0
+0.265	UDPgalactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N			X	,mutant S124A
+0.37	UDP-N-acetyl-alpha-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	45	7.5	X	pH 7.5, 45C, mutant G118A/G119A
+0.61	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N		6.2	X	pH 6.2, temperature not specified in the publication, recombinant mutant S124A
+0.633	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	25	8.0	X	mutant enzyme K153N, in 20 mM sodium phosphate buffer, pH 8.0, at 25C
+0.67	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N		6.2	X	pH 6.2, temperature not specified in the publication, recombinant mutant K153M
+0.78	UDP-N-acetyl-alpha-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	45	7.5	X	pH 7.5, 45C, mutant G118S/G119S
+0.84	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	70	5.5		in 100 mM MES-NaOH (pH 5.5), at 70C
+0.99	UDP-N-acetyl-alpha-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	45	7.5	X	pH 7.5, 45C, mutant S279Y
+1	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	60	6.5		pH 6.5, 60C
+1.1	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	60	6.5		pH 6.5, 60C
+1.1	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	8.8	X	37C, pH 8.8, mutant enzyme V94M
+1.5	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	25	8.5	X	mutant L320Y, pH 8.5, 25C
+2	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N				The approximate value is estimated from reaction velocities at saturating substrate concentrations (59 mM).
+2.32	UDP-N-acetyl-alpha-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	45	7.5	X	pH 7.5, 45C, mutant S116A
+2.5	UDP-N-acetyl-alpha-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	45	7.5	X	pH 7.5, 45C, mutant T117S
+2.62	UDP-N-acetyl-alpha-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	45	7.5		pH 7.5, 45C, wild-type enzyme
+5	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	8.8	X	37C, pH 8.8, mutant enzyme D103G
+5.1	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	8.8	X	37C, pH 8.8, mutant enzyme K257R
+5.8	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	8.8	X	37C, pH 8.8, mutant enzyme L313M
+9	UDP-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				recombinant Arabidopsis thaliana enzyme
+9	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	25	8.6		pH 8.6, 25C
+11	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	8.8	X	37C, pH 8.8, mutant enzyme L183P
+11	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	25	8.0		25C, pH 8.0
+12.8	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	25	8.5		wild-type enzyme, pH 8.5, 25C
+12.9	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				
+15	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	8.8	X	37C, pH 8.8, mutant enzyme R335H
+17	UDP-D-xylose	291	DQQDLYVHOTZLOR-OCIMBMBZSA-N	25	8.6		pH 8.6, 25C
+17	UDP-xylose	291	DQQDLYVHOTZLOR-OCIMBMBZSA-N	25	8.6		pH 8.6, 25C
+18	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	24	7.0		24C, pH 7.0
+19	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N				The approximate value is estimated from reaction velocities at saturating substrate concentrations (59 mM).
+20	UDP-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				recombinant enzyme UGE4
+21	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	25	8.0		25C, pH 8.0
+23	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				Different enzyme concentrations give slight variations in activity.
+23	UDP-L-arabinose	3456	DQQDLYVHOTZLOR-LGNYTLETSA-N	25	8.6		pH 8.6, 25C
+24	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N				The approximate value is estimated from reaction velocities at saturating substrate concentrations (59 mM).
+27	UDP-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				recombinant enzyme UGE3
+28	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				Different enzyme concentrations give slight variations in activity.
+30	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	8.8	X	37C, pH 8.8, mutant enzyme G319E
+32	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	8.8	X	37C, pH 8.8, mutant enzyme N34S
+32	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N				The approximate value is estimated from reaction velocities at saturating substrate concentrations (59 mM).
+33	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N				The approximate value is estimated from reaction velocities at saturating substrate concentrations (59 mM).
+36	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	8.8		37C, pH 8.8, wild-type enzyme
+42	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				Different enzyme concentrations give slight variations in activity.
+46	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	25	8.0	X	mutant enzyme Y149G, in 20 mM sodium phosphate buffer, pH 8.0, at 25C
+55	UDP-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				recombinant Arabidopsis thaliana enzyme UGE2
+55.32	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	50	8.9		pH 8.9, 50C, recombinant GalE
+64	UDP-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				recombinant enzyme UGE5
+64	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	25	8.6		pH 8.6, 25C
+64.8	UDPgalactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				
+64.8	UDPgalactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				
+73.95	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	37			37C
+82.3	UDP-GlcNAc	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	37			37C
+89	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				Different enzyme concentrations give slight variations in activity.
+115	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				Different enzyme concentrations give slight variations in activity.
+116	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	25	8.0		wild type recombinant enzyme, in 20 mM sodium phosphate buffer, pH 8.0, at 25C
+199.1	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N		8.9		recombinant enzyme, 100 mM glycine-NaOH (pH 8.9), 4 mM UDP-galactose, 1 mM beta-NAD+, 8.3 mM MgCl2, and 5.4 U of UDP-glucose dehydrogenase
+247.9	UDP-GalNAc	303	LFTYTUAZOPRMMI-NESSUJCYSA-N	37			37C
+248	UDPgalactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N			X	mutant S124T
+250	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N		6.2		pH 6.2, temperature not specified in the publication, recombinant S124T
+290.1	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37			37C
+500	UDPgalactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				
+500	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	24	7.0		24C, pH 7.0
+750	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	35	7.5		in McIlvaine buffer (pH 7.5), at 35C
+760	UDP-alpha-D-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N		6.2		pH 6.2, temperature not specified in the publication, recombinant wild-type enzyme
+760	UDPgalactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				wild type enzyme
+960	UDPgalactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				fusion enzyme consisting of UDP-galactose 4-epimerase and galactose-1-phosphate uridylyltransferase with an intervening Ala3 linker

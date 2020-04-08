@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0013	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M	37	7.8	X	mutant enzyme R271K, in 50 mM HEPES, pH 7.8, at 37C
+0.032	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M	37	7.8	X	mutant enzyme Y152A, in 50 mM HEPES, pH 7.8, at 37C
+0.053	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M	37	7.8	X	mutant enzyme Y152F, in 50 mM HEPES, pH 7.8, at 37C
+0.063	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M	37	7.8		wild type enzyme, in 50 mM HEPES, pH 7.8, at 37C
+0.143	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M	37	7.8	X	mutant enzyme R155A, in 50 mM HEPES, pH 7.8, at 37C
+0.233	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M	37	7.8	X	mutant enzyme D153A, in 50 mM HEPES, pH 7.8, at 37C
+0.25	HCO3-	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M	37	7.8	X	mutant enzyme E73A, in 50 mM HEPES, pH 7.8, at 37C
+0.87	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0	X	pH 8.0, 25C, chimeric mutant with PurK activity
+5.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0		pH 8.0, 25C, wild-type PurK
+15.83	5-amino-1-(5-phospho-D-ribosyl)imidazole	3629	PDACUKOKVHBVHJ-XVFCMESISA-N	22		X	mutant enzyme F78I, in 50 mM HEPES, 80 mM KCl, 20 mM MgCl2, at 22C, pH not specified in the publication
+18	5-amino-1-(5-phospho-D-ribosyl)imidazole	3629	PDACUKOKVHBVHJ-XVFCMESISA-N	22		X	mutant enzyme F78W, in 50 mM HEPES, 80 mM KCl, 20 mM MgCl2, at 22C, pH not specified in the publication
+24.83	5-amino-1-(5-phospho-D-ribosyl)imidazole	3629	PDACUKOKVHBVHJ-XVFCMESISA-N	22			wild type enzyme, in 50 mM HEPES, 80 mM KCl, 20 mM MgCl2, at 22C, pH not specified in the publication

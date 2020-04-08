@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0272	Phenylglyoxal	258	OJUGVDODNPJEEC-UHFFFAOYSA-N				pH and temperature not specified in the publication
+0.095	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N		7.5	X	pH 7.5, temperature not specified in the publication, mutant enzyme H184A
+0.518	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N				recombinant Hsp3101, pH and temperature not specified in the publication
+0.967	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N				recombinant Hsp3102, pH and temperature not specified in the publication
+1.09	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N			X	recombinant mutant SpDJ-1 H130A, pH and temperature not specified in the publication
+1.25	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N				recombinant ScHsp31, pH and temperature not specified in the publication
+1.43	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N				recombinant wild-type SpDJ-1, pH and temperature not specified in the publication
+2.61	methylglyoxal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N		7.5		pH 7.5, temperature not specified in the publication, wild-type enzyme
+0.08	2-oxopropanal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N	22	7.0		pH 7.0, 22C
+0.29	2-oxopropanal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N	22	7.0		pH 7.0, 22C
+1.43	2-oxopropanal	277	AIJULSRZWUXGPQ-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C

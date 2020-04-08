@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.39	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+0.0053	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	1570	KTYVDPYPXDRLTE-HFKGTQBBSA-N	25	6.0	X	mutant enzyme W67L, in 0.1 M sodium phosphate buffer, pH 6.0, 1 mM dithiothreitol and 1 mM EDTA at 25C
+0.0072	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	1570	KTYVDPYPXDRLTE-HFKGTQBBSA-N	25	6.0	X	mutant enzyme H61N/W67L, in 0.1 M sodium phosphate buffer, pH 6.0, 1 mM dithiothreitol and 1 mM EDTA at 25C
+6	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	1570	KTYVDPYPXDRLTE-HFKGTQBBSA-N				
+6	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	1570	KTYVDPYPXDRLTE-HFKGTQBBSA-N	25	6.0		wild type enzyme, in 0.1 M sodium phosphate buffer, pH 6.0, 1 mM dithiothreitol and 1 mM EDTA at 25C
+6	tosyl-Gly-L-Pro-L-Arg-7-amido-4-methylcoumarin	3725	DWTAHKFEIVWFGQ-ZEQRLZLVSA-N	24	6.5		in 50 mM sodium phosphate, pH 6.5, 1 mM dithiothreitol, 1 mM EDTA, at 24C
+0.39	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N	24	6.5		in 50 mM sodium phosphate, pH 6.5, 1 mM dithiothreitol, 1 mM EDTA, at 24C
+1.2	Z-Leu-Arg-NHMe	114562	DUYMVSOWRGUHOK-IRXDYDNUSA-N	37	6.0		in 100 mM sodium phosphate buffer (pH 6.0) containing 1 mM dithiothreitol and 1 mM EDTA, at 37C
+0.02	Z-Phe-Arg-NHMe	114563	FRSNHRIKTCHZRV-PMACEKPBSA-N	37	6.0		in 100 mM sodium phosphate buffer (pH 6.0) containing 1 mM dithiothreitol and 1 mM EDTA, at 37C
+0.01	Boc-VLK-7-amido-4-methylcoumarin	7588	KVLPXRKIIFWZLM-DPZBCOQUSA-N	37	6.0		in 100 mM sodium phosphate buffer (pH 6.0) containing 1 mM dithiothreitol and 1 mM EDTA, at 37C
+0.043	Z-VVR-7-amido-4-methylcoumarin	10496	VCOVUYXJMHMVNV-FMYROPPKSA-N	37	6.0		in 100 mM sodium phosphate buffer (pH 6.0) containing 1 mM dithiothreitol and 1 mM EDTA, at 37C
+1.015	tosyl-GPR-7-amido-4-methylcoumarin	3725	DWTAHKFEIVWFGQ-ZEQRLZLVSA-N	37	6.0		in 100 mM sodium phosphate buffer (pH 6.0) containing 1 mM dithiothreitol and 1 mM EDTA, at 37C
+0.15	tosyl-GPK-7-amido-4-methylcoumarin	12557	DENHHFBQLLZEME-DQEYMECFSA-N	37	6.0		in 100 mM sodium phosphate buffer (pH 6.0) containing 1 mM dithiothreitol and 1 mM EDTA, at 37C
+0.033	Boc-VPR-7-amido-4-methylcoumarin	6639	DFOSAUPKTFJBLO-HWBMXIPRSA-N	37	6.0		in 100 mM sodium phosphate buffer (pH 6.0) containing 1 mM dithiothreitol and 1 mM EDTA, at 37C
+0.58	Boc-AGPR-7-amido-4-methylcoumarin	6638	FSHIRCDNFQJWRI-NYVOZVTQSA-N	37	6.0		in 100 mM sodium phosphate buffer (pH 6.0) containing 1 mM dithiothreitol and 1 mM EDTA, at 37C
+0.33	benzyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	25868	HNDKWDLJSRXDLF-QYDYLWNGSA-N				
+0.33	benzyloxycarbonyl-L-Val-L-Leu-L-Lys-7-amido-4-methylcoumarin	109421	PODKLIXOZUXAQJ-QYDYLWNGSA-N	24	6.5		in 50 mM sodium phosphate, pH 6.5, 1 mM dithiothreitol, 1 mM EDTA, at 24C
+0.03	Z-Val-Leu-Lys-7-amido-4-methylcoumarin	25868	HNDKWDLJSRXDLF-QYDYLWNGSA-N	25	6.0	X	mutant enzyme H61N/W67L, in 0.1 M sodium phosphate buffer, pH 6.0, 1 mM dithiothreitol and 1 mM EDTA at 25C; mutant enzyme W67L, in 0.1 M sodium phosphate buffer, pH 6.0, 1 mM dithiothreitol and 1 mM EDTA at 25C
+0.33	Z-Val-Leu-Lys-7-amido-4-methylcoumarin	25868	HNDKWDLJSRXDLF-QYDYLWNGSA-N	25	6.0		wild type enzyme, in 0.1 M sodium phosphate buffer, pH 6.0, 1 mM dithiothreitol and 1 mM EDTA at 25C

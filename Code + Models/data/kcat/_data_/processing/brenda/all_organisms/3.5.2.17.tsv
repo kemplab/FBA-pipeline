@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.015	5-hydroxyisourate	2080	LTQYPAVLAYVKTK-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+0.21	5,6-diaminouracil	22930	VHMLWEBEDKTKOQ-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+0.35	5-hydroxyisourate	2080	LTQYPAVLAYVKTK-UHFFFAOYSA-N		7.6	X	mutant H92N, pH 7.6, temperature not specified in the publication
+0.8	5-hydroxyisourate	2080	LTQYPAVLAYVKTK-UHFFFAOYSA-N		7.6	X	mutant H7N, pH 7.6, temperature not specified in the publication
+11	5-hydroxyisourate	2080	LTQYPAVLAYVKTK-UHFFFAOYSA-N	25	7.2		pH 7.2, 25C
+24	5-hydroxyisourate	2080	LTQYPAVLAYVKTK-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme lacking the signal peptide
+34.7	5-hydroxyisourate	2080	LTQYPAVLAYVKTK-UHFFFAOYSA-N		7.6	X	mutant R41K, pH 7.6, temperature not specified in the publication
+81	5-hydroxyisourate	2080	LTQYPAVLAYVKTK-UHFFFAOYSA-N		7.6	X	mutant S108A, pH 7.6, temperature not specified in the publication
+172	5-hydroxyisourate	2080	LTQYPAVLAYVKTK-UHFFFAOYSA-N		7.6		wild-type, pH 7.6, temperature not specified in the publication

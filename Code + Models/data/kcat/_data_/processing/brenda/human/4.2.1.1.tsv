@@ -1,0 +1,53 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000005	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25	8.3	X	mutant V143A, pH 8.3, 25C
+0.0000007	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25	8.3	X	mutant V143I, pH 8.3, 25C
+0.000001	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25	8.3		wild-type, pH 8.3, 25C
+0.0000011	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25	8.3	X	mutant V143L, pH 8.3, 25C
+0.0004	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, wild-type CA XII
+85	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		6.28	X	pH 6.28, MES buffer, carbonic anhydrase I mutant V62N,H67N,H200T
+117	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		6.3		pH 6.3, MES buffer, wild-type carbonic anhydrase I
+217	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		6.28	X	pH 6.28, MES buffer, carbonic anhydrase I mutant V62N; pH 6.3, MES buffer
+233	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.88	X	pH 8.88, TAPS buffer, carbonic anhydrase I mutant H200T
+250	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		6.28	X	pH 6.28, MES buffer, carbonic anhydrase I mutant H67N
+433	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.8		pH 8.8, TAPS buffer, wild-type carbonic anhydrase I
+800	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		7.21		pH 7.21, 1-methylimidazole buffer, wild-type carbonic anhydrase I
+883	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		7.23	X	pH 7.23, 1-methylimidazole buffer, carbonic anhydrase I mutant H67N
+1180	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.98	X	pH 8.98, TAPS buffer, carbonic anhydrase I mutant V62N and carbonic anhydrase I mutant H67N
+1380	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		7.21	X	pH 7.21, 1-methylimidazole buffer, carbonic anhydrase I mutant H200T
+1400	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.98	X	pH 8.98, TAPS buffer, carbonic anhydrase I mutant V62N,H67N,H200T
+1470	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.88	X	pH 8.88, TAPS buffer, carbonic anhydrase I mutant V62N,H67N
+2000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.95	X	pH 8.95, 1,2-dimethylimidazole buffer, carbonic anhydrase I mutant V62N
+2000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25		X	25C, mutant enzyme C183S/C188S
+2830	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.75	X	pH 8.75, 1,2-dimethylimidazole buffer, carbonic anhydrase I mutant H67N
+3500	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.72	X	pH 8.72, 1,2-dimethylimidazole buffer, carbonic anhydrase I mutant V62B, H67B; pH 8.77, 1,2-dimethylimidazole buffer, wild-type carbonic anhydrase I
+3670	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		7.23	X	pH 7.23, 1-methylimidazolebuffer, carbonic anhydrase I mutant V62N,H67N,H200T
+4000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.94	X	pH 8.94, 1,2-dimethylimidazole buffer, carbonic anhydrase II mutant T200H
+5500	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.95	X	pH 8.95, 1,2-dimethylimidazole buffer, carbonic anhydrase I mutant H200T
+8170	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.94	X	pH 8.94, 1,2-dimethylimidazole buffer, carbonic anhydrase II mutant N62V
+8500	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.75	X	pH 8.75, 1,2-dimethylimidazole buffer, carbonic anhydrase I mutant V62N,H67N,H200T
+13000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25	7.4		isoform carbonic anhydrase III, at pH 7.4 and 25C
+13000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	20	7.5		at 20C and pH 7.5
+15200	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.7		pH 8.7, 1,2-dimethylimidazole buffer, carbonic anhydrase II
+16700	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.9		pH 8.9, TAPS buffer, carbonic anhydrase II
+18300	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				pH-independent turnover
+22000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25		X	25C, mutant enzyme F198L/C183S/C188S
+28300	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		8.94	X	pH 8.94, 1,2-dimethylimidazole buffer, carbonic anhydrase II mutant N67H
+28700	H2CO3	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M				0.1 M NaCl
+29500	H2CO3	175	BVKZGUZCCUSVTD-UHFFFAOYSA-M				without NaCl
+130000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				
+150000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25	7.4		isoform carbonic anhydrase XIII, at pH 7.4 and 25C
+150000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				
+150000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				
+200000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25	7.4		isoform carbonic anhydrase I, at pH 7.4 and 25C
+380000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				Escherichia coli recombinant enzyme
+1000000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	20	7.5	X	pH 7.5, 20C, mutant Q92V
+1100000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				recombinant extracellular domain of CA IX expressed in Sf9 cells, in the absence of Zn2+
+1400000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25	7.4		isoform carbonic anhydrase II, at pH 7.4 and 25C
+1400000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N		7.5		native isozyme carbonic anhydrase II, in 10 mM HEPES, 0.1 M Na2SO4, pH 7.5
+1400000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	20	7.5	X	pH 7.5, 20C, mutant N67I; pH 7.5, 20C, wild-type
+1500000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	20	7.5	X	pH 7.5, 20C, mutant L204S
+3800000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				recombinant CA IX catalytic domain expressed in Escherichia coli; recombinant CA IX catalytic domain expressed in Sf9 cells, in the absence of Zn2+
+4200000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				recombinant CA IX catalytic domain expressed in Sf9 cells, in the presence of 0.05 mM Zn2+
+11000000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				recombinant CA IX catalytic domain expressed in Sf9 cells, in the presence of 0.05 mM Mg2+
+12000000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				recombinant CA IX catalytic domain expressed in Sf9 cells, in the presence of 0.05 mM Co2+
+25000000	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N				recombinant CA IX catalytic domain expressed in Sf9 cells, in the presence of 0.05 mM Mn2+; recombinant CA IX catalytic domain expressed in Sf9 cells, in the presence of Zn2+

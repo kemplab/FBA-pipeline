@@ -1,0 +1,44 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.002	benzyloxycarbonyl-Arg-Arg-4-methylcoumarinyl-7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N	37	7.0		pH 7.0, 37C, cathepsin L1
+0.002	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N	37	7.0		pH 7.0, 37C
+0.01	succinyl-Leu-Leu-Val-Tyr-4-methylcoumarinyl-7-amide	3399	UVFAEQZFLBGVRM-MSMWPWNWSA-N	37	7.0		pH 7.0, 37C, cathepsin L1
+0.01	succinyl-Leu-Leu-Val-Tyr-7-amido-4-methylcoumarin	3399	UVFAEQZFLBGVRM-MSMWPWNWSA-N	37	7.0		pH 7.0, 37C
+0.02	H-Leu-Val-Tyr-4-methylcoumarinyl-7-amide	25847	LCXURRLYDBPUAM-DPZBCOQUSA-N	37	7.0		pH 7.0, 37C, cathepsin L1
+0.02	H-Leu-Val-Tyr-7-amido-4-methylcoumarin	14475	UJUJZJNEGNXALD-KLJDGLGGSA-N	37	7.0		pH 7.0, 37C
+0.02	t-butyloxycarbonyl-Val-Pro-Arg-7-amido-4-methylcoumarin	6639	DFOSAUPKTFJBLO-HWBMXIPRSA-N	37	7.0		pH 7.0, 37C
+0.02	tert-butyloxycarbonyl-Val-Pro-Arg-4-methylcoumarinyl-7-amide	6639	DFOSAUPKTFJBLO-HWBMXIPRSA-N	37	7.0		pH 7.0, 37C, cathepsin L1
+0.03	benzoyl-Phe-Val-Arg-4-methylcoumarinyl-7-amide	4827	QBDRNGBZKAOZHF-OLWNVYNHSA-N	37	7.0		pH 7.0, 37C, cathepsin L1
+0.03	benzoyl-Phe-Val-Arg-7-amido-4-methylcoumarin	4827	QBDRNGBZKAOZHF-OLWNVYNHSA-N	37	7.0		pH 7.0, 37C
+0.03	tosyl-Gly-Pro-Arg-4-methylcoumarinyl-7-amide	3725	DWTAHKFEIVWFGQ-ZEQRLZLVSA-N	37	7.0		pH 7.0, 37C, cathepsin L1
+0.03	tosyl-Gly-Pro-Arg-7-amido-4-methylcoumarin	1570	KTYVDPYPXDRLTE-HFKGTQBBSA-N	37	7.0		pH 7.0, 37C
+0.03	tosyl-Gly-Pro-Lys-4-methylcoumarinyl-7-amide	12557	DENHHFBQLLZEME-DQEYMECFSA-N	37	7.0		pH 7.0, 37C, cathepsin L1
+0.03	tosyl-Gly-Pro-Lys-7-amido-4-methylcoumarin	4587	NGMQPNCYPQQQSS-AMWOSJAMSA-N	37	7.0		pH 7.0, 37C
+0.04	benzyloxycarbonyl-Arg-4-methylcoumarinyl-7-amide	2534	AHRSQSTVNGDOMZ-IBGZPJMESA-N	37	7.0		pH 7.0, 37C, cathepsin L1
+0.04	benzyloxycarbonyl-Arg-7-amido-4-methylcoumarin	6455	OWDQSYNEBWDNRO-IBGZPJMESA-N	37	7.0		pH 7.0, 37C
+0.05	succinyl-Ala-Phe-Lys-4-methylcoumarinyl-7-amide	12558	GAQKKPHZOUJFMZ-OPXMRZJTSA-N	37	7.0		pH 7.0, 37C, cathepsin L1
+0.05	succinyl-Ala-Phe-Lys-7-amido-4-methylcoumarin	12558	GAQKKPHZOUJFMZ-OPXMRZJTSA-N	37	7.0		pH 7.0, 37C
+0.113	tosyl-Gly-Pro-Arg-4-methylcoumarinyl-7-amide	3725	DWTAHKFEIVWFGQ-ZEQRLZLVSA-N			X	mutant enzyme L205A FheCL1
+0.122	benzyloxycarbonyl-L-Pro-L-Arg-4-methylcoumarinyl-7-amide	4698	MRWFGPIAYNMAKZ-GOTSBHOMSA-N			X	mutant enzyme L205A FheCL1
+0.2	tert-butoxycarbonyl-Gly-Pro-Arg-4-methylcoumarinyl-7-amide	5200	IVTSLBFUIAMTCU-PMACEKPBSA-N			X	mutant enzyme L205A FheCL1
+0.26	tosyl-Gly-Pro-Arg-4-methylcoumarinyl-7-amide	3725	DWTAHKFEIVWFGQ-ZEQRLZLVSA-N			X	mutant enzyme L67Y FheCL1
+0.36	tosyl-Gly-Pro-Arg-4-methylcoumarinyl-7-amide	3725	DWTAHKFEIVWFGQ-ZEQRLZLVSA-N				wild-type enzyme FheCL1
+0.48	tert-butoxycarbonyl-Gly-Pro-Arg-4-methylcoumarinyl-7-amide	5200	IVTSLBFUIAMTCU-PMACEKPBSA-N				wild-type enzyme FheCL1
+0.62	benzyloxycarbonyl-L-Pro-L-Arg-4-methylcoumarinyl-7-amide	4698	MRWFGPIAYNMAKZ-GOTSBHOMSA-N			X	mutant enzyme L67Y FheCL1
+0.93	tert-butoxycarbonyl-Gly-Pro-Arg-4-methylcoumarinyl-7-amide	5200	IVTSLBFUIAMTCU-PMACEKPBSA-N			X	mutant enzyme L67Y FheCL1
+1	benzyloxycarbonyl-Pro-Arg-7-amido-4-methylcoumarin	4698	MRWFGPIAYNMAKZ-GOTSBHOMSA-N	37	5.5		37C, pH 5.5
+1.03	benzyloxycarbonyl-L-Pro-L-Arg-4-methylcoumarinyl-7-amide	4698	MRWFGPIAYNMAKZ-GOTSBHOMSA-N				wild-type enzyme FheCL1
+1.08	benzyloxycarbonyl-Phe-Arg-4-methylcoumarinyl-7-amide	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N	37	7.0		pH 7.0, 37C, cathepsin L1
+1.08	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C
+1.7	benzyloxycarbonyl-Pro-Arg-7-amido-4-methylcoumarin	4698	MRWFGPIAYNMAKZ-GOTSBHOMSA-N	37	7.3		37C, pH 7.3
+1.73	benzyloxycarbonyl-L-Leu-L-Arg-4-methylcoumarinyl-7-amide	2905	XDHCDHWCFOQOCP-ZEQRLZLVSA-N			X	mutant enzyme L67Y FheCL1
+2	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	37	7.3		37C, pH 7.3
+3.58	benzyloxycarbonyl-L-Phe-L-Arg-4-methylcoumarinyl-7-amide	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N			X	mutant enzyme L67YFheCL1
+7.9	t-butyloxycarbonyl-Val-Leu-Lys-7-amido-4-methylcoumarin	7588	KVLPXRKIIFWZLM-DPZBCOQUSA-N	37	7.0		pH 7.0, 37C
+7.9	tert-butyloxycarbonyl-Val-Leu-Lys-4-methylcoumarinyl-7-amide	7588	KVLPXRKIIFWZLM-DPZBCOQUSA-N	37	7.0		pH 7.0, 37C, cathepsin L1
+9.15	benzyloxycarbonyl-L-Leu-L-Arg-4-methylcoumarinyl-7-amide	2905	XDHCDHWCFOQOCP-ZEQRLZLVSA-N			X	mutant enzyme L205A FheCL1
+11	benzyloxycarbonyl-Leu-Arg-7-amido-4-methylcoumarin	2905	XDHCDHWCFOQOCP-ZEQRLZLVSA-N	37	7.3		37C, pH 7.3
+24.69	benzyloxycarbonyl-L-Phe-L-Arg-4-methylcoumarinyl-7-amide	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N				wild-type enzyme, FheCL1
+24.7	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	37	5.5		37C, pH 5.5
+29.6	benzyloxycarbonyl-L-Phe-L-Arg-4-methylcoumarinyl-7-amide	6771	ZZGDDBWFXDMARY-SVBPBHIXSA-N			X	mutant enzyme L205A FheCL1
+36.5	benzyloxycarbonyl-Leu-Arg-7-amido-4-methylcoumarin	2905	XDHCDHWCFOQOCP-ZEQRLZLVSA-N	37	5.5		37C, pH 5.5
+36.52	benzyloxycarbonyl-L-Leu-L-Arg-4-methylcoumarinyl-7-amide	2905	XDHCDHWCFOQOCP-ZEQRLZLVSA-N				wild-type enzyme FheCL1

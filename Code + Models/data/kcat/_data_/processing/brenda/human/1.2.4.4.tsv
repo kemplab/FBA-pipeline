@@ -1,0 +1,27 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.197	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	22	7.5		recombinant wild-type component E1b, pH 7.5, 22C
+0.31	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	22	7.5	X	recombinant component E1b mutant Y300Aalpha, pH 7.5, 22C
+0.39	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	22	7.5	X	recombinant component E1b mutant R287Aalpha, pH 7.5, 22C
+0.41	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	22	7.5	X	recombinant E1b component mutant H291Qalpha, pH 7.5, 22C
+0.42	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	22	7.5	X	recombinant component E1b mutants R301Aalpha and D295Aalpha, pH 7.5, 22C
+0.53	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	22	7.5	X	recombinant component E1b mutant Y300Falpha, pH 7.5, 22C
+0.6	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	22	7.5	X	recombinant E1b component mutant H291Nalpha, pH 7.5, 22C
+0.73	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	22	7.5	X	recombinant E1b component mutant H291Aalpha, pH 7.5, 22C
+6.38	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	22	7.5		recombinant wild-type E1b component, pH 7.5, 22C
+0.195	2-oxo-isovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	22	7.5		recombinant wild-type component E1b, pH 7.5, 22C
+0.36	2-oxo-isovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	22	7.5	X	recombinant component E1b mutant Y300Aalpha, pH 7.5, 22C
+0.38	2-oxo-isovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	22	7.5	X	recombinant component E1b mutant R287Aalpha, pH 7.5, 22C
+0.41	2-oxo-isovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	22	7.5	X	recombinant component E1b mutant R301Aalpha, pH 7.5, 22C
+0.485	2-oxo-isovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	22	7.5	X	recombinant component E1b mutant D295Aalpha, pH 7.5, 22C
+0.49	2-oxo-isovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	22	7.5	X	recombinant E1b component mutant H291Qalpha, pH 7.5, 22C
+0.57	2-oxo-isovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	22	7.5	X	recombinant component E1b mutant Y300Falpha, pH 7.5, 22C
+0.58	2-oxo-isovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	22	7.5	X	recombinant E1b component mutant H291Aalpha, pH 7.5, 22C
+0.58	2-oxo-isovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N			X	E1b component mutant S292Dalpha
+0.67	2-oxo-isovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	22	7.5	X	recombinant E1b component mutant H291Nalpha, pH 7.5, 22C
+2.18	2-oxo-isovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N			X	E1b component mutant S302Aalpha
+3.3	2-oxo-isovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N				wild-type E1b component
+3.92	2-oxo-isovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N			X	E1b component mutant S292Nalpha
+8.65	2-oxo-isovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	22	7.5		recombinant wild-type E1b component, pH 7.5, 22C
+9.4	2-oxo-isovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N				wild type enzyme
+0.1983	alpha-ketoisovaleric acid	611	QHKABHOOEWYVLI-UHFFFAOYSA-N				wild-type
+2.85	alpha-ketoisovaleric acid	611	QHKABHOOEWYVLI-UHFFFAOYSA-N			X	hE1b-Tyr113Phe mutant

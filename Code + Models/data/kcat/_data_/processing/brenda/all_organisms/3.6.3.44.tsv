@@ -1,0 +1,29 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.189	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.4		pH 7.4, 37C, native enzyme, value for basal ATPase activity with no transport substrate
+2.38	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.4		pH 7.4, 37C, trypsin-cleaved enzyme, value for basal ATPase activity with no transport substrate
+2.95	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.4		pH 7.4, 37C, chymotrypsin-cleaved enzyme, value for basal ATPase activity with no transport substrate
+5.8	verapamil	1049	SGTNSNPWRIOYBX-HHHXNRCGSA-N	37	7.4		pH 7.4, 37C, EPR spin-labeled verapamil
+3.28	verapamil/in	1049	SGTNSNPWRIOYBX-HHHXNRCGSA-N	37	7.4		pH 7.4, 37C, native enzyme
+7.71	verapamil/in	1049	SGTNSNPWRIOYBX-HHHXNRCGSA-N	37	7.4		pH 7.4, 37C, chymotrypsin-cleaved enzyme
+8.27	verapamil/in	1049	SGTNSNPWRIOYBX-HHHXNRCGSA-N	37	7.4		pH 7.4, 37C, trypsin-cleaved enzyme
+1.9	vinblastine/in	4544	JXLYSJRDGCGARV-CFWMRBGOSA-N	37	7.4		pH 7.4, 37C, native enzyme
+6.39	vinblastine/in	4544	JXLYSJRDGCGARV-CFWMRBGOSA-N	37	7.4		pH 7.4, 37C, trypsin-cleaved enzyme
+6.54	vinblastine/in	4544	JXLYSJRDGCGARV-CFWMRBGOSA-N	37	7.4		pH 7.4, 37C, chymotrypsin-cleaved enzyme
+1.84	rhodamine 123/in	4993	LYDZVQXCXRKZER-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, native enzyme
+8.19	rhodamine 123/in	4993	LYDZVQXCXRKZER-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, trypsin-cleaved enzyme
+8.56	rhodamine 123/in	4993	LYDZVQXCXRKZER-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, chymotrypsin-cleaved enzyme
+1.25	colchicine/in	2376	IAKHMKGGTNLKSZ-INIZCTEOSA-N	37	7.4		pH 7.4, 37C, native enzyme
+6.4	colchicine/in	2376	IAKHMKGGTNLKSZ-INIZCTEOSA-N	37	7.4		pH 7.4, 37C, chymotrypsin-cleaved enzyme
+7.81	colchicine/in	2376	IAKHMKGGTNLKSZ-INIZCTEOSA-N	37	7.4		pH 7.4, 37C, trypsin-cleaved enzyme
+1.3	paclitaxel/in	2237	RCINICONZNJXQF-MZXODVADSA-N	37	7.4		pH 7.4, 37C, chymotrypsin-cleaved enzyme
+1.5	paclitaxel/in	2237	RCINICONZNJXQF-MZXODVADSA-N	37	7.4		pH 7.4, 37C, trypsin-cleaved enzyme
+2.2	paclitaxel/in	2237	RCINICONZNJXQF-MZXODVADSA-N	37	7.4		pH 7.4, 37C, native enzyme
+0.791	digoxin/in	3685	LTMHDMANZUZIPE-PUGKRICDSA-N	37	7.4		pH 7.4, 37C, native enzyme
+5.65	digoxin/in	3685	LTMHDMANZUZIPE-PUGKRICDSA-N	37	7.4		pH 7.4, 37C, trypsin-cleaved enzyme
+5.99	digoxin/in	3685	LTMHDMANZUZIPE-PUGKRICDSA-N	37	7.4		pH 7.4, 37C, chymotrypsin-cleaved enzyme
+3.48	nicardipine/in	6801	ZBBHBTPTTSWHBA-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, native enzyme
+7.8	nicardipine/in	6801	ZBBHBTPTTSWHBA-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, chymotrypsin-cleaved enzyme
+8.44	nicardipine/in	6801	ZBBHBTPTTSWHBA-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, trypsin-cleaved enzyme
+2.23	rhodamine B/in	6713	PYWVYCXTNDRMGF-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, native enzyme
+6.99	rhodamine B/in	6713	PYWVYCXTNDRMGF-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, trypsin-cleaved enzyme
+7.22	rhodamine B/in	6713	PYWVYCXTNDRMGF-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, chymotrypsin-cleaved enzyme

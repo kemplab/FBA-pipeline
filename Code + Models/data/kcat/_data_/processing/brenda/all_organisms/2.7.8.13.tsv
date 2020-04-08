@@ -1,0 +1,33 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00005	undecaprenyl phosphate	871	UFPHFKCTOZIAFY-NTDVEAECSA-N			X	mutant H289R
+0.00083	undecaprenyl phosphate	871	UFPHFKCTOZIAFY-NTDVEAECSA-N			X	mutant D99N
+0.00117	undecaprenyl phosphate	871	UFPHFKCTOZIAFY-NTDVEAECSA-N			X	mutant D98N
+0.0015	undecaprenyl phosphate	871	UFPHFKCTOZIAFY-NTDVEAECSA-N			X	mutant K116Q
+0.00383	undecaprenyl phosphate	871	UFPHFKCTOZIAFY-NTDVEAECSA-N			X	mutant H290R
+0.0123	undecaprenyl phosphate	871	UFPHFKCTOZIAFY-NTDVEAECSA-N			X	mutant D174N
+0.0135	undecaprenyl phosphate	871	UFPHFKCTOZIAFY-NTDVEAECSA-N			X	mutant N171A
+0.0163	undecaprenyl phosphate	871	UFPHFKCTOZIAFY-NTDVEAECSA-N			X	mutant D231N
+0.023	undecaprenyl phosphate	871	UFPHFKCTOZIAFY-NTDVEAECSA-N			X	mutant H45R
+0.027	undecaprenyl phosphate	871	UFPHFKCTOZIAFY-NTDVEAECSA-N			X	mutant K48Q
+0.0317	undecaprenyl phosphate	871	UFPHFKCTOZIAFY-NTDVEAECSA-N			X	mutant H291R
+0.065	undecaprenyl phosphate	871	UFPHFKCTOZIAFY-NTDVEAECSA-N			X	mutant D177N
+0.0717	undecaprenyl phosphate	871	UFPHFKCTOZIAFY-NTDVEAECSA-N			X	mutant N168A
+0.53	undecaprenyl phosphate	871	UFPHFKCTOZIAFY-NTDVEAECSA-N			X	mutant E299Q
+5.3	undecaprenyl phosphate	871	UFPHFKCTOZIAFY-NTDVEAECSA-N				wild-type
+5.33	undecaprenyl phosphate	871	UFPHFKCTOZIAFY-NTDVEAECSA-N				
+0.00005	UDP-N-acetylmuramoyl-pentapeptide	1597	IMWOXEZVYQDRDF-MCZXNMLPSA-N			X	mutant H289R
+0.00083	UDP-N-acetylmuramoyl-pentapeptide	1597	IMWOXEZVYQDRDF-MCZXNMLPSA-N			X	mutant D99N
+0.00117	UDP-N-acetylmuramoyl-pentapeptide	1597	IMWOXEZVYQDRDF-MCZXNMLPSA-N			X	mutant D98N
+0.0015	UDP-N-acetylmuramoyl-pentapeptide	1597	IMWOXEZVYQDRDF-MCZXNMLPSA-N			X	mutant K116Q
+0.00383	UDP-N-acetylmuramoyl-pentapeptide	1597	IMWOXEZVYQDRDF-MCZXNMLPSA-N			X	mutant H290R
+0.0123	UDP-N-acetylmuramoyl-pentapeptide	1597	IMWOXEZVYQDRDF-MCZXNMLPSA-N			X	mutant D174N
+0.0135	UDP-N-acetylmuramoyl-pentapeptide	1597	IMWOXEZVYQDRDF-MCZXNMLPSA-N			X	mutant N171A
+0.0163	UDP-N-acetylmuramoyl-pentapeptide	1597	IMWOXEZVYQDRDF-MCZXNMLPSA-N			X	mutant D231N
+0.023	UDP-N-acetylmuramoyl-pentapeptide	1597	IMWOXEZVYQDRDF-MCZXNMLPSA-N			X	mutant H45R
+0.027	UDP-N-acetylmuramoyl-pentapeptide	1597	IMWOXEZVYQDRDF-MCZXNMLPSA-N			X	mutant K48Q
+0.0317	UDP-N-acetylmuramoyl-pentapeptide	1597	IMWOXEZVYQDRDF-MCZXNMLPSA-N			X	mutant H291R
+0.065	UDP-N-acetylmuramoyl-pentapeptide	1597	IMWOXEZVYQDRDF-MCZXNMLPSA-N			X	mutant D177N
+0.0717	UDP-N-acetylmuramoyl-pentapeptide	1597	IMWOXEZVYQDRDF-MCZXNMLPSA-N			X	mutant N168A
+0.53	UDP-N-acetylmuramoyl-pentapeptide	1597	IMWOXEZVYQDRDF-MCZXNMLPSA-N			X	mutant E299Q
+5.3	UDP-N-acetylmuramoyl-pentapeptide	1597	IMWOXEZVYQDRDF-MCZXNMLPSA-N				wild-type
+5.33	UDP-Mur2Ac(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)	126766	PFMVORMCVGOQKR-XNCOKRRHSA-N				

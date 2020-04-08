@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.8	tetraacetyl-xylopyranoside	15601	MJOQJPYNENPSSS-DAAZQVBGSA-N	37	7.4	X	mutant D270A, at 37C, in 100 mM Tris-HCl buffer, pH 7.4, and 3 mM MgCl2
+2	tetraacetyl-xylopyranoside	15601	MJOQJPYNENPSSS-DAAZQVBGSA-N	37	7.4	X	mutant D270N, at 37C, in 100 mM Tris-HCl buffer, pH 7.4, and 3 mM MgCl2
+2.8	tetraacetyl-xylopyranoside	15601	MJOQJPYNENPSSS-DAAZQVBGSA-N	37	7.4	X	mutant E194N, at 37C, in 100 mM Tris-HCl buffer, pH 7.4, and 3 mM MgCl2
+2.9	tetraacetyl-xylopyranoside	15601	MJOQJPYNENPSSS-DAAZQVBGSA-N	37	7.4	X	mutant E194A, at 37C, in 100 mM Tris-HCl buffer, pH 7.4, and 3 mM MgCl2
+13	tetraacetyl-xylopyranoside	15601	MJOQJPYNENPSSS-DAAZQVBGSA-N	37	7.4	X	mutant TM2, at 37C, in 100 mM Tris-HCl buffer, pH 7.4, and 3 mM MgCl2
+15	tetraacetyl-xylopyranoside	15601	MJOQJPYNENPSSS-DAAZQVBGSA-N	37	7.4	X	wild-type and mutant TM1, at 37C, in 100 mM Tris-HCl buffer, pH 7.4, and 3 mM MgCl2
+47.6	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	30	8.0		30C, pH 8.0
+118	2-O-acetyl-4-nitrophenyl beta-D-xylopyranoside	16672	MVCAZOBOJBYVSB-XQHKEYJVSA-N				
+187	4-yethylumbelliferyl acetate	1229	HXVZGASCDAGAPS-UHFFFAOYSA-N				isoenzyme4 II
+245	4-yethylumbelliferyl acetate	1229	HXVZGASCDAGAPS-UHFFFAOYSA-N				isoenzyme I

@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.49	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				forward reaction, APS synthesis
+1.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0	X	pH 8.0, 30C, synthesis of adenylylsulfate, truncated mutant enzyme del396-573
+3.13	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0		pH 8.0, 30C, synthesis of adenosine 5'-phosphosulfate
+10.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0		pH 8.0, 30C, synthesis of adenylylsulfate, wild-type enzyme
+13.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0	X	pH 8.0, 30C, molybdolysis, truncated mutant enzyme del396-573
+24.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0		pH 8.0, 30C, molybdolysis, wild-type enzyme
+36	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0		pH 8.0, 30C, molybdolysis
+36	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, synthesis of ATP
+73.3	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N	30	8.0	X	pH 8.0, 30C, truncated mutant enzyme del396-573; pH 8.0, 30C, wild-type enzyme
+1.8	sulfate	148	QAOWNCQODCNURD-UHFFFAOYSA-L	30	8.0	X	pH 8.0, 30C, truncated mutant enzyme del396-573
+2.11	sulfate	148	QAOWNCQODCNURD-UHFFFAOYSA-L				forward reaction, APS synthesis
+10.8	sulfate	148	QAOWNCQODCNURD-UHFFFAOYSA-L	30	8.0		pH 8.0, 30C, wild-type enzyme
+23.2	sulfate	148	QAOWNCQODCNURD-UHFFFAOYSA-L				adenylyl sulfate synthesis
+3.13	SO42-	148	QAOWNCQODCNURD-UHFFFAOYSA-L	30	8.0		pH 8.0, 30C, synthesis of adenosine 5'-phosphosulfate
+36	adenosine 5'-phosphosulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N	30	8.0		pH 8.0, 30C, synthesis of ATP
+24.5	adenylyl sulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N				reverse reaction, ATP synthesis
+260	adenylyl sulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N				ATP synthesis
+13.7	MoO42-	424	MEFBJEMVZONFCJ-UHFFFAOYSA-N	30	8.0	X	pH 8.0, 30C,truncated mutant enzyme del396-573
+24.4	MoO42-	424	MEFBJEMVZONFCJ-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, wild-type enzyme
+46.6	adenylylsulfate	354	IRLPACMLTUPBCL-KQYNXXCUSA-N	30	8.0	X	pH 8.0, 30C, truncated mutant enzyme del396-573; pH 8.0, 30C, wild-type enzyme
+19.1	magnesium diphosphate	1391	XZTWHWHGBBCSMX-UHFFFAOYSA-J				reverse reaction, ATP synthesis

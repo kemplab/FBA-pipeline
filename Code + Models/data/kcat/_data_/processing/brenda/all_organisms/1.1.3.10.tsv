@@ -1,0 +1,304 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.006	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	6.0	X	pH 6.0, 25C, mutant H167A/H548R
+0.018	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	7.0	X	pH 7.0, 25C, mutant H167A/H548R
+0.02	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+0.057	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	8.0	X	pH 8.0, 25C, mutant H167A/H548R
+0.06	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	4	7.0	X	mutant enzyme T169A, in 50 mM sodium phosphate (pH 7.0), at 4C
+0.072	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	546	6.5	X	T169G/E542K/V546C, mutant, 30C, substrate D-glucose (O2 saturated), pH 6.5, standard 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) assay
+0.119	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	V546G/T169G, mutant, substrate D-glucose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+0.12	2-methyl-1,4-benzoquinone	2605	VTWDKFNVVLAELH-UHFFFAOYSA-N	30	6.5		substrate 2-methyl-1,4-benzoquinone (constant D-glucose concentration, 20 mM), activity determined spectrophotometrically at 420 nm by measuring formation of H2O2 with a horse-radish peroxidase-coupled assay using 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) as the chromogen, 30C, pH 6.5
+0.14	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5	X	mutant enzyme F454A/S455A/Y456A, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+0.15	2-chloro-1,4-benzoquinone	3066	WOGWYSWDBYCVDY-UHFFFAOYSA-N	30	6.5		substrate 2-chloro-1,4-benzoquinone (constant D-glucose concentration, 20 mM), activity determined spectrophotometrically at 420 nm by measuring formation of H2O2 with a horse-radish peroxidase-coupled assay using 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) as the chromogen, 30C, pH 6.5
+0.153	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	6.5		with O2 as electron acceptor, at pH 6.5 and 37C
+0.18	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	593	6.5	X	mutant enzyme N593C, with O2 as electron acceptor, at pH 6.5 and 30C
+0.19	D-melibiose	499	DLRVVLDZNNYCBX-ABXHMFFYSA-N	30	6.5	X	mutant enzyme F454A/S455A/Y456A, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+0.19	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	37	6.5		with 1,4-benzoquinone as electron acceptor, at pH 6.5 and 37C
+0.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	mutant enzyme F454A/S455A/Y456A, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+0.232	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	V546P/T169G, mutant, substrate D-glucose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+0.245	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N			X	V546P/T169G, mutant, substrate D-galactose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+0.26	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	mutant enzyme T169G, pH and temperature not specified in the publication
+0.262	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	T169G, mutant, substrate D-glucose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+0.27	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	546	6.5	X	T169G/E542K/V546C, mutant, 30C, substrate D-galactose (O2 saturated), pH 6.5, standard 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) assay
+0.27	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N			X	mutant enzyme T169G, pH and temperature not specified in the publication
+0.27	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+0.273	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N			X	T169G, mutant, substrate D-galactose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+0.29	D-melibiose	499	DLRVVLDZNNYCBX-ABXHMFFYSA-N	30	6.5	X	mutant enzyme F454P, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+0.3	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5	X	mutant enzyme F454P, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+0.3	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0		pH 7.0, 25C, reductive half-reaction, wild-type enzyme
+0.3	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N	30	6.5		substrate ferricyanide (constant D-glucose concentration, 20 mM), activity determined spectrophotometrically at 420 nm by measuring formation of H2O2 with a horse-radish peroxidase-coupled assay using 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) as the chromogen, 30C, pH 6.5
+0.331	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N			X	V546G/T169G, mutant, substrate D-galactose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+0.35	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	546	6.5	X	T169G/E542K/V546C, mutant, 50C, substrate D-glucose (O2 saturated), pH 6.5, standard 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) assay
+0.356	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N			X	H548R, mutant, substrate D-galactose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+0.38	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	546		X	mutant enzyme T196G/V546C, pH and temperature not specified in the publication
+0.38	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	mutant enzyme Q448H, with O2 as electron acceptor, at pH 6.5 and 30C
+0.38	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N	37	6.5		with 1,4-benzoquinone as electron acceptor, at pH 6.5 and 37C
+0.39	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	37	6.5		with D-glucose as cosubstrate, at pH 6.5 and 37C
+0.4	2,6-dimethyl-1,4-benzoquinone	2325	SENUUPBBLQWHMF-UHFFFAOYSA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+0.43	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	546		X	mutant enzyme T196G/V546C, pH and temperature not specified in the publication
+0.433	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N			X	Q448N, mutant, substrate D-galactose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+0.479	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	mutant enzyme F454A, at pH 6.5 and 30C
+0.48	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	6.5		with 1,4-benzoquinone as electron acceptor, at pH 6.5 and 37C
+0.5	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	pH 7.0, 25C, reductive half-reaction, mutant T169S
+0.57	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	37	6.5		with 1,4-benzoquinone as electron acceptor, at pH 6.5 and 37C
+0.622	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	448		X	Q448C, mutant, substrate D-galactose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+0.63	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	9.5	X	pH 9.5, 25C, mutant H167A/H548R
+0.64	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5	X	mutant enzyme F454A/Y456A, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+0.654	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	546		X	V546C/T169N, mutant, substrate D-galactose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+0.7	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	mutant enzyme T169G, in 50 mM sodium phosphate (pH 7.0), at 25C
+0.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	7.0	X	pH 7.0, 25C, reductive half-reaction, mutant T169G
+0.74	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	546	6.5	X	T169G/E542K/V546C, mutant, 50C, substrate D-galactose (O2 saturated), pH 6.5, standard 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) assay
+0.839	melibiose	499	DLRVVLDZNNYCBX-ABXHMFFYSA-N	30	6.5		at 30C, pH 6.5
+0.9	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	pH 7.0, 25C, reductive half-reaction, mutant T169N
+0.91	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	37	6.5		with 1,4-benzoquinone as electron acceptor, at pH 6.5 and 37C
+0.963	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	546		X	V546C/T169N, mutant, substrate D-glucose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+0.99	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	mutant enzyme F454P, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+1.02	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5		at 30C, pH 6.5
+1.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	mutant enzyme L547R, with O2 as electron acceptor, at pH 6.5 and 30C
+1.2	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	mutant enzyme F454A/S455A/Y456A, using D-galactose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+1.2	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5	X	mutant enzyme F454N, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+1.2	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0		wild type enzyme, in 50 mM sodium phosphate (pH 7.0), at 25C
+1.3	D-melibiose	499	DLRVVLDZNNYCBX-ABXHMFFYSA-N	30	6.5	X	mutant enzyme F454A/Y456A, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+1.39	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+1.44	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	6.5	X	E542K mutant, substrate ferricenium ion (D-galactose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+1.48	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+1.5	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5	X	mutant enzyme Y456W, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+1.51	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	448		X	Q448C, mutant, substrate D-glucose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+1.53	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N			X	Q448S, mutant, substrate D-galactose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+1.57	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N			X	N593R, mutant, substrate D-galactose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+1.59	L-sorbose	553	BJHIKXHVCXFQLS-OTWZMJIISA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+1.6	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N			X	V546P, mutant, substrate D-galactose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+1.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	10.25	X	pH 10.25, 25C, mutant H167A/H548R
+1.69	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N			X	R472L, mutant, substrate D-galactose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+1.7	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5		wild type enzyme, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+1.7	ferricenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme
+1.81	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	6.5	X	L537G/E542R mutant, substrate ferricenium ion (D-galactose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+1.88	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N	30	6.5		substrate D-fructose (constant O2 concentration), activity determined spectrophotometrically at 420 nm by measuring formation of H2O2 with a horse-radish peroxidase-coupled assay using 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) as the chromogen, 30C, pH 6.5
+1.95	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+1.96	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N			X	T169N, mutant, substrate D-galactose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+1.99	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5	X	E542R mutant, substrate D-galactose (O2 concentration constant), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+2	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	mutant enzyme F454P, using D-galactose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+2	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5	X	mutant enzyme H450Q, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+2.06	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	mutant enzyme H167A, pH and temperature not specified in the publication
+2.07	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N			X	R472G, mutant, substrate D-galactose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+2.08	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	6.5	X	E542R mutant, substrate ferricenium ion (D-galactose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+2.1	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5	X	wild-type, mutant, 30C, substrate D-galactose (O2 saturated), pH 6.5, standard 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) assay
+2.11	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	6.5	X	L537G/E542K mutant, substrate ferricenium ion (D-galactose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+2.13	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	10.5	X	pH 10.5, 25C, mutant H167A/H548R
+2.34	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5	X	L537G/E542K mutant, substrate D-galactose (O2 concentration constant), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+2.36	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5	X	L537G/E542R mutant, substrate D-galactose (O2 concentration constant), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+2.41	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	T169N, mutant, substrate D-glucose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+2.47	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	6.5	X	L537W/E542R mutant, substrate ferricenium ion (D-galactose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+2.48	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5	X	L537W/E542R mutant, substrate D-galactose (O2 concentration constant), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+2.51	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5	X	L537W/E542K mutant, substrate D-galactose (O2 concentration constant), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C; wild-type, substrate D-galactose (O2 concentration constant), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+2.51	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.5		His-tagged recombinant wild type enzyme, in 50 mM phosphate buffer (pH 6.5) at 60C
+2.51	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N				wild type enzyme, pH and temperature not specified in the publication
+2.56	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5	X	L537G mutant, substrate D-galactose (O2 concentration constant), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+2.59	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5	X	E542K mutant, substrate D-galactose (O2 concentration constant), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+2.59	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.5	X	mutant enzyme E542K, in 50 mM phosphate buffer (pH 6.5) at 60C
+2.66	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N			X	H548I, mutant, substrate D-galactose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+2.68	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	6.5	X	L537W/E542K mutant, substrate ferricenium ion (D-galactose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+2.7	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	mutant enzyme F454N, using D-galactose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+2.7	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	pH 7.0, 25C, reductive half-reaction, mutant T169G
+2.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		4.5		substrate 1,4-benzoquinone (100 mM D-glucose), pH 4.5
+2.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	545	6.5	X	mutant enzyme L545C, with O2 as electron acceptor, at pH 6.5 and 30C
+2.7	D-melibiose	499	DLRVVLDZNNYCBX-ABXHMFFYSA-N	30	6.5	X	mutant enzyme F454N, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+2.73	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N				wild-type, substrate D-galactose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+2.84	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	546	6.5	X	mutant enzyme H450G/E542K/V546C, in 50 mM phosphate buffer (pH 6.5) at 60C
+2.9	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	mutant enzyme F454A/Y456A, using D-galactose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+2.9	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5	X	L537W mutant, substrate D-galactose (O2 concentration constant), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+2.9	ferrocenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N	30	6.5	X	mutant enzyme F454A/Y456A, using D-galactose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+3	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	mutant enzyme H450Q, using D-galactose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+3.04	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+3.3	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	mutant enzyme Y456W, using D-galactose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+3.3	D-melibiose	499	DLRVVLDZNNYCBX-ABXHMFFYSA-N	30	6.5	X	mutant enzyme H450Q, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+3.51	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.5	X	mutant enzyme H450G, in 50 mM phosphate buffer (pH 6.5) at 60C
+3.51	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N			X	mutant enzyme H450G, pH and temperature not specified in the publication
+3.8	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5		wild type enzyme, using D-galactose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+3.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	593	6.5	X	mutant enzyme N593C, with 2,6-dichlorophenolindophenol as electron acceptor, at pH 6.5 and 30C
+4.19	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N	25	6.5		at pH 6.5 and 25C
+4.37	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	E542R mutant, substrate 1,4-benzoquinone (D-galactose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+4.4	D-melibiose	499	DLRVVLDZNNYCBX-ABXHMFFYSA-N	30	6.5	X	mutant enzyme Y456W, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+4.5	ferrocenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N	30	6.5	X	mutant enzyme F454P, using D-galactose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+4.51	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N			X	V546G, mutant, substrate D-galactose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+4.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	593	6.5	X	mutant enzyme N593C, with 1,4-benzoquinone as electron acceptor, at pH 6.5 and 30C
+4.64	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	L537G mutant, substrate 1,4-benzoquinone (D-galactose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+4.72	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	L537G/E542K mutant, substrate 1,4-benzoquinone (D-galactose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+4.73	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	Q448N, mutant, substrate D-glucose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+4.75	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	L537G/E542R mutant, substrate 1,4-benzoquinone (D-galactose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+4.77	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	L537W/E542R mutant, substrate 1,4-benzoquinone (D-galactose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+4.79	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5		wild-type, substrate 1,4-benzoquinone (D-galactose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+4.87	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5		substrate D-galactose (constant O2 concentration), activity determined spectrophotometrically at 420 nm by measuring formation of H2O2 with a horse-radish peroxidase-coupled assay using 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) as the chromogen, 30C, pH 6.5
+5.09	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	L537W/E542K mutant, substrate 1,4-benzoquinone (D-galactose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+5.34	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	6.5		wild-type, substrate ferricenium ion (D-galactose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+5.37	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	L537W mutant, substrate 1,4-benzoquinone (D-galactose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+5.4	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		6.5		substrate D-glucose (air saturated), pH 6.5
+5.4	ferrocenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N	30	6.5	X	mutant enzyme F454A/S455A/Y456A, using D-galactose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+5.42	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	Q448S, mutant, substrate D-glucose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+5.48	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	6.5		at 30C, pH 6.5
+5.51	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	50	6.5	X	wild-type, mutant, 50C, substrate D-galactose (O2 saturated), pH 6.5, standard 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) assay
+5.52	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	E542K mutant, substrate 1,4-benzoquinone (D-galactose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+5.53	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N			X	T169S, mutant, substrate D-galactose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+5.55	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+5.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	4	7.0	X	mutant enzyme T169N, in 50 mM sodium phosphate (pH 7.0), at 4C
+5.9	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	30	5.5		pH 5.5, substrate D-glucose, measuring oxygen consumption (computer-interfaced Oxy-32 oxygen-monitoring system), 30C
+5.92	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	546	6.5	X	mutant enzyme H450G/V546C, in 50 mM phosphate buffer (pH 6.5) at 60C
+5.92	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	546		X	mutant enzyme H450G/V546C, pH and temperature not specified in the publication
+6.01	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	25	6.5		at pH 6.5 and 25C
+6.2	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	25	6.5		at pH 6.5 and 25C
+6.5	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	30	7.5		pH 7.5, substrate D-glucose, measuring oxygen consumption (computer-interfaced Oxy-32 oxygen-monitoring system), 30C
+6.57	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	546		X	V546C, mutant, substrate D-galactose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+6.57	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	546	6.5	X	mutant enzyme V546C, in 50 mM phosphate buffer (pH 6.5) at 60C
+6.57	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	546		X	mutant enzyme V546C, pH and temperature not specified in the publication
+6.6	ferrocenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N	30	6.5		wild type enzyme, using D-galactose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+6.61	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	6.5	X	wild-type, mutant, 30C, substrate D-galactose (1,4-benzoquinone saturated), pH 6.5, standard 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) assay
+6.61	tetrafluoro-1,4-benzoquinone	6398	UGNWTBMOAKPKBL-UHFFFAOYSA-N	30	6.5		substrate tetrafluoro-1,4-benzoquinone (constant D-glucose concentration, 20 mM), activity determined spectrophotometrically at 420 nm by measuring formation of H2O2 with a horse-radish peroxidase-coupled assay using 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) as the chromogen, 30C, pH 6.5
+6.8	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	30	6.5		pH 6.5, substrate D-glucose, measuring oxygen consumption (computer-interfaced Oxy-32 oxygen-monitoring system), 30C
+6.81	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	546	6.5	X	mutant enzyme H450G/E542K/V546C, in 50 mM phosphate buffer (pH 6.5) at 60C
+6.92	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5		at 30C, pH 6.5
+7.07	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	6.5	X	L537G mutant, substrate ferricenium ion (D-galactose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+7.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		6.5		substrate O2 (100 mM D-glucose), pH 6.5
+7.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	mutant enzyme F454A/Y456A, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+7.3	ferrocenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N	30	6.5	X	mutant enzyme F454N, using D-galactose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C; mutant enzyme Y456W, using D-galactose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+7.5	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	30	8.5		pH 8.5, substrate D-glucose, measuring oxygen consumption (computer-interfaced Oxy-32 oxygen-monitoring system), 30C
+7.6	D-melibiose	499	DLRVVLDZNNYCBX-ABXHMFFYSA-N	30	6.5		wild type enzyme, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+7.67	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.0		pH 7.0, calculated with kinetic equation
+7.7	L-sorbose	553	BJHIKXHVCXFQLS-OTWZMJIISA-N	30	6.5		at 30C, pH 6.5
+7.79	D-arabinose	465	HMFHBZSHGGEWLO-ZRMNMSDTSA-N	37	7.0		pH 7.0, 37C
+8.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	mutant enzyme Q448H, with 2,6-dichlorophenolindophenol as electron acceptor, at pH 6.5 and 30C
+8.15	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.0		pH 7.0, absorbance at 420 nm resulting from the oxidation of diammonium-2,2'-azinobis-(3-ethylbenzthiazolin-6-sulfonic acid) by H2O2
+8.18	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	6.5	X	L537W mutant, substrate ferricenium ion (D-galactose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+8.69	2,6-dimethyl-1,4-benzoquinone	2325	SENUUPBBLQWHMF-UHFFFAOYSA-N	30	6.5		substrate 2,6-dimethyl-1,4-benzoquinone (constant D-glucose concentration, 20 mM), activity determined spectrophotometrically at 420 nm by measuring formation of H2O2 with a horse-radish peroxidase-coupled assay using 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) as the chromogen, 30C, pH 6.5
+9.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	H548R, mutant, substrate D-glucose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+9.66	L-sorbose	553	BJHIKXHVCXFQLS-OTWZMJIISA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+9.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	4	7.0		wild type enzyme, in 50 mM sodium phosphate (pH 7.0), at 4C
+9.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	7.0	X	pH 7.0, 25C, reductive half-reaction, mutant T169N
+10.1	2-methyl-1,4-benzoquinone	2605	VTWDKFNVVLAELH-UHFFFAOYSA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+11	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	mutant enzyme T166R, with O2 as electron acceptor, at pH 6.5 and 30C
+12	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	mutant enzyme F454N, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+12	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	mutant enzyme Q448H, with 1,4-benzoquinone as electron acceptor, at pH 6.5 and 30C
+12.5	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.5	X	mutant enzyme H450G, in 50 mM phosphate buffer (pH 6.5) at 60C
+12.5	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	mutant enzyme H450G, pH and temperature not specified in the publication
+13.1	2,6-dichloroindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+13.1	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	6.5		at pH 6.5 and 25C
+13.7	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	mutant enzyme T169S, in 50 mM sodium phosphate (pH 7.0), at 25C
+13.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	7.0	X	pH 7.0, 25C, reductive half-reaction, mutant T169S
+14.6	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	50	6.5	X	wild-type, mutant, 50C, substrate D-galactose (1,4-benzoquinone saturated), pH 6.5, standard 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) assay
+15	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	mutant enzyme F454A/S455A/Y456A, using D-glucose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+15.3	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	7.0		pH 7.0, 25C, reductive half-reaction, wild-type enzyme
+15.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	N593R, mutant, substrate D-glucose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+15.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	V546P, mutant, substrate D-glucose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+16.3	2-chloro-1,4-benzoquinone	3066	WOGWYSWDBYCVDY-UHFFFAOYSA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+16.3	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5		wild type enzyme F454Y, at pH 6.5 and 30C
+16.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	546	6.5	X	mutant enzyme H450G/V546C, in 50 mM phosphate buffer (pH 6.5) at 60C
+16.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	546		X	mutant enzyme H450G/V546C, pH and temperature not specified in the publication
+17	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	mutant enzyme H450Q, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+17	ferrocenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N	30	6.5	X	mutant enzyme H450Q, using D-galactose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+21.16	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	546	6.5	X	T169G/E542K/V546C, mutant, 30C, substrate D-glucose (1,4-benzoquinone saturated), pH 6.5, standard 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) assay
+21.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	T169S, mutant, substrate D-glucose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+22	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	593	6.5	X	mutant enzyme N593C, with 1 ferrocenium ion as electron acceptor, at pH 6.5 and 30C
+22.5	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	37	7.0		pH 7.0, 37C
+23.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	V546G, mutant, substrate D-glucose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+25.1	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	37	7.0		pH 7.0, 37C
+25.4	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	25	6.5		at pH 6.5 and 25C
+26	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	mutant enzyme Y456W, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+26	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	mutant enzyme L547R, with 1,4-benzoquinone as electron acceptor, at pH 6.5 and 30C
+27	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	mutant enzyme Q448H, with ferrocenium ion as electron acceptor, at pH 6.5 and 30C
+27.9	Sucrose	51	CZMRCDWAGMRECN-UGDNZRGBSA-N	25	6.5		at pH 6.5 and 25C
+28.5	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	E542R mutant, substrate D-glucose (O2 concentration constant), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+30	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	mutant enzyme F454P, using D-glucose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+30.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	R472L, mutant, substrate D-glucose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+31.1	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	25	6.5		at pH 6.5 and 25C
+31.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	H548I, mutant, substrate D-glucose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+31.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	L537W/E542R mutant, substrate D-glucose (O2 concentration constant), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+32.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	R472G, mutant, substrate D-glucose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+33	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5		wild type enzyme, using O2 as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+33.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	L537G/E542R mutant, substrate D-glucose (O2 concentration constant), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+33.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	6.5		at pH 6.5 and 25C
+34	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	wild-type, mutant, 30C, substrate D-glucose (O2 saturated), pH 6.5, standard 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) assay
+35.4	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				wild-type, substrate D-glucose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+35.44	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+35.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	E542K mutant, substrate D-glucose (O2 concentration constant), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+35.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.5	X	mutant enzyme E542K, in 50 mM phosphate buffer (pH 6.5) at 60C
+36.1	D-glucono-1,5-lactone	388	PHOQVHQSTUBQQK-SQOUGZDYSA-N	25	6.5		at pH 6.5 and 25C
+39.9	ferrocenium ion	1983	KTWOOEGAPBSYNW-UHFFFAOYSA-N	30	6.5		using D-glucose as cosubstrate, at 30C, pH 6.5
+40.1	2-methoxy-1,4-benzoquinone	7486	ZJKWJHONFFKJHG-UHFFFAOYSA-N	30	6.5		substrate 2-methoxy-1,4-benzoquinone (constant D-glucose concentration, 20 mM), activity determined spectrophotometrically at 420 nm by measuring formation of H2O2 with a horse-radish peroxidase-coupled assay using 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) as the chromogen, 30C, pH 6.5
+41.4	L-sorbose	553	BJHIKXHVCXFQLS-OTWZMJIISA-N	25	6.5		at pH 6.5 and 25C
+42	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5		wild type enzyme, with O2 as electron acceptor, at pH 6.5 and 30C
+43.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	L537G/E542K mutant, substrate D-glucose (O2 concentration constant), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+44.9	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	6.5		substrate D-xylose (constant O2 concentration), activity determined spectrophotometrically at 420 nm by measuring formation of H2O2 with a horse-radish peroxidase-coupled assay using 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) as the chromogen, 30C, pH 6.5
+46.5	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	L537W/E542K mutant, substrate D-glucose (O2 concentration constant), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+46.7	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	6.5	X	E542R mutant, substrate ferricenium ion (D-glucose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+47.2	2-methoxy-1,4-benzoquinone	7486	ZJKWJHONFFKJHG-UHFFFAOYSA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+48.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5		wild-type, substrate D-glucose (O2 concentration constant), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+48.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.5		His-tagged recombinant wild type enzyme, in 50 mM phosphate buffer (pH 6.5) at 60C
+48.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				wild type enzyme, pH and temperature not specified in the publication
+49	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5		wild type enzyme, at pH 6.5 and 30C
+49	glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		5.0		soluble enzyme, O2 used as electron acceptor, determined in cuvette assay, pH 5.0
+50	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	545	6.5	X	mutant enzyme L545C, with 2,6-dichlorophenolindophenol as electron acceptor, at pH 6.5 and 30C
+52.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	L537G mutant, substrate D-glucose (O2 concentration constant), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+54.4	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	6.5	X	E542K mutant, substrate ferricenium ion (D-glucose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+55.8	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	37	7.0		pH 7.0, 37C
+58.8	L-sorbose	553	BJHIKXHVCXFQLS-OTWZMJIISA-N	30	6.5		substrate L-sorbose (constant O2 concentration), activity determined spectrophotometrically at 420 nm by measuring formation of H2O2 with a horse-radish peroxidase-coupled assay using 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) as the chromogen, 30C, pH 6.5
+58.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	50	6.5	X	wild-type, mutant, 50C, substrate D-glucose (O2 saturated), pH 6.5, standard 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) assay
+59	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	L537W mutant, substrate D-glucose (O2 concentration constant), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+59.6	trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	37	7.0		pH 7.0, 37C
+61	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	mutant enzyme F454A/Y456A, using D-glucose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+62.9	D-maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	37	7.0		pH 7.0, 37C
+67	ferrocenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N	30	6.5	X	mutant enzyme F454P, using D-glucose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+67.3	2,6-dichloroindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	6.5		using D-glucose as cosubstrate, at 30C, pH 6.5
+70	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5		wild type enzyme, with 2,6-dichlorophenolindophenol as electron acceptor, at pH 6.5 and 30C
+70	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N		5.0		soluble enzyme, 500 mM glucose used as electron acceptor, pH 5.0
+74	ferrocenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N	30	6.5	X	mutant enzyme F454A/Y456A, using D-glucose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+74.6	L-sorbose	553	BJHIKXHVCXFQLS-OTWZMJIISA-N	37	7.0		pH 7.0, 37C
+76.7	1,5-anhydro-D-glucitol	2098	MPCAJMNYNOGXPB-SLPGGIOYSA-N	37	7.0		pH 7.0, 37C
+79.3	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	546	6.5	X	T169G/E542K/V546C, mutant, 50C, substrate D-glucose (1,4-benzoquinone saturated), pH 6.5, standard 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) assay
+83.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5		substrate D-glucose (constant O2 concentration), activity determined spectrophotometrically at 420 nm by measuring formation of H2O2 with a horse-radish peroxidase-coupled assay using 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) as the chromogen, 30C, pH 6.5
+86.3	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	6.5	X	L537W/E542R mutant, substrate ferricenium ion (D-glucose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+86.7	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	6.5	X	L537G/E542K mutant, substrate ferricenium ion (D-glucose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+88.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	546		X	V546C, mutant, substrate D-glucose, 2,2'-azinobis(3-ethylbenzthiazoline-6-sulfonic acid)-peroxidase assay
+88.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	546	6.5	X	mutant enzyme V546C, in 50 mM phosphate buffer (pH 6.5) at 60C
+88.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	546		X	mutant enzyme V546C, pH and temperature not specified in the publication
+92.3	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5		using D-glucose as cosubstrate, at 30C, pH 6.5
+102	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	6.5	X	L537G/E542R mutant, substrate ferricenium ion (D-glucose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+108	2,6-dichloroindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	6.5		substrate 2,6-dichloroindophenol (constant D-glucose concentration, 20 mM), activity determined spectrophotometrically at 420 nm by measuring formation of H2O2 with a horse-radish peroxidase-coupled assay using 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) as the chromogen, 30C, pH 6.5
+109	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	30	6.5		substrate O2 (constant D-glucose concentration, 20 mM), activity determined spectrophotometrically at 420 nm by measuring formation of H2O2 with a horse-radish peroxidase-coupled assay using 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) as the chromogen, 30C, pH 6.5
+110	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	545	6.5	X	mutant enzyme L545C, with 1,4-benzoquinone as electron acceptor, at pH 6.5 and 30C
+110	ferrocenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N	30	6.5	X	mutant enzyme F454A/S455A/Y456A, using D-glucose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+111	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	7.0		pH 7.0, 37C
+127	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	E542R mutant, substrate 1,4-benzoquinone (D-glucose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+127	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	6.5	X	L537W/E542K mutant, substrate ferricenium ion (D-glucose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+129	tetrafluoro-1,4-benzoquinone	6398	UGNWTBMOAKPKBL-UHFFFAOYSA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+130	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	mutant enzyme F454N, using D-glucose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+134	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	mutant enzyme L547R, with 2,6-dichlorophenolindophenol as electron acceptor, at pH 6.5 and 30C; mutant enzyme L547R, with ferrocenium ion as electron acceptor, at pH 6.5 and 30C
+142	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	545	6.5	X	mutant enzyme L545C, with ferrocenium ion as electron acceptor, at pH 6.5 and 30C
+151	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5		wild type enzyme, with ferrocenium ion as electron acceptor, at pH 6.5 and 30C
+151	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	6.5		wild-type, substrate ferricenium ion (D-glucose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+152	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5		wild-type, substrate 1,4-benzoquinone (D-glucose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+152	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5		wild type enzyme, with 1,4-benzoquinone as electron acceptor, at pH 6.5 and 30C
+158	ferricenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme
+160	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5		wild type enzyme, using D-glucose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+166	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	mutant enzyme T166R, with 1,4-benzoquinone as electron acceptor, at pH 6.5 and 30C
+171	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	546	6.5	X	T169G/E542K/V546C, mutant, 50C, substrate D-galactose (1,4-benzoquinone saturated), pH 6.5, standard 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) assay
+173	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	L537G/E542K mutant, substrate 1,4-benzoquinone (D-glucose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C; L537G/E542R mutant, substrate 1,4-benzoquinone (D-glucose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+175	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	L537W/E542R mutant, substrate 1,4-benzoquinone (D-glucose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+181	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	L537W/E542K mutant, substrate 1,4-benzoquinone (D-glucose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+184	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	L537G mutant, substrate 1,4-benzoquinone (D-glucose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+186	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5		pH 6.5, 30C, recombinant enzyme
+189	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	E542K mutant, substrate 1,4-benzoquinone (D-glucose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+205	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	L537W mutant, substrate 1,4-benzoquinone (D-glucose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+210	ferrocenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N	30	6.5		wild type enzyme, using D-glucose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+220	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5	X	mutant enzyme H450Q, using D-glucose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C; mutant enzyme Y456W, using D-glucose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+228	ferricenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N	30	6.5		substrate ferricenium hexafluorophosphate (constant D-glucose concentration, 20 mM), activity determined spectrophotometrically at 420 nm by measuring formation of H2O2 with a horse-radish peroxidase-coupled assay using 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) as the chromogen, 30C, pH 6.5
+265	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	mutant enzyme T166R, with 2,6-dichlorophenolindophenol as electron acceptor, at pH 6.5 and 30C
+282	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	6.5	X	L537G mutant, substrate ferricenium ion (D-glucose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+324	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N		5.0		soluble enzyme, 500 mM glucose used as electron acceptor, pH 5.0
+334	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	6.5	X	L537W mutant, substrate ferricenium ion (D-glucose concentration constant, 100 mM), standard chromogenic ABTS assay (azino-bis-(3-ethylbenzthiazolin-6-sulfonic acid), horse-radish peroxidase, measuring absorbtion at 420 nm), pH 6.5, 30C
+349	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	wild-type, mutant, 30C, substrate D-glucose (1,4-benzoquinone saturated), pH 6.5, standard 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) assay
+400	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	6.5		substrate 1,4-benzoquinone (constant D-glucose concentration, 20 mM), activity determined spectrophotometrically at 420 nm by measuring formation of H2O2 with a horse-radish peroxidase-coupled assay using 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) as the chromogen, 30C, pH 6.5
+400	ferrocenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N	30	6.5	X	mutant enzyme Y456W, using D-glucose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+420	ferrocenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N	30	6.5	X	mutant enzyme F454N, using D-glucose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+442	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5	X	mutant enzyme T166R, with ferrocenium ion as electron acceptor, at pH 6.5 and 30C
+470	ferrocenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N	30	6.5	X	mutant enzyme H450Q, using D-glucose as cosubstrate, in 50 mM KH2PO4 buffer (pH 6.5), at 30C
+477	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	4.5		substrate 1,4-benzoquinone (constant D-glucose concentration, 20 mM), activity determined spectrophotometrically at 420 nm by measuring formation of H2O2 with a horse-radish peroxidase-coupled assay using 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) as the chromogen, 30C, pH 4.5
+549	ferricenium hexafluorophosphate	1274	NOKQYPDNDTYLKD-UHFFFAOYSA-N	30	8.0		substrate ferricenium hexafluorophosphate (constant D-glucose concentration, 20 mM), activity determined spectrophotometrically at 420 nm by measuring formation of H2O2 with a horse-radish peroxidase-coupled assay using 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) as the chromogen, 30C, pH 8.0
+615	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	50	6.5	X	wild-type, mutant, 50C, substrate D-glucose (1,4-benzoquinone saturated), pH 6.5, standard 2,2'-azinobis(3-ethylbenzthiazolinesulfonic acid) assay

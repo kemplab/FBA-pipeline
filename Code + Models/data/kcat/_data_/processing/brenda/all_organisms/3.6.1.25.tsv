@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.28	tripolyphosphate	596	UNXRWKVEANCORM-UHFFFAOYSA-N	37	9.7	X	His-tagged mutant enzyme K8A, at pH 9.7 and 37C, in the presence of 5 mM Mg2+
+0.36	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	50	8.1		His-tagged wild type enzyme, at pH 8.1 and 50C, in the presence of 10 mM Mn2+
+0.98	tripolyphosphate	596	UNXRWKVEANCORM-UHFFFAOYSA-N	37	9.7	X	His-tagged mutant enzyme K52R, at pH 9.7 and 37C, in the presence of 5 mM Mg2+
+3.96	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	50	10.1	X	His-tagged mutant enzyme K8A, at pH 10.1 and 50C, in the presence of 10 mM Mn2+
+10	tripolyphosphate	596	UNXRWKVEANCORM-UHFFFAOYSA-N	37	9.7	X	His-tagged mutant enzyme K85A, at pH 9.7 and 37C, in the presence of 5 mM Mg2+
+21	tripolyphosphate	596	UNXRWKVEANCORM-UHFFFAOYSA-N	50	9.7	X	His-tagged mutant enzyme K85A, at pH 9.7 and 50C, in the presence of 5 mM Mg2+
+60	tripolyphosphate	596	UNXRWKVEANCORM-UHFFFAOYSA-N	37	7.1		His-tagged wild type enzyme, at pH 7.1 and 37C, in the presence of 5 mM Mg2+
+76	tripolyphosphate	596	UNXRWKVEANCORM-UHFFFAOYSA-N	37	9.7		His-tagged wild type enzyme, at pH 9.7 and 37C, in the presence of 5 mM Mg2+
+288	tripolyphosphate	596	UNXRWKVEANCORM-UHFFFAOYSA-N	50	9.7		His-tagged wild type enzyme, at pH 9.7 and 50C, in the presence of 5 mM Mg2+
+887	tripolyphosphate	596	UNXRWKVEANCORM-UHFFFAOYSA-N	50	9.7	X	His-tagged mutant enzyme K8A, at pH 9.7 and 50C, in the presence of 5 mM Mg2+
+7900	tripolyphosphate	596	UNXRWKVEANCORM-UHFFFAOYSA-N	50	9.7		untagged wild type enzyme, at pH 9.7 and 50C, in the presence of 5 mM Mg2+

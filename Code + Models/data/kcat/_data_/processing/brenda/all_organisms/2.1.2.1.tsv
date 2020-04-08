@@ -1,0 +1,65 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+5	glycine	68	DHMQDGOQFOQNFH-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+0.01	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant enzyme E74Q
+0.0967	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant enzyme Y82F
+0.16	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	8.0		in 50 mM Tris-HCl pH 8.0, at 37C
+0.43	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.45		in phosphate buffer, pH 7.45, at 25C
+0.7	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant enzyme
+0.74	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.45		in 50 mM HEPES buffer, pH 7.45, at 25C
+0.98	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.0		in 50 mM HEPES buffer (pH 7.0), at 25C
+1.09	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.0		pH 7.0-8.0, 25C
+2	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme, in HEPES buffer
+3.6	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				only tetrameric form
+3.9	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37		X	mutant enzyme F315G, at 37C; wild type enzyme, at 37C
+4.1	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				
+4.2	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				
+4.3	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				
+5	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				only dimeric form
+5.85	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				
+6.7	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	20	7.2	X	mutant enzyme L276A, at 20C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA; mutant enzyme L85A/L276A, at 20C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA
+9.25	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	20	7.2		pH 7.2, 20C
+9.58	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				
+10.5	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				
+10.7	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				
+10.8	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	20	7.2	X	mutant enzyme L85A, at 20C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA
+11.4	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	20	7.2		wild type enzyme, at 20C in 50 mM Na-HEPES (pH 7.2), containing 0.2 mM dithiothreitol and 0.1 mM EDTA
+13.17	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	20	7.2		pH 7.2, 20C
+14.2	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				recombinant enzyme
+15	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme, in phosphate buffer
+18.7	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	70	7.5		pH 7.5, 70C
+640	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				wild-type enzyme, pH and temperature not specified in the publication
+0.005	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N			X	mutant K251R, without pyridoxal phosphate
+0.02	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N			X	mutant S394N, in the presence of pyridoxal phosphate
+0.02167	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N			X	mutant L474F, in the presence of pyridoxal phosphate
+0.033	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N			X	mutant L474F, in the presence of pyridoxal phosphate
+0.04	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N				wild-type, in the presence of pyridoxal phosphate
+0.045	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N			X	mutant S394N, in the presence of pyridoxal phosphate
+0.07	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N				wild-type, in the presence of pyridoxal phosphate
+0.12	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N			X	mutant enzyme P264G
+0.6	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N			X	mutant enzyme P216G
+0.98	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N	25	7.0		in 50 mM HEPES buffer (pH 7.0), at 25C
+1.13	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N			X	mutant K251R, in the presence of 0.25 mM pyridoxal phosphate
+1.29	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N				wild-type, without pyridoxal phosphate
+1.3	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N				wild-type, in the presence of 0.25 mM pyridoxal phosphate
+1.6	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N			X	mutant enzyme P264A
+3.3	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N			X	mutant enzyme P214A; mutant enzyme P214G; mutant enzyme P216A; mutant enzyme P218G
+4.5	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N			X	mutant enzyme P218A
+5	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N				wild-type enzyme
+15.8	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N		8.5		pH 8.5, temperature not specified in the publication, recombinant AtSHMT3
+0.02	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant enzyme E75Q
+0.12	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant enzyme P264G
+0.2	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme S52C
+0.6	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant enzyme P216G
+0.7	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme S52A
+0.8	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme R262A
+1.6	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant enzyme P264A
+3.3	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant enzyme P214A; mutant enzyme P214G; mutant enzyme P216A; mutant enzyme P218G
+3.53	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	7.4		pH 7.4, 37C
+4.2	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	7.4		pH 7.4, 37C, wild-type enzyme
+4.5	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N			X	mutant enzyme P218A
+5	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				wild-type enzyme
+10	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				recombinant wild-type enzyme
+0.246	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	25	8.0		apparent value, in 50 mM HEPES, pH 8.0 containing 0.5 mM EDTA, 1 mM dithiothreitol, at 25C
+0.26	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	25	7.0		in 50 mM HEPES buffer (pH 7.0), at 25C
+8.95	serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				
+3.53	tetrahydromethanopterin	2454	SCBIBGUJSMHIAI-LHIIQLEZSA-N	37	7.4		pH 7.4, 37C

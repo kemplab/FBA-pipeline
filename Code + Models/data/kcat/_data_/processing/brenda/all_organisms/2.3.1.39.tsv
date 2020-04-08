@@ -1,0 +1,28 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00027	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	25	7.5	X	acyl carrier protein mutant E20A, pH 7.5, 25C
+0.00032	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	25	7.5	X	acyl carrier protein mutant T65A, pH 7.5, 25C
+0.00047	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	25	7.5		wild-type acyl carrier protein, pH 7.5, 25C
+0.000933	N-acetylcysteamine	2491	AXFZADXWLMXITO-UHFFFAOYSA-N			X	S97A mutant
+0.0011	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	25	7.5	X	acyl carrier protein mutant Q67R, pH 7.5, 25C
+0.0015	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N	25	7.5	X	acyl carrier protein mutant Q66R, pH 7.5, 25C
+0.00683	N-acetylcysteamine	2491	AXFZADXWLMXITO-UHFFFAOYSA-N				N-acetylcysteamine as acceptor thiol, wild-type enzyme
+0.01	malonyl CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N			X	R606A mutant
+0.12	malonyl CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N			X	R606K mutant
+0.15	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		6.8	X	pH 6.8, recombinant mutant F200S
+0.3	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		6.8	X	pH 6.8, recombinant mutant M137L
+0.35	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		6.8	X	pH 6.8, recombinant mutant R122A
+0.4	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		6.8	X	pH 6.8, recombinant mutants G198Y
+0.7	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		6.8	X	pH 6.8, recombinant mutant Q9A
+0.94	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		6.8	X	pH 6.8, recombinant mutant F200A
+1.2	malonyl CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N				wild-type
+3	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		6.8	X	pH 6.8, recombinant mutant F200Y
+3	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		6.8	X	pH 6.8, recombinant mutant M126I
+11	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		6.8	X	pH 6.8, recombinant mutant R122K
+12	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		6.8	X	pH 6.8, recombinant mutants G198A
+25	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		6.8	X	pH 6.8, recombinant mutant T57V
+70	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		6.8	X	pH 6.8, recombinant mutant A197D
+95	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		6.8	X	pH 6.8, recombinant mutant V98Q
+100	malonyl-CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N		6.8		pH 6.8, recombinant wild-type enzyme
+420	malonyl CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N				hexahistidine-tagged fusion protein, reaction with E. coli acyl-carrier-protein
+450	malonyl CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N				hexahistidine-tagged fusion protein, reaction with Streptomyces coelicolor acyl-carrier-protein
+1580	malonyl CoA	72	LTYOQGRJFJAKNA-DVVLENMVSA-N				reaction with E. coli acyl-carrier-protein

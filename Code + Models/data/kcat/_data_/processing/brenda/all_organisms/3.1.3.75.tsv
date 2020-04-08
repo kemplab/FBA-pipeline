@@ -1,0 +1,24 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.2	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.0	X	recombinant mutant enzyme D267E, at pH 5.0 and 37C, in the presence of 2 mM Mg2+
+0.7	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.0	X	recombinant mutant enzyme D267E, at pH 5.0 and 37C, in the presence of 0.5 mM Zn2+
+1.04	phosphocholine	604	YHHSONZFOIEMCP-UHFFFAOYSA-O	37	7.0		50 mM Hepes/NaOH buffer, pH 7.0, 37C
+1.98	phosphocholine	604	YHHSONZFOIEMCP-UHFFFAOYSA-O	37	6.7		pH 6.7, 37C, 2 mM Mg2+
+2.27	O-Phosphoethanolamine	1337	SUHOOTKUPISOBE-UHFFFAOYSA-N	37	6.7		pH 6.7, 37C, 2 mM Mg2+
+6.7	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.0	X	pH 5.0, 37C, recombinant mutant Y82A/Y83A/Y84A
+13	Phosphoethanolamine	1337	SUHOOTKUPISOBE-UHFFFAOYSA-N	37	7.0		50 mM Hepes/NaOH buffer, pH 7.0, 37C
+38.8	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.0	X	pH 5.0, 37C, recombinant mutant E42A
+79.6	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.0	X	pH 5.0, 37C, recombinant mutant E43A
+83	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N				
+87.1	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.0		pH 5.0, 37C, recombinant wild-type enzyme
+1100	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.0	X	recombinant mutant enzyme D262E, at pH 5.0 and 37C, in the presence of 2 mM Mg2+
+1400	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.0	X	recombinant mutant enzyme D262E, at pH 5.0 and 37C, in the presence of 0.5 mM Zn2+
+19000	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.0	X	recombinant mutant enzyme D262E, at pH 5.0 and 37C, in the presence of 0.3 mM Cu2+
+21000	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.0	X	recombinant mutant enzyme S166T, at pH 5.0 and 37C, in the presence of 2 mM Mg2+
+22000	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.0	X	recombinant mutant enzyme S166T, at pH 5.0 and 37C, in the presence of 0.3 mM Cu2+
+29000	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.0	X	recombinant mutant enzyme S166T, at pH 5.0 and 37C, in the presence of 0.5 mM Zn2+
+120000	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.0	X	recombinant mutant enzyme T35S, at pH 5.0 and 37C, in the presence of 2 mM Mg2+
+650000	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.0	X	recombinant mutant enzyme T35S, at pH 5.0 and 37C, in the presence of 0.5 mM Zn2+
+1600000	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.0		recombinant wild type enzyme, at pH 5.0 and 37C, in the presence of 2 mM Mg2+
+2500000	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.0	X	recombinant mutant enzyme T35S, at pH 5.0 and 37C, in the presence of 0.3 mM Cu2+
+5500000	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.0		recombinant wild type enzyme, at pH 5.0 and 37C, in the presence of 0.5 mM Zn2+
+7900000	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.0		recombinant wild type enzyme, at pH 5.0 and 37C, in the presence of 0.3 mM Cu2+

@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.37	acetyl-DEVD-7-amido-4-methylcoumarin	2512	ALZSTTDFHZHSCA-RNVDEAKXSA-N		7.0		pH 7.0 or pH 7.5
+0.65	Ac-IETD-fluoromethylcoumarin	5124	CGUOWXRXLQXOKO-FCQBACSVSA-N	37	7.4		cleaved caspase-8, 37C, pH 7.4
+0.78	Ac-IETD-fluoromethylcoumarin	5124	CGUOWXRXLQXOKO-FCQBACSVSA-N	37	7.4		non-cleavable caspase-8 + 0.001 mM FLIP D297A, 37C, pH 7.4, in the presence of 0.7 M sodium citrate
+0.98	Ac-IETD-fluoromethylcoumarin	5124	CGUOWXRXLQXOKO-FCQBACSVSA-N	37	7.4		non-cleavable caspase-8 + 0.001 mM FLIP, 37C, pH 7.4, in the presence of 0.7 M sodium citrate
+1.25	Ac-IETD-fluoromethylcoumarin	5124	CGUOWXRXLQXOKO-FCQBACSVSA-N	37	7.4		cleaved caspase-8, 37C, pH 7.4, in the presence of 0.7 M sodium citrate

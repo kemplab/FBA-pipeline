@@ -1,0 +1,200 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0025	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20	7.6	X	mutant enzyme D241A, at pH 7.6 and 20C; mutant enzyme K185A, at pH 7.6 and 20C
+0.003	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.5	X	mutant enzyme D292N, at pH 7.5 and 25C
+0.016	3-(2'-methylthio)ethylmalate	109200	FZNWJRXTACKOPU-UHFFFAOYSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.0167	3-(2'-methylthio)ethylmalate	109200	FZNWJRXTACKOPU-UHFFFAOYSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.017	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.5	X	mutant enzyme Y181A, at pH 7.5 and 25C
+0.023	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.5	X	mutant enzyme R146K, at pH 7.5 and 25C
+0.03	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.5	X	mutant enzyme R146A, at pH 7.5 and 25C
+0.033	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20	7.6	X	mutant enzyme E270A, at pH 7.6 and 20C
+0.033	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20	7.6	X	mutant enzyme E270A, in the presence of K+, at pH 7.6 and 20C
+0.033	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.5	X	mutant enzyme R136K, at pH 7.5 and 25C
+0.033	3-(2'-methylthio)ethylmalate	109200	FZNWJRXTACKOPU-UHFFFAOYSA-N			X	mutant F137L, pH not specified in the publication, temperature not specified in the publication
+0.045	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20	7.6	X	mutant enzyme D217A, at pH 7.6 and 20C
+0.08	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	37	8.0		wild-type HICDH, pH 8.0, 37C
+0.09	isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	21	7.3	X	pH 7.3, 21C, reaction with NADP+, mutant enzyme S226R/D278K/I279Y
+0.09	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	21	7.3	X	pH 7.3, 21C, reaction with isopropylmalate, mutant enzyme S226R/D278K/I279Y
+0.1	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	21	7.3		pH 7.3, 21C, reaction with tartrate, wild-type enzyme
+0.1	Tartrate	614	FEWJPZIEWOKRBE-UHFFFAOYSA-N	21	7.3		pH 7.3, 21C, reaction with NADP+, wild-type enzyme
+0.108	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20	7.6	X	mutant enzyme Y139A, at pH 7.6 and 20C
+0.15	isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	21	7.3		pH 7.3, 21C, reaction with NAD+, wild-type enzyme
+0.15	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	21	7.3		pH 7.3, 21C, reaction with isopropylmalate, wild-type enzyme
+0.19	malate	246	BJEPYKJPYRNKOW-UHFFFAOYSA-N	21	7.3	X	pH 7.3, 21C, reaction with NAD+, mutant enzyme E87Q
+0.19	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	21	7.3	X	pH 7.3, 21C, reaction with tartrate, wild-type enzyme or reaction with malate, mutant enzyme E87Q
+0.19	Tartrate	614	FEWJPZIEWOKRBE-UHFFFAOYSA-N	21	7.3		pH 7.3, 21C, reaction with NAD+, wild-type enzyme
+0.2	isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	21	7.3	X	pH 7.3, 21C, reaction with NAD+, mutant enzyme E87G
+0.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	21	7.3	X	pH 7.3, 21C, reaction with isopropylmalate, mutant enzyme E87G
+0.21	isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	21	7.3	X	pH 7.3, 21C, reaction with NAD+, mutant enzyme E87Q
+0.21	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	21	7.3	X	pH 7.3, 21C, reaction with isopropylmalate, mutant enzyme E87Q; pH 7.3, 21C, reaction with tartrate, mutant enzyme E87G
+0.21	Tartrate	614	FEWJPZIEWOKRBE-UHFFFAOYSA-N	21	7.3	X	pH 7.3, 21C, reaction with NAD+, mutant enzyme E87G
+0.233	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.5	X	mutant enzyme Y181F, at pH 7.5 and 25C
+0.24	isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	21	7.3		pH 7.3, 21C, reaction with NAD+, wild-type enzyme
+0.24	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	21	7.3		pH 7.3, 21C, reaction with isopropylmalate, wild-type enzyme
+0.26	homoisocitrate	1388	OEJZZCGRGVFWHK-WVZVXSGGSA-N	60	8.0		at pH 8.0 and 60C
+0.26	isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	21	7.3		pH 7.3, 21C, reaction with NADP+, wild-type enzyme
+0.26	malate	246	BJEPYKJPYRNKOW-UHFFFAOYSA-N	21	7.3	X	pH 7.3, 21C, reaction with NAD+, mutant enzyme E87G
+0.26	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	21	7.3	X	pH 7.3, 21C, reaction with malate, mutant enzyme E87G or reaction with tartrate, mutant enzyme E87Q
+0.26	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	21	7.3		pH 7.3, 21C, reaction with isopropylmalate, wild-type enzyme
+0.26	Tartrate	614	FEWJPZIEWOKRBE-UHFFFAOYSA-N	21	7.3	X	pH 7.3, 21C, reaction with NAD+, mutant enzyme E87Q
+0.27	3-(2'-methylthio)ethylmalate	109200	FZNWJRXTACKOPU-UHFFFAOYSA-N			X	mutant L134F, pH not specified in the publication, temperature not specified in the publication
+0.3	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	37	8.0	X	mutant E57V/S72I/R85M/Y86A/M208T/V238M/R310M, pH 8.0, 37C
+0.367	3-(2'-methylthio)ethylmalate	109200	FZNWJRXTACKOPU-UHFFFAOYSA-N			X	mutant L133F, pH not specified in the publication, temperature not specified in the publication
+0.4	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	37	8.0	X	mutant R85V/Y86A, pH 8.0, 37C
+0.433	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20	7.6	X	mutant enzyme D245A, at pH 7.6 and 20C
+0.47	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.5	X	mutant enzyme L132A, at pH 7.5 and 25C
+0.48	isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	21	7.3	X	pH 7.3, 21C, reaction with NAD+, mutant enzyme S226R
+0.48	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	21	7.3	X	pH 7.3, 21C, reaction with isopropylmalate, mutant enzyme S226R
+0.55	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20	7.6	X	mutant enzyme N102A, at pH 7.6 and 20C
+0.583	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.5	X	mutant enzyme Y181H, at pH 7.5 and 25C
+0.6	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	37	8.0	X	mutant E57V/S72I/R85M/Y86A/M208T/F217Y/V238M, pH 8.0, 37C
+0.62	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N			X	mutant L133F, pH not specified in the publication, temperature not specified in the publication
+0.622	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.73	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N			X	mutant L134F, pH not specified in the publication, temperature not specified in the publication
+0.85	3-(2'-methylthio)ethylmalate	109200	FZNWJRXTACKOPU-UHFFFAOYSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.88	isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	21	7.3	X	pH 7.3, 21C, reaction with NADP+, mutant enzyme S226R
+0.88	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	21	7.3	X	pH 7.3, 21C, reaction with isopropylmalate, mutant enzyme S226R
+0.96	D-3-t-butylmalate	24825	XXTNLQDZKHSROY-RFZPGFLSSA-N		8.0		pH 8.0
+1.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	8.0	X	pH 8.0, 40C, mutant V126A
+1.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	8.0	X	pH 8.0, 40C, mutant V126S
+1.6	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	37	8.0	X	mutant S72I/R85M/Y86A/M208T/F217Y/V238M/R310M, pH 8.0, 37C
+1.62	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.5	X	mutant enzyme R174K, at pH 7.5 and 25C
+1.66	isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	21	7.3		pH 7.3, 21C, reaction with NADP+, wild-type enzyme
+1.66	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	21	7.3		pH 7.3, 21C, reaction with isopropylmalate, wild-type enzyme
+1.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	8.0	X	pH 8.0, 40C, mutant V126G
+1.8	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	37	8.0	X	mutant E57V/S72I/R85M/Y86A/M208T/F217Y/R310M, pH 8.0, 37C
+1.9	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	8.0	X	pH 8.0, 40C, mutant V126T
+1.91	isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	21	7.3	X	pH 7.3, 21C, reaction with NAD+, mutant enzyme S226R/D278K/I279Y
+1.91	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	21	7.3	X	pH 7.3, 21C, reaction with isopropylmalate, mutant enzyme S226R/D278K/I279Y
+2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.6	X	mutant enzyme A266S, at pH 7.6 and 25C
+2	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.5	X	mutant enzyme V235A, at pH 7.5 and 25C
+2.36	D-3-isopropylmalate	2004	RNQHMTFBUSSBJQ-BRJRFNKRSA-N	40	8.0		pH 8.0, 40C, wild-type enzyme
+2.36	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	8.0		pH 8.0, 40C, wild-type enzyme
+2.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	8.0		pH 8.0, 40C, wild-type
+2.41	D-3-isopropylmalate	2004	RNQHMTFBUSSBJQ-BRJRFNKRSA-N	40	8.0	X	pH 8.0, 40C, mutant enzyme C275T
+2.41	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	8.0	X	pH 8.0, 40C, mutant enzyme C275T
+2.7	3-tert-butylmalate	21463	XXTNLQDZKHSROY-UHFFFAOYSA-N				
+2.7	D-3-isopentylmalate	24826	QNLQIOUBIWDTND-RNFRBKRXSA-N		8.0		pH 8.0
+2.9	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	37	8.0	X	mutant H15Y/E57V/S72I/R85M/Y86A/M208T/F217Y/V238M/R310M, pH 8.0, 37C
+2.9	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20	7.6		pH 7.6, 20C, quenched flow experiment
+3.1	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20			pressure 250 MPa, 20C, pH not specified in the publication
+3.1	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.5	X	mutant enzyme L133A, at pH 7.5 and 25C
+3.1	D-3-ethylmalate	24823	JUCRENBZZQKFGK-QWWZWVQMSA-N		8.0		pH 8.0
+3.1	D-3-isobutylmalate	24824	JTQSCAHKZKQYOM-PHDIDXHHSA-N		8.0		pH 8.0
+3.4	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20	7.6		pH 7.6, 20C, stopped flow experiment
+3.5	D-3-methylmalate	10959	NPYQJIHHTGFBLN-PWNYCUMCSA-N		8.0		pH 8.0
+3.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	8.0	X	pH 8.0, 40C, mutant V126E
+3.6	D-3-isopropylmalate	2004	RNQHMTFBUSSBJQ-BRJRFNKRSA-N		8.0		pH 8.0
+3.8	3-isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	70	7.5	X	pH 7.5, 70C, recombinant mutant F3S/S232G
+3.83	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N			X	mutant F137L, pH not specified in the publication, temperature not specified in the publication
+3.97	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20	7.6		wild type enzyme, in the presence of K+, at pH 7.6 and 20C
+4	malate	246	BJEPYKJPYRNKOW-UHFFFAOYSA-N				
+4.57	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.5		wild type enzyme, at pH 7.5 and 25C
+4.69	malate	246	BJEPYKJPYRNKOW-UHFFFAOYSA-N	21	7.3		pH 7.3, 21C, reaction with NADP+, wild-type enzyme
+4.69	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	21	7.3		pH 7.3, 21C, reaction with malate, wild-type enzyme
+5	malate	246	BJEPYKJPYRNKOW-UHFFFAOYSA-N				
+5.1	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	37	8.0	X	mutant E57V/S72I/R85M/Y86A/M208T/F217Y/V238M/R310M, pH 8.0, 37C
+5.7	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	37	8.0		wild-type (2R,3S)-3-isopropylmalate dehydrogenase, pH 8.0, 37C
+5.8	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20			pressure 200 MPa, 20C, pH not specified in the publication
+6	3-isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	70	7.5	X	pH 7.5, 70C, recombinant mutant R284G
+6	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	8.0	X	pH 8.0, 40C, mutant V126I
+6	tert-butylmalate	21672	YKFDZMSGGDGCTQ-UHFFFAOYSA-N		7.6		pH 7.6
+6.22	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+6.8	3-isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	70	7.5	X	pH 7.5, 70C, recombinant mutant F3S
+6.9	3-isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	70	7.5		pH 7.5, 70C, recombinant wild-type enzyme
+7.2	D-3-isopropylmalate	2004	RNQHMTFBUSSBJQ-BRJRFNKRSA-N	40	8.0	X	pH 8.0, 40C, mutant enzyme A31G/G43A/A709G
+7.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	8.0	X	pH 8.0, 40C, mutant enzyme A31G/G43A/A709G
+7.5	3-isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	70	7.5	X	pH 7.5, 70C, recombinant mutant L288P
+7.6	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20			pressure 100 MPa, 20C, pH not specified in the publication
+7.8	3-isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	70	7.5	X	pH 7.5, 70C, recombinant mutant F3S/L288P
+8	isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	70	7.6		pH 7.6, 70C
+8	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	7.6		pH 7.6, 70C, reaction with isopropylmalate
+8.3	3-isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L			X	mutant Glu253Trp
+8.4	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20			pressure 150 MPa, 20C, pH not specified in the publication
+8.5	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	60	8.0		at pH 8.0 and 60C
+8.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	8.0	X	pH 8.0, 40C, mutant V126L
+9	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	60	8.0	X	pH 8.0, 60C, mutant V126A
+9.05	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+9.5	3-isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L			X	mutant Glu253Ala
+9.6	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.6	X	mutant enzyme I268A, at pH 7.6 and 25C
+9.9	3-isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L			X	mutant Glu253Gln
+10	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20			pressure 250 MPa, 20C, pH not specified in the publication
+10	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	60	8.0		pH 8.0, 60C, V126G
+10.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	7.6	X	pH 7.6, 70C, recombinant mutant V181T
+10.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.6	X	mutant enzyme I268A, at pH 7.6 and 25C
+10.6	malate	246	BJEPYKJPYRNKOW-UHFFFAOYSA-N	21	7.3		pH 7.3, 21C, reaction with NAD+, wild-type enzyme
+10.6	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	21	7.3		pH 7.3, 21C, reaction with malate, wild-type enzyme
+10.7	D-3-isopropylmalate	2004	RNQHMTFBUSSBJQ-BRJRFNKRSA-N	40	8.0	X	pH 8.0, 40C, mutant enzyme G43A
+10.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	8.0	X	pH 8.0, 40C, mutant enzyme G43A
+11	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	8.0	X	pH 8.0, 40C, mutant V126F
+11.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	7.6	X	pH 7.6, 70C, recombinant mutant D184H
+12.4	3-isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L			X	mutant Glu253Val
+13	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20			pressure 200 MPa, 20C, pH not specified in the publication
+13	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	60	8.0	X	pH 8.0, 60C, mutant V126S
+13.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	7.6	X	pH 7.6, 70C, recombinant mutant V181T/P324T/A335E
+13.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	7.6		pH 7.6, 70C, recombinant wild-type enzyme
+13.7	3-isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L			X	mutant Glu253Leu
+13.8	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	7.6	X	pH 7.6, 70C, recombinant mutant P324T
+14	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20			pressure 100 MPa, 20C, pH not specified in the publication; pressure 150 MPa, 20C, pH not specified in the publication
+14	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20			pressure 0.1 MPa, 20C, pH not specified in the publication
+14.6	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	7.6	X	pH 7.6, 70C, recombinant mutant P56E
+14.8	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.6	X	mutant enzyme M106L, at pH 7.6 and 25C
+14.9	3-isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L				wild-type
+15	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20			pressure 0.1 MPa, 20C, pH not specified in the publication
+15	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20			pressure 50 MPa, 20C, pH not specified in the publication
+15	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	60	8.0	X	pH 8.0, 60C, mutant V126T
+15	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	7.6	X	pH 7.6, 70C, recombinant mutants F53L and V61I
+15.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.6	X	mutant enzyme M106L, at pH 7.6 and 25C
+15.6	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.6	X	mutant enzyme S266A, at pH 7.6 and 25C
+16.1	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.6	X	mutant enzyme A268I, at pH 7.6 and 25C
+16.4	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.6		wild type enzyme, at pH 7.6 and 25C
+16.7	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.6	X	mutant enzyme S266A, at pH 7.6 and 25C
+17	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20			pressure 50 MPa, 20C, pH not specified in the publication
+17.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.6		wild type enzyme, at pH 7.6 and 25C
+17.4	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.6		wild type enzyme, at pH 7.6 and 25C
+17.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.6	X	mutant enzyme A268I, at pH 7.6 and 25C
+17.7	D-3-isopropylmalate	2004	RNQHMTFBUSSBJQ-BRJRFNKRSA-N	40	8.0	X	pH 8.0, 40C, mutant enzyme G376A
+17.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	8.0	X	pH 8.0, 40C, mutant enzyme G376A
+17.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	7.6	X	pH 7.6, 70C, recombinant mutant R58L
+18	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	8.0	X	pH 8.0, 40C, mutant V126M
+18.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	7.6	X	pH 7.6, 70C, recombinant mutants S261N and A335E
+18.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.6		wild type enzyme, at pH 7.6 and 25C
+19	isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	40	7.6		pH 7.6, 40C
+19	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	7.6		pH 7.6, 40C, reaction with isopropylmalate
+20	3-isoamylmalate	21458	QNLQIOUBIWDTND-UHFFFAOYSA-N				
+20	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	60	8.0		pH 8.0, 60C, wild-type
+20.4	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.6	X	mutant enzyme A266S, at pH 7.6 and 25C
+21	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	60	8.0	X	pH 8.0, 60C, mutant V126E
+21.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	7.6	X	pH 7.6, 70C, recombinant mutant H197K
+25.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	7.6	X	pH 7.6, 70C, recombinant mutant L134N/V181T/P324T/A335E
+28	3-isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L				
+28	3-methylmalate	13996	NPYQJIHHTGFBLN-UHFFFAOYSA-N				
+29.9	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	7.6	X	pH 7.6, 70C, recombinant mutant L134N
+30.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	60	8.0	X	pH 8.0, 60C, mutant V126I
+38	3-ethylmalate	10420	JUCRENBZZQKFGK-UHFFFAOYSA-N				
+40	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	20	7.6		wild type enzyme, at pH 7.6 and 20C
+42	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	60	8.0	X	pH 8.0, 60C, mutant V126F
+44.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	60	8.0	X	pH 8.0, 60C, mutant V126L
+44.7	D-3-isopropylmalate	2004	RNQHMTFBUSSBJQ-BRJRFNKRSA-N	70	8.0	X	pH 8.0, 70C, mutant enzyme C275T
+44.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	8.0	X	pH 8.0, 70C, mutant enzyme C275T
+45.8	D-3-isopropylmalate	2004	RNQHMTFBUSSBJQ-BRJRFNKRSA-N	70	8.0		pH 8.0, 70C, wild-type enzyme
+45.8	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	8.0		pH 8.0, 70C, wild-type enzyme
+48.1	(2R,3S)-3-isopropylmalate	856	RNQHMTFBUSSBJQ-CRCLSJGQSA-N	25	7.6	X	mutant enzyme L106M, at pH 7.6 and 25C
+50.1	D-3-isopropylmalate	2004	RNQHMTFBUSSBJQ-BRJRFNKRSA-N	70	8.0	X	pH 8.0, 70C, mutant enzyme A31G/G43A/A709G
+50.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	8.0	X	pH 8.0, 70C, mutant enzyme A31G/G43A/A709G
+50.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.6	X	mutant enzyme L106M, at pH 7.6 and 25C
+54	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	60	8.0	X	pH 8.0, 60C, mutant V126M
+63.6	D-3-isopropylmalate	2004	RNQHMTFBUSSBJQ-BRJRFNKRSA-N	70	8.0	X	pH 8.0, 70C, mutant enzyme G43A
+63.6	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	8.0	X	pH 8.0, 70C, mutant enzyme G43A
+69	isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L	40	7.6		pH 7.6, 40C
+69	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	7.6		pH 7.6, 40C, reaction with isopropylmalate
+70	ethylmalate	6388	FHHFKGGCXNOIAY-UHFFFAOYSA-N		7.6		pH 7.6
+100	D-3-isopropylmalate	2004	RNQHMTFBUSSBJQ-BRJRFNKRSA-N	70	8.0	X	pH 8.0, 70C, mutant enzyme G376A
+100	D-3-isopropylmalate	2004	RNQHMTFBUSSBJQ-BRJRFNKRSA-N	55		X	55C, mutant enzyme A172D
+100	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	8.0	X	pH 8.0, 70C, mutant enzyme G376A
+100	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	55		X	55C, mutant enzyme A172D
+107	D-3-isopropylmalate	2004	RNQHMTFBUSSBJQ-BRJRFNKRSA-N	55			55C, wild-type enzyme
+107	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	55			55C, wild-type enzyme
+111	D-3-isopropylmalate	2004	RNQHMTFBUSSBJQ-BRJRFNKRSA-N	55		X	55C, mutant enzyme A172Q
+111	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	55		X	55C, mutant enzyme A172Q
+117	D-3-isopropylmalate	2004	RNQHMTFBUSSBJQ-BRJRFNKRSA-N	55		X	55C, mutant enzyme A172E and A172N
+117	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	55		X	55C, mutant enzyme A172E and A172N

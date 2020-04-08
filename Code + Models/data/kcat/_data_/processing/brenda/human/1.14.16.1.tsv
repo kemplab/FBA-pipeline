@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0183	phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	Ser2-Gln428 deletion mutant, tetrameric form
+0.135	phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	Ser2-Gln428 deletion mutant, L-phenylalanine activated, dimeric form
+0.165	phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	Ser2-Gln428 deletion mutant, lysophosphatidylcholine activated, dimeric form
+0.233	phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	Ser2-Gln428 deletion mutant, lysophosphatidylcholine and phenylalanine activated, dimeric form
+0.363	phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N				recombinant enzyme, tetrameric form
+0.45	phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	Asp112-Lys452 deletion mutant, lysophosphatidylcholine activated, tetrameric form
+0.5	phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	Asp112-Lys452 deletion mutant, tetrameric form
+0.667	phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	Gly103-Gln428 deletion mutant, lysophosphatidylcholine activated, dimeric form
+0.877	phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N				recombinant enzyme, lysophosphatidylcholine activated, tetrameric form
+0.952	phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	Gly103-Gln428 deletion mutant, tetrameric form
+1.05	phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	Asp112-Lys452 deletion mutant, L-phenylalanine activated, tetrameric form; Asp112-Lys452 deletion mutant, lysophosphatidylcholine and phenylalanine activated, tetrameric form
+1.24	phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	Gly103-Gln428 deletion mutant, lysophosphatidylcholine and phenylalanine activated, dimeric form
+1.3	phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N				recombinant enzyme, L-phenylalanine activated, tetrameric form
+1.33	phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N			X	Gly103-Gln428 deletion mutant, L-phenylalanine activated, dimeric form
+1.59	phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N				recombinant enzyme, lysophosphatidylcholine and phenylalanine activated, tetrameric form
+6.53	phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N				truncated enzyme containing C-terminal 334 amino acids
+6.58	phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N				recombinant wild-type enzyme

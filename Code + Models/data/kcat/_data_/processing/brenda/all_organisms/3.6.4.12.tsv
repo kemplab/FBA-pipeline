@@ -1,0 +1,73 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.03	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	pH and temperature not specified in the publication, mutant enzyme K323A; pH and temperature not specified in the publication, mutant enzyme R329A
+0.03	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	pH and temperature not specified in the publication, mutant enzyme L189D/D191R
+0.033	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	pH and temperature not specified in the publication, mutant enzyme E326A/D327A
+0.038	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	pH and temperature not specified in the publication, mutant enzyme D327A
+0.04	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	pH and temperature not specified in the publication, mutant enzyme V324A
+0.043	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0		pH 8.0, 30C, without ssDNA
+0.045	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	pH and temperature not specified in the publication, mutant enzyme E326A/D327A/R329A
+0.047	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	pH and temperature not specified in the publication, mutant enzyme E202G/E203G/V204G; + Y-DNA, pH and temperature not specified in the publication, mutant enzyme I555D/L556S/I557D
+0.048	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	pH and temperature not specified in the publication, mutant enzyme E326A
+0.052	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	pH and temperature not specified in the publication, mutant enzyme T550G/P551G/D552G/S553G/P554G; pH and temperature not specified in the publication, wild-type enzyme
+0.055	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	+ Y-DNA, pH and temperature not specified in the publication, mutant enzyme E202G/E203G/V204G
+0.065	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	pH and temperature not specified in the publication, mutant enzyme V324A/L325A
+0.067	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				pH and temperature not specified in the publication, wild-type enzyme
+0.068	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				+ Y-DNA, pH and temperature not specified in the publication, wild-type enzyme
+0.07	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4	X	mutant DELTA Q25, pH 7.4, 30C, in the absence of DNA
+0.075	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4	X	mutant K52R, pH 7.4, 30C, in the presence of M13 ssDNA
+0.08	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	pH and temperature not specified in the publication, mutant enzyme L325A
+0.085	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4	X	mutant K52R, pH 7.4, 30C, in the presence of M13 ssDNA
+0.09	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	+ Y-DNA, pH and temperature not specified in the publication, mutant enzyme L189D/D191R
+0.155	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4	X	mutant Q25A, pH 7.4, 30C, in the absence of DNA
+0.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4		wild-type, pH 7.4, 30C, in the absence of DNA
+0.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	20	7.5		pH 7.5, 20C, without DNA
+0.66	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant A475P, pH 7.5, 37C, in the presence of calf thymus DNA
+0.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	474	7.5	X	mutant W474C, pH 7.5, 37C, in the presence of calf thymus DNA
+0.88	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant T457I, pH 7.5, 37C, in the presence of calf thymus DNA
+0.98	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant K319T, pH 7.5, 37C, in the presence of calf thymus DNA
+1.01	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant R334Q, pH 7.5, 37C, in the presence of calf thymus DNA
+1.06	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant A359T, pH 7.5, 37C, in the presence of calf thymus DNA
+1.08	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant P335L, pH 7.5, 37C, in the presence of calf thymus DNA
+1.13	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant W315L, pH 7.5, 37C, in the presence of calf thymus DNA
+1.15	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant F485L, pH 7.5, 37C, in the presence of calf thymus DNA
+1.18	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant R354P, pH 7.5, 37C, in the presence of calf thymus DNA
+1.19	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant A318T, pH 7.5, 37C, in the presence of calf thymus DNA
+1.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5		pH 7.5, 30C
+1.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				full-length RECQ1 helicase
+1.52	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant R357P, pH 7.5, 37C, in the presence of calf thymus DNA
+1.68	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4	X	mutant DELTA Q25, pH 7.4, 30C, in the presence of M13 ssDNA
+1.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		wild-type wit His-tag, pH 7.5, 37C, in the presence of calf thymus DNA
+1.94	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant S369Y pH 7.5, 37C, in the presence of calf thymus DNA
+2.04	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	508	7.5	X	mutant Y508C, pH 7.5, 37C, in the presence of calf thymus DNA
+2.09	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant S369P, pH 7.5, 37C, in the presence of calf thymus DNA
+2.17	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant R374Q , pH 7.5, 37C, in the presence of calf thymus DNA
+2.18	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		wild-type without His-tag, pH 7.5, 37C, in the presence of calf thymus DNA
+2.24	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant K319E, pH 7.5, 37C, in the presence of calf thymus DNA
+2.29	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant R303W, pH 7.5, 37C, in the presence of calf thymus DNA
+2.89	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant I367T, pH 7.5, 37C, in the presence of calf thymus DNA
+3.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4	X	mutant Q25A, pH 7.4, 30C, in the presence of M13 ssDNA
+7.41	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant (RECQ1(T1))Y564A, a construct encompassing amino acids 49&acirc;616 (of 649) of RECQ1, followed by a C-terminal tag of 22 aa
+8.31	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant L381P, pH 7.5, 37C, in the presence of calf thymus DNA
+8.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.6		pH 7.6, 30C, in presence of M13mp18 single-stranded circular DNA
+9.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.6		pH 7.6, 30C, in presence of poly(dA)
+11.25	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				(RECQ1(T1)), a construct encompassing amino acids 49&acirc;616 (of 649) of RECQ1, followed by a C-terminal tag of 22 aa
+13.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.5		pH 7.5, in presence of 1 mM Ni2+
+15	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	8.0		pH 8.0, 30C, in presence of ssDNA
+16.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	20	7.5		pH 7.5, 20C, in presence of DNA
+19.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	6.6		pH 6.6, 25C
+19.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.5		pH 7.5, in presence of 1 mM Mn2+
+22.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.5		pH 7.5, in presence of 1 mM Co2+
+29.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.5		pH 7.5, in presence of 1 mM Mg2+
+43.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4		wild-type, pH 7.4, 30C, in the presence of M13 ssDNA
+7980	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5		pH 7.5, 30C, in presence of 2 mM Mg2+
+5.4	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	25	6.6		pH 6.6, 25C
+13.9	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	25	6.6		pH 6.6, 25C
+10.5	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	25	6.6		pH 6.6, 25C
+0.25	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	30	8.0		pH 8.0, 30C, without ssDNA
+14.8	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	25	6.6		pH 6.6, 25C
+23	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	30	8.0		pH 8.0, 30C, in presence of ssDNA
+14.3	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	25	6.6		pH 6.6, 25C
+7.5	dGTP	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	25	6.6		pH 6.6, 25C
+14.8	dUTP	363	AHCYMLUZIRLXAA-SHYZEUOFSA-N	25	6.6		pH 6.6, 25C
+0.1	2'(3')-O-(N-methylanthraniloyl)ATP	3971	YAPJXKKTHXODSV-LSCFUAHRSA-N	20	7.5		pH 7.5, 20C, without DNA
+17.2	2'(3')-O-(N-methylanthraniloyl)ATP	3971	YAPJXKKTHXODSV-LSCFUAHRSA-N	20	7.5		pH 7.5, 20C, in presence of DNA

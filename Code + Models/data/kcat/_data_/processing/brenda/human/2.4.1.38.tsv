@@ -1,0 +1,36 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.003	UDP-glucuronic acid	200	HDYANYHVCAPMJV-LXQIFKJMSA-N	37	7.0		Km above 0.003 mM, purified maltose-binding protein-beta1,4-GalT7, in 100 mM cacodylate buffer (pH 7.0) containing 10 mM MnCl2, at 37C
+0.003	UDP-N-acetyl-beta-D-glucosamine	10035	LFTYTUAZOPRMMI-UBDZBXRQSA-N	37	7.0		Km above 0.003 mM, purified maltose-binding protein-beta1,4-GalT7, in 100 mM cacodylate buffer (pH 7.0) containing 10 mM MnCl2, at 37C
+0.01	UDP-xylose	291	DQQDLYVHOTZLOR-OCIMBMBZSA-N	37	7.0		purified maltose-binding protein-beta1,4-GalT7, in 100 mM cacodylate buffer (pH 7.0) containing 10 mM MnCl2, at 37C
+0.02	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	37	7.0		purified maltose-binding protein-beta1,4-GalT7, in 100 mM cacodylate buffer (pH 7.0) containing 10 mM MnCl2, at 37C
+0.5	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0	X	mutant enzyme Y196F, at pH 7.0 and 37C
+0.5	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant enzyme Y196F, at pH 7.0 and 37C
+0.77	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0	X	mutant enzyme R270A, at pH 7.0 and 37C
+0.77	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant enzyme R270A, at pH 7.0 and 37C
+0.82	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0	X	mutant enzyme R270K, at pH 7.0 and 37C
+0.82	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant enzyme R270K, at pH 7.0 and 37C
+0.89	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0	X	mutant enzyme R226A, at pH 7.0 and 37C
+0.89	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant enzyme R226A, at pH 7.0 and 37C
+1.13	4-methylumbelliferyl beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0		purified maltose-binding protein-beta1,4-GalT7, in 100 mM cacodylate buffer (pH 7.0) containing 10 mM MnCl2, at 37C
+1.14	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0		Km above 0.003 mM, purified maltose-binding protein-beta1,4-GalT7, in 100 mM cacodylate buffer (pH 7.0) containing 10 mM MnCl2, at 37C
+1.2	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0	X	mutant enzyme Y199F, at pH 7.0 and 37C
+1.2	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant enzyme Y199F, at pH 7.0 and 37C
+1.35	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0	X	mutant enzyme R226K, at pH 7.0 and 37C
+1.35	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant enzyme R226K, at pH 7.0 and 37C
+1.49	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0	X	mutant enzyme H195R, at pH 7.0 and 37C
+1.49	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant enzyme H195R, at pH 7.0 and 37C
+1.51	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0		recombinant wild type enzyme, at pH 7.0 and 37C
+1.51	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0		recombinant wild type enzyme, at pH 7.0 and 37C
+1.52	4-nitrophenyl beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	37	7.0		purified maltose-binding protein-beta1,4-GalT7, in 100 mM cacodylate buffer (pH 7.0) containing 10 mM MnCl2, at 37C
+1.62	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0	X	mutant enzyme H195Q, at pH 7.0 and 37C
+1.62	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant enzyme H195Q, at pH 7.0 and 37C
+1.74	GlcNAcbeta1,2-Manalpha1,6 (GlcNAcbeta1,2-Manalpha1,3)Man	24394	BZHXDYSYSZZHQN-KNWYIYEYSA-N				
+1.9	GlcNAcbeta1,2-Manalpha1,6-Manbeta-OR	22054	YYVAVUIQMNEJLY-PAABVCRUSA-N				
+1.93	4-methylumbelliferyl-beta-D-xylopyranoside	1400	JWIYLOHVJDJZOQ-KAOXEZKKSA-N	37	7.0	X	mutant enzyme H195A, at pH 7.0 and 37C
+1.93	UDP-alpha-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	mutant enzyme H195A, at pH 7.0 and 37C
+2.47	GlcNAcbeta1,2-Manalpha1,3-Manbeta-OR	14274	MBURVNRWIBQLGI-PEHAHGAZSA-N				
+3.3	chitotriose	1355	RQFQJYYMBWVMQG-IXDPLRRUSA-N				
+3.35	GlcNAcbeta1,4-Manalpha1,3-Manbeta-OR	24393	BRSBSUVEMWNECJ-MRQWUTDRSA-N				
+3.6	N-acetyl-beta-D-glucosamine	128218	OVRNDRQMDRJTHS-FMDGEEDCSA-N				
+4.81	chitotriose	1355	RQFQJYYMBWVMQG-IXDPLRRUSA-N				
+4.82	N-acetyl-beta-D-glucosaminyl-1,4-N-acetyl-beta-D-glucosamine	1024	CDOJPCSDOXYJJF-KSKNGZLJSA-N				

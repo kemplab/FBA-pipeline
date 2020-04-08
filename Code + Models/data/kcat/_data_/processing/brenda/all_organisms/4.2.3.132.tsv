@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.75	(+)-copalyl diphosphate	1245	JCAIWDXKLCEQEO-ATPOGHATSA-N	30	7.2		in 50 mM HEPES, pH 7.2, 100 mM KCl, 7.5 mM MgCl2, 0.02 mM MnCl2, at 30C
+1.1	(+)-copalyl diphosphate	1245	JCAIWDXKLCEQEO-ATPOGHATSA-N			X	mutant enzyme R356A, pH and temperature not specified in the publication
+1.9	(+)-copalyl diphosphate	1245	JCAIWDXKLCEQEO-ATPOGHATSA-N			X	mutant enzyme N451A, pH and temperature not specified in the publication
+2.6	(+)-copalyl diphosphate	1245	JCAIWDXKLCEQEO-ATPOGHATSA-N				wild type enzyme, pH and temperature not specified in the publication

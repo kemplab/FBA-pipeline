@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.083	N-acetylaspartic acid	1675	OTCCIMWXFLJLIA-BYPYZUCNSA-N		7.2		pH 7.2, recombinant Escherichia coli-expressed enzyme
+0.52	N-acetylaspartic acid	1675	OTCCIMWXFLJLIA-BYPYZUCNSA-N	37	7.4		pH 7.4, 37C, recombinant wild-type enzyme
+1.48	N-acetylaspartic acid	1675	OTCCIMWXFLJLIA-BYPYZUCNSA-N	37	7.4	X	pH 7.4, 37C, recombinant mutant E178D
+12.7	N-acetylaspartic acid	1675	OTCCIMWXFLJLIA-BYPYZUCNSA-N		7.2		pH 7.2, recombinant Pichia pastoris-expressed enzyme
+14.22	N-acetylaspartic acid	1675	OTCCIMWXFLJLIA-BYPYZUCNSA-N	37	7.4		pH 7.4, 37C, recombinant wild-type enzyme
+1.2	N-trifluoroacetylaspartic acid	9268	NTFULCXLYCSQIW-REOHCLBHSA-N		7.2		pH 7.2, recombinant Escherichia coli-expressed enzyme
+116	N-trifluoroacetylaspartic acid	9268	NTFULCXLYCSQIW-REOHCLBHSA-N		7.2		pH 7.2, recombinant Pichia pastoris-expressed enzyme
+37.5	N-acetylaspartate	1675	OTCCIMWXFLJLIA-BYPYZUCNSA-N				

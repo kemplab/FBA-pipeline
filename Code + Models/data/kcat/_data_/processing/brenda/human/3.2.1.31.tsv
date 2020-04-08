@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.004	4-methylumbelliferyl-beta-D-glucuronide	2963	ARQXEQLMMNGFDU-UHFFFAOYSA-N	37	5.0	X	37C, pH 5.0, mutant enzyme E540A
+0.015	4-methylumbelliferyl-beta-D-glucuronide	2963	ARQXEQLMMNGFDU-UHFFFAOYSA-N	37	4.0	X	37C, pH 4.0-5.0, mutant enzyme E451A
+0.2	4-methylumbelliferyl-beta-D-glucuronide	2963	ARQXEQLMMNGFDU-UHFFFAOYSA-N	37		X	37C, mutant enzyme Y540A
+276	4-methylumbelliferyl-beta-D-glucuronide	2963	ARQXEQLMMNGFDU-UHFFFAOYSA-N	37	4.5		37C, pH 4.5, wild-type enzyme
+0.67	4-nitrophenyl-beta-D-glucuronide	2735	QSUILVWOWLUOEU-GOVZDWNOSA-N	37	7.2		pH 7.2, 37C
+1.9	quercetin-3-O-beta-D-glucuronide	18053	DUBCCGAQYVUYEU-ZUGPOPFOSA-N	37	7.2		pH 7.2, 37C
+0.26	quercetin 4'-O-beta-D-glucuronide	18054	PRIOPKVBCZTKIT-ZFORQUDYSA-N	37	7.2		pH 7.2, 37C
+0.65	kaempferol 3-O-beta-D-glucuronide	26411	FNTJVYCFNVUBOL-ZUGPOPFOSA-N	37	7.2		pH 7.2, 37C
+1.65	quercetin 7-O-beta-D-glucuronide	26412	JXWGCVLNCGCZRU-JENRNSKYSA-N	37	7.2		pH 7.2, 37C
+1.07	daidzein 7-O-beta-D-glucuronide	26413	MMIBOZXVZLENRZ-ZFORQUDYSA-N	37	7.2		pH 7.2, 37C
+0.35	equol 7-O-beta-D-glucuronide	26414	XDPLKWRSVXUQBN-LVEHSUOCSA-N	37	7.2		pH 7.2, 37C

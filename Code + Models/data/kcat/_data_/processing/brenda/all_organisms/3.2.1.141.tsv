@@ -1,0 +1,49 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+5.49	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N				
+14.4	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	60	5	X	mutant enzyme Y328F, 60C, 50 mM citrate phosphate buffer, pH 5
+15.5	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	60	5	X	mutant enzyme R356K, 60C, 50 mM citrate phosphate buffer, pH 5, glucose formation
+17.4	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	60	5	X	mutant enzyme A259S, 60C, 50 mM citrate phosphate buffer, pH 5, glucose formation
+17.7	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N				
+17.7	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	60	5		wild-type enzyme, 60C, 50 mM citrate phosphate buffer, pH 5, glucose formation
+19.1	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	60	5	X	mutant enzyme F355Y, 60C, 50 mM citrate phosphate buffer, pH 5, glucose formation
+0.36	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N	60	5	X	mutant enzyme W218A, 60C, 50 mM citrate phosphate buffer, pH 5, glucose formation
+0.54	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N	60	5	X	mutant enzyme W218F, 60C, 50 mM citrate phosphate buffer, pH 5, glucose formation
+8.23	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N	60	5	X	mutant enzyme Y328F, 60C, 50 mM citrate phosphate buffer, pH 5, glucose formation
+9.5	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N	60	5	X	mutant enzyme F355Y, 60C, 50 mM citrate phosphate buffer, pH 5, glucose formation
+12.6	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N	60	5	X	mutant enzyme R356K, 60C, 50 mM citrate phosphate buffer, pH 5, glucose formation
+13.5	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N	60	5	X	mutant enzyme A259S, 60C, 50 mM citrate phosphate buffer, pH 5, glucose formation
+18.2	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N				
+18.2	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N	60	5		wild-type enzyme, 60C, 50 mM citrate phosphate buffer, pH 5, glucose formation
+5	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N	60	5	X	mutant enzyme Y328F, 60C, 50 mM citrate phosphate buffer, pH 5, glucose formation
+5.49	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N	60	5	X	mutant enzyme F355Y, 60C, 50 mM citrate phosphate buffer, pH 5, glucose formation
+6.01	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N				
+6.01	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N	60	5		wild-type enzyme, 60C, 50 mM citrate phosphate buffer, pH 5, glucose formation
+6.49	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N	60	5	X	mutant enzyme A259S, 60C, 50 mM citrate phosphate buffer, pH 5, glucose formation; mutant enzyme R356K, 60C, 50 mM citrate phosphate buffer, pH 5, glucose formation
+2.15	maltooligosyltrehalose	3288	JYWXTNTUBHPENN-DCFYERRSSA-N	60	5	X	pH 5, 60C, calculated as the amount of trehalose released from the substrate, mutant enzyme H195A
+27.8	maltooligosyltrehalose	3288	JYWXTNTUBHPENN-DCFYERRSSA-N	60	5	X	pH 5, 60C, calculated as the amount of trehalose released from the substrate, mutant enzyme Y155F
+44.8	maltooligosyltrehalose	3288	JYWXTNTUBHPENN-DCFYERRSSA-N	60	5	X	pH 5, 60C, calculated as the amount of trehalose released from the substrate, mutant enzyme Y155A
+303	maltooligosyltrehalose	3288	JYWXTNTUBHPENN-DCFYERRSSA-N	60	5	X	pH 5, 60C, calculated as the amount of trehalose released from the substrate, mutant enzyme R447A
+608	maltooligosyltrehalose	3288	JYWXTNTUBHPENN-DCFYERRSSA-N	60	5	X	pH 5, 60C, calculated as the amount of trehalose released from the substrate, mutant enzyme D156A
+947	maltooligosyltrehalose	3288	JYWXTNTUBHPENN-DCFYERRSSA-N	60	5		pH 5, 60C, calculated as the amount of trehalose released from the substrate, wild-type enzyme
+1070	maltooligosyltrehalose	3288	JYWXTNTUBHPENN-DCFYERRSSA-N	60	5	X	pH 5, 60C, calculated as the amount of trehalose released from the substrate, mutant enzyme E450A
+16	maltotetraosyltrehalose	3489	WHOZUKCKVDCMGF-DWJDYNGGSA-N	60	5	X	mutant enzyme W218A, 60C, 50 mM citrate phosphate buffer, pH 5, trehalose formation
+58.4	maltotetraosyltrehalose	3489	WHOZUKCKVDCMGF-DWJDYNGGSA-N	60	5	X	mutant enzyme W218F, 60C, 50 mM citrate phosphate buffer, pH 5, trehalose formation
+627	maltotetraosyltrehalose	3489	WHOZUKCKVDCMGF-DWJDYNGGSA-N	60	5	X	mutant enzyme R356K, 60C, 50 mM citrate phosphate buffer, pH 5, trehalose formation
+654	maltotetraosyltrehalose	3489	WHOZUKCKVDCMGF-DWJDYNGGSA-N	60	5	X	mutant enzyme Y328F, 60C, 50 mM citrate phosphate buffer, pH 5, trehalose formation
+721	maltotetraosyltrehalose	3489	WHOZUKCKVDCMGF-DWJDYNGGSA-N	60	5	X	mutant enzyme F355Y, 60C, 50 mM citrate phosphate buffer, pH 5, trehalose formation
+1106	maltotetraosyltrehalose	3489	WHOZUKCKVDCMGF-DWJDYNGGSA-N	60	5	X	mutant enzyme A259S, 60C, 50 mM citrate phosphate buffer, pH 5, trehalose formation
+1192	maltotetraosyltrehalose	3489	WHOZUKCKVDCMGF-DWJDYNGGSA-N	60	5		wild-type enzyme, 60C, 50 mM citrate phosphate buffer, pH 5, trehalose formation
+572	maltotriosyltrehalose	4230	GUZBXMVHVQHCTQ-XFSSMLLMSA-N	60	5	X	mutant enzyme R356K, 60C, 50 mM citrate phosphate buffer, pH 5, trehalose formation
+634	maltotriosyltrehalose	4230	GUZBXMVHVQHCTQ-XFSSMLLMSA-N	60	5	X	mutant enzyme Y328F, 60C, 50 mM citrate phosphate buffer, pH 5, trehalose formation
+734	maltotriosyltrehalose	4230	GUZBXMVHVQHCTQ-XFSSMLLMSA-N	60	5	X	mutant enzyme F355Y, 60C, 50 mM citrate phosphate buffer, pH 5, trehalose formation
+1002	maltotriosyltrehalose	4230	GUZBXMVHVQHCTQ-XFSSMLLMSA-N	60	5	X	mutant enzyme A259S, 60C, 50 mM citrate phosphate buffer, pH 5, trehalose formation
+1030	maltotriosyltrehalose	4230	GUZBXMVHVQHCTQ-XFSSMLLMSA-N	60	5		wild-type enzyme, 60C, 50 mM citrate phosphate buffer, pH 5, trehalose formation
+675	maltopentaosyltrehalose	4742	FYAVRYBOESOZQJ-LWNSMOKTSA-N	60	5	X	mutant enzyme R356K, 60C, 50 mM citrate phosphate buffer, pH 5, trehalose formation
+741	maltopentaosyltrehalose	4742	FYAVRYBOESOZQJ-LWNSMOKTSA-N	60	5	X	mutant enzyme F355Y, 60C, 50 mM citrate phosphate buffer, pH 5, trehalose formation
+760	maltopentaosyltrehalose	4742	FYAVRYBOESOZQJ-LWNSMOKTSA-N	60	5	X	mutant enzyme Y328F, 60C, 50 mM citrate phosphate buffer, pH 5, trehalose formation
+1226	maltopentaosyltrehalose	4742	FYAVRYBOESOZQJ-LWNSMOKTSA-N	60	5		wild-type enzyme, 60C, 50 mM citrate phosphate buffer, pH 5, trehalose formation
+1282	maltopentaosyltrehalose	4742	FYAVRYBOESOZQJ-LWNSMOKTSA-N	60	5	X	mutant enzyme A259S, 60C, 50 mM citrate phosphate buffer, pH 5, trehalose formation
+1190	maltotetraosyl trehalose	3489	WHOZUKCKVDCMGF-DWJDYNGGSA-N				
+1230	maltopentaosyl trehalose	4742	FYAVRYBOESOZQJ-LWNSMOKTSA-N				
+1030	maltotriosyl trehalose	4230	GUZBXMVHVQHCTQ-XFSSMLLMSA-N				
+193	maltosyl trehalose	6307	CAKGLMPBYAPFCR-UWBMNBDUSA-N				

@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+6	Maleate	474	VZCYOOQTPOCHFL-UPHRSURJSA-N	60	9.0		pH 9.0, 60C, recombinant enzyme, hydrolase reaction
+0.48	but-1-ene-1,2,4-tricarboxylic acid	3067	BJYPZFUWWJSAKC-ARJAWSKDSA-N			X	mutant enzyme R26V
+0.75	but-1-ene-1,2,4-tricarboxylic acid	3067	BJYPZFUWWJSAKC-ARJAWSKDSA-N				wild type enzyme
+1.43	but-1-ene-1,2,4-tricarboxylic acid	3067	BJYPZFUWWJSAKC-ARJAWSKDSA-N			X	mutant enzyme R26K
+1.7	but-1-ene-1,2,4-tricarboxylic acid	3067	BJYPZFUWWJSAKC-ARJAWSKDSA-N			X	mutant enzyme R26V/T27Y
+2.5	but-1-ene-1,2,4-tricarboxylic acid	3067	BJYPZFUWWJSAKC-ARJAWSKDSA-N			X	mutant enzyme T27A
+0.66	(1E)-pent-1-ene-1,2,5-tricarboxylic acid	5953	WXZASCSXAMHFCX-SNAWJCMRSA-N				wild type enzyme
+2.2	(1E)-pent-1-ene-1,2,5-tricarboxylic acid	5953	WXZASCSXAMHFCX-SNAWJCMRSA-N			X	mutant enzyme T27A
+5.8	(1E)-pent-1-ene-1,2,5-tricarboxylic acid	5953	WXZASCSXAMHFCX-SNAWJCMRSA-N			X	mutant enzyme R26V
+6.6	(1E)-pent-1-ene-1,2,5-tricarboxylic acid	5953	WXZASCSXAMHFCX-SNAWJCMRSA-N			X	mutant enzyme R26V/T27Y
+1.9	(1E)-hex-1-ene-1,2,6-tricarboxylic acid	5954	NGULBISQWGMRGK-AATRIKPKSA-N			X	mutant enzyme R26V/T27Y
+2.5	(1E)-hex-1-ene-1,2,6-tricarboxylic acid	5954	NGULBISQWGMRGK-AATRIKPKSA-N				wild type enzyme
+2.8	(1E)-hex-1-ene-1,2,6-tricarboxylic acid	5954	NGULBISQWGMRGK-AATRIKPKSA-N			X	mutant enzyme R26V
+4.1	(1E)-hex-1-ene-1,2,6-tricarboxylic acid	5954	NGULBISQWGMRGK-AATRIKPKSA-N			X	mutant enzyme T27A
+0.75	cis-homoaconitate	3067	BJYPZFUWWJSAKC-ARJAWSKDSA-N	60	9.0		pH 9.0, 60C, recombinant enzyme, hydrolase reaction
+0.66	cis-homo2aconitate	17403	WXZASCSXAMHFCX-PLNGDYQASA-N	60	9.0		pH 9.0, 60C, recombinant enzyme, hydrolase reaction
+2.5	cis-homo3aconitate	6012	NGULBISQWGMRGK-WAYWQWQTSA-N	60	9.0		pH 9.0, 60C, recombinant enzyme, hydrolase reaction
+5.6	cis-homo4aconitate	17404	OIHOEYAIQHTUPH-SREVYHEPSA-N	60	9.0		pH 9.0, 60C, recombinant enzyme, hydrolase reaction
+0.37	(R)-homocitrate	12070	XKJVEVRQMLKSMO-SSDOTTSWSA-N	60	8.5		pH 8.5, 60C, recombinant enzyme, dehydratase reaction

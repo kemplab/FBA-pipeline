@@ -1,0 +1,47 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+12.4	acetonitrile	754	WEVYAHXRMPXWCK-UHFFFAOYSA-N				
+41	acetonitrile	754	WEVYAHXRMPXWCK-UHFFFAOYSA-N	37	7.5		+/- 0.9, 10 mM HEPES, pH 7.5, 37C
+4.9	Benzonitrile	859	JFDZBHWFFUWGJE-UHFFFAOYSA-N	25	7.6	X	pH 7.6, 25C, recombinant mutant alphaY114T; pH 7.6, 25C, recombinant mutant alphaY114T
+7.4	Benzonitrile	859	JFDZBHWFFUWGJE-UHFFFAOYSA-N	25	7.6	X	pH 7.6, 25C, recombinant mutant betaY68F; pH 7.6, 25C, recombinant mutant betaY68F
+123	Benzonitrile	859	JFDZBHWFFUWGJE-UHFFFAOYSA-N	25	7.6		pH 7.6, 25C, recombinant wild-type enzyme; pH 7.6, 25C, recombinant wild-type enzyme
+132	Benzonitrile	859	JFDZBHWFFUWGJE-UHFFFAOYSA-N	25	7.6	X	pH 7.6, 25C, recombinant mutant alphaT109S; pH 7.6, 25C, recombinant mutant alphaT109S
+2	acrylonitrile	1306	NLHHRLWOUZZQLW-UHFFFAOYSA-N	37	7.5		+/- 0.5, 10 mM HEPES, pH 7.5, 37C
+15.2	acrylonitrile	1306	NLHHRLWOUZZQLW-UHFFFAOYSA-N	25	7.6	X	pH 7.6, 25C, recombinant mutant betaY68F; pH 7.6, 25C, recombinant mutant betaY68F
+33.9	acrylonitrile	1306	NLHHRLWOUZZQLW-UHFFFAOYSA-N	25	7.6	X	pH 7.6, 25C, recombinant mutant alphaY114T; pH 7.6, 25C, recombinant mutant alphaY114T
+621	acrylonitrile	1306	NLHHRLWOUZZQLW-UHFFFAOYSA-N	25	7.6	X	pH 7.6, 25C, recombinant mutant alphaT109S; pH 7.6, 25C, recombinant mutant alphaT109S
+1910	acrylonitrile	1306	NLHHRLWOUZZQLW-UHFFFAOYSA-N	25	7.6		pH 7.6, 25C, recombinant wild-type enzyme; pH 7.6, 25C, recombinant wild-type enzyme
+17.3	3-Cyanopyridine	1327	GZPHSAQLYPIAIN-UHFFFAOYSA-N	50			EupergitC-immobilized NHase, at 50C
+35	3-Cyanopyridine	1327	GZPHSAQLYPIAIN-UHFFFAOYSA-N		65		pH 65, temperature not specified in the publication, recombinant monomeric alpha enzyme; pH 65, temperature not specified in the publication, recombinant monomeric alpha enzyme; pH 65, temperature not specified in the publication, recombinant monomeric alpha enzyme
+79	3-Cyanopyridine	1327	GZPHSAQLYPIAIN-UHFFFAOYSA-N		65		pH 65, temperature not specified in the publication, recombinant trimeric enzyme; pH 65, temperature not specified in the publication, recombinant trimeric enzyme; pH 65, temperature not specified in the publication, recombinant trimeric enzyme
+131	3-Cyanopyridine	1327	GZPHSAQLYPIAIN-UHFFFAOYSA-N	25	7.6		pH 7.6, 25C, recombinant wild-type enzyme; pH 7.6, 25C, recombinant wild-type enzyme
+629.6	3-Cyanopyridine	1327	GZPHSAQLYPIAIN-UHFFFAOYSA-N	50			soluble NHase, at 50C
+443.3	2-Cyanopyridine	1477	FFNVQNRYTPFDDP-UHFFFAOYSA-N	50			soluble NHase, at 50C
+0.0000065	Methacrylonitrile	1873	GYCMBHHDWRMZGG-UHFFFAOYSA-N	22	7.5	X	mutant enzyme S113A, in 50 mM sodium phosphate, pH 7.5, at 22C
+0.000016	Methacrylonitrile	1873	GYCMBHHDWRMZGG-UHFFFAOYSA-N	22	7.5		wild type enzyme, in 50 mM sodium phosphate, pH 7.5, at 22C
+14.1	Methacrylonitrile	1873	GYCMBHHDWRMZGG-UHFFFAOYSA-N	25	7.6	X	pH 7.6, 25C, recombinant mutant betaY68F; pH 7.6, 25C, recombinant mutant betaY68F
+34.6	Methacrylonitrile	1873	GYCMBHHDWRMZGG-UHFFFAOYSA-N	25	7.6	X	pH 7.6, 25C, recombinant mutant alphaY114T; pH 7.6, 25C, recombinant mutant alphaY114T
+120	Methacrylonitrile	1873	GYCMBHHDWRMZGG-UHFFFAOYSA-N			X	mutant betaR56K
+482	Methacrylonitrile	1873	GYCMBHHDWRMZGG-UHFFFAOYSA-N	25	7.6	X	pH 7.6, 25C, recombinant mutant alphaT109S; pH 7.6, 25C, recombinant mutant alphaT109S
+1000	Methacrylonitrile	1873	GYCMBHHDWRMZGG-UHFFFAOYSA-N	25	7.6		pH 7.6, 25C, recombinant wild-type enzyme; pH 7.6, 25C, recombinant wild-type enzyme
+2600	Methacrylonitrile	1873	GYCMBHHDWRMZGG-UHFFFAOYSA-N			X	mutant alphaQ90N
+13000	Methacrylonitrile	1873	GYCMBHHDWRMZGG-UHFFFAOYSA-N			X	mutant alphaQ90E
+55000	Methacrylonitrile	1873	GYCMBHHDWRMZGG-UHFFFAOYSA-N				wild type
+0.0035	n-valeronitrile	1889	RFFFKMOABOFIDF-UHFFFAOYSA-N	0	6.7	X	pH 6.7, 0C, recombinant mutant betaE56Q
+0.0045	n-valeronitrile	1889	RFFFKMOABOFIDF-UHFFFAOYSA-N	0	6.7	X	pH 6.7, 0C, recombinant mutant alphaD164N
+0.01	n-valeronitrile	1889	RFFFKMOABOFIDF-UHFFFAOYSA-N	0	6.7	X	pH 6.7, 0C, recombinant mutant alphaR170N
+0.012	n-valeronitrile	1889	RFFFKMOABOFIDF-UHFFFAOYSA-N	0	6.7	X	pH 6.7, 0C, recombinant mutant betaH147N
+0.02	n-valeronitrile	1889	RFFFKMOABOFIDF-UHFFFAOYSA-N	0	6.7	X	pH 6.7, 0C, recombinant mutant betaH71L
+0.025	n-valeronitrile	1889	RFFFKMOABOFIDF-UHFFFAOYSA-N	0	6.7	X	pH 6.7, 0C, recombinant mutant betaH71N
+0.027	n-valeronitrile	1889	RFFFKMOABOFIDF-UHFFFAOYSA-N	0	6.7	X	pH 6.7, 0C, recombinant mutant betaH71F
+0.04	n-valeronitrile	1889	RFFFKMOABOFIDF-UHFFFAOYSA-N	0	6.7	X	pH 6.7, 0C, recombinant mutant betaY215F
+0.0617	n-valeronitrile	1889	RFFFKMOABOFIDF-UHFFFAOYSA-N	0	6.7	X	pH 6.7, 0C, recombinant mutant alphaE168Q
+0.217	n-valeronitrile	1889	RFFFKMOABOFIDF-UHFFFAOYSA-N	0	6.7	X	pH 6.7, 0C, recombinant mutant alphaY171F
+0.327	n-valeronitrile	1889	RFFFKMOABOFIDF-UHFFFAOYSA-N	0	6.7		pH 6.7, 0C, recombinant wild-type enzyme
+2.6	Propionitrile	2137	FVSKHRXBFJPNKK-UHFFFAOYSA-N	37	7.5		+/- 0.2, 10 mM HEPES, pH 7.5, 37C
+30.7	Propionitrile	2137	FVSKHRXBFJPNKK-UHFFFAOYSA-N				
+59.05	4-cyanopyridine	2814	GPHQHTOMRSGBNZ-UHFFFAOYSA-N	50			soluble NHase, at 50C
+90	4-cyanopyridine	2814	GPHQHTOMRSGBNZ-UHFFFAOYSA-N	25	7.6		pH 7.6, 25C, recombinant wild-type enzyme; pH 7.6, 25C, recombinant wild-type enzyme
+0.99	Butyronitrile	3867	KVNRLNFWIYMESJ-UHFFFAOYSA-N	37	7.5		+/- 0.04, 10 mM HEPES, pH 7.5, 37C
+0.44	Toyocamycin	7267	XOKJUSAYZUAMGJ-UHFFFAOYSA-N		65		pH 65, temperature not specified in the publication, recombinant monomeric alpha enzyme; pH 65, temperature not specified in the publication, recombinant monomeric alpha enzyme; pH 65, temperature not specified in the publication, recombinant monomeric alpha enzyme
+159	Toyocamycin	7267	XOKJUSAYZUAMGJ-UHFFFAOYSA-N		65		pH 65, temperature not specified in the publication, recombinant trimeric enzyme; pH 65, temperature not specified in the publication, recombinant trimeric enzyme; pH 65, temperature not specified in the publication, recombinant trimeric enzyme
+76.3	Valeronitrile	1889	RFFFKMOABOFIDF-UHFFFAOYSA-N				

@@ -1,0 +1,107 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+40	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N				enzyme from normal liver
+50	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N				enzyme from liver of AH-130 hepatoma-bearing rats
+65	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N				enzyme from AH-130 hepatoma cells
+25	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N				enzyme from liver of AH-130 hepatoma-bearing rats
+30	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N				enzyme from normal liver
+95	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N				enzyme from AH-130 hepatoma cells
+2.2	(7-methoxycoumarin-4-yl)acetyl-Gly-Ser-Pro-Ala-Phe-Leu-Ala-Lys(Dnp)-D-Arg-NH2	3704	NSIRVLHIYQWTDO-BRHSRUOZSA-N	40	4.0		40C, pH 4.0, spleen cathepsin D
+2.5	(7-methoxycoumarin-4-yl)acetyl-Gly-Ser-Pro-Ala-Phe-Leu-Ala-Lys(Dnp)-D-Arg-NH2	3704	NSIRVLHIYQWTDO-BRHSRUOZSA-N	40	4.0		40C, pH 4.0, gastric cathepsin D
+1.5	EEISEVNLDAEFRG	5174	LJROJIRDVMPBJC-WRPTVFPOSA-N				
+31.4	EEISEVNLDAEFRG	5174	LJROJIRDVMPBJC-WRPTVFPOSA-N				
+56.1	EEISEVNLDAEFRG	5174	LJROJIRDVMPBJC-WRPTVFPOSA-N				
+8.8	SEVNLDAEFR	5849	JONOLKHIDOKDGP-RDICLXJSSA-N				
+29	SEVNLDAEFR	5849	JONOLKHIDOKDGP-RDICLXJSSA-N				
+6.18	2-aminobenzoyl-AIKFFSAQ-N-(2,4-dinitrophenyl)ethylenediamine	6511	OVIHPMWZRBQNGQ-IDQWHXLKSA-N	37	4.0		pH 4.0, 37C
+6.34	2-aminobenzoyl-AIKFFSAQ-N-(2,4-dinitrophenyl)ethylenediamine	6511	OVIHPMWZRBQNGQ-IDQWHXLKSA-N	37	4.0		pH 4.0, 37C
+6.34	2-aminobenzoyl-AIKFFSAQ-N-(2,4-dinitrophenyl)ethylenediamine	6511	OVIHPMWZRBQNGQ-IDQWHXLKSA-N	37	4.0		37C, pH 4.0
+2.3	2-aminobenzoyl-KITLLSAQ-N-(2,4-dinitrophenyl)ethylenediamine	8972	QWLNHPNAIAOIGV-NFAKXCNGSA-N	37	4.0		37C, pH 4.0
+3.6	2-aminobenzoyl-KITLLSAQ-N-(2,4-dinitrophenyl)ethylenediamine	8972	QWLNHPNAIAOIGV-NFAKXCNGSA-N	37	4.0		37C, pH 4.0
+2.44	2-aminobenzoyl-AIKFFSAQTNRHILRFNR-(2,4-dinitrophenyl)-D	11572	RRXFVHXOOMHZGY-AKIRJMSWSA-N	37	4.0		37C, pH 4.0
+2.94	2-aminobenzoyl-AIKFFSAQTNRHILRFNR-(2,4-dinitrophenyl)-D	11572	RRXFVHXOOMHZGY-AKIRJMSWSA-N	37	4.0		37C, pH 4.0
+3.13	2-aminobenzoyl-AIKFFSA-(2,4-dinitrophenyl)-D	11573	LFILTAXOZCZDBZ-BJFYQDPESA-N	37	4.0		37C, pH 4.0
+4.16	2-aminobenzoyl-AIKFFSA-(2,4-dinitrophenyl)-D	11573	LFILTAXOZCZDBZ-BJFYQDPESA-N	37	4.0		37C, pH 4.0
+0.75	(7-methoxycoumarin-4-yl)acetyl-Gly-Ser-Ser-Ala-Phe-Leu-Ala-Phe-Lys(Dnp)-D-Arg-NH2	12040	ZWUZRUWGNICLMS-DRTWLRDBSA-N	40	4.0		40C, pH 4.0, gastric cathepsin D
+59.6	(7-methoxycoumarin-4-yl)acetyl-Gly-Lys-Pro-Ile-Ile-Phe-Phe-Arg-Leu-Lys(Dnp)-D-Arg-NH2	12041	WSWLEQKIZOCLHW-JRVAGWLXSA-N	40	4.0		40C, pH 4.0, gastric cathepsin D
+2.44	2-aminobenzoyl-AIKFFSAQTNRHILRFNRQ-N-(2,4-dinitrophenyl)ethylenediamine	14860	UTKOGOYDQDSTSR-YCGYAXBLSA-N	37	4.0		pH 4.0, 37C
+2.94	2-aminobenzoyl-AIKFFSAQTNRHILRFNRQ-N-(2,4-dinitrophenyl)ethylenediamine	14860	UTKOGOYDQDSTSR-YCGYAXBLSA-N	37	4.0		pH 4.0, 37C
+3.3	2-aminobenzoyl-AIKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14861	BYIHTEJRYGNLSF-BJICBNTHSA-N	37	4.0		pH 4.0, 37C
+4.88	2-aminobenzoyl-AIKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14861	BYIHTEJRYGNLSF-BJICBNTHSA-N	37	4.0		pH 4.0, 37C
+0.98	2-aminobenzoyl-AIKLLSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14862	FJSLEFNSKACWCZ-FNOLSUKXSA-N	37	4.0		pH 4.0, 37C
+6.08	2-aminobenzoyl-AIKLLSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14862	FJSLEFNSKACWCZ-FNOLSUKXSA-N	37	4.0		pH 4.0, 37C
+0.03	2-aminobenzoyl-AIKLFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14863	NFNWLSGNGKDAIK-JYGGFKLQSA-N	37	4.0		pH 4.0, 37C
+7.15	2-aminobenzoyl-AIKLFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14863	NFNWLSGNGKDAIK-JYGGFKLQSA-N	37	4.0		pH 4.0, 37C
+2.28	2-aminobenzoyl-AIKLMSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14864	RWSVWGMCJLZWOW-YSYCBRDISA-N	37	4.0		pH 4.0, 37C
+2.94	2-aminobenzoyl-AIKLMSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14864	RWSVWGMCJLZWOW-YSYCBRDISA-N	37	4.0		pH 4.0, 37C
+0.84	2-aminobenzoyl-AIVFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14865	UGABSLFEJXBRSC-JWIJPXTJSA-N	37	4.0		pH 4.0, 37C
+6.08	2-aminobenzoyl-AIVFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14865	UGABSLFEJXBRSC-JWIJPXTJSA-N	37	4.0		pH 4.0, 37C
+2.47	2-aminobenzoyl-AIMFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14866	HBSLZMMHYNBXHZ-XXFDKOQZSA-N	37	4.0		pH 4.0, 37C
+2.94	2-aminobenzoyl-AIMFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14866	HBSLZMMHYNBXHZ-XXFDKOQZSA-N	37	4.0		pH 4.0, 37C
+0.04	2-aminobenzoyl-AISFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14867	UULWCNRMAUHKSA-YZFLYNLASA-N	37	4.0		pH 4.0, 37C
+8.78	2-aminobenzoyl-AISFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14867	UULWCNRMAUHKSA-YZFLYNLASA-N	37	4.0		pH 4.0, 37C
+5.53	2-aminobenzoyl-AITFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14868	MOWMCQUVYHXDJD-PWMSOGDXSA-N	37	4.0		pH 4.0, 37C
+0.03	2-aminobenzoyl-AIEFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14869	PSCIWTQFSIJVKN-REUBDYRSSA-N	37	4.0		pH 4.0, 37C
+7.48	2-aminobenzoyl-AIEFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14869	PSCIWTQFSIJVKN-REUBDYRSSA-N	37	4.0		pH 4.0, 37C
+0.04	2-aminobenzoyl-AVKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14870	YZSXWTUVCZCNLV-RCNZJKIYSA-N	37	4.0		pH 4.0, 37C
+8.78	2-aminobenzoyl-AVKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14870	YZSXWTUVCZCNLV-RCNZJKIYSA-N	37	4.0		pH 4.0, 37C
+3.13	2-aminobenzoyl-ATKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14871	DKMQBROCSQUVRW-HRILOADJSA-N	37	4.0		pH 4.0, 37C
+3.58	2-aminobenzoyl-ATKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14871	DKMQBROCSQUVRW-HRILOADJSA-N	37	4.0		pH 4.0, 37C
+2.28	2-aminobenzoyl-AQKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14872	CTTHGGKWNSXUEV-QFAVXEHGSA-N	37	4.0		pH 4.0, 37C
+2.94	2-aminobenzoyl-AQKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14872	CTTHGGKWNSXUEV-QFAVXEHGSA-N	37	4.0		pH 4.0, 37C
+6.18	2-aminobenzoyl-AEKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14873	ALKILZSZCBILJK-QFAVXEHGSA-N	37	4.0		pH 4.0, 37C
+2.93	2-aminobenzoyl-APKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14874	JDLZMNRVUNYRCY-LXSLRHBASA-N	37	4.0		pH 4.0, 37C
+3	2-aminobenzoyl-APKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14874	JDLZMNRVUNYRCY-LXSLRHBASA-N	37	4.0		pH 4.0, 37C
+1.63	2-aminobenzoyl-AIKFFLRQ-N-(2,4-dinitrophenyl)ethylenediamine	14875	AIUKPEQJKQUQKZ-UHFFFAOYSA-N	37	4.0		pH 4.0, 37C
+2.94	2-aminobenzoyl-AIKFFLRQ-N-(2,4-dinitrophenyl)ethylenediamine	14875	AIUKPEQJKQUQKZ-UHFFFAOYSA-N	37	4.0		pH 4.0, 37C
+1.63	2-aminobenzoyl-AIKFFVRQ-N-(2,4-dinitrophenyl)ethylenediamine	14876	LJDCLSZCGHCONA-CTYQDKRSSA-N	37	4.0		pH 4.0, 37C
+2.94	2-aminobenzoyl-AIKFFVRQ-N-(2,4-dinitrophenyl)ethylenediamine	14876	LJDCLSZCGHCONA-CTYQDKRSSA-N	37	4.0		pH 4.0, 37C
+1.63	2-aminobenzoyl-AIKFFTRQ-N-(2,4-dinitrophenyl)ethylenediamine	14877	HACCWFHIOYFAIU-CFLMBSESSA-N	37	4.0		pH 4.0, 37C
+2.94	2-aminobenzoyl-AIKFFTRQ-N-(2,4-dinitrophenyl)ethylenediamine	14877	HACCWFHIOYFAIU-CFLMBSESSA-N	37	4.0		pH 4.0, 37C
+0.98	2-aminobenzoyl-AIKFFNRQ-N-(2,4-dinitrophenyl)ethylenediamine	14878	MUMGQJYPRKITGX-SHYKWWTJSA-N	37	4.0		pH 4.0, 37C
+6.08	2-aminobenzoyl-AIKFFNRQ-N-(2,4-dinitrophenyl)ethylenediamine	14878	MUMGQJYPRKITGX-SHYKWWTJSA-N	37	4.0		pH 4.0, 37C
+2.28	2-aminobenzoyl-AIKFFERQ-N-(2,4-dinitrophenyl)ethylenediamine	14879	QANWBMHQPOKWRQ-FJPHSBRTSA-N	37	4.0		pH 4.0, 37C
+2.94	2-aminobenzoyl-AIKFFERQ-N-(2,4-dinitrophenyl)ethylenediamine	14879	QANWBMHQPOKWRQ-FJPHSBRTSA-N	37	4.0		pH 4.0, 37C
+1.63	2-aminobenzoyl-AIKFFSIQ-N-(2,4-dinitrophenyl)ethylenediamine	14880	HPGSSDPINHLZSO-VVGPZEMJSA-N	37	4.0		pH 4.0, 37C
+2.94	2-aminobenzoyl-AIKFFSIQ-N-(2,4-dinitrophenyl)ethylenediamine	14880	HPGSSDPINHLZSO-VVGPZEMJSA-N	37	4.0		pH 4.0, 37C
+2.28	2-aminobenzoyl-AIKFFSVQ-N-(2,4-dinitrophenyl)ethylenediamine	14881	MKWHPVUQSHYADP-AJCXRLBASA-N	37	4.0		pH 4.0, 37C
+2.94	2-aminobenzoyl-AIKFFSVQ-N-(2,4-dinitrophenyl)ethylenediamine	14881	MKWHPVUQSHYADP-AJCXRLBASA-N	37	4.0		pH 4.0, 37C
+0.98	2-aminobenzoyl-AIKFFSSQ-N-(2,4-dinitrophenyl)ethylenediamine	14882	JBUHFLXYABPHFR-GNWQFHHXSA-N	37	4.0		pH 4.0, 37C
+6.08	2-aminobenzoyl-AIKFFSSQ-N-(2,4-dinitrophenyl)ethylenediamine	14882	JBUHFLXYABPHFR-GNWQFHHXSA-N	37	4.0		pH 4.0, 37C
+3.3	2-aminobenzoyl-AIKFFSOQ-N-(2,4-dinitrophenyl)ethylenediamine	14883	MUCPNVNOYHRQSF-BJICBNTHSA-N	37	4.0		pH 4.0, 37C
+4.88	2-aminobenzoyl-AIKFFSOQ-N-(2,4-dinitrophenyl)ethylenediamine	14883	MUCPNVNOYHRQSF-BJICBNTHSA-N	37	4.0		pH 4.0, 37C
+3.13	2-aminobenzoyl-AIKFFSEQ-N-(2,4-dinitrophenyl)ethylenediamine	14884	JAZMQCIKRKPIPD-PCXRDTPZSA-N	37	4.0		pH 4.0, 37C
+3.58	2-aminobenzoyl-AIKFFSEQ-N-(2,4-dinitrophenyl)ethylenediamine	14884	JAZMQCIKRKPIPD-PCXRDTPZSA-N	37	4.0		pH 4.0, 37C
+0.99	2-aminobenzoyl-AIKFFSAQTNR-(2,4-dinitrophenyl)-D	14885	NJRVXBYDIHNXDH-LZGYSYBZSA-N	37	4.0		37C, pH 4.0
+2.8	2-aminobenzoyl-KITLLSALVETRQ-N-(2,4-dinitrophenyl)ethylenediamine	14886	GJRFLZBEMAMVJC-PYWFIUDLSA-N	37	4.0		37C, pH 4.0
+0.17	2-aminobenzoyl-KITLLSALVETRIVRFNRQ-N-(2,4-dinitrophenyl)ethylenediamine	14887	XNBFSSPWRAITJC-NYQWFAPASA-N	37	4.0		37C, pH 4.0
+0.4	Glu-Glu-His-Phe-Phe-Ala-Ala	21144	UYKYFLIYYRSECF-IJZGHAINSA-N				
+2.1	Glu-Glu-His-Phe-Phe-Ala-Leu-methyl ester	21145	JINITMPYGLXMPA-OLPQHFNPSA-N				
+2.9	Phe-Ala-Ala-(4-nitro)Phe-Phe-Val-Leu-4-hydroxymethylpyridine ester	21226	FKBWEYKSEKZNRU-HXRRWINNSA-N				
+0.6	Phe-Gly-Gly-(4-nitro)Phe-Phe-Val-Leu-methyl ester	21228	AMCIQXCJGPAGJY-XYUKPJNRSA-N				
+0.99	2-aminobenzoyl-AIKFFSAQTNRQ-N-(2,4-dinitrophenyl)ethylenediamine	22854	DFMSRUPBYLYAAJ-WHDACBRJSA-N	37	4.0		pH 4.0, 37C
+1.3	2-aminobenzoyl-AIKMMSRQ-N-(2,4-dinitrophenyl)ethylenediamine	22855	LNJTZZHYIXENSY-DYUORJJLSA-N	37	4.0		pH 4.0, 37C
+0.52	2-aminobenzoyl-AIKMFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	22856	VRMGRSODTYBBBQ-ZPSFHWJLSA-N	37	4.0		pH 4.0, 37C
+1.3	2-aminobenzoyl-AIKMFLRQ-N-(2,4-dinitrophenyl)ethylenediamine	22857	KNSCMZYWHBPXPM-AFDNVQLJSA-N	37	4.0		pH 4.0, 37C
+1.3	2-aminobenzoyl-AIKFMSRQ-N-(2,4-dinitrophenyl)ethylenediamine	22858	LVYZFLFLPHBOEY-ZPSFHWJLSA-N	37	4.0		pH 4.0, 37C
+7.8	2-aminobenzoyl-AILFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	14875	AIUKPEQJKQUQKZ-UHFFFAOYSA-N	37	4.0		pH 4.0, 37C
+0.47	2-aminobenzoyl-AIIFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	22859	KNJGGHYHRXLLIR-QAJSYTDWSA-N	37	4.0		pH 4.0, 37C
+16.3	2-aminobenzoyl-AIAFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	22860	RTEBTTQCXYOZKX-GYHJOXPUSA-N	37	4.0		pH 4.0, 37C
+8.45	2-aminobenzoyl-AINFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	22861	ZDQWGKGSTWUQDO-BUIYRMJXSA-N	37	4.0		pH 4.0, 37C
+0.41	2-aminobenzoyl-AIQFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	22862	KSCSRYWHNGSIBF-REUBDYRSSA-N	37	4.0		pH 4.0, 37C
+0.081	2-aminobenzoyl-AIPFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	22863	QDGLUSZRZWINKM-XXFDKOQZSA-N	37	4.0		pH 4.0, 37C
+0.97	2-aminobenzoyl-ALKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	22864	MSIGKGJVJRKNGC-LBLRQDLJSA-N	37	4.0		pH 4.0, 37C
+2.6	2-aminobenzoyl-AAKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	22865	UGPOSGZCADRRDZ-MYOGGYBBSA-N	37	4.0		pH 4.0, 37C
+0.65	2-aminobenzoyl-ASKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	22866	FBSQJLBDAYQOBE-KRZLUWPXSA-N	37	4.0		pH 4.0, 37C
+5.85	2-aminobenzoyl-ANKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	22867	UYQLBYVOHJYGAR-KRZLUWPXSA-N	37	4.0		pH 4.0, 37C
+1.3	2-aminobenzoyl-AKKFFSRQ-N-(2,4-dinitrophenyl)ethylenediamine	22868	WHQCKKCNZQIRGE-LBLRQDLJSA-N	37	4.0		pH 4.0, 37C
+0.65	2-aminobenzoyl-AIKFFIRQ-N-(2,4-dinitrophenyl)ethylenediamine	22869	ZMTUQGJRYOJVLQ-WHQWGBEOSA-N	37	4.0		pH 4.0, 37C
+3.9	2-aminobenzoyl-AIKFFARQ-N-(2,4-dinitrophenyl)ethylenediamine	22870	OSFVHPBHMQMPEL-CZRJYXOCSA-N	37	4.0		pH 4.0, 37C
+1.3	2-aminobenzoyl-AIKFFORQ-N-(2,4-dinitrophenyl)ethylenediamine	22871	VWTWWYRVIYMKFU-UDGGRWSASA-N	37	4.0		pH 4.0, 37C
+0.65	2-aminobenzoyl-AIKFFKRQ-N-(2,4-dinitrophenyl)ethylenediamine	22872	DYCLEUMKIBRUCT-SKDQSFASSA-N	37	4.0		pH 4.0, 37C
+1.95	2-aminobenzoyl-AIKFFRRQ-N-(2,4-dinitrophenyl)ethylenediamine	22873	SOKILPATRIMZIC-UDGGRWSASA-N	37	4.0		pH 4.0, 37C
+2.6	2-aminobenzoyl-AIKFFSLQ-N-(2,4-dinitrophenyl)ethylenediamine	22874	DIANJGFHXQHRDU-FEDQAFKCSA-N	37	4.0		pH 4.0, 37C
+2.6	2-aminobenzoyl-AIKFFSTQ-N-(2,4-dinitrophenyl)ethylenediamine	22875	NGGKZPDROLFJHJ-LBNQTLGVSA-N	37	4.0		pH 4.0, 37C
+3.25	2-aminobenzoyl-AIKFFSNQ-N-(2,4-dinitrophenyl)ethylenediamine	22876	GNBCUPCXYYRFLT-REUBDYRSSA-N	37	4.0		pH 4.0, 37C
+1.3	2-aminobenzoyl-AIKFFSKQ-N-(2,4-dinitrophenyl)ethylenediamine	22877	VEVSRCVSIWHHBC-FEDQAFKCSA-N	37	4.0		pH 4.0, 37C
+1.3	2-aminobenzoyl-AIKFFSPQ-N-(2,4-dinitrophenyl)ethylenediamine	22878	BYIFCEOLUDUOGW-BJICBNTHSA-N	37	4.0		pH 4.0, 37C
+2.6	2-aminobenzoyl-AIKYYSRQ-N-(2,4-dinitrophenyl)ethylenediamine	35973	STMXZCOXURNWNC-AREKWIGLSA-N	37	4.0		pH 4.0, 37C

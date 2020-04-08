@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.035	rhodosaminyl aklavinone	28304	LJZPVWKMAYDYAS-QKKPTTNWSA-N	25	7.5		with TDP-L-daunosamine as cosubstrate, in 75 mM Tris (pH 7.5), 12 mM MgCl2, at 25C
+0.09	idarubicin	13394	XDXDZDZNSLXDNA-TZNDIEGXSA-N	25	7.5		in 75 mM Tris (pH 7.5), 12 mM MgCl2, at 25C
+1.09	rhodosaminyl aklavinone	28304	LJZPVWKMAYDYAS-QKKPTTNWSA-N	25	7.5		with TDP-L-2-deoxyfucose as cosubstrate, in 75 mM Tris (pH 7.5), 12 mM MgCl2, at 25C

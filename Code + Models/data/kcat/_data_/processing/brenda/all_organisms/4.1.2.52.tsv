@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.17	4-hydroxy-2-oxopentanoic acid	907	HFKQINMYQUXOCH-UHFFFAOYSA-N	25	8.0	X	H45Q mutant enzyme, pH 8.0, 25C
+0.55	3-deoxy-D-manno-oct-2-ulosonic acid	118796	KYQCXUMVJGMDNG-SHUUEZRQSA-N	25	8.0		i.e. KDO, pH 8.0, 25C
+4.5	4-hydroxy-2-oxopentanoic acid	907	HFKQINMYQUXOCH-UHFFFAOYSA-N	25	8.0	X	H45A mutant enzyme, pH 8.0, 25C
+5.6	DL-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	25	8.0		Kcat(app) with pyruvate as carbonyl donor, pH 8.0 and 25C
+11.8	(S)-4-hydroxy-2-oxopentanoate	3504	HFKQINMYQUXOCH-VKHMYHEASA-N	25	8.0	X	mutant enzyme R70K, with 0.5 mM Co2+, at pH 8.0 and 25C
+14	2-oxo-3-methyl-4-hydroxypentanoate	118842	LWHINZJANGNUBR-UHFFFAOYSA-N	25	8.0		wild type enzyme, at pH 8.0 and 25C
+21.9	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	25	8.0		Kcat(app) with 2-oxobutanoate as carbonyl donor, pH 8.0 and 25C
+64.9	Isobutyraldehyde	1234	AMIMRNSIRUDHCM-UHFFFAOYSA-N	25	8.0		Kcat(app) with pyruvate as carbonyl donor, pH 8.0 and 25C
+132.5	Butyraldehyde	415	ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	25	8.0		Kcat(app) with pyruvate as carbonyl donor, pH 8.0 and 25C
+175.5	glycolaldehyde	497	WGCNASOHLSPBMP-UHFFFAOYSA-N	25	8.0		Kcat(app) with pyruvate as carbonyl donor, pH 8.0 and 25C
+203.8	Succinic semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	25	8.0		Kcat(app) with pyruvate as carbonyl donor, pH 8.0 and 25C
+205.4	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	25	8.0		Kcat(app) with pyruvate as carbonyl donor, pH 8.0 and 25C
+219.5	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	8.0		steady-state kinetic parameter, with acetaldehyde as aldehyde donor, pH 8.0 and 25C
+229	4-hydroxy-2-oxohexanoate	1530	ALFQPWXBAWHVDP-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+350	4-hydroxy-2-oxopentanoic acid	907	HFKQINMYQUXOCH-UHFFFAOYSA-N	25	8.0		wild-type, pH 8.0, 25C
+353	4-hydroxy-2-oxopentanoate	907	HFKQINMYQUXOCH-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+353.5	(S)-4-hydroxy-2-oxopentanoate	3504	HFKQINMYQUXOCH-VKHMYHEASA-N	25	8.0		wild type enzyme, with 0.5 mM Co2+, at pH 8.0 and 25C
+358.4	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	8.0		Kcat(app) with pyruvate as carbonyl donor, pH 8.0 and 25C
+361.5	4-hydroxy-2-oxoheptane-1,7-dioate	12560	HNOAJOYERZTSNK-UHFFFAOYSA-N	25	8.0		using H2O as solvent, in the presence of 0.5 mM Co2+, at pH 8.0 and 25C

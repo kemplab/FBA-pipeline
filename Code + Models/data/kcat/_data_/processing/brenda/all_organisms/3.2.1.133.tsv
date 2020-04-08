@@ -1,0 +1,78 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00000343	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	60	6.0	X	pH 6.0, 60C, hydrolysis, truncated mutant ThMA-DELTA124
+0.00000367	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	60	6.0	X	pH 6.0, 60C, hydrolysis, truncated mutant ThMA- DELTA124, 1 M KCl
+0.000245	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	60	6.0	X	pH 6.0, 60C, hydrolysis, truncated mutant ThMA- DELTA124
+0.000332	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	60	6.0	X	pH 6.0, 60C, hydrolysis, truncated mutant ThMA- DELTA124, 1 M KCl
+0.0017	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	90	5.0		pH 5.0, 90C
+0.0033	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	90	5.0		pH 5.0, 90C
+0.005	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	80	7.0	X	mutant enzyme D109E, at pH 7.0 and 80C
+0.022	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	80	7.0	X	mutant enzyme D109E, at pH 7.0 and 80C
+0.037	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	50	6.0	X	50C, pH 6.0, mutant enzyme A29I
+0.04	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	80	7.0		dimeric enzyme form, at pH 7.0 and 80C
+0.04	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	80	7.0		dimeric enzyme form, at pH 7.0 and 80C
+0.04	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	50	6.0	X	50C, pH 6.0, mutant enzyme A290I
+0.1	alpha-cyclodextrin	380	HFHDHCJBZVLPGP-RWMJIURBSA-N	80	7.0		monomeric enzyme form, at pH 7.0 and 80C
+0.1	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	80	7.0	X	mutant enzyme D109A, at pH 7.0 and 80C
+0.12	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	80	7.0		monomeric enzyme form, at pH 7.0 and 80C
+0.13	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	80	7.0	X	mutant enzyme D109A, at pH 7.0 and 80C
+0.17	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	80	7.0		monomeric enzyme form, at pH 7.0 and 80C
+0.21	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	80	7.0		monomeric enzyme form, at pH 7.0 and 80C
+0.29	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	50	6.0		50C, pH 6.0, wild-type enzyme
+0.49	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	80	7.0	X	mutant enzyme D109A at pH 7.0 and 80C
+0.59	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N				pH and temperature not specified in the publication
+0.66	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	80	7.0	X	mutant enzyme D109E at pH 7.0 and 80C
+0.75	alpha-cyclodextrin	380	HFHDHCJBZVLPGP-RWMJIURBSA-N	80	7.0	X	mutant enzyme D109A, at pH 7.0 and 80C
+0.8	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N				pH and temperature not specified in the publication
+1.33	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	80	7.0		dimeric enzyme form, at pH 7.0 and 80C
+1.39	alpha-cyclodextrin	380	HFHDHCJBZVLPGP-RWMJIURBSA-N	80	7.0	X	mutant enzyme D109E, at pH 7.0 and 80C
+1.45	alpha-cyclodextrin	380	HFHDHCJBZVLPGP-RWMJIURBSA-N				pH and temperature not specified in the publication
+2	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N	50	6.0	X	50C, pH 6.0, mutant enzyme A290I
+2.78	alpha-cyclodextrin	380	HFHDHCJBZVLPGP-RWMJIURBSA-N	80	7.0		dimeric enzyme form, at pH 7.0 and 80C
+3.85	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	85	5.0		pH 5.0, 85C
+3.95	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	85	5.0		pH 5.0, 85C
+4.01	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	90	5.5		at pH 5.5 and 90C
+4.21	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	90	5.5		at pH 5.5 and 90C
+5.36	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N				pH and temperature not specified in the publication
+6.35	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	90	5.0		pH 5.0, 90C
+9.2	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N	50	6.0		50C, pH 6.0, wild-type enzyme
+11.45	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	85	5.0		pH 5.0, 85C
+12.5	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	40	7.0		at pH 7.0 and 40C
+15.38	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	60	6.0		in sodium-acetate buffer (50 mM, pH 6.0), at 60C
+18.7	acarbose	345	XUFXOAAUWZOOIT-SXARVLRPSA-N	60	6.0	X	pH 6.0, 60C, hydrolysis, mutant E332H
+20	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N	50	6.0	X	50C, pH 6.0, mutant enzyme A290I
+20	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	60	6.0		pH 6.0, 60C, hydrolysis, variants DM and 4B74
+29.1	gamma-cyclodextrin	521	GDSRMADSINPKSL-HSEONFRVSA-N				pH and temperature not specified in the publication
+29.8	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	50	6.0		50C, pH 6.0, wild-type enzyme
+41.4	acarbose	345	XUFXOAAUWZOOIT-SXARVLRPSA-N	60	6.0	X	pH 6.0, 60C, hydrolysis, mutant E332Q
+42.5	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N	50	6.0		50C, pH 6.0, wild-type enzyme
+45.4	acarbose	345	XUFXOAAUWZOOIT-SXARVLRPSA-N	60	6.0	X	pH 6.0, 60C, hydrolysis, mutant E332D
+62.82	amylose	433	GRWNRGDDHMOGBS-CKFRCRQSSA-N	60	6.0		in sodium-acetate buffer (50 mM, pH 6.0), at 60C
+67.8	acarbose	345	XUFXOAAUWZOOIT-SXARVLRPSA-N	60	6.0		pH 6.0, 60C, hydrolysis, wild-type
+69.01	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	50	6.0	X	50C, pH 6.0, mutant enzyme A290I
+72.08	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N	50	6.0	X	50C, pH 6.0, mutant enzyme A290I
+79.07	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	50	6.0	X	50C, pH 6.0, mutant enzyme A29I
+88.45	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N	50	6.0	X	50C, pH 6.0, mutant enzyme A290I
+110	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	60	6.0		pH 6.0, 60C, hydrolysis, variant 4B78
+120	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	60	6.0		pH 6.0, 60C, hydrolysis, variant 3C71
+126	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	60	6.0		pH 6.0, 60C, hydrolysis, wild-type, 1 M KCl
+126	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N				
+130	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	60	6.0		pH 6.0, 60C, hydrolysis, variant 4A48
+160	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	60	6.0		pH 6.0, 60C, hydrolysis, wild-type
+160.3	maltohexaose	269	OCIBBXPLUVYKCH-QXVNYKTNSA-N	50	6.0		50C, pH 6.0, wild-type enzyme
+167	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	60	6.0		pH 6.0, 60C, hydrolysis, wild-type
+170	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	60	6.0		pH 6.0, 60C, hydrolysis, variant 2A39
+173.5	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	50	6.0	X	50C, pH 6.0, mutant enzyme A290I
+180	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	60	6.0	X	pH 6.0, 60C, mutantW47A
+190	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	60	6.0		pH 6.0, 60C, hydrolysis, variant 1B100
+197	maltopentaose	237	FTNIPWXXIGNQQF-SYTVBXOLSA-N	50	6.0		50C, pH 6.0, wild-type enzyme
+200	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	60	6.0		pH 6.0, 60C, hydrolysis, variant 1B76
+225.6	gamma-cyclodextrin	521	GDSRMADSINPKSL-HSEONFRVSA-N	60	6.0		in sodium-acetate buffer (50 mM, pH 6.0), at 60C
+249	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	60	6.0		pH 6.0, 60C, wild-type
+280.8	beta-cyclodextrin	259	WHGYBXFWUBPSRW-FOUAGVGXSA-N	60	6.0		in sodium-acetate buffer (50 mM, pH 6.0), at 60C
+301	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	60	6.0		pH 6.0, 60C, hydrolysis, wild-type
+335	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	60	6.0	X	pH 6.0, 60C, mutant W47A
+384.1	maltoheptaose	278	BNABBHGYYMZMOA-AHIHXIOASA-N	50	6.0		50C, pH 6.0, wild-type enzyme
+457	starch	189	GQMLYGVXGNJURD-QOFYEYOWSA-N	60	6.0		pH 6.0, 60C, hydrolysis, wild-type, 1 M KCl
+500	alpha-cyclodextrin	380	HFHDHCJBZVLPGP-RWMJIURBSA-N	60	6.0		in sodium-acetate buffer (50 mM, pH 6.0), at 60C
+574.1	maltotetraose	234	LUEWUZLMQUOBSB-ZLBHSGTGSA-N	50	6.0		50C, pH 6.0, wild-type enzyme
+652.5	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	50	6.0		50C, pH 6.0, wild-type enzyme

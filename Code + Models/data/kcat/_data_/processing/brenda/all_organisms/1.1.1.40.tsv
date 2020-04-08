@@ -1,0 +1,163 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3.37	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	8.0	X	pH 8.0, 70C, recombinant mutant K228R
+4.69	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	8.0		pH 8.0, 70C, recombinant wild-type enzyme
+7.44	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	8.0	X	pH 8.0, 70C, recombinant mutant R221G/K228R
+12.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	8.0	X	pH 8.0, 70C, recombinant mutant R221G
+13.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	8.0		wild-type enzyme, pH 8.0, 30C
+13.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.0		wild-type enzyme, pH 7.0
+18.4	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	8.0	X	mutant K435L/K436L, pH 8.0, 30C
+21.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	8.0	X	pH 8.0, 70C, recombinant mutant R221G/K228R/I310V
+22	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.4	X	mutant S346K, pH 7.4, 30C
+28.9	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.4		wild type enzyme, in 50 mMTris-HCl (pH 7.4), at 30C
+34.18	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4		in 50 mM Tris-HCl (pH 7.4)
+37.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	8.0	X	pH 8.0, 70C, recombinant mutant I310V
+40	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.4	X	mutant K347Y, pH 7.4, 30C
+40.6	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.0	X	mutant A392G, pH 7.0
+51	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.4		wild-type enzyme, pH 7.4, 30C
+53	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.4	X	mutant S347Y/K362Q, pH 7.4, 30C
+60	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.4	X	mutant K362Q, pH 7.4, 30C
+65	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.4	X	mutant S346K/K347Y, pH 7.4, 30C
+108	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.4	X	mutant K362H, pH 7.4, 30C
+110	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.4	X	mutant S346K/K362Q, pH 7.4, 30C
+113	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.4	X	mutant E314A, pH 7.4, 30C
+124	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.4	X	mutant S346K/K347Y/K362Q, pH 7.4, 30C
+131	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.4	X	mutant S346I/K347D/K362H, pH 7.4, 30C
+145	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.4	X	mutant E314A/S346K, pH 7.4, 30C
+166	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.4	X	mutant E314A/S346I/K347D/K362H, pH 7.4, 30C
+208	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.4	X	mutant E314A/S346K/K347Y/K362Q, pH 7.4, 30C
+219	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.4	X	mutant S346K/K347Y/K362H, pH 7.4, 30C
+258	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	7.4	X	mutant E314A/S346K/K347Y/K362H, pH 7.4, 30C
+0.38	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	8.0	X	mutant R237L, pH 8.0, 30C
+0.38	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.0	X	mutant R237L, pH 7.0
+0.8	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.5		recombinant isozyme PtNADP-ME1, pH 7.5, 30C
+1.1	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	8.0	X	mutant K225I, pH 8.0, 30C
+1.1	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	8.0	X	pH 8.0, 30C, mutant C246A; pH 8.0, 30C, reduced isozyme ZmC4-NADP-ME, mutant C246A
+1.3	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.4	X	mutant S346I/K347D/K362H, pH 7.4, 30C
+1.6	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	8.0	X	pH 8.0, 30C, mutant C270A; pH 8.0, 30C, reduced isozyme ZmC4-NADP-ME, mutant C270A
+2.97	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	70	8.0	X	pH 8.0, 70C, recombinant mutant K228R
+3.55	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.0		pH 7.0, 30C, oxidized isozyme ZmC4-NADP-ME; pH 7.0, 30C, wild-type, treated with diamide
+4.2	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.0	X	mutant A387G, pH 7.0
+5.6	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	8.0	X	pH 8.0, 30C, mutant C192A; pH 8.0, 30C, reduced isozyme ZmC4-NADP-ME, mutant C192A
+6.48	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	70	8.0	X	pH 8.0, 70C, recombinant mutant R221G/K228R
+8	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.4	X	mutant S346K/K347Y/K362H, pH 7.4, 30C
+8.35	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.0		pH 7.0, 30C, reduced isozyme ZmC4-NADP-ME; pH 7.0, 30C, wild-type, treated with dithiothreitol
+13.2	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.5		recombinant isozyme PtNADP-ME2, pH 7.5, 30C
+14.2	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.5		recombinant isozyme PtNADP-ME3, pH 7.5, 30C
+15	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.4	X	mutant E314A/S346I/K347D/K362H, pH 7.4, 30C; mutant S346K/K347Y/K362Q, pH 7.4, 30C
+15.9	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.5		recombinant isozyme PtNADP-ME4, pH 7.5, 30C
+19.5	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.5		recombinant isozyme PtNADP-ME5, pH 7.5, 30C
+23.2	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	8.0	X	pH 8.0, 30C, mutant C231A; pH 8.0, 30C, reduced isozyme ZmC4-NADP-ME, mutant C231A
+26	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.4	X	mutant E314A/S346K/K347Y/K362H, pH 7.4, 30C
+30.8	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.0		recombinant enzyme, pH 7.0
+31.1	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	70	8.0		pH 8.0, 70C, recombinant wild-type enzyme
+38.7	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.5		pH 7.5, NADP-ME1
+40.1	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	70	8.0	X	pH 8.0, 70C, recombinant mutant R221G/K22P8R/I310V
+42.6	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	70	8.0	X	pH 8.0, 70C, recombinant mutant R221G
+43.4	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	70	8.0	X	pH 8.0, 70C, recombinant mutant I310V
+51	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.4	X	mutant E314A/S346K/K347Y/K362Q, pH 7.4, 30C
+66.6	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.5		pH 7.5, recombinant MaeB
+78	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.4	X	mutant S347Y/K362Q, pH 7.4, 30C
+88.3	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O				recombinant NADP-ME2
+91	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	8.0		pH 8.0, 30C, oxidized isozyme ZmC4-NADP-ME; pH 8.0, 30C, wild-type, treated with diamide
+98.3	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O				recombinant NADP-ME3
+102	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.4	X	mutant S346K/K347Y, pH 7.4, 30C
+110	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.4	X	mutant E314A, pH 7.4, 30C
+112	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.4	X	mutant S346K/K362Q, pH 7.4, 30C
+113.2	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.4		in 50 mM Tris-HCl (pH 7.4)
+121	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.4	X	mutant K347Y, pH 7.4, 30C
+126	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.4		wild-type enzyme, pH 7.4, 30C
+129	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.4	X	mutant S346K, pH 7.4, 30C
+132	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.4	X	mutant K362Q, pH 7.4, 30C
+135.8	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.4		wild type enzyme, in 50 mMTris-HCl (pH 7.4), at 30C
+137	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.4	X	mutant E314A/S346K, pH 7.4, 30C
+149	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	7.4	X	mutant K362H, pH 7.4, 30C
+151.3	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.5		pH 7.5, NADP-ME4
+181.1	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	8.0	X	mutant K435L/K436L, pH 8.0, 30C
+200.3	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.0	X	mutant A392G, pH 7.0
+201.3	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	8.0		wild-type enzyme, pH 8.0, 30C
+201.3	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.0		wild-type enzyme, pH 7.0
+268.1	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.5		pH 7.5, NADP-ME3
+269	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	8.0		pH 8.0, 30C, reduced isozyme ZmC4-NADP-ME; pH 8.0, 30C, wild-type, treated with dithiothreitol
+284	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.4		isozyme ME2, pH 7.4, temperature not specified in the publication; pH and temperature not specified in the publication, recombinant isozyme ME2, in presence of 0.5 mM Mn2+
+324.1	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.5		pH 7.5, NADP-ME2
+504	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.4		isozyme ME1, pH 7.4, temperature not specified in the publication; pH and temperature not specified in the publication, recombinant isozyme ME1, in presence of 0.5 mM Mn2+
+691	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.4		isozyme ME2, pH 7.4, temperature not specified in the publication; pH and temperature not specified in the publication, recombinant isozyme ME2, in presence of 0.5 mM Mn2+
+1206	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.4		isozyme ME1, pH 7.4, temperature not specified in the publication; pH and temperature not specified in the publication, recombinant isozyme ME1, in presence of 0.5 mM Mn2+
+4670	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.5		pH 7.5, NADP-ME2
+8.3	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.4		isozyme ME1, with NADPH and CO2, pH 7.4, temperature not specified in the publication; pH and temperature not specified in the publication, recombinant isozyme ME1, in presence of 0.5 mM Mn2+
+16.5	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, isozyme NADP-ME1
+21.6	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.0		pH 7.0, isozyme NADP-ME2
+34	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.4		isozyme ME2, with NADPH and CO2, pH 7.4, temperature not specified in the publication; pH and temperature not specified in the publication, recombinant isozyme ME2, in presence of 0.5 mM Mn2+
+39	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.4		isozyme ME2, with NADPH and CO2, pH 7.4, temperature not specified in the publication; pH and temperature not specified in the publication, recombinant isozyme ME2, in presence of 0.5 mM Mn2+
+75	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, isozyme NADP-ME2
+75	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.0		pH 7.0
+113	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.4		isozyme ME1, with NADPH and CO2, pH 7.4, temperature not specified in the publication; pH and temperature not specified in the publication, recombinant isozyme ME1, in presence of 0.5 mM Mn2+
+158.4	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.0		pH 7.0, isozyme NADP-ME1
+237	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, isozyme NADP-ME3
+237	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.0		pH 7.0
+284.1	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C, isozyme NADP-ME4
+0.004	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme D235A
+0.005	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme E234A
+0.006	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme D258A
+0.3	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	25	7.4		pH 7.4, 25C, Mg2+-activated, wild-type enzyme
+0.9	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.5		recombinant isozyme PtNADP-ME1, pH 7.5, 30C
+1.1	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme D257A
+1.1	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	8.0	X	pH 8.0, 30C, reduced isozyme ZmC4-NADP-ME, mutant C246A
+1.6	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	8.0	X	pH 8.0, 30C, reduced isozyme ZmC4-NADP-ME, mutant C270A
+2	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	mutant enzyme N59E/E73K, at pH 7.4 and 30C; mutant enzyme N59E/E73K/S102D, at pH 7.4 and 30C; pH 7.4, 30C, recombinant mutant N59E/E73K; pH 7.4, 30C, recombinant mutant N59E/E73K/S102D
+3	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	pH 7.4, 30C, recombinant mutant [51-105]_c-NADP-ME
+3.55	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.0		pH 7.0, 30C, oxidized isozyme ZmC4-NADP-ME
+5.6	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	8.0	X	pH 8.0, 30C, reduced isozyme ZmC4-NADP-ME, mutant C192A
+8.35	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.0		pH 7.0, 30C, reduced isozyme ZmC4-NADP-ME
+12.6	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.5		recombinant isozyme PtNADP-ME2, pH 7.5, 30C
+13.6	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.5		recombinant isozyme PtNADP-ME3, pH 7.5, 30C
+15	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	25	7.4		pH 7.4, 25C, Mn2+-activated, wild-type enzyme
+15.7	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.5		recombinant isozyme PtNADP-ME4, pH 7.5, 30C
+19.1	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.5		recombinant isozyme PtNADP-ME5, pH 7.5, 30C
+21	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	mutant enzyme S57K/N59E/E73K/S102D/H74K/D78P/D80E/D87G/D90E/K106S/Q121S/L125H, at pH 7.4 and 30C; pH 7.4, 30C, recombinant mutant S57K/N59E/E73K/S102D/H74K/D78P/D80E/D87G/D90E/K106S/Q121S/L125H
+22	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	mutant enzyme S57K/N59E/E73K/S102D/H74K/D78P/D80E/D87G, at pH 7.4 and 30C; pH 7.4, 30C, recombinant mutant 57K/N59E/E73K/S102D/H74K/D78P/D80E/D87G
+23	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	mutant enzyme S57K/N59E/E73K/S102D/H74K/D78P/D80E/D87G/K106S/Q121S/L125H, at pH 7.4 and 30C; pH 7.4, 30C, recombinant mutant S57K/N59E/E73K/S102D/H74K/D78P/D80E/D87G/K106S/Q121S/L125H
+23.2	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	8.0	X	pH 8.0, 30C, reduced isozyme ZmC4-NADP-ME, mutant C231A
+27	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	mutant enzyme N59E, at pH 7.4 and 30C; pH 7.4, 30C, recombinant mutant N59E
+29	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	mutant enzyme S102D, at pH 7.4 and 30C; pH 7.4, 30C, recombinant mutant S102D
+30	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	mutant enzyme E73K, at pH 7.4 and 30C; mutant enzyme S57K/N59E/E73K, at pH 7.4 and 30C; pH 7.4, 30C, recombinant mutant E73K; pH 7.4, 30C, recombinant mutant S57K/N59E/E73K; pH 7.4, 30C, recombinant wild-type enzyme; wild type enzyme, at pH 7.4 and 30C
+31	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	mutant enzyme S57K/N59E/E73K/S102D, at pH 7.4 and 30C; pH 7.4, 30C, recombinant mutant S57K/N59E/E73K/S102D
+31.34	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	25	7.4		pH 7.4, 25C, Mn2+-activated, wild-type enzyme
+32	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	mutant enzyme S57K, at pH 7.4 and 30C; pH 7.4, 30C, recombinant mutant S57K
+34.83	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	25	7.4		pH 7.4, 25C, Mg2+-activated, wild-type enzyme
+38.7	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.5		pH 7.5, 30C, isozyme NADP-ME1
+46.44	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme E234A
+84.83	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	mutant enzyme H51A/D90A, in 50 mM Tris-HCl, pH 7.4, at 30C
+91	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	8.0		pH 8.0, 30C, oxidized isozyme ZmC4-NADP-ME
+91.7	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N				recombinant NADP-ME2
+94.57	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	mutant enzyme D90A, in 50 mM Tris-HCl, pH 7.4, at 30C
+95.53	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	mutant enzyme D139A, in 50 mM Tris-HCl, pH 7.4, at 30C
+96.7	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N				recombinant NADP-ME3
+98.03	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	mutant enzyme H142A/D568A, in 50 mM Tris-HCl, pH 7.4, at 30C
+104.4	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		7.0		pH 7.0, wild-type C4-NADP-ME isozyme
+105.3	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	mutant enzyme H51A/D139A, in 50 mM Tris-HCl, pH 7.4, at 30C
+106	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	mutant enzyme W572A, in 50 mM Tris-HCl, pH 7.4, at 30C
+109.5	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	mutant enzyme H51A, in 50 mM Tris-HCl, pH 7.4, at 30C
+110.9	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4		wild type enzyme, in 50 mM Tris-HCl, pH 7.4, at 30C
+122.7	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	mutant enzyme H142A, in 50 mM Tris-HCl, pH 7.4, at 30C
+136.9	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4	X	mutant enzyme D568A, in 50 mM Tris-HCl, pH 7.4, at 30C
+140.1	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	25	4.5		pH 4.5, 25C, wild-type enzyme
+151.3	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.5		pH 7.5, 30C, isozyme NADP-ME4
+151.7	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		7.0		pH 7.0, wild-type non-C4-NADP-ME isozyme
+154.3	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		7.3		pH 7.3, isozyme NADP-ME1
+177	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		7.0		pH 7.0, isozyme NADP-ME2
+181.6	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		8.0		at pH 8.0, temperature not specified in the publication
+198.9	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		8.0		at pH 8.0, temperature not specified in the publication
+242	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		7.4		isozyme ME2, pH 7.4, temperature not specified in the publication; pH and temperature not specified in the publication, recombinant isozyme ME2, in presence of 0.5 mM Mn2+
+268	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		7.5		pH 7.5
+268.1	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.5		pH 7.5, 30C, isozyme NADP-ME3
+269	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	8.0		pH 8.0, 30C, reduced isozyme ZmC4-NADP-ME
+275.7	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		8.0		at pH 8.0, temperature not specified in the publication
+324	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		7.5		pH 7.5
+324.1	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.5		pH 7.5, 30C, isozyme NADP-ME2
+376	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	60	8.0		pH 8.0, 60C
+518	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		7.4		isozyme ME1, pH 7.4, temperature not specified in the publication; pH and temperature not specified in the publication, recombinant isozyme ME1, in presence of 0.5 mM Mn2+
+683	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		7.4		isozyme ME2, pH 7.4, temperature not specified in the publication; pH and temperature not specified in the publication, recombinant isozyme ME2, in presence of 0.5 mM Mn2+
+1132	(S)-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N		7.4		isozyme ME1, pH 7.4, temperature not specified in the publication; pH and temperature not specified in the publication, recombinant isozyme ME1, in presence of 0.5 mM Mn2+
+160	L-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N				
+582	L-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N				assuming an octameric oligomerization state

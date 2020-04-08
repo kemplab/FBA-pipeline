@@ -1,0 +1,27 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.17	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				truncated enzyme form NcatHisRS, ATP-diphosphate exchange
+0.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme form des(A2-G10)-HisRS, ATP-diphosphate exchange
+0.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme form V-HisRS-R259Q, ATP-diphosphate exchange
+8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	enzyme form with N-terminal addition of valine V-HisRS, mutant enzyme form des(A2-Q6)-HisRS, ATP-diphosphate exchange
+34	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				HisRS, ATP-diphosphate exchange
+40	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0		pH 8.0, 37C, diphosphate exchange
+120	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type HisRS, ATP-diphosphate exchange
+130	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0		pH 8.0, 37C, diphosphate exchange
+40	L-histidine	296	HNDVDQJCIGZPNO-YFKPBYRVSA-N	37	8.0		pH 8.0, 37C, diphosphate exchange
+130	L-histidine	296	HNDVDQJCIGZPNO-YFKPBYRVSA-N	37	8.0		pH 8.0, 37C, diphosphate exchange
+0.1	His	296	HNDVDQJCIGZPNO-YFKPBYRVSA-N			X	mutant enzyme form V-HisRS-R259K, aminoacylation
+0.19	His	296	HNDVDQJCIGZPNO-YFKPBYRVSA-N				truncated enzyme form NcatHisRS, ATP-diphosphate exchange
+1	His	296	HNDVDQJCIGZPNO-YFKPBYRVSA-N			X	mutant enzyme form des(A2-G10)-HisRS, aminoacylation
+6	His	296	HNDVDQJCIGZPNO-YFKPBYRVSA-N				enzyme form with N-terminal addition of methionine M-HisRS, enzyme form with N-terminal addition of valineV-HisRS, aminoacylation
+7	His	296	HNDVDQJCIGZPNO-YFKPBYRVSA-N				wild-type HisRS, aminoacylation
+9	His	296	HNDVDQJCIGZPNO-YFKPBYRVSA-N			X	mutant enzyme form des(A2-Q6)-HisRS, aminoacylation, ATP, and mutant enzyme form with N-terminal addition of methionine M-HisRS, ATP-diphosphate exchange
+142	His	296	HNDVDQJCIGZPNO-YFKPBYRVSA-N				wild-type HisRS, ATP-diphosphate exchange
+0.0004	tRNAHis	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5	X	mutant E83A, pH 7.5, 37C
+0.0006	tRNAHis	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5	X	mutant R159H, pH 7.5, 37C
+0.01	tRNAHis	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5	X	mutant E83Q, pH 7.5, 37C
+0.048	tRNAHis	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5	X	mutant Q127A, pH 7.5, 37C
+0.417	tRNAHis	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.2		pH 7.2, 37C, wild-type substrate
+0.42	tRNAHis	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	8.0		pH 8.0, 37C, aminoacylation
+1.71	tRNAHis	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	8.0		pH 8.0, 37C, aminoacylation
+2.02	tRNAHis	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5		wild-type, pH 7.5, 37C
+4	tRNAHis	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	30	7.5		wild-type Caulobacter crescentus tRNAHis, pH 7.5, 30C

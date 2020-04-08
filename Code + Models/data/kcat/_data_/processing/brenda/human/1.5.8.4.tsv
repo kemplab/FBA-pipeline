@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.01	N,N-dimethylglycine	942	FFDGPVCHZBVARC-UHFFFAOYSA-N	25	7.5	X	mutant H109R, pH 7.5, 25C
+0.225	N,N-dimethylglycine	942	FFDGPVCHZBVARC-UHFFFAOYSA-N	25	7.5		wild-type, presence of tetrahydrofolate, pH 7.5, 25C
+0.3	N,N-dimethylglycine	942	FFDGPVCHZBVARC-UHFFFAOYSA-N	25	7.5		wild-type, pH 7.5, 25C

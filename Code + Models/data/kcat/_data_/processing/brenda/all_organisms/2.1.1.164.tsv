@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0023	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	8.0	X	pH 8.0, 25C, mutant enzyme H140A
+0.005	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	8.0	X	pH 8.0, 25C, mutant enzyme D166A
+0.0063	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	8.0	X	pH 8.0, 25C, mutant enzyme P75S
+0.01	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	8.0	X	pH 8.0, 25C, mutant enzyme H141A
+0.017	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	8.0	X	pH 8.0, 25C, mutant enzyme W134Y
+0.023	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	8.0	X	pH 8.0, 25C, mutant enzyme S138A
+0.025	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	8.0	X	pH 8.0, 25C, mutant enzyme L136V
+0.047	dechlorinated 4'-demethyl-rebeccamycin	17732	FAKJOUAYZNXZGV-QCUUGYDUSA-N	30	8.0		pH 8.0, 30C
+0.047	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	30	8.0		pH 8.0, 30C, cosubstrate: dechlorinated 4'-demethyl-rebeccamycin
+0.047	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	8.0		pH 8.0, 25C, wild-type enzyme
+0.048	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	8.0	X	pH 8.0, 25C, mutant enzyme C70A
+0.072	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	8.0	X	pH 8.0, 25C, mutant enzyme C70S

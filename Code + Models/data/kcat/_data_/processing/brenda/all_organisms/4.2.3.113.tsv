@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0352	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	30		X	mutant A595G/F596L/L599F, 30C, pH not specified in the publication
+0.0825	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	30		X	mutant F596L, 30C, pH not specified in the publication
+0.098	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	30			wild-type, 30C, pH not specified in the publication
+0.545	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	30			wild-type, 30C, pH not specified in the publication
+0.643	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	30		X	mutant L596F, 30C, pH not specified in the publication

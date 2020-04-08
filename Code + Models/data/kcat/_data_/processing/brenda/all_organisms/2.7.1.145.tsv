@@ -1,0 +1,91 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.034	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N			X	recombinant mutant M88R/A110D
+0.037	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N			X	recombinant mutant V84M
+0.11	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N			X	recombinant mutant V84A/M88R/A110D
+0.13	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N			X	recombinant mutant M88R
+0.23	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N			X	recombinant mutant V84S/M88R/A110D
+0.35	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N			X	recombinant mutant A110D
+0.83	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N			X	recombinant mutant V84S
+1.22	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N			X	mutant enzyme N45D/N64D
+2.97	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N			X	recombinant mutant V84A
+14.2	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	22	7.8		pH 7.8, 22C, recombinant enzyme
+14.2	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	22	7.8		pH 7.8, 22C, recombinant enzyme
+14.2	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N				recombinant wild-type enzyme
+15	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	22	8.0		pH 8.0, 22C
+0.021	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N		8.0		pH 8.0, recombinant enzyme
+0.084	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N			X	recombinant mutant A110D
+0.4	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N			X	recombinant mutant N64D
+0.828	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N			X	mutant enzyme N45D/N64D
+1.1	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N			X	recombinant mutant V84S
+1.36	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N			X	recombinant mutant V84M
+1.83	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N			X	recombinant mutant N45D
+1.88	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N			X	recombinant mutant M88R
+3.2	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N			X	recombinant mutant V84S/M88R/A110D
+3.5	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N			X	recombinant mutant V84A/M88R/A110D
+3.7	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N			X	recombinant mutant V84A
+6.9	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N			X	recombinant mutant M88R/A110D
+18	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	22	8.0		pH 8.0, 22C
+20.6	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	22	7.8		pH 7.8, 22C, recombinant enzyme
+20.6	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	22	7.8		pH 7.8, 22C, recombinant enzyme
+20.6	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N				recombinant wild-type enzyme
+0.00071	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme E52D
+0.0012	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme E52H
+0.0162	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.5		37C, pH 7.5, wild-type enzyme
+0.03	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N		8.0		pH 8.0, recombinant enzyme
+0.055	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.5	X	37C, pH 7.5, mutant ezyme R105H
+0.27	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N			X	recombinant mutant A110D
+0.83	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N			X	recombinant mutant V84S
+1.6	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N			X	recombinant mutants N45D and N64D
+1.62	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N			X	recombinant mutant V84S/M88R/A110D
+1.8	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N			X	recombinant mutant V84M
+1.94	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N			X	recombinant mutant V84A/M88R/A110D
+3.5	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N			X	recombinant mutant M88R/A110D
+4.03	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N			X	mutant enzyme N45D/N64D
+4.4	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N			X	recombinant mutant V84A
+6.6	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme Q81N
+6.8	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme Y70W
+7.5	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N			X	recombinant mutant M88R
+15	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	22	8.0		pH 8.0, 22C
+16.5	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	22	7.8		pH 7.8, 22C, recombinant enzyme
+16.5	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	22	7.8		pH 7.8, 22C, recombinant enzyme
+16.5	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N				recombinant wild-type enzyme
+0.019	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N		8.0		pH 8.0, recombinant enzyme
+0.073	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N			X	recombinant mutant A110D
+0.076	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N			X	mutant enzyme N45D/N64D
+0.12	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N			X	recombinant mutant N64D
+0.22	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N			X	recombinant mutant V84M
+0.64	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N			X	recombinant mutant V84S
+1.3	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N			X	recombinant mutant N45D
+1.73	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N			X	recombinant mutant V84A/M88R/A110D
+2.7	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N			X	recombinant mutant M88R
+2.8	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N			X	recombinant mutant V84A
+3.7	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N			X	recombinant mutant M88R/A110D
+4.6	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N			X	recombinant mutant V84S/M88R/A110D
+15.1	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	22	7.8		pH 7.8, 22C, recombinant enzyme
+15.1	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	22	7.8		pH 7.8, 22C, recombinant enzyme
+15.1	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N				recombinant wild-type enzyme
+18	2'-deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	22	8.0		pH 8.0, 22C
+0.00072	2'-deoxythymidine	1101	IQFYYKKMVGJFEH-BWZBUEFSSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme E52D
+0.0067	2'-deoxythymidine	1101	IQFYYKKMVGJFEH-BWZBUEFSSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme R105H
+0.012	2'-deoxythymidine	1101	IQFYYKKMVGJFEH-BWZBUEFSSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme E52H
+0.014	2'-deoxythymidine	1101	IQFYYKKMVGJFEH-BWZBUEFSSA-N		8.0		pH 8.0, recombinant enzyme
+0.0142	2'-deoxythymidine	1101	IQFYYKKMVGJFEH-BWZBUEFSSA-N	37	7.5		37C, pH 7.5, wild-type enzyme
+0.82	2'-deoxythymidine	1101	IQFYYKKMVGJFEH-BWZBUEFSSA-N			X	recombinant mutant N64D
+2.3	2'-deoxythymidine	1101	IQFYYKKMVGJFEH-BWZBUEFSSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme Y70W
+2.6	2'-deoxythymidine	1101	IQFYYKKMVGJFEH-BWZBUEFSSA-N			X	recombinant mutant N45D
+5.4	2'-deoxythymidine	1101	IQFYYKKMVGJFEH-BWZBUEFSSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme Q81N
+0.54	2',3'-dideoxycytidine	1743	WREGKURFCTUGRC-POYBYMJQSA-N			X	mutant enzyme N45D/N64D
+4.2	2',3'-dideoxycytidine	1743	WREGKURFCTUGRC-POYBYMJQSA-N				
+0.036	3'-azido-2',3'-dideoxythymidine	896	HBOMLICNUCNMMY-XLPZGREQSA-N				
+0.052	3'-azido-2',3'-dideoxythymidine	896	HBOMLICNUCNMMY-XLPZGREQSA-N			X	mutant enzyme N45D/N64D
+0.93	Dideoxycytidine	7168	WREGKURFCTUGRC-UHFFFAOYSA-N			X	recombinant mutant V84A
+4.2	Dideoxycytidine	7168	WREGKURFCTUGRC-UHFFFAOYSA-N				recombinant wild-type enzyme
+0.03	3'-azido-2',3'-didehydro-3'-deoxythymidine	11797	UGQOJAALJNTIGS-BWZBUEFSSA-N			X	recombinant mutant N45D
+0.037	3'-azido-2',3'-didehydro-3'-deoxythymidine	11797	UGQOJAALJNTIGS-BWZBUEFSSA-N			X	recombinant mutant N64D
+0.0029	1-(beta-D-arabinofuranosyl)-cytosine	1495	UHDGCWIWMRVCDJ-CCXZUQQUSA-N	37	7.5		37C, pH 7.5, wild-type enzyme
+2.1	1-(beta-D-arabinofuranosyl)-cytosine	1495	UHDGCWIWMRVCDJ-CCXZUQQUSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme Y70W
+0.0003	1-(beta-D-arabinofuranosyl)-thymine	12137	DWRXFEITVBNRMK-JAGXHNFQSA-N	37	7.5		37C, pH 7.5, wild-type enzyme
+1	1-(beta-D-arabinofuranosyl)-thymine	12137	DWRXFEITVBNRMK-JAGXHNFQSA-N	37	7.5	X	37C, pH 7.5, mutant enzyme Y70W
+0.0059	5-(E)-(2-bromvinyl)-2'-deoxyuridine	4975	ODZBBRURCPAEIQ-PIXDULNESA-N	37	7.5		37C, pH 7.5, wild-type enzyme
+0.4	5-(E)-(2-bromvinyl)-2'-deoxyuridine	4975	ODZBBRURCPAEIQ-PIXDULNESA-N	37	7.5	X	37C, pH 7.5, mutant enzyme Y70W
+6.5	2'-deoxy-2',2'-difluorocytidine	1407	SDUQYLNIPVEERB-QPPQHZFASA-N				

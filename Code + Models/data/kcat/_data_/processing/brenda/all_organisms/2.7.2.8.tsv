@@ -1,0 +1,54 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+7.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37			wild-type, pH not specified, 37C
+13	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37		X	DELTA357-513 (truncated mutant lacking C-terminal 150 amino acids), pH not specified, 37C
+2	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant DELTA25, pH and temperature not specified in the publication, with 1 mM L-arginine
+3.2	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant DELTA25, pH and temperature not specified in the publication
+4.2	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant DELTA8, pH and temperature not specified in the publication, with 1 mM L-arginine
+4.9	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N	37			wild-type, pH not specified, 37C
+6.4	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant DELTA8, pH and temperature not specified in the publication
+7.2	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant DELTA2-29, pH and temperature not specified in the publication, with 1 mM L-arginine
+7.9	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant DELTA2-29, pH and temperature not specified in the publication
+8.4	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N	37		X	DELTA357-513 (truncated mutant lacking C-terminal 150 amino acids), pH not specified, 37C
+11.5	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant DELTA2-19, pH and temperature not specified in the publication, with 1 mM L-arginine
+12.4	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant DELTA2-19, pH and temperature not specified in the publication
+13.1	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N		7.5		in the absence of protein PII, in 50 mM imidazole, pH 7.5
+13.8	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant DELTA2-15, pH and temperature not specified in the publication, with 1 mM L-arginine
+15.2	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant DELTA2-15, pH and temperature not specified in the publication
+31.4	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N	37	8.0		wild-type, pH 8.0, 37C, with 1 mM L-arginine
+31.4	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N				wild-type, pH and temperature not specified in the publication, with 1 mM L-arginine
+32.8	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant W23A, pH and temperature not specified in the publication, with 1 mM L-arginine
+34.9	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant E281A, pH and temperature not specified in the publication, with 1 mM L-arginine
+36.1	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant G287A, pH and temperature not specified in the publication, with 1 mM L-arginine
+36.7	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant G287A, pH and temperature not specified in the publication
+37.4	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant R209K, pH and temperature not specified in the publication, with 1 mM L-arginine
+38.3	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant G287D, pH and temperature not specified in the publication, with 1 mM L-arginine
+38.5	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant E19A, pH and temperature not specified in the publication, with 1 mM L-arginine
+39.7	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant R209A, pH and temperature not specified in the publication, with 1 mM L-arginine; mutant W23A, pH and temperature not specified in the publication
+40.4	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N		7.5		in the presence of protein PII, in 50 mM imidazole, pH 7.5
+41	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N	37	8.0	X	mutant H26E, pH 8.0, 37C, with 1 mM L-arginine
+41	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant E281A, pH and temperature not specified in the publication
+41.1	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N	37	8.0	X	mutant H268N, pH 8.0, 37C, with 1 mM L-arginine
+41.1	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant H268A, pH and temperature not specified in the publication, with 1 mM L-arginine
+41.3	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant G287D, pH and temperature not specified in the publication
+41.9	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant R209A, pH and temperature not specified in the publication
+42	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N	37	8.0	X	mutant E19R, pH 8.0, 37C, with 1 mM L-arginine
+42.1	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant E19R, pH and temperature not specified in the publication, with 1 mM L-arginine; mutant R209K, pH and temperature not specified in the publication
+43	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant H26A, pH and temperature not specified in the publication, with 1 mM L-arginine
+43.3	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant H268N, pH and temperature not specified in the publication
+43.4	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant H26A, pH and temperature not specified in the publication
+43.8	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant H268N, pH and temperature not specified in the publication, with 1 mM L-arginine
+44.1	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant E19A, pH and temperature not specified in the publication
+44.4	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N	37	8.0	X	mutant H26E, pH 8.0, 37C
+44.5	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant H268A, pH and temperature not specified in the publication
+44.8	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N			X	mutant E19R, pH and temperature not specified in the publication
+45.1	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N	37	8.0		wild-type, pH 8.0, 37C
+45.1	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N				wild-type, pH and temperature not specified in the publication
+45.3	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N	37	8.0	X	mutant H268N, pH 8.0, 37C
+45.6	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N	37	8.0	X	mutant H268N/H26E, pH 8.0, 37C, with 1 mM L-arginine
+45.8	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N	37	8.0	X	mutant E19R, pH 8.0, 37C
+46	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N	37	8.0	X	mutant H268N/H26E/E19R, pH 8.0, 37C, with 1 mM L-arginine
+46.1	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N	37	8.0	X	mutant H268N/H26E, pH 8.0, 37C
+46.5	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N	37	8.0	X	mutant H268N/H26E/E19R, pH 8.0, 37C
+115	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N		7.5		in the presence of 1 mM L-arginine, in 50 mM imidazole, pH 7.5
+126.1	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N		7.5		in the absence of protein PII, in 50 mM imidazole, pH 7.5
+187.5	N-acetyl-L-glutamate	450	RFMMMVDNIPUKGG-YFKPBYRVSA-N		7.5		in the presence of protein PII, in 50 mM imidazole, pH 7.5

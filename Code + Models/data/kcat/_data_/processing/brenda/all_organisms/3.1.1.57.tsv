@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0013	2-Pyrone-4,6-dicarboxylate	1711	VRMXCPVFSJVVCA-UHFFFAOYSA-L	30	8.25	X	D248A mutant protein, pH 8.25, 30C
+0.02	2-Pyrone-4,6-dicarboxylate	1711	VRMXCPVFSJVVCA-UHFFFAOYSA-L	30	8.25	X	R124M mutant protein, pH 8.25, 30C
+0.023	2-Pyrone-4,6-dicarboxylate	1711	VRMXCPVFSJVVCA-UHFFFAOYSA-L	30	8.25	X	D248N mutant protein, pH 8.25, 30C
+0.4	2-Pyrone-4,6-dicarboxylate	1711	VRMXCPVFSJVVCA-UHFFFAOYSA-L	30	8.25	X	H31N mutant protein, pH 8.25, 30C
+0.42	2-Pyrone-4,6-dicarboxylate	1711	VRMXCPVFSJVVCA-UHFFFAOYSA-L	30	8.25	X	R217M mutant protein, pH 8.25, 30C
+3.6	2-Pyrone-4,6-dicarboxylate	1711	VRMXCPVFSJVVCA-UHFFFAOYSA-L	30	8.25	X	H33N mutant protein, pH 8.25, 30C
+5	2-Pyrone-4,6-dicarboxylate	1711	VRMXCPVFSJVVCA-UHFFFAOYSA-L	30	8.25	X	R130M mutant protein, pH 8.25, 30C
+8	2-Pyrone-4,6-dicarboxylate	1711	VRMXCPVFSJVVCA-UHFFFAOYSA-L	30	8.25	X	H180A mutant protein, pH 8.25, 30C
+8.7	2-Pyrone-4,6-dicarboxylate	1711	VRMXCPVFSJVVCA-UHFFFAOYSA-L	30	8.25	X	Y156F mutant protein, pH 8.25, 30C
+26	2-Pyrone-4,6-dicarboxylate	1711	VRMXCPVFSJVVCA-UHFFFAOYSA-L	30	8.25	X	Y49F mutant protein, pH 8.25, 30C
+32	2-Pyrone-4,6-dicarboxylate	1711	VRMXCPVFSJVVCA-UHFFFAOYSA-L	180	8.25	X	H180C mutant protein, pH 8.25, 30C
+196	2-Pyrone-4,6-dicarboxylate	1711	VRMXCPVFSJVVCA-UHFFFAOYSA-L	30	8.25	X	R183M mutant protein, pH 8.25, 30C
+342	2-Pyrone-4,6-dicarboxylate	1711	VRMXCPVFSJVVCA-UHFFFAOYSA-L	30	8.25		wild type protein, pH 8.25, 30C

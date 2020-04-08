@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.015	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.5	X	mutant D225A, pH 7.5, temperature not specified in the publication
+0.06	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.5	X	mutant R108Q, pH 7.5, temperature not specified in the publication
+0.087	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.5	X	mutant R108L, pH 7.5, temperature not specified in the publication
+0.088	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.5	X	mutant D250A, pH 7.5, temperature not specified in the publication
+0.175	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.5	X	mutant R98Q, pH 7.5, temperature not specified in the publication
+6.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.5		wild-type, pH 7.5, temperature not specified in the publication
+13.3	D-malate	862	BJEPYKJPYRNKOW-UWTATZPHSA-N				
+19.7	D-malate	862	BJEPYKJPYRNKOW-UWTATZPHSA-N				
+0.617	meso-tartrate	956	FEWJPZIEWOKRBE-XIXRPRMCSA-N				
+0.167	isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L				
+0.2	isopropylmalate	1269	RNQHMTFBUSSBJQ-UHFFFAOYSA-L				
+0.417	L-Tartrate	1389	FEWJPZIEWOKRBE-JCYAYHJZSA-L				
+0.483	L-Tartrate	1389	FEWJPZIEWOKRBE-JCYAYHJZSA-L				

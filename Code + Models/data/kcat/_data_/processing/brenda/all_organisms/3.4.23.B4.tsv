@@ -1,0 +1,27 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0015	Ala-Leu-Thr-Lys-Val-Gln-Val-Val-Gln-Ser-Lys-Gly	1695	YVPPEXGUILJPAS-WEJZZMBYSA-N		5.25	X	pH 5.25, mutant enzyme I57G/G62F
+0.002	Ala-Leu-Thr-Lys-Val-Gln-Val-Val-Gln-Ser-Lys-Gly	1695	YVPPEXGUILJPAS-WEJZZMBYSA-N		5.25	X	pH 5.25, mutant enzyme L101I
+0.0035	Ala-Leu-Thr-Lys-Val-Gln-Val-Val-Gln-Ser-Lys-Gly	1695	YVPPEXGUILJPAS-WEJZZMBYSA-N		5.25	X	pH 5.25, mutant enzyme L97T/I98P/Q99V/P100N/L101I
+0.00367	Ala-Leu-Thr-Lys-Val-Gln-Val-Val-Gln-Ser-Lys-Gly	1695	YVPPEXGUILJPAS-WEJZZMBYSA-N		5.25	X	pH 5.25, mutant enzyme Q54K
+0.00533	Ala-Leu-Thr-Lys-Val-Gln-Val-Val-Gln-Ser-Lys-Gly	1695	YVPPEXGUILJPAS-WEJZZMBYSA-N		5.25	X	pH 5.25, mutant enzyme I37V/Q54K
+0.00617	Ala-Leu-Thr-Lys-Val-Gln-Val-Val-Gln-Ser-Lys-Gly	1695	YVPPEXGUILJPAS-WEJZZMBYSA-N		5.25	X	pH 5.25, mutant enzyme I37V/V59I
+0.00833	Ala-Leu-Thr-Lys-Val-Gln-Val-Val-Gln-Ser-Lys-Gly	1695	YVPPEXGUILJPAS-WEJZZMBYSA-N		5.25	X	pH 5.25, mutant enzyme V59I
+0.00983	Ala-Leu-Thr-Lys-Val-Gln-Val-Val-Gln-Ser-Lys-Gly	1695	YVPPEXGUILJPAS-WEJZZMBYSA-N		5.25	X	pH 5.25, mutant enzyme I37V
+0.0102	Ala-Leu-Thr-Lys-Val-Gln-Val-Val-Gln-Ser-Lys-Gly	1695	YVPPEXGUILJPAS-WEJZZMBYSA-N		5.25	X	pH 5.25, mutant enzyme I37V/N55M
+0.0113	Ala-Leu-Thr-Lys-Val-Gln-Val-Val-Gln-Ser-Lys-Gly	1695	YVPPEXGUILJPAS-WEJZZMBYSA-N		5.25	X	pH 5.25, mutant enzyme I98P
+0.0123	Ala-Leu-Thr-Lys-Val-Gln-Val-Val-Gln-Ser-Lys-Gly	1695	YVPPEXGUILJPAS-WEJZZMBYSA-N		5.25	X	pH 5.25, mutant enzyme N55M
+0.0142	Ala-Leu-Thr-Lys-Val-Gln-Val-Val-Gln-Ser-Lys-Gly	1695	YVPPEXGUILJPAS-WEJZZMBYSA-N		5.25	X	pH 5.25, mutant enzyme M56I
+0.0165	Ala-Leu-Thr-Lys-Val-Gln-Val-Val-Gln-Ser-Lys-Gly	1695	YVPPEXGUILJPAS-WEJZZMBYSA-N		5.25	X	pH 5.25, mutant enzyme Q99V
+0.0173	Ala-Leu-Thr-Lys-Val-Gln-Val-Val-Gln-Ser-Lys-Gly	1695	YVPPEXGUILJPAS-WEJZZMBYSA-N		5.25		pH 5.25, wild-type enzyme
+0.0223	Ala-Leu-Thr-Lys-Val-Gln-Val-Val-Gln-Ser-Lys-Gly	1695	YVPPEXGUILJPAS-WEJZZMBYSA-N		5.25	X	pH 5.25, mutant enzyme I37V/V59I
+0.11	Arg-Ala-Leu-Thr-Lys-(4-aminobenzoic acid)-Val-Gln-Phe-(NO2)-Val-Gln-Ser-Lys-Gly-Arg-NH2	22320	MYHFCSJBXZHALH-KAXJSUHDSA-N				
+0.29	RALTK(epsilon-ABZ)VQF(NO2)VQSKGR	24067	PXXODYRCGWEADA-SLMGCAJNSA-N		5.3		pH 5.3, 0.2 M NaCl, 0.1 mM EDTA, 1 mM DTT
+0.945	Ile-Arg-Lys-Ile-Leu-Phe-Leu-Asp-Gly	3038	WYKXFAMLPVRZDJ-VSCNCUKMSA-N		5.25	X	pH 5.25, mutant enzyme M56I
+1.81	Ile-Arg-Lys-Ile-Leu-Phe-Leu-Asp-Gly	3038	WYKXFAMLPVRZDJ-VSCNCUKMSA-N		5.25		pH 5.25, wild-type enzyme
+2.27	Ile-Arg-Lys-Ile-Leu-Phe-Leu-Asp-Gly	3038	WYKXFAMLPVRZDJ-VSCNCUKMSA-N		5.25	X	pH 5.25, mutant enzyme I37V/V59I
+2.51	Ile-Arg-Lys-Ile-Leu-Phe-Leu-Asp-Gly	3038	WYKXFAMLPVRZDJ-VSCNCUKMSA-N		5.25	X	pH 5.25, mutant enzyme V59I
+2.65	Ile-Arg-Lys-Ile-Leu-Phe-Leu-Asp-Gly	3038	WYKXFAMLPVRZDJ-VSCNCUKMSA-N		5.25	X	pH 5.25, mutant enzyme Q99V
+2.69	Ile-Arg-Lys-Ile-Leu-Phe-Leu-Asp-Gly	3038	WYKXFAMLPVRZDJ-VSCNCUKMSA-N		5.25	X	pH 5.25, mutant enzyme N55M
+3.01	Ala-Leu-Thr-Lys-Val-Gln-Val-Val-Gln-Ser-Lys-Gly	1695	YVPPEXGUILJPAS-WEJZZMBYSA-N		5.25		pH 5.25, wild-type enzyme
+3.56	Ile-Arg-Lys-Ile-Leu-Phe-Leu-Asp-Gly	3038	WYKXFAMLPVRZDJ-VSCNCUKMSA-N		5.25	X	pH 5.25, mutant enzyme I37V
+4	Ile-Arg-Lys-Ile-Leu-Phe-Leu-Asp-Gly	3038	WYKXFAMLPVRZDJ-VSCNCUKMSA-N		5.25	X	pH 5.25, mutant enzyme I37V/N55M

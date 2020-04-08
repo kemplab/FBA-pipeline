@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.1	reduced ferredoxin	230	YMPNWRUDPNYLSN-UHFFFAOYSA-N		7.0	X	using E92Q/E93Q/E29Q/D34N mutant ferredoxin, the reaction mixture contains regulator of fumarate and nitrate reduction (100 nM), sulfite reductase (ferredoxin) (800 nM), and sulfite (0.5 mM) in 30 mM potassium phosphate buffer, pH 7.0 and 25 mM NaCl
+2.4	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L				root enzyme
+2.66	reduced ferredoxin	230	YMPNWRUDPNYLSN-UHFFFAOYSA-N		7.0	X	using E92Q/E30Q/D34N mutant ferredoxin, the reaction mixture contains regulator of fumarate and nitrate reduction (100 nM), sulfite reductase (ferredoxin) (800 nM), and sulfite (0.5 mM) in 30 mM potassium phosphate buffer, pH 7.0 and 25 mM NaCl
+2.7	reduced ferredoxin	230	YMPNWRUDPNYLSN-UHFFFAOYSA-N		7.0	X	using E92Q/E93Q mutant ferredoxin, the reaction mixture contains regulator of fumarate and nitrate reduction (100 nM), sulfite reductase (ferredoxin) (800 nM), and sulfite (0.5 mM) in 30-mM potassium phosphate buffer, pH 7.0 and 25 mM NaCl
+3.65	reduced ferredoxin	230	YMPNWRUDPNYLSN-UHFFFAOYSA-N		7.0		using wild type ferredoxin, the reaction mixture contains ferredoxin-NADP+ reductase (100 nM), sulfite reductase (ferredoxin) (800 nM), and sulfite (0.5 mM) in 30 mM potassium phosphate buffer, pH 7.0 and 25 mM NaCl
+4.7	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L				
+9.1	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L				leaf enzyme
+243	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M				

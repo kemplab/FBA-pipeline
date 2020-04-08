@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000026	2,4-diacetylphloroglucinol	125797	PIFFQYJYNWXNGE-UHFFFAOYSA-N	25	7.1	X	recombinant mutant E274A, pH 7.1, 25C
+0.000081	2,4-diacetylphloroglucinol	125797	PIFFQYJYNWXNGE-UHFFFAOYSA-N	25	7.1	X	recombinant mutant E160A, pH 7.1, 25C
+0.05	2,4-diacetylphloroglucinol	125797	PIFFQYJYNWXNGE-UHFFFAOYSA-N	25	7.1	X	recombinant mutant Y121A, pH 7.1, 25C
+0.21	2,4-diacetylphloroglucinol	125797	PIFFQYJYNWXNGE-UHFFFAOYSA-N	25	7.1	X	recombinant mutant Y229A, pH 7.1, 25C
+0.58	2,4-diacetylphloroglucinol	125797	PIFFQYJYNWXNGE-UHFFFAOYSA-N	25	7.1	X	recombinant mutant H214Q, pH 7.1, 25C
+0.74	2,4-diacetylphloroglucinol	125797	PIFFQYJYNWXNGE-UHFFFAOYSA-N	25	7.1	X	recombinant mutant N132A, pH 7.1, 25C
+1.4	2,4-diacetylphloroglucinol	125797	PIFFQYJYNWXNGE-UHFFFAOYSA-N	25	7.1	X	recombinant mutants Y229F and H214A, pH 7.1, 25C
+4.7	2,4-diacetylphloroglucinol	125797	PIFFQYJYNWXNGE-UHFFFAOYSA-N	25	7.1		recombinant wild-type enzyme, pH 7.1, 25C
+5.8	2,4-diacetylphloroglucinol	125797	PIFFQYJYNWXNGE-UHFFFAOYSA-N	25	7.0		recombinant enzyme, pH 7.0, 25C
+33	2,4-diacetylphloroglucinol	125797	PIFFQYJYNWXNGE-UHFFFAOYSA-N	30	7.0		recombinant enzyme, pH 7.0, 30C

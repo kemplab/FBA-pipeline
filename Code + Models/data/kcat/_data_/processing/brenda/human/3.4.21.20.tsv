@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.025	7-methoxycoumarin-4-yl-acetyl-Phe-Val-Thr-(4-guanidine-L-phenylalanyl)-amino benzoyl-NH2	25067	BUZBNMMEGAVEQK-WVAUDHFPSA-N	25	7.5		pH 7.5, 25C
+0.421	7-methoxycoumarin-4-yl-acetyl-Phe-Val-Thr-(4-guanidine-L-phenylalanyl)-Ser-amino benzoyl-NH2	25068	GBMMNKHFCFYNAF-LZTNUVQISA-N	25	7.5		pH 7.5, 25C
+0.512	7-methoxycoumarin-4-yl-acetyl-Phe-Val-Thr-(4-guanidine-L-phenylalanyl)-Ser-Phe-amino benzoyl-NH2	25069	DRAIFQVKFSHWEZ-BGXYSZITSA-N	25	7.5		pH 7.5, 25C
+0.524	7-methoxycoumarin-4-yl-acetyl-Phe-Val-Thr-(4-guanidine-L-phenylalanyl)-Ser-Trp-amino benzoyl-NH2	16741	DKMOYRGCEUWPEU-DMWJJVEFSA-N	25	7.5		pH 7.5, 25C
+0.604	7-methoxycoumarin-4-yl-acetyl-Phe-Val-Thr-(4-guanidine-L-phenylalanyl)-Ser-Asp-amino benzoyl-NH2	16740	JTRUGOQADMAIBK-GJAVGIDKSA-N	25	7.5		pH 7.5, 25C
+3	N-benzoyl-L-tyrosine ethyl ester	2492	SRLROPAFMUDDRC-INIZCTEOSA-N				
+6	methoxysuccinyl-L-alanine-L-alanine-L-proline-L-valine-p-nitroanilide	2014	VLVGCNNWNUERRZ-OSAZLGQLSA-N				
+6.08	7-methoxycoumarin-4-yl-acetyl-Phe-Val-Thr-(4-guanidine-L-phenylalanyl)-Ser-Asp-amino benzoyl-NH2	16740	JTRUGOQADMAIBK-GJAVGIDKSA-N	25	7.5		pH 7.5, 25C
+6.08	7-methoxycoumarin-4-yl-acetyl-Phe-Val-Thr-(4-guanidine-L-phenylalanyl)-Ser-Trp-amino benzoyl-NH2	16741	DKMOYRGCEUWPEU-DMWJJVEFSA-N	25	7.5		pH 7.5, 25C
+14	N-succinyl-L-Val-L-Pro-L-Phe-4-nitroanilide	11758	QNIRAWWVNQTNGK-FXSPECFOSA-N	37	8.0		wild type enzyme, in PBS buffer, pH 8.0, 37C
+19	acetyl-Phe-Val-Thr-(4-guanidine-L-phenylalanyl)-amino benzoyl-NH2	25066	ARLRYLZEQVUUHS-CUDWMIMGSA-N	25	7.5		pH 7.5, 25C
+68.3	N-acetyl-L-phenylalanine-p-nitrophenyl ester	8540	OBFGGGOSBTXXCS-INIZCTEOSA-N				
+100	N-succinyl-L-Val-L-Pro-L-Phe-4-nitroanilide	11758	QNIRAWWVNQTNGK-FXSPECFOSA-N	37	8.0		wild type enzyme, in 1.8 M NaCl, pH 8.0, 37C

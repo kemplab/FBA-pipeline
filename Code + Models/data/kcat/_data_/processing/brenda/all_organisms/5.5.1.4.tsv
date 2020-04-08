@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0817	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	7.5		pH 7.5, 30C, periodate assay method, in absence of 1 mM Mg2+
+0.102	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	7.5		pH 7.5, 30C, periodate assay method, in presence of 1 mM Mg2+
+0.107	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	7.5		pH 7.5, 30C, IMP-coupled assay method, in presence of 1 mM Mg2+
+0.3	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	30	7.5		pH 7.5, 30C, IMP-coupled assay method, in presence of 10 mM Mg2+
+9.6	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N				

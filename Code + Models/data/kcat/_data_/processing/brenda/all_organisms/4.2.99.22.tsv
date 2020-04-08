@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1400	6-tuliposide A	10275	NABVFHUVYXEKSQ-AXYLGWQJSA-N				isoform TCEA-b1, pH not specified in the publication, temperature not specified in the publication
+2800	6-tuliposide A	10275	NABVFHUVYXEKSQ-AXYLGWQJSA-N	22	6.5		pH 6.5, 22C
+510	6-tuliposide B	13078	FMHJNIRDGYFPEC-FYBBSCAJSA-N	22	6.5		pH 6.5, 22C
+610	6-tuliposide B	13078	FMHJNIRDGYFPEC-FYBBSCAJSA-N				isoform TCEA-b1, pH not specified in the publication, temperature not specified in the publication

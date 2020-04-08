@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.46	P1,P6-bis(5'-adenosyl)hexaphosphate	1906	PZCFFCOJNXGTIM-URSPPAIUSA-N	37	8.0	X	pH 8.0, 37C, His10-tagged truncated mutant enzyme DELTA2-31
+0.67	P1,P6-bis(5'-adenosyl)hexaphosphate	1906	PZCFFCOJNXGTIM-URSPPAIUSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+0.69	P1,P6-bis(5'-adenosyl)hexaphosphate	1906	PZCFFCOJNXGTIM-URSPPAIUSA-N	37	8.0		pH 8.0, 37C, His10-tagged full length recombinant enzyme
+0.89	P1,P6-bis(5'-adenosyl)hexaphosphate	1906	PZCFFCOJNXGTIM-URSPPAIUSA-N	37	8.0	X	pH 8.0, 37C, His10-tagged truncated mutant enzyme DELTA2-19
+1.7	P1,P5-bis(5'-adenosyl)pentaphosphate	1594	OIMACDRJUANHTJ-XPWFQUROSA-N	37	7.6		pH 7.6, 37C
+2	P1,P6-bis(5'-adenosyl)hexaphosphate	1906	PZCFFCOJNXGTIM-URSPPAIUSA-N	37	7.6		pH 7.6, 37C

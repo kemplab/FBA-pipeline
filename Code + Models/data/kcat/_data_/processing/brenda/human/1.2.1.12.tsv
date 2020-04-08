@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+199	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.5		wild-type, pH 8.5, 25C
+234	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.5	X	N-terminally truncated mutant, pH 8.5, 25C
+199	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.5		glyceraldehyde-3-phosphate dehydrogenase, in 10 mM sodium diphosphate, 20 mM sodium phosphate (pH 8.5), 0.003 mM dithiothreitol and 10 mM sodium arsenate, at 25C
+234	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.5		recombinant, highly soluble form of sperm-specific glyceraldehyde-3-phosphate dehydrogenase truncated at the N-terminus, in 10 mM sodium diphosphate, 20 mM sodium phosphate (pH 8.5), 0.003 mM dithiothreitol and 10 mM sodium arsenate, at 25C

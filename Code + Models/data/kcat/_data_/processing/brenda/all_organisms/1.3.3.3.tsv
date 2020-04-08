@@ -1,0 +1,41 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000006	3-[7-(2-carboxy-ethyl)-13,17-dibutyl-3,8,12,18-tetramethyl-porphyrinogen-2-yl]-propionic acid	25123	TYUUJNDMZMREDW-UHFFFAOYSA-N	37			at 37C
+0.0000123	Harderoporphyrin	4426	HINHRTVWFJENDG-UJJXFSCMSA-N			X	mutant enzyme R262A
+0.00002	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N	37		X	mutant D400A; mutant enzyme D400A; mutant enzyme D400A, at 37C
+0.000165	3-[7-(2-carboxy-ethyl)-13,17-dipropyl-3,8,12,18-tetramethyl-porphyrinogen-2-yl]-propionic acid	25124	XZGOFAVRAJJBHF-UHFFFAOYSA-N	37			at 37C
+0.00025	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N			X	mutant H158A
+0.000383	Harderoporphyrinogen	3336	NJOHCPMVGKOWTE-UHFFFAOYSA-N			X	mutant H158A
+0.0004167	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N			X	mutant R262A
+0.00042	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N	37		X	mutant enzyme R262A, at 37C
+0.00167	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N			X	mutant R401A, production to intermediate divinyl
+0.0017	3-[7,13-di(2-carboxy-ethyl)-17-ethyl-3,8,12,18-tetramethyl-porphyrinogen-2-yl]-propionic acid	21400	WGFZINXENRCSBF-UHFFFAOYSA-N	37			at 37C
+0.002	mesoporphyrinogen-VI	5007	BXZUJYPTQMCSAD-UHFFFAOYSA-N	37		X	mutant enzyme R401A, at 37C; mutant R401A, production to intermediate monovinyl
+0.002	mesoporphyrin-VI	9570	HTOLCBBKGVOLFK-IUNJRDNESA-N			X	mutant enzyme R401A
+0.003	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N				recombinant O2-dependent enzyme form
+0.0033	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N				monovinyl as product
+0.0033	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N				with monovinyl product
+0.0063	3-[7-(2-carboxy-ethyl)-13,17-diethyl-3,8,12,18-tetramethyl-porphyrinogen-2-yl]-propionic acid	13952	XDBLMRUKSLSFGO-UHFFFAOYSA-N	37			at 37C
+0.0063	mesoporphyrinogen-VI	5007	BXZUJYPTQMCSAD-UHFFFAOYSA-N	37			wild type enzyme, at 37C; wild-type, production to intermediate monovinyl
+0.00633	mesoporphyrin-VI	9570	HTOLCBBKGVOLFK-IUNJRDNESA-N				wild type enzyme
+0.009	pentacarboxylate porphyrinogen 5dab	12126	KRQBHRDDDQYZMF-UHFFFAOYSA-N				monovinyl as product; total product
+0.01167	coproporphyrinogen-IV	5437	POZPKGHGQULZAO-UHFFFAOYSA-N				with divinyl product
+0.0125	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N				divinyl as product
+0.01616	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N				total product
+0.017	Coproporphyrinogen III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N				pH and temperature not specified in the publication
+0.017	Harderoporphyrin	4426	HINHRTVWFJENDG-UJJXFSCMSA-N			X	mutant enzyme R401A
+0.02	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N	37		X	mutant enzyme R401A; mutant enzyme R401A, at 37C; mutant R401A
+0.0267	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N				wild-type, production to intermediate divinyl
+0.027	Harderoporphyrin	4426	HINHRTVWFJENDG-UJJXFSCMSA-N				wild type enzyme
+0.0283	3-[7,17-di(2-carboxy-ethyl)-13-ethyl-3,8,12,18-tetramethyl-porphyrinogen-2-yl]-propionic acid	21401	UPVGACOTQJVOMR-UHFFFAOYSA-N	37			at 37C
+0.0283	coproporphyrinogen-IV	5437	POZPKGHGQULZAO-UHFFFAOYSA-N				with monovinyl product
+0.043	coproporphyrinogen-IV	5437	POZPKGHGQULZAO-UHFFFAOYSA-N				total product
+0.045	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N	37			wild-type; wild type enzyme; wild type enzyme, at 37C
+0.055	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N				with divinyl product
+0.06	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N				total product
+0.06	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N				wild-type
+0.06	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N	37			at 37C
+0.1317	Harderoporphyrinogen	3336	NJOHCPMVGKOWTE-UHFFFAOYSA-N				wild-type
+0.42	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N			X	mutant enzyme R262A
+0.6	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N	37	7.2	X	mutant N272H, pH 7.2, 37C
+1.8	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N	37	7.2		wild-type, pH 7.2, 37C
+16	Coproporphyrinogen-III	586	NIUVHXTXUXOFEB-UHFFFAOYSA-N				

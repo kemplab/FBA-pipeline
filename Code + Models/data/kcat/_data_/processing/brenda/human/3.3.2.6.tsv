@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.001	L-Ala-p-nitroanilide	2879	PXFUDSMGEYRNNC-LURJTMIESA-N		7.5	X	mutant enzyme E296Q, 500 mM KCl in 250 mM Tris buffer (pH 7.5)
+0.002	L-Arg-p-nitroanilide	5470	TWYRZWVFWYSNBU-JTQLQIEISA-N		7.5	X	mutant enzyme E296Q, 500 mM KCl in 250 mM Tris buffer (pH 7.5)
+0.04	lysine-4-nitroanilide	2640	VUUNELJIFNFWJC-NSHDSACASA-N	22	7.6		pH 7.6, 22C
+0.15	leukotriene A4	648	UFPQIRYSPUYQHK-WAQVJNLQSA-N				value depending on NaSCN concentration
+0.15	arginine-4-nitroanilide	11224	TWYRZWVFWYSNBU-UHFFFAOYSA-N	22	7.6		pH 7.6, 22C
+0.15	leucine-4-nitroanilide	3671	AVVSPQJVXCWBDF-UHFFFAOYSA-N	22	7.6		pH 7.6, 22C
+0.15	proline-4-nitroanilide	2484	JWXPYNYNEUYKOW-JTQLQIEISA-N	22	7.6		pH 7.6, 22C
+0.21	leukotriene A4	648	UFPQIRYSPUYQHK-WAQVJNLQSA-N		8.0	X	pH 8.0, wild-type enzyme in comparison to mutant enzymes
+0.35	leucine-4-nitroanilide	3671	AVVSPQJVXCWBDF-UHFFFAOYSA-N	22	7.5		pH 7.5, 22C
+0.5	L-Ala-p-nitroanilide	2879	PXFUDSMGEYRNNC-LURJTMIESA-N		7.5	X	mutant enzyme D375A, 500 mM KCl in 250 mM Tris buffer (pH 7.5)
+0.56	Arg-Ser-Arg	9458	VENMDXUVHSKEIN-GUBZILKMSA-N		7.5		wild type enzyme, 500 mM KCl in 250 mM Tris buffer (pH 7.5)
+0.6	alanine-4-nitroanilide	2879	PXFUDSMGEYRNNC-LURJTMIESA-N	22	7.6		pH 7.6, 22C
+0.85	leukotriene A4	648	UFPQIRYSPUYQHK-WAQVJNLQSA-N	22	8.0		pH 8.0, 22C, wild-type enzyme
+0.85	leukotriene A4	648	UFPQIRYSPUYQHK-WAQVJNLQSA-N	22	8.0		pH 8.0, 22C, wild-type enzyme
+1.5	leukotriene A4	648	UFPQIRYSPUYQHK-WAQVJNLQSA-N	22	8.0		pH 8.0, 22C
+1.7	L-Ala-p-nitroanilide	2879	PXFUDSMGEYRNNC-LURJTMIESA-N		7.5		wild type enzyme, 500 mM KCl in 250 mM Tris buffer (pH 7.5)
+1.9	L-alanine-4-nitroanilide	5064	PXFUDSMGEYRNNC-UHFFFAOYSA-N				
+1.9	L-Arg-p-nitroanilide	5470	TWYRZWVFWYSNBU-JTQLQIEISA-N		7.5		wild type enzyme, 500 mM KCl in 250 mM Tris buffer (pH 7.5)
+2.08	leukotriene A4	648	UFPQIRYSPUYQHK-WAQVJNLQSA-N	37	7.7		pH 7.7-8.0, 37C
+2.09	leukotriene A4	648	UFPQIRYSPUYQHK-WAQVJNLQSA-N	22	8.0	X	pH 8.0, 22C, mutant Y378F
+2.09	leukotriene A4	648	UFPQIRYSPUYQHK-WAQVJNLQSA-N	22	8.0	X	pH 8.0, 22C, mutant Y378F

@@ -1,0 +1,68 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.7	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.5		in the presence of 10 mM Mg2+, at pH 7.5 and 37C
+5.26	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30			pH not specified in the publication, 30C
+14	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	8.0	X	mutant enzyme N193A, in 50 mM HEPES (pH 8.0), at 37C
+14	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	8.0	X	mutant N193A, pH 8.0, 37C
+38	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	8.0		wild type enzyme, in 50 mM HEPES (pH 8.0), at 37C
+38	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	8.0		wild-type, pH 8.0, 37C
+39	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	8.0	X	mutant enzyme K160A, in 50 mM HEPES (pH 8.0), at 37C
+39	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	8.0	X	mutant K160A , pH 8.0, 37C
+46	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	8.0		wild-type, pH 8.0, 37C
+51.2	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	60	8.0		pH 8.0, 60C
+56	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				wild-type BADH
+56.8	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	8.5		native wild type enzyme, in TAPS buffer, at pH 8.5, at 30C
+66	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	8.5		His-tagged BADH; recombinant wild type enzyme, in TAPS buffer, at pH 8.5, at 30C
+69	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	6.5		in 0.1 M HEPES/KOH (pH 6.5), at 70C
+80	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	8.0	X	mutant enzyme K160E, in 50 mM HEPES (pH 8.0), at 37C
+80	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	8.0	X	mutant K160E , pH 8.0, 37C
+136.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	6.5		at pH 6.5 and 70C
+176	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	8.5		in the presence of benzaldehyde, at 25C and pH 8.5
+1.3	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	37	7.5		in the absence of Mg2+, at pH 7.5 and 37C
+2.1	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	37	8.0	X	mutant enzyme K160E, in 50 mM HEPES (pH 8.0), at 37C
+2.1	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	37	8.0	X	mutant K160E , pH 8.0, 37C
+2.6	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	37	8.0	X	mutant enzyme K160A, in 50 mM HEPES (pH 8.0), at 37C
+2.6	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	37	8.0	X	mutant K160A , pH 8.0, 37C
+9.93	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30			pH not specified in the publication, 30C
+16.5	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	70	6.5		at pH 6.5 and 70C
+17	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	8.5		native wild type enzyme, in TAPS buffer, at pH 8.5, at 30C; wild-type BADH
+21	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O				His-tagged BADH
+21	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	37	8.0	X	mutant enzyme N193A, in 50 mM HEPES (pH 8.0), at 37C
+21	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	37	8.0	X	mutant N193A, pH 8.0, 37C
+21.1	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	8.5		recombinant wild type enzyme, in TAPS buffer, at pH 8.5, at 30C
+27.6	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	60	8.0		pH 8.0, 60C
+40	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	8.5		in the presence of benzaldehyde, at 25C and pH 8.5
+46	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	37	8.0		wild type enzyme, in 50 mM HEPES (pH 8.0), at 37C
+6.4	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	25	8.5		in the presence of NADP+, at 25C and pH 8.5
+57	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	25	8.5		in the presence of NAD+, at 25C and pH 8.5
+0.3	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0	X	mutant enzyme D426A, with NAD+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37C
+0.3	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0	X	mutant D426A , cofactor NAD+, pH 8.0, 37C
+1.9	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	7.5		with NADP+ as cosubstrate, in the absence of Mg2+, at pH 7.5 and 37C
+2	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0	X	mutant enzyme R428A, with NAD+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37C
+2	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0	X	mutant R428A , cofactor NAD+, pH 8.0, 37C
+4.7	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	7.5		with NADP+ as cosubstrate, in the presence of 10 mM Mg2+, at pH 7.5 and 37C
+5.61	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	30			cofactor NAD+, pH not specified in the publication, 30C
+7.24	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	30			cofactor NADP+, pH not specified in the publication, 30C
+26	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0	X	mutant enzyme F138A, with NAD+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37C
+26	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0	X	mutant F138A , cofactor NAD+, pH 8.0, 37C
+29.4	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	40	8.0		pH 8.0, 40C, cosubstrate: NAD+
+30	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	40	8.0		pH 8.0, 40C, cosubstrate: NADP+
+45	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0	X	mutant enzyme R145A, with NAD+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37C
+45	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0	X	mutant R145A , cofactor NAD+, pH 8.0, 37C
+55	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0		wild type enzyme, with NAD+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37C
+55	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0		wild-type, cofactor NAD+, pH 8.0, 37C
+66	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0	X	mutant enzyme W141A, with NAD+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37C
+66	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0	X	mutant W141A , cofactor NAD+, pH 8.0, 37C
+68	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0	X	mutant enzyme S425A, with NAD+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37C
+68	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0	X	mutant S425A , cofactor NAD+, pH 8.0, 37C
+73	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0	X	mutant enzyme K92A, with NAD+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37C
+73	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0	X	mutant K92A, cofactor NAD+, pH 8.0, 37C
+83	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0		wild type enzyme, with NADP+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37C
+83	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0		wild-type, cofactor NADP+, pH 8.0, 37C
+164	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0	X	mutant enzyme E442A, with NAD+ as cosubstrate, in 50 mM HEPES (pH 8.0), at 37C
+164	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	37	8.0	X	mutant E442A, cofactor NAD+, pH 8.0, 37C
+16.8	Succinic semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	70	6.5		with NAD+ as cosubstrate, at pH 6.5 and 70C
+18.4	Succinic semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	70	6.5		with NADP+ as cosubstrate, at pH 6.5 and 70C
+22.6	Succinic semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	70	6.5		in 0.1 M HEPES/KOH (pH 6.5), at 70C
+7.1	2-oxoglutarate semialdehyde	2354	VHKNBDIQDAXGBL-UHFFFAOYSA-N	70	6.5		in 0.1 M HEPES/KOH (pH 6.5), at 70C
+21.2	2-oxoglutarate semialdehyde	2354	VHKNBDIQDAXGBL-UHFFFAOYSA-N	70	6.5		with NADP+ as cosubstrate, at pH 6.5 and 70C
+27.3	2-oxoglutarate semialdehyde	2354	VHKNBDIQDAXGBL-UHFFFAOYSA-N	70	6.5		with NAD+ as cosubstrate, at pH 6.5 and 70C

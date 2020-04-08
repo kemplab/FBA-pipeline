@@ -1,0 +1,43 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.24	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	N260A mutant enzyme, pH 10, 37C
+0.25	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	D255D mutant enzyme, pH 10, 37C
+2.4	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	W387A mutant enzyme, pH 10, 37C
+2.55	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N				per subunit
+2.6	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	N354A mutant enzyme, pH 10, 37C
+2.92	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N				wild type isoform ChoKbeta, pH and temperature not specified in the publication
+4.58	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N			X	isoform ChoKbeta mutant F352L, pH and temperature not specified in the publication
+5.1	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	8.0		at pH 8.0 and 37C
+7	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	E303A mutant enzyme, pH 10, 37C
+9.5	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N			X	isoform ChoKbeta mutant F352A, pH and temperature not specified in the publication
+9.8	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	S86A mutant enzyme, pH 10, 37C
+12.91	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	7.8		pH 7.8, 37C, assay with recombinantly expressed enzyme
+14	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N			X	isoform ChoKalpha2 mutant F352L, pH and temperature not specified in the publication
+20.8	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	N308A mutant enzyme, pH 10, 37C
+21	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	E125A mutant enzyme, pH 10, 37C
+27.1	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	R111A mutant enzyme, pH 10, 37C
+29.7	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	N87A mutant enzyme, pH 10, 37C
+31.4	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	E125Q mutant enzyme, pH 10, 37C
+35.7	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	S85T mutant enzyme, pH 10, 37C
+37.5	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	N308Q mutant enzyme, pH 10, 37C
+38.7	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	E303D mutant enzyme, pH 10, 37C
+38.9	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	R149A mutant enzyme, pH 10, 37C
+42.9	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	H253A mutant enzyme, pH 10, 37C
+45.31	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	30	7.5	X	mutant choline kinase beta S39D/S40D, at pH 7.5 and 30C
+47.33	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N				wild type isoform ChoKalpha2, pH and temperature not specified in the publication
+48.25	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	30	7.5		phosphorylated choline kinase beta, at pH 7.5 and 30C
+49.5	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N			X	isoform ChoKalpha2 mutant F352A, pH and temperature not specified in the publication
+50.48	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5	X	mutant choline kinase beta S39D/S40D, at pH 7.5 and 30C
+54.39	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5		phosphorylated choline kinase beta, at pH 7.5 and 30C
+58.7	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	E303Q mutant enzyme, pH 10, 37C
+71	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7.5		in 100 mM Tris-HCl pH 7.5, 100 mM KCl, 10 mM MgCl2, at 25C
+71.5	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N		7.5		in 100 mM Tris-HCl buffer (pH 7.5) containing 100 mM KCl, 10 mM MgCl2, 0.5 mM phosphoenolpyruvate, 0.25 mM NADH, 4 units pyruvate kinase, and 5 units lactate dehydrogenase
+72.3	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10		wild type enzyme including His-tag, pH 10, 37C
+74	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10		wild type enzyme, pH 10, 37C
+76.83	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N				wild type isoform ChoKalpha1, pH and temperature not specified in the publication
+79.9	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	E320A mutant enzyme, pH 10, 37C
+84.3	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	C252S mutant enzyme, pH 10, 37C
+84.6	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	N308D mutant enzyme, pH 10, 37C
+87.9	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	R149K mutant enzyme, pH 10, 37C
+89.2	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	E151A mutant enzyme, pH 10, 37C
+97.3	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	E134A mutant enzyme, pH 10, 37C
+130	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	37	10	X	E125D mutant enzyme, pH 10, 37C

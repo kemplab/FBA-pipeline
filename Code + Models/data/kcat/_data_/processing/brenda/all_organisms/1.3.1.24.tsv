@@ -1,0 +1,26 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.01	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.2	X	mutant enzyme S111L, at pH 7.2 and 25C
+0.025	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.2	X	mutant enzyme S111A, at pH 7.2 and 25C
+0.097	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	7.2	X	mutant enzyme R124A, at pH 7.2 and 30C
+0.171	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.2		wild type enzyme, at pH 7.2 and 25C
+0.237	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	7.2	X	mutant enzyme H132A, at pH 7.2 and 30C; wild type enzyme, at pH 7.2 and 30C
+0.4	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	7.2	X	mutant enzyme R174A, at pH 7.2 and 30C
+1.7	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				without Cl-
+5.6	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				with Cl-
+0.7	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		8.9	X	mutant enzyme R171E, at pH 8.9, temperature not specified in the publication
+0.7	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		5.8	X	mutant enzyme R185A, at pH 5.8, temperature not specified in the publication
+0.9	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		5.8	X	mutant enzyme R185K, at pH 5.8, temperature not specified in the publication
+2	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		5.8	X	mutant enzyme K237A, at pH 5.8, temperature not specified in the publication
+2.7	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		5.8	X	mutant enzyme Y102F, at pH 5.8, temperature not specified in the publication
+6	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		8.9	X	mutant enzyme R171A, at pH 8.9, temperature not specified in the publication
+7.1	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		5.8		wild type enzyme, at pH 5.8, temperature not specified in the publication
+11	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		5.8	X	mutant enzyme R246A, at pH 5.8, temperature not specified in the publication
+11.3	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		5.8	X	mutant enzyme S184A, at pH 5.8, temperature not specified in the publication
+13.1	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		5.8	X	mutant enzyme T169A, at pH 5.8, temperature not specified in the publication
+13.4	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		5.8	X	mutant enzyme R188A, at pH 5.8, temperature not specified in the publication
+13.6	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		8.9	X	mutant enzyme Y97F, at pH 8.9, temperature not specified in the publication
+14.7	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		8.9	X	mutant enzyme R171K, at pH 8.9, temperature not specified in the publication
+16.8	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		8.9	X	mutant enzyme Y98F, at pH 8.9, temperature not specified in the publication
+17.9	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		8.9	X	mutant enzyme R172A, at pH 8.9, temperature not specified in the publication
+69.3	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		8.9		wild type enzyme, at pH 8.9, temperature not specified in the publication
+94.8	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		8.9		wild type enzyme, at pH 8.9, temperature not specified in the publication

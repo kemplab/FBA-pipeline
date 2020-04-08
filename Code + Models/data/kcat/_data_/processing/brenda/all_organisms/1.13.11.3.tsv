@@ -1,0 +1,36 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.007	3,4-dihydroxybenzoate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N			X	mutant enzyme Y408H
+0.007	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N			X	mutant enzyme Y408H
+0.007	protocatechuate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N	25	8.5	X	for the mutant enzyme Y408H, at 25C in 50 mM Tris and 2 mM beta-mercaptoethanol, pH 8.5 under saturating protocatechuate and O2 conditions
+0.01	3,4-dihydroxybenzoate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N			X	mutant enzyme Y408E
+0.01	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N			X	mutant enzyme Y408E
+0.01	protocatechuate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N	25	8.5	X	for the mutant enzyme Y408E, at 25C in 50 mM Tris and 2 mM beta-mercaptoethanol, pH 8.5 under saturating protocatechuate and O2 conditions
+0.011	protocatechuate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N	25	8.5	X	for the mutant enzyme Y408F, at 25C in 50 mM Tris and 2 mM beta-mercaptoethanol, pH 8.5 under saturating protocatechuate and O2 conditions
+0.09	3,4-dihydroxybenzoate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N			X	mutant enzyme R457S
+0.09	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N			X	mutant enzyme R457S
+0.12	3,4-dihydroxybenzoate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N			X	mutant enzyme Y447H
+0.12	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N			X	mutant enzyme Y447H
+0.12	protocatechuate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N			X	Y447H mutant enzyme
+0.13	3,4-dihydroxybenzoate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N	408		X	mutant enzyme Y408C
+0.13	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	408		X	mutant enzyme Y408C
+0.13	protocatechuate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N	408	8.5	X	for the mutant enzyme Y408C, at 25C in 50 mM Tris and 2 mM beta-mercaptoethanol, pH 8.5 under saturating protocatechuate and O2 conditions
+0.24	3,4-dihydroxybenzoate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N			X	mutant enzyme R133H
+0.24	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N			X	mutant enzyme R133H
+14.6	4-sulfocatechol	6407	LTPDITOEDOAWRU-UHFFFAOYSA-N				protocatechuate 3,4-dioxgenase type II
+18.8	protocatechuate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N				protocatechuate 3,4-dioxgenase type II
+29	3,4-dihydroxybenzoate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N			X	mutant enzyme DELTA319-322
+29	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N			X	mutant enzyme DELTA319-322
+64.8	protocatechuate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N		8.3		oxygen electrode at pH 8.3
+68	3,4-dihydroxybenzoate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N				wild-type enzyme
+68	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N				wild-type enzyme
+68	protocatechuate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N				recombinant enzyme
+69.5	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N				
+70	protocatechuate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N				native enzyme
+74.7	protocatechuate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N		8.3		spectrophotometric at pH 8.3
+89.5	protocatechuate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N				protocatechuate 3,4-dioxgenase type I
+100	protocatechuate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N	25	8.5		for the wild-type enzyme, at 25C in 50 mM Tris and 2 mM beta-mercaptoethanol, pH 8.5 under saturating protocatechuate and O2 conditions
+120	3,4-dihydroxybenzoate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N				wild-type enzyme
+120	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N				wild-type enzyme
+417	3,4-dihydroxybenzoate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N				
+417	3,4-dihydroxybenzoate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N				
+758	3,4-dihydroxybenzoate	593	YQUVCSBJEUQKSH-UHFFFAOYSA-N				

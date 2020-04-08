@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.004	sphingomyelin	555	VFWAJUWRFCPRMX-RSXGXAQESA-O	37			crude enzyme, in HEPES-buffered saline at 37C; crude enzyme, in HEPES-buffered saline at 37C
+0.0065	sphingomyelin	555	VFWAJUWRFCPRMX-RSXGXAQESA-O	37			recombinant enzyme SMase I, in HEPES-buffered saline at 37C
+0.0175	sphingomyelin	555	VFWAJUWRFCPRMX-RSXGXAQESA-O	37			recombinant enzyme SMase II, in HEPES-buffered saline at 37C
+0.058	sphingomyelin	555	VFWAJUWRFCPRMX-RSXGXAQESA-O	37	7.4		37C, pH 7.4, sphingomyelinase P1
+0.118	sphingomyelin	555	VFWAJUWRFCPRMX-RSXGXAQESA-O	37	7.4		37C, pH 7.4, sphingomyelinase P2

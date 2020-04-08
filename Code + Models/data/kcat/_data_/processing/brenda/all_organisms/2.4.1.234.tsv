@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+50.9	UDP	24	XCCTYIAWTASOJW-XVFCMESISA-N	43	6		pH 6, 43C, cosubstrate kaempferol 3-O-galactoside, reverse reaction
+57.4	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	43	7.5		pH 7.5, 43C, cosubstrate quercetin, forward reaction
+59.8	quercetin	131	REFJWTPEDVJJIY-UHFFFAOYSA-N	43	7.5		pH 7.5, 43C, forward reaction
+59.9	kaempferol 3-O-galactoside	15123	JPUKWEQWGBDDQB-HBDJNLTOSA-N	43	6		pH 6, 43C, reverse reaction
+61.1	kaempferol	341	IYRMWMYZSQPJKC-UHFFFAOYSA-N	43	7.5		pH 7.5, 43C, forward reaction
+61.2	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	43	7.5		pH 7.5, 43C, cosubstrate kaempferol, forward reaction
+82.3	quercetin 3-O-galactoside	7887	OVSQVDMCBVZWGM-DTGCRPNFSA-N	43	6		pH 6, 43C, reverse reaction
+89.6	UDP	24	XCCTYIAWTASOJW-XVFCMESISA-N	43	6		pH 6, 43C, cosubstrate quercetin 3-O-galactoside, reverse reaction

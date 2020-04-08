@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.42	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				oxidized enzyme
+21	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				reduced enzyme
+0.84	sedoheptulose 1,7-diphosphate	686	OKHXOUGRECCASI-SHUUEZRQSA-N				oxidized enzyme
+81	sedoheptulose 1,7-diphosphate	686	OKHXOUGRECCASI-SHUUEZRQSA-N				reduced enzyme
+4.2	sedoheptulose 1,7-bisphosphate	686	OKHXOUGRECCASI-SHUUEZRQSA-N	289	8.0		in 50 mM Tris/HCl, pH 8.0, 15 mM MgCl2, 10 mM dithiothreitol, at 289C

@@ -1,0 +1,56 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+26	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N		5.4		without ATP, pH 5.4
+54	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N		5		without ATP, pH 5
+56	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N		5.8		with ATP, pH 5.8
+72	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N		5.4		with ATP, pH 5.4
+76	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N		4.5		without ATP, pH 4.5
+77	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N		4.5		with ATP, pH 4.5 and pH 5
+82	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N		3.1	X	Cys4-Ala mutant cathepsin E, pH 3.1
+115	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N				
+170	Lys-Pro-Ile-Glu-Phe-(4-nitro)Phe-Arg-Leu	1871	DTERXEXWWITKDZ-IQZOZZQVSA-N		3.5		pH 3.5
+5	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		7		value below, with ATP, pH 7
+11	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		6.6		with ATP, pH 6.6 and without ATP, pH 5
+16	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		6.2		with ATP, pH 6.2
+31	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		5		with ATP, pH 5
+36	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		4.5		without ATP, pH 4.5
+39	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		4.5		with ATP, pH 4.5 and pH 5.4
+40	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		5.8		with ATP, pH 5.8
+40	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		5		[Tyr8]-substance P, pH 5
+40	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N				
+47	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		5		without ATP, pH 5
+47	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N				substance P
+47	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N				
+70	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		3.1	X	Cys4-Ala mutant cathepsin E, pH 3.1
+75	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N		3.5		pH 3.5
+132	Pro-Pro-Thr-Ile-Phe-(4-nitro)Phe-Arg-Leu	1884	IYOXGSJBKBYGPJ-ABXBZLCRSA-N				
+0.52	(7-methoxycoumarin-4-yl)acetyl-Gly-Ser-Pro-Ala-Phe-Leu-Ala-Lys(Dnp)-D-Arg-NH2	3704	NSIRVLHIYQWTDO-BRHSRUOZSA-N	40	4.0		40C, pH 4.0, wild-type cathepsin E
+13.58	(7-methoxycoumarin-4-yl)acetyl-Gly-Ser-Pro-Ala-Phe-Leu-Ala-Lys(Dnp)-D-Arg-NH2	3704	NSIRVLHIYQWTDO-BRHSRUOZSA-N	40	4.0		40C, pH 4.0, wild-type cathepsin E
+18.8	(7-methoxycoumarin-4-yl)acetyl-Gly-Ser-Pro-Ala-Phe-Leu-Ala-Lys(Dnp)-D-Arg-NH2	3704	NSIRVLHIYQWTDO-BRHSRUOZSA-N	40	4.0		40C, pH 4.0, erythrocyte cathepsin E
+19.4	(7-methoxycoumarin-4-yl)acetyl-Gly-Ser-Pro-Ala-Phe-Leu-Ala-Lys(Dnp)-D-Arg-NH2	3704	NSIRVLHIYQWTDO-BRHSRUOZSA-N	40	4.0		40C, pH 4.0, erythrocyte cathepsin E
+20.1	(7-methoxycoumarin-4-yl)acetyl-Gly-Ser-Pro-Ala-Phe-Leu-Ala-Lys(Dnp)-D-Arg-NH2	3704	NSIRVLHIYQWTDO-BRHSRUOZSA-N	40	4.0		40C, pH 4.0, gastric cathepsin E
+27	Pro-Thr-Glu-Phe-(4-nitro)Phe-Arg-Leu	4896	OHIZVORKJVKXKL-RLEGQPMYSA-N		3.1		pH 3.1
+0.13	big ET-1	4939	VROIERDONYIZMV-UHFFFAOYSA-N				
+0.13	big ET-1	4939	VROIERDONYIZMV-UHFFFAOYSA-N		4.3		pH 4.3
+0.13	big ET-1	4939	VROIERDONYIZMV-UHFFFAOYSA-N				
+42	Neurokinin A	6207	HEAUFJZALFKPBA-UHFFFAOYSA-N		5		pH 5
+1.55	(7-methoxycoumarin-4-yl)-acetyl-Gly-Lys-Pro-Ile-Ile-Phe-Phe-Arg-Leu-Lys(2,4-dinitrophenyl)-D-Arg-NH2	6510	WSWLEQKIZOCLHW-URECFWKLSA-N	40	3.5	X	pH 3.5, 40C, mutant D98E
+6.4	(7-methoxycoumarin-4-yl)-acetyl-Gly-Lys-Pro-Ile-Ile-Phe-Phe-Arg-Leu-Lys(2,4-dinitrophenyl)-D-Arg-NH2	6510	WSWLEQKIZOCLHW-URECFWKLSA-N	40	3.5	X	pH 3.5, 40C, mutant T284S
+11.9	(7-methoxycoumarin-4-yl)-acetyl-Gly-Lys-Pro-Ile-Ile-Phe-Phe-Arg-Leu-Lys(2,4-dinitrophenyl)-D-Arg-NH2	6510	WSWLEQKIZOCLHW-URECFWKLSA-N	40	3.5		pH 3.5, 40C, wild-type
+1.68	(7-methoxycoumarin-4-yl)acetyl-Gly-Ser-Ser-Ala-Phe-Leu-Ala-Phe-Lys(Dnp)-D-Arg-NH2	12040	ZWUZRUWGNICLMS-DRTWLRDBSA-N	40	4.0		40C, pH 4.0, gastric cathepsin E
+39.1	(7-methoxycoumarin-4-yl)acetyl-Gly-Lys-Pro-Ile-Ile-Phe-Phe-Arg-Leu-Lys(Dnp)-D-Arg-NH2	12041	WSWLEQKIZOCLHW-JRVAGWLXSA-N	40	4.0		40C, pH 4.0, gastric cathepsin E
+10	Eledoisin	13361	AYLPVIWBPZMVSH-UHFFFAOYSA-N		5		pH 5
+0.1	big ET-2	13747	QQNPBIVFUVBXIY-LWNBSAROSA-N				
+0.14	big ET-3	13748	JRDOKIROBPGKAE-XJYVYMKDSA-N				
+32.2	(7-methoxycoumarin-4-yl)acetyl-Gly-Lys-Pro-Ile-Leu-Phe-Phe-Arg-Leu-Lys(Dnp)-D-Arg-NH2	15897	RABBIMDUAQIKTD-FNWSCJAASA-N	40	4.0		40C, pH 4.0, wild-type cathepsin E
+360	MOCAc-Gly-Lys-Pro-Ile-Leu-Phe-Phe-Arg-Leu-Lys(Dnp)-D-Arg-NH2	15897	RABBIMDUAQIKTD-FNWSCJAASA-N	25	4.0		25C, pH 4.0
+23	[His10]-substance P	19865	QKXVQWRCHVAYDZ-CUZNLEPHSA-N		5		pH 5
+40	[Tyr8]-substance P	19867	MSKLWPIJUANGPO-CUZNLEPHSA-N		5		pH 5
+26	Acetyl-substance P	115611	JFHYWTCIWUZETA-RJEWGMQKSA-O		5		pH 5
+19	Acetyl-substance P(2-11)	20166	UPDPGXCJZQGNNQ-CSYZDTNESA-N		5		pH 5
+58	Acetyl-substance P(3-11)	20167	CQXHRSCGMOJYOL-AQJXLSMYSA-N		5		pH 5
+135	Lys-Pro-Ala-Glu-Phe-(4-nitro)Phe-Arg-Leu	5889	VCLIWHBKTUGAJW-ZAMDTIOZSA-N		3.1		pH 3.1
+22	Substance P(2-11)	20595	VIYWBBCWPSFDNN-NVAZTIMOSA-N		5		pH 5
+70	Substance P(3-11)	20596	KXYUQHDQYFAEOT-PVEGFDORSA-N		5		pH 5
+0.74	Substance P(4-11)	20597	IHVTYYDJDQUTAL-QJCLFNHPSA-N		5		pH 5
+322.5	(7-methoxycoumarin-4-yl)acetyl-L-Ala-Gly-L-Phe-L-Ser-L-Leu-L-Pro-L-Ala-L-Lys(Dnp)-D-Arg-amide	114641	AAIWALLSVHKGAY-BRHSRUOZSA-N	27	4.0		pH 4.0, 27C
+13	Porcine renin substrate	29683	IUJUQXJOVSWPHY-RAUHZCGLSA-N		5		pH 5

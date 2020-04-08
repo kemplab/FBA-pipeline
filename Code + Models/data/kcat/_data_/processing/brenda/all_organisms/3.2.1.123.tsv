@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+8.8	4-methylumbelliferyl beta-D-glucoside	1278	YUDPTGPSBJVHCN-YMILTQATSA-N	37	6.0		isoform EGCrP2, at pH 6.0 and 37C
+0.07	D-erythro-sphingosine	467	WWUZIQQURGPMPG-KRWOKUGFSA-N				
+13.8	4-nitrophenyl-beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	6.0		isoform EGCrP2, at pH 6.0 and 37C
+0.12	D-erythro-dihydrosphingosine	1639	OTKJDMGTUTTYMP-ZWKOTPCHSA-N				
+5.7	ganglioside GM1a	2612	QPJBWNIQKHGLAU-CASQIDLISA-N	37	5.5		isoform EHCase II, pH 5.5 and 37C
+120	ganglioside GM1a	2612	QPJBWNIQKHGLAU-CASQIDLISA-N	37	5.5		isoform EHCase I, pH 5.5 and 37C
+13.3	Galbeta1-6Galbeta1-6Galbeta1-1'ceramide	16678	RNURFHVEHJCYDT-GSUZZKIVSA-N				
+21.9	resorufin	25014	HSSLDCABUXLXKM-UHFFFAOYSA-N	37	6.0		isoform EGCrP2, at pH 6.0 and 37C
+0.0383	C6-7-nitro-2,1,3-benzoxadiazole-glucosylceramide	128695	ZYEQNDHFYIPTAY-IDZVGXHQSA-N	37	6.0		isoform EGCrP1, at pH 6.0 and 37C
+0.53	C6-7-nitro-2,1,3-benzoxadiazole-glucosylceramide	128695	ZYEQNDHFYIPTAY-IDZVGXHQSA-N	37	6.0		isoform EGCrP2, at pH 6.0 and 37C
+0.069	ganglioside Gb3Cer	30207	IPRFVQMZNCETMH-TWFDOCQMSA-N	37	5.5		isoform EHCase II, pH 5.5 and 37C
+85	ganglioside Gb3Cer	30207	IPRFVQMZNCETMH-TWFDOCQMSA-N	37	5.5		isoform EHCase I, pH 5.5 and 37C

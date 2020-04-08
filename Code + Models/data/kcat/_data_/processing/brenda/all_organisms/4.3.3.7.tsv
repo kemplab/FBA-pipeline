@@ -1,0 +1,69 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.038	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N			X	mutant enzyme R138H
+0.06	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	8.0	X	mutant K161A, at 30C, in 100 mM HEPES buffer, pH 8.0, 0.2 mM NADPH, 50 microg/ml DHDPR
+0.149	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N			X	mutant enzyme R138A
+0.16	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		8.0	X	mutant K161R, in 100 mM HEPES buffer, pH 8.0, 0.2 mM NADPH, 50 microg/ml DHDPR
+1.2	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	8.0		C-terminal truncated DHDPS (H225*), at 30C, in 150 mM HEPES, pH 8.0, 0.16 mM NADPH, 50 microg/ml DHDPR
+1.7	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	mutant L170E/G191E, at 30C
+7.2	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	mutant D193Y, at 30C
+9.15	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	mutant D193A, at 30C
+9.8	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+10.4	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N			X	mutant T44S
+11.8	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	mutant Q234D, at 30C
+13.28	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	mutant Q196D, at 30C
+35	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	pH not specified in the publication, 30C, recombinant mutant DELTAAsp168
+39	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	pH not specified in the publication, 30C, recombinant mutant DELTAAsp237
+45	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		8.0		wild-type, in 100 mM HEPES buffer, pH 8.0, 0.2 mM NADPH, 50 microg/ml DHDPR
+46.7	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	8.0		at 30C, in 100 mM HEPES buffer, pH 8.0
+52	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	pH not specified in the publication, 30C, recombinant mutant DELTAAsp168/Asp171
+63	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	pH not specified in the publication, 30C, recombinant mutant DELTAAsp171/Arg237
+68	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	pH not specified in the publication, 30C, recombinant mutant DELTAAsp168/Asp237
+70	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				ping-pong kinetic mechanism
+75	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				polyhistidine-tagged wild-type DHDPS
+76	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				
+78	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30			wild-type, at 30C
+88	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	45		X	pH not specified in the publication, 45C, recombinant mutant DELTAAsp237
+92	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30			wild-type, at 30C
+97	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	pH not specified in the publication, 30C, recombinant mutant DELTAAsp171
+108	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	45		X	pH not specified in the publication, 45C, recombinant mutant DELTAAsp168/Asp171
+111	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	45		X	pH not specified in the publication, 45C, recombinant mutant DELTAAsp168
+119	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant A204R
+124	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30			30C
+124	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	8.0		at 30C, in 100 mM HEPES buffer, pH 8.0
+134	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	45		X	pH not specified in the publication, 45C, recombinant mutant DELTAAsp171/Arg237
+136	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30			pH not specified in the publication, 30C, recombinant wild-type enzyme
+138	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+141	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	45		X	pH not specified in the publication, 45C, recombinant mutant DELTAAsp168/Asp237
+233	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	45		X	pH not specified in the publication, 45C, recombinant mutant DELTAAsp171
+465	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	45			pH not specified in the publication, 45C, recombinant wild-type enzyme
+0.038	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N			X	mutant enzyme R138H
+0.149	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N			X	mutant enzyme R138A
+6.5	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	30		X	mutant D193Y, at 30C
+9.8	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+12.4	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	30		X	mutant D193A, at 30C
+35	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	30		X	pH not specified in the publication, 30C, recombinant mutant DELTAAsp168
+39	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	30		X	pH not specified in the publication, 30C, recombinant mutant DELTAAsp237
+52	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	30		X	pH not specified in the publication, 30C, recombinant mutant DELTAAsp168/Asp171
+63	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	30		X	pH not specified in the publication, 30C, recombinant mutant DELTAAsp171/Arg237
+68	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	30		X	pH not specified in the publication, 30C, recombinant mutant DELTAAsp168/Asp237
+88	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	45		X	pH not specified in the publication, 45C, recombinant mutant DELTAAsp237
+97	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	30		X	pH not specified in the publication, 30C, recombinant mutant DELTAAsp171
+108	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	45		X	pH not specified in the publication, 45C, recombinant mutant DELTAAsp168/Asp171
+111	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	45		X	pH not specified in the publication, 45C, recombinant mutant DELTAAsp168
+119	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant A204R
+134	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	45		X	pH not specified in the publication, 45C, recombinant mutant DELTAAsp171/Arg237
+136	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	30			pH not specified in the publication, 30C, recombinant wild-type enzyme
+138	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+141	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	45		X	pH not specified in the publication, 45C, recombinant mutant DELTAAsp168/Asp237
+213	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N				
+233	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	45		X	pH not specified in the publication, 45C, recombinant mutant DELTAAsp171
+465	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	45			pH not specified in the publication, 45C, recombinant wild-type enzyme
+223	L-aspartate-4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N				
+0.12	(S)-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	30	8.0	X	mutant T44V, pH 8.0, 30C
+0.7	(S)-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	30	8.0	X	mutant Y133F, pH 8.0, 30C
+6.5	(S)-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N			X	Y107W mutant
+10.8	(S)-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	30	8.0	X	mutant Y107F, pH 8.0, 30C
+10.8	(S)-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N			X	Y107F mutant
+124	(S)-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	30	8.0		wild-type enzyme, pH 8.0, 30C
+124	(S)-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	30			30C
+124	(S)-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N				wild-type

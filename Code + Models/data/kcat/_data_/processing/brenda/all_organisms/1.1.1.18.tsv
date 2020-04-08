@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.23	myo-inositol	379	CDAISMWEOUEBRE-GPIVLXJGSA-N	25	9.0	X	pH 9.0, 25C, recombinant mutant H176A
+1.9	myo-inositol	379	CDAISMWEOUEBRE-GPIVLXJGSA-N	25	9.0	X	pH 9.0, 25C, recombinant mutant D172N
+34	myo-inositol	379	CDAISMWEOUEBRE-GPIVLXJGSA-N	25	9.0	X	pH 9.0, 25C, recombinant mutant Y235F
+47	myo-inositol	379	CDAISMWEOUEBRE-GPIVLXJGSA-N	25	9.0	X	pH 9.0, 25C, recombinant mutant Y233F
+58	myo-inositol	379	CDAISMWEOUEBRE-GPIVLXJGSA-N	25	9.0		pH 9.0, 25C, recombinant wild-type enzyme
+73	myo-inositol	379	CDAISMWEOUEBRE-GPIVLXJGSA-N	25	9.0	X	pH 9.0, 25C, recombinant mutant D179N

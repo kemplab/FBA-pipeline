@@ -1,0 +1,40 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.037	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N		7.5		pH 7.5
+153	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N	25	7.4		pH 7.4, 25C; pH 8.0, 25C
+159	Octanoyl-CoA	324	KQMZYOXOBSXMII-CECATXLMSA-N	25	7.4		pH 7.4, 25C; pH 8.0, 25C
+0.004	benzoyl-CoA	329	VEVJTUNLALKRNO-TYHXJLICSA-N		7.5		pH 7.5
+0.012	Hexanoyl-CoA	330	OEXFMSFODMQEPE-HDRQGHTBSA-N		7.5		pH 7.5
+0.0078	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N		7.5		pH 7.5
+183	myristoyl-CoA	382	DUAFKXOFBZQTQE-QSGBVPJFSA-N	25	7.4		pH 7.4, 25C; pH 8.0, 25C
+0.019	stearoyl-CoA	438	SIARJEKBADXQJG-LFZQUHGESA-N		7.5		pH 7.5
+121	stearoyl-CoA	438	SIARJEKBADXQJG-LFZQUHGESA-N	25	7.4		pH 7.4, 25C; pH 8.0, 25C
+136	decanoyl-CoA	448	CNKJPHSEFDPYDB-HSJNEKGZSA-N	25	7.4		pH 7.4, 25C; pH 8.0, 25C
+0.0093	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	37	7	X	37C, pH 7, mutant enzyme H157A
+0.16	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	37	7	X	37C, pH 7, mutant enzyme S10A
+0.41	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	37	7	X	37C, pH 7, mutant enzyme N73A
+0.55	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	37	7		37C, pH 7, wild-type enzyme
+3.16	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	37	7	X	37C, pH 7, mutant enzyme G44A
+5.98	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	37	7	X	37C, pH 7, mutant enzyme D154A
+11.99	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	37	7	X	37C, pH 7, mutant enzyme N73A
+15.29	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	37	7		37C, pH 7, wild-type enzyme
+0.015	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N		7.5		pH 7.5
+0.052	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N	37	7		37C, pH 7, wild-type enzyme
+0.052	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N				native enzyme
+0.057	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N	37	7	X	37C, pH 7, mutant enzyme, S10A
+0.45	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N	37	7	X	37C, pH 7, mutant enzyme D154A
+0.57	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N			X	mutant enzyme L109P
+0.77	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N	37	7	X	37C, pH 7, mutant enzyme G44A
+0.84	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N			X	mutant enzyme P110A/L109P
+1.14	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N	37	7	X	37C, pH 7, mutant enzyme N73A
+3.8	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N			X	mutant enzyme P110A
+10.13	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N	37	7		37C, pH 7, wild-type enzyme
+10.13	lauroyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N				native enzyme
+0.01	Dodecanoyl-CoA	577	YMCXGHLSVALICC-GMHMEAMDSA-N		7.5		pH 7.5
+106	palmitoleoyl-CoA	990	QBYOCCWNZAOZTL-MDMKAECGSA-N	25	7.4		pH 7.4, 25C; pH 8.0, 25C
+0.02	N-carbobenzoxy-L-tyrosine p-nitrophenyl ester	3717	WUHIFOXZYIQZFP-NRFANRHFSA-N	37	7	X	37C, pH 7, mutant enzyme, S10A
+0.031	N-carbobenzoxy-L-tyrosine p-nitrophenyl ester	3717	WUHIFOXZYIQZFP-NRFANRHFSA-N	37	7	X	37C, pH 7, mutant enzyme G44A
+6.44	N-carbobenzoxy-L-tyrosine p-nitrophenyl ester	3717	WUHIFOXZYIQZFP-NRFANRHFSA-N	37	7	X	37C, pH 7, mutant enzyme D154A
+7.71	N-carbobenzoxy-L-tyrosine p-nitrophenyl ester	3717	WUHIFOXZYIQZFP-NRFANRHFSA-N	37	7	X	37C, pH 7, mutant enzyme G44A
+7.81	N-carbobenzoxy-L-tyrosine p-nitrophenyl ester	3717	WUHIFOXZYIQZFP-NRFANRHFSA-N	37	7	X	37C, pH 7, mutant enzyme N73A
+23.8	N-carbobenzoxy-L-tyrosine p-nitrophenyl ester	3717	WUHIFOXZYIQZFP-NRFANRHFSA-N	37	7		37C, pH 7, wild-type enzyme
+88.99	N-carbobenzoxy-L-tyrosine p-nitrophenyl ester	3717	WUHIFOXZYIQZFP-NRFANRHFSA-N	37	7		37C, pH 7, wild-type enzyme

@@ -1,0 +1,35 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00038	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	25		X	mutant D310E/A375T, 25C, pH not specified in the publication
+0.0004	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	25		X	mutant A375T, 25C, pH not specified in the publication
+0.00069	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	25		X	mutant D310E, 25C, pH not specified in the publication
+0.0007	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	25			wild-type, 25C, pH not specified in the publication
+0.0055	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	25		X	mutant T348A, 25C, pH not specified in the publication
+0.0083	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	42	8.0	X	mutant K42C, pH 8.0, 20C
+0.0089	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	42	8.0	X	mutant C7A/K42C, pH 8.0, 20C
+0.0128	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	42	8.0	X	mutant C7A/K42C, treatment with bromoethanol, pH 8.0, 20C
+0.0142	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	25	7.5	X	mutant I87T, pH 7.5, 25C
+0.0184	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	42	8.0	X	mutant K42C, treatment with bromoethanol, pH 8.0, 20C
+0.0245	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	25	7.5	X	mutant K42A, pH 7.5, 25C
+0.0343	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	25		X	mutant E281D/T348A, 25C, pH not specified in the publication
+0.035	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	37	7.0		pH 7.0, 37C
+0.037	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	25	7.5	X	mutant K42H, pH 7.5, 25C
+0.045	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	20	8.0	X	mutant K42A, pH 8.0, 20C
+0.0468	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	25	7.5	X	mutant K42E, pH 7.5, 25C
+0.05	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	25		X	mutant E281D, 25C, pH not specified in the publication
+0.083	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	20	8.0	X	mutant K42A, presence of ethylamine, pH 8.0, 20C
+0.092	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	25			wild-type, 25C, pH not specified in the publication
+0.0945	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	42	8.0	X	mutant K42C, treatment with bromoethylamine, pH 8.0, 20C
+0.098	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	20	8.0	X	mutant K42A, presence of propylamine, pH 8.0, 20C
+0.1	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	30	7.5	X	mutant R54K, pH 7.5, 30C
+0.105	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	42	8.0	X	mutant C7A/K42C, treatment with bromoethylamine, pH 8.0, 20C
+0.118	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	25	5.0	X	mutant K42H, pH 5.0, 25C
+0.13	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	20	8.0		wild-type, pH 8.0, 20C
+0.177	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	25	7.5		wild-type, pH 7.5, 25C
+0.188	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	25	7.5	X	mutant A43P, pH 7.5, 25C
+0.2	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	20	8.0	X	mutant C7A, pH 8.0, 20C
+0.27	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	30	7.5	X	mutant Q91N, pH 7.5, 30C
+0.43	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	30	7.5		substrate 2-2H-isochorismate, pH 7.5, 30C
+0.8	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	25	8.0		pH 8.0, 25C
+1	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	30	7.5		pH 7.5, 30C
+1.06	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	30	7.5		wild-type, pH 7.5, 30C
+1.76	isochorismate	972	NTGWPRCCOQCMGE-YUMQZZPRSA-N	37	7.0		pH 7.0, 37C

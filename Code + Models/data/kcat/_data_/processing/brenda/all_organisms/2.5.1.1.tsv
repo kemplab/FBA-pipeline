@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.012	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.0		in 50 mM sodium phosphate (pH 7.0), at 37C
+1.1	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	30	7.5		at pH 7.5 and 30C
+0.085	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N	37	7.0		in 50 mM sodium phosphate (pH 7.0), at 37C
+1.1	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N	30	7.5		at pH 7.5 and 30C
+1.4	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N				
+0.4	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.5		at pH 7.5 and 30C
+0.1	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	30	7.5		at pH 7.5 and 30C

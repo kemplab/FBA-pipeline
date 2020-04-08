@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.015	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	37	7.9		in 50 mM phosphate buffer (pH 7.9) at 37C
+0.2	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	37	7.9		in 50 mM phosphate buffer (pH 7.9) at 37C
+0.015	chloride	134	VEXZGXHMUGYJMC-UHFFFAOYSA-M	37	7.9		in 50 mM phosphate buffer (pH 7.9) at 37C
+0.005	Iodide	422	XMBWDFGMSWQBCA-UHFFFAOYSA-M	37	7.9		in 50 mM phosphate buffer (pH 7.9) at 37C
+0.013	bromide	285	CPELXLSAUQHCOX-UHFFFAOYSA-M	37	7.9		in 50 mM phosphate buffer (pH 7.9) at 37C
+0.2	5'-chloro-5'-deoxyadenosine	57522	IYSNPOMTKFZDHZ-KQYNXXCUSA-N	37	7.9		in 50 mM phosphate buffer (pH 7.9) at 37C
+0.83	5'-deoxy-5'-iodoadenosine	31173	FUWWLIOFNXNKQR-KQYNXXCUSA-N	37	7.9		in 50 mM phosphate buffer (pH 7.9) at 37C

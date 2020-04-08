@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.001	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N				temperature not specified in the publication, pH not specified in the publication
+0.0043	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	22	7.0	X	mutant N338I/A339T/G447S/I449P/P450T, pH 7.0, 22C; mutant N338I/A339T/G447S, pH 7.0, 22C
+0.0088	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	30	7.0		pH 7.0, 30C
+0.009	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	22	7.0	X	mutant N338L, pH 7.0, 22C
+0.012	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	22	7.0	X	mutant N338V, pH 7.0, 22C
+0.022	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	22	7.0	X	mutant N338S, pH 7.0, 22C
+0.024	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	22	7.0	X	mutant N338I/A339T, pH 7.0, 22C
+0.052	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	338	7.0	X	mutant N338C, pH 7.0, 22C
+0.053	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	22	7.0		wild-type, pH 7.0, 22C
+0.069	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	22	7.0	X	mutant N338A, pH 7.0, 22C
+0.079	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	30	8.0		pH 8.0, 30C
+0.096	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	22	7.0	X	mutant N338I, pH 7.0, 22C

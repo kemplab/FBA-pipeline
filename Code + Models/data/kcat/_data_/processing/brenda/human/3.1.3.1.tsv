@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+244	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N	37	7.5		allozyme D, pH 7.5, 37C, in presence of Mg2+ and Zn2+
+92	pyridoxal 5'-phosphate	30	NGVDGCNFYWLIFO-UHFFFAOYSA-N	37	7.5		allozyme D, pH 7.5, 37C, in presence of Mg2+ and Zn2+
+34	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		10.5	X	pH 10.5, mutant V406A
+379	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		9.8		allozyme D, pH 9.8, in presence of Mg2+ and Zn2+
+971	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		10.5		pH 10.5, wild-type

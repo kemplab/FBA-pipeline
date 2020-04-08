@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0015	phenyl 4-methylumbelliferyl-beta-D-glucopyranosiduronic acid	11625	CBKGJGIFLZEDDS-JXDTVZCFSA-N		8.0		pH 8.0
+0.0016	phenyl 4-methylumbelliferyl-beta-D-glucopyranosiduronic acid	11625	CBKGJGIFLZEDDS-JXDTVZCFSA-N		8.0		pH 8.0
+0.005	benzyl S-(2-acetamido-2-deoxy-beta-D-galactopyranosyl)-(1-4)-4-deoxy-4-thio-beta-D-glucopyranosiduronic acid	15573	HNFZVEQSIZYIKA-XYLJCUPMSA-N				
+0.019	benzyl 4-O-(2',4'-dinitrophenyl)-beta-D-glucopyranosiduronic acid	11624	CDBVITMOBUVHIT-QLCXLMDBSA-N		6.8		pH 6.8
+0.019	benzyl 4-O-(2',4'-dinitrophenyl)-beta-D-glucopyranosiduronic acid	11624	CDBVITMOBUVHIT-QLCXLMDBSA-N		6.8		pH 6.8
+0.019	benzyl 4-O-(3',4'-dinitrophenyl)-beta-D-glucopyranosiduronic acid	22942	WDNDVZATAIJXBM-QLCXLMDBSA-N		6.8		pH 6.8
+0.027	benzyl 4-O-(2'-nitrophenyl)-beta-D-glucopyranosiduronic acid	22944	HYFWGUGKNRHYRB-QLCXLMDBSA-N		6.8		pH 6.8
+0.035	benzyl 4-O-(4'-chloro-2'-nitrophenyl)-beta-D-glucopyranosiduronic acid	22943	KMKCHAYBWKIPCF-QLCXLMDBSA-N		6.8		pH 6.8
+0.041	4-O-(2',4'-dinitrophenyl)-beta-D-glucopyranosiruronic acid	23752	MXPJSMQWYOMDMY-ZXUATJPGSA-N	30	6.8		pH 6.8, 30C, wild-type enzyme
+0.16	benzyl 4-deoxy-4-fluoro-beta-D-glucopyranosiduronic acid	11623	IMKBWHBUWLBRAZ-XPORZQOISA-N		6.8		pH 6.8
+0.16	benzyl 4-deoxy-4-fluoro-beta-D-glucopyranosiduronic acid	11623	IMKBWHBUWLBRAZ-XPORZQOISA-N				
+2.3	phenyl 4-deoxy-4-fluoro-beta-D-glucopyranosiduronic acid	11622	IQHJOCOCBKRSDT-GOVZDWNOSA-N		6.8		pH 6.8
+2.3	phenyl 4-deoxy-4-fluoro-beta-D-glucopyranosiduronic acid	11622	IQHJOCOCBKRSDT-GOVZDWNOSA-N				
+234	chondroitin 4-sulfate	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N	35	8.0		recombinant enzyme, pH 8.0, 35C, dependent on expression system
+308	chondroitin 4-sulfate	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N	20			20C
+345	chondroitin 6-sulfate	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N	20			20C
+403	chondroitin 4-sulfate	1255	AVJBPWGFOQAPRH-MMPMEFKSSA-N	20			20C
+423	chondroitin 6-sulfate	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N	35	8.0		recombinant enzyme, pH 8.0, 35C, dependent on expression system
+522	chondroitin 6-sulfate	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N	20			20C
+570	hyaluronate	2291	LJORHONFMDUUHP-VOGNPWKQSA-N	20			20C
+840	Chondroitin	1356	LJORHONFMDUUHP-YHCGEDBISA-N	20			20C
+855	chondroitin 6-sulfate	1254	HMCUNCSRFXXUOR-YHCGEDBISA-N	30	6.8		pH 6.8, 30C, wild-type enzyme
+868	Chondroitin	1356	LJORHONFMDUUHP-YHCGEDBISA-N	20			20C
+1200	hyaluronate	2291	LJORHONFMDUUHP-VOGNPWKQSA-N	20			20C

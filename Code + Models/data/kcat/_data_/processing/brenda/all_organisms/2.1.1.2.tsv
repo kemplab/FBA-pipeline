@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0788	Guanidinoacetate	1331	BPMFZUMJYQTVII-UHFFFAOYSA-N				wild type enzyme
+0.081	Guanidinoacetate	1331	BPMFZUMJYQTVII-UHFFFAOYSA-N				wild type enzyme
+1	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	mutant E45Q
+2.1	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	mutant Y221F
+2.4	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O			X	mutant E45D
+3.8	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				wild-type

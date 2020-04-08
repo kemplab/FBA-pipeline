@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.73	N-acetylneuraminic acid 9-phosphate	7215	SQMNIXJSBCSNCI-YRMXFSIDSA-N	25	7		pH 7, 25C
+0.026	3-deoxy-D-glycero-D-galacto-nononate 9-phosphate	126446	KIZXPTJSEKWTPW-YOQZMRDMSA-N	37	7.0	X	mutant E56A, pH 7.0, 37C
+0.09	3-deoxy-D-glycero-D-galacto-nononate 9-phosphate	126446	KIZXPTJSEKWTPW-YOQZMRDMSA-N	37	7.0	X	mutant T34A, pH 7.0, 37C
+1.2	3-deoxy-D-glycero-D-galacto-nononate 9-phosphate	126446	KIZXPTJSEKWTPW-YOQZMRDMSA-N	25	7		pH 7, 25C
+1.2	3-deoxy-D-glycero-D-galacto-nononate 9-phosphate	126446	KIZXPTJSEKWTPW-YOQZMRDMSA-N	37	7.0	X	mutant S37A, pH 7.0, 37C; wild-type, pH 7.0, 37C

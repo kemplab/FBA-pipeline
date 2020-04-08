@@ -1,0 +1,69 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000118	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				
+0.00021	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				
+0.000248	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				
+0.00028	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				
+0.00117	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O				
+0.00033	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N	37	8.0		substrate plasmid DNA, recombinant enzyme, pH 8.0, 37C
+0.0011	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N	37	8.0		substrate unmethylated duplex DNA, recombinant enzyme, pH 8.0, 37C
+0.0056	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N	37	8.0		substrate hemimethylated duplex DNA, recombinant enzyme, pH 8.0, 37C
+0.0155	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N	37	8.0		pH 8.0, 37C
+0.000096	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.000167	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N			X	mutant S124D
+0.00017	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N	22	7.5	X	using the non-preferred sequence 5'-GCATAAAAGATCGTCTAAATG-3', mutant enzyme N132A, in 20 mM potassium phosphate, pH 7.5, 200 mM NaCl, 0.2 mM EDTA, 0.2 mg/ml bovine serum albumin, 2 mM dithiothreitol, 10% (v/v) glycerol, at 22C
+0.00033	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.00033	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.00033	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.00072	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.00072	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.00072	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.00082	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N	22	7.5	X	using the non-preferred sequence 5'-GCATAAAAGATCGTCTAAATG-3', mutant enzyme R95A, in 20 mM potassium phosphate, pH 7.5, 200 mM NaCl, 0.2 mM EDTA, 0.2 mg/ml bovine serum albumin, 2 mM dithiothreitol, 10% (v/v) glycerol, at 22C
+0.0009	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N	22	7.5	X	using the non-preferred sequence 5'-GCATAAAAGATCGTCTAAATG-3', mutant enzyme R116A, in 20 mM potassium phosphate, pH 7.5, 200 mM NaCl, 0.2 mM EDTA, 0.2 mg/ml bovine serum albumin, 2 mM dithiothreitol, 10% (v/v) glycerol, at 22C
+0.0015	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N	22	7.5	X	using the preferred sequence 5'-GCATACCGGATCAAGTAAATG-3', mutant enzyme N126A, in 20 mM potassium phosphate, pH 7.5, 200 mM NaCl, 0.2 mM EDTA, 0.2 mg/ml bovine serum albumin, 2 mM dithiothreitol, 10% (v/v) glycerol, at 22C
+0.0022	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.0022	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.0022	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.0025	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.003	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N	22	8.0		in 100 mM Tris (pH 8.0), 1 mM EDTA, 1 mM dithiothreitol, and 0.2 mg/ml bovine serum albumin, at 22C
+0.0035	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				His-tagged wild-type
+0.0038	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N	22	7.5		using the DNA sequence 5'-GCATACCCGATCAAGTAAATG-3', wild type enzyme, in 20 mM potassium phosphate, pH 7.5, 200 mM NaCl, 0.2 mM EDTA, 0.2 mg/ml bovine serum albumin, 2 mM dithiothreitol, 10% (v/v) glycerol, at 22C
+0.0038	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N	22	7.5		using the preferred sequence 5'-GCATACCGGATCAAGTAAATG-3', wild type enzyme, in 20 mM potassium phosphate, pH 7.5, 200 mM NaCl, 0.2 mM EDTA, 0.2 mg/ml bovine serum albumin, 2 mM dithiothreitol, 10% (v/v) glycerol, at 22C
+0.0041	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.0047	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.0053	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.0055	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N	22	7.5	X	using the preferred sequence 5'-GCATACCGGATCAAGTAAATG-3', mutant enzyme K139A, in 20 mM potassium phosphate, pH 7.5, 200 mM NaCl, 0.2 mM EDTA, 0.2 mg/ml bovine serum albumin, 2 mM dithiothreitol, 10% (v/v) glycerol, at 22C
+0.0056	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.0056	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.0056	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.0056	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.008	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N	22	7.5	X	using the non-preferred sequence 5'-GCATAAAAGATCGTCTAAATG-3', mutant enzyme K139A, in 20 mM potassium phosphate, pH 7.5, 200 mM NaCl, 0.2 mM EDTA, 0.2 mg/ml bovine serum albumin, 2 mM dithiothreitol, 10% (v/v) glycerol, at 22C
+0.0083	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N	22	7.5	X	using the preferred sequence 5'-GCATACCGGATCAAGTAAATG-3', mutant enzyme R95A, in 20 mM potassium phosphate, pH 7.5, 200 mM NaCl, 0.2 mM EDTA, 0.2 mg/ml bovine serum albumin, 2 mM dithiothreitol, 10% (v/v) glycerol, at 22C
+0.013	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N	22	7.5	X	using the preferred sequence 5'-GCATACCGGATCAAGTAAATG-3', mutant enzyme R116A, in 20 mM potassium phosphate, pH 7.5, 200 mM NaCl, 0.2 mM EDTA, 0.2 mg/ml bovine serum albumin, 2 mM dithiothreitol, 10% (v/v) glycerol, at 22C
+0.015	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N	25	8.0		20mer duplex, unligated, single-site, pH 8.0, 25C
+0.015	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N	22	7.5		using the DNA sequence 5'-GCATAAAAGATCGTCTAAATG-3', wild type enzyme, in 20 mM potassium phosphate, pH 7.5, 200 mM NaCl, 0.2 mM EDTA, 0.2 mg/ml bovine serum albumin, 2 mM dithiothreitol, 10% (v/v) glycerol, at 22C
+0.015	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N	22	7.5		using the non-preferred sequence 5'-GCATAAAAGATCGTCTAAATG-3', wild type enzyme, in 20 mM potassium phosphate, pH 7.5, 200 mM NaCl, 0.2 mM EDTA, 0.2 mg/ml bovine serum albumin, 2 mM dithiothreitol, 10% (v/v) glycerol, at 22C
+0.019	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.019	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N	22	7.5	X	using the preferred sequence 5'-GCATACCGGATCAAGTAAATG-3', mutant enzyme R137A, in 20 mM potassium phosphate, pH 7.5, 200 mM NaCl, 0.2 mM EDTA, 0.2 mg/ml bovine serum albumin, 2 mM dithiothreitol, 10% (v/v) glycerol, at 22C
+0.02	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N	22	7.5	X	using the preferred sequence 5'-GCATACCGGATCAAGTAAATG-3', mutant enzyme N132A, in 20 mM potassium phosphate, pH 7.5, 200 mM NaCl, 0.2 mM EDTA, 0.2 mg/ml bovine serum albumin, 2 mM dithiothreitol, 10% (v/v) glycerol, at 22C
+0.0208	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.058	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N	22	7.5	X	using the non-preferred sequence 5'-GCATAAAAGATCGTCTAAATG-3', mutant enzyme R137A, in 20 mM potassium phosphate, pH 7.5, 200 mM NaCl, 0.2 mM EDTA, 0.2 mg/ml bovine serum albumin, 2 mM dithiothreitol, 10% (v/v) glycerol, at 22C
+0.094	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.105	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.11	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.124	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.14	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.142	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.16	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.167	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.203	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.23	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.25	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.27	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.3	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.316	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.33	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.37	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.447	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.58	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.73	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				
+0.93	DNA adenine	569	MKZBSAVQFQWRKW-UHFFFAOYSA-N				

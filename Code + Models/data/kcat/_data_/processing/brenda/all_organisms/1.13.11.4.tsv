@@ -1,0 +1,34 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.9	salicylate	508	YGSDEFSMJLZEOE-UHFFFAOYSA-N				wild-type enzyme, pH and temperature not specified in the publication
+1	salicylate	508	YGSDEFSMJLZEOE-UHFFFAOYSA-N				
+2.3	salicylate	508	YGSDEFSMJLZEOE-UHFFFAOYSA-N		8.0		pH 8.0
+44	1-hydroxy-2-naphthoate	1531	SJJCQDRGABAVBB-UHFFFAOYSA-N				
+5.5	2,5-Dihydroxybenzoate	1532	WXTMDXOMEHJXQO-UHFFFAOYSA-N				
+94	gentisate	1532	WXTMDXOMEHJXQO-UHFFFAOYSA-N				
+133	gentisate	1532	WXTMDXOMEHJXQO-UHFFFAOYSA-N				wild-type enzyme, pH and temperature not specified in the publication
+225	gentisate	1532	WXTMDXOMEHJXQO-UHFFFAOYSA-N		8.0		pH 8.0
+322	gentisate	1532	WXTMDXOMEHJXQO-UHFFFAOYSA-N				
+322	gentisate	1532	WXTMDXOMEHJXQO-UHFFFAOYSA-N				
+367	gentisate	1532	WXTMDXOMEHJXQO-UHFFFAOYSA-N				
+2.8	5-Aminosalicylate	1352	KBOPZPXVLCULAV-UHFFFAOYSA-N				wild-type enzyme, pH and temperature not specified in the publication
+59	5-Aminosalicylate	1352	KBOPZPXVLCULAV-UHFFFAOYSA-N				
+59.3	5-Aminosalicylate	1352	KBOPZPXVLCULAV-UHFFFAOYSA-N		8.0		pH 8.0
+0.5	5-chlorosalicylate	4369	NKBASRXWGAGQDP-UHFFFAOYSA-M		8.0		pH 8.0
+2.1	5-Methylsalicylate	4374	DLGBEGBHXSAQOC-UHFFFAOYSA-M				wild-type enzyme, pH and temperature not specified in the publication
+14.3	5-Methylsalicylate	4374	DLGBEGBHXSAQOC-UHFFFAOYSA-M		8.0		pH 8.0
+2.9	3-methylsalicylate	5764	WHSXTWFYRGOBGO-UHFFFAOYSA-N		8.0		pH 8.0
+0.8	4-chlorosalicylate	6087	LWXFCZXRFBUOOR-UHFFFAOYSA-M		8.0		pH 8.0
+0.02	3,5-Dibromosalicylate	7071	BFBZHSOXKROMBG-UHFFFAOYSA-M		8.0		pH 8.0
+0.3	4-methylsalicylate	7767	NJESAXZANHETJV-UHFFFAOYSA-M		8.0		pH 8.0
+2.4	5-Fluorosalicylate	8303	JWPRICQKUNODPZ-UHFFFAOYSA-M				wild-type enzyme, pH and temperature not specified in the publication
+3.6	5-Fluorosalicylate	8303	JWPRICQKUNODPZ-UHFFFAOYSA-M		8.0		pH 8.0
+0.4	3-chlorosalicylate	9860	PPINMMULCRBDOS-UHFFFAOYSA-N		8.0		pH 8.0
+0.565	1-hydroxy 2 naphthoate	1531	SJJCQDRGABAVBB-UHFFFAOYSA-N				
+6.08	1-hydroxy 2 naphthoate	1531	SJJCQDRGABAVBB-UHFFFAOYSA-N				
+0.5	3-hydroxysalicylate	1032	GLDQAMYCGOIJDV-UHFFFAOYSA-N		8.0		pH 8.0
+0.2	4-hydroxysalicylate	1417	UIAFKZKHHVMJGS-UHFFFAOYSA-M		8.0		pH 8.0
+4	3-aminosalicylate	26387	IQGMRVWUTCYCST-UHFFFAOYSA-N		8.0		pH 8.0
+0.3	3-bromosalicylate	26388	BHPSQWRVKOPSOQ-UHFFFAOYSA-N		8.0		pH 8.0
+0.1	5-bromosalicylate	26389	IEJOONSLOGAXNO-UHFFFAOYSA-N		8.0		pH 8.0
+0.2	3,4-dichlorosalicylate	26390	YDOVRFJDZXIYMW-UHFFFAOYSA-N		8.0		pH 8.0
+24	1-hydroxynaphthalene-2-carboxylic acid	1531	SJJCQDRGABAVBB-UHFFFAOYSA-N				wild-type enzyme, pH and temperature not specified in the publication

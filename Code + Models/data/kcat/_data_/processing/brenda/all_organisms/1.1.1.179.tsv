@@ -1,0 +1,24 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.5	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	28	7.8		28C, pH 7.8
+10.5	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	28	7.8		28C, pH 7.8
+5.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme
+16	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				
+273	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	8.3		pH 8.3, 37C
+12	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N				
+0.4	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N		7.5	X	oxidation reaction of mutant R37D, 25 mM Tris-HCl pH 7.5, 0.25 mM NADP+, 50 mM D-xylose
+0.45	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N		7.5	X	oxidation reaction of mutant A36D, 25 mM Tris-HCl pH 7.5, 0.25 mM NADP+, 50 mM D-xylose
+0.5	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N		7.5	X	oxidation reaction of mutant H76Q, 25 mM Tris-HCl pH 7.5, 0.25 mM NADP+, 50 mM D-xylose
+0.9	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N		7.5	X	oxidation reaction of mutant H79Q, 25 mM Tris-HCl pH 7.5, 0.25 mM NADP+, 50 mM D-xylose
+1	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N		7.5	X	oxidation reaction of mutant R41D, 25 mM Tris-HCl pH 7.5, 0.25 mM NADP+, 50 mM D-xylose
+1.2	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N		7.5	X	oxidation reaction of mutant R37A, 25 mM Tris-HCl pH 7.5, 0.25 mM NADP+, 50 mM D-xylose
+1.7	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N		7.5	X	oxidation reaction of mutant R41A, 25 mM Tris-HCl pH 7.5, 0.25 mM NADP+, 50 mM D-xylose
+2.6	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N		7.5		oxidation reaction of wild type enzyme, 25 mM Tris-HCl pH 7.5, 0.25 mM NADP+, 50 mM D-xylose
+14.9	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	28	7.8		28C, pH 7.8, with NADP+ as cofactor
+21.8	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	8.1		pH 8.1, 30C, recombinant enzyme
+58	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N				
+356	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	37	8.3		pH 8.3, 37C
+45	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N				
+40	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N				
+360	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N	37	8.3		pH 8.3, 37C
+22	2-deoxy-D-glucose	443	PMMURAAUARKVCB-KAZBKCHUSA-N				
+9	D-arabinose	465	HMFHBZSHGGEWLO-ZRMNMSDTSA-N				

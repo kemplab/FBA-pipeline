@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0017	4-hydroxybenzaldehyde	571	RGHHSNMVTDWUBI-UHFFFAOYSA-N	30	8.0		with NAD+ as cosubstrate, at pH 8.0 and 30C
+0.26	4-hydroxybenzaldehyde	571	RGHHSNMVTDWUBI-UHFFFAOYSA-N	30	8.0		with NADP+ as cosubstrate, at pH 8.0 and 30C
+0.0017	4-hydroxy-3-methylbenzaldehyde	63368	BAKYASSDAXQKKY-UHFFFAOYSA-N	30	8.0		with NAD+ as cosubstrate, at pH 8.0 and 30C
+0.071	4-hydroxy-3-methylbenzaldehyde	63368	BAKYASSDAXQKKY-UHFFFAOYSA-N	30	8.0		with NADP+ as cosubstrate, at pH 8.0 and 30C

@@ -1,0 +1,48 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.2	3-sulfinopropionate	32234	GBHSTQUVJWQJOK-UHFFFAOYSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+0.2	3-sulfinopropionate	32234	GBHSTQUVJWQJOK-UHFFFAOYSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+0.21	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	22	7.4	X	pH 7.4, 22C, mutant enzyme E197betaQ
+0.28	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	22	7.4	X	pH 7.4, 22C, mutant enzyme E208alphaQ
+0.3	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N			X	mutant enzyme C123ALPHAA, apparent value
+0.5	Itaconate	1466	LVHBHZANLOWSRM-UHFFFAOYSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+0.57	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	22	7.4	X	pH 7.4, 22C, mutant enzyme E208alphaQ
+0.85	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	22	7.4	X	pH 7.4, 22C, mutant enzyme E197betaQ
+1.1	L-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+1.2	D-malate	862	BJEPYKJPYRNKOW-UWTATZPHSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+1.5	Itaconate	1466	LVHBHZANLOWSRM-UHFFFAOYSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+1.6	CoA	10	RGJOEKWQDUBAIZ-IBOSZNHHSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+1.7	D-malate	862	BJEPYKJPYRNKOW-UWTATZPHSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+1.8	L-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+2.1	D-malate	862	BJEPYKJPYRNKOW-UWTATZPHSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+2.6	L-malate	180	BJEPYKJPYRNKOW-REOHCLBHSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+2.7	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+3.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+5.3	Itaconate	1466	LVHBHZANLOWSRM-UHFFFAOYSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+6.08	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	22	7.4	X	pH 7.4, 22C, mutant enzyme E208alphaQ
+14.3	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+15.3	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N			X	mutant enzyme C123ALPHAV, apparent value
+19.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+20	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	55			at 55C
+22	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	55			at 55C
+23	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	55			at 55C
+25	CoA	10	RGJOEKWQDUBAIZ-IBOSZNHHSA-N	55			at 55C
+26.7	CoA	10	RGJOEKWQDUBAIZ-IBOSZNHHSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+29	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	55			at 55C
+29.25	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N			X	mutant enzyme C123ALPHAS, apparent value
+31	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N			X	mutant enzyme C123ALPHAT, apparent value
+31.1	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+35.38	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N			X	mutant enzyme C123ALPHAA, apparent value
+40.3	CoA	10	RGJOEKWQDUBAIZ-IBOSZNHHSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+44.73	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N				wild type enzyme, apparent value
+58.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.4		recombinant enzyme, pH 7.4, 30C; recombinant enzyme, pH 7.4, 30C
+70.9	succinate	54	KDYFGRWQOYBRFD-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+75.2	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	8.0		pH 8.0, 25C
+201	succinyl-CoA	198	VNOYUJKHFWYWIR-ITIYDSSPSA-N	25	8.0		pH 8.0, 25C
+280	acetate	44	QTBSBXVTEAMEQO-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+302	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	22	7.4	X	pH 7.4, 22C, mutant enzyme E208alphaD
+1775	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	22	7.4	X	pH 7.4, 22C, mutant enzyme E197betaD
+1775	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	22	7.4	X	pH 7.4, 22C, mutant enzyme E197betaD
+1780	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	22	7.4	X	pH 7.4, 22C, mutant enzyme E197betaD
+1780	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	22	7.4	X	pH 7.4, 22C, mutant enzyme E197betaD
+2340	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	22	7.4	X	pH 7.4, 22C, mutant enzyme E208alphaD
+2343	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	22	7.4	X	pH 7.4, 22C, mutant enzyme E208alphaD

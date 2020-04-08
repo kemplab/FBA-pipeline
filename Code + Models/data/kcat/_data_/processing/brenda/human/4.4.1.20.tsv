@@ -1,0 +1,30 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.022	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	22	9.0	X	mutant R31A, pH 9.0, 22C
+0.024	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	22	7.0	X	mutant R31A, pH 7.0, 22C
+0.025	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	22	8.0	X	mutant R31A, pH 8.0, 22C
+0.069	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	22	7.0	X	mutant R104A, pH 7.0, 22C
+0.196	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	22	8.0	X	mutant R104A, pH 8.0, 22C
+0.233	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	22	9.0	X	mutant R104A, pH 9.0, 22C
+1.72	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	22	9.0		wild-type, pH 9.0, 22C
+2.11	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	22	7.0		wild-type, pH 7.0, 22C
+2.22	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N	22	8.0		wild-type, pH 8.0, 22C
+26	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N		7.8		pH 7.8, temperature not specified in the publication, recombinant wild-type enzyme
+32	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N		7.8	X	pH 7.8, temperature not specified in the publication, recombinant mutant W116A
+74.3	glutathione	41	RWSXRVCMGQZWBV-WDSKDSINSA-N		7.8	X	pH 7.8, temperature not specified in the publication, recombinant mutant W116F
+0.5	leukotriene A4	648	UFPQIRYSPUYQHK-WAQVJNLQSA-N	22		X	mutant R104S, 22C, pH not specified in the publication
+0.66	leukotriene A4	648	UFPQIRYSPUYQHK-WAQVJNLQSA-N	22		X	mutant R104A, 22C, pH not specified in the publication
+1.4	leukotriene A4	648	UFPQIRYSPUYQHK-WAQVJNLQSA-N	22		X	mutant R31A, 22C, pH not specified in the publication
+1.8	leukotriene A4	648	UFPQIRYSPUYQHK-WAQVJNLQSA-N	22		X	mutant R31Q, 22C, pH not specified in the publication
+11.7	leukotriene A4	648	UFPQIRYSPUYQHK-WAQVJNLQSA-N	22			wild-type, 22C, pH not specified in the publication
+12	leukotriene A4	648	UFPQIRYSPUYQHK-WAQVJNLQSA-N		7.8		pH 7.8, temperature not specified in the publication, recombinant wild-type enzyme
+16.8	leukotriene A4	648	UFPQIRYSPUYQHK-WAQVJNLQSA-N		7.8	X	pH 7.8, temperature not specified in the publication, recombinant mutant W116A
+17.7	leukotriene A4	648	UFPQIRYSPUYQHK-WAQVJNLQSA-N		7.8	X	pH 7.8, temperature not specified in the publication, recombinant mutant W116F
+0.019	leukotriene A4 methyl ester	1824	WTKAVFHPLJFCMZ-NIBLXIPLSA-N	22	7.0	X	mutant R104A, pH 7.0, 22C
+0.02	leukotriene A4 methyl ester	1824	WTKAVFHPLJFCMZ-NIBLXIPLSA-N	22	8.0	X	mutant R31A, pH 8.0, 22C
+0.021	leukotriene A4 methyl ester	1824	WTKAVFHPLJFCMZ-NIBLXIPLSA-N	22	7.0	X	mutant R31A, pH 7.0, 22C
+0.028	leukotriene A4 methyl ester	1824	WTKAVFHPLJFCMZ-NIBLXIPLSA-N	22	9.0	X	mutant R31A, pH 9.0, 22C
+0.053	leukotriene A4 methyl ester	1824	WTKAVFHPLJFCMZ-NIBLXIPLSA-N	22	8.0	X	mutant R104A, pH 8.0, 22C
+0.068	leukotriene A4 methyl ester	1824	WTKAVFHPLJFCMZ-NIBLXIPLSA-N	22	9.0	X	mutant R104A, pH 9.0, 22C
+1.69	leukotriene A4 methyl ester	1824	WTKAVFHPLJFCMZ-NIBLXIPLSA-N	22	7.0		wild-type, pH 7.0, 22C
+1.97	leukotriene A4 methyl ester	1824	WTKAVFHPLJFCMZ-NIBLXIPLSA-N	22	8.0		wild-type, pH 8.0, 22C
+2.1	leukotriene A4 methyl ester	1824	WTKAVFHPLJFCMZ-NIBLXIPLSA-N	22	9.0		wild-type, pH 9.0, 22C

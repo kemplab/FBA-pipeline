@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.01	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	42	7.6	X	mutant T42C, 25C, pH 7.6; mutant T42S, 25C, pH 7.6; mutant V23A, 25C, pH 7.6
+0.06	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.6		wild-type, 25C, pH 7.6
+0.1	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.6	X	mutant F36A, 25C, pH 7.6
+0.003	Fluoroacetyl-CoA	1386	MXORLDKQFQCTLP-GRFIIANRSA-N	25	7.6	X	mutant H76A, 25C, pH 7.6
+0.044	Fluoroacetyl-CoA	1386	MXORLDKQFQCTLP-GRFIIANRSA-N	25			wild-type, 25C, pH not specified in the publication; wild type protein, pH not specified in the publication, 25C
+0.111	Fluoroacetyl-CoA	1386	MXORLDKQFQCTLP-GRFIIANRSA-N	25		X	E50A mutant protein, pH not specified in the publication, 25C; mutant E50A, 25C, pH not specified in the publication
+0.13	Fluoroacetyl-CoA	1386	MXORLDKQFQCTLP-GRFIIANRSA-N	25	7.6	X	mutant E50Q, 25C, pH 7.6
+0.409	Fluoroacetyl-CoA	1386	MXORLDKQFQCTLP-GRFIIANRSA-N	25		X	mutant T42S, 25C, pH not specified in the publication; T42S mutant protein, pH not specified in the publication, 25C
+0.45	Fluoroacetyl-CoA	1386	MXORLDKQFQCTLP-GRFIIANRSA-N	25	7.6	X	mutant T42A, 25C, pH 7.6
+6.7	Fluoroacetyl-CoA	1386	MXORLDKQFQCTLP-GRFIIANRSA-N	25	7.6	X	mutant L26A, 25C, pH 7.6
+19	Fluoroacetyl-CoA	1386	MXORLDKQFQCTLP-GRFIIANRSA-N	25	7.6	X	mutant T42S, 25C, pH 7.6
+27	Fluoroacetyl-CoA	1386	MXORLDKQFQCTLP-GRFIIANRSA-N	25	7.6	X	mutant F33A, 25C, pH 7.6
+110	Fluoroacetyl-CoA	1386	MXORLDKQFQCTLP-GRFIIANRSA-N	42	7.6	X	mutant T42C, 25C, pH 7.6
+150	Fluoroacetyl-CoA	1386	MXORLDKQFQCTLP-GRFIIANRSA-N	25	7.6	X	mutant V23A, 25C, pH 7.6
+270	Fluoroacetyl-CoA	1386	MXORLDKQFQCTLP-GRFIIANRSA-N	25	7.6	X	mutant F36A, 25C, pH 7.6
+390	Fluoroacetyl-CoA	1386	MXORLDKQFQCTLP-GRFIIANRSA-N	25	7.6		wild-type, 25C, pH 7.6

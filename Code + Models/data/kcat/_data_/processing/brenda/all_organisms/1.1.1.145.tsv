@@ -1,0 +1,122 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.014	5beta-pregnane-3beta,20alpha-diol	25416	YWYQTGBBEZQBGO-QARKZGPCSA-N	25	7.4		pH 7.4, 25C
+0.017	5beta-androstan-3beta-ol-17-one	3536	QGXBDMJGAMFCBF-XRJZGPCZSA-N	25	7.4		pH 7.4, 25C
+0.017	5beta-androstane-3beta,17beta-diol	5621	CBMYJHIOYJEBSB-VXZRPZIYSA-N	25	7.4		pH 7.4, 25C
+0.02	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N		7.4		wild-type, pH 7.4
+0.02	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4		wild-type, presence of 2-mercatoethanol pH 7.4
+0.02	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	27	7.4	X	mutant E192A, pH 7.4, 27C
+0.021	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N		7.4		wild-type, presence of 2-mercatoethanol pH 7.4
+0.022	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	27	7.4	X	pH 7.4, 27C, recombinant isozyme 3beta-HSD1 mutant Q240R
+0.022	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4		wild-type, pH 7.4
+0.023	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	pH 7.4, 27C, recombinant isozyme 3beta-HSD1 mutant Q240R
+0.0233	allopregnanolone	2821	AURFZBICLPNKBZ-SYBPFIFISA-N				
+0.03	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N		7.4	X	mutant C111S, presence of 2-mercatoethanol pH 7.4
+0.03	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	mutant E192A, pH 7.4, 27C
+0.031	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4	X	mutant C111S, presence of 2-mercatoethanol pH 7.4
+0.032	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N		7.4	X	mutant C111S, pH 7.4
+0.033	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4	X	mutant C111S, pH 7.4
+0.0333	androstenediol	3135	QADHLRWLCPCEKT-LOVVWNRFSA-N				
+0.0333	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N				
+0.038	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	27	7.4	X	pH 7.4, 27C, recombinant isozyme 3beta-HSD1 mutant Q105M
+0.04	16beta-hydroxy-dehydroepiandrosterone	109214	QQIVKFZWLZJXJT-HLUDHZFRSA-N	27	7.4		wild-type 3beta-HSD1, pH 7.4, 27C
+0.04	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	mutant D61N, pH 7.4, 27C
+0.04	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4	X	mutant C111A, presence of 2-mercatoethanol pH 7.4
+0.04	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	27	7.4	X	mutant E192A, pH 7.4, 27C
+0.04	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N				
+0.041	5beta-Pregnan-3beta-ol-20-one	3310	AURFZBICLPNKBZ-GRWISUQFSA-N	25	7.4		pH 7.4, 25C
+0.043	Dehydrolithocholic acid	3147	KIQFUORWRVZTHT-PBDHEXIJSA-N	25	7.4		pH 7.4, 25C
+0.043	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4	X	mutant C72S, presence of 2-mercatoethanol pH 7.4
+0.047	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N		7.4	X	mutant C111A, presence of 2-mercatoethanol pH 7.4
+0.047	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4	X	mutant C72S, pH 7.4
+0.048	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N		7.4	X	mutant C83A, presence of 2-mercatoethanol pH 7.4
+0.048	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4	X	mutant C83A, presence of 2-mercatoethanol pH 7.4
+0.05	16beta-hydroxy-dehydroepiandrosterone	109214	QQIVKFZWLZJXJT-HLUDHZFRSA-N	27	7.4	X	mutant R195R, pH 7.4, 27C
+0.05	all-trans-retinal	626	NCYCYZXNIZJOKI-OVSJKPMPSA-N	25	7.4		pH 7.4, 25C
+0.05	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N		7.4	X	mutant C72S, presence of 2-mercatoethanol pH 7.4
+0.05	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4		wild-type 3beta-HSD1, pH 7.4, 27C
+0.05	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	27	7.4		wild-type 3beta-HSD1, pH 7.4, 27C
+0.053	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N		7.4	X	mutant C72S, pH 7.4
+0.055	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4		27C, pH 7.4
+0.055	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4		pH 7.4, 27C, recombinant wild-type isozyme 3beta-HSD1
+0.055	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N		7.4	X	mutant C83A, pH 7.4
+0.055	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N		7.4		in 0.02 M potassium phosphate buffer, pH 7.4
+0.055	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4		wild-type, pH 7.4, 27C
+0.057	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4	X	mutant C83A, pH 7.4
+0.058	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	27	7.4		pH 7.4, 27C, recombinant wild-type isozyme 3beta-HSD1
+0.058	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4		in 0.02 M potassium phosphate buffer, pH 7.4
+0.06	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4		27C, pH 7.4
+0.06	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N		7.4	X	mutant C111A, pH 7.4
+0.06	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	mutant E192A, pH 7.4, 27C
+0.06	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	27	7.4		27C, pH 7.4
+0.06	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	27	7.4	X	mutant D61N, pH 7.4, 27C
+0.062	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4		pH 7.4, 27C, recombinant wild-type isozyme 3beta-HSD1
+0.063	5beta-pregnane-3,20-dione	1539	XMRPGKVKISIQBV-XWOJZHJZSA-N	25	7.4		pH 7.4, 25C
+0.063	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4	X	mutant C111A, pH 7.4
+0.07	16alpha-hydroxy-dehydroepiandrosterone	4779	QQIVKFZWLZJXJT-DNKQKWOHSA-N	27	7.4	X	mutant R195R, pH 7.4, 27C
+0.07	5beta-pregnan-20alpha-ol-3-one	4147	DYVGYXXLXQESJE-WTVMURBBSA-N	25	7.4		pH 7.4, 25C
+0.07	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	27	7.4		27C, pH 7.4
+0.075	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	pH 7.4, 27C, recombinant isozyme 3beta-HSD2 mutant Q105M
+0.075	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	mutant Q105M, pH 7.4, 27C
+0.075	(S)-phenyl-1-butanol	25415	HQRWWHIETAKIMO-JTQLQIEISA-N	25	7.4		pH 7.4, 25C
+0.077	5beta-androstane-3,17-dione	1807	RAJWOBJTTGJROA-QJISAEMRSA-N	25	7.4		pH 7.4, 25C
+0.08	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	27	7.4	X	27C, pH 7.4, H156Y mutant 3beta-HSD1
+0.083	5beta-androstan-17beta-ol-3-one	1523	NVKAWKQGWWIWPM-MISPCMORSA-N	25	7.4		pH 7.4, 25C
+0.087	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N		7.4	X	mutant C72F, pH 7.4; mutant C72F, presence of 2-mercatoethanol pH 7.4
+0.087	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O		7.4	X	mutant C72F, pH 7.4; mutant C72F, presence of 2-mercatoethanol pH 7.4
+0.09	16alpha-hydroxy-dehydroepiandrosterone	4779	QQIVKFZWLZJXJT-DNKQKWOHSA-N	27	7.4		wild-type 3beta-HSD1, pH 7.4, 27C
+0.09	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	mutant R195R, pH 7.4, 27C
+0.093	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	mutant P195R, pH 7.4, 27C
+0.095	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	25	7.4		pH 7.4, 25C
+0.097	5alpha-androstane-3,17-dione	1130	RAJWOBJTTGJROA-WZNAKSSCSA-N	25	7.4		pH 7.4, 25C
+0.1	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	27	7.4	X	mutant R195P, pH 7.4, 27C
+0.11	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	27	7.4		wild-type 3beta-HSD2, pH 7.4, 27C
+0.113	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	pH 7.4, 27C, recombinant isozyme 3beta-HSD1 mutant Q105M
+0.113	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	mutant Q105M, pH 7.4, 27C
+0.115	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4		pH 7.4, 27C, recombinant wild-type isozyme 3beta-HSD2
+0.118	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4		pH 7.4, 27C, recombinant wild-type isozyme 3beta-HSD2
+0.118	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	mutant H156Y, pH 7.4, 27C
+0.118	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	27	7.4		pH 7.4, 27C, recombinant wild-type isozyme 3beta-HSD2
+0.12	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	27C, pH 7.4; 27C, pH 7.4, H156Y mutant 3beta-HSD1; pH 7.4, 27C, recombinant mutant H156Y; pH 7.4, 27C, recombinant mutant H156Y
+0.12	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	mutant R195P, pH 7.4, 27C
+0.12	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	27	7.4		27C, pH 7.4
+0.13	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	mutant R195P, pH 7.4, 27C
+0.14	16beta-hydroxy-dehydroepiandrosterone	109214	QQIVKFZWLZJXJT-HLUDHZFRSA-N	27	7.4		wild-type 3beta-HSD2, pH 7.4, 27C
+0.14	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4		wild-type 3beta-HSD2, pH 7.4, 27C
+0.145	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4		wild-type, pH 7.4, 27C
+0.145	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	27	7.4	X	pH 7.4, 27C, recombinant isozyme 3beta-HSD2 mutant Q105M
+0.15	16alpha-hydroxy-dehydroepiandrosterone	4779	QQIVKFZWLZJXJT-DNKQKWOHSA-N	27	7.4	X	mutant R195P, pH 7.4, 27C; wild-type 3beta-HSD2, pH 7.4, 27C
+0.15	16beta-hydroxy-dehydroepiandrosterone	109214	QQIVKFZWLZJXJT-HLUDHZFRSA-N	27	7.4	X	mutant R195P, pH 7.4, 27C
+0.17	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	27	7.4	X	mutant R195R, pH 7.4, 27C
+0.18	(S)-1-indanol	1896	YIAPLDFPUUJILH-VIFPVBQESA-N	25	7.4		pH 7.4, 25C
+0.187	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	27	7.4	X	pH 7.4, 27C, recombinant isozyme 3beta-HSD2 mutant R240Q
+0.217	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	27	7.4	X	pH 7.4, 27C, recombinant isozyme 3beta-HSD2 mutant R240Q
+0.25	(S)-1-tetralol	2616	JAAJQSRLGAYGKZ-JTQLQIEISA-N	25	7.4		pH 7.4, 25C
+0.31	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	27	7.4	X	mutant E192A, pH 7.4, 27C
+0.65	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+0.69	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	27	7.4	X	mutant E192A, pH 7.4, 27C
+0.75	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	27	7.4		wild-type 3beta-HSD1, pH 7.4, 27C
+0.76	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	27	7.4	X	mutant D61N, pH 7.4, 27C
+0.85	n-butyrophenone	5062	FFSAXUULYPJSKH-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+0.88	1,4-Naphthoquinone	823	FRASJONUBLZVQX-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+1.03	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	27	7.4	X	mutant R195P, pH 7.4, 27C
+1.48	pregnenolone	437	ORNBQBCIOKFOEO-QGVNFLHTSA-N	37	8.5		pH 8.5, 37C
+1.49	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	27	7.4	X	mutant R195R, pH 7.4, 27C
+1.65	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	27	7.4		wild-type 3beta-HSD2, pH 7.4, 27C
+2	4-benzoylpyridine	1267	SKFLCXNDKRUHTA-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+2	6-tert-butyl-2,3-epoxy-5-cyclohexene-1,4-dione	25414	ZMTGGXREUMKXBC-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+2	valerophenone	5093	XKGLSKVNOSHTAD-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+2.7	hexanophenone	5743	MAHPVQDVMLWUAG-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+3.7	4,4'-dimethylbenzil	25412	BCWCEHMHCDCJAD-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+4.7	Pyridine-4-aldehyde	2062	BGUWFUQJCDRPTL-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+11.6	dehydroepiandrosterone	239	FMGSKLZLMKYGDP-USOAJAOKSA-N	37	8.5		pH 8.5, 37C
+11.8	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+16.3	2,3-Hexanedione	2352	MWVFCEVNXHTDNF-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+16.7	4-Nitrobenzaldehyde	612	BXRFQSNOROATLV-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+26.7	2,3-Pentanedione	1458	TZMFJUDUGYTVRY-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+28.3	diacetyl	603	QSJXEFYPDANLFS-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+31.7	benzil	1253	WURBFLDFSFBTLW-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+31.7	isatin	646	JXDYKVIHCLTXOP-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+33.3	4-hexanoylpyridine	6551	ZDGPOJYWTVDMDU-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+33.3	dimethyl-2-oxo-glutarate	25413	TXIXSLPEABAEHP-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+40.2	2,3-heptanedione	3213	FJPGAMCQJNLTJC-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+41.7	1-phenylisatin	9041	UWCPWBIMRYXUOU-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C

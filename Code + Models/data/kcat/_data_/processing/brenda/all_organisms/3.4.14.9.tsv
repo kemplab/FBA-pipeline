@@ -1,0 +1,30 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.04	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0	X	pH 5.0, 37C, mutant enzyme D276A
+0.12	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0	X	pH 5.0, 37C, mutant enzyme S475L
+1.52	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0	X	pH 5.0, 37C, mutant enzyme D360A
+1.54	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0	X	pH 5.0, 37C, mutant enzyme E272A
+3.22	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0		pH 5.0, 37C, wild-type enzyme
+4.22	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0	X	pH 5.0, 37C, mutant enzyme D327A
+5.2	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	30	4.5		pH 4.5, 30C
+9.36	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0	X	pH 5.0, 37C, mutant enzyme D276A
+33.1	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N		4.0		pH 4.0
+41.66	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0		pH 5.0, 37C, wild-type enzyme
+550000	Ala-Ala-Phe-p-nitroanilide	8589	RMYMOVDNWWDGFU-DEYYWGMASA-N		4.5		pH 4.5
+210000	Ala-Ala-Pro-p-nitroanilide	8871	BKMKBGJDFPQAGQ-MJVIPROJSA-N		4.5		pH 4.5
+140000	Ala-Phe-Pro-p-nitroanilide	8872	AUQPPCXQIUYKRO-YSSFQJQWSA-N		4.5		pH 4.5
+0.0124	Ala-Arg-Phe-p-nitrophenylalanyl-Arg-Leu	9193	YCNGCIKBPUPBOW-UHFFFAOYSA-N	378	4.0	X	pH 4.0, 378C, mutant enzyme E77A
+11.8	Ala-Arg-Phe-p-nitrophenylalanyl-Arg-Leu	9193	YCNGCIKBPUPBOW-UHFFFAOYSA-N	37	4.0		pH 4.0, 37C, wild-type enzyme
+35	Phe-Pro-Ala-4-nitroanilide	23720	IQYNDHOCCCUVDQ-UHFFFAOYSA-N	20	6.0		pH 6.0, 20C, SedB
+34.5	Ala-Ala-Phe-p-nitrophenylalanyl-Arg-Leu	23721	BWTYUEAUWWRVRL-TZGTVAASSA-N	37	4.0		pH 4.0, 37C, wild-type enzyme
+11	Ala-Asp-Phe-p-nitrophenylalanyl-Arg-Leu	23722	DIRVCAGXTWGJHL-XLWWOFJKSA-N	37	4.0		pH 4.0, 37C, wild-type enzyme
+30.7	Ala-Ser-Phe-p-nitrophenylalanyl-Arg-Leu	23723	VIIFDDSLBNAWAA-XLWWOFJKSA-N	37	4.0		pH 4.0, 37C, wild-type enzyme
+26.4	Ala-His-Phe-p-nitrophenylalanyl-Arg-Leu	23724	BOPZXVKCGHABQN-AEVZMIFCSA-N	37	4.0		pH 4.0, 37C, wild-type enzyme
+18.5	Asp-Ala-Phe-p-nitrophenylalanyl-Arg-Leu	23725	VWZORNZCHRLXHN-XLWWOFJKSA-N	37	4.0		pH 4.0, 37C, wild-type enzyme
+13.7	His-Ala-Phe-p-nitrophenylalanyl-Arg-Leu	23726	GQPQZWRNECHXSG-HUZZHFCNSA-N	37	4.0		pH 4.0, 37C, wild-type enzyme
+0.91	Arg-Ala-Phe-p-nitrophenylalanyl-Arg-Leu	23727	AJBSCWCDCKZRPC-UHFFFAOYSA-N	37	4.0		pH 4.0, 37C, wild-type enzyme
+4.7	Ser-Ala-Phe-p-nitrophenylalanyl-Arg-Leu	23728	NNPMZOPZEQBZQM-XLWWOFJKSA-N	37	4.0		pH 4.0, 37C, wild-type enzyme
+5.3	Ala-Ala-Phe-7-amido-4-carbamoylmethylcoumarin	23729	SZSVKRHVVBIKJO-UHFFFAOYSA-N	30	4.5		pH 4.5, 30C
+3.6	Ala-Nle-Leu-7-amido-4-carbamoylmethylcoumarin	23730	HBFVPQKJEPVEJC-UHFFFAOYSA-N	30	4.5		pH 4.5, 30C
+4.2	Ala-Nle-Nle-7-amido-4-carbamoylmethylcoumarin	23731	DXLPSUPYCSNISK-UHFFFAOYSA-N	30	4.5		pH 4.5, 30C
+4.7	Ala-Nva-Nle-7-amido-4-carbamoylmethylcoumarin	23732	LKYYJXARJFESJJ-UHFFFAOYSA-N	30	4.5		pH 4.5, 30C
+8.2	Arg-Pro-Phe-7-amido-4-carbamoylmethylcoumarin	23733	SIFBFTPFFNZVGO-UHFFFAOYSA-N	30	4.5		pH 4.5, 30C

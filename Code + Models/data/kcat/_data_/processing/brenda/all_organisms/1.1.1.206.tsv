@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+6.76	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	6.6		pH 6.6, 30C, recombinant enzyme; pH 6.6, 30C, recombinant His-tagged enzyme
+33.34	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	6.7		recombinant enzyme, pH 6.7, 30C
+0.54	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	6.7		recombinant enzyme, pH 6.7, 30C
+2.94	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	6.6		pH 6.6, 30C, recombinant enzyme; pH 6.6, 30C, recombinant His-tagged enzyme
+2.4	tropinone	1181	QQXLDOJGLXJCSE-KNVOCYPGSA-N	22	6.4		pH 6.4, 22C
+2.93	tropinone	1181	QQXLDOJGLXJCSE-KNVOCYPGSA-N	22	6.4		pH 6.4, 22C, recombinant His-tagged enzyme
+9.51	tropinone	1181	QQXLDOJGLXJCSE-KNVOCYPGSA-N	30	6.7		recombinant enzyme, pH 6.7, 30C
+16.74	tropinone	1181	QQXLDOJGLXJCSE-KNVOCYPGSA-N	30	6.6		pH 6.6, 30C, recombinant enzyme; pH 6.6, 30C, recombinant His-tagged enzyme
+25.6	tropinone	1181	QQXLDOJGLXJCSE-KNVOCYPGSA-N		7.0		pH 7.0
+4.67	4-methylcyclohexanone	2361	VGVHNLRUAMRIEW-UHFFFAOYSA-N	22	6.4		pH 6.4, 22C, recombinant His-tagged enzyme
+1.67	Tropine	2725	CYHOMWAPJJPNMW-JIGDXULJSA-N	30	6.7		recombinant enzyme, pH 6.7, 30C
+1.87	Tropine	2725	CYHOMWAPJJPNMW-JIGDXULJSA-N	30	6.6		pH 6.6, 30C, recombinant enzyme; pH 6.6, 30C, recombinant His-tagged enzyme
+3.3	Tropine	2725	CYHOMWAPJJPNMW-JIGDXULJSA-N	22	9.6		pH 9.6, 22C
+5.69	Tropine	2725	CYHOMWAPJJPNMW-JIGDXULJSA-N	22	9.6		pH 9.6, 22C, recombinant His-tagged enzyme
+8.97	3-methylcyclohexanone	2812	UJBOOUHRTQVGRU-UHFFFAOYSA-N	30	6.7		recombinant enzyme, pH 6.7, 30C
+0.54	3-quinuclidinone	31614	ZKMZPXWMMSBLNO-UHFFFAOYSA-N	22	9.6		pH 9.6, 22C, recombinant His-tagged enzyme
+9.23	N-methylpiperidine	124307	PAMIQIKDUOTOBW-UHFFFAOYSA-N	30	6.7		recombinant enzyme, pH 6.7, 30C

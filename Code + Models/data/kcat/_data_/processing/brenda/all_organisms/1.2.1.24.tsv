@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+69	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	70	6.5		pH 6.5, 70C
+22.6	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	70	6.5		pH 6.5, 70C, cofactor NAD+
+31.7	succinate semialdehyde	440	UIUJIQZEACWQSV-UHFFFAOYSA-N	25	7.2		1 mM EDTA, 1 mM 2-mercaptoethanol, 66.7 mM potassium phosphate pH 7.2, 1.5 mM NAD+. 25C
+12.3	Glutaraldehyde	865	SXRSQZLOMIGNAQ-UHFFFAOYSA-N	25	7.2		1 mM EDTA, 1 mM 2-mercaptoethanol, 66.7 mM potassium phosphate pH 7.2, 1.5 mM NAD+. 25C
+7.1	2,5-dioxopentanoate	2354	VHKNBDIQDAXGBL-UHFFFAOYSA-N	70	6.5		pH 6.5, 70C, cofactor NAD+
+12.3	alpha-Ketoglutaric semialdehyde	2354	VHKNBDIQDAXGBL-UHFFFAOYSA-N	25	7.2		1 mM EDTA, 1 mM 2-mercaptoethanol, 66.7 mM potassium phosphate pH 7.2, 1.5 mM NADP+. 25C
+51.2	alpha-Ketoglutaric semialdehyde	2354	VHKNBDIQDAXGBL-UHFFFAOYSA-N	25	7.2		1 mM EDTA, 1 mM 2-mercaptoethanol, 66.7 mM potassium phosphate pH 7.2, 1.5 mM NAD+. 25C

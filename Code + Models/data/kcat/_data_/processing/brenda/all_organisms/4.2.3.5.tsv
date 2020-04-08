@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0083	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				kinetics of reduction of the MtCS-bound FMNox is determined using fixed amount of holoenzyme and varying levels of NADH
+0.012	5-enolpyruvylshikimate 3-phosphate	1249	QUTYKIXIUDQOLK-PRJMDXOYSA-N			X	mutant S16A
+0.14	5-enolpyruvylshikimate 3-phosphate	1249	QUTYKIXIUDQOLK-PRJMDXOYSA-N			X	mutant S127A
+0.87	5-enolpyruvylshikimate 3-phosphate	1249	QUTYKIXIUDQOLK-PRJMDXOYSA-N				wild-type enzyme

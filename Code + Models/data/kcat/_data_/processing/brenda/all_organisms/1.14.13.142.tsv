@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.07	4-androstene-3,17-dione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	25	7.0		in 0.1 M potassium phosphate, pH 7.0, at 25C
+0.07	4-androstene-3,17-dione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	22	7.0		in 0.1 M potassium phosphate, pH 7.0, at 22C; pH 7.0, 22C, KshAB; pH 7.0, 22C, KshAB
+0.08	3-oxo-23,24-bisnorchol-4-en-22-oic acid	114612	QETBTXOVEBTJQH-WAMTXRNCSA-N	22	7.0		in 0.1 M potassium phosphate, pH 7.0, at 22C
+0.08	3-oxo-23,24-bisnorcholesta-4-ene-22-oate	114612	QETBTXOVEBTJQH-WAMTXRNCSA-N	22	7.0		pH 7.0, 22C, KshAB; pH 7.0, 22C, KshAB
+0.25	3-oxo-23,24-bisnorchola-1,4-dien-22-oic acid	114613	OZESBBVMFLIODA-WAMTXRNCSA-N	22	7.0		in 0.1 M potassium phosphate, pH 7.0, at 22C
+0.61	3-oxo-23,24-bisnorchol-4-en-22-oic acid-CoA	114614	CJJBDUCNUMWUJX-ZKTJOKCMSA-N	22	7.0		in 0.1 M potassium phosphate, pH 7.0, at 22C
+0.61	3-oxo-23,24-bisnorcholesta-4-ene-22-oyl-CoA	114614	CJJBDUCNUMWUJX-ZKTJOKCMSA-N	22	7.0		pH 7.0, 22C, KshAB; pH 7.0, 22C, KshAB
+0.8	1,4-androstadiene-3,17-dione	3741	LUJVUUWNAPIQQI-QAGGRKNESA-N	25	7.0		in 0.1 M potassium phosphate, pH 7.0, at 25C
+0.8	androsta-1,4-diene-3,17-dione	3741	LUJVUUWNAPIQQI-QAGGRKNESA-N	22	7.0		in 0.1 M potassium phosphate, pH 7.0, at 22C; pH 7.0, 22C, KshAB; pH 7.0, 22C, KshAB
+2.5	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	22	7.0		apparent Km value, in the presence of 3-oxo-23,24-bisnorchola-1,4-dien-22-oic acid-CoA, in 0.1 M potassium phosphate, pH 7.0, at 22C
+2.7	3-oxo-23,24-bisnorchola-1,4-dien-22-oic acid-CoA	114615	NNUYEQLFHWCXPC-ZKTJOKCMSA-N	22	7.0		in 0.1 M potassium phosphate, pH 7.0, at 22C
+7	O2	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N	25	7.0		in the presence of 1,4-androstadiene-3,17-dione, kcat above 7 1/sec, in 0.1 M potassium phosphate, pH 7.0, at 25C

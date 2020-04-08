@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000864	5-iodo-dCTP	118589	OOMLBPVHGFQCCL-RRKCRQDMSA-N	37	8.0		in 50 mM Tris, pH 8.0, 100 mM KCl, 5 mM MgCl2, 100 mg/ml bovine serum albumin, 1 mM dithiothreitol, at 37C
+0.081	dUTP	363	AHCYMLUZIRLXAA-SHYZEUOFSA-N				pH not specified in the publication, temperature not specified in the publication
+0.108	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N				pH not specified in the publication, temperature not specified in the publication
+0.14	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N				pH not specified in the publication, temperature not specified in the publication
+0.362	5-Methyl-dCTP	2193	NGYHUCPPLJOZIX-XLPZGREQSA-N				pH not specified in the publication, temperature not specified in the publication
+0.367	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N				pH not specified in the publication, temperature not specified in the publication
+0.43	5-iodo-dCTP	118589	OOMLBPVHGFQCCL-RRKCRQDMSA-N				pH not specified in the publication, temperature not specified in the publication
+0.505	5-bromo-dCTP	118792	HKWVRXUDOBOTMS-HBPOCXIASA-N				pH not specified in the publication, temperature not specified in the publication
+1.8	dTTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	25	8.0		pH 8.0, 25C
+2	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	25	8.0		pH 8.0, 25C
+3	5-formyl-dCTP	127246	UIFNWSMURHAIJK-XLPZGREQSA-N	25	8.0		pH 8.0, 25C
+4.8	5-Methyl-dCTP	2193	NGYHUCPPLJOZIX-XLPZGREQSA-N	25	8.0		pH 8.0, 25C
+5.6	5-hydroxymethyl-dCTP	3636	DLHNIFPAUZVLLA-XLPZGREQSA-N	25	8.0		pH 8.0, 25C
+5.7	dCTP	161	RGWHQCVHVJXOKC-SHYZEUOFSA-N	25	8.0		pH 8.0, 25C
+6.2	5-iodo-dCTP	118589	OOMLBPVHGFQCCL-RRKCRQDMSA-N	25	8.0		pH 8.0, 25C
+9.3	5-bromo-dCTP	118792	HKWVRXUDOBOTMS-HBPOCXIASA-N	25	8.0		pH 8.0, 25C

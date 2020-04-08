@@ -1,0 +1,19 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0003	Pro-Phe-Arg-7-amido-4-methylcoumarin	3623	BTCWZEKYFOKVMQ-DZUOILHNSA-N				purified hK6
+0.00083	Phe-Ser-Arg-7-amido-4-methylcoumarin	6574	CBECFYSOGJBLKH-FKBYEOEOSA-N				purified hK6
+0.0013	Val-Pro-Arg-7-amido-4-methylcoumarin	6465	CCOBFOPWDBZKQO-IPJJNNNSSA-N				purified hK6
+0.4	o-aminobenzoic acid-AFRFSQ-N-[2,4-dinitrophenyl]ethylenediamine	12316	BVGHKSSLAJMJQO-AZEINWDJSA-N		9		at pH 9, without salt
+0.9	WAAFRFSQA	25831	OXEATQWNZGCMLQ-SUDCKTGPSA-N	37	7.5		pH 7.5, 37C
+1.2	WEAFRSSDQ	25830	IDRKVPILNOQUQK-QCHFJIDBSA-N	37	7.5		pH 7.5, 37C
+1.4	WYMTRSAMG	25826	KXPTUZIWBXPNEK-CZXJSWQFSA-N	37	7.5		pH 7.5, 37C
+1.7	WIGFRNAGA	25827	BDBZDABTRMWYFF-GPWOLMHVSA-N	37	7.5		pH 7.5, 37C
+2	WEAVRSAMW	25829	WXZRMNCHCSIAQF-UDKBYNLCSA-N	37	7.5		pH 7.5, 37C
+2.3	o-aminobenzoic acid-KLRSSKQ-N-[2,4-dinitrophenyl]ethylenediamine	5920	KTMALTRUHFJRQH-ZTYVOHGWSA-N		9		at pH 9, without salt
+2.7	o-aminobenzoic acid-AFRVGQ-N-[2,4-dinitrophenyl]ethylenediamine	24907	XSUWOIMEMSHMFV-WHZLVVRPSA-N		7.5		at pH 7.5, in the presence 2 M sodium citrate
+3.8	WTAFRSAYG	25828	KRQQXKXOIGKVMN-PGTHUXJUSA-N	37	7.5		pH 7.5, 37C
+7.1	o-aminobenzoic acid-AFRFAQ-N-[2,4-dinitrophenyl]ethylenediamine	24905	OKVRHORJASVTHQ-XFHYDYHISA-N		7.5		at pH 7.5, in the presence 2 M sodium citrate
+7.1	o-aminobenzoic acid-EEHAFRFSQ-N-[2,4-dinitrophenyl]ethylenediamine	24904	GBZPYCXQVOIIPE-JCZRMDDKSA-N		7.5		at pH 7.5, in the presence 2 M sodium citrate
+9.1	o-aminobenzoic acid-EHSAFRFAQ-N-[2,4-dinitrophenyl]ethylenediamine	24906	VMFVGVGAXWPJLE-PQSOTAGZSA-N		7.5		at pH 7.5, in the presence 2 M sodium citrate
+9.2	o-aminobenzoic acid-AFRLAQ-N-[2,4-dinitrophenyl]ethylenediamine	24908	FVYWAWWUNHIOBX-ATFINPRVSA-N		7.5		at pH 7.5, in the presence 2 M sodium citrate
+11.6	o-aminobenzoic acid-AFRFSQ-N-[2,4-dinitrophenyl]ethylenediamine	12316	BVGHKSSLAJMJQO-AZEINWDJSA-N		7.5		at pH 7.5, in the presence 2 M sodium citrate
+14.2	o-aminobenzoic acid-KLRSSKQ-N-[2,4-dinitrophenyl]ethylenediamine	5920	KTMALTRUHFJRQH-ZTYVOHGWSA-N		7.5		at pH 7.5, in the presence 2 M sodium citrate

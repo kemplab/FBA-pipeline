@@ -1,0 +1,23 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.001	Thr-Lys-Cys-Val-Ile-Ala	41820	MLXDQOWJQXLAMH-YLEKKWEVSA-N				in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+0.001	Thr-Lys-Cys-Val-Ile-Arg	41828	INWQYEQCBXUYMA-MBKWLGNUSA-N				in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+0.001	Thr-Lys-Cys-Val-Ile-Asn	41827	OLCQGQFKWYIEPB-DGXVKIGKSA-N				in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+0.001	Thr-Lys-Cys-Val-Ile-Asp	41822	GSNXTWXGSMQTLK-DGXVKIGKSA-N				in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+0.001	Thr-Lys-Cys-Val-Ile-Gln	24431	QHVSIJARJJFPBK-WQOUHTSMSA-N				in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+0.001	Thr-Lys-Cys-Val-Ile-Ser	23375	KWDXKRVQZNMCLF-YRQPXTNQSA-N				in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+0.001	Thr-Lys-Cys-Val-Ile-Thr	41830	XJOQUPLTVAIFOA-VENAKJSWSA-N				in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+0.0063	Thr-Lys-Cys-Val-Ile-Cys	41821	RLEPUWSHIRIMLH-ACOMJQJQSA-N				in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+0.02	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N				
+0.021	Asp-Asp-Pro-Thr-Ala-Ser-Ala-Cys-Val-Leu-Leu	24396	UXEBNRWRENUTLO-XPIMKQEDSA-N	30			at 30C
+0.021	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N	30			at 30C
+0.022	Thr-Lys-Cys-Val-Ile-Tyr	41832	GXTICZOLPZVEHK-PTUUNMDDSA-N				in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+0.028	(biotin-CONH-(CH2)5-CO-)-NPFREKKFFCAI-Leu	111736	FLCINBMALGGLEG-MPVNNTLTSA-N				prenyl donor: geranylgeranyl diphosphate
+0.048	Thr-Lys-Cys-Val-Ile-Ile	41824	PCMBTFKLVHXARW-GOZIQZARSA-N				in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+0.06	Thr-Lys-Cys-Val-Ile-Phe	23374	FRNMYLXQAYHHDQ-YKOGOWNISA-N				in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+0.08	3,7,11-trimethyl-12-(7-nitro-benzo[1,2,5]-oxadiazo-4-ylamino)-dodeca-2,6,10-trien-1-diphosphate	24397	AGYBOFPITOYMSD-GZRXAHTMSA-N				
+0.082	Thr-Lys-Cys-Val-Ile-Met	11188	OGZQIBUUZWFOLO-CBQVAMJZSA-N				in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+0.088	Thr-Lys-Cys-Val-Ile-Leu	14391	XSIMPRWMBNSYON-YQPJMPQISA-N				in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+0.1	(biotin-CONH-(CH2)5-CO-)-NPFREKKFFCAI-Leu	111736	FLCINBMALGGLEG-MPVNNTLTSA-N				prenyl donor: farnesyl diphosphate
+0.107	Thr-Lys-Cys-Val-Ile-Val	41831	OQVWVOXSBHVSTP-MBKWLGNUSA-N				in 50 mM Tris-HCl, 5 mM dithiothreitol, 5 mM MgCl2, and 0.01 mM ZnCl2
+0.12	(biotin-CONH-(CH2)5-CO-)-NPFREKKFFCAI-Leu	111736	FLCINBMALGGLEG-MPVNNTLTSA-N				prenyl donor: geranylgeranyl diphosphate
+0.34	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N				

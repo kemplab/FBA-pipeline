@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.078	progesterone	249	RJKFOVLPORLFTN-LEKSSAKUSA-N	37	7.4		recombinant enzyme, at pH 7.4 and 37C
+0.172	progesterone	249	RJKFOVLPORLFTN-LEKSSAKUSA-N				
+0.22	17alpha-hydroxyprogesterone	884	DBPWSSGDRRHUNT-CEGNMAFCSA-N	37	7.4	X	pH 7.4, 37C, CYP21 wild-type and mutant T241R/L442A
+0.322	17a-hydroxyprogesterone	884	DBPWSSGDRRHUNT-CEGNMAFCSA-N				
+0.67	17alpha-hydroxyprogesterone	884	DBPWSSGDRRHUNT-CEGNMAFCSA-N	37	7.4		recombinant enzyme, at pH 7.4 and 37C
+2.8	progesterone	249	RJKFOVLPORLFTN-LEKSSAKUSA-N	37	7.4		recombinant enzyme, at pH 7.4 and 37C
+4	17alpha-hydroxyprogesterone	884	DBPWSSGDRRHUNT-CEGNMAFCSA-N	37	7.4		recombinant enzyme, at pH 7.4 and 37C

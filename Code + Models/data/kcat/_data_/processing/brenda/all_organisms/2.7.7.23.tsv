@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+6.21	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N	80	7.5		pH 7.5, 80C
+0.75	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	37	8.2		pH 8.2, 37C, recombinant His6-tagged enzyme
+3.04	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	37	7.5		pH 7.5, 37C
+3.53	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	80	7.5		pH 7.5, 80C
+44.3	UDP-N-acetyl-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N				
+8.4	UDP-N-acetyl-alpha-D-glucosamine	120	LFTYTUAZOPRMMI-CFRASDGPSA-N	80	7.5		pH 7.5, 80C
+0.015	N-acetyl-D-glucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N	30	8.3	X	R116A mutant, 30C, pH 8.3
+0.0177	N-acetyl-D-glucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N	30	8.3	X	G112A mutant, 30C, pH 8.3
+0.0848	N-acetyl-D-glucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N	30	8.3	X	K123A mutant, 30C, pH 8.3
+0.1	N-acetyl-D-glucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N		7.4		purified del227 enzyme, pH 7.4
+0.2	N-acetyl-D-glucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N		7.4		purified del233 enzyme, pH 7.4
+0.25	N-acetyl-D-glucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N		7.4		purified del78 enzyme, pH 7.4
+0.35	N-acetyl-D-glucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N		7.4		purified del130 enzyme, pH 7.4
+1.33	N-acetyl-D-glucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N	30	8.3	X	G111A mutant, 30C, pH 8.3
+2.27	N-acetyl-D-glucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N	30	8.3	X	L117A mutant, 30C, pH 8.3
+4.4	N-acetyl-D-glucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N	30	8.3	X	P122A mutant, 30C, pH 8.3
+5.31	N-acetyl-D-glucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N	30	8.3	X	G114A mutant, 30C, pH 8.3
+8	N-acetyl-D-glucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N		7.4		purified Tr250 enzyme, pH 7.4
+8.78	N-acetyl-D-glucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N	30	8.3	X	T115A mutant, 30C, pH 8.3
+15.4	N-acetyl-D-glucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N	30	8.3		wild type enzyme, 30C, pH 8.3
+140	N-acetyl-D-glucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N		7.4		purified Tr331 enzyme, pH 7.4
+330	N-acetyl-D-glucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N		7.4		purified full length enzyme, pH 7.4
+0.95	N-acetyl-alpha-D-glucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N	37	8.2		pH 8.2, 37C, recombinant His6-tagged enzyme
+2.54	N-acetyl-alpha-D-glucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N	80	7.5		pH 7.5, 80C

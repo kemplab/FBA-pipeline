@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.033	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme
+5.9	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N		7.5	X	pH 7.5, recombinant mutant R304L
+22.1	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N		7.5	X	pH 7.5, recombinant mutant R301L
+1339	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N		7.5		pH 7.5, recombinant wild-type enzyme
+0.008	3alpha-androstanediol	1491	CBMYJHIOYJEBSB-KHOSGYARSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme
+0.148	4-oxo-2-nonenal	5090	SEPPVOUBHWNCAW-FNORWQNLSA-N	25	7.4		pH 7.4, 25C

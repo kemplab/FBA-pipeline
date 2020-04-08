@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.001	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5		ATPase activity of recombinant tandem chromodomain/ATPase domain in absence of dsDNA, pH 7.5, 30C
+0.009	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5		ATPase activity of recombinant isolated ATPase domain in absence of dsDNA, pH 7.5, 30C
+0.012	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5		ATPase activity of recombinant tandem chromodomain/tandem plant zinc finger homeodomain/ATPase domain in absence of dsDNA, pH 7.5, 30C
+0.0615	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5		ATPase activity of recombinant tandem plant zinc finger homeodomain/ATPase domain in presence of dsDNA, pH 7.5, 30C

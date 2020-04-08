@@ -1,0 +1,69 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3.3	4-nitrophenyl beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	37	5.8		pH 5.8, 37C, recombinant protein
+3.5	4-nitrophenyl beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	37	5.8		pH 5.8, 37C, native protein
+4.2	(2R)-4-hydroxy-7-methoxy-3-oxo-3,4-dihydro-2H-1,4-benzoxazin-2-yl beta-D-glucopyranoside	19453	WTGXAWKVZMQEDA-XFWGRBSCSA-N				recombinant enzyme, pH and temperature not specified in the publication
+4.7	DIBOA-glucoside	1612	OUSLYTBGQGKTME-BJPDSMLBSA-N	30	5.5	X	pH 5.5, 30C, mutant Y378F
+4.7	DIBOA-glucoside	1612	OUSLYTBGQGKTME-BJPDSMLBSA-N	30	5.5	X	pH 5.5, 30C, mutant Y378F
+6.7	DIBOA-glucoside	1612	OUSLYTBGQGKTME-BJPDSMLBSA-N	30	5.5	X	pH 5.5, 30C, mutant F198A
+6.7	DIBOA-glucoside	1612	OUSLYTBGQGKTME-BJPDSMLBSA-N	30	5.5	X	pH 5.5, 30C, mutant F198A
+10.7	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.5	X	pH 5.5, 30C, mutant F198A
+10.7	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.5	X	pH 5.5, 30C, mutant F198A
+19.54	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim16 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-495 of Sorghum Dhr1)
+19.54	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim16 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-495 of Sorghum Dhr1)
+20.15	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim21 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-473 of Sorghum Dhr1)
+20.15	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim21 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-473 of Sorghum Dhr1)
+24.02	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim15 (chimeric construct: parental Zea mays Glu1 with exchanged domain 496-518 of Sorghum Dhr1)
+24.02	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim15 (chimeric construct: parental Zea mays Glu1 with exchanged domain 496-518 of Sorghum Dhr1)
+25.1	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.5	X	pH 5.5, 30C, mutant Y378A
+25.1	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.5	X	pH 5.5, 30C, mutant Y378A
+25.67	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim22 (chimeric construct: parental Zea mays Glu1 with exchanged domain 481-490 of Sorghum Dhr1)
+25.67	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim22 (chimeric construct: parental Zea mays Glu1 with exchanged domain 481-490 of Sorghum Dhr1)
+26.4	DIBOA-glucoside	1612	OUSLYTBGQGKTME-BJPDSMLBSA-N	30	5.5	X	pH 5.5, 30C, mutant Y378A
+26.4	DIBOA-glucoside	1612	OUSLYTBGQGKTME-BJPDSMLBSA-N	30	5.5	X	pH 5.5, 30C, mutant Y378A
+29.16	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	37	5.8		pH 5.8, 37C, wild-type
+31.2	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.5	X	pH 5.5, 30C, mutant S464F
+31.2	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.5	X	pH 5.5, 30C, mutant S464F
+32	(2R)-4-hydroxy-3-oxo-3,4-dihydro-2H-1,4-benzoxazin-2-yl beta-D-glucopyranoside	10237	OUSLYTBGQGKTME-TWTZXXGESA-N				recombinant enzyme, pH and temperature not specified in the publication
+43.33	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim2 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-518 of Sorghum Dhr1)
+43.33	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	37	5.8	X	pH 5.8, 37C, mutant Chim2 (chimeric construct: parental Zea mays Glu1 with exchanged domain 466-518 of Sorghum Dhr1)
+46.1	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.5	X	pH 5.5, 30C, mutant Y378F
+46.1	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.5	X	pH 5.5, 30C, mutant Y378F
+48.8	DIBOA-glucoside	1612	OUSLYTBGQGKTME-BJPDSMLBSA-N	30	5.5		pH 5.5, 30C, wild-type
+48.8	DIBOA-glucoside	1612	OUSLYTBGQGKTME-BJPDSMLBSA-N	30	5.5		pH 5.5, 30C, wild-type
+52	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	5.8		pH 5.8, 37C, native protein
+52	Dhurrin	849	NVLTYOJHPBMILU-YOVYLDAJSA-N				recombinant enzyme, pH and temperature not specified in the publication
+54.6	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.5	X	pH 5.5, 30C, mutant F471Y
+54.6	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.5	X	pH 5.5, 30C, mutant F471Y
+66.8	4-nitrophenyl beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	37	5.8		pH 5.8, 37C, native protein
+72.8	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	5.8		pH 5.8, 37C, recombinant protein
+73.3	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	30	5.5	X	pH 5.5, 30C, mutant S464F
+73.3	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	30	5.5	X	pH 5.5, 30C, mutant S464F
+83.5	DIBOA-glucoside	1612	OUSLYTBGQGKTME-BJPDSMLBSA-N	30	5.5	X	pH 5.5, 30C, mutant F471Y
+83.5	DIBOA-glucoside	1612	OUSLYTBGQGKTME-BJPDSMLBSA-N	30	5.5	X	pH 5.5, 30C, mutant F471Y
+84	DIBOA-glucoside	1612	OUSLYTBGQGKTME-BJPDSMLBSA-N	30	5.5	X	pH 5.5, 30C, mutant S464F
+84	DIBOA-glucoside	1612	OUSLYTBGQGKTME-BJPDSMLBSA-N	30	5.5	X	pH 5.5, 30C, mutant S464F
+85.1	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	30	5.5	X	pH 5.5, 30C, mutant Y378F
+85.1	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	30	5.5	X	pH 5.5, 30C, mutant Y378F
+86.5	4-nitrophenyl beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	37	5.8		pH 5.8, 37C, recombinant protein
+97.4	DIMBOA beta-D-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	37	5.8		pH 5.8, 37C, recombinant protein
+99.2	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.5		pH 5.5, 30C, wild-type
+99.2	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.5		pH 5.5, 30C, wild-type
+110	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	30	5.5	X	pH 5.5, 30C, mutant F198A
+110	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	30	5.5	X	pH 5.5, 30C, mutant F198A
+119	DIMBOA beta-D-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	37	5.8		pH 5.8, 37C, native protein
+124	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	30	5.5	X	pH 5.5, 30C, mutant Y378A
+124	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	30	5.5	X	pH 5.5, 30C, mutant Y378A
+128	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.5		pH 5.5, 30C, wild-type
+137	DIBOA-glucoside	1612	OUSLYTBGQGKTME-BJPDSMLBSA-N	30	5.5		pH 5.5, 30C, wild-type
+159	2-Nitrophenyl beta-D-glucoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	37	5.8		pH 5.8, 37C, native protein
+169	DIBOA beta-D-glucoside	1612	OUSLYTBGQGKTME-BJPDSMLBSA-N	37	5.8		pH 5.8, 37C, recombinant protein
+172	DIBOA beta-D-glucoside	1612	OUSLYTBGQGKTME-BJPDSMLBSA-N	37	5.8		pH 5.8, 37C, native protein
+192	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	30	5.5	X	pH 5.5, 30C, mutant F471Y
+192	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	30	5.5	X	pH 5.5, 30C, mutant F471Y
+204.2	2-Nitrophenyl beta-D-glucoside	834	KUWPCJHYPSUOFW-RMPHRYRLSA-N	37	5.8		pH 5.8, 37C, recombinant protein
+214	DIBOA-glucoside	1612	OUSLYTBGQGKTME-BJPDSMLBSA-N	30	5.5		pH 5.5, 30C, wild-type
+235.9	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	30	5.5		pH 5.5, 30C, wild-type
+338	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	30	5.5		pH 5.5, 30C, wild-type
+338	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	30	5.5		pH 5.5, 30C, wild-type
+773	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	30	5.5		pH 5.5, 30C, wild-type
+1201	DIMBOA-glucoside	1015	WTGXAWKVZMQEDA-XGHDNVSXSA-N	30	5.5		pH 5.5, 30C, wild-type

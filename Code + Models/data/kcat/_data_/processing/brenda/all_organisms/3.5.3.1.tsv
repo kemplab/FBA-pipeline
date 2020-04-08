@@ -1,0 +1,78 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.25	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	40	7.0		free enzyme, at pH 7.0 and 40C
+0.46	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	40	7.0		chitosan-immobilized enzyme, at pH 7.0 and 40C
+0.94	L-phenylalanine	98	COLNVLDHVKWLRT-QMMMGPOBSA-N	40	7.0		PEG-immobilized enzyme, at pH 7.0 and 40C
+0.013	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	5.0	X	mutant E90A, Co2+-activated, pH 5.0, 37C; mutant H91A, Co2+-activated, pH 5.0, 37C
+0.04	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	5.0	X	mutant S89G, Mn2+-activated, pH 5.0, 37C
+0.067	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	5.0		pH 5.0, 37C, Mn2+-activited enzyme
+0.067	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	5.0		wild-type, Mn2+-activated, pH 5.0, 37C
+0.12	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	5.0	X	mutant S89G, Co2+-activated, pH 5.0, 37C
+0.18	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	40	7.0		PEG-immobilized enzyme, at pH 7.0 and 40C
+0.25	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	40	7.0		chitosan-immobilized enzyme, at pH 7.0 and 40C
+0.27	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	5.0	X	mutant S88G, Mn2+-activated, pH 5.0, 37C
+0.27	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	40	7.0		free enzyme, at pH 7.0 and 40C
+0.28	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	5.0		pH 5.0, 37C, Co2+-activited enzyme
+0.28	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	5.0	X	mutant S88G/A92S, Mn2+-activated, pH 5.0, 37C; wild-type, Co2+-activated, pH 5.0, 37C
+0.37	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.2	X	mutant C66A, pH 7.2, 37C
+0.52	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.2		wild-type, pH 7.2, 37C
+0.53	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.2	X	mutant C73A, pH 7.2, 37C
+0.84	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	5.0	X	mutant A92S, Mn2+-activated, pH 5.0, 37C
+0.92	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	5.0	X	mutant A92S, Co2+-activated, pH 5.0, 37C
+1	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N		8.0	X	mutant E295A, pH 8.0, temperature not specified in the publication
+1.01	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	5.0	X	mutant S88G, Co2+-activated, pH 5.0, 37C
+1.3	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N		8.0	X	mutant E295A/R404A, pH 8.0, temperature not specified in the publication
+1.37	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	5.0	X	mutant S88G/A92S, Co2+-activated, pH 5.0, 37C
+2	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	8.0	X	mutant dN-PFA-H381A, pH 8.0, 37C
+4.8	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	N130F mutant
+6.7	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N		8.0	X	mutant E295R, pH 8.0, temperature not specified in the publication
+11.4	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N		8.0	X	mutant R404A, pH 8.0, temperature not specified in the publication
+14.7	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	D183A mutant
+17	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	N130Y mutant
+24.8	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N		8.0		wild-type, pH 8.0, temperature not specified in the publication
+33	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37		X	mutant enzyme N130D, at 37C
+68	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	D183A mutant
+72	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N		9.0	X	mutant R308K, pH 9.0
+76	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	8.0	X	mutant dN-PFA-C6H, pH 8.0, 37C
+77	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.4	X	mutant dN-PFA, pH 7.4, 37C
+84	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N		9.0	X	mutant R308A, pH 9.0
+89	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N		9.0	X	mutant R308E, pH 9.0
+131	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	9.0	X	37C, pH 9.0, mutant H120N
+140	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.4	X	mutant S230D, activated by Co2+, pH 7.4, 37C
+167	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	D183N mutant
+180	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N		9.5		monomeric E256Q variant, pH 9.5
+180	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.4	X	mutant D181S/S230G, activated by Co2+, pH 7.4, 37C
+190	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37			wild type enzyme, at 37C
+190	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N		9.5		wild-type, pH 9.5
+190	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N				wild type
+200	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.4	X	mutant S230G, activated by Co2+, pH 7.4, 37C
+203	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N		9.5	X	truncated mutant enzyme, pH 9.5
+220	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N		9.0		wild-type enzyme, pH 9.0
+220	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	N130A mutant
+220	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.4	X	mutant D181E/S230A, activated by Co2+, pH 7.4, 37C
+231	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N		9.5		wild-type enzyme, pH 9.5
+238	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	9.0	X	37C, pH 9.0, mutant H145N
+247	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.4	X	mutant D181N/S230G, activated by Co2+, pH 7.4, 37C
+249	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	9.0		37C, pH 9.0, wild-type
+250	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N		9.0		pH 9.0
+260	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	T135A mutant, is reduced 26% relative to values measured for the wild-type enzyme
+266	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.4	X	mutant S230G, activated by Mn2+, pH 7.4, 37C
+285	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	230	7.4	X	mutant S230C, activated by Mn2+, pH 7.4, 37C
+315	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.4	X	mutant S230T, activated by Co2+, pH 7.4, 37C
+320	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	8.0	X	mutant dN-PFA, pH 8.0, 37C
+327	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	230	7.4	X	mutant S230C, activated by Co2+, pH 7.4, 37C
+344	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.4	X	mutant D181E, activated by Co2+, pH 7.4, 37C
+350	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N			X	T135S mutant, kcat is unchanged relatively to values measured for the wild-type enzyme; wild type
+360	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.4	X	mutant D181N, activated by Mn2+, pH 7.4, 37C
+387	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.4	X	mutant D181N, activated by Co2+, pH 7.4, 37C
+388	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.4	X	mutant D181S, activated by Co2+, pH 7.4, 37C
+440	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	8.5	X	mutant dN-PFA, pH 8.5, 37C
+517	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	7.4	X	mutant D181N/S230G, activated by Mn2+, pH 7.4, 37C
+537	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	10		pH 10, 37C
+1132	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	9.4		pH 9.4, 37C
+2200	L-Arg	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N				
+300	L-thioarginine	15136	WJLUHPKQYRNGFP-BYPYZUCNSA-N		9.0		pH 9.0
+0.058	4-guanidino-3-nitrobenzoic acid	23168	YYZTWYMIGGLHFY-UHFFFAOYSA-N		9.0		pH 9.0
+0.09	4-guanidino-2-nitrophenylacetic acid	23169	YUVHKNYWATZEAE-UHFFFAOYSA-N		9.0		pH 9.0
+0.0015	1-nitro-3-guanidinobenzene	23170	JJBYIQPAELFTOD-UHFFFAOYSA-N		9.0		pH 9.0
+0.013	thioguanidino-valeric acid	23171	YZEHAVRWLYFFHD-UHFFFAOYSA-N		9.0		pH 9.0
+3.33	S-(4-aminobutyl)isothiourea	23172	PKDIQRBEKZCRHY-UHFFFAOYSA-N		9.0		pH 9.0

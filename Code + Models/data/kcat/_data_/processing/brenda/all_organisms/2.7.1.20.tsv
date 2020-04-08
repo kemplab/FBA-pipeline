@@ -1,0 +1,67 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.006	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant R69K/R131A
+0.008	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant R69K/R131A
+0.02	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	37	7.5	X	mutant Q74A/F338A, pH 7.5, 37C
+0.029	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	27	7.4		with CTP as cosubstrate, at 27C in 50 mM Tris buffer (pH 7.4) containing 5 mM MgCl2, 50 mM KCl, and 0.2 mM dithiothreitol
+0.029	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant R69A
+0.032	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant R69K
+0.035	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	27	7.4		with UTP as cosubstrate, at 27C in 50 mM Tris buffer (pH 7.4) containing 5 mM MgCl2, 50 mM KCl, and 0.2 mM dithiothreitol
+0.038	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant R69A
+0.043	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant R69K
+0.05	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	37	7.5	X	mutant Q74A, pH 7.5, 37C; mutant Q78A, pH 7.5, 37C
+0.052	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant R131A
+0.056	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	27	7.4		with TTP as cosubstrate, at 27C in 50 mM Tris buffer (pH 7.4) containing 5 mM MgCl2, 50 mM KCl, and 0.2 mM dithiothreitol
+0.061	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	27	7.4		at 27C in 50 mM Tris buffer (pH 7.4) containing 5 mM MgCl2, 50 mM KCl, and 0.2 mM dithiothreitol
+0.062	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	27	7.4		at 27C in 50 mM Tris buffer (pH 7.4) containing 5 mM MgCl2, 50 mM KCl, and 0.2 mM dithiothreitol
+0.065	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	30	7.5	X	pH 7.5, 30C, recombinant mutant R131A
+0.07	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C
+0.08	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	37	7.5	X	mutant F338A, pH 7.5, 37C
+0.11	fludarabine	2921	HBUBKKRHXORPQB-FJFJXFQQSA-N	37	7.6		pH 7.6, 37C
+0.16	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	27	7.4		with ATP as cosubstrate, at 27C in 50 mM Tris buffer (pH 7.4) containing 5 mM MgCl2, 50 mM KCl, and 0.2 mM dithiothreitol
+0.16	viramidine	7777	NHKZSTHOYNWEEZ-AFCXAGJDSA-N	37	7.3		recombinant enzyme, pH 7.3, 37C, phosphate buffered saline
+0.22	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	37	7.5	X	mutant K341A, pH 7.5, 37C
+0.26	viramidine	7777	NHKZSTHOYNWEEZ-AFCXAGJDSA-N	37	9.0		recombinant enzyme, pH 9.0, 37C, phosphate buffered saline
+0.3	TTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	27	7.4		at 27C in 50 mM Tris buffer (pH 7.4) containing 5 mM MgCl2, 50 mM KCl, and 0.2 mM dithiothreitol
+0.33	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C, in presence of 20 mM phosphoribosyl diphosphate
+0.33	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	27	7.4		at 27C in 50 mM Tris buffer (pH 7.4) containing 5 mM MgCl2, 50 mM KCl, and 0.2 mM dithiothreitol
+0.35	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	37	7.5	X	mutant H107A, pH 7.5, 37C
+0.4	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C, in presence of 20 mM phosphoenolpyruvate
+0.5	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	37	7.5		at pH 7.5 and 37C
+0.5	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	37	7.5		wild-type, pH 7.5, 37C
+0.5	guanosine	256	NYHBQMYGNKIUIF-UUOKFMHZSA-N				51fold reduction
+0.583	Inosine	154	UGQMRVRMYYASKQ-KQYNXXCUSA-N				44fold reduction
+0.59	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C, in presence of 20 mM creatine phosphate
+0.62	ribavirin	991	IWUCXVSUMQZMFG-AFCXAGJDSA-N	37	7.3		recombinant enzyme, pH 7.3, 37C, 0.1 M HEPES buffer
+0.63	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	27	7.4		with GTP as cosubstrate, at 27C in 50 mM Tris buffer (pH 7.4) containing 5 mM MgCl2, 50 mM KCl, and 0.2 mM dithiothreitol
+0.733	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N			X	mutant enzyme R131A
+0.733	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme R131A
+0.97	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C, in presence of 10 mM phosphate
+1	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N				25fold reduction
+1.02	cytidine	314	UHDGCWIWMRVCDJ-XVFCMESISA-N				25fold reduction
+1.1	Inosine	154	UGQMRVRMYYASKQ-KQYNXXCUSA-N	37	7.6		pH 7.6, 37C
+1.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5		pH 7.5, 30C, recombinant wild-type enzyme
+1.39	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	27	7.4		at 27C in 50 mM Tris buffer (pH 7.4) containing 5 mM MgCl2, 50 mM KCl, and 0.2 mM dithiothreitol
+1.4	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	30	7.5		pH 7.5, 30C, recombinant wild-type enzyme
+1.67	uridine	227	DRTQHJPVMGBUCF-XVFCMESISA-N				15fold reduction
+1.8	ribavirin	991	IWUCXVSUMQZMFG-AFCXAGJDSA-N	37	7.3		recombinant enzyme, pH 7.3, 37C, phosphate buffered saline
+2.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0		37C, pH 8.0
+3.9	cordycepin	1579	OFEZSBMBBKLLBJ-BAJZRUMYSA-N	37	7.6		pH 7.6, 37C
+4.2	deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	37	7.6		pH 7.6, 37C
+5.1	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N			X	mutant enzyme D16V
+5.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme D16V
+5.2	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N			X	mutant enzyme D16N
+5.2	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme D16N
+5.25	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N				wild-type enzyme
+6.7	3'-deoxyadenosine	1579	OFEZSBMBBKLLBJ-BAJZRUMYSA-N				wild-type enzyme
+7.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.6		pH 7.6, 37C
+8.1	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	37	7.6		pH 7.6, 37C
+13	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	37	7.3		recombinant enzyme, pH 7.3, 37C, phosphate buffered saline
+16	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37	7.6		pH 7.6, 37C
+18	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N				wild-type enzyme
+18	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type enzyme
+18	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	37	7.6		pH 7.6, 37C
+20	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	37	7.6		pH 7.6, 37C
+24	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N				formycin A
+24.15	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N				wild-type enzyme
+24.15	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type enzyme
+25.5	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N				

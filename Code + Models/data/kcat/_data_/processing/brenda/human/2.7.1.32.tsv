@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.92	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N				wild type isoform ChoKbeta, pH and temperature not specified in the publication
+4.58	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N			X	isoform ChoKbeta mutant F352L, pH and temperature not specified in the publication
+9.5	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N			X	isoform ChoKbeta mutant F352A, pH and temperature not specified in the publication
+14	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N			X	isoform ChoKalpha2 mutant F352L, pH and temperature not specified in the publication
+45.31	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	30	7.5	X	mutant choline kinase beta S39D/S40D, at pH 7.5 and 30C
+47.33	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N				wild type isoform ChoKalpha2, pH and temperature not specified in the publication
+48.25	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	30	7.5		phosphorylated choline kinase beta, at pH 7.5 and 30C
+49.5	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N			X	isoform ChoKalpha2 mutant F352A, pH and temperature not specified in the publication
+50.48	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5	X	mutant choline kinase beta S39D/S40D, at pH 7.5 and 30C
+54.39	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5		phosphorylated choline kinase beta, at pH 7.5 and 30C
+71	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N	25	7.5		in 100 mM Tris-HCl pH 7.5, 100 mM KCl, 10 mM MgCl2, at 25C
+71.5	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N		7.5		in 100 mM Tris-HCl buffer (pH 7.5) containing 100 mM KCl, 10 mM MgCl2, 0.5 mM phosphoenolpyruvate, 0.25 mM NADH, 4 units pyruvate kinase, and 5 units lactate dehydrogenase
+76.83	choline	141	OEYIOHPDSNJKLS-UHFFFAOYSA-N				wild type isoform ChoKalpha1, pH and temperature not specified in the publication

@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0072	2,3-epoxy-2,3-dihydro-2-methyl-3-phytyl-1,4-naphthoquinone	2022	KUTXFBIHPWIDJQ-OAGFCHDCSA-N	37	7.4		pH 7.4, 37C, wild-type enzyme
+0.012	2,3-epoxy-2,3-dihydro-2-methyl-3-phytyl-1,4-naphthoquinone	2022	KUTXFBIHPWIDJQ-OAGFCHDCSA-N	37	7.4	X	pH 7.4, 37C, mutant L128Q
+0.013	2,3-epoxy-2,3-dihydro-2-methyl-3-phytyl-1,4-naphthoquinone	2022	KUTXFBIHPWIDJQ-OAGFCHDCSA-N	37	7.4	X	pH 7.4, 37C, mutant Y139S
+0.018	2,3-epoxy-2,3-dihydro-2-methyl-3-phytyl-1,4-naphthoquinone	2022	KUTXFBIHPWIDJQ-OAGFCHDCSA-N	37	7.4	X	pH 7.4, 37C, mutant Y139F
+0.025	2,3-epoxy-2,3-dihydro-2-methyl-3-phytyl-1,4-naphthoquinone	2022	KUTXFBIHPWIDJQ-OAGFCHDCSA-N	37	7.4	X	pH 7.4, 37C, mutant L120Q
+0.06	2,3-epoxy-2,3-dihydro-2-methyl-3-phytyl-1,4-naphthoquinone	2022	KUTXFBIHPWIDJQ-OAGFCHDCSA-N	37	7.4	X	pH 7.4, 37C, mutant Y139C

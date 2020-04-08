@@ -1,0 +1,47 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00092	L-gamma-glutamyl-p-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	25	7.5		wild-type with N-terminal His-tag, pH 7.5, 25C
+0.004	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	25	7.5		hexose phosphate-isomerizing activity, wild-type with C-terminal His-tag, pH 7.5, 25C
+0.0075	L-gamma-glutamyl-p-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	25	7.5		residues 1-345, His-tagged glutamine amide-hydrolysing domain, pH 7.5, 25C
+0.0092	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	25	7.5		hexose phosphate-isomerizing activity, residues 346-712, His-tagged hexose phosphate-isomerizing domain, pH 7.5, 25C
+0.012	L-gamma-glutamyl-p-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	25	7.5		wild-type, pH 7.5, 25C
+0.0123	L-gamma-glutamyl-p-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	25	7.5		reaction mixture contains 1 mM L-gamma-glutamyl-p-nitroanilide, 1 mM EDTA, 1 mM DTT and the appropriately diluted enzyme preparation in 20 mM HEPES buffer (pH 7.5) at 25C
+0.013	L-gamma-glutamyl-p-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	25	7.5		wild-type with C-terminal His-tag, pH 7.5, 25C
+0.021	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	25	7.5		hexose phosphate-isomerizing activity, wild-type, pH 7.5, 25C; hexose phosphate-isomerizing activity, wild-type with N-terminal His-tag, pH 7.5, 25C
+0.0213	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	25	7.5		reaction mixture contains 2 mM D-fructose 6-phosphate, 0.5 mM NADP+, 1 mM EDTA, and appropriately diluted GlcN-6-P synthase preparation in 50 mM Tris/HCl buffer (pH 7.5) at 25C
+0.08	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	37		X	mutant W74L, 37C
+0.083	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	37	7.5	X	mutant enzyme W74L, in 50 mM potassium phosphate, pH 7.5, 1 mM EDTA, 50 mM KCl, at 37C
+0.12	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	37	7.5	X	mutant enzyme W74A, in 50 mM potassium phosphate, pH 7.5, 1 mM EDTA, 50 mM KCl, at 37C; mutant W74A, 37C
+0.13	L-gamma-glutamyl-p-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	37		X	mutant V605L, 37C
+0.15	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	37	7.5	X	mutant enzyme V605L, in 50 mM potassium phosphate, pH 7.5, 1 mM EDTA, 50 mM KCl, at 37C; mutant V605L, 37C
+0.15	L-gamma-glutamyl-p-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	37		X	mutant A602L, 37C
+0.17	L-gamma-glutamyl-p-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	37			wild-type, 37C
+0.22	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	37	7.5	X	mutant A602L, 37C; mutant enzyme A602L, in 50 mM potassium phosphate, pH 7.5, 1 mM EDTA, 50 mM KCl, at 37C
+0.28	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.5	X	mutant enzyme V605L, in 50 mM potassium phosphate, pH 7.5, 1 mM EDTA, 50 mM KCl, at 37C; mutant V605L, 37C
+0.38	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.5	X	mutant A602L, 37C; mutant enzyme A602L, in 50 mM potassium phosphate, pH 7.5, 1 mM EDTA, 50 mM KCl, at 37C
+0.5	L-gamma-glutamyl-p-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	37		X	mutant W74L, 37C
+0.52	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	37	7.5		wild type enzyme, in 50 mM potassium phosphate, pH 7.5, 1 mM EDTA, 50 mM KCl, at 37C
+0.67	L-gamma-glutamyl-p-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	37		X	mutant W74F, 37C
+0.68	L-gamma-glutamyl-p-nitroanilide	468	WMZTYIRRBCGARG-VIFPVBQESA-N	37		X	mutant W74A, 37C
+0.92	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	37	7.5	X	mutant enzyme W74F, in 50 mM potassium phosphate, pH 7.5, 1 mM EDTA, 50 mM KCl, at 37C; mutant W74F, 37C
+0.97	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.5		wild type enzyme, in 50 mM potassium phosphate, pH 7.5, 1 mM EDTA, 50 mM KCl, at 37C
+1.5	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37		X	mutant W74L, 37C
+1.55	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.5	X	mutant enzyme W74L, in 50 mM potassium phosphate, pH 7.5, 1 mM EDTA, 50 mM KCl, at 37C
+3	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37		X	mutant W74A, 37C
+3.02	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.5	X	mutant enzyme W74A, in 50 mM potassium phosphate, pH 7.5, 1 mM EDTA, 50 mM KCl, at 37C
+7.17	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.5	X	mutant enzyme W74F, in 50 mM potassium phosphate, pH 7.5, 1 mM EDTA, 50 mM KCl, at 37C
+7.2	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37		X	mutant W74F, 37C
+9.81	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	25	7.2		calorimetric determination, pH 7.2, 25C
+9.9	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	25	7.2		calorimetric determination, pH 7.2, 25C
+12	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	37	7.2		calorimetric determination, pH 7.2, 37C
+12	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	25	7.5		reaction mixture contains 10 mM L-glutamate, 1 mM EDTA, 1 mM DTT and an appropriately diluted enzyme preparation in 20 mM HEPES buffer (pH 7.5) at 25C
+12	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	25	7.5		glutamine 6-phosphate-synthetic activity, wild-type, pH 7.5, 25C
+14.4	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	37			wild-type, 37C
+14.42	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	37	7.5		wild type enzyme, in 50 mM potassium phosphate, pH 7.5, 1 mM EDTA, 50 mM KCl, at 37C
+16.4	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	37	7.2		hemisynthase activity, pH 7.2, 37C
+16.8	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.2		hemisynthase activity, pH 7.2, 37C
+16.9	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	37	7.2		synthase activity, pH 7.2, 37C
+16.95	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.2		synthase activity, pH 7.2, 37C
+17.17	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.5		wild type enzyme, in 50 mM potassium phosphate, pH 7.5, 1 mM EDTA, 50 mM KCl, at 37C
+17.2	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37			wild-type, 37C
+35.5	D-fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N	37	7.0		co-substrate: L-glutamine, pH 7.0, 37C
+35.5	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.0		co-substrate: D-fructose 6-phosphate, pH 7.0, 37C

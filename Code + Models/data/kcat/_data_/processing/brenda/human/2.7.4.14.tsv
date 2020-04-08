@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.31	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N			X	pH and temperature not specified in the publication, recombinant mutant P64T
+72	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N	37	7.4		pH 7.4, 37C, GST fusion UMP-CMP kinase
+125	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N				pH and temperature not specified in the publication, recombinant wild-type enzyme
+130	CMP	94	IERHLVCPSMICTF-XVFCMESISA-N	37	7.4		pH 7.4, 37C, His-tagged UMP-CMP kinase
+0.35	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N			X	pH and temperature not specified in the publication, recombinant mutant P64T
+92	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N	37	7.4		pH 7.4, 37C, GST fusion UMP-CMP kinase
+130	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N	37	7.4		pH 7.4, 37C, His-tagged UMP-CMP kinase
+188	UMP	127	DJJCXFVJDGTHFX-XVFCMESISA-N				pH and temperature not specified in the publication, recombinant wild-type enzyme
+0.036	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N			X	pH and temperature not specified in the publication, recombinant mutant P64T
+13.4	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N				pH and temperature not specified in the publication, recombinant wild-type enzyme
+30	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N	37	7.4		pH 7.4, 37C, GST fusion UMP-CMP kinase
+73	dCMP	376	NCMVOABPESMRCP-SHYZEUOFSA-N	37	7.4		pH 7.4, 37C, His-tagged UMP-CMP kinase
+5.8	dUMP	496	JSRLJPSBLDHEIO-SHYZEUOFSA-N				pH and temperature not specified in the publication, recombinant wild-type enzyme
+45	ara-CMP	3219	IERHLVCPSMICTF-CCXZUQQUSA-N	37	7.4		pH 7.4, 37C, GST fusion UMP-CMP kinase
+150	ara-CMP	3219	IERHLVCPSMICTF-CCXZUQQUSA-N	37	7.4		pH 7.4, 37C, His-tagged UMP-CMP kinase
+14	beta-L-2',3'-dideoxy-3'-thiacytidine monophosphate	5037	WUMZLKDCOINBEA-RQJHMYQMSA-N	37	7.4		pH 7.4, 37C, GST fusion UMP/CMP kinase
+36	beta-L-2',3'-dideoxy-3'-thiacytidine monophosphate	5037	WUMZLKDCOINBEA-RQJHMYQMSA-N	37	7.4		pH 7.4, 37C, His-tagged UMP-CMP kinase
+0.019	cytarabine	1495	UHDGCWIWMRVCDJ-CCXZUQQUSA-N			X	pH and temperature not specified in the publication, recombinant mutant P64T
+130	cytarabine	1495	UHDGCWIWMRVCDJ-CCXZUQQUSA-N				pH and temperature not specified in the publication, recombinant wild-type enzyme
+0.09	Cidofovir	24404	VWFCHDSQECPREK-LURJTMIESA-N				pH and temperature not specified in the publication, recombinant wild-type enzyme

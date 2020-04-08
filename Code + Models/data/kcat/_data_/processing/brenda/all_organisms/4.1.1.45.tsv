@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.019	2-amino-3-(3-oxoprop-2-enyl)-but-2-enedioate	2789	IBNOASNSNRQTBZ-PLNGDYQASA-N	22	7.0	X	mutant enzyme H228E, in 25 mM HEPES buffer containing 5% glycerol, pH 7.0, at 22C
+0.025	2-amino-3-(3-oxoprop-2-enyl)-but-2-enedioate	2789	IBNOASNSNRQTBZ-PLNGDYQASA-N	22	7.0	X	mutant enzyme H9E, in 25 mM HEPES buffer containing 5% glycerol, pH 7.0, at 22C
+0.08	2-amino-3-(3-oxoprop-2-enyl)-but-2-enedioate	2789	IBNOASNSNRQTBZ-PLNGDYQASA-N	22	7.0	X	mutant enzyme D294E, in 25 mM HEPES buffer containing 5% glycerol, pH 7.0, at 22C
+0.11	2-amino-3-(3-oxoprop-2-enyl)-but-2-enedioate	2789	IBNOASNSNRQTBZ-PLNGDYQASA-N	22	7.0	X	mutant enzyme H228A, in 25 mM HEPES buffer containing 5% glycerol, pH 7.0, at 22C
+0.28	2-amino-3-(3-oxoprop-2-enyl)-but-2-enedioate	2789	IBNOASNSNRQTBZ-PLNGDYQASA-N	22	7.0	X	mutant enzyme H177A, in 25 mM HEPES buffer containing 5% glycerol, pH 7.0, at 22C
+1	2-amino-3-(3-oxoprop-2-enyl)-but-2-enedioate	2789	IBNOASNSNRQTBZ-PLNGDYQASA-N	25	6.0		in 50 mM 4-morpholinepropanesulfonic acid, pH 6.0, at 25C
+1.4	alpha-amino-beta-carboxymuconate-epsilon-semialdehyde	5125	KACPVQQHDVBVFC-OIFXTYEKSA-N				alpha-amino-beta-carboxymuconate-epsilon-semialdehyde decarboxylase loaded with 1 molar equivalent Mn2+
+1.7	alpha-amino-beta-carboxymuconate-epsilon-semialdehyde	5125	KACPVQQHDVBVFC-OIFXTYEKSA-N				alpha-amino-beta-carboxymuconate-epsilon-semialdehyde decarboxylase loaded with 1 molar equivalent Cd2+
+6.5	2-amino-3-(3-oxoprop-1-en-1-yl)but-2-enedioate	5125	KACPVQQHDVBVFC-OIFXTYEKSA-N	22	7.0		wild type enzyme, at pH 7.0 and 22C
+6.5	2-amino-3-(3-oxoprop-2-enyl)-but-2-enedioate	2789	IBNOASNSNRQTBZ-PLNGDYQASA-N		7.0		in 25 mM HEPES buffer pH 7.0, the enzyme contains Zn2+
+6.65	2-amino-3-(3-oxoprop-2-enyl)-but-2-enedioate	2789	IBNOASNSNRQTBZ-PLNGDYQASA-N	22	7.0		wild type enzyme, in 25 mM HEPES buffer containing 5% glycerol, pH 7.0, at 22C
+7.3	2-amino-3-(3-oxoprop-2-enyl)-but-2-enedioate	2789	IBNOASNSNRQTBZ-PLNGDYQASA-N		7.0		in 25 mM HEPES buffer pH 7.0, the enzyme contains Co2+
+7.3	alpha-amino-beta-carboxymuconate-epsilon-semialdehyde	5125	KACPVQQHDVBVFC-OIFXTYEKSA-N				alpha-amino-beta-carboxymuconate-epsilon-semialdehyde decarboxylase loaded with 1 molar equivalent Co2+
+10.2	alpha-amino-beta-carboxymuconate-epsilon-semialdehyde	5125	KACPVQQHDVBVFC-OIFXTYEKSA-N				alpha-amino-beta-carboxymuconate-epsilon-semialdehyde decarboxylase?loaded with 1 molar equivalent Fe2+

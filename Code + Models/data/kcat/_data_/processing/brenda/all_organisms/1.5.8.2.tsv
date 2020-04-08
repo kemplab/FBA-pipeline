@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.25	trimethylamine	591	GETQZCLCWQTVFV-UHFFFAOYSA-N			X	mutant Y442G, electron acceptor: electron transferring flavoprotein
+0.5	trimethylamine	591	GETQZCLCWQTVFV-UHFFFAOYSA-N			X	mutant Y442G, electron acceptor: electron transferring flavoprotein
+3.8	trimethylamine	591	GETQZCLCWQTVFV-UHFFFAOYSA-N			X	mutant Y442L, electron acceptor: electron transferring flavoprotein
+5.6	trimethylamine	591	GETQZCLCWQTVFV-UHFFFAOYSA-N			X	mutant delta725-729, electron acceptor: phenazine methosulfate
+6.4	trimethylamine	591	GETQZCLCWQTVFV-UHFFFAOYSA-N			X	mutant delta720-729, electron acceptor: phenazine methosulfate
+6.7	trimethylamine	591	GETQZCLCWQTVFV-UHFFFAOYSA-N			X	mutant V344I, electron acceptor: electron transferring flavoprotein
+10.2	trimethylamine	591	GETQZCLCWQTVFV-UHFFFAOYSA-N				recombinant wild-type form, electron acceptor: phenazine methosulfate
+10.3	trimethylamine	591	GETQZCLCWQTVFV-UHFFFAOYSA-N			X	mutant Y442F, electron acceptor: electron transferring flavoprotein
+15.6	trimethylamine	591	GETQZCLCWQTVFV-UHFFFAOYSA-N				native wild-type form, electron acceptor: phenazine methosulfate
+16.5	trimethylamine	591	GETQZCLCWQTVFV-UHFFFAOYSA-N				wild-type form, electron acceptor: electron transferring flavoprotein
+16.8	trimethylamine	591	GETQZCLCWQTVFV-UHFFFAOYSA-N				electron acceptor: electron transferring flavoprotein
+17	trimethylamine	591	GETQZCLCWQTVFV-UHFFFAOYSA-N			X	mutant C30A, electron acceptor: ferricenium hexafluorophosphate
+38	trimethylamine	591	GETQZCLCWQTVFV-UHFFFAOYSA-N				electron acceptor: ferricenium hexafluorophosphate
+40	trimethylamine	591	GETQZCLCWQTVFV-UHFFFAOYSA-N				recombinant enzyme, electron acceptor: ferricenium hexafluorophosphate
+9.67	electron transferring flavoprotein	170	VOCHQRDHMUQBKK-UHFFFAOYSA-N	25			at 25C

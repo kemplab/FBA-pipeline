@@ -1,0 +1,69 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0035	benzoyl-L-Arg amide	3789	UMKJQJGLFKDADN-JTQLQIEISA-N				
+0.0039	benzoyl-L-Arg amide	3789	UMKJQJGLFKDADN-JTQLQIEISA-N				enzyme form I-2
+0.0046	benzoyl-L-Arg amide	3789	UMKJQJGLFKDADN-JTQLQIEISA-N				enzyme form I-1
+0.018	benzoyl-L-Arg amide	3789	UMKJQJGLFKDADN-JTQLQIEISA-N				enzyme form II-2
+0.024	benzyloxycarbonyl-Arg-Arg-NH-4-methylcoumarin 7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N	25	6.0		isozyme SBA/a, pH 6.0, 25C
+0.027	benzoyl-L-Arg amide	3789	UMKJQJGLFKDADN-JTQLQIEISA-N				enzyme form II-1
+0.035	Tosyl-L-Lys methyl ester	5579	XWVNOUSQIVZZJK-ZDUSSCGKSA-N				
+0.04	benzyloxycarbonyl-Arg-Arg-NH-4-methylcoumarin 7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N	25	6.0		isozyme SBA/b, pH 6.0, 25C
+0.11	benzoyl-L-Arg methyl ester	5422	KAOMIKSYDXLMCD-NSHDSACASA-N				
+0.12	Benzyloxycarbonyl-Gly-Phe-citrulline 4-methylcoumarin 7-amide	8334	KLPFKHJOOKIJKP-NSOVKSMOSA-N				
+0.13	Benzyloxycarbonyl-Phe-Arg 4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+0.13	Benzyloxycarbonyl-Phe-Arg 4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+0.21	Benzoyl-Gly ethyl ester	10487	PTXRQIPIELXJFH-UHFFFAOYSA-N				enzyme form SB1
+0.24	Benzoyl-Gly ethyl ester	10487	PTXRQIPIELXJFH-UHFFFAOYSA-N				enzyme form SB2
+0.29	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		chitosan-immobilized enzyme, in the presence of 12% (v/v) ethanol, at pH 3.2 and 25C
+0.36	Benzoyl-Gly ethyl ester	10487	PTXRQIPIELXJFH-UHFFFAOYSA-N				
+0.39	benzoyl-L-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N				enzyme form SB2
+0.39	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		pH 3.2, 25C, free SO2 25 mg/l
+0.399	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		chitosan-immobilized enzyme, in the presence of 18% (v/v) ethanol, at pH 3.2 and 25C
+0.4	benzyloxycarbonyl-L-Tyr 4-nitrophenyl ester	3717	WUHIFOXZYIQZFP-NRFANRHFSA-N				bromelain A
+0.41	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N		7.0		native enzyme, at pH 7.0
+0.42	benzoyl-L-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N				enzyme form SB1
+0.44	benzyloxycarbonyl-L-Tyr 4-nitrophenyl ester	3717	WUHIFOXZYIQZFP-NRFANRHFSA-N				bromelain B
+0.461	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		chitosan-immobilized enzyme, at pH 3.2 and 25C
+0.49	benzyloxycarbonyl-Phe-Arg-NH-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	25	6.0		isozyme SBA/a, pH 6.0, 25C
+0.5	benzoyl-L-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N				
+0.55	acetyl-Gly ethyl ester	30012	AMBDTBHJFINMSE-UHFFFAOYSA-N				
+0.56	benzyloxycarbonyl-Phe-Arg-NH-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	25	6.0		isozyme SBA/b, pH 6.0, 25C
+0.68	L-Pyroglutamyl-L-Phe-L-Leu 4-nitroanilide	7202	NLVMZXVGZDVXDA-FKBYEOEOSA-N				enzyme form F5
+0.87	L-Pyroglutamyl-L-Phe-L-Leu 4-nitroanilide	7202	NLVMZXVGZDVXDA-FKBYEOEOSA-N				enzyme form F4
+0.893	benzoyl-Phe-Val-Arg 4-methylcoumarin 7-amide	4827	QBDRNGBZKAOZHF-OLWNVYNHSA-N				
+0.96	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		pH 3.2, 25C, free SO2 10 mg/l
+0.97	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N		7.0		native enzyme, in the presence of 5 M urea at pH 7.0
+0.99	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N		7.0		native enzyme, in the presence of 2 M guanidine-HCl at pH 7.0
+1.4	Benzyloxycarbonyl-L-Asn 4-nitrophenyl ester	29180	YLWIFNIVONXXMG-HNNXBMFYSA-N				
+1.75	Benzyloxycarbonyl-Gly 4-nitrophenyl ester	8434	LHFNPUGRSYOPLF-UHFFFAOYSA-N				bromelain A
+2.5	benzyloxycarbonyl-L-Ala 4-nitrophenyl ester	20226	SXWWICLSRXPNNW-LBPRGKRZSA-N				bromelain A
+3.35	Benzyloxycarbonyl-Gly 4-nitrophenyl ester	8434	LHFNPUGRSYOPLF-UHFFFAOYSA-N				bromelain A
+3.4	N-Benzyloxycarbonyl-L-Phe-L-Ser methyl ester	20483	QWRVHVAOTRUOLA-ROUUACIJSA-N				
+3.94	L-Pyroglutamyl-L-Phe-L-Leu 4-nitroanilide	7202	NLVMZXVGZDVXDA-FKBYEOEOSA-N				enzyme form F9
+4.32	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		pH 3.2, 25C, seed 1.2 g/l
+5.1	benzyloxycarbonyl-Phe-Val-Arg-NH-4-methylcoumarin 7-amide	11568	UGZMIVTZUKBEEC-NGCAANIMSA-N	25	6.0		isozyme SBA/a, pH 6.0, 25C
+6.08	benzyloxycarbonyl-Phe-Arg-NH-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	25	6.0		isozyme SBA/b, pH 6.0, 25C
+6.31	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		pH 3.2, 25C, skin 0.99 g/l
+6.4	benzyloxycarbonyl-Phe-Val-Arg-NH-4-methylcoumarin 7-amide	11568	UGZMIVTZUKBEEC-NGCAANIMSA-N	25	6.0		isozyme SBA/b, pH 6.0, 25C
+6.55	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		pH 3.2, 25C, seed 0.3 g/l
+7.4	benzyloxycarbonyl-L-Lys 4-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N				bromelain A
+8.3	benzyloxycarbonyl-L-Ala 4-nitrophenyl ester	20226	SXWWICLSRXPNNW-LBPRGKRZSA-N				bromelain B
+8.44	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		pH 3.2, 25C, skin 0.25 g/l
+9.8	benzyloxycarbonyl-L-Lys 4-nitrophenyl ester	2495	VMKGUOYDQYWEJP-SFHVURJKSA-N				bromelain B
+11.72	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N		7.0		native enzyme, at pH 7.0
+16.94	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		pH 3.2, 25C, gallic 0.03 g/l
+17.33	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N		7.0		native enzyme, in the presence of 5 M urea at pH 7.0
+18.08	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N		7.0		native enzyme, in the presence of 2 M guanidine-HCl at pH 7.0
+18.33	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		pH 3.2, 25C, ellagic 0.04 g/l
+18.35	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		pH 3.2, 25C, gallic 0.02 g/l
+19.23	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		pH 3.2, 25C, ellagic 0.02 g/l
+19.43	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		pH 3.2, 25C, ethanol 0%
+19.44	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		free enzyme, at pH 3.2 and 25C
+20	benzyl-Phe-Val-Arg-4-nitroanilide	25449	LOVIXFXDQFBJNU-AWCRTANDSA-N	25	3.2		tartaric buffer containing 12% ethanol, pH 3.2, 25C, stem bromelain
+20.03	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		pH 3.2, 25C, ethanol 12%; pH 3.2, 25C, without free SO2; pH 3.2, 25C, without gallic; pH 3.2, 25C, without skin
+20.03	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		free enzyme, at pH 3.2 and 25C
+20.03	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		free enzyme, in the presence of 12% (v/v) ethanol, at pH 3.2 and 25C
+21.45	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		pH 3.2, 25C, ethanol 18%
+21.45	Bz-Phe-Val-Arg-4-nitroanilide	20211	QQVNCBCBFNWLJX-KCHLEUMXSA-N	25	3.2		free enzyme, in the presence of 18% (v/v) ethanol, at pH 3.2 and 25C
+27	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin 7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N				
+27	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin 7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N				
+27	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin 7-amide	1648	DLELKZFCVLJXKZ-GOTSBHOMSA-N				

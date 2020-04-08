@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.011	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	50	7		pH 7, 50C, non-activated enzyme
+0.03	D-glycerate	435	RBNPOMFGQQGHHO-UWTATZPHSA-N	50	7		pH 7, 50C, enzyme activated by 2-mercaptoethanol
+0.4	D-gluconate	562	RGHNJXZEOKUKBD-SQOUGZDYSA-N	50	7		pH 7, 50C, non-activated enzyme
+1.19	D-gluconate	562	RGHNJXZEOKUKBD-SQOUGZDYSA-N	50	7		pH 7, 50C, enzyme activated by 2-mercaptoethanol
+48.5	D-gluconate	562	RGHNJXZEOKUKBD-SQOUGZDYSA-N				
+25	2,3-dihydroxyisovalerate	3111	JTEYKUFKXGDTEU-UHFFFAOYSA-M				
+75.8	2,3-dihydroxyisovalerate	3111	JTEYKUFKXGDTEU-UHFFFAOYSA-M				
+0.31	2,3-Dihydroxy-3-methylbutanoate	3111	JTEYKUFKXGDTEU-UHFFFAOYSA-M	50	7		pH 7, 50C, enzyme activated by 2-mercaptoethanol; pH 7, 50C, non-activated enzyme
+11.5	2,3-Dihydroxy-3-methylbutanoate	3111	JTEYKUFKXGDTEU-UHFFFAOYSA-M				
+8.3	2R,3R-2,3-dihydroxy-3-methylpentanoate	13577	PDGXJDXVGMHUIR-UJURSFKZSA-N				
+12.3	2R,3S-2,3-dihydroxy-3-methylpentanoate	13578	PDGXJDXVGMHUIR-NJGYIYPDSA-N				
+4.6	2,3-dihydroxybutanoate	20673	LOUGYXZSURQALL-UHFFFAOYSA-M				
+5.7	3-cyclopropyl-2,3-dihydroxybutanoate	20695	MGVWBZAHLDSUFP-UHFFFAOYSA-M				

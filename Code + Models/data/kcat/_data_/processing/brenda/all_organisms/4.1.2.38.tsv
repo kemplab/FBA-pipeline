@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.6	2-hydroxypropiophenone	4251	WLVPRARCUSRDNI-UHFFFAOYSA-N	30	7.5	X	mutant enzyme A28S, at 30C and pH 7.5
+2.8	2-hydroxypropiophenone	4251	WLVPRARCUSRDNI-UHFFFAOYSA-N	30	7.5	X	mutant enzyme H286A, at 30C and pH 7.5
+3.4	2-hydroxypropiophenone	4251	WLVPRARCUSRDNI-UHFFFAOYSA-N	30	7.5		wild type enzyme, at 30C and pH 7.5
+4	2-hydroxypropiophenone	4251	WLVPRARCUSRDNI-UHFFFAOYSA-N	30	7.5	X	mutant enzyme F484I, at 30C and pH 7.5
+4.9	2-hydroxypropiophenone	4251	WLVPRARCUSRDNI-UHFFFAOYSA-N	30	7.5	X	mutant enzyme A480I, at 30C and pH 7.5
+6.6	Benzoin	2972	ISAOCJYIOMOJEB-UHFFFAOYSA-N	30	7.5	X	mutant enzyme A480I, in the presence of 15% (v/v) PEG-400, in 50 mM Tris at 30C and pH 7.5
+9.5	Benzoin	2972	ISAOCJYIOMOJEB-UHFFFAOYSA-N	30	7.5	X	mutant enzyme A28S, in the presence of 15% (v/v) PEG-400, in 50 mM Tris at 30C and pH 7.5
+22	Benzoin	2972	ISAOCJYIOMOJEB-UHFFFAOYSA-N	30	7.5	X	mutant enzyme F484I, in the presence of 15% (v/v) PEG-400, in 50 mM Tris at 30C and pH 7.5
+45.44	3,5-dimethoxy-benzaldehyde	3984	VFZRZRDOXPRTSC-UHFFFAOYSA-N				simplified model
+46.12	3,5-dimethoxy-benzaldehyde	3984	VFZRZRDOXPRTSC-UHFFFAOYSA-N				mechanistic model
+46.15	3,5-dimethoxy-benzaldehyde	3984	VFZRZRDOXPRTSC-UHFFFAOYSA-N				mechanistic model
+56.4	Benzoin	2972	ISAOCJYIOMOJEB-UHFFFAOYSA-N	30	7.5	X	mutant enzyme H286A, in the presence of 15% (v/v) PEG-400, in 50 mM Tris at 30C and pH 7.5
+66.9	Benzoin	2972	ISAOCJYIOMOJEB-UHFFFAOYSA-N	30	7.5		wild type enzyme, in the presence of 15% (v/v) PEG-400, in 50 mM Tris at 30C and pH 7.5

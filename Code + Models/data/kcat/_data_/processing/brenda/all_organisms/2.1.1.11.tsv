@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0002	protoporphyrin	685	KSFOVUSSGSKXFI-UJJXFSCMSA-N				concentrations between 1 and 30 microM in the presence of 200 nM enzyme
+0.018	zinc protoporphyrin	5523	FUTVBRXUIKZACV-RGGAHWMASA-L				determined using 250 microM S-adenosyl-L-methionine
+0.04	magnesium protoporphyrin	8579	REJJDEGSUOCEEW-RGGAHWMASA-L				determined using 250 microM S-adenosyl-L-methionine
+0.14	magnesium protoporphyrin	8579	REJJDEGSUOCEEW-RGGAHWMASA-L				concentrations between 0.3 and 30 microM in the presence of 50 nM enzyme
+0.003	magnesium deuteroporphyrin	20831	WOJNEAWSXKLRSI-RWRCOHKGSA-L				determined using 250 microM S-adenosyl-L-methionine

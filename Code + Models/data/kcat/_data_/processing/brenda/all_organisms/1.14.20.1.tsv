@@ -1,0 +1,120 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.001	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N		7.5	X	pH 7.5, cosubstrate 2-oxohexanoate, recombinant mutant R258K
+0.0057	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				wild-type enzyme, pH not specified in the publication, temperature not specified in the publication
+0.01	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N		7.5	X	pH 7.5, cosubstrate 2-oxoglutarate, recombinant mutant R258K; pH 7.5, cosubstrate 2-oxohexanoate, recombinant mutant R258Q
+0.013	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N		7.5	X	pH 7.5, cosubstrate 2-oxohexanoate, recombinant mutants R258A and R258H
+0.014	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N		7.5	X	pH 7.5, cosubstrate 2-oxo-4-methyl-pentanoate, recombinant mutant R258H
+0.016	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30		X	30C, mutant M306I
+0.019	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N		7.5	X	pH 7.5, cosubstrate 2-oxohexanoate, recombinant mutant R258L
+0.02	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N		7.5	X	pH 7.5, cosubstrate 2-oxo-4-methyl-pentanoate, recombinant mutants R258K, R258A, and R258L
+0.021	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N		7.5	X	pH 7.5, cosubstrate 2-oxo-4-methyl-pentanoate, recombinant mutant R258Q; pH 7.5, cosubstrate 2-oxoglutarate, recombinant wild-type enzyme; wild-type enzyme
+0.024	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N		7.5	X	pH 7.5, cosubstrate 2-oxohexanoate, recombinant mutant R258F
+0.025	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N		7.5	X	pH 7.5, cosubstrate 2-oxo-4-methyl-pentanoate, recombinant mutant R258F
+0.0297	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				recombinant FF2 derived from gene shuffling
+0.0315	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme G79E; mutant G79E
+0.032	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant G79E
+0.045	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	6.5		pH 6.5, 30C, recombinant wild-type enzyme
+0.0453	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				wild type enzyme
+0.0456	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme M188V; mutant M188 V
+0.0476	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant C155Y; mutant enzyme C155Y
+0.048	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant R308L, pH not specified in the publication, temperature not specified in the publication
+0.05	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				wild-type enzyme
+0.05	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				wild-type enzyme
+0.05	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant V275I
+0.0502	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme V275I; mutant V275I
+0.0522	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme T91A; mutant T91A
+0.054	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				wild-type enzyme, pH and temperature not specified in the publication
+0.054	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30			recombinant wild-type enzyme, pH not specified in the publication, 30C
+0.056	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant N304K
+0.056	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.5		recombinant His-tagged enzyme, pH 7.5, 30C
+0.0564	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme N304K; mutant N304 K
+0.057	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30		X	recombinant mutant T213V, pH not specified in the publication, 30C
+0.06	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme DELTAK310-314
+0.062	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+0.0627	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme M737T; mutant M73T
+0.064	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30		X	recombinant mutant S261A, pH not specified in the publication, 30C
+0.069	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant R308I, pH not specified in the publication, temperature not specified in the publication
+0.0698	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme H244Q; mutant H244Q
+0.07	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30		X	30C, triple mutant with truncation at residue 310, M306I and N305L
+0.071	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30		X	30C, mutant R307L
+0.073	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.5		30C, wild-type; pH 7.5, 30C, recombinant wild-type enzyme
+0.074	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant C281Y
+0.074	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30		X	30C, mutant N305L
+0.0744	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant C281Y; mutant enzyme C281Y
+0.0759	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme I305L; mutant I305L
+0.076	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant I305L
+0.077	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30			30C, wild-type
+0.079	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30		X	30C, mutant N305L
+0.079	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	7.5		wild-type enzyme, pH 7.5, 30C
+0.079	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N				
+0.0798	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme Y184H; mutant Y184H
+0.08	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme DELTAR307-310
+0.081	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30		X	recombinant mutant Y184A, pH not specified in the publication, 30C
+0.091	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30		X	30C, double mutant with truncation at residue 310 and M306I
+0.1036	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme L277Q; mutant L277Q
+0.128	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30		X	30C, mutant R308L
+0.1398	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant C155Y/Y184H/V275I/C281Y; mutant enzyme C155Y/Y184H/V275I/C281Y
+0.145	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant I305M
+0.1452	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme I305M; mutant I305M
+0.1458	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant enzyme V275I/I305M; mutant V275I/I305 M
+0.146	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant V275I/I305M
+0.225	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30		X	recombinant mutant Q126M, pH not specified in the publication, 30C
+0.23	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant C155Y/Y184H/V275I/C281Y, pH and temperature not specified in the publication
+0.37	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant I305L, pH and temperature not specified in the publication
+0.433	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N	30		X	recombinant mutant S261M, pH not specified in the publication, 30C
+0.537	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant I305M/S261M, pH and temperature not specified in the publication
+0.589	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutantI305M/T213V/M73T, pH and temperature not specified in the publication
+0.65	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant I305M, pH and temperature not specified in the publication
+0.654	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant I305M/T213V, pH and temperature not specified in the publication
+0.668	penicillin G	163	JGSARLDLIJGVTE-MBNYWOFBSA-N			X	mutant I305M/T213V/S261M, pH and temperature not specified in the publication
+0.005	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N		7.5	X	pH 7.5, cosubstrate 2-oxo-4-methyl-pentanoate, recombinant mutant R258H
+0.007	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N		7.5	X	pH 7.5, cosubstrate 2-oxohexanoate, recombinant mutant R258H
+0.008	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N		7.5	X	pH 7.5, cosubstrate 2-oxohexanoate, recombinant mutant R258A
+0.009	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N		7.5	X	pH 7.5, cosubstrate 2-oxo-4-methyl-pentanoate, recombinant mutant R258L; pH 7.5, cosubstrate 2-oxohexanoate, recombinant mutant R258K
+0.011	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N		7.5	X	pH 7.5, cosubstrate 2-oxo-4-methyl-pentanoate, recombinant mutants R258A and R258F; pH 7.5, cosubstrate 2-oxoglutarate, recombinant mutant R258K
+0.012	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N		7.5	X	pH 7.5, cosubstrate 2-oxohexanoate, recombinant mutants R258L and R258F
+0.013	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N		7.5	X	pH 7.5, cosubstrate 2-oxo-4-methyl-pentanoate, recombinant mutant R258K
+0.014	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N		7.5	X	pH 7.5, cosubstrate 2-oxo-4-methyl-pentanoate, recombinant mutant R258Q; pH 7.5, cosubstrate 2-oxoglutarate, recombinant wild-type enzyme; wild-type enzyme
+0.017	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N		7.5	X	pH 7.5, cosubstrate 2-oxohexanoate, recombinant mutant R258Q
+0.026	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant N304M/R306L, pH 7.4, 30C
+0.029	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant N304L/R306L, pH 7.4, 30C
+0.03	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant N304R/R306L, pH 7.4, 30C
+0.032	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant V275L, pH 7.4, 30C
+0.033	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant N304K/R306L, pH 7.4, 30C
+0.034	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant N304A/R306L, pH 7.4, 30C
+0.037	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant C281Y/R306L, pH 7.4, 30C; mutant V275I/R306L, pH 7.4, 30C
+0.038	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant N304K, pH 7.4, 30C
+0.039	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant V275I/N304R, pH 7.4, 30C
+0.04	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant N304A, pH 7.4, 30C; mutant V275I7N304K, pH 7.4, 30C
+0.041	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant N304L, pH 7.4, 30C
+0.042	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant C281F, pH 7.4, 30C; mutant V275I/N304A, pH 7.4, 30C
+0.043	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant C281Y7N304R, pH 7.4, 30C; mutant C281Y/N304L, pH 7.4, 30C; mutant V275I/N304L, pH 7.4, 30C
+0.044	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant C281Y, pH 7.4, 30C; mutant V275I, pH 7.4, 30C
+0.046	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant C281Y/N304K, pH 7.4, 30C; mutant C281Y/R307L, pH 7.4, 30C
+0.047	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant C281Y/N304M, pH 7.4, 30C
+0.048	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant V275I/N304M, pH 7.4, 30C
+0.049	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant V275I/R307L, pH 7.4, 30C
+0.05	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant R306L, pH 7.4, 30C; mutant R307L, pH 7.4, 30C
+0.052	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant C281Y/N304A, pH 7.4, 30C; mutant N304R, pH 7.4, 30C
+0.054	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant N304M, pH 7.4, 30C
+0.059	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4		wild type, pH 7.4, 30C
+0.104	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant I305M, pH 7.4, 30C
+0.105	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant V275I/I305M, pH 7.4, 30C
+0.12	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N				
+0.122	ampicillin	171	AVKUERGKIZMTKX-NJBDSQKTSA-N	30	7.4	X	mutant C281Y/I305M, pH 7.4, 30C
+0.02	Penicillin N	636	MIFYHUACUWQUKT-GPUHXXMPSA-N			X	mutant enzyme DELTAI305-310, DELTAR306-310 and mutant DELTAR307-310
+0.02	Penicillin N	636	MIFYHUACUWQUKT-GPUHXXMPSA-N				wild-type enzyme
+0.05	Penicillin N	636	MIFYHUACUWQUKT-GPUHXXMPSA-N				wild-type enzyme
+0.08	Penicillin N	636	MIFYHUACUWQUKT-GPUHXXMPSA-N			X	mutant enzyme DELTAI310-314
+0.178	Penicillin N	636	MIFYHUACUWQUKT-GPUHXXMPSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant G79E
+0.252	Penicillin N	636	MIFYHUACUWQUKT-GPUHXXMPSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant V275I
+0.273	Penicillin N	636	MIFYHUACUWQUKT-GPUHXXMPSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant C281Y
+0.284	Penicillin N	636	MIFYHUACUWQUKT-GPUHXXMPSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant I305L
+0.307	Penicillin N	636	MIFYHUACUWQUKT-GPUHXXMPSA-N	30	6.5		pH 6.5, 30C, recombinant wild-type enzyme
+0.307	Penicillin N	636	MIFYHUACUWQUKT-GPUHXXMPSA-N				; wild type enzyme
+0.31	Penicillin N	636	MIFYHUACUWQUKT-GPUHXXMPSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant I305M
+0.316	Penicillin N	636	MIFYHUACUWQUKT-GPUHXXMPSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant V275I/I305M
+0.366	Penicillin N	636	MIFYHUACUWQUKT-GPUHXXMPSA-N	30	6.5	X	pH 6.5, 30C, recombinant mutant N304K
+0.42	Penicillin N	636	MIFYHUACUWQUKT-GPUHXXMPSA-N				
+0.073	adipyl 6-aminopenicillanic acid	14214	XVGKDSRSKWWHJS-UHFFFAOYSA-N				
+0.06	acetyl-6-aminopenicillanic acid	15412	FKKLEFAXOOUTAS-GKROBHDKSA-N				

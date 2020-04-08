@@ -1,0 +1,111 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.2	Benzyloxycarbonyl-Phe-Leu	2198	IBOXOGVHBFUSFH-PMACEKPBSA-N	25	6.5	X	pH 6.5, 25C, mutant enzyme C341F
+2.1	Benzyloxycarbonyl-Phe-Leu	2198	IBOXOGVHBFUSFH-PMACEKPBSA-N	25	6.5	X	pH 6.5, 25C, mutant enzyme C341D
+4.6	Benzyloxycarbonyl-Phe-Leu	2198	IBOXOGVHBFUSFH-PMACEKPBSA-N	25	6.5	X	pH 6.5, 25C, mutant enzyme C341V
+15	Benzyloxycarbonyl-Phe-Leu	2198	IBOXOGVHBFUSFH-PMACEKPBSA-N	25	6.5	X	pH 6.5, 25C, mutant enzyme C341G
+15.1	Benzyloxycarbonyl-Phe-Leu	2198	IBOXOGVHBFUSFH-PMACEKPBSA-N		6.0		pH 6.0
+18	Benzyloxycarbonyl-Phe-Leu	2198	IBOXOGVHBFUSFH-PMACEKPBSA-N	25	6.5	X	pH 6.5, 25C, mutant enzyme C341S
+92	Benzyloxycarbonyl-Phe-Leu	2198	IBOXOGVHBFUSFH-PMACEKPBSA-N	25	6.5		pH 6.5, 25C, wild-type enzyme
+130	Benzyloxycarbonyl-Phe-Leu	2198	IBOXOGVHBFUSFH-PMACEKPBSA-N	25	6.5		pH 6.5, 25C
+130	Benzyloxycarbonyl-Phe-Leu	2198	IBOXOGVHBFUSFH-PMACEKPBSA-N	25	6.5		pH 6.5, 25C
+1.44	benzoyl-Gly-Arg	1986	GFLCPYUSPYXNBV-NSHDSACASA-N	25	6.5		pH 6.5, 25C
+0.16	Benzyloxycarbonyl-Gly-Phe	2568	FLGYJBNDDWLTQR-INIZCTEOSA-N	25	6.5	X	pH 6.5, 25C, mutant enzyme C341V
+0.96	Benzyloxycarbonyl-Gly-Phe	2568	FLGYJBNDDWLTQR-INIZCTEOSA-N	25	6.5		pH 6.5, 25C, wild-type enzyme
+1.1	Benzyloxycarbonyl-Gly-Phe	2568	FLGYJBNDDWLTQR-INIZCTEOSA-N	25	6.5	X	pH 6.5, 25C, mutant enzyme C341G
+2.2	Benzyloxycarbonyl-Gly-Phe	2568	FLGYJBNDDWLTQR-INIZCTEOSA-N	25	6.5		pH 6.5, 25C
+2.4	Benzyloxycarbonyl-Gly-Phe	2568	FLGYJBNDDWLTQR-INIZCTEOSA-N	25	6.5	X	pH 6.5, 25C, mutant enzyme C341S
+5.5	Benzyloxycarbonyl-Gly-Phe	2568	FLGYJBNDDWLTQR-INIZCTEOSA-N	25	6.5	X	pH 6.5, 25C, mutant enzyme C341F
+120	acetyl-Phe ethyl ester	2819	YIVZYFDBEPMPNL-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C
+120	acetyl-Phe ethyl ester	2819	YIVZYFDBEPMPNL-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C
+122	acetyl-Phe ethyl ester	2819	YIVZYFDBEPMPNL-LBPRGKRZSA-N	25	6.5		pH 6.5, 25C
+122	acetyl-Phe ethyl ester	2819	YIVZYFDBEPMPNL-LBPRGKRZSA-N	25	6.5		pH 6.5, 25C
+105	Acetyl-Tyr ethyl ester	2967	SKAWDTAMLOJQNK-LBPRGKRZSA-N				
+105	Acetyl-Tyr ethyl ester	2967	SKAWDTAMLOJQNK-LBPRGKRZSA-N	25	8.0		pH 8.0, 25C
+0.467	Benzyloxycarbonyl-Gly-Leu	3138	MRRLFGAIRAUOCS-ZDUSSCGKSA-N	25	6.5	X	pH 6.5, 25C, mutant enzyme C341V
+1.4	Benzyloxycarbonyl-Gly-Leu	3138	MRRLFGAIRAUOCS-ZDUSSCGKSA-N	25	6.5	X	pH 6.5, 25C, mutant enzyme C341D
+1.9	Benzyloxycarbonyl-Gly-Leu	3138	MRRLFGAIRAUOCS-ZDUSSCGKSA-N	25	6.5	X	pH 6.5, 25C, mutant enzyme C341S
+2.3	Benzyloxycarbonyl-Gly-Leu	3138	MRRLFGAIRAUOCS-ZDUSSCGKSA-N	25	6.5	X	pH 6.5, 25C, mutant enzyme C341F
+3.2	Benzyloxycarbonyl-Gly-Leu	3138	MRRLFGAIRAUOCS-ZDUSSCGKSA-N	25	6.5		pH 6.5, 25C, wild-type enzyme
+7	Benzyloxycarbonyl-Gly-Leu	3138	MRRLFGAIRAUOCS-ZDUSSCGKSA-N	25	6.5	X	pH 6.5, 25C, mutant enzyme C341G
+2.2	benzyloxycarbonyl-Phe-NH2	103622	HHBOFAIEPRHUSR-HNNXBMFYSA-N	25	7.0		pH 7.0, 25C
+2.2	benzyloxycarbonyl-Phe-NH2	103622	HHBOFAIEPRHUSR-HNNXBMFYSA-N	25	7.0		pH 7.0, 25C
+2.8	benzyloxycarbonyl-Phe-NH2	103622	HHBOFAIEPRHUSR-HNNXBMFYSA-N	25	6.0		pH 6.0, 25C
+2.8	benzyloxycarbonyl-Phe-NH2	103622	HHBOFAIEPRHUSR-HNNXBMFYSA-N	25	6.0		pH 6.0, 25C
+5.3	benzyloxycarbonyl-Phe-NH2	103622	HHBOFAIEPRHUSR-HNNXBMFYSA-N	25	8.0		pH 8.0, 25C
+5.3	benzyloxycarbonyl-Phe-NH2	103622	HHBOFAIEPRHUSR-HNNXBMFYSA-N	25	8.0		pH 8.0, 25C
+5.33	benzyloxycarbonyl-Phe-NH2	103622	HHBOFAIEPRHUSR-HNNXBMFYSA-N		8.0		pH 8.0
+2.2	Benzyloxycarbonyl-Ala-Phe	4046	BVNXQVWGWUHKMK-YOEHRIQHSA-N	25	6.5	X	pH 6.5, 25C, mutant enzyme C341F
+8	Benzyloxycarbonyl-Ala-Phe	4046	BVNXQVWGWUHKMK-YOEHRIQHSA-N	25	6.5	X	pH 6.5, 25C, mutant enzyme C341V
+93	Benzyloxycarbonyl-Ala-Phe	4046	BVNXQVWGWUHKMK-YOEHRIQHSA-N	25	6.5	X	pH 6.5, 25C, mutant enzyme C341S
+95	Benzyloxycarbonyl-Ala-Phe	4046	BVNXQVWGWUHKMK-YOEHRIQHSA-N	25	6.5	X	pH 6.5, 25C, mutant enzyme C341G
+150	Benzyloxycarbonyl-Ala-Phe	4046	BVNXQVWGWUHKMK-YOEHRIQHSA-N	25	6.5		pH 6.5, 25C, wild-type enzyme
+13.3	benzyloxycarbonyl-Glu-Phe	4517	ZORDBMVWKMEZAC-ROUUACIJSA-N	25	6.5		pH 6.5, 25C
+15.5	benzyloxycarbonyl-Glu-Phe	4517	ZORDBMVWKMEZAC-ROUUACIJSA-N	25	4.5		pH 4.5, 25C
+16.8	benzyloxycarbonyl-Glu-Phe	4517	ZORDBMVWKMEZAC-ROUUACIJSA-N	25	5.5		pH 5.5, 25C
+69.4	Benzyloxycarbonyl-Ala-Ala	4829	JBGCVTHXXTVYIP-UWVGGRQHSA-N	25	6.5		pH 6.5, 25C
+24.5	benzyloxycarbonyl-Phe-Glu	103619	SQXRAMCBXCVJQK-ROUUACIJSA-N	25	4.5		pH 4.5, 25C
+26.2	benzyloxycarbonyl-Phe-Glu	103619	SQXRAMCBXCVJQK-ROUUACIJSA-N	25	5.5		pH 5.5, 25C
+96.5	benzyloxycarbonyl-Phe-Glu	103619	SQXRAMCBXCVJQK-ROUUACIJSA-N	25	6.5		pH 6.5, 25C
+18.8	Benzyloxycarbonyl-Glu-Tyr	5424	XLUMOZQZGPJGTL-ROUUACIJSA-N	25	5.0		pH 5.0, 25C
+19	Benzyloxycarbonyl-Glu-Tyr	5424	XLUMOZQZGPJGTL-ROUUACIJSA-N	25	5.5		pH 5.5, 25C
+23.8	Benzyloxycarbonyl-Glu-Tyr	5424	XLUMOZQZGPJGTL-ROUUACIJSA-N	25	6.0		pH 6.0, 25C
+2.7	9-fluorenylmethoxycarbonyl-Glu-Glu-Ala	5684	VJILAGHKUQXOGC-RXYZOABWSA-N		6.5		pH 6.5
+4.1	9-fluorenylmethoxycarbonyl-Glu-Glu-Ala	5684	VJILAGHKUQXOGC-RXYZOABWSA-N		5.0		pH 5.0
+5.5	9-fluorenylmethoxycarbonyl-Glu-Glu-Ala	5684	VJILAGHKUQXOGC-RXYZOABWSA-N		6.5		pH 6.5
+6.7	9-fluorenylmethoxycarbonyl-Glu-Glu-Ala	5684	VJILAGHKUQXOGC-RXYZOABWSA-N		5.0		pH 5.0
+0.72	Benzyloxycarbonyl-His-Phe	6126	KHUKLOTWIPDCJZ-PMACEKPBSA-N	25	6.5		pH 6.5, 25C
+1.82	Benzyloxycarbonyl-His-Phe	6126	KHUKLOTWIPDCJZ-PMACEKPBSA-N	25	7.0		pH 7.0, 25C
+2.05	Benzyloxycarbonyl-His-Phe	6126	KHUKLOTWIPDCJZ-PMACEKPBSA-N	25	7.5		pH 7.5, 25C
+3.8	benzoyl-Gly-Phe	5569	CCLJGZGVIQBNDH-HNNXBMFYSA-N	25	6.5		pH 6.5, 25C
+3.83	benzoyl-Gly-Phe	5569	CCLJGZGVIQBNDH-HNNXBMFYSA-N		6.5		pH 6.5
+291	benzyloxycarbonyl-Tyr-Glu	7805	ARAWERCUGGAGFN-UHFFFAOYSA-N	37	4.0		pH 4.0, 37C
+723	benzyloxycarbonyl-Tyr-Glu	7805	ARAWERCUGGAGFN-UHFFFAOYSA-N	37	4.0		pH 4.0, 37C, isoenzyme MpiCP-1
+2039	benzyloxycarbonyl-Tyr-Glu	7805	ARAWERCUGGAGFN-UHFFFAOYSA-N	37	3.5		pH 3.5, 37C, isoenzyme MpiCP-2
+0.32	Benzyloxycarbonyl-Gly-Glu	8332	JBGBOEMFZSZCMX-NSHDSACASA-N	25	4.5		pH 4.5, 25C
+0.46	Benzyloxycarbonyl-Gly-Glu	8332	JBGBOEMFZSZCMX-NSHDSACASA-N	25	5.5		pH 5.5, 25C
+8.2	benzyloxycarbonyl-His-Tyr	8873	QHPSWBYUIKSQHA-PMACEKPBSA-N	25	6.5		pH 6.5 or pH 7.5, 25C
+10.7	benzyloxycarbonyl-His-Tyr	8873	QHPSWBYUIKSQHA-PMACEKPBSA-N	25	5.7		pH 5.7, 25C
+46	benzyloxycarbonyl-Leu-Phe	8874	KXCHMTLVVNFFRH-OALUTQOASA-N	25	6.5		pH 6.5, 25C
+140	benzyloxycarbonyl-Phe-Gly	103620	OEIUAJRTESSOCC-INIZCTEOSA-N				
+140	benzyloxycarbonyl-Phe-Gly	103620	OEIUAJRTESSOCC-INIZCTEOSA-N	25	6.5		pH 6.5, 25C
+140	benzyloxycarbonyl-Phe-Gly	103620	OEIUAJRTESSOCC-INIZCTEOSA-N	25	6.5		pH 6.5, 25C
+2.2	9-fluorenylmethoxycarbonyl-Glu-Glu-Glu-Ala	11208	GTQTZTVFYNJXKH-JEQOYQROSA-N		6.5		pH 6.5
+3.8	9-fluorenylmethoxycarbonyl-Glu-Glu-Glu-Ala	11208	GTQTZTVFYNJXKH-JEQOYQROSA-N		5.0		pH 5.0
+2.5	9-fluorenylmethoxycarbonyl-Glu-Glu-Glu-Glu-Ala	11209	DJIQJXSKCCNKCI-PZUMMJQFSA-N		6.5		pH 6.5
+3.9	9-fluorenylmethoxycarbonyl-Glu-Glu-Glu-Glu-Ala	11209	DJIQJXSKCCNKCI-PZUMMJQFSA-N		5.0		pH 5.0
+2.3	9-fluorenylmethoxycarbonyl-Glu-Glu-Glu-Glu-Glu-Ala	11210	NTSDERRHADWOOV-RBKWUFDTSA-N		6.5		pH 6.5
+3.7	9-fluorenylmethoxycarbonyl-Glu-Glu-Glu-Glu-Glu-Ala	11210	NTSDERRHADWOOV-RBKWUFDTSA-N		5.0		pH 5.0
+2.3	9-fluorenylmethoxycarbonyl-Glu-Glu-Glu-Glu-Glu-Glu-Ala	11211	OPHPNDIQDKBUKZ-NMYVUWQISA-N		6.5		pH 6.5
+3.5	9-fluorenylmethoxycarbonyl-Glu-Glu-Glu-Glu-Glu-Glu-Ala	11211	OPHPNDIQDKBUKZ-NMYVUWQISA-N		5.0		pH 5.0
+24.2	Furylacryloyl-Phe-OGly-OH	13370	DHPALUMHWSAQMR-HNNXBMFYSA-N				wild-type enzyme
+2.18	benzyloxycarbonyl-Gly-Gly	13812	VFRCXEHNAFUTQC-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+6.85	benzyloxycarbonyl-Leu-Leu	13813	XGJGWYRHLPSMLW-IRXDYDNUSA-N	25	6.5		pH 6.5, 25C
+120	benzyloxycarbonyl-Phe-Ala	13814	LEJTXQOVOPDGHS-YOEHRIQHSA-N	25	6.5		pH 6.5, 25C
+162	furylacryloyl-Phe-Ala	14471	NOTCFISCFHKOHX-AULVFQMTSA-N		6.5		pH 6.5
+81.7	furylacryloyl-Phe-Leu	14472	LFGVVNZHOSLHJR-MIMFYIINSA-N		6.5		pH 6.5
+36.1	Acetyl-Phe-Leu	20161	XFTSMQGDJZQTIB-GJZGRUSLSA-N	25	6.5		pH 6.5, 25C
+465	Benzyloxycarbonyl-Ala-Leu	20216	YRQTWFBFEXBEQX-JSGCOSHPSA-N				
+68.3	Furylacryloyl-Phe ethyl ester	20360	RGWQMPMBZAGISW-INIZCTEOSA-N				wild-type enzyme
+21.2	Hippuryl-beta-phenyl lactate	13806	RVHGIEOTQNCGFG-UHFFFAOYSA-N				
+420	benzyloxycarbonyl-Phe-Phe	21117	JNRHNGGTJOBXHL-GOTSBHOMSA-N				
+420	benzyloxycarbonyl-Phe-Phe	21117	JNRHNGGTJOBXHL-GOTSBHOMSA-N	25	6.5		pH 6.5, 25C
+123	benzoyl-Ala benzyl ester	22223	FMTNHGGUNJJIKA-ZDUSSCGKSA-N		7.5		pH 7.5
+58.3	benzoyl-Ala-OGly	22224	SNFOICGYDQOAOJ-QMMMGPOBSA-N		6.5		pH 6.5
+51.7	benzoyl-Ala-OMe	20210	QRDFLIILGVFYCF-QMMMGPOBSA-N		7.5		pH 7.5
+18.3	benzoyl-Gly benzyl ester	22225	FQPGCALRZJRQQH-UHFFFAOYSA-N		7.5		pH 7.5
+21.2	benzoyl-Gly-beta-phenyllactate	22226	QGWIBKBVWUGOGX-UHFFFAOYSA-N	25	6.0		pH 6.0, 25C
+2.5	benzoyl-Gly-OEt	10487	PTXRQIPIELXJFH-UHFFFAOYSA-N		7.5		pH 7.5
+30	benzoyl-Gly-OGly	22227	TWANKBDPKACMPQ-UHFFFAOYSA-N		6.5		pH 6.5
+2.5	benzoyl-Gly-OMe	22228	XTKVNQKOTKPCKM-UHFFFAOYSA-N		7.5		pH 7.5
+18.3	benzoyl-Gly-OPhe	22229	ZOSCMQBDSZBUAI-UHFFFAOYSA-N		6.5		pH 6.5
+11.5	benzoyl-Phe-Gly	22231	ITQXZIFKTOCZRE-HNNXBMFYSA-N		6.5		pH 6.5
+35	benzoyl-Phe-OGly	22232	BQAHCXWXUHLZHW-HNNXBMFYSA-N		6.5		pH 6.5
+152	benzoyl-Phe-OMe	22233	BRQQPHKRRCUYLA-HNNXBMFYSA-N		7.5		pH 7.5
+96.7	furylacryloyl-Phe-Gly	22256	BGRIWYMSYVTFIH-HVHJFMEUSA-N		6.5		pH 6.5
+183	furylacryloyl-Phe-OMe	22257	RQZWKQIIVBDCBL-FEAKQIBJSA-N		7.5		pH 7.5
+108	furylacryloyl-Phe-Val	22258	AQWSWFXLHMHNPN-UKMAJIJPSA-N		6.5		pH 6.5
+1777	9-[(R)-2-[[(S)-[[(S)-1-(isopropoxycarbonyl)ethyl]amino]phenoxyphosphinyl]methoxy]-propyl]adenine	24863	LDEKQSIMHVQZJK-AAGLAYRLSA-N				
+237	9-(R)-4'-(R)-[[[(S)-1-[(ethoxycarbonyl)ethyl]amino]phenoxyphosphinyl]methoxy]-2'-fluoro-1'-furanyladenine	24864	OCJRRXHWPBXZSU-GVBSZYDLSA-N				
+61.7	Furylacryloyl-Phe-Gly-OH	29345	BGRIWYMSYVTFIH-HNNXBMFYSA-N				wild-type enzyme
+2.1	benzoyl-Tyr-4-nitroanilide	20749	CJERUMAUMMIPRF-FQEVSTJZSA-N				
+12.1	CBZ-Phe-Leu	2198	IBOXOGVHBFUSFH-PMACEKPBSA-N	27	4.5		recombinant protein, pH 4.5, 27C

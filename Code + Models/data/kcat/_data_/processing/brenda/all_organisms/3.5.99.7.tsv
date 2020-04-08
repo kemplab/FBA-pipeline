@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+654	D-cysteine	1022	XUJNEKJLAYXESH-UWTATZPHSA-N			X	double mutant Pseudomonas putida E295S+L322T
+1.1	1-aminocyclopropane-1-carboxylate	1128	PAJPWUMXBYXFCZ-UHFFFAOYSA-N	30	8.0		at pH 8.0 and 30C
+1.86	1-aminocyclopropane-1-carboxylate	1128	PAJPWUMXBYXFCZ-UHFFFAOYSA-N	30	8.0		at pH 8.0 and 30C
+4.83	1-aminocyclopropane-1-carboxylate	1128	PAJPWUMXBYXFCZ-UHFFFAOYSA-N	37	8.5		37C, pH 8.5
+146	1-aminocyclopropane-1-carboxylate	1128	PAJPWUMXBYXFCZ-UHFFFAOYSA-N	22	8.0		pH 8.0, 22C
+0.6	D-vinylglycine	13635	RQVLGLPAZTUBKX-GSVOUGTGSA-N	37	8.5		37C, pH 8.5
+5.17	2-vinyl-1-aminocyclopropane-1-carboxylate	20690	GALLMPFNVWUCGD-UHFFFAOYSA-N	37	8.5		37C, pH 8.5

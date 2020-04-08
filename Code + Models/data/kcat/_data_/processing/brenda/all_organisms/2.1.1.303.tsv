@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.01	2,7-dihydroxy-5-methyl-1-naphthoate	3104	BLBGRTHACSTGEL-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme R11W
+0.0115	2,7-dihydroxy-5-methyl-1-naphthoate	3104	BLBGRTHACSTGEL-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+0.0115	2,7-dihydroxy-5-methyl-1-naphthoate	3104	BLBGRTHACSTGEL-UHFFFAOYSA-N	25	6.0		pH 6.0, 25C
+0.013	2,7-dihydroxy-5-methyl-1-naphthoate	3104	BLBGRTHACSTGEL-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y293I
+0.02	2,7-dihydroxy-5-methyl-1-naphthoate	3104	BLBGRTHACSTGEL-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme R11A; pH 7.5, 25C, mutant enzyme R11K
+0.000133	1,4-dihydroxy-2-naphthoic acid	4011	VOJUXHHACRXLTD-UHFFFAOYSA-N	25	6.0		pH 6.0, 25C
+0.0045	3,5-dihydroxy-2-naphthoate	18887	YELLAPKUWRTITI-UHFFFAOYSA-N	25	6.0		pH 6.0, 25C
+0.0004	3,7-dihydroxy-2-naphthoate	18886	QMWOUSYSNFCKAZ-UHFFFAOYSA-N	25	6.0		pH 6.0, 25C

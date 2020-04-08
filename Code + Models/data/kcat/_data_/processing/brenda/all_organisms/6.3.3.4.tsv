@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.016	L-N2-(2-carboxyethyl)arginine	36788	OHWCFZJEIHZWMN-LURJTMIESA-N			X	mutant enzyme H447A, pH and temperature not specified in the publication
+0.13	L-N2-(2-carboxyethyl)arginine	36788	OHWCFZJEIHZWMN-LURJTMIESA-N			X	mutant enzyme V446G, pH and temperature not specified in the publication
+0.28	L-N2-(2-carboxyethyl)arginine	36788	OHWCFZJEIHZWMN-LURJTMIESA-N			X	mutant enzyme V446A, pH and temperature not specified in the publication
+0.87	L-N2-(2-carboxyethyl)arginine	36788	OHWCFZJEIHZWMN-LURJTMIESA-N				wild type enzyme, pH and temperature not specified in the publication
+0.013	(2'S)-methyl-L-N2-(2-carboxyethyl)arginine	29593	MUOMLYNBDQMKRX-BQBZGAKWSA-N			X	mutant enzyme H447A, pH and temperature not specified in the publication
+0.023	(2'S)-methyl-L-N2-(2-carboxyethyl)arginine	29593	MUOMLYNBDQMKRX-BQBZGAKWSA-N				wild type enzyme, pH and temperature not specified in the publication
+0.13	(2'S)-methyl-L-N2-(2-carboxyethyl)arginine	29593	MUOMLYNBDQMKRX-BQBZGAKWSA-N			X	mutant enzyme V446G, pH and temperature not specified in the publication
+0.34	(2'S)-methyl-L-N2-(2-carboxyethyl)arginine	29593	MUOMLYNBDQMKRX-BQBZGAKWSA-N			X	mutant enzyme V446A, pH and temperature not specified in the publication
+0.014	(2'R)-methyl-L-N2-(2-carboxyethyl)arginine	124583	MUOMLYNBDQMKRX-RQJHMYQMSA-N			X	mutant enzyme V446A, pH and temperature not specified in the publication
+0.032	(2'R)-methyl-L-N2-(2-carboxyethyl)arginine	124583	MUOMLYNBDQMKRX-RQJHMYQMSA-N				wild type enzyme, pH and temperature not specified in the publication
+0.07	(2'R)-methyl-L-N2-(2-carboxyethyl)arginine	124583	MUOMLYNBDQMKRX-RQJHMYQMSA-N			X	mutant enzyme V446G, pH and temperature not specified in the publication
+0.0023	(2'S)-ethyl-L-N2-(2-carboxyethyl)arginine	124584	LQVUXLVNAOYKMH-YUMQZZPRSA-N				wild type enzyme, pH and temperature not specified in the publication
+0.004	(2'S)-ethyl-L-N2-(2-carboxyethyl)arginine	124584	LQVUXLVNAOYKMH-YUMQZZPRSA-N			X	mutant enzyme V446A, pH and temperature not specified in the publication

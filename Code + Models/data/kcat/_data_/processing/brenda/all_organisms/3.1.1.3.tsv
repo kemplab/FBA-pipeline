@@ -1,0 +1,31 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.36	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.4		native enzyme, at pH 7.4 and 25C
+0.44	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.4		recombinant enzyme, at pH 7.4 and 25C
+0.061	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	42	9.0		wild type enyzme, at 42C and pH 9.0
+0.158	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	42	9.0	X	mutant enzyme V309K, at 42C and pH 9.0
+0.7125	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	42	9.0	X	mutant enzyme V309D, at 42C and pH 9.0
+54.18	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	6.0	X	mutant enzyme S154L/S293L, at pH 6.0 and 25C
+1135	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	70	6.0		pH 6.0, 70C
+30	tributyrin	1146	UYXTWWCETRIEDR-UHFFFAOYSA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant G311K
+75.8	tributyrin	1146	UYXTWWCETRIEDR-UHFFFAOYSA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant G311D
+250	tributyrin	1146	UYXTWWCETRIEDR-UHFFFAOYSA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant G311L
+1200	tributyrin	1146	UYXTWWCETRIEDR-UHFFFAOYSA-N	37	8.5	X	pH 8.5, 37C, recombinant His-tagged mutant D290A
+1500	tributyrin	1146	UYXTWWCETRIEDR-UHFFFAOYSA-N	37	8.5		pH 8.5, 37C, recombinant His-tagged wild-type enzyme
+1500	tributyrin	1146	UYXTWWCETRIEDR-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, recombinant wild-type enzyme
+1900	tributyrin	1146	UYXTWWCETRIEDR-UHFFFAOYSA-N	37	8.5		pH 8.5, 37C, native wild-type enzyme
+4333	tributyrin	1146	UYXTWWCETRIEDR-UHFFFAOYSA-N	37	8.5		at pH 8.5 and 37C
+5370	tributyrin	1146	UYXTWWCETRIEDR-UHFFFAOYSA-N	37	9.0		pH 9.0, 37C
+31.59	4-nitrophenyl palmitate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N	25	6.0	X	mutant enzyme S154L/S293L, at pH 6.0 and 25C
+494	4-nitrophenyl palmitate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N	40	6.5		pH 6.5, 40C
+1468	4-nitrophenyl palmitate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N	60	8.0		apparent value, in 50 mM Tris-HCl buffer, at pH 8.0, 60C
+2252	4-nitrophenyl palmitate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N	70	6.0		pH 6.0, 70C
+3000	triolein	1184	PHYFQTYBJUILEZ-IUPFWZBJSA-N				
+200.2	4-Methylumbelliferyl butyrate	1805	WKPUJZVCZXWKCK-UHFFFAOYSA-N	30	8.0		apparent value, in 2.5 mM Tris-HCl, at pH 8.0 at 30C
+9.41	4-nitrophenyl laurate	1835	URPWADSNDAVRIW-UHFFFAOYSA-N	25	6.0	X	mutant enzyme S154L/S293L, at pH 6.0 and 25C
+569	4-nitrophenyl laurate	1835	URPWADSNDAVRIW-UHFFFAOYSA-N	50	8.0		pH 8.0, 50C
+0.1	Triacetin	1998	URAYPUMNDPQOKB-UHFFFAOYSA-N	25	7.4		native enzyme, at pH 7.4 and 25C
+0.32	Triacetin	1998	URAYPUMNDPQOKB-UHFFFAOYSA-N	25	7.4		recombinant enzyme, at pH 7.4 and 25C
+22.7	4-nitrophenyl caproate	2009	DHMLEOAJGOUDOM-UHFFFAOYSA-N	78	7.8		at pH 7.8 and 78C
+55.12	4-nitrophenyl caprylate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	25	6.0	X	mutant enzyme S154L/S293L, at pH 6.0 and 25C
+1576	4-nitrophenyl caprate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N	70	6.0		pH 6.0, 70C
+2416	trioctanoin	5586	VLPFTAMPNXLGLX-UHFFFAOYSA-N	37	8.5		at pH 8.5 and 37C

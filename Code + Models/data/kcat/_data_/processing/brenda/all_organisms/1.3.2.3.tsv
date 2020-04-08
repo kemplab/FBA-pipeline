@@ -1,0 +1,24 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+151	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L	25	8.8		in the presence of L-galactono-1,4-lactone, in 50 mM sodium phosphate (pH 8.8), at 25C
+64	phenazine methosulfate	250	RXGJTUSBYWCRBK-UHFFFAOYSA-M	25	8.8		in the presence of L-galactono-1,4-lactone, in 50 mM sodium phosphate (pH 8.8), at 25C
+108	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	25	8.8		in the presence of L-galactono-1,4-lactone, in 50 mM sodium phosphate (pH 8.8), at 25C
+0.7	L-galactono-1,4-lactone	989	SXZYCXMUPBBULW-NEEWWZBLSA-N			X	mutant R388A
+1.4	L-galactono-1,4-lactone	989	SXZYCXMUPBBULW-NEEWWZBLSA-N			X	mutant E386A
+4.7	L-galactono-1,4-lactone	989	SXZYCXMUPBBULW-NEEWWZBLSA-N			X	mutant E386D
+32	L-galactono-1,4-lactone	989	SXZYCXMUPBBULW-NEEWWZBLSA-N	25	8.8	X	mutant enzyme L56H, in the presence of cytochrome c, in 50 mM sodium phosphate (pH 8.8), at 25C
+45	L-galactono-1,4-lactone	989	SXZYCXMUPBBULW-NEEWWZBLSA-N	25	8.8	X	mutant enzyme L56IA in the presence of cytochrome c, in 50 mM sodium phosphate (pH 8.8), at 25C
+48.5	L-galactono-1,4-lactone	989	SXZYCXMUPBBULW-NEEWWZBLSA-N			X	mutant R388K
+59	L-galactono-1,4-lactone	989	SXZYCXMUPBBULW-NEEWWZBLSA-N			X	mutant C340S
+76	L-galactono-1,4-lactone	989	SXZYCXMUPBBULW-NEEWWZBLSA-N	56	8.8	X	mutant enzyme L56C, in the presence of cytochrome c, in 50 mM sodium phosphate (pH 8.8), at 25C
+79	L-galactono-1,4-lactone	989	SXZYCXMUPBBULW-NEEWWZBLSA-N			X	mutant C340A
+126	L-galactono-1,4-lactone	989	SXZYCXMUPBBULW-NEEWWZBLSA-N	25	8.8	X	mutant enzyme L56F in the presence of cytochrome c, in 50 mM sodium phosphate (pH 8.8), at 25C
+134	L-galactono-1,4-lactone	989	SXZYCXMUPBBULW-NEEWWZBLSA-N	25	8.8		wild type enzyme, in the presence of cytochrome c, in 50 mM sodium phosphate (pH 8.8), at 25C
+134	L-galactono-1,4-lactone	989	SXZYCXMUPBBULW-NEEWWZBLSA-N				wild-type enzyme
+134	L-galactono-1,4-lactone	989	SXZYCXMUPBBULW-NEEWWZBLSA-N				wild-type enzyme
+240	L-galactono-1,4-lactone	989	SXZYCXMUPBBULW-NEEWWZBLSA-N	25	8.8	X	mutant enzyme L56I, in the presence of cytochrome c, in 50 mM sodium phosphate (pH 8.8), at 25C
+0.22	L-gulono-1,4-lactone	1721	SXZYCXMUPBBULW-SKNVOMKLSA-N			X	mutant E386A
+4	L-gulono-1,4-lactone	1721	SXZYCXMUPBBULW-SKNVOMKLSA-N	25	8.8		in the presence of cytochrome c, in 50 mM sodium phosphate (pH 8.8), at 25C
+4	L-gulono-1,4-lactone	1721	SXZYCXMUPBBULW-SKNVOMKLSA-N				wild-type enzyme
+10.4	L-gulono-1,4-lactone	1721	SXZYCXMUPBBULW-SKNVOMKLSA-N			X	mutant E386D
+1.2	D-Arabinono-1,4-lactone	1930	CUOKHACJLGPRHD-JJYYJPOSSA-N			X	mutant E386D
+51	D-Arabinono-1,4-lactone	1930	CUOKHACJLGPRHD-JJYYJPOSSA-N				wild-type enzyme

@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00417	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	610		X	with dihydrolipoamide, H610C mutant
+0.0143	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	with dihydrolipoamide, S558A mutant
+0.282	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	with dihydrolipoamide, N614D mutant
+2.4	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				with dihydrolipoamide, wild-type enzyme

@@ -1,0 +1,43 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.001	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N			X	below, mutant E89A, pH and temperature not specified in the publication
+0.015	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N			X	mutant E89Q, pH and temperature not specified in the publication
+0.023	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N			X	mutant K174A, pH and temperature not specified in the publication
+0.108	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	37	7.5		pH 7.5, 37C
+0.26	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+0.2667	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N		7.5		in 50 mM Tris/HCl (pH 7.5) with 5 mM CaCl2
+0.39	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N			X	mutant K174Q, pH and temperature not specified in the publication
+0.47	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				wild-type enzyme, pH and temperature not specified in the publication
+1.34	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	30	7.4		pH 7.4, 30C
+1.4	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	30	7.4		presence of D-tryptophan, pH 7.4, 30C
+60	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	30	8.0		pH 8.0, 30C, recombinant His-tagged 4-DMATS
+0.001	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N			X	below, mutant E89A, pH and temperature not specified in the publication
+0.015	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N			X	mutant E89Q, pH and temperature not specified in the publication
+0.023	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N			X	mutant K174A, pH and temperature not specified in the publication
+0.39	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N			X	mutant K174Q, pH and temperature not specified in the publication
+0.47	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N				wild-type enzyme, pH and temperature not specified in the publication
+0.917	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+0.165	5-hydroxy-L-tryptophan	1035	LDCYZAJDBXYCGN-VIFPVBQESA-N		7.5		in 50 mM Tris/HCl (pH 7.5) with 5 mM CaCl2
+0.56	5-hydroxy-L-tryptophan	1035	LDCYZAJDBXYCGN-VIFPVBQESA-N	30	7.4		pH 7.4, 30C
+0.0533	6-methyl-DL-tryptophan	2916	GDMRVYIFGPMUCG-UHFFFAOYSA-N		7.5		in 50 mM Tris/HCl (pH 7.5) with 5 mM CaCl2
+0.0683	5-methyl-DL-tryptophan	3028	HUNCSWANZMJLPM-UHFFFAOYSA-N		7.5		in 50 mM Tris/HCl (pH 7.5) with 5 mM CaCl2
+0.125	5-methyl-DL-tryptophan	3028	HUNCSWANZMJLPM-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+0.1267	7-methyl-DL-tryptophan	4217	KBOZNJNHBBROHM-UHFFFAOYSA-N		7.5		in 50 mM Tris/HCl (pH 7.5) with 5 mM CaCl2
+0.2683	Indole-3-propionic acid	4429	GOLXRNDWAUTYKT-UHFFFAOYSA-N		7.5		in 50 mM Tris/HCl (pH 7.5) with 5 mM CaCl2
+0.117	L-tryptophan methyl ester	5005	KCUNTYMNJVXYKZ-JTQLQIEISA-N	37	7.5		pH 7.5, 37C
+0.1367	L-tryptophan methyl ester	5005	KCUNTYMNJVXYKZ-JTQLQIEISA-N		7.5		in 50 mM Tris/HCl (pH 7.5) with 5 mM CaCl2
+0.3767	L-beta-homotryptophan	5166	DUVVFMLAHWNDJD-VIFPVBQESA-N		7.5		in 50 mM Tris/HCl (pH 7.5) with 5 mM CaCl2
+0.1033	alpha-methyl-DL-tryptophan	6410	CZCIKBSVHDNIDH-UHFFFAOYSA-N		7.5		in 50 mM Tris/HCl (pH 7.5) with 5 mM CaCl2
+1.06	Nalpha-methyl-L-tryptophan	9572	CZCIKBSVHDNIDH-NSHDSACASA-N	30	7.4		pH 7.4, 30C
+0.009	methylallyl diphosphate	10309	VPTVZDVITVNLTM-NSCUHMNNSA-N	37			37C, pH not specified in the publication
+0.011	2-pentenyl diphosphate	10310	WZDSLOCYZQFUGM-ONEGZZNKSA-N	37			37C, pH not specified in the publication
+0.043	L-abrine	9572	CZCIKBSVHDNIDH-NSHDSACASA-N	37	7.5		pH 7.5, 37C
+0.252	N-methyl-L-tryptophan	9572	CZCIKBSVHDNIDH-NSHDSACASA-N		7.5		in 50 mM Tris/HCl (pH 7.5) with 5 mM CaCl2
+0.0021	cyclo-L-tryptophan-L-tryptophan	27124	DNHODRZUCGXYKU-PMACEKPBSA-N				
+0.0017	cyclo-L-tryptophan-L-tyrosine	13070	ZJDMXAAEAVGGSK-ROUUACIJSA-N				
+0.0017	cyclo-L-tryptophan-L-leucine	19694	BZUNCDPEEKFTCX-GJZGRUSLSA-N				
+0.00106	cyclo-L-tryptophan-glycine	27125	IFQZEERDQXQTLJ-NSHDSACASA-N				
+0.00113	cyclo-L-tryptophan-L-proline	4328	RYFZBPVMVYTEKZ-KBPBESRZSA-N				
+1.3	4-methoxy-L-tryptophan	28391	VYXPKRIKQJEAOO-QMMMGPOBSA-N	30	8.0		pH 8.0, 30C, recombinant His-tagged 4-DMATS
+0.42	4-amino-L-tryptophan	28392	JUDQOTGDEFNIKF-QMMMGPOBSA-N	30	8.0		pH 8.0, 30C, recombinant His-tagged 4-DMATS
+0.0016	ent-ardeemin fumiquinazoline	128076	FHOFNRAVYAGXCQ-KPZWWZAWSA-N	37	7.5		pH 7.5, 37C, wild-type enzyme
+0.009	dia-ardeemin fumiquinazoline	128077	FHOFNRAVYAGXCQ-SGTLLEGYSA-N	37	7.5		pH 7.5, 37C, wild-type enzyme

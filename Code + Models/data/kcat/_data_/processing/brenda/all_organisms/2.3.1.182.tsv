@@ -1,0 +1,62 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.017	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant Y144L, kinetic data for the substrate-binding site of LiCMS; Y144L mutant
+0.36	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				wild-type
+0.6	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant Y144V, kinetic data for the substrate-binding site of LiCMS; Y144V mutant
+0.6	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N		7.7	X	mutant Y454A, in the presence of 0.8 mM MnCl2, 50 mM KCl, 15 nM CMS, in a total volume of 50 microL using 0.1 M Hepes, pH 7.7; Y454A 0.6 mM pyruvate, 0.8 mM MnCl2, 50 mM KCl, 15 nM enzyme, 0.1 M HEPES, pH 7.7
+0.62	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	D304A mutant; mutant D304A, kinetic data for the C-terminal region of LiCMS
+0.7	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	L81A mutant; mutant L81A, kinetic data for the substrate-binding site of LiCMS
+0.7	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N		7.7	X	I458A 0.6 mM pyruvate, 0.8 mM MnCl2, 50 mM KCl, 15 nM enzyme, 0.1 M HEPES, pH 7.7; mutant I458A, in the presence of 0.8 mM MnCl2, 50 mM KCl, 15 nM CMS, in a total volume of 50 microL using 0.1 M Hepes, pH 7.7
+0.84	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	I47V/E114V/H126Q/T204A/L238S mutant
+1.1	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	L81V mutant; LiCMSN, kinetic data for the catalytic reaction of the active site of LiCMS; LiCMSN mutant; LiCMSN, N-terminal domain of LiCMS; mutant L81V, kinetic data for the substrate-binding site of LiCMS
+1.7	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	L311A mutant; mutant L311A, kinetic data for the C-terminal region of LiCMS
+2	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N		7.7	X	D431A 0.6 mM pyruvate, 0.8 mM MnCl2, 50 mM KCl, 15 nM enzyme, 0.1 M HEPES, pH 7.7; mutant D431A, in the presence of 0.8 mM MnCl2, 50 mM KCl, 15 nM CMS, in a total volume of 50 microL using 0.1 M Hepes, pH 7.7
+2.1	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	E146D mutant; mutant E146D, kinetic data for the catalytic reaction of the active site of LiCMS
+2.4	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	E146Q mutant; mutant E146Q, kinetic data for the catalytic reaction of the active site of LiCMS
+2.4	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N		7.7	X	L451V 0.6 mM pyruvate, 0.8 mM MnCl2, 50 mM KCl, 15 nM enzyme, 0.1 M HEPES, pH 7.7; mutant L451V, in the presence of 0.8 mM MnCl2, 50 mM KCl, 15 nM CMS, in a total volume of 50 microL using 0.1 M Hepes, pH 7.7; mutant T464A, in the presence of 0.8 mM MnCl2, 50 mM KCl, 15 nM CMS, in a total volume of 50 microL using 0.1 M Hepes, pH 7.7; T464A 0.6 mM pyruvate, 0.8 mM MnCl2, 50 mM KCl, 15 nM enzyme, 0.1 M HEPES, pH 7.7
+3.7	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N		7.7	X	mutant Q495A, in the presence of 0.8 mM MnCl2, 50 mM KCl, 15 nM CMS, in a total volume of 50 microL using 0.1 M Hepes, pH 7.7; Q495A 0.6 mM pyruvate, 0.8 mM MnCl2, 50 mM KCl, 15 nM enzyme, 0.1 M HEPES, pH 7.7
+3.9	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	L104V mutant; mutant L104V, kinetic data for the substrate-binding site of LiCMS
+4	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N		7.7	X	mutant P493A, in the presence of 0.8 mM MnCl2, 50 mM KCl, 15 nM CMS, in a total volume of 50 microL using 0.1 M Hepes, pH 7.7; P493A 0.6 mM pyruvate, 0.8 mM MnCl2, 50 mM KCl, 15 nM enzyme, 0.1 M HEPES, pH 7.7
+4.5	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N		7.7	X	mutant Y430L, in the presence of 0.8 mM MnCl2, 50 mM KCl, 15 nM CMS, in a total volume of 50 microL using 0.1 M Hepes, pH 7.7; Y430L 0.6 mM pyruvate, 0.8 mM MnCl2, 50 mM KCl, 15 nM enzyme, 0.1 M HEPES, pH 7.7
+5	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N		7.7	X	mutant V468A, in the presence of 0.8 mM MnCl2, 50 mM KCl, 15 nM CMS, in a total volume of 50 microL using 0.1 M Hepes, pH 7.7; V468A 0.6 mM pyruvate, 0.8 mM MnCl2, 50 mM KCl, 15 nM enzyme, 0.1 M HEPES, pH 7.7
+5.9	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant N310A, kinetic data for the C-terminal region of LiCMS; N310A mutant
+8.5	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	F83A mutant; mutant F83A, kinetic data for the catalytic reaction of the active site of LiCMS; R16K/R16Q mutant
+9.1	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N		7.7	X	H400A/H408A 0.6 mM pyruvate, 0.8 mM MnCl2, 50 mM KCl, 15 nM enzyme, 0.1 M HEPES, pH 7.7; mutant H400A/H408A, in the presence of 0.8 mM MnCl2, 50 mM KCl, 15 nM CMS, in a total volume of 50 microL using 0.1 M Hepes, pH 7.7
+10.3	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				wild-type; wild type, kinetic data for the catalytic reaction of the active site of LiCMS; wild type, kinetic data for the C-terminal region of LiCMS; wild type, kinetic data for the substrate-binding site of LiCMS; wild type LiCMS
+10.3	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N		7.7		wild-type, 0.6 mM pyruvate, 0.8 mM MnCl2, 50 mM KCl, 15 nM enzyme, 0.1 M HEPES, pH 7.7; wild-type, in the presence of 0.8 mM MnCl2, 50 mM KCl, 15 nM CMS, in a total volume of 50 microL using 0.1 M Hepes, pH 7.7
+10.6	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N		7.7		wild-type, 20 microM isoleucine, 0.6 mM pyruvate, 0.8 mM MnCl2, 50 mM KCl, 15 nM enzyme, 0.1 M HEPES, pH 7.7; wild-type, in the presence of 0.02 mM isoleucine 0.8 mM MnCl2, 50 mM KCl, 15 nM CMS, in a total volume of 50 microL using 0.1 M Hepes, pH 7.7
+11.1	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N		7.7		wild-type, 60 microM isoleucine, 0.6 mM pyruvate, 0.8 mM MnCl2, 50 mM KCl, 15 nM enzyme, 0.1 M HEPES, pH 7.7; wild-type, in the presence of 0.06 mM isoleucine, 0.8 mM MnCl2, 50 mM KCl, 15 nM CMS, in a total volume of 50 microL using 0.1 M Hepes, pH 7.7
+0.12	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N			X	mutant Y144L, kinetic data for the substrate-binding site of LiCMS; Y144L mutant
+0.32	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N			X	D304A mutant; mutant D304A, kinetic data for the C-terminal region of LiCMS
+0.36	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				wild-type; wild type enzyme
+0.4	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N			X	LiCMSN, kinetic data for the catalytic reaction of the active site of LiCMS; LiCMSN mutant; LiCMSN, N-terminal domain of LiCMS
+0.58	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N			X	L81A mutant; mutant L81A, kinetic data for the substrate-binding site of LiCMS
+0.84	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N			X	I47V/E114V/H126Q/T204A/L238S mutant; mutant CimA3.7
+0.9	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N			X	L81V mutant; mutant L81V, kinetic data for the substrate-binding site of LiCMS
+1.7	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N			X	L311A mutant; mutant L311A, kinetic data for the C-terminal region of LiCMS; mutant Y144V, kinetic data for the substrate-binding site of LiCMS; Y144V mutant
+1.9	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N			X	D17N mutant; mutant D17N, kinetic data for the catalytic reaction of the active site of LiCMS
+2.41	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	8.0		; recombinant enzyme, pH 8.0, 37C
+2.7	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N			X	L104V mutant; mutant L104V, kinetic data for the substrate-binding site of LiCMS
+2.9	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N			X	D17A mutant; mutant D17A, kinetic data for the catalytic reaction of the active site of LiCMS
+3.8	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N			X	mutant N310A, kinetic data for the C-terminal region of LiCMS; N310A mutant
+4.9	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N			X	mutant T179A, kinetic data for the catalytic reaction of the active site of LiCMS; T179A mutant
+9.1	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				wild type, kinetic data for the C-terminal region of LiCMS; wild type, kinetic data for the substrate-binding site of LiCMS; wild type LiCMS
+9.1	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.7		wild-type, 4 mM acetyl CoA, 0.8 mM MnCl2, 50 mM KCl, 15 nM enzyme, 0.1 M HEPES, pH 7.7; wild-type, in the presence of 0.8 mM MnCl2, 50 mM KCl, 15 nM CMS, in a total volume of 50 microL using 0.1 M Hepes, pH 7.7
+9.13	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				wild-type; wild type, kinetic data for the catalytic reaction of the active site of LiCMS; wild type LiCMS
+9.2	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.7		wild-type, 1 microM isoleucine, 4 mM acetyl CoA, 0.8 mM MnCl2, 50 mM KCl, 15 nM enzyme, 0.1 M HEPES, pH 7.7; wild-type, in the presence of 0.001 mM isoleucine, 0.8 mM MnCl2, 50 mM KCl, 15 nM CMS, in a total volume of 50 microL using 0.1 M Hepes, pH 7.7
+9.3	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.7		wild-type, 4 microM isoleucine, 4 mM acetyl CoA, 0.8 mM MnCl2, 50 mM KCl, 15 nM enzyme, 0.1 M HEPES, pH 7.7; wild-type, in the presence of 0.004 mM isoleucine, 0.8 mM MnCl2, 50 mM KCl, 15 nM CMS, in a total volume of 50 microL using 0.1 M Hepes, pH 7.7
+0.005	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N			X	Y144L mutant
+0.03	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N			X	Y144V mutant
+0.19	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N			X	L81A mutant
+0.21	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N			X	L81V mutant
+0.51	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N				wild-type; wild type LiCMS
+0.6	glyoxylate	95	HHLFWLYXYJOTON-UHFFFAOYSA-N			X	L104V mutant
+0.005	2-oxobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N			X	Y144L mutant
+0.014	2-oxobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N			X	L81V mutant
+0.03	2-oxobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N			X	L104V mutant
+0.05	2-oxobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N			X	L81A mutant
+0.09	2-oxobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N				wild-type; wild type LiCMS
+0.62	2-oxobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N			X	Y144V mutant
+0.018	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N			X	L81A mutant
+0.023	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N			X	Y144L mutant
+0.03	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N			X	L104V mutant
+0.062	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N			X	Y144V mutant

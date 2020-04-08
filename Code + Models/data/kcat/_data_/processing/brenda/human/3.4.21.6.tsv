@@ -1,0 +1,37 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.4	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	2769	WIQWZMXJFYDPOU-YADHBBJMSA-N	22		X	recombinant mutant R143A, 22C
+21	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	2769	WIQWZMXJFYDPOU-YADHBBJMSA-N	22		X	recombinant mutant R150A, 22C
+27.1	Arg-Gly-Arg-4-nitroanilide	3492	PNPUAGWTFIJHLE-GJZGRUSLSA-N		7.5	X	mutant E217A, pH 7.5
+33	methoxycarbonylcyclohexyl-Gly-Gly-L-Arg-4-nitroanilide	3096	ALLKFESXKYVGKQ-LROBGIAVSA-N		7.5	X	prothrombinase assembled with mutant I16L, pH 7.5
+46	tosyl-glycyl-prolyl-D-arginine-4-nitroanilide	11512	VYLJFJGMPYBPMN-YADHBBJMSA-N	23	7.4		pH 7.4, 23C, in presence of 0.001 mM heparin
+55	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	2769	WIQWZMXJFYDPOU-YADHBBJMSA-N	22		X	recombinant mutant K147A, 22C
+57.2	Arg-Gly-Arg-4-nitroanilide	3492	PNPUAGWTFIJHLE-GJZGRUSLSA-N		7.5	X	mutant E217A, pH 7.5, presence of 0.5 M NaCl
+58	methoxycarbonylcyclohexyl-Gly-Gly-L-Arg-4-nitroanilide	3096	ALLKFESXKYVGKQ-LROBGIAVSA-N		7.5	X	mutant I16L, pH 7.5
+72	methoxycarbonylcyclohexyl-Gly-Gly-L-Arg-4-nitroanilide	3096	ALLKFESXKYVGKQ-LROBGIAVSA-N		7.5		prothrombinase assembled with native factor Xa, pH 7.5
+73	methoxycarbonylcyclohexyl-Gly-Gly-L-Arg-4-nitroanilide	3096	ALLKFESXKYVGKQ-LROBGIAVSA-N		7.5	X	mutant V17A, pH 7.5
+79	tosyl-glycyl-prolyl-D-arginine-4-nitroanilide	11512	VYLJFJGMPYBPMN-YADHBBJMSA-N	23	7.4		pH 7.4, 23C, in absence of heparin
+91	methoxycarbonylcyclohexyl-Gly-Gly-L-Arg-4-nitroanilide	3096	ALLKFESXKYVGKQ-LROBGIAVSA-N		7.5	X	prothrombinase assembled with mutant V17A, pH 7.5
+94.3	Arg-Gly-Arg-4-nitroanilide	3492	PNPUAGWTFIJHLE-GJZGRUSLSA-N		7.5	X	mutant E217Q, pH 7.5
+98.6	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	2769	WIQWZMXJFYDPOU-YADHBBJMSA-N	22		X	recombinant mutant R143A, 22C
+99.2	Arg-Gly-Arg-4-nitroanilide	3492	PNPUAGWTFIJHLE-GJZGRUSLSA-N		7.5	X	mutant K222A, pH 7.5
+121	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	2769	WIQWZMXJFYDPOU-YADHBBJMSA-N	22			native wild-type enzyme, 22C
+125.3	Arg-Gly-Arg-4-nitroanilide	3492	PNPUAGWTFIJHLE-GJZGRUSLSA-N		7.5		wild-type, pH 7.5
+126.5	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	2769	WIQWZMXJFYDPOU-YADHBBJMSA-N	22			recombinant wild-type enzyme, 22C
+127	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	2769	WIQWZMXJFYDPOU-YADHBBJMSA-N	22			recombinant wild-type enzyme, 22C
+139	S2222	4188	ZYECEUZMVSGTMR-LBDWYMBGSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme E74K/E76K/E77K
+140	methoxycarbonylcyclohexyl-Gly-Gly-L-Arg-4-nitroanilide	3096	ALLKFESXKYVGKQ-LROBGIAVSA-N		7.5		native factor Xa, pH 7.5; prothrombinase assembled with recombinant factor Xa, pH 7.5
+144	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	2769	WIQWZMXJFYDPOU-YADHBBJMSA-N	23	7.4		pH 7.4, 23C, in presence of 0.001 mM heparin
+148	S2222	4188	ZYECEUZMVSGTMR-LBDWYMBGSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme E74Q, E76Q/E77Q
+151.7	Arg-Gly-Arg-4-nitroanilide	3492	PNPUAGWTFIJHLE-GJZGRUSLSA-N		7.5	X	mutant E217Q, pH 7.5, presence of 0.5 M NaCl
+154.4	Arg-Gly-Arg-4-nitroanilide	3492	PNPUAGWTFIJHLE-GJZGRUSLSA-N		7.5	X	mutant R221A, pH 7.5
+169	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	2769	WIQWZMXJFYDPOU-YADHBBJMSA-N	23	7.4		pH 7.4, 23C, in absence of heparin
+196	S2222	4188	ZYECEUZMVSGTMR-LBDWYMBGSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme E36K/E37K/E39K
+200	S2222	4188	ZYECEUZMVSGTMR-LBDWYMBGSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme E36Q/E37Q/E39Q
+210	methoxycarbonylcyclohexyl-Gly-Gly-L-Arg-4-nitroanilide	3096	ALLKFESXKYVGKQ-LROBGIAVSA-N		7.5		recombinant factor Xa, pH 7.5
+211	S2222	4188	ZYECEUZMVSGTMR-LBDWYMBGSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+214	S2765	2769	WIQWZMXJFYDPOU-YADHBBJMSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme E36Q/E37Q/E39Q
+215	S2765	2769	WIQWZMXJFYDPOU-YADHBBJMSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme E36K/E37K/E39K
+254	S2765	2769	WIQWZMXJFYDPOU-YADHBBJMSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+269	S2765	2769	WIQWZMXJFYDPOU-YADHBBJMSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme E74K/E76K/E77K
+270	S2765	2769	WIQWZMXJFYDPOU-YADHBBJMSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme E74Q, E76Q/E77Q
+411	N-alpha-benzyloxycarbonyl-D-arginyl-glycyl-L-arginine-4-nitroanilide	2769	WIQWZMXJFYDPOU-YADHBBJMSA-N	22		X	recombinant mutant R154A, 22C

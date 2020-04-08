@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.05	UDP-Gal	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N			X	using fusion construct CgtBOH4384DELTA30-MalE (mutant with deletion of 30 amino acids from carboxy terminus + C-terminal MalE fusion)
+0.5	GalNAcalpha-FCHASE	25783	UABVQQWLOKPFAG-XPVHLLDHSA-N			X	using fusion construct CgtBOH4384DELTA30-MalE (mutant with deletion of 30 amino acids from carboxy terminus + C-terminal MalE fusion)
+1.07	GalNAcbeta-FCHASE	25784	UABVQQWLOKPFAG-NFCBEMRUSA-N			X	using fusion construct CgtBOH4384DELTA30-MalE (mutant with deletion of 30 amino acids from carboxy terminus + C-terminal MalE fusion)

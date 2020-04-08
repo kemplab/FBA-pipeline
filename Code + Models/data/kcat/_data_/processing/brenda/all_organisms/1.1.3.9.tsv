@@ -1,0 +1,60 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.011	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	pH 7.0, 25C, mutant C383W
+0.24	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	25C, pH 7.0, mutant enzyme W290H
+0.795	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N			X	mutant C228G
+1.66	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	25C, pH 7.0, mutant enzyme W290G
+2.45	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N			X	mutant W290H
+2.98	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N				native wild-type enzyme
+3.42	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N				recombinant wild-type enzyme
+8.8	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	pH 7.0, 25C, mutant C383R
+20	1-O-methyl-alpha-D-galactopyranoside	2176	HOVAGTYPODGVJG-PZRMXXKTSA-N				
+49	1-O-methyl-alpha-D-galactopyranoside	2176	HOVAGTYPODGVJG-PZRMXXKTSA-N				substrate 1-O-methyl-alpha-D-galactopyranoside, 2 H-atoms in position 6 are substituted by D-atoms
+166	2-methylene-1,3-propanediol	12451	JFFYKITVXPZLQS-UHFFFAOYSA-N	25	7.0	X	25C, pH 7.0, mutant enzyme W290F
+170	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	pH 7.0, 25C, mutant C383Q
+190	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	pH 7.0, 25C, mutant C383F
+210	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	pH 7.0, 25C, mutant C383H
+260	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	pH 7.0, 25C, mutant C383I
+283	2-methylene-1,3-propanediol	12451	JFFYKITVXPZLQS-UHFFFAOYSA-N	25	7.0		25C, pH 7.0, wild-type enzyme
+325	1-O-methyl beta-D-galactopyranoside	5019	HOVAGTYPODGVJG-VOQCIKJUSA-N				Cu(II)-bound H2O is required in the protonated aquo state for catalysis and is responsible for the kinetic solvent isotope effect
+360	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	pH 7.0, 25C, mutant C383V
+371	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	25C, pH 7.0, mutant enzyme W290F
+410	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	pH 7.0, 25C, mutant C383N
+440	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N				
+440	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	pH 7.0, 25C, mutant C383D
+450	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	pH 7.0, 25C, mutant C383L
+457	1-methyl-alpha-D-galactopyranoside	2176	HOVAGTYPODGVJG-PZRMXXKTSA-N	25	7.0	X	mutant C383A, pH 7.0, 25C
+490	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	pH 7.0, 25C, mutant C383P
+503	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0		25C, pH 7.0, wild-type enzyme
+510	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	pH 7.0, 25C, mutant C383M
+550	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	pH 7.0, 25C, mutant C383E
+639	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	mutant C383A, pH 7.0, 25C
+650	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N				
+650	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N				
+756	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	mutant Y436H, pH 7.0, 25C
+811	1-methyl-alpha-D-galactopyranoside	2176	HOVAGTYPODGVJG-PZRMXXKTSA-N	25	7.0	X	mutant C383S/Y436A, pH 7.0, 25C
+834	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	mutant C383S, pH 7.0, 25C
+839	1-methyl-alpha-D-galactopyranoside	2176	HOVAGTYPODGVJG-PZRMXXKTSA-N	25	7.0	X	mutant C383S, pH 7.0, 25C
+851	1-methyl-alpha-D-galactopyranoside	2176	HOVAGTYPODGVJG-PZRMXXKTSA-N	25	7.0	X	mutant Y436H/v494A, pH 7.0, 25C
+915	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	mutant C383S/V494A, pH 7.0, 25C
+995	1-methyl-alpha-D-galactopyranoside	2176	HOVAGTYPODGVJG-PZRMXXKTSA-N	25	7.0		wild type, pH 7.0, 25C
+1039	1-methyl-alpha-D-galactopyranoside	2176	HOVAGTYPODGVJG-PZRMXXKTSA-N	25	7.0	X	mutant Y436A, pH 7.0, 25C
+1067	1-methyl-alpha-D-galactopyranoside	2176	HOVAGTYPODGVJG-PZRMXXKTSA-N	25	7.0	X	mutant C383S/Y436H/V494A, pH 7.0, 25C
+1090	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0		wild type, pH 7.0, 25C
+1091	1-methyl-alpha-D-galactopyranoside	2176	HOVAGTYPODGVJG-PZRMXXKTSA-N	25	7.0	X	mutant C383S/Y436H, pH 7.0, 25C
+1100	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	mutant Y436A, pH 7.0, 25C
+1100	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	pH 7.0, 25C, mutant C383G; pH 7.0, 25C, mutant C383K; pH 7.0, 25C, mutant C383S; pH 7.0, 25C, wild-type enzyme
+1119	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	mutant V494A, pH 7.0, 25C
+1165	1-O-methyl-alpha-D-galactopyranoside	2176	HOVAGTYPODGVJG-PZRMXXKTSA-N				substrate 1-O-methyl-alpha-D-galactopyranoside
+1180	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N				
+1181	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	mutant Y436H/v494A, pH 7.0, 25C
+1200	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	pH 7.0, 25C, mutant C383A
+1266	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	mutant C383S/Y436A, pH 7.0, 25C
+1267	1-methyl-alpha-D-galactopyranoside	2176	HOVAGTYPODGVJG-PZRMXXKTSA-N	25	7.0	X	mutant Y436H, pH 7.0, 25C
+1301	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	mutant C383S/Y436H/V494A, pH 7.0, 25C
+1398	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	mutant Y436A/V494A, pH 7.0, 25C
+1440	1-O-methyl-beta-D-galactopyranoside	5019	HOVAGTYPODGVJG-VOQCIKJUSA-N				
+1444	1-methyl-alpha-D-galactopyranoside	2176	HOVAGTYPODGVJG-PZRMXXKTSA-N	25	7.0	X	mutant V494A, pH 7.0, 25C
+1495	1-methyl-alpha-D-galactopyranoside	2176	HOVAGTYPODGVJG-PZRMXXKTSA-N	25	7.0	X	mutant C383S/V494A, pH 7.0, 25C
+1548	1-methyl-alpha-D-galactopyranoside	2176	HOVAGTYPODGVJG-PZRMXXKTSA-N	25	7.0	X	mutant Y436A/V494A, pH 7.0, 25C
+1871	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	mutant C383S/Y436H, pH 7.0, 25C
+3400	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	pH 7.0, 25C, mutant C383T

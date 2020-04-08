@@ -1,0 +1,81 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant C443S, ATP-diphosphate exchange
+15	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant C443G, ATP-diphosphate exchange
+28	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant C443A, ATP-diphosphate exchange
+81	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type enzyme, ATP-diphosphate exchange
+0.003	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C
+0.014	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C
+0.02	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	70	7.0		aminoacylation reaction, recombinant wild-type enzyme, pH 7.0, 70C
+0.02	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	60	7.2		recombinant enzyme, pH 7.2, 60C
+0.022	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C
+0.025	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C
+0.04	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	60	7.2		recombinant enzyme, pH 7.2, 60C
+0.065	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C
+0.083	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C
+0.09	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	60	7.2		recombinant enzyme, pH 7.2, 60C
+0.11	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C
+0.12	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C
+0.19	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	60	7.2		recombinant enzyme, pH 7.2, 60C
+0.39	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C
+0.8	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	7.0		pH 7.0, 37C
+0.11	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	37			37C
+1.7	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	37			37C
+1.7	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	37	7.0		pH 7.0, 37C, recombinant wild-type enzyme, amino acid activation
+2.18	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	22	7.0	X	mutant enzyme G217A, at pH 7.0 and 22C
+3.26	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	22	7.0	X	mutant enzyme E218A, at pH 7.0 and 22C
+3.52	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	22	7.0		wild type enzyme, at pH 7.0 and 22C
+0.024	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.5	X	pH 7.5, 37C, mutant K279A
+0.09	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	70	7.0		aminoacylation reaction, recombinant wild-type enzyme, pH 7.0, 70C
+0.131	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.5	X	mutant enzyme F415A, in 50 mM HEPES (pH 7.5), 20 mM KCl, 25 mM MgCl2, at 37C
+0.23	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.5	X	pH 7.5, 37C, mutant K279A
+0.61	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.5	X	mutant enzyme N305A, in 50 mM HEPES (pH 7.5), 20 mM KCl, 25 mM MgCl2, at 37C
+0.9	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.0		pH 7.0, 37C
+3.37	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	22	7.0	X	mutant enzyme G217A, at pH 7.0 and 22C
+3.4	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	60	7.2		recombinant enzyme, pH 7.2, 60C
+4.4	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	22	7.0	X	mutant enzyme E218A, at pH 7.0 and 22C
+4.4	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.5	X	mutant enzyme E218A, in 50 mM HEPES (pH 7.5), 20 mM KCl, 25 mM MgCl2, at 37C
+4.6	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	22	7.5	X	mutant enzyme E303D, at pH 7.5 and 22C
+5.1	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	22	7.5	X	mutant enzyme E303K, at pH 7.5 and 22C
+5.2	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	22	7.5	X	mutant enzyme E303A, at pH 7.5 and 22C
+5.6	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C
+5.7	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	22	7.5	X	mutant enzyme K297E, at pH 7.5 and 22C
+5.9	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	22	7.5	X	mutant enzyme K297E/E303K, at pH 7.5 and 22C
+6.7	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.5	X	mutant enzyme E234A, in 50 mM HEPES (pH 7.5), 20 mM KCl, 25 mM MgCl2, at 37C
+6.98	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.5	X	mutant enzyme D198A, in 50 mM HEPES (pH 7.5), 20 mM KCl, 25 mM MgCl2, at 37C
+7.3	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.5	X	mutant enzyme H302A, in 50 mM HEPES (pH 7.5), 20 mM KCl, 25 mM MgCl2, at 37C
+10.7	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.5	X	mutant enzyme H302A/G412A, in 50 mM HEPES (pH 7.5), 20 mM KCl, 25 mM MgCl2, at 37C
+12	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.0	X	pH 7.0, 37C, recombinant mutant EcDELTAINS Gly12Ser4, amino acid activation
+12.6	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.5		wild type enzyme, in 50 mM HEPES (pH 7.5), 20 mM KCl, 25 mM MgCl2, at 37C
+12.6	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	22	7.5		wild type enzyme, at pH 7.5 and 22C
+12.7	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	22	7.0		wild type enzyme, at pH 7.0 and 22C
+12.8	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.5	X	mutant enzyme G412A, in 50 mM HEPES (pH 7.5), 20 mM KCl, 25 mM MgCl2, at 37C
+14	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C
+14	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C
+15	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	60	7.2		recombinant enzyme, pH 7.2, 60C
+19	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C
+26	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C
+32	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C
+34	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C
+35	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C
+35	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	60	7.2		recombinant enzyme, pH 7.2, 60C
+60	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.2		recombinant enzyme, pH 7.2, 37C
+63	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	60	7.2		recombinant enzyme, pH 7.2, 60C
+70	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37			37C
+70	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37	7.0		pH 7.0, 37C, recombinant wild-type enzyme, amino acid activation
+80	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	37			37C
+210	L-proline	215	ONIBWKKTOPOVIA-BYPYZUCNSA-N	60			60C, pH not specified in the publication, ATP-diphosphate exchange assay
+0.0091	tRNAPro	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.0	X	pH 7.0, 37C, recombinant mutant EcDELTAINS Gly12Ser4, aminoacylation
+0.239	tRNAPro	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.0		pH 7.0, 37C, recombinant wild-type enzyme, aminoacylation
+0.4	tRNAPro	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	55	7.0	X	pH 7.0, 55C, C-terminal deletion mutant
+0.58	tRNAPro	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.0		pH 7.0, 37C
+1.6	tRNAPro	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	55	7.0		pH 7.0, 55C, wild-type
+1.8	tRNAPro	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	50	7.5		50C, pH 7.5
+1.8	tRNAPro	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				steady-state
+2.9	tRNAPro	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	50	7.5		presence of bovine serum albumine, 50C, pH 7.5
+5.1	tRNAPro	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	50	7.5		presence of leucyl-tRNA synthetase, 50C, pH 7.5
+6.9	tRNAPro	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	50	7.5		presence of bovine serum albumine and leucyl-tRNA synthetase, 50C, pH 7.5
+9.8	tRNAPro	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				single turnover overall aminoacylation
+10.8	tRNAPro	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				single turnover of the transfer step
+0.056	cis-4-hydroxyproline	12151	PMMYEEVYMWASQN-IMJSIDKUSA-N	37	7.0	X	pH 7.0, 37C, recombinant mutant EcDELTAINS Gly12Ser4, amino acid activation
+21	cis-4-hydroxyproline	12151	PMMYEEVYMWASQN-IMJSIDKUSA-N	37	7.0		pH 7.0, 37C, recombinant wild-type enzyme, amino acid activation
+15	trans-4-hydroxyproline	4507	PMMYEEVYMWASQN-DMTCNVIQSA-N	37	7.0		pH 7.0, 37C, recombinant wild-type enzyme, amino acid activation

@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.12	N6-phenethyl-ATP	12081	PSPRNONTFBJUDQ-UHFFFAOYSA-N	37	7.0	X	pH 7.0, 37C, recombinant mutant M120G catalytic subunit
+0.5	N6-benzyl-ATP	9304	NUUDCFZWGUJXPV-UHFFFAOYSA-N	37	7.0	X	pH 7.0, 37C, recombinant mutant M120G catalytic subunit
+10.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0	X	pH 7.0, 37C, recombinant mutant M120G catalytic subunit
+18	Leu-Arg-Arg-Ala-Ser-Leu-Gly	123917	WIGDGIGALMYEBW-LLINQDLYSA-N	7	7.0	X	pH 7.0, temperature not specified in the publication, myristoylated wild-type enzyme and enzyme mutant K7C
+19	Leu-Arg-Arg-Ala-Ser-Leu-Gly	123917	WIGDGIGALMYEBW-LLINQDLYSA-N		7.0		pH 7.0, temperature not specified in the publication, wild-type enzyme
+19.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0		pH 7.0, 37C, recombinant wild-type catalytic subunit
+29	Leu-Arg-Arg-Ala-Ser-Leu-Gly	123917	WIGDGIGALMYEBW-LLINQDLYSA-N	7	7.0	X	pH 7.0, temperature not specified in the publication, myristoylated enzyme mutant K7C

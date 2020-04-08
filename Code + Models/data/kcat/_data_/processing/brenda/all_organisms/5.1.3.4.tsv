@@ -1,0 +1,28 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0057	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	37	7.6	X	37C, pH 7.6, mutant enzyme D120N
+0.0118	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	22	7.5	X	22C, pH 7.5, mutant enzyme Y229F, activated by 0.1 mM ZnCl2
+0.047	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	37	7.6	X	37C, pH 7.6, Zn2+-form after dialysis, mutant enzyme H95N; mutant H95N, Zn2+ form of enzyme after dialysis
+0.048	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	37	7.6	X	37C, pH 7.6, Zn2+-form after dialysis, mutant enzyme H97N; mutant H97N, Zn2+ form of enzyme after dialysis
+0.073	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	37	7.6	X	37C, pH 7.6, Zn2+-form after dialysis, mutant enzyme D76N; mutant D76N, Zn2+ form of enzyme after dialysis
+0.1	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N			X	mutant H95N, Zn2+ form of enzyme plus 0.1 mM Zn2+
+0.16	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	37	7.6	X	37C, pH 7.6, Zn2+-form after dialysis + 0.1 mM Zn2+, mutant enzyme D76N; mutant D76N, Zn2+ form of enzyme plus 0.1 mM Zn2+
+0.183	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	22	7.5	X	22C, pH 7.5, mutant enzyme H95N, activated by 0.1 mM ZnCl2
+0.502	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	22	7.5		22C, pH 7.5, wild-type enzyme, activated by 0.1 mM MgCl2
+0.81	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	37	7.6	X	37C, pH 7.6, mutant enzyme H218N
+1	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	37	7.6	X	37C, pH 7.6, mutant enzyme D76E
+1.1	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	37	7.6		37C, pH 7.6, wild-type enzyme
+2.01	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	22	7.5	X	22C, pH 7.5, mutant enzyme H97N, activated by 0.1 mM ZnCl2
+2.14	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	37	7.6	X	37C, pH 7.6, mutant enzyme E142Q
+2.5	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	37	7.6	X	37C, pH 7.6, mutant enzyme N28A
+2.94	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	22	7.5	X	22C, pH 7.5, mutant enzyme H97N, activated by 0.1 mM ZnCl2
+2.94	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	37	7.6	X	37C, pH 7.6, mutant enzyme E142Q
+6.08	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	22	7.5		22C, pH 7.5, wild-type enzyme, activated by 0.1 mM MgCl2
+6.08	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	37	7.6	X	37C, pH 7.6, mutant enzyme H218N
+7.3	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	37	7.6	X	37C, pH 7.6, Zn2+-form after dialysis + 0.1 mM Zn2+, mutant enzyme H97N; mutant H97N, Zn2+ form of enzyme plus 0.1 mM Zn2+
+17.3	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	22	7.5		22C, pH 7.5, wild-type enzyme, activated by 0.1 mM ZnCl2
+19.4	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	37	7.6		37C, pH 7.6, wild-type enzyme
+20.4	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	37	7.6		37C, pH 7.6, Zn2+-form after dialysis, wild-type; wild type enzyme, Zn2+ form of enzyme after dialysis
+20.7	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N				wild type enzyme, Zn2+ form of enzyme plus 0.1 mM Zn2+
+21.8	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	22	7.5		22C, pH 7.5, wild-type enzyme, activated by 0.1 mM CoCl2
+22.4	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	37	7.6		37C, pH 7.6, Zn2+-form after dialysis + 0.1 mM Zn2+, wild-type enzyme
+36.5	L-ribulose 5-phosphate	842	FNZLKVNUWIIPSJ-CRCLSJGQSA-N	22	7.5		22C, pH 7.5, wild-type enzyme, activated by 0.1 mM MnCl2

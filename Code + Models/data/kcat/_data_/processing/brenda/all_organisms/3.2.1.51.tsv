@@ -1,0 +1,85 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.003	p-nitrophenyl alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	37	6.8	X	mutant D225G, 50 mM sodium phosphate buffer, pH 6.8, 37C; mutant D225N, 50 mM sodium phosphate buffer, pH 6.8, 37C
+0.039	p-nitrophenyl alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	37	6.8	X	mutant E289Q, 50 mM sodium phosphate buffer, pH 6.8, 37C
+0.047	2-deoxy-2-fluoro-alpha-L-fucosyl fluoride	15130	NKRXQINIBNJLQC-YHMDAOSXSA-N	60	5.0		pH 5.0, 60C
+0.048	p-nitrophenyl alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	37	6.8	X	mutant E289G, 50 mM sodium phosphate buffer, pH 6.8, 37C
+0.13	alpha-L-fucosyl fluoride	5096	NEMRTLVVBHEBLV-SXUWKVJYSA-N	25	5.0	X	pH 5.0, 25C, mutant E266A
+0.24	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N			X	mutant D242G; mutant enzyme D242G
+0.24	p-nitrophenyl alpha-L-fucoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	65	6.5	X	pH 6.5, 65C, D242G mutant
+0.48	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	40		X	40C, mutant enzyme G226S/T264A/Y267F/L322P
+0.48	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	40		X	mutant G226S/T264A/Y267F/L322P, at 40C
+0.5	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	40		X	40C, mutant enzyme T264A/Y267F/L322P
+0.5	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	40		X	mutant T264A/Y267F/L322P, at 40C
+0.73	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	40		X	40C, mutant enzyme M210V/Y237H/T264A/Y267F/L322P
+0.73	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	40		X	mutant M210V/Y237H/T264A/Y267F/L322P, at 40C
+1.3	p-nitrophenyl alpha-L-fucoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	37	5.0	X	pH 5.0, 37C, mutant E66A
+1.4	alpha-L-fucosyl fluoride	5096	NEMRTLVVBHEBLV-SXUWKVJYSA-N	25	5.0	X	pH 5.0, 25C, mutant E66A
+1.86	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N		6.3	X	mutant E292G at pH 6.3 in the presence of sodium phosphate or at pH 4.6 in the presence of sodium acetate; mutant enzyme E292G
+1.96	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	65	6.3	X	pH 6.3, 65C, mutant enzyme E292G
+2.7	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	40		X	40C, mutant enzyme G226S/Y237H/T264A/L322P
+2.7	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	40		X	mutant G226S/Y237H/T264A/L322P, at 40C
+2.9	alpha-L-fucosyl fluoride	5096	NEMRTLVVBHEBLV-SXUWKVJYSA-N	25	5.0		pH 5.0, 25C
+3.6	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	40		X	40C, mutant enzyme T264A/L322P
+3.6	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	40		X	mutant T264A/L322P, at 40C
+4.3	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	40		X	40C, mutant enzyme M210V/Y237H/T264A/Y267F
+4.3	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	40		X	mutant M210V/Y237H/T264A/Y267F, at 40C
+5.1	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	40			40C, wild-type enzyme
+5.1	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	40			wild-type, at 40C
+5.4	p-nitrophenyl alpha-L-fucoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	37	5.0		pH 5.0, 37C
+6.4	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	70		X	70C, mutant enzyme G226S/T264A/Y267F/L322P
+6.4	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	70		X	mutant G226S/T264A/Y267F/L322P, at 70C
+7.6	alpha-L-fucosyl fluoride	5096	NEMRTLVVBHEBLV-SXUWKVJYSA-N	25	5.0		pH 5.0, 25C, wild-type enzyme
+8.2	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	70		X	70C, mutant enzyme T264A/Y267F/L322P
+8.2	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	70		X	mutant T264A/Y267F/L322P, at 70C
+9.1	p-nitrophenyl alpha-L-fucoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	60	5.0		pH 5.0, 60C
+9.66	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N			X	mutant D242G, in the presence of 2 M sodium azide
+12.5	p-nitrophenyl alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	37	6.8	X	mutant D258G, 50 mM sodium phosphate buffer, pH 6.8, 37C
+14.3	p-nitrophenyl alpha-L-fucoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	37	5.0		pH 5.0, 37C, wild-type enzyme
+14.8	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	40		X	40C, mutant enzyme Y237H/Y267F/L322P
+14.8	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	40		X	mutant Y237H/Y267F/L322P, at 40C
+15	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	40		X	40C, mutant enzyme P196L/Y237H/Y267F; 40C, mutant enzyme R147G/L322P; 40C, mutant enzyme T264A
+15	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	40		X	mutant R147G/L322P, mutant P196L/Y237H/Y267F and mutant T264A, at 40C
+16	p-nitrophenyl alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	37	6.8	X	mutant E135G, 50 mM sodium phosphate buffer, pH 6.8, 37C
+16.3	p-nitrophenyl alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	37	6.8	X	mutant E79G, 50 mM sodium phosphate buffer, pH 6.8, 37C
+16.7	p-nitrophenyl alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	37	6.8	X	mutant D276G, 50 mM sodium phosphate buffer, pH 6.8, 37C
+16.9	p-nitrophenyl alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	37	6.8	X	mutant D158G, 50 mM sodium phosphate buffer, pH 6.8, 37C; mutant E275G, 50 mM sodium phosphate buffer, pH 6.8, 37C; mutant E70G, 50 mM sodium phosphate buffer, pH 6.8, 37C
+17.1	p-nitrophenyl alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	37	6.8		50 mM sodium phosphate buffer, pH 6.8, 37C
+20	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	40		X	40C, mutant enzyme M210V/Y237H/T264A; 70C, mutant enzyme M210V/Y237H/T264A/Y267F/L322P
+20	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	40		X	mutant M210V/Y237H/T264A, at 40C; mutant M210V/Y237H/T264A/Y267F/L322P, at 70C
+35	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	70			70C, wild-type enzyme
+35	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	70			wild-type, at 70C
+39	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	70		X	70C, mutant enzyme G226S/Y237H/T264A/L322P4
+39	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	70		X	mutant G226S/Y237H/T264A/L322P, at 70C
+50	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	70		X	70C, mutant enzyme T264A/L322P
+50	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	70		X	mutant T264A/L322P7, at 70C
+56	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	70		X	70C, mutant enzyme M210V/Y237H/T264A/Y267F
+56	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	70		X	mutant M210V/Y237H/T264A/Y267F, at 70C
+65	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	70		X	70C, mutant enzyme M210V/Y237H/T264A
+65	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	70		X	mutant M210V/Y237H/T264A, at 70C
+96	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	70		X	70C, mutant enzyme Y237H/Y267F/L322P
+96	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	70		X	mutant Y237H/Y267F/L322P, at 70C
+137	4-nitrophenyl-alpha-L-fucoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N			X	mutant fucA1B
+143	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N		4.6	X	mutant E58G, at pH 4.6, in the presence of sodium citrate
+164	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	70		X	70C, mutant enzyme P196L/Y237H/Y267F
+164	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	70		X	mutant P196L/Y237H/Y267F, at 70C
+169	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	70		X	70C, mutant enzyme T264A
+169	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	70		X	mutant T264A, at 70C
+198	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	70		X	70C, mutant enzyme R147G/L322P
+198	p-nitrophenyl-alpha-L-fucose	961	YILIDCGSXCGACV-CSFHWYQASA-N	70		X	mutant R147G/L322P, at 70C
+224	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	65	6.3	X	pH 6.3, 65C, mutant enzyme D146G
+224	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N			X	mutant D146G; mutant enzyme D146G
+240	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	65	6.3	X	pH 6.3, 65C, mutant enzyme D124G
+240	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N			X	mutant D124G; mutant enzyme D124G
+245	p-nitrophenyl alpha-L-fucoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	65	6.5		pH 6.5, 65C, wild-type enzyme
+287	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	65	6.3		pH 6.3, 65C, wild-type enzyme
+287	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N		6.3		wild-type, at pH 6.3, in the presence of sodium phosphate; wild-type enzyme
+287	4-nitrophenyl-alpha-L-fucoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N				wild-type
+287	p-nitrophenyl alpha-L-fucoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	65	6.3		pH 6.3, 65C
+419	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	65	6.3	X	pH 6.3, 65C, mutant enzyme E292G; pH 6.3, 65C, mutant enzyme H46G
+419	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N			X	mutant enzyme H46G; mutant H46G
+430	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	65			pH5.0, 65C, wild-type enzyme
+430	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N		5.0		wild-type, at pH 5.0
+495	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N	65		X	pH5.0, 65C, mutant enzyme H46G
+586	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N		4.6	X	mutant E58G, at pH 4.6, in the presence of sodium acetate
+679	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N		6.3	X	mutant E58G, at pH 6.3, in the presence of sodium phosphate and NaN3
+846	4-nitrophenyl-alpha-L-fucopyranoside	502	YILIDCGSXCGACV-SQKFTNEHSA-N		4.6	X	mutant E58G, at pH 4.6, in the presence of sodium formate

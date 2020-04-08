@@ -1,0 +1,109 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0005	TKCVID	41822	GSNXTWXGSMQTLK-DGXVKIGKSA-N				
+0.001	TKCVII	41824	PCMBTFKLVHXARW-GOZIQZARSA-N				
+0.001	TKCVIL	41825	XSIMPRWMBNSYON-WDFGFUONSA-N				
+0.001	TKCVIR	41828	INWQYEQCBXUYMA-MBKWLGNUSA-N				
+0.0017	TKCVIY	41832	GXTICZOLPZVEHK-PTUUNMDDSA-N				
+0.0021	TKCVIV	41831	OQVWVOXSBHVSTP-MBKWLGNUSA-N				
+0.0025	Thr-Lys-Val-Ile-Phe	37361	DFLCVUCTNRULTK-LFRIZYGCSA-N	25	7.8		25C, pH 7.8
+0.004	(2E,6E)-8-(3-fluorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26666	DWNPDKMVYCBUKK-WSPXSRFVSA-N				apparent turnover number
+0.004	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N				apparent turnover number
+0.0082	TKCVIF	41823	AJMRJVAHRNGGIV-VRDJITKNSA-N				
+0.009	3-(3-methyl-2-butenyl)-7,11-dimethyldodeca-2(Z),6(E),10-triene 1-diphosphate	5752	VUKUPMLGLNKSNU-PYPMKZSKSA-N				cosubstrate: dansyl-Gly-Cys-Val-Ile-Met
+0.009	dansyl-Gly-Cys-Val-Ile-Met	9105	SSUGBYOKFWBRLK-BZVWHZGFSA-N				cosubstrate: 3-(3-methyl-2-butenyl)-7,11-dimethyldodeca-2(Z),6(E),10-triene 1-diphosphate
+0.01	(2E,6E)-3,7-dimethyl-8-(phenylamino)octa-2,6-dien-1-yl diphosphate	12730	HODAIPJPJAZJEY-GGQZXFEVSA-N				apparent turnover number, measured by continuous fluorescence assay
+0.01	dansyl-Gly-Cys-Val-Ile-Met	9105	SSUGBYOKFWBRLK-BZVWHZGFSA-N				cosubstrate: farnesyl diphosphate
+0.01	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				cosubstrate: dansyl-Gly-Cys-Val-Ile-Met
+0.013	TKCVIN	41827	OLCQGQFKWYIEPB-DGXVKIGKSA-N				
+0.015	3-(3-methyl-2-butenyl)-7,11-dimethyldodeca-2(Z),6(E),10-triene 1-diphosphate	5752	VUKUPMLGLNKSNU-PYPMKZSKSA-N				cosubstrate: dansyl-Gly-Cys-Lys-Val-Leu
+0.015	dansyl-Gly-Cys-Lys-Val-Leu	9103	RICHOQHCEPURQY-OKUYAMHMSA-N				cosubstrate: 3-(3-methyl-2-butenyl)-7,11-dimethyldodeca-2(Z),6(E),10-triene 1-diphosphate
+0.017	TKCVIT	41830	XJOQUPLTVAIFOA-VENAKJSWSA-N				
+0.02	AAA-GPP	25439	PNWXJWSMOLCNOB-GGWOSOGESA-N				at room temperature
+0.022	dansyl-Gly-Cys-Lys-Thr-Gln	9104	JXMJWUWZHUCQNC-DHJJKFFESA-N				cosubstrate: farnesyl diphosphate
+0.022	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				cosubstrate: dansyl-Gly-Cys-Lys-Thr-Gln
+0.03	(2E,6E)-3,7-dimethyl-8-[3-(trifluoromethoxy)phenoxy]octa-2,6-dien-1-yl trihydrogen diphosphate	26648	QPTMAVVRAJZUQX-WSPXSRFVSA-N				apparent turnover number
+0.033	3-(3-methyl-2-butenyl)-7,11-dimethyldodeca-2(Z),6(E),10-triene 1-diphosphate	5752	VUKUPMLGLNKSNU-PYPMKZSKSA-N				cosubstrate: dansyl-Gly-Cys-Lys-Thr-Gln
+0.033	dansyl-Gly-Cys-Lys-Thr-Gln	9104	JXMJWUWZHUCQNC-DHJJKFFESA-N				cosubstrate: 3-(3-methyl-2-butenyl)-7,11-dimethyldodeca-2(Z),6(E),10-triene 1-diphosphate
+0.04	(2E,6E)-8-(3-cyanophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26664	LSUGTZBCPJFVEY-JFOHIDKFSA-N				apparent turnover number
+0.04	(2E,6E)-8-(isoxazol-3-ylamino)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26676	PWJKIARTKDCFTI-HFQMJBPSSA-N				apparent turnover number
+0.041	TKCVIM	41826	OGZQIBUUZWFOLO-MBKWLGNUSA-N				
+0.042	APO-GPP	25440	VPALITZJQNGMFR-GGWOSOGESA-N				at room temperature
+0.045	dansyl-Gly-Cys-Lys-Val-Leu	9103	RICHOQHCEPURQY-OKUYAMHMSA-N				cosubstrate: farnesyl diphosphate
+0.045	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				cosubstrate: dansyl-Gly-Cys-Lys-Val-Leu
+0.046	TKCVIA	41820	MLXDQOWJQXLAMH-YLEKKWEVSA-N		7.8		in 50 mM N2-hydroxyethylpiperazine-N-2-hydroxypropanesulfonic acid-NaOH, pH 7.8, 5 mM MgCl2, and 2 mM tris(2-carboxyethyl)phosphine hydrochloride
+0.053	(E)-[4-[(3,7-dimethylocta-2,6-dien-1-yl)oxy]phenyl]-methanyl diphosphate	28393	CIBDEBZJABQTSS-RVDMUPIBSA-K	25	7.8		pH 7.8, 25C
+0.058	3-(3-methyl-2-butenyl)-7,11-dimethyldodeca-2(Z),6(E),10-triene 1-diphosphate	5752	VUKUPMLGLNKSNU-PYPMKZSKSA-N				cosubstrate: dansyl-Gly-Cys-Val-Leu-Ser
+0.058	dansyl-Gly-Cys-Val-Leu-Ser	904	PYFRGABQIDFXHO-FAWUNYRSSA-N				cosubstrate: 3-(3-methyl-2-butenyl)-7,11-dimethyldodeca-2(Z),6(E),10-triene 1-diphosphate
+0.06	(2E,6E)-8-(3-bromophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26663	YGLZRKWLLHJXDU-WSPXSRFVSA-N				apparent turnover number
+0.069	(2E,6E)-3,7-dimethyl-8-[(3-methylphenyl)amino]octa-2,6-dien-1-yl trihydrogen diphosphate	26644	QRRBFUYCWVFUFG-DRJBUHLUSA-N				apparent turnover number
+0.07	(2E,6E)-8-(3-iodophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26667	MQCKOOQYQOOWDV-WSPXSRFVSA-N				apparent turnover number
+0.08	(2E,6E)-8-[(3-ethylphenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26682	LQWGLYSDPNKAOZ-ZYHSJPTQSA-N				apparent turnover number
+0.08	HOM-GPP	25441	TUCVVGKWUWGEKH-MMGLKADASA-N				at room temperature
+0.08	Thr-Lys-Cys-Val-Leu-Ala	37360	CCCKFBDISNTYPB-TVWVXWENSA-N	25	7.8		25C, pH 7.8
+0.088	(2E,6E)-8-[(2-methoxyphenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26679	UTYLJLWVIUFELV-GGQZXFEVSA-N				apparent turnover number
+0.095	(2E,6E)-8-[(4-fluorophenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26688	GPEHBCSMPPNXSV-NCLYQNMFSA-N				apparent turnover number
+0.1	(2E,6E)-8-(3,5-difluorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26662	HSIIOEXGGZNSRZ-YKNDAMCPSA-N				apparent turnover number
+0.1	(2E,6E)-8-[(3-fluorophenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl diphosphate	26683	XBTRGVBGCJPQGM-WSPXSRFVSA-N				apparent turnover number
+0.1	Thr-Lys-Cys-Val-Ile-Met	11188	OGZQIBUUZWFOLO-CBQVAMJZSA-N	25	7.8		25C, pH 7.8
+0.11	(2E,6E)-8-(2-ethylphenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26656	GFCYMARPNYAUNK-YZNWVECCSA-N				apparent turnover number
+0.11	(2E,6E)-8-(2-iodophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26658	ZITHMYBYDKMLIL-KIYZNAMYSA-N				apparent turnover number
+0.11	(2E,6E)-8-(3,4-difluorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26660	YORFLXFXMIEKCI-NVKJMBTPSA-N				apparent turnover number
+0.12	(2E,6E)-3,7-dimethyl-8-(phenylamino)octa-2,6-dien-1-yl diphosphate	12730	HODAIPJPJAZJEY-GGQZXFEVSA-N				apparent turnover number, determined by RP-HPLC product analysis
+0.12	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.5		pH 7.5, 25C
+0.13	(2E,6E)-3,7-dimethyl-8-[3-(trifluoromethyl)phenoxy]octa-2,6-dien-1-yl trihydrogen diphosphate	26649	MADWZJHKFRYTPA-WSPXSRFVSA-N				apparent turnover number
+0.13	(2E,6E)-8-[(3-bromophenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26680	VTKLGELAMDLPGZ-WSPXSRFVSA-N				apparent turnover number
+0.13	(2E,6E)-8-[(3-cyanophenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26681	RUHZHDWQVIDJTK-JFOHIDKFSA-N				apparent turnover number
+0.13	dansyl-Gly-Cys-Val-Leu-Ser	904	PYFRGABQIDFXHO-FAWUNYRSSA-N				cosubstrate: farnesyl diphosphate
+0.13	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				cosubstrate: dansyl-Gly-Cys-Val-Leu-Ser
+0.14	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				apparent turnover number
+0.15	(2E,6E)-8-[(2-fluorophenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl diphosphate	26678	VVSJIROUIZPLKP-KIYZNAMYSA-N				apparent turnover number
+0.16	(2E,6E)-3,7-dimethyl-8-[4-(trifluoromethoxy)phenoxy]octa-2,6-dien-1-yl trihydrogen diphosphate	26651	SXCPDNBAQXXATF-NCLYQNMFSA-N				apparent turnover number
+0.161	TKCVIQ	24431	QHVSIJARJJFPBK-WQOUHTSMSA-N				
+0.166	(2E,6E)-3,7-dimethyl-8-[(2-methylphenyl)amino]octa-2,6-dien-1-yl trihydrogen diphosphate	26643	IDTMIOLTHVQWRL-GGQZXFEVSA-N				apparent turnover number
+0.17	(2E,6E)-3,7-dimethyl-8-(phenylsulfanyl)octa-2,6-dien-1-yl trihydrogen diphosphate	26641	IBODFWQGOKTNEE-GGQZXFEVSA-N				apparent turnover number
+0.17	(2E,6E)-8-[(2-ethylphenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26677	DQDJDPJKGXDCSQ-YZNWVECCSA-N				apparent turnover number
+0.17	(2E,6E)-8-(3-ethylphenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26665	JXMQYZDFEIRNGJ-ZYHSJPTQSA-N				apparent turnover number
+0.17	(2E,6E)-8-[(4-iodophenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26689	ZVBDZXHIEUMVTE-NCLYQNMFSA-N				apparent turnover number
+0.17	(2E,6E)-8-(benzyloxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26675	HFDRABRAYASVKA-ZYHSJPTQSA-N				apparent turnover number
+0.19	(2E,6E)-8-(2-fluorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26657	RSGVZAVQTORFMQ-KIYZNAMYSA-N				apparent turnover number
+0.19	(2E,6E)-8-(3,5-dichlorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26661	SFLWAMXTCCKHMJ-YKNDAMCPSA-N				apparent turnover number
+0.21	(2E,6E)-3,7-dimethyl-8-[3-(1-methylethyl)phenoxy]octa-2,6-dien-1-yl trihydrogen diphosphate	26647	ZRHASODLVFBPBQ-LDOVGGJOSA-N				apparent turnover number
+0.21	TKCVIS	41829	WVMAREPDPVUXSX-ACOMJQJQSA-N				
+0.23	(2E,6E)-8-(2,3-difluorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26653	GDTLSAVFUOHLQD-GOPAXJRYSA-N				apparent turnover number
+0.24	(2E,6E)-8-(3,4-dichlorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26659	AOSYADGUSGALFN-NVKJMBTPSA-N				apparent turnover number
+0.24	(2E,6E)-8-[(3-iodophenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26684	KPDZNULNJWQYES-WSPXSRFVSA-N				apparent turnover number
+0.27	(2E,6E)-3,7-dimethyl-8-[[4-(trifluoromethoxy)phenyl]amino]octa-2,6-dien-1-yl trihydrogen diphosphate	27129	VHJHXKXBFWNSOL-NCLYQNMFSA-N				apparent turnover number
+0.27	(2E,6E)-8-[(4-bromophenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26686	NYYDIYYPSUPTFF-NCLYQNMFSA-N				apparent turnover number
+0.27	(2E,6E)-8-(4-iodophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26673	FOVZGJCTKOMXMX-NCLYQNMFSA-N				apparent turnover number
+0.28	(2E,6E)-8-(4-ethylphenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26671	JAZYXLJGSIONHU-GEZQVVOQSA-N				apparent turnover number
+0.29	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	25	7.8		pH 7.8, 25C
+0.29	[3-[(3-phenoxyphenoxy)methyl]phenyl]-methanyl diphosphate	28394	ICDUMCDXLUTVLP-UHFFFAOYSA-K	25	7.8		pH 7.8, 25C
+0.3	(2E,6E)-3,7-dimethyl-8-[[2-(trifluoromethyl)phenyl]amino]octa-2,6-dien-1-yl trihydrogen diphosphate	27127	ILARFZIZGCXZSM-KIYZNAMYSA-N				apparent turnover number
+0.3	(2E,6E)-3,7-dimethyl-8-phenoxyocta-2,6-dien-1-yl trihydrogen diphosphate	26642	FGNBAIJVHQUDMT-GGQZXFEVSA-N				apparent turnover number
+0.3	(2E,6E)-8-(2-bromophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26655	UAWNXSVQMSEBGS-KIYZNAMYSA-N				apparent turnover number
+0.3	(2E,6E)-8-(4-benzylphenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26668	UELGCFSENAYRHB-ZKIAWUODSA-N				apparent turnover number
+0.31	TKCVIC	41821	RLEPUWSHIRIMLH-ACOMJQJQSA-N				
+0.4	(2E,6E)-3,7-dimethyl-8-[[3-(trifluoromethoxy)phenyl]amino]octa-2,6-dien-1-yl trihydrogen diphosphate	27128	HDAXGFSESGBCTE-WSPXSRFVSA-N				apparent turnover number
+0.4	(2E,6E)-3,7-dimethyl-9-phenylnona-2,6-dien-1-yl trihydrogen diphosphate	26652	RTBIJPUITFQSDQ-HLVCTGTRSA-N				apparent turnover number
+0.44	(2E,6E)-3,7-dimethyl-8-[4-(1-methylethyl)phenoxy]octa-2,6-dien-1-yl trihydrogen diphosphate	26650	BAQKMCDKAZOLBR-ALUFRLKHSA-N				apparent turnover number
+0.44	(2E,6E)-8-[3-(hydroxymethyl)phenoxy]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26665	JXMQYZDFEIRNGJ-ZYHSJPTQSA-N				apparent turnover number
+0.5	(2E,6E)-8-(4-bromophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26669	VNKIKPSDJZNBSN-NCLYQNMFSA-N				apparent turnover number
+0.53	(2E,6E)-8-[(3-methoxyphenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26685	MURLLIXBZCRJMG-SADFVUDUSA-N				apparent turnover number
+0.55	(2E,6E)-8-(4-nitrophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26674	IYXUQUHCARCDGE-NCLYQNMFSA-N				apparent turnover number
+0.58	(2E,6E)-8-(4-fluorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26672	UBMIPHKLKYRVFU-NCLYQNMFSA-N				apparent turnover number
+0.6	(2E,6E)-3,7-dimethyl-8-[(4-methylphenyl)amino]octa-2,6-dien-1-yl trihydrogen diphosphate	26645	PZBYUQGVSVREFK-DTUQGETDSA-N				apparent turnover number
+0.66	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				at room temperature
+0.7	(2E,6E)-8-[(4-cyanophenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26687	NTQJHCPZZUVLDW-QNCWQPSJSA-N				apparent turnover number
+0.84	7-benzyloxy-3-methyl-2-hepten-1-ol-diphosphate	22063	MSGYSNBBBQKRJY-GXDHUFHOSA-N				
+1.15	(2E,6E)-8-[4-(hydroxymethyl)phenoxy]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26691	WAVNBIYDDZRWFL-QNCWQPSJSA-N				apparent turnover number
+1.4	(2E,6E)-8-[(4-methoxyphenyl)amino]-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26690	YUNCWQNYMNVVSS-QQUWOELUSA-N				apparent turnover number
+1.6	(2E,6E)-3,7-dimethyl-8-[(4-nitrophenyl)amino]octa-2,6-dien-1-yl trihydrogen diphosphate	26646	UYGWTXKKVFWKKS-NCLYQNMFSA-N				apparent turnover number
+1.67	(2E,6E)-8-(2,6-difluorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26654	AUDPJYOXFYJXPI-GOPAXJRYSA-N				apparent turnover number
+1.93	(2E,6E)-8-(4-cyanophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26670	ADCISBYJDCPTJL-QNCWQPSJSA-N				apparent turnover number
+3.1	(2E,6E)-3,7-dimethyl-8-(2,3,5,6-tetrafluorophenoxy)-3,7-dimethylocta-2,6-dien-1-yl trihydrogen diphosphate	26640	MHLMBEPTYDTUEC-NVOKHFLUSA-N				apparent turnover number
+15	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N				
+25	10-benzyloxy-3-methyl-2-decen-1-ol-diphosphate	22016	DFYRENNHWMLYFW-GHRIWEEISA-N				
+27	8-benzyloxy-3-methyl-2-octen-1-ol-diphosphate	22064	FBSFKWRSULKVIM-RVDMUPIBSA-N				
+43	9-benzyloxy-3-methyl-2-nonen-1-ol-diphosphate	22065	INXCAWLOOVKZEN-FOWTUZBSSA-N				
+44	6-benzyloxy-3-methyl-2-hexen-1-ol-diphosphate	22056	BVUDEDUWOUOVQN-UKTHLTGXSA-N				
+100	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				

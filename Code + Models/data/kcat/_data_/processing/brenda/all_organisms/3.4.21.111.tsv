@@ -1,0 +1,91 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.009	N-succinyl-Ala-Ala-Phe-4-nitroanilide	4600	XRCMATIAAODPHY-FTRWYGJKSA-N	40	7.5	X	pH 7.5, 40C, G101L mutant
+0.014	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, G101L mutant
+0.024	N-succinyl-Gly-Gly-Phe-4-nitroanilide	4601	CFYIUBWVKZQDOG-SFHVURJKSA-N	40	7.5	X	pH 7.5, 40C, G101L mutant
+0.047	N-succinyl-Ala-Ala-Val-4-nitroanilide	11258	IFAOJWCXOQHSQT-LXIYXOSZSA-N	40	7.4		pH 7.4, 40C
+0.069	N-succinyl-Phe-Val-Leu-4-nitroanilide	22814	LDXIVWMWSAGDTN-DPZBCOQUSA-N	40	7.4		pH 7.4, 40C
+0.091	N-succinyl-Ala-Ala-Phe-4-nitroanilide	4600	XRCMATIAAODPHY-FTRWYGJKSA-N	40	7.5	X	pH 7.5, 40C, G101V mutant
+0.1	N-succinyl-Phe-Ala-Ala-4-nitroanilide	2424	RPUMVFAARWKRPD-FTRWYGJKSA-N	40	7.4		pH 7.4, 40C
+0.1	N-succinyl-Phe-Ala-Ala-4-nitroanilide	2424	RPUMVFAARWKRPD-FTRWYGJKSA-N	40	7.5		pH 7.5, 40C, absence of DMSO
+0.11	N-succinyl-Phe-Ala-Ala-4-nitroanilide	2424	RPUMVFAARWKRPD-FTRWYGJKSA-N	40	7.5	X	pH 7.5, 40C, S202E mutant; pH 7.5, 40C, S202H mutant
+0.15	N-succinyl-Gly-Gly-Phe-4-nitroanilide	4601	CFYIUBWVKZQDOG-SFHVURJKSA-N	40	7.5		pH 7.5, 40C, wild-type
+0.15	N-succinyl-Gly-Gly-Phe-4-nitroanilide	4601	CFYIUBWVKZQDOG-SFHVURJKSA-N	40	7.4		pH 7.4, 40C
+0.17	N-succinyl-Gly-Gly-Phe-4-nitroanilide	4601	CFYIUBWVKZQDOG-SFHVURJKSA-N	40	7.5	X	pH 7.5, 40C, G101A mutant
+0.18	N-succinyl-Phe-Ala-Ala-4-nitroanilide	2424	RPUMVFAARWKRPD-FTRWYGJKSA-N	40	7.5		pH 7.5, 40C, presence of DMSO
+0.18	N-succinyl-Phe-Nle-Ala-4-nitroanilide	3936	XFJIXCCRTMAAQV-TZYHBYERSA-N	40	7.5	X	pH 7.5, 40C, G101A mutant
+0.18	N-succinyl-Phe-Val-Ala-4-nitroanilide	8970	GFWBOPSCBDJGAU-JBUDQFAYSA-N	40	7.5	X	pH 7.5, 40C, G101A mutant
+0.22	N-succinyl-Ala-Ala-Phe-4-nitroanilide	4600	XRCMATIAAODPHY-FTRWYGJKSA-N	40	7.5	X	pH 7.5, 40C, G101A mutant
+0.24	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5		wild type enzyme, 40C, pH 7.5
+0.25	N-succinyl-Gly-Gly-Phe-4-nitroanilide	4601	CFYIUBWVKZQDOG-SFHVURJKSA-N	40	7.5	X	pH 7.5, 40C, G101V mutant
+0.48	N-succinyl-Ala-Pro-Ala-4-nitroanilide	22815	NRPFSJAQJJYJLT-XEZPLFJOSA-N	40	7.4		pH 7.4, 40C
+0.5	N-succinyl-Ala-Ala-Ala-4-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N	40	7.5	X	pH 7.5, 40C, S202E mutant
+0.88	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, G101A mutant
+0.9	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, G101V mutant
+1.1	N-succinyl-Ala-Ala-Ala-4-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N	40	7.5		pH 7.5, 40C, presence of DMSO
+1.1	N-succinyl-Phe-Ala-Ala-4-nitroanilide	2424	RPUMVFAARWKRPD-FTRWYGJKSA-N	40	7.5	X	pH 7.5, 40C, G131H mutant
+1.2	N-succinyl-Ala-Ala-Ala-4-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N	40	7.5		pH 7.5, 40C, wild-type
+1.3	N-succinyl-Ala-Ala-Ala-4-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N	40	7.5		pH 7.5, 40C, absence of DMSO
+1.4	N-succinyl-Ala-Ala-Ala-4-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N	40	7.4		pH 7.4, 40C
+1.5	N-succinyl-Phe-Ala-Ala-4-nitroanilide	2424	RPUMVFAARWKRPD-FTRWYGJKSA-N	40	7.5	X	pH 7.5, 40C, G131K mutant
+1.6	N-succinyl-Ala-Ala-Ala-4-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N	40	7.5	X	pH 7.5, 40C, S202H mutant
+2	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	P5N mutant enzyme, 40C, pH 7.5
+2.4	N-succinyl-Ala-Ala-Ala-4-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N	40	7.5	X	pH 7.5, 40C, G131D mutant
+2.5	N-succinyl-Ala-Ala-Phe-4-nitroanilide	4600	XRCMATIAAODPHY-FTRWYGJKSA-N	40	7.5		pH 7.5, 40C, wild-type
+2.5	N-succinyl-Ala-Ala-Phe-4-nitroanilide	4600	XRCMATIAAODPHY-FTRWYGJKSA-N	40	7.4		pH 7.4, 40C
+2.6	N-succinyl-Ala-Ala-Ala-4-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N	50	7		pH 7, 50C
+2.9	N-succinyl-Phe-Ala-Ala-4-nitroanilide	2424	RPUMVFAARWKRPD-FTRWYGJKSA-N	40	7.5	X	pH 7.5, 40C, S202K mutant
+3.2	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	C99S/C194S mutant enzyme, 40C, pH 7.5
+3.3	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5		pH 7.5, 40C
+3.3	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.4		pH 7.4, 40C
+3.3	N-succinyl-Phe-Leu-Ala-4-nitroanilide	11566	GSGCUAIOWPZBQO-TZYHBYERSA-N	40	7.5		pH 7.5, 40C, wild-type
+3.6	N-succinyl-Phe-Leu-Ala-4-nitroanilide	11566	GSGCUAIOWPZBQO-TZYHBYERSA-N	40	7.4		pH 7.4, 40C
+4.7	N-succinyl-Phe-Val-Ala-4-nitroanilide	8970	GFWBOPSCBDJGAU-JBUDQFAYSA-N	40	7.5		pH 7.5, 40C, wild-type
+5	N-succinyl-Ile-Val-Ala-4-nitroanilide	8971	PNYSPPXAZFRTBL-UFNANVBGSA-N	40	7.5		pH 7.5, 40C, absence of DMSO
+5	N-succinyl-Phe-Val-Phe-4-nitroanilide	35971	FVMIWBAPOAHUEN-WWDWLDGVSA-N	40	7.4		pH 7.4, 40C
+5.4	N-succinyl-Ala-Ala-Ala-4-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N	40	7.5	X	pH 7.5, 40C, G131K mutant
+6.08	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, G101A mutant
+6.4	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	C194S mutant enzyme, 40C, pH 7.5
+7.3	N-succinyl-Ala-Ala-Ala-4-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N	40	7.5	X	pH 7.5, 40C, G131H mutant
+7.9	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, G131D mutant
+8.1	N-succinyl-Ile-Val-Ala-4-nitroanilide	8971	PNYSPPXAZFRTBL-UFNANVBGSA-N	40	7.5		pH 7.5, 40C, presence of DMSO
+8.5	N-succinyl-Ala-Ala-Ala-4-nitroanilide	2172	GVUGADOWXGKRAE-SRVKXCTJSA-N	40	7.5	X	pH 7.5, 40C, S202K mutant
+8.8	N-succinyl-Phe-Nle-Ala-4-nitroanilide	3936	XFJIXCCRTMAAQV-TZYHBYERSA-N	40	7.5		pH 7.5, 40C, wild-type
+8.8	N-succinyl-Phe-Nle-Ala-4-nitroanilide	3936	XFJIXCCRTMAAQV-TZYHBYERSA-N	40	7.5		pH 7.5, 40C
+8.8	N-succinyl-Phe-Nle-Ala-4-nitroanilide	3936	XFJIXCCRTMAAQV-TZYHBYERSA-N	40	7.4		pH 7.4, 40C
+8.9	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, G131H mutant
+9	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, G131K mutant
+9	N-succinyl-Ala-Ala-Val-Ala-4-nitroanilide	7659	IYHHIHIBYVIDMJ-KZDUYQQSSA-N	40	7.5	X	40C pH 7.5, N219T mutant
+11	N-succinyl-Phe-Ala-Ala-4-nitroanilide	2424	RPUMVFAARWKRPD-FTRWYGJKSA-N	40	7.5		pH 7.5, 40C, wild-type
+11	N-succinyl-Phe-Ala-Ala-4-nitroanilide	2424	RPUMVFAARWKRPD-FTRWYGJKSA-N	40	7.5		pH 7.5, 40C, wild-type
+17	N-tert-butyloxycarbonyl-Val-Leu-Gly-Arg-4-nitroanilide	7660	CGGHMGOAVQFUNZ-FIXSFTCYSA-N	40	7.5	X	40C pH 7.5, N219T mutant
+18	N-succinyl-Ala-Ala-Val-Ala-4-nitroanilide	7659	IYHHIHIBYVIDMJ-KZDUYQQSSA-N	40	7.5		40C pH 7.5, wild-type
+24	N-succinyl-Ala-Ala-Val-Ala-4-nitroanilide	7659	IYHHIHIBYVIDMJ-KZDUYQQSSA-N	40	7.5	X	40C pH 7.5, N219S mutant
+25	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, S202E mutant
+26	N-tert-butyloxycarbonyl-Val-Leu-Gly-Arg-4-nitroanilide	7660	CGGHMGOAVQFUNZ-FIXSFTCYSA-N	40	7.5		40C pH 7.5, wild-type
+33	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5		pH 7.5, 40C, wild-type
+42	N-tert-butyloxycarbonyl-Val-Leu-Gly-Arg-4-nitroanilide	7660	CGGHMGOAVQFUNZ-FIXSFTCYSA-N	40	7.5	X	40C pH 7.5, N219S mutant
+47.2	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, mutant G61D
+53	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, mutant D183N
+54	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, S202H mutant
+59.5	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, mutant D138N
+61.3	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, mutant G262D
+62	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	C99S mutant enzyme, 40C, pH 7.5
+66	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	40C pH 7.5, N219T mutant
+66.5	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	P7I mutant enzyme, 40C, pH 7.5
+68.5	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, mutant D58N
+72.1	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	P5N mutant enzyme, 40C, pH 7.5
+73.6	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, mutant S277D
+75.2	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, mutant D212N
+80.4	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5		wild type enzyme, 40C, pH 7.5
+84	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5		40C pH 7.5, wild-type
+85.2	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	P240N mutant enzyme, 40C, pH 7.5
+88.7	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	P268T mutant enzyme, 40C, pH 7.5
+91.6	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5		wild type enzyme, 40C, pH 7.5
+91.6	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5		pH 7.5, 40C, wild-type enzyme
+96.1	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, mutant E237Q
+98.1	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5		wild type enzyme, 40C, pH 7.5
+110	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, mutant D17N
+144	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	pH 7.5, 40C, S202K mutant
+296	N-succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	40	7.5	X	40C pH 7.5, N219S mutant
+20400	N-succinyl-Phe-Nle-Ala-4-nitroanilide	3936	XFJIXCCRTMAAQV-TZYHBYERSA-N	40	7.5		40C, pH 7.5, precursor protein
+47400	N-succinyl-Phe-Nle-Ala-4-nitroanilide	3936	XFJIXCCRTMAAQV-TZYHBYERSA-N	40	7.5		40C, pH 7.5, mature protein

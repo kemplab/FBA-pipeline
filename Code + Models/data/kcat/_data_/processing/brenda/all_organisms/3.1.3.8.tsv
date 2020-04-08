@@ -1,0 +1,121 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.07	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N		7.0	X	mutant D56A, pH 7.0, temperature not specified in the publication
+0.1	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N		7.0	X	mutant D56L, pH 7.0, temperature not specified in the publication
+0.82	phytate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N			X	mutant enzyme K76R
+0.93	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	60	5.0		5.0 mM myo-inositol hexakisphosphate in 0.2 M sodium acetate, pH 5.0, at 60C
+1.1	D-fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	37	5.5		pH 5.5, 37C
+1.1	D-ribose 5-phosphate	165	KTVPXOYAKDPRHY-SOOFDHNKSA-N	37	5.5		pH 5.5, 37C
+1.6	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	37	5.5		pH 5.5, 37C
+1.9	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	5.5		in 1 M sodium acetate buffer pH 5.5, at 37C
+2	1-naphthyl phosphate	1779	YNXICDMQCQPQEW-UHFFFAOYSA-N				
+2	glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N				
+2.9	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	37	5.5		pH 5.5, 37C
+3	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N	37	6.0	X	pH 6.0, 37C, recombinant mutant C264G
+3	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	6.0	X	mutant C264G, pH 6.0, 37C
+3.34	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N		7.0	X	mutant D56E, pH 7.0, temperature not specified in the publication
+4	Glycerol 2-phosphate	1810	DHCLVCXQIBBOPH-UHFFFAOYSA-N				
+4.17	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N	35	7.0		phytase domain Phy-DII, pH 7.0, 35C
+5.92	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N	55	7.0		beta-propeller phytase 168PhyA, pH 7.0, 55C
+6	2-naphthyl phosphate	2309	CQTZJAKSNDFPOB-UHFFFAOYSA-N				
+6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+6	fructose 6-phosphate	82	BGWGXPAPYGQALX-VRPWFDPXSA-N				
+8	AMP	9	UDMBCSSLTHHNCD-KQYNXXCUSA-N				
+8.2	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	4.5		37C, pH 4.5
+8.33	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N		7.0	X	mutant D308A, pH 7.0, temperature not specified in the publication
+8.85	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	4.5		37C, pH 4.5
+9	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N				
+10	fructose 1,6-diphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				
+11	diphosphate	13	XPPKVPWEQAFLFU-UHFFFAOYSA-N				
+11.8	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	50	5.5		pH 5.5, 50C
+12.28	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N	55	7.0		phytase domain Phy-DI fused to beta-propeller phytase 168PhyA, pH 7.0, 55C
+15.55	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N		7.0	X	mutant D308E, pH 7.0, temperature not specified in the publication
+16	1-L-myo-inositol 1,2,3,4,5-pentakisphosphate	23693	CTPQAXVNYGZUAJ-UOTPTPDRSA-N	37	5.5		pH 5.5, 37C
+16	1-L-myo-inositol 1,2,3,5,6-pentakisphosphate	23693	CTPQAXVNYGZUAJ-UOTPTPDRSA-N	37	5.5		pH 5.5, 37C
+16.55	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N		7.0		wild-type, pH 7.0, temperature not specified in the publication
+20	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N				
+21	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	4.5		37C, pH 4.5
+21	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	5.5		pH 5.5, 37C
+23.46	phytate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	7.5		pH 7.5, 37C
+25.4	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	7.4		pH 7.4, 37C, presence of Ca2+
+26.6	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N		7.0		pH 7.0
+27	phytate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N			X	mutant enzyme Y159H
+27.72	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N	35	7.0		dual domain phytase PhyH, pH 7.0, 35C
+44.2	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	4.0		in 200 mM sodium acetate buffer, 1 mM CaCl2, pH 4.0, at 37C
+44.94	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N	37	7.0		beta-propeller phytase PhyP, pH 7.0, 37C
+46	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	58	5.0		; pH 5.0, 58C
+46	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O				
+51	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N		5.5		pH 5.5
+51.2	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	4.0		in 200 mM sodium acetate buffer, 1 mM CaCl2, pH 4.0, at 37C
+51.2	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	4.0		recombinant enzyme, in 200 mM sodium acetate buffer, 1 mM CaCl2, pH 4.0, at 37C
+59.2	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	4.0		native enzyme, in 200 mM sodium acetate buffer, 1 mM CaCl2, pH 4.0, at 37C
+59.83	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N	37	5.0	X	purified recombinant His-tagged mutant E121F, pH 5.0, 37C
+62	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N	37	5.0	X	pH 5.0, 37C, recombinant mutant C215S
+62	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	5.0	X	mutant C215S, pH 5.0, 37C
+83.67	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N	37	5.0	X	purified recombinant His-tagged mutant K41E, pH 5.0, 37C
+90	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N	42	2.5	X	pH 2.5, 42C, recombinant mutant C435G
+90	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	42	2.5	X	mutant C435G, pH 2.5, 42C
+94.4	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N	37	7.0		phytase domain Phy-DI fused to beta-propeller phytase PhyP, pH 7.0, 37C
+99	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N				
+101	D-glucose 1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N	37	4.5		37C, pH 4.5
+101	D-glucose 1-phosphate	115540	HXXFSFRBOHSIMQ-GASJEMHNSA-N	37	5.5		pH 5.5, 37C
+102	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N				
+103	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	50	5.5		sodium salt, pH 5.5, 50C
+104	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N				
+112.7	phytate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	5.0		pH 5.0, 37C
+114	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N				
+117	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	50	5.5		calcium salt, pH 5.5, 50C
+117	phytate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N			X	mutant enzyme D55A
+134	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	50	5.5		potassium salt, pH 5.5, 50C
+161	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N	37	5.0		purified recombinant His-tagged wild-type enzyme, pH 5.0, 37C
+161.9	4-nitrophenylphosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	37	4.5		37C, pH 4.5
+170	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	3.5		pH 3.5, 37C
+180	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N				
+198	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37	4.5		37C, pH 4.5
+220	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N				
+231	myo-inositol hexakisphosphate disodium salt	12858	UGFKVGGYLRGCTR-XPJYOAAYSA-L	50	5.5		pH 5.5, 50C
+234	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N	53	5.5	X	pH 5.5, 53C, recombinant mutant C31G
+234	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	53	5.5	X	mutant C31G, pH 5.5, 53C
+248	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N	36	5.0		recombinant isozyme b, pH 5.0, 36C
+253	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N	36	5.0		recombinant isozyme b2, pH 5.0, 36C
+253	myo-inositol hexakisphosphate sodium salt	12857	AXZYGIPYNXQTON-ZLVNENNRSA-M	50	5.5		pH 5.5, 50C
+260	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N	36	5.0		recombinant isozyme a, pH 5.0, 36C
+270	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N	36	5.0		recombinant isozyme b1, pH 5.0, 36C
+279	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N	36	5.0		recombinant isozyme a1, pH 5.0, 36C
+279	myo-inositol hexakisphosphate sodium salt	12857	AXZYGIPYNXQTON-ZLVNENNRSA-M	50	5.5		pH 5.5, 50C
+281	myo-inositol hexakisphosphate disodium salt	12858	UGFKVGGYLRGCTR-XPJYOAAYSA-L	50	5.5		pH 5.5, 50C
+300	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	58	5.0		pH 5.0, 58C, recombinant enzyme
+348	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N				native fungal enzyme
+348	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	58	5.0		; pH 5.0, 58C
+348	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	58	5.0		pH 5.0, 58C, native enzyme
+350	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N	58	5.0		pH 5.0, 58C, recombinant wild-type enzyme
+350	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N				
+350	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	58	5.0		wild-type, pH 5.0, 58C
+360	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N				recombinant enzyme
+370	myo-inositol-1,2,3,4,5,6-hexakisphosphate	960	CVMXCUBFFRHPKD-YORTWTKJSA-N				pH not specified in the publication, temperature not specified in the publication
+398	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	5.5		in 1 M sodium acetate buffer pH 5.5, at 37C
+840	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	3.5		pH 3.5, 37C
+908	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	5.0		in 50 mM NaOAc (pH 5.0) or 100 mM Tris-HCl buffer (pH 8.0), at 37C
+950	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	5.0		pH 5.0, 37C
+1260	phytate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	55	2.5		pH 2.5, 55C
+2056	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	5.0		in 50 mM NaOAc (pH 5.0) or 100 mM Tris-HCl buffer (pH 8.0), at 37C
+2283	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	4.5		pH 4.5, 37C
+2348	phytate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	55	4.0		pH 4.0, 55C
+2531	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	4.5		pH 4.5, 37C
+2660	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	4.5	X	mutant Q258N, pH 4.5, 37C
+3058	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	4.5	X	mutant Q258N/Q349N, pH 4.5, 37C
+3397	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	37	4.5		wild-type, pH 4.5, 37C
+5530	phytate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N			X	mutant enzyme E227A
+5532	phytate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N			X	mutant enzyme E227A
+11800	phytate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N			X	mutant enzyme R122K
+11810	phytate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N			X	mutant enzyme R122K
+12400	phytate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N			X	mutant enzyme D258A
+12430	phytate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N			X	mutant enzyme D258A
+29060	phytate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N			X	mutant enzyme R122E
+29100	phytate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N			X	mutant enzyme R122E
+59550	phytate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N				wild-type enzyme
+59600	phytate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N				wild-type enzyme
+300000	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N	55	2.5		pH 2.5, 55C. The enzyme may be a 3-phytase, EC 3.1.3.8, or a 6-phytase, EC 3.1.3.26. The product of the hydrolysis of myo-inositol hexakisphosphate i.e. myo-inositol 1,2,3,4,5-pentakisphosphate or myo-inositol 1,3,4,5,6-pentakisphosphate has not been identified
+357500	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		2.5		pH 2.5
+358000	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		2.5		pH 2.5
+411700	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N		5.5		pH 5.5
+412000	myo-inositol hexakisphosphate	195	IMQLKJBTEOYOSI-GPIVLXJGSA-N		5.5		pH 5.5

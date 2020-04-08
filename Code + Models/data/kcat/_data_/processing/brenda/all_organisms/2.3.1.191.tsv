@@ -1,0 +1,24 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.032	(3R)-3-hydroxymyristoyl-[acyl-carrier protein]	1913	VSIGAHQPZUXRFX-PQXIJOGNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme H239A
+0.73	(3R)-3-hydroxymyristoyl-[acyl-carrier protein]	1913	VSIGAHQPZUXRFX-PQXIJOGNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme H276A
+1.4	(3R)-3-hydroxymyristoyl-[acyl-carrier protein]	1913	VSIGAHQPZUXRFX-PQXIJOGNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme N233A
+1.9	(3R)-3-hydroxymyristoyl-[acyl-carrier protein]	1913	VSIGAHQPZUXRFX-PQXIJOGNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme D232A
+4.1	(3R)-3-hydroxymyristoyl-[acyl-carrier protein]	1913	VSIGAHQPZUXRFX-PQXIJOGNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme F41A
+5.7	(3R)-3-hydroxymyristoyl-[acyl-carrier protein]	1913	VSIGAHQPZUXRFX-PQXIJOGNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme K194A
+8.9	(3R)-3-hydroxymyristoyl-[acyl-carrier protein]	1913	VSIGAHQPZUXRFX-PQXIJOGNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme R293A
+12	(3R)-3-hydroxymyristoyl-[acyl-carrier protein]	1913	VSIGAHQPZUXRFX-PQXIJOGNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme Q236A
+17	(3R)-3-hydroxymyristoyl-[acyl-carrier protein]	1913	VSIGAHQPZUXRFX-PQXIJOGNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme K46A
+18	(3R)-3-hydroxymyristoyl-[acyl-carrier protein]	1913	VSIGAHQPZUXRFX-PQXIJOGNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme Y47A
+23	(3R)-3-hydroxymyristoyl-[acyl-carrier protein]	1913	VSIGAHQPZUXRFX-PQXIJOGNSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme
+0.032	UDP-3-O-((3R)-3-hydroxymyristoyl)-alpha-D-glucosamine	1958	ZFPNNOXCEDQJQS-SSVOXRMNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme H239A
+0.73	UDP-3-O-((3R)-3-hydroxymyristoyl)-alpha-D-glucosamine	1958	ZFPNNOXCEDQJQS-SSVOXRMNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme H276A
+1.4	UDP-3-O-((3R)-3-hydroxymyristoyl)-alpha-D-glucosamine	1958	ZFPNNOXCEDQJQS-SSVOXRMNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme N233A
+1.9	UDP-3-O-((3R)-3-hydroxymyristoyl)-alpha-D-glucosamine	1958	ZFPNNOXCEDQJQS-SSVOXRMNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme D232A
+4.1	UDP-3-O-((3R)-3-hydroxymyristoyl)-alpha-D-glucosamine	1958	ZFPNNOXCEDQJQS-SSVOXRMNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme F41A
+5.7	UDP-3-O-((3R)-3-hydroxymyristoyl)-alpha-D-glucosamine	1958	ZFPNNOXCEDQJQS-SSVOXRMNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme K194A
+8.9	UDP-3-O-((3R)-3-hydroxymyristoyl)-alpha-D-glucosamine	1958	ZFPNNOXCEDQJQS-SSVOXRMNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme R293A
+12	UDP-3-O-((3R)-3-hydroxymyristoyl)-alpha-D-glucosamine	1958	ZFPNNOXCEDQJQS-SSVOXRMNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme Q236A
+17	UDP-3-O-((3R)-3-hydroxymyristoyl)-alpha-D-glucosamine	1958	ZFPNNOXCEDQJQS-SSVOXRMNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme K46A
+18	UDP-3-O-((3R)-3-hydroxymyristoyl)-alpha-D-glucosamine	1958	ZFPNNOXCEDQJQS-SSVOXRMNSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme Y47A
+23	UDP-3-O-((3R)-3-hydroxymyristoyl)-alpha-D-glucosamine	1958	ZFPNNOXCEDQJQS-SSVOXRMNSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme
+3	UDP-3-O-[(3R)-3-hydroxymyristoyl]-alpha-D-glucosamine	1958	ZFPNNOXCEDQJQS-SSVOXRMNSA-N	25	8.0		pH 8.0, 25C, recombinant His6-tagged LpxD

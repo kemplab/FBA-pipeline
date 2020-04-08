@@ -1,0 +1,101 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00098	coniferyl aldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	30	6.5		pH 6.5-7.5, 30C, recombinant enzyme
+0.00135	sinapyl aldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N	30	6.5		pH 6.5-7.5, 30C, recombinant enzyme
+0.005	5-hydroxyconiferylaldehyde	2422	IEHPLRVWOHZKCS-NSCUHMNNSA-N	25	6.0		isoform CAD1, at pH 6.0 and 25C
+0.005	sinapaldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N	25	6.0		isoform CAD2, at pH 6.0 and 25C
+0.0053	sinapyl aldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N	26	6.5		pH 6.5-7.5, 26C, recombinant enzyme
+0.006	sinapaldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N	25	6.0		isoform CAD1, at pH 6.0 and 25C
+0.007	5-hydroxyconiferylaldehyde	2422	IEHPLRVWOHZKCS-NSCUHMNNSA-N	25	6.0		isoform CAD2, at pH 6.0 and 25C
+0.0121	coniferyl aldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	26	6.5		pH 6.5-7.5, 26C, recombinant enzyme
+0.024	sinapyl aldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N				Mt-CAD2, pH and temperature not specified in the publication
+0.0242	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				
+0.026	4-coumaraldehyde	4144	CJXMVKYNVIGQBS-OWOJBTEDSA-N	30		X	mutant T49A, 30C, pH not specified in the publication
+0.032	coniferyl aldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	30	6.5		pH 6.5-7.5, 30C, recombinant enzyme
+0.039	sinapyl aldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N			X	Mt-CAD2 mutant Y136F, pH and temperature not specified in the publication
+0.041	sinapyl aldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N	30	6.5		pH 6.5-7.5, 30C, recombinant enzyme
+0.044	sinapyl aldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N			X	Mt-CAD2 mutant F226A, pH and temperature not specified in the publication
+0.0555	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O				
+0.062	caffeylaldehyde	3660	AXMVYSVVTMKQSL-OWOJBTEDSA-N	25	6.0		isoform CAD2, at pH 6.0 and 25C
+0.072	caffeylaldehyde	3660	AXMVYSVVTMKQSL-OWOJBTEDSA-N	25	6.0		isoform CAD1, at pH 6.0 and 25C
+0.072	coniferaldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	25	6.0		isoform CAD2, at pH 6.0 and 25C
+0.083	sinapyl aldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N			X	Mt-CAD2 mutant Y136F/F226A, pH and temperature not specified in the publication
+0.085	coniferaldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	25	6.0		isoform CAD1, at pH 6.0 and 25C
+0.1	coniferyl aldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N				Mt-CAD2, pH and temperature not specified in the publication
+0.17	coniferyl aldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	30	10.5		pH 10.5, 30C, recombinant CAD1-1
+0.24	coniferyl aldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	30	8.8		pH 8.8, 30C, recombinant CAD1-7
+0.43	coniferyl alcohol	911	JMFRWRFFLBVWSI-NSCUHMNNSA-N	30	6.25		pH 6.25, 30C, recombinant CAD1-1
+0.46	p-coumaryl aldehyde	4144	CJXMVKYNVIGQBS-OWOJBTEDSA-N				Mt-CAD2, pH and temperature not specified in the publication
+0.49	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N				
+0.99	coniferyl alcohol	911	JMFRWRFFLBVWSI-NSCUHMNNSA-N	30	6.25		pH 6.25, 30C, recombinant CAD1-7
+1.3	coniferyl aldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	30	8.8		pH 8.8, 30C, recombinant enzyme encoded by GH2
+2	coniferyl aldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	40	6.5		pH 6.5, 40C
+2.3	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+2.4	sinapaldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N	30	7.5		isoform CAD3, at pH 7.5 and 30C
+2.5	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme, dismutase reaction with NADP+
+2.76	sinapaldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N	30	7.5		isoform CAD4, at pH 7.5 and 30C
+3.4	sinapaldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N	30	7.5		isoform CAD2, at pH 7.5 and 30C
+3.4	sinapyl aldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N	30	8.8		pH 8.8, 30C, recombinant enzyme encoded by GH2
+3.5	coniferyl alcohol	911	JMFRWRFFLBVWSI-NSCUHMNNSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+3.63	sinapyl aldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N	30	6.0		pH 6.0, 30C, recombinant His-tagged enzyme
+5.63	cinnamaldehyde	817	KJPRLNWUNMBNBZ-QPJJXVBHSA-N	40	6.5		pH 6.5, 40C
+5.7	butanol	456	LRHPLDYGYMQRHN-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+6.41	cinnamyl alcohol	728	OOCCDEMITAIZTP-QPJJXVBHSA-N	40	8.8		pH 8.8, 40C
+6.8	4-coumaraldehyde	4144	CJXMVKYNVIGQBS-OWOJBTEDSA-N	30			wild-type, 30C, pH not specified in the publication
+7.1	ethanol	65	LFQSCWFLJHTTHZ-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+7.7	cinnamyl aldehyde	817	KJPRLNWUNMBNBZ-QPJJXVBHSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+7.78	coniferyl aldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	30	6.0		pH 6.0, 30C, recombinant His-tagged enzyme
+7.9	coniferaldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	30	7.5		isoform CAD1, at pH 7.5 and 30C
+8.3	sinapaldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N	30	7.5		isoform CAD1, at pH 7.5 and 30C
+8.4	benzyl alcohol	226	WVDDGKGOMKODPV-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+8.68	coniferyl aldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	30	6.0		pH 6.0, 30C, recombinant His-tagged enzyme
+8.75	coniferyl alcohol	911	JMFRWRFFLBVWSI-NSCUHMNNSA-N	40	8.8		pH 8.8, 40C
+9	coniferaldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	30	7.5		isoform CAD2, at pH 7.5 and 30C
+9.1	coniferyl aldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N				Mt-CAD1, pH and temperature not specified in the publication
+9.22	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	40	8.8		pH 8.8, 40C
+10.09	sinapyl aldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N	30	6.0		pH 6.0, 30C, recombinant His-tagged enzyme
+10.2	sinapyl aldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N				Mt-CAD1, pH and temperature not specified in the publication
+10.8	coniferaldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	30	7.5		isoform CAD4, at pH 7.5 and 30C
+11.2	3-Phenyl-1-propanol	3528	VAJVDSVGBWFCLW-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+12	coniferaldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	30	7.5		isoform CAD3, at pH 7.5 and 30C
+12.8	Propanol	536	BDERNNFJNOPAEC-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+13.2	coniferyl alcohol	911	JMFRWRFFLBVWSI-NSCUHMNNSA-N				pH not specified in the publication, temperature not specified in the publication
+13.3	cinnamyl alcohol	728	OOCCDEMITAIZTP-QPJJXVBHSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+14.38	sinapyl alcohol	2599	LZFOPEXOUVTGJS-ONEGZZNKSA-N	40	8.8		pH 8.8, 40C
+14.4	cinnamaldehyde	817	KJPRLNWUNMBNBZ-QPJJXVBHSA-N	30	8.0		pH 8.0, 30C
+15.31	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	40	6.5		pH 6.5, 40C
+15.5	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	37	7.5		pH 7.5, 37C, recombinant enzyme, with benzyla alcohol
+15.6	p-coumaryl aldehyde	4144	CJXMVKYNVIGQBS-OWOJBTEDSA-N				Mt-CAD1, pH and temperature not specified in the publication
+16	sinapyl alcohol	2599	LZFOPEXOUVTGJS-ONEGZZNKSA-N	40	8.8		pH 8.8, 40C
+16.2	cinnamyl alcohol	728	OOCCDEMITAIZTP-QPJJXVBHSA-N	40	8.8		pH 8.8, 40C
+16.3	coniferyl alcohol	911	JMFRWRFFLBVWSI-NSCUHMNNSA-N	40	8.8		pH 8.8, 40C
+16.56	coniferyl aldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	40	6.5		pH 6.5, 40C
+16.59	sinapyl aldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N	30	5.0		pH 5.0, 30C, recombinant His-tagged enzyme; pH 5.0, 30C, recombinant His-tagged enzyme
+16.7	acetaldehyde	84	IKHGUXGNUITLKF-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+18	cinnamaldehyde	817	KJPRLNWUNMBNBZ-QPJJXVBHSA-N	40	6.5		pH 6.5, 40C
+18.1	cinnamyl alcohol	728	OOCCDEMITAIZTP-QPJJXVBHSA-N	30	8.0		pH 8.0, 30C
+19.9	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	30	8.0		pH 8.0, 30C
+22.5	p-coumaryl aldehyde	4144	CJXMVKYNVIGQBS-OWOJBTEDSA-N	40	6.5		pH 6.5, 40C
+23.3	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	40	8.8		pH 8.8, 40C
+24.7	coumaryl alcohol	4454	PTNLHDGQWUGONS-OWOJBTEDSA-N				pH not specified in the publication, temperature not specified in the publication
+25.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme, with acetaldehyde
+27.4	coniferyl aldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+28.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	40	6.5		pH 6.5, 40C
+32.2	sinapyl aldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N	40	6.5		pH 6.5, 40C
+32.9	allyl alcohol	2564	XXROGKLTLUQVRX-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+33	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	50	8.8		pH 8.8, 50C
+40.2	4-coumaraldehyde	4144	CJXMVKYNVIGQBS-OWOJBTEDSA-N	30		X	mutant H52A, 30C, pH not specified in the publication
+43	cinnamyl alcohol	728	OOCCDEMITAIZTP-QPJJXVBHSA-N	50	8.8		pH 8.8, 50C
+43	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	50	7.5		pH 7.5, 50C
+45.42	coniferyl aldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	30	5.0		pH 5.0, 30C, recombinant His-tagged enzyme; pH 5.0, 30C, recombinant His-tagged enzyme
+46.4	sinapyl alcohol	2599	LZFOPEXOUVTGJS-ONEGZZNKSA-N				pH not specified in the publication, temperature not specified in the publication
+55	cinnamaldehyde	817	KJPRLNWUNMBNBZ-QPJJXVBHSA-N	50	7.5		pH 7.5, 50C
+60.78	cinnamyl alcohol	728	OOCCDEMITAIZTP-QPJJXVBHSA-N		8.0		in 30 mM Tris-HCl (pH 8.0)
+74.2	4-coumaraldehyde	4144	CJXMVKYNVIGQBS-OWOJBTEDSA-N	30		X	mutant D57A, 30C, pH not specified in the publication
+99.6	coniferyl aldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N				pH not specified in the publication, temperature not specified in the publication
+107.9	cinnamaldehyde	817	KJPRLNWUNMBNBZ-QPJJXVBHSA-N		8.0		in 30 mM Tris-HCl (pH 8.0)
+138	coniferyl aldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N				pH not specified in the publication, temperature not specified in the publication
+195	sinapyl aldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N				pH not specified in the publication, temperature not specified in the publication
+196	sinapyl aldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N				pH not specified in the publication, temperature not specified in the publication
+1437	cinnamaldehyde	817	KJPRLNWUNMBNBZ-QPJJXVBHSA-N	30	6.0		pH 6.0, 30C, recombinant enzyme
+7564	coniferyl aldehyde	1256	DKZBBWMURDFHNE-NSCUHMNNSA-N	30	6.0		pH 6.0, 30C, recombinant enzyme
+9368	sinapyl aldehyde	3593	CDICDSOGTRCHMG-ONEGZZNKSA-N	30	6.0		pH 6.0, 30C, recombinant enzyme

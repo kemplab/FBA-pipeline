@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.03	keto-(p-hydroxyphenyl)pyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	25	6.0	X	25C, pH 6.0, mutant enzyme P1(A)M2
+0.93	keto-(p-hydroxyphenyl)pyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	25	6.0	X	25C, pH 6.0, mutant enzyme P1G
+2.7	keto-(p-hydroxyphenyl)pyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	25	6.0		25C, pH 6.0, wild-type enzyme
+6.08	keto-(p-hydroxyphenyl)pyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	25	6.0	X	25C, pH 6.0, mutant enzyme P1G

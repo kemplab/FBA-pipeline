@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3.1	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N	37	7.2	X	fluorogenic substrate, pH 7.2, 37C, mutant S446A
+3.5	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N	37	7.2	X	fluorogenic substrate, pH 7.2, 37C, truncated mutant DELTA389
+3.7	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N	37	7.2	X	fluorogenic substrate, pH 7.2, 37C, truncated mutant DELTA420
+11.1	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N	37	7.2	X	fluorogenic substrate, pH 7.2, 37C, truncated mutant DELTA484
+11.8	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N	37	7.2	X	fluorogenic substrate, pH 7.2, 37C, mutant F448Y; fluorogenic substrate, pH 7.2, 37C, truncated mutant DELTA542
+11.9	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N	37	7.2	X	fluorogenic substrate, pH 7.2, 37C, mutant S446T
+12	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N	37	7.2		fluorogenic substrate, pH 7.2, 37C, wild-type enzyme
+12.7	casein	595	WOGPXVJPMCSQSV-UHFFFAOYSA-N	37	7.2	X	fluorogenic substrate, pH 7.2, 37C, mutant F448V

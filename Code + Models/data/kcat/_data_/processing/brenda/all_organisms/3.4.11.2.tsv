@@ -1,0 +1,60 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.04	L-Ala-7-amido-4-methylcoumarin	3430	YSEVYVBZTLMRHW-VIFPVBQESA-N	30	7.0		pH 7.0, 30C
+0.052	L-Met-4-nitroanilide	7543	PLBWRAWSHVJPTL-JTQLQIEISA-N	37	8.0		pH 8.0, 37C
+1	VVYPWTQRF	11426	FFBBHLKDMHCFTH-IWRXEJHKSA-N	37	8.0		pH 8.0, 37C
+1	VYPWTQRF	25084	YBVXJADHHKRQLX-OXLWOWJVSA-N	37	8.0		pH 8.0, 37C
+1.19	3-OH-L-Pro-2-NaI-7-amido-4-carbamoylmethylcoumarin	125296	HCYBZSZNUYIKQD-XTHODOOASA-N	37	7.5		pH 7.5, 37C
+1.64	L-neopentyl-Gly-7-amido-4-carbamoylmethylcoumarin	125285	WPOFFTHJRWXUHE-ZDUSSCGKSA-N	37	7.5		pH 7.5, 37C
+1.66	L-Tyr-7-amido-4-carbamoylmethylcoumarin	125302	UOMVGKLFSCPQIN-INIZCTEOSA-N	37	7.5		pH 7.5, 37C
+1.72	L-Igl-7-amido-4-carbamoylmethylcoumarin	125293	NSTNHIVKORGUSC-NRFANRHFSA-N	37	7.5		pH 7.5, 37C
+2.33	LVVYPWTQRF	14644	NBQSSMDPPLHNDC-GXWKBVOGSA-N	37	8.0		pH 8.0, 37C
+2.6	L-2-NaI-7-amido-4-carbamoylmethylcoumarin	125294	ODMMVBSWNZGDFR-FQEVSTJZSA-N	37	7.5		pH 7.5, 37C
+2.65	L-hLeu-7-amido-4-carbamoylmethylcoumarin	125286	WHYHXJVJFOZNFK-AWEZNQCLSA-N	37	7.5		pH 7.5, 37C
+2.72	L-Nle-7-amido-4-carbamoylmethylcoumarin	125282	XDPYZVFIPOIOOH-ZDUSSCGKSA-N	37	7.5		pH 7.5, 37C
+3.19	L-hCha-7-amido-4-carbamoylmethylcoumarin	125288	FBFMDFOKQVGNOJ-KRWDZBQOSA-N	37	7.5		pH 7.5, 37C
+3.24	6-Obzl-L-Nle-7-amido-4-carbamoylmethylcoumarin	125307	RDNCMDHBWLJMHY-FQEVSTJZSA-N	37	7.5		pH 7.5, 37C
+3.33	L-Nva-7-amido-4-carbamoylmethylcoumarin	125280	GMGLNCVMZGPJSZ-LBPRGKRZSA-N	37	7.5		pH 7.5, 37C
+3.45	L-Leu-7-amido-4-carbamoylmethylcoumarin	125284	CKRILEIKRFZMQQ-ZDUSSCGKSA-N	37	7.5		pH 7.5, 37C
+3.64	L-Asp(Bzl)-7-amido-4-carbamoylmethylcoumarin	125305	XUSJMFVXVRVHIC-KRWDZBQOSA-N	37	7.5		pH 7.5, 37C
+3.84	L-Cha-7-amido-4-carbamoylmethylcoumarin	125287	CLNYLWFIJIBYQO-INIZCTEOSA-N	37	7.5		pH 7.5, 37C
+4.16	L-hSer(Bzl)-7-amido-4-carbamoylmethylcoumarin	125304	KGKFLQSPMZOFGP-SFHVURJKSA-N	37	7.5		pH 7.5, 37C
+4.4	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	7.0		pH 7.0, 37C, recombinant enzyme
+4.9	L-allyl-Gly-7-amido-4-carbamoylmethylcoumarin	125281	WQNSCZBDWWGPAH-LBPRGKRZSA-N	37	7.5		pH 7.5, 37C
+5.05	4-Cl-L-Phe-7-amido-4-carbamoylmethylcoumarin	125290	LNZGXKDFIHOUEZ-INIZCTEOSA-N	37	7.5		pH 7.5, 37C
+5.25	L-Abu(Bth)-7-amido-4-carbamoylmethylcoumarin	125278	GZXLDJXICVZQEQ-XRDRKEPISA-N	37	7.5		pH 7.5, 37C
+5.6	L-Glu(Bzl)-7-amido-4-carbamoylmethylcoumarin	125306	OUMNVBOWAWTPKT-SFHVURJKSA-N	37	7.5		pH 7.5, 37C
+5.99	L-Met-7-amido-4-carbamoylmethylcoumarin	125283	CUDDAJBOLIEZDG-LBPRGKRZSA-N	37	7.5		pH 7.5, 37C
+6.15	L-Lys-7-amido-4-carbamoylmethylcoumarin	125298	CSJURYSKVYWMBK-ZDUSSCGKSA-N	37	7.5		pH 7.5, 37C
+6.23	L-hSer-7-amido-4-carbamoylmethylcoumarin	125295	PSWVWBJOWNHECP-NSHDSACASA-N	37	7.5		pH 7.5, 37C
+6.7	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	37	8.0		pH 8.0, 37C
+7.25	L-Arg(NO2)-7-amido-4-carbamoylmethylcoumarin	125300	JGKRSNJCVVHEIY-LBPRGKRZSA-N	37	7.5		pH 7.5, 37C
+7.74	L-propargyl-Gly-7-amido-4-carbamoylmethylcoumarin	125279	NHUAZDVWHPEHFT-LBPRGKRZSA-N	37	7.5		pH 7.5, 37C
+8.63	L-hArg-7-amido-4-carbamoylmethylcoumarin	125301	FDEIXGRPXYJJCH-ZDUSSCGKSA-N	37	7.5		pH 7.5, 37C
+9.49	L-Ala-7-amido-4-methylcoumarin	3430	YSEVYVBZTLMRHW-VIFPVBQESA-N	30	7.0		pH 7.0, 30C
+9.72	L-Met-4-nitroanilide	7543	PLBWRAWSHVJPTL-JTQLQIEISA-N	37	8.0		pH 8.0, 37C
+12.7	L-hTyr-7-amido-4-carbamoylmethylcoumarin	125303	KCRMPYHHLCRJPA-KRWDZBQOSA-N	37	7.5		pH 7.5, 37C
+13	L-hPhe-7-amido-4-carbamoylmethylcoumarin	125292	VXBFZSUZAKXOQX-KRWDZBQOSA-N	37	7.5		pH 7.5, 37C
+13.1	L-Arg-7-amido-4-carbamoylmethylcoumarin	125299	LATSULXQCFJREL-LBPRGKRZSA-N	37	7.5		pH 7.5, 37C
+13.8	L-2-amino-3-(2-benzothiazolyl)butyric acid-7-amido-4-carbamoylmethylcoumarin	125278	GZXLDJXICVZQEQ-XRDRKEPISA-N	37	7.5		pH 7.5, 37C
+18.7	L-Lys-4-nitroanilide	2640	VUUNELJIFNFWJC-NSHDSACASA-N	37	7.0		native enzyme, pH 7.0, 37C
+19.3	L-Arg-2-naphthylamide	1398	DICSXQHGGOAUNU-AWEZNQCLSA-N	37	8.0		pH 8.0, 37C
+21.3	L-Lys-4-nitroanilide	2640	VUUNELJIFNFWJC-NSHDSACASA-N	37	7.0		recombinant enzyme, pH 7.0, 37C
+23.1	L-Lys-2-naphthylamide	3648	QXMBQGUYVQPOCP-HNNXBMFYSA-N	37	8.0		pH 8.0, 37C
+28.4	L-Ala-7-amido-4-carbamoylmethylcoumarin	125277	PKUJETGOYZJCNS-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+29.5	L-Ala-4-nitroanilide	1401	HMNPAESPRLNEBP-LURJTMIESA-N	30	7.0		pH 7.0, 30C
+33.2	Leu5-enkephalin	2214	URLZCHNOLZSCCA-VABKMULXSA-N				
+34.3	L-Ala-4-nitroanilide	1401	HMNPAESPRLNEBP-LURJTMIESA-N	37	8.0		pH 8.0, 37C
+45.2	Gly-4-nitroanilide	6528	VZZMNSJSZXVCCW-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C
+53	L-Ala-L-Ala-L-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N				
+80	L-Met-7-amido-4-methylcoumarin	2768	FOQJZUMVLRTZQB-ZDUSSCGKSA-N				
+87	L-Ser-2-naphthylamide	23680	WHMSBOCYMJTNDA-LBPRGKRZSA-N	37	8.0		pH 8.0, 37C
+90	L-Leu-7-amido-4-methylcoumarin	2515	GTAAIHRZANUVJS-ZDUSSCGKSA-N				
+92	Gly-7-amido-4-methylcoumarin	5924	KYIPWSXYZXKCST-UHFFFAOYSA-N				
+149	L-Ala-2-naphthylamide	3781	RQHPADKWNYTHOH-VIFPVBQESA-N	37	8.0		pH 8.0, 37C
+158	L-Arg-4-nitroanilide	5470	TWYRZWVFWYSNBU-JTQLQIEISA-N	37	7.0		pH 7.0, 37C, recombinant enzyme
+174	Leu-p-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				
+290	L-Lys-4-nitroanilide	2640	VUUNELJIFNFWJC-NSHDSACASA-N				
+303	Ala-2-naphthylamide	3781	RQHPADKWNYTHOH-VIFPVBQESA-N				
+354	L-Ala-4-nitroanilide	1401	HMNPAESPRLNEBP-LURJTMIESA-N	37	7.0		pH 7.0, 37C, recombinant enzyme
+860	L-Ala-2-naphthylamide	3781	RQHPADKWNYTHOH-VIFPVBQESA-N	43	7.5		pH 7.5, 43C
+7600	L-Ala-4-nitroanilide	1401	HMNPAESPRLNEBP-LURJTMIESA-N	43	7.5		pH 7.5, 43C

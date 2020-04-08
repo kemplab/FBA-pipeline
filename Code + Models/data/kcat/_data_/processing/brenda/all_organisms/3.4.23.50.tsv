@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.13	2-aminobenzoyl-Ala-Thr-His-Gln-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	11200	SSJFXAHODBLYPT-BXXHETBDSA-N	25	5.0		pH 5.0, 25C, 13000 Da C-terminally truncated enzyme form
+1.37	2-aminobenzoyl-Ala-Thr-His-Gln-Val-Tyr-Phe(NO2)-Val-Arg-Lys-Ala	11200	SSJFXAHODBLYPT-BXXHETBDSA-N	25	5.0		pH 5.0, 25C, 18000 Da enzyme form
+0.8	Lys-Ala-Arg-Val-Tyr-Phe(NO2)-Glu-Ala-Nle-NH2	11255	HCUNYWQLJJPQTG-YEFQRJECSA-N		4.5		pH 4.5, 18200 Da enzyme form
+2.1	Lys-Ala-Arg-Val-Tyr-Phe(NO2)-Glu-Ala-Nle-NH2	11255	HCUNYWQLJJPQTG-YEFQRJECSA-N		4.5		pH 4.5, 11600 Da core domain

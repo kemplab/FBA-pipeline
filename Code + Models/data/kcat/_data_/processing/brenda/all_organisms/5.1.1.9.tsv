@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.4	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	37	10.0		wild type enzyme, in 0.6 M CHES-NaOH buffer (pH 10.0). 0.1 mM pyridoxal 5'-phosphate, at 37C
+2.6	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	37	10.0		wild type enzyme, in 0.6 M CHES-NaOH buffer (pH 10.0). 0.1 mM pyridoxal 5'-phosphate, at 37C
+6.3	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	37	10.0	X	mutant enzyme C74A/C73A, in 0.6 M CHES-NaOH buffer (pH 10.0). 0.1 mM pyridoxal 5'-phosphate, at 37C
+6.8	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	37	10.0	X	mutant enzyme C74A/C73A, in 0.6 M CHES-NaOH buffer (pH 10.0). 0.1 mM pyridoxal 5'-phosphate, at 37C
+67.5	D-ornithine	1863	AHLPHDHHMVZTML-SCSAIBSYSA-N	37	10.0	X	mutant enzyme C74A/C73A, in 0.6 M CHES-NaOH buffer (pH 10.0). 0.1 mM pyridoxal 5'-phosphate, at 37C
+68.8	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	37	10.0	X	mutant enzyme C74A/C73A, in 0.6 M CHES-NaOH buffer (pH 10.0). 0.1 mM pyridoxal 5'-phosphate, at 37C
+81.7	D-Lysine	1155	KDXKERNSBIXSRK-RXMQYKEDSA-N	37	10.0	X	mutant enzyme C74A/C73A, in 0.6 M CHES-NaOH buffer (pH 10.0). 0.1 mM pyridoxal 5'-phosphate, at 37C
+83.3	D-ornithine	1863	AHLPHDHHMVZTML-SCSAIBSYSA-N	37	10.0		wild type enzyme, in 0.6 M CHES-NaOH buffer (pH 10.0). 0.1 mM pyridoxal 5'-phosphate, at 37C
+84.9	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	10.0	X	mutant enzyme C74A/C73A, in 0.6 M CHES-NaOH buffer (pH 10.0). 0.1 mM pyridoxal 5'-phosphate, at 37C
+87.7	L-ornithine	172	AHLPHDHHMVZTML-BYPYZUCNSA-N	37	10.0		wild type enzyme, in 0.6 M CHES-NaOH buffer (pH 10.0). 0.1 mM pyridoxal 5'-phosphate, at 37C
+93.5	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	10.0	X	mutant enzyme C74A/C73A, in 0.6 M CHES-NaOH buffer (pH 10.0). 0.1 mM pyridoxal 5'-phosphate, at 37C
+94.6	D-arginine	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	37	10.0	X	mutant enzyme C74A/C73A, in 0.6 M CHES-NaOH buffer (pH 10.0). 0.1 mM pyridoxal 5'-phosphate, at 37C
+104	D-Lysine	1155	KDXKERNSBIXSRK-RXMQYKEDSA-N	37	10.0		wild type enzyme, in 0.6 M CHES-NaOH buffer (pH 10.0). 0.1 mM pyridoxal 5'-phosphate, at 37C
+109	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	37	10.0		wild type enzyme, in 0.6 M CHES-NaOH buffer (pH 10.0). 0.1 mM pyridoxal 5'-phosphate, at 37C
+119	D-arginine	953	ODKSFYDXXFIFQN-SCSAIBSYSA-N	37	10.0		wild type enzyme, in 0.6 M CHES-NaOH buffer (pH 10.0). 0.1 mM pyridoxal 5'-phosphate, at 37C
+119	L-arginine	117	ODKSFYDXXFIFQN-BYPYZUCNSA-N	37	10.0		wild type enzyme, in 0.6 M CHES-NaOH buffer (pH 10.0). 0.1 mM pyridoxal 5'-phosphate, at 37C

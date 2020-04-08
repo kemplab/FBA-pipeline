@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.067	phosphatidylcholine	190	VWDFPPVHQPESCX-AWEZNQCLSA-O				unstimulated full lenth enzyme
+0.08	phosphatidylcholine	190	VWDFPPVHQPESCX-AWEZNQCLSA-O				N-terminally truncated enzyme PLD1, stimulated by PKCalpha
+0.1	phosphatidylcholine	190	VWDFPPVHQPESCX-AWEZNQCLSA-O				N-terminally truncated enzyme PLD1, stimulated by Cdc42; N-terminally truncated enzyme PLD1, stimulated by PKCalpha + Rac1; N-terminally truncated enzyme PLD1, stimulated by PKCalpha + RhoA; N-terminally truncated enzyme PLD1, unstimulated
+0.117	phosphatidylcholine	190	VWDFPPVHQPESCX-AWEZNQCLSA-O				N-terminally truncated enzyme PLD1, stimulated by PKCalpha + Cdc42
+0.13	phosphatidylcholine	190	VWDFPPVHQPESCX-AWEZNQCLSA-O				N-terminally truncated enzyme PLD1, stimulated by Rac1
+0.17	phosphatidylcholine	190	VWDFPPVHQPESCX-AWEZNQCLSA-O				N-terminally truncated enzyme PLD1, stimulated by RhoA
+0.18	phosphatidylcholine	190	VWDFPPVHQPESCX-AWEZNQCLSA-O				full length enzyme stimulated by RhoA
+0.27	phosphatidylcholine	190	VWDFPPVHQPESCX-AWEZNQCLSA-O				full length enzyme stimulated by Arf-1
+0.37	phosphatidylcholine	190	VWDFPPVHQPESCX-AWEZNQCLSA-O				N-terminally truncated enzyme PLD1, stimulated by Arf-1; N-terminally truncated enzyme PLD1, stimulated by Arf-1 + Cdc42; N-terminally truncated enzyme PLD1, stimulated by Arf-1 + Rac1
+0.43	phosphatidylcholine	190	VWDFPPVHQPESCX-AWEZNQCLSA-O				N-terminally truncated enzyme PLD1, stimulated by Arf1 + PKCalpha
+0.45	phosphatidylcholine	190	VWDFPPVHQPESCX-AWEZNQCLSA-O				N-terminally truncated enzyme PLD1, stimulated by Arf1 + RhoA
+0.93	phosphatidylcholine	190	VWDFPPVHQPESCX-AWEZNQCLSA-O				full length enzyme stimulated by PKCalpha
+68.8	phosphatidyl-p-nitrophenol	6615	NUTRNQVPPHJWQR-SNVBAGLBSA-N		5.5		pH 5.5, hydrolysis
+174.8	phosphatidyl-p-nitrophenol	6615	NUTRNQVPPHJWQR-SNVBAGLBSA-N		5.5		pH 5.5, transphosphatidylation

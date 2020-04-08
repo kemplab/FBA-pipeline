@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.012	FADH2	15	YPZRHBJKEMOYQH-UYBVJOGSSA-N	4			4C
+0.018	tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	30		X	His-tagged recombinant mutant enzyme W455A, at 30C, pH not specified in the publication
+0.021	tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	30		X	His-tagged recombinant mutant enzyme H101A, at 30C, pH not specified in the publication
+0.023	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N		7.5		pH 7.5
+0.05	tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	25			ranges from 0.02 s-1 to 0.05 s-1 for different preparations, 25C
+0.067	tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	30		X	His-tagged recombinant mutant enzyme F103A, at 30C, pH not specified in the publication
+0.11	tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	30			His-tagged recombinant wild type enzyme, at 30C, pH not specified in the publication
+0.12	FADH2	15	YPZRHBJKEMOYQH-UYBVJOGSSA-N	25			25C

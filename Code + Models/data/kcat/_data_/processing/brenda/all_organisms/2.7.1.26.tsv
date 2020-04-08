@@ -1,0 +1,41 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.042	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0	X	apparent value, mutant enzyme N210D, at 37C in 20 mM PIPES pH 7.0, 0.8 mM MgCl2
+0.07	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0	X	apparent value, mutant enzyme E268D, at 37C in 20 mM PIPES pH 7.0, 0.8 mM MgCl2
+0.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.0	X	mutant enzyme R66E, at pH 7.0 and 25C
+0.5	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R66A
+0.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R66E
+0.75	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0	X	mutant enzyme H28A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C; mutant enzyme T165D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+0.77	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0	X	mutant enzyme N125A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+0.92	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0	X	mutant enzyme H28D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C; mutant enzyme S164D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+0.97	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0	X	mutant enzyme H31A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+0.98	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0	X	mutant enzyme S164A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+1.08	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0	X	mutant enzyme R161A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+1.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0	X	mutant enzyme T165A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+1.13	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0		apparent value, wild type enzyme, at 37C in 20 mM PIPES pH 7.0, 0.8 mM MgCl2
+1.13	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0	X	mutant enzyme R161D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C; wild type enzyme, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+1.33	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.0	X	mutant enzyme N125D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+2.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.0		wild type enzyme, at pH 7.0 and 25C
+6.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.0		pH 7.0, 25C, recombinant wild-type enzyme
+0.1	MgATP2-	102	CYYJCOXYBYJLIK-MCDZGGTQSA-J	30	8.5		pH 8.5, 30C
+0.045	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	37	7.0	X	apparent value, mutant enzyme E268D, at 37C in 20 mM PIPES pH 7.0, 0.8 mM MgCl2
+0.085	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	37	7.0	X	apparent value, mutant enzyme N210D, at 37C in 20 mM PIPES pH 7.0, 0.8 mM MgCl2
+0.1	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	30	8.5		pH 8.5, 30C
+0.3	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	37			37C
+0.5	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R66A
+0.7	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	37			37C
+0.7	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	25	7.0	X	mutant enzyme R66E, at pH 7.0 and 25C; pH 7.0, 25C, recombinant mutant R66E
+1.85	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	37	7.0	X	mutant enzyme N125A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+2.82	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	37	7.0	X	mutant enzyme H31A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+2.85	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	37	7.0	X	mutant enzyme T165A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+3	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	37	7.0	X	mutant enzyme T165D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+3.08	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	37	7.0	X	mutant enzyme S164D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+4.32	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	37	7.0	X	mutant enzyme S164A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+4.78	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	37	7.0	X	mutant enzyme H28D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+5	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	37	7.0		apparent value, wild type enzyme, at 37C in 20 mM PIPES pH 7.0, 0.8 mM MgCl2
+5	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	37	7.0	X	mutant enzyme R161A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C; mutant enzyme R161D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+5.02	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	37	7.0		wild type enzyme, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+6.8	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	25	7.0		pH 7.0, 25C, recombinant wild-type enzyme; wild type enzyme, at pH 7.0 and 25C
+6.92	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	37	7.0	X	mutant enzyme N125D, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+7.12	riboflavin	298	AUNGANRZJHBGPY-SCRDCRAPSA-N	37	7.0	X	mutant enzyme H28A, in 20 mM PIPES, 0.8 mM MgCl2, pH 7.0, at 37C
+0.4	roseoflavin	5506	IGQLDUYTWDABFK-GUTXKFCHSA-N	37			37C
+0.5	roseoflavin	5506	IGQLDUYTWDABFK-GUTXKFCHSA-N	37			37C

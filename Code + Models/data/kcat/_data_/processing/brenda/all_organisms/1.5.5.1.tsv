@@ -1,0 +1,33 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+6.6	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	25	7.4		recombinant enzyme, pH 7.4, 25C
+59.9	decylubiquinone	744	VMEGFMNVSYVVOM-UHFFFAOYSA-N	25	7.4		recombinant enzyme, pH 7.4, 25C
+74.3	decylubiquinone	744	VMEGFMNVSYVVOM-UHFFFAOYSA-N				
+33.5	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N				
+84	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N				
+115	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N				
+115	ubiquinone-1	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N				
+18.1	duroquinone	946	WAMKWBHYPYBEJY-UHFFFAOYSA-N	25	7.4		recombinant enzyme, pH 7.4, 25C
+21.4	electron-transferring flavoprotein	170	VOCHQRDHMUQBKK-UHFFFAOYSA-N				
+40	electron-transferring flavoprotein	170	VOCHQRDHMUQBKK-UHFFFAOYSA-N		7.0		comproportionation at about pH 7.0
+78	electron-transferring flavoprotein	170	VOCHQRDHMUQBKK-UHFFFAOYSA-N				comproportionation of electron-transferring flavoprotein and hydroquinone electron-transferring flavoprotein
+90	electron-transferring flavoprotein	170	VOCHQRDHMUQBKK-UHFFFAOYSA-N				
+120	electron-transferring flavoprotein	170	VOCHQRDHMUQBKK-UHFFFAOYSA-N		8.5		comproportionation at about pH 8.5
+200	electron-transferring flavoprotein	170	VOCHQRDHMUQBKK-UHFFFAOYSA-N				disproportion of semiquinone electron-transferring flavoprotein
+162	ubiquinone-2	1735	SQQWBSBBCSFQGC-JLHYYAGUSA-N				
+8	reduced electron-transferring flavoprotein	1123	GQPPNUDTGJSKSD-UHFFFAOYSA-N				wild type enzyme
+8.8	reduced electron-transferring flavoprotein	1123	GQPPNUDTGJSKSD-UHFFFAOYSA-N			X	mutant enzyme N338A
+8.9	reduced electron-transferring flavoprotein	1123	GQPPNUDTGJSKSD-UHFFFAOYSA-N			X	mutant enzyme N338T
+35.5	ubiquinone-4	4553	XGCJRRDNIMSYNC-INVBOZNNSA-N				
+61.3	nonylubiquinone	14245	WCPNEVGRQYNKIB-UHFFFAOYSA-N	25	7.4		recombinant enzyme, pH 7.4, 25C
+210	6-(10-bromodecyl)ubiquinone	21760	MBHYAQKIMZZCCX-UHFFFAOYSA-N				
+132	6-(10-hydroxydecyl)ubiquinone	21761	JGPMMRGNQUBGND-UHFFFAOYSA-N				
+182	6-heptylubiquinone	21767	ZOCHBOVCJPRXOT-UHFFFAOYSA-N				
+246	6-nonylubiquinone	14245	WCPNEVGRQYNKIB-UHFFFAOYSA-N				
+7.4	pentadecylubiquinone	23129	HBPIJBJNZIQQNU-UHFFFAOYSA-N	25	7.4		recombinant enzyme, pH 7.4, 25C
+68.7	6-bis(isoprenyl)ubiquinone	23130	BVQVXMASQLIJDO-YRNVUSSQSA-N	25	7.4		recombinant enzyme, pH 7.4, 25C
+54	heptylubiquinone	23131	IFBRTGHCYUMPNZ-UHFFFAOYSA-N	25	7.4		recombinant enzyme, pH 7.4, 25C
+60.8	bromodecylubiquinone	21760	MBHYAQKIMZZCCX-UHFFFAOYSA-N	25	7.4		recombinant enzyme, pH 7.4, 25C
+34.5	6-isoprenylubiquinone	343	SOECUQMRSRVZQQ-UHFFFAOYSA-N	25	7.4		recombinant enzyme, pH 7.4, 25C
+67	hydroxydecylubiquinone	21761	JGPMMRGNQUBGND-UHFFFAOYSA-N	25	7.4		recombinant enzyme, pH 7.4, 25C
+31.5	tridecylubiquinone	23132	FMXQKPKOJXMKID-UHFFFAOYSA-N	25	7.4		recombinant enzyme, pH 7.4, 25C
+78.8	ubiqinone-2	1735	SQQWBSBBCSFQGC-JLHYYAGUSA-N				

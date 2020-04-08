@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.02	4-oxalocrotonate	4366	OOEDHTCVMHDXRH-IWQZZHSRSA-N			X	mutant E111Q, in complex with vinylpuruvate hydratase
+0.03	4-oxalocrotonate	4366	OOEDHTCVMHDXRH-IWQZZHSRSA-N			X	mutant E109Q, in complex with vinylpuruvate hydratase
+68	2-oxo-3-hexenedioate	5722	QTHJXLFFFTVYJC-OWOJBTEDSA-N				
+68	4-oxalocrotonate	4366	OOEDHTCVMHDXRH-IWQZZHSRSA-N				wild-type, in complex with vinylpuruvate hydratase

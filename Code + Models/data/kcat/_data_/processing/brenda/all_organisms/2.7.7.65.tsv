@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.014	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	30	8.0	X	mutant K759A, Michaelis-Menten model, pH 8.0, 30C
+1.2	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	30	8.0		wild-type, Michaelis-Menten model, pH 8.0, 30C
+4.5	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N				WspR full-length, cyclic di-3',5'-guanylate-free
+40.56	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N				WspGCN4-RGGDEF, cyclic di-3',5'-guanylate-bound
+59.05	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N				WspGCN4-RGGDEF, cyclic di-3',5'-guanylate-free
+0.00081	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N			X	triple mutant R148A/R178A/R313A, inhibited
+0.0009	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N				wild-type
+0.004	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N			X	mutant R313A
+0.015	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N			X	double mutant R148A/R178A
+0.016	cyclic di-3',5'-guanylate	983	PKFDLKSEZWEFGL-MHARETSRSA-N			X	triple mutant R148A/R178A/R313A

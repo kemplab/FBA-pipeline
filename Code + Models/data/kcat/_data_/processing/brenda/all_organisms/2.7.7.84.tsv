@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.95	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	OAS1 mutant K212A, with ATP as sole substrate, pH and temperature not specified in the publication
+0.99	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	OAS1 mutant S62A, with ATP and NAD+ as substrates, pH and temperature not specified in the publication
+3.6	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O			X	OAS1 mutant S63A, with ATP and NAD+ as substrates, pH and temperature not specified in the publication; wild-type OAS1, with ATP and NAD+ as substrates, pH and temperature not specified in the publication
+8.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type OAS1, with ATP as sole substrate, pH and temperature not specified in the publication

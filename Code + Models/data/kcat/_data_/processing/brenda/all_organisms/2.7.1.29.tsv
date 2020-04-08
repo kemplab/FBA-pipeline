@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+24.02	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0		at pH 8.0 and 37C
+4.8	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+17.5	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+1.6	dihydroxyacetone	509	RXKJFZQQPQGTFL-UHFFFAOYSA-N	22	7.5	X	apparent value, mutant enzyme H56A, in 50 mM potassium phosphate pH 7.5, at 22C
+2.8	dihydroxyacetone	509	RXKJFZQQPQGTFL-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, DhaK-DhaL-DhaM complex; pH 7.5, 30C, DhaK-DhaL-DhaM complex; pH 7.5, 30C, DhaK-DhaL-DhaM complex
+3.72	dihydroxyacetone	509	RXKJFZQQPQGTFL-UHFFFAOYSA-N	22	7.5	X	apparent value, mutant enzyme H56N, in 50 mM potassium phosphate pH 7.5, at 22C
+8.45	dihydroxyacetone	509	RXKJFZQQPQGTFL-UHFFFAOYSA-N	22	7.5		apparent value, Km above 0.008 mM, wild type enzyme, in 50 mM potassium phosphate pH 7.5, at 22C
+24.13	dihydroxyacetone	509	RXKJFZQQPQGTFL-UHFFFAOYSA-N				pH and temperature not specified in the publication
+5.17	D,L-glyceraldehyde	405	MNQZXJOMYWMBOU-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C

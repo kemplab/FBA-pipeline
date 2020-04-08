@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0497	ethylbenzene	2326	YNQLUTRBYVCPMQ-UHFFFAOYSA-N				Pseudomonas pseudoalcaligenes strain KF707
+0.056	Benzene	1307	UHOVQNZJYSORNB-UHFFFAOYSA-N				Pseudomonas pseudoalcaligenes strain 1072
+0.113	Biphenyl	1397	ZUOUZKKEUPVFJK-UHFFFAOYSA-N				Pseudomonas pseudoalcaligenes strain KF707
+0.114	Biphenyl	1397	ZUOUZKKEUPVFJK-UHFFFAOYSA-N				Pseudomonas pseudoalcaligenes strain LB400
+0.115	Toluene	1011	YXFVVABEGXRONW-UHFFFAOYSA-N				Pseudomonas pseudoalcaligenes strain 1072
+0.168	Biphenyl	1397	ZUOUZKKEUPVFJK-UHFFFAOYSA-N				Pseudomonas pseudoalcaligenes strain 1072
+0.219	ethylbenzene	2326	YNQLUTRBYVCPMQ-UHFFFAOYSA-N				Pseudomonas pseudoalcaligenes strain 1072
+0.4	Biphenyl	1397	ZUOUZKKEUPVFJK-UHFFFAOYSA-N	25	6		pH 6, 25C
+1.1	Biphenyl	1397	ZUOUZKKEUPVFJK-UHFFFAOYSA-N	4			4C
+2.2	Biphenyl	1397	ZUOUZKKEUPVFJK-UHFFFAOYSA-N	10			10C
+4.1	Biphenyl	1397	ZUOUZKKEUPVFJK-UHFFFAOYSA-N	25	6		pH 6, 25C
+4.6	Biphenyl	1397	ZUOUZKKEUPVFJK-UHFFFAOYSA-N	25			25C

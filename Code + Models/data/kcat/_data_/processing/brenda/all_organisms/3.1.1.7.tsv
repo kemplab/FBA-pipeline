@@ -1,0 +1,59 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00000883	(S)-butyrylthiocholine iodide	1861	WEQAAFZDJROSBF-UHFFFAOYSA-M				pH and temperature not specified in the publication
+0.0000825	propionylthiocholine iodide	5841	BJQIXLJDWWVGAE-UHFFFAOYSA-M				pH and temperature not specified in the publication
+0.000143	acetylthiocholine iodide	826	NTBLZMAMTZXLBP-UHFFFAOYSA-M				pH and temperature not specified in the publication
+0.000146	acetyl(beta-methyl)thiocholine iodide	13786	SHEXQJZFGTZWSV-UHFFFAOYSA-N				pH and temperature not specified in the publication
+0.017	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	22	7	X	F295A/Y337A mutant, pH 7, 22C
+0.2	acetylthiocholine chloride	16674	GZYVLKKMMDFCKR-UHFFFAOYSA-M	30	8.0		pH 8.0, 30C, native enzyme
+0.5	propionylthiocholine chloride	24841	DFQTUNIXEAAEKC-UHFFFAOYSA-M	30	8.0		pH 8.0, 30C, native enzyme
+0.7	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	22	7	X	F295L/Y337A mutant, pH 7, 22C
+0.97	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	22	7	X	Y337A/E202Q/F295A mutant, pH 7, 22C
+1.04	acetylthiocholine	463	GFFIJCYHQYHUHB-UHFFFAOYSA-N		8.0		in 0.5 M Tris-HCl buffer, pH 8.0, temperature not specified in the publication
+1.2	acetylcholine chloride	10823	JUGOREOARAHOCO-UHFFFAOYSA-M	30	8.0		pH 8.0, 30C, native enzyme
+1.2	propionylcholine chloride	14131	ARHSIMKCFUIWHF-UHFFFAOYSA-M	30	8.0		pH 8.0, 30C, native enzyme
+1.29	acetylthiocholine	463	GFFIJCYHQYHUHB-UHFFFAOYSA-N		8.0		in 0.5 M Tris-HCl buffer, pH 8.0, temperature not specified in the publication
+1.55	acetylthiocholine	463	GFFIJCYHQYHUHB-UHFFFAOYSA-N		8.0		in 0.5 M Tris-HCl buffer, pH 8.0, temperature not specified in the publication
+1.84	acetylthiocholine	463	GFFIJCYHQYHUHB-UHFFFAOYSA-N		8.0		in 0.5 M Tris-HCl buffer, pH 8.0, temperature not specified in the publication
+16.9	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	22	7	X	F297I/Y337A mutant, pH 7, 22C
+18.3	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	22	7	X	Y337A/F295A/F297A mutant, pH 7, 22C
+23.3	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	22	7	X	F297I/Y337A mutant, pH 7, 22C
+25	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	22	7	X	Y337A/F295L/F297I mutant, pH 7, 22C
+33.33	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	22	7	X	F295A/Y337A mutant, pH 7, 22C
+64.8	acetylthiocholine	463	GFFIJCYHQYHUHB-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant G122H/Y124Q/S125T
+65	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	22	7	X	Y337A/F338A mutant, pH 7, 22C
+66.67	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	22	7	X	F295L/Y337A mutant, pH 7, 22C
+95	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	124		X	Y124C-acrylodan mutant
+111	S-butyrylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25			25C
+250	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	22	7		wild-type, pH 7, 22C
+293.3	acetylthiocholine	463	GFFIJCYHQYHUHB-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant G122H/Y124Q/S125T
+433	propionylthiocholine	538	AWBGQVBMGBZGLS-UHFFFAOYSA-N	25			25C
+587.1	acetylthiocholine	463	GFFIJCYHQYHUHB-UHFFFAOYSA-N	37	7.4		enzyme from adult, at pH 7.4 and 37C
+1079	acetylthiocholine	463	GFFIJCYHQYHUHB-UHFFFAOYSA-N	37	7.4		enzyme from pupa, at pH 7.4 and 37C
+1330	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	124		X	Y124C-benzyl mutant
+1333	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	124		X	Y124C-benzyl mutant
+1616	acetylthiocholine	463	GFFIJCYHQYHUHB-UHFFFAOYSA-N	25			25C
+1780	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N				from Drosophila
+1820	acetylthiocholine	463	GFFIJCYHQYHUHB-UHFFFAOYSA-N	37	7.4		enzyme from larva, at pH 7.4 and 37C
+1850	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	124		X	Y124C-N(Ch3)3+ mutant
+2130	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	124		X	Y124C-SO3- mutant
+2133	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	124		X	Y124C-SO3- mutant
+2330	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N				wild-type
+2330	acetylthiocholine iodide	826	NTBLZMAMTZXLBP-UHFFFAOYSA-M	124		X	Y124C mutant
+2333	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N				wild-type
+2333	acetylthiocholine iodide	826	NTBLZMAMTZXLBP-UHFFFAOYSA-M	124		X	Y124C mutant
+2367	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	124		X	Y124C mutant
+2370	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	124		X	Y124C mutant
+2667	acetylthiocholine iodide	826	NTBLZMAMTZXLBP-UHFFFAOYSA-M	262		X	A262C mutant; E81C mutant; wild-type enzyme
+2670	acetylthiocholine iodide	826	NTBLZMAMTZXLBP-UHFFFAOYSA-M	262		X	A262C mutant; E81C mutant; wild-type enzyme
+2730	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	262		X	A262C mutant
+2733	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	262		X	A262C mutant
+3000	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	287		X	H287C mutant
+3000	acetylthiocholine iodide	826	NTBLZMAMTZXLBP-UHFFFAOYSA-M	287		X	H287C mutant; L76C mutant
+3167	acetylthiocholine iodide	826	NTBLZMAMTZXLBP-UHFFFAOYSA-M	84		X	E84C mutant
+3170	acetylthiocholine iodide	826	NTBLZMAMTZXLBP-UHFFFAOYSA-M	84		X	E84C mutant
+4350	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N	124		X	Y124C-NH3+ mutant
+4417	acetylthiocholine	463	GFFIJCYHQYHUHB-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, wild-type enzyme
+5300	acetylthiocholine	463	GFFIJCYHQYHUHB-UHFFFAOYSA-N				
+6500	acetyl thiocholine	463	GFFIJCYHQYHUHB-UHFFFAOYSA-N	27	8		pH 8, 27C, attachment of polyethylene glycol side chains to lysine residues does not alter the Kcat value
+6670	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N				from human
+13700	Acetylcholine	527	OIPILFWXSMYKGL-UHFFFAOYSA-N				from eel

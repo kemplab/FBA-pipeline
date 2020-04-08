@@ -1,0 +1,175 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5	X	mutant enzyme N75G/N175Q, at pH 7.5 and 30C
+4.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5		with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+8.16	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5		isoform PDH3, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+13.02	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5		with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+27.4	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	8.5	X	mutant enzyme H103Y, with ferrocenium ion as cosubstrate, at pH 8.5 and 30C
+33.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5		with ferrocenium ion as electron acceptor, in 100 mM sodium phosphate pH 7.5, at 30C
+35.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5		isoform PDH2, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+36.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5		wild type enzyme, at pH 7.5 and 30C
+37.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	8.5		using ferrocenium ion as cosubstrate, recombinant enzyme, at pH 8.5 and 30C
+37.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	8.5		wild type enzyme, with ferrocenium ion as cosubstrate, at pH 8.5 and 30C
+40.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5	X	mutant enzyme N75G/N252Q, at pH 7.5 and 30C
+42.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5		isoform PDH1, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+45.3	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5	X	mutant enzyme N75G, at pH 7.5 and 30C
+45.4	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5	X	mutant enzyme N175Q/N252Q, at pH 7.5 and 30C
+45.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				ferricenium ion as electron acceptor; ferricenium ion as electron acceptor; ferricenium ion as electron acceptor
+45.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5		native enzyme, with 0.4 mM ferricenium ion as the electron acceptor, at 30C in phosphate buffer, pH 7.5
+45.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				with ferrocenium ion as cosubstrate, pH and temperature not specified in the publication
+45.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	8.5		using ferrocenium ion as cosubstrate, native enzyme, at pH 8.5 and 30C
+48.06	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5		recombinant enzyme, with 0.4 mM ferricenium ion as the electron acceptor, at 30C in phosphate buffer, pH 7.5
+48.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5	X	mutant enzyme N175Q, at pH 7.5 and 30C
+49.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5	X	mutant enzyme N75G/N175Q/N252Q, at pH 7.5 and 30C
+50.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5	X	mutant enzyme N252Q, at pH 7.5 and 30C
+5.23	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	7.5		with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+19.3	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	7.5		isoform PDH3, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+24.77	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	7.5		with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+25.7	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	7.5	X	mutant enzyme N75G, at pH 7.5 and 30C
+28.7	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	7.5		with ferrocenium ion as electron acceptor, in 100 mM sodium phosphate pH 7.5, at 30C
+28.9	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	8.5	X	mutant enzyme H103Y, with ferrocenium ion as cosubstrate, at pH 8.5 and 30C
+31.8	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	7.5		wild type enzyme, at pH 7.5 and 30C
+34.2	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	7.5	X	mutant enzyme N75G/N175Q, at pH 7.5 and 30C
+34.3	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	7.5		isoform PDH1, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+37.9	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	7.5	X	mutant enzyme N75G/N252Q, at pH 7.5 and 30C
+38.9	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	7.5	X	mutant enzyme N75G/N175Q/N252Q, at pH 7.5 and 30C
+39.3	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	7.5	X	mutant enzyme N175Q/N252Q, at pH 7.5 and 30C
+40.3	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	7.5	X	mutant enzyme N175Q, at pH 7.5 and 30C
+45.9	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	7.5	X	mutant enzyme N252Q, at pH 7.5 and 30C
+46.6	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	7.5		recombinant enzyme, with 0.4 mM ferricenium ion as the electron acceptor, at 30C in phosphate buffer, pH 7.5
+47.3	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	8.5		using ferrocenium ion as cosubstrate, recombinant enzyme, at pH 8.5 and 30C
+47.3	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	8.5		wild type enzyme, with ferrocenium ion as cosubstrate, at pH 8.5 and 30C
+48.5	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N				ferricenium ion as electron acceptor; ferricenium ion as electron acceptor; ferricenium ion as electron acceptor
+48.5	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	7.5		native enzyme, with 0.4 mM ferricenium ion as the electron acceptor, at 30C in phosphate buffer, pH 7.5
+48.5	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N				with ferrocenium ion as cosubstrate, pH and temperature not specified in the publication
+48.5	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	8.5		using ferrocenium ion as cosubstrate, native enzyme, at pH 8.5 and 30C
+137	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	30	7.5		isoform PDH2, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+25.63	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5		with ferrocenium ion as electron acceptor, in 100 mM sodium phosphate pH 7.5, at 30C
+29.1	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	mutant enzyme N75G/N175Q, at pH 7.5 and 30C
+30.9	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5		wild type enzyme, at pH 7.5 and 30C
+31.3	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	mutant enzyme N75G/N252Q, at pH 7.5 and 30C
+33	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	mutant enzyme N75G, at pH 7.5 and 30C
+34.7	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	mutant enzyme N75G/N175Q/N252Q, at pH 7.5 and 30C
+35.2	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	mutant enzyme N175Q/N252Q, at pH 7.5 and 30C
+38.4	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				ferricenium ion as electron acceptor; ferricenium ion as electron acceptor; ferricenium ion as electron acceptor
+38.4	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N				with ferrocenium ion as cosubstrate, pH and temperature not specified in the publication
+43.8	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	mutant enzyme N252Q, at pH 7.5 and 30C
+55.1	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	30	7.5	X	mutant enzyme N175Q, at pH 7.5 and 30C
+0.48	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	7.5		isoform PDH3, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+7.63	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	7.5		isoform PDH2, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+27.26	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	7.5		with ferrocenium ion as electron acceptor, in 100 mM sodium phosphate pH 7.5, at 30C
+44.7	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	30	7.5		isoform PDH1, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+3.12	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	7.5		with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+15.95	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	7.5		with ferrocenium ion as electron acceptor, in 100 mM sodium phosphate pH 7.5, at 30C
+24.65	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	7.5		with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+24.7	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	8.5	X	mutant enzyme H103Y, with ferrocenium ion as cosubstrate, at pH 8.5 and 30C
+31.9	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	7.5		recombinant enzyme, with 0.4 mM ferricenium ion as the electron acceptor, at 30C in phosphate buffer, pH 7.5
+33.7	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	7.5		isoform PDH1, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+39.6	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				ferricenium ion as electron acceptor; ferricenium ion as electron acceptor; ferricenium ion as electron acceptor
+39.6	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	7.5		native enzyme, with 0.4 mM ferricenium ion as the electron acceptor, at 30C in phosphate buffer, pH 7.5
+39.6	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				with ferrocenium ion as cosubstrate, pH and temperature not specified in the publication
+39.6	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	8.5		using ferrocenium ion as cosubstrate, native enzyme, at pH 8.5 and 30C
+41	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	8.5		using ferrocenium ion as cosubstrate, recombinant enzyme, at pH 8.5 and 30C
+41	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	8.5		wild type enzyme, with ferrocenium ion as cosubstrate, at pH 8.5 and 30C
+75.3	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	7.5		isoform PDH3, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+209	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	7.5		isoform PDH2, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+6.37	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	7.5		with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+29.16	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	7.5		with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+29.5	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	7.5		isoform PDH3, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+36.9	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	7.5		with ferrocenium ion as electron acceptor, in 100 mM sodium phosphate pH 7.5, at 30C
+41.5	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	7.5		recombinant enzyme, with 0.4 mM ferricenium ion as the electron acceptor, at 30C in phosphate buffer, pH 7.5
+43.4	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N				ferricenium ion as electron acceptor; ferricenium ion as electron acceptor; ferricenium ion as electron acceptor
+43.4	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	7.5		native enzyme, with 0.4 mM ferricenium ion as the electron acceptor, at 30C in phosphate buffer, pH 7.5
+43.4	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N				with ferrocenium ion as cosubstrate, pH and temperature not specified in the publication
+43.4	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	8.5		using ferrocenium ion as cosubstrate, native enzyme, at pH 8.5 and 30C
+51.3	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	7.5		isoform PDH1, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+62.4	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	8.5		using ferrocenium ion as cosubstrate, recombinant enzyme, at pH 8.5 and 30C
+146	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	30	7.5		isoform PDH2, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+16.5	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N				ferricenium ion as electron acceptor; ferricenium ion as electron acceptor; ferricenium ion as electron acceptor
+16.5	D-fructose	111	RFSUNEUAIZKAJO-VRPWFDPXSA-N				with ferrocenium ion as cosubstrate, pH and temperature not specified in the publication
+2.8	2,6-dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	4.0	X	mutant enzyme H103Y, with D-glucose as cosubstrate, at pH 4.0 and 30C
+7.65	2,6-dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	4.0		with D-glucose as cosubstrate, at pH 4.0 and 30C
+10.56	2,6-dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	4.0		with D-glucose as cosubstrate, at pH 4.0 and 30C
+40.7	2,6-dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	4.0		wild type enzyme, with D-glucose as cosubstrate, at pH 4.0 and 30C
+57.6	2,6-dichlorophenolindophenol	152	FBWADIKARMIWNM-UHFFFAOYSA-N	30	4.0		with D-glucose as cosubstrate, in 100 mM sodium acetate pH 4.0, at 30C
+16.3	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	30	7.5		isoform PDH3, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+21.2	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	30	7.5		isoform PDH2, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+23.6	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N				ferricenium ion as electron acceptor; ferricenium ion as electron acceptor; ferricenium ion as electron acceptor
+23.6	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N				with ferrocenium ion as cosubstrate, pH and temperature not specified in the publication
+35.9	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N	30	7.5		isoform PDH1, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+3.05	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	30	7.5		with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+22.9	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	30	7.5		with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+29.6	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	30	7.5		with ferrocenium ion as electron acceptor, in 100 mM sodium phosphate pH 7.5, at 30C
+34.7	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	30	8.5		using ferrocenium ion as cosubstrate, recombinant enzyme, at pH 8.5 and 30C
+37.2	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N				ferricenium ion as electron acceptor; ferricenium ion as electron acceptor; ferricenium ion as electron acceptor
+37.2	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	30	7.5		native enzyme, with 0.4 mM ferricenium ion as the electron acceptor, at 30C in phosphate buffer, pH 7.5
+37.2	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N				with ferrocenium ion as cosubstrate, pH and temperature not specified in the publication
+37.2	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	30	8.5		using ferrocenium ion as cosubstrate, native enzyme, at pH 8.5 and 30C
+45.7	L-arabinose	183	HMFHBZSHGGEWLO-HWQSCIPKSA-N	30	7.5		recombinant enzyme, with 0.4 mM ferricenium ion as the electron acceptor, at 30C in phosphate buffer, pH 7.5
+13.31	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	30	7.5		with ferrocenium ion as electron acceptor, in 100 mM sodium phosphate pH 7.5, at 30C
+22.1	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	30	7.5	X	mutant enzyme N75G, at pH 7.5 and 30C
+26.5	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	30	7.5		isoform PDH1, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+27	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	30	7.5	X	mutant enzyme N75G/N175Q/N252Q, at pH 7.5 and 30C
+27.4	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	30	7.5		wild type enzyme, at pH 7.5 and 30C
+29.3	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N				ferricenium ion as electron acceptor; ferricenium ion as electron acceptor; ferricenium ion as electron acceptor
+29.3	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N				with ferrocenium ion as cosubstrate, pH and temperature not specified in the publication
+31.5	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	30	7.5	X	mutant enzyme N75G/N252Q, at pH 7.5 and 30C
+33.5	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	30	7.5	X	mutant enzyme N175Q/N252Q, at pH 7.5 and 30C
+34.7	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	30	7.5		isoform PDH3, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+35	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	30	7.5	X	mutant enzyme N75G/N175Q, at pH 7.5 and 30C
+40.8	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	30	7.5	X	mutant enzyme N175Q, at pH 7.5 and 30C
+41.9	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	30	7.5	X	mutant enzyme N252Q, at pH 7.5 and 30C
+109	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	30	7.5		isoform PDH2, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+31.4	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N				ferricenium ion as electron acceptor; ferricenium ion as electron acceptor; ferricenium ion as electron acceptor
+31.4	D-ribose	254	HMFHBZSHGGEWLO-SOOFDHNKSA-N				with ferrocenium ion as cosubstrate, pH and temperature not specified in the publication
+3.57	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	4.0		isoform PDH3, with D-glucose as cosubstrate, at pH 4.0 and 30C
+12.89	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	4.0		with D-glucose as cosubstrate, at pH 4.0 and 30C
+13.6	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	4.0	X	mutant enzyme H103Y, with D-glucose as cosubstrate, at pH 4.0 and 30C
+23.4	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	4.0		isoform PDH2, with D-glucose as cosubstrate, at pH 4.0 and 30C
+34.82	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	4.0		with D-glucose as cosubstrate, at pH 4.0 and 30C
+44.2	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	4.0		with D-glucose as cosubstrate, in 100 mM sodium acetate pH 4.0, at 30C
+59	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	2.0		recombinant enzyme, with 25 mM D-glucose as cosubstrate, at 30C in phosphate buffer, pH 2.0
+65.4	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	4.0		recombinant enzyme, at pH 4.0 and 30C
+65.4	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	4.0		isoform PDH1, with D-glucose as cosubstrate, at pH 4.0 and 30C
+65.4	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	4.0		wild type enzyme, with D-glucose as cosubstrate, at pH 4.0 and 30C
+76	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	2.0		native enzyme, with 25 mM D-glucose as cosubstrate, at 30C in phosphate buffer, pH 2.0
+76	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	30	3.0		native enzyme, at pH 3.0 and 30C
+19.61	raffinose	360	MUPFEKGTMRGPLJ-ZQSKZDJDSA-N	30	7.5		with ferrocenium ion as electron acceptor, in 100 mM sodium phosphate pH 7.5, at 30C
+50.4	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N				ferricenium ion as electron acceptor; ferricenium ion as electron acceptor; ferricenium ion as electron acceptor
+50.4	xylobiose	460	LGQKSQQRKHFMLI-SJYYZXOBSA-N				with ferrocenium ion as cosubstrate, pH and temperature not specified in the publication
+15.7	L-sorbose	553	BJHIKXHVCXFQLS-OTWZMJIISA-N				with ferrocenium ion as cosubstrate, pH and temperature not specified in the publication
+101.2	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	30	7.5		with D-glucose as cosubstrate, in 100 mM sodium phosphate pH 7.5, at 30C
+18.4	D-Allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N	30	7.5		isoform PDH1, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+35.3	D-Allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N	30	7.5		isoform PDH3, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+40.2	D-Allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N	30	7.5		isoform PDH2, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+9.86	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	4.0		isoform PDH3, with D-glucose as cosubstrate, at pH 4.0 and 30C
+48.1	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	8.5		isoform PDH2, at pH 8.5 and 30C
+104	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	8.5		native enzyme, with 25 mM D-glucose as cosubstrate, at 30C in phosphate buffer, pH 8.5
+130	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	4.0		isoform PDH1, with D-glucose as cosubstrate, at pH 4.0 and 30C
+203	ferricenium ion	765	VBYOPFASAIMDSQ-UHFFFAOYSA-N	30	8.5		recombinant enzyme, with 25 mM D-glucose as cosubstrate, at 30C in phosphate buffer, pH 8.5
+43.2	D-maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N				ferricenium ion as electron acceptor; ferricenium ion as electron acceptor; ferricenium ion as electron acceptor
+43.2	D-maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N				with ferrocenium ion as cosubstrate, pH and temperature not specified in the publication
+21.3	D-talose	1496	GZCGUPFRVQAUEE-KAZBKCHUSA-N				ferricenium ion as electron acceptor; ferricenium ion as electron acceptor; ferricenium ion as electron acceptor
+21.3	D-talose	1496	GZCGUPFRVQAUEE-KAZBKCHUSA-N				with ferrocenium ion as cosubstrate, pH and temperature not specified in the publication
+15.7	D-sorbose	1816	LKDRXBCSQODPBY-IANNHFEVSA-N				ferricenium ion as electron acceptor; ferricenium ion as electron acceptor; ferricenium ion as electron acceptor
+12.9	2-chloro-1,4-benzoquinone	3066	WOGWYSWDBYCVDY-UHFFFAOYSA-N	30	5.0		recombinant enzyme, with 25 mM D-glucose as cosubstrate, at 30C in phosphate buffer, pH 5.0
+12.9	2-chloro-1,4-benzoquinone	3066	WOGWYSWDBYCVDY-UHFFFAOYSA-N	30	5.0		recombinant enzyme, at pH 5.0 and 30C
+15.1	2-chloro-1,4-benzoquinone	3066	WOGWYSWDBYCVDY-UHFFFAOYSA-N	30	5.0		native enzyme, with 25 mM D-glucose as cosubstrate, at 30C in phosphate buffer, pH 5.0
+15.1	2-chloro-1,4-benzoquinone	3066	WOGWYSWDBYCVDY-UHFFFAOYSA-N	30	5.0		native enzyme, at pH 5.0 and 30C
+1	methyl-alpha-D-glucopyranoside	2390	HOVAGTYPODGVJG-ZFYZTMLRSA-N	30	7.5		isoform PDH3, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+41.5	methyl-alpha-D-glucopyranoside	2390	HOVAGTYPODGVJG-ZFYZTMLRSA-N	30	7.5		isoform PDH1, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+85	methyl-alpha-D-glucopyranoside	2390	HOVAGTYPODGVJG-ZFYZTMLRSA-N	30	7.5		isoform PDH2, with ferrocenium ion as cosubstrate, at pH 7.5 and 30C
+19.92	ferrocenium ion	1983	KTWOOEGAPBSYNW-UHFFFAOYSA-N	30	8.5		with D-glucose as cosubstrate, at pH 8.5 and 30C
+22.07	ferrocenium ion	1983	KTWOOEGAPBSYNW-UHFFFAOYSA-N	30	8.5		with D-glucose as cosubstrate, at pH 8.5 and 30C
+26	ferrocenium ion	1983	KTWOOEGAPBSYNW-UHFFFAOYSA-N	30	8.5	X	mutant enzyme H103Y, with D-glucose as cosubstrate, at pH 8.5 and 30C
+44.8	ferrocenium ion	1983	KTWOOEGAPBSYNW-UHFFFAOYSA-N	30	7.5	X	mutant enzyme N75G/N175Q, at pH 7.5 and 30C
+50.7	ferrocenium ion	1983	KTWOOEGAPBSYNW-UHFFFAOYSA-N	30	7.5	X	mutant enzyme N175Q/N252Q, at pH 7.5 and 30C
+54.2	ferrocenium ion	1983	KTWOOEGAPBSYNW-UHFFFAOYSA-N	30	7.5	X	mutant enzyme N75G/N175Q/N252Q, at pH 7.5 and 30C
+54.6	ferrocenium ion	1983	KTWOOEGAPBSYNW-UHFFFAOYSA-N	30	7.5	X	mutant enzyme N75G/N252Q, at pH 7.5 and 30C
+65.8	ferrocenium ion	1983	KTWOOEGAPBSYNW-UHFFFAOYSA-N	30	7.5	X	mutant enzyme N75G, at pH 7.5 and 30C
+66.3	ferrocenium ion	1983	KTWOOEGAPBSYNW-UHFFFAOYSA-N	30	7.5	X	mutant enzyme N252Q, at pH 7.5 and 30C
+87.4	ferrocenium ion	1983	KTWOOEGAPBSYNW-UHFFFAOYSA-N	30	7.5		wild type enzyme, at pH 7.5 and 30C
+104	ferrocenium ion	1983	KTWOOEGAPBSYNW-UHFFFAOYSA-N	30	8.5		native enzyme, at pH 8.5 and 30C
+111.1	ferrocenium ion	1983	KTWOOEGAPBSYNW-UHFFFAOYSA-N	30	4.0		with D-glucose as cosubstrate, in 100 mM sodium acetate pH 4.0, at 30C
+125	ferrocenium ion	1983	KTWOOEGAPBSYNW-UHFFFAOYSA-N	30	7.5	X	mutant enzyme N75Q, at pH 7.5 and 30C
+130	ferrocenium ion	1983	KTWOOEGAPBSYNW-UHFFFAOYSA-N	30	8.5		recombinant enzyme, at pH 8.5 and 30C
+130	ferrocenium ion	1983	KTWOOEGAPBSYNW-UHFFFAOYSA-N	30	8.5		wild type enzyme, with D-glucose as cosubstrate, at pH 8.5 and 30C

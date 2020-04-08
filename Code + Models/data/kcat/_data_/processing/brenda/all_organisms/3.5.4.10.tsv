@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.014	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	1304	ABCOOORLYAOBOZ-KQYNXXCUSA-N		7.5	X	pH 7.5, mutant D125A
+0.014	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	1304	ABCOOORLYAOBOZ-KQYNXXCUSA-N	22	7.5	X	pH 7.5, 22C, mutantD125A
+0.036	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	1304	ABCOOORLYAOBOZ-KQYNXXCUSA-N		7.5	X	pH 7.5, mutant Y104F
+0.036	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	1304	ABCOOORLYAOBOZ-KQYNXXCUSA-N	22	7.5	X	pH 7.5, 22C, mutantY104F
+0.062	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	1304	ABCOOORLYAOBOZ-KQYNXXCUSA-N		7.5	X	pH 7.5, mutant K66A
+0.062	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	1304	ABCOOORLYAOBOZ-KQYNXXCUSA-N	22	7.5	X	pH 7.5, 22C, mutantK66A
+0.136	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	1304	ABCOOORLYAOBOZ-KQYNXXCUSA-N		7.5	X	pH 7.5, mutant Y104A
+0.136	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	1304	ABCOOORLYAOBOZ-KQYNXXCUSA-N	22	7.5	X	pH 7.5, 22C, mutantY104A
+0.147	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	1304	ABCOOORLYAOBOZ-KQYNXXCUSA-N		7.5	X	pH 7.5, mutant D125E
+0.147	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	1304	ABCOOORLYAOBOZ-KQYNXXCUSA-N	22	7.5	X	pH 7.5, 22C, mutant D125E
+0.276	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	1304	ABCOOORLYAOBOZ-KQYNXXCUSA-N		7.5	X	pH 7.5, mutant K137A
+0.276	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	1304	ABCOOORLYAOBOZ-KQYNXXCUSA-N	22	7.5	X	pH 7.5, 22C, mutantK137A
+0.507	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	1304	ABCOOORLYAOBOZ-KQYNXXCUSA-N		7.5	X	pH 7.5, mutant K137R
+0.507	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	1304	ABCOOORLYAOBOZ-KQYNXXCUSA-N	22	7.5	X	pH 7.5, 22C, mutant K137R
+0.603	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	1304	ABCOOORLYAOBOZ-KQYNXXCUSA-N		7.5	X	pH 7.5, mutant D125N
+0.603	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	1304	ABCOOORLYAOBOZ-KQYNXXCUSA-N	22	7.5	X	pH 7.5, 22C, mutant D125N
+6.08	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	1304	ABCOOORLYAOBOZ-KQYNXXCUSA-N		7.5	X	pH 7.5, mutant D125N; pH 7.5, mutant K137R
+8.6	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	1304	ABCOOORLYAOBOZ-KQYNXXCUSA-N		7.5		pH 7.5, wild type
+8.6	5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide	1304	ABCOOORLYAOBOZ-KQYNXXCUSA-N	22	7.5		pH 7.5, 22C, wild-type

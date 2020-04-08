@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000007	phycocyanobilin	31064	JLITZTZYWLKDJK-UHFFFAOYSA-N	37	7.2	X	mutant C161L, pH 7.2, 37C
+0.000018	phycocyanobilin	31064	JLITZTZYWLKDJK-UHFFFAOYSA-N	37	7.2	X	mutant C48Q, pH 7.2, 37C
+0.000021	phycocyanobilin	31064	JLITZTZYWLKDJK-UHFFFAOYSA-N	37	7.2		wild-type, pH 7.2, 37C
+0.000074	(2R,3E)-phycocyanobilin	80368	INPDFIMLLXXDOQ-UAWLBFNISA-N				at 0.014 mM apo phycoerythrocyanin alpha-subunit, pH and temperature not specified in the publication
+0.00015	phycocyanobilin	31064	JLITZTZYWLKDJK-UHFFFAOYSA-N	37	7.2	X	mutant C91L, pH 7.2, 37C

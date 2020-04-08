@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00057	beta-D-4-deoxy-DELTA-4,5-GlcAp-(1-&gt;4)-beta-D-Glcp-(1-&gt;4)-alpha-L-Rhap-(1-&gt;3)-beta-D-Glcp	8168	JMDPLHPAGLYHCI-DPADXCMISA-N	30	6.5	X	pH 6.5, 30C, mutant enzyme E88N
+0.0059	beta-D-4-deoxy-DELTA-4,5-GlcAp-(1-&gt;4)-beta-D-Glcp-(1-&gt;4)-alpha-L-Rhap-(1-&gt;3)-beta-D-Glcp	8168	JMDPLHPAGLYHCI-DPADXCMISA-N	30	6.5	X	pH 6.5, 30C, mutant enzyme E149N
+7.3	beta-D-4-deoxy-DELTA-4,5-GlcAp-(1-&gt;4)-beta-D-Glcp-(1-&gt;4)-alpha-L-Rhap-(1-&gt;3)-beta-D-Glcp	8168	JMDPLHPAGLYHCI-DPADXCMISA-N	30	6.5		pH 6.5, 30C, wild-type enzyme
+14.1	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc	2941	DLGJWSVWTWEWBJ-NUNKILRFSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme
+16.9	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc	2941	DLGJWSVWTWEWBJ-NUNKILRFSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme H339S
+18.2	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc	2941	DLGJWSVWTWEWBJ-NUNKILRFSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme G342S
+20.9	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc6S	2094	FOPPHVQTSNWQQW-MUODBDBBSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme G342S
+23.8	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc	2941	DLGJWSVWTWEWBJ-NUNKILRFSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme K370I
+24.5	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc6S	2094	FOPPHVQTSNWQQW-MUODBDBBSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme H339S
+39.8	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc6S	2094	FOPPHVQTSNWQQW-MUODBDBBSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme K370I
+54.9	beta-D-4-deoxy-DELTA4,5-GlcAp-(1-&gt;3)-beta-D-GalNAc6S	2094	FOPPHVQTSNWQQW-MUODBDBBSA-N	30	7.5		pH 7.5, 30C, wild-type enzyme

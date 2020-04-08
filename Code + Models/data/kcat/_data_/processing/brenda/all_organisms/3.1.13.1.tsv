@@ -1,0 +1,3 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.41	Poly(A)	1265	YRIJWKUDYVHEAC-UHFFFAOYSA-N	37	8		35-nt poly(A), wild-type, at 37C, in 20 mM Tris-HCl buffer, pH 8, 100 mM KCl, 1 mM MgCl2, and 1 mM dithiothreitol
+80800	Poly(A)	1265	YRIJWKUDYVHEAC-UHFFFAOYSA-N	37	8	X	35-nt poly(A), mutant E542A, at 37C, in 20 mM Tris-HCl buffer, pH 8, 100 mM KCl, 1 mM MgCl2, and 1 mM dithiothreitol

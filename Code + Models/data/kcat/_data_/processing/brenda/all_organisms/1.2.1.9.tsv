@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.06	D-Glyceraldehyde-3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme R301L
+0.28	D-Glyceraldehyde-3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme R459I
+1.13	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	60	8.0	X	pH 8.0, 60C, mutant enzyme Y139R
+2.8	D-Glyceraldehyde-3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme R124L
+15	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	60	8.0		pH 8.0, 60C
+60	D-Glyceraldehyde-3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.5		pH 8.5, 25C, wild-type enzyme
+103	D-Glyceraldehyde-3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	25	8.5	X	pH 8.5, 25C, mutant enzyme Y170F
+117	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	60	8.0	X	pH 8.0, 60C, mutant enzyme R136K
+161	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	60	8.0	X	pH 8.0, 60C, mutant enzyme E141D
+257	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	60	8.0	X	pH 8.0, 60C, mutant enzyme L138T
+297	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	60	8.0	X	pH 8.0, 60C, mutant enzyme K137E
+341	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	60	8.0		pH 8.0, 60C, wild-type enzyme

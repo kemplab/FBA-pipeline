@@ -1,0 +1,35 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.1	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N		7.0		pH 7.0, temperature not specified in the publication
+0.2	(phosphate)5	28405	QTPILKSJIOLICA-UHFFFAOYSA-G		7.0		pH 7.0, temperature not specified in the publication
+0.21	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	28	7.5		pH 7.5, 28C
+0.21	mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	28	7.5		at pH 7.5 and 28C
+0.25	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	28	7.7		pH 7.7, 28C
+0.3	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	28	7.7		at pH 7.7 and 28C
+0.3	(Phosphate)n	723	KVYVPOJVIUSMCN-UHFFFAOYSA-N	28	7.7		at pH 7.7 and 28C
+0.3	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N		7.0		pH 7.0, temperature not specified in the publication
+0.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.0		pH 7.0, temperature not specified in the publication
+1.3	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N		7.0		pH 7.0, temperature not specified in the publication
+2.5	(phosphate)4	2402	YDHWWBZFRZWVHO-UHFFFAOYSA-H		7.0		pH 7.0, temperature not specified in the publication
+3.3	ITP	203	HAEJPQIATWHALX-KQYNXXCUSA-N		7.0		pH 7.0, temperature not specified in the publication
+6	(phosphate)15	9867	NXNVLMOFLGVRFT-UHFFFAOYSA-N		7.0		pH 7.0, temperature not specified in the publication
+7	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	30	7.5		pH 7.5, 30C
+7.4	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	30	7.5		pH 7.5, 30C
+8.5	(phosphate)20	8220	MHZAJTVIJWBHSI-UHFFFAOYSA-A		7.0		pH 7.0, temperature not specified in the publication
+11	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	30	7.5		pH 7.5, 30C
+14	dATP	133	SUYVUBYJARFZHO-RRKCRQDMSA-N	30	7.5		pH 7.5, 30C
+25	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30	7.5		pH 7.5, 30C
+25	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+33.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5		recombinant immobilized cellulose-binding module fusion enzyme, pH 7.5, 30C
+39.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	50	7.5		recombinant free cellulose-binding module fusion enzyme, pH 7.5, 50C
+48.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	28	7.5		at pH 7.5 and 28C
+48.2	(Phosphate)n	723	KVYVPOJVIUSMCN-UHFFFAOYSA-N	28	7.5		at pH 7.5 and 28C
+63	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+92.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	50	7.5		recombinant immobilized cellulose-binding module fusion enzyme, pH 7.5, 50C
+96.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.5		recombinant free cellulose-binding module fusion enzyme, pH 7.5, 30C
+108	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		7.5		pH 7.5
+108	glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.5		pH 7.5
+116	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8.6		pH 8.6
+116	glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		8.6		pH 8.6
+116	glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				
+129	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	50	9.0		recombinant free cellulose-binding module fusion enzyme, pH 9.0, 50C
+136	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	50	9.0		recombinant immobilized cellulose-binding module fusion enzyme, pH 9.0, 50C

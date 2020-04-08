@@ -1,0 +1,102 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.007	2-deoxy-D-ribose 5-phosphate	887	KKZFLSZAWCYPOC-PYHARJCCSA-N		7.5	X	mutant N59A, pH 7.5, temperature not specified in the publication
+0.01	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N				pH and temperature not specified in the publication, R117A
+0.02	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	23	7.4	X	N23C/C246S mutant control, 37C, 50 mM 1,3-bis[tris(hydroxymethyl)-methylamino]propane (BTP) buffer, pH 7.4, 20 microM EDTA
+0.095	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				
+0.1	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		7.8		pH 7.8, Co2+-reconstituted enzyme; pH 7.8, Cu2+-reconstituted enzyme
+0.108	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N			X	pH and temperature not specified in the publication, mutant F114R/R117A
+0.12	2-deoxyribose 5-phosphate	887	KKZFLSZAWCYPOC-PYHARJCCSA-N	37	7.6		pH 7.6, 37C
+0.13	2-deoxy-D-ribose 5-phosphate	887	KKZFLSZAWCYPOC-PYHARJCCSA-N		7.5		wild-type, pH 7.5, temperature not specified in the publication
+0.14	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N				pH and temperature not specified in the publication, F114R/R117Q/F139G
+0.149	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N		7.5	X	mutant N59A, pH 7.5, temperature not specified in the publication
+0.178	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N		7.5	X	mutant N59DELTA, pH 7.5, temperature not specified in the publication
+0.202	2-deoxy-D-ribose 5-phosphate	887	KKZFLSZAWCYPOC-PYHARJCCSA-N		7.5	X	mutant N57A, pH 7.5, temperature not specified in the publication
+0.27	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N			X	pH and temperature not specified in the publication, mutant F114R/R117Q
+0.3	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N		7.5	X	mutant N57A, pH 7.5, temperature not specified in the publication
+0.3	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		7.8		pH 7.8, Zn2+-reconstituted enzyme
+0.31	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	40	7.5		recombinant enzyme produced in Escherichia coli, native Zn2+ and Fe2+ not substituted, 100 mM Tris-acetate, pH 7.5, 40C
+0.31	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	23	7.4	X	N23C/C247E/P249A mutant control, 37C, 50 mM 1,3-bis[tris(hydroxymethyl)-methylamino]propane (BTP) buffer, pH 7.4, 20 microM EDTA
+0.32	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N			X	mutant enzyme R1096G
+0.32	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N			X	mutant enzyme R106G
+0.333	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N				
+0.333	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				
+0.34	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	40	7.5		enzyme preparation 1, substitution with 5 microM Cu2+, 100 mM Tris-acetate, pH 7.5, 40C
+0.36	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme N26C, EDTA-treated
+0.36	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme N26C, EDTA-treated
+0.36	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	40	5.0		enzyme preparation 1, substitution with 5 microM Cu2+, pH 5.0, 40C
+0.38	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	60	7.5		pH 7.5, 60C
+0.38	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	60	7.5		pH 7.5, 60C
+0.38	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	23	7.4	X	N23C/C247E mutant control, 37C, 50 mM 1,3-bis[tris(hydroxymethyl)-methylamino]propane (BTP) buffer, pH 7.4, 20 microM EDTA; N23C/P249A mutant control, 37C, 50 mM 1,3-bis[tris(hydroxymethyl)-methylamino]propane (BTP) buffer, pH 7.4, 20 microM EDTA
+0.41	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	40	7.5		enzyme preparation 1, substitution with 50 microM Cd2+, 100 mM Tris-acetate, pH 7.5, 40C
+0.42	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	60	7.5	X	pH 7.5, 60C, mutant enzyme C11N, EDTA-treated
+0.42	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	60	7.5	X	pH 7.5, 60C, mutant enzyme C11N, EDTA-treated
+0.46	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	40	5.0		independent enzyme preparation 2, substitution with 50 microM Cd2+, pH 5.0, 40C
+0.47	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	40	7.5		enzyme preparation 1, substitution with 50 microM Zn2+, 100 mM Tris-acetate, pH 7.5, 40C
+0.48	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N				wild-type enzyme
+0.48	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				wild-type enzyme
+0.48	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	40	7.5		independent preparation 2 enzyme, substitution with 50 microM Cd2+, 100 mM Tris-acetate, pH 7.5, 40C
+0.49	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	25	6.5		pH 6.5, 25C, Zn2+-enzyme
+0.49	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C, Zn2+-enzyme
+0.66	2-deoxy-D-ribose 5-phosphate	887	KKZFLSZAWCYPOC-PYHARJCCSA-N		7.5		wild-type, pH 7.5, temperature not specified in the publication
+0.72	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme P145S
+0.74	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	25	7.4	X	pH 7.4, 25C, mutant enzyme P145S
+0.87	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	70	7.5		pH 7.5, 70C
+0.87	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+0.93	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	23	7.4	X	N23C mutant control, 37C, 50 mM 1,3-bis[tris(hydroxymethyl)-methylamino]propane (BTP) buffer, pH 7.4, 20 microM EDTA
+0.94	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	23	7.4	X	N23C/P249A mutant, 37C, 50 mM 1,3-bis[tris(hydroxymethyl)-methylamino]propane (BTP) buffer, pH 7.4, 90 microM MnSO4.H2O
+1	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	37	7.4		pH 7.4, 37C
+1	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C
+1	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		7.8		pH 7.8, Cd2+-reconstituted enzyme
+1.06	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N				pH and temperature not specified in the publication, R117Q
+1.08	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	25	6.5		pH 6.5, 25C, Cd2+-enzyme
+1.08	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C, Cd2+-enzyme
+1.1	L-xylose 5-phosphate	122634	PPQRONHOSHZGFQ-WISUUJSJSA-N	30			at 30C
+1.42	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	23	7.4	X	N23C mutant, 37C, 50 mM 1,3-bis[tris(hydroxymethyl)-methylamino]propane (BTP) buffer, pH 7.4, 90 microM MnSO4.H2O
+1.47	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	80	7.5		pH 7.5, 80C
+1.47	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	80	7.5		pH 7.5, 80C
+1.63	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme P145S
+1.75	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+1.9	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	37	7.5	X	pH 7.5, 37C, Cd2+ mutant enzyme N26C; pH 7.5, 37C, Mn2+ mutant enzyme N26C
+1.9	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, Cd2+ mutant enzyme N26C; pH 7.5, 37C, Mn2+ mutant enzyme N26C
+2	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	90	7.5		pH 7.5, 90C
+2	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	90	7.5		pH 7.5, 90C
+2.02	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme P145S
+2.02	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	23	7.4	X	N23C/C247E/P249A mutant, 37C, 50 mM 1,3-bis[tris(hydroxymethyl)-methylamino]propane (BTP) buffer, pH 7.4, 90 microM MnSO4.H2O
+2.08	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+2.7	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	30			at 30C
+2.71	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	23	7.4	X	N23C/C246S mutant, 37C, 50 mM 1,3-bis[tris(hydroxymethyl)-methylamino]propane (BTP) buffer, pH 7.4, 90 microM MnSO4.H2O
+3	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N			X	pH and temperature not specified in the publication, mutant F114R
+3.27	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	23	7.4	X	N23C/C247E mutant, 37C, 50 mM 1,3-bis[tris(hydroxymethyl)-methylamino]propane (BTP) buffer, pH 7.4, 90 microM MnSO4.H2O
+3.6	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37	7.4	X	D247E/P249A mutant, 37C, 50 mM 1,3-bis[tris(hydroxymethyl)-methylamino]propane (BTP) buffer, pH 7.4, 20 microM EDTA
+3.9	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	23	7.4	X	N23C/C246S/D247E mutant, 37C, 50 mM 1,3-bis[tris(hydroxymethyl)-methylamino]propane (BTP) buffer, pH 7.4, 90 microM MnSO4.H2O
+4	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	60	7.0		60C, pH 7.0, 0.48 mM Cd2+
+4	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	60	7.0		60C, pH 7.0, 0.48 mM Cd2+
+4.4	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	37	7.2	X	mutant P245A, pH 7.2, 37C
+4.4	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37	7.4	X	D247E mutant, 37C, 50 mM 1,3-bis[tris(hydroxymethyl)-methylamino]propane (BTP) buffer, pH 7.4, 20 microM EDTA; N23C/C246S/D247E/P249A mutant, 37C, 50 mM 1,3-bis[tris(hydroxymethyl)-methylamino]propane (BTP) buffer, pH 7.4, 90 microM MnSO4.H2O
+4.79	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	23	7.4	X	N23C/C246S/P249A mutant, 37C, 50 mM 1,3-bis[tris(hydroxymethyl)-methylamino]propane (BTP) buffer, pH 7.4, 90 microM MnSO4.H2O
+4.8	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N		7.5		wild-type, pH 7.5, temperature not specified in the publication
+4.8	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	37	7.2	X	mutant D243E, pH 7.2, 37C; wild-type, pH 7.2, 37C
+4.8	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N				pH and temperature not specified in the publication, R117K
+5.31	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	25	6.5		pH 6.5, 25C
+5.31	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+5.5	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37	7.4	X	C246S mutant, 37C, 50 mM 1,3-bis[tris(hydroxymethyl)-methylamino]propane (BTP) buffer, pH 7.4, 20 microM EDTA
+5.6	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	37	7.4		pH 7.4, 37C, wild-type enzyme
+5.9	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	37			37C
+5.9	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N				pH and temperature not specified in the publication, recombinant enzyme; pH and temperature not specified in the publication, recombinant enzyme
+5.9	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37			37C
+5.9	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				pH and temperature not specified in the publication, recombinant enzyme; pH and temperature not specified in the publication, recombinant enzyme
+6.1	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	37	7.5		pH 7.5, 37C, wild-type enzyme
+6.1	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N			X	pH and temperature not specified in the publication, mutant F114A
+6.1	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, wild-type enzyme
+6.7	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, wild-type enzyme
+6.8	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	37	7.6		pH 7.6, 37C
+6.8	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N				pH and temperature not specified in the publication
+6.8	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N				pH and temperature not specified in the publication
+8	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N		7.5		wild-type, pH 7.5, temperature not specified in the publication
+8	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N				pH and temperature not specified in the publication, wild/type enyzme
+8	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37	7.4		wild type, 37C, 50 mM 1,3-bis[tris(hydroxymethyl)-methylamino]propane (BTP) buffer, pH 7.4, 20 microM EDTA
+8.6	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N			X	pH and temperature not specified in the publication, mutant F139A
+8.6	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	37	7.4	X	P249A mutant, 37C, 50 mM 1,3-bis[tris(hydroxymethyl)-methylamino]propane (BTP) buffer, pH 7.4, 20 microM EDTA
+9	D-arabinose 5-phosphate	447	PPQRONHOSHZGFQ-WDCZJNDASA-N	60	7.5		pH 7.5, 60C, wild-type Mn2+-enzyme
+9	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	60	7.5		pH 7.5, 60C, wild-type Mn2+-enzyme
+100	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		7.8		in 10 mM ammonium acetate buffer, pH 7.8

@@ -1,0 +1,3 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.94	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N	25	7.5		wild type enzyme, in MOPS buffer (50 mM, pH 7.5), 0.050 mM CoCl2, 0.010 mM NAD+, D-erythrose 4-phosphate, 2 mM pyruvate, 1 unit of 3-dehydroquinate synthase, 1 unit of 3-dehydroquinate dehydratase, at 25C
+2.5	D-erythrose 4-phosphate	416	NGHMDNPXVRFFGS-IUYQGCFVSA-N	25	7.5	X	mutant enzyme F33I/D58N/Q72H/A75V/V85A/V154F, in MOPS buffer (50 mM, pH 7.5), 0.050 mM CoCl2, 0.010 mM NAD+, D-erythrose 4-phosphate, 2 mM pyruvate, 1 unit of 3-dehydroquinate synthase, 1 unit of 3-dehydroquinate dehydratase, at 25C

@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.54	maleylpyruvate	2294	AZCFLHZUFANAOR-UPHRSURJSA-N	22	8.0	X	mutant enzyme R109A, in 50 mM phosphate buffer, pH 8.0, at 22C
+1.06	maleylpyruvate	2294	AZCFLHZUFANAOR-UPHRSURJSA-N	22	8.0	X	mutant enzyme R8A/R176A, in 50 mM phosphate buffer, pH 8.0, at 22C
+11.11	maleylpyruvate	2294	AZCFLHZUFANAOR-UPHRSURJSA-N	22	8.0	X	mutant enzyme H104A, in 50 mM phosphate buffer, pH 8.0, at 22C
+13.45	maleylpyruvate	2294	AZCFLHZUFANAOR-UPHRSURJSA-N	22	8.0	X	mutant enzyme Q49A, in 50 mM phosphate buffer, pH 8.0, at 22C
+22.59	maleylpyruvate	2294	AZCFLHZUFANAOR-UPHRSURJSA-N	22	8.0	X	mutant enzyme R8A, in 50 mM phosphate buffer, pH 8.0, at 22C
+31.47	maleylpyruvate	2294	AZCFLHZUFANAOR-UPHRSURJSA-N	22	8.0	X	mutant enzyme N108A, in 50 mM phosphate buffer, pH 8.0, at 22C
+51.45	maleylpyruvate	2294	AZCFLHZUFANAOR-UPHRSURJSA-N	22	8.0	X	mutant enzyme R176A, in 50 mM phosphate buffer, pH 8.0, at 22C
+101.3	maleylpyruvate	2294	AZCFLHZUFANAOR-UPHRSURJSA-N	22	8.0		wild type enzyme, in 50 mM phosphate buffer, pH 8.0, at 22C
+120.9	maleylpyruvate	2294	AZCFLHZUFANAOR-UPHRSURJSA-N	22	8.0	X	mutant enzyme T11A, in 50 mM phosphate buffer, pH 8.0, at 22C

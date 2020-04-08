@@ -1,0 +1,57 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+26	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N				
+1300	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N		7.4		in 20 mM Tris-HCl buffer, pH 7.4, 1 mM CaCl2, temperature not specified in the publication
+2500	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N		7.4		recombinant enzyme, in 20 mM Tris-HCl buffer, pH 7.4, 1 mM CaCl2, temperature not specified in the publication
+7.4	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N		8.0	X	pH 8.0, mutant enzyme H115Q/H134Q
+10.5	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N		8.0	X	pH 8.0, mutant enzyme H115Q
+185	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N		8.0	X	pH 8.0, mutant enzyme H134Q
+454	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N	10	8.0		pH 8.0, 10C
+503	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N	15	8.0		pH 8.0, 15C
+509	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N		8.3		pH 8.3, activity buffer
+525.8	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N	25	8.0	X	mutant H115W, pH 8.0, 25C
+645	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N		8.3		pH 8.3, activity buffer with 0.1% tergitol
+659	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N	20	8.0		pH 8.0, 20C
+685	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N		8.3		pH 8.3, activity buffer with 0.01 mM apolipoprotein apoA-I rHDL
+698	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N				
+698	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N				recombinant enzyme
+759	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N	25	8.0	X	mutant H115W/R192K, pH 8.0, 25C
+796	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+843.6	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N	25	8.0		wild-type, pH 8.0, 25C
+843.6	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N		8.0		pH 8.0, temperature not specified in the publication
+850	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N		7.4		in 50 mM Tris-HCl buffer, 10 mM CaCl2, pH 7.4
+854	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N		8.0		pH 8.0, wild-type enzyme
+1200	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+1541	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N	35	8.0		pH 8.0, 35C
+1901	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N	40	8.0		pH 8.0, 40C
+3373	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, type B paraoxonase
+4778	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, type A paraoxonase
+0.242	ethyl acetate	1982	XEKOWRVHYACXOJ-UHFFFAOYSA-N				
+0.0008	Benzyl acetate	2567	QUKGYYKBILRGFE-UHFFFAOYSA-N				
+0.02	Benzyl acetate	2567	QUKGYYKBILRGFE-UHFFFAOYSA-N		8.0		pH 8.0
+1.9	2-naphthyl acetate	2676	RJNPPEUAJCEUPV-UHFFFAOYSA-N		8.0		pH 8.0, recombinant genetic variant G1A7
+2	2-naphthyl acetate	2676	RJNPPEUAJCEUPV-UHFFFAOYSA-N		8.0		pH 8.0, recombinant genetic variant G1B11
+18.8	2-naphthyl acetate	2676	RJNPPEUAJCEUPV-UHFFFAOYSA-N	2	8.0		pH 8.0, recombinant genetic variant G2C2
+26.25	2-naphthyl acetate	2676	RJNPPEUAJCEUPV-UHFFFAOYSA-N		8.0		pH 8.0, recombinant genetic variant G3G3
+0.27	butyl acetate	4492	DKPFZGUDAPQIHT-UHFFFAOYSA-N				
+0.4	propyl acetate	8817	YKYONYBAUNKHLG-UHFFFAOYSA-N				
+26	4-acetoxybenzaldehyde	9003	SEVSMVUOKAMPDO-UHFFFAOYSA-N				
+26	4-acetoxybenzaldehyde	9003	SEVSMVUOKAMPDO-UHFFFAOYSA-N				recombinant enzyme
+0.244	4-diethyl phosphate methyl benzoate	9152	GEYKMXGLAWGAEY-UHFFFAOYSA-N		8.0		pH 8.0
+59	3-nitrophenyl acetate	10922	BXMJPAFREVJCQB-UHFFFAOYSA-N				
+14	4-acetoxy methyl benzoate	11887	PGJQPLVEUVHSFQ-UHFFFAOYSA-N				
+51	3,4-dimethyl phenyl acetate	15587	ZFIOOTIKKICLOR-UHFFFAOYSA-N				
+1	1-phenylvinyl acetate	15588	HWCUCNKPBMGSSC-UHFFFAOYSA-N				
+13	4-acetoxyacetophenone	15881	SMIOEQSLJNNKQF-UHFFFAOYSA-N		8.0		pH 8.0
+68	p-tolyl acetate	17398	CDJJKTLOZJAGIZ-UHFFFAOYSA-N				
+117	4-chlorophenyl acetate	20932	KEUPLGRNURQXAR-UHFFFAOYSA-N				
+0.5	2-fluoroethyl acetate	23695	PVDYNYCZGYOXAF-UHFFFAOYSA-N				
+0.82	2,2-difluoroethyl acetate	23696	PFJLHSIZFYNAHH-UHFFFAOYSA-N				
+571	3-fluorophenyl acetate	23697	IAWZWMGUTKRLQB-UHFFFAOYSA-N				
+431	2-fluorophenyl acetate	23698	PUNIIEHHUHGISF-UHFFFAOYSA-N				
+125	3-cyanophenyl acetate	23699	HSNBGFVFXQYLMI-UHFFFAOYSA-N				
+334	2,4-difluorophenyl acetate	23700	SJMMFGNAJFFWNL-UHFFFAOYSA-N				
+403	2,3-difluorophenyl acetate	23701	YEEDHQQUIZYWJP-UHFFFAOYSA-N				
+145	2,6-difluorophenyl acetate	23702	DQPGSVFUEXLEFB-UHFFFAOYSA-N				
+4	2,2,2-trifluoroethyl acetate	23925	ZOWSJJBOQDKOHI-UHFFFAOYSA-N				
+23	4-cyanophenyl acetate	38840	CJGXWABHYYJNJH-UHFFFAOYSA-N				
+18	naphthalen-2-yl acetate	22173	VIBOGIYPPWLDTI-UHFFFAOYSA-N		8.0		pH 8.0, wild-type enzyme

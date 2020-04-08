@@ -1,0 +1,26 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+6.1	prostaglandin E2	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	25	8.0		pH 8.0, 25C, 20 nM [1-(3-methylphenyl)-1H-benzimidazol-5-yl](piperidin-1-yl)methanone
+7.5	prostaglandin E2	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	25	8.0		pH 8.0, 25C, 10 nM 3-(2,5-dimethyl-1-phenyl-1H-pyrrol-3-yl)-6,7,8,9-tetrahydro-5H-[1,2,4]triazolo[4,3-a]azepine
+10.3	prostaglandin E2	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	25	8.0		pH 8.0, 25C, 10 nM [1-(3-methylphenyl)-1H-benzimidazol-5-yl](piperidin-1-yl)methanone
+11.1	prostaglandin E2	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	25	8.0		pH 8.0, 25C, 4 nM 3-(2,5-dimethyl-1-phenyl-1H-pyrrol-3-yl)-6,7,8,9-tetrahydro-5H-[1,2,4]triazolo[4,3-a]azepine
+12.4	prostaglandin E2	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	25	8.0		pH 8.0, 25C, 10 nM 2-([(6-bromo-4H-imidazo[4,5-b]pyridin-2-yl)sulfanyl]methyl)benzonitrile
+13.6	prostaglandin E2	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	25	8.0		pH 8.0, 25C
+14.1	prostaglandin E2	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	25	8.0		pH 8.0, 25C, 10 nM 2-([(6-bromo-4H-imidazo[4,5-b]pyridin-2-yl)sulfanyl]methyl)benzonitrile
+35	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.5	X	37C, pH 7.5, V186K mutant
+37	(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	37	7.5	X	37C, pH 7.5, V186K mutant
+42	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.5	X	37C, pH 7.5, N91D mutant
+45	(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	37	7.5	X	37C, pH 7.5, N91D mutant
+47	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.5		37C, pH 7.5
+50	(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	37	7.5		37C, pH 7.5
+70	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.5	X	37C, pH 7.5, V186A mutant
+73	(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	37	7.5	X	37C, pH 7.5, N91A mutant
+78	(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	37	7.5	X	37C, pH 7.5, V186A mutant
+91	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.5	X	37C, pH 7.5, N91A mutant
+110	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.5	X	37C, pH 7.5, I17V mutant
+127	(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	37	7.5	X	37C, pH 7.5, I17A mutant
+129	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.5	X	37C, pH 7.5, I17A mutant
+143	(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	37	7.5	X	37C, pH 7.5, I17V mutant
+165	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.5	X	37C, pH 7.5, I17L mutant
+210	(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	37	7.5	X	37C, pH 7.5, I17L mutant
+247	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	37	7.5	X	37C, pH 7.5, V186I mutant
+262	(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-5,13-dienoate	712	XEYBRNLFEZDVAW-ARSRFYASSA-N	37	7.5	X	37C, pH 7.5, V186I mutant

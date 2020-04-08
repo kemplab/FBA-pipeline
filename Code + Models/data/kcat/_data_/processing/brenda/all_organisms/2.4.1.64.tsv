@@ -1,0 +1,60 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+200	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N				
+4.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme L649G/A693Q/W371Y, at pH 6.0 and 60C
+7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme R448S/N657Y, in 50 mM MES buffer at pH 6.0 and 60C
+16.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme A440V/N657Y, in 50 mM MES buffer at pH 6.0 and 60C
+18.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme R448D, in 50 mM MES buffer at pH 6.0 and 60C
+21.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme R448F, in 50 mM MES buffer at pH 6.0 and 60C
+25	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme A440V/R448S, in 50 mM MES buffer at pH 6.0 and 60C
+26.3	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme R448S, in 50 mM MES buffer at pH 6.0 and 60C
+27.4	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme A440M, in 50 mM MES buffer at pH 6.0 and 60C
+30.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme R448N, in 50 mM MES buffer at pH 6.0 and 60C
+31.4	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme N657R, in 50 mM MES buffer at pH 6.0 and 60C
+32.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme A431T, in 50 mM MES buffer at pH 6.0 and 60C
+32.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme A440E, in 50 mM MES buffer at pH 6.0 and 60C
+33.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0		wild type enzyme, in 50 mM MES buffer at pH 6.0 and 60C
+36.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme R448V, in 50 mM MES buffer at pH 6.0 and 60C
+41.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme A440K, in 50 mM MES buffer at pH 6.0 and 60C
+42	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme A440V, in 50 mM MES buffer at pH 6.0 and 60C
+42.7	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme N657G, in 50 mM MES buffer at pH 6.0 and 60C
+43.3	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme N657L, in 50 mM MES buffer at pH 6.0 and 60C
+43.5	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme P588H, in 50 mM MES buffer at pH 6.0 and 60C
+46.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme N657I, in 50 mM MES buffer at pH 6.0 and 60C
+51.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme N657D, in 50 mM MES buffer at pH 6.0 and 60C
+53.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0	X	mutant enzyme N657Y, in 50 mM MES buffer at pH 6.0 and 60C
+59	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0		in 50 mM MES buffer (pH 6.0), at 60C
+60	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	6.5		recombinant enzyme, at pH 6.5 and 30C
+86	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	60	6.0		wild type enzyme, at pH 6.0 and 60C
+0.5	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme L649G/A693Q/W371Y, at pH 6.0 and 60C
+14	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme R448S/N657Y, in 50 mM MES buffer at pH 6.0 and 60C
+17	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme A440M, in 50 mM MES buffer at pH 6.0 and 60C
+21.1	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme R448D, in 50 mM MES buffer at pH 6.0 and 60C
+22.6	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme R448F, in 50 mM MES buffer at pH 6.0 and 60C
+23	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme A440E, in 50 mM MES buffer at pH 6.0 and 60C
+23.3	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme N657Y, in 50 mM MES buffer at pH 6.0 and 60C
+23.6	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme A440V/N657Y, in 50 mM MES buffer at pH 6.0 and 60C
+24	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme N657G, in 50 mM MES buffer at pH 6.0 and 60C
+26.2	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme R448V, in 50 mM MES buffer at pH 6.0 and 60C
+27.7	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme A440K, in 50 mM MES buffer at pH 6.0 and 60C
+31.9	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme R448S, in 50 mM MES buffer at pH 6.0 and 60C
+32.4	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme R448N, in 50 mM MES buffer at pH 6.0 and 60C
+32.9	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme A440V, in 50 mM MES buffer at pH 6.0 and 60C; wild type enzyme, in 50 mM MES buffer at pH 6.0 and 60C
+33.3	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme N657L, in 50 mM MES buffer at pH 6.0 and 60C
+35.5	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme N657D, in 50 mM MES buffer at pH 6.0 and 60C
+38.3	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme N657R, in 50 mM MES buffer at pH 6.0 and 60C
+38.9	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme A440V/R448S, in 50 mM MES buffer at pH 6.0 and 60C
+42.2	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme N657I, in 50 mM MES buffer at pH 6.0 and 60C
+54.3	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme P588H, in 50 mM MES buffer at pH 6.0 and 60C
+66.5	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0	X	mutant enzyme A431T, in 50 mM MES buffer at pH 6.0 and 60C
+113	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	60	6.0		wild type enzyme, at pH 6.0 and 60C
+660	glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				
+200	trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N				
+210	alpha,alpha-trehalose	484	HDTRYLNUVZCQOY-LIZSDCNHSA-N	30	6.5		recombinant enzyme, at pH 6.5 and 30C
+7.4	beta-D-glucose 1-phosphate	583	HXXFSFRBOHSIMQ-DVKNGEFBSA-N	60	6.0	X	mutant enzyme L649G/A693Q/W371Y, at pH 6.0 and 60C
+68	beta-D-glucose 1-phosphate	583	HXXFSFRBOHSIMQ-DVKNGEFBSA-N	30	6.5		recombinant enzyme, at pH 6.5 and 30C
+114	beta-D-glucose 1-phosphate	583	HXXFSFRBOHSIMQ-DVKNGEFBSA-N	60	6.0		wild type enzyme, at pH 6.0 and 60C
+660	beta-D-glucose 1-phosphate	583	HXXFSFRBOHSIMQ-DVKNGEFBSA-N				
+68.1	alpha-L-fucose	615	SHZGCJCMOBCMKK-SXUWKVJYSA-N	60	6.0		in 50 mM MES buffer (pH 6.0), at 60C
+54	alpha-D-galactose	827	WQZGKKKJIJFFOK-PHYPRBDBSA-N	60	6.0		in 50 mM MES buffer (pH 6.0), at 60C
+64.3	alpha-D-xylose	2112	SRBFZHDQGSBBOR-LECHCGJUSA-N	60	6.0		in 50 mM MES buffer (pH 6.0), at 60C
+51.4	alpha-D-arabinose	11711	SRBFZHDQGSBBOR-MBMOQRBOSA-N	60	6.0		in 50 mM MES buffer (pH 6.0), at 60C

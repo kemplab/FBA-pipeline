@@ -1,0 +1,59 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00004	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N			X	mutant enzyme DELTA(297-306)
+0.00021	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N			X	mutant enzyme R298A/Q299A
+0.0006	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N			X	mutant enzyme DELTA(298-306)
+0.0007	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N			X	mutant enzyme Q299A
+0.001	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N			X	mutant enzyme DELTA(299-306)
+0.0017	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N			X	mutant enzyme Q299N
+0.0021	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N			X	mutant enzyme Q299K
+0.0022	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N			X	mutant enzyme Q200E
+0.0034	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N			X	mutant enzyme R298A
+0.0048	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N			X	mutant enzyme R298L; mutant enzyme S139A/Q299A
+0.0069	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N			X	mutant enzyme S123a/R298A
+0.017	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N			X	mutant enzyme DELTA(300-306); mutant enzyme R298K
+0.022	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N			X	mutant enzyme DELTA(303-306)
+0.025	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N			X	mutant enzyme DELTA(301-306)
+0.027	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N			X	mutant enzyme DELTA(304-306)
+0.03	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N			X	mutant enzyme DELTA(302-306)
+0.032	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N				wild-type enzyme
+0.033	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N			X	mutant enzyme S123A; mutant enzyme S139A
+0.035	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N	123		X	mutant enzyme S123C
+0.039	o-aminobenzoyl-TSAVLQSGFRK-2,4-dinitrophenyl amide	1206	NFDUSOXLGYPGJJ-BECQVRKRSA-N			X	mutant enzyme DELTA(305-306)
+0.1	Thr-Ser-Ala-Val-Leu-Gln-p-nitroanilide	8170	XFASONBCQRAAQG-KSDVDEECSA-N			X	R298A mutant protein
+0.31	Thr-Ser-Ala-Val-Leu-Gln-p-nitroanilide	8170	XFASONBCQRAAQG-KSDVDEECSA-N			X	E166A mutant protein
+0.48	Thr-Ser-Ala-Val-Leu-Gln-p-nitroanilide	8170	XFASONBCQRAAQG-KSDVDEECSA-N			X	R298L mutant protein
+0.63	Thr-Ser-Ala-Val-Leu-Gln-p-nitroanilide	8170	XFASONBCQRAAQG-KSDVDEECSA-N				wild-type protein
+12.2	TSAVLQSGFRK-NH2	9470	DJXUDPXHZBYWEX-OBIVOGKVSA-N		7.3		pH 7.3, room temperature
+4753	TSAVLQSGFRK-NH2	9470	DJXUDPXHZBYWEX-OBIVOGKVSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme R188I
+0.14	[4-(4-dimethylaminophenylazo)benzoic acid]-KNSTLQSGLRKE-[5-[2'-(aminoethyl)amino]-naphthalenesulfonic acid]	12322	MBGFBPNKAKYSAV-CGAUFUJJSA-N			X	mutant enzyme Q189A
+0.16	[4-(4-dimethylaminophenylazo)benzoic acid]-KNSTLQSGLRKE-[5-[2'-(aminoethyl)amino]-naphthalenesulfonic acid]	12322	MBGFBPNKAKYSAV-CGAUFUJJSA-N				wild-type enzyme
+0.027	Ser-Ala-Val-Leu-Gln-Met-Gly-Phe-Arg-Lys	12867	NGJNTFXQTJVBKR-ZJADLOAUSA-N				wild-type protein
+0.27	Ser-Ala-Val-Leu-Gln-Met-Gly-Phe-Arg-Lys	12867	NGJNTFXQTJVBKR-ZJADLOAUSA-N			X	T25G mutant protein
+1.6	SAVLQMGFRK	12867	NGJNTFXQTJVBKR-ZJADLOAUSA-N	37			wild type enzyme, at 37C
+16.2	SAVLQMGFRK	12867	NGJNTFXQTJVBKR-ZJADLOAUSA-N	37		X	mutant enzyme T25G, at 37C
+0.07	Abz-SAVLQSGFRK(Dnp)NH2	114565	DBFJZJOXIUIOPL-XCMTWAOTSA-N	25	7.5		in the absence of sodium sulfate, pH 7.5 in 50 mM Tris-HCl buffer with 1 mM dithiothreitol, at 25C
+3.3	Abz-SAVLQSGFRK(Dnp)NH2	114565	DBFJZJOXIUIOPL-XCMTWAOTSA-N	25	7.5		in the presence of 1 M sodium sulfate, pH 7.5 in 50 mM Tris-HCl buffer with 1 mM dithiothreitol, at 25C
+0.04	Abz-VLQSGFRK(Dnp)NH2	114566	YYBBQWYTAUYKDT-OWSDCCEFSA-N	25	7.5		in the absence of sodium sulfate, pH 7.5 in 50 mM Tris-HCl buffer with 1 mM dithiothreitol, at 25C
+0.77	Abz-VLQSGFRK(Dnp)NH2	114566	YYBBQWYTAUYKDT-OWSDCCEFSA-N	25	7.5		in the presence of 1 M sodium sulfate, pH 7.5 in 50 mM Tris-HCl buffer with 1 mM dithiothreitol, at 25C
+0.003	Abz-LQSGFRK(Dnp)NH2	114567	SAVBUMHDQPVOKM-BGBFCPIGSA-N	25	7.5		in the absence of sodium sulfate, pH 7.5 in 50 mM Tris-HCl buffer with 1 mM dithiothreitol, at 25C
+0.02	Abz-LQSGFRK(Dnp)NH2	114567	SAVBUMHDQPVOKM-BGBFCPIGSA-N	25	7.5		in the presence of 1 M sodium sulfate, pH 7.5 in 50 mM Tris-HCl buffer with 1 mM dithiothreitol, at 25C
+0.004	Abz-SAVLQSGK(Dnp)NH2	114568	AOQKIVNHHXRDDA-GQUKTMJCSA-N	25	7.5		in the absence of sodium sulfate, pH 7.5 in 50 mM Tris-HCl buffer with 1 mM dithiothreitol, at 25C
+0.11	Abz-SAVLQSGK(Dnp)NH2	114568	AOQKIVNHHXRDDA-GQUKTMJCSA-N	25	7.5		in the presence of 1 M sodium sulfate, pH 7.5 in 50 mM Tris-HCl buffer with 1 mM dithiothreitol, at 25C
+0.38	o-aminobenzoyl-TSAVLQSGFRY(NO2)G	16695	RHMYEUIRJAMLKR-QDMLBFKWSA-N				
+0.0153	(Ala-Arg-Leu-Gln-NH)2-rhodamine	24050	RCYZBHLFHMTICF-MORJOXPWSA-N				rate of hydrolysis measured by change in absorbance at 496 nm
+8.5	SITSAVLQSGFRKMA	24933	XCACJJDFJORBBI-FGGZNMCYSA-N				
+0.86	SITSAVLQ-p-nitroanilide	24934	YYDVCTMASBQPFO-CRAFPILHSA-N				
+0.6	SITSAVLQ-p-nitrophenyl ester	24935	ISZDXBIGWBENKV-CRAFPILHSA-N				
+3.29	ATVRLQAGNAT	24990	PPDPVUYDKHYAGG-YWVLISQESA-N		7.3		pH 7.3, room temperature
+1.57	FYPKLQASQAW	24993	XLYOXDDERXKWAG-XWSBSFDSSA-N		7.3		pH 7.3, room temperature
+2.55	SGVTFQGKFKK	24995	QTBLVSJESFZNOJ-UDSPGADBSA-N		7.3		pH 7.3, room temperature
+0.847	TFTRLQSLENV	24996	OXIIMQWBRQWWKT-QZAZFWLMSA-N		7.3		pH 7.3, room temperature
+455	KVATVQSKMSD-NH2	25844	KQPRAHPOXSDMOV-DNDNJMJHSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme R188I
+76	GPFVDRQTAQAAGTDT-NH2	25845	OYJAQTVPYIMSIP-CRQSQXOWSA-N	37	7.5	X	pH 7.5, 37C, mutant enzyme R188I
+1.68	PHTVLQAVGAC	25846	MJURTBMCESLBEE-KNZUYLORSA-N		7.3		pH 7.3, room temperature
+0.6	Abz-QTSITSAVLQSGFRK(Dnp)NH2	114643	BUKIRXCTPHOWIT-QZTLZTNBSA-N	25	7.5		in the presence of 1 M sodium sulfate, pH 7.5 in 50 mM Tris-HCl buffer with 1 mM dithiothreitol, at 25C
+0.28	Abz-LYQPPQTSITSAVLQSGFRK(Dnp)NH2	114644	RQVKPHOCQIREPY-BTVNVZLTSA-N	25	7.5		in the presence of 1 M sodium sulfate, pH 7.5 in 50 mM Tris-HCl buffer with 1 mM dithiothreitol, at 25C
+0.38	Abz-SGADVLYQPPQTSITSAVLQSGFRK(Dnp)NH2	114645	NEEXJAIWMXDBKH-ANNDSQPUSA-N	25	7.5		in the presence of 1 M sodium sulfate, pH 7.5 in 50 mM Tris-HCl buffer with 1 mM dithiothreitol, at 25C
+3	Abz-SAVLQSGFRKMAK(Dnp)NH2	114646	PIGOCTMCFNWCFE-BWHFZHPFSA-N	25	7.5		in the presence of 1 M sodium sulfate, pH 7.5 in 50 mM Tris-HCl buffer with 1 mM dithiothreitol, at 25C
+2.9	Abz-SAVLQSGFRKMAFPSGK(Dnp)NH2	114647	JNVMJYLAERAHKJ-KNIVVORRSA-N	25	7.5		in the presence of 1 M sodium sulfate, pH 7.5 in 50 mM Tris-HCl buffer with 1 mM dithiothreitol, at 25C
+1.5	[4-(4-dimethylaminophenylazo)benzoic acid]-KTSAVLQSGFRKME-5-[2'-(aminoethyl)amino]-naphthalenesulfonic acid	45394	ABZBMHMSQWFOIS-NDAVYYAMSA-N				

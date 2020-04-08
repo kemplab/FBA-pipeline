@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.6	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	37	8.5	X	pH 8.5, 37C, Ser35 truncated mutant
+0.8	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	37	8.5		pH 8.5, 37C, wild-type enzyme
+1	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	37	8.5	X	pH 8.5, 37C, Met44-truncated mutant

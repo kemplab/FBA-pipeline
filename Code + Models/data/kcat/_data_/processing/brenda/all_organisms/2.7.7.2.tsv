@@ -1,0 +1,36 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000075	FAD	14	VWWQXMAJTJZDQX-UYBVJOGSSA-N	25	7.6		pH 7.6, 25C
+0.0000833	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N	25	7.6		pH 7.6, 25C
+0.0036	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N	37			37C; at 37C
+0.0036	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N				
+0.0048	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N				
+0.01	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N			X	pH and temperature not specified in the publication, mutant R300A
+0.0107	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8.5		recombinant enzyme purified under native conditions, at pH 8.5
+0.0108	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N		8.5		recombinant enzyme purified under native conditions, at pH 8.5
+0.011	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8.5		pH 8.5
+0.011	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N		8.5		pH 8.5
+0.012	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N			X	pH and temperature not specified in the publication, mutant R297A/R300A
+0.0128	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8.5		recombinant enzyme purified under native conditions, at pH 8.5
+0.0128	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N		8.5		recombinant enzyme purified under native conditions, at pH 8.5
+0.013	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8.5		pH 8.5
+0.013	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N		8.5		pH 8.5
+0.017	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N			X	pH and temperature not specified in the publication, mutant D168A; pH and temperature not specified in the publication, mutant N62S
+0.02	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N	37	7.5		without Na2S2O4, in 50 mM potassium phosphate (pH 7.5), at 37C
+0.042	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N			X	pH and temperature not specified in the publication, mutant N62A
+0.047	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N	37	8.0		FADS trimer, 10 mM MgCl2 in 50 mM TrisHCl (pH 8.0), at 37C
+0.07	roseoflavin mononucleotide	118781	DXVIFONVCCHBHO-LXINESAQSA-N	37	7.5		with 24 mM Na2S2O4, in 50 mM potassium phosphate (pH 7.5), at 37C
+0.0758	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R66E
+0.0758	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R66E
+0.078	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N	37	7.5		at 37C, in 50 mM Tris-HCl, pH 7.5
+0.08	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N	37	7.5		with 24 mM Na2S2O4, in 50 mM potassium phosphate (pH 7.5), at 37C
+0.087	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+0.087	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N				
+0.089	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N				pH and temperature not specified in the publication, wild-type enzyme
+0.0917	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.0		pH 7.0, 25C, recombinant wild-type enzyme
+0.0917	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N	25	7.0		pH 7.0, 25C, recombinant wild-type enzyme
+0.142	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R66A
+0.142	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N	25	7.0	X	pH 7.0, 25C, recombinant mutant R66A
+0.21	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N			X	pH and temperature not specified in the publication, mutant R297A
+0.26	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N			X	pH and temperature not specified in the publication, mutant W184A
+0.33	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N	37	8.0		FADS monomer, 10 mM MgCl2 in 50 mM TrisHCl (pH 8.0), at 37C
+0.88	FMN	52	FVTCRASFADXXNN-SCRDCRAPSA-N			X	pH and temperature not specified in the publication, mutant D181A

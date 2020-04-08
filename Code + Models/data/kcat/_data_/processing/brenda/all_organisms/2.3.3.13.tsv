@@ -1,0 +1,68 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.022	alpha-ketoisovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M			X	mutant E218A, enzyme displays substrate activation, activated form
+0.03	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.4		hydrolysis, presence of MgCl2, pH 7.4, 25C
+0.035	alpha-ketoisovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	25	7.5		pH 7.5, 25C
+0.037	alpha-ketoisovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M			X	mutant E218A, enzyme displays substrate activation, unactivated form
+0.04	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N	25	7.4		hydrolysis, presence of MgCl2, pH 7.4, 25C
+0.04	propionyl-CoA	297	QAQREVBBADEHPA-IEXPHMLFSA-N	25	7.4		hydrolysis, absence of MgCl2, pH 7.4, 25C
+0.05	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5	X	mutant enzyme D81A, at pH 7.5 and 25C
+0.05	crotonyl-CoA	340	KFWWCMJSYSSPSK-PAXLJYGASA-N	25	7.4		hydrolysis, absence of MgCl2, pH 7.4, 25C
+0.058	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant E218A, enzyme displays substrate activation, unactivated form
+0.06	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.4		hydrolysis, absence of MgCl2, pH 7.4, 25C
+0.075	alpha-ketoisovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M			X	mutant Y410F
+0.093	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant E218A, enzyme displays substrate activation, activated form; mutant Y410F
+0.12	4-methylthio-2-oxobutyrate	1168	SXFSQZDSUWACKX-UHFFFAOYSA-N				isoform IPMS3, pH and temperature not specified in the publication
+0.12	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5	X	mutant enzyme D81E, at pH 7.5 and 25C
+0.13	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5	X	mutant enzyme D81E/N321I, at pH 7.5 and 25C
+0.15	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5	X	mutant enzyme N321A, at pH 7.5 and 25C; mutant enzyme N321I, at pH 7.5 and 25C
+0.28	3-methyl-2-oxopentanoate	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+0.32	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		wild type enzyme, at pH 7.5 and 25C
+0.49	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N				isoform IPMS3, pH and temperature not specified in the publication
+0.52	alpha-ketoisovaleric acid	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	14			alpha-IPMS-14CR
+0.61	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	14			alpha-IPMS-14CR
+0.7	alpha-ketoisovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M			X	mutant H379A, enzyme displays substrate activation, unactivated form
+0.77	2-oxo-3-methylbutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, presence of Co2+
+1.08	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N				isoform IPMS1, pH and temperature not specified in the publication
+1.17	alpha-ketoisovaleric acid	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	2			alpha-IPMS-2CR
+1.36	alpha-Ketobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+1.483	alpha-ketoisovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M			X	mutant H379A, enzyme displays substrate activation, activated form
+1.5	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+1.69	2-oxo-3-methylbutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, presence of Mn2+
+1.9	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N		8.0		; pH 8.0, isoform IPMS2
+2.1	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.4		cosubstrate 2-oxo-3-methylbutanoate, pH 7.4, 25C
+2.2	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N		8.0		; pH 8.0, isoform IPMS1
+2.22	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	2			alpha-IPMS-2CR
+2.3	2-oxo-3-methylbutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N		8.0		; pH 8.0, isoform IPMS2
+2.4	2-oxo-3-methylbutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N		8.0		; pH 8.0, isoform IPMS1
+2.53	alpha-ketoisovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M				wild-type
+2.55	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant H379A
+2.717	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				wild-type
+2.9	2-oxo-3-methylbutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, presence of Rb+
+3.1	3-methyl-2-oxobutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25	7.5	X	mutant enzyme D444A, at pH 7.5 and 25C
+3.2	2-oxo-3-methylbutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, presence of K+
+3.4	3-methyl-2-oxobutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25	7.5	X	mutant enzyme D444Y, at pH 7.5 and 25C
+3.5	2-oxo-3-methylbutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, presence of Mg2+
+3.5	2-oxo-3-methylbutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+3.5	2-oxo-3-methylbutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25	7.5		full-length enzyme, in 50 mM HEPES (pH 7.5), at 25C
+3.5	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		full-length enzyme, in 50 mM HEPES (pH 7.5), at 25C
+3.7	3-methyl-2-oxobutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25	7.5		wild type enzyme, at pH 7.5 and 25C
+4.5	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.4		cosubstrate pyruvate, pH 7.4, 25C
+4.75	alpha-ketoisovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M			X	mutant Y169F
+5	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.4		cosubstrate 2-oxo-n-pentanoate, pH 7.4, 25C
+5.667	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant Y169F
+5.7	3-methyl-2-oxobutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25	7.5	X	mutant enzyme D444R, at pH 7.5 and 25C
+6.1	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+7	2-oxo-n-pentanoate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	25	7.4		pH 7.4, 25C
+7	3-methyl-2-oxobutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25	7.5	X	mutant enzyme R97A, at pH 7.5 and 25C
+7.28	3-methyl-2-oxobutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	30	7.5		isoform Leu9, at pH 7.5 and 30C
+7.6	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.4		cosubstrate 2-oxo-butanoate, pH 7.4, 25C
+10.7	2-oxo-butanoate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+13	2-oxo-3-methylbutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	25	7.5		full-length enzyme, in 50 mM HEPES (pH 7.5), at 25C
+13	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		full-length enzyme, in 50 mM HEPES (pH 7.5), at 25C
+13.79	3-methyl-2-oxobutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	30	7.5		isoform Leu4, at pH 7.5 and 30C
+105	3-Fluoropyruvate	2448	CXABZTLXNODUTD-UHFFFAOYSA-M	25	7.5		pH 7.5, 25C
+330	3-methyl-2-oxobutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	37	7.8		pH 7.8, 37C
+330	3-methyl-2-oxobutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	37	7.8		at pH 7.8 and 37C
+330	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	7.8		pH 7.8, 37C
+450	3-methyl-2-oxobutanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	55	7.8		pH 7.8, 55C
+450	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	55	7.8		pH 7.8, 55C

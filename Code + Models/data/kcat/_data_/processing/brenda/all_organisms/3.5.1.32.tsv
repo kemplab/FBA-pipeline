@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2	N-acetyl-L-alanine	2128	KTHDTJVBEPMMGL-VKHMYHEASA-N	37	7.5		pH 7.5, 37C, purified recombinant wild-type enzyme
+22.12	N-acetyl-L-alanine	2128	KTHDTJVBEPMMGL-VKHMYHEASA-N	37	7.5		pH 7.5, 37C, purified recombinant wild-type enzyme
+1.4	hippurate	913	QIAFMBKCNZACKA-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, purified recombinant wild-type enzyme
+2.32	hippurate	913	QIAFMBKCNZACKA-UHFFFAOYSA-N	37	7.5	X	pH 7.5, 37C, recombinant mutant D76N
+98.73	hippurate	913	QIAFMBKCNZACKA-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, purified recombinant wild-type enzyme
+0.052	N-acetylglycine	3577	OKJIRPAQVSHGFK-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, purified recombinant wild-type enzyme
+10.18	N-acetylglycine	3577	OKJIRPAQVSHGFK-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, purified recombinant wild-type enzyme
+29.38	N-benzoylalanine	8330	UAQVHNZEONHPQG-ZETCQYMHSA-N	37	7.5		pH 7.5, 37C, purified recombinant wild-type enzyme
+81	N-benzoylalanine	8330	UAQVHNZEONHPQG-ZETCQYMHSA-N	37	7.5		pH 7.5, 37C, purified recombinant wild-type enzyme
+2.6	N-benzoylmethionine	5177	PPFRJEXUPZWQPI-JTQLQIEISA-N	37	7.5		pH 7.5, 37C, purified recombinant wild-type enzyme
+57.13	N-benzoylmethionine	5177	PPFRJEXUPZWQPI-JTQLQIEISA-N	37	7.5		pH 7.5, 37C, purified recombinant wild-type enzyme
+0.17	N-benzoylglutamate	4883	LPJXPACOXRZCCP-VIFPVBQESA-N	37	7.5		pH 7.5, 37C, purified recombinant wild-type enzyme
+48.72	N-benzoylglutamate	4883	LPJXPACOXRZCCP-VIFPVBQESA-N	37	7.5		pH 7.5, 37C, purified recombinant wild-type enzyme
+0.5	N-benzoylvaline	6349	MIYQNOPLWKCHED-JTQLQIEISA-N	37	7.5		pH 7.5, 37C, purified recombinant wild-type enzyme
+13.33	N-benzoylvaline	6349	MIYQNOPLWKCHED-JTQLQIEISA-N	37	7.5		pH 7.5, 37C, purified recombinant wild-type enzyme
+14.75	4-aminobenzoyl-glutamate	7909	GADGMZDHLQLZRI-VIFPVBQESA-N	37	7.5		pH 7.5, 37C, purified recombinant wild-type enzyme
+5.95	N-benzoylphenylalanine	8009	NPKISZUVEBESJI-AWEZNQCLSA-N	37	7.5		pH 7.5, 37C, purified recombinant wild-type enzyme

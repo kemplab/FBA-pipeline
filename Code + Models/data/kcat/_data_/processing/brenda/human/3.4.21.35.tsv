@@ -1,0 +1,93 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0035	Gly-Pro-Arg-7-amido-4-methylcoumarin	8878	GHPYVMAXHWZRHO-ROUUACIJSA-N	37	7.5		37C, pH 7.5
+0.0038	Gln-Ala-Arg-7-amido-4-methylcoumarin	12022	SJTRFFLMKSZGRQ-JQFCIGGWSA-N	37	7.5		37C, pH 7.5
+0.0065	Phe-Ser-Arg-7-amido-4-methylcoumarin	6574	CBECFYSOGJBLKH-FKBYEOEOSA-N	37	7.5		37C, pH 7.5
+0.0075	Val-Pro-Arg-7-amido-4-methylcoumarin	6465	CCOBFOPWDBZKQO-IPJJNNNSSA-N	37	7.5		37C, pH 7.5
+0.02	Abz-KAFSSKQ-EDDnp	125356	AWMWBANHHFXZOD-VWQOAKDWSA-N	37	7.5		at pH 7.5 and 37C
+0.02	Abz-KFFSSKQ-EDDnp	125354	WFOPRNNABHSYCR-BEGKBBJWSA-N	37	7.5		at pH 7.5 and 37C
+0.02	Abz-KLFSSIQ-EDDnp	125393	HJRGCUQXNPNYGL-ZJQTURBJSA-N	37	7.5		at pH 7.5 and 37C
+0.02	Abz-KPFSSKQ-EDDnp	125357	JBNGHBQSHIMSPO-FVMQRRFMSA-N	37	7.5		at pH 7.5 and 37C
+0.02	Abz-KYFSSKQ-EDDnp	125353	LOXQOKJXMXGRIY-BEGKBBJWSA-N	37	7.5		at pH 7.5 and 37C
+0.02	Abz-MISLMKLP-Q-EDDnp	125377	BJYYBMAXHZTCTF-RKSJAAHDSA-N				pH and temperature not specified in the publication
+0.02	o-aminobenzoyl-AIKFFQRE-N-(2,4-dinitrophenyl)ethylene diamine	22324	INKYRJKQCMTZQW-FJPHSBRTSA-N	37	9.0		pH 9.0, 37C
+0.0267	Val-Pro-Arg-Arg-7-amido-4-methylcoumarin	14526	GXOKQACKPQXZQC-HZLPDVBGSA-N	37	7.5		pH 7.5, 37C
+0.03	Abz-GLFSSKQ-EDDnp	125366	QHLSIVZNUUDCNI-BGBFCPIGSA-N	37	7.5		at pH 7.5 and 37C
+0.031	Pro-Phe-Arg-7-amido-4-methylcoumarin	3623	BTCWZEKYFOKVMQ-DZUOILHNSA-N	37	7.5		37C, pH 7.5
+0.04	Abz-KLFFSK-EDDnp	125380	HOEGCUSAULYFMD-JSHGGYKJSA-N	37	7.5		at pH 7.5 and 37C
+0.04	Abz-KLFRSK-EDDnp	125379	UBNMXAFXWWYGSM-UJKKYYSESA-N	37	7.5		at pH 7.5 and 37C
+0.04	Abz-KLFSGKQ-EDDnp	125389	BXURPGKRLLJUSG-UJKKYYSESA-N	37	7.5		at pH 7.5 and 37C
+0.04	Abz-KLFSNKQ-EDDnp	125387	RGQZRQJOIMKZJQ-NKUVHBIJSA-N	37	7.5		at pH 7.5 and 37C
+0.04	Abz-KLFTSK-EDDnp	125381	HLXVACCLLNOYBQ-KCZSHHHLSA-N	37	7.5		at pH 7.5 and 37C
+0.04	Abz-KLFWSK-EDDnp	125382	BMNHLSCXCOKPEE-RYICAFHUSA-N	37	7.5		at pH 7.5 and 37C
+0.04	Abz-KVFSSKQ-EDDnp	125355	VQLVDPCVUQMNIW-VICBGONHSA-N	37	7.5		at pH 7.5 and 37C
+0.04	Leu-Leu-Arg-7-amido-4-methylcoumarin	22281	RUAVTBUGJWJRRE-VABKMULXSA-N	37	7.5		pH 7.5, 37C
+0.04	o-aminobenzoyl-AIKFFTRE-N-(2,4-dinitrophenyl)ethylene diamine	22330	MJLCLVCTEDDNOF-CFLMBSESSA-N	37	9.0		pH 9.0, 37C
+0.04	o-aminobenzoyl-LMKRP-N-(2,4-dinitrophenyl)ethylene diamine	11265	JVUZWAVBCFATJB-DDRXXTSWSA-N	30	9.0		pH 9.0, 30C
+0.05	Abz-KLFSSDQ-EDDnp	125399	BMTLQHZKMRQHOT-OAKHNGAUSA-N	37	7.5		at pH 7.5 and 37C
+0.05	o-aminobenzoyl-AIKFFIRE-N-(2,4-dinitrophenyl)ethylene diamine	22323	OQFSUEIFRBZYQK-WHQWGBEOSA-N	37	9.0		pH 9.0, 37C
+0.05	o-aminobenzoyl-AIKFFSPE-N-(2,4-dinitrophenyl)ethylene diamine	22327	SQDNVLPIGUVUBK-BJICBNTHSA-N	37	9.0		pH 9.0, 37C
+0.06	Abz-ILFSSKQ-EDDnp	125362	IFBCPVZLEFYTIF-ZJQTURBJSA-N	37	7.5		at pH 7.5 and 37C
+0.06	Abz-KLFSSVQ-EDDnp	125395	RZEIKZNOYCZIRR-VICBGONHSA-N	37	7.5		at pH 7.5 and 37C
+0.07	Abz-KLFSSNQ-EDDnp	125394	JFNGYYLWCMJRRM-OAKHNGAUSA-N	37	7.5		at pH 7.5 and 37C
+0.07	Abz-LLFSSKQ-EDDnp	125359	QRGXJZZWYWQPBA-NKUVHBIJSA-N	37	7.5		at pH 7.5 and 37C
+0.08	Abz-KLFSSLQ-EDDnp	125392	QJTKVNDFVGPFEX-NKUVHBIJSA-N	37	7.5		at pH 7.5 and 37C
+0.09	Abz-FLFSSKQ-EDDnp	125358	QJOQGQYVTCQROJ-BEGKBBJWSA-N	37	7.5		at pH 7.5 and 37C
+0.09	Abz-KLFSIKQ-EDDnp	125386	WGBIVFWCQQBQTG-URFKUJDASA-N	37	7.5		at pH 7.5 and 37C
+0.09	Abz-KLFSSGQ-EDDnp	125396	TVCOFNSGWXRFQL-BGBFCPIGSA-N	37	7.5		at pH 7.5 and 37C
+0.1	Abz-ALFSSKQ-EDDnp	125361	KMXZPAVERGHEIY-VWQOAKDWSA-N	37	7.5		at pH 7.5 and 37C
+0.1	Abz-HLFSSKQ-EDDnp	125365	YKCXMEUORFDZHA-NKUVHBIJSA-N	37	7.5		at pH 7.5 and 37C
+0.1	Abz-KLFSSK-EDDnp	125378	MRCAQGYQQPSAFA-UNHORJANSA-N	37	7.5		at pH 7.5 and 37C
+0.1	Abz-KLFSSKQ-EDDnp	125352	GZBIDFIGGDHWID-NKUVHBIJSA-N	37	7.5		at pH 7.5 and 37C
+0.12	Ala-Arg-Arg-7-amido-4-methylcoumarin	14459	YTUDUOMORVJATA-SNRMKQJTSA-N	37	7.5		pH 7.5, 37C
+0.13	Abz-RLFSSKQ-EDDnp	125363	QUMDIACIYBCHQM-FVMQRRFMSA-N	37	7.5		at pH 7.5 and 37C
+0.13	Abz-VLFSSKQ-EDDnp	125360	ACZFDFOYKCZERR-VICBGONHSA-N	37	7.5		at pH 7.5 and 37C
+0.14	Abz-KLFSSQQ-EDDnp	125397	BHCCVNFSVLUJHB-IFLLZMBLSA-N	37	7.5		at pH 7.5 and 37C
+0.15	Abz-KLFSLKQ-EDDnp	125385	LYWWREZDVUGAKW-BEGKBBJWSA-N	37	7.5		at pH 7.5 and 37C
+0.15	Abz-KLFSRKQ-EDDnp	125383	ASNZZZXZHHDNNI-FXRUNAACSA-N	37	7.5		at pH 7.5 and 37C
+0.15	Abz-QLFSSKQ-EDDnp	125367	SUNRSKFSXJHLAL-IFLLZMBLSA-N	37	7.5		at pH 7.5 and 37C
+0.17	Abz-KLFSSRQ-EDDnp	125391	YJEHLDJXLMFDKR-FVMQRRFMSA-N	37	7.5		at pH 7.5 and 37C
+0.21	o-aminobenzoyl-AIKFFSKE-N-(2,4-dinitrophenyl)ethylene diamine	22326	GXTAWNXYVGHOFV-FEDQAFKCSA-N	37	9.0		pH 9.0, 37C
+0.28	Abz-NLFSSKQ-EDDnp	125364	PWVNJXDUMISKFR-OAKHNGAUSA-N	37	7.5		at pH 7.5 and 37C
+0.3	o-aminobenzoyl-AIKFFSSE-N-(2,4-dinitrophenyl)ethylene diamine	22329	BUNLISFHPYYOSP-GNWQFHHXSA-N	37	9.0		pH 9.0, 37C
+0.33	Abz-MISLMKRP-Q-EDDnp	77970	XNWUNAVBWQXOGO-WWWPNJDSSA-N				pH and temperature not specified in the publication
+0.35	Abz-KLFSVKQ-EDDnp	125388	YNCIPKNGPFPPIH-BZKRTERRSA-N	37	7.5		at pH 7.5 and 37C
+0.43	Abz-KLFSAKQ-EDDnp	125384	NDUOIEUOLCHERP-LRMQDCNJSA-N	37	7.5		at pH 7.5 and 37C
+0.43	Abz-KLFSSSQ-EDDnp	125390	OYAOCAAWYOSQAU-OAKHNGAUSA-N	37	7.5		at pH 7.5 and 37C
+0.5	Abz-KLFSSEQ-EDDnp	125398	BCIYIACITIWKGW-IFLLZMBLSA-N	37	7.5		at pH 7.5 and 37C
+0.51	o-aminobenzoyl-GFSPF-4-(aminocyclohexyl)alanine-SSRPQ-N-(2,4-dinitrophenyl)ethylene diamine	22332	QNRKMTDFIGKGED-PAXWEUSRSA-N	37	9.0		pH 9.0, 37C
+0.54	o-aminobenzoyl-AIKFFSAE-N-(2,4-dinitrophenyl)ethylene diamine	22325	BCXGKWMIKDKLSM-IDQWHXLKSA-N	37	9.0		pH 9.0, 37C
+0.61	o-aminobenzoyl-GFSPF-4-piperidinylalanine-SSRPQ-N-(2,4-dinitrophenyl)ethylene diamine	22335	OYXYZRQJXBFTGS-CSXZFWIZSA-N	37	9.0		pH 9.0, 37C
+0.73	o-aminobenzoyl-MTEMARRPQ-ethylenediamine 2,4-dinitrophenol	7849	USFWOAQSHMLTIU-LHPDDAPDSA-N				
+0.8	DL-Val-Leu-Arg-p-nitroanilide	4947	OTTQBQJPXNEBML-UHFFFAOYSA-N	22	8.0		recombinant enzyme from liver, pH 8.0, 22C
+0.81	o-aminobenzoyl-GFSPF-4-(aminomethyl)-N-isopropylphenylalanine-SSRPQ-N-(2,4-dinitrophenyl)ethylene diamine	22333	PXCCSNCTTYQPBJ-FRKMYYPUSA-N	37	9.0		pH 9.0, 37C
+0.85	Abz-KLYSSK-EDDnp	125400	FQCGOAPEMIOWNO-UNHORJANSA-N	37	7.5		at pH 7.5 and 37C
+0.9	o-aminobenzoyl-FRSVQ-N-(2,4-dinitrophenyl)ethylene diamine	11260	OFLKDXHPGJCTCS-XOSLRORVSA-N	30	9.0		pH 9.0, 30C
+0.917	Pro-Phe-Arg-Arg-7-amido-4-methylcoumarin	14511	OBJGWCXLPDIAKS-LJWNLINESA-N	37	7.5		pH 7.5, 37C
+0.94	o-aminobenzoyl-GFSPFRSVQ-N-(2,4-dinitrophenyl)ethylene diamine	11263	CQFIHXKFQRSOOE-QKRKIVNLSA-N	30	9.0		pH 9.0, 30C
+1	o-aminobenzoyl-Phe-4-(aminomethyl)phenylalanine-Ser-Arg-Gln-N-(2,4-dinitrophenyl)ethylene diamine	22356	QQFBFIFBBRMEBE-MQDBWYGVSA-N	37	9.0		pH 9.0, 37C
+1.07	DL-Val-Leu-Arg-p-nitroanilide	4947	OTTQBQJPXNEBML-UHFFFAOYSA-N	22	8.0		recombinant salivary enzyme, pH 8.0, 22C
+1.1	o-aminobenzoyl-QPLGQTSLMKRP-N-(2,4-dinitrophenyl)ethylene diamine	11267	GNXXVVSWUGISON-JRXGHXBPSA-N	30	9.0		pH 9.0, 30C
+1.16	DL-Val-Leu-Arg-p-nitroanilide	4947	OTTQBQJPXNEBML-UHFFFAOYSA-N	22	8.0		recombinant pancreatic enzyme, pH 8.0, 22C
+1.2	o-aminobenzoyl-Phe-Nim-(dimethyl)histidine-Ser-Arg-Gln-N-(2,4-dinitrophenyl)ethylene diamine	22357	WMPMVTXXLIFZDX-LTLCPEALSA-O	37	9.0		pH 9.0, 37C
+1.4	o-aminobenzoyl-FRSSR-N-(2,4-dinitrophenyl)ethylene diamine	11259	LNYCLRSCXONUJA-ZTTXAYQISA-N	30	9.0		pH 9.0, 30C
+1.5	o-aminobenzoyl-GFSPFRSVQVMKYEGSQ-N-(2,4-dinitrophenyl)ethylene diamine	11264	PRLUNVZBJFWEOI-JLKRXQKDSA-N	30	9.0		pH 9.0, 30C
+1.6	Abz-FRSSR-Q-EDDnp	125376	IOWWMFDCDRQQSS-NGTAMTFRSA-N				pH and temperature not specified in the publication
+1.8	o-aminobenzoyl-GFSPF-4-(aminomethyl)phenylalanine-SSRPQ-N-(2,4-dinitrophenyl)ethylene diamine	22334	PZECFIYRIWJKHR-ZJQPJSICSA-N	37	9.0		pH 9.0, 37C
+2	succinyl-Val-Pro-Phe-thiobenzyl ester	115566	ZKVZGVIFRVJQGE-DPZBCOQUSA-N	22	8.0		recombinant enzyme from liver and naturally occuring urinary enzyme, pH 8.0, 22C
+2.1	o-aminobenzoyl-GFSPF-Nim-(dimethyl)histidine-SSRPQ-N-(2,4-dinitrophenyl)ethylene diamine	22336	ZKDJXGQSWPQXOR-CSXZFWIZSA-O	37	9.0		pH 9.0, 37C
+3	o-aminobenzoyl-GFSPFRSSRIGEIKEEQ-N-(2,4-dinitrophenyl)ethylene diamine	11261	ZSULIVNKUMZHSQ-FFDHWFOXSA-N	30	9.0		pH 9.0, 30C
+3.1	o-aminobenzoyl-GFSPFRSVTVQ-ethylenediamine 2,4-dinitrophenol	7848	CDWDQCWCHDTVHU-FXXABNLPSA-N				
+3.33	o-aminobenzoyl-AIKFFSRE-N-(2,4-dinitrophenyl)ethylene diamine	22328	BLTNSBUMBQGXQI-BJICBNTHSA-N	37	9.0		pH 9.0, 37C
+3.6	D-Pro-Phe-Arg-4-methylcoumarin-7-amide	6636	LATXIQYQVGEJJC-SGNDLWITSA-N	37	8.5		37C, pH 8.5
+4.6	Abz-GFSPFRSLRI-Q-EDDnp	125375	QUSOBLPSKJTUPQ-NZXFAHSFSA-N				pH and temperature not specified in the publication
+5.3	Pro-Phe-Arg-4-methylcoumarin 7-amide	3191	LATXIQYQVGEJJC-HJOGWXRNSA-N	22	8.0		recombinant enzyme from liver, pH 8.0, 22C
+6.1	Pro-Phe-Arg-4-methylcoumarin 7-amide	3191	LATXIQYQVGEJJC-HJOGWXRNSA-N	22	8.0		naturally occuring urinary enzyme, pH 8.0, 22C
+7.1	o-aminobenzoyl-QPLGMISLMKRP-N-(2,4-dinitrophenyl)ethylene diamine	11266	DYQDFWKOHFCPSV-XWUZITALSA-N	30	9.0		pH 9.0, 30C
+7.3	Pro-Phe-Arg-4-methylcoumarin 7-amide	3191	LATXIQYQVGEJJC-HJOGWXRNSA-N	22	8.0		recombinant salivary enzyme, pH 8.0, 22C
+7.4	Pro-Phe-Arg-4-methylcoumarin 7-amide	3191	LATXIQYQVGEJJC-HJOGWXRNSA-N	22	8.0		recombinant pancreatic enzyme, pH 8.0, 22C
+7.5	o-aminobenzoyl-GFSPFRSSRQ-N-(2,4-dinitrophenyl)ethylene diamine	11262	SDQDQWCSJOVVIT-ZTNWZYIDSA-N	30	9.0		pH 9.0, 30C
+12.5	D-Pro-Phe-Phe-4-methylcoumarin-7-amide	7850	AHLUZRZQELPUGA-PKTNWEFCSA-N	37	8.5		37C, pH 8.5
+12.5	Pro-Phe-Arg-4-methylcoumarin 7-amide	3191	LATXIQYQVGEJJC-HJOGWXRNSA-N	37	9.0		pH 9.0, 37C
+17.7	Abz-GFSPFRSSRI-Q-EDDnp	114785	UHDMYWFHWBHIAJ-NUQJMHIBSA-N				pH and temperature not specified in the publication
+27	succinyl-Val-Pro-Phe-thiobenzyl ester	115566	ZKVZGVIFRVJQGE-DPZBCOQUSA-N	22	8.0		recombinant pancreatic enzyme, pH 8.0, 22C
+29	succinyl-Val-Pro-Phe-thiobenzyl ester	115566	ZKVZGVIFRVJQGE-DPZBCOQUSA-N	22	8.0		recombinant salivary enzyme, pH 8.0, 22C

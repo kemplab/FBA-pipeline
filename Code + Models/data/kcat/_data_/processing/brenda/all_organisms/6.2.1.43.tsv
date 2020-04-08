@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.55	2,7-dihydroxy-5-methyl-1-naphthoate	3104	BLBGRTHACSTGEL-UHFFFAOYSA-N	24	8.0		pH 8.0, 24C
+0.63	2-hydroxy-7-methoxy-5-methyl-1-naphthoate	8229	LYGUXQMPYLCEGL-UHFFFAOYSA-N	24	8.0		pH 8.0, 24C; pH and temperature not specified in the publication
+0.047	2-hydroxy-1-naphthoate	10398	UPHOPMSGKZNELG-UHFFFAOYSA-N	24	8.0		pH 8.0, 24C
+0.135	2-hydroxy-5-methyl-1-naphthoate	111718	KKMAZNUSFFWQQY-UHFFFAOYSA-N	24	8.0		pH 8.0, 24C
+0.118	2-hydroxy-7-methoxy-1-naphthoate	111719	FBNJFFLAQKFDCE-UHFFFAOYSA-N	24	8.0		pH 8.0, 24C
+0.42	2-hydroxy-5,7-dimethoxy-1-naphthoate	111720	ZIFMIQQBGIAMRY-UHFFFAOYSA-N	24	8.0		pH 8.0, 24C
+0.11	naphthoate	7438	UOBYKYZJUGYBDK-UHFFFAOYSA-N	24	8.0		pH 8.0, 24C
+0.11	Naphthalene-1-carboxylic acid	8861	LNETULKMXZVUST-UHFFFAOYSA-N				pH and temperature not specified in the publication
+0.05	2-hydroxynaphthalene-1-carboxylic acid	10398	UPHOPMSGKZNELG-UHFFFAOYSA-N				pH and temperature not specified in the publication
+0.135	2-hydroxy-5-methylnaphthalene-1-carboxylic acid	3104	BLBGRTHACSTGEL-UHFFFAOYSA-N				pH and temperature not specified in the publication
+1.55	2,7-dihydroxy-5-methylnaphthalene-1-carboxylic acid	3104	BLBGRTHACSTGEL-UHFFFAOYSA-N				pH and temperature not specified in the publication
+0.12	2-hydroxy-7-methoxynaphthalene-1-carboxylic acid	111719	FBNJFFLAQKFDCE-UHFFFAOYSA-N				pH and temperature not specified in the publication
+0.42	2-hydroxy-5,7-dimethoxynaphthalene-1-carboxylic acid	111720	ZIFMIQQBGIAMRY-UHFFFAOYSA-N				pH and temperature not specified in the publication

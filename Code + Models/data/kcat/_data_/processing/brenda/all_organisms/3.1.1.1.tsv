@@ -1,0 +1,449 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.1	palmitoyl-CoA	122	MNBKLUUYKPBKDU-BBECNAHFSA-N				
+1.3	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+0.0245	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	50	6.5		pH 6.5, 50C
+0.032	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C
+0.175	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N			X	mutant enzyme D205N
+0.665	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N			X	mutant enzyme D205A
+11.65	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	80	8.0		pH 8.0, 80C
+11.8	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+13	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	35	6.0		pH 6.0, 35C, wild-type enzyme
+18.5	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C; pH 7.5, 37C
+20	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C
+25	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	50	2.0		pH 2.0, 50C
+31	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	35	6.0	X	pH 6.0, 35C, mutant enzyme N248A/P256Q/E257G/S283F
+45.3	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	70	7.2		70C, pH 7.2; pH 7.0, 70C
+74.6	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	80	9.0		pH 9.0, 80C
+81	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+94	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+120	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	80	8.0		80C, pH 8.0, wild-type enzyme
+120	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+143	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	45			45C
+145	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	37			37C
+213	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	60			60C
+750	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N				
+6400	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N				
+4	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, wild-type enzyme
+6	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	35	6.0	X	pH 6.0, 35C, mutant enzyme A241N/Q249P/G250E/F276S
+6.1	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C; pH 7.5, 37C
+9.12	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	80	8.0		pH 8.0, 80C
+10	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme R210A
+10	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	50	2.0		pH 2.0, 50C
+15.72	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	35	7.0		at 35C in 100 mM sodium phosphate (pH 7.0)
+27.4	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C
+50	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+56	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	35	6.0		pH 6.0, 35C, wild-type enzyme
+58.9	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	80	9.0		pH 9.0, 80C
+101	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	35	6.0	X	pH 6.0, 35C, mutant enzyme N248A/P256Q/E257G/S283F
+127	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N				
+144	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N				
+267	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N				
+314	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+680	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	70	7.1		70C, pH 7.1
+859	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	35	6.0		pH 6.0, 35C, wild-type enzyme
+861	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+872	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	35	6.0	X	pH 6.0, 35C, mutant enzyme Q249P/G250E
+904	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	37			37C
+1150	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	45			45C
+1380	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N				
+1500	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	60	8.0		apparent value, pH 8.0, 60C
+1670	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	60			60C
+6.1	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N				+/- 0.7
+51.7	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N				
+367	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N				
+401	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N				
+1700	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N				
+17	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	37	8.0		isoform hCE-1, pH 8.0, 37C
+18.5	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N				+/- 1.7
+50	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	60	7.5		60C, pH 7.5
+70	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	37	8.0		isoform hCE-2, pH 8.0, 37C
+81	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+6400	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N				
+30	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+156	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N				
+300	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N				
+380	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N				
+550	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N	22	8.0		pH 8.0, 22C
+2	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	50	2.0		pH 2.0, 50C
+2.47	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	70	7.1	X	pH 7.1, 70C, mutant enzyme expressed from the gene that has a deletion of about 60 residues at the N terminus
+6.5	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+11	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	35	6.0		pH 6.0, 35C, wild-type enzyme
+12	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N				
+19	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	25	8.0	X	mutant G244P, pH 8.0, 25C
+31	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N				
+44.7	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	70	7.5		; pH 7.5, 70C
+58	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	25	8.0		wild-type, pH 8.0, 25C
+79.3	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	70	7.2		70C, pH 7.2
+159	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	35	6.0	X	pH 6.0, 35C, mutant enzyme N248A/P256Q/E257G/S283F
+507	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+908	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	37			37C
+1014	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	70	7.1		70C, pH 7.1
+1032	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N		8.0		pH 8.0, temperature not specified in the publication, recombinant enzyme expressed in Escherichia coli as a thioredoxin-EstA fusion protein (EcSisEstA II)
+1170	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	45			45C
+1228	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N		8.0		pH 8.0, temperature not specified in the publication, recombinant enzyme expressed in Escherichia coli as thioredoxin-free form (EcSisEstA I)
+1476	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+1500	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	70	7.1	X	mutant M211V, pH 7.1, 70C
+1550	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N				
+1710	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	60			60C
+2003	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N		8.0		pH 8.0, temperature not specified in the publication, recombinant enzyme expressed in Sulfolobus solfataricus
+2300	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	70	7.1	X	mutant M211S/R215L, pH 7.1, 70C
+2620	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	70	7.1		pH 7.1, 70C
+3420	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	70	7.1		wild-type enzyme, pH 7.1, 70C
+3660	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	70	7.1	X	mutant R215L, pH 7.1, 70C
+3890	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	70	7.1	X	mutant M211S, pH 7.1, 70C
+4440	4-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	70	7.1	X	mutant M211T, pH 7.1, 70C
+1.8	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N	25	6.9		malathion-specific enzyme, pH 6.9, 25C
+12.1	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N	25	6.9		non-specific enzyme, pH 6.9, 25C
+3000	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N				
+0.000022	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N		8.5	X	mutant C408G, pH 8.5
+0.000065	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N		8.5	X	mutant C408P, pH 8.5
+0.000079	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N		8.5		wild-type, pH 8.5
+0.000107	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N		8.5	X	mutant C408V, pH 8.5
+0.000127	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N		8.5	X	mutant C408S, pH 8.5
+0.000137	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N		8.5	X	mutant C408A, pH 8.5
+0.099	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C
+10.6	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+110	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	8.0	X	mutant G244P, pH 8.0, 25C; wild-type, pH 8.0, 25C
+127	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+140	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+190	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+277	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	80	8.0		80C, pH 8.0, wild-type enzyme
+314	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+480	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+764	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N		8.0		pH 8.0, temperature not specified in the publication, recombinant enzyme expressed in Escherichia coli as a thioredoxin-EstA fusion protein (EcSisEstA II)
+803	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N		8.0		pH 8.0, temperature not specified in the publication, recombinant enzyme expressed in Escherichia coli as thioredoxin-free form (EcSisEstA I)
+1690	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	70	7.1		pH 7.1, 70C
+1700	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N				
+1756	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N		8.0		pH 8.0, temperature not specified in the publication, recombinant enzyme expressed in Sulfolobus solfataricus
+2180	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	70	7.1		wild-type enzyme, pH 7.1, 70C
+2750	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	70	7.1	X	mutant M211S/R215L, pH 7.1, 70C
+3200	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	70	7.1	X	mutant R215L, pH 7.1, 70C
+4000	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	70	7.1	X	mutant M211V, pH 7.1, 70C
+4230	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	70	7.1	X	mutant M211S, pH 7.1, 70C
+5240	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	70	7.1	X	mutant M211T, pH 7.1, 70C
+0.0313	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	70	7.0	X	pH 7.0, 70C, mutant enzyme D524A
+0.032	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	70	7.0	X	pH 7.0, 70C, mutant enzyme D524N
+0.5	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+6.36	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	80	8.0		pH 8.0, 80C
+8.67	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	70	7.0		pH 7.0, 70C, wild-type enzyme
+21.1	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	80	9.0		pH 9.0, 80C
+24	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	25	8.0		wild-type, pH 8.0, 25C
+25.2	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	70	7.5		; pH 7.5, 70C
+51	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	50	8.0		pH 8.0, 50C
+79.3	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	70	7.0		pH 7.0, 70C
+360	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+692	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	37			37C
+770	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	70	7.1		70C, pH 7.1
+831	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	80	8.0		80C, pH 8.0, wild-type enzyme
+881	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	60			60C
+1230	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	45			45C
+1250	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N				
+1376	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	70	7.1	X	mutant M211V, pH 7.1, 70C
+1380	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	70	7.1	X	mutant M211V, pH 7.1, 70C
+1491	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+1600	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	70	7.1		pH 7.1, 70C
+1645	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	70	7.1	X	mutant M211S/R215L, pH 7.1, 70C
+1650	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	70	7.1	X	mutant M211S/R215L, pH 7.1, 70C
+1740	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	70	7.1	X	mutant M211T, pH 7.1, 70C
+1855	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	70	7.1	X	mutant M211S, pH 7.1, 70C
+1860	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	70	7.1	X	mutant M211S, pH 7.1, 70C
+1960	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	70	7.1		wild-type enzyme, pH 7.1, 70C
+3080	4-nitrophenyl octanoate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	70	7.1	X	mutant R215L, pH 7.1, 70C
+0.000238	cefazolin	1127	MLYYVTUWGNIJIB-BXKDBHETSA-N	35	7.0		at 35C in 100 mM sodium phosphate (pH 7.0)
+18	tributyrin	1146	UYXTWWCETRIEDR-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+23	tributyrin	1146	UYXTWWCETRIEDR-UHFFFAOYSA-N	50	2.0		pH 2.0, 50C
+95	tributyrin	1146	UYXTWWCETRIEDR-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+1290	tributyrin	1146	UYXTWWCETRIEDR-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+0.00318	4-nitrophenyl palmitate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N	70			at 70C
+0.424	4-nitrophenyl palmitate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N	150			at 150C
+47.5	4-nitrophenyl palmitate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N	50	7		pH 7, 50C
+285	4-nitrophenyl palmitate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N		8.0		pH 8.0, temperature not specified in the publication, recombinant enzyme expressed in Escherichia coli as thioredoxin-free form (EcSisEstA I)
+296	4-nitrophenyl palmitate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N		8.0		pH 8.0, temperature not specified in the publication, recombinant enzyme expressed in Escherichia coli as a thioredoxin-EstA fusion protein (EcSisEstA II)
+1080	4-nitrophenyl palmitate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N		8.0		pH 8.0, temperature not specified in the publication, recombinant enzyme expressed in Sulfolobus solfataricus
+50	vinyl acetate	1225	XTXRWKRVRITETP-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+110	vinyl acetate	1225	XTXRWKRVRITETP-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+140	vinyl acetate	1225	XTXRWKRVRITETP-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+1.61	4-yethylumbelliferyl acetate	1229	HXVZGASCDAGAPS-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+2	4-yethylumbelliferyl acetate	1229	HXVZGASCDAGAPS-UHFFFAOYSA-N	25	8.0		in 25 mM Tris-HCl (pH 8.0), at 25C
+57	4-yethylumbelliferyl acetate	1229	HXVZGASCDAGAPS-UHFFFAOYSA-N	37	7.4	X	mutant L362R, 37C, pH 7.4
+110	4-yethylumbelliferyl acetate	1229	HXVZGASCDAGAPS-UHFFFAOYSA-N	37	7.4	X	mutant L362E, 37C, pH 7.4
+140	4-yethylumbelliferyl acetate	1229	HXVZGASCDAGAPS-UHFFFAOYSA-N	37	7.4		wild-type, 37C, pH 7.4
+150	4-yethylumbelliferyl acetate	1229	HXVZGASCDAGAPS-UHFFFAOYSA-N	37	7.4	X	mutant L362A, 37C, pH 7.4
+1000	4-yethylumbelliferyl acetate	1229	HXVZGASCDAGAPS-UHFFFAOYSA-N	80			80C
+1000	4-yethylumbelliferyl acetate	1229	HXVZGASCDAGAPS-UHFFFAOYSA-N	80			80C
+8500	4-yethylumbelliferyl acetate	1229	HXVZGASCDAGAPS-UHFFFAOYSA-N				
+8500	4-yethylumbelliferyl acetate	1229	HXVZGASCDAGAPS-UHFFFAOYSA-N				
+0.07	malathion	1399	JXSJBGJIGXNWCI-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+2.8	malathion	1399	JXSJBGJIGXNWCI-UHFFFAOYSA-N	25	6.9		non-specific enzyme, pH 6.9, 25C
+13	malathion	1399	JXSJBGJIGXNWCI-UHFFFAOYSA-N	25	6.9		malathion-specific enzyme, pH 6.9, 25C
+2	4-nitrophenyl propionate	1443	DCQWRDUXRZSWHI-UHFFFAOYSA-N	35	6.0		pH 6.0, 35C, wild-type enzyme
+13.1	4-nitrophenyl propionate	1443	DCQWRDUXRZSWHI-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C; pH 7.5, 37C
+29	4-nitrophenyl propionate	1443	DCQWRDUXRZSWHI-UHFFFAOYSA-N	50	2.0		pH 2.0, 50C
+59	4-nitrophenyl propionate	1443	DCQWRDUXRZSWHI-UHFFFAOYSA-N	35	6.0	X	pH 6.0, 35C, mutant enzyme N248A/P256Q/E257G/S283F
+144	4-nitrophenyl propionate	1443	DCQWRDUXRZSWHI-UHFFFAOYSA-N	50	8.0		pH 8.0, 50C
+230	4-nitrophenyl propionate	1443	DCQWRDUXRZSWHI-UHFFFAOYSA-N				
+238	4-nitrophenyl propionate	1443	DCQWRDUXRZSWHI-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+348	4-nitrophenyl propionate	1443	DCQWRDUXRZSWHI-UHFFFAOYSA-N	70	7.1		70C, pH 7.1
+830	4-nitrophenyl propionate	1443	DCQWRDUXRZSWHI-UHFFFAOYSA-N	37			37C
+1000	4-nitrophenyl propionate	1443	DCQWRDUXRZSWHI-UHFFFAOYSA-N	45			45C
+1170	4-nitrophenyl propionate	1443	DCQWRDUXRZSWHI-UHFFFAOYSA-N				
+1230	4-nitrophenyl propionate	1443	DCQWRDUXRZSWHI-UHFFFAOYSA-N	60			60C
+2.1	Methyl paraoxon	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+1.5	4-nitrophenyl decanoate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N	80	9.0		pH 9.0, 80C
+6.19	4-nitrophenyl decanoate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N	80	8.0		pH 8.0, 80C
+465	4-nitrophenyl decanoate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N	70	7.1	X	mutant M211V, pH 7.1, 70C
+477	4-nitrophenyl decanoate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N	80	8.0		80C, pH 8.0, wild-type enzyme
+508	4-nitrophenyl decanoate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N		8.0		pH 8.0, temperature not specified in the publication, recombinant enzyme expressed in Escherichia coli as thioredoxin-free form (EcSisEstA I)
+526	4-nitrophenyl decanoate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N		8.0		pH 8.0, temperature not specified in the publication, recombinant enzyme expressed in Escherichia coli as a thioredoxin-EstA fusion protein (EcSisEstA II)
+626	4-nitrophenyl decanoate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N	70	7.1	X	mutant M211T, pH 7.1, 70C
+860	4-nitrophenyl decanoate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N	70	7.1	X	mutant M211S, pH 7.1, 70C
+950	4-nitrophenyl decanoate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N	70	7.1		wild-type enzyme, pH 7.1, 70C
+970	4-nitrophenyl decanoate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N	70	7.1	X	mutant M211S/R215L, pH 7.1, 70C
+1124	4-nitrophenyl decanoate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N		8.0		pH 8.0, temperature not specified in the publication, recombinant enzyme expressed in Sulfolobus solfataricus
+1670	4-nitrophenyl decanoate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N	70	7.1	X	mutant R215L, pH 7.1, 70C
+2337	4-nitrophenyl decanoate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+4.9	4-Methylumbelliferyl butyrate	1805	WKPUJZVCZXWKCK-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+69.5	4-Methylumbelliferyl butyrate	1805	WKPUJZVCZXWKCK-UHFFFAOYSA-N	25	8.0		in 25 mM Tris-HCl (pH 8.0), at 25C
+0.024	4-nitrophenyl laurate	1835	URPWADSNDAVRIW-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C
+1.5	4-nitrophenyl laurate	1835	URPWADSNDAVRIW-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C; pH 7.5, 37C
+59	4-nitrophenyl laurate	1835	URPWADSNDAVRIW-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+555	4-nitrophenyl laurate	1835	URPWADSNDAVRIW-UHFFFAOYSA-N				
+40	Triacetin	1998	URAYPUMNDPQOKB-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+47	Triacetin	1998	URAYPUMNDPQOKB-UHFFFAOYSA-N	50	2.0		pH 2.0, 50C
+945	Triacetin	1998	URAYPUMNDPQOKB-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+0.119	4-nitrophenyl caproate	2009	DHMLEOAJGOUDOM-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C
+4	4-nitrophenyl caproate	2009	DHMLEOAJGOUDOM-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C; pH 7.5, 37C
+507	4-nitrophenyl caproate	2009	DHMLEOAJGOUDOM-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+0.03	4-nitrophenyl hexadecanoate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N	80	9.0		pH 9.0, 80C
+3.8	4-nitrophenyl hexadecanoate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N	70	7.2		70C, pH 7.2; pH 7.0, 70C
+5.3	4-nitrophenyl hexadecanoate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N	80	8.0		80C, pH 8.0, wild-type enzyme
+7	4-nitrophenyl hexadecanoate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N	70	7.1	X	mutant M211V, pH 7.1, 70C
+8.3	4-nitrophenyl hexadecanoate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N	70	7.1	X	mutant M211T, pH 7.1, 70C
+15.6	4-nitrophenyl hexadecanoate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N	70	7.1	X	mutant M211S, pH 7.1, 70C
+21	4-nitrophenyl hexadecanoate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N	70	7.1		wild-type enzyme, pH 7.1, 70C
+35	4-nitrophenyl hexadecanoate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N	70	7.1	X	mutant R215L, pH 7.1, 70C
+44	4-nitrophenyl hexadecanoate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N	70	7.1	X	mutant M211S/R215L, pH 7.1, 70C
+1138	4-nitrophenyl hexadecanoate	1147	LVZSQWIWCANHPF-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+0.2	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	80	9.0		pH 9.0, 80C
+1.35	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C, wild-type enzyme
+1.73	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	60	8.0	X	pH 8.0, 60C, mutant enzyme F488W/R526V/T560W
+2.05	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	60	8.0	X	pH 8.0, 60C, mutant enzyme F488Y/R526V/T560W
+5.29	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	60	8.0	X	pH 8.0, 60C, mutant enzyme W474Q/R526V/T560W
+5.47	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	60	8.0	X	pH 8.0, 60C, mutant enzyme R526V
+7.96	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	60	8.0	X	pH 8.0, 60C, mutant enzyme R526V/T560W
+8.17	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	60	8.0	X	pH 8.0, 60C, mutant enzyme F488P/R526V/T560W
+10.45	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	60	8.0	X	pH 8.0, 60C, mutant enzyme F488S/R526V/T560W
+12.08	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	60	8.0	X	pH 8.0, 60C, mutant enzyme F488A/R526V/T560W
+12.61	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	60	8.0	X	pH 8.0, 60C, mutant enzyme W474A/R526V/T560W
+17.17	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	60	8.0	X	pH 8.0, 60C, mutant enzyme F488G/R526V/T560W
+23.5	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	60	8.0	X	pH 8.0, 60C, mutant enzyme W474V/R526V/T560W
+26.25	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	60	8.0	X	pH 8.0, 60C, mutant enzyme W474V/F488G/R526V/T560W
+59	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+78	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	70	7.2		70C, pH 7.2; pH 7.0, 70C
+110	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	70	7.1	X	mutant M211T, pH 7.1, 70C
+112	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	70	7.1	X	mutant M211V, pH 7.1, 70C
+128	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	80	8.0		80C, pH 8.0, wild-type enzyme
+350	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	70	7.1	X	mutant M211S, pH 7.1, 70C
+390	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	70	7.1		wild-type enzyme, pH 7.1, 70C
+705	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	70	7.1	X	mutant R215L, pH 7.1, 70C
+940	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	70	7.1	X	mutant M211S/R215L, pH 7.1, 70C
+1312	4-nitrophenyl dodecanoate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N	60	8.0		pH 8.0, 60C
+46.3	4-nitrophenyl pentanoate	2414	QBPJIMHPKWUIGG-UHFFFAOYSA-N	70	7.2		70C, pH 7.2; pH 7.0, 70C
+866	4-nitrophenyl pentanoate	2414	QBPJIMHPKWUIGG-UHFFFAOYSA-N	70	7.1		70C, pH 7.1
+1070	4-nitrophenyl pentanoate	2414	QBPJIMHPKWUIGG-UHFFFAOYSA-N	37			37C
+1400	4-nitrophenyl pentanoate	2414	QBPJIMHPKWUIGG-UHFFFAOYSA-N	45			45C
+2050	4-nitrophenyl pentanoate	2414	QBPJIMHPKWUIGG-UHFFFAOYSA-N	37			37C
+2070	4-nitrophenyl pentanoate	2414	QBPJIMHPKWUIGG-UHFFFAOYSA-N	70	7.1		pH 7.1, 70C
+15300	4-nitrophenyl pentanoate	2414	QBPJIMHPKWUIGG-UHFFFAOYSA-N				
+4.8	1-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+11.6	1-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+500	1-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N				
+3000	1-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N				
+233	2-Nitrophenyl butyrate	2550	DMBLCROMMOZRCN-UHFFFAOYSA-N				
+245	2-Nitrophenyl butyrate	2550	DMBLCROMMOZRCN-UHFFFAOYSA-N				
+2.5	Benzyl acetate	2567	QUKGYYKBILRGFE-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+13	p-nitrophenyl caprylate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	60	7.5		60C, pH 7.5
+40	2-naphthyl acetate	2676	RJNPPEUAJCEUPV-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+4	ethyl butyrate	2834	OBNCKNCVKJNDBV-UHFFFAOYSA-N				
+135	ethyl butyrate	2834	OBNCKNCVKJNDBV-UHFFFAOYSA-N				
+299	ethyl butyrate	2834	OBNCKNCVKJNDBV-UHFFFAOYSA-N				
+551	ethyl butyrate	2834	OBNCKNCVKJNDBV-UHFFFAOYSA-N				
+551	ethyl butyrate	2834	OBNCKNCVKJNDBV-UHFFFAOYSA-N				
+559	ethyl butyrate	2834	OBNCKNCVKJNDBV-UHFFFAOYSA-N				
+0.12	cypermethrin	2907	KAATUXNTWXVJKI-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+0.288	cypermethrin	2907	KAATUXNTWXVJKI-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+69	4-nitrophenyl valerate	2414	QBPJIMHPKWUIGG-UHFFFAOYSA-N	37	7.4	X	mutant L362R, 37C, pH 7.4
+74	4-nitrophenyl valerate	2414	QBPJIMHPKWUIGG-UHFFFAOYSA-N	25	8.0	X	mutant G244P, pH 8.0, 25C
+110	4-nitrophenyl valerate	2414	QBPJIMHPKWUIGG-UHFFFAOYSA-N	25	8.0		wild-type, pH 8.0, 25C
+270	4-nitrophenyl valerate	2414	QBPJIMHPKWUIGG-UHFFFAOYSA-N	37	7.4	X	mutant L362E, 37C, pH 7.4
+300	4-nitrophenyl valerate	2414	QBPJIMHPKWUIGG-UHFFFAOYSA-N	37	7.4	X	mutant L362A, 37C, pH 7.4
+580	4-nitrophenyl valerate	2414	QBPJIMHPKWUIGG-UHFFFAOYSA-N	37	7.4		wild-type, 37C, pH 7.4
+7	tripropionin	3022	YZWRNSARCRTXDS-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+44	tripropionin	3022	YZWRNSARCRTXDS-UHFFFAOYSA-N	50	2.0		pH 2.0, 50C
+110	tripropionin	3022	YZWRNSARCRTXDS-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+835	tripropionin	3022	YZWRNSARCRTXDS-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+0.11	4-nitrophenyl tetradecanoate	3044	ZBBNFJIVAHGZKA-UHFFFAOYSA-N	80	9.0		pH 9.0, 80C
+27	4-nitrophenyl tetradecanoate	3044	ZBBNFJIVAHGZKA-UHFFFAOYSA-N	70	7.1	X	mutant M211V, pH 7.1, 70C
+40	4-nitrophenyl tetradecanoate	3044	ZBBNFJIVAHGZKA-UHFFFAOYSA-N	70	7.1	X	mutant M211T, pH 7.1, 70C
+42.3	4-nitrophenyl tetradecanoate	3044	ZBBNFJIVAHGZKA-UHFFFAOYSA-N	80	8.0		80C, pH 8.0, wild-type enzyme
+105	4-nitrophenyl tetradecanoate	3044	ZBBNFJIVAHGZKA-UHFFFAOYSA-N	70	7.1	X	wild-type enzyme and mutant M211S, pH 7.1, 70C
+232	4-nitrophenyl tetradecanoate	3044	ZBBNFJIVAHGZKA-UHFFFAOYSA-N	70	7.1	X	mutant R215L, pH 7.1, 70C
+235	4-nitrophenyl tetradecanoate	3044	ZBBNFJIVAHGZKA-UHFFFAOYSA-N	70	7.1	X	mutant M211S/R215L, pH 7.1, 70C
+0.5	trans-permethrin	3050	RLLPVAHGXHCWKJ-MJGOQNOKSA-N	37	7.4	X	mutant L362R, 37C, pH 7.4
+1.14	trans-permethrin	3050	RLLPVAHGXHCWKJ-MJGOQNOKSA-N	30	7.0		pH 7.0, 30C
+2.1	trans-permethrin	3050	RLLPVAHGXHCWKJ-MJGOQNOKSA-N	37	7.4	X	mutant L362A, 37C, pH 7.4
+2.2	trans-permethrin	3050	RLLPVAHGXHCWKJ-MJGOQNOKSA-N	37	7.4	X	mutant L362E, 37C, pH 7.4
+2.9	trans-permethrin	3050	RLLPVAHGXHCWKJ-MJGOQNOKSA-N	37	7.4		wild-type, 37C, pH 7.4
+0.00083	retinyl palmitate	3174	VYGQUTWHTHXGQB-FFHKNEKCSA-N	37	8.0		isozyme AB010635, pH 8.0, 37C
+0.0028	retinyl palmitate	3174	VYGQUTWHTHXGQB-FFHKNEKCSA-N	37	8.0		isozyme D50580, pH 8.0, 37C
+0.0032	retinyl palmitate	3174	VYGQUTWHTHXGQB-FFHKNEKCSA-N	37	8.0		isozyme ES3, pH 8.0, 37C
+0.004	retinyl palmitate	3174	VYGQUTWHTHXGQB-FFHKNEKCSA-N	37	8.0		isozyme ES10, pH 8.0, 37C
+0.0075	retinyl palmitate	3174	VYGQUTWHTHXGQB-FFHKNEKCSA-N	37	8.0		isozyme ES4, pH 8.0, 37C
+0.01	irinotecan	3237	UWKQSNNFCGGAFS-XIFFEERXSA-N	37	7.4		pH 7.4, 37C
+0.125	4-nitrophenyl caprylate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C
+1.7	4-nitrophenyl caprylate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, wild-type enzyme
+7.8	4-nitrophenyl caprylate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	37	7.4	X	pH 7.4, 37C, mutant enzyme R210A
+360	4-nitrophenyl caprylate	1125	GGIDEJQGAZSTES-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+10	methyl butyrate	3341	UUIQMZJEGPQKFD-UHFFFAOYSA-N				
+261	methyl butyrate	3341	UUIQMZJEGPQKFD-UHFFFAOYSA-N				
+286	methyl butyrate	3341	UUIQMZJEGPQKFD-UHFFFAOYSA-N				
+454	methyl butyrate	3341	UUIQMZJEGPQKFD-UHFFFAOYSA-N				
+105	vinyl propionate	3434	UIWXSTHGICQLQT-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+200	vinyl propionate	3434	UIWXSTHGICQLQT-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+980	vinyl propionate	3434	UIWXSTHGICQLQT-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+2.47	p-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	70	7.1		pH 7.1, 70C
+5	p-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	50	7.1		pH 7.1, 50C, wild-type lacking N-terminal 36 amino acids
+508	p-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	50	7.1	X	pH 7.1, 50C, mutant M211S/R215L lacking N-terminal 36 amino acids
+2300	p-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	50	7.1	X	pH 7.1, 50C, mutant M211S/R215L
+4320	p-nitrophenyl hexanoate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	50	7.1		pH 7.1, 50C, wild-type
+4	p-nitrophenyl caproate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N				+/- 0.1
+38	p-nitrophenyl caproate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	60	8.5		Est30, pH 8.5, 60C
+39760	p-nitrophenyl caproate	901	OLRXUEYZKCCEKK-UHFFFAOYSA-N	60	8.5		Est55, pH 8.5, 60C
+204	phenyl butyrate	3626	IGVPBCZDHMIOJH-UHFFFAOYSA-N				
+205	phenyl butyrate	3626	IGVPBCZDHMIOJH-UHFFFAOYSA-N				
+476	phenyl butyrate	3626	IGVPBCZDHMIOJH-UHFFFAOYSA-N				
+519	phenyl butyrate	3626	IGVPBCZDHMIOJH-UHFFFAOYSA-N				
+520	phenyl butyrate	3626	IGVPBCZDHMIOJH-UHFFFAOYSA-N				
+565	phenyl butyrate	3626	IGVPBCZDHMIOJH-UHFFFAOYSA-N				
+661	phenyl butyrate	3626	IGVPBCZDHMIOJH-UHFFFAOYSA-N				
+0.016	deltamethrin	4212	OWZREIFADZCYQD-NSHGMRRFSA-N	30	7.0		pH 7.0, 30C
+5	phenylthioacetate	4502	WBISVCLTLBMTDS-UHFFFAOYSA-N				
+0.089	4-nitrophenyl caprate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C
+800	4-nitrophenyl caprate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N				
+0.0008	(1RS)-trans-permethrin	3050	RLLPVAHGXHCWKJ-MJGOQNOKSA-N	37	7.4		isoform hCE2, pH 7.4, 37C
+0.0028	(1RS)-trans-permethrin	3050	RLLPVAHGXHCWKJ-MJGOQNOKSA-N	37	7.4		isoform hCE1, pH 7.4, 37C
+0.016	(1RS)-trans-permethrin	3050	RLLPVAHGXHCWKJ-MJGOQNOKSA-N	37	7.4		pH 7.4, 37C
+0.025	(1RS)-trans-permethrin	3050	RLLPVAHGXHCWKJ-MJGOQNOKSA-N	37	7.4		hydrolase B, pH 7.4, 37C
+0.036	(1RS)-trans-permethrin	3050	RLLPVAHGXHCWKJ-MJGOQNOKSA-N	37	7.4		hydrolase A, pH 7.4, 37C
+0.004	(1RS)-cis-permethrin	4691	RLLPVAHGXHCWKJ-HKUYNNGSSA-N	37	7.4		hydrolase A, pH 7.4, 37C
+0.0053	(1RS)-cis-permethrin	4691	RLLPVAHGXHCWKJ-HKUYNNGSSA-N	37	7.4		hydrolase B, pH 7.4, 37C
+0.028	(1RS)-cis-permethrin	4691	RLLPVAHGXHCWKJ-HKUYNNGSSA-N	37	7.4		isoform hCE2, pH 7.4, 37C
+0.05	(1RS)-cis-permethrin	4691	RLLPVAHGXHCWKJ-HKUYNNGSSA-N	37	7.4		pH 7.4, 37C
+0.056	(1RS)-cis-permethrin	4691	RLLPVAHGXHCWKJ-HKUYNNGSSA-N	37	7.4		isoform hCE1, pH 7.4, 37C
+13.1	p-nitrophenyl propionate	1443	DCQWRDUXRZSWHI-UHFFFAOYSA-N				+/- 1.2
+1.5	p-nitrophenyl laurate	2170	YNGNVZFHHJEZKD-UHFFFAOYSA-N				+/- 0.2
+4.9	p-nitrophenyl myristate	3044	ZBBNFJIVAHGZKA-UHFFFAOYSA-N	60	7.5		60C, pH 7.5
+10.8	p-nitrophenyl decanoate	1742	RRNKCSIEGPOIKI-UHFFFAOYSA-N	60	7.5		60C, pH 7.5
+170	fluorescein diacetate	6491	CHADEQDQBURGHL-UHFFFAOYSA-N				
+170	fluorescein diacetate	6491	CHADEQDQBURGHL-UHFFFAOYSA-N				
+31	vinyl laurate	6555	GLVVKKSPKXTQRB-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+0.000003	7-ethyl-10-(4-(1-piperidino)-1-amino)carbonyloxycampothecin	6590	JLNOMNLFFZKXRM-MUUNZHRXSA-N	37	7.0		pH 7.0, 37C, isoform CES1A1
+0.00027	7-ethyl-10-(4-(1-piperidino)-1-amino)carbonyloxycampothecin	6590	JLNOMNLFFZKXRM-MUUNZHRXSA-N	37	7.0		pH 7.0, 37C, isoform CES2
+0.004	7-ethyl-10-(4-(1-piperidino)-1-amino)carbonyloxycampothecin	6590	JLNOMNLFFZKXRM-MUUNZHRXSA-N	37	7.0		pH 7.0, 37C
+0.36	4-nitroacetanilide	3354	NQRLPDFELNCFHW-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+210	vinyl butanoate	5723	MEGHWIAOTJPCHQ-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+210	vinyl butanoate	5723	MEGHWIAOTJPCHQ-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+1930	vinyl butanoate	5723	MEGHWIAOTJPCHQ-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+0.000015	7-ethyl-10-(4-(1-piperidino)-1-piperidino)carbonyloxycampothecin	7789	GPAKSCDFLIZRDC-MGBGTMOVSA-N	37	7.0		pH 7.0, 37C
+0.00008	7-ethyl-10-(4-(1-piperidino)-1-piperidino)carbonyloxycampothecin	7789	GPAKSCDFLIZRDC-MGBGTMOVSA-N	37	7.0		pH 7.0, 37C, isoform CES1A1
+0.017	7-ethyl-10-(4-(1-piperidino)-1-piperidino)carbonyloxycampothecin	7789	GPAKSCDFLIZRDC-MGBGTMOVSA-N	37	7.0		pH 7.0, 37C, isoform CES2
+0.103	fenvalerate	7811	NYPJDWWKZLNGGM-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+10.1	4-methylumbelliferyl butanoate	1805	WKPUJZVCZXWKCK-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+64	2,4-dinitrophenyl butyrate	8503	SBVYGYGWGWKSIL-UHFFFAOYSA-N				
+173	2,4-dinitrophenyl butyrate	8503	SBVYGYGWGWKSIL-UHFFFAOYSA-N				
+233	2,4-dinitrophenyl butyrate	8503	SBVYGYGWGWKSIL-UHFFFAOYSA-N				
+660	phenyl formate	8549	GEOWCLRLLWTHDN-UHFFFAOYSA-N				
+3100	phenyl formate	8549	GEOWCLRLLWTHDN-UHFFFAOYSA-N				
+323	o-nitrophenyl butyrate	2550	DMBLCROMMOZRCN-UHFFFAOYSA-N				
+348	o-nitrophenyl butyrate	2550	DMBLCROMMOZRCN-UHFFFAOYSA-N				
+366	o-nitrophenyl butyrate	2550	DMBLCROMMOZRCN-UHFFFAOYSA-N				
+9	1-naphthyl butyrate	2649	XIVJNRXPRQKFRZ-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+48	1-naphthyl butyrate	2649	XIVJNRXPRQKFRZ-UHFFFAOYSA-N				
+1.05	cis-permethrin	7773	RLLPVAHGXHCWKJ-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+0.034	bioresmethrin	9446	VEMKTZHHVJILDY-UXHICEINSA-N	37	7.4		isoform hCE1, pH 7.4, 37C
+0.11	bioresmethrin	9446	VEMKTZHHVJILDY-UXHICEINSA-N	37	7.4		pH 7.4, 37C
+0.063	4-methylumbelliferyl heptanoate	9447	FFNBFZWIBOIPIV-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+2	4-methylumbelliferyl heptanoate	9447	FFNBFZWIBOIPIV-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+6.94	4-methylumbelliferyl heptanoate	9447	FFNBFZWIBOIPIV-UHFFFAOYSA-N	25	8.0		in 25 mM Tris-HCl (pH 8.0), at 25C
+0.162	4-methylumbelliferyl octanoate	9448	WZEWYQWWSCVHCP-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+4.66	4-methylumbelliferyl octanoate	9448	WZEWYQWWSCVHCP-UHFFFAOYSA-N	25	8.0		in 25 mM Tris-HCl (pH 8.0), at 25C
+0.01	4-methylumbelliferyl laurate	9449	KDECSHRKPUAALS-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+6.38	4-methylumbelliferyl laurate	9449	KDECSHRKPUAALS-UHFFFAOYSA-N	25	8.0		in 25 mM Tris-HCl (pH 8.0), at 25C
+0.0018	4-methylumbelliferyl palmitate	9450	QKQVFFACWLFRRX-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+0.254	4-methylumbelliferyl palmitate	9450	QKQVFFACWLFRRX-UHFFFAOYSA-N	25	8.0		in 25 mM Tris-HCl (pH 8.0), at 25C
+4.4	ethylbutyrate	2834	OBNCKNCVKJNDBV-UHFFFAOYSA-N				
+4.4	phenylthiobutyrate	10807	VAHIYHPBCKILIW-UHFFFAOYSA-N				
+1.6	4-nitrophenylbutyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N				
+4.22	D-glucose pentaacetate	11646	UAOKXEHOENRFMP-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+3.5	phenylbutyrate	3626	IGVPBCZDHMIOJH-UHFFFAOYSA-N				
+8.9	phenylthiopropionate	13760	XOCHGSFCFAFUCO-UHFFFAOYSA-N				
+63.6	L-phenylalanine ethyl ester	13843	CJGXMNONHNZEQQ-JTQLQIEISA-N	37	7.4		pH 7.4, 37C
+263	phenyl pentanoate	13926	BYHDDXPKOZIZRV-UHFFFAOYSA-N				
+860	phenyl pentanoate	13926	BYHDDXPKOZIZRV-UHFFFAOYSA-N				
+12.2	D-xylose tetraacetate	15601	MJOQJPYNENPSSS-DAAZQVBGSA-N	25	7.0		pH 7.0, 25C
+8	5'-L-phenylalanyl-BDCRB	15878	RXFVXQPXNUGRRD-HMIGGYHTSA-N	37	7.4		pH 7.4, 37C
+0.55	5'-D-phenylalanyl-BDCRB	15879	RXFVXQPXNUGRRD-NTDXCCSUSA-N	37	7.4		pH 7.4, 37C
+14	p-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	60	7.5		60C, pH 7.5
+18.7	1-naphthyl butanoate	2649	XIVJNRXPRQKFRZ-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+1600	1-naphthyl butanoate	2649	XIVJNRXPRQKFRZ-UHFFFAOYSA-N				
+1600	alpha-naphthyl butyrate	2649	XIVJNRXPRQKFRZ-UHFFFAOYSA-N				
+3.7	phenylthioisobutyrate	20991	QBSNMPRRAPQQJL-UHFFFAOYSA-N				
+651	N-acetyl-L-Ala-1-naphthyl ester	21344	QLHFGNPCPMZWQU-JTQLQIEISA-N				
+4.6	phenylthiopentanoate	21376	UAKQDRSSKSBHJH-UHFFFAOYSA-N				
+0.00041	7-ethyl-10-(4-N-(5-aminopentanoic acid)-1-piperidino)carbonyloxycampothecin	23599	FRMYXXQXSOWFIV-MGBGTMOVSA-N	37	7.0		pH 7.0, 37C, isoform CES2
+6.1	3'-L-phenylalanyl-gemcitabine	23910	BQHYQWQVGKOLEP-KLZCAUPSSA-N	37	7.4		pH 7.4, 37C
+8.7	3'-D-phenylalanyl-gemcitabine	23911	BQHYQWQVGKOLEP-ZNEHSRBWSA-N	37	7.4		pH 7.4, 37C
+1.1	5'-L-phenylalanyl-gemcitabine	23912	OPTFQBUYNUBPAE-KLZCAUPSSA-N	37	7.4		pH 7.4, 37C
+1.1	5'-D-phenylalanyl-gemcitabine	23913	OPTFQBUYNUBPAE-ZNEHSRBWSA-N	37	7.4		pH 7.4, 37C
+0.11	3'-L-valyl-gemcitabine	23914	QDHWVNRLOFFLLJ-DLYFRVTGSA-N	37	7.4		pH 7.4, 37C
+0.08	3'-L-isoleucyl-gemcitabine	23915	WZOAZJMKOAUDRX-ZRVYCVNSSA-N	37	7.4		pH 7.4, 37C
+1.1	3'-D-valyl-gemcitabine	23916	QDHWVNRLOFFLLJ-UGKPPGOTSA-N	37	7.4		pH 7.4, 37C
+0.33	5'-L-isoleucyl-gemcitabine	23917	KYCGPWYCNLYKOR-ZRVYCVNSSA-N	37	7.4		pH 7.4, 37C
+0.008	5'-D-valyl-gemcitabine	23918	ZENUYKDTVZSDSW-UGKPPGOTSA-N	37	7.4		pH 7.4, 37C
+0.008	5'-L-valyl-gemcitabine	23919	ZENUYKDTVZSDSW-DLYFRVTGSA-N	37	7.4		pH 7.4, 37C
+0.08	L-phenylalanine butyl ester	23920	VSFDFIPJWOBYLZ-LBPRGKRZSA-N	37	7.4		pH 7.4, 37C
+0.45	N-acetyl L-phenylalanine ethyl ester	2819	YIVZYFDBEPMPNL-LBPRGKRZSA-N	37	7.4		pH 7.4, 37C
+1.38	5'-cinnamic acid-floxuridine	23921	WYPGOGNTVZFLCN-XIKIYNFVSA-N	37	7.4		pH 7.4, 37C
+0.62	5'-L-phenylalanine-floxuridine	23922	KRZLVZKHCSMHQZ-BYNSBNAKSA-N	37	7.4		pH 7.4, 37C
+11.8	7-amino cephalosporanic acid	1280	HSHGZXNAXBPPDL-HZGVNTEJSA-N	25	7.0		pH 7.0, 25C
+1.7	2-nitrophenylacetate	13180	MRCKRGSNLOHYRA-UHFFFAOYSA-N				
+71	L-Tyr ethyl ester	8418	SBBWEQLNKVHYCX-JTQLQIEISA-N				
+111	2-phenyloxazolin-5-one	29930	QKCKCXFWENOGER-UHFFFAOYSA-N				
+9.7	phenyl pivalate	30663	PUXKSJCSTXMIKR-UHFFFAOYSA-N				
+1.4	2-nitrophenylbutyrate	2550	DMBLCROMMOZRCN-UHFFFAOYSA-N				
+345	m-nitrophenyl butyrate	31106	RANXQNXWSFGIES-UHFFFAOYSA-N				
+1.3	2-nitrophenylpropionate	31149	MLXIIXOLMFYLOX-UHFFFAOYSA-N				
+1.3	3-nitrophenylbutyrate	31155	GOZOKVJPMRKGGM-UHFFFAOYSA-N				
+71	D-Tyr ethyl ester	31212	SBBWEQLNKVHYCX-SNVBAGLBSA-N				
+6.5	phenyl trimethyl acetate	30663	PUXKSJCSTXMIKR-UHFFFAOYSA-N				
+0.11	cyano(6-methoxy-2-naphthyl)methyl 3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate	38136	ZSZVYNGBRKTWKV-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+0.067	cyano(6-methoxynaphthalen-2-yl)methyl (2S)-2-(4-chlorophenyl)-3-methylbutanoic acid	38140	RNOMFEBDDQRARB-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+0.099	cyano(6-methoxy-2-naphthyl)methyl butanoate	40343	KIKVMJWRPQGUQU-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+84	ethyl 4-nitrophenyl methylphosphonate	43473	BARJAAQSDSOQEY-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+83	2-naphthyl propionate	68501	KVMXEPJRCAPKJL-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+2.3	indoxyl acetate	68782	JBOPQACSHPPKEP-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+65.4	(S)-ketoprofen ethyl ester	77639	CQSMNXCTDMLMLM-ZDUSSCGKSA-N	80	8.0		pH 8.0, 80C, wild-type enzyme
+83.9	(S)-ketoprofen ethyl ester	77639	CQSMNXCTDMLMLM-ZDUSSCGKSA-N	80	6.0	X	pH 6.0, 80C, mutant enzyme V138G/L200R
+385.5	(S)-ketoprofen ethyl ester	77639	CQSMNXCTDMLMLM-ZDUSSCGKSA-N	80	8.0	X	pH 8.0, 80C, mutant enzyme V138G
+4.3	3-acetoxypyridine	77656	QOGCDAKBABIDET-SFRNAIASSA-M	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+238	4-nitrophenyl propanoate	1443	DCQWRDUXRZSWHI-UHFFFAOYSA-N	30	7.0		pH 7.0, 30C
+1480	4-nitrophenyl propanoate	1443	DCQWRDUXRZSWHI-UHFFFAOYSA-N	70	7.1		pH 7.1, 70C
+0.65	4-methylumbelliferyl acetate	1229	HXVZGASCDAGAPS-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+47	4-methylbenzyl acetate	128563	WDCUPFMSLUIQBH-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+108	1,4-diacetoxybenzene	128564	AKOGNYJNGMLDOA-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+0.1	4'-chloroacetanilide	23393	GGUOCFNAWIODMF-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+1.8	ethyl 4-nitrophenyl acetate	127092	DWDRNKYLWMKWTH-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+1.7	ethyl 2-naphthyl acetate	127096	PZNMRIQALHUBSJ-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+0.79	ethyl butyrylacetate	8379	KQWWVLVLVYYYDT-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+3.1	isopropyl 4-nitrophenyl methylphosphonate	56866	YSHVIWJFWCEDSQ-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C
+8	isobutyl 4-nitrophenyl methylphosphonate	128565	NPRXJVHIHPKOIL-UHFFFAOYSA-N	30	8.3		in 2.5 mM Bicine buffer, pH 8.3, at 30C

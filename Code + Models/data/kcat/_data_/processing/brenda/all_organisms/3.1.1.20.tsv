@@ -1,0 +1,44 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.06	epigallocatechin-3-O-(3-O-methyl) gallate	90849	WVRDOLPMKOCJRJ-DENIHFKCSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), at 37C
+0.26	epigallocatechin-3-O-(3-O-methyl) gallate	90849	WVRDOLPMKOCJRJ-DENIHFKCSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), at 37C
+0.35	epigallocatechin-3-O-(3-O-methyl) gallate	90849	WVRDOLPMKOCJRJ-DENIHFKCSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), at 37C
+0.42	Epicatechin gallate	2471	LSHVYAFMTMFKBA-UHFFFAOYSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), at 37C
+0.44	epigallocatechin gallate	936	WMBWREPUVVBILR-WIYYLYMNSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), at 37C
+0.53	methyl gallate	1059	FBSFWRHWHYMIOG-UHFFFAOYSA-N	37	8.0	X	mutant enzyme E357A, in 25 mM Tris-HCl (pH 8.0), at 37C
+0.89	gallocatechin gallate	936	WMBWREPUVVBILR-WIYYLYMNSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), at 37C
+1.12	epigallocatechin gallate	936	WMBWREPUVVBILR-WIYYLYMNSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), at 37C
+1.12	gallocatechin gallate	936	WMBWREPUVVBILR-WIYYLYMNSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), at 37C
+1.48	catechin gallate	2471	LSHVYAFMTMFKBA-UHFFFAOYSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), at 37C
+1.49	Epicatechin gallate	2471	LSHVYAFMTMFKBA-UHFFFAOYSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), at 37C
+2.41	catechin gallate	2471	LSHVYAFMTMFKBA-UHFFFAOYSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), at 37C
+2.5	methyl gallate	1059	FBSFWRHWHYMIOG-UHFFFAOYSA-N	37	8.0	X	mutant enzyme D421A, in 25 mM Tris-HCl (pH 8.0), at 37C
+8.1	catechin gallate	2471	LSHVYAFMTMFKBA-UHFFFAOYSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), at 37C
+9.2	gallocatechin gallate	936	WMBWREPUVVBILR-WIYYLYMNSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), at 37C
+9.8	ethyl gallate	7376	VFPFQHQNJCMNBZ-UHFFFAOYSA-N	30	5.0		recombinant enzyme, at pH 5.0 and 30C
+11.08	Epicatechin gallate	2471	LSHVYAFMTMFKBA-UHFFFAOYSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), at 37C
+14.29	epigallocatechin gallate	936	WMBWREPUVVBILR-WIYYLYMNSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), at 37C
+15.95	methyl gallate	1059	FBSFWRHWHYMIOG-UHFFFAOYSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), at 37C
+17.02	methyl gallate	1059	FBSFWRHWHYMIOG-UHFFFAOYSA-N	20	5.0		at 20C, in 50 mM citrate buffer at pH 5.0
+18.6	propyl gallate	1392	ZTHYODDOHIVTJV-UHFFFAOYSA-N	30	5.0		native enzyme, at pH 5.0 and 30C
+19	ethyl gallate	7376	VFPFQHQNJCMNBZ-UHFFFAOYSA-N	30	5.0		native enzyme, at pH 5.0 and 30C
+20.5	propyl gallate	1392	ZTHYODDOHIVTJV-UHFFFAOYSA-N	30	5.0		recombinant enzyme, at pH 5.0 and 30C
+46.02	methyl gallate	1059	FBSFWRHWHYMIOG-UHFFFAOYSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), at 37C
+52.48	methyl gallate	1059	FBSFWRHWHYMIOG-UHFFFAOYSA-N	25	5.0		at 25C, in 50 mM citrate buffer at pH 5.0
+60.2	methyl gallate	1059	FBSFWRHWHYMIOG-UHFFFAOYSA-N	30	5.0		recombinant enzyme, at pH 5.0 and 30C
+60.99	methyl gallate	1059	FBSFWRHWHYMIOG-UHFFFAOYSA-N	35	5.0		at 35C, in 50 mM citrate buffer at pH 5.0
+62.1	epigallocatechin gallate	936	WMBWREPUVVBILR-WIYYLYMNSA-N	30	5.0		recombinant enzyme, at pH 5.0 and 30C
+64.5	catechin gallate	2471	LSHVYAFMTMFKBA-UHFFFAOYSA-N	30	5.0		recombinant enzyme, at pH 5.0 and 30C
+67.5	Epicatechin gallate	2471	LSHVYAFMTMFKBA-UHFFFAOYSA-N	30	5.0		recombinant enzyme, at pH 5.0 and 30C
+70.2	methyl gallate	1059	FBSFWRHWHYMIOG-UHFFFAOYSA-N	30	5.0		native enzyme, at pH 5.0 and 30C
+72.73	methyl gallate	1059	FBSFWRHWHYMIOG-UHFFFAOYSA-N	37	8.0		in 50 mM Tris-HCl (pH 8.0), at 37C
+74	methyl gallate	1059	FBSFWRHWHYMIOG-UHFFFAOYSA-N	37	8.0		wild type enzyme, in 25 mM Tris-HCl (pH 8.0), at 37C
+78.01	methyl gallate	1059	FBSFWRHWHYMIOG-UHFFFAOYSA-N	30	5.0		at 30C, in 50 mM citrate buffer at pH 5.0
+79.8	catechin gallate	2471	LSHVYAFMTMFKBA-UHFFFAOYSA-N	30	5.0		native enzyme, at pH 5.0 and 30C
+86.1	epigallocatechin gallate	936	WMBWREPUVVBILR-WIYYLYMNSA-N	30	5.0		native enzyme, at pH 5.0 and 30C
+103.4	Epicatechin gallate	2471	LSHVYAFMTMFKBA-UHFFFAOYSA-N	30	5.0		native enzyme, at pH 5.0 and 30C
+580.1	methyl gallate	1059	FBSFWRHWHYMIOG-UHFFFAOYSA-N	40	5.0		at 40C, in 50 mM citrate buffer at pH 5.0
+601.4	methyl gallate	1059	FBSFWRHWHYMIOG-UHFFFAOYSA-N	45	5.0		at 45C, in 50 mM citrate buffer at pH 5.0
+1109	methyl gallate	1059	FBSFWRHWHYMIOG-UHFFFAOYSA-N	50	5.0		at 50C, in 50 mM citrate buffer at pH 5.0
+1364	methyl gallate	1059	FBSFWRHWHYMIOG-UHFFFAOYSA-N	55	5.0		at 55C, in 50 mM citrate buffer at pH 5.0
+1564	methyl gallate	1059	FBSFWRHWHYMIOG-UHFFFAOYSA-N	60	5.0		at 60C, in 50 mM citrate buffer at pH 5.0
+2611	methyl gallate	1059	FBSFWRHWHYMIOG-UHFFFAOYSA-N	65	5.0		at 65C, in 50 mM citrate buffer at pH 5.0

@@ -1,0 +1,27 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+9	4-nitrophenyl beta-D-glucoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	75	6.5		pH 6.5, 75C, recombinant His6-tagged enzyme
+68	4-nitrophenyl beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N				wild-type enzyme
+0.004	4-methylumbelliferyl-beta-D-glucuronide	2963	ARQXEQLMMNGFDU-UHFFFAOYSA-N	37	5.0	X	37C, pH 5.0, mutant enzyme E540A
+0.015	4-methylumbelliferyl-beta-D-glucuronide	2963	ARQXEQLMMNGFDU-UHFFFAOYSA-N	37	4.0	X	37C, pH 4.0-5.0, mutant enzyme E451A
+0.2	4-methylumbelliferyl-beta-D-glucuronide	2963	ARQXEQLMMNGFDU-UHFFFAOYSA-N	37		X	37C, mutant enzyme Y540A
+276	4-methylumbelliferyl-beta-D-glucuronide	2963	ARQXEQLMMNGFDU-UHFFFAOYSA-N	37	4.5		37C, pH 4.5, wild-type enzyme
+23.3	glycyrrhizin	3224	LPLVUJXQOOQHMX-QWBHMCJMSA-N	55	5		pH 5, 55C, low-shear modeled microgravity
+27.84	glycyrrhizin	3224	LPLVUJXQOOQHMX-QWBHMCJMSA-N	55	5		pH 5, 55C, normal gravity
+0.001	4-nitrophenyl beta-D-glucuronide	2735	QSUILVWOWLUOEU-GOVZDWNOSA-N				wild-type enzyme
+29	4-nitrophenyl beta-D-glucuronide	2735	QSUILVWOWLUOEU-GOVZDWNOSA-N	65	6.5		pH 6.5, 65C, recombinant His6-tagged enzyme
+68	4-nitrophenyl beta-D-glucuronide	2735	QSUILVWOWLUOEU-GOVZDWNOSA-N	75	6.5		pH 6.5, 75C, recombinant His6-tagged enzyme
+0.67	4-nitrophenyl-beta-D-glucuronide	2735	QSUILVWOWLUOEU-GOVZDWNOSA-N	37	7.2		pH 7.2, 37C
+1100	4-nitrophenyl-beta-D-glucuronide	2735	QSUILVWOWLUOEU-GOVZDWNOSA-N			X	mutant enzyme Q493R/T509A/M532T/N550S/G559S/N566S
+1500	4-nitrophenyl-beta-D-glucuronide	2735	QSUILVWOWLUOEU-GOVZDWNOSA-N				wild type enzyme
+0.011	baicalein 7-O-beta-D-glucuronide	2603	IKIIZLYTISPENI-ZFORQUDYSA-N	28	6.5	X	pH 6.5, 28C, mutant enzyme E329A
+0.135	baicalein 7-O-beta-D-glucuronide	2603	IKIIZLYTISPENI-ZFORQUDYSA-N	28	6.5	X	pH 6.5, 28C, mutant enzyme E212A
+0.77	baicalein 7-O-beta-D-glucuronide	2603	IKIIZLYTISPENI-ZFORQUDYSA-N	28	6.5	X	pH 6.5, 28C, mutant enzyme Y281A
+639	baicalein 7-O-beta-D-glucuronide	2603	IKIIZLYTISPENI-ZFORQUDYSA-N	28	6.5		pH 6.5, 28C, wild-type enzyme
+1.9	quercetin-3-O-beta-D-glucuronide	18053	DUBCCGAQYVUYEU-ZUGPOPFOSA-N	37	7.2		pH 7.2, 37C
+0.26	quercetin 4'-O-beta-D-glucuronide	18054	PRIOPKVBCZTKIT-ZFORQUDYSA-N	37	7.2		pH 7.2, 37C
+443	4-nitrophenyl beta-D-galactosiduronide	23711	QSUILVWOWLUOEU-TYCYOEEFSA-N	75	6.5		pH 6.5, 75C, recombinant His6-tagged enzyme
+0.65	kaempferol 3-O-beta-D-glucuronide	26411	FNTJVYCFNVUBOL-ZUGPOPFOSA-N	37	7.2		pH 7.2, 37C
+1.65	quercetin 7-O-beta-D-glucuronide	26412	JXWGCVLNCGCZRU-JENRNSKYSA-N	37	7.2		pH 7.2, 37C
+1.07	daidzein 7-O-beta-D-glucuronide	26413	MMIBOZXVZLENRZ-ZFORQUDYSA-N	37	7.2		pH 7.2, 37C
+0.35	equol 7-O-beta-D-glucuronide	26414	XDPLKWRSVXUQBN-LVEHSUOCSA-N	37	7.2		pH 7.2, 37C
+200	4-nitrophenyl-beta-glucuronide	2735	QSUILVWOWLUOEU-GOVZDWNOSA-N				

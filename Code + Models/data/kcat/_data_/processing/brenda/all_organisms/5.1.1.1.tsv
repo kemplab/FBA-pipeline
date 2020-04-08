@@ -1,0 +1,55 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.06	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	37	7.6		pH 7.6, 37C, recombinant enzyme
+0.333	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	30	8.0		+/-0.033, Alr D164K, 30C, pH 8.0, spectrophotometrically measured at 340 nm
+0.9	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	37	7.6		pH 7.6, 37C, recombinant enzyme
+1.1	L-Ala	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N				
+1.317	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	30	8.0		+/-0.100, Alr E165K, 30C, pH 8.0, spectrophotometrically measured at 340 nm
+1.6	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				dadB encoded enzyme
+2	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	37	8.2		pH 8.2, 37C
+2.5	D-Lysine	1155	KDXKERNSBIXSRK-RXMQYKEDSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant I222T/Y354W
+2.6	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				alr encoded enzyme
+2.8	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	8.0		+/-0.250, Alr D164K, 30C, pH 8.0, spectrophotometrically measured at 340 nm
+4	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	30	8.0		+/-0.417, Alr E165A, 30C, pH 8.0, spectrophotometrically measured at 340 nm
+4.17	L-lysine	128	KDXKERNSBIXSRK-YFKPBYRVSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant I222T/Y354W
+4.466	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	30	8.0		+/-0.200, Alr D164A, 30C, pH 8.0, spectrophotometrically measured at 340 nm
+5.267	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	30	8.0		+/-0.333, Alr P219A, 30C, pH 8.0, spectrophotometrically measured at 340 nm
+5.5	D-serine	401	MTCFGRXMJLQNBG-UWTATZPHSA-N	37	8.2		pH 8.2, 37C
+5.783	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	30	8.0		+/-0.483, Alr wildtype, 30C, pH 8.0, spectrophotometrically measured at 340 nm
+6.35	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	30	8.0		+/-0.333, Alr E221K, 30C, pH 8.0, spectrophotometrically measured at 340 nm
+6.817	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	30	8.0		+/-0.650, Alr E221A, 30C, pH 8.0, spectrophotometrically measured at 340 nm
+7	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				
+7.3	L-Ala	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N				dadB encoded enzyme
+7.617	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	30	8.0		+/-0.750, Alr E221P, 30C, pH 8.0, spectrophotometrically measured at 340 nm
+9.7	L-Ala	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N				alr encoded enzyme
+13.3	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	8.2		pH 8.2, 37C
+16.72	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	8.0		+/-0.850, Alr E165K, 30C, pH 8.0, spectrophotometrically measured at 340 nm
+22	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N				
+22.47	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	8.0		+/-2.667, Alr E165A, 30C, pH 8.0, spectrophotometrically measured at 340 nm
+24.8	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	90	9.5		90C, pH 9.5
+27.6	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	37	8.2		pH 8.2, 37C
+37.9	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N				
+41.82	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	8.0		+/-2.600, Alr D164A, 30C, pH 8.0, spectrophotometrically measured at 340 nm
+51.77	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	8.0		+/-6.067, Alr P219A, 30C, pH 8.0, spectrophotometrically measured at 340 nm
+53.98	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	8.0		+/-3.217, Alr wildtype, 30C, pH 8.0, spectrophotometrically measured at 340 nm
+55	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	37	8.2		pH 8.2, 37C
+55	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	25	8.2		pH 8.2, 25C
+63.3	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	37	8.2		pH 8.2, 37C
+67.07	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	8.0		+/-7.633, Alr E221P, 30C, pH 8.0, spectrophotometrically measured at 340 nm
+68.23	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	8.0		+/-7.550, Alr E221K, 30C, pH 8.0, spectrophotometrically measured at 340 nm
+70	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	25	8.2		pH 8.2, 25C
+70.63	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	37	9.0		at pH 9.0 and 37C
+70.92	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	8.0		+/-2.333, Alr E221A, 30C, pH 8.0, spectrophotometrically measured at 340 nm
+517	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant Y354W
+632	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N				
+633	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant I222T/Y354W
+983	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant I222T
+1017	D-alanine	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+1133	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant I222T/Y354W; pH 8.0, 30C, recombinant mutant Y354W
+1417	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	8.0	X	pH 8.0, 30C, recombinant mutant I222T
+1533	L-alanine	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	8.0		pH 8.0, 30C, recombinant wild-type enzyme
+2314	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	37	8.5		pH 8.5, 37C
+2589	L-Ala	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	37	8.5		pH 8.5, 37C
+3270	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	30	8.5		30C, pH 8.5
+3272	D-Ala	151	QNAYBMKLOCPYGJ-UWTATZPHSA-N	30	8.5		30C, pH 8.5
+7500	L-Ala	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	8.5		30C, pH 8.5
+7504	L-Ala	97	QNAYBMKLOCPYGJ-REOHCLBHSA-N	30	8.5		30C, pH 8.5

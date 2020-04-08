@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.019	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	25	7.5		in 50 mM Tris-HCl (pH 7.5), at 25C
+0.04	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7.5		in 50 mM Tris-HCl (pH 7.5), at 25C, cosubstrate: propionaldehyde
+0.046	formaldehyde	124	WSFSSNUMVMOOMR-UHFFFAOYSA-N	25	7.5		in 50 mM Tris-HCl (pH 7.5), at 25C
+0.074	Isovaleraldehyde	1623	YGHRJJRRZDOVPD-UHFFFAOYSA-N	25	7.5		in 50 mM Tris-HCl (pH 7.5), at 25C
+0.501	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.5		in 50 mM Tris-HCl (pH 7.5), at 25C, cosubstrate: propionaldehyde
+2.32	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N	25	7.5		in 50 mM Tris-HCl (pH 7.5), at 25C
+5.16	Valeraldehyde	628	HGBOYTHUEUWSSQ-UHFFFAOYSA-N	25	7.5		in 50 mM Tris-HCl (pH 7.5), at 25C
+5.75	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N		7.5	X	H485A mutant enzyme, pH 7.5, temperature not specified in the publication
+12.1	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N		7.5	X	K168A mutant enzyme, pH 7.5, temperature not specified in the publication
+14.6	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N		7.5	X	E400A mutant enzyme, pH 7.5, temperature not specified in the publication
+16.2	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N		7.5	X	E496A mutant enzyme, pH 7.5, temperature not specified in the publication
+29.9	heptaldehyde	1065	FXHGMKSSBGDXIY-UHFFFAOYSA-N	25	7.5		in 50 mM Tris-HCl (pH 7.5), at 25C
+36.8	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N		7.5	X	E167A mutant enzyme, pH 7.5, temperature not specified in the publication
+45	3,4-dehydroadipyl-CoA semialdehyde	12476	HTYJHFRYROLBDM-XHGDGGKISA-N		7.2		pH 7.2
+45	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O		7.2		pH 7.2
+162	propionaldehyde	238	NBBJYMSMWIIQGU-UHFFFAOYSA-N		7.5		wild type enzyme, pH 7.5, temperature not specified in the publication

@@ -1,0 +1,76 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.09	Phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L				
+0.26	Phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L				
+12.4	Phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L				
+118	Phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L				
+246	Phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L			X	mutant enzyme M159G
+316	Phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L				
+316	Phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L				wild type enzyme
+353	Phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L				
+386	Phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L			X	mutant enzyme M159S
+450	Phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L			X	mutant enzyme M159V
+489	Phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L	159		X	mutant enzyme M159C
+1143	Phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L			X	mutant enzyme P14V/P15G
+0.05	alpha-methyl-alpha-(beta-naphthyl)malonate	3273	PSPVIZKGBXDXLQ-UHFFFAOYSA-N	71	8.5	X	mutant enzyme S71C/C188S, in 1 M Tris-HCl buffer pH 8.5, at 37C
+0.12	alpha-methyl-alpha-(beta-naphthyl)malonate	3273	PSPVIZKGBXDXLQ-UHFFFAOYSA-N	74	8.5	X	mutant enzyme G74C/C188S, in 1 M Tris-HCl buffer (pH 8.5), at 35C
+0.12	alpha-methyl-alpha-(beta-naphthyl)malonate	3273	PSPVIZKGBXDXLQ-UHFFFAOYSA-N	74	8.5	X	mutant enzyme G74C/S188S, in 1 M Tris-HCl buffer pH 8.5, at 37C
+1.14	alpha-methyl-alpha-(beta-naphthyl)malonate	3273	PSPVIZKGBXDXLQ-UHFFFAOYSA-N	74	8.5	X	mutant enzyme S36N/G74C/C188S, in 1 M Tris-HCl buffer (pH 8.5), at 35C
+3.7	alpha-methyl-alpha-(beta-naphthyl)malonate	3273	PSPVIZKGBXDXLQ-UHFFFAOYSA-N	35	8.5	X	mutant enzyme S36N, in 1 M Tris-HCl buffer (pH 8.5), at 35C
+30.9	alpha-methyl-alpha-(beta-naphthyl)malonate	3273	PSPVIZKGBXDXLQ-UHFFFAOYSA-N	35	8.5		wild type enzyme, in 1 M Tris-HCl buffer (pH 8.5), at 35C
+30.9	alpha-methyl-alpha-(beta-naphthyl)malonate	3273	PSPVIZKGBXDXLQ-UHFFFAOYSA-N	37	8.5		wild type enzyme, in 1 M Tris-HCl buffer pH 8.5, at 37C
+0.08	alpha-methyl-alpha-(alpha-thienyl)malonate	3467	ZAKIIHLBNJRPFO-UHFFFAOYSA-N	71	8.5	X	mutant enzyme S71C/C188S, in 1 M Tris-HCl buffer pH 8.5, at 37C
+0.34	alpha-methyl-alpha-(alpha-thienyl)malonate	3467	ZAKIIHLBNJRPFO-UHFFFAOYSA-N	74	8.5	X	mutant enzyme G74C/C188S, in 1 M Tris-HCl buffer (pH 8.5), at 35C
+0.34	alpha-methyl-alpha-(alpha-thienyl)malonate	3467	ZAKIIHLBNJRPFO-UHFFFAOYSA-N	74	8.5	X	mutant enzyme G74C/C188S, in 1 M Tris-HCl buffer pH 8.5, at 37C
+3.09	alpha-methyl-alpha-(alpha-thienyl)malonate	3467	ZAKIIHLBNJRPFO-UHFFFAOYSA-N	74	8.5	X	mutant enzyme S36N/G74C/C188S, in 1 M Tris-HCl buffer (pH 8.5), at 35C
+18.9	alpha-methyl-alpha-(alpha-thienyl)malonate	3467	ZAKIIHLBNJRPFO-UHFFFAOYSA-N	35	8.5	X	mutant enzyme S36N, in 1 M Tris-HCl buffer (pH 8.5), at 35C
+200	alpha-methyl-alpha-(alpha-thienyl)malonate	3467	ZAKIIHLBNJRPFO-UHFFFAOYSA-N	35	8.5		wild type enzyme, in 1 M Tris-HCl buffer (pH 8.5), at 35C
+200	alpha-methyl-alpha-(alpha-thienyl)malonate	3467	ZAKIIHLBNJRPFO-UHFFFAOYSA-N	37	8.5		wild type enzyme, in 1 M Tris-HCl buffer pH 8.5, at 37C
+0.02	2-phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L	74		X	mutant enzyme G74C/C188S, pH and temperature not specified in the publication
+0.05	2-phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L	74		X	mutant enzyme G74C/C188G, pH and temperature not specified in the publication
+0.44	2-phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L	74		X	mutant enzyme Y48F/G74C/C188G, pH and temperature not specified in the publication
+3.3	2-phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L	74		X	mutant enzyme G74C/M159L/C188G, pH and temperature not specified in the publication
+11	2-phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L	74		X	mutant enzyme Y48F/G74C/M159L/C188G, pH and temperature not specified in the publication
+260	2-phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L				wild type enzyme, pH and temperature not specified in the publication
+0.62	alpha-phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L			X	mutant enzyme Cys188Ser
+62.3	alpha-phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L			X	mutant enzyme Cys171Ser
+100	alpha-phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L			X	mutant enzyme Cys148Ser
+248	alpha-phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L			X	mutant enzyme Cys101Ser
+366	alpha-phenylmalonate	2073	WWYDYZMNFQIYPT-UHFFFAOYSA-L				wild-type enzyme
+23.4	2-hydroxy-2-phenylmalonic acid	5326	FRWLWDNANOVSOK-UHFFFAOYSA-N	159		X	mutant enzyme M159C
+94.4	2-hydroxy-2-phenylmalonic acid	5326	FRWLWDNANOVSOK-UHFFFAOYSA-N			X	mutant enzyme G190S/P14V/P15G
+99.8	2-hydroxy-2-phenylmalonic acid	5326	FRWLWDNANOVSOK-UHFFFAOYSA-N			X	mutant enzyme P14V/P15G
+101	2-hydroxy-2-phenylmalonic acid	5326	FRWLWDNANOVSOK-UHFFFAOYSA-N				wild type enzyme
+0.022	2-aryl-2-methylmalonate	5556	XIWBCMGFBNMOMY-UHFFFAOYSA-N	74		X	mutant enzyme G74C/V43A, pH and temperature not specified in the publication
+0.063	2-aryl-2-methylmalonate	5556	XIWBCMGFBNMOMY-UHFFFAOYSA-N	74		X	mutant enzyme G74C/M159L, pH and temperature not specified in the publication
+0.27	2-aryl-2-methylmalonate	5556	XIWBCMGFBNMOMY-UHFFFAOYSA-N	74		X	mutant enzyme G74C, pH and temperature not specified in the publication
+0.34	methyl(2-thienyl)malonic acid	3467	ZAKIIHLBNJRPFO-UHFFFAOYSA-N	74		X	mutant enzyme G74C/C188S
+0.79	methyl(2-thienyl)malonic acid	3467	ZAKIIHLBNJRPFO-UHFFFAOYSA-N	74		X	mutant enzyme G74C
+1.63	methyl(2-thienyl)malonic acid	3467	ZAKIIHLBNJRPFO-UHFFFAOYSA-N			X	mutant enzyme C188S
+200	methyl(2-thienyl)malonic acid	3467	ZAKIIHLBNJRPFO-UHFFFAOYSA-N				wild-type enzyme
+0.12	methyl(2-naphthyl)malonic acid	3273	PSPVIZKGBXDXLQ-UHFFFAOYSA-N	74		X	mutant enzyme G74C/C188S
+0.5	methyl(2-naphthyl)malonic acid	3273	PSPVIZKGBXDXLQ-UHFFFAOYSA-N	74		X	mutant enzyme G74C
+2.54	methyl(2-naphthyl)malonic acid	3273	PSPVIZKGBXDXLQ-UHFFFAOYSA-N			X	mutant enzyme C188S
+31	methyl(2-naphthyl)malonic acid	3273	PSPVIZKGBXDXLQ-UHFFFAOYSA-N				wild-type enzyme
+55.8	2-methyl-2-phenylmalonate	5556	XIWBCMGFBNMOMY-UHFFFAOYSA-N				
+279	2-methyl-2-phenylmalonate	5556	XIWBCMGFBNMOMY-UHFFFAOYSA-N				
+20.8	2-vinyl-2-methylmalonic acid	10036	LEWJRSBLHOOKTH-UHFFFAOYSA-N			X	mutant enzyme G190A
+42.8	2-vinyl-2-methylmalonic acid	10036	LEWJRSBLHOOKTH-UHFFFAOYSA-N				wild type enzyme
+279	methyl(phenyl)propanedioic acid	5556	XIWBCMGFBNMOMY-UHFFFAOYSA-N				wild type enzyme
+1090	o-Chlorophenylmalonate	20520	QUSOGWAELIXREI-UHFFFAOYSA-L				
+666	o-Fluorophenylmalonate	20524	FHMSCMOARKTKLD-UHFFFAOYSA-L				
+576	1-Naphthylmalonate	20669	MTWVMHFXOXGTCR-UHFFFAOYSA-L				
+1730	2-Naphthylmalonate	20686	AULFAGGSDXWQEA-UHFFFAOYSA-L				
+5320	2-Thienylmalonate	20689	OIJPSMYQMUNKSB-UHFFFAOYSA-L				
+200	alpha-Methyl-alpha(2-thienyl)malonate	3467	ZAKIIHLBNJRPFO-UHFFFAOYSA-N				
+29.8	alpha-methyl-alpha-phenylmalonate	5556	XIWBCMGFBNMOMY-UHFFFAOYSA-N				
+1420	m-Chlorophenylmalonate	20829	RTDYUOVPTSZADH-UHFFFAOYSA-L				
+2180	m-Fluorophenylmalonate	20830	SFFVZQJXSIWYNG-UHFFFAOYSA-L				
+782	p-Chlorophenylmalonate	20865	HCEMITLHDQCRBV-UHFFFAOYSA-L				
+195	p-Fluorophenylmalonate	20866	KLOYRPDGRNTSFG-UHFFFAOYSA-L				
+92	p-Methoxyphenylmalonate	20868	HKGWZPGNUJEGCT-UHFFFAOYSA-L				
+125	p-methylphenylmalonate	20869	VVXVKSLTODWZAJ-UHFFFAOYSA-L				
+23.9	(1E)-but-1-en-1-yl(methyl)propanedioic acid	26635	UOWMHJBOMOMGSN-SNAWJCMRSA-N				wild type enzyme
+20.7	hydroxy(2-methylprop-1-en-1-yl)propanedioic acid	26714	SSYRIZIPLWXMIR-UHFFFAOYSA-N				wild type enzyme
+47.6	hydroxy[(1E)-prop-1-en-1-yl]propanedioic acid	26715	YINJTEXUDHIBLC-NSCUHMNNSA-N				wild type enzyme
+5.2	methyl(2-methylprop-1-en-1-yl)propanedioic acid	26716	WWPCEGRWMQPHEI-UHFFFAOYSA-N				wild type enzyme
+46.2	methyl[(1E)-prop-1-en-1-yl]propanedioic acid	26717	RFNSNNPHJSYHKO-ONEGZZNKSA-N				wild type enzyme

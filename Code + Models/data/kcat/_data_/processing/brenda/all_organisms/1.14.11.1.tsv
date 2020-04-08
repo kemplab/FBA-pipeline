@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.39	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	25	7.5		co-substrate: (3S)-3-fluoro-4-(trimethylammonio)butanoate, pH 7.5, 25C, NMR assay
+0.55	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	25	7.5		co-substrate: (3S)-3-fluoro-4-(trimethylammonio)butanoate, pH 7.5, 25C, fluoride assay
+5.1	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	25	7.5		co-substrate: 4-(trimethylammonio)butanoic acid, pH 7.5, 25C, NMR assay
+34	gamma-butyrobetaine	3150	JHPNVNIEXXLNTR-UHFFFAOYSA-N				
+0.1	(3S)-3-fluoro-4-(trimethylammonio)butanoate	124556	MATSECXNCPNEFB-LURJTMIESA-O	25	7.5		co-substrate: 2-oxoglutarate, pH 7.5, 25C, NMR assay
+0.62	(3S)-3-fluoro-4-(trimethylammonio)butanoate	124556	MATSECXNCPNEFB-LURJTMIESA-O	25	7.5		co-substrate: 2-oxoglutarate, pH 7.5, 25C, fluoride assay
+5.3	4-(trimethylammonio)butanoic acid	3150	JHPNVNIEXXLNTR-UHFFFAOYSA-N	25	7.5		co-substrate: 2-oxoglutarate, pH 7.5, 25C, NMR assay

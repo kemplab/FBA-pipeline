@@ -1,0 +1,59 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+8.6	NH3	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, HisF subunit
+4.3	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	30	8.0	X	pH 8.0, 30C, IGP synthase enzyme with a C124R mutant subunit HisF
+4.4	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	30	8.0	X	pH 8.0, 30C, IGP synthase enzyme enzyme with a E46G mutant subunit HisF
+5.7	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	30	8.0	X	pH 8.0, 30C, IGP synthase enzyme with a Q123R mutant subunit HisF; pH 8.0, 30C, IGP synthase enzyme with a R5H mutant subunit HisF
+8.6	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, HisF subunit
+8.8	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, IGP synthase holoenzyme
+0.0059	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	8.0	X	pH 8.0, 30C, mutant enzyme D359A
+0.007	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	8.0	X	pH 8.0, 30C, mutant enzyme K196A/D359A
+0.019	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	8.0	X	pH 8.0, 30C, mutant enzyme N13A
+0.025	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate, mutant enzyme K258A
+0.13	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	8.0	X	pH 8.0, 30C, IGP synthase enzyme with a R5H mutant subunit HisF
+0.16	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate, mutant enzyme K258R
+0.19	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	8.0	X	pH 8.0, 30C, IGP synthase enzyme with a E46G mutant subunit HisF
+0.49	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate, mutant enzyme K360A
+0.6	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	8.0	X	pH 8.0, 30C, mutant enzyme K196A
+1.13	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate, mutant enzyme K360R
+1.4	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	8.0	X	pH 8.0, 30C, mutant enzyme Q397A
+5.2	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	7.0		pH 7.0, 30C
+6	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate, mutant enzyme R239H
+6.9	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate, mutant enzyme R239A; pH 7.0, 30C, cosubstrate: N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate, wild-type enzyme
+6.9	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	8.0		pH 8.0, 30C, wild-type enzyme
+8.5	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	8.0		pH 8.0, 30C, IGP synthase holoenzyme
+9	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate, mutant enzyme R239K
+0.00029	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	8.0	X	pH 8.0, 30C, cosubstrate: L-glutamine, mutant enzyme D359A
+0.007	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	8.0	X	pH 8.0, 30C, cosubstrate: L-glutamine, mutant enzyme K196A/D359A
+0.01	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	8.0	X	pH 8.0, 30C, cosubstrate: L-glutamine, mutant enzyme N13A
+0.045	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: L-glutamine, mutant enzyme K258A
+0.11	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	8.0	X	pH 8.0, 30C, cosubstrate: NH4+, mutant enzyme K196A/D359A
+0.126	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: L-glutamine, mutant enzyme K258R
+0.15	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: NH4+, mutant enzyme R239A
+0.21	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: NH4+, mutant enzyme R239H
+0.24	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: L-glutamine, mutant enzyme K360A
+0.29	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: L-glutamine, mutant enzyme K360R
+0.3	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: NH4+, mutant enzyme R239K
+0.31	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: NH4+, mutant enzyme K360R
+0.35	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	8.0	X	pH 8.0, 30C, cosubstrate: NH4+, mutant enzyme N13A
+0.38	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	8.0	X	pH 8.0, 30C, cosubstrate: NH4+, mutant enzyme Q397A
+0.39	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	8.0	X	pH 8.0, 30C, cosubstrate: NH4+, mutant enzyme D359A
+0.46	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	8.0	X	pH 8.0, 30C, cosubstrate: NH4+, mutant enzyme K196A
+0.56	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	8.0	X	pH 8.0, 30C, cosubstrate: L-glutamine, mutant enzyme Q397A
+0.7	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: NH4+, mutant enzyme K360A
+0.74	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	8.0	X	pH 8.0, 30C, cosubstrate: L-glutamine, mutant enzyme K196A
+0.845	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	7.0		pH 7.0, 30C, cosubstrate: NH4+, wild-type enzyme
+0.845	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	8.0		pH 8.0, 30C, cosubstrate: NH4+, wild-type enzyme
+1.1	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	25	8.0		pH 8.0, 25C, cosubstrate: L-glutamine, wild-type enzyme
+1.2	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	25	8.0		pH 8.0, 25C, cosubstrate: NH4+, wild-type enzyme
+3.7	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	8.0	X	pH 8.0, 30C, IGP synthase enzyme with a E46G mutant subunit HisF
+3.9	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: L-glutamine, mutant enzyme R239H
+3.9	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	7.0		pH 7.0, 30C
+4.3	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: L-glutamine, mutant enzyme R239A
+5	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: NH4+, mutant enzyme K258R
+5.2	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	8.0	X	pH 8.0, 30C, IGP synthase enzyme with a C124R mutant subunit HisF; pH 8.0, 30C, IGP synthase enzyme with a R5H mutant subunit HisF
+5.3	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	8.0	X	pH 8.0, 30C, IGP synthase enzyme with a Q123R mutant subunit HisF
+5.4	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: L-glutamine, wild-type enzyme; pH 7.0, 30C, cosubstrate: NH4+, mutant enzyme K258A
+5.4	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	8.0		pH 8.0, 30C, cosubstrate: L-glutamine, wild-type enzyme
+5.7	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	8.0		pH 8.0, 30C, HisF subunit
+8.7	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	7.0	X	pH 7.0, 30C, cosubstrate: L-glutamine, mutant enzyme R239K
+9.1	N1-[(5'-phosphoribulosyl)formimino]-5-aminoimidazole-4-carboxamido-1-beta-D-ribofuranosyl 5'-phosphate	64952	BLKFNHOCHNCLII-GHVQHMAVSA-N	30	8.0		pH 8.0, 30C, IGP synthase holoenzyme

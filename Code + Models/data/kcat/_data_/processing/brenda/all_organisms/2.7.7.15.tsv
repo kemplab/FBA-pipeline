@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.21	phosphocholine	604	YHHSONZFOIEMCP-UHFFFAOYSA-O				wild-type, absence of lipid
+0.5	phosphocholine	604	YHHSONZFOIEMCP-UHFFFAOYSA-O	37		X	H92N mutant, purified enzyme, 37C
+1.51	phosphocholine	604	YHHSONZFOIEMCP-UHFFFAOYSA-O				absence of lipid
+1.63	phosphocholine	604	YHHSONZFOIEMCP-UHFFFAOYSA-O	37		X	H92Q mutant, purified enzyme, 37C
+2.22	phosphocholine	604	YHHSONZFOIEMCP-UHFFFAOYSA-O	37			wild-type, purified enzyme, 37C
+11.1	phosphocholine	604	YHHSONZFOIEMCP-UHFFFAOYSA-O			X	CCTalpha236 mutant, presence of lipid
+12.6	phosphocholine	604	YHHSONZFOIEMCP-UHFFFAOYSA-O			X	CCTalpha236 mutant, absence of lipid
+17.5	phosphocholine	604	YHHSONZFOIEMCP-UHFFFAOYSA-O	37	8		pH 8, 37C
+17.7	phosphocholine	604	YHHSONZFOIEMCP-UHFFFAOYSA-O				wild-type, presence of lipid
+31.3	phosphocholine	604	YHHSONZFOIEMCP-UHFFFAOYSA-O				presence of lipid
+33.3	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N				with choline phosphate, 45000 MW protein

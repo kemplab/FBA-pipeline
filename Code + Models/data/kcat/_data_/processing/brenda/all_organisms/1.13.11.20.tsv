@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.012	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N	37	6.1		assay standart conditions are: the enzyme is incubated at 37C in the presence of 62.5 mM Mes buffer (pH 6.1), 0.3 mM ferrous sulfate, 0.0125 mM bathocuproine disulfonate and 1.2 mM cysteine
+0.3	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				SCO5772
+0.33	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				SCO3035
+0.39	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				YubC
+0.62	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				
+1.7	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				determind under saturating oxygen conditions
+1.8	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				presence of 0.1 mol Fe2+, absence of EDTA
+2	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				
+3.6	L-cysteine	70	XUJNEKJLAYXESH-REOHCLBHSA-N				presence of 0.1 mol Fe2+, absence of EDTA

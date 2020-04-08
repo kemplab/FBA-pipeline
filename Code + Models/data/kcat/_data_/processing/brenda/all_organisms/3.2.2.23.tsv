@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.05	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N	25	7.5		pH 7.5, 25C, DNA containing an apurininc/apyrimidinic site
+0.0568	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N	20	7.5		pH 7.5, 20C, 24-oligomer DNA containing AP sites, lyase activity, wild-type Fpg
+0.0883	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N	20	7.5	X	pH 7.5, 20C, 24-oligomer DNA containing AP sites, lyase activity, K155A mutant Fpg
+0.004	DNA containing 5,6-dihydrouracil	3703	VQMTXVYKEYMKIE-UHFFFAOYSA-N			X	mutant H89A/R109A
+0.0053	DNA containing 5,6-dihydrouracil	3703	VQMTXVYKEYMKIE-UHFFFAOYSA-N			X	mutant R108A; mutant R109A
+0.0093	DNA containing 5,6-dihydrouracil	3703	VQMTXVYKEYMKIE-UHFFFAOYSA-N			X	mutant K217A
+0.011	DNA containing 5,6-dihydrouracil	3703	VQMTXVYKEYMKIE-UHFFFAOYSA-N				wild-type
+0.015	DNA containing 5,6-dihydrouracil	3703	VQMTXVYKEYMKIE-UHFFFAOYSA-N			X	mutant H89A
+0.00078	DNA containing 7-deaza-2'-deoxyguanosine	9456	VGWMRUMTDRLFAJ-SHYZEUOFSA-N				
+0.053	DNA containing 7-deaza-2'-deoxyguanosine	9456	VGWMRUMTDRLFAJ-SHYZEUOFSA-N				
+0.043	DNA containing 8-oxo-2'-deoxyguanosine	12296	HCAJQHYUCKICQH-VPENINKCSA-N				
+0.066	DNA containing 8-oxo-2'-deoxyguanosine	12296	HCAJQHYUCKICQH-VPENINKCSA-N				
+0.00045	DNA containing 8-thio-2'-deoxyguanosine	12297	HPUWAIHOWSCIQX-VPENINKCSA-N				
+0.00045	DNA containing 8-thio-2'-deoxyguanosine	12297	HPUWAIHOWSCIQX-VPENINKCSA-N				
+0.00025	DNA containing 7-methyl-8-oxo-2'-deoxyguanosine	12298	KOPPXXFRHTXZGY-KVQBGUIXSA-N				
+0.00051	DNA containing 7-methyl-8-oxo-2'-deoxyguanosine	12298	KOPPXXFRHTXZGY-KVQBGUIXSA-N				

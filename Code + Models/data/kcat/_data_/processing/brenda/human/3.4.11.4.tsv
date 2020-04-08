@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.04	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0	X	pH 5.0, 37C, mutant enzyme D276A
+0.12	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0	X	pH 5.0, 37C, mutant enzyme S475A
+0.56	Arg-Ser-Arg	9458	VENMDXUVHSKEIN-GUBZILKMSA-N				calculated value, wild type enzyme
+1.52	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0	X	pH 5.0, 37C, mutant enzyme D360A
+1.54	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0	X	pH 5.0, 37C, mutant enzyme E272A
+3.22	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0		pH 5.0, 37C, wild-type enzyme
+4.22	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0	X	pH 5.0, 37C, mutant enzyme D327A
+5.3	Arg-Ala-Arg	16683	SGYSTDWPNPKJPP-GUBZILKMSA-N				calculated value, wild type enzyme
+9.36	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0	X	pH 5.0, 37C, mutant enzyme D276A
+41.66	Ala-Ala-Phe-7-amido-4-methylcoumarin	1145	FVRLYIFIDKXFHU-FTRWYGJKSA-N	37	5.0		pH 5.0, 37C, wild-type enzyme

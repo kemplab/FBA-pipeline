@@ -1,0 +1,99 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.4	angiotensin II	537	CZGUSIXMZVURDU-JZXHSEFVSA-N	37	8.0		in 0.1 M Tris-HCl buffer pH 8.0 at 37C
+0.36	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	30	8.3	X	mutant enzyme E136Y, at pH 8.3 and 30C
+0.56	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	30	8.3	X	mutant enzyme R213L, at pH 8.3 and 30C
+0.64	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	30	8.3		wild type enzyme, at pH 8.3 and 30C
+1	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	30	8.3	X	mutant enzyme H24Q, at pH 8.3 and 30C
+1.81	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	30	8.3	X	mutant enzyme E136Y/R213L, at pH 8.3 and 30C
+262	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+28.4	benzoyl-Arg ethyl ester	1020	YQDHCCVUYCIGSW-LBPRGKRZSA-N				
+8.1	tosyl-Arg methyl ester	1557	FKMJXALNHKIDOD-LBPRGKRZSA-N				
+12	tosyl-Arg methyl ester	1557	FKMJXALNHKIDOD-LBPRGKRZSA-N				
+0.005	Trypsinogen	1596	NDIORHLFYZGYPG-FNRPHRCSSA-N				bovine guanidinated trypsinogen
+1.48	Trypsinogen	1596	NDIORHLFYZGYPG-FNRPHRCSSA-N				bovine trypsinogen
+2.3	Trypsinogen	1596	NDIORHLFYZGYPG-FNRPHRCSSA-N				bovine trypsinogen
+2.8	Trypsinogen	1596	NDIORHLFYZGYPG-FNRPHRCSSA-N				human trypsinogen
+4	Trypsinogen	1596	NDIORHLFYZGYPG-FNRPHRCSSA-N		5.6		pH 5.6
+4.8	Trypsinogen	1596	NDIORHLFYZGYPG-FNRPHRCSSA-N				bovine trypsinogen
+6.3	Trypsinogen	1596	NDIORHLFYZGYPG-FNRPHRCSSA-N				
+6.9	Trypsinogen	1596	NDIORHLFYZGYPG-FNRPHRCSSA-N		8.4		pH 8.4
+4.27	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N				
+17.1	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N			X	mutant enzyme K96A
+20.8	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	25	8.0		pH 8.0, 25C
+24.1	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N				
+25.5	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N			X	mutant enzyme K97A
+39.1	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N			X	mutant enzyme K98A
+49.3	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	37	8.4		pH 8.4, 37C
+98	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	37			value obtained by fluorescence spectroscopy, pH not specified in the publication, at 37C
+115	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	37	8.4		pH 8.4, 37C
+118	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	37	8.4		pH 8.4, 37C
+121	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	37			value obtained by impedance spectroscopy, pH not specified in the publication, at 37C
+108	thiobenzyl benzyloxycarbonyl-L-lysinate	3876	FQYOJXDBPPWSJR-SFHVURJKSA-N			X	mutant enzyme K96A
+120	thiobenzyl benzyloxycarbonyl-L-lysinate	3876	FQYOJXDBPPWSJR-SFHVURJKSA-N			X	mutant enzyme R99A
+128	thiobenzyl benzyloxycarbonyl-L-lysinate	3876	FQYOJXDBPPWSJR-SFHVURJKSA-N			X	mutant enzyme R97A; mutant enzyme R98A
+129	thiobenzyl benzyloxycarbonyl-L-lysinate	3876	FQYOJXDBPPWSJR-SFHVURJKSA-N				
+129	thiobenzyl benzyloxy-carbonyl-L-lysinate	3876	FQYOJXDBPPWSJR-SFHVURJKSA-N	25	8.4		pH 8.4, 25C
+133	thiobenzyl benzyloxy-carbonyl-L-lysinate	3876	FQYOJXDBPPWSJR-SFHVURJKSA-N	37	8.4		pH 8.4, 37C
+133	thiobenzyl benzyloxy-carbonyl-L-lysinate	3876	FQYOJXDBPPWSJR-SFHVURJKSA-N	25	8.4		pH 8.4, 25C
+0.99	GD4KF(NO2)G	7852	OJQNSDRUXLBVLE-LLINQDLYSA-N	37	8.0		in 0.1 M Tris-HCl buffer pH 8.0 at 37C
+0.99	GD4KF(NO2)G	7852	OJQNSDRUXLBVLE-LLINQDLYSA-N	37	8.0		50 mM Ca2+, pH 8.0, 37C
+17.83	GD4KF(NO2)G	7852	OJQNSDRUXLBVLE-LLINQDLYSA-N	37	8.0		in 0.1 M Tris-HCl buffer pH 8.0 at 37C
+17.83	GD4KF(NO2)G	7852	OJQNSDRUXLBVLE-LLINQDLYSA-N	37	8.0		50 mM Ca2+, pH 8.0, 37C
+12	Tosyl-Lys methyl ester	5579	XWVNOUSQIVZZJK-ZDUSSCGKSA-N				
+0.97	G5DKF(NO2)G	9265	GSRLSIVYSHNYJJ-ACRUOGEOSA-N	37	8.0		in 0.1 M Tris-HCl buffer pH 8.0 at 37C
+0.97	G5DKF(NO2)G	9265	GSRLSIVYSHNYJJ-ACRUOGEOSA-N	37	8.0		50 mM Ca2+, pH 8.0, 37C
+17.33	G5DKF(NO2)G	9265	GSRLSIVYSHNYJJ-ACRUOGEOSA-N	37	8.0		in 0.1 M Tris-HCl buffer pH 8.0 at 37C
+17.33	G5DKF(NO2)G	9265	GSRLSIVYSHNYJJ-ACRUOGEOSA-N	37	8.0		50 mM Ca2+, pH 8.0, 37C
+0.97	glycyl-tetra-L-aspartyl-L-lysine beta-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	37	8.0		50 mM Ca2+, pH 8.0, 37C
+16.67	glycyl-tetra-L-aspartyl-L-lysine beta-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	37	8.0		50 mM Ca2+, pH 8.0, 37C
+21.5	glycyl-tetra-L-aspartyl-L-lysine beta-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	37	8.0		pH 8.0, 37C
+15.4	formyl-Ala-Phe-Lys-4-nitroanilide	45849	OIMAJDGOIPOWLO-HSQYWUDLSA-N	25	8.4		pH 8.4, 25C
+18.2	formyl-Ala-Phe-Lys-4-nitroanilide	45849	OIMAJDGOIPOWLO-HSQYWUDLSA-N	25	8.4		pH 8.4, 25C
+23.5	formyl-Ala-Phe-Arg-4-nitroanilide	45847	VESIKPMQXWCLJV-NDXORKPFSA-N	25	8.4		pH 8.4, 25C
+26.3	formyl-Ala-Phe-Arg-4-nitroanilide	45847	VESIKPMQXWCLJV-NDXORKPFSA-N	25	8.4		pH 8.4, 25C
+319	Z-Lys-SBzl	2115	FIWAQJRIROPAEC-IBGZPJMESA-N	22	8.0	X	mutant enzyme Y174R, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22C
+336	Z-Lys-SBzl	2115	FIWAQJRIROPAEC-IBGZPJMESA-N	22	8.0		wild type enzyme, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22C
+354	Z-Lys-SBzl	2115	FIWAQJRIROPAEC-IBGZPJMESA-N	22	8.0	X	mutant enzyme R96Q, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22C
+0.97	GD4KNfa	12034	QGGXBTHVSMRZRU-HUVRVWIJSA-N	37	8.0		in 0.1 M Tris-HCl buffer pH 8.0 at 37C
+16.67	GD4KNfa	12034	QGGXBTHVSMRZRU-HUVRVWIJSA-N	37	8.0		in 0.1 M Tris-HCl buffer pH 8.0 at 37C
+520	Gly-Asp-ASp-Asp-Asp-2-naphthylamide	13833	ZUMLQUNJOFLURK-VJANTYMQSA-N				
+0.07	LTAEEKA	15889	YTIFKBZLFCJEJI-SBEVPXOGSA-N	37	8.0		pH 8.0, 37C
+0.49	LTAEEKA	15889	YTIFKBZLFCJEJI-SBEVPXOGSA-N	37	8.0		in 0.1 M Tris-HCl buffer pH 8.0 at 37C
+0.54	WDDKG	23980	QNWFQETTXGGCPY-LEAZDLGRSA-N	37	8.0		in 0.1 M Tris-HCl buffer pH 8.0 at 37C
+0.68	WDDRG	23981	KUWCJOPMFQPKMK-WNHJNPCNSA-N	37	8.0		in 0.1 M Tris-HCl buffer pH 8.0 at 37C
+25.17	MLTAEEKAA	23982	LJEOBMGFHYVXOH-VEOBLTFASA-N	37	8.0		in 0.1 M Tris-HCl buffer pH 8.0 at 37C
+20	Val-(Asp)4-Lys-Ile-Val-Gly	26444	YKDRKGPAYVWEPT-LLPOEYEWSA-N				
+14.6	Val-(Asp)3-Ala-Lys-Ile-Val-Gly	26445	AVWQRNWZSMASKQ-DONYSLRUSA-N				
+14.3	Val-(Asp)2-Ala-Asp-Lys-Ile-Val-Gly	26446	IPPXSLACTOLWIW-DONYSLRUSA-N				
+14.7	Val-Asp-Ala-(Asp)2-Lys-Ile-Val-Gly	26447	KJRQTRMIQYUDSM-DONYSLRUSA-N				
+17.8	Val-Ala-(Asp)3-Lys-Ile-Val-Gly	26448	HLTNPLJUPSMGGW-DONYSLRUSA-N				
+10.3	Val-Asp-Ala-Asp-Ala-Lys-Ile-Val-Gly	26449	GTFZCVNRXZYMCF-RBXVSGTMSA-N				
+28.1	Val-Asp-(Ala)2-Asp-Lys-Ile-Val-Gly	26450	JXGCFWFBVXGNQA-RBXVSGTMSA-N				
+23	Val-Ala-Asp-Ala-Asp-Lys-Ile-Val-Gly	26451	ZGADEYSBEQHJFX-RBXVSGTMSA-N				
+15.9	Val-(Ala)2-(Asp)2-Lys-Ile-Val-Gly	26452	MTRWNOLVTKIDRC-RBXVSGTMSA-N				
+9.1	Val-Asp-(Ala)3-Lys-Ile-Val-Gly	26453	PPBFSVKJVUCRNU-FZSGAUMNSA-N				
+14.1	Val-(Ala)2-Asp-Ala-Lys-Ile-Val-Gly	26454	BEZUJHXWJLBRFL-FZSGAUMNSA-N				
+17	Val-(Ala)3-Asp-Lys-Ile-Val-Gly	26455	KPIPINLZLAMLSV-FZSGAUMNSA-N				
+8	Val-(Asp)3-Glu-Lys-Ile-Val-Gly	26456	AAWLWRSDJCJZNY-UKGJDPAMSA-N				
+13.6	Val-(Asp)4-Arg-Ile-Val-Gly	26457	MDMMWGICJVSUMS-SQVFMOERSA-N				
+64.8	GD4K 7-amido-4-methylcoumarin	114631	FWSQABSYRSHHID-YFNVTMOMSA-N	35	8.4		pH 8.4, 35C
+24.9	GD4K 2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	35	8.4		pH 8.4, 35C
+111	N-alpha-benzyloxycarbonyl-L-lysine thiobenzyl ester	13020	FIWAQJRIROPAEC-UHFFFAOYSA-N	37	8.0		37C, pH 8.0
+17.8	GDDDDK-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	30	8.3	X	mutant enzyme E136Y, at pH 8.3 and 30C
+26.2	GDDDDK-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	30	8.3	X	mutant enzyme H24Q, at pH 8.3 and 30C
+27.9	GDDDDK-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	30	8.3		wild type enzyme, at pH 8.3 and 30C
+28.75	GDDDDK-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	30	8.3	X	mutant enzyme E136Y/R213L, at pH 8.3 and 30C
+33.02	GDDDDK-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	30	8.3	X	mutant enzyme R213L, at pH 8.3 and 30C
+92	GDDDDK-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	37	8.4		soluble enzyme, in 25 mM Tris-HCl (pH 8.4), at 37C
+115	GDDDDK-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	37	8.4		phage-bound enteropeptidase catalytic subunit, in 25 mM Tris-HCl (pH 8.4), at 37C
+122	GDDDDK-4-nitroanilide	125407	YMOYLEFVESXCGX-HVTWWXFQSA-N	22	8.0	X	mutant enzyme Y174R, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22C
+135	GDDDDK-4-nitroanilide	125407	YMOYLEFVESXCGX-HVTWWXFQSA-N	22	8.0		wild type enzyme, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22C
+148	GDDDDK-4-nitroanilide	125407	YMOYLEFVESXCGX-HVTWWXFQSA-N	22	8.0	X	mutant enzyme R96Q, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22C
+42	GD4R-4-nitroanilide	125407	YMOYLEFVESXCGX-HVTWWXFQSA-N	22	8.0	X	mutant enzyme R96Q, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22C
+45	GD4R-4-nitroanilide	125407	YMOYLEFVESXCGX-HVTWWXFQSA-N	22	8.0		wild type enzyme, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22C
+49	GD4R-4-nitroanilide	125407	YMOYLEFVESXCGX-HVTWWXFQSA-N	22	8.0	X	mutant enzyme Y174R, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22C
+0.3	t-butyloxycarbonyl-E(benzyl ester)-Ala-Arg-7-amido-4-methylcoumarin	9479	BPXNNDRYRRUSMM-CAVYSCNFSA-N	30	8.3	X	mutant enzyme E136Y, at pH 8.3 and 30C
+0.34	t-butyloxycarbonyl-E(benzyl ester)-Ala-Arg-7-amido-4-methylcoumarin	9479	BPXNNDRYRRUSMM-CAVYSCNFSA-N	30	8.3		wild type enzyme, at pH 8.3 and 30C
+0.53	t-butyloxycarbonyl-E(benzyl ester)-Ala-Arg-7-amido-4-methylcoumarin	9479	BPXNNDRYRRUSMM-CAVYSCNFSA-N	30	8.3	X	mutant enzyme R213L, at pH 8.3 and 30C
+0.6	t-butyloxycarbonyl-E(benzyl ester)-Ala-Arg-7-amido-4-methylcoumarin	9479	BPXNNDRYRRUSMM-CAVYSCNFSA-N	30	8.3	X	mutant enzyme H24Q, at pH 8.3 and 30C
+1.38	t-butyloxycarbonyl-E(benzyl ester)-Ala-Arg-7-amido-4-methylcoumarin	9479	BPXNNDRYRRUSMM-CAVYSCNFSA-N	30	8.3	X	mutant enzyme E136Y/R213L, at pH 8.3 and 30C

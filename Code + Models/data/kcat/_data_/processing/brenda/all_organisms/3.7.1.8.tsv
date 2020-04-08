@@ -1,0 +1,52 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00059	(2E,4Z)-4-chloro-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	7871	APGDJICKGQRABQ-STGKXFFCSA-N				
+0.0009	ethyl-2-acetoxy-6-keto-6-phenylhexa-2,4-dienoate	4240	BJOUSWLCXRZTKE-XGQUATGFSA-N			X	mutant S112A
+0.0016	ethyl-2-acetoxy-6-keto-6-phenylhexa-2,4-dienoate	4240	BJOUSWLCXRZTKE-XGQUATGFSA-N			X	mutant H265A
+0.0055	(2E,4Z)-2,4-dihydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	9285	ARUSLBDYMYXHSW-STGKXFFCSA-N				
+0.0089	(2Z,4E)-3-chloro-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	5139	IBJDCVXDXGFGIO-FKTQTOOFSA-N				
+0.0172	(2Z,4E)-3-chloro-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	5139	IBJDCVXDXGFGIO-FKTQTOOFSA-N				
+0.028	ethyl-2-acetoxy-6-keto-6-phenylhexa-2,4-dienoate	4240	BJOUSWLCXRZTKE-XGQUATGFSA-N			X	mutant D237N
+0.036	ethyl-2-acetoxy-6-keto-6-phenylhexa-2,4-dienoate	4240	BJOUSWLCXRZTKE-XGQUATGFSA-N			X	mutant H114A
+0.066	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	2548	RDRDHXDYMGUCKE-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+0.13	2,6-dioxo-6-phenylhexa-3-enoate	65909	QPGAZPBFRAAJBD-XBXARRHUSA-N	25	7.0	X	pH 7.0, 25C, mutant M148P
+0.27	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	2548	RDRDHXDYMGUCKE-UHFFFAOYSA-N	112		X	S112C mutant at 25C
+0.33	8-(2-chlorophenyl)-2-hydroxy-5-methyl-6-oxoocta-2,4-dienoic acid	111796	QWNIWTMKYQXRNZ-RLCSYUECSA-N	25	7.5		pH 7.5, 25C
+0.86	2,6-dioxo-6-phenylhexa-3-enoate	65909	QPGAZPBFRAAJBD-XBXARRHUSA-N	25	7.0	X	pH 7.0, 25C, mutant M148R
+0.98	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	2548	RDRDHXDYMGUCKE-UHFFFAOYSA-N	3.2			wild-type at 3.2C
+1.03	(2E,4Z)-5-chloro-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	9286	NHICKUMICZWUIF-PCCLLEMOSA-N				
+1.11	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate	1533	RDRDHXDYMGUCKE-KXBBGWRGSA-N	60			at 60C
+1.5	2,6-dioxo-6-phenylhexa-3-enoate	65909	QPGAZPBFRAAJBD-XBXARRHUSA-N	25	7.0	X	pH 7.0, 25C, mutant M148S; pH 7.0, 25C, mutant M148Y
+1.53	(2E,4Z)-5-chloro-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	9286	NHICKUMICZWUIF-PCCLLEMOSA-N				
+1.74	(2E,4E)-6-(2-chlorophenyl)-2-hydroxy-6-oxohexa-2,4-dienoic acid	12067	KFTOYZPVUCSFAL-ACIWFXKJSA-N				
+2	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	2548	RDRDHXDYMGUCKE-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant wild-type BphD, with 12940 mM methanol
+2.1	(2E,4E)-6-(2-chlorophenyl)-2-hydroxy-6-oxohexa-2,4-dienoic acid	12067	KFTOYZPVUCSFAL-ACIWFXKJSA-N				
+2.4	2,6-dioxo-6-phenylhexa-3-enoate	65909	QPGAZPBFRAAJBD-XBXARRHUSA-N	25	7.0	X	pH 7.0, 25C, mutant M148K
+2.5	2,6-dioxo-6-phenylhexa-3-enoate	65909	QPGAZPBFRAAJBD-XBXARRHUSA-N	25	7.0	X	pH 7.0, 25C, mutant M148C
+2.6	2,6-dioxo-6-phenylhexa-3-enoate	65909	QPGAZPBFRAAJBD-XBXARRHUSA-N	25	7.0	X	pH 7.0, 25C, mutant M148H
+3.1	2,6-dioxo-6-phenylhexa-3-enoate	65909	QPGAZPBFRAAJBD-XBXARRHUSA-N	25	7.0	X	pH 7.0, 25C, mutant M148L
+3.13	(2E,4E)-2-hydroxy-6-(4-chlorophenyl)-6-oxohexa-2,4-dienoic acid	12149	BKVFPMUIZMNOHF-BBOZHSEUSA-N				
+3.9	(2E,4E)-6-(3-chlorophenyl)-2-hydroxy-6-oxohexa-2,4-dienoic acid	12068	QACZEADIVZTFKB-ZWYCGJAQSA-N				
+4.1	2,6-dioxo-6-phenylhexa-3-enoate	65909	QPGAZPBFRAAJBD-XBXARRHUSA-N	25	7.0	X	pH 7.0, 25C, mutant M148E
+4.18	(2E,4E)-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	12066	RDRDHXDYMGUCKE-VCABWLAWSA-N				not chlorinated
+4.5	2,6-dioxo-6-phenylhexa-3-enoate	65909	QPGAZPBFRAAJBD-XBXARRHUSA-N	25	7.0	X	pH 7.0, 25C, mutant M148D
+4.8	2,6-dioxo-6-phenylhexa-3-enoate	65909	QPGAZPBFRAAJBD-XBXARRHUSA-N	25	7.0	X	pH 7.0, 25C, mutant M148V
+5.7	2,6-dioxo-6-phenylhexa-3-enoate	65909	QPGAZPBFRAAJBD-XBXARRHUSA-N	25	7.0	X	pH 7.0, 25C, mutant M148W
+6.3	4-nitrophenyl benzoate	118912	GMKZBFFLCONHDE-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+6.5	2,6-dioxo-6-phenylhexa-3-enoate	65909	QPGAZPBFRAAJBD-XBXARRHUSA-N	25	7.0	X	pH 7.0, 25C, mutant M148T
+6.5	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	2548	RDRDHXDYMGUCKE-UHFFFAOYSA-N	25			wild-type at 25C
+6.5	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	2548	RDRDHXDYMGUCKE-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant wild-type BphD, without methanol
+6.5	ethyl-2-acetoxy-6-keto-6-phenylhexa-2,4-dienoate	4240	BJOUSWLCXRZTKE-XGQUATGFSA-N				His6-BphD
+6.7	2,6-dioxo-6-phenylhexa-3-enoate	65909	QPGAZPBFRAAJBD-XBXARRHUSA-N	25	7.0	X	pH 7.0, 25C, mutant M148N
+7.6	(2E,4E)-2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	12066	RDRDHXDYMGUCKE-VCABWLAWSA-N				not chlorinated
+8	2,6-dioxo-6-phenylhexa-3-enoate	65909	QPGAZPBFRAAJBD-XBXARRHUSA-N	25	7.0	X	pH 7.0, 25C, mutant M148F
+8.4	2,6-dioxo-6-phenylhexa-3-enoate	65909	QPGAZPBFRAAJBD-XBXARRHUSA-N	25	7.0	X	pH 7.0, 25C, mutant M148Q
+9.4	2,6-dioxo-6-phenylhexa-3-enoate	65909	QPGAZPBFRAAJBD-XBXARRHUSA-N	25	7.0	X	pH 7.0, 25C, mutant M148G
+9.5	2,6-dioxo-6-phenylhexa-3-enoate	65909	QPGAZPBFRAAJBD-XBXARRHUSA-N	25	7.0	X	pH 7.0, 25C, mutant M148I
+9.6	2,6-dioxo-6-phenylhexa-3-enoate	65909	QPGAZPBFRAAJBD-XBXARRHUSA-N	25	7.0		pH 7.0, 25C, wild-type enzyme
+9.9	2,6-dioxo-6-phenylhexa-3-enoate	65909	QPGAZPBFRAAJBD-XBXARRHUSA-N	25	7.0	X	pH 7.0, 25C, mutant M148A
+11.2	(2E,4E)-6-(3,5-chlorophenyl)-2-hydroxy-6-oxohexa-2,4-dienoic acid	24150	AILGJQSNFXUUBO-BBOZHSEUSA-N				
+15.3	(2E,4E)-6-(3-chlorophenyl)-2-hydroxy-6-oxohexa-2,4-dienoic acid	12068	QACZEADIVZTFKB-ZWYCGJAQSA-N				
+26	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	2548	RDRDHXDYMGUCKE-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant wild-type BphD, with 494 mM methanol
+29	(2E,4E)-6-(3,4-dichlorophenyl)-2-hydroxy-6-oxohexa-2,4-dienoic acid	24151	CPIJSYMZYRUQTN-BBOZHSEUSA-N				
+33.7	(2E,4E)-2-hydroxy-6-(4-chlorophenyl)-6-oxohexa-2,4-dienoic acid	12149	BKVFPMUIZMNOHF-BBOZHSEUSA-N				
+1300	2-hydroxy-6-oxo-6-(2-aminophenyl)hexa-2,4-dienoic acid	24422	AFPIGEHQFVBSJA-OEKSYNDNSA-N				

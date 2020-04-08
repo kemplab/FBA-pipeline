@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.383	Hg2+	31	BQPIGGFYSBELGY-UHFFFAOYSA-N			X	mutant enzyme C558A, anaerobic conditions
+0.5	Hg2+	31	BQPIGGFYSBELGY-UHFFFAOYSA-N			X	mutant enzyme Y605F
+0.5	Hg2+	31	BQPIGGFYSBELGY-UHFFFAOYSA-N			X	mutant enzyme C558A, aerobic conditions
+0.7	Hg2+	31	BQPIGGFYSBELGY-UHFFFAOYSA-N	6	7.3		6C, pH 7.3
+4.85	Hg2+	31	BQPIGGFYSBELGY-UHFFFAOYSA-N			X	mutant enzyme C559A, anaerobic conditions
+7	Hg2+	31	BQPIGGFYSBELGY-UHFFFAOYSA-N	25	7.3		recombinant catalytic core, 25C, pH 7.3
+7.43	Hg2+	31	BQPIGGFYSBELGY-UHFFFAOYSA-N				wild-type enzyme, aerobic conditions
+7.63	Hg2+	31	BQPIGGFYSBELGY-UHFFFAOYSA-N			X	mutant enzyme C559A, aerobic conditions
+9	Hg2+	31	BQPIGGFYSBELGY-UHFFFAOYSA-N	25	7.3		full-length enzyme, 25C, pH 7.3
+12	Hg2+	31	BQPIGGFYSBELGY-UHFFFAOYSA-N				
+12	Hg2+	31	BQPIGGFYSBELGY-UHFFFAOYSA-N	25	7.3		recombinant catalytic core, presence of N-terminal sequence NmerA, 25C, pH 7.3
+13.5	Hg2+	31	BQPIGGFYSBELGY-UHFFFAOYSA-N				wild-type enzyme, aerobic conditions
+12.4	HgCl2	104	LWJROJCJINYWOX-UHFFFAOYSA-L				

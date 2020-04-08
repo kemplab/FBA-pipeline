@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00667	tRNAVal	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				substrate from yeast, limiting
+0.00833	tRNAVal	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				substrate from yeast, in absence of Mg2+
+0.00833	tRNAIle	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				substrate from yeast, intronless, limiting

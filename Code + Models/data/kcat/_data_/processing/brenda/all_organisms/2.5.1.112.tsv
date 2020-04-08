@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.008	AMP	9	UDMBCSSLTHHNCD-KQYNXXCUSA-N	25	8.0		in 100 mM Tris-HCl buffer, pH 8.0, containing 50 mM KCl, 10 mM MgCl2, 1 mg/ml bovine serum albumin, 1 mM dithiothreitol, at 25C
+0.022	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0		in 100 mM Tris-HCl buffer, pH 8.0, containing 50 mM KCl, 10 mM MgCl2, 1 mg/ml bovine serum albumin, 1 mM dithiothreitol, at 25C
+0.024	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	25	8.0		in 100 mM TrisHCl buffer, pH 8.0, containing 50 mM KCl, 10 mM MgCl2, 1 mg/ml bovine serum albumin, 1 mM dithiothreitol, at 25C
+0.024	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	25	7.0		in 100 mM Tris-HCl buffer, pH 7.0, containing 50 mM KCl, 2 mM MnCl2, 1 mg/ml bovine serum albumin, and 1 mM dithiohtreitol, at 25C
+0.027	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N	25	8.0		in 100 mM Tris-HCl buffer, pH 8.0, containing 50 mM KCl, 10 mM MgCl2, 1 mg/ml bovine serum albumin, 1 mM dithiothreitol, at 25C
+0.035	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N	25	7.0		in 100 mM Tris-HCl buffer, pH 7.0, containing 50 mM KCl, 2 mM MnCl2, 1 mg/ml bovine serum albumin, and 1 mM dithiohtreitol, at 25C

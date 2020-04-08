@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.185	UDP-beta-L-arabinopyranose	3456	DQQDLYVHOTZLOR-LGNYTLETSA-N	25	6.8		pH 6.8, 25C; pH 6.8, 25C
+0.93	UDP-beta-L-arabinopyranose	3456	DQQDLYVHOTZLOR-LGNYTLETSA-N	25	6		pH 6, 25C, recombinant enzyme
+1.44	UDP-beta-L-arabinopyranose	3456	DQQDLYVHOTZLOR-LGNYTLETSA-N	25	6		pH 6, 25C, native enzyme
+0.474	UDP-beta-L-arabinofuranose	8154	QGNZSCRNMXQWNR-IAZOVDBXSA-N	25	6.8		pH 6.8, 25C; pH 6.8, 25C
+1.44	UDP-beta-L-arabinofuranose	8154	QGNZSCRNMXQWNR-IAZOVDBXSA-N	25	6		pH 6, 25C, recombinant enzyme
+5.98	UDP-beta-L-arabinofuranose	8154	QGNZSCRNMXQWNR-IAZOVDBXSA-N	25	6		pH 6, 25C, native enzyme

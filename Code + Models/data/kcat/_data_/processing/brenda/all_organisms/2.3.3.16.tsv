@@ -1,0 +1,71 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0001	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	D317N mutant protein, value is very uncertain
+0.0015	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	D317G mutant protein
+0.0133	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	recombinant mutant G196V
+0.03	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	20	8.0	X	mutant W348Y, pH 8.0, 20C
+0.15	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				recombinant wild-type
+3	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant enzyme Y145A, in presence of 0.1 M KCl
+6.73	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	20	8.0	X	mutant W348Y, pH 8.0, 20C
+7	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant A10E
+8.3	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	30	8		30C, pH 8, native enzyme
+8.8	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	30	8		30C, pH 8, recombinant enzyme
+9.17	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N		8.0		recombinant wild-type, pH 8.0
+9.2	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				wild-type protein
+9.8	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	20	8.0		wild-type, pH 8.0, 20C
+11	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	20	8.0	X	mutant H187Q, pH 8.0, 20C
+11.2	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	7.5		pH 7.5, 37C
+13	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant A361R/A10E
+14.5	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	20	8.0	X	mutant R344K, pH 8.0, 20C
+15	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant A361R
+15.4	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	20	8.0	X	mutant W245F/W115F/W17F, pH 8.0, 20C
+17	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant enzyme T204R, pH and temperature not specified in the publication
+18	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				wild-type
+18	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant enzyme G181E, pH and temperature not specified in the publication
+21	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				hexameric enzyme form
+22	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				dimeric enzyme form
+44	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				wild type enzyme, pH and temperature not specified in the publication
+54	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant enzyme T111A, in presence of 0.1 M KCl
+67	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant enzyme H110A, in presence of 0.1 M KCl
+78	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				wild-type, + 0.1 M KCl
+81	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				wild-type, + 0.1 M KCl
+81	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				wild-type enzyme, in presence of 0.1 M KCl
+84	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant enzyme K167A, in presence of 0.1 M KCl
+95	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant enzyme Q182A, in presence of 0.1 M KCl
+108	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant enzyme R163L, in presence of 0.1 M KCl
+118	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant enzyme T204A, in presence of 0.1 M KCl
+121	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant enzyme R109L, in presence of 0.1 M KCl
+124	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N			X	mutant enzyme N189A, in presence of 0.1 M KCl
+167	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N		7.5		pH 7.5
+174	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N				with 0.1 M KCl
+262.8	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	35	8.0		at pH 8.0 and 35C
+0.0001	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N			X	D317N mutant protein, value is very uncertain
+0.0015	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N			X	D317G mutant protein
+3	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N			X	mutant enzyme Y145A, in presence of 0.1 M KCl
+8.3	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	8		30C, pH 8, native enzyme
+8.8	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	30	8		30C, pH 8, recombinant enzyme
+9.2	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N				wild-type protein
+54	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N			X	mutant enzyme T111A, in presence of 0.1 M KCl
+67	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N			X	mutant enzyme H110A, in presence of 0.1 M KCl
+81	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N				wild-type enzyme, in presence of 0.1 M KCl
+84	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N			X	mutant enzyme K167A, in presence of 0.1 M KCl
+95	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N			X	mutant enzyme Q182A, in presence of 0.1 M KCl
+108	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N			X	mutant enzyme R163L, in presence of 0.1 M KCl
+111	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N				
+118	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N			X	mutant enzyme T204A, in presence of 0.1 M KCl
+121	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N			X	mutant enzyme R109L, in presence of 0.1 M KCl
+124	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N			X	mutant enzyme N189A, in presence of 0.1 M KCl
+170	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N				with 0.1 mM KCl
+230.7	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	35	8.0		at pH 8.0 and 35C
+0.5	citrate	125	KRKNYBCHXYNGOX-UHFFFAOYSA-N	20	8.0	X	mutant H187Q, pH 8.0, 20C
+7.75	citrate	125	KRKNYBCHXYNGOX-UHFFFAOYSA-N	20	8.0	X	mutant W348Y, pH 8.0, 20C
+9.17	citrate	125	KRKNYBCHXYNGOX-UHFFFAOYSA-N		8.0		recombinant enzyme, pH 8.0
+11.4	citrate	125	KRKNYBCHXYNGOX-UHFFFAOYSA-N	20	8.0		wild-type, pH 8.0, 20C
+12.66	citrate	125	KRKNYBCHXYNGOX-UHFFFAOYSA-N	20	8.0	X	mutant H187Q, pH 8.0, 20C
+17.3	citrate	125	KRKNYBCHXYNGOX-UHFFFAOYSA-N	20	8.0	X	mutant W245F/W115F/W17F, pH 8.0, 20C
+117	citrate	125	KRKNYBCHXYNGOX-UHFFFAOYSA-N				
+942	citrate	125	KRKNYBCHXYNGOX-UHFFFAOYSA-N				
+2100	citrate	125	KRKNYBCHXYNGOX-UHFFFAOYSA-N				
+4	propionyl-CoA	297	QAQREVBBADEHPA-IEXPHMLFSA-N			X	mutant loop/K313L/A361R
+6	propionyl-CoA	297	QAQREVBBADEHPA-IEXPHMLFSA-N			X	mutant A361R
+8	propionyl-CoA	297	QAQREVBBADEHPA-IEXPHMLFSA-N				wild-type
+12	propionyl-CoA	297	QAQREVBBADEHPA-IEXPHMLFSA-N				dimeric enzyme form

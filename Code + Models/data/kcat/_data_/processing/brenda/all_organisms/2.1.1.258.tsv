@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.63	Cobalamin	749	OMAOKVYASDIYQG-DSRCUDDDSA-M	25	5.1		25C, pH 5.1
+37.2	Cobalamin	749	OMAOKVYASDIYQG-DSRCUDDDSA-M	25	7.2		25C, pH 7.2
+1.5	5-methyltetrahydrofolate	1036	ZNOVTXRBGFNYRX-STQMWFEESA-N	25	7.6		using hydroxocobalamin as cosubstrate, in 1 mM Tris-HCl (pH 7.6), at 25C
+14.7	5-methyltetrahydrofolate	1036	ZNOVTXRBGFNYRX-STQMWFEESA-N	25	5.1		in 50 mM MES, pH 5.1, at 25C
+0.00003	methylcobalamin	2996	JEWJRMKHSMTXPP-WYVZQNDMSA-L	55	8.4	X	mutant enzyme N199A, at pH 8.4 and 55C
+0.05	methylcobalamin	2996	JEWJRMKHSMTXPP-WYVZQNDMSA-L	55	8.4		wild type enzyme, at pH 8.4 and 55C
+2.2	methylcobalamin	2996	JEWJRMKHSMTXPP-WYVZQNDMSA-L	25	7.6		in 1 mM Tris-HCl (pH 7.6), at 25C
+77.6	hydroxycobalamin	3558	YOZNUFWCRFCGIH-WZHZPDAFSA-L	25	5.1		recombinant enzyme, in 0.1 M MES, at pH 5.1 and 25C
+1.1	hydroxocobalamin	3558	YOZNUFWCRFCGIH-WZHZPDAFSA-L	25	7.6		in 1 mM Tris-HCl (pH 7.6), at 25C

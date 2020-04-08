@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0004	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N			X	mutant CmdF_MIYMLV, product (R)-beta-tyrosine
+0.0005	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N				wild-type enzme, product para-hydroxycinnamic acid
+0.0012	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N				lyase activity
+0.0013	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N			X	mutant CmdF_MIYMLV, product para-hydroxycinnamic acid
+0.0072	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N				wild-type enzme, product (R)-beta-tyrosine
+0.01	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N				
+7000	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N				pH and temperature not specified in the publication
+7000	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N				pH and temperature not specified in the publication
+10000	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N				pH and temperature not specified in the publication
+0.0067	L-3,4-dihydroxyphenylalanine	275	WTDRDQBEARUVNC-LURJTMIESA-N				
+0.0048	L-3-chlorotyrosine	6525	ACWBBAGYTKWBCD-ZETCQYMHSA-N				

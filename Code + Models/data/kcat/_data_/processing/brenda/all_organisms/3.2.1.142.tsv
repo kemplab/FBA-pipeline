@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3.9	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	37		X	mutant M440G, 37C, pH not specified in the publication
+15.6	amylopectin	500	SBRKYTMAJASYEW-HMHCXGEVSA-N	37			wild-type, 37C, pH not specified in the publication
+61	Pullulan	789	XFKDGVTXXXARHP-IUYGNOPYSA-N	40	5.5		classical Michaelis-Menten kinetics, pH 5.5, 40C
+72	Pullulan	789	XFKDGVTXXXARHP-IUYGNOPYSA-N	37		X	mutant M440G, 37C, pH not specified in the publication
+78	Pullulan	789	XFKDGVTXXXARHP-IUYGNOPYSA-N	40	5.5		fitting the uncompetitive substrate inhibition Michaelis-Menten equation, pH 5.5, 40C
+78	Pullulan	789	XFKDGVTXXXARHP-IUYGNOPYSA-N				pH and temperature not specified in the publication
+78	Pullulan	789	XFKDGVTXXXARHP-IUYGNOPYSA-N	37			wild-type, 37C, pH not specified in the publication

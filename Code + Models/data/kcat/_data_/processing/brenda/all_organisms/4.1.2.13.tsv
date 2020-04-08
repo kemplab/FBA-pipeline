@@ -1,0 +1,154 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0002	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	turnover number less than 0.0002 sec-1, mutant enzyme K146A
+0.001	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30		X	30C, N286D mutant
+0.0019	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant enzyme K146M
+0.002	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant enzyme D33S
+0.0028	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30		X	30C, D109A mutant
+0.003	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant enzyme D33N
+0.005	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant enzyme E187Q
+0.005	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5		in the absence of Co2+, at pH 7.5, 30C
+0.011	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.4		pH 7.4, 30C, enzyme from patients with intolerance
+0.013	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30		X	E174A mutant, 30C
+0.018	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5		in the presence of 0.02 mM Co2+, at substrate concentrations of 0.008-0.5 mM, at pH 7.5, 30C
+0.026	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	48	8.0	X	pH 8.0, 48C, mutant enzyme Y348F
+0.027	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	48	8.0		pH 8.0, 48C, wild-type enzyme
+0.029	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	10	7.4		pH 7.4, 10C, enzyme from patients with intolerance
+0.03	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	7.6	X	E187Q mutant, pH 7.6, 22C
+0.033	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30		X	E182A mutant, 30C
+0.046	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant enzyme E187A
+0.055	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5		in the presence of 0.02 mM Co2+, at substrate concentrations of 0.5-1.5 mM, at pH 7.5, 30C
+0.12	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	7.6	X	E187A mutant, pH 7.6, 22C
+0.16	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30		X	N35A mutant, 30C
+0.19	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	10	7.4		pH 7.4, 10C, wild-type enzyme
+0.19	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22		X	N334K mutant, 22C
+0.19	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30		X	30C, N286A mutant
+0.43	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22		X	W147R mutant, 22C
+0.54	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22		X	L256P mutant, 22C
+0.57	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22		X	Q354E mutant, 22C
+0.58	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30		X	K325A mutant, 30C
+0.61	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22			wild-type enzyme, 22C
+0.63	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	25	7.5	X	mutant enzyme D255A, in 50 mM K+-HEPES (pH 7.5), at 25C
+0.65	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant enzyme K107M
+0.85	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30		X	S61A mutant, 30C
+1.07	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30		X	30C, AB_All mutant
+1.53	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30			30C, aldolase B
+1.53	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	8.0		in Tris-HCl pH 8.0, at 30C
+1.6	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	55	7.8		pH 7.8, 55C
+1.63	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		5.5		pH 5.5
+1.69	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	7.6	X	E189Q mutant, pH 7.6, 22C
+2	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30		X	30C, D144A mutant
+2.1	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.4		pH 7.4, 30C, wild-type enzyme
+2.1	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	8.0		at 30C in 50 mM Tris-HCl, 0.1 M potassium acetate buffer (pH 8.0)
+2.2	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30		X	30C, D288A mutant
+2.83	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant aldolase C Y363S
+2.94	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	7.6	X	E189Q mutant, pH 7.6, 22C
+2.94	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30			30C, aldolase B
+2.95	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	8.0		in Tris-HCl pH 8.0, at 30C
+3.4	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	7.6	X	E189A mutant, pH 7.6, 22C
+3.55	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	25	7.5		at pH 7.5 and 25C, in the absence of Zn2+
+3.55	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	25	7.5		wild type enzyme, in 50 mM K+-HEPES (pH 7.5), at 25C
+4.02	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		9.3		pH 9.3
+4.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant enzyme G346S
+5.03	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		5.5		pH 5.5
+5.1	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	50	7.6		pH 7.6, 50C
+5.2	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				
+5.28	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		9.2		pH 9.2
+5.47	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.6		pH 7.6
+5.8	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30		X	E181A mutant, 30C
+6.08	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30		X	K325A mutant, 30C
+6.08	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22		X	L256P mutant, 22C; Q354E mutant, 22C; wild-type enzyme, 22C
+6.08	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30		X	30C, AB_All mutant
+6.3	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30		X	S61T mutant, 30C
+7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30		X	30C, D290A mutant
+7.5	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		9.3		pH 9.3
+7.87	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		5.5		pH 5.5
+8.2	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30			30C, wild-type enzyme
+8.2	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.6		pH 7.6
+8.5	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30		X	Q59A mutant, 30C
+10.2	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30			30C, aldolase A
+10.2	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30			at 30C
+10.3	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.6		pH 7.6, native enzyme
+10.3	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.6		pH 7.6, native enzyme
+10.5	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30			wild-type enzyme, 30C
+10.5	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30			wild-type enzyme, 30C
+10.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N			X	mutant enzyme E206K
+10.9	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.6		pH 7.6, recombinant enzyme
+12.3	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30		X	30C, D329A mutant
+12.6	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				aldolase C
+13	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30			30C
+13.22	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				native wild type enzyme
+13.9	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.6		pH 7.6
+14	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.4	X	wild-type and mutants, pH 7.4
+14.2	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30			30C
+15.8	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				non-muscle-type enzyme
+16.5	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30		X	30C, H156E mutant
+16.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				wild-type enzyme
+16.76	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	25	8.0		native enzyme, in Tris-HCl buffer (40 mM, pH 8.0), at 25C
+17.9	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				recombinant non-muscle-type enzyme
+20.1	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				aldolase B
+20.3	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	25	8.0		recombinant fusion protein DLF, in Tris-HCl buffer (40 mM, pH 8.0), at 25C
+21	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	28	7.3		pH 7.3, 28C
+30.1	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	8.0		in Tris-HCl pH 8.0, at 30C
+33	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				aldolase C
+36.9	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	7.6	X	E189A mutant, pH 7.6, 22C
+40	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	7.5		pH 7.5, 30C
+42.2	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	7.6		native recombinant enzyme, pH 7.6, 22C
+45.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	30	8.0		in Tris-HCl pH 8.0, at 30C
+45.9	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				
+46	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N		7.8		at pH 7.8
+46.1	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				muscle-type enzyme
+49.3	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				recombinant muscle-type enzyme
+59.7	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				aldolase A
+64.5	D-fructose 1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N				
+0.002	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	30	7.5		in the absence of Co2+, at pH 7.5, 30C
+0.1	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	48	8.0	X	pH 8.0, 48C, mutant enzyme Y348F
+0.56	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	50	7.6		pH 7.6, 50C
+0.91	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	48	8.0		pH 8.0, 48C, wild-type enzyme
+12.6	D-glyceraldehyde 3-phosphate	139	LXJXRIRHZLFYRP-VKHMYHEASA-N	55	7.8		pH 7.8, 55C
+0.002	dihydroxyacetone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	30	7.5		in the absence of Co2+, at pH 7.5, 30C
+0.1	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	48	8.0	X	pH 8.0, 48C, mutant enzyme Y348F
+0.4	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	50	7.6		pH 7.6, 50C
+0.91	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	48	8.0		pH 8.0, 48C, wild-type enzyme
+8	glycerone phosphate	241	GNGACRATGGDKBX-UHFFFAOYSA-N	55	7.8		pH 7.8, 55C
+0.008	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	30	7.4		pH 7.4, 30C, enzyme from patients with intolerance
+0.019	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	10	7.4		pH 7.4, 10C, enzyme from patients with intolerance
+0.059	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	22		X	Q354E mutant, 22C
+0.085	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	22		X	N334K mutant, 22C
+0.12	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	10	7.4		pH 7.4, 10C, wild-type enzyme
+0.25	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	22		X	W147R mutant, 22C
+0.38	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	22		X	L256P mutant, 22C
+0.63	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	30			30C, aldolase A
+0.63	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	30			at 30C
+0.67	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	22			wild-type enzyme, 22C
+1.47	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	30		X	30C, AB_All mutant
+2	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	30	7.4		pH 7.4, 30C, wild-type enzyme
+2.8	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N				
+6.08	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	22			wild-type enzyme, 22C
+6.08	D-Fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N	30		X	30C, AB_All mutant; 30C, aldolase A; 30C, aldolase B
+0.167	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N		9.3		pH 9.3
+0.183	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N		5.5		pH 5.5
+0.267	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N		7.6		pH 7.6
+0.45	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N		5.5		pH 5.5
+0.583	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N		9.3		pH 9.3
+0.75	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N			X	mutant aldolase C Y363S
+1.05	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N		7.6		pH 7.6
+1.13	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N		5.5		pH 5.5
+1.27	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N		9.2		pH 9.2
+1.28	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N				aldolase A
+1.38	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N				muscle-type enzyme
+1.48	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N				aldolase C
+1.55	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N				recombinant muscle-type enzyme
+1.7	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N		7.6		pH 7.6
+2.67	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N				aldolase C
+3.6	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N				non-muscle-type enzyme
+3.65	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N				recombinant non-muscle-type enzyme
+10.8	fructose 1-phosphate	544	RHKKZBWRNHGJEZ-ARQDHWQXSA-N				aldolase B
+25.2	sedoheptulose 1,7-diphosphate	686	OKHXOUGRECCASI-SHUUEZRQSA-N				
+33.3	sedoheptulose 7-phosphate	1242	JDTUMPKOJBQPKX-GBNDHIKLSA-N	30	7.5		pH 7.5, 30C
+0.01	D-fructose-1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	7.8	X	mutant E169A, pH 7.8, 22C
+0.11	D-fructose-1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	7.8	X	mutant G167A/G166A, pH 7.8, 22C
+0.17	D-fructose-1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	7.8	X	mutant G167A, pH 7.8, 22C
+0.45	D-fructose-1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	7.8	X	mutant D276A, pH 7.8, 22C
+2.67	D-fructose-1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	7.8	X	mutant E168A, pH 7.8, 22C
+12	D-fructose-1,6-bisphosphate	100	RNBGYGVWRKECFJ-ARQDHWQXSA-N	22	7.8		wild-type, pH 7.8, 22C
+0.003	sedoheptulose 1,7-bisphosphate	686	OKHXOUGRECCASI-SHUUEZRQSA-N	30	7.5		in the absence of Co2+, at pH 7.5, 30C

@@ -1,0 +1,61 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.012	2-Phenylethylamine	675	BHHGXPLMPWCGHP-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y435W
+0.028	benzylamine	441	WGQKYBSKWIADBV-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y435W
+0.066	2-Phenylethylamine	675	BHHGXPLMPWCGHP-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y435H
+0.079	benzylamine	441	WGQKYBSKWIADBV-UHFFFAOYSA-N	30	7.2	X	pH 7.2, 30C, mutant enzyme C374A
+0.09	benzylamine	441	WGQKYBSKWIADBV-UHFFFAOYSA-N	30	7.2		pH 7.2, 30C, wild-type enzyme
+0.16	1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine	1751	PLRACCBDVIHHLZ-UHFFFAOYSA-N				MAO-A
+0.18	1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine	1751	PLRACCBDVIHHLZ-UHFFFAOYSA-N				
+0.185	p-nitrobenzylamine	6690	ODVBBZFQPGORMJ-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+0.23	p-nitrobenzylamine	6690	ODVBBZFQPGORMJ-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y435H
+0.241	1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine	1751	PLRACCBDVIHHLZ-UHFFFAOYSA-N	30	7.2		pH 7.2, 30C, wild-type enzyme
+0.249	dopamine	214	VYFYYTLLBUKUHU-UHFFFAOYSA-N	11			11C
+0.29	1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine	1751	PLRACCBDVIHHLZ-UHFFFAOYSA-N	30	7.2	X	pH 7.2, 30C, mutant enzyme C374A
+0.325	benzylamine	441	WGQKYBSKWIADBV-UHFFFAOYSA-N				
+0.38	p-nitrobenzylamine	6690	ODVBBZFQPGORMJ-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y435F
+0.426	serotonin	365	QZAYGJVTTNCVMB-UHFFFAOYSA-N	11			11C
+0.455	p-trifluoromethyl-benzylamine	5826	PRDBLLIPPDOICK-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y435L
+0.647	benzylamine	441	WGQKYBSKWIADBV-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y435L
+0.79	2-Phenylethylamine	675	BHHGXPLMPWCGHP-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y435L
+0.87	2-Phenylethylamine	675	BHHGXPLMPWCGHP-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y435F
+0.897	Phenylethylamine	675	BHHGXPLMPWCGHP-UHFFFAOYSA-N		7.5		pH 7.5, detergent solubilized MAO-A
+0.998	Phenylethylamine	675	BHHGXPLMPWCGHP-UHFFFAOYSA-N		7.5		pH 7.5, MAO-A incorporated into phospholipid nanodisks
+1.07	kynuramine	1270	QLPVTIQQFGWSQQ-UHFFFAOYSA-N	25	7.5	X	mutant enzyme I199A/Y326A, at 25C in 50 mM phosphate buffer (pH 7.5)
+1.08	kynuramine	1270	QLPVTIQQFGWSQQ-UHFFFAOYSA-N		7.5		pH 7.5, MAO-A incorporated into phospholipid nanodisks
+1.33	p-trifluoromethyl-benzylamine	5826	PRDBLLIPPDOICK-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y435F; pH 7.5, 25C, wild-type enzyme
+1.4	Phenylethylamine	675	BHHGXPLMPWCGHP-UHFFFAOYSA-N				
+1.47	kynuramine	1270	QLPVTIQQFGWSQQ-UHFFFAOYSA-N	25	7.5	X	mutant enzyme I199A, at 25C in 50 mM phosphate buffer (pH 7.5)
+1.481	phenethylamine	675	BHHGXPLMPWCGHP-UHFFFAOYSA-N	11			11C
+1.6	kynuramine	1270	QLPVTIQQFGWSQQ-UHFFFAOYSA-N	25	7.5		wild type isoform MAO B, at 25C in 50 mM phosphate buffer (pH 7.5)
+1.8	benzylamine	441	WGQKYBSKWIADBV-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y435F
+1.8	p-nitrophenylethylamine	4673	IOXOZOPLBFXYLM-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y435H; pH 7.5, 25C, mutant enzyme Y435L
+1.83	phenylbutylamine	5697	AGNFWIZBEATIAK-UHFFFAOYSA-N	25	7.5		wild type isoform MAO B, at 25C in 50 mM phosphate buffer (pH 7.5)
+1.83	Phenylethylamine	675	BHHGXPLMPWCGHP-UHFFFAOYSA-N	25	7.5	X	mutant enzyme I199A/Y326A, at 25C in 50 mM phosphate buffer (pH 7.5)
+1.85	p-nitrophenylethylamine	4673	IOXOZOPLBFXYLM-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+1.9	kynuramine	1270	QLPVTIQQFGWSQQ-UHFFFAOYSA-N				MAO-A
+1.9	kynuramine	1270	QLPVTIQQFGWSQQ-UHFFFAOYSA-N				
+1.99	benzylamine	441	WGQKYBSKWIADBV-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y435H
+2.05	Phenylethylamine	675	BHHGXPLMPWCGHP-UHFFFAOYSA-N	25	7.5	X	mutant enzyme I199A, at 25C in 50 mM phosphate buffer (pH 7.5)
+2.08	kynuramine	1270	QLPVTIQQFGWSQQ-UHFFFAOYSA-N				MAO-A
+2.08	kynuramine	1270	QLPVTIQQFGWSQQ-UHFFFAOYSA-N		7.5		pH 7.5, detergent solubilized MAO-A
+2.2	kynuramine	1270	QLPVTIQQFGWSQQ-UHFFFAOYSA-N	30	7.2		pH 7.2, 30C, wild-type enzyme
+2.23	p-nitrophenylethylamine	4673	IOXOZOPLBFXYLM-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y435F
+2.24	p-nitrophenylethylamine	4673	IOXOZOPLBFXYLM-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y435W
+2.25	phenylbutylamine	5697	AGNFWIZBEATIAK-UHFFFAOYSA-N	25	7.5	X	mutant enzyme I199A, at 25C in 50 mM phosphate buffer (pH 7.5)
+2.34	phenylbutylamine	5697	AGNFWIZBEATIAK-UHFFFAOYSA-N	25	7.5	X	mutant enzyme I199A/Y326A, at 25C in 50 mM phosphate buffer (pH 7.5)
+2.5	kynuramine	1270	QLPVTIQQFGWSQQ-UHFFFAOYSA-N	30	7.2	X	pH 7.2, 30C, mutant enzyme C374A
+2.5	kynuramine	1270	QLPVTIQQFGWSQQ-UHFFFAOYSA-N				
+2.5	Phenylethylamine	675	BHHGXPLMPWCGHP-UHFFFAOYSA-N	30	7.2	X	pH 7.2, 30C, mutant enzyme C374A
+2.85	p-trifluoromethyl-benzylamine	5826	PRDBLLIPPDOICK-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y435H
+2.87	Phenylethylamine	675	BHHGXPLMPWCGHP-UHFFFAOYSA-N	25	7.5		wild type isoform MAO B, at 25C in 50 mM phosphate buffer (pH 7.5)
+3.1	Phenylethylamine	675	BHHGXPLMPWCGHP-UHFFFAOYSA-N	30	7.2		pH 7.2, 30C, wild-type enzyme
+3.8	benzylamine	441	WGQKYBSKWIADBV-UHFFFAOYSA-N	25	7.5	X	mutant enzyme I199A, at 25C in 50 mM phosphate buffer (pH 7.5)
+3.82	2-Phenylethylamine	675	BHHGXPLMPWCGHP-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+5	benzylamine	441	WGQKYBSKWIADBV-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+5	benzylamine	441	WGQKYBSKWIADBV-UHFFFAOYSA-N	25	7.5		wild type isoform MAO B, at 25C in 50 mM phosphate buffer (pH 7.5)
+5.3	tyramine	243	DZGWFCGJZKJUFP-UHFFFAOYSA-N				
+6	serotonin	365	QZAYGJVTTNCVMB-UHFFFAOYSA-N				
+6.08	benzylamine	441	WGQKYBSKWIADBV-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y435L
+10	benzylamine	441	WGQKYBSKWIADBV-UHFFFAOYSA-N				recombinant MAO-B
+16	serotonin	365	QZAYGJVTTNCVMB-UHFFFAOYSA-N	30	7.2	X	pH 7.2, 30C, mutant enzyme C374A
+18.6	serotonin	365	QZAYGJVTTNCVMB-UHFFFAOYSA-N	30	7.2		pH 7.2, 30C, wild-type enzyme

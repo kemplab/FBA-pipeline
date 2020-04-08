@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.01	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.2	X	mutant enzyme S111L, at pH 7.2 and 25C
+0.025	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.2	X	mutant enzyme S111A, at pH 7.2 and 25C
+0.097	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	7.2	X	mutant enzyme R124A, at pH 7.2 and 30C
+0.171	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7.2		wild type enzyme, at pH 7.2 and 25C
+0.237	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	7.2	X	mutant enzyme H132A, at pH 7.2 and 30C; wild type enzyme, at pH 7.2 and 30C
+0.4	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	30	7.2	X	mutant enzyme R174A, at pH 7.2 and 30C
+16.8	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		8.9	X	mutant enzyme Y98F, at pH 8.9, temperature not specified in the publication
+17.9	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		8.9	X	mutant enzyme R172A, at pH 8.9, temperature not specified in the publication
+94.8	Biliverdin	1282	QBUVFDKTZJNUPP-BBROENKCSA-N		8.9		wild type enzyme, at pH 8.9, temperature not specified in the publication

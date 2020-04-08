@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+73	2-deoxy-alpha-D-ribose 1-phosphate	3253	KBDKAJNTYKVSEK-VPENINKCSA-N				presence of Mg2+, pH and temperature not specified in the publication
+73	2-deoxy-alpha-D-ribose-1-phosphate	3253	KBDKAJNTYKVSEK-VPENINKCSA-N				presence of Mg2+, pH not specified in the publication, temperature not specified in the publication
+189	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N				presence of Mg2+, pH and temperature not specified in the publication; presence of Mg2+, pH not specified in the publication, temperature not specified in the publication
+485	alpha-D-ribose 1-phosphate	607	YXJDFQJKERBOBM-TXICZTDVSA-N				presence of Mg2+, pH and temperature not specified in the publication
+485	alpha-D-ribose-1-phosphate	607	YXJDFQJKERBOBM-TXICZTDVSA-N				presence of Mg2+, pH not specified in the publication, temperature not specified in the publication
+612	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N				presence of Mg2+, pH and temperature not specified in the publication; presence of Mg2+, pH not specified in the publication, temperature not specified in the publication
+856	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N				depending on the presence of Ca2+, pH and temperature not specified in the publication
+856	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N				presence of Ca2+, pH not specified in the publication, temperature not specified in the publication

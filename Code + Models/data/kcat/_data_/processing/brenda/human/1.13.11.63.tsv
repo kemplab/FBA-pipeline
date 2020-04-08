@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.011	beta-carotene	676	OENHQHLEOONYIE-JLTXGRSLSA-N				
+0.0395	beta-carotene	676	OENHQHLEOONYIE-JLTXGRSLSA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant K108L
+0.04	beta-carotene	676	OENHQHLEOONYIE-JLTXGRSLSA-N	37	8.0	X	pH 8.0, 37C, recombinant mutant K108F
+0.046	beta-carotene	676	OENHQHLEOONYIE-JLTXGRSLSA-N	37	8.0		pH 8.0, 37C, recombinant wild-type enzyme
+7.5	beta-carotene	676	OENHQHLEOONYIE-JLTXGRSLSA-N		7.5		recombinant enzyme, pH 7.5, temperature not specified in the publication
+0.668	beta-cryptoxanthin	2755	DMASLKHVQRHNES-FKKUPVFPSA-N				

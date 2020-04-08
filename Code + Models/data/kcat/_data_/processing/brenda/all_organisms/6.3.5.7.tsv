@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.027	Asn	231	DCXYFEDJOCDNAF-REOHCLBHSA-N	37	7.2		37C, pH 7.2, amidotransferase activity
+0.04	tRNAGlu	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.2		pH 7.2, 37C
+0.052	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.2		37C, pH 7.2, cosubstrate: Glu-tRNAGln
+0.21	Glu-tRNAGln	3230	QMMQXILZUYNBHU-PYWDECGBSA-N	37	7.2		in the absence of GluRS2, in 100 mM Na-HEPES pH 7.2, 30 mM KCl, 12 mM MgCl2, at 37C; in the presence of 440fold excess of GluRS2, in 100 mM Na-HEPES pH 7.2, 30 mM KCl, 12 mM MgCl2, at 37C
+0.23	Glu-tRNAGln	3230	QMMQXILZUYNBHU-PYWDECGBSA-N	37	7.2		in the presence of equimolar amounts of GluRS2, in 100 mM Na-HEPES pH 7.2, 30 mM KCl, 12 mM MgCl2, at 37C
+0.51	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N				
+0.59	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+0.9	Glu-tRNAGln	3230	QMMQXILZUYNBHU-PYWDECGBSA-N	37			37C, pH not specified in the publication; 37C, pH not specified in the publication, in the presence of bovine serum albumin (0.002 mM)
+1.2	Glu-tRNAGln	3230	QMMQXILZUYNBHU-PYWDECGBSA-N	37			37C, pH not specified in the publication, in the presence of glutamyl-tRNA synthetase (0.002 mM)
+1.3	Asp-tRNAAsn	6412	CMSFPVKELZISOA-RVIGULEBSA-N	37	7.2		37C, pH 7.2, amidotransferase activity
+3	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.2		37C, pH 7.2, amidotransferase activity
+3.49	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.2		37C, pH 7.2, amidotransferase activity
+3.61	Asp-tRNAGln	6412	CMSFPVKELZISOA-RVIGULEBSA-N	37	7.2		37C, pH 7.2, amidotransferase activity
+6.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.2		37C, pH 7.2, amidotransferase activity
+10.29	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.2		37C, pH 7.2, cosubstrate: Glu-tRNAGln
+11.8	Gln	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	37	7.2		37C, pH 7.2, cosubstrate Asp-tRNAAsn + ATP, glutaminase activity

@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00041	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N			X	mutant C229R GlnRS, with tRNAGln
+0.0025	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N			X	mutant C229R GlnRS, with tRNAGln
+0.036	tRNAGln	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				
+0.04	tRNAGln	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				homologous tRNAGln
+0.04	tRNAGln	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				recombinant hybrid GlnRS S1/L1/L2, pH not specified in the publication, temperature not specified in the publication
+0.05	tRNAGlu	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				homologous tRNAGlu
+0.07	tRNAGln	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				tRNAGln from E. coli
+0.09	L-Glu	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				recombinant hybrid GlnRS S1/L1/L2, pH not specified in the publication, temperature not specified in the publication
+0.09	L-Glu	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				recombinant hybrid GlnRS S1/L1/L2, pH not specified in the publication, temperature not specified in the publication
+0.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				recombinant hybrid GlnRS S1/L1/L2, pH not specified in the publication, temperature not specified in the publication
+0.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				recombinant hybrid GlnRS S1/L1/L2, pH not specified in the publication, temperature not specified in the publication
+0.1	tRNAGln	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				recombinant hybrid GlnRS S1/L1/L2, pH not specified in the publication, temperature not specified in the publication
+0.1	tRNAGlu	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				

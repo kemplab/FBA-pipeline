@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+12.4	N-acetyl-D-glucosamine 1-phosphate	1096	FZLJPEPAYPUMMR-FMDGEEDCSA-N				GmlU uridyltransferase
+12.6	alpha-D-galactosamine 1-phosphate	117770	YMJBYRVFGYXULK-VFUOTHLCSA-N	80	7.5	X	pH 7.5, 80C, deletion mutant D011 of ST0452 protein
+17.9	alpha-D-galactosamine 1-phosphate	117770	YMJBYRVFGYXULK-VFUOTHLCSA-N	80	7.5	X	pH 7.5, 80C, deletion mutant D005 of ST0452 protein
+69.7	alpha-D-galactosamine 1-phosphate	117770	YMJBYRVFGYXULK-VFUOTHLCSA-N	80	7.5		pH 7.5, 80C, wild-type ST0452 protein
+82.47	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.5		pH 7.5, 25C
+82.47	alpha-D-glucosamine 1-phosphate	113780	YMJBYRVFGYXULK-QZABAPFNSA-N	25	7.5		pH 7.5, 25C
+123.2	alpha-D-glucosamine 1-phosphate	113780	YMJBYRVFGYXULK-QZABAPFNSA-N	80	7.5		pH 7.5, 80C
+123.2	alpha-D-glucosamine 1-phosphate	113780	YMJBYRVFGYXULK-QZABAPFNSA-N	80	7.5		pH 7.5, 80C, wild-type enzyme; pH 7.5, 80C, wild-type ST0452 protein
+490.6	alpha-D-glucosamine 1-phosphate	113780	YMJBYRVFGYXULK-QZABAPFNSA-N	80	7.5	X	pH 7.5, 80C, deletion mutant D005 of ST0452 protein; pH 7.5, 80C, mutant enzyme DC005 with a deletion of the C-terminal 5 residues of the ST0452 protein
+828	alpha-D-glucosamine 1-phosphate	113780	YMJBYRVFGYXULK-QZABAPFNSA-N	37	8.2		pH 8.2, 37C
+828	alpha-D-glucosamine 1-phosphate	113780	YMJBYRVFGYXULK-QZABAPFNSA-N	37	8.2		pH 8.2, 37C, recombinant His6-tagged enzyme
+853	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	8.2		pH 8.2, 37C
+853	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	37	8.2		pH 8.2, 37C, recombinant His6-tagged enzyme
+2311	alpha-D-glucosamine 1-phosphate	113780	YMJBYRVFGYXULK-QZABAPFNSA-N	80	7.5	X	pH 7.5, 80C, deletion mutant D011 of ST0452 protein; pH 7.5, 80C, mutant enzyme DC011 with a deletion of the C-terminal 11 residues of the ST0452 protein

@@ -1,0 +1,142 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0002	Ala-4-methylcoumaryl-7-amide	4692	IWSOXHMIRLSLKT-QMMMGPOBSA-N				
+0.0002	L-phenylalanine-4-methylcoumarin-7-amide	4500	UNWTXWNBQNGDDS-INIZCTEOSA-N	37	8.0		pH 8.0, 37C, recombinant GST-tagged enzyme
+0.00059	Pro-4-methylcoumaryl-7-amide	6925	HSLXTZWJAHQHHF-LBPRGKRZSA-N				
+0.00145	Phe-4-methylcoumaryl-7-amide	4500	UNWTXWNBQNGDDS-INIZCTEOSA-N				
+0.0016	L-proline-4-methylcoumarin-7-amide	6925	HSLXTZWJAHQHHF-LBPRGKRZSA-N	37	8.0		pH 8.0, 37C, recombinant GST-tagged enzyme
+0.002	L-lysine-4-methylcoumaryl-7-amide	9457	ZLBMFVYCTXDWPT-ZDUSSCGKSA-N	37	8.5		pH 8.5, 37C
+0.003	Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				Zn2+-Zn2+-enzyme form
+0.0094	L-leucine-4-methylcoumaryl-7-amide	2515	GTAAIHRZANUVJS-ZDUSSCGKSA-N	37	8.0		pH 8.0, 37C, recombinant enzyme in presence of Zn2+ and Mg2+, best ion combination at metal binding sites 1 and 2
+0.01	L-alanine-4-methylcoumaryl-7-amide	4692	IWSOXHMIRLSLKT-QMMMGPOBSA-N	37	8.5		pH 8.5, 37C
+0.01	L-Ile-4-nitroanilide	22631	NCCAUSZFESISCS-LYNSQETBSA-N	20	8		pH 8, 20C
+0.01	L-Thr-4-nitroanilide	125260	RKBKKDNSAOBTHJ-MUWHJKNJSA-N	20	8		pH 8, 20C
+0.01	L-Val-4-nitroanilide	4596	IFIZCLBWDPSXDM-JTQLQIEISA-N	20	8		pH 8, 20C
+0.02	L-Pro-4-nitroanilide	2484	JWXPYNYNEUYKOW-JTQLQIEISA-N	20	8		pH 8, 20C; pH 8, 20C
+0.02	L-Thr-4-nitroanilide	125260	RKBKKDNSAOBTHJ-MUWHJKNJSA-N	20	8		pH 8, 20C
+0.03	L-alanine-4-methylcoumarin-7-amide	4692	IWSOXHMIRLSLKT-QMMMGPOBSA-N	37	8.0		pH 8.0, 37C, recombinant GST-tagged enzyme
+0.039	Leu-4-methylcoumaryl-7-amide	2515	GTAAIHRZANUVJS-ZDUSSCGKSA-N				
+0.04	Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				Mg2+-Zn2+-enzyme form
+0.04	L-Phe-4-nitroanilide	4867	GJHIOWXZFDVUKQ-AWEZNQCLSA-N	20	8		pH 8, 20C
+0.041	L-arginine-4-methylcoumarin-7-amide	3865	ZSQPDAOJXSYJNP-LBPRGKRZSA-N	37	8.0		pH 8.0, 37C, recombinant GST-tagged enzyme
+0.05	L-Lys-4-nitroanilide	2640	VUUNELJIFNFWJC-NSHDSACASA-N	20	8		pH 8, 20C
+0.05	L-Phe-4-nitroanilide	4867	GJHIOWXZFDVUKQ-AWEZNQCLSA-N	20	8		pH 8, 20C
+0.057	L-Leu-7-amido-4-methylcoumarin	2515	GTAAIHRZANUVJS-ZDUSSCGKSA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+0.07	L-Lys-4-nitroanilide	2640	VUUNELJIFNFWJC-NSHDSACASA-N	20	8		pH 8, 20C
+0.07	L-Trp-7-amido-4-methylcoumarin	6493	GIOULHSWVNKHEW-SFHVURJKSA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+0.075	L-phenylalanine-4-methylcoumaryl-7-amide	4500	UNWTXWNBQNGDDS-INIZCTEOSA-N	37	8.5		pH 8.5, 37C
+0.085	L-methionine-4-methylcoumaryl-7-amide	2912	FHLNBHBQGFIHKH-LBPRGKRZSA-N	37	8.5		pH 8.5, 37C
+0.089	L-leucine-4-methylcoumarin-7-amide	2515	GTAAIHRZANUVJS-ZDUSSCGKSA-N	37	8.0		pH 8.0, 37C, recombinant GST-tagged enzyme
+0.09	L-Ile-7-amido-4-methylcoumarin	7616	PMWFBHPOPGXHHB-WRXSAAJRSA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+0.107	L-leucine-4-methylcoumaryl-7-amide	2515	GTAAIHRZANUVJS-ZDUSSCGKSA-N	37	8.5		pH 8.5, 37C
+0.12	L-Ala-4-nitroanilide	1401	HMNPAESPRLNEBP-LURJTMIESA-N	20	8		pH 8, 20C; pH 8, 20C
+0.1204	L-Leu-7-amido-4-methylcoumarin	2515	GTAAIHRZANUVJS-ZDUSSCGKSA-N	37	9		pH 9, 37C
+0.1395	L-Arg-7-amido-4-methylcoumarin	11901	ZSQPDAOJXSYJNP-GFCCVEGCSA-N	37	9		pH 9, 37C
+0.1584	hArg-7-amido-4-methylcoumarin	125261	JIVJGXGYAZBBMA-ZDUSSCGKSA-N	37	9		pH 9, 37C
+0.17	Leu-p-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N		8.0	X	mutant enzyme N345L, in 20 mM Tris-HCl buffer (pH 8.0) containing 1 mM NiCl2
+0.18	L-Met-4-nitroanilide	7543	PLBWRAWSHVJPTL-JTQLQIEISA-N	20	8		pH 8, 20C
+0.19	L-Ile-7-amido-4-methylcoumarin	7616	PMWFBHPOPGXHHB-WRXSAAJRSA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+0.19	L-Ile-7-amido-4-methylcoumarin	7616	PMWFBHPOPGXHHB-WRXSAAJRSA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+0.2	L-Met-4-nitroanilide	7543	PLBWRAWSHVJPTL-JTQLQIEISA-N	20	8		pH 8, 20C
+0.21	L-Trp-7-amido-4-methylcoumarin	6493	GIOULHSWVNKHEW-SFHVURJKSA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+0.22	L-Trp-7-amido-4-methylcoumarin	6493	GIOULHSWVNKHEW-SFHVURJKSA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+0.23	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	20	8		pH 8, 20C
+0.27	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	20	8		pH 8, 20C
+0.3952	Phg-7-amido-4-methylcoumarin	125262	HHBWKDRAFREPJP-KRWDZBQOSA-N	37	9		pH 9, 37C
+0.41	L-Leu-7-amido-4-methylcoumarin	2515	GTAAIHRZANUVJS-ZDUSSCGKSA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+0.5	Gly-Phe	1821	JBCLFWXMTIKCCB-VIFPVBQESA-N				Zn2+-Zn2+-enzyme form
+0.52	L-Leu-7-amido-4-methylcoumarin	2515	GTAAIHRZANUVJS-ZDUSSCGKSA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+0.63	Leu-p-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N		8.0	X	mutant enzyme N345Q, in 20 mM Tris-HCl buffer (pH 8.0) containing 1 mM NiCl2
+0.7	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				Zn2+-Zn2+-enzyme form
+1.3	L-proline-4-methylcoumaryl-7-amide	6925	HSLXTZWJAHQHHF-LBPRGKRZSA-N	37	7.0		pH 7.0, 37C
+1.5	L-valine-4-methylcoumaryl-7-amide	93671	WIGTYBCYMMYYGJ-AWEZNQCLSA-N	37	7.0		pH 7.0, 37C
+1.61	L-Ala-7-amido-4-methylcoumarin	3430	YSEVYVBZTLMRHW-VIFPVBQESA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+1.89	L-Ala-7-amido-4-methylcoumarin	3430	YSEVYVBZTLMRHW-VIFPVBQESA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+2.01	L-Ala-7-amido-4-methylcoumarin	3430	YSEVYVBZTLMRHW-VIFPVBQESA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+2.03	L-proline-4-methylcoumaryl-7-amide	6925	HSLXTZWJAHQHHF-LBPRGKRZSA-N	37	8.0		pH 8.0, 37C, recombinant GST-tagged enzyme
+2.19	L-Cys-7-amido-4-methylcoumarin	4191	RNJPXDVSTGTHAG-NSHDSACASA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+2.6	Cys-Gly	1785	ZUKPVRWZDMRIEO-VKHMYHEASA-N	25	6.9		pH 6.9, 25C
+2.72	L-Cys-7-amido-4-methylcoumarin	4191	RNJPXDVSTGTHAG-NSHDSACASA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+2.94	L-Ala-7-amido-4-methylcoumarin	3430	YSEVYVBZTLMRHW-VIFPVBQESA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+2.94	L-Ala-7-amido-4-methylcoumarin	3430	YSEVYVBZTLMRHW-VIFPVBQESA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+2.94	L-Ala-7-amido-4-methylcoumarin	3430	YSEVYVBZTLMRHW-VIFPVBQESA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+2.94	L-Cys-7-amido-4-methylcoumarin	4191	RNJPXDVSTGTHAG-NSHDSACASA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+3	L-Cys-7-amido-4-methylcoumarin	4191	RNJPXDVSTGTHAG-NSHDSACASA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+3	L-Cys-7-amido-4-methylcoumarin	4191	RNJPXDVSTGTHAG-NSHDSACASA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+3.3	L-Met-7-amido-4-methylcoumarin	2768	FOQJZUMVLRTZQB-ZDUSSCGKSA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+3.3	L-Met-7-amido-4-methylcoumarin	2768	FOQJZUMVLRTZQB-ZDUSSCGKSA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+3.34	L-Cys-7-amido-4-methylcoumarin	4191	RNJPXDVSTGTHAG-NSHDSACASA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+4.99	L-Met-7-amido-4-methylcoumarin	2768	FOQJZUMVLRTZQB-ZDUSSCGKSA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+5.08	L-Met-7-amido-4-methylcoumarin	2768	FOQJZUMVLRTZQB-ZDUSSCGKSA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+5.4	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	50	7.5		pH 7.5, 50C
+5.52	L-Met-7-amido-4-methylcoumarin	2768	FOQJZUMVLRTZQB-ZDUSSCGKSA-N	37	8.0		pH 8.0, 37C, recombinant His-tagged enzyme
+5.92	Leu-p-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N		8.0		wild type enzyme, in 20 mM Tris-HCl buffer (pH 8.0) containing 1 mM NiCl2
+8.2	L-alanine-4-methylcoumaryl-7-amide	4692	IWSOXHMIRLSLKT-QMMMGPOBSA-N	37	8.0		pH 8.0, 37C, recombinant GST-tagged enzyme
+12.1	L-arginine-4-methylcoumaryl-7-amide	3865	ZSQPDAOJXSYJNP-LBPRGKRZSA-N	37	7.0		pH 7.0, 37C
+12.47	L-Leu-7-amido-4-methylcoumarin	2515	GTAAIHRZANUVJS-ZDUSSCGKSA-N	37	7.5		native enzyme, pH 7.5, 37C
+13	Asp-Leu-Lys	22630	CJUKAWUWBZCTDQ-SRVKXCTJSA-N	37	8.5		pH 8.5, 37C, wild-type enzyme
+13.8	L-tyrosine-4-methylcoumaryl-7-amide	10247	NRGJYQDVMUOJLU-INIZCTEOSA-N	37	7.0		pH 7.0, 37C
+17	Ser-Gly	8937	BCCRXDTUTZHDEU-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+17.3	L-arginyl-7-amido-4-methylcoumarin	3865	ZSQPDAOJXSYJNP-LBPRGKRZSA-N	37	7.0		in 25 mM sodium phosphate buffer (pH 7.0) containing 1 mM dithiothreitol and 0.02% NaN3, at 37C
+19	L-Leu-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	50	7.5		pH 7.5, 50C, enzyme activated by heating at 70C
+24.61	L-phenylalanine-4-methylcoumaryl-7-amide	4500	UNWTXWNBQNGDDS-INIZCTEOSA-N	37	8.0		pH 8.0, 37C, recombinant GST-tagged enzyme
+26	Asp-Ile-Gly-Gly	22629	CYFZRVOVJOMXLC-UBJUHAIHSA-N	37	8.5		pH 8.5, 37C, wild-type enzyme
+26.4	L-leucyl-7-amido-4-methylcoumarin	2515	GTAAIHRZANUVJS-ZDUSSCGKSA-N	37	7.0		in 25 mM sodium phosphate buffer (pH 7.0) containing 1 mM dithiothreitol and 0.02% NaN3, at 37C
+30	L-Leu-Gly	1288	LESXFEZIFXFIQR-LURJTMIESA-N	37	9.2	X	mutant R431K, pH 9.2, 37C
+34.6	L-leucine-4-methylcoumaryl-7-amide	2515	GTAAIHRZANUVJS-ZDUSSCGKSA-N	37	7.0		pH 7.0, 37C
+34.84	L-Leu-7-amido-4-methylcoumarin	2515	GTAAIHRZANUVJS-ZDUSSCGKSA-N	37	7.5		recombinant enzyme, pH 7.5, 37C
+37	L-phenylalanine-4-nitroanilide	4867	GJHIOWXZFDVUKQ-AWEZNQCLSA-N	50	8.5		pH 8.5, 50C
+37.79	L-arginine-4-methylcoumaryl-7-amide	3865	ZSQPDAOJXSYJNP-LBPRGKRZSA-N	37	8.0		pH 8.0, 37C, recombinant GST-tagged enzyme
+38.7	L-alanine-4-methylcoumaryl-7-amide	4692	IWSOXHMIRLSLKT-QMMMGPOBSA-N	37	7.0		pH 7.0, 37C
+42	Ser-Gly	8937	BCCRXDTUTZHDEU-UHFFFAOYSA-N	25	8.3		pH 8.3, 25C
+45.6	glycine-4-methylcoumaryl-7-amide	5924	KYIPWSXYZXKCST-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C
+50.9	L-leucine-4-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N	50	8.5		pH 8.5, 50C
+56.66	Cys-Gly	1785	ZUKPVRWZDMRIEO-VKHMYHEASA-N	25	6.9		pH 6.9, 25C
+57	Cys-Gly	1785	ZUKPVRWZDMRIEO-VKHMYHEASA-N	25	6.9		pH 6.9, 25C
+67	Cys-Gly	1785	ZUKPVRWZDMRIEO-VKHMYHEASA-N	25	8.3		pH 8.3, 25C
+100	Cys-Gly	1785	ZUKPVRWZDMRIEO-VKHMYHEASA-N	25	7.4		pH 7.4, 25C
+108	L-Leu-Gly	1288	LESXFEZIFXFIQR-LURJTMIESA-N	37	9.2	X	mutant E429D, pH 9.2, 37C
+112	L-leucylamide	3567	FORGMRSGVSYZQR-YFKPBYRVSA-N	25	8.0		native enzyme, pH 8.0, 25C
+118	Cys-Gly	1785	ZUKPVRWZDMRIEO-VKHMYHEASA-N	25	8.3		pH 8.3, 25C
+118.3	Cys-Gly	1785	ZUKPVRWZDMRIEO-VKHMYHEASA-N	25	8.3		pH 8.3, 25C
+120	L-Leu-Gly	1288	LESXFEZIFXFIQR-LURJTMIESA-N	37	9.2		wild-type, pH 9.2, 37C
+135.8	Met-Gly	3202	QXOHLNCNYLGICT-YFKPBYRVSA-N	25	6.9		pH 6.9, 25C
+136	Met-Gly	3202	QXOHLNCNYLGICT-YFKPBYRVSA-N	25	6.9		pH 6.9, 25C
+191.7	Leu-Gly	1288	LESXFEZIFXFIQR-LURJTMIESA-N	25	6.9		pH 6.9, 25C
+192	Leu-Gly	1288	LESXFEZIFXFIQR-LURJTMIESA-N	25	6.9		pH 6.9, 25C
+198.8	L-leucine-4-methylcoumaryl-7-amide	2515	GTAAIHRZANUVJS-ZDUSSCGKSA-N	37	8.0		pH 8.0, 37C, recombinant GST-tagged enzyme
+270	Leu-Phe	2388	KFKWRHQBZQICHA-STQMWFEESA-N				Zn2+-Zn2+-enzyme form
+351	Leu-Tyr	2849	LHSGPCFBGJHPCY-STQMWFEESA-N	37	8.5		pH 8.5, 37C, wild-type enzyme
+400	Leu-Gly	1288	LESXFEZIFXFIQR-LURJTMIESA-N	25	7.4		pH 7.4, 25C
+418	Asp-His	22627	HSPSXROIMXIJQW-BQBZGAKWSA-N	37	8.5		pH 8.5, 37C, wild-type enzyme
+468	Met-Gly	3202	QXOHLNCNYLGICT-YFKPBYRVSA-N	25	7.4		pH 7.4, 25C
+486.3	Met-Gly	3202	QXOHLNCNYLGICT-YFKPBYRVSA-N	25	7.4		pH 7.4, 25C
+500	Asp-Phe	13612	YZQCXOFQZKCETR-UWVGGRQHSA-N	37	8.5		pH 8.5, 37C, wild-type enzyme
+500	Asp-Tyr	13798	NALWOULWGHTVDA-UWVGGRQHSA-N	37	8.5		pH 8.5, 37C, wild-type enzyme
+666	Asp-Leu	22071	ZVDPYSVOZFINEE-BQBZGAKWSA-N	37	8.5		pH 8.5, 37C, wild-type enzyme
+675	Leu-Gly	1288	LESXFEZIFXFIQR-LURJTMIESA-N	25	8.3		pH 8.3, 25C
+761	Asp-Gln	22628	GSMPSRPMQQDRIB-WHFBIAKZSA-N	37	8.5		pH 8.5, 37C, wild-type enzyme
+866	Glu-Leu	6322	YBAFDPFAUTYYRW-YUMQZZPRSA-N	37	8.5		pH 8.5, 37C, wild-type enzyme
+918	Leu-Leu	2047	LCPYQJIKPJDLLB-UWVGGRQHSA-N	37	8.5		pH 8.5, 37C, wild-type enzyme
+950	Asp-Leu-Gly	11168	AYFVRYXNDHBECD-YUMQZZPRSA-N	37	8.5		pH 8.5, 37C, wild-type enzyme
+988	Met-Gly	3202	QXOHLNCNYLGICT-YFKPBYRVSA-N	25	8.3		pH 8.3, 25C
+988.3	Met-Gly	3202	QXOHLNCNYLGICT-YFKPBYRVSA-N	25	8.3		pH 8.3, 25C
+1670	Leu-Gly	1288	LESXFEZIFXFIQR-LURJTMIESA-N				Mg2+-Zn2+-enzyme form
+3780	Arg-Gly-Asp	14775	IYMAXBFPHPZYIK-BQBZGAKWSA-N	37			His-tagged recombinant enzyme, 37C
+3781	Arg-Gly-Asp	14775	IYMAXBFPHPZYIK-BQBZGAKWSA-N	37			His-tagged recombinant enzyme, 37C
+5140	Gly-Leu	2580	DKEXFJVMVGETOO-LURJTMIESA-N	37			His-tagged recombinant enzyme, 37C
+5141	Gly-Leu	2580	DKEXFJVMVGETOO-LURJTMIESA-N	37			His-tagged recombinant enzyme, 37C
+6070	Arg-Gly-Phe	14776	HAVKMRGWNXMCDR-STQMWFEESA-N	37			His-tagged recombinant enzyme, 37C
+6073	Arg-Gly-Phe	14776	HAVKMRGWNXMCDR-STQMWFEESA-N	37			His-tagged recombinant enzyme, 37C
+10860	Gly-Gly	771	YMAWOPBAYDPSLA-UHFFFAOYSA-N	37			His-tagged recombinant enzyme, 37C
+10900	Gly-Gly	771	YMAWOPBAYDPSLA-UHFFFAOYSA-N	37			His-tagged recombinant enzyme, 37C
+13500	Arg-Gly	7522	XUUXCWCKKCZEAW-YFKPBYRVSA-N	37			His-tagged recombinant enzyme, 37C
+13520	Arg-Gly	7522	XUUXCWCKKCZEAW-YFKPBYRVSA-N	37			His-tagged recombinant enzyme, 37C
+13960	Leu-Gly-Gly	2848	VWHGTYCRDRBSFI-ZETCQYMHSA-N	37			His-tagged recombinant enzyme, 37C
+14000	Leu-Gly-Gly	2848	VWHGTYCRDRBSFI-ZETCQYMHSA-N	37			His-tagged recombinant enzyme, 37C
+14100	Leu-Gly	1288	LESXFEZIFXFIQR-LURJTMIESA-N	37			His-tagged recombinant enzyme, 37C
+14400	Leu-Gly	1288	LESXFEZIFXFIQR-LURJTMIESA-N	37			free recombinant enzyme, 37C
+14440	Leu-Gly	1288	LESXFEZIFXFIQR-LURJTMIESA-N	37			free recombinant enzyme, 37C
+19380	Arg-Leu	7367	WYBVBIHNJWOLCJ-IUCAKERBSA-N	37			His-tagged recombinant enzyme, 37C
+19400	Arg-Leu	7367	WYBVBIHNJWOLCJ-IUCAKERBSA-N	37			His-tagged recombinant enzyme, 37C
+34490	Leu-Leu	2047	LCPYQJIKPJDLLB-UWVGGRQHSA-N	37			His-tagged recombinant enzyme, 37C
+34500	Leu-Leu	2047	LCPYQJIKPJDLLB-UWVGGRQHSA-N	37			His-tagged recombinant enzyme, 37C

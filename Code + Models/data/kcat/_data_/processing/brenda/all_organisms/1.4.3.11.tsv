@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+27	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	30	6.0		pH 6.0, 30C, recombinant enzyme before proteolysis by metalloendopeptidase from Streptomyces griseus
+33	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	30	7.4		pH 7.4, 30C, recombinant enzyme before proteolysis by metalloendopeptidase from Streptomyces griseus
+49	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	30	6.0		pH 6.0, 30C, recombinant enzyme treated with metalloendopeptidase from Streptomyces griseus
+53.2	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				wild type enzyme, pH and temperature not specified in the publication
+75	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	30	7.4		pH 7.4, 30C, recombinant enzyme treated with metalloendopeptidase from Streptomyces griseus
+85.8	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	5.6		pH 5.6, 37C

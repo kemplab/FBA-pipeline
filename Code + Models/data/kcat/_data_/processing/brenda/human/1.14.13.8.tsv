@@ -1,0 +1,41 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.003	sulindac	1607	MLKXDPUZXIRXEP-MFOYZWKCSA-N		8.5	X	recombinant mutant N61K, pH 8.5
+0.004	Methimazole	867	PMRYVIKBURPHAH-UHFFFAOYSA-N		8.5	X	recombinant mutant N61K, pH 8.5
+0.023	thiacetazone	3462	SRVJKTDHMYAMHA-WUXMJOGZSA-N	37			9.5, 37C, FMO3
+0.034	trimethylamine	591	GETQZCLCWQTVFV-UHFFFAOYSA-N		8.5		recombinant wild-type enzyme, pH 8.5
+0.036	ethylenethiourea	7895	PDQAZBWRQCGBEV-UHFFFAOYSA-N		8.5		recombinant wild-type enzyme, pH 8.5
+0.038	Methimazole	867	PMRYVIKBURPHAH-UHFFFAOYSA-N	37			9.5, 37C, FMO1
+0.042	ethylenethiourea	7895	PDQAZBWRQCGBEV-UHFFFAOYSA-N		8.5	X	recombinant mutant K416N, pH 8.5
+0.043	Methimazole	867	PMRYVIKBURPHAH-UHFFFAOYSA-N	37			9.5, 37C, FMO3
+0.044	sulindac	1607	MLKXDPUZXIRXEP-MFOYZWKCSA-N		8.5	X	recombinant mutant E24D, pH 8.5
+0.047	Methimazole	867	PMRYVIKBURPHAH-UHFFFAOYSA-N		8.5	X	recombinant mutant K416N, pH 8.5
+0.047	sulindac	1607	MLKXDPUZXIRXEP-MFOYZWKCSA-N		8.5		recombinant wild-type enzyme, pH 8.5
+0.05	ethylenethiourea	7895	PDQAZBWRQCGBEV-UHFFFAOYSA-N		8.5	X	recombinant mutant E24D, pH 8.5
+0.051	trimethylamine	591	GETQZCLCWQTVFV-UHFFFAOYSA-N		8.5	X	recombinant mutant K416N, pH 8.5
+0.065	trimethylamine	591	GETQZCLCWQTVFV-UHFFFAOYSA-N		8.5	X	recombinant mutant E24D, pH 8.5
+0.068	sulindac	1607	MLKXDPUZXIRXEP-MFOYZWKCSA-N		8.5	X	recombinant mutant K416N, pH 8.5
+0.085	thiacetazone	3462	SRVJKTDHMYAMHA-WUXMJOGZSA-N	37			9.5, 37C, FMO1
+0.1	N-methyl-tamoxifen	1221	NKANXQFJJICGDU-QPLCGJKRSA-N				about, recombinant isozyme FMO3
+0.124	Methimazole	867	PMRYVIKBURPHAH-UHFFFAOYSA-N		8.5		recombinant wild-type enzyme, pH 8.5
+0.18	10-[(N,N-dimethylaminooctyl)-2-(trifluoromethyl)]phenothiazine	16813	ZXCSJSBPKAHXTC-UHFFFAOYSA-N	37	8.5		pH 8.5, 37C, detergent is a minimal detergent, recombinant MBP-FMO3
+0.19	10-[(N,N-dimethylaminooctyl)-2-(trifluoromethyl)]phenothiazine	16813	ZXCSJSBPKAHXTC-UHFFFAOYSA-N	37	8.5		pH 8.5, 37C, detergent is CHAPS, recombinant MBP-FMO3
+0.22	10-[(N,N-dimethylaminooctyl)-2-(trifluoromethyl)]phenothiazine	16813	ZXCSJSBPKAHXTC-UHFFFAOYSA-N	37	8.5		pH 8.5, 37C, detergent is Triton X-100, recombinant MBP-FMO3
+0.22	Methimazole	867	PMRYVIKBURPHAH-UHFFFAOYSA-N		8.5	X	recombinant mutant E24D, pH 8.5
+0.33	N-methyl-tamoxifen	1221	NKANXQFJJICGDU-QPLCGJKRSA-N				about, recombinant isozyme FMO1
+0.525	Methimazole	867	PMRYVIKBURPHAH-UHFFFAOYSA-N	37			9.5, 37C, FMO2.1
+0.55	10-[(N,N-dimethylaminooctyl)-2-(trifluoromethyl)]phenothiazine	16813	ZXCSJSBPKAHXTC-UHFFFAOYSA-N	37	8.5		pH 8.5, 37C, detergent is a minimal detergent, commercial recombinant FMO3
+0.67	10-[(N,N-dimethylaminooctyl)-2-(trifluoromethyl)]phenothiazine	16813	ZXCSJSBPKAHXTC-UHFFFAOYSA-N	37	8.5		pH 8.5, 37C, detergent is CHAPS, commercial recombinant FMO3
+0.72	10-[(N,N-dimethylaminooctyl)-2-(trifluoromethyl)]phenothiazine	16813	ZXCSJSBPKAHXTC-UHFFFAOYSA-N	37	8.5		pH 8.5, 37C, detergent is Triton X-100, commercial recombinant FMO3
+0.805	Ethionamide	1588	AEOCXXJPGCBFJA-UHFFFAOYSA-N	37	9.5		37C, isozyme FMO2; isozyme FMO2, at pH 9.5 and 37C
+0.973	Ethionamide	1588	AEOCXXJPGCBFJA-UHFFFAOYSA-N	37			37C, isozyme FMO3
+1.02	tamoxifen	1221	NKANXQFJJICGDU-QPLCGJKRSA-N	37	8.5		pH 8.5, 37C, recombinant wild-type isozyme FMO3
+1.335	thiacetazone	3462	SRVJKTDHMYAMHA-WUXMJOGZSA-N	37			9.5, 37C, FMO2.1
+1.5	Ethionamide	1588	AEOCXXJPGCBFJA-UHFFFAOYSA-N	37	9.5		37C, isozyme FMO1; isozyme FMO1, at pH 9.5 and 37C
+1.7	tamoxifen	1221	NKANXQFJJICGDU-QPLCGJKRSA-N	37	8.5	X	pH 8.5, 37C, recombinant mutant isozyme FMO3 E158K
+3.18	tamoxifen	1221	NKANXQFJJICGDU-QPLCGJKRSA-N	37	8.5		pH 8.5, 37C, recombinant isozyme FMO1
+10	methyl p-tolyl sulfide	2505	VHILIAIEEYLJNA-UHFFFAOYSA-N	37	9.0	X	pH 9.0, 37C, mutant S195L
+15.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	9.0	X	pH 9.0, 37C, mutant S195L
+23.6	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	9.0		pH 9.0, 37C, wild-type FMO2.1
+42.3	methyl p-tolyl sulfide	2505	VHILIAIEEYLJNA-UHFFFAOYSA-N	37	9.0		pH 9.0, 37C, wild-type FMO2.1
+71.1	methyl p-tolyl sulfide	2505	VHILIAIEEYLJNA-UHFFFAOYSA-N	37	9.0	X	pH 9.0, 37C, mutant N413K
+94.4	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	37	9.0	X	pH 9.0, 37C, mutant N413K

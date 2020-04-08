@@ -1,0 +1,39 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.24	daidzein-7-malonyl-beta-D-glucopyranoside	23150	CAGQTSQIFMPNLH-JCTDHXFVSA-N	37	6.5		37C, pH 6.5
+0.29	4-nitrophenyl beta-L-arabinopyranoside	8547	MLJYKRYCCUGBBV-UKKRHICBSA-N				recombinant wild-type enzyme
+0.3	quercetin-3,4'-di-beta-D-glucopyranoside	15128	RPVIQWDFJPYNJM-DEFKTLOSSA-N	37	6.5		37C, pH 6.5
+0.6	quercetin-7-O-beta-D-glucoside	8467	BBFYUPYFXSSMNV-HMGRVEAOSA-N				recombinant wild-type enzyme
+0.66	p-nitrophenyl-beta-L-arabinopyranoside	8547	MLJYKRYCCUGBBV-UKKRHICBSA-N	37	6.5		37C, pH 6.5
+0.69	quercetin-7-beta-D-glucopyranoside	8467	BBFYUPYFXSSMNV-HMGRVEAOSA-N	50	6.5		50C, pH 6.5
+0.69	quercetin-7-beta-D-glucopyranoside	8467	BBFYUPYFXSSMNV-HMGRVEAOSA-N	37	6.5		37C, pH 6.5
+0.73	eriodictyol-7-glucoside	11686	RAFHNDRXYHOLSH-SFTVRKLSSA-N				recombinant wild-type enzyme
+0.75	p-nitrophenyl-beta-D-xylopyranoside	582	MLJYKRYCCUGBBV-YTWAJWBKSA-N	37	6.5		37C, pH 6.5
+0.77	apigenin-7-O-beta-D-glucoside	8515	KMOUJOKENFFTPU-QNDFHXLGSA-N				recombinant wild-type enzyme
+1.08	quercetin-4'-beta-D-glucopyranoside	9046	OIUBYZLTFSLSBY-HMGRVEAOSA-N	50	6.5		50C, pH 6.5
+1.08	quercetin-4'-beta-D-glucopyranoside	9046	OIUBYZLTFSLSBY-HMGRVEAOSA-N	37	6.5		37C, pH 6.5
+1.17	luteolin-4'-beta-D-glucopyranoside	11685	UHNXUSWGOJMEFO-QNDFHXLGSA-N	50	6.5		50C, pH 6.5
+1.17	luteolin-4'-beta-D-glucopyranoside	11685	UHNXUSWGOJMEFO-QNDFHXLGSA-N	37	6.5		37C, pH 6.5
+1.26	eriodictyol-7-beta-D-glucopyranoside	11686	RAFHNDRXYHOLSH-SFTVRKLSSA-N	50	6.5		50C, pH 6.5
+1.26	eriodictyol-7-beta-D-glucopyranoside	11686	RAFHNDRXYHOLSH-SFTVRKLSSA-N	37	6.5		37C, pH 6.5
+1.4	naringenin-7-glucoside	6280	DLIKSSGEMUFQOK-SFTVRKLSSA-N				recombinant wild-type enzyme
+1.5	quercetin-4'-O-beta-D-glucoside	9046	OIUBYZLTFSLSBY-HMGRVEAOSA-N				recombinant wild-type enzyme
+1.53	apigenin-7-beta-D-glucopyranoside	8515	KMOUJOKENFFTPU-QNDFHXLGSA-N	37	6.5		37C, pH 6.5
+1.53	genistein-7-beta-D-glucopyranoside	3383	ZCOLJUOHXJRHDI-CMWLGVBASA-N	37	6.5		37C, pH 6.5
+1.88	4-nitrophenyl-alpha-L-arabino-pyranoside	4624	MLJYKRYCCUGBBV-MMWGEVLESA-N				recombinant wild-type enzyme
+2.6	naringenin-7-beta-D-glucopyranoside	6280	DLIKSSGEMUFQOK-SFTVRKLSSA-N	50	6.5		50C, pH 6.5
+2.6	naringenin-7-beta-D-glucopyranoside	6280	DLIKSSGEMUFQOK-SFTVRKLSSA-N	37	6.5		37C, pH 6.5
+3.05	luteolin-7-beta-D-glucopyranoside	2587	PEFNSGRTCBGNAN-QNDFHXLGSA-N	50	6.5		50C, pH 6.5
+3.05	luteolin-7-beta-D-glucopyranoside	2587	PEFNSGRTCBGNAN-QNDFHXLGSA-N	37	6.5		37C, pH 6.5
+3.12	4-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N				recombinant wild-type enzyme
+3.13	4-nitrophenyl-beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N				recombinant wild-type enzyme
+3.55	daidzein-7-beta-D-glucopyranoside	3054	KYQZWONCHDNPDP-QNDFHXLGSA-N	37	6.5		37C, pH 6.5
+3.55	daidzein 7-O-beta-D-glucopyranoside	3054	KYQZWONCHDNPDP-QNDFHXLGSA-N	50	6.5		50C, pH 6.5
+5.53	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N				recombinant wild-type enzyme
+5.97	p-nitrophenyl-alpha-L-arabinopyranoside	4624	MLJYKRYCCUGBBV-MMWGEVLESA-N	37	6.5		37C, pH 6.5
+6	p-nitrophenyl-beta-D-arabinopyranoside	23149	MLJYKRYCCUGBBV-ZNSHCXBVSA-N	50	6.5		50C, pH 6.5
+10.7	p-nitrophenyl-beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	50	6.5		50C, pH 6.5
+10.7	p-nitrophenyl-beta-D-fucopyranoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N	37	6.5		37C, pH 6.5
+12.1	p-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	50	6.5		50C, pH 6.5
+12.1	p-nitrophenyl-beta-D-glucopyranoside	210	IFBHRQDFSNCLOZ-RMPHRYRLSA-N	37	6.5		37C, pH 6.5
+17.6	p-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	50	6.5		50C, pH 6.5
+17.6	p-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	37	6.5		37C, pH 6.5

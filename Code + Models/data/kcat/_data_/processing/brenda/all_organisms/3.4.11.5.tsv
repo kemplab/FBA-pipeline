@@ -1,0 +1,37 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.03	Pro-2-naphthylamide	2316	IEZATIIUZVDELT-AWEZNQCLSA-N			X	C271A mutant enzyme
+0.35	Pro-2-naphthylamide	2316	IEZATIIUZVDELT-AWEZNQCLSA-N			X	F236A mutant enzyme
+0.63	Pro-2-naphthylamide	2316	IEZATIIUZVDELT-AWEZNQCLSA-N			X	Y149A mutant enzyme
+0.69	Pro-2-naphthylamide	2316	IEZATIIUZVDELT-AWEZNQCLSA-N			X	F139A mutant enzyme
+7.09	Pro-2-naphthylamide	2316	IEZATIIUZVDELT-AWEZNQCLSA-N			X	C271A mutant enzyme
+9.7	Pro-2-naphthylamide	2316	IEZATIIUZVDELT-AWEZNQCLSA-N				wild type enzyme
+160	Pro-p-nitroanilide	2484	JWXPYNYNEUYKOW-JTQLQIEISA-N				
+2	Ala-p-nitroanilide	2879	PXFUDSMGEYRNNC-LURJTMIESA-N				
+0.04	proline beta-naphthylamide	2316	IEZATIIUZVDELT-AWEZNQCLSA-N	37	8.0	X	pH 8.0, 37C, mutant R136A
+0.052	proline beta-naphthylamide	2316	IEZATIIUZVDELT-AWEZNQCLSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+0.08	proline beta-naphthylamide	2316	IEZATIIUZVDELT-AWEZNQCLSA-N	37	8.0	X	pH 8.0, 37C, mutant E204Q
+0.41	proline beta-naphthylamide	2316	IEZATIIUZVDELT-AWEZNQCLSA-N	37	8.0	X	pH 8.0, 37C, mutant F139A
+1.4	proline beta-naphthylamide	2316	IEZATIIUZVDELT-AWEZNQCLSA-N	37	8.0	X	pH 8.0, 37C, mutant Y149A
+8.87	proline beta-naphthylamide	2316	IEZATIIUZVDELT-AWEZNQCLSA-N	37	8.0	X	pH 8.0, 37C, mutant R136A
+9.81	proline beta-naphthylamide	2316	IEZATIIUZVDELT-AWEZNQCLSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+0.017	L-hydroxyproline-2-naphthylamide	5575	UMRWTEZJJVRPMX-KBPBESRZSA-N			X	F236A mutant enzyme
+0.063	L-hydroxyproline-2-naphthylamide	5575	UMRWTEZJJVRPMX-KBPBESRZSA-N			X	F139A mutant enzyme
+0.12	L-hydroxyproline-2-naphthylamide	5575	UMRWTEZJJVRPMX-KBPBESRZSA-N			X	Y149A mutant enzyme
+1.79	L-hydroxyproline-2-naphthylamide	5575	UMRWTEZJJVRPMX-KBPBESRZSA-N			X	C271A mutant enzyme
+3.9	L-hydroxyproline-2-naphthylamide	5575	UMRWTEZJJVRPMX-KBPBESRZSA-N				wild type enzyme
+16.8	L-Pro-L-Ala	4461	FELJDCNGZFDUNR-WDSKDSINSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+7.8	Gly-p-nitroanilide	6324	VEIDVZZQEIQKKI-UHFFFAOYSA-N				
+0.88	4-acetyloxyproline-2-naphthylamide	6618	WWVRNJPJCLODMS-LYKKTTPLSA-N			X	Y149A mutant enzyme
+3.13	4-acetyloxyproline-2-naphthylamide	6618	WWVRNJPJCLODMS-LYKKTTPLSA-N			X	F236A mutant enzyme
+3.52	4-acetyloxyproline-2-naphthylamide	6618	WWVRNJPJCLODMS-LYKKTTPLSA-N			X	F236A mutant enzyme
+4.93	4-acetyloxyproline-2-naphthylamide	6618	WWVRNJPJCLODMS-LYKKTTPLSA-N			X	C271A mutant enzyme
+5.85	4-acetyloxyproline-2-naphthylamide	6618	WWVRNJPJCLODMS-LYKKTTPLSA-N			X	F139A mutant enzyme
+84.1	4-acetyloxyproline-2-naphthylamide	6618	WWVRNJPJCLODMS-LYKKTTPLSA-N				wild type enzyme
+218.1	proline-4-nitroanilide	2484	JWXPYNYNEUYKOW-JTQLQIEISA-N				
+6.5	His-p-nitroanilide	23717	BCUATUQRWYXUCA-NSHDSACASA-N				
+213.7	L-proline-7-amido-4-methylcoumarin	6925	HSLXTZWJAHQHHF-LBPRGKRZSA-N				
+26	Pro-para-nitroanilide	2484	JWXPYNYNEUYKOW-JTQLQIEISA-N				
+340	Leu-para-nitroanilide	649	AXZJHDNQDSVIDR-NSHDSACASA-N				
+12.3	Val-para-nitroanilide	4596	IFIZCLBWDPSXDM-JTQLQIEISA-N				
+26.2	Lys-para-nitroanilide	2640	VUUNELJIFNFWJC-NSHDSACASA-N				
+81.1	Ala-para-nitroanilide	2879	PXFUDSMGEYRNNC-LURJTMIESA-N				

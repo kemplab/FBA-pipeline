@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+11.2	L-alpha-glycerophosphate	2845	AWUCVROLDVIAJX-VKHMYHEASA-N	5	7.0	X	10 microM enzyme and 0.77 mM O2, substrate concentration ranges between 2.5 and 50 mM, pH 7.0, 5C, recombinant deletion mutant
+14.1	L-alpha-glycerophosphate	2845	AWUCVROLDVIAJX-VKHMYHEASA-N	5	7.0		10 microM enzyme and 0.77 mM O2, substrate concentration ranges between 2.5 and 50 mM, pH 7.0, 5C, wild-type enzyme, nicked
+17.9	L-alpha-glycerophosphate	2845	AWUCVROLDVIAJX-VKHMYHEASA-N	5	7.0		10 microM enzyme and 0.77 mM O2, substrate concentration ranges between 2.5 and 50 mM, pH 7.0, 5C, wild-type enzyme, intact
+23.8	L-glycerophosphate	2845	AWUCVROLDVIAJX-VKHMYHEASA-N				strain ATCC 12755

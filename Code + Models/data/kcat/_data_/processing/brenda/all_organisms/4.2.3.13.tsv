@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.04	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.5		pH 7.5, 30C
+0.033	2-trans,6-trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7		fusion protein composed of the pXC1-encoded protein and the histidine leader peptide derived from pET28, pH 7, 30C
+0.01	(2E,6Z)-farnesyl diphosphate	4313	VWFJDQUYCIWHTN-GNESMGCMSA-N				wild-type protein
+0.012	(2E,6Z)-farnesyl diphosphate	4313	VWFJDQUYCIWHTN-GNESMGCMSA-N			X	D308A mutant protein
+0.014	(2E,6Z)-farnesyl diphosphate	4313	VWFJDQUYCIWHTN-GNESMGCMSA-N			X	D452A mutant protein
+0.043	(2E,6Z)-farnesyl diphosphate	4313	VWFJDQUYCIWHTN-GNESMGCMSA-N			X	D451A mutant protein

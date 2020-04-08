@@ -1,0 +1,62 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000001	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N		7.5	X	pH 7.5, K133Q/T161K mutant
+0.0000046	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.5	X	pH 7.5, K133Q/T161K mutant
+0.00029	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N		7.5	X	mutant enzyme S184D, in 100 mM HEPES, pH 7.5
+0.0026	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N		7.5	X	mutant enzyme S184L, in 100 mM HEPES, pH 7.5
+0.0063	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N		7.5		wild type enzyme, in 100 mM HEPES, pH 7.5
+0.0121	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N		7.5		pH 7.5, wild-type
+0.016	D-2-dehydro-deoxygluconate	2426	JMZFHBIADDYOTC-MBMOQRBOSA-N	25	7.5		wild-type enzyme, pH 7.5, 25C
+0.019	2-dehydro-3-deoxy-D-gluconate	886	WPAMZTWLKIDIOP-WVZVXSGGSA-N		7.5		wild type enzyme, in 100 mM HEPES, pH 7.5
+0.02	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	23	7.5	X	mutant enzyme T161V, in 20 mM HEPES, pH 7.5, at 23C
+0.021	D-2-dehydro-deoxygluconate	2426	JMZFHBIADDYOTC-MBMOQRBOSA-N	25	7.5		KA3-L1 variant, pH 7.5, 25C
+0.0333	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N				
+0.04	2-dehydro-3-deoxy-D-gluconate	886	WPAMZTWLKIDIOP-WVZVXSGGSA-N		7.5	X	mutant enzyme S184A, in 100 mM HEPES, pH 7.5
+0.08	2-dehydro-3-deoxy-D-gluconate	886	WPAMZTWLKIDIOP-WVZVXSGGSA-N		7.5	X	mutant enzyme S184L, in 100 mM HEPES, pH 7.5
+0.1	D-2-dehydro-deoxygluconate	2426	JMZFHBIADDYOTC-MBMOQRBOSA-N	25	7.5		KA1-1 variant, pH 7.5, 25C
+0.11	2-dehydro-3-deoxy-D-gluconate	886	WPAMZTWLKIDIOP-WVZVXSGGSA-N		7.5	X	mutant enzyme S184D, in 100 mM HEPES, pH 7.5
+0.11	D-2-dehydro-deoxygluconate	2426	JMZFHBIADDYOTC-MBMOQRBOSA-N	25	7.5		KA1-4 variant, pH 7.5, 25C
+0.13	D-2-dehydro-deoxygluconate	2426	JMZFHBIADDYOTC-MBMOQRBOSA-N	25	7.5		KA1-3 variant, pH 7.5, 25C
+0.16	D-2-dehydro-deoxygluconate	2426	JMZFHBIADDYOTC-MBMOQRBOSA-N	25	7.5		KA1-2 variant, pH 7.5, 25C
+0.43	D-2-dehydro-deoxygluconate	2426	JMZFHBIADDYOTC-MBMOQRBOSA-N	25	7.5		KA3-L2 variant, pH 7.5, 25C
+0.58	D-2-dehydro-deoxygluconate	2426	JMZFHBIADDYOTC-MBMOQRBOSA-N	25	7.5		KA2 variant, pH 7.5, 25C
+1.09	D-2-dehydro-deoxygluconate	2426	JMZFHBIADDYOTC-MBMOQRBOSA-N	25	7.5		KA3 variant, pH 7.5, 25C
+1.5	4-hydroxy-2-oxooctonate	5850	QDXJQNIRIVKJCB-UHFFFAOYSA-N	25	7.5	X	mutant S184F, pH 7.5, 25C
+1.7	4-hydroxy-2-oxooctonate	5850	QDXJQNIRIVKJCB-UHFFFAOYSA-N	25	7.5	X	mutant T161S, pH 7.5, 25C
+1.8	2-dehydro-4-hydroxyoctonate	5850	QDXJQNIRIVKJCB-UHFFFAOYSA-N		7.5	X	mutant enzyme S184D, in 100 mM HEPES, pH 7.5
+2	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	40	7.5		pH 7.5, 40C
+2	2-dehydro-4-hydroxyoctonate	5850	QDXJQNIRIVKJCB-UHFFFAOYSA-N		7.5		wild type enzyme, in 100 mM HEPES, pH 7.5
+2	4-hydroxy-2-oxooctonate	5850	QDXJQNIRIVKJCB-UHFFFAOYSA-N	25	7.5		wild-type, pH 7.5, 25C
+2.5	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	25	7.5		KA3 variant, pH 7.5, 25C
+2.6	2-dehydro-4-hydroxyoctonate	5850	QDXJQNIRIVKJCB-UHFFFAOYSA-N		7.5	X	mutant enzyme S184A, in 100 mM HEPES, pH 7.5
+2.9	2-dehydro-4-hydroxyoctonate	5850	QDXJQNIRIVKJCB-UHFFFAOYSA-N		7.5	X	mutant enzyme S184L, in 100 mM HEPES, pH 7.5
+3.1	4-hydroxy-2-oxooctonate	5850	QDXJQNIRIVKJCB-UHFFFAOYSA-N	25	7.5	X	mutant T161S/S18L, pH 7.5, 25C
+3.2	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N		7.5	X	mutant enzyme S184D, in 100 mM HEPES, pH 7.5
+3.9	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	70	7.5		pH 7.5, 70C
+6	2-dehydro-4-hydroxy-4-(2'-pyridyl)butyrate	5851	YXOIHNBAFCXQBU-ZETCQYMHSA-N		7.5	X	mutant enzyme S184D, in 100 mM HEPES, pH 7.5
+6.08	D-2-dehydro-deoxygluconate	2426	JMZFHBIADDYOTC-MBMOQRBOSA-N	25	7.5		KA2 variant, pH 7.5, 25C; KA3 variant, pH 7.5, 25C
+7.8	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	25	7.5		KA3-L1 variant, pH 7.5, 25C
+9.8	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	23	7.5	X	mutant enzyme T161A, in 20 mM HEPES, pH 7.5, at 23C
+11	2-dehydro-4-hydroxy-4-(2'-pyridyl)butyrate	5851	YXOIHNBAFCXQBU-ZETCQYMHSA-N		7.5		wild type enzyme, in 100 mM HEPES, pH 7.5
+11	(4S)-2-oxo-4-hydroxy-4-(2'-pyridyl)butanoate	5851	YXOIHNBAFCXQBU-ZETCQYMHSA-N	25	7.5		wild-type, pH 7.5, 25C
+11.2	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	25	7.5		KA3-L2 variant, pH 7.5, 25C
+19	(4S)-2-oxo-4-hydroxy-4-(2'-pyridyl)butanoate	5851	YXOIHNBAFCXQBU-ZETCQYMHSA-N	25	7.5	X	mutant S184F, pH 7.5, 25C
+27	2-dehydro-3-deoxy-6-phospho-D-gluconate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	25	7.5	X	mutant T161S, pH 7.5, 25C
+27	2-dehydro-4-hydroxy-4-(2'-pyridyl)butyrate	5851	YXOIHNBAFCXQBU-ZETCQYMHSA-N		7.5	X	mutant enzyme S184A, in 100 mM HEPES, pH 7.5
+31	2-dehydro-3-deoxy-6-phospho-D-gluconate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	25	7.5	X	mutant T161S/S184F, pH 7.5, 25C
+40	2-dehydro-3-deoxy-6-phospho-D-gluconate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	25	7.5	X	mutant S184F, pH 7.5, 25C
+40	2-dehydro-4-hydroxy-4-(2'-pyridyl)butyrate	5851	YXOIHNBAFCXQBU-ZETCQYMHSA-N		7.5	X	mutant enzyme S184L, in 100 mM HEPES, pH 7.5
+41	2-dehydro-3-deoxy-6-phospho-D-gluconate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	25	7.5	X	mutant T161S/S18L, pH 7.5, 25C
+52	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	25	7.5		KA2 variant, pH 7.5, 25C
+74	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N		7.5	X	mutant enzyme S184L, in 100 mM HEPES, pH 7.5
+80	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	23	7.5		wild type enzyme, in 20 mM HEPES, pH 7.5, at 23C
+80	2-keto-3-deoxy-6-phosphogluconate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N				
+83	2-dehydro-3-deoxy-6-phospho-D-gluconate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	25	7.5		wild-type, pH 7.5, 25C
+83	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N		7.5		wild type enzyme, in 100 mM HEPES, pH 7.5
+93	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	25	7.5		KA1-2 variant, pH 7.5, 25C
+97	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N		7.5	X	mutant enzyme S184A, in 100 mM HEPES, pH 7.5
+108	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	25	7.5		KA1-3 variant, pH 7.5, 25C
+175	(4S)-2-oxo-4-hydroxy-4-(2'-pyridyl)butanoate	5851	YXOIHNBAFCXQBU-ZETCQYMHSA-N	25	7.5	X	mutant T161S, pH 7.5, 25C
+212	(4S)-2-oxo-4-hydroxy-4-(2'-pyridyl)butanoate	5851	YXOIHNBAFCXQBU-ZETCQYMHSA-N	25	7.5	X	mutant T161S/S184F, pH 7.5, 25C
+240	(4S)-2-oxo-4-hydroxy-4-(2'-pyridyl)butanoate	5851	YXOIHNBAFCXQBU-ZETCQYMHSA-N	25	7.5	X	mutant T161S/S18L, pH 7.5, 25C
+284	2-dehydro-3-deoxy-D-gluconate 6-phosphate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N	25	7.5		wild-type enzyme, pH 7.5, 25C
+533	6-phospho-2-dehydro-3-deoxy-D-gluconate	1121	OVPRPPOVAXRCED-WVZVXSGGSA-N				

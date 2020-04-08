@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2340	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N				Ape1, 3'-phosphodiesterase activity
+16440	DNA	255	QZVZHIJSENQAFE-HMROIVQHSA-N			X	Ape mutant D70A, 3'-phosphodiesterase activity
+0.0007	DNA containing an abasic site	2646	IEVAIPYHJJRLNO-KTHOVBHSSA-N		7.5	X	pH 7.5, mutant enzyme Y171A, high salt concentration (150 mM NaCl)
+0.0008	DNA containing an abasic site	2646	IEVAIPYHJJRLNO-KTHOVBHSSA-N		7.5	X	pH 7.5, mutant enzyme Y171A, low salt concentration (82 mM NaCl)
+0.0009	DNA containing an abasic site	2646	IEVAIPYHJJRLNO-KTHOVBHSSA-N		7.5	X	pH 7.5, mutant enzyme Y171F, low salt concentration (82 mM NaCl)
+0.2	DNA containing an abasic site	2646	IEVAIPYHJJRLNO-KTHOVBHSSA-N		7.5	X	pH 7.5, mutant enzyme Y128A, high salt concentration (150 mM NaCl)
+0.3	DNA containing an abasic site	2646	IEVAIPYHJJRLNO-KTHOVBHSSA-N		7.5	X	pH 7.5, mutant enzyme Y269A, high salt concentration (150 mM NaCl)
+0.5	DNA containing an abasic site	2646	IEVAIPYHJJRLNO-KTHOVBHSSA-N		7.5	X	pH 7.5, mutant enzyme Y128A, low salt concentration (82 mM NaCl)
+1.3	DNA containing an abasic site	2646	IEVAIPYHJJRLNO-KTHOVBHSSA-N		7.5	X	pH 7.5, mutant enzyme Y269A, low salt concentration (82 mM NaCl)
+1.6	DNA containing an abasic site	2646	IEVAIPYHJJRLNO-KTHOVBHSSA-N		7.5		pH 7.5, wild-type enzyme, high salt concentration (150 mM NaCl)
+10	DNA containing an abasic site	2646	IEVAIPYHJJRLNO-KTHOVBHSSA-N		7.5		pH 7.5, wild-type enzyme, low salt concentration (82 mM NaCl)
+2.3	2-deoxyribonolactone	11152	YIXDEYPPAGPYDP-IUYQGCFVSA-N		7.6		pH 7.6, room temperature

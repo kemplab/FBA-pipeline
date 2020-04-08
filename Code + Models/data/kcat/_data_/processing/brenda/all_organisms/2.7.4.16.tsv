@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.006	thiamine phosphate	3180	HZSAJDVWZRBGIF-UHFFFAOYSA-O	100	7.0	X	pH 7.0, 100C, recombinant His-tagged mutant S196A
+0.063	thiamine phosphate	3180	HZSAJDVWZRBGIF-UHFFFAOYSA-O	100	7.0		pH 7.0, 100C, recombinant His-tagged wild-type enzyme
+0.092	thiamine phosphate	3180	HZSAJDVWZRBGIF-UHFFFAOYSA-O	100	7.0	X	pH 7.0, 100C, recombinant His-tagged mutant R136M

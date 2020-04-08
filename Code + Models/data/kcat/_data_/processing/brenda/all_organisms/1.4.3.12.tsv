@@ -1,0 +1,19 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+4.77	Cyclohexylamine	1382	PAFZNILMFXTMIY-UHFFFAOYSA-N	30	6.5	X	mutant enzyme L199A, at pH 6.5 and 30C
+8.52	Cyclohexylamine	1382	PAFZNILMFXTMIY-UHFFFAOYSA-N	30	6.5	X	mutant enzyme Y321A, at pH 6.5 and 30C
+10.93	Cyclohexylamine	1382	PAFZNILMFXTMIY-UHFFFAOYSA-N	30	6.5	X	mutant enzyme Y321F, at pH 6.5 and 30C
+11.48	Cyclohexylamine	1382	PAFZNILMFXTMIY-UHFFFAOYSA-N	30	6.5		wild type enzyme, at pH 6.5 and 30C
+15.25	Cyclohexylamine	1382	PAFZNILMFXTMIY-UHFFFAOYSA-N	30	6.5	X	mutant enzyme L353M, at pH 6.5 and 30C
+16.33	Cyclohexylamine	1382	PAFZNILMFXTMIY-UHFFFAOYSA-N	30	6.5	X	mutant enzyme M226A, at pH 6.5 and 30C
+2.96	(S)-1-aminotetraline	109194	JRZGPXSSNPTNMA-UHFFFAOYSA-N	30	6.5	X	mutant enzyme Y321A, at pH 6.5 and 30C
+3.32	(S)-1-aminotetraline	109194	JRZGPXSSNPTNMA-UHFFFAOYSA-N	30	6.5	X	mutant enzyme Y321F, at pH 6.5 and 30C
+5.72	(S)-1-aminotetraline	109194	JRZGPXSSNPTNMA-UHFFFAOYSA-N	30	6.5		wild type enzyme, at pH 6.5 and 30C
+7.14	(S)-1-aminotetraline	109194	JRZGPXSSNPTNMA-UHFFFAOYSA-N	30	6.5	X	mutant enzyme L199A, at pH 6.5 and 30C
+8.54	(S)-1-aminotetraline	109194	JRZGPXSSNPTNMA-UHFFFAOYSA-N	30	6.5	X	mutant enzyme M226A, at pH 6.5 and 30C
+10.62	(S)-1-aminotetraline	109194	JRZGPXSSNPTNMA-UHFFFAOYSA-N	30	6.5	X	mutant enzyme L353M, at pH 6.5 and 30C
+3.03	cyclooctanamine	4008	HSOHBWMXECKEKV-UHFFFAOYSA-N	30	6.5		wild type enzyme, at pH 6.5 and 30C
+3.44	cyclooctanamine	4008	HSOHBWMXECKEKV-UHFFFAOYSA-N	30	6.5	X	mutant enzyme Y321A, at pH 6.5 and 30C
+3.79	cyclooctanamine	4008	HSOHBWMXECKEKV-UHFFFAOYSA-N	30	6.5	X	mutant enzyme Y321F, at pH 6.5 and 30C
+6.62	cyclooctanamine	4008	HSOHBWMXECKEKV-UHFFFAOYSA-N	30	6.5	X	mutant enzyme L199A, at pH 6.5 and 30C
+7.06	cyclooctanamine	4008	HSOHBWMXECKEKV-UHFFFAOYSA-N	30	6.5	X	mutant enzyme M226A, at pH 6.5 and 30C
+7.68	cyclooctanamine	4008	HSOHBWMXECKEKV-UHFFFAOYSA-N	30	6.5	X	mutant enzyme L353M, at pH 6.5 and 30C

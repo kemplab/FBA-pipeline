@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.032	(2-amino-4-hydroxy-7,8-dihydropteridin-6-yl)methyl diphosphate	3235	FCQGJGLSOWZZON-UHFFFAOYSA-N			X	mutant DELTA74-80
+0.035	(2-amino-4-hydroxy-7,8-dihydropteridin-6-yl)methyl diphosphate	3235	FCQGJGLSOWZZON-UHFFFAOYSA-N			X	mutant DELTA257-306
+0.0578	dapson	2628	MQJKPEGWNLWLTK-UHFFFAOYSA-N				in absence of 4-aminobenzoate
+0.068	(2-amino-4-hydroxy-7,8-dihydropteridin-6-yl)methyl diphosphate	3235	FCQGJGLSOWZZON-UHFFFAOYSA-N			X	mutant DELTA247-306
+0.069	(2-amino-4-hydroxy-7,8-dihydropteridin-6-yl)methyl diphosphate	3235	FCQGJGLSOWZZON-UHFFFAOYSA-N				wild type
+0.079	sulfamethizole	25787	VACCAVUAMIDAGB-UHFFFAOYSA-N				in absence of 4-aminobenzoate
+0.08	sulfanilamide	833	FDDDEECHVMSUSB-UHFFFAOYSA-N				in absence of 4-aminobenzoate
+0.0887	sulfathiazole	2304	JNMRHUJNCSQMMB-UHFFFAOYSA-N				in absence of 4-aminobenzoate
+0.109	4-Aminobenzoate	905	ALYNCZNDIQEVRV-UHFFFAOYSA-N				100 microM DHP-PP, 25 C
+0.11	sulfisoxazole	7772	NHUHCSRWZMLRLA-UHFFFAOYSA-N				in absence of 4-aminobenzoate
+0.12	sulfamethoxazole	1556	JLKIGFTWXXRPMT-UHFFFAOYSA-N				in absence of 4-aminobenzoate
+0.1243	Sulfadiazine	2226	SEEPANYCNGTZFQ-UHFFFAOYSA-N				in absence of 4-aminobenzoate

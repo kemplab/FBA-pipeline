@@ -1,0 +1,61 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00063	(2Z)-2-(5-hydroxy-4,6-dimethyl-2-oxo-1,2-dihydro-3H-indol-3-ylidene)-N,N-di(prop-2-en-1-yl)hydrazinecarbothioamide	109514	SDQLXVZKRIGEKD-UHFFFAOYSA-N	25	7.0	X	cofactor NADP+, pH 7.0, 25C, steroid oxidation, recombinant mutant W227A
+0.0028	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	25	9.0	X	pH 9.0, 25C, recombinant mutant S114A/Y155F
+0.003	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	25	9.0	X	pH 9.0, 25C, recombinant mutant Y155F/K159A
+0.0053	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	25	8.0	X	steady-state, pH 8.0, 25C, recombinant mutant W227A
+0.008	3alpha-androstanediol	1491	CBMYJHIOYJEBSB-KHOSGYARSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme
+0.0083	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	25	8.0	X	steady-state, pH 8.0, 25C, recombinant mutant F118A
+0.022	Dehydrolithocholic acid	3147	KIQFUORWRVZTHT-PBDHEXIJSA-N	25	7.4		pH 7.4, 25C, recombinant wild-type AKR1C17
+0.033	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme
+0.037	5alpha-dihydroprogesterone	1755	XMRPGKVKISIQBV-BJMCWZGWSA-N	25	7.0	X	cofactor NADPH, pH 7.0, 25C, steroid reduction, recombinant mutant W227A
+0.047	5beta-androstane-3,17-dione	1807	RAJWOBJTTGJROA-QJISAEMRSA-N	25	7.4		pH 7.4, 25C, recombinant wild-type AKR1C17
+0.1	6-tert-butyl-2,3-epoxy-4-hydroxy-5-cyclohexen-1-one	12450	PSYOCQSPCVZCHY-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, recombinant wild-type AKR1C17
+0.105	5beta-pregnane-3,20-dione	1539	XMRPGKVKISIQBV-XWOJZHJZSA-N	25	7.4		pH 7.4, 25C, recombinant wild-type AKR1C17
+0.115	(5beta,20R)-20-hydroxypregnan-3-one	6791	DYVGYXXLXQESJE-VBLDBAFPSA-N	25	7.4		pH 7.4, 25C, recombinant wild-type AKR1C17
+0.12	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	25	9.0	X	pH 9.0, 25C, recombinant mutant S114A
+0.148	4-oxo-2-nonenal	5090	SEPPVOUBHWNCAW-FNORWQNLSA-N	25	7.4		pH 7.4, 25C
+0.167	diacetyl	603	QSJXEFYPDANLFS-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, recombinant wild-type AKR1C17
+0.183	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, recombinant wild-type AKR1C17
+0.2	glycochenodeoxycholic acid	3154	GHCZAUBVMUEKKP-GYPHWSFCSA-M				
+0.217	lithocholic acid	1004	SMEROWZSTRWXGI-HVATVPOCSA-N				
+0.233	5alpha-Pregnan-3alpha,21-diol-20-one	5406	CYKYBWRSLLXBOW-GDYGHMJCSA-N				
+0.233	glycolithocholic acid	2983	XBSQTYHEGZTYJE-OETIFKLTSA-N				
+0.267	5alpha-Androstan-3,17-dione	1379	RAJWOBJTTGJROA-STWISNAPSA-N				Y205F
+0.283	5alpha-Androstan-3,17-dione	1379	RAJWOBJTTGJROA-STWISNAPSA-N				recombinant wild type enzyme
+0.283	isatin	646	JXDYKVIHCLTXOP-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, recombinant wild-type AKR1C17
+0.283	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				recombinant wild type enzyme
+0.3	5alpha-dihydroprogesterone	1755	XMRPGKVKISIQBV-BJMCWZGWSA-N	25	7.0		cofactor NADPH, pH 7.0, 25C, steroid reduction, recombinant wild-type enzyme
+0.35	5alpha-androstan-17beta-ol-3-one	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N				
+0.367	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N				Y205F
+0.37	(2Z)-2-(5-hydroxy-4,6-dimethyl-2-oxo-1,2-dihydro-3H-indol-3-ylidene)-N,N-di(prop-2-en-1-yl)hydrazinecarbothioamide	109514	SDQLXVZKRIGEKD-UHFFFAOYSA-N	25	7.0		cofactor NADP+, pH 7.0, 25C, steroid oxidation, recombinant wild-type enzyme
+0.4	5alpha-dihydroprogesterone	1755	XMRPGKVKISIQBV-BJMCWZGWSA-N	25	7.0	X	cofactor NADPH, pH 7.0, 25C, steroid reduction, recombinant mutant R276M
+0.417	5beta-pregnan-3,20-dione	1539	XMRPGKVKISIQBV-XWOJZHJZSA-N				
+0.42	5alpha-androstane-3,17-dione	1130	RAJWOBJTTGJROA-WZNAKSSCSA-N		7.0		pH 7.0, 25, reduction reaction
+0.43	5alpha-dihydroprogesterone	1755	XMRPGKVKISIQBV-BJMCWZGWSA-N	25	7.0		cofactor NADH, pH 7.0, 25C, steroid reduction, recombinant wild-type enzyme
+0.433	5beta-Dihydrocortisone	13249	TXDSBKAAUOLRJH-OYNCSKLUSA-N				
+0.45	5beta-androstan-3,17-dione	1807	RAJWOBJTTGJROA-QJISAEMRSA-N				
+0.567	5alpha-Androstan-3,17-dione	1379	RAJWOBJTTGJROA-STWISNAPSA-N				
+0.57	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	25	8.0	X	steady-state, pH 8.0, 25C, recombinant mutant T226A
+0.633	5beta-Pregnan-3alpha,21-diol-20-one	7104	CYKYBWRSLLXBOW-DATPGIFZSA-N				
+0.733	Dehydrolithocholic acid	3147	KIQFUORWRVZTHT-PBDHEXIJSA-N				
+0.767	5alpha-pregnan-21-ol-3,20-one	8700	USPYDUPOCUYHQL-KVHKMPIWSA-N				
+0.767	5beta-Pregnan-3alpha-ol-20-one	2278	AURFZBICLPNKBZ-YZRLXODZSA-N				
+0.8	(2Z)-2-(5-hydroxy-4,6-dimethyl-2-oxo-1,2-dihydro-3H-indol-3-ylidene)-N,N-di(prop-2-en-1-yl)hydrazinecarbothioamide	109514	SDQLXVZKRIGEKD-UHFFFAOYSA-N	25	7.0	X	cofactor NADP+, pH 7.0, 25C, steroid oxidation, recombinant mutant R276M
+0.82	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N		7.0		pH 7.0, 25, oxidation reaction
+0.83	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	25	8.0		steady-state, pH 8.0, 25C, recombinant wild-type enzyme
+0.85	(2Z)-2-(5-hydroxy-4,6-dimethyl-2-oxo-1,2-dihydro-3H-indol-3-ylidene)-N,N-di(prop-2-en-1-yl)hydrazinecarbothioamide	109514	SDQLXVZKRIGEKD-UHFFFAOYSA-N	25	7.0		cofactor NAD+, pH 7.0, 25C, steroid oxidation, recombinant wild-type enzyme
+1.13	3alpha-hydroxy-5alpha-androstan-17-one	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N				Y205F
+1.13	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				recombinant wild type enzyme
+1.17	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N				
+1.2	5beta-Androstan-3alpha,17beta-diol	4377	CBMYJHIOYJEBSB-GRYCMQMASA-N				
+1.25	3alpha-hydroxy-5alpha-androstan-17-one	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N				recombinant wild type enzyme
+1.33	5alpha-androstan-3alpha,17beta-diol	1491	CBMYJHIOYJEBSB-KHOSGYARSA-N				
+1.33	5beta-Androstan-3alpha-ol-17-one	2107	QGXBDMJGAMFCBF-IINPKOONSA-N				
+1.43	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O				Y205F
+1.5	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	25	9.0	X	pH 9.0, 25C, recombinant mutant Y155F
+2.72	5alpha-Androstan-3alpha-ol-17-one	1754	QGXBDMJGAMFCBF-XKUVWOMQSA-N				
+5.9	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N		7.5	X	pH 7.5, recombinant mutant R304L
+18.9	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	25	9.0	X	pH 9.0, 25C, recombinant mutant K159A
+22.1	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N		7.5	X	pH 7.5, recombinant mutant R301L
+318	androsterone	397	QGXBDMJGAMFCBF-HLUDHZFRSA-N	25	9.0		pH 9.0, 25C, recombinant wild-type enzyme
+1339	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N		7.5		pH 7.5, recombinant wild-type enzyme

@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+80	dAMP	575	KHWCHTKSEGGWEX-RRKCRQDMSA-N	37	7.4		isoform AMPK2, in 50 mM Tris/HCl (pH 7.4), 50 mM KCl, 5 mM MgCl2, at 37C
+500	dAMP	575	KHWCHTKSEGGWEX-RRKCRQDMSA-N	37	7.4		isoform AMPK1, in 50 mM Tris/HCl (pH 7.4), 50 mM KCl, 5 mM MgCl2, at 37C
+1.25	TMP	518	GYOZYWVXFNDGLU-XLPZGREQSA-N	37	7.4		in Tris-HCl (50 mM, pH 7.4), KCl (50 mM), MgCl2 (5 mM), at 37C
+0.014	[2-[(2R,3S,5R)-3-hydroxy-5-(5-methyl-2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)tetrahydrofuran-2-yl]ethyl]boronic acid	19666	QTVXWVGRCNXANU-DJLDLDEBSA-N	37	7.4		in Tris-HCl (50 mM, pH 7.4), KCl (50 mM), MgCl2 (5 mM), at 37C

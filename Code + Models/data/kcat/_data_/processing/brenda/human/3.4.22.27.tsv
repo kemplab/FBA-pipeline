@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.2	(7-[[(2S)-2-(4-[(1S)-1-cyclohexyl-1-[(phenylcarbonyl)amino]ethyl]-1H-1,2,3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-2H-chromen-3-yl)acetic acid	24596	OBAKLFISKPTOFJ-WJVKJDHCSA-N				
+0.22	(7-[[(2S)-2-(4-[(1S)-1-cyclohexyl-1-[(thiophen-3-ylcarbonyl)amino]ethyl]-1H-1,2,3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-2H-chromen-3-yl)acetic acid	24597	KPCMBZIEVTUEFL-UBOZLPQGSA-N				
+0.45	(7-[[(2S)-2-(4-[(1S)-1,2-dimethyl-1-[(phenylcarbonyl)amino]propyl]-1H-1,2,3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-2H-chromen-3-yl)acetic acid	16298	PFEBMEGRFVLGJL-UKJJDJLKSA-N				
+0.46	(4-methyl-7-[[(2S)-2-(4-[(1S)-1-(4-methylcyclohexyl)-1-[(thiophen-3-ylcarbonyl)amino]ethyl]-1H-1,2,3-triazol-1-yl)hexanoyl]amino]-2-oxo-2H-chromen-3-yl)acetic acid	24594	JBHKFKOTLMXOEA-XJFMKCTKSA-N				
+0.77	(7-[[(2S)-2-(4-[(1S)-1,2-dimethyl-1-[(thiophen-3-ylcarbonyl)amino]propyl]-1H-1,2,3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-2H-chromen-3-yl)acetic acid	24595	SGDPFKMGWVEIQU-JHOBJCJYSA-N				
+1.1	benzyloxycarbonyl-Leu-Leu-Arg-7-amido-4-methylcoumarin	22239	HEFLULMFMJTEOQ-XOYGGWQXSA-N	25	6.5		pH 6.5, 25C
+1.6	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N				
+2	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin	920	ZZGDDBWFXDMARY-UHFFFAOYSA-N	25	6.5		pH 6.5, 25C
+2.5	o-aminobenzoic acid-Leu-Glu-Gln-(N-[2,4-dinitrophenyl]ethylenediamine)	27456	WWGHMILZRSNVKO-HJOGWXRNSA-P				
+3	GRWHKISVRWE	24926	VMAPKZYZBHLWGR-DRNAKAFTSA-N	37	5.5		in 0.1 M citrate buffer, pH 5.5 containing 4 mM dithiothreitol, at 37C
+3.3	butyloxycarbonyl-Phe-Phe-Arg-7-amido-4-methylcoumarin	33885	TYVJVHBMPWELHH-ZDCRTTOTSA-N	25	6.5		pH 6.5, 25C
+5.666	(7-methoxycoumarin-4-yl)-acetyl-GRWPPMGLPWEK(2,4-dinitrophenyl)-D-Arg-NH2	26458	MVNJSKDAVVKTCA-IQGXPTIISA-N				
+11	GRWHKFSVRWE	24925	UVXYIBQDHAXSPE-MBGVKWQDSA-N	37	5.5		in 0.1 M citrate buffer, pH 5.5 containing 4 mM dithiothreitol, at 37C
+14.4	benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin	10496	VCOVUYXJMHMVNV-FMYROPPKSA-N	25	6.5		pH 6.5, 25C
+20.3	benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin	10496	VCOVUYXJMHMVNV-FMYROPPKSA-N		5.0		pH 5.0, room temperature
+21	benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin	10496	VCOVUYXJMHMVNV-FMYROPPKSA-N				
+44	GRWHKLSVRWE	24924	RYIFAFTYARGYPA-OACJGSBVSA-N	37	5.5		in 0.1 M citrate buffer, pH 5.5 containing 4 mM dithiothreitol, at 37C

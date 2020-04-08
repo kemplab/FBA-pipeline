@@ -1,0 +1,62 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.67	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7	X	mutant enzyme E243R, in 100 mM potassium phosphate buffer at pH 7 with 20 mM oxoglutarate and 100 mM ammonium chloride
+3	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7	X	mutant enzyme W244S, in 100 mM potassium phosphate buffer at pH 7 with 20 mM oxoglutarate and 100 mM ammonium chloride
+5.06	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7	X	mutant enzyme E243D, in 100 mM potassium phosphate buffer at pH 7 with 20 mM oxoglutarate and 100 mM ammonium chloride
+6	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7	X	mutant enzyme D245K, in 100 mM potassium phosphate buffer at pH 7 with 20 mM oxoglutarate and 100 mM ammonium chloride
+10	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7		wild type enzyme, in 100 mM potassium phosphate buffer at pH 7 with 20 mM oxoglutarate and 100 mM ammonium chloride
+12	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25	7		pH 7, 25C
+14.8	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N		7	X	mutant enzyme E243K, in 100 mM potassium phosphate buffer at pH 7 with 20 mM oxoglutarate and 100 mM ammonium chloride
+6	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7		pH 7, 25C
+14	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	50	10.5		pH 10.5, 50C, recombinant enzyme
+15	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	9.0		pH 9.0, 40C, recombinant enzyme in presence of DMSO
+16	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	40	9.0		pH 9.0, 40C, recombinant enzyme
+1.71	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7	X	mutant enzyme E243R, in 100 mM potassium phosphate buffer at pH 7 with 20 mM oxoglutarate and 100 mM ammonium chloride
+10.6	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7	X	mutant enzyme E243K, in 100 mM potassium phosphate buffer at pH 7 with 20 mM oxoglutarate and 100 mM ammonium chloride
+10.9	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7	X	mutant enzyme W244S, in 100 mM potassium phosphate buffer at pH 7 with 20 mM oxoglutarate and 100 mM ammonium chloride
+11.2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	6.0	X	pH 6.0, 25C, mutant A242G
+13.6	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	6.0	X	pH 6.0, 25C, mutant F238S
+13.9	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	6.0	X	pH 6.0, 25C, mutant F238S/P262S
+14.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	6.0	X	pH 6.0, 25C, mutant P262S
+14.6	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	6.0	X	pH 6.0, 25C, mutant D263K
+16.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7	X	mutant enzyme D245K, in 100 mM potassium phosphate buffer at pH 7 with 20 mM oxoglutarate and 100 mM ammonium chloride
+16.9	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7	X	mutant enzyme E243D, in 100 mM potassium phosphate buffer at pH 7 with 20 mM oxoglutarate and 100 mM ammonium chloride
+19.9	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	6.0		pH 6.0, 25C, recombinant wild-type enzyme
+31.3	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N		7		wild type enzyme, in 100 mM potassium phosphate buffer at pH 7 with 20 mM oxoglutarate and 100 mM ammonium chloride
+31.4	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7		pH 7, 25C
+39	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	40	8.5		pH 8.5, 40C, recombinant enzyme
+47	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	40	8.5		pH 8.5, 40C, recombinant enzyme in presence of DMSO
+58	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	50	9.5		pH 9.5, 50C, recombinant enzyme
+65.1	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	pH 7.0, 25C, mutant A242G
+80	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	pH 7.0, 25C, mutant D263K
+105	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	pH 7.0, 25C, mutant F238S/P262S
+130.2	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0		pH 7.0, 25C, recombinant wild-type enzyme
+133	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	8.0	X	pH 8.0, 25C, mutant F238S/P262S
+139	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	pH 7.0, 25C, mutant F238S
+150	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	8.0	X	pH 8.0, 25C, mutant D263K
+160	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	7.0	X	pH 7.0, 25C, mutant P262S
+177	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	8.0	X	pH 8.0, 25C, mutant A242G
+232	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	8.0		pH 8.0, 25C, recombinant wild-type enzyme
+402	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	8.0	X	pH 8.0, 25C, mutant F238S
+490	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25	8.0	X	pH 8.0, 25C, mutant P262S
+0.16	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	25	7		pH 7, 25C
+58	NH3	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	50	9.5		pH 9.5, 50C, recombinant enzyme
+84	NH3	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	40	8.5		pH 8.5, 40C, recombinant enzyme in presence of DMSO
+85	NH3	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	40	8.5		pH 8.5, 40C, recombinant enzyme
+0.012	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N			X	mutant M101S
+0.013	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N			X	mutant G82K
+20.3	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	25	7		pH 7, 25C
+46	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	40	8.5		pH 8.5, 40C, recombinant enzyme in presence of DMSO
+56	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	40	8.5		pH 8.5, 40C, recombinant enzyme
+65	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N	50	9.5		pH 9.5, 50C, recombinant enzyme
+342	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N				wild-type
+344	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N				wild-type
+344	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N			X	mutant E27F
+435	2-oxoglutarate	32	KPGXRSRHYNQIFN-UHFFFAOYSA-N			X	mutant Q144R, 1.3 times higher than that of the wild-type
+17	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	40	9.0		pH 9.0, 40C, recombinant enzyme in presence of DMSO
+17	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	50	10.5		pH 10.5, 50C, recombinant enzyme
+18.1	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				wild-type
+24	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	40	9.0		pH 9.0, 40C, recombinant enzyme
+20.4	NH4+	16	QGZKDVFQNNGYKY-UHFFFAOYSA-N	25	7		pH 7, 25C
+3.45	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N			X	mutant G82K
+5.68	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N			X	mutant M101S
+6.7	glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	25	7		pH 7, 25C

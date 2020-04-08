@@ -1,0 +1,89 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.0	X	recombinant mutant H168Q, pH 7.0
+2.3	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	50	8.0		in 50 mM Bis-Tris propane (pH 8.0), at 50C
+2.5	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	168	7.0	X	recombinant mutant H168C, pH 7.0
+3.1	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	50	8.0		in 50 mM Bis-Tris propane (pH 8.0), at 50C
+3.2	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N	50	8.0		in 50 mM Bis-Tris propane (pH 8.0), at 50C
+4.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	50	8.0		in 50 mM Bis-Tris propane (pH 8.0), at 50C
+4.3	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	50	8.0		in 50 mM Bis-Tris propane (pH 8.0), at 50C
+65	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N		7.0	X	recombinant mutant D167E/N452T, pH 7.0
+69	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	N462H mutant isozyme PQQGDH-B, pH 7.0, 25C
+72	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0	X	N452T mutant isozyme PQQGDH-B, pH 7.0, 25C
+72	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N		7.0	X	recombinant mutant N452T, pH 7.0
+73	allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N		7.0	X	recombinant mutant D167E/N452T, pH 7.0
+89	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N		7.0	X	recombinant mutant D167E/N452T, pH 7.0
+121	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N		7.0		pH 7.0, wild-type enzyme
+121.5	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	220	7.5	X	mutant enzyme Q219K/F220C, in 42 mM sodium phosphate buffer pH 7.5 at 37C
+160.5	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0		at pH 7.0 and 25C
+167	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N		7.0	X	recombinant mutant D167E/N452T, pH 7.0
+180.6	2-deoxy-D-glucose	443	PMMURAAUARKVCB-KAZBKCHUSA-N	25	7.0		at pH 7.0 and 25C
+186.3	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	7.0		at pH 7.0 and 25C
+197.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	7.5	X	mutant enzyme Q126E, in 42 mM sodium phosphate buffer pH 7.5 at 37C
+201	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N		7.0		pH 7.0, wild-type enzyme
+215	3-O-methyl-D-glucose	1149	SCBBSJMAPKXHAH-QTSLKERKSA-N		7.0	X	recombinant mutant D167E/N452T, pH 7.0
+226	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N		7.0	X	recombinant mutant D167E/N452T, pH 7.0
+227.2	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	7.5	X	mutant enzyme Q219N/F220K, in 42 mM sodium phosphate buffer pH 7.5 at 37C
+232	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N	25	7.0		wild-type isozyme PQQGDH-B, pH 7.0, 25C
+232	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N		7.0		recombinant wild-type isozyme PQQGDH-B, pH 7.0
+267	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N		7.0		pH 7.0, wild-type enzyme
+305.9	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	7.5	X	mutant enzyme Q219E/F220E, in 42 mM sodium phosphate buffer pH 7.5 at 37C
+331	2-deoxy-D-glucose	443	PMMURAAUARKVCB-KAZBKCHUSA-N		7.0		pH 7.0, wild-type enzyme
+341.6	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	7.5	X	mutant enzyme Q126R, in 42 mM sodium phosphate buffer pH 7.5 at 37C
+436	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N		7.0	X	recombinant mutant D167E, pH 7.0
+445.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	7.5	X	mutant enzyme Q126S, in 42 mM sodium phosphate buffer pH 7.5 at 37C
+478	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N		7.0	X	recombinant mutant D167E, pH 7.0
+541	3-O-methyl-D-glucose	1149	SCBBSJMAPKXHAH-QTSLKERKSA-N		7.0	X	recombinant mutant D167E, pH 7.0
+558	allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N		7.0	X	recombinant mutant D167E, pH 7.0
+574	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	25	7.0	X	N462H mutant isozyme PQQGDH-B, pH 7.0, 25C
+588	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	25	7.0	X	N462H mutant isozyme PQQGDH-B, pH 7.0, 25C
+630	D-galactose	67	WQZGKKKJIJFFOK-SVZMEOIVSA-N		7.0	X	pH 7.0, mutant enzyme E277K
+669	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N		7.0		pH 7.0, wild-type enzyme
+678	D-xylose	109	SRBFZHDQGSBBOR-IOVATXLUSA-N		7.0	X	pH 7.0, mutant enzyme E277K
+785	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N		7.0		pH 7.0, wild-type enzyme
+861	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N		7.0	X	pH 7.0, mutant enzyme E277K
+949	allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N	25	7.0	X	N452T mutant isozyme PQQGDH-B, pH 7.0, 25C
+949	allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N		7.0	X	recombinant mutant N452T, pH 7.0
+1002	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	25	7.0	X	N452T mutant isozyme PQQGDH-B, pH 7.0, 25C
+1002	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N		7.0	X	recombinant mutant N452T, pH 7.0
+1020	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N		7.0	X	pH 7.0, mutant enzyme E277K
+1035	allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N	25	7.0	X	N462H mutant isozyme PQQGDH-B, pH 7.0, 25C
+1038	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	25	7.0	X	N452T mutant isozyme PQQGDH-B, pH 7.0, 25C
+1038	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N		7.0	X	recombinant mutant N452T, pH 7.0
+1060	2-deoxy-D-glucose	443	PMMURAAUARKVCB-KAZBKCHUSA-N		7.0	X	pH 7.0, mutant enzyme E277K
+1060	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N		7.0	X	recombinant mutant D167E, pH 7.0
+1064	3-O-methyl-D-glucose	1149	SCBBSJMAPKXHAH-QTSLKERKSA-N	25	7.0	X	N462H mutant isozyme PQQGDH-B, pH 7.0, 25C
+1073	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N		7.0	X	recombinant mutant N452T, pH 7.0
+1114	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	7.5	X	mutant enzyme Q219K/F220K, in 42 mM sodium phosphate buffer pH 7.5 at 37C
+1193	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.0	X	recombinant mutant D167E/N452T, pH 7.0
+1253	3-O-methyl-D-glucose	1149	SCBBSJMAPKXHAH-QTSLKERKSA-N	25	7.0	X	N452T mutant isozyme PQQGDH-B, pH 7.0, 25C
+1253	3-O-methyl-D-glucose	1149	SCBBSJMAPKXHAH-QTSLKERKSA-N		7.0	X	recombinant mutant N452T, pH 7.0
+1355	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N		7.0		recombinant wild-type isozyme PQQGDH-B, pH 7.0
+1399	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	7.0	X	N462H mutant isozyme PQQGDH-B, pH 7.0, 25C
+1440	D-Allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N		7.0		pH 7.0, wild-type enzyme
+1450	3-O-methyl-D-glucose	1149	SCBBSJMAPKXHAH-QTSLKERKSA-N		7.0		pH 7.0, wild-type enzyme
+1550	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.0		pH 7.0, temperature not specified in the publication, wild-type enzyme
+1659	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	25	7.0		wild-type isozyme PQQGDH-B, pH 7.0, 25C
+1659	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N		7.0		recombinant wild-type isozyme PQQGDH-B, pH 7.0
+1724	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.0	X	recombinant mutant D167E, pH 7.0
+1779	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	7.5		wild type enzyme, in 42 mM sodium phosphate buffer pH 7.5 at 37C
+1791	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	7.0	X	N452T mutant isozyme PQQGDH-B, pH 7.0, 25C
+1791	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.0	X	recombinant mutant N452T, pH 7.0
+1800	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N		7.0	X	pH 7.0, mutant enzyme E277K
+1930	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	25	7.0		wild-type isozyme PQQGDH-B, pH 7.0, 25C
+1930	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N		7.0		recombinant wild-type isozyme PQQGDH-B, pH 7.0
+2270	maltotriose	168	FYGDTMLNYKFZSV-PXXRMHSHSA-N				
+2509	allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N	25	7.0		wild-type isozyme PQQGDH-B, pH 7.0, 25C
+2509	allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N		7.0		recombinant wild-type isozyme PQQGDH-B, pH 7.0
+2870	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N				
+3011	3-O-methyl-D-glucose	1149	SCBBSJMAPKXHAH-QTSLKERKSA-N	25	7.0		wild-type isozyme PQQGDH-B, pH 7.0, 25C
+3011	3-O-methyl-D-glucose	1149	SCBBSJMAPKXHAH-QTSLKERKSA-N		7.0		recombinant wild-type isozyme PQQGDH-B, pH 7.0
+3070	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.0	X	pH 7.0, mutant enzyme E277K
+3178	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.0		recombinant cytochrome c-fusion protein, pH 7.0
+3200	3-O-methyl-D-glucose	1149	SCBBSJMAPKXHAH-QTSLKERKSA-N		7.0	X	pH 7.0, mutant enzyme E277K
+3360	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				
+3440	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.0		pH 7.0, wild-type enzyme
+3778	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.0		recombinant Arg-tagged enzyme, pH 7.0
+3860	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25	7.0		wild-type isozyme PQQGDH-B, pH 7.0, 25C
+3860	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.0		recombinant wild-type isozyme PQQGDH-B, pH 7.0
+4424	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N		7.0	X	recombinant chimeric mutant enzyme, pH 7.0
+4560	D-Allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N		7.0	X	pH 7.0, mutant enzyme E277K

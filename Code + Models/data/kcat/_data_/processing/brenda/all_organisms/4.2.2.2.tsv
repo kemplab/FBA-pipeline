@@ -1,0 +1,25 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+21	Pectin	869	WFPHFPCPXUXHJX-WSUZHTRVSA-N				
+110.6	Pectin	869	WFPHFPCPXUXHJX-WSUZHTRVSA-N				
+750	Pectin	869	WFPHFPCPXUXHJX-WSUZHTRVSA-N	45	9.8		50-70% methylated substrate, pH 9.8, 45C, recombinant enzyme
+1882	Pectin	869	WFPHFPCPXUXHJX-WSUZHTRVSA-N	45	9.8		over 80% methylated substrate, pH 9.8, 45C, recombinant enzyme
+0.03	polygalacturonic acid	918	BCFIGQJSZBOATJ-KMURLURQSA-N	30	10.5	X	pH 10.5, 30C, mutant enzyme chimeric enzyme composed of Ala1 to Tyr105 of Pel-15 in the N-terminal regions, Asp133 to Arg 159 of pectate lyase B from Fusarium solani in the internal regions, and Gln133 to Tyr197 of Pel-15 in the C-terminal regions
+7.48	polygalacturonic acid	918	BCFIGQJSZBOATJ-KMURLURQSA-N	30	10.5	X	pH 10.5, 30C, mutant enzyme chimeric enzyme composed of Ala1 to Tyr105 of Pel-15 in the N-terminal regions, Asp133 to Arg 159 of pectate lyase B from Fusarium solani in the internal regions, and Gln133 to Tyr197 of Pel-15 in the C-terminal regions
+42.2	polygalacturonic acid	918	BCFIGQJSZBOATJ-KMURLURQSA-N	30	10.5	X	pH 10.5, 30C, mutant enzyme K89A
+43.2	polygalacturonic acid	918	BCFIGQJSZBOATJ-KMURLURQSA-N	30	10.5	X	pH 10.5, 30C, mutant enzyme D84N
+72.9	polygalacturonic acid	918	BCFIGQJSZBOATJ-KMURLURQSA-N	30	10.5	X	pH 10.5, 30C, mutant enzyme D126N
+101	polygalacturonic acid	918	BCFIGQJSZBOATJ-KMURLURQSA-N	30	10.5	X	pH 10.5, 30C, mutant enzyme H66A
+154	polygalacturonic acid	918	BCFIGQJSZBOATJ-KMURLURQSA-N	30	10.5	X	pH 10.5, 30C, mutant enzyme K41A
+156	polygalacturonic acid	918	BCFIGQJSZBOATJ-KMURLURQSA-N	30	10.5	X	pH 10.5, 30C, mutant enzyme D80N
+159	polygalacturonic acid	918	BCFIGQJSZBOATJ-KMURLURQSA-N	30	10.5	X	pH 10.5, 30C, mutant enzyme Y126N
+173	polygalacturonic acid	918	BCFIGQJSZBOATJ-KMURLURQSA-N	30	10.5		pH 10.5, 30C, wild-type enzyme
+196	polygalacturonic acid	918	BCFIGQJSZBOATJ-KMURLURQSA-N	30	10.5	X	pH 10.5, 30C, mutant enzyme W78F
+259.5	polygalacturonic acid	918	BCFIGQJSZBOATJ-KMURLURQSA-N	37			37C
+260	polygalacturonic acid	918	BCFIGQJSZBOATJ-KMURLURQSA-N	37			37C
+2295	polygalacturonic acid	918	BCFIGQJSZBOATJ-KMURLURQSA-N	45	9.8		20-34% methylated substrate, pH 9.8, 45C, recombinant enzyme
+6092	polygalacturonic acid	918	BCFIGQJSZBOATJ-KMURLURQSA-N	45	9.8		unmethylated substrate, pH 9.8, 45C, recombinant enzyme
+131.5	Polygalacturonate	918	BCFIGQJSZBOATJ-KMURLURQSA-N				
+1200	Polygalacturonate	918	BCFIGQJSZBOATJ-KMURLURQSA-N				at pH8.5 and in the presence of 5mMCa2+
+65.95	trigalacturonic acid	3182	LCLHHZYHLXDRQG-MKJFYJHKSA-N				
+6.6	digalacturonic acid	3331	IGSYEZFZPOZFNC-MMGXBETBSA-N				
+340	trigalacturonate	3182	LCLHHZYHLXDRQG-MKJFYJHKSA-N				at pH8.5 and in the presence of 5mMCa2+

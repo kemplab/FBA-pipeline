@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.092	2-naphthyl isocyanide	109252	ZZKQDMRCHFQQCQ-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, recombinant mutant T102V
+0.216	2-naphthyl isocyanide	109252	ZZKQDMRCHFQQCQ-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, recombinant wild-type ICH
+0.234	2-naphthyl isocyanide	109252	ZZKQDMRCHFQQCQ-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, recombinant mutant T102S

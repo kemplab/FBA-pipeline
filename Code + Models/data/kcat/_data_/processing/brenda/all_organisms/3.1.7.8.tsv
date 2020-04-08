@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000998	tuberculosinyl diphosphate	3501	BPSHPRCHMGHBGC-AHKHSGQUSA-N	45	7.0	X	mutant enzyme D82N, at pH 7.0, 45C
+0.00018	tuberculosinyl diphosphate	3501	BPSHPRCHMGHBGC-AHKHSGQUSA-N	45	7.0	X	mutant enzyme D81N, at pH 7.0, 45C
+0.000192	tuberculosinyl diphosphate	3501	BPSHPRCHMGHBGC-AHKHSGQUSA-N	45	7.0	X	mutant enzyme D85N, at pH 7.0, 45C
+0.000517	tuberculosinyl diphosphate	3501	BPSHPRCHMGHBGC-AHKHSGQUSA-N	45	7.0		wild type enzyme, at pH 7.0, 45C

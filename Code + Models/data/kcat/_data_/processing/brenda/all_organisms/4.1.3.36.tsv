@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00022	2-succinylbenzoyl-CoA	3878	AVOVYFCDODUXLY-HSJNEKGZSA-N	25	7.0	X	D185N mutant protein, pH 7.0, 25C
+0.0017	2-succinylbenzoyl-CoA	3878	AVOVYFCDODUXLY-HSJNEKGZSA-N	25	7.0	X	S190A mutant protein, pH 7.0, 25C
+0.0023	2-succinylbenzoyl-CoA	3878	AVOVYFCDODUXLY-HSJNEKGZSA-N	25	7.0	X	D185E mutant protein, pH 7.0, 25C
+0.462	2-succinylbenzoyl-CoA	3878	AVOVYFCDODUXLY-HSJNEKGZSA-N	25	7.0		wild type protein, pH 7.0, 25C
+0.062	o-succinylbenzoyl-CoA	3878	AVOVYFCDODUXLY-HSJNEKGZSA-N	25	7.0		pH 7.0, 25C
+0.0027	o-succinylbenzoate	4891	YIVWQNVQRXFZJB-UHFFFAOYSA-N		7.0	X	pH 7.0, temperature not specified in the publication, mutant R267A
+0.0035	o-succinylbenzoate	4891	YIVWQNVQRXFZJB-UHFFFAOYSA-N		7.0	X	pH 7.0, temperature not specified in the publication, mutant F270A
+0.021	o-succinylbenzoate	4891	YIVWQNVQRXFZJB-UHFFFAOYSA-N		7.0		pH 7.0, temperature not specified in the publication, wild-type enzyme
+0.038	o-succinylbenzoate	4891	YIVWQNVQRXFZJB-UHFFFAOYSA-N		7.0	X	pH 7.0, temperature not specified in the publication, mutant K89A
+0.00025	2-(3-carboxypropyl)-benzoyl-CoA	28084	HHMFVBFHLYHBCV-HSJNEKGZSA-N	25	7.0		wild type protein protein, pH 7.0, 25C

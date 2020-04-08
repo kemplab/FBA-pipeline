@@ -1,0 +1,37 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25	7.5	X	mutant enzyme A467G, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25C
+19	CO2	17	CURLTUGMZLYLDI-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25C
+10.3	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	25	7.4	X	pH 7.4, 25C, C306S mutant
+12.4	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	25	7.4	X	pH 7.4, 25C, C306A mutant
+13.9	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+14	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	25	7.5	X	mutant enzyme A467G, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25C
+54	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	25	7.5		wild type enzyme, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25C
+1	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	7.5	X	mutant enzyme A467G, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25C
+1.8	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, C306A mutant
+2.1	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, C306S mutant
+6.1	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N		6.8		pH 6.8
+9.3	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+19	phosphoenolpyruvate	47	DTBNBXWJWCWCIK-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25C
+1	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N	25	7.5	X	mutant enzyme A467G, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25C
+3.5	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N	25	7.4	X	pH 7.4, 25C, C306S mutant
+4.1	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N	25	7.4	X	pH 7.4, 25C, C306A mutant
+6.5	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+7.2	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N		6.8		pH 6.8
+19	GDP	49	QGWNDRXFNXRZMB-UUOKFMHZSA-N	25	7.5		wild type enzyme, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25C
+13.3	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, C306S mutant
+14	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	25	7.5	X	mutant enzyme A467G, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25C
+14.5	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	25	7.4	X	pH 7.4, 25C, C306A mutant
+17.8	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+54	oxaloacetate	53	KHPXUQMNIQBQEV-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 50 mM HEPES pH 7.5, 10 mM dithiothreitol, 4 mM MgCl2, at 25C
+10.7	ITP	203	HAEJPQIATWHALX-KQYNXXCUSA-N	25	7.4	X	pH 7.4, 25C, C306A mutant
+12.8	ITP	203	HAEJPQIATWHALX-KQYNXXCUSA-N	25	7.4	X	pH 7.4, 25C, C306S mutant
+15.6	ITP	203	HAEJPQIATWHALX-KQYNXXCUSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+2.3	IDP	372	JPXZQMKKFWMMGK-KQYNXXCUSA-N	25	7.4	X	pH 7.4, 25C, C306S mutant
+2.4	IDP	372	JPXZQMKKFWMMGK-KQYNXXCUSA-N	25	7.4	X	pH 7.4, 25C, C306A mutant
+6.9	IDP	372	JPXZQMKKFWMMGK-KQYNXXCUSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+2.3	2'-deoxyguanosine 5'-triphosphate	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	25	7.4	X	pH 7.4, 25C, C306A mutant
+2.4	2'-deoxyguanosine 5'-triphosphate	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	25	7.4	X	pH 7.4, 25C, C306S mutant
+3.4	2'-deoxyguanosine 5'-triphosphate	194	HAAZLUGHYHWQIW-KVQBGUIXSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme
+0.4	2'-deoxyguanosine 5'-diphosphate	863	CIKGWCTVFSRMJU-KVQBGUIXSA-N	25	7.4	X	pH 7.4, 25C, C306S mutant
+0.5	2'-deoxyguanosine 5'-diphosphate	863	CIKGWCTVFSRMJU-KVQBGUIXSA-N	25	7.4	X	pH 7.4, 25C, C306A mutant
+4.6	2'-deoxyguanosine 5'-diphosphate	863	CIKGWCTVFSRMJU-KVQBGUIXSA-N	25	7.4		pH 7.4, 25C, wild-type enzyme

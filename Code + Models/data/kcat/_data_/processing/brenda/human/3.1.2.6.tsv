@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+280	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				
+510	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	37	7.1	X	recombinant mutant Y175F, pH 7.1, 37C
+727	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N				
+780	S-D-lactoylglutathione	556	VDYDCVUWILIYQF-CSMHCCOUSA-N	37	7.1		recombinant wild-type enzyme, pH 7.1, 37C
+780	S-Lactoylglutathione	1117	VDYDCVUWILIYQF-RRQHEKLDSA-N				recombinant enzyme
+183	S-D-mandeloylglutathione	2747	YUKXYNWSJMQEBV-SLEUVZQESA-N				
+188	S-mandeloylglutathione	3884	YUKXYNWSJMQEBV-GYZKLXCISA-N				enzyme from erythrocytes
+201	S-mandeloylglutathione	3884	YUKXYNWSJMQEBV-GYZKLXCISA-N				recombinant enzyme
+755	S-mandeloylglutathione	3884	YUKXYNWSJMQEBV-GYZKLXCISA-N				enzyme from erythrocytes
+1490	S-L-glyceroylglutathione	13932	RFNLCUNHFJMGFM-FXQIFTODSA-N				
+1740	S-glycoloylglutathione	6352	ZKTSKYBPCSYSSR-BQBZGAKWSA-N				

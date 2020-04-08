@@ -1,0 +1,17 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0009	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N				phosphatase activity
+0.02	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N				phosphatase activity
+0.078	3-phosphoglycerate	174	OSJPPGNTCRNQQC-UHFFFAOYSA-N			X	mutant H181A
+2.1	3-phosphoglycerate	174	OSJPPGNTCRNQQC-UHFFFAOYSA-N			X	mutant S11G
+4.7	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	E86Q mutant
+20	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	S11A mutant
+82	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N				mutase activity
+82	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N				
+324	3-phosphoglycerate	174	OSJPPGNTCRNQQC-UHFFFAOYSA-N			X	mutant K246G
+370	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N			X	A60S mutant
+384	3-phosphoglycerate	174	OSJPPGNTCRNQQC-UHFFFAOYSA-N				wild-type enzyme
+490	3-phosphoglycerate	174	OSJPPGNTCRNQQC-UHFFFAOYSA-N				wild-type enzyme
+530	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N				mutase activity
+530	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N				
+530	3-phosphoglycerate	174	OSJPPGNTCRNQQC-UHFFFAOYSA-N				
+3200	3-phospho-D-glycerate	181	OSJPPGNTCRNQQC-UWTATZPHSA-N		7.2		in triethanol-HCl buffer (125 mM, pH 7.2, 5 mM MgCl2, 10 mM KCl), 0.1 mM 2,3-bisphosphoglyceric acid, temperature not specified in the publication

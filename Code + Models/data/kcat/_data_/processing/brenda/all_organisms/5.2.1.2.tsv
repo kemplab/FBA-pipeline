@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.19	(+/-)-2-bromo-3-(4-nitrophenyl)propionic acid	2637	UOMCKHFTGNAYBX-UHFFFAOYSA-N	25	7.6	X	pH 7.6, 25C, mutant enzyme R175A
+0.55	(+/-)-2-bromo-3-(4-nitrophenyl)propionic acid	2637	UOMCKHFTGNAYBX-UHFFFAOYSA-N	25	7.6		pH 7.6, 25C, enzyme hGSTZ1d-1d
+0.59	(+/-)-2-bromo-3-(4-nitrophenyl)propionic acid	2637	UOMCKHFTGNAYBX-UHFFFAOYSA-N	25	7.6		pH 7.6, 25C, enzyme hGSTZ1c-1c
+0.61	(+/-)-2-bromo-3-(4-nitrophenyl)propionic acid	2637	UOMCKHFTGNAYBX-UHFFFAOYSA-N	25	7.6	X	pH 7.6, 25C, mutant enzyme R175K
+0.82	(+/-)-2-bromo-3-(4-nitrophenyl)propionic acid	2637	UOMCKHFTGNAYBX-UHFFFAOYSA-N	25	7.6		pH 7.6, 25C, enzyme hGSTZ1b-1b
+1	(+/-)-2-bromo-3-(4-nitrophenyl)propionic acid	2637	UOMCKHFTGNAYBX-UHFFFAOYSA-N	25	7.6	X	pH 7.6, 25C, mutant enzyme S15A
+1.3	(+/-)-2-bromo-3-(4-nitrophenyl)propionic acid	2637	UOMCKHFTGNAYBX-UHFFFAOYSA-N	25	7.6		pH 7.6, 25C, enzyme hGSTZ1a-1a
+2.1	4-Maleylacetoacetate	3306	GACSIVHAIFQKTC-UPHRSURJSA-N	25	7.6	X	pH 7.6, 25C, mutant enzyme S15A
+2.55	(+/-)-2-bromo-3-(4-nitrophenyl)propionic acid	2637	UOMCKHFTGNAYBX-UHFFFAOYSA-N	25	7.6	X	pH 7.6, 25C, mutant enzyme C16A
+6.08	(+/-)-2-bromo-3-(4-nitrophenyl)propionic acid	2637	UOMCKHFTGNAYBX-UHFFFAOYSA-N	25	7.6	X	pH 7.6, 25C, enzyme hGSTZ1b-1b; pH 7.6, 25C, enzyme hGSTZ1c-1c; pH 7.6, 25C, mutant enzyme R175K
+72.6	4-Maleylacetoacetate	3306	GACSIVHAIFQKTC-UPHRSURJSA-N	25	7.6	X	pH 7.6, 25C, mutant enzyme S15A
+141	4-Maleylacetoacetate	3306	GACSIVHAIFQKTC-UPHRSURJSA-N	25	7.6	X	pH 7.6, 25C, mutant enzyme C165A
+149	4-Maleylacetoacetate	3306	GACSIVHAIFQKTC-UPHRSURJSA-N	25	7.6	X	pH 7.6, 25C, mutant enzyme R175A
+368	4-Maleylacetoacetate	3306	GACSIVHAIFQKTC-UPHRSURJSA-N	25	7.6	X	pH 7.6, 25C, mutant enzyme R175K
+464	4-Maleylacetoacetate	3306	GACSIVHAIFQKTC-UPHRSURJSA-N	25	7.6		pH 7.6, 25C, wild-type enzyme

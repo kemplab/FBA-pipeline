@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.07	meso-2,6-diaminoheptanedioate	1057	GMKMEZVLHJARHF-SYDPRGILSA-N		8.0	X	mutant enzyme I148D, in 100 mM Tris, pH 8.0; mutant enzyme I148G, in 100 mM Tris, pH 8.0
+0.28	meso-2,6-diaminoheptanedioate	1057	GMKMEZVLHJARHF-SYDPRGILSA-N		8.0	X	mutant enzyme I148K, in 100 mM Tris, pH 8.0
+0.33	meso-2,6-diaminoheptanedioate	1057	GMKMEZVLHJARHF-SYDPRGILSA-N		8.0	X	mutant enzyme I148A, in 100 mM Tris, pH 8.0
+0.38	meso-2,6-diaminoheptanedioate	1057	GMKMEZVLHJARHF-SYDPRGILSA-N		8.0	X	mutant enzyme I148L, in 100 mM Tris, pH 8.0
+0.68	meso-2,6-diaminoheptanedioate	1057	GMKMEZVLHJARHF-SYDPRGILSA-N		8.0	X	mutant enzyme I148F, in 100 mM Tris, pH 8.0
+1.8	DD-2,6-diaminoheptanedioate	68677	GMKMEZVLHJARHF-RFZPGFLSSA-N		7.8		in 100 mM TEA-HCl pH 7.8, temperature not specified in the publication
+1.8	D,D-2,6-diaminoheptanedioate	68677	GMKMEZVLHJARHF-RFZPGFLSSA-N	25	7.8		pH 7.8, 25C
+7.1	DL-2,6-Diaminoheptanedioate	13354	SHGBCLVCOJGQDM-UHFFFAOYSA-M		7.8		in 100 mM TEA-HCl pH 7.8, temperature not specified in the publication
+7.1	meso-2,6-diaminoheptanedioate	1057	GMKMEZVLHJARHF-SYDPRGILSA-N	25	7.8		in 100 mM TEA-HCl pH 7.8, temperature not specified in the publication; pH 7.8, 25C
+15.65	meso-2,6-diaminoheptanedioate	1057	GMKMEZVLHJARHF-SYDPRGILSA-N		8.0		wild type enzyme, in 100 mM Tris, pH 8.0

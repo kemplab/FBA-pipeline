@@ -1,0 +1,100 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.028	Ala-Ala-Pro-Phe-4-nitroanilide	7705	ZCWMSMLAGCXPPA-FHQLIMNDSA-N				wild type enzyme
+0.098	Ala-Ala-Pro-Met-4-nitroanilide	7947	XNTNHYLNJTWETI-USJZOSNVSA-N				wild type enzyme
+0.9	succinyl-Phe-Glu-Phe-4-nitroanilide	10880	QFOPGAYQILHLSR-GSDHBNRESA-N				
+0.93	Ala-Ala-Pro-Leu-4-nitroanilide	3952	JJYSJBMKKZTIOY-LNMJFAINSA-N				wild type enzyme
+1.19	angiotensin II	537	CZGUSIXMZVURDU-JZXHSEFVSA-N				
+1.2	succinyl-Val-Pro-Met-4-nitroanilide	7396	ADFSKYNAASCKOQ-WFXMLNOXSA-N				
+1.25	succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				enzyme form 1E
+1.66	succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				enzyme form 1B
+2.33	succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				enzyme form 1A
+2.5	succinyl-Ala-Ala-Pro-Met-4-nitroanilide	13866	LRADSKUFXJUEHR-VVWQDTPRSA-N				
+2.5	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	37	7.4		in the presence of heparin, at pH 7.4 and 37C
+2.54	succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				enzyme form 1D
+2.84	succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	1			enzyme form 1C
+3.6	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	37	7.4		in the absence of heparin, at pH 7.4 and 37C
+3.9	Ala-Ala-Pro-Leu-4-nitroanilide	3952	JJYSJBMKKZTIOY-LNMJFAINSA-N			X	mutant enzyme A216G
+3.9	succinyl-Phe-Gln-Phe-4-nitroanilide	10879	XZOZFJSPNPKSLH-GSDHBNRESA-N				
+4	succinyl-Phe-Val-Phe-4-nitroanilide	10883	FOPKXFSCSMKBTK-ZEZDXWPOSA-N				
+5	succinyl-Val-Pro-Met-4-nitroanilide	7396	ADFSKYNAASCKOQ-WFXMLNOXSA-N				
+5.4	succinyl-Phe-Ser-Phe-4-nitroanilide	6335	FFYPQBXBRUILGA-SDHOMARFSA-N				
+5.5	succinyl-Val-Pro-Tyr-4-nitroanilide	10886	XNPAPYMJZRSQNE-HWBMXIPRSA-N				
+5.6	succinyl-Val-Pro-Trp-4-nitroanilide	10885	FSXOVOMWRGQZOJ-DPZBCOQUSA-N				
+5.9	succinyl-Phe-Met-Phe-4-nitroanilide	10881	PIWNYCMHNGJHLM-KCHLEUMXSA-N				
+6.2	succinyl-Phe-Ser-Phe-4-nitroanilide	6335	FFYPQBXBRUILGA-SDHOMARFSA-N				
+6.7	succinyl-Ala-Ala-Pro-Leu-4-nitroanilide	8618	VGQSFPRHTFAOCG-YAJHFMINSA-N				
+7.1	succinyl-Phe-Ala-Phe-4-nitroanilide	10878	LKXGYPZLEFOYGZ-LQGLAIQGSA-N				
+7.5	succinyl-Phe-Leu-Phe-4-nitroanilide	4954	ZDFAXGKOHVNQOY-AWCRTANDSA-N				
+8.2	succinyl-Phe-Met-Phe-4-nitroanilide	10881	PIWNYCMHNGJHLM-KCHLEUMXSA-N				
+8.4	succinyl-Phe-Glu-Phe-4-nitroanilide	10880	QFOPGAYQILHLSR-GSDHBNRESA-N				
+8.4	succinyl-Val-Pro-Trp-4-nitroanilide	10885	FSXOVOMWRGQZOJ-DPZBCOQUSA-N				
+8.7	succinyl-Val-Pro-Met-4-nitroanilide	7396	ADFSKYNAASCKOQ-WFXMLNOXSA-N				
+8.7	succinyl-Val-Pro-Met-4-nitroanilide	7396	ADFSKYNAASCKOQ-WFXMLNOXSA-N				
+9.2	succinyl-Glu-Pro-Phe-4-nitroanilide	10871	RLTPUJDOELVTRF-FKBYEOEOSA-N				
+9.3	succinyl-Phe-Thr-Phe-4-nitroanilide	10882	NZPNSJNHMRBFQP-QLPRNTKGSA-N				
+10	methoxysuccinyl-Ala-Ala-Pro-Phe-4-nitroanilide	21191	XMVXNCWOZHZMKA-WNLYKICVSA-N				
+10	succinyl-Phe-Ala-Phe-4-nitroanilide	10878	LKXGYPZLEFOYGZ-LQGLAIQGSA-N				
+10	succinyl-Phe-Thr-Phe-4-nitroanilide	10882	NZPNSJNHMRBFQP-QLPRNTKGSA-N				
+11	succinyl-Phe-Pro-Thr-Phe-4-nitroanilide	13868	WSAGWBQDHCQULA-KIBBTNEESA-N				
+12.6	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-thiobenzyl ester	77849	TWURVFFNODFJBJ-NBMBROAQSA-N	37	7.4		in the absence of heparin, at pH 7.4 and 37C
+13	Ala-Ala-Pro-Met-4-nitroanilide	7947	XNTNHYLNJTWETI-USJZOSNVSA-N			X	mutant enzyme A216G
+13	H2N(CH2)5CO-Ala-Ala-Pro-Phe-4-nitroanilide	21162	DUPGIGXHWLEKHI-XQVMISGQSA-N				
+13	succinyl-Val-Pro-Leu-4-nitroanilide	7395	MTZBOHHLCSOETA-IPJJNNNSSA-N				
+14	succinyl-Lys-Pro-Phe-4-nitroanilide	10875	FGIROCKRKVGUJN-HJOGWXRNSA-N				
+15	succinyl-Phe-Val-Phe-4-nitroanilide	10883	FOPKXFSCSMKBTK-ZEZDXWPOSA-N				
+16	Ala-Ala-Pro-Phe-4-nitroanilide	7705	ZCWMSMLAGCXPPA-FHQLIMNDSA-N			X	mutant enzyme A216G
+17	succinyl-Ala-Val-Pro-Phe-4-nitroanilide	21241	XHKDLQZINZYZQD-QIBSBUDHSA-N				
+17	succinyl-Phe-Leu-Phe-4-nitroanilide	4954	ZDFAXGKOHVNQOY-AWCRTANDSA-N				
+17	succinyl-Phe-Pro-Phe-4-nitroanilide	7390	UDTLDQQJIHHMDU-QKDODKLFSA-N				
+17.8	succinyl-L-Ala-L-Ala-L-Pro-L-Phe-thiobenzyl ester	77849	TWURVFFNODFJBJ-NBMBROAQSA-N	37	7.4		in the presence of heparin, at pH 7.4 and 37C
+18	succinyl-Phe-Lys-Phe-4-nitroanilide	10881	PIWNYCMHNGJHLM-KCHLEUMXSA-N				
+19	succinyl-Leu-Val-Pro-Phe-4-nitroanilide	10874	YHDWQNOFCGFTQL-YRUYCOJQSA-N				
+19	succinyl-Phe-Leu-Phe-4-nitroanilide	4954	ZDFAXGKOHVNQOY-AWCRTANDSA-N				
+19	succinyl-Phe-Pro-Thr-Phe-4-nitroanilide	13868	WSAGWBQDHCQULA-KIBBTNEESA-N				
+19	succinyl-Val-Pro-Tyr-4-nitroanilide	10886	XNPAPYMJZRSQNE-HWBMXIPRSA-N				
+19.3	Ala-Ala-Pro-Leu-4-nitroanilide	3952	JJYSJBMKKZTIOY-LNMJFAINSA-N				wild type enzyme
+20	succinyl-Ser-Pro-Phe-4-nitroanilide	10884	CFXDFGWREFEKMF-ACRUOGEOSA-N				
+21	succinyl-Val-Pro-Leu-4-nitroanilide	7395	MTZBOHHLCSOETA-IPJJNNNSSA-N				
+21	succinyl-Val-Pro-Leu-4-nitroanilide	7395	MTZBOHHLCSOETA-IPJJNNNSSA-N				
+23	Ala-Ala-Pro-Met-4-nitroanilide	7947	XNTNHYLNJTWETI-USJZOSNVSA-N				wild type enzyme
+24	succinyl-Phe-Pro-Phe-4-nitroanilide	7390	UDTLDQQJIHHMDU-QKDODKLFSA-N				
+24	succinyl-Phe-Val-Pro-Phe-4-nitroanilide	5585	BSMIMUOMFFQXMO-ZGDGUDBWSA-N				
+24.7	Big endothelin-1	3185	BAQAGSKMSJLKSP-MNKWLDRPSA-N				untreated enzyme
+25	succinyl-Met-Pro-Phe-4-nitroanilide	10877	FNQRFPHVWWKSCE-VABKMULXSA-N				
+25	succinyl-Met-Val-Pro-Phe-4-nitroanilide	5584	MKTCKIYGFQCTIS-VZTVMPNDSA-N				
+25	succinyl-Phe-Gln-Phe-4-nitroanilide	10879	XZOZFJSPNPKSLH-GSDHBNRESA-N				
+25.6	Big endothelin-1	3185	BAQAGSKMSJLKSP-MNKWLDRPSA-N				deglycosylated enzyme
+28	succinyl-Phe-Pro-Phe-4-nitroanilide	7390	UDTLDQQJIHHMDU-QKDODKLFSA-N				
+30	succinyl-Met-Val-Pro-Phe-4-nitroanilide	5584	MKTCKIYGFQCTIS-VZTVMPNDSA-N				
+32	succinyl-Lys-Pro-Phe-4-nitroanilide	10875	FGIROCKRKVGUJN-HJOGWXRNSA-N				
+33	succinyl-Phe-Val-Pro-Phe-4-nitroanilide	5585	BSMIMUOMFFQXMO-ZGDGUDBWSA-N				
+37	succinyl-Leu-Pro-Phe-4-nitroanilide	10873	XOLDYOMGVDACAQ-HJOGWXRNSA-N				
+38	succinyl-Ala-Pro-Phe-4-nitroanilide	7388	SDUAKMPTDHAQKJ-XRQBVDHJSA-N				
+38	succinyl-Ser-Pro-Phe-4-nitroanilide	10884	CFXDFGWREFEKMF-ACRUOGEOSA-N				
+38	succinyl-Thr-Pro-Phe-4-nitroanilide	7394	PMDVINIXNOAYGX-QKDODKLFSA-N				
+51	succinyl-Ala-Pro-Phe-4-nitroanilide	7388	SDUAKMPTDHAQKJ-XRQBVDHJSA-N				
+53	succinyl-Glu-Val-Pro-Phe-4-nitroanilide	10872	CCKUMEZOVJIKNK-MGQBIDJDSA-N				
+53	succinyl-Met-Val-Pro-Phe-4-nitroanilide	5584	MKTCKIYGFQCTIS-VZTVMPNDSA-N				
+56	succinyl-Gln-Pro-Phe-4-nitroanilide	10870	FRNYCQUVWVZCDR-FKBYEOEOSA-N				
+56	succinyl-Phe-Val-Pro-Phe-4-nitroanilide	5585	BSMIMUOMFFQXMO-ZGDGUDBWSA-N				
+57	succinyl-Val-Pro-Phe-4-nitroanilide	6336	WXLJMJFAMYVXHX-HWBMXIPRSA-N				
+58	succinyl-Lys-Val-Pro-Phe-4-nitroanilide	10876	QGHNLMGVRPPREV-YRUYCOJQSA-N				
+61	succinyl-Glu-Pro-Phe-4-nitroanilide	10871	RLTPUJDOELVTRF-FKBYEOEOSA-N				
+65	angiotensin I	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N				
+65	succinyl-Ala-Ala-Pro-Phe-4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N				
+65	succinyl-Thr-Pro-Phe-4-nitroanilide	7394	PMDVINIXNOAYGX-QKDODKLFSA-N				
+66	succinyl-Lys-Val-Pro-Phe-4-nitroanilide	10876	QGHNLMGVRPPREV-YRUYCOJQSA-N				
+68	succinyl-Glu-Val-Pro-Phe-4-nitroanilide	10872	CCKUMEZOVJIKNK-MGQBIDJDSA-N				
+75	succinyl-Val-Pro-Phe-4-nitroanilide	6336	WXLJMJFAMYVXHX-HWBMXIPRSA-N				
+75	succinyl-Val-Pro-Phe-4-nitroanilide	6336	WXLJMJFAMYVXHX-HWBMXIPRSA-N				
+77	succinyl-Leu-Pro-Phe-4-nitroanilide	10873	XOLDYOMGVDACAQ-HJOGWXRNSA-N				
+79	succinyl-Leu-Val-Pro-Phe-4-nitroanilide	10874	YHDWQNOFCGFTQL-YRUYCOJQSA-N				
+86	succinyl-Gln-Pro-Phe-4-nitroanilide	10870	FRNYCQUVWVZCDR-FKBYEOEOSA-N				
+100	succinyl-Met-Pro-Phe-4-nitroanilide	10877	FNQRFPHVWWKSCE-VABKMULXSA-N				
+120	succinyl-Thr-Pro-Phe-4-nitroanilide	7394	PMDVINIXNOAYGX-QKDODKLFSA-N				
+140	angiotensin I	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N				glycosylated enzyme
+143	Ala-Ala-Pro-Phe-4-nitroanilide	7705	ZCWMSMLAGCXPPA-FHQLIMNDSA-N				wild type enzyme
+143	angiotensin I	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N				deglycosylated enzyme
+149	angiotensin I	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N				
+160	DRVWIHPFHL	21134	WMNLHPCAOHRAON-BOPPZIMTSA-N				
+210	DRVWIHPWHL	21135	HGLWNAAKEQVSEW-BFYRRKHWSA-N				

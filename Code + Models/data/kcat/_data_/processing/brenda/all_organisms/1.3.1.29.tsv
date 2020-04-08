@@ -1,0 +1,19 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.1	3,4-dihydro-3,4-dihydroxy-2,2',5,5'-tetrachlorobiphenyl	8681	JQLOFSCLYOAMEZ-UHFFFAOYSA-N				strain G7
+5.25	fluoranthene 2,3-dihydrodiol	41816	WZPSABMMMAFNIT-UHFFFAOYSA-N				
+5.6	(1R,2S)-1,2-dihydronaphthalene-1,2-diol	19840	QPUHWUSUBHNZCG-VHSXEESVSA-N	25	7.0		at pH 7.0 and 25C
+6.35	pyrene 4,5-dihydrodiol	41815	NIUGQCSXPHANNG-UHFFFAOYSA-N				
+7.9	benzo(a)pyrene dihydrodiol	41817	YDXRLMMGARHIIC-UHFFFAOYSA-N				
+8.3	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	7.0		at pH 7.0 and 25C
+9.1	benzo(a)anthracene 1,2-dihydrodiol	24371	YWAOPVBJYIKFQW-UHFFFAOYSA-N				
+16.7	phenanthrene 3,4-dihydrodiol	24369	FOTICWSJABVKPW-UHFFFAOYSA-N				
+20.3	chrysene 3,4-dihydrodiol	12125	XOKPMCWSKPASGO-UHFFFAOYSA-N		7.0		at pH 7.0
+21.6	anthracene 1,2-dihydrodiol	24370	UJETWGFPSGKAAS-UHFFFAOYSA-N				
+24.6	biphenyl 2,3-dihydrodiol	5626	UMAHGMFKBJHGME-NWDGAFQWSA-N		7.0		at pH 7.0
+26.4	(1R,2S)-1,2-dihydronaphthalene-1,2-diol	19840	QPUHWUSUBHNZCG-VHSXEESVSA-N	25	9.4		at pH 9.4 and 25C
+28.2	naphthalene 1,2-dihydrodiol	10805	QPUHWUSUBHNZCG-UHFFFAOYSA-N				
+36.6	NAD+	4	BAWFJGJZGIEFAR-NNYOXOHSSA-O	25	9.4		at pH 9.4 and 25C
+51.7	cis-2,3-dihydro-2,3-dihydroxybiphenyl	5626	UMAHGMFKBJHGME-NWDGAFQWSA-N				strain G7
+149	cis-Naphthalene dihydrodiol	5538	QPUHWUSUBHNZCG-ZJUUUORDSA-N				strain G7
+218	chrysene 3,4-dihydrodiol	12125	XOKPMCWSKPASGO-UHFFFAOYSA-N		9.5		at pH 9.5
+321	biphenyl 2,3-dihydrodiol	5626	UMAHGMFKBJHGME-NWDGAFQWSA-N		9.5		at pH 9.5

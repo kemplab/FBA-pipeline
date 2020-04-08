@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2.5	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		8.5		pH 8.5, temperature not specified in the publication, isozyme GLS2
+10	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		8.5		pH 8.5, temperature not specified in the publication, isozyme GLS1
+20	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		8.5	X	pH 8.5, temperature not specified in the publication, GAC mutant Y394L
+22	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		8.5		pH 8.5, temperature not specified in the publication, wild-type GAC
+40	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N		8.5	X	pH 8.5, temperature not specified in the publication, GAC mutant F322S/F318Y

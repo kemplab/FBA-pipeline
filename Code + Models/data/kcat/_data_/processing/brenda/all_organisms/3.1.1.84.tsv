@@ -1,0 +1,38 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.002	(-)-cocaine	1841	ZPUCINDJVBIVPJ-LJISPDSOSA-N	25			wild type enzyme, pH not specified in the publication, at 25C
+0.046	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	117	7.4	X	pH 7.4, mutant enzyme S117C
+0.057	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N		7.4	X	pH 7.4, mutant enzyme F408A
+0.067	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N		7.4	X	pH 7.4, mutant enzyme L407A
+0.068	(-)-cocaine	1841	ZPUCINDJVBIVPJ-LJISPDSOSA-N	25	7.5		wild type enzyme, at 25C, in 0.1 M potassium phosphate, pH 7.5
+0.1	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N		7.4	X	pH 7.4, mutant enzyme W151A
+0.27	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N		7.4	X	pH 7.4, mutant enzyme F261A; pH 7.4, mutant enzyme W166A
+0.55	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N		7.4	X	pH 7.4, mutant enzyme Q55E
+1.7	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N		7.4	X	pH 7.4, mutant enzyme Q55A
+7.8	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N		7.4		pH 7.4, wild-type enzyme
+9.4	cocaethylene	11227	NMPOSNRHZIWLLL-UHFFFAOYSA-N		7.4		pH 7.4, wild-type enzyme
+28.83	(-)-cocaine	1841	ZPUCINDJVBIVPJ-LJISPDSOSA-N	25		X	mutant enzyme A199S/F227A/S287G/A328W/E441D, pH not specified in the publication, at 25C
+31.45	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	37	7.4	X	mutant enzyme T172R/G173Q -YGRKKRRQRRR, at pH 7.4 and 37C
+32.62	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	37	7.4	X	mutant enzyme YGRKKRRQRRR-T172R/G173Q, at pH 7.4 and 37C
+34.42	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	37	7.4	X	mutant enzyme LMWP-T172R/G173Q, at pH 7.4 and 37C
+35.17	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	37	7.4	X	mutant enzyme T172R/G173Q -LMWP, at pH 7.4 and 37C
+36.1	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	37	7.4	X	mutant enzyme G173Q, at pH 7.4 and 37C
+39	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	4		X	mutant enzyme T172R/G173Q/G4C/S10C, at 37C, pH not specified in the publication
+39.17	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	37	7.4	X	mutant enzyme LMWP-S-S-T172R/G173Q, at pH 7.4 and 37C
+40.1	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	37		X	pegylated mutant enzyme T172R/G173Q, pH not specified in the publication, 37C
+43.3	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	37		X	mutant enzyme T172R/G173Q, at 37C, pH not specified in the publication
+44.85	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	37	7.4		wild type enzyme, at pH 7.4 and 37C
+49.9	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	4		X	mutant enzyme G4C/S10C, pH not specified in the publication, 37C
+50.9	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	37	7.4	X	mutant enzyme T172R, at pH 7.4 and 37C
+51	(-)-cocaine	1841	ZPUCINDJVBIVPJ-LJISPDSOSA-N	25	7.5	X	mutant enzyme A199S/S287G/A328W/Y332G, at 25C, in 0.1 M potassium phosphate, pH 7.5
+51	(-)-cocaine	1841	ZPUCINDJVBIVPJ-LJISPDSOSA-N	25		X	mutant enzyme A199S/S287G/A328W/Y332G, pH not specified in the publication, at 25C
+51.4	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	37			wild type enzyme, pH not specified in the publication, 37C
+51.4	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	37	7.4		wild type enzyme, at pH 7.4 and 37C
+53.4	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	37	7.4	X	mutant enzyme T172R/G13Q, at pH 7.4 and 37C
+56.6	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	37		X	mutant enzyme T172R/G173Q, pH not specified in the publication, 37C
+57.7	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	196		X	mutant enzyme T172R/G173Q/L196C/I301C, at 37C, pH not specified in the publication
+73.83	(-)-cocaine	1841	ZPUCINDJVBIVPJ-LJISPDSOSA-N	25		X	mutant enzyme A199S/F227A/S287G/A328W/Y332G/E441D, pH not specified in the publication, at 25C
+80.1	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	37	7.4	X	mutant enzyme L169K, at pH 7.4 and 37C
+2247	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	37		X	ph 7.4, 37C, mutant enzyme T172R/G173Q
+2323	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, wild-type enzyme
+2384	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	37		X	ph 7.4, 37C, mutant enzyme G173Q
+2502	cocaine	934	ZPUCINDJVBIVPJ-UHFFFAOYSA-N	37		X	ph 7.4, 37C, mutant enzyme T172R

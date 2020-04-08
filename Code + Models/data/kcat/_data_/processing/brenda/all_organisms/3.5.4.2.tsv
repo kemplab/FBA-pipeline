@@ -1,0 +1,48 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.022	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5	X	mutant D284A, pH 7.5, 30C
+0.036	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5	X	mutant H90D, pH 7.5, 30C
+0.05	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5	X	mutant H92N, pH 7.5, 30C
+0.053	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	90	7.5	X	mutant H90C, pH 7.5, 30C
+0.06	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5	X	mutant E185Q, pH 7.5, 30C
+0.072	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5	X	mutant E236Q, pH 7.5, 30C
+0.08	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5	X	mutant H92Q, pH 7.5, 30C
+0.13	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5	X	mutant H120N, pH 7.5, 30C
+0.42	6-Chloropurine	2028	ZKBQDFAWXLTYKS-UHFFFAOYSA-N				pH and temperature not specified in the publication
+0.48	N-6-methyladenine	8309	CKOMXBHMKXXTNW-UHFFFAOYSA-N				pH and temperature not specified in the publication
+0.5	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5	X	mutant H214N, pH 7.5, 30C; mutant H235N, pH 7.5, 30C
+0.52	6-methoxypurine	4174	GOILPRCCOREWQE-UHFFFAOYSA-N				pH and temperature not specified in the publication
+0.69	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	92	7.5	X	mutant H92C, pH 7.5, 30C
+0.8	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5	X	mutant H90Q, pH 7.5, 30C; mutant H92D, pH 7.5, 30C
+0.84	6-Chloropurine	2028	ZKBQDFAWXLTYKS-UHFFFAOYSA-N				pH and temperature not specified in the publication
+1.2	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5	X	mutant H235D, pH 7.5, 30C
+1.28	N-6-methyladenine	8309	CKOMXBHMKXXTNW-UHFFFAOYSA-N				pH and temperature not specified in the publication
+1.3	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5	X	mutant H214Q, pH 7.5, 30C; mutant H235Q, pH 7.5, 30C
+1.5	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	235	7.5	X	mutant H235C, pH 7.5, 30C
+1.8	2,6-diaminopurine	1920	MSSXOMSJDRHRMC-UHFFFAOYSA-N				pH and temperature not specified in the publication
+1.9	6-Chloropurine	2028	ZKBQDFAWXLTYKS-UHFFFAOYSA-N				pH and temperature not specified in the publication
+1.9	6-methoxypurine	4174	GOILPRCCOREWQE-UHFFFAOYSA-N				pH and temperature not specified in the publication
+2	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5		wild-type, pH 7.5, 30C
+2.2	6-methoxypurine	4174	GOILPRCCOREWQE-UHFFFAOYSA-N				pH and temperature not specified in the publication
+3	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N				pH and temperature not specified in the publication
+5.5	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	33	7.0		; 0.067 mM adenine in 0.2 M phosphate buffer, 33C, pH 7.0
+6.9	2,6-diaminopurine	1920	MSSXOMSJDRHRMC-UHFFFAOYSA-N				pH and temperature not specified in the publication
+7.1	6-methoxypurine	4174	GOILPRCCOREWQE-UHFFFAOYSA-N				pH and temperature not specified in the publication
+8	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5	X	mutant H90N, pH 7.5, 30C
+12.3	2,6-diaminopurine	1920	MSSXOMSJDRHRMC-UHFFFAOYSA-N	40	7.4		at pH 7.4 and 40C
+13.4	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N				; 
+16.75	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+17	2,6-diaminopurine	1920	MSSXOMSJDRHRMC-UHFFFAOYSA-N				pH and temperature not specified in the publication
+20.8	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	40	7.4		at pH 7.4 and 40C
+37	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5	X	mutant D285A, pH 7.5, 30C
+56	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N				pH and temperature not specified in the publication
+57	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5	X	mutant E121Q, pH 7.5, 30C
+61	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N				pH and temperature not specified in the publication
+62	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N				pH and temperature not specified in the publication
+78	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5	X	mutant S95A, pH 7.5, 30C
+123	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, wild-type Zn/Zn-ADE
+171	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5	X	mutant D474N, pH 7.5, 30C
+173	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5	X	mutant D118N, pH 7.5, 30C
+178	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5	X	mutant H473N, pH 7.5, 30C
+185	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, wild-type Mn/Mn-ADE
+196	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C, wild-type Fe/Fe-ADE
+200	adenine	136	GFFGJBXGBJISGV-UHFFFAOYSA-N	30	7.5		wild-type, pH 7.5, 30C, + Fe sequestered with a metal chelator, growth medium supplemented with Mn2+ prior to induction

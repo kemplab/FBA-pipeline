@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme, in HEPES buffer
+9.58	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N				
+15	L-serine	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	25	7.0		pH 7.0, 25C, recombinant enzyme, in phosphate buffer
+0.02	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N			X	mutant S394N, in the presence of pyridoxal phosphate
+0.02167	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N			X	mutant L474F, in the presence of pyridoxal phosphate
+0.04	tetrahydrofolate	184	MSTNYGQPCMXVAQ-RYUDHWBXSA-N				wild-type, in the presence of pyridoxal phosphate

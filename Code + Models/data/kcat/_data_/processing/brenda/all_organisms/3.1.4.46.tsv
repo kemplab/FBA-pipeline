@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.24	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		7.0	X	N80D mutant protein, pH 7.0, 1 mM CoCl2
+1.89	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		7.0		wild-type protein, pH 7.0, 1 mM CoCl2
+6.4	p-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N		7.0	X	N80A mutant protein, pH 7.0, 1 mM CoCl2
+3.2	glycerophosphocholine	1428	SUHOQUVVVLNYQR-MRVPVSSYSA-O	35	7.4		5 mM Mg2+, pH 7.4, 35C
+3.2	glycerophosphocholine	1428	SUHOQUVVVLNYQR-MRVPVSSYSA-O				
+1.4	bis(p-nitrophenyl) phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N		10.0		pH 10.0, Co(II)-substituted enzyme; pH 9.0, Co(II)-substituted enzyme
+2	bis(p-nitrophenyl) phosphate	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N		11.0		pH 11.0, Co(II)-substituted enzyme
+1.1	glycerophosphoethanolamine	3153	JZNWSCPGTDBMEW-YFKPBYRVSA-N	35	7.4		5 mM Mg2+, pH 7.4, 35C
+1.1	glycerophosphoethanolamine	3153	JZNWSCPGTDBMEW-YFKPBYRVSA-N				
+2.8	glycerophosphoserine	4112	ZWZWYGMENQVNFU-AKGZTFGVSA-N	35	7.4		UgpQ, 5 mM Mg2+, pH 7.4, 35C
+2.8	glycerophosphoserine	4112	ZWZWYGMENQVNFU-AKGZTFGVSA-N				
+3.3	glycerophosphoglycerol	4855	LLCSXHMJULHSJN-UHFFFAOYSA-N	35	7.4		5 mM Mg2+, pH 7.4, 35C
+3.3	glycerophosphoglycerol	4855	LLCSXHMJULHSJN-UHFFFAOYSA-N				
+1.8	glycerophosphoinositol	4856	BMVUIWJCUQSHLZ-SLDVFWOTSA-N	35	7.4		5 mM Mg2+, pH 7.4, 35C
+1.8	glycerophosphoinositol	4856	BMVUIWJCUQSHLZ-SLDVFWOTSA-N				
+0.176	bis(p-nitrophenyl phosphate)	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N				in the presence of 0.1 mM Zn2+
+2.78	bis(p-nitrophenyl phosphate)	715	MHSVUSZEHNVFKW-UHFFFAOYSA-N				in the presence of 0.1 mM Fe2+

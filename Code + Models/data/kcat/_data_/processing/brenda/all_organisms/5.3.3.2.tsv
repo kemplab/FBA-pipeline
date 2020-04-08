@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000197	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	60	6.0	X	pH 6.0, 60C, mutant enzyme Q160N
+0.00022	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	60	6.0	X	pH 6.0, 60C, mutant enzyme Q160L
+0.001	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	60	6.0	X	pH 6.0, 60C, mutant enzyme Q160H
+0.003	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	60	6.0	X	pH 6.0, 60C, mutant enzyme Q160E
+0.03	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	60	6.0		pH 6.0, 60C, wild-type enzyme
+0.065	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.0		aerobic, presence of NADPH, pH 7.0, 37C
+0.2	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	60	6.0		pH 6.0, 60C
+0.57	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.0		aerobic, presence of dithionite, pH 7.0, 37C
+0.69	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.0		anaerobic, presence of NADPH, pH 7.0, 37C
+1.6	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N				
+17.9	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C
+191	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	85	7.0		pH 7.0, 85C
+197	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	60	6.0	X	mutant enzyme Q160N, in 50 mM MOPS-NaOH, pH 6.0, at 60C
+221	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	60	6.0	X	mutant enzyme Q160L, in 50 mM MOPS-NaOH, pH 6.0, at 60C
+1210	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	60	6.0	X	mutant enzyme Q160H, in 50 mM MOPS-NaOH, pH 6.0, at 60C
+3280	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	60	6.0	X	mutant enzyme Q160E, in 50 mM MOPS-NaOH, pH 6.0, at 60C
+29900	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	60	6.0		wild type enzyme, in 50 mM MOPS-NaOH, pH 6.0, at 60C

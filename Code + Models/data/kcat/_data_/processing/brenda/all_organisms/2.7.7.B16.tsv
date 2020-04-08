@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00055	NTP	1046	GWRFHFZMNUJGLU-TXICZTDVSA-N	70	8.5		KM-value is determined by measuring the priming rate at different concentrations of NTPs, 70C, pH 8.5, in presence of M13 ssDNA as template, wild-type enzyme
+0.011	NTP	1046	GWRFHFZMNUJGLU-TXICZTDVSA-N	55	6.5		recombinant PriSX, pH 6.5, 55C
+0.022	NTP	1046	GWRFHFZMNUJGLU-TXICZTDVSA-N	55	6.5		recombinant PriSLX, pH 6.5, 55C

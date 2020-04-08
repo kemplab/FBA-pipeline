@@ -1,0 +1,31 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00002	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N		8.0	X	mutant K149A, cosubstrate RNAn containing a terminal G residue, pH 8.0, temperature not specified in the publication
+0.0000293	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.0		pH 8.0, 37C
+0.00003	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N		8.0	X	mutant V271R, cosubstrate RNAn containing a terminal G residue, pH 8.0, temperature not specified in the publication
+0.000033	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N			X	mutant R121A
+0.00005	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N		8.0	X	mutant C83F, cosubstrate RNAn containing a terminal G residue, pH 8.0, temperature not specified in the publication
+0.0000666	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N			X	mutant D297N
+0.00011	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N			X	mutant R141A
+0.00012	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N		8.0	X	mutant V271R/C83F, cosubstrate RNAn containing a terminal G residue, pH 8.0, temperature not specified in the publication
+0.000133	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N			X	mutant R307A
+0.000248	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	37	8.0		pH 8.0, 37C
+0.0003	RNAn	1941	DCLDSIDYVXLCKV-YNAVGHPFSA-N		8.0		recombinant enzyme, pH 8.0, temperature not specified in the publication
+0.0003	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N		8.0		wild-type, cosubstrate RNAn containing a terminal G residue, pH 8.0, temperature not specified in the publication
+0.00033	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N			X	mutant D297A
+0.000403	GTP	35	XKMLYUALXHKNFT-UUOKFMHZSA-N	37	8.0		pH 8.0, 37C
+0.0005	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N			X	mutant S188A
+0.0007	RNAn	1941	DCLDSIDYVXLCKV-YNAVGHPFSA-N		8.0		RNA editing core complex RECC, pH 8.0, temperature not specified in the publication
+0.000914	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	37	8.0		pH 8.0, 37C
+0.0012	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N		8.0	X	mutant V271R, cosubstrate RNAn containing a terminal U residue, pH 8.0, temperature not specified in the publication
+0.0015	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N		8.0	X	mutant C83F, cosubstrate RNAn containing a terminal U residue, pH 8.0, temperature not specified in the publication
+0.00166	RNA	439	SMFIZLOMDPDKTP-VHXIBLMRSA-N			X	mutant S188A
+0.0018	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N		8.0	X	mutant V271R/C83F, cosubstrate RNAn containing a terminal U residue, pH 8.0, temperature not specified in the publication
+0.003	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N		8.0		wild-type, cosubstrate RNAn containing a terminal U residue, pH 8.0, temperature not specified in the publication
+0.005	RNA	439	SMFIZLOMDPDKTP-VHXIBLMRSA-N			X	mutant R121A
+0.005	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N			X	mutant N147A
+0.0066	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N			X	mutant E300A
+0.00833	RNA	439	SMFIZLOMDPDKTP-VHXIBLMRSA-N			X	mutant R307A
+0.015	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N			X	mutant Y189F
+0.0166	RNA	439	SMFIZLOMDPDKTP-VHXIBLMRSA-N			X	mutant S148A
+0.021	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N			X	mutant S148A
+0.0216	RNA	439	SMFIZLOMDPDKTP-VHXIBLMRSA-N			X	mutant R141A

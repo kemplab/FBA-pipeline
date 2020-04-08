@@ -1,0 +1,44 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000167	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N				
+0.00053	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	37	7.0		37C, pH 7.0, wild-type enzyme
+0.0014	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	37	7.0		37C, pH 7.0, wild-type enzyme S185N
+0.002	UDP-glucose	60	HSCJRCZFDFQWRP-JZMIEXBBSA-N	37	7.0		37C, pH 7.0, wild-type enzyme S185C
+0.004	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N			X	P234S mutant
+0.0042	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N			X	mutant enzyme M214R
+0.039	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N			X	mutant A268T; mutant A268T; mutant A268T; mutant A268T; mutant A268T; mutant A268T
+0.085	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				
+0.092	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0		37C, pH 7.0, wild-type enzyme S185C
+0.108	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				
+0.108	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				
+0.52	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0		37C, pH 7.0, wild-type enzyme S185N
+1.3	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N			X	mutant ezyme M214V
+2	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N			X	mutant F216I; mutant F216I; mutant F216I; mutant F216I; mutant F216I; mutant F216I
+2.5	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N			X	mutant D262N; mutant D262N; mutant D262N; mutant D262N; mutant D262N; mutant D262N
+5.1	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				wild-type enzyme
+5.1	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				wild-type enzyme; wild-type enzyme; wild-type enzyme; wild-type enzyme; wild-type enzyme; wild-type enzyme
+5.2	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0		37C, pH 7.0, wild-type enzyme
+5.4	UDP-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N			X	mutant enzyme M214T
+4	UDP-GalNAc	303	LFTYTUAZOPRMMI-NESSUJCYSA-N	37	7.0	X	pH 7.0, 37C, recombinant mutant M214G
+5	UDP-GalNAc	303	LFTYTUAZOPRMMI-NESSUJCYSA-N	37	7.0	X	pH 7.0, 37C, recombinant mutant M214S
+5.1	UDP-GalNAc	303	LFTYTUAZOPRMMI-NESSUJCYSA-N	37	7.0		pH 7.0, 37C, recombinant wild-type enzyme
+0.00016	UDP-N-acetylgalactosamine	303	LFTYTUAZOPRMMI-NESSUJCYSA-N			X	mutant enzyme M214R
+0.005	UDP-N-acetylgalactosamine	303	LFTYTUAZOPRMMI-NESSUJCYSA-N				
+0.005	UDP-N-acetylgalactosamine	303	LFTYTUAZOPRMMI-NESSUJCYSA-N				
+0.37	UDP-N-acetylgalactosamine	303	LFTYTUAZOPRMMI-NESSUJCYSA-N			X	mutant enzyme M214V
+0.42	UDP-N-acetylgalactosamine	303	LFTYTUAZOPRMMI-NESSUJCYSA-N				wild-type enzyme
+1.6	UDP-N-acetylgalactosamine	303	LFTYTUAZOPRMMI-NESSUJCYSA-N			X	mutant enzyme M214T
+0.000004	UDP-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N			X	mutant R188S enzyme
+0.15	UDP-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N			X	mutant M186V enzyme
+5.1	UDP-D-galactose	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N				wild-type enzyme
+0.37	UDP-Gal	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0		pH 7.0, 37C, recombinant wild-type enzyme
+0.7	UDP-Gal	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	pH 7.0, 37C, recombinant mutant M214S
+0.74	UDP-Gal	123	HSCJRCZFDFQWRP-ABVWGUQPSA-N	37	7.0	X	pH 7.0, 37C, recombinant mutant M214G
+0.15	beta-D-galactosyl-(1-&gt;4)-beta-D-glucosyl-(1&lt;-&gt;1)-ceramide	1548	JZWZSTXXMJPBLC-SQUNGEPOSA-N		7.0	X	mutant C89S/C196S/C209S, pH 7.0, temperature not specified in the publication, co-substrate: donor UDP-GalNAc
+0.41	beta-D-galactosyl-(1-&gt;4)-beta-D-glucosyl-(1&lt;-&gt;1)-ceramide	1548	JZWZSTXXMJPBLC-SQUNGEPOSA-N		7.0		deletion construct with amino acids 68-354, pH 7.0, temperature not specified in the publication, co-substrate: donor UDP-GalNAc
+0.7	beta-D-galactosyl-(1-&gt;4)-beta-D-glucosyl-(1&lt;-&gt;1)-ceramide	1548	JZWZSTXXMJPBLC-SQUNGEPOSA-N		7.0	X	mutant C80S/C196S, pH 7.0, temperature not specified in the publication, co-substrate: donor UDP-GalNAc
+5.6	beta-D-galactosyl-(1-&gt;4)-beta-D-glucosyl-(1&lt;-&gt;1)-ceramide	1548	JZWZSTXXMJPBLC-SQUNGEPOSA-N		7.0	X	mutant C80S/C196S, pH 7.0, temperature not specified in the publication, co-substrate: donor UDP-alpha-D-galactose
+7.3	beta-D-galactosyl-(1-&gt;4)-beta-D-glucosyl-(1&lt;-&gt;1)-ceramide	1548	JZWZSTXXMJPBLC-SQUNGEPOSA-N		7.0		deletion construct with amino acids 68-354, pH 7.0, temperature not specified in the publication, co-substrate: donor UDP-alpha-D-galactose
+8	beta-D-galactosyl-(1-&gt;4)-beta-D-glucosyl-(1&lt;-&gt;1)-ceramide	1548	JZWZSTXXMJPBLC-SQUNGEPOSA-N		7.0	X	mutant C89S/C196S/C209S, pH 7.0, temperature not specified in the publication, co-substrate: donor UDP-alpha-D-galactose
+3.5	alpha-L-Fucp-(1,2)-beta-D-Galp-O(CH2)7CH3	9342	GTTDTLMUWQMDNA-VZDOGSDZSA-N	37	7.0		37C, pH 7.0
+0.5	alpha-L-Fucp-(1,2)-beta-D-Galp-(1,3)-beta-D-GlcNAcp-O(CH2)7CH3	12133	MYENRWVMEUDGQA-SKKHWUFESA-N	37	7.0		37C, pH 7.0
+1.2	alpha-L-Fucp-(1,2)-beta-D-Galp-(1,4)-beta-D-GlcNAcp-O(CH2)8CO2CH3	12134	QEZKYNPMOCSVNG-JZBPMIOASA-N	37	7.0		37C, pH 7.0

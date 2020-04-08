@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00023	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate	3658	MDSIZRKJVDMQOQ-GORDUTHDSA-N			X	mutant Y211T
+0.00058	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate	3658	MDSIZRKJVDMQOQ-GORDUTHDSA-N			X	mutant H214L
+0.001	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate	3658	MDSIZRKJVDMQOQ-GORDUTHDSA-N			X	mutant D173G
+0.002	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N			X	mutant Y211T
+0.00828	AMP	9	UDMBCSSLTHHNCD-KQYNXXCUSA-N	25	8.0		pH 8.0, 25C
+0.01	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate	3658	MDSIZRKJVDMQOQ-GORDUTHDSA-N			X	mutant E210N
+0.022	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	8.0		pH 8.0, 25C
+0.023	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate	3658	MDSIZRKJVDMQOQ-GORDUTHDSA-N			X	mutant E213Q
+0.023	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N			X	mutant D173G; mutant E210N
+0.0235	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N				
+0.024	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	25	8.0		pH 8.0, 25C
+0.025	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate	3658	MDSIZRKJVDMQOQ-GORDUTHDSA-N				wild-type
+0.027	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C
+0.033	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N			X	mutant E213Q
+0.0345	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N				
+0.053	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N				wild-type
+0.09	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N			X	mutant H214L

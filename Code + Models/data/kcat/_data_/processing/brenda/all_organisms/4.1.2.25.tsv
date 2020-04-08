@@ -1,0 +1,19 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000022	7,8-dihydroneopterin	2519	YQIFAMYNGGOTFB-XINAWCOVSA-N		8.3	X	mutant enzyme K100A, in 100 mM Tris-HCl, 1 mM EDTA, and 5 mM dithiothreitol (pH 8.3)
+0.0000043	7,8-dihydroneopterin	2519	YQIFAMYNGGOTFB-XINAWCOVSA-N		8.3	X	mutant enzyme K98A, in 100 mM Tris-HCl, 1 mM EDTA, and 5 mM dithiothreitol (pH 8.3)
+0.0000065	7,8-dihydroneopterin	2519	YQIFAMYNGGOTFB-XINAWCOVSA-N		8.3	X	mutant enzyme E21A, in 100 mM Tris-HCl, 1 mM EDTA, and 5 mM dithiothreitol (pH 8.3)
+0.0000093	7,8-dihydroneopterin	2519	YQIFAMYNGGOTFB-XINAWCOVSA-N		8.3	X	mutant enzyme E22A, in 100 mM Tris-HCl, 1 mM EDTA, and 5 mM dithiothreitol (pH 8.3)
+0.000016	7,8-dihydroneopterin	2519	YQIFAMYNGGOTFB-XINAWCOVSA-N		8.3	X	mutant enzyme K100Q, in 100 mM Tris-HCl, 1 mM EDTA, and 5 mM dithiothreitol (pH 8.3)
+0.00073	7,8-dihydroneopterin	2519	YQIFAMYNGGOTFB-XINAWCOVSA-N		8.3	X	mutant enzyme E73A, in 100 mM Tris-HCl, 1 mM EDTA, and 5 mM dithiothreitol (pH 8.3)
+0.0054	7,8-dihydroneopterin	2519	YQIFAMYNGGOTFB-XINAWCOVSA-N	22	7.0		pH 7.0, 22C
+0.045	7,8-dihydroneopterin	2519	YQIFAMYNGGOTFB-XINAWCOVSA-N		8.3		wild type enzyme, in 100 mM Tris-HCl, 1 mM EDTA, and 5 mM dithiothreitol (pH 8.3)
+0.082	7,8-dihydroneopterin	2519	YQIFAMYNGGOTFB-XINAWCOVSA-N		8.3		wild type enzyme, in 100 mM Tris-HCl, 1 mM EDTA, and 5 mM dithiothreitol (pH 8.3)
+0.0000023	7,8-dihydro-L-monapterin	2663	YQIFAMYNGGOTFB-NJGYIYPDSA-N		8.3	X	mutant enzyme E21A, in 100 mM Tris-HCl, 1 mM EDTA, and 5 mM dithiothreitol (pH 8.3)
+0.0000051	7,8-dihydro-L-monapterin	2663	YQIFAMYNGGOTFB-NJGYIYPDSA-N		8.3	X	mutant enzyme K100A, in 100 mM Tris-HCl, 1 mM EDTA, and 5 mM dithiothreitol (pH 8.3)
+0.0000053	7,8-dihydro-L-monapterin	2663	YQIFAMYNGGOTFB-NJGYIYPDSA-N		8.3	X	mutant enzyme K98A, in 100 mM Tris-HCl, 1 mM EDTA, and 5 mM dithiothreitol (pH 8.3)
+0.0000057	7,8-dihydro-L-monapterin	2663	YQIFAMYNGGOTFB-NJGYIYPDSA-N		8.3	X	mutant enzyme K100Q, in 100 mM Tris-HCl, 1 mM EDTA, and 5 mM dithiothreitol (pH 8.3)
+0.000006	7,8-dihydro-L-monapterin	2663	YQIFAMYNGGOTFB-NJGYIYPDSA-N		8.3	X	mutant enzyme E73A, in 100 mM Tris-HCl, 1 mM EDTA, and 5 mM dithiothreitol (pH 8.3)
+0.0000065	7,8-dihydro-L-monapterin	2663	YQIFAMYNGGOTFB-NJGYIYPDSA-N		8.3	X	mutant enzyme E22A, in 100 mM Tris-HCl, 1 mM EDTA, and 5 mM dithiothreitol (pH 8.3)
+0.01	7,8-dihydro-L-monapterin	2663	YQIFAMYNGGOTFB-NJGYIYPDSA-N		8.3		wild type enzyme, in 100 mM Tris-HCl, 1 mM EDTA, and 5 mM dithiothreitol (pH 8.3)
+0.089	7,8-dihydro-L-monapterin	2663	YQIFAMYNGGOTFB-NJGYIYPDSA-N		8.3		wild type enzyme, in 100 mM Tris-HCl, 1 mM EDTA, and 5 mM dithiothreitol (pH 8.3)
+0.006	7,8-dihydromonapterin	2663	YQIFAMYNGGOTFB-NJGYIYPDSA-N	22	7.0		pH 7.0, 22C

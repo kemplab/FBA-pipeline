@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+4.9	hyaluronan	113779	GQNMKWUSSIDLRI-NHCDDLATSA-N	30	6.0		recombinant enzyme, pH 6.0, 30C
+2.76	hyaluronic acid	2291	LJORHONFMDUUHP-VOGNPWKQSA-N	25	6.0	X	pH 6.0, 25C, recombinant mutant Q295E
+4.29	hyaluronic acid	2291	LJORHONFMDUUHP-VOGNPWKQSA-N	25	6.0	X	pH 6.0, 25C, recombinant mutant Y298F
+5.65	hyaluronic acid	2291	LJORHONFMDUUHP-VOGNPWKQSA-N	25	6.0		pH 6.0, 25C, recombinant wild-type enzyme
+7.61	hyaluronic acid	2291	LJORHONFMDUUHP-VOGNPWKQSA-N				

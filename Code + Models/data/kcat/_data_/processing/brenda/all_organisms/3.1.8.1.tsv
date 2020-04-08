@@ -1,0 +1,255 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+2060	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	30	9.0		recombinant wild-type enzyme bound to Cd2+ and Zn2+, pH 9.0, 30C
+2300	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	30	9.0		recombinant wild-type enzyme bound to Zn2+, pH 9.0, 30C
+2500	4-nitrophenyl phosphate	130	XZKIHKMTEMTJQX-UHFFFAOYSA-N	30	9.0		recombinant wild-type enzyme bound to Cd2+, pH 9.0, 30C
+0.0008	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0		pH 8.0
+0.001	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0		pH 8.0
+0.007	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0		pH 8.0, recombinant genetic variant G1A7
+0.009	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0		pH 8.0, recombinant genetic variant G1B11
+0.036	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	2	8.0		pH 8.0, recombinant genetic variant G2C2
+0.04	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0		pH 8.0, recombinant genetic variant G3A5
+0.11	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0		pH 8.0, recombinant genetic variant G3G3
+0.13	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25		X	25C, pH not specified in the publication, mutant enzyme Y34Q
+0.14	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0		pH 8.0, recombinant genetic variant G3H9
+0.14	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25		X	25C, pH not specified in the publication, mutant enzyme E14K
+0.17	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25		X	25C, pH not specified in the publication, mutant enzyme E14K/Y34Q
+0.24	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	70	8.0		pH 8.0, 70C, recombinant enzyme
+0.24	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	70	8.0		pH 8.0, 70C, wild-type enzyme
+0.45	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		7.4		in 50 mM Tris-HCl buffer, 10 mM CaCl2, pH 7.4
+0.54	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	1	8.0		pH 8.0, recombinant genetic variant G1C4
+0.68	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	70	8.0	X	pH 8.0, 70C, mutant enzyme Y97W
+0.79	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	70			70C, pH not specified in the publication
+0.87	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0		pH 8.0, recombinant genetic variant G2E6
+0.89	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0		pH 8.0, temperature not specified in the publication
+0.9	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25	8.0		wild-type, pH 8.0, 25C
+0.98	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0		pH 8.0, recombinant genetic variant G2D6
+1	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0	X	pH 8.0, mutant enzyme H115Q
+1.09	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0		pH 8.0, recombinant wild-type PON1 genetic variant G2E6
+1.1	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	3	8.0		pH 8.0, recombinant genetic variant G3C9
+1.16	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0		pH 8.0, recombinant genetic variant G1A5
+1.2	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0		pH 8.0, recombinant genetic variant G3H8
+1.42	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25			25C, pH not specified in the publication, wild-type enzyme
+1.63	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	70	8.0	X	pH 8.0, 70C, mutant enzyme Y97W/W263F
+2.2	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	70	8.0	X	pH 8.0, 70C, mutant enzyme Y97W/I261F
+2.29	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	70	8.0		pH 8.0, 70C
+2.7	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25			25C, 0.01% SDS, pH not specified in the publication
+3	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0		pH 8.0, wild-type enzyme
+3.3	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.3		pH 8.3, activity buffer
+3.7	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.3		pH 8.3, activity buffer with 0.01 mM apolipoprotein apoA-I rHDL
+3.7	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	70	8.0	X	pH 8.0, 70C, mutant enzyme Y97W/I98F/I261F
+3.76	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	70	8.0	X	pH 8.0, 70C, mutant enzyme W263F
+3.8	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25	8.0	X	mutant H115W/R192Q, pH 8.0, 25C
+3.98	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	70	9.0		70C, pH 9.0
+4.2	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0		pH 8.0, wild-type enzyme
+4.7	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0	X	pH 8.0, mutant enzyme H115Q/H134Q
+4.8	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N				recombinant enzyme
+5.7	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, type A paraoxonase
+5.8	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.3		pH 8.3, activity buffer with 0.1% tergitol
+6	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25	8.0	X	mutant H115W, pH 8.0, 25C
+8.52	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	70	8.5		pH 8.5, 70C, Mn2+-containing enzyme
+10.7	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25	8.0	X	mutant H115W/R192K, pH 8.0, 25C
+10.98	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, type B paraoxonase
+12.59	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25	9.0		25C, pH 9.0
+12.7	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0	X	pH 8.0, mutant enzyme H134Q
+14.31	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25			25C, 0.1% SDS, pH not specified in the publication
+50	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	30	8.5	X	Co2+-PTE mutant H123I, at pH 8.5 and 30C
+125	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25	10.5		pH 10.5, 25C, 3-fluorotyrosine-containing recombinant His6-tagged OPH
+390	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	30	8.5	X	Co2+-PTE mutant H123A, at pH 8.5 and 30C
+450	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25	9.0	X	mutant enzyme H254R/H257F, in 20 mM CHES buffer (pH 9.0) at 25C
+597	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	60	7.0		recombinant wild type enzyme, in 100 mM sodium phosphate buffer (pH 7.0), at 60C
+640	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25	9.0	X	mutant enzyme H254R/H257L, in 20 mM CHES buffer (pH 9.0) at 25C
+750	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25	9.0	X	mutant H254R, pH 9.0, 25C
+780	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.5		pH 8.5, recombinant wild-type enzyme-MBP fusion protein
+1200	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25	9.0	X	mutant enzyme H254R, in 20 mM CHES buffer (pH 9.0) at 25C
+1280	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.5		pH 8.5, recombinant genetic variants 1.5E-MBP fusion protein
+1290	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	30	8.5		Zn2+-PTE, at pH 8.5 and 30C
+1336	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25	7.2		pH 7.2, 25C
+1430	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.5		pH 8.5, recombinant genetic variants 1.6F-MBP fusion protein
+1610	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	30	8.5	X	Co2+-PTE mutant H123N, at pH 8.5 and 30C
+2100	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N				
+2150	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.5		pH 8.5, recombinant genetic variants 2.S5-MBP fusion protein
+2280	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		9.0		pH 9.0, recombinant wild-type enzyme; wild-type enzyme
+3400	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C
+4010	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	30	8.5		Co2+-PTE, at pH 8.5 and 30C
+5100	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25	10.5		pH 10.5, 25C, recombinant His6-tagged wild-type OPH
+6900	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25	9.0		wild type enzyme, in 20 mM CHES buffer (pH 9.0) at 25C
+8000	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25	9.0	X	mutant enzyme H257L, in 20 mM CHES buffer (pH 9.0) at 25C
+10500	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	25	9.0		wild-type enzyme, pH 9.0, 25C
+11700	Paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, recombinant His6-tagged wild-type OPH
+41	diisopropylfluorophosphate	216	MUCZHBLJLSDCSD-UHFFFAOYSA-N				
+89	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N				recombinant PON3
+552	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N	1	8.0		pH 8.0, recombinant genetic variant G1C4
+562	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N		8.0		pH 8.0, recombinant genetic variant G2D6
+789	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N	3	8.0		pH 8.0, recombinant genetic variant G3C9
+833	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N		8.0		pH 8.0, recombinant genetic variant G1A5
+965	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N		8.0		pH 8.0, recombinant genetic variant G2E6
+1018	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N		8.0		pH 8.0, recombinant genetic variant G3H8
+1236	phenyl acetate	659	IPBVNPXQWQGGJP-UHFFFAOYSA-N		8.0		pH 8.0, recombinant wild-type PON1
+2.2	chlorpyrifos	1343	SBPBAQFWLVIOKP-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+73.8	chlorpyrifos	1343	SBPBAQFWLVIOKP-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, wild-type enzyme
+1430	chlorpyrifos	1343	SBPBAQFWLVIOKP-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, genetic variant A1467
+2610	chlorpyrifos	1343	SBPBAQFWLVIOKP-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, genetic variant A1030
+3540	chlorpyrifos	1343	SBPBAQFWLVIOKP-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, genetic variant B2136
+20100	chlorpyrifos	1343	SBPBAQFWLVIOKP-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, genetic variant 22A11
+21500	chlorpyrifos	1343	SBPBAQFWLVIOKP-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, genetic variant B1368
+30900	chlorpyrifos	1343	SBPBAQFWLVIOKP-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, genetic variant B3561
+0.00089	malathion	1399	JXSJBGJIGXNWCI-UHFFFAOYSA-N	25	9.0		25C, pH 9.0
+2.55	malathion	1399	JXSJBGJIGXNWCI-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 50 mM HEPES buffer, pH 7.5, at pH, 25C
+6.2	malathion	1399	JXSJBGJIGXNWCI-UHFFFAOYSA-N	25	9		25C, pH 9
+23.01	malathion	1399	JXSJBGJIGXNWCI-UHFFFAOYSA-N	25	7.5	X	mutant enzyme A80V/I106V/F132D/K185R/D208G/H257W/I274N/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25C
+40.63	malathion	1399	JXSJBGJIGXNWCI-UHFFFAOYSA-N	25	7.5	X	mutant enzyme G60V/A80V/I106V/F132D/K185R/D208G/H257W/I274N/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25C
+44.92	malathion	1399	JXSJBGJIGXNWCI-UHFFFAOYSA-N	25	7.5	X	mutant enzyme G60V/A80V/I106V/F132D/K185R/D208G/H257W/I274N/F306V/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25C
+73.29	malathion	1399	JXSJBGJIGXNWCI-UHFFFAOYSA-N	25	7.5	X	mutant enzyme A80V/I106V/F132D/K185R/D208G/H257W/I274N/S308L/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25C
+160	malathion	1399	JXSJBGJIGXNWCI-UHFFFAOYSA-N	25	7.2		pH 7.2, 25C
+0.00783	Methyl paraoxon	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	35	9.0		at 35C, pH 9.0
+0.3	Methyl paraoxon	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	25	9	X	25C, pH 9, mutant enzyme E14K
+0.31	Methyl paraoxon	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	25	8.3		pH 8.3, 25C
+0.42	Methyl paraoxon	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	25	9	X	25C, pH 9, mutant enzyme Y34Q
+0.86	Methyl paraoxon	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	25	9	X	25C, pH 9, mutant enzyme E14K/Y34Q
+1.25	Methyl paraoxon	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	70	8.0		pH 8.0, 70C
+1.3	Methyl paraoxon	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	70	8.0		pH 8.0, 70C, recombinant enzyme
+2.71	Methyl paraoxon	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	25	9.0		25C, pH 9.0
+7.4	Methyl paraoxon	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	25	9		25C, pH 9, wild-type enzyme
+7.75	Methyl paraoxon	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	75	9.0		pH 9.0, 75C
+14.05	Methyl paraoxon	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	70	8.5		pH 8.5, 70C, Mn2+-containing enzyme
+342	Methyl paraoxon	1627	BAFQDKPJKOLXFZ-UHFFFAOYSA-N	60	7.0		recombinant wild type enzyme, in 100 mM sodium phosphate buffer (pH 7.0), at 60C
+2.2	soman	1832	GRXKLBBBQUKJJZ-UHFFFAOYSA-N	30	9.0	X	mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30C
+2.6	soman	1832	GRXKLBBBQUKJJZ-UHFFFAOYSA-N	30	9.0		wild type enzyme, in 50 mM CHES (pH 9.0), at 30C
+9.1	soman	1832	GRXKLBBBQUKJJZ-UHFFFAOYSA-N	30	9.0	X	mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30C
+25	soman	1832	GRXKLBBBQUKJJZ-UHFFFAOYSA-N	30	9.0	X	mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30C
+89	soman	1832	GRXKLBBBQUKJJZ-UHFFFAOYSA-N	30	9.0	X	mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30C
+15	sarin	1942	DYAHQFWOVKZOOW-UHFFFAOYSA-N	30	9.0	X	mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30C
+39	sarin	1942	DYAHQFWOVKZOOW-UHFFFAOYSA-N	30	9.0	X	mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30C
+90	sarin	1942	DYAHQFWOVKZOOW-UHFFFAOYSA-N	30	9.0		wild type enzyme, in 50 mM CHES (pH 9.0), at 30C
+120	sarin	1942	DYAHQFWOVKZOOW-UHFFFAOYSA-N	30	9.0	X	mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30C
+300	sarin	1942	DYAHQFWOVKZOOW-UHFFFAOYSA-N	30	9.0	X	mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30C
+0.24	ethyl acetate	1982	XEKOWRVHYACXOJ-UHFFFAOYSA-N		8.0		pH 8.0, genetic variant PON1 G2E6
+0.12	parathion	2057	LCCNCVORNKJIRZ-UHFFFAOYSA-N	25	8.3		pH 8.3, 25C
+300	parathion	2057	LCCNCVORNKJIRZ-UHFFFAOYSA-N	30	9.0		recombinant wild-type enzyme bound to Cd2+ and Zn2+, pH 9.0, 30C
+600	parathion	2057	LCCNCVORNKJIRZ-UHFFFAOYSA-N	30	9.0		recombinant wild-type enzyme bound to Cd2+, pH 9.0, 30C
+720	parathion	2057	LCCNCVORNKJIRZ-UHFFFAOYSA-N	30	9.0		recombinant wild-type enzyme bound to Zn2+, pH 9.0, 30C
+1098	parathion	2057	LCCNCVORNKJIRZ-UHFFFAOYSA-N	25	7.2		pH 7.2, 25C
+0.02	Benzyl acetate	2567	QUKGYYKBILRGFE-UHFFFAOYSA-N		8.0		about, pH 8.0, genetic variant PON1 G2E6
+698	dihydrocoumarin	2576	VMUXSMXIQBNMGZ-UHFFFAOYSA-N				recombinant PON3
+0.0006	demeton-S	3446	GRPRVIYRYGLIJU-UHFFFAOYSA-N	35	7.2		at 35C, pH 7.2
+3.3	demeton-S	3446	GRPRVIYRYGLIJU-UHFFFAOYSA-N		8.0	X	mutant enzyme H257L, in tripart buffer (pH 8.0)
+3.5	demeton-S	3446	GRPRVIYRYGLIJU-UHFFFAOYSA-N		8.0		wild type enzyme, in tripart buffer (pH 8.0)
+32	demeton-S	3446	GRPRVIYRYGLIJU-UHFFFAOYSA-N		8.0	X	mutant enzyme H254R, in tripart buffer (pH 8.0)
+34	demeton-S	3446	GRPRVIYRYGLIJU-UHFFFAOYSA-N		8.0	X	mutant enzyme H254R/H257F, in tripart buffer (pH 8.0)
+50	demeton-S	3446	GRPRVIYRYGLIJU-UHFFFAOYSA-N		8.0	X	mutant enzyme H254R/H257L, in tripart buffer (pH 8.0)
+650	demeton-S	3446	GRPRVIYRYGLIJU-UHFFFAOYSA-N	25	7.2		pH 7.2, 25C
+0.0011	methyl parathion	3672	RLBIQVVOMOPOHC-UHFFFAOYSA-N	25	9.0		25C, pH 9.0
+9.7	methyl parathion	3672	RLBIQVVOMOPOHC-UHFFFAOYSA-N	25	9		25C, pH 9
+1152	methyl parathion	3672	RLBIQVVOMOPOHC-UHFFFAOYSA-N	25	7.2		pH 7.2, 25C
+13.16	demeton-S methyl	4776	WEBQKRLKWNIYKK-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 50 mM HEPES buffer, pH 7.5, at pH, 25C
+14.62	demeton-S methyl	4776	WEBQKRLKWNIYKK-UHFFFAOYSA-N	25	7.5	X	mutant enzyme G60V/A80V/I106V/F132D/K185R/D208G/H257W/I274N/F306V/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25C
+45.95	demeton-S methyl	4776	WEBQKRLKWNIYKK-UHFFFAOYSA-N	25	7.5	X	mutant enzyme G60V/A80V/I106V/F132D/K185R/D208G/H257W/I274N/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25C
+48.27	demeton-S methyl	4776	WEBQKRLKWNIYKK-UHFFFAOYSA-N	25	7.5	X	mutant enzyme A80V/I106V/F132D/K185R/D208G/H257W/I274N/S308L/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25C
+69.44	demeton-S methyl	4776	WEBQKRLKWNIYKK-UHFFFAOYSA-N	25	7.5	X	mutant enzyme A80V/I106V/F132D/K185R/D208G/H257W/I274N/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25C
+2300	methylparathion	3672	RLBIQVVOMOPOHC-UHFFFAOYSA-N	37	8.0		pH 8.0, 37C, recombinant His6-tagged wild-type OPH
+0.13	diethyl 4-chlorophenyl phosphate	7802	LBGVKIMCKGXEEF-UHFFFAOYSA-N	30	9.0		recombinant wild-type enzyme bound to Cd2+ and Zn2+, pH 9.0, 30C
+0.23	diethyl 4-chlorophenyl phosphate	7802	LBGVKIMCKGXEEF-UHFFFAOYSA-N	30	9.0		recombinant wild-type enzyme bound to Cd2+, pH 9.0, 30C
+0.36	diethyl 4-chlorophenyl phosphate	7802	LBGVKIMCKGXEEF-UHFFFAOYSA-N	30	9.0		recombinant wild-type enzyme bound to Zn2+, pH 9.0, 30C
+1.1	diethyl 4-chlorophenyl thiophosphate	7803	ULEIOHDPTRIZER-UHFFFAOYSA-N	30	9.0		recombinant wild-type enzyme bound to Cd2+, pH 9.0, 30C
+2.2	diethyl 4-chlorophenyl thiophosphate	7803	ULEIOHDPTRIZER-UHFFFAOYSA-N	30	9.0		recombinant wild-type enzyme bound to Zn2+, pH 9.0, 30C
+2.4	diethyl 4-chlorophenyl thiophosphate	7803	ULEIOHDPTRIZER-UHFFFAOYSA-N	30	9.0		recombinant wild-type enzyme bound to Cd2+ and Zn2+, pH 9.0, 30C
+4.3	diethyl paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		7.4		recombinant enzyme, in 20 mM Tris-HCl buffer, pH 7.4, 1 mM CaCl2, temperature not specified in the publication
+5.7	diethyl paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		7.4		in 20 mM Tris-HCl buffer, pH 7.4, 1 mM CaCl2, temperature not specified in the publication
+16.2	diethyl paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		7.4		in 20 mM Tris-HCl buffer, pH 7.4, 1 mM CaCl2, temperature not specified in the publication
+949	Coumaphos	8360	BXNANOICGRISHX-UHFFFAOYSA-N	25	7.2		pH 7.2, 25C
+0.6	pentafluorophenyl diethyl phosphate	9149	WBCAGPNLTIKSDV-UHFFFAOYSA-N		8.0		pH 8.0
+678	pentafluorophenyl diethyl phosphate	9149	WBCAGPNLTIKSDV-UHFFFAOYSA-N		8.0		about, pH 8.0, genetic variant PON1 G2E6
+0.47	4-diethyl phosphate benzaldehyde	9150	CNLFXAFCSHVWGT-UHFFFAOYSA-N		8.0		pH 8.0
+12620	4-diethyl phosphate benzaldehyde	9150	CNLFXAFCSHVWGT-UHFFFAOYSA-N		8.0		pH 8.0, genetic variant PON1 G2E6
+0.44	4-diethyl phosphate acetophenone	9151	VEDAKJUMLQEJER-UHFFFAOYSA-N		8.0		pH 8.0
+8080	4-diethyl phosphate acetophenone	9151	VEDAKJUMLQEJER-UHFFFAOYSA-N		8.0		pH 8.0, genetic variant PON1 G2E6
+5485	4-diethyl phosphate methyl benzoate	9152	GEYKMXGLAWGAEY-UHFFFAOYSA-N		8.0		pH 8.0, genetic variant PON1 G2E6
+110	4-acetylphenyl ethyl (S)-methylphosphonate	10219	BJYIEMDHYADUGW-INIZCTEOSA-N	30	9.0	X	mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30C
+190	4-acetylphenyl ethyl (S)-methylphosphonate	10219	BJYIEMDHYADUGW-INIZCTEOSA-N	30	9.0	X	mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30C
+290	4-acetylphenyl ethyl (S)-methylphosphonate	10219	BJYIEMDHYADUGW-INIZCTEOSA-N	30	9.0	X	mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30C
+410	4-acetylphenyl ethyl (S)-methylphosphonate	10219	BJYIEMDHYADUGW-INIZCTEOSA-N	30	9.0	X	mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30C
+670	4-acetylphenyl ethyl (S)-methylphosphonate	10219	BJYIEMDHYADUGW-INIZCTEOSA-N	30	9.0		wild type enzyme, in 50 mM CHES (pH 9.0), at 30C
+20	4-acetylphenyl 2-methylpropyl (R)-methylphosphonate	10220	SXSCKXFYQXKYTD-GOSISDBHSA-N	30	9.0	X	mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30C
+37	4-acetylphenyl 2-methylpropyl (R)-methylphosphonate	10220	SXSCKXFYQXKYTD-GOSISDBHSA-N	30	9.0	X	mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30C
+51	4-acetylphenyl 2-methylpropyl (R)-methylphosphonate	10220	SXSCKXFYQXKYTD-GOSISDBHSA-N	30	9.0	X	mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30C
+93	4-acetylphenyl 2-methylpropyl (R)-methylphosphonate	10220	SXSCKXFYQXKYTD-GOSISDBHSA-N	30	9.0		wild type enzyme, in 50 mM CHES (pH 9.0), at 30C
+110	4-acetylphenyl 2-methylpropyl (R)-methylphosphonate	10220	SXSCKXFYQXKYTD-GOSISDBHSA-N	30	9.0	X	mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30C
+0.41	4-acetylphenyl (2R)-3,3-dimethylbutan-2-yl (R)-methylphosphonate	10234	JCJNTRARCAUMFH-MPBGBICISA-N	30	9.0	X	mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30C
+2	4-acetylphenyl (2R)-3,3-dimethylbutan-2-yl (R)-methylphosphonate	10234	JCJNTRARCAUMFH-MPBGBICISA-N	30	9.0	X	mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30C
+2.2	4-acetylphenyl (2R)-3,3-dimethylbutan-2-yl (R)-methylphosphonate	10234	JCJNTRARCAUMFH-MPBGBICISA-N	30	9.0	X	mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30C
+3.4	4-acetylphenyl (2R)-3,3-dimethylbutan-2-yl (R)-methylphosphonate	10234	JCJNTRARCAUMFH-MPBGBICISA-N	30	9.0		wild type enzyme, in 50 mM CHES (pH 9.0), at 30C
+8.5	4-acetylphenyl (2R)-3,3-dimethylbutan-2-yl (R)-methylphosphonate	10234	JCJNTRARCAUMFH-MPBGBICISA-N	30	9.0	X	mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30C
+7.3	4-acetylphenyl ethyl (R)-methylphosphonate	10235	BJYIEMDHYADUGW-MRXNPFEDSA-N	30	9.0	X	mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30C
+14	4-acetylphenyl ethyl (R)-methylphosphonate	10235	BJYIEMDHYADUGW-MRXNPFEDSA-N	30	9.0	X	mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30C
+110	4-acetylphenyl ethyl (R)-methylphosphonate	10235	BJYIEMDHYADUGW-MRXNPFEDSA-N	30	9.0	X	mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30C
+130	4-acetylphenyl ethyl (R)-methylphosphonate	10235	BJYIEMDHYADUGW-MRXNPFEDSA-N	30	9.0	X	mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30C
+150	4-acetylphenyl ethyl (R)-methylphosphonate	10235	BJYIEMDHYADUGW-MRXNPFEDSA-N	30	9.0		wild type enzyme, in 50 mM CHES (pH 9.0), at 30C
+7.4	4-acetylphenyl propan-2-yl (S)-methylphosphonate	10236	GKFCGMALDISXLG-KRWDZBQOSA-N	30	9.0	X	mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30C
+15	4-acetylphenyl propan-2-yl (S)-methylphosphonate	10236	GKFCGMALDISXLG-KRWDZBQOSA-N	30	9.0	X	mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30C
+40	4-acetylphenyl propan-2-yl (S)-methylphosphonate	10236	GKFCGMALDISXLG-KRWDZBQOSA-N	30	9.0		wild type enzyme, in 50 mM CHES (pH 9.0), at 30C
+92	4-acetylphenyl propan-2-yl (S)-methylphosphonate	10236	GKFCGMALDISXLG-KRWDZBQOSA-N	30	9.0	X	mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30C
+370	4-acetylphenyl propan-2-yl (S)-methylphosphonate	10236	GKFCGMALDISXLG-KRWDZBQOSA-N	30	9.0	X	mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30C
+0.27	2,4-dinitrophenyl diethyl phosphate	11832	RHDGEDJQNNASCI-UHFFFAOYSA-N		8.0		pH 8.0
+9160	2,4-dinitrophenyl diethyl phosphate	11832	RHDGEDJQNNASCI-UHFFFAOYSA-N		8.0		pH 8.0, genetic variant PON1 G2E6
+3.7	2-fluoro 4-nitrophenyl diethyl phosphate	11833	AJMQNGQZZUOLBB-UHFFFAOYSA-N		8.0		pH 8.0
+13.9	3-fluoro 4-nitrophenyl diethyl phosphate	11834	JNMCHKJZUGLPFW-UHFFFAOYSA-N		8.0		pH 8.0
+10.2	3,5-dinitrophenyl diethyl phosphate	11835	HEILQTBRRAEESX-UHFFFAOYSA-N		8.0		pH 8.0
+1477	3,5-dinitrophenyl diethyl phosphate	11835	HEILQTBRRAEESX-UHFFFAOYSA-N		8.0		pH 8.0, genetic variant PON1 G2E6
+0.062	2,6-difluorophenyl diethyl phosphate	11836	ZHGANTIORXZVJA-UHFFFAOYSA-N		8.0		pH 8.0
+950	2,6-difluorophenyl diethyl phosphate	11836	ZHGANTIORXZVJA-UHFFFAOYSA-N		8.0		pH 8.0, genetic variant PON1 G2E6
+0.4	4-cyanophenyl diethyl phosphate	11837	PHEAVLINHUOYPR-UHFFFAOYSA-N		8.0		pH 8.0
+7495	4-cyanophenyl diethyl phosphate	11837	PHEAVLINHUOYPR-UHFFFAOYSA-N		8.0		pH 8.0, genetic variant PON1 G2E6
+0.076	3-nitrophenyl diethyl phosphate	11838	VXPBWHFHOQMMHT-UHFFFAOYSA-N		8.0		pH 8.0
+840	3-nitrophenyl diethyl phosphate	11838	VXPBWHFHOQMMHT-UHFFFAOYSA-N		8.0		pH 8.0, genetic variant PON1 G2E6
+0.178	3-cyanophenyl diethyl phosphate	11839	UMJPNIRIQPRRMT-UHFFFAOYSA-N		8.0		pH 8.0
+1610	3-cyanophenyl diethyl phosphate	11839	UMJPNIRIQPRRMT-UHFFFAOYSA-N		8.0		pH 8.0, genetic variant PON1 G2E6
+0.0011	3-fluorophenyl diethyl phosphate	11840	STBHYLFWWFYOAE-UHFFFAOYSA-N		8.0		pH 8.0
+656	3-fluorophenyl diethyl phosphate	11840	STBHYLFWWFYOAE-UHFFFAOYSA-N		8.0		pH 8.0, genetic variant PON1 G2E6
+0.0008	4-chlorophenyl diethyl phosphate	7802	LBGVKIMCKGXEEF-UHFFFAOYSA-N		8.0		pH 8.0
+848	4-chlorophenyl diethyl phosphate	7802	LBGVKIMCKGXEEF-UHFFFAOYSA-N		8.0		pH 8.0, genetic variant PON1 G2E6
+4.8	4-nitrophenyl diethyl phosphate	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0		pH 8.0
+10520	4-nitrophenyl diethyl phosphate	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N		8.0		pH 8.0, genetic variant PON1 G2E6
+18	4-acetylphenyl propan-2-yl (R)-methylphosphonate	13000	GKFCGMALDISXLG-QGZVFWFLSA-N	30	9.0	X	mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30C
+100	4-acetylphenyl propan-2-yl (R)-methylphosphonate	13000	GKFCGMALDISXLG-QGZVFWFLSA-N	30	9.0		wild type enzyme, in 50 mM CHES (pH 9.0), at 30C
+120	4-acetylphenyl propan-2-yl (R)-methylphosphonate	13000	GKFCGMALDISXLG-QGZVFWFLSA-N	30	9.0	X	mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30C
+250	4-acetylphenyl propan-2-yl (R)-methylphosphonate	13000	GKFCGMALDISXLG-QGZVFWFLSA-N	30	9.0	X	mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30C
+0.81	4-acetylphenyl cyclohexyl (R)-methylphosphonate	13001	FWJFNJGPQRHRKI-HXUWFJFHSA-N	30	9.0	X	mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30C
+5.9	4-acetylphenyl cyclohexyl (R)-methylphosphonate	13001	FWJFNJGPQRHRKI-HXUWFJFHSA-N	30	9.0	X	mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30C
+93	4-acetylphenyl cyclohexyl (R)-methylphosphonate	13001	FWJFNJGPQRHRKI-HXUWFJFHSA-N	30	9.0	X	mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30C
+150	4-acetylphenyl cyclohexyl (R)-methylphosphonate	13001	FWJFNJGPQRHRKI-HXUWFJFHSA-N	30	9.0	X	mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30C
+0.016	4-acetylphenyl (2S)-3,3-dimethylbutan-2-yl (S)-methylphosphonate	113799	JCJNTRARCAUMFH-YUNKPMOVSA-N	30	9.0		wild type enzyme, in 50 mM CHES (pH 9.0), at 30C
+0.12	4-acetylphenyl (2S)-3,3-dimethylbutan-2-yl (S)-methylphosphonate	113799	JCJNTRARCAUMFH-YUNKPMOVSA-N	30	9.0	X	mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30C
+2.1	4-acetylphenyl (2S)-3,3-dimethylbutan-2-yl (S)-methylphosphonate	113799	JCJNTRARCAUMFH-YUNKPMOVSA-N	30	9.0	X	mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30C
+2.9	4-acetylphenyl (2S)-3,3-dimethylbutan-2-yl (S)-methylphosphonate	113799	JCJNTRARCAUMFH-YUNKPMOVSA-N	30	9.0	X	mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30C
+0.21	4-acetylphenyl (2R)-3,3-dimethylbutan-2-yl (S)-methylphosphonate	13009	JCJNTRARCAUMFH-ODXCJYRJSA-N	30	9.0	X	mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30C
+0.45	4-acetylphenyl (2R)-3,3-dimethylbutan-2-yl (S)-methylphosphonate	13009	JCJNTRARCAUMFH-ODXCJYRJSA-N	30	9.0		wild type enzyme, in 50 mM CHES (pH 9.0), at 30C
+0.62	4-acetylphenyl (2R)-3,3-dimethylbutan-2-yl (S)-methylphosphonate	13009	JCJNTRARCAUMFH-ODXCJYRJSA-N	30	9.0	X	mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30C
+1.5	4-acetylphenyl (2R)-3,3-dimethylbutan-2-yl (S)-methylphosphonate	13009	JCJNTRARCAUMFH-ODXCJYRJSA-N	30	9.0	X	mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30C
+12	4-acetylphenyl 2-methylpropyl (S)-methylphosphonate	13010	SXSCKXFYQXKYTD-SFHVURJKSA-N	30	9.0	X	mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30C
+22	4-acetylphenyl 2-methylpropyl (S)-methylphosphonate	13010	SXSCKXFYQXKYTD-SFHVURJKSA-N	30	9.0		wild type enzyme, in 50 mM CHES (pH 9.0), at 30C
+50	4-acetylphenyl 2-methylpropyl (S)-methylphosphonate	13010	SXSCKXFYQXKYTD-SFHVURJKSA-N	30	9.0	X	mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30C
+100	4-acetylphenyl 2-methylpropyl (S)-methylphosphonate	13010	SXSCKXFYQXKYTD-SFHVURJKSA-N	30	9.0	X	mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30C
+0.115	ethyl paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	35	9.0		at 35C, pH 9.0
+0.14	4-acetylphenyl cyclohexyl (S)-methylphosphonate	111984	FWJFNJGPQRHRKI-FQEVSTJZSA-N	30	9.0	X	mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30C
+5.1	4-acetylphenyl cyclohexyl (S)-methylphosphonate	111984	FWJFNJGPQRHRKI-FQEVSTJZSA-N	30	9.0	X	mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30C
+19	4-acetylphenyl cyclohexyl (S)-methylphosphonate	111984	FWJFNJGPQRHRKI-FQEVSTJZSA-N	30	9.0	X	mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30C
+13	4-acetoxy acetophenone	15881	SMIOEQSLJNNKQF-UHFFFAOYSA-N		8.0		pH 8.0, genetic variant PON1 G2E6
+11680	3-fluoro-4-nitrophenyl diethyl phosphate	11834	JNMCHKJZUGLPFW-UHFFFAOYSA-N		8.0		pH 8.0, genetic variant PON1 G2E6
+11080	2-fluoro-4-nitrophenyl diethyl phosphate	11833	AJMQNGQZZUOLBB-UHFFFAOYSA-N		8.0		pH 8.0, genetic variant PON1 G2E6
+771	phosmet	23703	LMNZTLDVJIUSHT-UHFFFAOYSA-N	25	7.2		pH 7.2, 25C
+166	5-(thiobutyryl)butyrolactone	5886	UCCKBHBGUHMFDV-UHFFFAOYSA-N		8.0		pH 8.0, recombinant wild-type PON1 genetic variant G2E6
+0.1	O-isobutyl-S-[2-(diethylamino)ethyl]methylphosphonothioic acid	27380	MNLAVFKVRUQAKW-UHFFFAOYSA-N		7.4		in 50 mM Tris-HCl buffer, 10 mM CaCl2, pH 7.4
+0.15	SP-O-ethyl methylphosphonyl-3-cyano-7-hydroxy-4-methylcoumarin	27493	LUQXHRFMIZMOBO-UHFFFAOYSA-N	25	8.0		wild-type, in 50 mM Tris buffer, 1 mM CaCl2, pH 8.0, 25C
+0.5	SP-O-ethyl methylphosphonyl-3-cyano-7-hydroxy-4-methylcoumarin	27493	LUQXHRFMIZMOBO-UHFFFAOYSA-N	25	8.0	X	mutant H115W, in 50 mM Tris buffer, 1 mM CaCl2, pH 8.0, 25C
+0.55	RP-O-ethyl methylphosphonyl-3-cyano-7-hydroxy-4-methylcoumarin	27493	LUQXHRFMIZMOBO-UHFFFAOYSA-N	25	8.0	X	mutant H115W, in 50 mM Tris buffer, 1 mM CaCl2, pH 8.0, 25C
+11.72	RP-O-ethyl methylphosphonyl-3-cyano-7-hydroxy-4-methylcoumarin	27493	LUQXHRFMIZMOBO-UHFFFAOYSA-N	25	8.0		wild-type, in 50 mM Tris buffer, 1 mM CaCl2, pH 8.0, 25C
+1.83	SP-O-n-propyl methylphosphonyl-3-cyano-7-hydroxy-4-methylcoumarin	27494	ZSWVGJTVYUTNEI-UHFFFAOYSA-N	25	8.0		wild-type, in 50 mM Tris buffer, 1 mM CaCl2, pH 8.0, 25C
+6.467	SP-O-n-propyl methylphosphonyl-3-cyano-7-hydroxy-4-methylcoumarin	27494	ZSWVGJTVYUTNEI-UHFFFAOYSA-N	25	8.0	X	mutant H115W, in 50 mM Tris buffer, 1 mM CaCl2, pH 8.0, 25C
+0.167	RP-O-n-propyl methylphosphonyl-3-cyano-7-hydroxy-4-methylcoumarin	27494	ZSWVGJTVYUTNEI-UHFFFAOYSA-N	25	8.0	X	mutant H115W, in 50 mM Tris buffer, 1 mM CaCl2, pH 8.0, 25C
+4.95	RP-O-n-propyl methylphosphonyl-3-cyano-7-hydroxy-4-methylcoumarin	27494	ZSWVGJTVYUTNEI-UHFFFAOYSA-N	25	8.0		wild-type, in 50 mM Tris buffer, 1 mM CaCl2, pH 8.0, 25C
+5	1,2,2-trimethylpropylmethylphosphonofluoridate	1832	GRXKLBBBQUKJJZ-UHFFFAOYSA-N				
+56	isopropylmethylphosphonofluoridate	1942	DYAHQFWOVKZOOW-UHFFFAOYSA-N				
+0.007	S-(2-[di(propan-2-yl)amino]ethyl)O-ethyl methylphosphonothioate	4652	JJIUCEJQJXNMHV-UHFFFAOYSA-N		8.5	X	expression mutant A80V/I106V/F132D/K185R/D208G/H257W/I274N/S308L/R319S, pH 8.5, temperature not specified in the publication
+0.15	S-(2-[di(propan-2-yl)amino]ethyl)O-ethyl methylphosphonothioate	4652	JJIUCEJQJXNMHV-UHFFFAOYSA-N		8.5	X	mutant L271A/Y309A, pH 8.5, temperature not specified in the publication
+0.28	CMP-coumarin	128590	TVZHLDDYQNBRID-UHFFFAOYSA-N	25	8.3		pH 8.3, 25C
+0.00108	ethyl-paraoxon	202	WYMSBXTXOHUIGT-UHFFFAOYSA-N	70	8.0		pH 8.0, 70C

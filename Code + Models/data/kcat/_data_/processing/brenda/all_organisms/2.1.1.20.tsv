@@ -1,0 +1,19 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.105	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O		7.2	X	pH 7.2, mutant enzyme Y21F
+0.18	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O		7.2	X	pH 7.2, mutant enzyme Y194F; pH 7.2, mutant enzyme Y220F
+0.21	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O		7.2	X	pH 7.2, mutant enzyme Y33F
+0.35	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme L49P
+0.45	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O		7.2		pH 7.2, wild-type enzyme
+0.47	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O		7.2	X	pH 7.2, mutant enzyme Y242F
+1.19	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5	X	pH 7.5, 25C, mutant enzyme H176N
+1.6	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O	25	7.5		pH 7.5, 25C, wild-type enzyme
+0.7	glycine	68	DHMQDGOQFOQNFH-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, native enzyme
+51.9	glycine	68	DHMQDGOQFOQNFH-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant enzyme
+0.105	Gly	68	DHMQDGOQFOQNFH-UHFFFAOYSA-N		7.2	X	pH 7.2, mutant enzyme Y21F
+0.18	Gly	68	DHMQDGOQFOQNFH-UHFFFAOYSA-N		7.2	X	pH 7.2, mutant enzyme Y194F; pH 7.2, mutant enzyme Y220F
+0.21	Gly	68	DHMQDGOQFOQNFH-UHFFFAOYSA-N		7.2	X	pH 7.2, mutant enzyme Y33F
+0.35	Gly	68	DHMQDGOQFOQNFH-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme L49P
+0.45	Gly	68	DHMQDGOQFOQNFH-UHFFFAOYSA-N		7.2		pH 7.2, wild-type enzyme
+0.47	Gly	68	DHMQDGOQFOQNFH-UHFFFAOYSA-N		7.2	X	pH 7.2, mutant enzyme Y242F
+1.19	Gly	68	DHMQDGOQFOQNFH-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme H176N
+1.6	Gly	68	DHMQDGOQFOQNFH-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme

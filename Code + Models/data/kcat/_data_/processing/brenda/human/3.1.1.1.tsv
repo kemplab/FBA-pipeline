@@ -1,0 +1,24 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000003	7-ethyl-10-(4-(1-piperidino)-1-amino)carbonyloxycampothecin	6590	JLNOMNLFFZKXRM-MUUNZHRXSA-N	37	7.0		pH 7.0, 37C, isoform CES1A1
+0.000015	7-ethyl-10-(4-(1-piperidino)-1-piperidino)carbonyloxycampothecin	7789	GPAKSCDFLIZRDC-MGBGTMOVSA-N	37	7.0		pH 7.0, 37C
+0.00008	7-ethyl-10-(4-(1-piperidino)-1-piperidino)carbonyloxycampothecin	7789	GPAKSCDFLIZRDC-MGBGTMOVSA-N	37	7.0		pH 7.0, 37C, isoform CES1A1
+0.00027	7-ethyl-10-(4-(1-piperidino)-1-amino)carbonyloxycampothecin	6590	JLNOMNLFFZKXRM-MUUNZHRXSA-N	37	7.0		pH 7.0, 37C, isoform CES2
+0.00041	7-ethyl-10-(4-N-(5-aminopentanoic acid)-1-piperidino)carbonyloxycampothecin	23599	FRMYXXQXSOWFIV-MGBGTMOVSA-N	37	7.0		pH 7.0, 37C, isoform CES2
+0.0008	(1RS)-trans-permethrin	3050	RLLPVAHGXHCWKJ-MJGOQNOKSA-N	37	7.4		isoform hCE2, pH 7.4, 37C
+0.0028	(1RS)-trans-permethrin	3050	RLLPVAHGXHCWKJ-MJGOQNOKSA-N	37	7.4		isoform hCE1, pH 7.4, 37C
+0.004	7-ethyl-10-(4-(1-piperidino)-1-amino)carbonyloxycampothecin	6590	JLNOMNLFFZKXRM-MUUNZHRXSA-N	37	7.0		pH 7.0, 37C
+0.017	7-ethyl-10-(4-(1-piperidino)-1-piperidino)carbonyloxycampothecin	7789	GPAKSCDFLIZRDC-MGBGTMOVSA-N	37	7.0		pH 7.0, 37C, isoform CES2
+0.028	(1RS)-cis-permethrin	4691	RLLPVAHGXHCWKJ-HKUYNNGSSA-N	37	7.4		isoform hCE2, pH 7.4, 37C
+0.034	bioresmethrin	9446	VEMKTZHHVJILDY-UXHICEINSA-N	37	7.4		isoform hCE1, pH 7.4, 37C
+0.056	(1RS)-cis-permethrin	4691	RLLPVAHGXHCWKJ-HKUYNNGSSA-N	37	7.4		isoform hCE1, pH 7.4, 37C
+7	tripropionin	3022	YZWRNSARCRTXDS-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+17	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	37	8.0		isoform hCE-1, pH 8.0, 37C
+18	tributyrin	1146	UYXTWWCETRIEDR-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+31	vinyl laurate	6555	GLVVKKSPKXTQRB-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+48	1-naphthyl butyrate	2649	XIVJNRXPRQKFRZ-UHFFFAOYSA-N				
+70	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	37	8.0		isoform hCE-2, pH 8.0, 37C
+105	vinyl propionate	3434	UIWXSTHGICQLQT-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+140	vinyl acetate	1225	XTXRWKRVRITETP-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+190	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+210	vinyl butanoate	5723	MEGHWIAOTJPCHQ-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+651	N-acetyl-L-Ala-1-naphthyl ester	21344	QLHFGNPCPMZWQU-JTQLQIEISA-N				

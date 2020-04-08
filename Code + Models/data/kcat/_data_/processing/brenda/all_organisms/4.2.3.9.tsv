@@ -1,0 +1,65 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0003	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant W334H, pH not specified in the publication, temperature not specified in the publication
+0.00049	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	92	7.5	X	mutant Y92C, pH 7.5, temperature not specified in the publication
+0.0006	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant R200K, pH not specified in the publication, temperature not specified in the publication
+0.00075	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant D203L, pH not specified in the publication, temperature not specified in the publication
+0.0008	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant V88F, pH not specified in the publication, temperature not specified in the publication
+0.0008	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant R340K, pH not specified in the publication, temperature not specified in the publication
+0.0009	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant L108A, pH not specified in the publication, temperature not specified in the publication
+0.0011	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant T89F, pH not specified in the publication, temperature not specified in the publication
+0.0014	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N		7.5	X	mutant Y92A, pH 7.5, temperature not specified in the publication
+0.002	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant K251Q, pH not specified in the publication, temperature not specified in the publication
+0.0025	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant V88A, pH not specified in the publication, temperature not specified in the publication
+0.0025	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant Y341F, pH not specified in the publication, temperature not specified in the publication
+0.0027	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant W334L, pH not specified in the publication, temperature not specified in the publication
+0.0036	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant L108F, pH not specified in the publication, temperature not specified in the publication
+0.0037	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant K251R, pH not specified in the publication, temperature not specified in the publication
+0.0057	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant L108V, pH not specified in the publication, temperature not specified in the publication
+0.006	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant W334F, pH not specified in the publication, temperature not specified in the publication
+0.0066	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant T89A, pH not specified in the publication, temperature not specified in the publication
+0.007	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant W334Y, pH not specified in the publication, temperature not specified in the publication
+0.0095	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant L108S, pH not specified in the publication, temperature not specified in the publication
+0.03	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N		7.5		wild-type, pH 7.5, temperature not specified in the publication
+0.084	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				
+0.084	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.084	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.084	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.0014	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant F112A-178A
+0.0023	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant F112A
+0.0041	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant F178I
+0.0063	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant F178V
+0.0099	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	178		X	mutant F178C
+0.02	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				assay under normal conditions and in D2O, 20 mM Tris, 5 mM MgCl2, 5 mM 2-mercaptoethanol and 15% glycerol
+0.052	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant F178Y
+0.079	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant F178W
+0.55	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				wild-type
+1.4	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant F112A-178A
+2.3	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant F112A
+4.1	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant F178I
+6.3	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant F178V
+9.9	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	178		X	mutant F178C
+52	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant F178Y
+79	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	mutant F178W
+550	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				wild-type
+0.000021	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	wild-type enzyme, mutant enzyme F178V
+0.000076	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	8.0	X	pH 8.0, 30C, mutant enzyme N219D
+0.00012	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	8.0	X	pH 8.0, 30C, mutant enzyme N244D
+0.00022	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	8.0	X	pH 8.0, 30C, mutant enzyme E252Q
+0.0004	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	8.0	X	pH 8.0, 30C, mutant enzyme Y92F
+0.000491	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	92	7.5	X	pH 7.5, mutant enzyme Y92C
+0.001	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N			X	wild-type enzyme, mutant enzyme F178Y
+0.0013	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	8.0	X	pH 8.0, 30C, mutant enzyme D116E; pH 8.0, 30C, mutant enzyme S248A
+0.00137	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N		7.5	X	pH 7.5, mutant enzyme Y92A
+0.0016	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	8.0	X	pH 8.0, 30C, mutant enzyme E227D
+0.0022	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	8.0	X	pH 8.0, 30C, mutant enzyme D116N; pH 8.0, 30C, mutant enzyme E252D
+0.0023	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.5	X	pH 7.5, 30C, mutant enzyme Y92F
+0.0048	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	8.0	X	pH 8.0, 30C, mutant enzyme E119Q
+0.0097	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	8.0	X	pH 8.0, 30C, mutant enzyme E119D
+0.014	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	8.0		pH 8.0, 30C, native enzyme
+0.015	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme
+0.0162	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	8.0	X	pH 8.0, 30C, mutant enzyme D115E
+0.0173	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	8.0		pH 8.0, 30C, wild-type enzyme
+0.03	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	7.5		pH 7.5, 30C, recombinant wild-type enzyme
+0.043	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme
+0.043	trans,trans-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	8.0		pH 8.0, 30C, wild-type enzyme
+0.095	(2Z,6E)-farnesyl diphosphate	1347	VWFJDQUYCIWHTN-PVMFERMNSA-N	22	7.5		in 200 mM Tris-HCl (pH 7.5), 40 mM MgCl2, at 22C

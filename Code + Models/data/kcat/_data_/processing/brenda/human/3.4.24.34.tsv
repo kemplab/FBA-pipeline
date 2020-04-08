@@ -1,0 +1,18 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0109	bovine collagen I	4197	GXDCSVNTSDFHNL-PYVYNGHDSA-N	37	7.0		pH 7.0, 37C, 4-protonated and 5-protonated substrate
+0.47	bovine collagen I	4197	GXDCSVNTSDFHNL-PYVYNGHDSA-N	37	7.0		pH 7.0, 37C, unprotonated and 1-protonated substrate
+4.75	bovine collagen I	4197	GXDCSVNTSDFHNL-PYVYNGHDSA-N	37	7.4		pH 7.4, 37C
+15	bovine collagen I	4197	GXDCSVNTSDFHNL-PYVYNGHDSA-N	37	7.0		pH 7.0, 37C, 2-protonated substrate
+145	(7-methoxycoumarin-4-yl)acetyl-Pro-Leu-Gly-Leu-diaminopropionyl-Ala-Arg-NH2	11634	IWQSKUOAPOPLQE-OBXVVNIGSA-N	37	5.0		pH 5.0-8.0, 37C, 4-protonated substrate
+148	(7-methoxycoumarin-4-yl)acetyl-Pro-Leu-Gly-Leu-DIAMIONOPROPIONYL-Ala-Arg-NH2	5717	IYPCVFVSJOQOCN-ZJTWLQAXSA-N	37	7.0		pH 7.0, 37C, 5-protonated substrate
+164	(7-methoxycoumarin-4-yl)acetyl-Pro-Leu-Gly-Leu-diaminopropionyl-Ala-Arg-NH2	11634	IWQSKUOAPOPLQE-OBXVVNIGSA-N	37	5.0		pH 5.0-8.0, 37C, unprotonated substrate
+164	(7-methoxycoumarin-4-yl)acetyl-Pro-Leu-Gly-Leu-DIAMIONOPROPIONYL-Ala-Arg-NH2	5717	IYPCVFVSJOQOCN-ZJTWLQAXSA-N	37	7.0		pH 7.0, 37C, unprotonated, 1-protonated and 2-protonated substrate
+180	(7-methoxycoumarin-4-yl)acetyl-Pro-cyclohexylalanine-Gly-norvaline-His-Ala-Arg-NH2	5718	FBESJANOTAZYQT-QJSKOQLASA-N	37	7.0		pH 7.0, 37C, 5-protonated substrate
+246	(7-methoxycoumarin-4-yl)acetyl-Pro-cyclohexylalanine-Gly-norvaline-His-Ala-Arg-NH2	5718	FBESJANOTAZYQT-QJSKOQLASA-N	37	7.0		pH 7.0, 37C, unprotonated, 1-protonated and 2-protonated substrate
+250	(7-methoxycoumarin-4-yl)acetyl-Pro-cyclohexylalanine-Gly-norvaline-His-Ala-Arg-NH2	5718	FBESJANOTAZYQT-QJSKOQLASA-N	37	7.0		pH 7.0, 37C, 3-protonated substrate
+324	(7-methoxycoumarin-4-yl)acetyl-Pro-Leu-Gly-Leu-DIAMIONOPROPIONYL-Ala-Arg-NH2	5717	IYPCVFVSJOQOCN-ZJTWLQAXSA-N	37	7.0		pH 7.0, 37C, 3-protonated substrate
+342	(7-methoxycoumarin-4-yl)acetyl-Pro-Leu-Gly-Leu-diaminopropionyl-Ala-Arg-NH2	11634	IWQSKUOAPOPLQE-OBXVVNIGSA-N	37	5.0		pH 5.0-8.0, 37C, 2-protonated substrate
+522	(7-methoxycoumarin-4-yl)acetyl-Pro-Leu-Gly-Leu-diaminopropionyl-Ala-Arg-NH2	11634	IWQSKUOAPOPLQE-OBXVVNIGSA-N	37	5.0		pH 5.0-8.0, 37C, 3-protonated substrate
+562	(7-methoxycoumarin-4-yl)acetyl-Pro-Leu-Gly-Leu-DIAMIONOPROPIONYL-Ala-Arg-NH2	5717	IYPCVFVSJOQOCN-ZJTWLQAXSA-N	37	7.0		pH 7.0, 37C, 4-protonated substrate
+570	(7-methoxycoumarin-4-yl)acetyl-Pro-cyclohexylalanine-Gly-norvaline-His-Ala-Arg-NH2	5718	FBESJANOTAZYQT-QJSKOQLASA-N	37	7.0		pH 7.0, 37C, 4-protonated substrate
+1120	bovine collagen I	4197	GXDCSVNTSDFHNL-PYVYNGHDSA-N	37	7.0		pH 7.0, 37C, 3-protonated substrate

@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.066	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	2548	RDRDHXDYMGUCKE-UHFFFAOYSA-N	25	7.5		wild type enzyme, in 100 mM potassium phosphate, pH 7.5, at 25C
+0.25	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid	2548	RDRDHXDYMGUCKE-UHFFFAOYSA-N		7.4		in 100 mM of phosphate buffer (pH 7.4) with 20 mM NaCl, temperature not specified in the publication
+0.33	8-(2-chlorophenyl)-2-hydroxy-5-methyl-6-oxoocta-2,4-dienoic acid	111796	QWNIWTMKYQXRNZ-RLCSYUECSA-N	25	7.5		wild type enzyme, in 100 mM potassium phosphate, pH 7.5, at 25C
+0.000085	4,5-9,10-diseco-3-hydroxy-5,9,17-tri-oxoandrosta-1(10),2-diene-4-oic acid	25485	HRJXKKSJPNWKCP-UNXDAHLPSA-N	25	7.5	X	mutant enzyme S114A, in 100 mM potassium phosphate, pH 7.5, at 25C
+0.55	4,5-9,10-diseco-3-hydroxy-5,9,17-tri-oxoandrosta-1(10),2-diene-4-oic acid	25485	HRJXKKSJPNWKCP-UNXDAHLPSA-N	25	7.5		wild type enzyme, in 100 mM potassium phosphate, pH 7.5, at 25C

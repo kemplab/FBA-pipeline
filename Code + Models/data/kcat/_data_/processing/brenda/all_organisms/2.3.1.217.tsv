@@ -1,0 +1,11 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00007	cinnamoyl-diketide-N-acetylcysteamine	5355	KXLYXHYGJKOOJK-BQYQJAHWSA-N	37	7.5	X	pH 7.5, 37C, recombinant mutant H303Q
+0.0015	cinnamoyl-diketide-N-acetylcysteamine	5355	KXLYXHYGJKOOJK-BQYQJAHWSA-N	37	7.5	X	pH 7.5, 37C, recombinant mutant G211F
+0.0017	3-oxo-5-phenyl-4-pentenoic acid	8218	VNMMLNVSLPRZDK-VOTSOKGWSA-N	37	7.5	X	pH 7.5, 37C, recombinant mutant H303Q
+0.0032	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N	37	7.5		pH 7.5, 37C, CURS3
+0.0043	cinnamoyl-diketide-N-acetylcysteamine	5355	KXLYXHYGJKOOJK-BQYQJAHWSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme
+0.0068	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N	37	7.5		pH 7.5, 37C, CURS2
+0.0083	3-oxo-5-phenyl-4-pentenoic acid	8218	VNMMLNVSLPRZDK-VOTSOKGWSA-N	37	7.5	X	pH 7.5, 37C, recombinant mutant G211F
+0.0183	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N	37	7.5		pH 7.5, 37C, CURS1
+0.0183	Feruloyl-CoA	356	GBXZVJQQDAJGSO-NBXNMEGSSA-N	37	8.0		pH 8.0, 37C, with cinnamoyl-diketide-N-acetylcysteaminyl-CoA
+0.125	3-oxo-5-phenyl-4-pentenoic acid	8218	VNMMLNVSLPRZDK-VOTSOKGWSA-N	37	7.5		pH 7.5, 37C, recombinant wild-type enzyme

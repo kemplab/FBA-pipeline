@@ -1,0 +1,226 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.01	methyl caffeate	1447	OCNYGKNIVPVPPX-HWKANZROSA-N	37	6.0	X	pH 6.0, 37C, Y80S mutant enzyme
+0.02	methyl caffeate	1447	OCNYGKNIVPVPPX-HWKANZROSA-N	37	6.0	X	pH 6.0, 37C, Y80V mutant enzyme
+0.03	4-nitrophenyl 2-O-(E)-feruloyl-alpha-L-arabinofuranoside	4653	XHPDERUPTDOZON-LUIQYSJNSA-N				
+0.031	methyl sinapinate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N	37	6.0	X	pH 6.0, 37C, Y80V mutant enzyme
+0.04	methyl sinapinate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N	37	6.0		pH 6.0, 37C
+0.05	methyl 3-hydroxy-4-methoxy cinnamate	9278	JTLOUXXZZFFBBW-GQCTYLIASA-N				
+0.05	methyl cinnamate	6644	CCRCUPLGCSFEDV-BQYQJAHWSA-N				
+0.067	methyl 3,4-dimethoxy cinnamate	9277	JXRYDOZRPYFBKO-FNORWQNLSA-N				
+0.1	methyl 3,5-dimethoxy cinnamate	15917	SPYLOSISVANWEF-SNAWJCMRSA-N				
+0.1	methyl caffeate	1447	OCNYGKNIVPVPPX-HWKANZROSA-N				
+0.1	methyl p-coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	37	6.0	X	pH 6.0, 37C, Y80S mutant enzyme
+0.1	methylumbelliferyl acetate	1229	HXVZGASCDAGAPS-UHFFFAOYSA-N	20	7.4		20C, pH 7.4
+0.117	methyl 3-hydroxy cinnamate	6643	PKALKWFZXXGNJD-AATRIKPKSA-N				
+0.12	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N				
+0.133	methyl 3,4-dihydroxy cinnamate	1447	OCNYGKNIVPVPPX-HWKANZROSA-N				
+0.15	4-nitrophenyl 2-O-acetyl-alpha-L-arabinofuranoside	16673	XTDZMNSKHHJBAE-WUHRBBMRSA-N				
+0.16	methyl caffeate	1447	OCNYGKNIVPVPPX-HWKANZROSA-N				
+0.18	n-propyl ferulate	6631	XTSFEXUEVQUSQE-FNORWQNLSA-N				
+0.183	methyl 3,4-dihydroxy-phenyl propionate	9276	NTULQOXXTCSEHM-UHFFFAOYSA-N				
+0.19	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	37	7.2		in 100 mM phosphate buffer, pH 7.2, at 37C
+0.21	methyl p-coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N				
+0.22	methyl 3-methoxy cinnamate	7864	NDMAAKFMVKZYIV-VOTSOKGWSA-N				
+0.22	methyl p-coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	65	8.0		at 65C, in 50 mM sodium phosphate buffer, pH 8.0
+0.24	4-nitrophenyl 4-O-(E)-feruloyl-alpha-D-xylopyranoside	12282	RYZRSSQOQHWGBA-QWFMJSMOSA-N				
+0.24	p-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	37	7.2		in 100 mM phosphate buffer, pH 7.2, at 37C
+0.25	methyl 3,4-dimethoxy cinnamate	9277	JXRYDOZRPYFBKO-FNORWQNLSA-N				
+0.26	iso-propyl ferulate	6632	KBTWMQRNUHIETA-FNORWQNLSA-N				
+0.26	methyl caffeate	1447	OCNYGKNIVPVPPX-HWKANZROSA-N	37	6.0	X	pH 6.0, 37C, W260V mutant enzyme
+0.26	methyl p-coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	37	6.0	X	pH 6.0, 37C, Y80V mutant enzyme
+0.27	methyl 4-coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	40	5.5		pH 5.5, 40C, recombinant enzyme
+0.28	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	65	8.0		at 65C, in 50 mM sodium phosphate buffer, pH 8.0
+0.28	methyl sinapate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N	65	8.0		at 65C, in 50 mM sodium phosphate buffer, pH 8.0
+0.29	methyl p-coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	37	6.0	X	pH 6.0, 37C, W260V mutant enzyme
+0.31	p-coumaric acid methyl ester	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	40	5.0		pH 5.0, 40C
+0.32	alpha-naphthylcaprylate	5134	SUAOWWVNMRJABO-UHFFFAOYSA-N	37	5.0	X	pH 5.0, 37C, T72R mutant enzyme
+0.32	methyl caffeate	1447	OCNYGKNIVPVPPX-HWKANZROSA-N	37	6.0	X	pH 6.0, 37C, W260S mutant enzyme
+0.4	methyl 4-hydroxy-3,5-dimethoxy cinnamate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N				
+0.4	methyl sinapinate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N				
+0.41	methyl coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	37	6.0		37C, pH 6.0
+0.41	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	37	6.0		37C, pH 6.0
+0.41	methyl p-coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	37	6.0		pH 6.0, 37C
+0.46	ethyl ferulate	3222	KKPZWXDHVRPCRP-VQHVLOKHSA-N				
+0.47	methyl sinapate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N	45	6.0		45C, pH 6.0, isoenzyme FAE-I
+0.49	methyl p-coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	37	6.0	X	pH 6.0, 37C, W260S mutant enzyme
+0.5	methyl p-coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N				
+0.5	methyl sinapate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N				
+0.5	methyl sinapinate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N	45	6.0		pH 6.0, 45C
+0.533	methyl 4-hydroxy cinnamate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N				
+0.64	alpha-naphthylcaprylate	5134	SUAOWWVNMRJABO-UHFFFAOYSA-N	37	5.0	X	pH 5.0, 37C, D71I mutant enzyme
+0.7	4-nitrophenyl 3-O-(E)-feruloyl-alpha-D-xylopyranoside	9451	CGGBOSHBBWVXRN-IQFZRZLMSA-N				
+0.7	methyl 3-hydroxy-4-methoxy cinnamate	9278	JTLOUXXZZFFBBW-GQCTYLIASA-N				
+0.73	methyl p-coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	37	6.0		pH 6.0, 37C, native enzyme
+0.79	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	40	6.4	X	mutant L14F/T35I/K37I/T57I/T63I/A140T/Q121H/S163T/Q177H/V178A/Q185R/C235S, pH 6.4, 40C
+0.81	4-nitrophenyl 3-O-(E)-feruloyl-alpha-L-arabinofuranoside	7941	GUMAJVHMUUOJGY-ZPEPAHMJSA-N				
+0.85	alpha-naphthylcaprylate	5134	SUAOWWVNMRJABO-UHFFFAOYSA-N	37	5.0		pH 5.0, 37C, wild type enzyme
+0.85	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	37	5.0		pH 5.0, 37C
+0.86	4-nitrophenyl 3-O-(E)-feruloyl-alpha-D-xylopyranoside	9451	CGGBOSHBBWVXRN-IQFZRZLMSA-N				
+0.87	methyl 4-hydroxy-3-methoxy phenyl propionate	9279	PDTCYIZPTRRYOT-UHFFFAOYSA-N				
+0.89	4-nitrophenyl 3-O-acetyl-beta-D-xylopyranoside	5172	VBUFCJZNFLPVGQ-NDBYEHHHSA-N				
+0.89	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	40	6.4	X	mutant C235S, pH 6.4, 40C
+0.9	ferulic acid ethyl ester	16068	ATJVZXXHKSYELS-FNORWQNLSA-N	40	8.8		pH 8.8, 40C
+0.9	methyl sinapinate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N	40	5.5		pH 5.5, 40C, recombinant enzyme
+0.91	4-nitrophenyl 3-O-acetyl-beta-D-xylopyranoside	5172	VBUFCJZNFLPVGQ-NDBYEHHHSA-N				
+0.95	iso-butyl ferulate	6634	FAVYLFQVVWIFPZ-FNORWQNLSA-N				
+0.99	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	37	6.0	X	pH 6.0, 37C, W260V mutant enzyme
+1.05	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	40	6.4	X	mutant D93G/S187F, pH 6.4, 40C
+1.09	alpha-naphthylcaprylate	5134	SUAOWWVNMRJABO-UHFFFAOYSA-N	37	5.0	X	pH 5.0, 37C, Y80F mutant enzyme
+1.17	4-nitrophenyl 2-O-(E)-feruloyl-alpha-D-xylopyranoside	5840	QALNVHWJQLKKFO-XVFGKTLWSA-N				
+1.2	ferulic acid methyl ester	775	AUJXJFHANFIVKH-GQCTYLIASA-N	37	5.0		pH 5.0, 37C
+1.21	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	40	6.4	X	mutant L14F/T35I/K37I/T57I/T63I/A140T/Q121H/S163T/Q177H/V178A/Q185R, pH 6.4, 40C
+1.24	2-butyl ferulate	6633	LWGTYKIOSJFSSX-SOFGYWHQSA-N				
+1.5	ferulic acid methyl ester	775	AUJXJFHANFIVKH-GQCTYLIASA-N	40	8.8		pH 8.8, 40C
+1.55	4-nitrophenyl 5-O-trans-feruloyl-alpha-L-arabinofuranoside	3716	HWUYVLJKIQHEDV-LUIQYSJNSA-N				
+1.56	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	37	6.0	X	pH 6.0, 37C, Y80S mutant enzyme
+1.6	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	37	6.0		pH 6.0, 37C, native enzyme
+1.76	4-nitrophenyl 2-O-trans-feruloyl-alpha-L-arabinofuranoside	4653	XHPDERUPTDOZON-LUIQYSJNSA-N				
+1.77	4-nitrophenyl 5-O-acetyl-alpha-L-arabinofuranoside	6764	WLFUAZRGHHWEFV-WUHRBBMRSA-N				
+1.8	beta-naphthyl acetate	2676	RJNPPEUAJCEUPV-UHFFFAOYSA-N	20	7.4		20C, pH 7.4
+1.9	4-nitrophenyl 3-O-acetyl-beta-D-xylopyranoside	5172	VBUFCJZNFLPVGQ-NDBYEHHHSA-N				
+2	methyl sinapinate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N	30			30C
+2	methyl sinapinate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N	37	6.0		pH 6.0, 37C, native enzyme
+2	O-[5-O-(trans-feruloyl)-alpha-L-Araf]	12279	BDEXCUQHBTVULQ-ASYYJTFNSA-N				isoenzyme FAEB
+2	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	20	7.4		20C, pH 7.4
+2.2	methyl 2-hydroxy cinnamate	9275	YMXREWKKROWOSO-VOTSOKGWSA-N				
+2.21	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	40	5.5		pH 5.5, 40C, recombinant enzyme
+2.33	4-nitrophenyl 5-O-acetyl-alpha-L-arabinofuranoside	6764	WLFUAZRGHHWEFV-WUHRBBMRSA-N				
+2.33	alpha-naphthylbutyrate	2649	XIVJNRXPRQKFRZ-UHFFFAOYSA-N	37	5.0		pH 5.0, 37C, wild type enzyme
+2.56	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	37	6.0	X	pH 6.0, 37C, Y80V mutant enzyme
+2.6	ferulic acid methyl ester	775	AUJXJFHANFIVKH-GQCTYLIASA-N	40	5.0		pH 5.0, 40C
+2.6	methyl 4-hydroxy-3-methoxy cinnamate	775	AUJXJFHANFIVKH-GQCTYLIASA-N				
+2.6	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N				
+2.7	alpha-naphthylbutyrate	2649	XIVJNRXPRQKFRZ-UHFFFAOYSA-N	37	5.0	X	pH 5.0, 37C, D71I mutant enzyme
+2.73	4-nitrophenyl 5-O-(E)-feruloyl-alpha-L-arabinofuranoside	3716	HWUYVLJKIQHEDV-LUIQYSJNSA-N				
+2.75	Alpha-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N	20	7.4		20C, pH 7.4
+3.1	methyl caffeate	1447	OCNYGKNIVPVPPX-HWKANZROSA-N	55	6.0		pH 6.0, 55C
+3.23	4-nitrophenyl 2-O-acetyl-beta-D-xylopyranoside	16672	MVCAZOBOJBYVSB-XQHKEYJVSA-N				
+3.38	alpha-naphthylbutyrate	2649	XIVJNRXPRQKFRZ-UHFFFAOYSA-N	37	5.0	X	pH 5.0, 37C, Y80F mutant enzyme
+3.48	methyl sinapinate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N	37	6.0	X	pH 6.0, 37C, Y80S mutant enzyme
+3.5	methyl cinnamate	6644	CCRCUPLGCSFEDV-BQYQJAHWSA-N				
+3.5	methyl coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	45	6.0		45C, pH 6.0, isoenzyme FAE-I
+3.5	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	37	6.0	X	pH 6.0, 37C, W260S mutant enzyme
+3.66	4-nitrophenyl 5-O-(E)-feruloyl-alpha-L-arabinofuranoside	3716	HWUYVLJKIQHEDV-LUIQYSJNSA-N				
+3.7	4-nitrophenyl 2-O-trans-feruloyl-alpha-L-arabinofuranoside	4653	XHPDERUPTDOZON-LUIQYSJNSA-N				
+3.72	alpha-naphthylbutyrate	2649	XIVJNRXPRQKFRZ-UHFFFAOYSA-N	37	5.0	X	pH 5.0, 37C, D77I mutant enzyme
+3.77	alpha-naphthylbutyrate	2649	XIVJNRXPRQKFRZ-UHFFFAOYSA-N	37	5.0	X	pH 5.0, 37C, T72R mutant enzyme
+4	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N				isoenzyme FAEB
+4.1	ethyl ferulate	3222	KKPZWXDHVRPCRP-VQHVLOKHSA-N	55	6.0		pH 6.0, 55C
+4.8	methyl caffeate	1447	OCNYGKNIVPVPPX-HWKANZROSA-N	37	6.0		pH 6.0, 37C
+4.8	methyl caffeate	1447	OCNYGKNIVPVPPX-HWKANZROSA-N	37	6.0		37C, pH 6.0
+5.2	4-nitrophenyl 2-O-(E)-feruloyl-alpha-D-xylopyranoside	5840	QALNVHWJQLKKFO-XVFGKTLWSA-N				
+5.24	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	37	6.0		pH 6.0, 37C
+5.8	methyl p-coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	55	6.0		pH 6.0, 55C
+5.9	methyl caffeate	1447	OCNYGKNIVPVPPX-HWKANZROSA-N	45	6.0		pH 6.0, 45C
+5.92	methyl caffeate	1447	OCNYGKNIVPVPPX-HWKANZROSA-N	45	6.0		45C, pH 6.0, isoenzyme FAE-I
+6.04	O-[2-O-(transferuloyl)-alpha-L-arabinofuranosyl]-(1,5)-L-arabinose	16671	WSXOCKCBEHMJSC-VHWFSILQSA-N	37	6.0		37C, pH 6.0
+6.37	4-nitrophenyl 5-O-acetyl-alpha-L-arabinofuranoside	6764	WLFUAZRGHHWEFV-WUHRBBMRSA-N				
+6.6	chlorogenic acid	488	CWVRJTMFETXNAD-JUHZACGLSA-N	37	7.5		pH 7.5, 37C
+6.85	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	45	6.0		45C, pH 6.0, isoenzyme FAE-I
+6.9	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	45	6.0		pH 6.0, 45C
+7.05	4-nitrophenyl 2-O-(E)-feruloyl-alpha-L-arabinofuranoside	4653	XHPDERUPTDOZON-LUIQYSJNSA-N				
+7.5	chlorogenic acid	488	CWVRJTMFETXNAD-JUHZACGLSA-N	37	7.5		pH 7.5, 37C
+7.5	methyl 4-coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	40	6.8		pH 6.8, 40C
+7.85	methyl sinapinate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N	37	6.0	X	pH 6.0, 37C, Y80V mutant enzyme
+7.9	methyl caffeate	1447	OCNYGKNIVPVPPX-HWKANZROSA-N	45	6.0		45C, pH 6.0, isoenzyme FAE-II
+8	O-[5-O-(trans-feruloyl)-alpha-L-Araf]-(1,3)D-Xylp	12280	MDPAUNPAOMMJNB-FGXGFWIKSA-N				isoenzyme FAEB
+8.1	p-coumaric acid methyl ester	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	40	8.8		pH 8.8, 40C
+9.26	methyl sinapinate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N	37	6.0		pH 6.0, 37C
+9.3	methyl 4-hydroxy-3,5-dimethoxy cinnamate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N				
+9.55	methyl 4-hydroxy cinnamate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N				
+9.55	methyl p-coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	37	6.0		pH 6.0, 37C
+9.65	methyl 4-hydroxy-3-methoxy cinnamate	775	AUJXJFHANFIVKH-GQCTYLIASA-N				
+9.65	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N				
+9.65	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	37	6.0		pH 6.0, 37C
+10	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N				hydrolysis
+10.1	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	37	7.0		recombinant His-tagged enzyme, pH 7.0, 37C
+10.3	4-nitrophenyl 5-O-trans-feruloyl-alpha-L-arabinofuranoside	3716	HWUYVLJKIQHEDV-LUIQYSJNSA-N				
+10.53	ethyl ferulate	3222	KKPZWXDHVRPCRP-VQHVLOKHSA-N	30	9.0		pH 9.0, 30C
+11.2	methyl 4-hydroxybenzoate	16947	LXCFILQKKLGQFO-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+11.9	4-methylumbelliferyl p-trimethylammonio cinnamate	24840	CJYPRORPWLJGJM-KPKJPENVSA-N	20	7.4		20C, pH 7.4
+12.19	methyl coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	37	6.0		37C, pH 6.0
+12.19	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	37	6.0		37C, pH 6.0
+12.19	methyl p-coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	37	6.0		pH 6.0, 37C
+12.5	methyl 4-hydroxybenzoate	16947	LXCFILQKKLGQFO-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+13	methyl coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	45	6.0		45C, pH 6.0, isoenzyme FAE-II
+14.05	n-butyl ferulate	5803	JTQRZRRDNZAHMH-SOFGYWHQSA-N				
+15.3	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	50	6.0		pH 6.0, 50C
+15.3	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	30			30C
+15.9	methyl 3-methoxy cinnamate	7864	NDMAAKFMVKZYIV-VOTSOKGWSA-N				
+16	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	37	6.0		37C, pH 6.0
+16	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N				isoenzyme FAEA
+16.2	methyl sinapate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N	40	6.8		pH 6.8, 40C
+17.9	4-nitrophenyl 4-O-(E)-feruloyl-alpha-D-xylopyranoside	12282	RYZRSSQOQHWGBA-QWFMJSMOSA-N				
+18.33	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	37	6.0	X	pH 6.0, 37C, W260V mutant enzyme
+18.9	4-nitrophenyl ferulate	10104	VIQDYVAKUJDZBD-YCRREMRBSA-N	243	7.0	X	mutant T27I/S84L/V161I/H195L/G243C/A259V, pH 7.0, 40C
+19.1	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	40	6.8		pH 6.8, 40C
+19.7	4-nitrophenyl ferulate	10104	VIQDYVAKUJDZBD-YCRREMRBSA-N	40	6.8		pH 6.8, 40C
+19.88	methyl coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	45	6.0		45C, pH 6.0, isoenzyme FAE-I
+19.9	methyl p-coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	45	6.0		pH 6.0, 45C
+20	coniferyl p-coumarate	12281	UPNLRNQUIJXYPN-LFWRRJNUSA-N				
+20.06	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	37	6.0	X	pH 6.0, 37C, W260S mutant enzyme
+20.27	methyl cinnamate	6644	CCRCUPLGCSFEDV-BQYQJAHWSA-N				
+20.9	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	50	6.0		pH 6.0, 50C
+21	alpha-naphthylbutyrate	2649	XIVJNRXPRQKFRZ-UHFFFAOYSA-N	37	5.0	X	37C, pH 5.0, mutant enzyme N79Q
+22.5	4-nitrophenyl 5-O-(E)-feruloyl-alpha-L-arabinofuranoside	3716	HWUYVLJKIQHEDV-LUIQYSJNSA-N				
+23.1	4-nitrophenyl ferulate	10104	VIQDYVAKUJDZBD-YCRREMRBSA-N	50	6.0		pH 6.0, 50C
+24	4-nitrophenyl butanoate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	55	6.0		pH 6.0, 55C
+24.1	methyl 3-hydroxy cinnamate	6643	PKALKWFZXXGNJD-AATRIKPKSA-N				
+24.1	methyl caffeate	1447	OCNYGKNIVPVPPX-HWKANZROSA-N	37	6.0		37C, pH 6.0
+24.2	methyl coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	37	6.0		37C, pH 6.0
+27.28	methyl 3-methoxy cinnamate	7864	NDMAAKFMVKZYIV-VOTSOKGWSA-N				
+27.76	methyl sinapinate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N	37	6.0	X	pH 6.0, 37C, W260S mutant enzyme
+28.28	methyl sinapinate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N	37	6.0	X	pH 6.0, 37C, W260V mutant enzyme
+30	methyl caffeate	1447	OCNYGKNIVPVPPX-HWKANZROSA-N	30			30C
+31.1	methyl p-coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	30			30C
+32	1-naphthyl acetate	952	VGKONPUVOVVNSU-UHFFFAOYSA-N	55	6.0		pH 6.0, 55C
+32.1	alpha-naphthylbutyrate	2649	XIVJNRXPRQKFRZ-UHFFFAOYSA-N	37	5.0	X	pH 5.0, 37C, D77N mutant enzyme
+32.2	4-nitrophenyl ferulate	10104	VIQDYVAKUJDZBD-YCRREMRBSA-N	243	7.0	X	mutant T27I/S84L/V161I/H195L/G243C/A259V, pH 7.0, 65C
+34.1	methyl caffeate	1447	OCNYGKNIVPVPPX-HWKANZROSA-N	37	7.5		pH 7.5, 37C
+34.2	4-nitrophenyl 3-O-(E)-feruloyl-alpha-L-arabinofuranoside	7941	GUMAJVHMUUOJGY-ZPEPAHMJSA-N				
+38.4	methyl caffeate	1447	OCNYGKNIVPVPPX-HWKANZROSA-N	37	7.5		pH 7.5, 37C
+38.9	4-nitrophenyl 2-O-(E)-feruloyl-alpha-L-arabinofuranoside	4653	XHPDERUPTDOZON-LUIQYSJNSA-N				
+39.4	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	45	6.0		45C, pH 6.0, isoenzyme FAE-II
+39.7	4-nitrophenyl 2-O-(E)-feruloyl-alpha-D-xylopyranoside	5840	QALNVHWJQLKKFO-XVFGKTLWSA-N				
+48	5-O-p-coumaroylquinic acid	24839	BMRSEYFENKXDIS-OTCYKTEZSA-N				isoenzyme FAEB
+51	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	37	7.5		pH 7.5, 37C
+54.7	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	37	7.5		pH 7.5, 37C
+61	methyl sinapinate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N				
+62	ferulate	378	KSEBMYQBYZTDHS-HWKANZROSA-N	40	6.4		pH 6.4, 40C, wild-type enzyme
+63	chlorogenic acid	488	CWVRJTMFETXNAD-JUHZACGLSA-N				isoenzyme FAEB
+63.2	4-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N	40	6.8		pH 6.8, 40C
+64.45	methyl 3,4-dihydroxy-phenyl propionate	9276	NTULQOXXTCSEHM-UHFFFAOYSA-N				
+65.5	4-nitrophenyl 5-O-trans-feruloyl-alpha-L-arabinofuranoside	3716	HWUYVLJKIQHEDV-LUIQYSJNSA-N	30			30C
+66	methyl sinapate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N	45	6.0		45C, pH 6.0, isoenzyme FAE-II
+69	methyl p-coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N				isoenzyme FAEB
+70.2	4-nitrophenyl 2-O-trans-feruloyl-alpha-L-arabinofuranoside	4653	XHPDERUPTDOZON-LUIQYSJNSA-N	30			30C
+70.74	methyl ferulate	775	AUJXJFHANFIVKH-GQCTYLIASA-N	37	6.0		pH 6.0, 37C, native enzyme
+84	ferulate	378	KSEBMYQBYZTDHS-HWKANZROSA-N	40	6.4	X	pH 6.4, 40C, mutant D93G
+84.95	methyl sinapinate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N	37	6.0		pH 6.0, 37C, native enzyme
+91.4	methyl p-coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	37	7.5		pH 7.5, 37C
+95	O-[5-O-(trans-feruloyl)-alpha-L-Araf]-(1,3)D-Xylp	12280	MDPAUNPAOMMJNB-FGXGFWIKSA-N				
+97	alpha-naphthylbutyrate	2649	XIVJNRXPRQKFRZ-UHFFFAOYSA-N	37	5.0	X	37C, pH 5.0, mutant enzyme N79A
+105.1	methyl p-coumarate	1371	NITWSHWHQAQBAW-QPJJXVBHSA-N	37	7.5		pH 7.5, 37C
+116.6	methyl sinapate	1950	JHLPYWLKSLVYOI-SNAWJCMRSA-N	45	6.0		45C, pH 6.0, isoenzyme FAE-II
+121	O-[5-O-(trans-feruloyl)-alpha-L-Araf]	12279	BDEXCUQHBTVULQ-ASYYJTFNSA-N				
+125.9	methyl 4-hydroxy-3-methoxy phenyl propionate	9279	PDTCYIZPTRRYOT-UHFFFAOYSA-N				
+135	ferulic acid 4-nitrophenyl ester	10104	VIQDYVAKUJDZBD-YCRREMRBSA-N	40	5.5		wild-type, pH 5.5, 40C
+140	coniferyl p-coumarate	12281	UPNLRNQUIJXYPN-LFWRRJNUSA-N				isoenzyme FAEB
+142	methyl 3,4-dihydroxy-phenyl propionate	9276	NTULQOXXTCSEHM-UHFFFAOYSA-N				
+153	alpha-naphthylbutyrate	2649	XIVJNRXPRQKFRZ-UHFFFAOYSA-N	37	5.0		37C, pH 5.0, wild-type enzyme
+166.7	4-nitrophenyl 5-O-trans-feruloyl-alpha-L-arabinofuranoside	3716	HWUYVLJKIQHEDV-LUIQYSJNSA-N	45	6.0		pH 6.0, 45C
+175	4-nitrophenyl 5-O-(E)-feruloyl-alpha-L-arabinofuranoside	3716	HWUYVLJKIQHEDV-LUIQYSJNSA-N				
+203.2	4-nitrophenyl butyrate	436	DVDUMIQZEUTAGK-UHFFFAOYSA-N	40	6.8		pH 6.8, 40C
+213	ferulic acid 4-nitrophenyl ester	10104	VIQDYVAKUJDZBD-YCRREMRBSA-N	126	5.5	X	mutant A126C/N152C, pH 5.5, 40C
+234	methyl caffeate	1447	OCNYGKNIVPVPPX-HWKANZROSA-N				isoenzyme FAEB
+278	methyl caffeate	1447	OCNYGKNIVPVPPX-HWKANZROSA-N	30	9.0		pH 9.0, 30C
+600	4-nitrophenyl 2-O-trans-feruloyl-alpha-L-arabinofuranoside	4653	XHPDERUPTDOZON-LUIQYSJNSA-N	45	6.0		pH 6.0, 45C
+790	ferulate	378	KSEBMYQBYZTDHS-HWKANZROSA-N	40	6.4	X	pH 6.4, 40C, mutant D93G/S187F
+823	ferulate	378	KSEBMYQBYZTDHS-HWKANZROSA-N	40	6.4	X	pH 6.4, 40C, mutant S187F
+1345	2-butyl ferulate	6633	LWGTYKIOSJFSSX-SOFGYWHQSA-N				; hydrolysis
+1358	n-propyl ferulate	6631	XTSFEXUEVQUSQE-FNORWQNLSA-N				; hydrolysis
+2644	iso-propyl ferulate	6632	KBTWMQRNUHIETA-FNORWQNLSA-N				
+2645	iso-propyl ferulate	6632	KBTWMQRNUHIETA-FNORWQNLSA-N				hydrolysis
+2989	iso-butyl ferulate	6634	FAVYLFQVVWIFPZ-FNORWQNLSA-N				; hydrolysis
+3378	n-butyl ferulate	5803	JTQRZRRDNZAHMH-SOFGYWHQSA-N				; hydrolysis
+9570	ethyl ferulate	3222	KKPZWXDHVRPCRP-VQHVLOKHSA-N				; hydrolysis

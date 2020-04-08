@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.007	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	37	7.7	X	below, pH 7.7, 37C, recombinant mutant K141Q
+0.017	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	37	7.7	X	pH 7.7, 37C, recombinant mutant E243Q
+0.073	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	35	7.7		pH 7.7, 35C, native enzyme
+0.073	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	46	7.7		pH 7.7, 46C
+0.075	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	46			pH not specified in the publication, 46C
+0.41	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	37	7.7		pH 7.7, 37C, recombinant wild-type enzyme
+0.44	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	35	7.7		pH 7.7, 35C, recombinant wild-type enzyme, BtrC + BtrC2
+1	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	35	7.7		pH 7.7, 35C, recombinant wild-type enzyme, BtrC
+1	D-glucose 6-phosphate	99	NBSCHQHZLSJFNQ-GASJEMHNSA-N	46	7.7		pH 7.7, 46C, recombinant enzyme

@@ -1,0 +1,4 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00012	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.2		pH 7.2, 25C, recombinant ACSChDELTAN, acetyl-CoA/CO exchange activity
+0.0002	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.2		pH 7.2, 25C, recombinant ACSD beta, acetyl-CoA/CO exchange activity
+0.142	acetyl-CoA	27	ZSLZBFCDCINBPY-ZSJPKINUSA-N	25	7.2		pH 7.2, 25C, recombinant ACSCh732, acetyl-CoA/CO exchange activity

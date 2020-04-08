@@ -1,0 +1,36 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.19	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	30	7.5		wild-type, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; wild-type, pH 7.5, 30C, overall reaction
+0.19	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	30	7.5		wild-type, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; wild-type, pH 7.5, 30C, overall reaction
+0.31	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	30	7.5	X	mutant Y300A, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; mutant Y300A, pH 7.5, 30C, overall reaction
+0.38	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	30	7.5	X	mutant Y300A, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; mutant Y300A, pH 7.5, 30C, overall reaction
+0.41	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	30	7.5	X	mutant R301A, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; mutant R301A, pH 7.5, 30C, overall reaction
+0.41	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	30	7.5	X	mutant R301A, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; mutant R301A, pH 7.5, 30C, overall reaction
+0.42	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	30	7.5	X	mutant D295A, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; mutant D295A, pH 7.5, 30C, overall reaction
+0.48	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	30	7.5	X	mutant D295A, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; mutant D295A, pH 7.5, 30C, overall reaction
+0.53	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	30	7.5	X	mutant Y300F, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; mutant Y300F, pH 7.5, 30C, overall reaction
+0.57	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	30	7.5	X	mutant Y300F, pH 7.5, 30C, E1b-catalyzed decarboxylation reaction; mutant Y300F, pH 7.5, 30C, overall reaction
+0.8	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	37	7.0	X	mutant Q487G, pH 7.0, 37C; mutant Q487S, pH 7.0, 37C
+1.1	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	37	7.0	X	mutant Q487A, pH 7.0, 37C
+1.7	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N				pH and temperature not specified in the publication
+1.8	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N				pH and temperature not specified in the publication
+2.14	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				
+2.98	(indol-3-yl)pyruvate	1536	RSTKLPZEZYGQPY-UHFFFAOYSA-M				
+3.89	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N				
+4.8	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	37	7.0	X	mutant Q487I, pH 7.0, 37C
+5.4	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	37	7.0	X	mutant Q487L, pH 7.0, 37C
+5.98	2-oxobutyrate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N				
+6.95	2-Oxopentanoate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M				
+7	4-methyl-2-oxopentanoate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N				pH and temperature not specified in the publication
+7.06	2-Oxohexanoate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M				
+7.5	phenylpyruvate	178	BTNMPGBKDVTSJY-UHFFFAOYSA-N				
+8.5	4-methyl-2-oxopentanoate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N				pH and temperature not specified in the publication
+8.9	2-oxoisovalerate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N	37	7.0		wild-type, pH 7.0, 37C
+18.57	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N				
+19.75	2-oxo-3-methylpentanoate	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N				
+23	3-methyl-2-oxopentanoate	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N				pH and temperature not specified in the publication
+25	3-methyl-2-oxopentanoate	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N				pH and temperature not specified in the publication
+27	3-methyl-2-oxopentanoate	858	JVQYSWDUAOAHFM-UHFFFAOYSA-N				pH and temperature not specified in the publication
+28.35	2-oxoisopentanoate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N				
+29	3-methyl-2-oxobutyrate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N				pH and temperature not specified in the publication
+31.5	2-Oxoisohexanoate	581	BKAJNAXTPSGJCU-UHFFFAOYSA-N				
+33	3-methyl-2-oxobutyrate	611	QHKABHOOEWYVLI-UHFFFAOYSA-N				pH and temperature not specified in the publication

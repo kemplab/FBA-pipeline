@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.84	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.6		pH 7.6, 37C, recombinant enzyme
+0.62	CTP	56	PCDQPRRSZKQHHS-XVFCMESISA-N	37	7.6		pH 7.6, 37C, recombinant enzyme
+0.36	UTP	61	PGAVKCOVUIYSFO-XVFCMESISA-N	37	7.6		pH 7.6, 37C, recombinant enzyme
+0.0081	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N				
+8.1	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N				
+1.82	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N		8.0		pH 8.0
+3.7	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N				
+0.55	deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N		8.0		in 50 mM Tris/HCl, pH 8.0, 10 mM dithiothreitol, 2.5 mM ATP, 2.5 mM MgCl2, 3 mg/ml of bovine serum albumin and 0.5 mM CHAPS
+1.23	deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N	37	7.6		pH 7.6, 37C, recombinant enzyme
+0.56	2'-deoxycytidine	377	CKTSBUTUHBMZGZ-SHYZEUOFSA-N		8.0		pH 8.0
+1.64	TTP	137	NHVNXKFIZYSCEB-XLPZGREQSA-N	37	7.6		pH 7.6, 37C, recombinant enzyme
+1.22	deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N		8.0		in 50 mM Tris/HCl, pH 8.0, 10 mM dithiothreitol, 2.5 mM ATP, 2.5 mM MgCl2, 3 mg/ml of bovine serum albumin and 0.5 mM CHAPS
+1.48	deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	37	7.6		pH 7.6, 37C, recombinant enzyme
+3.7	deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N				
+0.61	deoxyguanosine	419	YKBGVTZYEHREMT-KVQBGUIXSA-N	37	7.6		pH 7.6, 37C, recombinant enzyme
+0.17	gemcitabine	1407	SDUQYLNIPVEERB-QPPQHZFASA-N		8.0		in 50 mM Tris/HCl, pH 8.0, 10 mM dithiothreitol, 2.5 mM ATP, 2.5 mM MgCl2, 3 mg/ml of bovine serum albumin and 0.5 mM CHAPS
+0.19	2',2'-difluorodeoxycytidine	1407	SDUQYLNIPVEERB-QPPQHZFASA-N		8.0		pH 8.0
+3.3	fludarabine	2921	HBUBKKRHXORPQB-FJFJXFQQSA-N				
+3.3	2'-fluoro-arabinosyl adenine	16198	ZGYYPTJWJBEXBC-GQTRHBFLSA-N				

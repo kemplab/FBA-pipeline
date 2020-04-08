@@ -1,0 +1,50 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.014	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant AtPAO4
+0.02	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N	37	7.0		37C, pH 7.0
+0.02	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N		7.5		pH 7.5, temperature not specified in the publication
+0.02	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant AtPAO3
+0.042	N1-acetylspermidine	1435	MQTAVJHICJWXBR-UHFFFAOYSA-N	37	7.0		37C, pH 7.0
+0.1	spermidine	140	ATHGHQPFGPMSJY-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant AtPAO4
+0.1	thermospermine	3279	DODDBCGMRAFLEB-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant AtPAO4
+0.12	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	30	10.0	X	pH 10.0, 30C, recombinant mutant H64N
+0.16	N,N'-dibenzyl-1,4-diaminobutane	109235	IXBTYWVCTCYLJR-UHFFFAOYSA-N	30	8.6	X	pH 8.6, 30C, recombinant mutant H64A
+0.188	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	37	7.0		37C, pH 7.0; pH 7.5, 37C, recombinant AtPAO3
+0.2	N,N'-dibenzyl-1,4-diaminobutane	109235	IXBTYWVCTCYLJR-UHFFFAOYSA-N	30	8.6	X	pH 8.6, 30C, recombinant mutant H64Q
+0.22	N,N'-dibenzyl-1,4-diaminobutane	109235	IXBTYWVCTCYLJR-UHFFFAOYSA-N	30	8.6	X	pH 8.6, 30C, recombinant mutant H64N
+0.3	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	30	10.0	X	pH 10.0, 30C, recombinant mutant H64A
+0.34	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	30	10.0	X	pH 10.0, 30C, recombinant mutant H64Q
+0.4	thermospermine	3279	DODDBCGMRAFLEB-UHFFFAOYSA-N		7.5		pH 7.5, temperature not specified in the publication
+0.4	thermospermine	3279	DODDBCGMRAFLEB-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant AtPAO2
+0.45	norspermine	2897	ZAXCZCOUDLENMH-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant AtPAO4
+0.5	thermospermine	3279	DODDBCGMRAFLEB-UHFFFAOYSA-N		7.5		pH 7.5, temperature not specified in the publication
+0.5	thermospermine	3279	DODDBCGMRAFLEB-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant AtPAO3
+0.8	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N		7.5		pH 7.5, temperature not specified in the publication
+0.8	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant AtPAO2
+0.9	N,N'-dibenzyl-1,4-diaminobutane	109235	IXBTYWVCTCYLJR-UHFFFAOYSA-N	30	8.6		pH 8.6, 30C, recombinant wild-type enzyme
+1	N1-acetylspermidine	1435	MQTAVJHICJWXBR-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant AtPAO3
+1.1	norspermine	2897	ZAXCZCOUDLENMH-UHFFFAOYSA-N		7.5		pH 7.5, temperature not specified in the publication
+1.1	norspermine	2897	ZAXCZCOUDLENMH-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant AtPAO3
+1.25	spermidine	140	ATHGHQPFGPMSJY-UHFFFAOYSA-N	37	7.0		37C, pH 7.0; pH 7.5, 37C, recombinant AtPAO3
+1.7	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N		7.5		pH 7.5, temperature not specified in the publication
+1.7	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant AtPAO3
+2	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant AtPAO3
+2	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	25	9.35	X	pH 9.35, 25C, recombinant mutant D94N
+2.9	norspermine	2897	ZAXCZCOUDLENMH-UHFFFAOYSA-N		7.5		pH 7.5, temperature not specified in the publication
+2.9	norspermine	2897	ZAXCZCOUDLENMH-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant AtPAO2
+3.1	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N	30	10.0	X	pH 10.0, 30C, recombinant mutant H64A
+3.4	spermidine	140	ATHGHQPFGPMSJY-UHFFFAOYSA-N		7.5		pH 7.5, temperature not specified in the publication
+3.4	spermidine	140	ATHGHQPFGPMSJY-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant AtPAO3
+4.1	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N	30	10.0	X	pH 10.0, 30C, recombinant mutant H64N
+4.2	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N		7.5		pH 7.5, temperature not specified in the publication
+4.2	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant AtPAO2
+4.5	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N	30	10.0	X	pH 10.0, 30C, recombinant mutant H64Q
+4.6	spermidine	140	ATHGHQPFGPMSJY-UHFFFAOYSA-N		7.5		pH 7.5, temperature not specified in the publication
+4.6	spermidine	140	ATHGHQPFGPMSJY-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant AtPAO2
+4.6	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, recombinant AtPAO4
+4.7	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	30	10.0		pH 10.0, 30C, recombinant wild-type enzyme
+4.9	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	25	9.35	X	pH 9.35, 25C, recombinant mutant N195A
+8.1	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N	25	9.0	X	pH 9.0, 25C, recombinant mutant N195A
+9.7	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N	25	9.0	X	pH 9.0, 25C, recombinant mutant D94N
+15.1	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N	25	9.0		pH 9.0, 25C, recombinant wild-type Fms1
+39	spermine	177	PFNFFQXMRSDOHW-UHFFFAOYSA-N	25	9.35		pH 9.35, 25C, recombinant wild-type Fms1
+49	N1-acetylspermine	843	GUNURVWAJRRUAV-UHFFFAOYSA-N	30	10.0		pH 10.0, 30C, recombinant wild-type enzyme

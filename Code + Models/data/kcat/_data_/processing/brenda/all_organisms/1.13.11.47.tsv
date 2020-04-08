@@ -1,0 +1,9 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0034	1H-3-Hydroxy-4-oxoquinaldine	1017	FSCXZVPPDJYLDD-UHFFFAOYSA-N			X	HOD mutant H251A, pH not specified in the publication, temperature not specified in the publication
+0.027	1H-3-Hydroxy-4-oxoquinaldine	1017	FSCXZVPPDJYLDD-UHFFFAOYSA-N			X	HOD mutant H102L, pH not specified in the publication, temperature not specified in the publication
+1.05	1H-3-Hydroxy-4-oxoquinaldine	1017	FSCXZVPPDJYLDD-UHFFFAOYSA-N			X	HOD mutant D126A, pH not specified in the publication, temperature not specified in the publication
+2.55	1H-3-Hydroxy-4-oxoquinoline	4786	BHTNYVRPYQQOMJ-UHFFFAOYSA-N			X	QDO mutant D120A, pH not specified in the publication, temperature not specified in the publication
+3	1H-3-Hydroxy-4-oxoquinaldine	1017	FSCXZVPPDJYLDD-UHFFFAOYSA-N			X	HOD mutant H38A, pH not specified in the publication, temperature not specified in the publication
+20.6	1H-3-Hydroxy-4-oxoquinoline	4786	BHTNYVRPYQQOMJ-UHFFFAOYSA-N				wild-type QDO, pH not specified in the publication, temperature not specified in the publication
+38.4	1H-3-Hydroxy-4-oxoquinaldine	1017	FSCXZVPPDJYLDD-UHFFFAOYSA-N				wild-type HOD, pH not specified in the publication, temperature not specified in the publication
+46.4	1H-3-Hydroxy-4-oxoquinaldine	1017	FSCXZVPPDJYLDD-UHFFFAOYSA-N			X	HOD mutant S101A, pH not specified in the publication, temperature not specified in the publication

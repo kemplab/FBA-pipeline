@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.117	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O		8.5		transferase B, pH 8.5
+0.2	S-adenosyl-L-methionine	22	MEFKEPWMEQBLKI-AIRLBKTGSA-O		8.5		transferase A, pH 8.5
+0.4	tryptamine	310	APJYDQYYACXCRM-UHFFFAOYSA-N		8.5		transferase A, pH 8.5
+0.45	tryptamine	310	APJYDQYYACXCRM-UHFFFAOYSA-N		8.5		transferase B, pH 8.5
+0.0833	imidazole	390	RAXXELZNTBOGNW-UHFFFAOYSA-N		8.5		transferase A, pH 8.5
+0.167	imidazole	390	RAXXELZNTBOGNW-UHFFFAOYSA-N		8.5		transferase B, pH 8.5
+0.0333	aniline	547	PAYRUJLWNCNPSJ-UHFFFAOYSA-N		7.6		transferase A, pH 7.6
+0.367	aniline	547	PAYRUJLWNCNPSJ-UHFFFAOYSA-N		7.6		transferase B, pH 7.6
+0.1	pyrazole	822	WTKZEGDFNFYCGP-UHFFFAOYSA-N		7.6		transferase B, pH 7.6
+0.25	pyrazole	822	WTKZEGDFNFYCGP-UHFFFAOYSA-N		7.6		transferase A, pH 7.6
+0.667	7,8-dichloro-1,2,3,4-tetrahydroisoquinoline	5407	WFPUBEDBBOGGIQ-UHFFFAOYSA-N		7.6		transferase A, pH 7.6
+3.67	7,8-dichloro-1,2,3,4-tetrahydroisoquinoline	5407	WFPUBEDBBOGGIQ-UHFFFAOYSA-N		7.6		transferase B, pH 7.6
+0.0333	desmethylimipramine	2832	HCYAFALTSJYZDH-UHFFFAOYSA-N		8.5		transferase B, pH 8.5
+0.233	desmethylimipramine	2832	HCYAFALTSJYZDH-UHFFFAOYSA-N		8.5		transferase A, pH 8.5

@@ -1,0 +1,26 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.4	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	30	8.0		pH 8.0, 30C, recombinant enzyme
+0.87	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	37	7.5		pH 7.5, 37C, recombinant His-tagged 5-DMATS
+0.4	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+0.4	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, recombinant enzyme
+1.3	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant His-tagged 5-DMATS
+1.3	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C
+0.76	6-methyl-DL-tryptophan	2916	GDMRVYIFGPMUCG-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant His-tagged 5-DMATS
+0.29	6-fluoro-DL-tryptophan	3243	YMEXGEAJNZRQEH-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant His-tagged 5-DMATS
+0.059	1-methyl-DL-tryptophan	3694	ZADWXFSZEAPBJS-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant His-tagged 5-DMATS
+0.4	7-methyl-DL-tryptophan	4217	KBOZNJNHBBROHM-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant His-tagged 5-DMATS
+0.15	L-beta-homotryptophan	5166	DUVVFMLAHWNDJD-VIFPVBQESA-N	37	7.5		pH 7.5, 37C, recombinant His-tagged 5-DMATS
+0.1	N-acetyl-DL-tryptophan	6203	DZTHIGRZJZPRDV-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant His-tagged 5-DMATS
+0.29	4-methyl-DL-tryptophan	7791	FPJGLSZLQLNZIW-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant His-tagged 5-DMATS
+0.39	indole-3-propionate	4429	GOLXRNDWAUTYKT-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant His-tagged 5-DMATS
+0.00048	methylallyl diphosphate	10309	VPTVZDVITVNLTM-NSCUHMNNSA-N	37	7.5		pH 7.5, 37C
+0.0015	methylallyl diphosphate	10309	VPTVZDVITVNLTM-NSCUHMNNSA-N	37	7.5		pH 7.5, 37C
+0.005	methylallyl diphosphate	10309	VPTVZDVITVNLTM-NSCUHMNNSA-N	37			37C, pH not specified in the publication
+0.0014	2-pentenyl diphosphate	10310	WZDSLOCYZQFUGM-ONEGZZNKSA-N	37	7.5		pH 7.5, 37C
+0.023	2-pentenyl diphosphate	10310	WZDSLOCYZQFUGM-ONEGZZNKSA-N	37			37C, pH not specified in the publication
+0.023	2-pentenyl diphosphate	10310	WZDSLOCYZQFUGM-ONEGZZNKSA-N	37	7.5		pH 7.5, 37C
+0.4	L-abrine	9572	CZCIKBSVHDNIDH-NSHDSACASA-N	37	7.5		pH 7.5, 37C, recombinant His-tagged 5-DMATS
+0.43	DL-indole-3-lactate	2811	XGILAAMKEQUXLS-UHFFFAOYSA-N	37	7.5		pH 7.5, 37C, recombinant His-tagged 5-DMATS
+0.14	trans-indole-3-acrylate	122642	PLVPPLCLBIEYEA-AATRIKPKSA-N	37	7.5		pH 7.5, 37C, recombinant His-tagged 5-DMATS
+0.022	ent-ardeemin fumiquinazoline	128076	FHOFNRAVYAGXCQ-KPZWWZAWSA-N	37	7.5		pH 7.5, 37C, wild-type enzyme
+0.022	ent-ardeemin fumiquinazoline	128076	FHOFNRAVYAGXCQ-KPZWWZAWSA-N	37	7.5		pH 7.5, 37C, wild-type enzyme

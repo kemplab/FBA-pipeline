@@ -1,0 +1,28 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0235	Reactive Blue 5	2440	NSDSIQGBHACTLY-UHFFFAOYSA-N	30	3.5		pH 3.5, 30C
+0.62	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	20	2.5		manganese-independent peroxidase II, at pH 2.5 in sodium tartrate buffer (50 mM), at 20C
+0.86	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N	20	2.5		manganese-independent peroxidase I, at pH 2.5 in sodium tartrate buffer (50 mM), at 20C
+2.7	veratryl alcohol	391	OEGPRYNGFWGMMV-UHFFFAOYSA-N		2.0		pH 2.0, temperature not specified in the publication
+3	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J	20	3.0		manganese-independent peroxidase I, at pH 3.0 in sodium tartrate buffer (50 mM), at 20C; manganese-independent peroxidase II, at pH 3.0 in sodium tartrate buffer (50 mM), at 20C
+5.9	Reactive Blue 5	2440	NSDSIQGBHACTLY-UHFFFAOYSA-N	25	3.2		in 25 mM citrate buffer, pH 3.2, at 25C
+9	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	25	3.5		in 25 mM citrate buffer (pH 3.5), at 25C
+10	Reactive Blue 19	8779	KUIXZSYWBHSYCN-UHFFFAOYSA-L	25	3.5		in 25 mM citrate buffer (pH 3.5), at 25C
+11.9	Reactive Black 5	1013	HFIYIRIMGZMCPC-YOLJWEMLSA-J		3.0		pH 3.0, temperature not specified in the publication
+70.9	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N		3.0		pH 3.0, temperature not specified in the publication
+79.9	Reactive Blue 19	8779	KUIXZSYWBHSYCN-UHFFFAOYSA-L		4.0		pH 4.0, temperature not specified in the publication
+89	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	20	4.5		manganese-independent peroxidase II, at pH 4.5 in sodium tartrate buffer (50 mM), at 20C
+90	2,6-dimethoxyphenol	261	KLIDCXVFHGNTTM-UHFFFAOYSA-N	20	4.5		manganese-independent peroxidase I, at pH 4.5 in sodium tartrate buffer (50 mM), at 20C
+114	Reactive Blue 5	2440	NSDSIQGBHACTLY-UHFFFAOYSA-N	20	3.0		manganese-independent peroxidase I, at pH 3.0 in sodium tartrate buffer (50 mM), at 20C
+224	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N		3		pH 3,0, temperature not specified in the publication
+238	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	20	4.5		manganese-independent peroxidase II, using 2,2'-azino-bis(3-ethylthiazoline)-6-sulfonate as cosubstrate, at pH 4.5 in sodium tartrate buffer (50 mM), at 20C
+256	Reactive Blue 5	2440	NSDSIQGBHACTLY-UHFFFAOYSA-N	20	3.0		manganese-independent peroxidase II, at pH 3.0 in sodium tartrate buffer (50 mM), at 20C
+260	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	3.2		at pH 3.2 and 30C
+260	Reactive Blue 5	2440	NSDSIQGBHACTLY-UHFFFAOYSA-N	30	3.2		at pH 3.2 and 30C
+268	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	20	4.5		manganese-independent peroxidase I, using 2,2'-azino-bis(3-ethylthiazoline)-6-sulfonate as cosubstrate, at pH 4.5 in sodium tartrate buffer (50 mM), at 20C
+270	1-amino-4-methylamino-2-sodium anthraquinone sulfonate	109407	JKMXYNPROMJNOQ-UHFFFAOYSA-M	30	3.2		at pH 3.2 and 30C
+270	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	30	3.2		using AQ2 as cosubstrate, at pH 3.2 and 30C
+322	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	20	4.5		manganese-independent peroxidase II, at pH 4.5 in sodium tartrate buffer (50 mM), at 20C
+368	2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)	344	ZTOJFFHGPLIVKC-CLFAGFIQSA-N	20	4.5		manganese-independent peroxidase I, at pH 4.5 in sodium tartrate buffer (50 mM), at 20C
+384	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N	37	4.0		in 50 mM citrate buffer (pH 4.0-4.4), at 37C
+384	Reactive Blue 5	2440	NSDSIQGBHACTLY-UHFFFAOYSA-N	37	4.0		in 50 mM citrate buffer (pH 4.0-4.4), at 37C
+419	H2O2	20	MHAJPDPJQMAIIY-UHFFFAOYSA-N		3.0		pH 3.0, temperature not specified in the publication

@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.03	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant N245Q
+0.06	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	37	6.5	X	pH 6.5, 37C, mutant E254D
+0.065	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	4	7.0		activity is measured polarographically, assays include 0.5 microM of enzyme, 500 microM betaME, Fe2+ stoichiometric with enzyme, and 400 microM 4-hydroxyophenylpyruvate in 20 mM HEPES at pH 7.0 at 4C
+0.07	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	37	6.5	X	pH 6.5, 37C, mutant R378K
+0.1	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N			X	recombinant mutant Q286E, pH and temperature not specified in the publication
+0.1	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	37	6.5	X	pH 6.5, 37C, mutant DELTAG379
+0.2	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N			X	recombinant mutant Q272E, pH and temperature not specified in the publication; recombinant mutant S246A, pH and temperature not specified in the publication
+0.3	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N			X	recombinant mutant N261D, pH and temperature not specified in the publication
+0.5	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	37	6.5	X	pH 6.5, 37C, mutant DELTAN380
+0.64	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant N245I
+1	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	37	6.5	X	pH 6.5, 37C, mutant DELTAL381
+1.4	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	37	6.5	X	pH 6.5, 37C, mutant DELTAG388 and DELTAL385
+1.8	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N				recombinant wild-type enzyme, pH and temperature not specified in the publication
+2.1	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant P243T
+2.1	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N			X	recombinant mutant Q358E, pH and temperature not specified in the publication
+2.2	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	37	6.5		pH 6.5, 37C, wild-type enzyme
+2.8	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	25	7.0	X	pH 7.0, 25C, mutant S230A
+6.8	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C, wild-type enzyme
+9.9	4-hydroxyphenylpyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N	50	7.0		pH 7.0, 50C
+6.8	(4-hydroxyphenyl)-pyruvate	353	KKADPXVIOXHVKN-UHFFFAOYSA-N				

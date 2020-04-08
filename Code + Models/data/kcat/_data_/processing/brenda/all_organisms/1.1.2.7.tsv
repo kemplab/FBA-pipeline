@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.11	methanol	78	OKKJLVBELUTLKV-UHFFFAOYSA-N	30	9.0		type I MDH, pH 9.0, 30C, with phenazine ethosulfate and 2,6-dichlorophenolindophenol; type I MDH, pH 9.0, 30C, with phenazine ethosulfate and 2,6-dichlorophenolindophenol
+0.15	ferricytochrome cL	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N		5.5		pH 5.5, ionic strength: 0.0160 M, steady-state kinetic parameter
+0.16	methanol	78	OKKJLVBELUTLKV-UHFFFAOYSA-N	30	9.0		type II MDH, pH 9.0, 30C, with phenazine ethosulfate and 2,6-dichlorophenolindophenol; type II MDH, pH 9.0, 30C, with phenazine ethosulfate and 2,6-dichlorophenolindophenol
+0.21	ferricytochrome cL	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N		6.0		pH 6.0, ionic strength: 0.0172 M, steady-state kinetic parameter
+0.33	ferricytochrome cL	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N		6.5		pH 6.5, ionic strength: 0.0183 M, steady-state kinetic parameter
+0.41	ferricytochrome cL	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N		5.0		pH 5.0, ionic strength: 0.0181 M, steady-state kinetic parameter
+0.45	ferricytochrome cL	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N		4.5		pH 4.5, ionic strength: 0.0168 M, steady-state kinetic parameter
+0.87	ferricytochrome cL	792	VIJMEYIOPTVQKA-PVPKHRJZSA-N		7.0		pH 7.0, ionic strength: 0.0198 M, steady-state kinetic parameter
+0.87	methanol	78	OKKJLVBELUTLKV-UHFFFAOYSA-N	25	7.0		pH 7.0, 25C
+2.96	methanol	78	OKKJLVBELUTLKV-UHFFFAOYSA-N	30	7.0		type I MDH, pH 7.0, 30C, with cytochrome cL; type I MDH, pH 7.0, 30C, with cytochrome cL
+4.51	methanol	78	OKKJLVBELUTLKV-UHFFFAOYSA-N	30	7.0		type II MDH, pH 7.0, 30C, with cytochrome cL; type II MDH, pH 7.0, 30C, with cytochrome cL

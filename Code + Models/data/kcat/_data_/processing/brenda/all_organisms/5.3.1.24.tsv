@@ -1,0 +1,41 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000092	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5	X	pH 7.5, 25C, D130T, mutant form of imidazole glycerol phosphate synthase
+0.00018	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5	X	pH 7.5, 25C, D130V, mutant form of imidazole glycerol phosphate synthase
+0.000183	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5	X	mutant enzyme D130V, in 50 mM HEPES, pH 7.5, at 25C
+0.00022	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5	X	pH 7.5, 25C, D130P, mutant form of imidazole glycerol phosphate synthase
+0.000283	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5	X	mutant enzyme D173V, in 50 mM HEPES, pH 7.5, at 25C
+0.0012	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5	X	mutant enzyme D130V/D176V, in 50 mM HEPES, pH 7.5, at 25C
+0.0013	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5	X	pH 7.5, 25C, D127G, mutant form of EC 5.3.1.6
+0.0017	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5	X	pH 7.5, 25C, D127K, mutant form of EC 5.3.1.6
+0.0023	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5	X	pH 7.5, 25C, D127F, mutant form of EC 5.3.1.6
+0.0027	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5	X	pH 7.5, 25C, D127T, mutant form of EC 5.3.1.6
+0.0086	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5	X	pH 7.5, 25C, D127V, mutant form of EC 5.3.1.6
+0.009	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5	X	pH 7.5, 25C, D127V/T164H, mutant form of EC 5.3.1.6
+0.009	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5	X	mutant enzyme D127V, in 50 mM HEPES, pH 7.5, at 25C
+0.028	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5	X	mutant enzyme D169V, in 50 mM HEPES, pH 7.5, at 25C
+0.032	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5	X	mutant enzyme D127V/D173V, in 50 mM HEPES, pH 7.5, at 25C
+0.522	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5	X	mutant enzyme D127V/D169V, in 50 mM HEPES, pH 7.5, at 25C
+1.4	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N			X	PriA mutant R19A, PRA isomerase activity
+3.4	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N				PriA, PRA isomerase activity
+3.7	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5		pH 7.5, 25C, dimer
+3.7	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5		pH 7.5, 25C, dimer
+3.7	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5		pH 7.5, 25C, dimer
+3.7	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5		pH 7.5, 25C, dimer
+3.7	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5		in 50 mM HEPES, pH 7.5 at 25C
+3.7	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5		wild type enzyme, in 50 mM HEPES, pH 7.5, at 25C
+12	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N				PriA, PRA isomerase activity
+13.5	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	45	7.5		pH 7.5, 45C, dimer
+13.5	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	45	7.5		pH 7.5, 45C, dimer
+32	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25			25C, monomeric domain PRAI[ML256-452]
+32	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5		25C, monomeric domain PRAI[ML256-452]; pH 7.5
+38.5	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	60	7.5		pH 7.5, 60C, dimer
+38.5	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	60	7.5		pH 7.5, 60C, dimer
+39	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	20	7.5		pH 7.5, 20C
+40	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25			25C; bifunctional IGPS:PRAI
+40	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N				bifunctional IGPS:PRAI
+40	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5		bifunctional IGPS:PRAI; pH 7.5, 25C
+50	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	30			30C
+50	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N				
+69	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	25	7.5		pH 7.5, 25C, recombinant xPRAI, expressed in E. coli
+130	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	80	7.5		pH 7.5, 80C, dimer
+130	N-(5-phospho-beta-D-ribosyl)anthranilate	829	PMFMJXPRNJUYMB-GWOFURMSSA-N	80	7.5		pH 7.5, 80C, dimer

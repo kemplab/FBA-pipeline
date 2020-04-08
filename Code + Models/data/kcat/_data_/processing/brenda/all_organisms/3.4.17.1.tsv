@@ -1,0 +1,83 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.015	Gly-L-Tyr	4424	XBGGUPMXALFZOT-VIFPVBQESA-N				
+0.042	p-nitrophenyl acetate	350	QAUUDNIGJSLPSX-UHFFFAOYSA-N				
+0.05	N-[3-(2-furyl)acryloyl]-Phe-Phe	6499	JAPJOLBDXOXSKE-WQICJITCSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+0.081	hippuryl-DL-phenyllactate	21166	CRPJCHOPDZJPIE-UHFFFAOYSA-N				
+0.09	methotrexate-alpha-(1-naphthyl)alanine	12013	NLJYMCHKYWSXAZ-DQEYMECFSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+0.1	hippuryl-DL-beta-phenyllactate	11488	ZEGKMFMISXXHAD-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+0.11	O-(trans-p-chlorocinnamoyl)-L-beta-phenyllactate	6500	PUXPOGLSOUATNC-DHZHZOJOSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+0.24	neurotensin	1629	PCJGZPGTCUMMOT-ISULXFBGSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+0.27	O-(trans-p-chlorocinnamoyl)-L-beta-phenyllactate	6500	PUXPOGLSOUATNC-DHZHZOJOSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y248F
+0.276	L-beta-phenyllactate-alpha-((2-naphthoyl)amino)-cinnamoyl ester	21176	DQLRYVYJZIQONR-MOHJPFBDSA-N				
+0.33	(S)-hippuryl-alpha-MePhe	22646	HMFCXBPLCFMJBX-IBGZPJMESA-N		7.5		pH 7.5
+0.39	hippuryl-DL-beta-phenyllactate	11488	ZEGKMFMISXXHAD-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y248F
+0.46	L-beta-phenyllactate-alpha-(benzoylylamino)-cinnamoyl ester	21178	AHMWDLWHJLTSNC-SILNSSARSA-N				
+0.55	N-[3-(2-furyl)acryloyl]-Phe-Phe	6499	JAPJOLBDXOXSKE-WQICJITCSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y248F
+0.56	O-(trans-p-chlorocinnamoyl)-L-beta-phenyllactate	6500	PUXPOGLSOUATNC-DHZHZOJOSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y248A
+0.725	L-beta-phenyllactate-alpha-(acetylamino)-cinnamoyl ester	21177	NGPIARUHEOFPTC-VBKFSLOCSA-N				
+0.88	hippuryl-L-Phe	2741	CCLJGZGVIQBNDH-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+1	N-[3-(2-furyl)acryloyl]-Phe-Phe	6499	JAPJOLBDXOXSKE-WQICJITCSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y248A
+1.28	Carbobenzoxy-Gly-Leu	3138	MRRLFGAIRAUOCS-ZDUSSCGKSA-N				
+1.45	Met-enkephalin-L-Arg-L-Phe	27142	KTQKWSPZOZKAEE-LJADHVKFSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+1.9	methotrexate-alpha-phenylalanine	12012	LCXCABJHCAMORO-LBAQZLPGSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+2.33	Leu-enkephalin	2214	URLZCHNOLZSCCA-VABKMULXSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+3.43	Met-enkephalin	1872	YFGBQHOOROIVKG-FKBYEOEOSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+4	hippuryl-L-Phe	2741	CCLJGZGVIQBNDH-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y248F
+4.2	Benzyloxycarbonyl-Gly-Phe	2568	FLGYJBNDDWLTQR-INIZCTEOSA-N				
+4.3	hippuryl-L-phenylalanine	5569	CCLJGZGVIQBNDH-HNNXBMFYSA-N	25	7.4		pH 7.4, 25C, recombinant enzyme
+5.02	Carbobenzoxy-Gly-Gly-Leu	10834	BXYXLQLWQBOEDJ-AWEZNQCLSA-N				
+5.1	hippuryl-L-Phe	2741	CCLJGZGVIQBNDH-UHFFFAOYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y248A
+5.85	Carbobenzoxy-Gly-Phe	2568	FLGYJBNDDWLTQR-INIZCTEOSA-N				
+5.98	hippuryl-Phe	2741	CCLJGZGVIQBNDH-UHFFFAOYSA-N				
+6.08	hippuryl-L-Phe	2741	CCLJGZGVIQBNDH-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+6.08	O-(trans-p-chlorocinnamoyl)-L-beta-phenyllactate	6500	PUXPOGLSOUATNC-DHZHZOJOSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y248A
+6.13	carbobenzoxy-Gly-Gly-Val	21126	OLTJNTLCZYWHKR-HNNXBMFYSA-N				
+7.6	N-(3-[2-furyl]acryloyl)-Phe-Phe	6499	JAPJOLBDXOXSKE-WQICJITCSA-N				in the absence of Co2+
+8.23	angiotensin I	558	ORWYRWWVDCYOMK-HBZPZAIKSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+11	N-(3-[2-furyl]acryloyl)-Phe-Phe	6499	JAPJOLBDXOXSKE-WQICJITCSA-N				in the presence of Co2+
+11.7	benzoyl-Gly-L-Phe	5569	CCLJGZGVIQBNDH-HNNXBMFYSA-N				at 0.1-0.4 mM substrate
+11.9	Carbobenzoxy-Gly-Gly-Phe	4518	PARPWSYTROKYNG-KRWDZBQOSA-N				
+12.4	3-(2-furyl)acryloyl-L-Phe-L-Ile	27140	SHXQCNAHTBAAMT-KDHVSHQXSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+13.3	benzoyl-Gly-Gly-L-Phe	30821	AULZEWXDQALHSZ-INIZCTEOSA-N				
+13.4	3-(2-furyl)acryloyl-L-Phe-L-Leu	14472	LFGVVNZHOSLHJR-MIMFYIINSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+14	N-carbobenzoxy-Gly-Gly-L-Leu	10834	BXYXLQLWQBOEDJ-AWEZNQCLSA-N				carboxypeptidase 2
+14.4	N-carbobenzoxy-Gly-L-Tyr	6125	YYPNBRMRXNXSDE-INIZCTEOSA-N				carboxypeptidase 1
+14.7	carbobenzoxy-Gly-L-Phe	2568	FLGYJBNDDWLTQR-INIZCTEOSA-N				
+16	benzoyl-Gly-L-Phe	5569	CCLJGZGVIQBNDH-HNNXBMFYSA-N				
+16.8	N-carbobenzoxy-Gly-L-Phe	2568	FLGYJBNDDWLTQR-INIZCTEOSA-N				carboxypeptidase 2
+17.7	hippuryl-L-Phe	2741	CCLJGZGVIQBNDH-UHFFFAOYSA-N				
+19.4	3-(2-furyl)acryloyl-L-Phe-L-Val	22258	AQWSWFXLHMHNPN-UKMAJIJPSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+20	benzoyl-Gly-Gly-Phe	5536	KJBYUNNECQXBDM-KRWDZBQOSA-N				
+22.4	N-carbobenzoxy-Gly-L-Phe	2568	FLGYJBNDDWLTQR-INIZCTEOSA-N				carboxypeptidase 1
+23.9	3-(2-furyl)acryloyl-L-Phe-L-Met	27141	ZUBMCRJZWDZYHC-VCVRMXLYSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+24.3	3-(2-furyl)acryloyl-L-Phe-L-Ala	14471	NOTCFISCFHKOHX-AULVFQMTSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+26.2	N-carbobenzoxy-Gly-L-Tyr	6125	YYPNBRMRXNXSDE-INIZCTEOSA-N				carboxypeptidase 2
+29	carbobenzoxy-Gly-L-Leu	3138	MRRLFGAIRAUOCS-ZDUSSCGKSA-N				mixture of isoenzyme 2 and 3
+29.8	carbobenzoxy-Gly-L-Trp	10842	VFJWAPSFRKFYME-SFHVURJKSA-N				mixture of isoenzyme 2 and 3
+40	hippuryl-L-Phe	2741	CCLJGZGVIQBNDH-UHFFFAOYSA-N				
+44.3	3-(2-furyl)acryloyl-L-Phe-L-Phe	6499	JAPJOLBDXOXSKE-WQICJITCSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+48.3	carbobenzoxy-Gly-L-Phe	2568	FLGYJBNDDWLTQR-INIZCTEOSA-N				at 1-4 mM substrate
+57	N-carbobenzoxy-Gly-Gly-L-Phe	4518	PARPWSYTROKYNG-KRWDZBQOSA-N				carboxypeptidase 1
+57.3	3-(2-furyl)acryloyl-L-Phe-L-Trp	27139	HXJYLPIYSIXEAK-UZEKWKPYSA-N	37	7.5		in 50 mM Tris-HCl, 100 mM NaCl, pH 7.5, at 37C
+66	Benzyloxycarbonyl-Phe-Leu	2198	IBOXOGVHBFUSFH-PMACEKPBSA-N				
+66.7	benzoyl-Gly-L-Phe	5569	CCLJGZGVIQBNDH-HNNXBMFYSA-N				at 1-10 mM substrate
+73.4	carbobenzoxy-Gly-L-Trp	10842	VFJWAPSFRKFYME-SFHVURJKSA-N				
+76.7	cinnamoyl-L-phenyllactate	20762	BEIPOULOAMYCPE-VIFPVBQESA-N				
+81	hippuryl-Phe	2741	CCLJGZGVIQBNDH-UHFFFAOYSA-N		7.5		pH 7.5
+85	carbobenzoxy-Gly-Gly-L-Tyr	22237	PDWCXKALRLBBLG-KRWDZBQOSA-N				
+86	N-acetyl-Gly-L-phenyllactic acid	21198	KFZBMLUHLGKRSJ-LLVKDONJSA-N				
+89	Benzyloxycarbonyl-Ala-Phe	4046	BVNXQVWGWUHKMK-YOEHRIQHSA-N				
+90	carbobenzoxy-Gly-L-Phe	2568	FLGYJBNDDWLTQR-INIZCTEOSA-N				
+91.7	carbobenzoxy-Gly-L-Phe	2568	FLGYJBNDDWLTQR-INIZCTEOSA-N				
+93.3	benzoyl-Gly-L-Phe	5569	CCLJGZGVIQBNDH-HNNXBMFYSA-N				
+97	N-carbobenzoxy-Gly-Gly-L-Phe	4518	PARPWSYTROKYNG-KRWDZBQOSA-N				carboxypeptidase 2
+100	(Ala)4	3316	ZHRZLXZJVUFLNY-XAMCCFCMSA-N				
+112	carbobenzoxy-Gly-L-Phe	2568	FLGYJBNDDWLTQR-INIZCTEOSA-N				at 4-40 mM substrate
+139	carbobenzoxy-Gly-L-Phe	2568	FLGYJBNDDWLTQR-INIZCTEOSA-N				mixture of isoenzyme 2 and 3
+199	N-carbobenzoxy-Gly-Gly-L-Leu	10834	BXYXLQLWQBOEDJ-AWEZNQCLSA-N				carboxypeptidase 1
+454	hippuryl-L-phenyllactate	4927	ASIPATCJWYQDPG-QMMMGPOBSA-M				
+467	benzoyl-Gly-phenyllactate	13806	RVHGIEOTQNCGFG-UHFFFAOYSA-N				
+477	(S)-hippuryl-alpha-methylphenyllactic acid	22648	BMQGPAFTLCGRBH-IBGZPJMESA-N		7.5		pH 7.5
+682	(S)-hippuryl-OPhe	22647	RVHGIEOTQNCGFG-HNNXBMFYSA-N		7.5		pH 7.5
+933	hippuryl-L-phenyllactate	4927	ASIPATCJWYQDPG-QMMMGPOBSA-M				
+1000	hippuryl-L-phenyllactate	4927	ASIPATCJWYQDPG-QMMMGPOBSA-M				mixture of isoenzyme 2 and 3

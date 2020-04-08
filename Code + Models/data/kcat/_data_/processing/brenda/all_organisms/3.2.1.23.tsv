@@ -1,0 +1,144 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.2	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+1.76	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	10			at 10C
+1.9	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+2.36	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	20			at 20C
+2.67	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	80	7.5	X	pH 7.5, 80C, recombinant mutant enzyme F441Y
+3	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+3.02	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	10	8.0		pH 8.0, 10C, recombinant enzyme
+4.1	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	15		X	15C, recombinant mutant BgaS7, i.e. E229D/V405A
+4.7	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	5			at 5C
+4.81	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30			at 30C
+5.2	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	18			at 18C
+5.3	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	15			15C, recombinant wild-type BgaS
+5.73	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	40			at 40C
+6.98	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	50			at 50C
+12.5	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+13	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	6.5		pH 6.5, 30C, strain L103
+13	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N		5.5		pH 5.5
+18.7	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	15		X	15C, recombinant mutant BgaS6, i.e.E229D/V405A/G803D
+20	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	6.5		pH 6.5, 30C
+33	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	25			25C
+33	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	10	7		pH 7, 10C
+42	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+42	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	80	6.0		at pH 6.0 and 80C
+45.7	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	45	5.5		wild type enzyme, in 100 mM sodium acetate buffer pH 5.5, at 45C
+46.3	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	45	6.5	X	mutant enzyme E491A, in HEPES buffer pH 6.5, at 45C
+53	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	5	7		pH 7, 5C
+55	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N		5.5		pH 5.5
+55.1	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	37	4.0		in 50 mM sodium acetate-acetic acid, pH 4.0, at 37C
+58	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	6.5		pH 6.5, 30C, strain L461
+58	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+63	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+63.1	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+92	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	20	7		pH 7, 20C
+98	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	60	7.0		at pH 7.0 and 60C
+114	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	6.5		pH 6.5, 30C
+122.6	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	6.5		30C, pH 6.5, wild-type enzyme
+141	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	38	7		pH 7, 38C
+162.2	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	6.5	X	30C, pH 6.5, mutant enzyme F441Y
+167.5	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	30	6.5	X	30C, pH 6.5, mutant enzyme F359Q
+212	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	65	6.5		pH 6.5, 65C, wild-type enzyme
+254	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+632	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+6300	lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N	37	6.8		pH 6.8; pH 6.8, 37C; pH 6.8, 37C
+0.01	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	25			25C
+0.21	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	65	6.5	X	pH 6.5, 65C, mutant E313G
+0.32	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	65	6.5	X	pH 6.5, 65C, mutant E157G
+12.7	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	10	8.0		pH 8.0, 10C, recombinant enzyme
+13	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N				
+17.9	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	65	6.0		pH 6.0, 65C
+45.4	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	25			dimeric enzyme, 25C
+45.4	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	25			dimeric enzyme, 25C
+47.2	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	45	5.5		wild type enzyme, in 100 mM sodium acetate buffer pH 5.5, at 45C
+49.2	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	45	6.5	X	mutant enzyme E491A, in HEPES buffer pH 6.5, at 45C
+50	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N				
+52.4	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	10			at 10C
+54	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N			X	mutant enzyme E416Q
+71.2	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	55			at 55C
+81	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	20			at 20C
+81	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N			X	mutant enzyme E416V
+95	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N				
+96	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N		5.5		pH 5.5
+123.9	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	30			at 30C
+149	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N				
+169.9	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	40			at 40C
+180	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	25			dimeric enzyme, 25C
+212.4	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	50			at 50C
+338	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N				
+400	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	25			tetrameric enzyme, 25C
+440	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N		5.5		pH 5.5
+620	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N				native enzyme
+2657	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	65	6.5		pH 6.5, 65C, wild-type enzyme
+5700	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	75	6.5		pH 6.5, 75C
+8559	2-nitrophenyl-beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	37	6.8		pH 6.8, 37C; pH 6.8, 37C
+1	o-nitrophenyl-beta-D-galactoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N				isoenzyme betaG41
+5	o-nitrophenyl-beta-D-galactoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N				isoenzyme betaG630
+47.6	o-nitrophenyl-beta-D-galactoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N				
+54.5	o-nitrophenyl-beta-D-galactoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	25			at 25C, in presence of 10 mM Mg2+
+66.7	o-nitrophenyl-beta-D-galactoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N				
+264	o-nitrophenyl-beta-D-galactoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	50			at 50C, in presence of 10 mM Mg2+
+338	o-nitrophenyl-beta-D-galactoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	30	6.5		pH 6.5, 30C, strain L461
+431	o-nitrophenyl-beta-D-galactoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N				
+888	o-nitrophenyl-beta-D-galactoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N				isoenzyme betaG550
+941	o-nitrophenyl-beta-D-galactoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N				
+2	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	5	7		pH 7, 5C
+4.9	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	25	7.0	X	mutant enzyme H418N, in 30 mM TES buffer, 0.01 mM Mg2+, 150 mM Na+, pH 7.0 at 25C
+5.4	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	25	7.0	X	mutant enzyme H418E, in 30 mM TES buffer, 0.01 mM Mg2+, 150 mM Na+, pH 7.0 at 25C
+10.4	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	25	7.0	X	mutant enzyme H418F, in 30 mM TES buffer, 10 mM Mg2+, 150 mM Na+, pH 7.0 at 25C
+66.7	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	10	7		pH 7, 10C
+90	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	25	7.0		wild type enzyme, in 30 mM TES buffer, 145 mM NaCl, pH 7.0 at 25C
+92	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	55	7.5		at pH 7.5 and 55C
+149	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	80	6.0		at pH 6.0 and 80C
+149	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	20	7		pH 7, 20C
+234	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	40	6.5		pH 6.5, 25-40C
+293.9	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	37	3.2		in 50 mM glycine-HCl, pH 3.2, at 37C
+386	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	38	7		pH 7, 38C
+540	2-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	30	6.5		pH 6.5, 30C
+5.4	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	25	7.0	X	mutant enzyme H418E, in 30 mM TES buffer, 0.01 mM Mg2+, 150 mM Na+, pH 7.0 at 25C
+5.5	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	25	7.0	X	mutant enzyme H418N, in 30 mM TES buffer, 0.01 mM Mg2+, 150 mM Na+, pH 7.0 at 25C
+10.3	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	25	7.0	X	mutant enzyme H418F, in 30 mM TES buffer, 10 mM Mg2+, 150 mM Na+, pH 7.0 at 25C
+32	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	80	6.0		at pH 6.0 and 80C
+56	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N				
+620	4-nitrophenyl beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	25	7.0		wild type enzyme, in 30 mM TES buffer, 145 mM NaCl, pH 7.0 at 25C
+2.1	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30	7.0	X	pH 7.0, 30C, mutant E184A, glycohydrolase activity
+32	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N				
+932	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N				
+2140	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	30	7.0		pH 7.0, 30C, wild-type enzyme, glycohydrolase activity
+2988	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	65	6.5		pH 6.5, 65C, wild-type enzyme
+15750	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N		5.5		pH 5.5
+74000	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N		5.5		pH 5.5
+270000	4-nitrophenyl-beta-D-galactopyranoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	37	6.8		pH 6.8, 37C; pH 6.8, 37C
+42.4	p-nitrophenyl-beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	25			at 25C, in presence of 10 mM Mg2+
+55.8	p-nitrophenyl-beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N				
+312	p-nitrophenyl-beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N	50			at 50C, in presence of 10 mM Mg2+
+1040	p-nitrophenyl-beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N				
+2700000	4-nitrophenyl-beta-D-galactoside	766	IFBHRQDFSNCLOZ-YBXAARCKSA-N		6.8		pH 6.8
+1.7	4-methylumbelliferyl beta-D-galactoside	2338	YUDPTGPSBJVHCN-DZQJYWQESA-N				
+43	o-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	5			at 5C
+57.2	o-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	10			at 10C
+81.8	o-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	1.9			1.9C
+100	o-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	18			at 18C
+104	o-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	10			10C
+110.1	o-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	20			at 20C
+203	o-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	20			20C
+288	o-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	20			20C
+507	o-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	30			30C
+603	o-nitrophenyl beta-D-galactopyranoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N	39			39C
+18	beta-lactose	108	GUBGYTABKSRVRQ-DCSYEGIMSA-N				
+65	phenyl-beta-D-galactoside	2877	NEZJDVYDSZTRFS-YBXAARCKSA-N				
+33	lactulose	2885	JCQLYHFGKNRPGE-FCVZTGTOSA-N				
+380	lactulose	2885	JCQLYHFGKNRPGE-FCVZTGTOSA-N	65	6.5		pH 6.5, 65C, wild-type enzyme
+1740	4-nitrophenyl-alpha-L-arabinopyranoside	4624	MLJYKRYCCUGBBV-MMWGEVLESA-N	65	6.5		pH 6.5, 65C, wild-type enzyme
+242	methyl-beta-D-galactopyranoside	5019	HOVAGTYPODGVJG-VOQCIKJUSA-N	30	6.5		pH 6.5, 30C
+0.17	2,4-dinitrophenyl 2-acetamido-2-deoxy-alpha-D-galactopyranosyl-(1-3)-[alpha-L-fucopyranosyl-(1-2)]-beta-D-galactopyranoside	5952	YVRMUDSYCNXLOF-QIMCTPSBSA-N	37	6.0	X	mutant enzyme E354A, in 20 mM sodium acetate buffer at pH 6.0, 37C
+1.35	2,4-dinitrophenyl 2-acetamido-2-deoxy-alpha-D-galactopyranosyl-(1-3)-[alpha-L-fucopyranosyl-(1-2)]-beta-D-galactopyranoside	5952	YVRMUDSYCNXLOF-QIMCTPSBSA-N	37	6.0	X	mutant enzyme D429A, in 20 mM sodium acetate buffer at pH 6.0, 37C
+1.55	2,4-dinitrophenyl 2-acetamido-2-deoxy-alpha-D-galactopyranosyl-(1-3)-[alpha-L-fucopyranosyl-(1-2)]-beta-D-galactopyranoside	5952	YVRMUDSYCNXLOF-QIMCTPSBSA-N	37	6.0	X	mutant enzyme E467A, in 20 mM sodium acetate buffer at pH 6.0, 37C
+1.75	2,4-dinitrophenyl 2-acetamido-2-deoxy-alpha-D-galactopyranosyl-(1-3)-[alpha-L-fucopyranosyl-(1-2)]-beta-D-galactopyranoside	5952	YVRMUDSYCNXLOF-QIMCTPSBSA-N	37	6.0		wild type enzyme, in 20 mM sodium acetate buffer at pH 6.0, 37C
+166	phenyl-beta-D-galactopyranoside	2877	NEZJDVYDSZTRFS-YBXAARCKSA-N	30	6.5		pH 6.5, 30C
+2.4	p-nitrophenyl beta-D-fucoside	1574	YILIDCGSXCGACV-BVWHHUJWSA-N				
+8559	2-nitrophenyl-beta-D-galactoside	455	KUWPCJHYPSUOFW-YBXAARCKSA-N		6.8		pH 6.8
+5000	p-nitrophenyl-alpha-L-arabinoside	4624	MLJYKRYCCUGBBV-MMWGEVLESA-N				
+1345	2-nitrophenyl-beta-D-fucopyranoside	11861	SWRPIVXPHLYETN-BVWHHUJWSA-N	65	6.5		pH 6.5, 65C, wild-type enzyme
+16	methyl-beta-D-galactoside	5019	HOVAGTYPODGVJG-VOQCIKJUSA-N				
+2.6	3,4-dinitrophenyl beta-D-galactopyranoside	24853	AXPKTIFWSNCTCQ-YBXAARCKSA-N	30	7.0	X	pH 7.0, 30C, mutant E184A, glycohydrolase activity

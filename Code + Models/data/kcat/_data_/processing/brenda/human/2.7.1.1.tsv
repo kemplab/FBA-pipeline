@@ -1,0 +1,31 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+4.92	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme V62E
+6.42	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme V62K
+14.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme V62Q
+25.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme V62T
+33.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme V62F
+43.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme V62A
+53.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme V62M
+54	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25			wild type enzyme, at 25C
+59.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant enzyme V62L
+62.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type enzyme
+0.00091	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N			X	mutant enzyme D205A, kcat less than 0.00091 s-1
+0.18	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				truncated enzyme with removed helix alpha13
+17.4	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	7.4	X	mutant enzyme W167F, in 25 mM HEPES (pH 7.4), at 37C
+24	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.4	X	mutant enzyme G72R, at 30C, in 100 mM Tris and 125 mM KCl, pH 7.4, in the presence of 14 mM beta-mercaptoethanol or 5 mM dithiothreitol
+29	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				wild type enzyme
+34	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	7.4	X	mutant enzyme G72R, at 37C, in 100 mM Tris and 125 mM KCl, pH 7.4, in the presence of 14 mM beta-mercaptoethanol or 5 mM dithiothreitol
+37	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				glucokinase with C-terminal 5 alanine addition
+38	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				wild-type enzyme
+38	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N				glucokinase with C-terminal 10 alanine addition
+39	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	214		X	mutant enzyme Y214C
+42.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	7.4	X	mutant enzyme W257F, in 25 mM HEPES (pH 7.4), at 37C
+46.8	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	7.4	X	mutant enzyme W99F, in 25 mM HEPES (pH 7.4), at 37C
+54	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.4	X	mutant enzyme V62M, at 30C, in 100 mM Tris and 125 mM KCl, pH 7.4, in the presence of 14 mM beta-mercaptoethanol or 5 mM dithiothreitol
+60.4	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	7.4		wild type enzyme, in 25 mM HEPES (pH 7.4), at 37C
+61	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	7.4	X	mutant enzyme V62M, at 37C, in 100 mM Tris and 125 mM KCl, pH 7.4, in the presence of 14 mM beta-mercaptoethanol or 5 mM dithiothreitol
+64	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25			wild type enzyme, at 25C, in the presence of 0.02 mM activator N-[2-amino-4-fluoro-5-[(1-methyl-1H-imidazol-2-yl)sulfanyl]benzyl]-1,3-thiazol-2-amine
+74	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	30	7.4		wild type enzyme, at 30C, in 100 mM Tris and 125 mM KCl, pH 7.4, in the presence of 14 mM beta-mercaptoethanol or 5 mM dithiothreitol
+75	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	25			wild type enzyme, at 25C, in the presence of 0.02 mM activator LY-2121260
+101	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	7.4		wild type enzyme, at 37C, in 100 mM Tris and 125 mM KCl, pH 7.4, in the presence of 14 mM beta-mercaptoethanol or 5 mM dithiothreitol
+29	2-deoxy-D-glucose	443	PMMURAAUARKVCB-KAZBKCHUSA-N				wild-type enzyme

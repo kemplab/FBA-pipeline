@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.12	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N				pH and temperature not specified in the publication
+0.24	L-aspartate-4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N			X	recombinant mutant R103L
+0.4	L-aspartate-4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N			X	recombinant mutant R270K
+1.2	L-aspartate-4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N			X	recombinant mutant R103K
+2	L-aspartate-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N				
+3.2	L-aspartate-4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	30	9.0	X	recombinant mutant H277N, pH 9.0, 30C
+3.2	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	9.0	X	recombinant mutant H277N, pH 9.0, 30C
+3.2	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30	9.0	X	recombinant mutant H277N, pH 9.0, 30C
+4	L-aspartate-4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N			X	recombinant mutant E243D
+8.49	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	9.0		recombinant enzyme, pH 9.0, 30C
+11	L-aspartate-4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N			X	recombinant mutant K246L
+15.6	aspartyl phosphate	31742	MOKLFAZOVPBPSX-REOHCLBHSA-N				
+58	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N				gene II
+120	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N				gene I
+160	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N				
+330	L-aspartate 4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N				
+330	L-aspartate-4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N				recombinant wild-type enzyme
+330	L-aspartate-4-semialdehyde	472	HOSWPDPVFBCLSY-VKHMYHEASA-N	30	9.0		recombinant wild-type enzyme, pH 9.0, 30C
+330	NADP+	6	XJLXINKUBYWONI-NNYOXOHSSA-O	30	9.0		recombinant wild-type enzyme, pH 9.0, 30C
+330	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30	9.0		recombinant wild-type enzyme, pH 9.0, 30C

@@ -1,0 +1,31 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00004	Trp	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	37	7.8	X	pH 7.8, 37C, mutant enzyme Y72F
+0.00046	S-benzylcysteine	3014	GHBAYRBVXCRIHT-VIFPVBQESA-N	37	7.8	X	pH 7.8, 37C, mutant enzyme Y72F
+0.0051	S-methyl-L-Cys	724	IDIDJDIHTAOVLG-VKHMYHEASA-N	37	7.8	X	pH 7.8, 37C, mutant enzyme Y72F
+0.0303	L-Ser	89	MTCFGRXMJLQNBG-REOHCLBHSA-N	37	7.8	X	pH 7.8, 37C, mutant enzyme Y72F
+0.035	S-ethyl-L-cysteine	1772	ULXKXLZEOGLCRJ-BYPYZUCNSA-N	37	7.8	X	pH 7.8, 37C, mutant enzyme Y72F
+0.0932	beta-chloroalanine	1230	ASBJGPTTYPEMLP-REOHCLBHSA-N	37	7.8	X	pH 7.8, 37C, mutant enzyme Y72F
+0.2	S-methyl-L-Cys	724	IDIDJDIHTAOVLG-VKHMYHEASA-N	25	8.0		pH 8.0, 25C
+0.2	S-methyl-L-cysteine	724	IDIDJDIHTAOVLG-VKHMYHEASA-N	37	7.6		pH 7.6, 37C
+0.22	beta-(benzimidazol-1-yl)-L-alanine	124416	JIZBYCXGVFKHFF-ZETCQYMHSA-N	25	8.0	X	mutant H463F, pH 8.0, 25C
+0.24	L-Trp	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	37	7.5		purified recombinant tryptophanase in 200 mM sodium phosphate buffer (pH 7.5), at 37C
+0.4	S-ethyl-L-Cys	1772	ULXKXLZEOGLCRJ-BYPYZUCNSA-N	25	8.0		pH 8.0, 25C
+0.423	S-o-nitrophenyl-L-Cys	3015	NDZOOTLIHLSPMZ-LURJTMIESA-N	37	7.8	X	pH 7.8, 37C, mutant enzyme Y72F
+0.45	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	37	7.5		pH 7.5, 37C
+0.5	S-methyl-L-cysteine	724	IDIDJDIHTAOVLG-VKHMYHEASA-N	37	7.5		purified recombinant tryptophanase in 200 mM potassium phosphate buffer (pH 7.5), at 37C
+1.1	S-benzyl-L-Cys	3014	GHBAYRBVXCRIHT-VIFPVBQESA-N	25	8.0		pH 8.0, 25C
+1.37	L-Trp	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	37	7.5		purified recombinant tryptophanase in 200 mM potassium phosphate buffer (pH 7.5), at 37C
+1.79	S-ethyl-L-cysteine	1772	ULXKXLZEOGLCRJ-BYPYZUCNSA-N	37	7.6		pH 7.6, 37C
+1.87	S-ethyl-L-cysteine	1772	ULXKXLZEOGLCRJ-BYPYZUCNSA-N	37	7.5		purified recombinant tryptophanase in 200 mM potassium phosphate buffer (pH 7.5), at 37C
+2.5	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	25	8.0		pH 8.0, 25C
+3	beta-chloro-L-Ala	1230	ASBJGPTTYPEMLP-REOHCLBHSA-N	25	8.0		pH 8.0, 25C
+4	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	25	8.0		wild-type enzyme, pH 8.0, 25C
+5	S-methyl-L-Cys	724	IDIDJDIHTAOVLG-VKHMYHEASA-N	25	8.0		pH 8.0, 25C
+5.2	S-benzyl-L-Cys	3014	GHBAYRBVXCRIHT-VIFPVBQESA-N	25	8.0		pH 8.0, 25C
+5.6	beta-(benzimidazol-1-yl)-L-alanine	124416	JIZBYCXGVFKHFF-ZETCQYMHSA-N	25	8.0		wild-type enzyme, pH 8.0, 25C
+6	S-ethyl-L-Cys	1772	ULXKXLZEOGLCRJ-BYPYZUCNSA-N	25	8.0		pH 8.0, 25C
+6.8	L-tryptophan	113	QIVBCDIJIAJPQS-VIFPVBQESA-N	25	8.0		pH 8.0, 25C
+12.4	beta-chloro-L-Ala	1230	ASBJGPTTYPEMLP-REOHCLBHSA-N	25	8.0		pH 8.0, 25C
+13.9	S-(2-nitrophenyl)-L-cysteine	3015	NDZOOTLIHLSPMZ-LURJTMIESA-N	25	8.0		pH 8.0, 25C
+42	L-Trp	113	QIVBCDIJIAJPQS-VIFPVBQESA-N				
+44	S-(2-nitrophenyl)-L-cysteine	3015	NDZOOTLIHLSPMZ-LURJTMIESA-N	25	8.0		pH 8.0, 25C

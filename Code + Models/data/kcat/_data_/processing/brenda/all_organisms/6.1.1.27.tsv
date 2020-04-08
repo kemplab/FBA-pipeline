@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0054	O-phospho-L-threonine	3403	USRGIUJOYOXOQJ-GBXIJSLDSA-N				wild-type enzyme
+0.008	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	50	7.6	X	pH 7.6, 50C, mutant D418N/D420N/T423V
+0.014	O-phospho-L-threonine	3403	USRGIUJOYOXOQJ-GBXIJSLDSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+0.021	O-phospho-L-threonine	3403	USRGIUJOYOXOQJ-GBXIJSLDSA-N	37	7.5	X	pH 7.5, 37C, recombinant mutant T307S
+0.0471	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	50	7.6	X	50C, pH 7.6, tRNACys containing the (pyrrole-2-carbaldehyde)UA anticodon, mutant enzyme D418N D420N T423V
+0.048	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	50	7.6	X	50C, pH 7.6, tRNACys containing the C(pyrrole-2-carbaldehyde)A anticodon, mutant enzyme D418N D420N T423V
+0.07	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	60	6.0		60C, pH 6.0, steady-state kinetics
+0.115	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	50	7.6		50C, pH 7.6, tRNACys with the GCA anticodon, wild-type enzyme; pH 7.6, 50C, wild-type enzyme
+0.12	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+0.24	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme, m1G37 tRNACys
+0.45	O-phospho-L-serine	899	BZQFBWGGLXLEPQ-REOHCLBHSA-N				wild-type enzyme
+1	tRNACys	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme, native tRNACys
+10.6	O-phospho-L-serine	899	BZQFBWGGLXLEPQ-REOHCLBHSA-N	37	7.5		pH 7.5, 37C, recombinant enzyme
+11.2	O-phospho-L-serine	899	BZQFBWGGLXLEPQ-REOHCLBHSA-N	37	7.5	X	pH 7.5, 37C, recombinant mutant T307S

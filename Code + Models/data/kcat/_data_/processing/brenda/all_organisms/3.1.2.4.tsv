@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+150	3-hydroxy-2-methylpropanoyl-CoA	7079	WWEOGFZEFHPUAM-MIZDRFBCSA-N				
+266	3-hydroxy-2-methylpropanoyl-CoA	7079	WWEOGFZEFHPUAM-MIZDRFBCSA-N				
+1	3-hydroxyisobutyryl-CoA	7079	WWEOGFZEFHPUAM-MIZDRFBCSA-N			X	mutant D151N
+89	3-hydroxyisobutyryl-CoA	7079	WWEOGFZEFHPUAM-MIZDRFBCSA-N				wild-type enzyme, a deuterium isotope of the substrate is used

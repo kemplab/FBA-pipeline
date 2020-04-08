@@ -1,0 +1,24 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.03	succinyl-Ala-Ala-Pro-Ile 4-nitroanilide	22826	NPMRWZCVKXKVKM-USAWPYOZSA-N		8.0		pH 8.0, temperature not specified in the publication
+0.05	succinyl-Ala-Ala-Pro-Val 4-nitroanilide	14839	BDVVLNPNJZWEDW-ZLFOXAAKSA-N		8.0		pH 8.0, temperature not specified in the publication
+0.1	succinyl-Ala-Ala-Pro-Trp 4-nitroanilide	125374	MQGGZLCZOZZLTR-KBFVSZBXSA-N		8.0		pH 8.0, temperature not specified in the publication
+0.3	succinyl-Ala-Ala-Pro-Ala 4-nitroanilide	4597	DKQHAQUESIKHGC-XSWJXKHESA-N		8.0		pH 8.0, temperature not specified in the publication
+0.6	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	22	8.0	X	mutant P249L, pH 8.0, 22C
+1.1	succinyl-Ala-Ala-Pro-Gln 4-nitroanilide	125373	QGXWWMAXGWBACP-LNMJFAINSA-N		8.0		pH 8.0, temperature not specified in the publication
+1.4	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	22	8.0	X	mutant V250E, pH 8.0, 22C
+2.7	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	22	8.0	X	mutant G217S, pH 8.0, 22C
+3.5	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	22	8.0	X	mutant Q178R, pH 8.0, 22C
+3.6	succinyl-Ala-Ala-Pro-Asn 4-nitroanilide	78040	BHMXDXQLNXARDE-USJZOSNVSA-N		8.0		pH 8.0, temperature not specified in the publication
+9.2	succinyl-Ala-Ala-Pro-Leu 4-nitroanilide	8618	VGQSFPRHTFAOCG-YAJHFMINSA-N		8.0		pH 8.0, temperature not specified in the publication
+10	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	22	8.0	X	mutant G32V, pH 8.0, 22C
+11.7	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	22	8.0	X	mutant D35Y, pH 8.0, 22C
+12.6	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	22	8.0	X	mutant V235I, pH 8.0, 22C
+13.2	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N		8.0		pH 8.0, temperature not specified in the publication
+14.4	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	22	8.0	X	mutant R37Q, pH 8.0, 22C
+14.9	succinyl-Ala-Ala-Pro-Met 4-nitroanilide	13866	LRADSKUFXJUEHR-VVWQDTPRSA-N		8.0		pH 8.0, temperature not specified in the publication
+15	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	22	8.0		wild-type, pH 8.0, 22C
+15.1	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	22	8.0	X	mutant Q48R, pH 8.0, 22C
+15.5	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	22	8.0	X	mutant R254Q, pH 8.0, 22C
+15.7	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	22	8.0	X	mutant G18R, pH 8.0, 22C
+16.6	succinyl-Ala-Ala-Pro-Phe 4-nitroanilide	741	LKDMKWNDBAVNQZ-WJNSRDFLSA-N	22	8.0	X	mutant A73T, pH 8.0, 22C; mutant R254W, pH 8.0, 22C
+16.6	succinyl-Ala-Ala-Pro-Tyr 4-nitroanilide	85316	HPMVIAABQJJSDH-MQQADFIWSA-N		8.0		pH 8.0, temperature not specified in the publication

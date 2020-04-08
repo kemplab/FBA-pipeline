@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.149	3'-phosphoadenylyl sulfate	106	GACDQMDRPRGCTN-KQYNXXCUSA-N		8.0		recombinant enzyme, pH 8.0, with thioredoxin 1
+0.335	3'-phosphoadenylyl sulfate	106	GACDQMDRPRGCTN-KQYNXXCUSA-N		8.0		recombinant enzyme, pH 8.0, with glutaredoxin 1
+0.172	3'-phosphoadenylyl-sulfate	106	GACDQMDRPRGCTN-KQYNXXCUSA-N		8.0		recombinant enzyme, pH 8.0, with thioredoxin 1
+0.382	3'-phosphoadenylyl-sulfate	106	GACDQMDRPRGCTN-KQYNXXCUSA-N		8.0		recombinant enzyme, pH 8.0, with glutaredoxin 1
+3.5	3'-phosphoadenylyl-sulfate	106	GACDQMDRPRGCTN-KQYNXXCUSA-N	35	9.2		pH 9.2-9.3, 35C
+0.174	thioredoxin 1	2778	WKBCLXIXVMHRAZ-SVXFZJLFSA-N		8.0		recombinant enzyme, pH 8.0, with substrate 3'-adenylyl-sulfate
+0.219	thioredoxin 1	2778	WKBCLXIXVMHRAZ-SVXFZJLFSA-N		8.0		recombinant enzyme, pH 8.0, with substrate 3'-phosphoadenylyl-sulfate

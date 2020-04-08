@@ -1,0 +1,8 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+19	2-O-beta-D-glucopyranosyl-2-O-beta-D-glucopyranosyl-D-glucopyranose	124564	UQBIAGWOJDEOMN-FYHZSNTMSA-N	30	7.5		pH 7.5, 30C, cosubstrate phosphate, release of alpha-D-glucopyranose 1-phosphate
+30	2-O-beta-D-glucopyranosyl-2-O-beta-D-glucopyranosyl-2-O-beta-D-glucopyranosyl-D-glucopyranose	124565	RVKKLZMEZUGKOE-KGUZVYKUSA-N	30	7.5		pH 7.5, 30C, cosubstrate phosphate, release of alpha-D-glucopyranose 1-phosphate
+31	2-O-beta-D-glucopyranosyl-2-O-beta-D-glucopyranosyl-2-O-beta-D-glucopyranosyl-2-O-beta-D-glucopyranosyl-D-glucopyranose	124566	LPUCVGTXBQBBNA-DQEKYIGCSA-N	30	7.5		pH 7.5, 30C, cosubstrate phosphate, release of alpha-D-glucopyranose 1-phosphate
+43	alpha-D-glucose 1-phosphate	101	HXXFSFRBOHSIMQ-VFUOTHLCSA-N	30	7.5		pH 7.5, 30C, cosubstrate sophorose
+90	2-O-beta-D-glucopyranosyl-2-O-beta-D-glucopyranosyl-2-O-beta-D-glucopyranosyl-D-glucopyranose	124565	RVKKLZMEZUGKOE-KGUZVYKUSA-N	30	7.5		pH 7.5, 30C, cosubstrate alpha-D-glucopyranose 1-phosphate
+97	sophorose	1775	HIWPGCMGAMJNRG-RTPHMHGBSA-N	30	7.5		pH 7.5, 30C, cosubstrate alpha-D-glucopyranose 1-phosphate
+110	2-O-beta-D-glucopyranosyl-2-O-beta-D-glucopyranosyl-D-glucopyranose	124564	UQBIAGWOJDEOMN-FYHZSNTMSA-N	30	7.5		pH 7.5, 30C, cosubstrate alpha-D-glucopyranose 1-phosphate

@@ -1,0 +1,13 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.023	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	20	7.0		modified enzyme that contains an additional covalent bond between residues Tyr303 and Gln360, pH 7.0, 20C
+0.039	sulfite	86	LSNNMFCWUKXFEE-UHFFFAOYSA-L	20	7.0		unmodified enzyme, pH 7.0, 20C
+7	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	20	8.3		pH 8.3, 20C
+79	reduced phenosafranine	15155	SOUHUMACVWVDME-UHFFFAOYSA-N	37	7.6		apparent value, in 0.2 M phosphate buffer pH 7.6, at 37C
+340	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	20	7.6		at pH 7.6, 20C, in phosphate buffer
+390	nitric oxide	240	MWUXSHHQAYIFBG-UHFFFAOYSA-N				turnover rate in intact cell
+700	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	20	7.0		pH 7.0, 20C, reduction
+738	reduced methyl viologen	321	QMHXHFQNEHCDJP-UHFFFAOYSA-N	37	7.6		apparent value, in 0.2 M phosphate buffer pH 7.6, at 37C
+840	NO radical	240	MWUXSHHQAYIFBG-UHFFFAOYSA-N	20	7.0		pH 7.0, 20C, reduction
+1064	reduced diquat	15288	UMRXUTKNFUKLFV-UHFFFAOYSA-N	37	7.6		apparent value, in 0.2 M phosphate buffer pH 7.6, at 37C
+1195	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	20	7.0		modified enzyme that contains an additional covalent bond between residues Tyr303 and Gln360, pH 7.0, 20C
+2860	nitrite	155	IOVCWXUNBOPUCH-UHFFFAOYSA-M	20	7.0		unmodified enzyme, pH 7.0, 20C

@@ -1,0 +1,105 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0000508	Met-4-methylcoumaryl-7-amide	2912	FHLNBHBQGFIHKH-LBPRGKRZSA-N				after removal of divalent metal ions activated with 0.020 mM Mn2+, pH not specified in the publication, temperature not specified in the publication
+0.000055	Met-4-methylcoumaryl-7-amide	2912	FHLNBHBQGFIHKH-LBPRGKRZSA-N				after removal of divalent metal ions activated with 0.020 mM Mn2+, pH not specified in the publication, temperature not specified in the publication
+0.000137	Met-4-methylcoumaryl-7-amide	2912	FHLNBHBQGFIHKH-LBPRGKRZSA-N				after removal of divalent metal ions activated with 0.020 mM Co2+, pH not specified in the publication, temperature not specified in the publication
+0.000159	Met-4-methylcoumaryl-7-amide	2912	FHLNBHBQGFIHKH-LBPRGKRZSA-N				after removal of divalent metal ions activated with 0.020 mM Co2+, pH not specified in the publication, temperature not specified in the publication
+0.000263	Met-4-methylcoumaryl-7-amide	2912	FHLNBHBQGFIHKH-LBPRGKRZSA-N				after removal of divalent metal ions activated with 0.0025 mM Fe2+, pH not specified in the publication, temperature not specified in the publication
+0.000305	Met-4-methylcoumaryl-7-amide	2912	FHLNBHBQGFIHKH-LBPRGKRZSA-N				after removal of divalent metal ions activated with 0.005 mM Ni2+, pH not specified in the publication, temperature not specified in the publication
+0.000312	Met-4-methylcoumaryl-7-amide	2912	FHLNBHBQGFIHKH-LBPRGKRZSA-N				after removal of divalent metal ions activated with 0.020 mM Ni2+, pH not specified in the publication, temperature not specified in the publication
+0.000449	Met-4-methylcoumaryl-7-amide	2912	FHLNBHBQGFIHKH-LBPRGKRZSA-N				after removal of divalent metal ions activated with 0.0025 mM Fe2+, pH not specified in the publication, temperature not specified in the publication
+0.001	L-Met-Gly-L-Met-L-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N	30	7.5	X	mutant enzyme D97N, Co2+-loaded, in 25 mM HEPES buffer, at 30C and pH 7.5
+0.00164	Met-7-amido-4-methylcoumarin	4185	VCINBWJFCJGRAZ-AWEZNQCLSA-N		7.0		pH 7.0, Ni2+-substituted enzyme
+0.002	L-Met-Gly-L-Met-L-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N	30	7.5	X	mutant enzyme D97E, Co2+-loaded, in 25 mM HEPES buffer, at 30C and pH 7.5
+0.002	Met-Pro-p-nitroanilide	3240	FIOLVCMBUYQDEJ-KBPBESRZSA-N		7.5	X	mutant enzyme H178A, Co(II) loaded, pH 7.5
+0.003	L-Met-Gly-L-Met-L-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N		7.5	X	mutant enzyme H79A, in 25 mM HEPES buffer (pH 7.5) containing 150 mM KCl, in the presence of 3 equivalents of Co2+
+0.003	L-Met-Gly-L-Met-L-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N	30	7.5	X	mutant enzyme D97A, Co2+-loaded, in 25 mM HEPES buffer, at 30C and pH 7.5
+0.00325	Met-Ala-Ser	1723	WXHHTBVYQOSYSL-FXQIFTODSA-N	37	7.4	X	pH 7.4, 37C mutant enzyme D219N
+0.0043	L-methionine 4-nitroanilide	7543	PLBWRAWSHVJPTL-JTQLQIEISA-N	30	7.5		pH 7.5, 30C
+0.0055	L-Met 4-nitroanilide	7543	PLBWRAWSHVJPTL-JTQLQIEISA-N	30	7.5		pH 7.5, 30C
+0.0059	Met-7-amido-4-methylcoumarin	4185	VCINBWJFCJGRAZ-AWEZNQCLSA-N		7.0		pH 7.0, Mn2+-substituted enzyme
+0.006	L-Met-p-nitroanilide	7543	PLBWRAWSHVJPTL-JTQLQIEISA-N	30	7.5		in 25 mM HEPES buffer at 30C (pH 7.5) with 150 mM KCl
+0.00617	Met-Ser	10762	WEDDFMCSUNNZJR-WDSKDSINSA-N	30	7.5		pH 7.5, 30C
+0.0065	Met-Pro-p-nitroanilide	3240	FIOLVCMBUYQDEJ-KBPBESRZSA-N	23	8.0		in 40 mM HEPES, pH 8.0, and 100 mM NaCl, at 23C
+0.01	Met-Pro-p-nitroanilide	3240	FIOLVCMBUYQDEJ-KBPBESRZSA-N		7.5	X	mutant enzyme H178A, Fe(II) loaded, pH 7.5
+0.01	Met-Thr	13685	KAKJTZWHIUWTTD-VQVTYTSYSA-N	30	7.5		pH 7.5, 30C
+0.0114	Met-7-amido-4-methylcoumarin	4185	VCINBWJFCJGRAZ-AWEZNQCLSA-N		7.0		pH 7.0, Co2+-substituted enzyme
+0.0133	Met-Val	13686	BJFJQOMZCSHBMY-YUMQZZPRSA-N	30	7.5		pH 7.5, 30C
+0.014	L-methionine-4-methylcoumarin-7-amide	2912	FHLNBHBQGFIHKH-LBPRGKRZSA-N				recombinant isozyme MetAP1a in presence of Fe2+
+0.0427	Met-Gly-Met-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N	37	7.4	X	pH 7.4, 37C mutant enzyme D219N
+0.045	L-methionine-4-methylcoumarin-7-amide	2912	FHLNBHBQGFIHKH-LBPRGKRZSA-N				recombinant isozyme MetAP1a in presence of Ni2+
+0.0517	Met-Ala-Ser	1723	WXHHTBVYQOSYSL-FXQIFTODSA-N		7.4		pH 7.4, MetAP2
+0.057	L-Met-p-nitroanilide	7543	PLBWRAWSHVJPTL-JTQLQIEISA-N	30	7.5		in 25 mM HEPES buffer at 30C (pH 7.5) with 150 mM KCl
+0.0633	Met-7-amido-4-methylcoumarin	4185	VCINBWJFCJGRAZ-AWEZNQCLSA-N	30	7.5		pH 7.5, 30C, in presence of 0.01 mM CoCl2
+0.0683	Met-Gly-Ala-Gln-Phe-Ser-Lys-Thr	34002	BRIXCBSXHGOAPA-YQMQCXDPSA-N		7.4		pH 7.4, MetAP2
+0.07	L-methionine-4-methylcoumarin-7-amide	2912	FHLNBHBQGFIHKH-LBPRGKRZSA-N				recombinant isozyme MetAP1a in presence of Mn2+
+0.0733	Nle-4-nitroanilide	22321	QDIBBEFPXRNPBE-NSHDSACASA-N	30	7.5		pH 7.5, 30C
+0.078	L-Met 4-nitroanilide	7543	PLBWRAWSHVJPTL-JTQLQIEISA-N	22	8.0		presence of Co2+, pH 8.0, 22C
+0.08	L-Met 4-nitroanilide	7543	PLBWRAWSHVJPTL-JTQLQIEISA-N	22	8.0		presence of Co2+, pH 8.0, 22C; presence of Ni2+, pH 8.0, 22C
+0.11	L-Met-L-Pro-4-nitroanilide	9260	HQRJJHXKCFABSI-KBPBESRZSA-N	22	7.5		wild-type, pH 7.5, 22C
+0.13	Met-Pro	883	DZMGFGQBRYWJOR-YUMQZZPRSA-N	30	7.5		pH 7.5, 30C
+0.133	L-Met 4-nitroanilide	7543	PLBWRAWSHVJPTL-JTQLQIEISA-N	22	8.0		presence of Ni2+, pH 8.0, 22C
+0.158	Met-4-nitroanilide	7543	PLBWRAWSHVJPTL-JTQLQIEISA-N	30	7.5		pH 7.5, 30C
+0.36	L-methionine-4-methylcoumarin-7-amide	2912	FHLNBHBQGFIHKH-LBPRGKRZSA-N				recombinant isozyme MetAP1a in presence of Co2+
+0.425	L-Met-L-Pro-4-nitroanilide	9260	HQRJJHXKCFABSI-KBPBESRZSA-N	22	7.5	X	truncated mutant lacking N-terminal 89 amino acids, pH 7.5, 22C
+0.54	Met-Gly-Met-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N		7.5	X	mutant enzyme H178A, Co(II) loaded, pH 7.5
+0.56	Met-Gly-Met-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N		7.5	X	mutant enzyme H178A, Fe(II) loaded, pH 7.5
+0.59	Met-Pro-p-nitroanilide	3240	FIOLVCMBUYQDEJ-KBPBESRZSA-N		7.5		wild-type enzyme, Co(II) loaded, pH 7.5
+0.67	Met-Gly-Met-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N			X	mutant enzyme W221L
+0.78	Met-Gly-Met-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N			X	mutant enzyme C70S
+0.97	L-Met-PSI[C(O)S]Gly-L-Phe	2782	WGWWOWYRUHMUTB-STQMWFEESA-N	22	7.0	X	N-terminally truncated mutant, lacking 66 amino acids, pH 7.0, 22C
+1.16	Met-Gly-Met-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N				wild-type enzyme
+1.4	Met-Pro-p-nitroanilide	3240	FIOLVCMBUYQDEJ-KBPBESRZSA-N		7.5		wild-type enzyme, Fe(II) loaded, pH 7.5
+1.75	Met-Pro-4-nitroanilide	3240	FIOLVCMBUYQDEJ-KBPBESRZSA-N		7.5		pH 7.5, in presence of Mn2+
+1.8	L-Met-Gly-L-Met-L-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N		7.5	X	mutant enzyme H79A, in 25 mM HEPES buffer (pH 7.5) containing 150 mM KCl, in the presence of 3 equivalents of Co2+
+1.82	Met-Pro-p-nitroanilide	3240	FIOLVCMBUYQDEJ-KBPBESRZSA-N	23	8.0		in 40 mM HEPES, pH 8.0, and 100 mM NaCl, at 23C
+2.67	Met-Pro-4-nitroanilide	3240	FIOLVCMBUYQDEJ-KBPBESRZSA-N		7.5		pH 7.5, in presence of Zn2+
+2.83	Met-Gly-Met-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N	30	7.5		pH 7.5, 30C
+3	L-Met-L-Ala-L-Ser	1723	WXHHTBVYQOSYSL-FXQIFTODSA-N	30	7.5	X	mutant enzyme H63A, in 25 mM HEPES buffer, pH 7.5, and 150 mM KCl, at 30C
+3.3	L-Phe-PSI[C(O)S]Gly-L-Phe	15884	VRVKNCLWXIOLHF-IRXDYDNUSA-N	22	7.0	X	mutant C70S, pH 7.0, 22C
+3.5	Met-Ala-Ser	1723	WXHHTBVYQOSYSL-FXQIFTODSA-N	30	7.5		pH 7.5, 30C
+3.6	L-Met-PSI[C(O)S]Gly-L-Phe	2782	WGWWOWYRUHMUTB-STQMWFEESA-N	22	7.0		Co(II)-form of enzyme, 22C, pH 7.0
+3.9	Met-Ala-Met-Lys-Ser	24862	KQYVVBRMRYPYTG-WOYTXXSLSA-N	30			at 30C
+4.04	L-Leu-PSI[C(O)S]Gly-L-Phe	9259	ZOOZDVGNUCYYBD-KBPBESRZSA-N	22	7.0	X	mutant C70S, pH 7.0, 22C
+4.55	L-Phe-PSI[C(O)S]Gly-L-Phe	15884	VRVKNCLWXIOLHF-IRXDYDNUSA-N	22	7.0	X	mutant C70S, pH 7.0, 22C
+4.6	L-Met-Gly-L-Met-L-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N		7.5		wild type enzyme, in 25 mM HEPES buffer (pH 7.5) containing 150 mM KCl, in the presence of 3 equivalents of Mn2+
+4.8	L-Met-Gly-L-Met-L-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N	30	7.5	X	mutant enzyme H63A, in 25 mM HEPES buffer, pH 7.5, and 150 mM KCl, at 30C
+5.33	Met-Val-Ser-His-Arg-Trp-Asp-Trp	34004	NUFYISYXZNCEBZ-YMEMGVKXSA-N	30	7.25		pH 7.25, 30C
+6.47	L-Met-PSI[C(O)S]Gly-L-Phe	2782	WGWWOWYRUHMUTB-STQMWFEESA-N	22	7.0		wild-type, pH 7.0, 22C
+7.31	L-Met-PSI[C(O)S]Gly-L-Phe	2782	WGWWOWYRUHMUTB-STQMWFEESA-N	22	7.0	X	N-terminally truncated mutant lacking 135 amino acids, pH 7.0, 22C
+8.45	Met-Ala-Ser-Trp	22303	UUZCRSBOGAPXCA-FRJURHEUSA-N	30	7.25		pH 7.25, 30C
+9.63	Met-Gly-Met-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N	30	7.5		calculated with 29.5 kDa as molecular mass, pH 7.5, 30C
+11	L-Met-L-Ala-L-Ser	1723	WXHHTBVYQOSYSL-FXQIFTODSA-N	30	7.5		wild type enzyme, in 25 mM HEPES buffer, pH 7.5, and 150 mM KCl, at 30C
+11.1	Met-S-Gly-Phe	2782	WGWWOWYRUHMUTB-STQMWFEESA-N		7.0		pH 7.0, Zn2+-substituted enzyme
+11.5	Met-Gly-Met-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N	37	7.5		pH 7.5, 37C, isozyme MetAP1a
+11.7	Met-Ala-Ser	1723	WXHHTBVYQOSYSL-FXQIFTODSA-N	30	7.5		calculated with 29.5 kDa as molecular mass, pH 7.5, 30C
+11.9	Met-Pro-4-nitroanilide	3240	FIOLVCMBUYQDEJ-KBPBESRZSA-N		7.5		pH 7.5, in presence of Co2+
+12.8	L-Met-PSI[C(O)S]Gly-L-Phe	2782	WGWWOWYRUHMUTB-STQMWFEESA-N	22	7.0		Zn(II)-form of enzyme, 22C, pH 7.0
+15.25	Met-Gly-Gly	5548	UZWMJZSOXGOVIN-LURJTMIESA-N	37	7.2		recombinant isozyme c2MetAP-Ia, pH 7.2, 37C
+15.57	Met-Ala-Ala	8169	YRAWWKUTNBILNT-FXQIFTODSA-N	37	7.2		recombinant isozyme c2MetAP-Ia, pH 7.2, 37C
+15.8	L-Met-PSI[C(O)S]Gly-L-Phe	2782	WGWWOWYRUHMUTB-STQMWFEESA-N	22	7.0		Mn(II)-form of enzyme, 22C, pH 7.0
+16.61	L-Met-PSI[C(O)S]Gly-L-Phe	2782	WGWWOWYRUHMUTB-STQMWFEESA-N	22	7.0	X	N-terminally truncated mutant, lacking 66 amino acids, pH 7.0, 22C
+18.3	L-Met-Gly-L-Met-L-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N		7.5		wild type enzyme, in 25 mM HEPES buffer (pH 7.5) containing 150 mM KCl, in the presence of 3 equivalents of Co2+
+18.3	L-Met-Gly-L-Met-L-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N	30	7.5		wild type enzyme, in 25 mM HEPES buffer, pH 7.5, and 150 mM KCl, at 30C
+18.3	L-Met-Gly-L-Met-L-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N	30	7.5		wild type enzyme, Co2+-loaded, in 25 mM HEPES buffer, at 30C and pH 7.5
+18.3	Met-Gly-Met-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N	30	7.5		in 25 mM HEPES buffer at 30C (pH 7.5) with 150 mM KCl
+19.6	Met-Ala-Ser	1723	WXHHTBVYQOSYSL-FXQIFTODSA-N	37			37C, wild-type enzyme
+19.8	Met-Ala-Ser	1723	WXHHTBVYQOSYSL-FXQIFTODSA-N	37	7.5		pH 7.5, 37C, isozyme MetAP1a, with Co2+
+19.87	Met-Gly-Gly	5548	UZWMJZSOXGOVIN-LURJTMIESA-N	37	7.2		recombinant isozyme c1MetAP-Ia, pH 7.2, 37C
+20.02	Met-Ala-Ala	8169	YRAWWKUTNBILNT-FXQIFTODSA-N	37	7.2		recombinant isozyme c1MetAP-Ia, pH 7.2, 37C
+20.2	Met-S-Gly-Phe	2782	WGWWOWYRUHMUTB-STQMWFEESA-N		7.0		pH 7.0, Co2+-substituted enzyme
+20.8	L-Leu-PSI[C(O)S]Gly-L-Phe	9259	ZOOZDVGNUCYYBD-KBPBESRZSA-N	22	7.0	X	mutant C70A, pH 7.0, 22C
+21.87	Met-Gly-Gly	5548	UZWMJZSOXGOVIN-LURJTMIESA-N	37	7.2		recombinant isozyme c3MetAP-Ib, pH 7.2, 37C
+22.07	Met-Ala-Ala	8169	YRAWWKUTNBILNT-FXQIFTODSA-N	37	7.2		recombinant isozyme c3MetAP-Ib, pH 7.2, 37C
+22.5	L-Met-PSI[C(O)S]Gly-L-Phe	2782	WGWWOWYRUHMUTB-STQMWFEESA-N	22	7.0		wild-type, pH 7.0, 22C
+23.6	Met-Gly-Met-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N	37			37C, wild-type enzyme
+28	Met-Gly-Met-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N		7.5		wild-type enzyme, Fe(II) loaded, pH 7.5
+30.8	L-Met-PSI[C(O)S]Gly-L-Phe	2782	WGWWOWYRUHMUTB-STQMWFEESA-N	22	7.0	X	mutant C70S, pH 7.0, 22C
+38	Met-Gly-Met-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N	30			at 30C
+39	Met-Gly-Met-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N		7.5		wild-type enzyme, Co(II) loaded, pH 7.5
+39.4	Met-Gly-Met-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N	37	7.5		pH 7.5, 37C, isozyme MetAP1c
+42.5	Met-S-Gly-Phe	2782	WGWWOWYRUHMUTB-STQMWFEESA-N		7.0		pH 7.0, Mn2+-substituted enzyme
+70	L-Met-L-Ser-L-Ser-L-His-L-Arg-L-Trp-L-Asp-L-Trp	12682	REFQDCILSYPJCG-ALJZBVAKSA-N	30	7.5	X	mutant enzyme H63A, in 25 mM HEPES buffer, pH 7.5, and 150 mM KCl, at 30C
+74.3	Met-Ala-Ser	1723	WXHHTBVYQOSYSL-FXQIFTODSA-N	37	7.5		pH 7.5, 37C, isozyme MetAP1c, with Co2+
+84	L-Met-L-Ser-L-Ser-L-His-L-Arg-L-Trp-L-Asp-L-Trp	12682	REFQDCILSYPJCG-ALJZBVAKSA-N	30	7.5		wild type enzyme, in 25 mM HEPES buffer, pH 7.5, and 150 mM KCl, at 30C
+188	Met-Gly-Met-Met	1503	BOCWTHDHJPOLAY-AVGNSLFASA-N	30	7.5		in 25 mM HEPES buffer at 30C (pH 7.5) with 150 mM KCl
+1516	Met-Ala-Ser	1723	WXHHTBVYQOSYSL-FXQIFTODSA-N	30	7.5		calculated with 33.1 kDa as molecular mass, pH 7.5, 30C

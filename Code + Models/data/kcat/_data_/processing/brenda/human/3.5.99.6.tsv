@@ -1,0 +1,6 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+41.2	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	8.0	X	recombinant isozyme GNPDA1 268 truncation mutant, pH 8.0, 30C, kinetic method 2
+44.2	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	8.0	X	recombinant isozyme GNPDA1 275 truncation mutant, pH 8.0, 30C, kinetic method 1
+74	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	8.0	X	recombinant isozyme GNPDA1 275 truncation mutant, pH 8.0, 30C, kinetic method 2
+228	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	8.0		recombinant wild-type isozyme GNPDA1, pH 8.0, 30C, kinetic method 1, in presence of saturating concentration of N-acetylglucosamine 6-phosphate
+260	D-glucosamine 6-phosphate	417	XHMJOUIAFHJHBW-IVMDWMLBSA-N	30	8.0		recombinant wild-type isozyme GNPDA1, pH 8.0, 30C, kinetic method 2, in presence of saturating concentration of N-acetylglucosamine 6-phosphate

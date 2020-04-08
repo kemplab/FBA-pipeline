@@ -1,0 +1,54 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3.3	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8.0		phosphate exchange reaction, pH 8.0, wild-type enzyme
+4.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.8	X	mutant M55L, pH 7.8, 25C
+5.29	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8.0		phosphate exchange reaction, pH 8.0, wild-type enzyme
+6.8	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.8	X	mutant I52L, pH 7.8, 25C
+7.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		8.0		aminoacylation reaction, pH 8.0, wild-type enzyme
+7.7	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.8		wild-type enzyme, pH 7.8, 25C
+12	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.8	X	mutant L105V, pH 7.8, 25C
+0.01	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N			X	mutant TyrRS, RMSSS
+0.012	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N			X	mutant TyrRS, AMSSS
+0.025	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N			X	mutant TyrRS, KMGCA
+0.045	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	37	7.6	X	pH 7.6, 37C, mutant Y73V/Q195C
+0.53	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N				wild-type TyrRS, KMSSS
+0.74	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30	7.5		wild-type enzyme, pH 7.5, 30C
+0.78	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	7.5	X	pH 7.5, 25C, mutant S226A
+0.95	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30	7.6	X	pH 7.6, 30C, mutant Y43G
+1.4	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30	7.5	X	mutant F130S, pH 7.5, 30C
+1.49	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30			30C, purified recombinant His-tagged enzyme
+2.5	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	7.8	X	mutant M55L, pH 7.8, 25C
+3.3	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N		8.0		phosphate exchange reaction, pH 8.0, wild-type enzyme
+3.6	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	7.8	X	mutant I52L, pH 7.8, 25C
+4.4	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30	7.6		pH 7.6, 30C, wild-type enzyme, radioisotopic assay
+4.6	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30	7.6		pH 7.6, 30C, wild-type enzyme, spectrophotometric assay
+4.9	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	7.8	X	mutant L105V, pH 7.8, 25C
+5.29	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N		8.0		phosphate exchange reaction, pH 8.0, wild-type enzyme
+5.4	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	7.8		wild-type enzyme, pH 7.8, 25C
+6	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	7.5	X	pH 7.5, 25C, mutant S224A
+6.08	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30	7.5		wild-type enzyme, pH 7.5, 30C
+6.08	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	7.5	X	pH 7.5, 25C, mutant S226A
+6.08	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	30			30C, purified recombinant His-tagged enzyme
+7.7	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N		8.0		aminoacylation reaction, pH 8.0, wild-type enzyme
+12	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	37	7.6		pH 7.6, 37C, wild-type enzyme
+30	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	7.5	X	pH 7.5, 25C, mutant K231A
+31	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	7.5	X	pH 7.5, 25C, mutant S225A
+45	L-tyrosine	103	OUYCCCASQSFEME-QMMMGPOBSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+0.046	tRNATyr	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				
+0.29	tRNATyr	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	55	8.0		55C, pH 8.0; wild type enzyme, at 55C, in 100 mM HEPES-NaOH (pH 8.0), 10 mM MgCl2, 10 mM KCl
+6.08	tRNATyr	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				
+0.37	D-tyrosine	1232	OUYCCCASQSFEME-MRVPVSSYSA-N	30	7.6	X	pH 7.6, 30C, mutant Y43G
+1.2	D-tyrosine	1232	OUYCCCASQSFEME-MRVPVSSYSA-N	30	7.6		pH 7.6, 30C, wild-type enzyme
+0.43	3-iodo-L-tyrosine	1713	UQTZMGFTRHFAAM-ZETCQYMHSA-N	37	7.6	X	pH 7.6, 37C, mutant Y73V/Q195C
+0.48	3-iodo-L-tyrosine	1713	UQTZMGFTRHFAAM-ZETCQYMHSA-N	30	7.6	X	pH 7.6, 30C, mutant Y43G
+0.67	L-3,4-dihydroxyphenylalanine	275	WTDRDQBEARUVNC-LURJTMIESA-N	30	7.6	X	pH 7.6, 30C, mutant Y43G
+1.65	L-3,4-dihydroxyphenylalanine	275	WTDRDQBEARUVNC-LURJTMIESA-N	30	7.6		pH 7.6, 30C, wild-type enzyme
+6.08	L-3,4-dihydroxyphenylalanine	275	WTDRDQBEARUVNC-LURJTMIESA-N	30	7.6	X	pH 7.6, 30C, mutant Y43G
+0.62	3-fluoro-D,L-tyrosine	6524	VIIAUOZUUGXERI-UHFFFAOYSA-N	30	7.6	X	pH 7.6, 30C, mutant Y43G
+3.3	3-fluoro-D,L-tyrosine	6524	VIIAUOZUUGXERI-UHFFFAOYSA-N	30	7.6		pH 7.6, 30C, wild-type enzyme
+4.96	3-fluoro-D,L-tyrosine	6524	VIIAUOZUUGXERI-UHFFFAOYSA-N	30	7.6		pH 7.6, 30C, wild-type enzyme
+6.08	3-fluoro-D,L-tyrosine	6524	VIIAUOZUUGXERI-UHFFFAOYSA-N	30	7.6	X	pH 7.6, 30C, mutant Y43G
+0.13	3-chloro-L-tyrosine	6525	ACWBBAGYTKWBCD-ZETCQYMHSA-N	30	7.6		pH 7.6, 30C, wild-type enzyme
+1.46	3-chloro-L-tyrosine	6525	ACWBBAGYTKWBCD-ZETCQYMHSA-N	30	7.6	X	pH 7.6, 30C, mutant Y43G
+6.08	3-chloro-L-tyrosine	6525	ACWBBAGYTKWBCD-ZETCQYMHSA-N	30	7.6	X	pH 7.6, 30C, mutant Y43G
+0.042	L-beta-(5-hydroxy-2-pyridyl)-alanine	11630	PMJXLQWZMFFUCI-NTFOPCPOSA-N	30	7.5	X	mutant F130S, pH 7.5, 30C
+0.11	L-beta-(5-hydroxy-2-pyridyl)-alanine	11630	PMJXLQWZMFFUCI-NTFOPCPOSA-N	30	7.5		wild-type enzyme, pH 7.5, 30C

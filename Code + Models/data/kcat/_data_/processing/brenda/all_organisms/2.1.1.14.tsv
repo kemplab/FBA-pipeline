@@ -1,0 +1,12 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.12	5-methyltetrahydropteroyl-gamma-glutamyl-gamma-glutamylglutamate	6259	HVRNKDVLFAVCJF-VJANTYMQSA-N	25			at 25C
+0.283	5-methyltetrahydropteroyl-gamma-glutamylglutamate	12128	VNEFZDDORGCJSD-YVZMLIKISA-N	37	7.2		in 50 mM potassium phosphate (pH 7.2), 50 mM Tris-Cl (pH 7.2) containing 0.1 mM MgSO4, 10 mM dithiothreitol and 2 mM L-homocysteine at 37C
+0.33	L-homocysteine	260	FFFHZYDWPBMWHY-VKHMYHEASA-N	37	7.2		in 50 mM potassium phosphate (pH 7.2), 50 mM Tris-Cl (pH 7.2) containing 0.1 mM MgSO4, 10 mM dithiothreitol and 2 mM L-homocysteine at 37C
+0.35	5-methyltetrahydropteroyl-gamma-glutamylglutamate	12128	VNEFZDDORGCJSD-YVZMLIKISA-N	37	7.2		in 50 mM potassium phosphate (pH 7.2), 50 mM Tris-Cl (pH 7.2) containing 0.1 mM MgSO4, 10 mM dithiothreitol and 2 mM L-homocysteine at 37C
+0.4	5-methyltetrahydropteroyl-gamma-glutamyl-gamma-glutamylglutamate	6259	HVRNKDVLFAVCJF-VJANTYMQSA-N	37	7.2		in 50 mM potassium phosphate (pH 7.2), 50 mM Tris-Cl (pH 7.2) containing 0.1 mM MgSO4, 10 mM dithiothreitol and 2 mM L-homocysteine at 37C
+0.417	5-methyltetrahydropteroyl-gamma-glutamyl-gamma-glutamyl-gamma-glutamylglutamate	6706	MQRDOUODSJRTEL-ZCPAKKDRSA-N	37	7.2		in 50 mM potassium phosphate (pH 7.2), 50 mM Tris-Cl (pH 7.2) containing 0.1 mM MgSO4, 10 mM dithiothreitol and 2 mM L-homocysteine at 37C
+0.417	L-homocysteine	260	FFFHZYDWPBMWHY-VKHMYHEASA-N	37	7.2		in 50 mM potassium phosphate (pH 7.2), 50 mM Tris-Cl (pH 7.2) containing 0.1 mM MgSO4, 10 mM dithiothreitol and 2 mM L-homocysteine at 37C
+0.45	L-homocysteine	260	FFFHZYDWPBMWHY-VKHMYHEASA-N	37			37C, pH not specified in the publication
+0.49	5-methyltetrahydropteroyl-gamma-glutamyl-gamma-glutamylglutamate	6259	HVRNKDVLFAVCJF-VJANTYMQSA-N	37			37C, pH not specified in the publication
+0.533	5-methyltetrahydropteroyl-gamma-glutamyl-gamma-glutamylglutamate	6259	HVRNKDVLFAVCJF-VJANTYMQSA-N	37	7.2		in 50 mM potassium phosphate (pH 7.2), 50 mM Tris-Cl (pH 7.2) containing 0.1 mM MgSO4, 10 mM dithiothreitol and 2 mM L-homocysteine at 37C
+0.6	5-methyltetrahydropteroyl-gamma-glutamyl-gamma-glutamyl-gamma-glutamylglutamate	6706	MQRDOUODSJRTEL-ZCPAKKDRSA-N	37	7.2		in 50 mM potassium phosphate (pH 7.2), 50 mM Tris-Cl (pH 7.2) containing 0.1 mM MgSO4, 10 mM dithiothreitol and 2 mM L-homocysteine at 37C

@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.286	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	45	5.2		pH 5.2, 45C, recombinant enzyme
+16.24	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	4.6	X	mutant enzyme DELTAHT, in 0.2 M pyridine/HCl buffer, pH 4.6, at 37C
+20.75	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	4.6	X	mutant enzyme H465A, in 0.2 M pyridine/HCl buffer, pH 4.6, at 37C
+24.85	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	4.6		wild type enzyme, in 0.2 M pyridine/HCl buffer, pH 4.6, at 37C
+59.26	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	4.6		pH 4.6, 37C, recombinant C-terminally His-tagged wild-type enzyme
+73.35	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	4.6	X	pH 4.6, 37C, recombinant deletion mutant GadBDELTA1-14
+75.41	L-glutamate	38	WHUUTDBJXJRKMK-VKHMYHEASA-N	37	4.6	X	pH 4.6, 37C, recombinant mutant Q5D/V6I/T7E
+0.41	L-Glu	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				GAD65 after cleavage with protease factor Xa
+1.8	L-Glu	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				6*His-tagged GAD65; GAD65-GST fusion protein expressed in Escherichia coli
+6.2	L-Glu	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				GAD67 after cleavage with protease factor Xa
+6.5	L-Glu	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				
+7	L-Glu	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				
+7.7	L-Glu	38	WHUUTDBJXJRKMK-VKHMYHEASA-N				GAD67-GST fusion protein expressed in Escherichia coli
+9.53	L-alpha-Methylglutamate	13677	QHSCIWIRXWFIGH-LURJTMIESA-N	25	4.6		pH 4.6, 25C

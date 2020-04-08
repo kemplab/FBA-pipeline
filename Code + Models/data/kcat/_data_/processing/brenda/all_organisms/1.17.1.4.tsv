@@ -1,0 +1,47 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+17.1	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	activation of mutant G1011E activity after preincubation with phenazine methosulfate and cytochrome c, electron acceptor: methylene blue
+29	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N			X	activation of mutant G1011E activity after preincubation with ferricyanide, electron acceptor: methylene blue
+0.717	cytochrome c	79	QYTXFEIXYJWKBO-XZRGJURASA-L				cosubstrate xanthine
+18.2	ferricyanide	126	CRWNKXHVYMVLCY-UHFFFAOYSA-N				cosubstrate xanthine
+41	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	22	5.5	X	mutant R440K, pH 5.5, 22C
+48.7	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	22	5.5	X	mutant R440H, pH 5.5, 22C
+80.5	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	22	5.0	X	mutant R440K, pH 5.0, 22C
+150	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	22	5.0	X	mutant R440H, pH 5.0, 22C; wild-type, pH 5.5, 22C
+217	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	22	5.0		wild-type, pH 5.0, 22C
+293	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	22	4.5	X	mutant R440H, pH 4.5, 22C
+307	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	22	4.0	X	mutant R440K, pH 4.0, 22C
+325	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	22	4.5	X	mutant R440K, pH 4.5, 22C
+404	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	22	4.0	X	mutant R440H, pH 4.0, 22C
+486	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	22	4.5		wild-type, pH 4.5, 22C
+1097	benzaldehyde	138	HUMNYLRZRPPJDN-UHFFFAOYSA-N	22	4.0		wild-type, pH 4.0, 22C
+0.33	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N	25	8.5	X	mutant R881M, pH 8.5, 25C
+0.75	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N				electron acceptor: oxygen
+30	hypoxanthine	187	FDGQSTZJBFJUBT-UHFFFAOYSA-N	25	8.5		wild-type, pH 8.5, 25C
+0.4	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.8		coexpression of genes xdhAB, conditions of low aeration, pH 7.8, 25C; coexpression of genes xdhAB, conditions of low aeration, pH 7.8, 25C
+0.99	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	8.5		wild-type, pH 8.5, 25C
+1.35	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	8.5	X	mutant E803V, pH 8.5, 25C
+2.5	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N				electron acceptor: oxygen
+4.4	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.8	X	mutant E232A, pH 7.8, 25C
+6.33	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N				electron acceptor: NAD+
+12.2	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N				electron acceptor: NAD+
+15	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N				electron acceptor: oxygen
+18.33	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	8.5		wild-type, pH 8.5, 25C
+22.8	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N			X	mutant E89K, electron acceptor: NAD+
+24.9	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N				electron acceptor: NAD+
+27	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.8		coexpression of genes xdhAB, conditions of high aeration, pH 7.8, 25C; coexpression of genes xdhAB, conditions of high aeration, pH 7.8, 25C
+31	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N				recombinant enzyme, electron acceptor: phenazine methosulfate-cytochrome c
+31.6	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.8	X	pH 7.8, 25C, mutant Q102G, with DCIP
+34.3	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.8	X	pH 7.8, 25C, mutant Q102A, with DCIP
+39.5	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.8	X	pH 7.8, 25C, mutant Q102A, with NAD+
+40.6	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.8	X	pH 7.8, 25C, mutant Q102G, with NAD+
+66.1	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.8		pH 7.8, 25C, wild-type enzyme, with DCIP
+77.5	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.8		pH 7.8, 25C, wild-type enzyme, with NAD+
+86	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.8		coexpression of genes xdhABC, conditions of low aeration, pH 7.8, 25C; coexpression of genes xdhABC, conditions of low aeration, pH 7.8, 25C
+108	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.8		wild-type, pH 7.8, 25C
+118	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N	25	7.8		coexpression of genes xdhABC, conditions of high aeration, pH 7.8, 25C; coexpression of genes xdhABC, conditions of high aeration, pH 7.8, 25C
+120	xanthine	208	LRFVTYWOQMYALW-UHFFFAOYSA-N				electron acceptor: NAD+
+0.8	oxygen	11	MYMOFIZGZYHOMD-UHFFFAOYSA-N				cosubstrate xanthine
+0.1	Salicylaldehyde	1141	SMQUZDBALVYZAC-UHFFFAOYSA-N				electron acceptor: oxygen
+0.7	purine	1636	KDCGOANMDULRCW-UHFFFAOYSA-N				electron acceptor: oxygen
+9.55	Nitro blue tetrazolium	1877	UZMZDVXLUXDHFH-UHFFFAOYSA-M				cosubstrate xanthine
+5.67	dichloroindophenol	740	CCBICDLNWJRFPO-UHFFFAOYSA-N				cosubstrate xanthine

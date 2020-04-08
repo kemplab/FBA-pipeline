@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.012	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+0.045	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N	37	6.0	X	pH 6.0, 37C, mutant P133R
+0.05	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N			X	mutant P133R, pH not specified in the publication, temperature not specified in the publication
+0.12	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.14	testosterone	247	MUMGGOZAMZWBJJ-DYKIIFRCSA-N	37	6.0		pH 6.0, 37C
+0.045	cortisol	716	JYGXADMDTFJGBT-VWUMJDOOSA-N	37	6.0		pH 6.0, 37C
+0.01	cortisone	717	MFYSYFVPBJMHGN-ZPOLXVRWSA-N	37	6.0	X	mutant P133R, pH not specified in the publication, temperature not specified in the publication; pH 6.0, 37C, mutant P133R
+0.165	cortisone	717	MFYSYFVPBJMHGN-ZPOLXVRWSA-N	37	6.0		pH 6.0, 37C, wild-type enzyme
+0.17	cortisone	717	MFYSYFVPBJMHGN-ZPOLXVRWSA-N				wild-type, pH not specified in the publication, temperature not specified in the publication
+0.195	cortisone	717	MFYSYFVPBJMHGN-ZPOLXVRWSA-N	37	6.0		pH 6.0, 37C
+0.032	corticosterone	839	OMFXVFTZEKFJBZ-HJTSIMOOSA-N	37	6.0		pH 6.0, 37C
+0.1	4-androstene-3,17-dione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	37	6.0		pH 6.0, 37C
+0.013	androstenedione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	37	7.4		pH 7.4, 37C, wild-type enzyme
+0.0405	androstenedione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	37	7.4	X	pH 7.4, 37C, mutant Y132F
+0.0425	androstenedione	897	AEMFNILZOJDQLW-QAGGRKNESA-N	37	7.4	X	pH 7.4, 37C, mutant V309F
+0.1	Epitestosterone	1587	MUMGGOZAMZWBJJ-KZYORJDKSA-N	37	6.0		pH 6.0, 37C
+0.15	aldosterone	2030	PQSUYGKTWSAVDQ-ZVIOFETBSA-N	37	6.0		pH 6.0, 37C
+0.01	cholestenone	4052	NYOXRYYXRWJDKP-GYKMGIIDSA-N	37	6.0		pH 6.0, 37C
+0.045	4-estren-17beta-ol-3-one	3747	NPAGDVCDWIYMMC-IZPLOLCNSA-N	37	6.0		pH 6.0, 37C
+0.035	1,4-androstadien-17beta-ol-3-one	49208	RSIHSRDYCUFFLA-DYKIIFRCSA-N	37	6.0		pH 6.0, 37C
+0.033	4-cholesten-7alpha-ol-3-one	6261	IOIZWEJGGCZDOL-RQDYSCIWSA-N	37	6.0		pH 6.0, 37C

@@ -1,0 +1,22 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.016	dUMP	496	JSRLJPSBLDHEIO-SHYZEUOFSA-N			X	mutant K48Q
+0.03	dUMP	496	JSRLJPSBLDHEIO-SHYZEUOFSA-N	37		X	mutant enzyme M190K, at 37C
+0.4	deoxyuridine phosphate	5016	JSRLJPSBLDHEIO-NAJVVJGSSA-N	22			22C
+0.52	dUMP	496	JSRLJPSBLDHEIO-SHYZEUOFSA-N	37		X	mutant enzyme A191K, at 37C
+0.53	dUMP	496	JSRLJPSBLDHEIO-SHYZEUOFSA-N	37		X	mutant enzyme M190E, at 37C
+0.583	2'-deoxyuridine	812	MXHRCPNRJAMMIM-SHYZEUOFSA-N				
+0.84	5,10-methylenetetrahydrofolate	336	QYNUQALWYRSVHF-OLZOCXBDSA-N			X	D4 N-terminal tail mutant enzyme
+1.2	5,10-methylenetetrahydrofolate	336	QYNUQALWYRSVHF-OLZOCXBDSA-N				wild type enzyme
+1.4	5,10-methylenetetrahydrofolate	336	QYNUQALWYRSVHF-OLZOCXBDSA-N			X	Ala-FACE mutant enzyme with residues 284, 285, 288, 289, and 292 mutated to Ala
+1.64	dUMP	496	JSRLJPSBLDHEIO-SHYZEUOFSA-N	37		X	mutant enzyme L198P, at 37C
+1.67	2'-deoxyuridine	812	MXHRCPNRJAMMIM-SHYZEUOFSA-N				
+2.8	5,10-methylenetetrahydrofolate	336	QYNUQALWYRSVHF-OLZOCXBDSA-N	30			at 30C
+3.11	dUMP	496	JSRLJPSBLDHEIO-SHYZEUOFSA-N	37			wild type enzyme, at 37C
+3.9	5,10-methylenetetrahydrofolate	336	QYNUQALWYRSVHF-OLZOCXBDSA-N	25	7.4	X	mutant enzyme E30W, in 50 mM TES buffer, 50 mM, MgCl2, 13 mM formalin, 2 mM EDTA, 0.15 mM 2-mercaptoethanol, pH 7.4, at 25C
+3.9	dUMP	496	JSRLJPSBLDHEIO-SHYZEUOFSA-N	25	7.4	X	mutant enzyme E30W, in 50 mM TES buffer, 50 mM, MgCl2, 13 mM formalin, 2 mM EDTA, 0.15 mM 2-mercaptoethanol, pH 7.4, at 25C
+4.1	5,10-methylenetetrahydrofolate	336	QYNUQALWYRSVHF-OLZOCXBDSA-N	30			at 30C
+4.17	deoxyuridine phosphate	5016	JSRLJPSBLDHEIO-NAJVVJGSSA-N				
+16	2'-deoxyuridine	812	MXHRCPNRJAMMIM-SHYZEUOFSA-N				
+18	deoxyuridine phosphate	5016	JSRLJPSBLDHEIO-NAJVVJGSSA-N	22			22C
+48	5,10-methylenetetrahydrofolate	336	QYNUQALWYRSVHF-OLZOCXBDSA-N	25	7.4		wild type enzyme, in 50 mM TES buffer, 50 mM, MgCl2, 13 mM formalin, 2 mM EDTA, 0.15 mM 2-mercaptoethanol, pH 7.4, at 25C
+48	dUMP	496	JSRLJPSBLDHEIO-SHYZEUOFSA-N	25	7.4		wild type enzyme, in 50 mM TES buffer, 50 mM, MgCl2, 13 mM formalin, 2 mM EDTA, 0.15 mM 2-mercaptoethanol, pH 7.4, at 25C

@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+1.9	2-chloro-4-nitrophenyl alpha-maltotrioside	3083	KMYYNUOXSFGLNX-XFNLHOCBSA-N				in presence of 0.01 mM Br-
+2	2-chloro-4-nitrophenyl alpha-maltotrioside	3083	KMYYNUOXSFGLNX-XFNLHOCBSA-N				in presence of 0.2 mM ClO3-
+2.1	2-chloro-4-nitrophenyl alpha-maltotrioside	3083	KMYYNUOXSFGLNX-XFNLHOCBSA-N				in presence of 0.01 mM I-
+2.2	2-chloro-4-nitrophenyl alpha-maltotrioside	3083	KMYYNUOXSFGLNX-XFNLHOCBSA-N				in presence of 0.1 mM NO3-
+2.4	2-chloro-4-nitrophenyl alpha-maltotrioside	3083	KMYYNUOXSFGLNX-XFNLHOCBSA-N				in presence of 0.01 mM Cl-
+3.5	2-chloro-4-nitrophenyl alpha-maltotrioside	3083	KMYYNUOXSFGLNX-XFNLHOCBSA-N				in presence of 1 mM NO2-
+4.4	2-chloro-4-nitrophenyl alpha-maltotrioside	3083	KMYYNUOXSFGLNX-XFNLHOCBSA-N				in presence of 1 mM N3-
+15.8	2-chloro-4-nitrophenyl alpha-maltotrioside	3083	KMYYNUOXSFGLNX-XFNLHOCBSA-N				in presence of 1 mM N3-
+8.5	p-nitrophenylhexa[alpha-D-glucopyranosyl(1-4)]-alpha-D-glucopyranoside	3686	XRWPEPZTMTVFPI-UYDBUFRNSA-N	37	8.0	X	37C, pH 8.0, F256W mutant
+175	p-nitrophenylhexa[alpha-D-glucopyranosyl(1-4)]-alpha-D-glucopyranoside	3686	XRWPEPZTMTVFPI-UYDBUFRNSA-N	37	8.0		37C, pH 8.0, wild-type
+283	alpha-maltotriosyl fluoride	15127	FFFVUJZCDBUWRY-WUZXSGHDSA-N	30	7.0		30C, pH 7.0
+285	alpha-maltotriosyl fluoride	15127	FFFVUJZCDBUWRY-WUZXSGHDSA-N	30	7.0		pH 7.0, 30C
+443	alpha-maltosyl fluoride	23137	RDZZHXLYJSZTDQ-QUYVBRFLSA-N	30	7.0		30C, pH 7.0
+2.98	2-chloro-4-nitrophenyl alpha-D-maltotrioside	3083	KMYYNUOXSFGLNX-XFNLHOCBSA-N	30	7.0		pH 7.0, 30C
+150	maltosyl fluoride	38861	MPJMJSVSVMGORJ-PICCSMPSSA-N	30	7.0		pH 7.0, 30C

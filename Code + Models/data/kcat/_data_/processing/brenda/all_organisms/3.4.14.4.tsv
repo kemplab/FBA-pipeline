@@ -1,0 +1,35 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.09	Arg-Arg-2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N	37	8.0	X	mutant C130S, pH 8.0, 37C
+0.131	Arg-Arg-2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N	37	8.0	X	mutant C518S, pH 8.0, 37C
+0.249	Arg-Arg-2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N	37	8.0		wild-type, with His-tag, pH 8.0, 37C
+0.256	Arg-Arg-2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N	37	8.0	X	mutant C639S, pH 8.0, 37C
+0.31	Arg-Arg-2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N			X	mutant Y318F
+0.334	Arg-Arg-2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N	37	8.0		wild-type, pH 8.0, 37C
+1.4	Arg-Arg-2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N	37	8.0	X	mutant W300L, pH 8.0, 37C
+2	Arg-Arg-2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N				
+8	Arg-Arg-2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N			X	mutant Y395F
+10.7	Arg-Arg-2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N	37	8.0	X	mutant W300F, pH 8.0, 37C
+21.8	Arg-Arg-2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N	37	8.0		wild-type, pH 8.0, 37C
+27.3	Arg-Arg-2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N			X	mutant Y644F
+31.5	Arg-Arg-2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N				wild-type enzyme
+13.2	Tyr-Gly-Gly-Phe-Leu	2214	URLZCHNOLZSCCA-VABKMULXSA-N				
+0.02	Ala-Ala-2-naphthylamide	4385	XDWBXMVFTBENCK-QWRGUYRKSA-N	37	8.0	X	mutant W300L, pH 8.0, 37C
+0.085	Ala-Ala-2-naphthylamide	4385	XDWBXMVFTBENCK-QWRGUYRKSA-N	37	8.0	X	mutant W300F, pH 8.0, 37C
+0.35	Ala-Ala-2-naphthylamide	4385	XDWBXMVFTBENCK-QWRGUYRKSA-N	37	8.0		wild-type, pH 8.0, 37C
+50	Gly-Gly-Phe-Leu	4496	OCMQTALHBUOBFN-GJZGRUSLSA-N				
+167	Trp-Met-Asp-Phe-NH2	6290	RGYLYUZOGHTBRF-BIHRQFPBSA-N				
+5	Tyr-Pro-Trp-Phe-NH2	12339	ZEXLJFNSKAHNFH-SYKYGTKKSA-N				endomorphin-1
+0.4	L-Lys-L-Ala-2-naphthylamide	7206	MNETYPHAKOATDA-GUYCJALGSA-N	25	7.4		wild-type in presence of Cu2+, pH 7.4, 25C
+1.1	L-Lys-L-Ala-2-naphthylamide	7206	MNETYPHAKOATDA-GUYCJALGSA-N	25	7.4	X	mutant Leu453del, pH 7.4, 25C
+1.4	L-Lys-L-Ala-2-naphthylamide	7206	MNETYPHAKOATDA-GUYCJALGSA-N	25	7.4		wild-type, pH 7.4, 25C
+0.039	Arg-Arg-4-methoxy-beta-naphthylamide	25048	SYEDKPVXKRDNKP-ROUUACIJSA-N				
+0.003	L-Arg-L-Arg 2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N	25	8.0	X	mutant H578N, pH 8.0, 25C, presence of CoCl2
+0.022	L-Arg-L-Arg 2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N	25	8.0	X	mutant K638L, pH 8.0, 25C, absence of CoCl2
+0.028	L-Arg-L-Arg 2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N	25	8.0		wild-type, pH 8.0, 25C, absence of CoCl2
+0.163	L-Arg-L-Arg 2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N	25	8.0	X	mutant K638L, pH 8.0, 25C, presence of CoCl2
+0.248	L-Arg-L-Arg 2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N	25	8.0		wild-type, pH 8.0, 25C, presence of CoCl2
+0.74	L-Arg-L-Arg 2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N	25	8.0	X	mutant R582Q, pH 8.0, 25C, absence of CoCl2
+0.953	L-Arg-L-Arg 2-naphthylamide	1424	NISFAIXCOKCVHV-ROUUACIJSA-N	25	8.0	X	mutant R582Q, pH 8.0, 25C, presence of CoCl2
+0.002	L-Ala-L-Ala 2-naphthylamide	4385	XDWBXMVFTBENCK-QWRGUYRKSA-N	25	8.0	X	mutant K638L, pH 8.0, 25C, presence of CoCl2
+0.777	L-Ala-L-Ala 2-naphthylamide	4385	XDWBXMVFTBENCK-QWRGUYRKSA-N	25	8.0		wild-type, pH 8.0, 25C, presence of CoCl2
+7.25	L-Ala-L-Ala 2-naphthylamide	4385	XDWBXMVFTBENCK-QWRGUYRKSA-N	25	8.0	X	mutant R582Q, pH 8.0, 25C, presence of CoCl2

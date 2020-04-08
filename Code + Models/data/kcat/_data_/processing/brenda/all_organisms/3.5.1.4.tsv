@@ -1,0 +1,119 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.00217	Benzamide	1062	KXDAEFPNCMNJSK-UHFFFAOYSA-N				
+0.0372	glutaramic acid	2382	GTFMAONWNTUZEW-UHFFFAOYSA-M				
+0.0715	Acrylamide	1422	HRPVXLWXLXDGHG-UHFFFAOYSA-N	50	8.0		pH 8.0, 50C
+0.096	succinamic acid	2485	JDVPQXZIJDEHAN-UHFFFAOYSA-N				
+0.143	acetamide	810	DLFVBJFMPXGRIB-UHFFFAOYSA-N				hydrolysis, strain AI3
+0.21	acetamide	810	DLFVBJFMPXGRIB-UHFFFAOYSA-N				
+0.3	2-toluamide	109225	GTDQGKWDWVUKTI-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+0.3	N-methylpropionamide	21633	QJQAMHYHNCADNR-UHFFFAOYSA-N				hydrolysis
+0.4	2-toluamide	109225	GTDQGKWDWVUKTI-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+0.425	2-toluamide	109225	GTDQGKWDWVUKTI-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+0.48	Benzamide	1062	KXDAEFPNCMNJSK-UHFFFAOYSA-N				
+0.58	Acrylamide	1422	HRPVXLWXLXDGHG-UHFFFAOYSA-N				
+0.8	2-toluamide	109225	GTDQGKWDWVUKTI-UHFFFAOYSA-N	70	5.0	X	pH 5.0, 70C, mutant enzyme Y41C
+0.8	4-Aminobenzamide	6082	QIKYZXDTTPVVAC-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+0.8	4-nitrobenzamide	36495	ZESWUEBPRPGMTP-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+0.9	2-Aminobenzamide	7058	PXBFMLJZNCDSMP-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+1.08	N-Methylacetamide	10622	OHLUUHNLEMFGTQ-UHFFFAOYSA-N				hydrolysis
+1.1	4-hydroxybenzamide	4569	QXSAKPUBHTZHKW-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+1.2	indol-3-acetamide	2988	ZOAMBXDOGPRZLP-UHFFFAOYSA-N	70	5.0	X	pH 5.0, 70C, mutant enzyme Y41C
+1.3	2-hydroxybenzamide	11153	SKZKKFZAGNVIMN-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+1.51	acetamide	810	DLFVBJFMPXGRIB-UHFFFAOYSA-N				hydrolysis, strain AIU1N
+1.6	acetamide	810	DLFVBJFMPXGRIB-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+1.6	Isonicotinamide	8407	VFQXVTODMYMSMJ-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+1.6	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+1.8	3-indolacetamide	2988	ZOAMBXDOGPRZLP-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+1.8	picolinamide	33272	IBBMAWULFFBRKK-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+1.9	4-hydroxybenzamide	4569	QXSAKPUBHTZHKW-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+2.04	butyramide	2373	DNSISZSEWVHGLH-UHFFFAOYSA-N				
+2.05	indol-3-acetamide	2988	ZOAMBXDOGPRZLP-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+2.1	4-hydroxybenzamide	4569	QXSAKPUBHTZHKW-UHFFFAOYSA-N	70	5.0	X	pH 5.0, 70C, mutant enzyme Y41C
+2.1	Acrylamide	1422	HRPVXLWXLXDGHG-UHFFFAOYSA-N	55	5.9		pH 5.9, 55C, recombinant wild-type enzyme
+2.13	acetamide	810	DLFVBJFMPXGRIB-UHFFFAOYSA-N				
+2.2	indol-3-acetamide	2988	ZOAMBXDOGPRZLP-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+2.2	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	70	5.0	X	pH 5.0, 70C, mutant enzyme Y41C
+2.5	4-nitrobenzamide	36495	ZESWUEBPRPGMTP-UHFFFAOYSA-N	70	5.0	X	pH 5.0, 70C, mutant enzyme Y41C
+2.9	methacrylamide	6459	FQPSGWSUVKBHSU-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+3	metacrylamide	6459	FQPSGWSUVKBHSU-UHFFFAOYSA-N	70	5.0	X	pH 5.0, 70C, mutant enzyme Y41C
+3.1	L-prolinamide	9049	VLJNHYLEOZPXFW-BYPYZUCNSA-N	70	7.5		pH 7.5, 70C
+3.2	Propionamide	1338	QLNJFJADRCOGBJ-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+4.03	Propionamide	1338	QLNJFJADRCOGBJ-UHFFFAOYSA-N				
+4.8	metacrylamide	6459	FQPSGWSUVKBHSU-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+5.3	hexanamide	3940	ALBYIUDWACNRRB-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+5.6	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	35	8.0		pH 8.0, 35C, recombinant enzyme
+5.68	Isobutyramide	1718	WFKAJVHLWXSISD-UHFFFAOYSA-N				
+5.75	metacrylamide	6459	FQPSGWSUVKBHSU-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+6.1	Benzamide	1062	KXDAEFPNCMNJSK-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+6.4	Benzamide	1062	KXDAEFPNCMNJSK-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+6.4	nicotinamide	232	DFPAKSUCGFBDDF-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+6.7	Benzamide	1062	KXDAEFPNCMNJSK-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+7.1	3-phenylpropionamide	5083	VYIBCOSBNVFEIW-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+7.2	Benzamide	1062	KXDAEFPNCMNJSK-UHFFFAOYSA-N	70	5.0	X	pH 5.0, 70C, mutant enzyme Y41C
+7.3	cyclomaltohexaose	380	HFHDHCJBZVLPGP-RWMJIURBSA-N	70	7.5		pH 7.5, 70C
+8.3	Acrylamide	1422	HRPVXLWXLXDGHG-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+9.5	propionohydrazide	31983	DXGIRFAFSFKYCF-UHFFFAOYSA-N				transferase reaction
+9.9	butyramide	2373	DNSISZSEWVHGLH-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+10	acetohydrazide	21308	OFLXLNCGODUUOT-UHFFFAOYSA-N				hydrolysis
+10.5	Propionamide	1338	QLNJFJADRCOGBJ-UHFFFAOYSA-N				
+10.7	lactamide	30621	SXQFCVDSOLSHOQ-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+11.9	cyclomaltohexaose	380	HFHDHCJBZVLPGP-RWMJIURBSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+12.2	cyclomaltohexaose	380	HFHDHCJBZVLPGP-RWMJIURBSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+12.82	3-phenyl-propionamide	5083	VYIBCOSBNVFEIW-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+14	Acetohydroxamate	2818	RRUDCFGSUDOHDG-UHFFFAOYSA-N				hydrolysis
+14.2	cyclomaltohexaose	380	HFHDHCJBZVLPGP-RWMJIURBSA-N	70	5.0	X	pH 5.0, 70C, mutant enzyme Y41C
+15.3	3-phenylpropionamide	5083	VYIBCOSBNVFEIW-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+16.3	cyclohexanamide	8841	PNZXMIKHJXIPEK-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+17.5	butyramide	2373	DNSISZSEWVHGLH-UHFFFAOYSA-N	70	5.0	X	pH 5.0, 70C, mutant enzyme Y41C
+18	3-phenylpropionamide	5083	VYIBCOSBNVFEIW-UHFFFAOYSA-N	70	5.0	X	pH 5.0, 70C, mutant enzyme Y41C
+19.5	hexanamide	3940	ALBYIUDWACNRRB-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+19.98	butyramide	2373	DNSISZSEWVHGLH-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+20	acetohydrazide	21308	OFLXLNCGODUUOT-UHFFFAOYSA-N				transferase reaction
+20.13	acetamide	810	DLFVBJFMPXGRIB-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+20.2	acetamide	810	DLFVBJFMPXGRIB-UHFFFAOYSA-N	55	5.9		pH 5.9, 55C, recombinant wild-type enzyme
+20.5	Pentanamide	4086	IPWFJLQDVFKJDU-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+21.6	hexanamide	3940	ALBYIUDWACNRRB-UHFFFAOYSA-N	70	5.0	X	pH 5.0, 70C, mutant enzyme Y41C
+21.9	Isobutyramide	1718	WFKAJVHLWXSISD-UHFFFAOYSA-N	70	7.5		pH 7.5, 70C
+22	propionohydroxamate	31984	RSIPQHOWTCNEBI-UHFFFAOYSA-N				hydrolysis
+26.8	Pentanamide	4086	IPWFJLQDVFKJDU-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+28.6	Pentanamide	4086	IPWFJLQDVFKJDU-UHFFFAOYSA-N	70	5.0	X	pH 5.0, 70C, mutant enzyme Y41C
+28.6	Propionamide	1338	QLNJFJADRCOGBJ-UHFFFAOYSA-N	35	8.0		pH 8.0, 35C, recombinant enzyme
+28.9	acetamide	810	DLFVBJFMPXGRIB-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+29.9	acetamide	810	DLFVBJFMPXGRIB-UHFFFAOYSA-N	35	8.0		pH 8.0, 35C, recombinant enzyme
+30.1	acetamide	810	DLFVBJFMPXGRIB-UHFFFAOYSA-N	70	5.0	X	pH 5.0, 70C, mutant enzyme Y41C
+34.3	butyramide	2373	DNSISZSEWVHGLH-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+38.7	Acrylamide	1422	HRPVXLWXLXDGHG-UHFFFAOYSA-N		7.2		pH 7.2
+41.88	Isobutyramide	1718	WFKAJVHLWXSISD-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+47.4	acetate	44	QTBSBXVTEAMEQO-UHFFFAOYSA-N				
+48.9	Isobutyramide	1718	WFKAJVHLWXSISD-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+55.6	4-Guanidinobutyramide	28931	YHVFECVVGNXFKO-UHFFFAOYSA-N	35	8.0		pH 8.0, 35C, recombinant enzyme
+58.4	Isobutyramide	1718	WFKAJVHLWXSISD-UHFFFAOYSA-N	70	5.0	X	pH 5.0, 70C, mutant enzyme Y41C
+82.9	Propionamide	1338	QLNJFJADRCOGBJ-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+99.4	Propionamide	1338	QLNJFJADRCOGBJ-UHFFFAOYSA-N	70	5.0	X	pH 5.0, 70C, mutant enzyme Y41C
+101.9	Propionamide	1338	QLNJFJADRCOGBJ-UHFFFAOYSA-N	70	5.0		pH 5.0, 70C, wild-type enzyme
+129	2-nitroacetanilide	6366	BUNFNRVLMKHKIT-UHFFFAOYSA-N				
+134	acetanilide	115557	FZERHIULMFGESH-UHFFFAOYSA-N				
+144	4-nitrophenylacetate	2396	YBADLXQNJCMBKR-UHFFFAOYSA-N				
+147	phenylacetate	624	WLJVXDMOQOGPHL-UHFFFAOYSA-N				
+155.3	Propionamide	1338	QLNJFJADRCOGBJ-UHFFFAOYSA-N	55	5.9		pH 5.9, 55C, recombinant wild-type enzyme
+157.7	Benzamide	1062	KXDAEFPNCMNJSK-UHFFFAOYSA-N	55	5.9		pH 5.9, 55C, recombinant wild-type enzyme
+160	Isobutyramide	1718	WFKAJVHLWXSISD-UHFFFAOYSA-N	85		X	85C, pH not specified in the publication, mutant enzyme K96R
+160	Propionamide	1338	QLNJFJADRCOGBJ-UHFFFAOYSA-N	85		X	85C, pH not specified in the publication, mutant enzyme K96R
+162	acetamide	810	DLFVBJFMPXGRIB-UHFFFAOYSA-N				hydrolysis
+175	Isobutyramide	1718	WFKAJVHLWXSISD-UHFFFAOYSA-N	85			85C, pH not specified in the publication, wild-type enzyme
+181	Propionamide	1338	QLNJFJADRCOGBJ-UHFFFAOYSA-N	85			85C, pH not specified in the publication, wild-type enzyme
+305	acetamide	810	DLFVBJFMPXGRIB-UHFFFAOYSA-N				
+333.3	Acrylamide	1422	HRPVXLWXLXDGHG-UHFFFAOYSA-N	60	7.6		pH 7.6, 60C
+374	Propionamide	1338	QLNJFJADRCOGBJ-UHFFFAOYSA-N				hydrolysis
+465	Propionamide	1338	QLNJFJADRCOGBJ-UHFFFAOYSA-N				transferase reaction
+721.7	hexanamide	3940	ALBYIUDWACNRRB-UHFFFAOYSA-N	60	7.6		pH 7.6, 60C
+769	cinnamamide	9017	APEJMQOBVMLION-VOTSOKGWSA-N	85			85C, pH not specified in the publication, wild-type enzyme
+790	acetamide	810	DLFVBJFMPXGRIB-UHFFFAOYSA-N				transferase reaction
+887	ketoprofen amide	8720	KLWMCJJRUWWDSW-UHFFFAOYSA-N				
+890	N-Methylacetamide	10622	OHLUUHNLEMFGTQ-UHFFFAOYSA-N				transferase reaction
+906	cinnamamide	9017	APEJMQOBVMLION-VOTSOKGWSA-N	85		X	85C, pH not specified in the publication, mutant enzyme K96R
+1192	Benzamide	1062	KXDAEFPNCMNJSK-UHFFFAOYSA-N	85			85C, pH not specified in the publication, wild-type enzyme
+1246	Benzamide	1062	KXDAEFPNCMNJSK-UHFFFAOYSA-N	85		X	85C, pH not specified in the publication, mutant enzyme K96R
+2668	acetamide	810	DLFVBJFMPXGRIB-UHFFFAOYSA-N		7.2		pH 7.2
+5051	acetamide	810	DLFVBJFMPXGRIB-UHFFFAOYSA-N	60	7.6		pH 7.6, 60C
+7216	L-glutamine	96	ZDXPYRJPNDTMRX-VKHMYHEASA-N	60	7.6		pH 7.6, 60C

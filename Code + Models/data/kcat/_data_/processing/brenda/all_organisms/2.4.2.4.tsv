@@ -1,0 +1,28 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.157	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N				
+3.5	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	37		X	ph 5.5, 37C, recombinant mutant Y199F
+4.4	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	37		X	ph 5.5, 37C, recombinant mutant Y199L
+5.2	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	37		X	ph 5.5, 37C, recombinant mutant I214A
+6.8	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	37		X	ph 5.5, 37C, recombinant mutant K115A
+7.2	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	37	7.5		at pH 7.5 at 37C
+8.2	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	37			ph 5.5, 37C, recombinant wild-type enzyme
+130	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	37	7.4		at pH 7.4 and 37C
+198	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	25	7.5		pH 7.5, 25C
+198	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	25	6.5		25C, pH 6.5; in 50 mM potassium phosphate buffer (pH 6.5), at 25C
+1770	thymidine	153	IQFYYKKMVGJFEH-XLPZGREQSA-N	25	7.4		pH 7.4, 25C
+35	2'-deoxyuridine	812	MXHRCPNRJAMMIM-SHYZEUOFSA-N				
+63	4-thiothymidine	4639	IXDWFVOGUMAKFI-WIXLMEMESA-N	25	7.5		pH 7.5, 25C
+63	4-thiothymidine	4639	IXDWFVOGUMAKFI-WIXLMEMESA-N	25	6.5		25C, pH 6.5; in 50 mM potassium phosphate buffer (pH 6.5), at 25C
+260	5'-Deoxythymidine	4810	UGUILUGCFSCUKR-UHFFFAOYSA-N	25	6.5		; in 50 mM potassium phosphate buffer (pH 6.5), at 25C
+2.88	5-nitro-2'-deoxyuridine	5761	USBZWPXQQCSGAV-KPGICGJXSA-N	25	7.4		pH 7.4, 25C
+20	5-nitro-2'-deoxyuridine	5761	USBZWPXQQCSGAV-KPGICGJXSA-N	25	7.4		pH 7.4, 25C
+20	5-nitro-2'-deoxyuridine	5761	USBZWPXQQCSGAV-KPGICGJXSA-N	25	7.4		in 0.1 M potassium phosphate buffer (pH 7.4), at 25C
+1.1	3'-amino-3'-deoxythymidine	5817	ADVCGXWUUOVPPB-XLPZGREQSA-N	25	6.5		25C, pH 6.5; in 50 mM potassium phosphate buffer (pH 6.5), at 25C
+0.58	5'-amino-5'-deoxythymidine	5820	PYWLBQPICCQJFF-BWZBUEFSSA-N	25	6.5		25C, pH 6.5; in 50 mM potassium phosphate buffer (pH 6.5), at 25C
+0.1	1-(2',6'-dideoxy-beta-D-ribohexafuranosyl)thymine	6708	SBFVMQBAUKSUJS-DJLDLDEBSA-N	25	6.5		in 50 mM potassium phosphate buffer (pH 6.5), at 25C
+0.6	1-(2',6'-dideoxy-beta-D-ribohexafuranosyl)thymine	6708	SBFVMQBAUKSUJS-DJLDLDEBSA-N	25	6.5		25C, pH 6.5; in 50 mM potassium phosphate buffer (pH 6.5), at 25C
+0.4	3'-deoxy-2',3'-didehydrothymidine	5681	XNKLLVCARDGLGL-JGVFFNPUSA-N	25	6.5		25C, pH 6.5; in 50 mM potassium phosphate buffer (pH 6.5), at 25C
+1.7	5'-chloro-5'-deoxythymidine	12136	OHPBSBJSJURNHP-XLPZGREQSA-N				
+0.1	1-(2',6'-dideoxy-beta-D-ribo-hexafuranosyl)thymine	6708	SBFVMQBAUKSUJS-DJLDLDEBSA-N	25	6.5		25C, pH 6.5
+0.45	1-(2',6'-dideoxy-alpha-L-lyxo-hexafuranosyl)thymine	24395	LNYGXHNMISPQJZ-GSLILNRNSA-N	25	6.5		25C, pH 6.5
+0.45	1-(2',6'-dideoxy-alpha-L-lyxohexafuranosyl)thymine	24395	LNYGXHNMISPQJZ-GSLILNRNSA-N	25	6.5		in 50 mM potassium phosphate buffer (pH 6.5), at 25C

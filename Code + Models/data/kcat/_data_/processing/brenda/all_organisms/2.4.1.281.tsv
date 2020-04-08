@@ -1,0 +1,29 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.667	D-Allose	736	WQZGKKKJIJFFOK-IVMDWMLBSA-N	37	6.5		apparent value, pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+0.763	3-O-methyl-D-glucose	1149	SCBBSJMAPKXHAH-QTSLKERKSA-N	37	6.5		apparent value, pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+0.94	3-deoxy-3-fluoro-D-glucose	116186	BUMRBAMACDBPKO-CBPJZXOFSA-N	37	6.5		apparent value, pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+2.76	alpha-D-mannose 1-phosphate	519	HXXFSFRBOHSIMQ-RWOPYEJCSA-N	37	6.5	X	mutant H245A, pH 6.5, 37C
+5.07	maltose	81	GUBGYTABKSRVRQ-ASMJPISFSA-N	37	6.5		apparent value, pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+5.12	D-mannose	191	WQZGKKKJIJFFOK-QTVWNMPRSA-N	37	6.5		apparent value, pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+5.71	2-deoxy-2-fluoro-D-glucose	5677	ZCXUVYAZINUVJD-WVQXMEFOSA-N	37	6.5		apparent value, pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+6.34	N,N'-diacetylchitobiose	1024	CDOJPCSDOXYJJF-KSKNGZLJSA-N	37	6.5		apparent value, pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+11.6	laminaribiose	690	QIGJYVCQYDKYDW-LCOYTZNXSA-N	37	6.5		apparent value, pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+11.7	2-deoxy-D-glucose	443	PMMURAAUARKVCB-KAZBKCHUSA-N	37	6.5		apparent value, pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+13.8	sophorose	1775	HIWPGCMGAMJNRG-RTPHMHGBSA-N	37	6.5		apparent value, pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+15.8	N-acetyl-D-glucosamine	257	OVRNDRQMDRJTHS-RTRLPJTCSA-N	37	6.5		apparent value, pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+17.5	4-O-beta-D-mannopyranosyl-D-glucopyranose	6011	GUBGYTABKSRVRQ-OKIQBEFVSA-N	37	6.5		pH 6.5, 37C, phosphorolytic reaction, cosubstrate phosphate
+19.3	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	6.5	X	mutant H245A, pH 6.5, 37C
+20.2	cellobiose	77	GUBGYTABKSRVRQ-QRZGKKJRSA-N	37	6.5		apparent value, pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+20.7	1,5-anhydro-D-glucitol	2098	MPCAJMNYNOGXPB-SLPGGIOYSA-N	37	6.5		apparent value, pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+20.7	methyl alpha-D-glucoside	2390	HOVAGTYPODGVJG-ZFYZTMLRSA-N	37	6.5		apparent value, pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+24.8	phosphate	12	NBIIXXVUZAFLBC-UHFFFAOYSA-N	30	7.5		pH 7.5, 30C
+26.1	gentiobiose	645	DLRVVLDZNNYCBX-LIZSDCNHSA-N	37	6.5		apparent value, pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+34.5	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	6.5		apparent value, pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+35.2	methyl beta-D-glucoside	2479	HOVAGTYPODGVJG-XUUWZHRGSA-N	37	6.5		apparent value, pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+42	6-deoxy-6-fluoro-D-glucose	7494	SHFYXYMHVMDNPY-GASJEMHNSA-N	37	6.5		pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+42.2	4-O-beta-D-mannopyranosyl-D-glucopyranose	6011	GUBGYTABKSRVRQ-OKIQBEFVSA-N	30	7.5		pH 7.5, 30C
+45.1	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	6.5		pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate; pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate
+52.1	alpha-D-mannose 1-phosphate	519	HXXFSFRBOHSIMQ-RWOPYEJCSA-N	37	6.5		wild-type, pH 6.5, 37C
+83.3	4-O-beta-D-mannopyranosyl-D-glucopyranose	6011	GUBGYTABKSRVRQ-OKIQBEFVSA-N	37	6.5		pH 6.5, 37C, phosphorolytic reaction, cosubstrate phosphate
+126	D-glucose	33	WQZGKKKJIJFFOK-GASJEMHNSA-N	37	6.5		wild-type, pH 6.5, 37C
+177	6-deoxy-D-glucose	1151	SHZGCJCMOBCMKK-VFUOTHLCSA-N	37	6.5		pH 6.5, 37C, synthetic reaction, cosubstrate alpha-D-mannose 1-phosphate

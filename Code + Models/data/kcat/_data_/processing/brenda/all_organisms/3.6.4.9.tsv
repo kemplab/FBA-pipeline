@@ -1,0 +1,29 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000667	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				ATPase rate per unit mass of chaperonin, in the absence of K+, only alpha subunits
+0.00183	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				ATPase rate per unit mass of chaperonin, in the absence of K+, alpha,beta subunits
+0.002	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				ATPase rate per unit mass of chaperonin, 100 mM KCl, only alpha subunits
+0.003	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	20			20C
+0.0055	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				ATPase rate per unit mass of chaperonin, 100 mM KCl, alpha,beta subunits
+0.009	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	20			20C
+0.012	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				one CCT ring
+0.014	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	20			20C
+0.018	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				both CCT rings
+0.025	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	20			20C
+0.0275	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				Mn2+ concentration variable, ATP concentration fixed, Mn-ATP complexes at 1 mM ATP and 0.8 mM Mn2+
+0.035	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				in the absence of target protein, without cofactor A
+0.0417	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				rate per monomer
+0.0462	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				ATP concentration variable, Mn2+ concentration fixed, Mn-ATP complexes at 1 mM ATP and 0.8 mM Mn2+
+0.0565	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				Mg2+ concentration variable, ATP concentration fixed, Mg-ATP complexes at 1 mM ATP and 0.8 mM Mg2+
+0.06	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				based on protomers
+0.07	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				authentic and recombinant enzyme
+0.0833	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				rate per monomer
+0.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				ATP concentration variable, Mg2+ concentration fixed, Mg-ATP complexes at 1 mM ATP and 0.8 mM Mg2+
+0.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+0.1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				based on protomers, 1 mM K+
+0.13	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+0.132	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				GroEL shows positive cooperativity in ATP hydrolysis, calculated for one GroEL ring in tense state and the other in relaxed state, may reflect true kcat for ATP hydrolysis of GroEL single ring
+0.133	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				in folding reactions containing tubulin target proteins, without cofactor A
+0.75	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				
+0.99	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37			37C
+1	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	70			rate per heptamer at 70C
+2.21	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	90	5.0		90C, pH 5.0

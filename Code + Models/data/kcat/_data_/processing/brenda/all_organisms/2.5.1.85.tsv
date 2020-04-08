@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.032	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	37	7.4		pH 7.4, 37C
+3.77	(2E,6E)-farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	8.0		pH 8.0, 30C, truncated from of At-SPS2 (At-SPS2DELTA, in which the 30 N-terminal residues of the putative signal-peptide are removed and, instead the His6 tag is attached to the N-terminus)
+0.043	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, cosubstrate: farnesyl diphosphate
+0.131	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, cosubstrate: geranyl diphosphate
+0.217	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	37	7.4		pH 7.4, 37C, cosubstrate: geranylgeranyl diphosphate
+1.72	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, cosubstrate: geranylgeranyl diphosphate, truncated from of At-SPS2 (At-SPS2DELTA, in which the 30 N-terminal residues of the putative signal-peptide are removed and, instead the His6 tag is attached to the N-terminus)
+2.83	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, cosubstrate: farnesyl diphosphate, truncated from of At-SPS2 (At-SPS2DELTA, in which the 30 N-terminal residues of the putative signal-peptide are removed and, instead the His6 tag is attached to the N-terminus)
+14.7	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, cosubstrate: farnesyl diphosphate
+15	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N	30	8.0		pH 8.0, 30C, cosubstrate: geranylgeranyl diphosphate
+29.7	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N	30	8.0		pH 8.0, 30C
+0.065	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N	37	7.4		pH 7.4, 37C
+0.087	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N	37	7.4		pH 7.4, 37C
+2.33	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N	30	8.0		pH 8.0, 30C, truncated from of At-SPS2 (At-SPS2DELTA, in which the 30 N-terminal residues of the putative signal-peptide are removed and, instead the His6 tag is attached to the N-terminus), truncated from of At-SPS2 (At-SPS2DELTA, in which the 30 N-terminal residues of the putative signal-peptide are removed and, instead the His6 tag is attached to the N-terminus)
+21	geranylgeranyl diphosphate	205	OINNEUNVOZHBOX-QIRCYJPOSA-N	30	8.0		pH 8.0, 30C

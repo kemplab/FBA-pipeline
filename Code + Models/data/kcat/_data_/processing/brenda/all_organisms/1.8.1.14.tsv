@@ -1,0 +1,20 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.3	CoA-disulfide	3797	YAISMNQCMHVVLO-ODFVJXNFSA-N	25		X	25C, mutant enzyme Y25F. Cosubstrate: NADH
+0.3	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25		X	mutant enzyme Y425F, at 25C
+0.9	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25		X	25C, mutant enzyme Y25F; mutant enzyme Y425F, at 25C
+0.95	CoA-sec-butyl disulfide	25429	NOSQJWZWBQWWFC-XGXNYEOVSA-N	25	7.8		25C, pH 7.8
+1.2	methyl methanethiolsulfonate	1724	XYONNSVDNIRXKZ-UHFFFAOYSA-N	23		X	mutant enzyme Y419F, at 23C, pH not specified in the publication
+2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25			25C, wild-type enzyme; wild type enzyme, at 25C
+2.7	CoA-ethyl disulfide	25428	NYQXCNLZHLAVQO-ZSJPKINUSA-N	25	7.8		25C, pH 7.8
+3.17	CoA-disulfide	3797	YAISMNQCMHVVLO-ODFVJXNFSA-N	25	7.8		25C, pH 7.8
+4.3	CoA-methyl disulfide	25427	FFKBJBIVDRSJLG-XGLXVWQBSA-N	25	7.8		25C, pH 7.8
+5	CoA-disulfide	3797	YAISMNQCMHVVLO-ODFVJXNFSA-N	25		X	25C, mutant enzyme Y367F. Cosubstrate: NADH
+5	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	25		X	mutant enzyme Y367F, at 25C
+6.4	methyl methanethiolsulfonate	1724	XYONNSVDNIRXKZ-UHFFFAOYSA-N	23			wild type enzyme, at 23C, pH not specified in the publication
+7	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25		X	25C, mutant enzyme Y367F; mutant enzyme Y367F, at 25C
+7.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	75			75C
+7.2	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	50	8.1		at 50C and pH 8.1 in 1 M Tris buffer
+8.1	NADPH	5	ACFIXJIJDZMPPO-NNYOXOHSSA-N	50	8.1		at 50C and pH 8.1 in 1 M Tris buffer
+10.4	methyl methanethiolsulfonate	1724	XYONNSVDNIRXKZ-UHFFFAOYSA-N	23		X	mutant enzyme Y361F, at 23C, pH not specified in the publication
+27	CoA-disulfide	3797	YAISMNQCMHVVLO-ODFVJXNFSA-N	23			wild type enzyme, at 23C, pH not specified in the publication
+27	NADH	3	BOPGDPNILDQYTO-NNYOXOHSSA-N	25			25C, wild-type enzyme; wild type enzyme, at 25C

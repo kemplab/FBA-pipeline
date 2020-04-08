@@ -1,0 +1,88 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0002	N-acetyl-L-neuraminic acid	4222	SQVRNKJHWKZAKO-GNYNUVGYSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+0.0045	N-acetyl-L-neuraminic acid	4222	SQVRNKJHWKZAKO-GNYNUVGYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y98H/F115L/V251I
+0.0068	N-acetyl-L-neuraminic acid	4222	SQVRNKJHWKZAKO-GNYNUVGYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y98H/F115L/V251I/V265I
+0.013	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	30	7.4	X	mutant Y137F enzyme, pH 7.4, 30C
+0.013	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	165	7.4	X	purified recombinant mutant K165C, pH 7.4, 30C
+0.015	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	30	6.8	X	purified recombinant mutant K165-gamma-thialysine, pH 6.8, 30C
+0.02	N-acetyl-L-neuraminic acid	4222	SQVRNKJHWKZAKO-GNYNUVGYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme E60A/Y98H/F115L/N153Y/D150G/V251I/V265I/Y281C/N153Y; pH 7.5, 25C, mutant enzyme Y98H/F115L/N153Y/V251I/V265I/Y281C
+0.023	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	30	7.4	X	purified recombinant mutant K165-gamma-thialysine, pH 7.4, 30C
+0.036	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	30	7.4		purified recombinant wild-type enzyme, pH 7.4, 30C
+0.04	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	30	6.8		purified recombinant wild-type enzyme, pH 6.8, 30C
+0.057	(2R,3R,4R)-6-[(aminooxy)carbonyl]-3,4,6-trihydroxy-N-propyltetrahydro-2H-pyran-2-carboxamide	7806	LHZIYNWEDDRYGH-CYBMPWMKSA-N			X	mutant enzyme E192N
+0.1	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	109183	MKDFACADRNQNHC-GUJYYOPSSA-N	25	7.5	X	E192D mutant protein, pH 7.5, 25C
+0.29	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	30	7.6	X	mutant enzyme L199N/I229D, in sodium phosphate buffer (100 mM, pH 7.6), at 30C
+0.42	N-acetylneuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.5	X	E192P mutant protein, pH 7.5, 25C
+0.43	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	109183	MKDFACADRNQNHC-GUJYYOPSSA-N	25	7.5	X	E192S mutant protein, pH 7.5, 25C
+0.44	(2S,4S,5R,6R)-5-(acetylamino)-6-[(dipropylamino)carbonyl]-2,4-dihydroxytetrahydro-pyran-2-carboxylic acid	3924	LOEURDHSARPQLE-YFCNSXCBSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme S208G
+0.63	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	109183	MKDFACADRNQNHC-GUJYYOPSSA-N	25	7.5	X	E192H mutant protein, pH 7.5, 25C
+0.664	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	30	7.6	X	mutant enzyme L199N/I229N, in sodium phosphate buffer (100 mM, pH 7.6), at 30C
+0.82	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	109183	MKDFACADRNQNHC-GUJYYOPSSA-N	25	7.5	X	E192P mutant protein, pH 7.5, 25C
+0.83	N-acetylneuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.5	X	E192S mutant protein, pH 7.5, 25C
+0.91	(2S,4S,5R,6R)-5-(acetylamino)-6-[(dipropylamino)carbonyl]-2,4-dihydroxytetrahydro-pyran-2-carboxylic acid	3924	LOEURDHSARPQLE-YFCNSXCBSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme D191P
+1.1	L-3-deoxy-manno-2-octulosonic acid	3699	KYQCXUMVJGMDNG-GOPQWHALSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y98H/F115L; pH 7.5, 25C, wild-type enzyme
+1.17	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	109183	MKDFACADRNQNHC-GUJYYOPSSA-N	25	7.5	X	E192M mutant protein, pH 7.5, 25C
+1.17	N-acetylneuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.5	X	E192M mutant protein, pH 7.5, 25C
+1.2	D-3-deoxy-manno-2-octulosonic acid	3698	KYQCXUMVJGMDNG-PQUNXDPGSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+1.22	(2S,4S,5R,6R)-5-(acetylamino)-6-[(dipropylamino)carbonyl]-2,4-dihydroxytetrahydro-pyran-2-carboxylic acid	3924	LOEURDHSARPQLE-YFCNSXCBSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+1.22	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	109183	MKDFACADRNQNHC-GUJYYOPSSA-N	25	7.5		wild type (E192), pH 7.5, 25C
+1.23	(2R,3R,4R)-6-[(aminooxy)carbonyl]-3,4,6-trihydroxy-N-propyltetrahydro-2H-pyran-2-carboxamide	7806	LHZIYNWEDDRYGH-CYBMPWMKSA-N				wild-type enzyme
+1.47	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	109183	MKDFACADRNQNHC-GUJYYOPSSA-N	25	7.5	X	E192F mutant protein, pH 7.5, 25C
+1.5	D-3-deoxy-manno-2-octulosonic acid	3698	KYQCXUMVJGMDNG-PQUNXDPGSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y98H/F115L
+1.5	N-acetyl-D-neuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme E60A/Y98H/F115L/N153Y/D150G/V251I/V265I/Y281C/N153Y
+1.58	(2S,4S,5R,6R)-5-(acetylamino)-6-[(dipropylamino)carbonyl]-2,4-dihydroxytetrahydro-pyran-2-carboxylic acid	3924	LOEURDHSARPQLE-YFCNSXCBSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme E192V
+1.58	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	109183	MKDFACADRNQNHC-GUJYYOPSSA-N	25	7.5	X	E192V mutant protein, pH 7.5, 25C
+1.7	N-acetyl-D-neuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y98H/F115L/N153Y/V251I/V265I/Y281C
+1.8	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				
+1.85	(2S,4S,5R,6R)-5-(acetylamino)-6-[(dipropylamino)carbonyl]-2,4-dihydroxytetrahydro-pyran-2-carboxylic acid	3924	LOEURDHSARPQLE-YFCNSXCBSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme E192S
+1.9	L-3-deoxy-manno-2-octulosonic acid	3699	KYQCXUMVJGMDNG-GOPQWHALSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y98H/F115L/V251I
+1.9	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N				
+1.97	N-acetyl-D-neuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme E192V
+2	N-acetylneuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.5	X	E192D mutant protein, pH 7.5, 25C; E192H mutant protein, pH 7.5, 25C; E192V mutant protein, pH 7.5, 25C
+2.17	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	109183	MKDFACADRNQNHC-GUJYYOPSSA-N	25	7.7	X	E192N mutant protein, pH 7.7.5, 25C
+2.18	(2S,4S,5R,6R)-5-(acetylamino)-6-[(dipropylamino)carbonyl]-2,4-dihydroxytetrahydro-pyran-2-carboxylic acid	3924	LOEURDHSARPQLE-YFCNSXCBSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme E192N
+2.2	N-acetyl-D-neuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y98H/F115L/V251I/V265I
+2.5	L-3-deoxy-manno-2-octulosonic acid	3699	KYQCXUMVJGMDNG-GOPQWHALSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y98H/F115L/V251I/V265I
+2.67	N-acetylneuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.5	X	E192F mutant protein, pH 7.5, 25C
+2.77	N-acetyl-D-neuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme E192N
+2.8	D-3-deoxy-manno-2-octulosonic acid	3698	KYQCXUMVJGMDNG-PQUNXDPGSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y98H/F115L/V251I
+2.83	(5R,6R)-7-(dipropylamino)-4,5,6-trihydroxy-2,7-dioxoheptanoic acid	109183	MKDFACADRNQNHC-GUJYYOPSSA-N	25	7.5	X	E192Q mutant protein, pH 7.5, 25C
+2.83	N-acetylneuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.7	X	E192N mutant protein, pH 7.7.5, 25C
+2.833	sialic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N			X	mutant enzyme E192N
+2.9	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.0		recombinant His-taggged enzyme, pH 7.0, 37C
+3	sialic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N			X	mutant enzyme E192N
+3.15	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	30	7.6	X	mutant enzyme L171N/I229N, in sodium phosphate buffer (100 mM, pH 7.6), at 30C
+3.2	D-3-deoxy-manno-2-octulosonic acid	3698	KYQCXUMVJGMDNG-PQUNXDPGSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y98H/F115L/V251I/V265I
+4	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	37	7.0		recombinant His-taggged enzyme, pH 7.0, 37C
+4.15	N-acetyl-D-neuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme S208G
+4.17	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	30	7.4		wild-type enzyme, pH 7.4, 30C
+4.2	L-3-deoxy-manno-2-octulosonic acid	3699	KYQCXUMVJGMDNG-GOPQWHALSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y98H/F115L/N153Y/V251I/V265I/Y281C
+4.25	N-acetyl-D-neuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme E192S
+4.3	N-acetyl-D-neuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+4.33	N-acetylneuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.5		wild type (E192), pH 7.5, 25C
+4.33	sialic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N				wild-type enzyme
+4.5	N-acetyl-D-mannosamine	814	OVRNDRQMDRJTHS-ZTVVOAFPSA-N	37	7.0		recombinant His-taggged enzyme, pH 7.0, 37C
+4.69	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	30	7.6	X	mutant enzyme I229D, in sodium phosphate buffer (100 mM, pH 7.6), at 30C
+5	N-acetylneuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.5	X	E192Q mutant protein, pH 7.5, 25C
+5.1	D-3-deoxy-manno-2-octulosonic acid	3698	KYQCXUMVJGMDNG-PQUNXDPGSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y98H/F115L/N153Y/V251I/V265I/Y281C
+5.49	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	30	7.6	X	mutant enzyme L171R, in sodium phosphate buffer (100 mM, pH 7.6), at 30C
+6.75	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	30	7.6		wild type enzyme, in sodium phosphate buffer (100 mM, pH 7.6), at 30C
+6.8	N-acetylneuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.2	X	pH 7.2, 25C, L142R/Y190D/E192A mutant
+7.4	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	30	7.6	X	mutant enzyme I229N, in sodium phosphate buffer (100 mM, pH 7.6), at 30C
+7.7	N-acetylneuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.2		pH 7.2, 25C, wild-type
+7.72	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	30	7.6	X	mutant enzyme I229R, in sodium phosphate buffer (100 mM, pH 7.6), at 30C
+7.94	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	30	7.6	X	mutant enzyme L199N, in sodium phosphate buffer (100 mM, pH 7.6), at 30C
+8.9	D-3-deoxy-manno-2-octulosonic acid	3698	KYQCXUMVJGMDNG-PQUNXDPGSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme E60A/Y98H/F115L/N153Y/D150G/V251I/V265I/Y281C/N153Y
+8.9	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	30	7.6	X	mutant enzyme L199N/I229R, in sodium phosphate buffer (100 mM, pH 7.6), at 30C
+9	N-acetyl-D-mannosamine	814	OVRNDRQMDRJTHS-ZTVVOAFPSA-N				
+9.7	N-acetyl-D-neuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme Y98H/F115L/V251I
+10	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N				
+10.3	N-acetyl-D-neuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.5		pH 7.5, 25C, Y98H/F115L
+10.4	L-3-deoxy-manno-2-octulosonic acid	3699	KYQCXUMVJGMDNG-GOPQWHALSA-N	25	7.5	X	pH 7.5, 25C, mutant enzyme E60A/Y98H/F115L/N153Y/D150G/V251I/V265I/Y281C/N153Y
+10.5	N-acetyl-D-neuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+10.83	(2R,3R,4R)-6-[(aminooxy)carbonyl]-3,4,6-trihydroxy-N-propyltetrahydro-2H-pyran-2-carboxamide	7806	LHZIYNWEDDRYGH-CYBMPWMKSA-N			X	mutant enzyme E192N
+11	N-acetyl-D-mannosamine	814	OVRNDRQMDRJTHS-ZTVVOAFPSA-N				
+11.87	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	30	7.6	X	mutant enzyme L199R/I229N, in sodium phosphate buffer (100 mM, pH 7.6), at 30C
+12.1	N-acetylneuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N	25	7.2	X	pH 7.2, 25C, L142R mutant
+16	N-acetylneuraminate	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N				
+16.7	N-acetylneuraminic acid	588	SQVRNKJHWKZAKO-PFQGKNLYSA-N				

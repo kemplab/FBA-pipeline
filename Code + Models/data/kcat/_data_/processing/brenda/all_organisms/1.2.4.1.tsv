@@ -1,0 +1,67 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.05	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	6.7		pH 6.7, 30C
+0.077	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.6		pH 7.6, 30C, presence of 0.3 M KCl
+0.081	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	mutant enzyme H407A, with 2,6-dichlorophenolindophenol, at 30C
+0.128	2-oxovalerate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	6.7		pH 6.7, 30C
+0.17	2-oxobutanoate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	6.7		pH 6.7, 30C
+0.21	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	mutant enzyme K403E, with 2,6-dichlorophenolindophenol, at 30C
+0.3	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0	X	mutant F266A, pH 7.0, 25C
+0.35	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	25	7.0	X	mutant F266A, pH 7.0, 25C
+0.38	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	283	7.0	X	mutant S283C, pH 7.0, 25C
+0.39	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	mutant enzyme E401K, with 2,6-dichlorophenolindophenol, at 30C
+0.4	2-keto-4-methylhexanoate	6617	BJWNVXXCJVKCNL-UHFFFAOYSA-N	30	6.5		wild-type, 30C, pH 6.5
+0.45	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	283	7.0	X	mutant S283C, pH 7.0, 25C
+0.46	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	25	7.0		wild-type enzyme, pH 7.0, 25C
+0.48	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0		wild-type enzyme, pH 7.0, 25C
+0.48	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0		wild-type, pH 7.0, 30C
+0.55	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0	X	mutant R282A, pH 7.0, 25C
+0.62	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	25	7.0	X	mutant R282A, pH 7.0, 25C
+0.71	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0	X	mutant D276A, pH 7.0, 25C
+0.8	2-ketohexanoate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	6.5	X	mutant I476F, 30C, pH 6.5
+0.82	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0	X	mutant Y281A, pH 7.0, 25C
+0.91	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	25	7.0	X	mutant D276A, pH 7.0, 25C
+0.96	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0	X	mutant Y281A/R282A, pH 7.0, 25C
+0.97	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	25	7.0	X	mutant Y281A, pH 7.0, 25C
+0.98	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	25	7.0	X	mutant Y281A/R282A, pH 7.0, 25C
+1.2	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.5	X	mutant I472A/I476F, 30C, pH 6.5
+1.21	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0	X	mutant Y281S/R282S, pH 7.0, 25C
+1.23	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0	X	mutant Y281A/R282A/S283A, pH 7.0, 25C
+1.25	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	25	7.0	X	mutant R267A, pH 7.0, 25C
+1.3	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	25	7.0	X	mutant Y281S/R282S, pH 7.0, 25C
+1.39	thiamine diphosphate	85	AYEKOFBPNLCAJY-UHFFFAOYSA-O	25	7.0	X	mutant Y281A/R282A/S283A, pH 7.0, 25C
+1.53	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	mutant enzyme K410E, with 2,6-dichlorophenolindophenol, at 30C
+1.62	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	25	7.0	X	mutant R267A, pH 7.0, 25C
+3.07	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	mutant enzyme N404A, with 2,6-dichlorophenolindophenol, at 30C
+3.64	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	mutant enzyme E401A, with 2,6-dichlorophenolindophenol, at 30C
+3.8	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	7.0	X	mutant H271A, pH 7.0, 30C
+4	2-ketohexanoate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	6.5		wild-type, 30C, pH 6.5
+4.41	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	mutant enzyme K403A, with 2,6-dichlorophenolindophenol, at 30C
+5	N-acetyl-GDLLAEIETDK(lipoylated)ATIG-amide	32005	KQWXXNBRYVAHDC-JRXKMHGMSA-N				
+6.9	benzoylformate	505	FAQJJMHZNSSFSM-UHFFFAOYSA-N	30	6.5	X	mutant I472A, 30C, pH 6.5
+7.68	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	mutant enzyme K410A, with 2,6-dichlorophenolindophenol, at 30C
+7.7	2-keto-4-methylhexanoate	6617	BJWNVXXCJVKCNL-UHFFFAOYSA-N	30	6.5	X	mutant I472A, 30C, pH 6.5
+8	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	6.5	X	mutant I472A/I476F, 30C, pH 6.5
+8.1	2-keto-4-methylhexanoate	6617	BJWNVXXCJVKCNL-UHFFFAOYSA-N	30	6.5	X	mutant I472A/I476F, 30C, pH 6.5
+9	2-ketobutanoate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	6.5	X	mutant I472A/I476F, 30C, pH 6.5
+11	2-ketopentanoate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	6.5	X	mutant I476F, 30C, pH 6.5
+19.03	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	mutant enzyme Q408A, with 2,6-dichlorophenolindophenol, at 30C
+25.12	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	mutant enzyme K411E, with 2,6-dichlorophenolindophenol, at 30C
+26	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.0	X	pH 7.0, 37C, mutant S271E of isoform PDH2
+29.2	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.0	X	pH 7.0, 37C, mutant S203A of isoform PDH2
+30	2-ketopentanoate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	6.5	X	mutant I472A/I476F, 30C, pH 6.5
+32	2-ketobutanoate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	6.5	X	mutant I476F, 30C, pH 6.5
+32.6	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.0	X	pH 7.0, 37C, mutant S271A of isoform PDH2
+35.13	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30		X	mutant enzyme K411A, with 2,6-dichlorophenolindophenol, at 30C
+37.9	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30			wild type enzyme, with 2,6-dichlorophenolindophenol, at 30C
+38.1	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.0	X	pH 7.0, 37C, mutant S203E of isoform PDH2
+53	2-ketopentanoate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	6.5		wild-type, 30C, pH 6.5
+66.1	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C, isoform PDH2
+69.9	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C, isoform PDH1
+77	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	6.5	X	mutant I476F, 30C, pH 6.5
+82	2-ketohexanoate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	6.5	X	mutant I472A/I476F, 30C, pH 6.5
+130	2-ketohexanoate	836	XNIHZNNZJHYHLC-UHFFFAOYSA-M	30	6.5	X	mutant I472A, 30C, pH 6.5
+200	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	6.5	X	mutant I472A, 30C, pH 6.5
+220	2-ketopentanoate	748	KDVFRMMRZOCFLS-UHFFFAOYSA-M	30	6.5	X	mutant I472A, 30C, pH 6.5
+250	2-ketobutanoate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	6.5	X	mutant I472A, 30C, pH 6.5
+320	2-ketobutanoate	313	TYEYBOSBBBHJIV-UHFFFAOYSA-N	30	6.5		wild-type, 30C, pH 6.5
+486	pyruvate	29	LCTONWCANYUPML-UHFFFAOYSA-N	30	6.5		wild-type, 30C, pH 6.5

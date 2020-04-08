@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.004	progesterone	249	RJKFOVLPORLFTN-LEKSSAKUSA-N	37	7.4		wild type enzyme, at pH 7.4 and 37C
+0.039	progesterone	249	RJKFOVLPORLFTN-LEKSSAKUSA-N	37	7.4	X	mutant enzyme, at pH 7.4 and 37C
+0.061	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	37	7.4		wild type enzyme, at pH 7.4 and 37C
+0.115	5alpha-dihydrotestosterone	594	NVKAWKQGWWIWPM-ABEVXSGRSA-N	37	7.4	X	mutant enzyme, at pH 7.4 and 37C

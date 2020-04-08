@@ -1,0 +1,28 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.01	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	25	6.0	X	mutant D50N, pH 6.0, 25C
+0.02	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	25	6.0	X	mutant D50E, pH 6.0, 25C
+0.04	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	25	6.0	X	mutant H117A, pH 6.0, 25C
+0.068	2,3-dimethoxy-5-methyl-1,4-benzoquinone	1753	UIXPTCZPFCVOQF-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+0.19	5-hydroxy-1,4-naphthoquinone	1018	KQPYUDDGWXQXHS-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+0.195	1,4-Naphthoquinone	823	FRASJONUBLZVQX-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+0.207	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+0.21	1,2-naphthoquinone	1415	KETQAJRQOHHATG-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+0.212	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+0.305	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	25	7.4		pH 7.4, 25C
+1.45	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	25	6.0	X	mutant Y55F, pH 6.0, 25C; mutant Y55S, pH 6.0, 25C
+2.67	duroquinone	946	WAMKWBHYPYBEJY-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+2.85	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N	25	6.0		wild-type, pH 6.0, 25C
+3.04	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	25	7.5		pH 7.5, 25C
+4.2	1,2-naphthoquinone	1415	KETQAJRQOHHATG-UHFFFAOYSA-N		7.0		pH 7.0, temperature not specified in the publication
+4.2	9,10-phenanthrenequinone	458	YYVYAPXYZVYDHN-UHFFFAOYSA-N		7.0		pH 7.0, temperature not specified in the publication
+5	coenzyme Q10	126764	ACTIUHUUMQJHFO-UPTCCGCDSA-N	25	8.0		pH 8.0, 25C, recombinant His-tagged enzyme
+9.4	anthraquinone-2-sulfonate	4389	MMNWSHJJPDXKCH-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, recombinant His-tagged enzyme
+11	2-Hydroxy-1,4-naphthoquinone	1855	CSFWPUWCSPOLJW-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, recombinant His-tagged enzyme
+25	duroquinone	946	WAMKWBHYPYBEJY-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, recombinant His-tagged enzyme
+26	menadione	212	MJVAVZPDRWSRRC-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, recombinant His-tagged enzyme
+35	dibromothymoquinone	2622	GHHZELQYJPWSMG-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, recombinant His-tagged enzyme
+36.7	2,5-dimethyl-4-benzoquinone	11761	MYKLQMNSFPAPLZ-UHFFFAOYSA-N	25	8.0		pH 8.0, 25C, recombinant His-tagged enzyme
+360	phenyl-1,4-benzoquinone	15121	RLQZIECDMISZHS-UHFFFAOYSA-N	25	6.5		25C, pH 6.5
+520	2,3-dichloro-5,6-dicyano-1,4-benzoquinone	13980	HZNVUJQVZSTENZ-UHFFFAOYSA-N	25	6.5		25C, pH 6.5
+1600	hydroquinone	370	QIGBRXMKCJKVMJ-UHFFFAOYSA-N	25	6.5		25C, pH 6.5
+15833	1,4-benzoquinone	270	AZQWKYJCGOJGHM-UHFFFAOYSA-N	25	6.5		25C, pH 6.5

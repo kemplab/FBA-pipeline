@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+3.2	Zn2+	19	PTFCDOFLOPIGGS-UHFFFAOYSA-N				no added cholate, for the human ferrochelatase (R115L)-catalyzed insertion of zinc into deuteroporphyrin
+3.5	Zn2+	19	PTFCDOFLOPIGGS-UHFFFAOYSA-N				0.5% cholate, for the human ferrochelatase (R115L)-catalyzed insertion of zinc into deuteroporphyrin
+0.018	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N				wild-type
+0.053	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N			X	mutant F110A; mutant R115L
+0.1	Fe2+	23	CWYNVVGOOAEACU-UHFFFAOYSA-N				
+0.01167	porphyrin	3838	RKCAIXNGYQCCAL-CEVVSZFKSA-N			X	mutant E343D
+0.0135	porphyrin	3838	RKCAIXNGYQCCAL-CEVVSZFKSA-N			X	mutant F337A
+0.016	porphyrin	3838	RKCAIXNGYQCCAL-CEVVSZFKSA-N			X	mutant N75A
+0.0573	porphyrin	3838	RKCAIXNGYQCCAL-CEVVSZFKSA-N				wild-type

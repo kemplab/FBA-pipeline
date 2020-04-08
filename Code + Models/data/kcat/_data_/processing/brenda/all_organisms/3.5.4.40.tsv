@@ -1,0 +1,14 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.106	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	30	7.5	X	mutant enzyme R87A, at pH 7.5 and at 30C
+0.41	adenosine	116	OIRDTQYFTABQOQ-KQYNXXCUSA-N	30	7.5	X	mutant enzyme R87M, at pH 7.5 and at 30C
+0.72	2'-deoxyadenosine	304	OLXZPDWKRNYJJZ-RRKCRQDMSA-N	30	7.5		wild type enzyme, at pH 7.5 and at 30C
+0.31	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	30	7.5		wild type enzyme, at pH 7.5 and at 30C
+0.4	5'-methylthioadenosine	335	WUUGFSXJNOTRMR-IOSLPCCCSA-N	30	7.5		wild type enzyme, at pH 7.5 and at 30C
+0.017	5'-deoxyadenosine	734	XGYIMTFOTBMPFP-KQYNXXCUSA-N	30	7.5		wild type enzyme, at pH 7.5 and at 30C
+0.094	6-amino-6-deoxyfutalosine	109207	JSTYUEOJPRFLHR-SCFUHWHPSA-N	30	7.5	X	mutant enzyme R87A, at pH 7.5 and at 30C
+0.42	6-amino-6-deoxyfutalosine	109207	JSTYUEOJPRFLHR-SCFUHWHPSA-N	30	7.5	X	mutant enzyme R87M, at pH 7.5 and at 30C
+1.2	6-amino-6-deoxyfutalosine	109207	JSTYUEOJPRFLHR-SCFUHWHPSA-N	30	7.5		wild type enzyme, at pH 7.5 and at 30C
+3.8	6-amino-6-deoxyfutalosine	109207	JSTYUEOJPRFLHR-SCFUHWHPSA-N	30	7.5		wild type enzyme, at pH 7.5 and at 30C
+6.8	6-amino-6-deoxyfutalosine	109207	JSTYUEOJPRFLHR-SCFUHWHPSA-N	30	7.5		wild type enzyme, at pH 7.5 and at 30C
+8.6	6-amino-6-deoxyfutalosine	109207	JSTYUEOJPRFLHR-SCFUHWHPSA-N	30	7.5		wild type enzyme, at pH 7.5 and at 30C
+0.007	1-(6-amino-9H-purin-9-yl)-1-deoxy-N-ethyl-beta-D-ribofuranuronamide	124571	JADDQZYHOWSFJD-FLNNQWSLSA-N	30	7.5		wild type enzyme, at pH 7.5 and at 30C

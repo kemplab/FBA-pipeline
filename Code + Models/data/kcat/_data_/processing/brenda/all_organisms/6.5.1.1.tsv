@@ -1,0 +1,21 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0026	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30			30C
+0.012	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	30			30C, in the presence of 0.0000125 mM replication protein A
+0.04	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	21	7.5		in 50 mM Tris pH 7.5, 100 mM NaCl, 10 mM dithiothreitol, at 21C
+0.74	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				at 30 mM Mg2+, pH and temperature not specified in the publication
+0.0316	isopentenyl diphosphate	107	NUHSROFQTUXZQQ-UHFFFAOYSA-N				
+0.0492	dimethylallyl diphosphate	146	CBIDRCWHNCKSTO-UHFFFAOYSA-N				
+0.0028	farnesyl diphosphate	76	VWFJDQUYCIWHTN-YFVJMOTDSA-N				
+0.0008	geranyl diphosphate	159	GVVPGTZRZFNKDS-JXMROGBWSA-N				
+0.0062	tripolyphosphate	596	UNXRWKVEANCORM-UHFFFAOYSA-N	30	7.2		in 50 mM HEPES/KOH (pH 7.2), 1 mM dithiothreitol, 5 mM MgCl2, at 30C
+0.025	(deoxyribonucleotide)n	1393	IKXBQEJXQABFQB-HMPREMHUSA-N			X	mutant enzyme E143L
+0.048	(deoxyribonucleotide)n	1393	IKXBQEJXQABFQB-HMPREMHUSA-N			X	mutant enzyme T491S
+0.05	(deoxyribonucleotide)n	1393	IKXBQEJXQABFQB-HMPREMHUSA-N			X	mutant enzyme D162E
+0.051	(deoxyribonucleotide)n	1393	IKXBQEJXQABFQB-HMPREMHUSA-N			X	mutant enzyme A576P; mutant enzyme N255G
+0.056	(deoxyribonucleotide)n	1393	IKXBQEJXQABFQB-HMPREMHUSA-N				wild type enzyme
+0.0041	clodronate	2902	ACSIXWWBWUQEHA-UHFFFAOYSA-N	30	7.2		in 50 mM HEPES/KOH (pH 7.2), 1 mM dithiothreitol, 5 mM MgCl2, at 30C
+0.07	etidronate	3666	DBVJJBKOTRCVKF-UHFFFAOYSA-N	30	7.2		in 50 mM HEPES/KOH (pH 7.2), 1 mM dithiothreitol, 5 mM MgCl2, at 30C
+0.0006	methylenebisphosphonate	6198	MBKDYNNUVRNNRF-UHFFFAOYSA-N	30	7.2		in 50 mM HEPES/KOH (pH 7.2), 1 mM dithiothreitol, 5 mM MgCl2, at 30C
+0.0349	farnesyl triphosphate	5541	QIOOKVHMPPJVHS-UHFFFAOYSA-N				
+0.0729	isopentenyl triphosphate	5975	PPHMOEFIXVDZJT-UHFFFAOYSA-N				
+0.0319	geranyl triphosphate	5976	KXWMBFDSASOMND-JXMROGBWSA-N				

@@ -1,0 +1,7 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+96	ADP	8	XTWYTFMLZFPYCI-KQYNXXCUSA-N	37	7.0		ADP/phosphate-exchange, pH 7.0, 37C
+0.48	P1,P4-bis(5'-adenosyl) tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N	37	7.6	X	mutant S147A, pH 7.6, 37C
+1.38	P1,P4-bis(5'-adenosyl) tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N	37	7.6	X	mutant G146Q, pH 7.6, 37C
+1.49	P1,P4-bis(5'-adenosyl) tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N	37	7.6	X	mutant S147T, pH 7.6, 37C
+1.99	P1,P4-bis(5'-adenosyl) tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N	37	7.6	X	mutant G146S, pH 7.6, 37C
+8.48	P1,P4-bis(5'-adenosyl) tetraphosphate	1070	YOAHKNVSNCMZGQ-XPWFQUROSA-N	37	7.6		wild-type, pH 7.6, 37C

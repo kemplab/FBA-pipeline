@@ -1,0 +1,93 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.033	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	8.2		pH 8.2, 37C, recombinant enzyme
+3.4	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	mutant T10M, pH 7.5, 37C
+5.6	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		wild-type, pH 7.5, 37C
+0.7	CoA	10	RGJOEKWQDUBAIZ-IBOSZNHHSA-N	25	7.8		methionylation reaction, cytoplasmic isozyme, pH 7.8, 25C
+1.6	CoA	10	RGJOEKWQDUBAIZ-IBOSZNHHSA-N	25	7.8		methionylation reaction, mitochondrial isozyme, pH 7.8, 25C
+0.41	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	37	8.2		pH 8.2, 37C, recombinant enzyme
+1	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N			X	mutant G54A/A64P, ATP:diphosphate exchange reaction
+3.4	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	37	7.5	X	mutant T10M, pH 7.5, 37C
+4	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N			X	mutant G54S, first step of reaction, methionyl-adenylate formation
+5	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N			X	mutant G54S, ATP:diphosphate exchange reaction
+5.6	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	37	7.5		wild-type, pH 7.5, 37C
+6	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N			X	mutant I57N/G54S, ATP:diphosphate exchange reaction
+6	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N			X	mutant I57N/H101N, first step of reaction, methionyl-adenylate formation
+8	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	213		X	mutant H101N/G213C, first step of reaction, methionyl-adenylate formation
+10	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N	223		X	mutant G223C, ATP:diphosphate exchange reaction; mutant L213W, ATP:diphosphate exchange reaction
+11	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N			X	mutant A247E, ATP:diphosphate exchange reaction; mutant I57N/A247E, ATP:diphosphate exchange reaction
+13	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N			X	mutant I57N/I238F, ATP:diphosphate exchange reaction
+13.3	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N		7.6		ATP-diphosphate exchange reaction, pH 7.6
+14	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N			X	mutant I57N, ATP:diphosphate exchange reaction; mutant I57N/V242F, ATP:diphosphate exchange reaction
+15	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N			X	mutant V108M, ATP:diphosphate exchange reaction
+15	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N			X	mutant G54S/L203S, first step of reaction, methionyl-adenylate formation; mutant H101D, first step of reaction, methionyl-adenylate formation; mutant I57N, first step of reaction, methionyl-adenylate formation
+23	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N				wild-type, first step of reaction, methionyl-adenylate formation
+25	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N				wild-type, ATP:diphosphate exchange reaction
+25	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N			X	mutant V216A, first step of reaction, methionyl-adenylate formation; mutant V216F/L203S, first step of reaction, methionyl-adenylate formation
+33	L-methionine	83	FFEARJCKVFRZRR-BYPYZUCNSA-N			X	mutant D229E, first step of reaction, methionyl-adenylate formation
+0.5	L-homocysteine	260	FFFHZYDWPBMWHY-VKHMYHEASA-N	25	7.8		editing reaction, mitochondrial isozyme, pH 7.8, 25C
+0.69	L-homocysteine	260	FFFHZYDWPBMWHY-VKHMYHEASA-N	25	7.8		editing reaction, cytoplasmic isozyme, pH 7.8, 25C
+6.08	L-homocysteine	260	FFFHZYDWPBMWHY-VKHMYHEASA-N	25	7.8		editing reaction, cytoplasmic isozyme, pH 7.8, 25C
+2.94	L-Met	83	FFEARJCKVFRZRR-BYPYZUCNSA-N				ATP-diphosphate exchange, enzyme form A
+3.13	L-Met	83	FFEARJCKVFRZRR-BYPYZUCNSA-N				ATP-diphosphate exchange, enzyme form B
+0.001	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant G54A/A64P, aminoacylation reaction
+0.002	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant I57N/G54S, aminoacylation reaction
+0.006	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant V216F/L203S, second step of reaction, tRNA aminoacylation
+0.008	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant I57N/A247E, aminoacylation reaction
+0.009	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant G54S, aminoacylation reaction
+0.01	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant G54S, second step of reaction, tRNA aminoacylation
+0.011	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant G54S/L203S, second step of reaction, tRNA aminoacylation
+0.013	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant I57N/H101N, second step of reaction, tRNA aminoacylation
+0.017	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant I57N, second step of reaction, tRNA aminoacylation
+0.019	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	8.2		pH 8.2, 37C, mitochondrial tRNAMet from Bos taurus, recombinant enzyme
+0.021	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	8.2		pH 8.2, 37C, human mitochondrial wild-type tRNAMet, recombinant enzyme
+0.023	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant I57N, aminoacylation reaction
+0.023	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant D229E, second step of reaction, tRNA aminoacylation
+0.037	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	223		X	mutant G223C, aminoacylation reaction
+0.037	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5	X	pH 7.5, 25C, mutant D369A
+0.042	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5	X	pH 7.5, 25C, mutant KA295V
+0.05	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5	X	pH 7.5, 25C, mutant D369K/K295D
+0.055	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant V216A, second step of reaction, tRNA aminoacylation
+0.057	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant A247E, aminoacylation reaction
+0.066	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant I57N/I238F, aminoacylation reaction
+0.08	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				wild-type, second step of reaction, tRNA aminoacylation
+0.09	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5		C-terminal extension, pH 7.5, 25C
+0.11	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5	X	pH 7.5, 25C, mutant D369N
+0.124	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant I57N/V242F, aminoacylation reaction
+0.15	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5		wild-type enzyme, pH 7.5, 25C
+0.2	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.8		recombinant mitochondrial isozyme as GST-fusion protein, pH 7.8, 25C
+0.22	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5	X	mutant K863A, pH 7.5, 25C
+0.23	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5	X	mutant K866A, pH 7.5, 25C
+0.29	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5		in vitro synthesized tRNAMet from Saccharomyces cerevisiae, pH 7.5, 25C, wild-type enzyme
+0.3	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5	X	pH 7.5, 25C, mutant K295V
+0.36	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5	X	in vitro synthesized tRNAMet from Saccharomyces cerevisiae, pH 7.5, 25C, truncated mutant
+0.46	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5		wild-type enzyme in the multi-enzyme complex, pH 7.5, 25C
+0.47	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5	X	mutant R857A, pH 7.5, 25C
+0.49	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				wild-type, aminoacylation reaction
+0.54	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant L213W, aminoacylation reaction
+0.74	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	mutant V108M, aminoacylation reaction
+0.85	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5	X	mutant K860A, pH 7.5, 25C
+1	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.8		recombinant cytoplasmic isozyme as GST-fusion protein, pH 7.8, 25C
+1	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5		pH 7.5, 25C, wild-type enzyme
+1.03	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5	X	mutant K880A, pH 7.5, 25C
+1.3	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.8		recombinant cytoplasmic isozyme, pH 7.8, 25C
+2	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	ATP-diphosphate exchange reaction, mutant M665
+2.4	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5		catalytic domain, pH 7.5, 25C
+2.8	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				aminoacylation reaction, wild-type
+2.83	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37			substrate from Escherichia coli, 37C
+3	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37			substrate from Escherichia coli, 37C
+3.1	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	aminoacylation reaction, mutant D666A
+3.3	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				wild-type enzyme
+3.6	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	aminoacylation reaction, C-terminally truncated mutant
+4.4	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	aminoacylation reaction, mutant M665
+6.08	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5	X	mutant K880A, pH 7.5, 25C
+6.85	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37			recombinant C-terminally truncated enzyme, 37C
+11	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	37	8.2		pH 8.2, 37C, initiator tRNA from Escherichia coli, recombinant enzyme
+23	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	ATP-diphosphate exchange reaction, mutant D666A
+42	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N				ATP-diphosphate exchange reaction, wild-type
+47	tRNAMet	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N			X	ATP-diphosphate exchange reaction, C-terminally truncated mutant
+2.15	L-norleucine	647	LRQKBLKVPFOOQJ-YFKPBYRVSA-N		7.6		ATP-diphosphate exchange reaction, pH 7.6
+1.82	L-trans-alpha-crotylglycine	7611	OPOBBDXDRHKTJF-HRJJCQLASA-N		7.6		ATP-diphosphate exchange reaction, pH 7.6
+2.94	L-trans-alpha-crotylglycine	7611	OPOBBDXDRHKTJF-HRJJCQLASA-N		7.6		ATP-diphosphate exchange reaction, pH 7.6
+1.35	(S)-2-aminohex-5-enoic acid	11192	NPSWHDAHNWWMEG-YFKPBYRVSA-N		7.6		ATP-diphosphate exchange reaction, pH 7.6
+2.6	(S)-2-aminohex-5-ynoic acid	11458	SCGJGNWMYSYORS-YFKPBYRVSA-N		7.6		ATP-diphosphate exchange reaction, pH 7.6
+3	Met-tRNAMet	6392	SWSBBAUIIWYODW-PMXSHBKZSA-N				

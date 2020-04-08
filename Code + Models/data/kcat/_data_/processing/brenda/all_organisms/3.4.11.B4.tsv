@@ -1,0 +1,10 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.022	N-acetyl-L-alanyl 4-nitroanilide	11489	ABYZSYDGJGVCHS-ZETCQYMHSA-N	85	7.5		pH 7.5, 85C
+0.091	Ala-Ala-Ala	1251	BYXHQQCXAJARLQ-ZLUOBGJFSA-N	85	7.5	X	pH 7.5, 85C, mutant enzyme D173N, medium containing 8 mM Co2+
+0.093	Ala-Ala-Ala	1251	BYXHQQCXAJARLQ-ZLUOBGJFSA-N	85	7.5	X	pH 7.5, 85C, mutant enzyme E205Q, medium containing 8 mM Co2+
+0.116	N-acetyl-L-leucyl 4-nitroanilide	2182	SLJKQHDBYBGOMH-ZDUSSCGKSA-N	85	7.5		pH 7.5, 85C
+0.18	Ala-Ala	888	DEFJQIDDEAULHB-IMJSIDKUSA-N	85	7.5		pH 7.5, 85C
+0.226	Ala-Ala-Ala	1251	BYXHQQCXAJARLQ-ZLUOBGJFSA-N	85	7.5	X	pH 7.5, 85C, mutant enzyme E206Q, medium containing 8 mM Co2+
+2.08	Ala-Ala-Ala	1251	BYXHQQCXAJARLQ-ZLUOBGJFSA-N	85	7.5		pH 7.5, 85C, wild-type enzyme, medium without Co2+
+8.71	Ala-Ala-Ala	1251	BYXHQQCXAJARLQ-ZLUOBGJFSA-N	85	7.5		pH 7.5, 85C
+9.01	Ala-Ala-Ala	1251	BYXHQQCXAJARLQ-ZLUOBGJFSA-N	85	7.5		pH 7.5, 85C, wild-type enzyme, medium containing 2 mM Co2+

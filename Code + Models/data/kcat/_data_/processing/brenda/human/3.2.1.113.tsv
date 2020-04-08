@@ -1,0 +1,16 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.000026	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	3034	XKWOYMOGTLQCQM-ODUOZAIISA-N	37	6.7	X	37C, pH 6.7, pyridylamine-tagged Man9GlcNAc2, mutant enzyme E599Q
+0.000027	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	3034	XKWOYMOGTLQCQM-ODUOZAIISA-N	37	6.6	X	37C, pH 6.6, pyridylamine-tagged Man9GlcNAc2, mutant enzyme D463N/E599Q
+0.00028	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	3034	XKWOYMOGTLQCQM-ODUOZAIISA-N	37	6.6	X	37C, pH 6.6, pyridylamine-tagged Man9GlcNAc2, mutant enzyme E330Q/E599Q
+0.0046	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	3034	XKWOYMOGTLQCQM-ODUOZAIISA-N	37	6.8	X	37C, pH 6.8, pyridylamine-tagged Man9GlcNAc2, mutant enzyme D463N
+0.018	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	3034	XKWOYMOGTLQCQM-ODUOZAIISA-N	37	7.1	X	37C, pH 7.1, pyridylamine-tagged Man9GlcNAc2, mutant enzyme E330Q
+0.03	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	3447	YCSLVHWAMHEXLV-IPSCQJQJSA-N	37	6.8	X	37C, pH 6.8, mutant enzyme F659A
+0.06	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	3447	YCSLVHWAMHEXLV-IPSCQJQJSA-N	37	6.5	X	37C, pH 6.5, mutant enzyme T688A
+0.07	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	3447	YCSLVHWAMHEXLV-IPSCQJQJSA-N	37	6.5	X	37C, pH 6.5, mutant enzyme R461L
+0.084	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	3447	YCSLVHWAMHEXLV-IPSCQJQJSA-N	37	5.3	X	37C, pH 5.3, mutant enzyme E330Q
+0.084	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	3034	XKWOYMOGTLQCQM-ODUOZAIISA-N	37	5.3	X	37C, pH 5.3, pyridylamine-tagged Man9GlcNAc2, mutant enzyme E330Q
+0.11	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	3447	YCSLVHWAMHEXLV-IPSCQJQJSA-N	37	6.5	X	37C, pH 6.5, mutant enzyme R597A
+0.6	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	3447	YCSLVHWAMHEXLV-IPSCQJQJSA-N	37	6.5	X	37C, pH 6.5, mutant enzyme R461A
+0.86	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	3034	XKWOYMOGTLQCQM-ODUOZAIISA-N	37	6.9	X	37C, pH 6.9, pyridylamine-tagged Man9GlcNAc2, mutant enzyme H524A
+3.7	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	3447	YCSLVHWAMHEXLV-IPSCQJQJSA-N	37	7.0		37C, pH 7.0, wild-type enzyme
+3.7	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	3034	XKWOYMOGTLQCQM-ODUOZAIISA-N	37	7.1		37C, pH 7.1, pyridylamine-tagged Man9GlcNAc2, wild-type enzyme

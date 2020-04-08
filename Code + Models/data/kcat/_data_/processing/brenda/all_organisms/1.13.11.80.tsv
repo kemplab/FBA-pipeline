@@ -1,0 +1,15 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.017	phenylacetyl-CoA	870	ZIGIFDRJFZYEEQ-CECATXLMSA-N	24	7.5		pH 7.5, 24C
+0.019	(3,5-dihydroxyphenyl)acetyl-CoA	27376	MAFTTXQJASXWBB-CECATXLMSA-N	24	7.4		pH 7.4, 24C
+0.037	(3,5-dihydroxyphenyl)acetyl-CoA	27376	MAFTTXQJASXWBB-CECATXLMSA-N	24	7.4		pH 7.4, 24C
+0.05	(3,5-dihydroxyphenyl)acetyl-CoA	27376	MAFTTXQJASXWBB-CECATXLMSA-N	24	7.4		pH 7.4, 24C
+0.064	phenylacetyl-CoA	870	ZIGIFDRJFZYEEQ-CECATXLMSA-N	24	7.5		pH 7.5, 24C, wild-type enzyme
+0.069	(3,5-dihydroxyphenyl)acetyl-CoA	27376	MAFTTXQJASXWBB-CECATXLMSA-N	24	7.5	X	pH 7.5, 24C, mutant enzyme Q299N
+0.085	(3,5-dihydroxyphenyl)acetyl-CoA	27376	MAFTTXQJASXWBB-CECATXLMSA-N	24	7.5	X	pH 7.5, 24C, mutant enzyme E189Q
+0.086	(3,5-dihydroxyphenyl)acetyl-CoA	27376	MAFTTXQJASXWBB-CECATXLMSA-N	24	7.5	X	pH 7.5, 24C, mutant enzyme R254K
+0.125	(5-hydroxyphenyl)acetyl-CoA	128541	DSWNOSILMJEEML-CECATXLMSA-N	24	7.5		pH 7.5, 24C, wild-type enzyme
+0.153	(3,5-dihydroxyphenyl)acetyl-CoA	27376	MAFTTXQJASXWBB-CECATXLMSA-N	24	7.5	X	pH 7.5, 24C, mutant enzyme E255Q
+0.17	(3,5-dihydroxyphenyl)acetyl-CoA	27376	MAFTTXQJASXWBB-CECATXLMSA-N	24	7.5		pH 7.5, 24C
+0.172	(3,5-dihydroxyphenyl)acetyl-CoA	27376	MAFTTXQJASXWBB-CECATXLMSA-N	24	7.5		pH 7.5, 24C, wild-type enzyme
+0.172	(3,5-dihydroxyphenyl)acetyl-CoA	27376	MAFTTXQJASXWBB-CECATXLMSA-N	24	7.4		pH 7.4, 24C
+0.222	(3-hydroxyphenyl)acetyl-CoA	115399	WOPRCGRQVLJGCX-CECATXLMSA-N	24	7.5		pH 7.5, 24C, wild-type enzyme

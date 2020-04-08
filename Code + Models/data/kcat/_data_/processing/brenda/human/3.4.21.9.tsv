@@ -1,0 +1,32 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.07	LTAEEKA	15889	YTIFKBZLFCJEJI-SBEVPXOGSA-N	37	8.0		pH 8.0, 37C
+0.97	G5DKF(NO2)G	9265	GSRLSIVYSHNYJJ-ACRUOGEOSA-N	37	8.0		50 mM Ca2+, pH 8.0, 37C
+0.97	glycyl-tetra-L-aspartyl-L-lysine beta-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	37	8.0		50 mM Ca2+, pH 8.0, 37C
+0.99	GD4KF(NO2)G	7852	OJQNSDRUXLBVLE-LLINQDLYSA-N	37	8.0		50 mM Ca2+, pH 8.0, 37C
+2.8	Trypsinogen	1596	NDIORHLFYZGYPG-FNRPHRCSSA-N				human trypsinogen
+16.67	glycyl-tetra-L-aspartyl-L-lysine beta-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	37	8.0		50 mM Ca2+, pH 8.0, 37C
+17.33	G5DKF(NO2)G	9265	GSRLSIVYSHNYJJ-ACRUOGEOSA-N	37	8.0		50 mM Ca2+, pH 8.0, 37C
+17.83	GD4KF(NO2)G	7852	OJQNSDRUXLBVLE-LLINQDLYSA-N	37	8.0		50 mM Ca2+, pH 8.0, 37C
+18.2	formyl-Ala-Phe-Lys-4-nitroanilide	45849	OIMAJDGOIPOWLO-HSQYWUDLSA-N	25	8.4		pH 8.4, 25C
+21.5	glycyl-tetra-L-aspartyl-L-lysine beta-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	37	8.0		pH 8.0, 37C
+23.5	formyl-Ala-Phe-Arg-4-nitroanilide	45847	VESIKPMQXWCLJV-NDXORKPFSA-N	25	8.4		pH 8.4, 25C
+24.9	GD4K 2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	35	8.4		pH 8.4, 35C
+42	GD4R-4-nitroanilide	125407	YMOYLEFVESXCGX-HVTWWXFQSA-N	22	8.0	X	mutant enzyme R96Q, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22C
+45	GD4R-4-nitroanilide	125407	YMOYLEFVESXCGX-HVTWWXFQSA-N	22	8.0		wild type enzyme, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22C
+49	GD4R-4-nitroanilide	125407	YMOYLEFVESXCGX-HVTWWXFQSA-N	22	8.0	X	mutant enzyme Y174R, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22C
+64.8	GD4K 7-amido-4-methylcoumarin	114631	FWSQABSYRSHHID-YFNVTMOMSA-N	35	8.4		pH 8.4, 35C
+92	GDDDDK-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	37	8.4		soluble enzyme, in 25 mM Tris-HCl (pH 8.4), at 37C
+98	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	37			value obtained by fluorescence spectroscopy, pH not specified in the publication, at 37C
+111	N-alpha-benzyloxycarbonyl-L-lysine thiobenzyl ester	13020	FIWAQJRIROPAEC-UHFFFAOYSA-N	37	8.0		37C, pH 8.0
+115	GDDDDK-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	37	8.4		phage-bound enteropeptidase catalytic subunit, in 25 mM Tris-HCl (pH 8.4), at 37C
+115	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	37	8.4		pH 8.4, 37C
+118	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	37	8.4		pH 8.4, 37C
+121	Gly-Asp-Asp-Asp-Asp-Lys-2-naphthylamide	2002	QLLWULMEPVZWTP-LSBAASHUSA-N	37			value obtained by impedance spectroscopy, pH not specified in the publication, at 37C
+122	GDDDDK-4-nitroanilide	125407	YMOYLEFVESXCGX-HVTWWXFQSA-N	22	8.0	X	mutant enzyme Y174R, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22C
+133	thiobenzyl benzyloxy-carbonyl-L-lysinate	3876	FQYOJXDBPPWSJR-SFHVURJKSA-N	37	8.4		pH 8.4, 37C
+133	thiobenzyl benzyloxy-carbonyl-L-lysinate	3876	FQYOJXDBPPWSJR-SFHVURJKSA-N	25	8.4		pH 8.4, 25C
+135	GDDDDK-4-nitroanilide	125407	YMOYLEFVESXCGX-HVTWWXFQSA-N	22	8.0		wild type enzyme, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22C
+148	GDDDDK-4-nitroanilide	125407	YMOYLEFVESXCGX-HVTWWXFQSA-N	22	8.0	X	mutant enzyme R96Q, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22C
+319	Z-Lys-SBzl	2115	FIWAQJRIROPAEC-IBGZPJMESA-N	22	8.0	X	mutant enzyme Y174R, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22C
+336	Z-Lys-SBzl	2115	FIWAQJRIROPAEC-IBGZPJMESA-N	22	8.0		wild type enzyme, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22C
+354	Z-Lys-SBzl	2115	FIWAQJRIROPAEC-IBGZPJMESA-N	22	8.0	X	mutant enzyme R96Q, in 100 mM Tris, 0.02 mM CaCl2, 0.01% (v/v) Triton X-100, 10% (v/v) DMSO, pH 8.0, at 22C

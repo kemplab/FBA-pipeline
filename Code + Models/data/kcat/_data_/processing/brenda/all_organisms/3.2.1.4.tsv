@@ -1,0 +1,61 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+127.5	Laminarin	384	QRQPYXNDWFIBPU-SFTAMDAYSA-N	37	7.0		pH 7.0, 37C
+897	cellotriose	430	FYGDTMLNYKFZSV-CSHPIKHBSA-N	37	7.0		pH 7.0, 37C
+159	Cellotetraose	486	LUEWUZLMQUOBSB-HGDSAIHNSA-N	37	7.0		pH 7.0, 37C
+42.3	Cellopentaose	618	FTNIPWXXIGNQQF-FFFJRYSISA-N	37	7.0		pH 7.0, 37C
+0.003	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50	5.5	X	pH 5.5, 50C, mutant enzyme I162A
+0.006	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50	5.5	X	pH 5.5, 50C, mutant enzyme H155A
+0.01	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50	5	X	pH 5-6, 50C, mutant enzyme E201Q; pH 5-6, 50C, mutant enzyme H297N; pH 5-6, 50C, mutant enzyme Y299F
+0.036	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50	5.5	X	pH 5.5, 50C, mutant enzyme E163A
+0.037	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50	5.5	X	pH 5.5, 50C, mutant enzyme P164A
+0.083	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50	5.5	X	pH 5.5, 50C, mutant enzyme R156A
+0.092	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50	5.5	X	pH 5.5, 50C, mutant enzyme G158A
+0.11	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50	5	X	pH 5-6, 50C, mutant enzyme D385N
+0.115	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50	5.5	X	pH 5.5, 50C, mutant enzyme I157A
+0.129	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50	5.5	X	pH 5.5, 50C, mutant enzyme T160A
+0.144	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50	5.5	X	pH 5.5, 50C, mutant enzyme C159A
+0.157	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50	5.5		pH 5.5, 50C, wild-type enzyme
+0.167	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50	5.5	X	pH 5.5, 50C, mutant enzyme H161A
+0.24	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50		X	50C, mutant enzyme C106A/C159A
+0.41	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50			50C, wild-type enzyme
+0.41	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50	5		pH 5-6, 50C, wild-type enzyme
+0.43	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50		X	50C, mutant enzyme C372A/C412A
+0.47	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50		X	50C, mutant enzyme C106A/C159A/C372A/C412A
+0.75	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50	5	X	pH 5-6, 50C, mutant enzyme lacking 5 residues at the C-terminus
+0.78	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50	5	X	pH 5-6, 50C, mutant enzyme DELTAQ1-G5
+0.91	p-nitrophenyl cellobiose	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	50	5	X	pH 5-6, 50C, mutant enzyme lacking 5 residues at the C-terminus and 5 residies at the N-terminus
+41.7	cellohexaose	1209	OCIBBXPLUVYKCH-FYTDUCIRSA-N	37	7.0		pH 7.0, 37C
+3.8	beta-Glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N	50	5.5		50C, pH 5.5, endoglucanase EG25
+16	beta-Glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N	50	5.5		50C, pH 5.5, endoglucanase EG47
+18	beta-Glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N	50	5.5		50C, pH 5.5, endoglucanase EG60
+64	beta-Glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N	50	5.5		50C, pH 5.5, endoglucanase EG28
+76	beta-Glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N	50	5.5		50C, pH 5.5, endoglucanase EG44
+84	beta-Glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N	50	5.5		50C, pH 5.5, endoglucanase EG51
+791	beta-Glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N	85	5.0		wild-type, pH 5.0, 85C
+1155	beta-Glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N	85	5.0	X	mutant Y61G, pH 5.0, 85C
+0.01	p-nitrophenyl-beta-D-cellobioside	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N				
+0.18	p-nitrophenyl-beta-D-cellobioside	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N				
+0.79	4-nitrophenyl cellobioside	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	95	6.0		pH 6.0, 95C
+9.55	4-nitrophenyl cellobioside	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	70	6.0		pH 6.0, 70C
+311	Barley beta-glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N	90	4.5		pH 4.5, 90C
+3276	Barley beta-glucan	2116	IUTQVEQWXPBAEL-UHFFFAOYSA-N	37	7.0		pH 7.0, 37C
+0.39	N-[2-N-[(S-(4-deoxy-4-dimethylamino-phenylazophenylthioureido-beta-D-glucopyranosyl)-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl)-2-thioacetyl]aminoethyl]-1-naphthylamine-5-sulfonate	109236	VBGLRTWHJFNZDK-UTJLTKOBSA-N	80	3		pH 3, 80C, chimeric fusion protein CelA-SSO1949-CelA, that consists of 70 amino acids CelA followed by 163 amino acids SSO1949 and 29 amino acids CelA; pH and temperature not specified in the publication, hybrid protein (CelA-SSO1949-CelA, consisting of 262 amino acids) based on beta-endoglucanase from Sulfolobus solfataricus P2 and beta-endoglucanase from Thermotoga maritima
+0.39	N-[2-N-[(S-(4-deoxy-4-dimethylamino-phenylazophenylthioureido-beta-D-glucopyranosyl)-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl)-2-thioacetyl]aminoethyl]-1-naphthylamine-5-sulfonate	109236	VBGLRTWHJFNZDK-UTJLTKOBSA-N	80	3		pH 3, 80C, chimeric fusion protein CelA-SSO1949-CelA, that consists of 70 amino acids CelA followed by 163 amino acids SSO1949 and 29 amino acids CelA
+19	N-[2-N-[(S-(4-deoxy-4-dimethylamino-phenylazophenylthioureido-beta-D-glucopyranosyl)-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl-(1-&gt;4)-beta-D-glucopyranosyl)-2-thioacetyl]aminoethyl]-1-naphthylamine-5-sulfonate	109236	VBGLRTWHJFNZDK-UTJLTKOBSA-N	80	3		pH 3, 80C, native enzyme
+0.02	2,4-dinitrophenyl beta-D-cellobioside	4002	AQJZDRFAWVURAR-KFRZSCGFSA-N	50			50C, wild-type enzyme Cel9A-68
+0.07	2,4-dinitrophenyl beta-D-cellobioside	4002	AQJZDRFAWVURAR-KFRZSCGFSA-N	50		X	50C, mutant enzyme E424A
+0.7	2,4-dinitrophenyl beta-D-cellobioside	4002	AQJZDRFAWVURAR-KFRZSCGFSA-N	50		X	50C, mutant enzyme E424G
+0.358	2',4'-dinitrophenyl-beta-D-cellobiose	10917	JGROYJNEYHKZDN-PQVFFWCBSA-N				chimeric xylanase/endoglucanase
+0.397	2',4'-dinitrophenyl-beta-D-cellobiose	10917	JGROYJNEYHKZDN-PQVFFWCBSA-N				endoglucanase A
+8.3	4-nitrophenyl cellotrioside	13012	BETIRLUWOMCBBJ-SDENICCPSA-N	95	6.0		pH 6.0, 95C
+3.6	4-nitrophenyl cellotetraoside	13076	NPSLEEASXYBLOE-RDSAEYMZSA-N	95	6.0		pH 6.0, 95C
+1.4	4-nitrophenyl cellopentaoside	13077	YXGBAQKCCMQLGH-VPCCCURHSA-N	95	6.0		pH 6.0, 95C
+185.6	hydroxyethylcellulose	15605	WNIFRLAEVMDZCT-GCDIXUMDSA-N	37	7.0		pH 7.0, 37C
+0.001	4-methylumbelliferyl cellobioside	5597	PRTGXBPFDYMIJH-MKQZUAMYSA-N	45	5.0	X	mutant K272F, pH 5.0, 45C; mutant Q274V, pH 5.0, 45C
+0.003	4-methylumbelliferyl cellobioside	5597	PRTGXBPFDYMIJH-MKQZUAMYSA-N	45	5.0	X	mutant Q126F, pH 5.0, 45C
+0.01	4-methylumbelliferyl cellobioside	5597	PRTGXBPFDYMIJH-MKQZUAMYSA-N	45	5.0		wild-type, pH 5.0, 45C
+0.0178	4-nitrophenyl D-cellobioside	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	45	4.8	X	N-glycosylation mutant residue D45, pH 4.8, 45C
+0.018	4-nitrophenyl D-cellobioside	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	45	4.8	X	N-glycosylation mutant residue D270, pH 4.8, 45C
+0.019	4-nitrophenyl D-cellobioside	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	45	4.8		wild-type, pH 4.8, 45C
+0.02	4-nitrophenyl D-cellobioside	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	45	4.8	X	N-glycosylation mutant residue 384, pH 4.8, 45C
+466	4-nitrophenyl D-cellobioside	1188	IAYJZWFYUSNIPN-KFRZSCGFSA-N	37	7.0		pH 7.0, 37C

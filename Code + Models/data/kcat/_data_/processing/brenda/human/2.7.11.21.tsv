@@ -1,0 +1,5 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.0019	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant T210V; T210V mutant, varied substrate Cdc25c, constant substrate ATP
+0.0041	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				wild-type; wild-type enzyme, varied substrate ATP, constant substrate Cdc25c
+0.01386	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N				hPlk1 1-346 T210D
+0.019	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N			X	mutant T210D; T210D mutant, varied substrate ATP, constant substrate Cdc25c

@@ -1,0 +1,27 @@
+VALUE	SUBSTRATE	BRENDA	INCHI	TEMP	PH	MUTATION	NOTES
+0.06	L-valyl-tRNAVal	5547	JXJSKJQVYFHSAD-NIXGFCADSA-N			X	DELTA32-71 mutant
+0.064	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	25	7.5	X	aminoacylation reaction, His-tagged K277A mutant enzyme, pH 7.5, 25C
+0.074	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N				at pH and C
+0.2	L-valyl-tRNAVal	5547	JXJSKJQVYFHSAD-NIXGFCADSA-N				
+0.28	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	pH 7.5, 37C, mutant D286A, in presence of tRNA
+0.34	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	pH 7.5, 37C, mutant K277P, in presence of tRNA
+0.36	tRNAVal	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	65	7.7	X	C-terminally truncated mutant enzyme, pH 7.7, 65C
+0.48	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5	X	pH 7.5, 37C, mutant K277P/D286A, in presence of tRNA
+0.68	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.5	X	with mutant tRNAVal with 3'-terminal 2-aminopurine base analogue, pH 7.5, 37C
+0.99	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.5	X	with mutant tRNAVal with 3'-terminal isoguanosine base analogue, pH 7.5, 37C
+1.06	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.5	X	with mutant tRNAVal with 3'-terminal inosine base analogue, pH 7.5, 37C
+1.5	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	25	7.5		aminoacylation reaction, His-tagged wild-type enzyme, pH 7.5, 25C
+1.5	tRNAVal	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5	X	aminoacylation reaction with L-valine, K277A mutant enzyme, pH 7.5, 25C
+1.7	tRNAVal	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5		aminoacylation reaction with L-valine, wild-type enzyme, pH 7.5, 25C
+2.9	valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N				
+4.3	tRNAVal	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	65	7.7	X	R818A/R843A mutant enzyme, pH 7.7, 65C
+5.65	valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N				enzyme expressed in E. coli
+6.08	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.5	X	with mutant tRNAVal with 3'-terminal 2-aminopurine base analogue, pH 7.5, 37C; with mutant tRNAVal with 3'-terminal inosine base analogue, pH 7.5, 37C; with mutant tRNAVal with 3'-terminal isoguanosine base analogue, pH 7.5, 37C
+6.7	tRNAVal	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	65	7.7		wild-type enzyme, pH 7.7, 65C
+12.9	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	37	7.5		pH 7.5, 37C, wild-type ValRS, in presence of tRNA
+13.9	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.5		with wild-type tRNAVal, pH 7.5, 37C
+14.4	L-valine	217	KZSNJWFQEVHDMF-BYPYZUCNSA-N	37	7.5	X	with mutant tRNAVal with 3'-terminal purine riboside base analogue, pH 7.5, 37C
+50	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.5		ATP-diphosphate exchange reaction, His-tagged wild-type enzyme, pH 7.5, 25C
+50	tRNAVal	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5	X	ATP-diphosphate exchange reaction, K277A mutant enzyme, pH 7.5, 25C
+51	tRNAVal	115541	RZYDVXFSYYZQDD-FIVCZYLNSA-N	25	7.5		ATP-diphosphate exchange reaction, wild-type enzyme, pH 7.5, 25C
+57	ATP	7	ZKHQWZAMYRWXGA-KQYNXXCUSA-N	25	7.5	X	ATP-diphosphate exchange reaction, His-tagged K277A mutant enzyme, pH 7.5, 25C
