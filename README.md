@@ -2,7 +2,7 @@
 Please refer to the files in the "Instructions" folder
 
 **Contact:**
-Contact Josh Lewis (joshlewis@gatech.edu) with questions or feedback
+Contact Josh Lewis (j.e.lewis@emory.edu) with questions or feedback
 
 **Citation:**
 If you use data, models, or code from this repository in a scientific publication, we would appreciate citation of the following paper:
